@@ -1,413 +1,125 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Codex Pharmakon Universalis</title>
-  <script src="https://cdn.jsdelivr.net/npm/marked@9/marked.min.js"></script>
-  <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-
-    body {
-      font-family: 'Georgia', serif;
-      background: #faf8f5;
-      color: #2c2c2c;
-      display: flex;
-      height: 100vh;
-      overflow: hidden;
-    }
-
-    /* ── Sidebar ── */
-    #sidebar {
-      width: 280px;
-      min-width: 280px;
-      background: #12122a;
-      color: #e8e4d9;
-      display: flex;
-      flex-direction: column;
-      border-right: 1px solid #2a2a4a;
-    }
-
-    #sidebar-header {
-      padding: 18px 16px 14px;
-      background: #0d0d22;
-      border-bottom: 1px solid #2a2a4a;
-    }
-    #sidebar-header h1 {
-      font-size: 12px;
-      color: #c8a96e;
-      letter-spacing: 2px;
-      text-transform: uppercase;
-      font-weight: normal;
-    }
-    #sidebar-header .sub {
-      font-size: 10px;
-      color: #6a6a8a;
-      margin-top: 3px;
-      font-style: italic;
-    }
-
-    #search-box {
-      padding: 10px 12px;
-      background: #0d0d22;
-      border-bottom: 1px solid #2a2a4a;
-    }
-    #search-box input {
-      width: 100%;
-      padding: 6px 10px;
-      background: #1e1e3e;
-      border: 1px solid #3a3a6a;
-      border-radius: 4px;
-      color: #e8e4d9;
-      font-size: 12px;
-      outline: none;
-    }
-    #search-box input:focus { border-color: #c8a96e; }
-    #search-box input::placeholder { color: #5a5a7a; }
-
-    #entry-count-bar {
-      padding: 6px 14px;
-      font-size: 10px;
-      color: #5a5a7a;
-      background: #0d0d22;
-      border-bottom: 1px solid #2a2a4a;
-      letter-spacing: 1px;
-    }
-
-    #entry-list {
-      flex: 1;
-      overflow-y: auto;
-    }
-    #entry-list::-webkit-scrollbar { width: 4px; }
-    #entry-list::-webkit-scrollbar-track { background: #12122a; }
-    #entry-list::-webkit-scrollbar-thumb { background: #3a3a6a; border-radius: 2px; }
-
-    .entry-item {
-      padding: 8px 14px;
-      cursor: pointer;
-      border-bottom: 1px solid #1e1e3a;
-      transition: background 0.1s;
-    }
-    .entry-item:hover { background: #1e1e42; }
-    .entry-item.active { background: #1e1e42; border-left: 2px solid #c8a96e; padding-left: 12px; }
-    .entry-id {
-      color: #c8a96e;
-      font-size: 10px;
-      font-family: 'Courier New', monospace;
-      letter-spacing: 1px;
-    }
-    .entry-name {
-      color: #d8d4c9;
-      font-size: 12px;
-      margin-top: 2px;
-      font-style: italic;
-    }
-
-    .list-loading, .list-error {
-      padding: 20px 14px;
-      font-size: 12px;
-      color: #5a5a7a;
-      text-align: center;
-    }
-    .list-error { color: #8a4a4a; }
-
-    /* ── Main content ── */
-    #main {
-      flex: 1;
-      overflow-y: auto;
-      display: flex;
-      flex-direction: column;
-    }
-    #main::-webkit-scrollbar { width: 6px; }
-    #main::-webkit-scrollbar-track { background: #faf8f5; }
-    #main::-webkit-scrollbar-thumb { background: #c8a96e; border-radius: 3px; }
-
-    #content-area {
-      max-width: 860px;
-      width: 100%;
-      margin: 0 auto;
-      padding: 40px 50px 60px;
-    }
-
-    /* Welcome screen */
-    #welcome h1 {
-      font-size: 26px;
-      color: #12122a;
-      margin-bottom: 6px;
-      font-weight: normal;
-    }
-    #welcome .latin {
-      font-style: italic;
-      color: #8a7a5a;
-      font-size: 14px;
-      margin-bottom: 20px;
-    }
-    #welcome p {
-      color: #5a5a6a;
-      line-height: 1.7;
-      font-size: 14px;
-      margin-bottom: 10px;
-    }
-    #welcome .stats {
-      display: flex;
-      gap: 1px;
-      margin-top: 28px;
-      background: #ddd8cc;
-      border-radius: 8px;
-      overflow: hidden;
-    }
-    #welcome .stat {
-      flex: 1;
-      background: #f0ece4;
-      padding: 18px 12px;
-      text-align: center;
-    }
-    #welcome .stat .number { font-size: 22px; color: #c8a96e; font-weight: normal; }
-    #welcome .stat .label { font-size: 9px; color: #8a8a7a; text-transform: uppercase; letter-spacing: 1px; margin-top: 4px; }
-    #welcome .nine-sources {
-      margin-top: 28px;
-      background: #f0ece4;
-      border-radius: 8px;
-      padding: 20px 24px;
-      border-left: 3px solid #c8a96e;
-    }
-    #welcome .nine-sources h3 { font-size: 12px; color: #8a7a5a; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px; font-weight: normal; }
-    #welcome .nine-sources table { width: 100%; font-size: 12px; }
-    #welcome .nine-sources td { padding: 3px 8px; color: #5a5a6a; }
-    #welcome .nine-sources td:first-child { color: #c8a96e; font-family: monospace; width: 50px; }
-    #welcome .hint {
-      margin-top: 24px;
-      font-size: 12px;
-      color: #8a8a9a;
-      font-style: italic;
-      text-align: center;
-    }
-
-    /* Entry rendering */
-    #entry-content h1 {
-      font-size: 22px;
-      color: #12122a;
-      margin-bottom: 4px;
-      font-weight: normal;
-      padding-bottom: 12px;
-      border-bottom: 2px solid #c8a96e;
-    }
-    #entry-content h2 {
-      font-size: 14px;
-      color: #12122a;
-      margin: 28px 0 10px;
-      padding: 8px 12px;
-      background: #f0ece4;
-      border-left: 3px solid #c8a96e;
-      font-weight: normal;
-      letter-spacing: 0.5px;
-      text-transform: uppercase;
-    }
-    #entry-content h3 {
-      font-size: 13px;
-      color: #3a3a5a;
-      margin: 18px 0 8px;
-      font-weight: bold;
-    }
-    #entry-content h4 { font-size: 12px; color: #5a5a7a; margin: 12px 0 6px; text-transform: uppercase; letter-spacing: 1px; }
-    #entry-content p { line-height: 1.75; margin-bottom: 12px; font-size: 14px; }
-    #entry-content ul, #entry-content ol { margin: 6px 0 12px 22px; font-size: 14px; }
-    #entry-content li { margin-bottom: 5px; line-height: 1.6; }
-    #entry-content table { width: 100%; border-collapse: collapse; margin: 14px 0; font-size: 12px; }
-    #entry-content thead th { background: #12122a; color: #c8a96e; padding: 8px 12px; text-align: left; font-weight: normal; letter-spacing: 0.5px; }
-    #entry-content td { padding: 6px 12px; border-bottom: 1px solid #e8e4d9; vertical-align: top; line-height: 1.5; }
-    #entry-content tr:nth-child(even) td { background: #f5f2ec; }
-    #entry-content strong { color: #12122a; }
-    #entry-content em { color: #6a5a3a; }
-    #entry-content code { background: #f0ece4; padding: 1px 5px; border-radius: 3px; font-size: 12px; font-family: 'Courier New', monospace; color: #5a3a1a; }
-    #entry-content blockquote { border-left: 3px solid #c8a96e; padding: 8px 16px; color: #5a5a7a; margin: 14px 0; background: #f5f2ec; font-style: italic; }
-    #entry-content hr { border: none; border-top: 1px solid #e0d8c8; margin: 24px 0; }
-    #entry-content a { color: #8a6a2a; }
-
-    .entry-loading {
-      padding: 40px;
-      color: #8a8a9a;
-      text-align: center;
-      font-style: italic;
-    }
-    .entry-error { padding: 20px; color: #8a4a4a; }
-  </style>
-</head>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Codex Pharmakon Universalis</title>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<style>
+:root{--bg:#0b0a08;--panel:#13110d;--line:rgba(200,169,110,.18);--gold:#c8a96e;--gold2:#e3c68f;--tx:#e8e3d8;--dim:#8f897b}
+*{box-sizing:border-box;margin:0}html,body{height:100%}
+body{background:var(--bg);color:var(--tx);font:15px/1.6 Georgia,'Times New Roman',serif;display:flex;flex-direction:column}
+header{padding:14px 22px;border-bottom:1px solid var(--line);display:flex;align-items:baseline;gap:18px;flex-wrap:wrap;background:linear-gradient(180deg,#13110d,transparent)}
+header h1{font-size:1.25rem;letter-spacing:.12em;color:var(--gold2);font-weight:normal}
+header .sub{color:var(--dim);font-size:.78rem;letter-spacing:.04em}
+header .stats{margin-left:auto;display:flex;gap:18px;font-size:.72rem;color:var(--dim);letter-spacing:.08em;text-transform:uppercase}
+header .stats b{color:var(--gold);font-size:1rem;display:block;font-weight:normal}
+.wrap{flex:1;display:flex;min-height:0}
+aside{width:340px;border-right:1px solid var(--line);display:flex;flex-direction:column;background:var(--panel)}
+.controls{padding:12px;border-bottom:1px solid var(--line)}
+#q{width:100%;padding:9px 12px;background:#0b0a08;border:1px solid var(--line);border-radius:8px;color:var(--tx);font-family:inherit;font-size:.9rem}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin-top:9px}
+.chip{font:600 .68rem sans-serif;letter-spacing:.06em;text-transform:uppercase;padding:4px 9px;border-radius:20px;border:1px solid var(--line);color:var(--dim);cursor:pointer;background:none}
+.chip.on{background:var(--gold);color:#0b0a08;border-color:var(--gold)}
+#list{overflow:auto;flex:1}
+.row{padding:9px 14px;border-bottom:1px solid rgba(255,255,255,.04);cursor:pointer;display:flex;align-items:center;gap:9px}
+.row:hover{background:#171510}.row.sel{background:#1c1912;border-left:2px solid var(--gold)}
+.dot{width:8px;height:8px;border-radius:50%;flex:0 0 8px}
+.row .nm{flex:1;font-size:.92rem}.row .meta{font:600 .62rem sans-serif;color:var(--dim);letter-spacing:.05em}
+.row .src{color:var(--gold);opacity:.7}
+main{flex:1;overflow:auto;padding:34px 44px;max-width:900px}
+.welcome{color:var(--dim)}.welcome h2{color:var(--gold2);font-weight:normal;letter-spacing:.08em;margin-bottom:10px}
+#detail h1{font-size:1.7rem;color:var(--gold2);font-weight:normal;letter-spacing:.02em}
+#detail .bot{font-style:italic;color:var(--dim);margin:2px 0 14px}
+.badges{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
+.badge{font:600 .66rem sans-serif;letter-spacing:.06em;text-transform:uppercase;padding:4px 10px;border-radius:6px;border:1px solid var(--line);color:var(--gold)}
+.badge.warn{color:#e0a857;border-color:#e0a85740}
+.attest{margin:14px 0;padding:12px 16px;background:var(--panel);border:1px solid var(--line);border-radius:10px}
+.attest .lbl{font:600 .68rem sans-serif;letter-spacing:.1em;text-transform:uppercase;color:var(--dim);margin-bottom:8px}
+.trad{display:inline-block;font-size:.8rem;color:var(--gold);border:1px solid var(--line);border-radius:20px;padding:3px 11px;margin:3px 4px 0 0}
+.note{margin-top:18px;padding:12px 16px;border-left:2px solid var(--gold);background:#13110d;color:var(--dim);font-size:.9rem}
+.draftbanner{margin:16px 0;padding:8px 14px;background:#1a160d;border:1px solid #e0a85730;border-radius:8px;color:#e0a857;font-size:.82rem}
+.entrybody{margin-top:8px;line-height:1.7}.entrybody h1,.entrybody h2,.entrybody h3{color:var(--gold2);font-weight:normal;margin:18px 0 6px}
+.entrybody hr{border:none;border-top:1px solid var(--line);margin:16px 0}.entrybody strong{color:var(--gold2)}
+.entrybody em{color:var(--dim)}.entrybody table{border-collapse:collapse;margin:10px 0}.entrybody td,.entrybody th{border:1px solid var(--line);padding:5px 9px;font-size:.85rem}
+@media(max-width:760px){aside{width:100%;position:absolute;inset:0;z-index:5}aside.hide{display:none}main{padding:24px}}
+</style></head>
 <body>
-
-<div id="sidebar">
-  <div id="sidebar-header">
-    <h1>Codex Pharmakon</h1>
-    <div class="sub">Universalis · Volume I · Plant-Based</div>
+<header>
+  <h1>CODEX PHARMAKON UNIVERSALIS</h1>
+  <span class="sub">The materia medica of nine traditions</span>
+  <div class="stats">
+    <div><b id="s-count">—</b>substances</div>
+    <div><b>9</b>traditions</div>
+    <div><b id="s-conv">—</b>convergent</div>
   </div>
-  <div id="search-box">
-    <input type="text" id="search-input" placeholder="Search entries..." autocomplete="off">
-  </div>
-  <div id="entry-count-bar">Loading…</div>
-  <div id="entry-list">
-    <div class="list-loading">Fetching entry list…</div>
-  </div>
-</div>
-
-<div id="main">
-  <div id="content-area">
-    <div id="welcome">
-      <h1>Codex Pharmakon Universalis</h1>
-      <div class="latin">Codex Pharmacologicus Universalis</div>
-      <p>A comprehensive pharmacological synthesis of the world's medicinal substances, integrating nine source traditions from the Ebers Papyrus (ca. 1550 BCE) to contemporary Level A clinical evidence. Each entry is a full 8-section synthesis: nomenclature, cross-traditional presence, convergence analysis, phytochemical composition, mechanisms of action, clinical evidence, phenomenological record, and practical application.</p>
-      <p>Select any entry from the sidebar. Use the search box to filter by name or number.</p>
-
-      <div class="stats">
-        <div class="stat">
-          <div class="number" id="stat-entries">—</div>
-          <div class="label">Entries (Vol. I)</div>
-        </div>
-        <div class="stat">
-          <div class="number">9</div>
-          <div class="label">Source Traditions</div>
-        </div>
-        <div class="stat">
-          <div class="number">8</div>
-          <div class="label">Sections per Entry</div>
-        </div>
-        <div class="stat">
-          <div class="number">~5,500</div>
-          <div class="label">Full Codex (est.)</div>
-        </div>
+</header>
+<div class="wrap">
+  <aside id="aside">
+    <div class="controls">
+      <input id="q" placeholder="Search substance or botanical name…">
+      <div class="chips" id="classChips">
+        <button class="chip on" data-c="all">All</button>
+        <button class="chip" data-c="plant">Plant</button>
+        <button class="chip" data-c="mineral">Mineral</button>
+        <button class="chip" data-c="animal">Animal</button>
       </div>
-
-      <div class="nine-sources">
-        <h3>Nine Source Traditions Scored per Entry</h3>
-        <table>
-          <tr><td>DMM</td><td>Dioscorides · <em>De Materia Medica</em> (ca. 65 CE)</td></tr>
-          <tr><td>CM</td><td>Ibn Sīnā · <em>Al-Qanun fi al-Tibb</em> (1025 CE)</td></tr>
-          <tr><td>SBJ</td><td>Shennong Bencao Jing (ca. 200 CE)</td></tr>
-          <tr><td>SS</td><td>Sushruta Samhita (ca. 600 BCE, compiled ca. 1000 CE)</td></tr>
-          <tr><td>FMT</td><td>Four Medical Tantras · rGyud-bzhi (12th century)</td></tr>
-          <tr><td>EP</td><td>Ebers Papyrus (ca. 1550 BCE)</td></tr>
-          <tr><td>AT</td><td>Assyrian Tablets · Nineveh (7th century BCE)</td></tr>
-          <tr><td>BM</td><td>Badianus Manuscript (1552 CE)</td></tr>
-          <tr><td>SA</td><td>South American Indigenous traditions</td></tr>
-        </table>
-      </div>
-
-      <div class="hint">← Select an entry from the sidebar to begin reading</div>
     </div>
-
-    <div id="entry-content" style="display:none"></div>
-  </div>
+    <div id="list"></div>
+  </aside>
+  <main>
+    <div id="detail"><div class="welcome">
+      <h2>A browsable, sourced encyclopedia</h2>
+      <p>Every entry is one verified substance, deduplicated across nine historical medical traditions — from the Ebers Papyrus (ca. 1550 BCE) to the Northwest Amazon. Select a substance, or search above.</p>
+      <p style="margin-top:14px">Coloured dots mark class: <span style="color:#7bbf6a">plant</span> · <span style="color:#c8a96e">mineral</span> · <span style="color:#cf7d57">animal</span>. The gold number beside each is how many traditions attest it.</p>
+    </div></div>
+  </main>
 </div>
-
 <script>
-  const REPO   = 'smith912000/codex-pharmakon';
-  const BRANCH = 'main';
-  const ENTRIES_PREFIX = 'entries/';
-  const RAW_BASE = `https://raw.githubusercontent.com/${REPO}/${BRANCH}/${ENTRIES_PREFIX}`;
+const RAW='https://raw.githubusercontent.com/smith912000/codex-pharmakon/main/';
+const CLR={plant:'#7bbf6a',mineral:'#c8a96e',animal:'#cf7d57'};
+let DATA=[], filt='all', q='';
+const listEl=document.getElementById('list'), detEl=document.getElementById('detail');
 
-  let allEntries = [];
-  let currentFilename = null;
-
-  function parseFilename(filename) {
-    // e.g. "I_01_Astragalus" or "I_621_Lavender" or "I_25_He_Shou_Wu"
-    const parts = filename.split('_');
-    const id    = parseInt(parts[1], 10);
-    const name  = parts.slice(2).join(' ');
-    return { id, name, filename };
+fetch('codex_index.json').then(r=>r.json()).then(d=>{
+  DATA=d.substances.sort((a,b)=>a.name.localeCompare(b.name));
+  document.getElementById('s-count').textContent=d.count;
+  document.getElementById('s-conv').textContent=DATA.filter(s=>s.sources.length>1).length;
+  render();
+  if(location.hash) show(location.hash.slice(1));
+});
+function render(){
+  const items=DATA.filter(s=>(filt==='all'||s.class===filt)&&
+    (!q||(s.name+' '+s.botanical).toLowerCase().includes(q)));
+  listEl.innerHTML=items.map(s=>`<div class="row" data-id="${s.id}">
+    <span class="dot" style="background:${CLR[s.class]||'#888'}"></span>
+    <span class="nm">${s.name}</span>
+    <span class="meta">${s.entry?'◆ ':''}<span class="src">${s.sources.length}</span></span></div>`).join('')
+    || '<div style="padding:18px;color:var(--dim)">No matches.</div>';
+  listEl.querySelectorAll('.row').forEach(r=>r.onclick=()=>show(r.dataset.id));
+}
+function show(id){
+  const s=DATA.find(x=>x.id===id); if(!s)return;
+  location.hash=id;
+  listEl.querySelectorAll('.row').forEach(r=>r.classList.toggle('sel',r.dataset.id===id));
+  const vol={I:'Volume I · Plant',II:'Volume II · Animal',III:'Volume III · Mineral',IV:'Volume IV · Combination'}[s.volume]||s.volume;
+  let h=`<h1>${s.name}</h1><div class="bot">${s.botanical||''}</div>
+    <div class="badges"><span class="badge">${s.class}</span><span class="badge">${vol}</span>
+    ${s.uncertain?'<span class="badge warn">identity contested</span>':''}</div>
+    <div class="attest"><div class="lbl">Attested in ${s.sources.length} tradition${s.sources.length>1?'s':''}</div>
+    ${s.sources.map(t=>`<span class="trad">${t}</span>`).join('')}</div>`;
+  if(s.entry){
+    h+=`<div class="draftbanner">⚠ Draft synthesis — generated, pending scholarly audit. Treat as provisional.</div><div class="entrybody" id="eb">Loading…</div>`;
+    detEl.innerHTML=h;
+    fetch(RAW+s.entry).then(r=>r.ok?r.text():Promise.reject()).then(md=>{
+      document.getElementById('eb').innerHTML=marked.parse(md);
+    }).catch(()=>{document.getElementById('eb').innerHTML='<span style="color:var(--dim)">Draft entry could not be loaded.</span>';});
+  }else{
+    h+=`<div class="note">Full ten-section synthesis forthcoming — nomenclature, cross-traditional presence, convergence, phytochemistry, mechanisms, clinical evidence, phenomenology, application, the spiritual layer, and the functional–anatomical correlate.</div>`;
+    detEl.innerHTML=h;
   }
-
-  async function loadEntries() {
-    try {
-      const url = `https://api.github.com/repos/${REPO}/git/trees/${encodeURIComponent(BRANCH)}?recursive=1`;
-      const resp = await fetch(url);
-      if (!resp.ok) throw new Error(`GitHub API returned ${resp.status}`);
-      const data = await resp.json();
-
-      allEntries = data.tree
-        .filter(f => f.type === 'blob' &&
-                     f.path.startsWith(ENTRIES_PREFIX) &&
-                     f.path.endsWith('.md'))
-        .map(f => parseFilename(f.path.slice(ENTRIES_PREFIX.length).replace('.md', '')))
-        .filter(e => !isNaN(e.id))
-        .sort((a, b) => a.id - b.id);
-
-      document.getElementById('stat-entries').textContent = allEntries.length;
-      document.getElementById('entry-count-bar').textContent =
-        `${allEntries.length} ENTRIES  ·  I-001 — I-${allEntries[allEntries.length-1]?.id}`;
-
-      renderList(allEntries);
-
-      // Deep link via hash
-      const hash = window.location.hash.slice(1);
-      if (hash) {
-        const target = allEntries.find(e => e.filename === hash);
-        if (target) loadEntry(target);
-      }
-    } catch (err) {
-      document.getElementById('entry-list').innerHTML =
-        `<div class="list-error">Could not load entries.<br><small>${err.message}</small></div>`;
-      document.getElementById('entry-count-bar').textContent = 'Error loading';
-    }
-  }
-
-  function renderList(entries) {
-    const list = document.getElementById('entry-list');
-    if (!entries.length) {
-      list.innerHTML = '<div class="list-loading">No entries match.</div>';
-      return;
-    }
-    list.innerHTML = entries.map(e => `
-      <div class="entry-item${e.filename === currentFilename ? ' active' : ''}"
-           id="item-${e.filename}"
-           onclick="loadEntryByFilename('${e.filename}')">
-        <div class="entry-id">I-${String(e.id).padStart(3, '0')}</div>
-        <div class="entry-name">${e.name}</div>
-      </div>`).join('');
-  }
-
-  document.getElementById('search-input').addEventListener('input', function() {
-    const q = this.value.trim().toLowerCase();
-    if (!q) { renderList(allEntries); return; }
-    renderList(allEntries.filter(e =>
-      e.name.toLowerCase().includes(q) ||
-      String(e.id).includes(q)
-    ));
-  });
-
-  function loadEntryByFilename(filename) {
-    const entry = allEntries.find(e => e.filename === filename);
-    if (entry) loadEntry(entry);
-  }
-
-  async function loadEntry(entry) {
-    currentFilename = entry.filename;
-    history.replaceState(null, '', '#' + entry.filename);
-
-    // Update sidebar active state
-    document.querySelectorAll('.entry-item').forEach(el => el.classList.remove('active'));
-    const item = document.getElementById('item-' + entry.filename);
-    if (item) {
-      item.classList.add('active');
-      item.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
-    }
-
-    // Switch to entry view
-    document.getElementById('welcome').style.display = 'none';
-    const content = document.getElementById('entry-content');
-    content.style.display = 'block';
-    content.innerHTML = '<div class="entry-loading">Loading entry…</div>';
-    document.getElementById('main').scrollTo({ top: 0, behavior: 'smooth' });
-
-    try {
-      const resp = await fetch(`${RAW_BASE}${entry.filename}.md`);
-      if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-      const md = await resp.text();
-      content.innerHTML = marked.parse(md);
-    } catch (err) {
-      content.innerHTML = `<div class="entry-error">Could not load entry.<br><small>${err.message}</small></div>`;
-    }
-  }
-
-  loadEntries();
-</script>
-</body>
-</html>
+  if(window.innerWidth<=760)document.getElementById('aside').classList.add('hide');
+}
+document.getElementById('q').oninput=e=>{q=e.target.value.toLowerCase().trim();render();};
+document.querySelectorAll('#classChips .chip').forEach(c=>c.onclick=()=>{
+  filt=c.dataset.c;document.querySelectorAll('#classChips .chip').forEach(x=>x.classList.toggle('on',x===c));render();});
+window.addEventListener('hashchange',()=>{if(location.hash)show(location.hash.slice(1));});
+</script></body></html>
