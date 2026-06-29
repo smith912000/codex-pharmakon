@@ -1,0 +1,126 @@
+# Grape / Vine — عنب (ʿInab) / Ἄμπελος (Ampelos) / द्राक्षा (Drākṣā) / 葡萄 (Pútao)
+## *Vitis vinifera L. — Common Grape Vine; Cultivated Grape*
+**Tradition Tags:** EP · AT · DMM · CM · SS · SBJ
+**Energetic Classification (TCM):** ◉ Qi · ◈ Jing
+**Training Phase:** `[BUILD]` `[RESET]` `[CYCLE-OFF]`
+
+---
+
+### Origin & Tradition
+
+The grape vine is the most cross-culturally documented plant medicine in the Codex — represented in all six traditions across four continents and spanning from 3000 BCE Egyptian records to Li Shizhen's 1596 Bencao Gangmu. This ubiquity reflects a genuine pharmacological reality: no other edible fruit delivers the bioactive spectrum of the grape vine, from resveratrol's SIRT1/NAD⁺ pathway activation and oligomeric proanthocyanidins (OPCs) with a documented 50-fold antioxidant advantage over vitamin E, to anthocyanins' platelet-modulating cardiovascular protection and pterostilbene's superior-bioavailability SIRT1 activation. The traditions encoded the grape vine's pharmacology empirically through application in convalescence, cardiovascular medicine, digestive support, and — through wine as pharmaceutical vehicle — as the foundational matrix for ancient polypharmacy. The "French Paradox" (Renaud and de Lorgeril, 1992) initiated modern scientific engagement with what six ancient traditions had documented for millennia.
+
+**EP — Ebers Papyrus and Egyptian pharmaceutical records:** Wine was the primary pharmaceutical solvent and vehicle in Egyptian medicine, used to prepare medicinal extracts and compounds throughout the Ebers Papyrus. Grape wine (irp) appears in more preparations than any other carrier. Beyond the vehicle role, grape juice (fresh must) is documented as a nutritive medicine for convalescence; grape vinegar (acidified wine) as a wound antiseptic and digestive; and raisins (*wdn*) as concentrated energy medicine for weakness and recovery. The four pharmaceutical forms — wine, vinegar, fresh juice, and dried raisin — each representing a distinct pharmacological profile, indicate an empirical understanding that different preparation methods yield different therapeutic properties.
+
+**AT — Assyrian Tablets (Nineveh Library; wine — karpānu; "wine of the grape"):** Wine (*karpānu*) is the most frequently named pharmaceutical vehicle across the Nineveh cuneiform tablets. Assyrian physicians used grape wine in preparations for fever reduction, GI conditions (diarrhea and dysentery — the antimicrobial effect of wine's alcohol, tartaric acid, and OPCs on intestinal pathogens), wound irrigation, and as a vehicle for botanical medicines. Grape preparations specifically are documented for their restorative and nutritive roles in illness recovery — the "wine for the sick" tradition that persists across all Mediterranean medical systems.
+
+**DMM — De Materia Medica (Ἄμπελος — Ampelos, the vine; Book V — wines and vinegars extensively covered):** Dioscorides devotes a substantial portion of Book V to the medicinal classification of wines and vinegars, developing a taxonomy by region of origin, age, preparation method, and therapeutic application that has no parallel in any other ancient text. Key Dioscoridan observations:
+- **Omphax** (ὄμφαξ — unripe grape): highly astringent; anti-diarrheal; the highest polyphenol content stage of the grape (mirrors his equivalent observation for unripe olive oil); used for gum disease and hemorrhage
+- **Regional therapeutic wines**: different Greek wine regions characterized by different therapeutic properties — Dioscorides notes wines that are diuretic, astringent, laxative, or heating depending on soil and preparation; an early pharmaco-geography
+- **Grape leaves and tendrils**: cooling; anti-inflammatory for hot swellings; the leaf as a topical anti-inflammatory bandage
+- **Vinegar**: powerful antiseptic, wound-cleansing; anti-inflammatory; the acidic vehicle for topical preparations
+- Distinction between old wine (more heating, sedative) and new wine (more laxative, indigestible) — capturing the alcohol maturation chemistry change
+
+**CM — Canon of Medicine (عنب — ʿInab; wine as pharmaceutical vehicle — the canonical debate):** Ibn Sina's treatment of grape wine in the Canon of Medicine is the most intellectually complex in the Codex, reflecting the tension between Islam's prohibition of wine for intoxication and its established role as the primary pharmaceutical vehicle in the inherited Galenic-Dioscoridean tradition. He navigates this by:
+- Establishing the medicinal exception: wine used as a pharmaceutical vehicle or in therapeutic doses is treated as medicine, not beverage
+- Classifying wine as "moderately warm and moist in the first degree" — a temperament classification that captures its circulatory-stimulating and digestive properties
+- Prescribing grape preparations specifically for convalescence: the sweet raisin (*zabeeb* — زبيب) for strengthening the heart, liver, and kidney; grape juice (*ʿasīr al-ʿinab*) as nutritive tonic
+- Documenting grape leaf astringency for diarrhea and hemorrhage — parallel to Dioscorides
+- Covering kidney stone dissolution: grape preparations as part of the diuretic regimen
+
+**SS — Sushruta Samhita and Charaka Samhita (द्राक्षा — Drākṣā; grape/raisin):** The Ayurvedic grape is principally the dried raisin (*Drākṣā*) — a Tridoshic fruit (balancing to all three doshas simultaneously) of exceptional importance. Classification:
+- **Rasa:** Madhura (sweet) + Amla (sour in fresh grape)
+- **Virya:** Shita (cooling)
+- **Vipaka:** Madhura
+- **Dosha action:** Tridoshic (Vata-Pitta-Kapha shamaka) — one of a small number of Ayurvedic medicines classified as balancing to all three doshas; a rare and highly valued quality
+- **Primary actions:** Balya (strengthening); Bringhana (tissue-nourishing / anabolic); Hridya (cardiac tonic); Kasahara (anti-cough); Mutravirajaniya (urinary clarifying); Raktapitta-shamaka (stops bleeding with heat)
+- *Drakshadi Lehyam* — the classical Ayurvedic jam/rasayana formula using raisins as the primary base: prescribed for respiratory weakness, cough, cardiac debility, and convalescent rebuilding
+- *Drākṣā* is one of the recognized Tridoshic rasayana fruits alongside Amalaki and Haritaki — foods that are simultaneously medicines and constitutional tonics
+
+**SBJ — Shennong Bencao Jing and Bencao Gangmu (葡萄 — Pútao):** The grape was introduced to China from Central Asia (Ferghana Valley) during the Han Dynasty via the Silk Road and is documented in the Shennong Bencao Jing as a Qi-tonifying fruit that benefits the muscles, bones, and spirit (*Shen*). Li Shizhen's Bencao Gangmu (1596) provides an extensive monograph covering: grape wine (*pútaojiǔ* — 葡萄酒) preparation and its warming, Blood-nourishing properties; the grape's benefit to the uterus (Blood-nourishing in the TCM gynecological sense); its strengthening effect on sinews and bones (the Jing aspect — the structural nourishment correlating to the OPC and resveratrol effects on connective tissue and cardiovascular endothelium); and its diuretic properties. Li Shizhen notes that raisins are appropriate for children's weakness and for elderly debility — mapping precisely to the Ayurvedic Balya (strengthening) and Bringhana (anabolic) classifications.
+
+---
+
+### Active Components
+
+- **Resveratrol (trans-resveratrol)** — stilbene polyphenol; concentrated in red grape skin (0.1–2mg/g), seeds, and stems; not present in white grapes; **SIRT1 activator** — deacetylates and activates the Sirtuin-1 longevity enzyme, which drives mitochondrial biogenesis (via PGC-1α), NAD⁺ pathway upregulation, and improved insulin sensitivity; anti-inflammatory via NF-κB inhibition; anti-atherogenic; potential anti-cancer via multiple pathways; **critically important bioavailability limitation**: >75% of oral resveratrol is rapidly glucuronidated and sulfated (phase II hepatic conjugation) before reaching systemic circulation; most of what circulates is the conjugated form with reduced SIRT1 activity; the paradox of a highly celebrated but poorly bioavailable polyphenol
+- **Pterostilbene** — the methylated dimethoxy analog of resveratrol; present in red and black grapes and berries; SIRT1 activator with substantially superior bioavailability to resveratrol (the two methoxy groups block glucuronidation sites, extending half-life); the emerging pharmacokinetically preferred stilbene in therapeutic applications; approximately 4-fold longer plasma half-life vs. resveratrol
+- **Oligomeric proanthocyanidins (OPCs)** — from grape seed and skin; the condensed tannin polyphenol complex of epicatechin, catechin, and their oligomeric chains (B1, B2 dimers, trimers, etc.); the most potent free radical scavengers documented in the plant kingdom by cell-free assay (50-fold vs. vitamin E per unit weight in Bagchi 1997 analysis); cardioprotective via endothelial protection, ACE inhibition, platelet aggregation inhibition, and collagen cross-link stabilization; the defining bioactive of commercial "grape seed extract" and Pycnogenol® (pine bark OPCs are structurally homologous)
+- **Anthocyanins (red/black grape skin)** — primarily cyanidin-3-glucoside, delphinidin-3-glucoside, and petunidin-3-glucoside; concentrated in the pigmented skin of red and black grape varieties; anti-inflammatory; potent platelet aggregation inhibitors; increase nitric oxide (NO) production in endothelial cells; cardioprotective; the direct mechanistic basis for grape juice's cardiovascular effects in RCTs; responsible for the color gradient (white grape = no anthocyanins; red = moderate; black = highest)
+- **Quercetin** — flavonol present in grape skin; inhibits COMT (catechol-O-methyltransferase) enzyme, increasing catecholamine bioavailability; anti-inflammatory via PLA2 and COX inhibition; anti-histamine; antiviral
+- **Tartaric acid and malic acid** — the dominant organic acids of the grape; tartaric acid is almost unique to *Vitis vinifera* among fruits; stimulate gastric acid secretion and digestive enzyme activity; the sharp taste of grapes that stimulates appetite and digestion; the organic acid profile contributing to antimicrobial activity in wine
+- **Melatonin** — present in grape skin and wine at concentrations that may contribute to sleep-modulating effects of moderate red wine consumption; grape skin is among the highest food sources of melatonin; relevant to the SBJ spirit-benefiting classification
+
+---
+
+### Effect & Use Case in Kenetica
+
+**1. Antioxidant and vascular protection — grape seed extract / OPCs ([BUILD] [RESET] [CYCLE-OFF])**
+Grape seed extract (standardized to 95% OPCs) provides the most potent plant-based antioxidant coverage per gram available. During [BUILD] phases with high training volume and attendant oxidative stress, OPC supplementation provides systemic radical-scavenging coverage for endothelial integrity, connective tissue protection (OPCs stabilize collagen cross-links, directly benefiting tendon and ligament resilience), and cardiovascular protection. OPCs are water-soluble, bioavailable (unlike resveratrol), and dose-responsive in endothelial protection studies. Dose: 150–300mg grape seed extract standardized to 95% OPCs daily.
+
+**2. Cardiovascular protection and platelet modulation — anthocyanins, OPCs ([RESET] [CYCLE-OFF])**
+Whole red/black grape consumption (including the skin) and purple grape juice deliver the anthocyanin-OPC cardiovascular complex that the Freedman 2001 RCT demonstrated inhibits platelet aggregation and increases nitric oxide production. This is the non-alcoholic, non-resveratrol cardiovascular mechanism of the grape — operative in grape juice, whole grapes, and concentrated grape skin extract. Relevant for cardiovascular risk management in [CYCLE-OFF] without the confounding alcohol variable of wine.
+
+**3. Resveratrol — metabolic and longevity pathway activation ([CYCLE-OFF])**
+Despite its bioavailability limitations, resveratrol at doses of 150–500mg/day achieves sufficient systemic exposure (as conjugates that may be deconjugated in target tissues) to activate SIRT1, improve markers of mitochondrial function, and reduce inflammatory cytokines in human trials. Its application in [CYCLE-OFF] is metabolic maintenance and cellular anti-aging. The more bioavailable analog pterostilbene (50–100mg/day) is the preferred stilbene where pharmacokinetics are the priority.
+
+**4. Ayurvedic Draksha rasayana — restorative / Tridoshic constitutional tonic ([RESET])**
+Raisins and concentrated grape preparations as whole foods provide the Drākṣā Tridoshic balancing and Bringhana (tissue-nourishing) effect documented in SS/CM. In practice: a daily portion of raisins or high-quality Drakshadi Lehyam during [RESET] phases provides the digestive-nourishing-cardiac tonic function of the whole fruit matrix — the minerals (iron, potassium, boron), natural sugars for glycogen replenishment, OPCs, and quercetin delivered in the food-medicine format. This represents the traditional grape medicine most directly applicable to the Kenetica [RESET] context.
+
+**5. Digestive stimulation and pharmaceutical vehicle ([BUILD])**
+The tartaric and malic acid organic acid profile of fresh grape juice or verjuice (unripe grape juice — the historical "verjus") stimulates gastric acid secretion and digestive enzymatic activity. For practitioners in high-caloric [BUILD] phases consuming large meals, fresh grape juice with meals provides a food-level digestive enzyme stimulus paralleling the historical use as pharmaceutical vehicle and digestive preparation across all six traditions.
+
+---
+
+### Preparation & Dosing
+
+**Grape seed extract (OPCs — antioxidant/vascular):**
+150–300mg standardized grape seed extract (standardized to 95% OPCs or minimum 80mg OPC/capsule) daily with meals. The dose range used in clinical cardiovascular and antioxidant trials. Available as commercial capsules; the standardized product is more reliable than whole seed preparations.
+
+**Purple/red grape juice (cardiovascular — anthocyanin/OPC):**
+240–480mL (1–2 cups) 100% purple grape juice daily; the dose used in the Freedman et al. (2001) platelet and nitric oxide study. Must be non-diluted, non-sweetened pressed juice (not grape drink). The carbohydrate load (24–48g sugars) is significant — account for in [RESET] energy budgets; inappropriate for insulin-sensitive [BUILD] intra-workout nutrition.
+
+**Whole red/black grapes (food-medicine):**
+150–200g (approximately 1 cup) red or black grapes with skins daily. Provides the full anthocyanin, quercetin, OPC, tartaric acid, and resveratrol matrix in food form. The traditional food-medicine preparation of all six traditions.
+
+**Raisins — Draksha rasayana preparation:**
+20–30g dark raisins (high-quality Muscat or Thompson Seedless, sun-dried, unsulfured) daily, or prepared as *Drākṣā* water (soak 15–20 raisins overnight in 200mL water; consume fruit and liquid in morning on empty stomach) — the traditional Ayurvedic restorative preparation, providing iron, potassium, boron, OPCs, and natural sugars in a pre-digested soaked format.
+
+**Resveratrol supplementation:**
+150–500mg trans-resveratrol daily (taken with food containing fat for improved absorption; the lipophilic fraction has better uptake with dietary lipid); or preferably 50–100mg pterostilbene for improved bioavailability. Trans-resveratrol is rapidly metabolized in the gut — divided doses (morning/evening) improve time-in-plasma. Doses above 1g/day provide little additional SIRT1 benefit and increase platelet inhibition risk.
+
+**Verjuice / unripe grape juice (digestive acid preparation — historical):**
+15–30mL verjuice (pressed juice of unripe Muscat or wine-grape varieties; commercially available as cooking ingredient) mixed with water before meals. The highest polyphenol-per-volume fresh grape preparation; the *omphax* of Dioscorides. A vinegar-adjacent but non-acetic acid digestive preparation.
+
+---
+
+### Scientific Correlation
+
+- **Resveratrol, SIRT1, and metabolic health (obese mouse model):** Baur JA, Pearson KJ, Price NL, Jamieson HA, Lerin C, Kalra A, Prabhu VV, Allard JS, Lopez-Lluch G, Lewis K, Pistell PJ, Poosala S, Becker KG, Boss O, Gwinn D, Wang M, Ramaswamy S, Fishbein KW, Spencer RG, Lakatta EG, Le Couteur D, Shaw RJ, Navas P, Puigserver P, Ingram DK, de Cabo R, Sinclair DA (2006) *Nature* 444:337–342: resveratrol supplementation (400mg/kg diet) significantly improved insulin sensitivity, reduced adiposity markers, extended survival, and improved motor function in high-fat-diet obese mice; SIRT1 deacetylase activation confirmed as primary mechanism; PGC-1α-driven mitochondrial biogenesis upregulated; landmark paper establishing resveratrol as SIRT1-longevity compound and initiating the pharmaceutical sirtuin research field
+- **Resveratrol bioavailability limitation:** Walle T, Hsieh F, DeLegge MH, Oatis JE Jr, Walle UK (2004) *Annals of the New York Academy of Sciences* 1030:9–14: following oral radiolabeled resveratrol administration, plasma resveratrol showed only approximately 25% free aglycone availability; >75% circulated as glucuronide and sulfate conjugates; the phase II hepatic and intestinal conjugation was rapid and near-complete; bioavailability limitation confirmed as the central pharmacokinetic constraint on resveratrol's human efficacy; established the rationale for methylated analogs with blocked conjugation sites (pterostilbene, methylated resveratrol)
+- **Grape seed OPCs — free radical scavenging superiority:** Bagchi D, Garg A, Krohn RL, Bagchi M, Tran MX, Stohs SJ (1997) *Toxicology* 118:2–3: grape seed proanthocyanidin extract (GSPE) demonstrated superior free radical scavenging activity vs. vitamin C, vitamin E, and β-carotene in cell-free assay systems; GSPE inhibited hydroxyl and superoxide radical generation approximately 50-fold more efficiently than vitamin E per unit weight; established OPCs as the most potent plant-derived antioxidants on a per-mole basis; mechanistic basis for endothelial protective applications of grape seed extract
+- **Grape juice, platelet aggregation, and nitric oxide:** Freedman JE, Parker C 3rd, Li L, Perlman JA, Frei B, Ivanov V, Deak LR, Iafrati MD, Folts JD (2001) *Circulation* 103:2792–2798: RCT in which purple grape juice (480mL/day × 2 weeks) significantly inhibited ADP-induced platelet aggregation by approximately 77% vs. orange or grapefruit juice controls; simultaneously increased platelet-derived nitric oxide production; superoxide production by platelets reduced; non-alcoholic, non-resveratrol cardiovascular mechanism confirmed as anthocyanin/OPC-mediated endothelial and platelet modulation; directly applicable to non-wine grape preparations
+- **The French Paradox — wine and cardiovascular mortality:** Renaud S, de Lorgeril M (1992) *Lancet* 339:1523–1526: analysis of WHO MONICA data demonstrating that wine consumption in France (particularly Southwestern France / Gascony) was inversely correlated with coronary heart disease mortality despite dietary saturated fat intake comparable to high-mortality populations (UK, USA); wine consumption explained a significant proportion of the residual cardiovascular mortality variance not accounted for by lipids; proposed wine polyphenols (OPCs, resveratrol, quercetin) as the mediating factors; foundational epidemiological paper that initiated the modern science of grape polyphenol medicine; note: this is population-level epidemiology — the correlation does not authorize individual prescription of wine given the independent harms of alcohol consumption at the individual level
+
+---
+
+### Traditional Energetic Classification
+
+**Primary Tier:** ◉ Qi — vascular; cardiovascular; anti-inflammatory; platelet-modulating; antioxidant; digestive stimulant
+**Secondary Tier:** ◈ Jing — tissue-nourishing (Bringhana); connective tissue integrity (OPC collagen cross-link stabilization); restorative in convalescence; the Jing-building aspect of the Ayurvedic rasayana classification
+**TCM Organ-Channel Map:** Heart (anthocyanin cardiac and vascular protection; Li Shizhen's Blood-nourishing); Liver (OPC-mediated Blood movement; resveratrol anti-lipid); Spleen-Stomach (tartaric/malic acid digestive stimulation); Kidney (uterine tonic — the Jing-root of the Blood-nourishing effect)
+**Energetic Action:** Moves and nourishes Blood simultaneously (the rare dual blood-moving-and-nourishing combination); protects vessel walls from oxidative Stagnation; replenishes Qi through digestive activation; the fruit that simultaneously builds structure (Jing) and clears vascular stagnation (Qi-blood) — explaining the cross-tradition documentation across both [BUILD] and [RESET] phases
+**Ayurvedic:** Drākṣā — Tridoshic (Vata-Pitta-Kapha shamaka); Bringhana (anabolic/nourishing); Balya (strengthening); Hridya (cardiac tonic); Rasayana (constitutional tonic) — one of the few fruits carrying all five of these designations simultaneously; the completeness of the Drākṣā profile in Ayurveda explains its preeminence as a convalescent medicine
+**FMT Tibetan:** Not a primary Tibetan plant but grape preparations reached Tibet via the Silk Road trade; raisin (*tsang-phrug* — dried grape) is used in strengthening formulas for weakness and respiratory debility, consistent with SS classification
+
+---
+
+### Contraindications
+
+- **Resveratrol + anticoagulants / antiplatelet agents** — high-dose resveratrol (>500mg/day) and grape seed OPCs both inhibit platelet aggregation (OPCs also inhibit PAF receptor activation); additive with warfarin, heparin, aspirin, clopidogrel; do not combine high-dose grape polyphenol supplementation with anticoagulant medication without monitoring; the anthocyanin/OPC platelet effect in the Freedman trial (77% inhibition of platelet aggregation) indicates clinically meaningful anticoagulant-equivalent activity
+- **High-sugar grape forms (raisins, juice) in insulin-sensitive / calorie-restricted contexts** — raisins have a glycemic index of approximately 64 and 79g sugar per 100g; grape juice is high-glycemic; inappropriate as a primary carbohydrate source for insulin-resistant practitioners or in strict [RESET] caloric deficit; whole fresh grapes (lower glycemic due to fiber) are preferred in this context
+- **Wine / alcohol — the French Paradox caveat** — the Renaud and de Lorgeril (1992) population-level inverse correlation between wine and cardiovascular mortality does not constitute individual prescription; alcohol at even moderate doses (2+ drinks/day) independently increases risk for breast cancer, liver disease, hypertension, and sleep disruption; the polyphenol benefit of wine can be replicated via grape juice, grape seed extract, and resveratrol without the alcohol; wine is documented in this entry for its historical pharmaceutical and cultural significance, not as a clinical recommendation
+- **Grape seed extract + CYP3A4 substrates** — OPCs moderately inhibit CYP3A4 metabolizing enzymes; check for interactions with medications with narrow therapeutic windows metabolized by this pathway (cyclosporine, some statins, calcium channel blockers); clinically relevant primarily at higher supplemental doses rather than food intake
+
+*Cross-references: I_207 (Safflower — the Blood-moving cardiac companion for vascular applications), I_125 (Hawthorn — OPC cardiac synergy; the complementary European vascular OPC source), I_185 (Pine — Pycnogenol OPC comparison; structurally homologous proanthocyanidin mechanism)*
+*Filed under: Codex Pharmakon Universalis — Volume I | Entry I_121*
