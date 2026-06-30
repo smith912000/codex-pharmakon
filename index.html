@@ -12,7 +12,16 @@ header h1{font-size:1.25rem;letter-spacing:.12em;color:var(--gold2);font-weight:
 header .sub{color:var(--dim);font-size:.78rem;letter-spacing:.04em}
 header .stats{margin-left:auto;display:flex;gap:18px;font-size:.72rem;color:var(--dim);letter-spacing:.08em;text-transform:uppercase}
 header .stats b{color:var(--gold);font-size:1rem;display:block;font-weight:normal}
-.wrap{flex:1;display:flex;min-height:0}
+/* tab bar */
+nav.tabs{display:flex;gap:2px;padding:0 14px;border-bottom:1px solid var(--line);background:var(--panel);overflow-x:auto}
+nav.tabs button{font:600 .74rem sans-serif;letter-spacing:.08em;text-transform:uppercase;color:var(--dim);background:none;border:none;border-bottom:2px solid transparent;padding:12px 16px;cursor:pointer;white-space:nowrap}
+nav.tabs button:hover{color:var(--tx)}
+nav.tabs button.on{color:var(--gold2);border-bottom-color:var(--gold)}
+nav.tabs button.soon{opacity:.5;cursor:default}
+nav.tabs button .tag{font-size:.6rem;color:var(--gold);margin-left:6px;letter-spacing:.1em}
+.view{flex:1;display:flex;min-height:0}
+.view[hidden]{display:none}
+/* materia (substance browser) */
 aside{width:340px;border-right:1px solid var(--line);display:flex;flex-direction:column;background:var(--panel)}
 .controls{padding:12px;border-bottom:1px solid var(--line)}
 #q{width:100%;padding:9px 12px;background:#0b0a08;border:1px solid var(--line);border-radius:8px;color:var(--tx);font-family:inherit;font-size:.9rem}
@@ -40,7 +49,14 @@ main{flex:1;overflow:auto;padding:34px 44px;max-width:900px}
 .entrybody{margin-top:8px;line-height:1.7}.entrybody h1,.entrybody h2,.entrybody h3{color:var(--gold2);font-weight:normal;margin:18px 0 6px}
 .entrybody hr{border:none;border-top:1px solid var(--line);margin:16px 0}.entrybody strong{color:var(--gold2)}
 .entrybody em{color:var(--dim)}.entrybody table{border-collapse:collapse;margin:10px 0}.entrybody td,.entrybody th{border:1px solid var(--line);padding:5px 9px;font-size:.85rem}
-@media(max-width:760px){aside{width:100%;position:absolute;inset:0;z-index:5}aside.hide{display:none}main{padding:24px}}
+/* docs sub-nav */
+.docnav{width:300px;border-right:1px solid var(--line);background:var(--panel);overflow:auto;flex:0 0 300px}
+.docnav .intro{padding:14px;color:var(--dim);font-size:.82rem;border-bottom:1px solid var(--line)}
+.docrow{padding:11px 16px;border-bottom:1px solid rgba(255,255,255,.04);cursor:pointer;font-size:.92rem}
+.docrow:hover{background:#171510}.docrow.sel{background:#1c1912;border-left:2px solid var(--gold);color:var(--gold2)}
+.soonwrap{flex:1;display:flex;align-items:center;justify-content:center;text-align:center;padding:40px}
+.soonwrap div{max-width:520px;color:var(--dim)}.soonwrap h2{color:var(--gold2);font-weight:normal;letter-spacing:.08em;margin-bottom:12px}
+@media(max-width:760px){aside,.docnav{width:100%;flex-basis:auto}.view{flex-direction:column}.docnav{max-height:38vh}main{padding:24px}}
 </style></head>
 <body>
 <header>
@@ -52,7 +68,10 @@ main{flex:1;overflow:auto;padding:34px 44px;max-width:900px}
     <div><b id="s-conv">—</b>convergent</div>
   </div>
 </header>
-<div class="wrap">
+<nav class="tabs" id="tabs"></nav>
+
+<!-- MATERIA MEDICA (substance browser) -->
+<div class="view" id="view-materia">
   <aside id="aside">
     <div class="controls">
       <input id="q" placeholder="Search substance or botanical name…">
@@ -73,19 +92,86 @@ main{flex:1;overflow:auto;padding:34px 44px;max-width:900px}
     </div></div>
   </main>
 </div>
+
+<!-- DOCS (preparation, chronopharma, …) -->
+<div class="view" id="view-docs" hidden>
+  <div class="docnav" id="docnav"></div>
+  <main><div class="entrybody" id="docbody"></div></main>
+</div>
+
+<!-- SOON (visual atlas placeholder) -->
+<div class="view" id="view-soon" hidden>
+  <div class="soonwrap"><div id="soonbody"></div></div>
+</div>
+
 <script>
 const RAW='https://raw.githubusercontent.com/smith912000/codex-pharmakon/main/';
 const CLR={plant:'#7bbf6a',mineral:'#c8a96e',animal:'#cf7d57'};
-let DATA=[], filt='all', q='';
+let DATA=[], filt='all', q='', TABS=[], dataLoaded=false;
 const listEl=document.getElementById('list'), detEl=document.getElementById('detail');
 
-fetch('codex_index.json').then(r=>r.json()).then(d=>{
-  DATA=d.substances.sort((a,b)=>a.name.localeCompare(b.name));
-  document.getElementById('s-count').textContent=d.count;
-  document.getElementById('s-conv').textContent=DATA.filter(s=>s.sources.length>1).length;
-  render();
-  if(location.hash) show(location.hash.slice(1));
+/* ---------- tab bar (driven by sections.json — add tabs there, no HTML edits) ---------- */
+fetch('sections.json').then(r=>r.json()).then(cfg=>{
+  TABS=cfg.tabs;
+  const nav=document.getElementById('tabs');
+  nav.innerHTML=TABS.map(t=>`<button data-id="${t.id}" class="${t.type==='soon'?'soon':''}">${t.label}${t.type==='soon'?'<span class="tag">SOON</span>':''}</button>`).join('');
+  nav.querySelectorAll('button').forEach(b=>{const t=TABS.find(x=>x.id===b.dataset.id);
+    if(t.type!=='soon') b.onclick=()=>selectTab(t.id); else b.onclick=()=>selectTab(t.id);});
+  // open tab from hash (#tab/...) or default to first
+  const h=location.hash.slice(1);
+  const tabId=h.includes('/')?h.split('/')[0]:(TABS.find(t=>t.id===h)?h:'materia');
+  selectTab(tabId, true);
 });
+
+function selectTab(id, fromLoad){
+  const t=TABS.find(x=>x.id===id)||TABS[0];
+  document.querySelectorAll('#tabs button').forEach(b=>b.classList.toggle('on',b.dataset.id===t.id));
+  ['materia','docs','soon'].forEach(v=>document.getElementById('view-'+v).hidden=true);
+  if(t.type==='substances'){
+    document.getElementById('view-materia').hidden=false;
+    if(!dataLoaded) loadSubstances();
+    if(!location.hash.startsWith('#materia'))location.hash='materia';
+  } else if(t.type==='docs'){
+    document.getElementById('view-docs').hidden=false;
+    renderDocs(t, fromLoad);
+  } else { // soon
+    document.getElementById('view-soon').hidden=false;
+    document.getElementById('soonbody').innerHTML=`<h2>${t.label}</h2><p>${t.note||'Coming soon.'}</p>`;
+    location.hash=t.id;
+  }
+}
+
+/* ---------- docs view ---------- */
+function renderDocs(t, fromLoad){
+  const nav=document.getElementById('docnav');
+  nav.innerHTML=(t.intro?`<div class="intro">${t.intro}</div>`:'')+
+    t.docs.map((d,i)=>`<div class="docrow" data-i="${i}">${d.label}</div>`).join('');
+  nav.querySelectorAll('.docrow').forEach(r=>r.onclick=()=>openDoc(t,+r.dataset.i));
+  // pick doc from hash (#tab/index) or first
+  let di=0; const h=location.hash.slice(1);
+  if(h.startsWith(t.id+'/')) di=Math.max(0,Math.min(t.docs.length-1,+h.split('/')[1]||0));
+  openDoc(t,di);
+}
+function openDoc(t,i){
+  const d=t.docs[i]; location.hash=t.id+'/'+i;
+  document.querySelectorAll('#docnav .docrow').forEach(r=>r.classList.toggle('sel',+r.dataset.i===i));
+  const body=document.getElementById('docbody'); body.innerHTML='Loading…';
+  fetch(RAW+d.file).then(r=>r.ok?r.text():Promise.reject()).then(md=>{body.innerHTML=marked.parse(md);body.parentElement.scrollTop=0;})
+    .catch(()=>{body.innerHTML='<span style="color:var(--dim)">This page could not be loaded.</span>';});
+}
+
+/* ---------- substance browser ---------- */
+function loadSubstances(){
+  dataLoaded=true;
+  fetch('codex_index.json').then(r=>r.json()).then(d=>{
+    DATA=d.substances.sort((a,b)=>a.name.localeCompare(b.name));
+    document.getElementById('s-count').textContent=d.count;
+    document.getElementById('s-conv').textContent=DATA.filter(s=>s.sources.length>1).length;
+    render();
+    const h=location.hash.slice(1);
+    if(h.startsWith('materia/')) show(h.split('/')[1]);
+  });
+}
 function render(){
   const items=DATA.filter(s=>(filt==='all'||s.class===filt)&&
     (!q||(s.name+' '+s.botanical).toLowerCase().includes(q)));
@@ -98,7 +184,7 @@ function render(){
 }
 function show(id){
   const s=DATA.find(x=>x.id===id); if(!s)return;
-  location.hash=id;
+  location.hash='materia/'+id;
   listEl.querySelectorAll('.row').forEach(r=>r.classList.toggle('sel',r.dataset.id===id));
   const vol={I:'Volume I · Plant',II:'Volume II · Animal',III:'Volume III · Mineral',IV:'Volume IV · Combination'}[s.volume]||s.volume;
   let h=`<h1>${s.name}</h1><div class="bot">${s.botanical||''}</div>
@@ -121,5 +207,4 @@ function show(id){
 document.getElementById('q').oninput=e=>{q=e.target.value.toLowerCase().trim();render();};
 document.querySelectorAll('#classChips .chip').forEach(c=>c.onclick=()=>{
   filt=c.dataset.c;document.querySelectorAll('#classChips .chip').forEach(x=>x.classList.toggle('on',x===c));render();});
-window.addEventListener('hashchange',()=>{if(location.hash)show(location.hash.slice(1));});
 </script></body></html>

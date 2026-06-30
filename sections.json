@@ -1,0 +1,71 @@
+{
+ "tabs": [
+  {
+   "id": "materia",
+   "label": "Materia Medica",
+   "type": "substances"
+  },
+  {
+   "id": "preparation",
+   "label": "Preparation",
+   "type": "docs",
+   "intro": "Methods of making medicine — extraction, transformation, combination, dosing.",
+   "docs": [
+    {
+     "label": "Overview",
+     "file": "pages/preparation/V_Overview.md"
+    },
+    {
+     "label": "Decoction",
+     "file": "pages/preparation/V_01_Decoction.md"
+    },
+    {
+     "label": "Tincture & Extraction",
+     "file": "pages/preparation/V_02_Tincture_Extraction.md"
+    },
+    {
+     "label": "Fermentation",
+     "file": "pages/preparation/V_03_Fermentation.md"
+    },
+    {
+     "label": "Bhasma & Calcination",
+     "file": "pages/preparation/V_04_Bhasma_Calcination.md"
+    },
+    {
+     "label": "Stacking",
+     "file": "pages/preparation/V_05_Stacking.md"
+    },
+    {
+     "label": "Cycling",
+     "file": "pages/preparation/V_06_Cycling.md"
+    },
+    {
+     "label": "Constitutional Dosing",
+     "file": "pages/preparation/V_07_Constitutional_Dosing.md"
+    }
+   ]
+  },
+  {
+   "id": "chronopharma",
+   "label": "Chronopharma & Timeliness",
+   "type": "docs",
+   "intro": "When a medicine is taken — circadian, seasonal and constitutional timing.",
+   "docs": [
+    {
+     "label": "Overview",
+     "file": "pages/chronopharma/VIII_Overview.md"
+    },
+    {
+     "label": "Circadian Dosing",
+     "file": "pages/preparation/V_08_Circadian.md"
+    }
+   ]
+  },
+  {
+   "id": "atlas",
+   "label": "Visual Atlas",
+   "type": "soon",
+   "note": "Interactive plant atlas — coming soon. Users will be able to explore the plants visually."
+  }
+ ]
+}
