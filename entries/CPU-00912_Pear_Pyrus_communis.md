@@ -1,0 +1,76 @@
+# Pear — European Pear, Common Pear, Garden Pear (Greek *apios*, Latin *pirum*, Chinese *lí* 梨)
+
+## *Pyrus communis* L. | Family: Rosaceae
+
+**Tradition Tags:** EP, AT, DMM, SBJ (Shennong lineage)
+**Energetic Classification:** Cool and moist (Galenic) — moistening, thirst-quenching, gently astringent
+**Training Phase:** Grounding / Restoration (cooling and moistening the dry, over-heated system)
+
+---
+
+### Origin & Tradition
+
+**Ebers Papyrus / Egyptian (EP).** The Nile-valley dietary-medical tradition prized cooling, juicy fruits as foods that "settle the heat of the belly" and relieve thirst and dryness — the broad class to which the pear belongs. The pear is a fruit of the temperate belt that spread into Mediterranean and Near-Eastern cultivation; its role here is as a **cooling, moistening food-medicine**, graded *traditional*.
+
+**Assyrian (AT).** Mesopotamian cuneiform sources list orchard fruits among nourishing and cooling foods; the pear sits in the class of sweet, watery fruits given to relieve thirst, dryness, and a hot stomach. Attribution is by dietetic category rather than a botanical species name — graded *traditional*.
+
+**Dioscorides / Graeco-Roman (DMM).** *De Materia Medica* discusses the pear (*apios*) as a food with a **cooling and astringent (binding) quality**: the fruit, especially when less ripe, was held to check the bowels and settle the stomach, while the cooked fruit was gentler and more nourishing. This cool-astringent reading carried into Galenic dietetics as the standard Western characterisation of the pear.
+
+**Shennong / Chinese (SBJ).** In Chinese dietary therapy the pear (*lí*) is one of the archetypal **cooling, moistening, phlegm-transforming fruits**, classically used to "moisten the Lung," ease a dry cough, relieve thirst, and clear heat — the exact indications the Western tradition reached independently. Steamed pear with rock sugar remains a household remedy for a dry, hot cough.
+
+**Doctrinal & Symbolic Layer.** Across four traditions the pear is read the same way: a watery, sweet, faintly astringent fruit that **cools heat and restores moisture**. There is no exotic doctrine of signatures here — the symbolism is simply the direct sensory logic of a juicy fruit answering dryness and thirst. Pharmacology supports the intuition: the pear's high water and sorbitol content, soluble fibre, and phenolic antioxidants underlie both its genuine hydrating/laxative effect and its antioxidant, tissue-soothing action. The "cooling and moistening" reputation is the traditional shorthand for a real physiological profile.
+
+### Active Components
+
+- **Water and sugars (fructose, glucose):** the hydrating, thirst-relieving base.
+- **Sorbitol:** a sugar-alcohol abundant in pear — osmotically active, giving the fruit its mild laxative effect (and its FODMAP caution — see below).
+- **Dietary fibre (including pectin):** soluble fibre supporting bowel regularity and a gentle prebiotic action.
+- **Phenolics:** chlorogenic acid (a major pear phenolic), plus flavonols (quercetin derivatives), epicatechin, and **arbutin** — the antioxidant fraction.
+- **Ursolic acid** and other triterpenes in peel; **vitamin C** in modest amounts.
+
+Much of the phenolic content sits in and near the **skin**, so peeled pear loses a share of its antioxidant value.
+
+### Effect & Use Case in Kenetica
+
+In Kenetica the pear is a **cooling, moistening restorative food-medicine** for the Grounding/Restoration phase. Where the system runs hot and dry — thirst, a dry unproductive cough, a parched throat, sluggish dry bowel — the pear supplies water, osmotic sorbitol, and soothing fibre while its phenolics contribute antioxidant support. It is intended as gentle daily nourishment (fresh or steamed), not a concentrated therapeutic. Steamed pear is the softer, more digestible form; raw pear is more actively cooling and laxative.
+
+### Preparation & Dosing
+
+| Preparation | Dose | Notes |
+|---|---|---|
+| Fresh fruit | 1–2 pears daily as food | Skin-on retains most phenolics; most cooling/laxative form |
+| Steamed pear (± honey / rock sugar) | 1 pear, warm | Classic dry-cough / dry-throat home remedy; gentler on digestion |
+| Pear juice | ~100–200 mL [USER: verify for sorbitol-sensitive individuals] | Concentrated sorbitol — start small |
+| Stewed / cooked | To taste | Softens fibre; suitable for delicate digestion |
+
+Culinary doses; no standardised "medicinal" dose exists — pear is a food.
+
+### Scientific Correlation
+
+According to PubMed, evidence for pear is at the level of **phytochemical characterisation and in-vitro bioactivity**, consistent with an antioxidant, mildly bioactive fruit; there is little controlled clinical data on the traditional cough/thirst indications, so the grade is **traditional use with laboratory support**.
+
+- UPLC-QToF-MS profiling of pear-juice–supplemented kombucha showed dose-dependent enrichment in **chlorogenic acid, arbutin, and flavonols**, with total phenolic content and antioxidant capacity (FRAP more than doubling) rising with pear content, plus enhanced inhibition of α-glucosidase and cholinesterases — direct evidence that pear contributes a functional antioxidant/enzyme-inhibitory phenolic load. Kuraj & Kolniak-Ostek, *Molecules* 2026 ([DOI](https://doi.org/10.3390/molecules31020371)).
+- A hydroalcoholic *Pyrus communis* fruit extract, characterised by GC-MS as containing chlorogenic acid, arbutin, ursolic acid, quercetin and epicatechin, showed dose-dependent antioxidant and cytotoxic activity against an epidermoid carcinoma (A431) skin-cancer cell line in vitro. Kangra et al., *Curr. Top. Med. Chem.* 2025 ([DOI](https://doi.org/10.2174/0115680266349097250418135927)).
+
+These confirm the pear's phenolic identity (chlorogenic acid, arbutin, quercetin) and antioxidant activity but do **not** establish clinical efficacy for cough, thirst, or constipation — those remain traditional/dietetic claims, physiologically plausible via hydration, sorbitol, and fibre.
+
+### Traditional Energetic Classification
+
+- **Galenic / Unani (as attested):** cool and moist, with a binding (astringent) note — moistening, thirst-quenching, and stomach-settling.
+- **TCM (Shennong lineage, as attested):** *lí* — sweet and slightly sour, **cool**; enters Lung and Stomach; moistens the Lung, transforms phlegm-heat, generates fluids, relieves thirst, clears heat. Classic for dry cough and dryness from heat.
+- **Ayurveda (analogical, not canonical):** would read as *madhura/kashaya* (sweet/astringent) *rasa*, cooling *shita virya*, moistening — but *P. communis* is not a classical Ayurvedic dravya, so this is a cross-mapping, marked as such.
+
+### Contraindications
+
+- ⚠️ **Sorbitol / FODMAP GI caution.** Pear is one of the highest-sorbitol common fruits. In sensitive individuals — especially those with irritable bowel syndrome (IBS), fructose malabsorption, or on a low-FODMAP protocol — pear (and particularly pear juice) can trigger bloating, cramping, flatulence, and osmotic diarrhoea. Introduce in small amounts and monitor; juice concentrates the effect.
+- **Children and osmotic diarrhoea:** large volumes of pear juice can cause loose stools in infants and toddlers — moderate the quantity.
+- **Diabetes / blood sugar:** whole pear is a moderate-glycaemic food and generally fine in portions, but pear *juice* delivers rapid free sugars — prefer the whole fruit.
+- **Allergy:** Rosaceae fruit allergy and oral allergy syndrome (birch-pollen cross-reactivity) can occur; those reacting to apple may react to pear.
+
+No serious toxicity is associated with culinary pear; the cautions are digestive and, in sensitive groups, meaningful.
+
+---
+
+*Cross-references:* Apple (*Malus domestica*) — Rosaceae relative, similar cooling-moistening dietetics; Quince (*Cydonia oblonga*) — astringent Rosaceae fruit; Marshmallow / Lungwort — demulcent companions for dry cough.
+
+*Filed under: Volume I — Plant-Based / Cooling-moistening fruits (Rosaceae) | Canonical ID CPU-00912*
