@@ -1,0 +1,121 @@
+# Hedge Mustard — "The Singer's Plant": *erba dei cantanti* (It.), *herbe aux chanteurs* (Fr.), *hierba de los cantores* (Sp.), Gk. *erysimon* (ἐρύσιμον), Lat. *irio* / *erysimum*, Ar. *khubbayzā barriyya* [USER: verify Arabic name — do not print without a source]
+
+## *Sisymbrium officinale* (L.) Scop. | Family: Brassicaceae
+
+**Tradition Tags:** AT, DMM, CM, EP
+**Energetic Classification:** Hot and dry in the second degree (Galenic/Unani reading of the pungent mustard class); attenuating, incisive, expectorant
+**Training Phase:** Phase II — Airway & Voice (acute, short-course; a performance-adjacent agent)
+
+---
+
+### Origin & Tradition
+
+*Sisymbrium officinale* is a plain, wiry, unlovely weed of hedgerows, waste ground, roadsides and rubble across Europe, North Africa and the Near East, now naturalised worldwide. It has small yellow cruciform flowers and stiff siliques pressed close to the stem. Nobody would look at it twice. And yet this scrappy roadside crucifer carries one of the narrowest, most specific and most persistent indications in the entire Codex: **it is the plant for the lost voice.**
+
+That specificity is the whole reason it is here. Most classical remedies are polyvalent to the point of vagueness — good for wind, for phlegm, for obstruction, for whatever ails. Hedge mustard is not. From the Greek herbals to the present day, across four traditions and two thousand years, it does one thing: **it is given for hoarseness, aphonia, and the failing voice.** Singers, orators, actors and preachers have used it continuously enough that in France it is *l'herbe aux chanteurs* and in Italy *l'erba dei cantanti* — and those are not antiquarian names. They are what herbalists and singers in Paris and Milan call it now. A narrow claim, held stable for two millennia, is a *testable* claim. This entry tests it.
+
+**Dioscoridean / Greek (DMM).** The Greek herbal tradition knows *erysimon* — a pungent, mustard-like seed drug — and places it firmly among the **warming, attenuating, incising** agents: those that thin thick humours and cut through viscid matter. Its indications in the Greek and Latin reception cluster tightly around the **chest and throat**: coughs, difficulty of breathing, **thick catarrh**, pleurisy, and jaundice; the seed is also used in poultices for hard swellings and cold, indolent sores. The name *erysimon* was later transferred and the taxonomy has drifted (it now names a different Brassicaceae genus, *Erysimum*), so the pre-Linnaean citations must be read as drug-names, not species. What is stable and unambiguous is the **doctrinal placement: a hot, sharp seed that cuts phlegm out of the airway.**
+
+**Avicennan / Unani (CM).** The Arabic-Persian reception takes the Greek drug and slots it into the mustard class: **hot and dry in the second degree**, *muḥallil* (dissolvent), *muqaṭṭiʿ li-l-balgham* (**a cutter of phlegm** — this is the operative Unani term and the exact ancestor of the modern word *mucolytic*), and *munaqqī li-l-ṣadr* (a cleanser of the chest). The Unani logic is transparent and mechanical: catarrh is *thick, cold, viscid matter* obstructing a passage; a *hot, sharp, thinning* drug will attenuate it and let it be expelled. The remedy's heat is matched to the disease's cold; its sharpness to the matter's thickness. **The Unani word for what hedge mustard does — cutting the phlegm — is a claim about viscosity, and viscosity is measurable.**
+
+**Egyptian / Ebers (EP).** The Ebers papyrus and the wider Egyptian medical corpus contain an extensive respiratory and throat pharmacopoeia — remedies "to make the throat well," fumigations and honey-based confections for cough — and pungent, mustard-family and cress-like plants are among the drugs used in warming and drawing applications. **The specific identification of any Egyptian plant name with *Sisymbrium officinale* is not secure and is not asserted here** [USER: verify against a current Egyptian materia medica before printing any hieroglyphic name]. The EP tag records that this drug's *class* — the pungent crucifer applied to the throat and chest — is attested in the Egyptian corpus, not that the species is named in it.
+
+**Assyrian / Mesopotamian (AT).** The same qualification applies with equal force. The cuneiform medical corpus contains throat and cough remedies and a substantial pungent-plant pharmacopoeia, but **no confident Akkadian binomial for *Sisymbrium officinale* should be given** [USER: verify — do not invent or repeat an unsourced Akkadian name]. The tag marks class-level attestation of the pungent-crucifer-for-the-chest category, hedged.
+
+**Doctrinal & Symbolic Layer.**
+
+Here is the mapping, and it is unusually clean.
+
+The tradition says three things about hedge mustard, in three different idioms, and they turn out to be three descriptions of the same molecules.
+
+**First: it is HOT and SHARP.** Bite a hedge mustard leaf and it burns — the same burn as horseradish, wasabi, mustard. That burn is not a metaphor and it is not a humoral abstraction. It is a **receptor event**. Brassicaceae store **glucosinolates**, which on tissue damage are hydrolysed by myrosinase into **isothiocyanates** — and isothiocyanates are potent agonists of **TRPA1**, the transient receptor potential ankyrin-1 channel, the somatosensory channel that mediates the perception of pungency and that sits on nociceptive and airway sensory neurons. Borgonovo et al. isolated the actual constituents of *S. officinale* and tested them on cloned TRPA1: **isopropyl isothiocyanate and 2-butyl isothiocyanate are potent TRPA1 agonists, with EC₅₀ values in the range of the most potent natural agonists known**, while the parent glucosinolates (glucoputranjivin, sinigrin) were **inactive** (*Molecules*, 2019; [DOI](https://doi.org/10.3390/molecules24050949)). **The Galenic "hot in the second degree" is, literally and precisely, a TRPA1 potency rating made by tongue.** And the detail that the glucosinolate is inert while its hydrolysis product is potent vindicates something else the tradition insisted on without knowing why: **the plant must be fresh, and it must be crushed or chewed.** Myrosinase must meet its substrate. A dried, un-bruised, long-stored hedge mustard is a dead drug — and the herbalists have always said so.
+
+**Second: it CUTS THE PHLEGM (*muqaṭṭiʿ li-l-balgham*).** This is a viscosity claim. The pungent crucifers are the archetypal reflex expectorants: TRPA1 activation on airway and upper-GI sensory afferents drives vagally mediated secretion of thin, watery mucus, diluting the thick catarrh that the Unani physicians were trying to attenuate. Avicenna's "cutting" and the modern "reflex secretomotor expectorant" are the same event described from opposite ends.
+
+**Third, and most interesting: it is for THE VOICE, specifically — not merely for the chest.** Why would a chest drug become a *voice* drug? Because the vocal folds are the one part of the airway whose function depends on **surface hydration and freedom from inflammatory swelling to a degree that is audible**. A fold that is dry, or oedematous, or coated in thick mucus does not vibrate cleanly — and the person notices immediately, because their voice fails. The tradition did not need a laryngoscope to find this. It needed singers, who are the most sensitive instrument ever built for detecting sub-clinical laryngeal dysfunction, and who reported that this weed helped.
+
+So the doctrine predicts a compound profile with **three simultaneous properties**: a TRPA1-active pungent principle (the "heat," driving thin secretion onto the folds), a **mucilage** (a demulcent film — the physical coating), and an **antioxidant/anti-inflammatory polyphenol fraction** (against the oedema and the oxidative injury of a voice abused by shouting, smoke, or reflux). And that is exactly what the plant contains. The convergence is not vague. It is item-for-item.
+
+The honest edge of the doctrine: the tradition's confidence far exceeds the trial evidence. The convergence is *mechanistic*, and it is strong. The *clinical* proof that a cup of hedge mustard infusion restores a singer's voice **does not yet exist at the level a sceptic would demand**, and the leading review of the plant says so in as many words.
+
+### Active Components
+
+- **Glucosinolates.** The characteristic profile of *S. officinale* is dominated by **glucoputranjivin** (valine-derived) alongside indolic glucosinolates (glucobrassicin, 4-hydroxy-, 4-methoxy-, neoglucobrassicin), **glucocochlearin** (Ile-derived), isobutyl glucosinolate (Leu-derived) and **glucosinalbin** (Đulović et al., *Molecules*, 2022; [DOI](https://doi.org/10.3390/molecules27238431)). Note: **the glucosinolates themselves are pharmacologically inert at TRPA1.** They are the magazine, not the bullet.
+- **Isothiocyanates (the actives).** **Isopropyl isothiocyanate** (the major volatile) and **2-butyl isothiocyanate** — liberated by myrosinase on crushing/chewing, and the potent TRPA1 agonists (Borgonovo et al., 2019).
+- **Mucilage / polysaccharides** — the demulcent fraction; the reason the infusion coats.
+- **Polyphenols and flavonol glycosides** — a polyphenol-rich fraction with documented antioxidant and antimutagenic activity (Di Sotto et al., 2016); flavonoid glycosides identified by untargeted metabolomics as candidate anti-inflammatory agents (2025, *J Proteome Res*; [DOI](https://doi.org/10.1021/acs.jproteome.5c00097)).
+- **Cardenolides** — reported in the genus; a reason for the dosing caution below rather than a therapeutic component. [USER: verify content in *S. officinale* specifically before printing a quantitative claim.]
+
+### Effect & Use Case in Kenetica
+
+**Primary and essentially sole indication: acute hoarseness, dysphonia, and voice loss** — specifically of the *functional/inflammatory* kind: the voice worn out by overuse, shouting, singing, teaching, smoke exposure, or a resolving upper-respiratory infection.
+
+Secondary: **mild reflex expectorant** for a dry, tight, unproductive catarrhal cough.
+
+The Kenetica protocol is a **short-course, acute, peri-performance** one, and it follows the chemistry rather than the folklore:
+
+1. **Freshness is the active principle.** The drug is myrosinase-dependent. Use the fresh aerial parts or a preparation that has preserved the enzyme/substrate system. A stale, over-dried infusion is inert at TRPA1 and delivers only mucilage and polyphenols — which is not nothing, but is not the drug.
+2. **Sip warm, slowly, over the throat** — do not gulp. The demulcent and TRPA1 effects are *local*. The route of administration is the point.
+3. **It is not a substitute for vocal rest.** The single most effective intervention for an abused voice is silence, and no herb outperforms it. Hedge mustard is an adjunct to rest, not a permission to keep shouting. Used as a permission slip, it converts an acute strain into a chronic one — and this is the commonest way singers injure themselves.
+
+**Red flag:** hoarseness persisting beyond **three weeks**, especially in a smoker or a drinker, is a **laryngeal cancer screening indication** and requires laryngoscopy. See Contraindications. This is the most important sentence in the entry.
+
+### Preparation & Dosing
+
+| Preparation | Dose | Notes |
+|---|---|---|
+| **Fresh aerial-part infusion** (the traditional singer's tea) | Traditionally ~1 cup, sipped slowly, up to 2–3×/day for a few days; **[USER: verify — no pharmacopoeial dose is established]** | The classical form. Pour hot (not boiling) water over the *bruised fresh* herb; steep covered to retain the volatile isothiocyanates. Sip warm before a performance. |
+| Fresh juice / expressed sap | Traditionally by the spoonful, in honey | Preserves myrosinase activity. Honey adds its own demulcent and evidenced antitussive effect. |
+| Syrup (honey-based) | [USER: verify] | The common commercial form; often combined with propolis. See below. |
+| Dried herb infusion | Reduced potency | **Drying and long storage degrade the myrosinase/glucosinolate system.** Expect demulcent and polyphenol effects only. |
+| Standardised extract | No pharmacopoeial standard exists | There is **no marker-compound standardisation** for this plant. Commercial products are not comparable to one another. |
+| **Not for prolonged use** | Max ~1–2 weeks | See Contraindications. |
+
+**Every dose in this table is traditional and unverified.** No dose-ranging study of *Sisymbrium officinale* exists in humans.
+
+### Scientific Correlation
+
+*Based on articles retrieved from PubMed.*
+
+**1. The mechanism is established — and it is precisely the traditional one.** Borgonovo et al. isolated glucoputranjivin, **isopropyl isothiocyanate** and **2-butyl isothiocyanate** from fresh cultivated *S. officinale* and assayed them on the cloned **TRPA1** channel. The two isothiocyanates were **potent agonists, with EC₅₀ in the range of the highest-potency natural TRPA1 agonists identified to date**; the glucosinolates were inactive (*Molecules*, 2019; [DOI](https://doi.org/10.3390/molecules24050949)). TRPA1 is the somatosensory/nociceptive channel of the airway. **This paper is the doctrinal hinge of the entry: it identifies the molecular basis of the "sharpness" the Greeks and Avicenna described, and locates it on the exact receptor system that governs airway sensory tone and reflex secretion.** A follow-up study confirmed that these somatosensory-active volatile isothiocyanates survive incorporation into model foods and drinks — i.e. that the singer's tea can actually deliver them (*Foods*, 2021; [DOI](https://doi.org/10.3390/foods10020308)). A separate study showed the same isothiocyanates engage **T2R bitter taste receptors** (*Molecules*, 2019; [DOI](https://doi.org/10.3390/molecules24244572)) — and airway T2Rs are themselves implicated in ciliary beat frequency and innate airway defence, a second plausible route to the traditional effect.
+
+**2. Antioxidant and antimutagenic — and the authors themselves make the vocal-cord link.** Di Sotto et al. tested an *S. officinale* aqueous extract and its polyphenolic fractions in the Ames test against tert-butylhydroperoxide-induced oxidative mutagenicity. The extract and fractions Fb and Fe showed **strong antimutagenicity across pre-, co- and post-treatment protocols**, with superoxide scavenging, lipid-peroxidation inhibition and iron chelation. The authors conclude — in their own words, not this Codex's — that the results "support the traditional use of hedge mustard by smokers to restore the vocal cord function affected by the oxidative damage" (*Phytother Res*, 2016; [DOI](https://doi.org/10.1002/ptr.5588)). **This is a bacterial mutagenicity assay. It is a long way from a larynx.** It is nonetheless a real, published, mechanistically coherent link between the polyphenol fraction and the specific pathology (oxidative injury from smoke) that the tradition targets.
+
+**3. Anti-inflammatory chemistry.** *S. officinale* extracts show antioxidant and anti-inflammatory potential in vitro (*Plants*, 2019; [DOI](https://doi.org/10.3390/plants8110505)), and untargeted metabolomics with in-silico screening has identified flavonoid glycosides as the candidate anti-inflammatory principals (*J Proteome Res*, 2025; [DOI](https://doi.org/10.1021/acs.jproteome.5c00097)).
+
+**4. In combination, against respiratory infection.** A 2025 study of a commercial supplement containing hydroalcoholic extracts of **propolis and hedge mustard aerial parts with honey** reported broad-spectrum antibacterial activity (MIC 1.5–6.2 mg/mL), bacterial cell-wall permeabilisation, reduced nitric oxide production in LPS-stimulated RAW 264.7 macrophages, and antioxidant activity in fibroblasts (*Antibiotics*, 2025; [DOI](https://doi.org/10.3390/antibiotics14121260)). **Read this one carefully: it is a multi-ingredient formulation containing propolis and honey, both of which have their own well-documented antibacterial and demulcent activity. It cannot be used to make a claim about hedge mustard alone.** It is included because omitting it would be selective, and excluding its confound would be dishonest.
+
+**5. The NULL result — and it is the most important item here.** The definitive review of the plant, Zorzan et al., *"Sisymbrium officinale, the Plant of Singers: A Review of Its Properties and Uses"*, surveys the whole literature and concludes plainly that although the infusion is "frequently consumed by singers before artistic performance," **"its beneficial ability still needs to be scientifically demonstrated,"** that only "some preliminary data" can be analysed, and that new resources should be devoted to investigating it (*Planta Med*, 2020; [DOI](https://doi.org/10.1055/a-1088-9928)).
+
+**Let that stand without softening. There is, at the time of writing and on the evidence retrievable from PubMed, NO adequate clinical trial of *Sisymbrium officinale* for dysphonia in humans.** Not a large one, not a small one. The convergence in this entry is a **mechanistic** convergence — an unusually tight one, arguably the tightest in this volume — between a two-thousand-year-old indication and a molecular pathway (TRPA1 agonism by isothiocyanates on airway sensory neurons, plus mucilage demulcency, plus polyphenol antioxidant protection of a mucosa injured by smoke and overuse) that is *exactly what you would design* if you set out to build a drug for a hoarse voice. But mechanism is a hypothesis about a clinical effect. It is not the clinical effect.
+
+**EVIDENCE GRADE: TRADITIONAL, with STRONG MECHANISTIC SUPPORT.** The chemistry is characterised, the receptor target is identified and potent, the traditional indication is narrow and stable across four traditions and two millennia, and the pathway is anatomically apt. **The clinical trial has never been run.** Anyone who tells you hedge mustard is "clinically proven" for the voice is either mistaken or selling something. The correct claim — and it is a genuinely interesting one — is: *this is one of the best-motivated untested remedies in the Codex, and it deserves the trial it has never had.*
+
+### Traditional Energetic Classification
+
+**Galenic / Unani (attested).** **Hot and dry, second degree.** Qualities: *ḥārr*, *ḥādd* (sharp), *laṭīf* (subtle/penetrating). Actions: **muqaṭṭiʿ li-l-balgham** (cutter of phlegm — the mucolytic/expectorant claim), *munaqqī li-l-ṣadr* (cleanser of the chest), *muḥallil* (dissolvent of hard swellings, topically), *mulaṭṭif* (attenuant). Indications: hoarseness and loss of voice, old cough, thick catarrh, tightness of the chest, hardness of the spleen (topical). The second-degree rating is the tradition's dose-scale: a *moderate* heater, to be given in short courses and not pushed.
+
+**Greek (attested).** Warming, **attenuating (λεπτυντικόν)** and **incising (τμητικόν)** — the two technical Greek terms for the drug class that thins and cuts viscid humour. Placed with the chest and throat drugs.
+
+**Traditional Chinese Medicine: not attested.** *Sisymbrium officinale* is a European-West Asian plant with no place in the Chinese materia medica; no taste, temperature or channel assignment exists. **Do not confuse it with *Ting Li Zi* (葶藶子, *Lepidium apetalum* / *Descurainia sophia*)** — a *different* Brassicaceae seed drug with a *different* doctrine (bitter/acrid, very cold, Lung and Bladder, draining Lung fluid) that is sometimes carelessly conflated with hedge mustard in cross-tradition tables. The confusion is a real one in the literature and this entry flags it rather than reproducing it.
+
+**Ayurveda: not attested.** No rasa, guṇa, vīrya or vipāka assignment exists for this species. The Ayurvedic mustard/cress category (*sarshapa*, *chandrashura*) belongs to other species and its attributes are not transferable.
+
+### Contraindications
+
+- **⚠️ RED FLAG — PERSISTENT HOARSENESS IS A CANCER SYMPTOM.** Hoarseness or voice change lasting **more than three weeks** — particularly in a smoker, an ex-smoker, or a heavy drinker, and especially with pain, ear pain, a lump in the neck, difficulty swallowing, or blood in the sputum — requires **urgent laryngoscopy**. It is a two-week-wait referral criterion in most health systems. **Self-treating a persistent hoarseness with a herbal tea is one of the most dangerous things in this volume, because it feels harmless and it buys the tumour time.** Hedge mustard is for a voice that is hoarse *this week*, from a cause you can name. Nothing else.
+- **Not a substitute for vocal rest.** Masking the discomfort of an abused voice while continuing to abuse it is how acute strain becomes vocal-fold haemorrhage, nodules and permanent change. Professional voice users: rest first, herb second.
+- **Pregnancy and breastfeeding: avoid.** No safety data. The pungent crucifers are traditionally regarded as stimulating and hedge mustard has been given emmenagogue-adjacent uses in some folk sources. Absence of data is not safety.
+- **Thyroid.** Brassicaceae glucosinolates and their breakdown products are the classic dietary **goitrogens**, interfering with iodide uptake. Short courses are unproblematic; **prolonged or high-dose use in hypothyroidism or iodine deficiency is not advised.** This is a real, mechanism-based caution, not a theoretical one.
+- **Cardenolide content in the genus** is a reason to keep this a **short-course** remedy (days to ~1–2 weeks) and to avoid it entirely alongside **cardiac glycosides (digoxin)** and in significant cardiac disease. [USER: verify quantitative cardenolide content in *S. officinale* before finalising this caution; the concern is class-level.]
+- **Gastro-oesophageal reflux and gastritis.** Isothiocyanates are TRPA1 agonists — i.e. they are *irritants by design*. In an inflamed oesophagus or stomach they can aggravate. Note the irony worth stating: **reflux is itself a leading cause of chronic hoarseness**, so a substantial fraction of the people reaching for this plant have precisely the condition it may worsen. If the hoarseness is worst in the morning, with heartburn or throat-clearing, **treat the reflux, not the voice.**
+- **Asthma and airway hyperreactivity.** TRPA1 agonists can provoke cough and bronchoconstriction in hyperreactive airways. Inhaling the volatiles from a steaming infusion may trigger, not relieve.
+- **Brassicaceae allergy / mustard allergy** — mustard is a recognised, sometimes severe food allergen. Contraindicated in mustard-allergic individuals.
+- **No interaction data exists.** Caution with anticoagulants and any narrow-therapeutic-index drug, on general principles.
+- **Children:** no data. Not recommended.
+
+---
+
+**Cross-references:** *Brassica nigra* / *Sinapis alba* (mustard) and *Armoracia rusticana* (horseradish) — the pungent-crucifer siblings sharing the glucosinolate→isothiocyanate→TRPA1 mechanism; *Capsicum annuum* (capsaicin/TRPV1) — the adjacent somatosensory channel and the instructive contrast; *Althaea officinalis* (marshmallow root) and *Ulmus rubra* (slippery elm) — the pure demulcents, the "coating" half of hedge mustard's action without the "heat," and the right choice when the throat is raw rather than clogged; *Propolis* and *Mel* (honey) — the combination partners in the commercial preparations, each with its own evidence base that must not be borrowed by the herb. See also **TRPA1 & the Doctrine of Sharpness** and **Reflex Expectorants: what "cutting the phlegm" means** in the mechanisms volume.
+
+*Filed under: Volume I — Plant-Based Substances / Pungent Crucifers (Airway & Voice Class) | Canonical ID CPU-00966*
