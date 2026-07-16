@@ -2,7 +2,7 @@
 
 ## *Zea mays* L. | Family: Poaceae
 
-**Tradition Tags:** SBJ, BM
+**Tradition Tags:** TCM (Chinese medicine), BM (Badianus)
 
 **Energetic Classification:** Corn silk — Cool/Neutral, Sweet-Bland, Draining, Downbearing. Grain — Neutral, Sweet, Building, Centring.
 

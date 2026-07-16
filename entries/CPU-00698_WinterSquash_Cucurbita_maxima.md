@@ -2,7 +2,7 @@
 
 ## *Cucurbita maxima Duchesne* | Family: Cucurbitaceae
 
-**Tradition Tags:** CM, BM, SBJ, SS
+**Tradition Tags:** CM (Avicenna), TCM (Chinese medicine), SS (Sushruta), BM (Badianus)
 
 **Energetic Classification:** Flesh cold and moist in the first-to-second degree (cooling, nourishing, demulcent); seed neutral-to-warm and drying.
 

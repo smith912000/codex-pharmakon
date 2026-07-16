@@ -2,7 +2,7 @@
 
 ## *Nicotiana tabacum* L. | Family: Solanaceae
 
-**Tradition Tags:** BM (Badianus), plus attested Indigenous South American and (by later diffusion) Shennong-tradition use
+**Tradition Tags:** TCM (Chinese medicine), BM (Badianus), SA (S.America)
 **Energetic Classification:** Hot and dry in the third to fourth degree; acrid, narcotic-stimulant, and poisonous in excess (Galenic/post-Columbian humoral reading — an intensely heating, purging, stupefying herb)
 **Training Phase:** Integration (advanced, hazard-gated) — never Foundation
 

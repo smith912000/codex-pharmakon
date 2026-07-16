@@ -2,7 +2,7 @@
 
 ## *Phaseolus vulgaris* L. | Family: Fabaceae
 
-**Tradition Tags:** DMM, CM, SBJ, BM
+**Tradition Tags:** DMM (Dioscorides), CM (Avicenna), TCM (Chinese medicine), BM (Badianus)
 **Energetic Classification:** Cool and dry in the first degree; the pod-decoction drying and diuretic (Galenic reading, applied to the old-world "bean" concept — see philological note)
 **Training Phase:** Grounding / Metabolic Regulation
 

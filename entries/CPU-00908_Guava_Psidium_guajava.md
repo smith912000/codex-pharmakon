@@ -2,7 +2,7 @@
 
 ## *Psidium guajava* L. | Family: Myrtaceae
 
-**Tradition Tags:** BM, SS, SBJ
+**Tradition Tags:** TCM (Chinese medicine), SS (Sushruta), BM (Badianus)
 **Energetic Classification:** Cool and dry, astringent (Galenic); binding and drying to the gut
 **Training Phase:** Stabilisation — the astringent, gut-anchoring plants that firm and settle the digestive centre.
 

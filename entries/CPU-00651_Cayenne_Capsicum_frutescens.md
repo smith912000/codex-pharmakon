@@ -2,7 +2,7 @@
 
 ## *Capsicum frutescens* L. | Family: Solanaceae
 
-**Tradition Tags:** CM (Avicenna), BM (Badianus), SBJ (Shennong), SS (Sushruta)
+**Tradition Tags:** CM (Avicenna), TCM (Chinese medicine), SS (Sushruta), BM (Badianus)
 **Energetic Classification:** Hot and Dry (to the 3rd/4th degree) — a Galenic/Unani calefacient and rubefacient
 **Training Phase:** Tempering
 

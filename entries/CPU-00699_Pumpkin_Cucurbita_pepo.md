@@ -2,7 +2,7 @@
 
 ## *Cucurbita pepo* L. | Family: Cucurbitaceae
 
-**Tradition Tags:** AT · CM · BM · DMM · EP · SBJ · SS (7 traditions)
+**Tradition Tags:** EP (Ebers), AT (Assyrian), DMM (Dioscorides), CM (Avicenna), TCM (Chinese medicine), SS (Sushruta), BM (Badianus)
 **Energetic Classification:** TCM — sweet, neutral-to-warm (seed); flesh sweet, cool-neutral, tonifying to Spleen. Galenic — flesh cold & moist (2nd degree); seed temperate-cool, moist, softening.
 **Training Phase:** Grounding · Clearing · Restoration
 

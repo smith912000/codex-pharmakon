@@ -2,7 +2,7 @@
 
 ## *Smilax officinalis* Kunth | Family: Smilacaceae
 
-**Tradition Tags:** AT, DMM, CM, SS
+**Tradition Tags:** DMM (Dioscorides), CM (Avicenna), TCM (Chinese medicine), SS (Sushruta), BM (Badianus)
 **Energetic Classification:** Hot and dry in the second degree (Galenic–Unani) — a warming, sudorific *depurative* / alterative "sweetener of the blood"
 **Training Phase:** Phase III — Depuration & the Blood (alteratives, diaphoretics, and "cleansers")
 

@@ -2,7 +2,7 @@
 
 ## *Carica papaya* L. | Family: Caricaceae
 
-**Tradition Tags:** BM (Badianus), SBJ (Shennong), SS (Sushruta)
+**Tradition Tags:** TCM (Chinese medicine), SS (Sushruta), BM (Badianus)
 **Energetic Classification:** Warm and Drying (a digestive resolvent); ripe fruit cooling and moistening
 **Training Phase:** Purification
 

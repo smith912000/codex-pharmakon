@@ -1,6 +1,6 @@
 # Lima Bean — Ayecohtli (Nahuatl, bean-concept) / Φάσηλος (Phasēlos, bean-concept) / 藊豆 (Biǎndòu, bean-concept)
 ## *Phaseolus lunatus L. | Family: Fabaceae (Leguminosae)*
-**Tradition Tags:** DMM · SBJ · BM
+**Tradition Tags:** DMM (Dioscorides), TCM (Chinese medicine), BM (Badianus)
 **Energetic Classification:** ◈ Jing · ◉ Qi · (cool–neutral, moist, nourishing)
 **Training Phase:** `[BUILD]` `[RESET]`
 

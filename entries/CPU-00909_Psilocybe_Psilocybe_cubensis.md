@@ -2,7 +2,7 @@
 
 ## *Psilocybe cubensis* (Earle) Singer / *Turbina corymbosa* (L.) Raf. | Family: Strophariaceae (fungus) / Convolvulaceae (vine)
 
-**Tradition Tags:** BM, SBJ, DMM, BM
+**Tradition Tags:** AT (Assyrian), TCM (Chinese medicine), FMT (rGyud-bzhi), BM (Badianus)
 **Energetic Classification:** Not classically humoral; ritual/entheogenic. Where forced into a Galenic frame, warm–dry and profoundly ecstatic-cathartic.
 **Training Phase:** Threshold — reserved, supervised, non-self-administered work at the far edge of the system; not an early or self-directed phase.
 

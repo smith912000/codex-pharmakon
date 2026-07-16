@@ -178,7 +178,7 @@ function render(){
   listEl.innerHTML=items.map(s=>`<div class="row" data-id="${s.id}">
     <span class="dot" style="background:${CLR[s.class]||'#888'}"></span>
     <span class="nm">${s.name}</span>
-    <span class="meta">${s.entry?'◆ ':''}<span class="src">${s.sources.length}</span></span></div>`).join('')
+    <span class="meta">${s.entry?'◆ ':(s.status==='duplicate'?'≡ ':'')}<span class="src">${s.sources.length}</span></span></div>`).join('')
     || '<div style="padding:18px;color:var(--dim)">No matches.</div>';
   listEl.querySelectorAll('.row').forEach(r=>r.onclick=()=>show(r.dataset.id));
 }
@@ -198,6 +198,13 @@ function show(id){
     fetch(RAW+s.entry).then(r=>r.ok?r.text():Promise.reject()).then(md=>{
       document.getElementById('eb').innerHTML=marked.parse(md);
     }).catch(()=>{document.getElementById('eb').innerHTML='<span style="color:var(--dim)">Draft entry could not be loaded.</span>';});
+  }else if(s.status==='duplicate'&&s.duplicate_of){
+    const c=DATA.find(x=>x.id===s.duplicate_of);
+    h+=`<div class="note">This is a <b>taxonomic synonym</b>, not a missing entry. <i>${s.botanical||s.name}</i> is the same substance as
+      <b>${c?c.name:s.duplicate_of}</b>${c&&c.botanical?` (<i>${c.botanical}</i>)`:''}, which carries the written entry.
+      <div style="margin-top:10px"><a href="#materia/${s.duplicate_of}" id="dupgo" style="color:var(--gold2)">→ Read it under ${c?c.name:s.duplicate_of}</a></div></div>`;
+    detEl.innerHTML=h;
+    const g=document.getElementById('dupgo'); if(g)g.onclick=e=>{e.preventDefault();show(s.duplicate_of);};
   }else{
     h+=`<div class="note">Full ten-section synthesis forthcoming — nomenclature, cross-traditional presence, convergence, phytochemistry, mechanisms, clinical evidence, phenomenology, application, the spiritual layer, and the functional–anatomical correlate.</div>`;
     detEl.innerHTML=h;
