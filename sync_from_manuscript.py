@@ -17,7 +17,7 @@ IDX  = "codex_index.json"
 
 def main():
     rows = list(csv.DictReader(open(CSV, encoding="utf-8")))
-    subs, synced, missing = [], 0, []
+    subs, synced, missing, dups = [], 0, [], 0
     for r in rows:
         done = r["status"].strip().lower() == "done" and r["entry_file"].strip()
         entry = None
@@ -29,14 +29,25 @@ def main():
                 shutil.copyfile(src, dest); entry = dest; synced += 1
             else:
                 missing.append(r["id"]); done = False
+        # Rows flagged "DUP of CPU-XXXXX" in notes are taxonomic synonyms/duplicates of an
+        # entry written under another name. They are NOT outstanding work: mark them
+        # 'duplicate' and point at the canonical id so they stop reading as gaps.
+        dup_of = None
+        m = re.search(r"DUP of (CPU-\d+)", r.get("notes", "") or "")
+        if m and not entry:
+            dup_of = m.group(1); dups += 1
         subs.append({
             "id": r["id"], "name": r["canonical_name"], "botanical": r["botanical"],
             "class": r["class"], "volume": r["volume"],
             "sources": [s for s in re.split(r"[;,]", r["sources_attested"]) if s.strip()],
-            "uncertain": False, "status": "done" if entry else "todo", "entry": entry})
+            "uncertain": False,
+            "status": "done" if entry else ("duplicate" if dup_of else "todo"),
+            "duplicate_of": dup_of, "entry": entry})
+    outstanding = sum(1 for s in subs if s["status"] == "todo")
     json.dump({"updated": "reconciled", "count": len(subs), "substances": subs},
               open(IDX, "w", encoding="utf-8"), ensure_ascii=False)
-    print(f"index: {len(subs)} substances; synced {synced} entries; missing source {len(missing)}: {missing[:5]}")
+    print(f"index: {len(subs)} substances; synced {synced} entries; "
+          f"duplicates {dups}; outstanding {outstanding}; missing source {len(missing)}: {missing[:5]}")
     print("then: git add -A && git commit -m 'sync site' && git push origin main")
 
 if __name__ == "__main__":
