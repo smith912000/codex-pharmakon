@@ -252,7 +252,9 @@ Ayahuasca's constitutional action corresponds most closely to a Tridoshic *rasay
 
 ---
 
-## Contraindications — The Absolute List
+### Contraindications
+
+**— The Absolute List —**
 
 The contraindication profile of ayahuasca is dominated by its pharmacological identity as a combined MAOI + serotonin agonist preparation. The following contraindications are absolute, not relative:
 
@@ -314,4 +316,4 @@ The serotonergic stimulation and potential hyperthermia component of high-dose a
 ---
 
 *Cross-references: I_134 (Iboga — comparative entheogenic pharmacology, Yuan-level reset mechanism), I_195 (Psilocybin — 5-HT2A mechanism, neuroplasticity comparison), I_099 (Ephedra — sympathomimetic contraindication), I_137 (Jatamansi — β-carboline pharmacology overlap)*
-*Filed under: Codex Pharmakon Universalis — Volume I | Entry I_023*
+*Filed under: Codex Pharmakon Universalis — Volume I | Canonical ID CPU-00474*
