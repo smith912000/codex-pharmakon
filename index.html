@@ -35,6 +35,8 @@ aside{width:340px;border-right:1px solid var(--line);display:flex;flex-direction
 .row .nm{flex:1;font-size:.92rem}.row .meta{font:600 .62rem sans-serif;color:var(--dim);letter-spacing:.05em}
 .row .src{color:var(--gold);opacity:.7}
 main{flex:1;overflow:auto;padding:34px 44px;max-width:900px}
+.backbar{display:none;width:100%;text-align:left;background:var(--panel);border:none;border-bottom:1px solid var(--line);color:var(--gold2);font:600 .82rem sans-serif;letter-spacing:.04em;padding:14px 16px;cursor:pointer;position:sticky;top:0;z-index:5}
+.backbar:active{background:#1c1912}
 .welcome{color:var(--dim)}.welcome h2{color:var(--gold2);font-weight:normal;letter-spacing:.08em;margin-bottom:10px}
 #detail h1{font-size:1.7rem;color:var(--gold2);font-weight:normal;letter-spacing:.02em}
 #detail .bot{font-style:italic;color:var(--dim);margin:2px 0 14px}
@@ -56,7 +58,15 @@ main{flex:1;overflow:auto;padding:34px 44px;max-width:900px}
 .docrow:hover{background:#171510}.docrow.sel{background:#1c1912;border-left:2px solid var(--gold);color:var(--gold2)}
 .soonwrap{flex:1;display:flex;align-items:center;justify-content:center;text-align:center;padding:40px}
 .soonwrap div{max-width:520px;color:var(--dim)}.soonwrap h2{color:var(--gold2);font-weight:normal;letter-spacing:.08em;margin-bottom:12px}
-@media(max-width:760px){aside,.docnav{width:100%;flex-basis:auto}.view{flex-direction:column}.docnav{max-height:38vh}main{padding:24px}}
+@media(max-width:760px){
+  aside,.docnav{width:100%;flex-basis:auto}.view{flex-direction:column}.docnav{max-height:38vh}main{padding:24px}
+  /* mobile master–detail: list only, until a substance is tapped */
+  #view-materia main{display:none;padding:0}
+  #view-materia.detail-open aside{display:none}
+  #view-materia.detail-open main{display:block}
+  #view-materia.detail-open #detail{padding:18px 18px 64px}
+  #view-materia.detail-open .backbar{display:block}
+}
 </style></head>
 <body>
 <header>
@@ -85,6 +95,7 @@ main{flex:1;overflow:auto;padding:34px 44px;max-width:900px}
     <div id="list"></div>
   </aside>
   <main>
+    <button class="backbar" id="backbtn">← All substances</button>
     <div id="detail"><div class="welcome">
       <h2>A browsable, sourced encyclopedia</h2>
       <p>Every entry is one verified substance, deduplicated across nine historical medical traditions — from the Ebers Papyrus (ca. 1550 BCE) to the Northwest Amazon. Select a substance, or search above.</p>
@@ -209,8 +220,21 @@ function show(id){
     h+=`<div class="note">Full ten-section synthesis forthcoming — nomenclature, cross-traditional presence, convergence, phytochemistry, mechanisms, clinical evidence, phenomenology, application, the spiritual layer, and the functional–anatomical correlate.</div>`;
     detEl.innerHTML=h;
   }
-  if(window.innerWidth<=760)document.getElementById('aside').classList.add('hide');
+  const mv=document.getElementById('view-materia');
+  if(window.innerWidth<=760){mv.classList.add('detail-open');}
+  const mn=mv.querySelector('main'); if(mn)mn.scrollTop=0;
 }
+/* mobile: back to the list */
+function backToList(){
+  document.getElementById('view-materia').classList.remove('detail-open');
+  if(location.hash.startsWith('#materia/'))location.hash='materia';
+}
+document.getElementById('backbtn').onclick=backToList;
+/* browser back button / hash change returns to list on mobile */
+window.addEventListener('hashchange',()=>{
+  if(location.hash==='#materia'||location.hash==='')
+    document.getElementById('view-materia').classList.remove('detail-open');
+});
 document.getElementById('q').oninput=e=>{q=e.target.value.toLowerCase().trim();render();};
 document.querySelectorAll('#classChips .chip').forEach(c=>c.onclick=()=>{
   filt=c.dataset.c;document.querySelectorAll('#classChips .chip').forEach(x=>x.classList.toggle('on',x===c));render();});
