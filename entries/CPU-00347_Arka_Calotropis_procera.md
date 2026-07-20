@@ -2,7 +2,8 @@
 
 ## *Calotropis procera* (Aiton) Dryand. | Family: Apocynaceae (subfamily Asclepiadoideae)
 
-**Tradition Tags:** Suśruta Saṃhitā (**head of the Arkādi gaṇa** — the caustic/kaphaghna, kṛmighna, kuṣṭhaghna group; a foremost **viṣaghna** and śodhana drug); Caraka Saṃhitā (bhedana/recanā/vamana adjunct; kuṣṭhaghna); Bhāvaprakāśa Nighaṇṭu; solar/ritual traditions; folk medicine across arid South Asia, the Middle East and Africa
+**Tradition Tags:** DMM, CM, SS
+**Tags (previous line, retained for reference):** Suśruta Saṃhitā (**head of the Arkādi gaṇa** — the caustic/kaphaghna, kṛmighna, kuṣṭhaghna group; a foremost **viṣaghna** and śodhana drug); Caraka Saṃhitā (bhedana/recanā/vamana adjunct; kuṣṭhaghna); Bhāvaprakāśa Nighaṇṭu; solar/ritual traditions; folk medicine across arid South Asia, the Middle East and Africa
 **Energetic Classification (Ayurvedic):** Kaṭu-Tikta rasa · Laghu-Rūkṣa-Tīkṣṇa guṇa · **Uṣṇa vīrya** · Kaṭu vipāka → **Kapha-Vāta-śāmaka**, strongly Pitta-vardhaka
 **Training Phase:** `[RESET]`
 

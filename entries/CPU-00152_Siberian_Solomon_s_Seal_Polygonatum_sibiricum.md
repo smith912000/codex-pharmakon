@@ -2,7 +2,8 @@
 
 ## *Polygonatum sibiricum* Redouté — the sweet, moistening rhizome the Daoists ate to "grow feathers and fly"
 
-**Tradition Tags:** CM · SBJ (later materia medica) · Daoist longevity · FMT (East-Asian)
+**Tradition Tags:** SBJ, FMT
+**Tags (previous line, retained for reference):** CM · SBJ (later materia medica) · Daoist longevity · FMT (East-Asian)
 **Energetic Classification (TCM):** ◉ Qi Primary (Spleen/Lung Qi) / ◈ Jing Secondary (Kidney-essence nourishing)
 **Training Phase:** `[BUILD]` `[PRIME]` `[RESET]`
 
@@ -93,3 +94,5 @@ Codex policy: polysaccharide-led tonic and metabolic chemistry is securely state
 
 *Cross-references: I_019 (Asparagus, *Asparagus officinalis* — and the Shatavari demulcent-tonic parallel), I_020 / I_021 (Astragalus — Qi-and-Yin pairing partner), I_073 (Codonopsis — gentle Qi-tonic partner), Yù Zhú (*Polygonatum odoratum* — the cooling Yin-moistening sibling, distinct entry).*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_265*
+
+*Filed under: Volume I — Plant-Based | Asparagaceae | Canonical ID CPU-00152*

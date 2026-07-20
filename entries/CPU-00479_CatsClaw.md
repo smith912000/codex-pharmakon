@@ -68,3 +68,5 @@ Cat's Claw represents the Amazon's contribution to the Codex — the forest's im
 - **Anticoagulants** — TOA alkaloids have anti-platelet effects
 - **Pre-surgery** — discontinue 2 weeks prior
 - **Organ transplant immunosuppression** — contraindicated
+
+*Filed under: Volume I — Plant-Based | Rubiaceae | Canonical ID CPU-00479*

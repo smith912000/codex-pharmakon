@@ -74,3 +74,5 @@ Maca operates as a food-grade Jing tonic — its safety profile allows doses tha
 - **Hormone-sensitive conditions** (estrogen-dependent cancers) — glucosinolate estrogenic activity requires caution
 - **Pregnancy** — insufficient safety data for therapeutic doses
 - **Raw powder and digestive sensitivity** — raw starch may cause bloating; use gelatinized form
+
+*Filed under: Volume I — Plant-Based | Brassicaceae | Canonical ID CPU-00501*

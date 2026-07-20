@@ -2,7 +2,8 @@
 
 ## *Solanum xanthocarpum* Schrad. & Wendl. (≡ *S. virginianum* L.) | Family: Solanaceae
 
-**Tradition Tags:** Suśruta Saṃhitā (Daśamūla component); Caraka Saṃhitā (kāsahara, śvāsahara groups); Ayurvedic (dravyaguṇa); Siddha (respiratory materia medica); folk medicine
+**Tradition Tags:** CM, SS
+**Tags (previous line, retained for reference):** Suśruta Saṃhitā (Daśamūla component); Caraka Saṃhitā (kāsahara, śvāsahara groups); Ayurvedic (dravyaguṇa); Siddha (respiratory materia medica); folk medicine
 
 **Energetic Classification (Ayurvedic):** Kapha-Vāta-śāmaka (chiefly clears Kapha from the respiratory channels and pacifies Vāta); heating.
 

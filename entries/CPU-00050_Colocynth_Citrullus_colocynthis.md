@@ -2,7 +2,8 @@
 
 ## *Citrullus colocynthis* (L.) Schrad. — the desert gourd whose bitter pulp empties the bowel with violence
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book IV) · Greco-Roman · Hebrew/Biblical (paqquoth — "wild gourds") · Unani/Arabic (Handhal) · Folk-Saharan
+**Tradition Tags:** EP, AT, DMM, CM
+**Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book IV) · Greco-Roman · Hebrew/Biblical (paqquoth — "wild gourds") · Unani/Arabic (Handhal) · Folk-Saharan
 **Energetic Classification (TCM):** ◉ Qi (drastic purgative)
 **Training Phase:** [SPECIALIST ONLY] — violent drastic cathartic; toxic
 
@@ -68,3 +69,5 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 *Cross-references: the cucurbitacin drastic-purgative cluster — squirting cucumber (I_223), white bryony (I_244); scammony (I_213) and the compound colocynth pill; the biblical "death in the pot." Contrast the gentle osmotic laxatives (manna, I_018).*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_075*
+
+*Filed under: Volume I — Plant-Based | Cucurbitaceae | Canonical ID CPU-00050*

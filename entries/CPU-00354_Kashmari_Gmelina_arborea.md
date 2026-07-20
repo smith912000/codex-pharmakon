@@ -1,6 +1,7 @@
 # Kashmari — Kāśmarī / Gambhārī / Gambhari / Sriparni / Bhadraparni (Sanskrit); Gamhar, Gumhar (Hindi); Beechwood, White Teak, Gmelina (English); Gumadi teku (Telugu)
 ## *Gmelina arborea* Roxb. ex Sm. | Family: Lamiaceae (formerly placed in Verbenaceae)
-**Tradition Tags:** SS (Suśruta Saṃhitā — member of the Bṛhat Pañcamūla / greater Daśamūla), CS (Caraka), AH (Aṣṭāṅga Hṛdaya)
+**Tradition Tags:** CM, SS
+**Tags (previous line, retained for reference):** SS (Suśruta Saṃhitā — member of the Bṛhat Pañcamūla / greater Daśamūla), CS (Caraka), AH (Aṣṭāṅga Hṛdaya)
 **Energetic Classification (Ayurvedic):** Tridoṣaghna with a lean toward Vāta–Pitta pacification; heating (uṣṇa vīrya), sweet post-digestive resolution (madhura vipāka) — nourishing rather than depleting
 **Training Phase:** Grounding / Restorative phase; Consolidation phase (rasāyana support); adjunct in the Recovery arc
 

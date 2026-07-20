@@ -98,3 +98,5 @@ Where the European tradition prized dandelion chiefly as a bitter hepatic and di
 *Cross-references: Entry I_013 Artichoke (Cynara scolymus) — the parallel cholagogue bitter of the same family, foregrounding the hepatic action dandelion shares; Entry I_281 Gentiana crassicaulis (Qin Jiao) and Entry I_282 Gentiana straminea — companion bitter-cold heat-clearing herbs of the Sino-Tibetan pharmacopoeia*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_280*
+
+*Filed under: Volume I — Plant-Based | Asteraceae | Canonical ID CPU-00171*

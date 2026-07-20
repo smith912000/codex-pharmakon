@@ -90,6 +90,32 @@ Traditional Ayurvedic preparation using dried cannabis leaves (lowest THC conten
 
 ---
 
+### Cultivation Register
+
+*This entry concerns the **seed** — *ma zi* 麻子, *ma zi ren* / *huo ma ren* 麻子仁, the achene. Cultivation claims attaching to the flowering tops, the resin, or any psychoactive preparation belong to a different plant part and are **not** transferred here. Where a tradition's claim attaches to a different part, that is stated explicitly rather than quietly carried across.*
+
+**Assyrian (AT).** Absent. The blocking warning on Assyrian substance identifications, deity and demon attributions and tablet references is in force, and nothing retrieved lifts it for hemp seed. No cultivation status is claimed.
+
+**Unani / Avicenna (CM).** Hemp seed (*shahdānaj*) is attested in the Unani materia medica, but **no substance-specific cultivation status is attested in the academic sources retrieved**. The tradition's cultivation frame is the doctrine of **innate heat and radical moisture** — a finite vital endowment whose depletion *is* ageing, so that longevity practice here is **conservation, not acquisition**. Whether hemp seed conserves or spends that endowment is not something the sources retrieved say, and it is not guessed at. Note also that the Unani narcotic *banj* is a separate drug entirely and nothing from it is imported.
+
+**Nahua / Badianus (BM).** No cultivation framing is attested. The *tonalli* / *teyolia* / *ihiyotl* model is **not in the Badianus manuscript**, which is naturalistic; it is a reconstruction from later ethnohistory (López Austin), and that qualification is repeated every time. Hemp is an Old World plant and no Nahua vitality assignment for its seed survives in sources meeting this project's standard. The pre-Columbian hot/cold versus post-conquest Galenic question is left unresolved.
+
+**Greek / Dioscorides (DMM).** Dioscorides has no subtle-body system, so no cultivation status is available to assign — this is not a gap in the retrieval but a fact about the text. What the tradition offers a cultivator is a **discipline of attention**: knowing the seed's provenance, its season, its condition by sight, smell and taste, and whether the oil in it has turned. For an oil-bearing seed that goes rancid, that discipline is the whole of the practical question.
+
+**Egyptian (EP).** Absent. The corpus is indication-organised — it records what was done for a complaint, not what a substance does to a person's *ka*, *ba*, *akh* or *ib* — and substance identification within it is a modern hypothesis. No Egyptian cultivation framing for hemp seed is attested, and *heka*, real where attested, is not attested here.
+
+**Chinese / Shennong (SBJ).** This is where the greatest care is needed, because the tradition's famous cultivation language attaches to **a different part of the plant**. Brand and Zhao (*Frontiers in Pharmacology* 8:108, 2017) distinguish ***ma fen*** 麻蕡 — the immature female inflorescence or mature infructescence, i.e. the flowering tops — from ***huo ma ren* / *ma zi ren*** 麻子仁, the achenes. The *Shennong bencao jing* passage that cultivators reach for — excessive consumption causing one to see ghosts and run about frenetically, and prolonged consumption freeing the spirit light and lightening the body (通神明輕身) — is recorded of ***ma fen***, the flowering tops. **It is not a claim about the seed and is not applied to the seed here.** ⚠️ Note too that *qing shen* 輕身, "lighten the body," has **no pharmacological equivalent** and is never translated into one. The seed itself is recorded as a non-toxic food-grade substance and a moistening laxative, the basis of the classical Cannabis Seed Pill for constipation (Brand and Zhao 2017). **No *san pin* 三品 grade for the seed could be confirmed** in academic sources meeting this project's standard — the "upper grade" attribution circulates widely but was traceable only to commercial TCM sites, which are refused — so the seed carries **no attested cultivation status here, only a therapeutic and dietary one**.
+
+*Dating the Daoist material.* The association of hemp with adepts and transcendence is real but **later than the Han classic and attached to the flower**: Brand and Zhao record that **Tao Hongjing, sixth century CE**, noted that adepts take cannabis *flower* with ginseng and thereby know of things that have not yet come — and that **Li Shizhen (*Bencao gangmu*, 1596) dismissed this as an overstatement**. So: sixth-century, about the flower, and disputed within the tradition itself by the sixteenth. None of it is evidence about *ma zi ren*.
+
+**Ayurveda (SS).** *Vijaya* is attested in the Ayurvedic materia medica, but the classification recorded above — *Tama*-increasing at high dose, *Nidrājana*, *Ānandamaya* — describes the **psychoactive leaf and flower preparation, not the seed**, and is not transferred to it. For the seed specifically, **no *rasayana* or *vajikarana* membership is attested** in sources meeting this project's standard, and no *ojas* claim is made. (*Ojas* is recorded only in its own register.) ⚠️ The *sattva/rajas/tamas* triad is a **Samkhya** category used alongside *dravyaguna*, not a member of it, and the popular sattvic-food lists derive from the Gita and later material rather than from Sushruta.
+
+**Tibetan (FMT).** No cultivation status is attested for hemp seed, and **no formal category of "substances for subtle-body practice" exists** in this tradition to place it in; none is invented. The system's own framing: the three *nyes pa* derive from the three poisons, so pathology is at root a spiritual condition, and medicine is the third of four treatment branches — it supports practice, it does not reach the root.
+
+**Practitioner's note.** Hemp seed is a food and a bulk-forming, moistening laxative grain, and across eight traditions that is very nearly all it is. The cultivation reputation of *Cannabis* is real, historically documented, and belongs to the flower — it does not transfer to the seed by botanical adjacency, and a cultivator who eats *ma zi ren* expecting the *ma fen* literature has misread the register. What is actually available here is unglamorous and worth having: a nutritious oil-bearing seed, gentle on the bowel, safe as food, with no long-term status claimed for it by any tradition tagged in this entry. Buy it fresh, keep it cold, and expect nothing of it beyond nutrition and regularity.
+
+---
+
 ### Contraindications
 
 - **Psychosis / schizophrenia spectrum / family history** — THC is a known precipitant of psychotic episodes in genetically susceptible individuals (CB1 receptor modulation of dopamine in mesolimbic pathways); absolute contraindication for THC-containing preparations in those with personal or family history of psychotic disorder
@@ -101,3 +127,5 @@ Traditional Ayurvedic preparation using dried cannabis leaves (lowest THC conten
 
 *Cross-references: I_147 (Wild Lettuce — the milder sedative-analgesic), I_263 (Wormwood — the bitter anthelmintic contrast), I_072 (Clove — β-caryophyllene CB2 overlap)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_128*
+
+*Filed under: Volume I — Plant-Based | Cannabaceae | Canonical ID CPU-00257*

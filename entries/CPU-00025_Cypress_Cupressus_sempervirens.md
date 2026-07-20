@@ -2,7 +2,8 @@
 
 ## *Cupressus sempervirens* L. — the dark astringent spire that binds tissue and stems the flux
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book I) · Greco-Roman · Unani/Persian (Sarv) · Folk-Mediterranean
+**Tradition Tags:** AT, DMM, CM
+**Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book I) · Greco-Roman · Unani/Persian (Sarv) · Folk-Mediterranean
 **Energetic Classification (TCM):** ◉ Qi (astringent, drying, binding)
 **Training Phase:** [GENERAL]
 
@@ -63,3 +64,5 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 *Cross-references: the astringent-tannin cluster — oak gall, chestnut (I_063), bistort, tormentil; the conifer-resin group — juniper, the pines (I_226, I_041); the venotonic agents (horse chestnut, witch hazel).*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_085*
+
+*Filed under: Volume I — Plant-Based | Cupressaceae | Canonical ID CPU-00025*

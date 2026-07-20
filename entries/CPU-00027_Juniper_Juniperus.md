@@ -145,3 +145,5 @@ The pharmaceutical-to-culinary trajectory of juniper in European medicine illust
 
 *Cross-references: I_164 (Mugwort — sacred smoke medicine overlap; Asteraceae/Cupressaceae terpene comparison), I_204 (Rose — RESET phase pairing for joint and autonomic support), IV_04 (Sacred Smoke Medicine — juniper as most cross-traditional representative of the fumigatory therapeutic category), I_193 (Poria Fu Ling — complementary diuretic and renal support in RESET phase), III_239 (Gokshura/Tribulus — Ayurvedic functional equivalent for kidney-Yang and urinary channel support)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_139*
+
+*Filed under: Volume I — Plant-Based | Cupressaceae | Canonical ID CPU-00027*

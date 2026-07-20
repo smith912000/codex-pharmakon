@@ -1,6 +1,7 @@
 # Agnimantha — अग्निमन्थ (Agnimantha) · Arani · Jayanti · Headache Tree · Tarkari · Vahnimantha
 ## *Premna integrifolia* L. (≡ *P. serratifolia* L., ≡ *P. obtusifolia*) | Family: Lamiaceae (formerly Verbenaceae)
-**Tradition Tags:** Suśruta Saṃhitā (Daśamūla — one of the ten great roots; laghu-pañcamūla member); Caraka Saṃhitā; Aṣṭāṅga Hṛdaya; Ayurvedic Formulary of India; Siddha; Unani
+**Tradition Tags:** CM, SS
+**Tags (previous line, retained for reference):** Suśruta Saṃhitā (Daśamūla — one of the ten great roots; laghu-pañcamūla member); Caraka Saṃhitā; Aṣṭāṅga Hṛdaya; Ayurvedic Formulary of India; Siddha; Unani
 **Energetic Classification (Ayurvedic):** Kaṭu–Tikta–Kaṣāya rasa · Uṣṇa vīrya · Kaṭu vipāka → predominantly Kapha–Vāta-śāmaka (pacifies Kapha and Vāta; may aggravate Pitta in excess)
 **Training Phase:** `[BUILD]`
 ---

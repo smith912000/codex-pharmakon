@@ -131,3 +131,5 @@ Tahini (sesame paste) is an extremely convenient whole-food protein-mineral-fat 
 
 *Cross-references: II_239 (Sesame — also cross-referenced in Volume II), I_113 (Flaxseed — parallel oily-seed Jing tonic; different lignan profile), I_198 (Rehmannia — Kidney-Yin Jing companion tonic)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_217*
+
+*Filed under: Volume I — Plant-Based | Pedaliaceae | Canonical ID CPU-00036*

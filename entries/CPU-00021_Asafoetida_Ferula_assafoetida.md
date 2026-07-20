@@ -2,7 +2,8 @@
 
 ## *Ferula assa-foetida* L. — the fetid umbelliferous resin, carminative of the cold and windy gut
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book III) · Greco-Roman (the *laser*/silphium successor) · Ayurveda (Hingu) · Unani · Persian · Folk-Indian
+**Tradition Tags:** AT, DMM, CM
+**Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book III) · Greco-Roman (the *laser*/silphium successor) · Ayurveda (Hingu) · Unani · Persian · Folk-Indian
 **Energetic Classification (TCM):** ◉ Qi (warming, descending, moving stagnant qi)
 **Training Phase:** [GENERAL]
 
@@ -65,3 +66,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the *Ferula* gum-resin cluster — galbanum (I_109), ammoniacum (I_009), sagapenum (I_209); extinct silphium/*laser* as its historical antecedent; the carminative aromatics — ginger, cumin, ajwain; the antispasmodics.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_015*
+
+*Filed under: Volume I — Plant-Based | Apiaceae | Canonical ID CPU-00021*

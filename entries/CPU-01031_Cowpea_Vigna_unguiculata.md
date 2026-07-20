@@ -2,7 +2,8 @@
 
 ## *Vigna unguiculata* (L.) Walp. | Family: Fabaceae (Leguminosae)
 
-**Tradition Tags:** FMT (West African foodways · canonical) · SS (Ayurvedic pulse category) · AT (Unani grain-legume dietetics) · EP (Greco-Roman *dolichos*/*phaselos* legume group) · DMM (Dioscoridean pulse chapter, genus-level) · BM (Biblical/Levantine pulse tradition)
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** FMT (West African foodways · canonical) · SS (Ayurvedic pulse category) · AT (Unani grain-legume dietetics) · EP (Greco-Roman *dolichos*/*phaselos* legume group) · DMM (Dioscoridean pulse chapter, genus-level) · BM (Biblical/Levantine pulse tradition)
 
 **Energetic Classification:** Galenic — warming-to-neutral, drying in the second degree (dry pulse; the fresh pod cooler and moister). Ayurvedic — *madhura/kashaya* (sweet-astringent), *laghu* (light), mildly *vata*-provoking when dry, *kapha*-neutral.
 

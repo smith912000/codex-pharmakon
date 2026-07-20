@@ -126,3 +126,5 @@ Chamomile occupies a precise niche in the Kenetica pharmacological toolkit: the 
 
 *Cross-references: I_241 (Valerian — complementary GABA modulator; European sleep stack), I_066 (Chrysanthemum — TCM functional parallel), III_130 (Pearl Powder — Shen-cooling combination), I_113 (Gentian — complementary digestive bitter)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_062*
+
+*Filed under: Volume I — Plant-Based | Asteraceae | Canonical ID CPU-00281*

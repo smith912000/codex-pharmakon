@@ -2,7 +2,8 @@
 
 ## *Nymphaea alba* L. | Family: Nymphaeaceae
 
-**Tradition Tags:** DMM (Dioscoridean/Graeco-Roman) · SBJ (Unani/Tibb) · AT (Ayurveda / allied *Nymphaea*) · CM (allied lotus/water-lily kin) · FMT (Folk & Magico-Traditional) · BM (Biomedicine)
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** DMM (Dioscoridean/Graeco-Roman) · SBJ (Unani/Tibb) · AT (Ayurveda / allied *Nymphaea*) · CM (allied lotus/water-lily kin) · FMT (Folk & Magico-Traditional) · BM (Biomedicine)
 **Energetic Classification:** Galenic/Unani — cold and moist in the second-to-third degree; a refrigerant and calmant. TCM (allied aquatics) — sweet, cool; heart-clearing, spirit-calming.
 **Training Phase:** Cooling · Sedation-calming · Restraint (anaphrodisiac)
 

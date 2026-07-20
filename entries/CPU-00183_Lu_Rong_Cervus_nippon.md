@@ -121,3 +121,5 @@ Lù Róng is classified in both the SBJ and all major TCM pharmacopoeias as the 
 *Cross-references: Entry I_115 Ginseng (Panax ginseng) — classical Kidney Yang combination; Entry I_078 Cordyceps sinensis/militaris — anabolic and erythropoietic stack; Entry I_020 Astragalus membranaceus — comprehensive Jing-Yuan stack; Entry I_100 Epimedium brevicornu — complementary Kidney Yang protocol via distinct PDE5/BMP mechanism*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_154*
+
+*Filed under: Volume I — Plant-Based | Canonical ID CPU-00183*

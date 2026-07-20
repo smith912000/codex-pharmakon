@@ -2,7 +2,8 @@
 
 ## *Drimia maritima* (L.) Stearn — the giant coastal bulb that quickens the heart, clears the chest, and kills the rat
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book II) · Greco-Roman · Egyptian (Ebers) · Folk-Mediterranean
+**Tradition Tags:** EP, DMM, CM
+**Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book II) · Greco-Roman · Egyptian (Ebers) · Folk-Mediterranean
 **Energetic Classification (TCM):** ◉ Qi (forceful expectorant/diuretic) / ☿ Shen (cardiac action)
 **Training Phase:** [SPECIALIST ONLY] — cardiac glycoside bulb; narrow margin
 
@@ -69,3 +70,5 @@ Codex policy: mechanism stated securely; named citations to be supplied and veri
 *Cross-references: the cardiac-glycoside cluster — foxglove (*Digitalis*), oleander, lily-of-the-valley, hellebore (I_039); the forceful expectorants; the Na⁺/K⁺-ATPase mechanism (shared with foxglove and, by inhibition, contrasted with the muscle action of quinine, I_197).*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_222*
+
+*Filed under: Volume I — Plant-Based | Asparagaceae | Canonical ID CPU-00041*

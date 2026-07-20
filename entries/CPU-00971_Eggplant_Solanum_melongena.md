@@ -2,7 +2,8 @@
 
 ## *Solanum melongena* L. | Family: Solanaceae
 
-**Tradition Tags:** AT, DMM, SBJ, SS, +Avicenna (Unani/Canon)
+**Tradition Tags:** AT, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** AT, DMM, SBJ, SS, +Avicenna (Unani/Canon)
 **Energetic Classification:** Cold and dry in the second degree (Galenic/Unani), earthy-melancholic; sometimes graded "hot" by pungency of the unripe fruit
 **Training Phase:** Depuration & Grounding (Earth-phase food-medicine)
 

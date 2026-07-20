@@ -115,3 +115,5 @@ Wǔ Wèi Zǐ (五味子, "Five Flavor Fruit") is unique in the entire materia me
 *Cross-references: Entry I_115 Ginseng (Panax ginseng) — classical Sheng Mai San pairing; Entry I_200 Ganoderma lucidum; Entry I_202 Rhodiola rosea — Soviet adaptogen stack*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_215*
+
+*Filed under: Volume I — Plant-Based | Schisandraceae | Canonical ID CPU-00954*

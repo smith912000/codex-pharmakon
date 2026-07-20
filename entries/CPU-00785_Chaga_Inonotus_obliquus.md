@@ -147,3 +147,5 @@ The Mumijo/Shilajit (II_101) cross-reference demands elaboration. These two subs
 
 *Cross-references: II_101 (Mumijo/Shilajit — parallel Eurasian extreme-environment tonic; humic acid chemistry overlap; CYCLE-OFF combination protocol), I_159 (Milk Thistle/Silybum — hepatoprotective combination; Phase II enzyme upregulation complement to chaga's antioxidant shielding), I_061 (Elder/Sambucus — immune stack: chaga builds baseline NK/macrophage tone; elderberry provides acute antiviral response), Reishi/Ganoderma (separate Volume entry — closest functional relative as an immunomodulatory polysaccharide-rich medicinal fungus; complementary triterpene chemistry; classic combination in East Asian immune formulas)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_061*
+
+*Filed under: Volume I — Plant-Based | Hymenochaetaceae | Canonical ID CPU-00785*

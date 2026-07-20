@@ -2,7 +2,8 @@
 
 ## *Levisticum officinale* W.D.J.Koch — the warming aromatic root, carminative and diuretic of the cold gut
 
-**Tradition Tags:** DMM-adjacent (Greco-Roman *ligusticum*) · Greco-Roman · Unani · Folk-European (esp. monastic gardens)
+**Tradition Tags:** AT, DMM, CM
+**Tags (previous line, retained for reference):** DMM-adjacent (Greco-Roman *ligusticum*) · Greco-Roman · Unani · Folk-European (esp. monastic gardens)
 **Energetic Classification (TCM):** ◉ Qi (warming, drying, carminative-diuretic)
 **Training Phase:** [GENERAL]
 
@@ -64,3 +65,5 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 *Cross-references: the aromatic-umbellifer carminative-diuretics — angelica, celery, fennel, anise (this volume), parsley (this volume); Chuan Xiong (*Ligusticum chuanxiong*) sharing the ligustilide phthalide chemistry; the "five opening roots."*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_153*
+
+*Filed under: Volume I — Plant-Based | Apiaceae | Canonical ID CPU-00076*

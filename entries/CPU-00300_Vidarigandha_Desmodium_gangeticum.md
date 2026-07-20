@@ -2,7 +2,8 @@
 
 ## *Desmodium gangeticum* (L.) DC. | Family: Fabaceae (Leguminosae; Papilionoideae)
 
-**Tradition Tags:** SS (Sushruta — **head of the Vidārigandhādi gaṇa**; a *Daśamūla* / *Laghupañcamūla* root); Caraka (Balya, Śvayathuhara groups); classical Ayurvedic *rasāyana* and jvara literature
+**Tradition Tags:** CM, SS
+**Tags (previous line, retained for reference):** SS (Sushruta — **head of the Vidārigandhādi gaṇa**; a *Daśamūla* / *Laghupañcamūla* root); Caraka (Balya, Śvayathuhara groups); classical Ayurvedic *rasāyana* and jvara literature
 **Energetic Classification (Ayurvedic):** **Tridoshic / Vāta-Pitta-śāmaka** — a sweet, cooling, unctuous balya (strength-giving) root that pacifies Vāta and Pitta while not aggravating Kapha
 **Training Phase:** `[BUILD]` `[PRIME]` `[RESET]`
 

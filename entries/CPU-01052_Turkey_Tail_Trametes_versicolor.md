@@ -113,3 +113,5 @@ The cultural resonance of *Trametes versicolor* extends beyond oncological immun
 *Cross-references: Entry I_078 Cordyceps (Cordyceps sinensis/militaris) — energy and endurance complement; Entry I_149 Lion's Mane (Hericium erinaceus) — gut microbiome synergy; Entry I_063 Chaga (Inonotus obliquus) — antioxidant and anti-tumor complement; Entry I_020 Astragalus (Astragalus membranaceus) — Wei Qi immune comparison*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_238*
+
+*Filed under: Volume I — Plant-Based | Canonical ID CPU-01052*

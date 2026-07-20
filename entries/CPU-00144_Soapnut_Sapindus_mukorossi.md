@@ -2,7 +2,8 @@
 
 ## *Sapindus mukorossi* Gaertn. — the foaming fruit that washes hair, skin and cloth from a single saponin shell
 
-**Tradition Tags:** AT (Ayurveda — reetha/arishtaka) · Himalayan & North-Indian folk medicine · CM (related *Sapindus* / Wu Huan Zi) · BM (surfactant chemistry, household & cosmetic use)
+**Tradition Tags:** SBJ, SS, FMT
+**Tags (previous line, retained for reference):** AT (Ayurveda — reetha/arishtaka) · Himalayan & North-Indian folk medicine · CM (related *Sapindus* / Wu Huan Zi) · BM (surfactant chemistry, household & cosmetic use)
 **Energetic Classification (TCM):** ◉ Qi (cleansing, expectorant, dispersing)
 **Training Phase:** [GENERAL]
 
@@ -74,3 +75,5 @@ Codex policy: chemical class (triterpenoid saponins) and the surfactant/expector
 *Cross-references: the saponin-surfactant cluster — shikakai (*Acacia concinna*) and other foaming cleansers; amla (gooseberry) as a common hair-care partner; Wu Huan Zi as the related Chinese-tradition *Sapindus* drug; the expectorant-saponin group generally.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_261*
+
+*Filed under: Volume I — Plant-Based | Sapindaceae | Canonical ID CPU-00144*

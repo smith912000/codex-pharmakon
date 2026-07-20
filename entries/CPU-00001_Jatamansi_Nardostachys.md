@@ -157,3 +157,5 @@ The Shen Primary assignment reflects jatamansi's predominant pharmacological act
 
 *Cross-references: I_219 (Brahmi/Bacopa — classical Medhya Rasayana combination), I_239 (Ashwagandha — HPA axis partner in [RESET] protocol), I_241 (Valerian — pharmacological relative; shared valerianoid chemistry; comparative CNS profile), I_188 (Piper longum — bioavailability enhancer for sesquiterpene-rich formulations), I_193 (Poria Fu Ling — Shen-calming partner in combined evening formulations)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_137*
+
+*Filed under: Volume I — Plant-Based | Caprifoliaceae | Canonical ID CPU-00001*

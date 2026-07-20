@@ -2,7 +2,8 @@
 
 ## *Rubia cordifolia* L. — the crimson root that runs through the lymph and clears the skin
 
-**Tradition Tags:** SS (Ayurveda — Manjishtha, *Sushruta Samhita* / classical nighantus) · SBJ (Chinese Medicine — Qian Cao Gen, *Bencao Gangmu*) · CM (Unani — Fuwwah, related madders) · Folk-Himalayan
+**Tradition Tags:** FMT
+**Tags (previous line, retained for reference):** SS (Ayurveda — Manjishtha, *Sushruta Samhita* / classical nighantus) · SBJ (Chinese Medicine — Qian Cao Gen, *Bencao Gangmu*) · CM (Unani — Fuwwah, related madders) · Folk-Himalayan
 **Energetic Classification (TCM):** ◉ Qi — a blood-moving, blood-cooling agent of the circulatory axis
 **Training Phase:** [GENERAL]
 
@@ -73,3 +74,5 @@ Codex policy: anthraquinone/cyclic-peptide chemistry stated securely; named cita
 *Cross-references: Barberry / Berberis (I_027) and Chinese Goldthread (I_258) as the bitter blood-and-damp-heat cluster; Dan Shen / Salvia miltiorrhiza (I_088) as a fellow blood-invigorating, stasis-dispelling root; the anthraquinone cluster — Aloe (I_007), Himalayan Dock (I_257).*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_254*
+
+*Filed under: Volume I — Plant-Based | Rubiaceae | Canonical ID CPU-00134*

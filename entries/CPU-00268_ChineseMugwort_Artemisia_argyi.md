@@ -2,7 +2,8 @@
 
 ## *Artemisia argyi* H.Lév. & Vaniot | Family: Asteraceae
 
-**Tradition Tags:** SBJ (Shennong Ben Cao Jing lineage — *ài yè*, warming/hemostatic/gynaecological; the canonical moxibustion herb)
+**Tradition Tags:** EP, DMM, CM, SBJ, FMT
+**Tags (previous line, retained for reference):** SBJ (Shennong Ben Cao Jing lineage — *ài yè*, warming/hemostatic/gynaecological; the canonical moxibustion herb)
 
 **Energetic Classification (TCM):** Warm · bitter, acrid (pungent) · slightly toxic in excess. Enters LIVER, SPLEEN, and KIDNEY. Warms the channels and stops bleeding; dispels cold and stops pain; regulates menstruation and calms the fetus.
 

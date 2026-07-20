@@ -87,6 +87,26 @@ The mucilage demulcent coating of inflamed intestinal mucosa, combined with the 
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** This requires care, because flax carries the single strongest ritual association of any plant in this volume — and it does not attach to the drug. Linen, the woven fibre of *Linum usitatissimum*, is the material of mummy wrapping and of priestly garment, and is bound up with Egyptian ideas of purity and of the dead body's preparation. **That association belongs to the cloth, not to the seed.** A purity requirement governing what a priest wears is not a cultivation status for flaxseed as a materia medica item, and the two must not be silently merged — the seed in the medical papyri appears in emollient, eye and digestive preparations, a wholly separate use of a wholly separate part of the plant. Beyond that, the specific claim that priests were *required* to wear linen and forbidden wool traces to Herodotus and is contested in the later literature; no Egyptological scholarship verifying it was retrieved in this pass, so it is not asserted here. For the seed as drug: no *heka* context, no recitation, no attribution to the person's *ka*, *ba* or *ib*. **(c) absent for the seed; the fibre's ritual role noted and deliberately not converted into one.**
+
+**Assyrian (AT).** No cultivation status is recorded. Flax (*kitû*) is documented in Assyrian agricultural and medical contexts, but nothing retrieved attests which causal agency a flax preparation was held to oppose — and illness in this system is classified partly by agency, so without that the substance has no place in the scheme. The standing blocking warning applies to the identification, the tablet references and any divine or demonic attribution. **(c) absent.**
+
+**Greek / Dioscorides (DMM).** Dioscorides has no subtle-body system and none is to be manufactured for *linon*. What survives for a cultivator is his discipline of attention: the seed distinguished from the fibre, the warm soaked-seed poultice distinguished from the decoction distinguished from the oil, each route matched to a different condition. The modern warning that culinary cold-pressed linseed oil is not the polymerised drying oil of the workshop is the same discipline restated — knowing exactly which preparation of a plant is in your hand. **(c) absent** as to vital status.
+
+**Unani (CM).** Flaxseed carries a *mizāj*, warm and moist. **A temperament assignment is not a cultivation status.** It describes the drug's action on the balance of the body — hence the warm chest poultice, the intestinal emollient, the soothing diuretic — and says nothing about the *rūḥ*, and nothing about innate heat and radical moisture, the finite endowment whose slow expenditure constitutes ageing in this system. Nothing retrieved attests *kattān* as conserving that endowment. No *Canon* chapter reference is given, the standard English text being an unreliable adaptation. **(b) framed, status unattested.**
+
+**Ayurveda (SS).** *Atasī* is recorded above with a full dravyaguna profile — *snigdha* (unctuous), *uṣṇa* vīrya, Vata-Kapha *śamaka*, and *balya*, strength-giving. *Balya* is a therapeutic quality, not one of the formal disciplines: it is not *rasāyana* and not *vājīkaraṇa*, and no source retrieved places flaxseed in either Sushrutan division. Nor is any claim made here about *ojas*. What the tradition attests is a warming, unctuous, drying-correcting drug — which is precisely why the moist warm poultice belongs to cold, stiff, dry conditions and not to hot ones. **(b) framed, status unattested.**
+
+**Chinese (SBJ).** Two cautions. First, the classical *hú má* 胡麻 of the Han-period materia medica is sesame, not flax, and the two must not be conflated on the strength of a similar name; flax proper (*yà má* 亞麻) enters the Chinese record far later. Second, the actions recorded above — nourishing Liver Blood, lubricating the intestines, benefiting skin and hair — reach us through Li Shizhen's *Bencao Gangmu* of **1596**, a late compendium, and are dated accordingly. No *san pin* 三品 grade, no *jiu fu* 久服 long-term-consumption formula and no *qing shen* 輕身 claim is recorded for flax in the sources retrieved, and none is asserted for the earlier classic. Its status in this tradition is therapeutic, not *yang sheng* 養生. **(b) framed, grade unattested.**
+
+**Tibetan (FMT).** No Tibetan cultivation framing is attested. Nothing retrieved places flax inside *bcud len* or inside any regimen addressed to a specific *nyes pa*. And the structural point holds regardless: medicine is the third of the four treatment branches, supporting practice rather than reaching the root, which is the three poisons. **(c) absent.**
+
+**Practitioner's note.** Flax gives a cultivator two things and they are easy to confuse. The plant carries immense ritual weight as cloth — and none of it transfers to the seed. The seed is a food: ground fresh, taken with sufficient water, daily, for what it demonstrably does to bowel, blood lipids and dryness. Treat it that way. The one piece of genuine practice-discipline in this entry is Dioscoridean rather than devotional — grind it fresh, keep the oil cold and unheated, and know which part of the plant you are holding.
+
+---
+
 ### Contraindications
 
 - **Whole seed — must be ground for systemic benefit** — whole flaxseed passes through the GI tract without significant nutrient release; only ground seed provides ALA, lignans, and mucilage absorption; however, whole seeds are useful as a gentle mechanical laxative (intact mucilage layer)
@@ -98,3 +118,5 @@ The mucilage demulcent coating of inflamed intestinal mucosa, combined with the 
 
 *Cross-references: I_242 (Walnut — the ALA omega-3 nut companion), I_217 (Sesame — the lignan sesamin complement), I_189 (Plantain — the psyllium mucilage comparison for constipation)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_107*
+
+*Filed under: Volume I — Plant-Based | Linaceae | Canonical ID CPU-00129*

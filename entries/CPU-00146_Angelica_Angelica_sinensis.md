@@ -95,3 +95,5 @@ The root is harvested in autumn, three years after planting, then carefully drie
 
 *Cross-references: I_011 Angelica sinensis (early entry) · I_199 Rehmannia Di Huang · I_194 Poria Fu Ling · I_215 Schisandra Schisandra chinensis · I_175 Ophiopogon Mai Men Dong*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_010*
+
+*Filed under: Volume I — Plant-Based | Apiaceae | Canonical ID CPU-00146*

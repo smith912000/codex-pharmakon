@@ -103,3 +103,5 @@ Clove 1g + ginger 1g + black pepper 0.5g decoction; drink for cold-type conditio
 
 *Cross-references: I_040 (Black Pepper — aromatic digestive companion; shared β-caryophyllene mechanism), I_121 (Ginger — warming digestive triad partner), I_053 (Cardamom — the cooler aromatic counterpart for Pitta types)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_072*
+
+*Filed under: Volume I — Plant-Based | Myrtaceae | Canonical ID CPU-00133*

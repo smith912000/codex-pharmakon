@@ -2,7 +2,8 @@
 
 ## *Plantago major* L. | Family: Plantaginaceae
 
-**Tradition Tags:** EP (European Phytotherapy) · DMM (Dioscoridean Materia Medica) · CM (Chinese Materia Medica) · SS (South Asian / Unani-Ayurvedic) · FMT (Folk & Monastic Traditions) · BM (Biomedical)
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** EP (European Phytotherapy) · DMM (Dioscoridean Materia Medica) · CM (Chinese Materia Medica) · SS (South Asian / Unani-Ayurvedic) · FMT (Folk & Monastic Traditions) · BM (Biomedical)
 
 **Energetic Classification:** Galenic — cool and dry in the second degree, drawing and binding (astringent-vulnerary); TCM — sweet and cold, entering (by kinship with *Plantago asiatica*) the Kidney, Bladder, Liver and Lung, clearing heat and draining damp.
 

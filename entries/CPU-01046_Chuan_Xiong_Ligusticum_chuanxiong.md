@@ -124,3 +124,5 @@ Kawashima K, Hayakawa T, Miwa Y, Kasahara Y, Miwa T (1988) "Structure-activity r
 *Cross-references: I_088 (Dān Shēn — complementary blood-activating partner with mechanistically distinct but additive anti-platelet and circulatory mechanisms) · I_026 (Bái Sháo — Sì Wù Tāng formula partner; Yin-nourishing counterbalance to Chuān Xiōng's dispersing action) · I_010 (Dāng Guī — Sì Wù Tāng formula partner; blood-nourishing complement) · I_150 (Licorice / Gān Cǎo — anti-spasmodic formula synergy)*
 
 *Filed under: Codex Pharmakon Universalis — Volume I (Plant-Based Substances) | Entry I_067*
+
+*Filed under: Volume I — Plant-Based | Apiaceae | Canonical ID CPU-01046*

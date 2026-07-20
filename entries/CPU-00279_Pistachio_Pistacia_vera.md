@@ -2,7 +2,8 @@
 
 ## *Pistacia vera* L. | Family: Anacardiaceae
 
-**Tradition Tags:** CM (Avicenna / Greco-Arab — *fustuq*, a nourishing, warming nut; genus context includes mastic/terebinth resins of *Pistacia lentiscus* / *P. terebinthus*)
+**Tradition Tags:** EP, AT, DMM, CM, SS
+**Tags (previous line, retained for reference):** CM (Avicenna / Greco-Arab — *fustuq*, a nourishing, warming nut; genus context includes mastic/terebinth resins of *Pistacia lentiscus* / *P. terebinthus*)
 
 **Energetic Classification (TCM):** Warm · sweet · (nourishing food-medicine). No sharp classical Chinese categorisation for the imported nut; treated as a warming, tonifying seed. Broadly associated with the KIDNEY/SPLEEN nourishing register in a food-therapy sense.
 

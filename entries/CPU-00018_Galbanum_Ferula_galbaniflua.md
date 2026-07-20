@@ -2,7 +2,8 @@
 
 ## *Ferula galbaniflua* Boiss. & Buhse — the fetid-green oleo-gum-resin of the sacred incense
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book III) · Greco-Roman · Hebrew/Biblical (chelbenah) · Unani/Persian · Folk-Persian
+**Tradition Tags:** EP, AT, DMM, CM
+**Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book III) · Greco-Roman · Hebrew/Biblical (chelbenah) · Unani/Persian · Folk-Persian
 **Energetic Classification (TCM):** ◉ Qi (warming, dispersing, resolving)
 **Training Phase:** [GENERAL]
 
@@ -64,3 +65,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the *Ferula* / umbelliferous gum-resin cluster — asafoetida, ammoniacum (I_009), sagapenum (I_209), opopanax (I_176); the sacred-incense group — frankincense, myrrh, stacte; note the recurrent identity fluidity within *Ferula*.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_109*
+
+*Filed under: Volume I — Plant-Based | Apiaceae | Canonical ID CPU-00018*

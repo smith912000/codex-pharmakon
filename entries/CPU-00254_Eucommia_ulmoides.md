@@ -71,3 +71,5 @@ Anti-fatigue studies in mice demonstrate that Eucommia polysaccharides reduce bl
 **Drug interactions:** Potential additive hypotensive effect when combined with antihypertensive medications (ACE inhibitors, beta-blockers) — monitor blood pressure. The chlorogenic acid content may mildly affect hepatic cytochrome P450 (CYP3A4) metabolism — caution with drugs metabolized by this enzyme.
 
 **Practice incompatibilities:** Avoid combining with excessive stimulant protocols (high-caffeine, ephedra-based) during the same phase, as the descending/anchoring energetic of Eucommia conflicts with the ascending-dispersing force of strong stimulants, creating a pattern of energetic incoherence in the lower back region.
+
+*Filed under: Volume I — Plant-Based | Eucommiaceae | Canonical ID CPU-00254*

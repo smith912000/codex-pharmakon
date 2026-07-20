@@ -2,7 +2,8 @@
 
 ## *Rubus phoenicolasius* Maxim. — the kidney-astringing bramble fruit, consolidator of essence and urine
 
-**Tradition Tags:** Chinese Medicine (Fu Pen Zi group) · Folk-East Asian
+**Tradition Tags:** FMT
+**Tags (previous line, retained for reference):** Chinese Medicine (Fu Pen Zi group) · Folk-East Asian
 **Energetic Classification (TCM):** ◉ Qi (astringent, warming, kidney-consolidating)
 **Training Phase:** [GENERAL]
 
@@ -61,3 +62,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the kidney-consolidating astringent tonics (CM "stabilise and bind") — Shan Zhu Yu, Jin Ying Zi, Sang Piao Xiao; the *Rubus* berries (raspberry, blackberry); the antioxidant polyphenol fruits.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_247*
+
+*Filed under: Volume I — Plant-Based | Rosaceae | Canonical ID CPU-00113*

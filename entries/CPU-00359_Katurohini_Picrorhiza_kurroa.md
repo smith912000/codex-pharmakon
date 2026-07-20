@@ -2,7 +2,8 @@
 
 ## *Picrorhiza kurroa* Royle ex Benth. | Family: Plantaginaceae
 
-**Tradition Tags:** SS (Suśruta Saṃhitā) · Ayurvedic classical materia medica · Himalayan alpine ethnomedicine
+**Tradition Tags:** CM, SS, FMT
+**Tags (previous line, retained for reference):** SS (Suśruta Saṃhitā) · Ayurvedic classical materia medica · Himalayan alpine ethnomedicine
 
 **Energetic Classification (Ayurvedic):** Rasa (taste): Tikta (bitter), Kaṭu (pungent) · Vīrya (potency): Śīta (cooling) · Vipāka (post-digestive): Kaṭu (pungent) · Guṇa (qualities): Laghu (light), Rūkṣa (dry) · Doṣa action: Kapha-Pitta-śāmaka (pacifies Kapha and Pitta); may aggravate Vāta in excess.
 

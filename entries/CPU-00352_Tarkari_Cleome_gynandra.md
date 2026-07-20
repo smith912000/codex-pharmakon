@@ -2,7 +2,8 @@
 
 ## *Cleome gynandra* L. (syn. *Gynandropsis gynandra* (L.) Briq.) | Family: Cleomaceae (formerly Capparaceae/Brassicaceae s.l.)
 
-**Tradition Tags:** Suśruta Saṃhitā (associated with the pungent, kṛmighna/kaphaghna pot-herbs; grouped near the Varuṇādi / śāka-varga pungent greens); Bhāvaprakāśa Nighaṇṭu (Śāka-varga — pot-herb); vernacular Ayurvedic and pan-tropical folk medicine (rubefacient seed, febrifuge, anthelmintic leaf)
+**Tradition Tags:** SS
+**Tags (previous line, retained for reference):** Suśruta Saṃhitā (associated with the pungent, kṛmighna/kaphaghna pot-herbs; grouped near the Varuṇādi / śāka-varga pungent greens); Bhāvaprakāśa Nighaṇṭu (Śāka-varga — pot-herb); vernacular Ayurvedic and pan-tropical folk medicine (rubefacient seed, febrifuge, anthelmintic leaf)
 **Energetic Classification (Ayurvedic):** Kaṭu-Tikta rasa · Laghu-Rūkṣa-Tīkṣṇa guṇa · Uṣṇa vīrya · Kaṭu vipāka → **Kapha-Vāta-śāmaka**, Pitta-vardhaka
 **Training Phase:** `[PRIME]`
 

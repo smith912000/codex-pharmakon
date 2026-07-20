@@ -2,7 +2,8 @@
 
 ## *Raphanus sativus* L. | Family: Brassicaceae
 
-**Tradition Tags:** EP (European Phytotherapy) · DMM (Dioscoridean Materia Medica) · CM (Chinese Materia Medica) · SS (South Asian / Unani-Ayurvedic) · FMT (Folk & Culinary Traditions) · BM (Biomedical)
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** EP (European Phytotherapy) · DMM (Dioscoridean Materia Medica) · CM (Chinese Materia Medica) · SS (South Asian / Unani-Ayurvedic) · FMT (Folk & Culinary Traditions) · BM (Biomedical)
 
 **Energetic Classification:** Galenic — hot and dry in the second/third degree (pungent, cutting, attenuating); TCM — the seed (莱菔子 *lái fú zǐ*) acrid, sweet and neutral, entering Lung, Spleen and Stomach, downbearing qi and dissolving accumulation.
 

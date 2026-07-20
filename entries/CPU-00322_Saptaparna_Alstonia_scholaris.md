@@ -1,6 +1,7 @@
 # Saptaparna (Devil's Tree, Blackboard Tree) — Saptaparṇa, Saptacchada, Viṣamacchada, Śāradā, Chatrapaṛṇa
 ## *Alstonia scholaris* (L.) R.Br. | Family: Apocynaceae
-**Tradition Tags:** SS (Suśruta Saṃhitā) · CS (Caraka) · Folk (Dai / Yunnan) · TCM-adjacent
+**Tradition Tags:** CM, SBJ, SS
+**Tags (previous line, retained for reference):** SS (Suśruta Saṃhitā) · CS (Caraka) · Folk (Dai / Yunnan) · TCM-adjacent
 **Energetic Classification (Ayurvedic):** Tikta–Kaṣāya rasa · Laghu–Rūkṣa (Snigdha in some accounts) guṇa · Uṣṇa vīrya · Kaṭu vipāka · Kapha-Vāta śāmaka
 **Training Phase:** Purification · Fever-clearing · Respiratory conditioning
 

@@ -2,7 +2,8 @@
 
 ## *Euphorbia fischeriana* Steud. — the caustic-latex root of the cold-phlegm purge and the anticancer diterpenes
 
-**Tradition Tags:** Chinese Medicine (Lang Du) · Folk-Northeast Asian
+**Tradition Tags:** FMT
+**Tags (previous line, retained for reference):** Chinese Medicine (Lang Du) · Folk-Northeast Asian
 **Energetic Classification (TCM):** ◉ Qi (caustic, drastic, phlegm-and-mass dispersing)
 **Training Phase:** [SPECIALIST ONLY] — toxic caustic root; processed/specialist use only
 
@@ -66,3 +67,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the caustic-spurge cluster — European spurge (*E. characias*, this volume), gum euphorbium (*E. resinifera*); the antitumour Euphorbia diterpenoids (ingenol lineage); the CM mass-dispersing/parasiticide drastics.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_106*
+
+*Filed under: Volume I — Plant-Based | Euphorbiaceae | Canonical ID CPU-00102*

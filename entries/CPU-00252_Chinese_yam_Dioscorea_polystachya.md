@@ -92,3 +92,5 @@ This is firmly a `[GENERAL]` herb. Its food-grade safety profile, gentle action,
 
 *Cross-references: I_092 (Dioscorea Shan Yao — companion entry / TCM monograph), I_289 (Water Plantain Ze Xie — Liù Wèi Dì Huáng Wán draining counterpart), I_022 (Atractylodes Bai Zhu — Spleen-tonifying partner), I_038 (Black Bryony — Dioscorea communis genus relative)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_290*
+
+*Filed under: Volume I — Plant-Based | Dioscoreaceae | Canonical ID CPU-00252*

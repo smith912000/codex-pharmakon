@@ -109,3 +109,5 @@ Medjool date paste used as natural sweetener in training foods and recovery ball
 
 *Cross-references: I_112 (Garlic — the other "tree of life" substance from the ancient Near East), III_021 (Honey — the primary AT/EP drug vehicle partner), I_193 (Poria — Chinese tonic counterpart in Qi-building role)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_089*
+
+*Filed under: Volume I — Plant-Based | Arecaceae | Canonical ID CPU-00418*

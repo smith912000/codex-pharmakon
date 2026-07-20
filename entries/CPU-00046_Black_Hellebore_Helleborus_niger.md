@@ -2,7 +2,8 @@
 
 ## *Helleborus niger* L. — the dark root that scoured the mind of madness
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book IV) · Hippocratic Corpus · Galenic · Pliny · Folk-European
+**Tradition Tags:** EP, AT, DMM, CM
+**Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book IV) · Hippocratic Corpus · Galenic · Pliny · Folk-European
 **Energetic Classification (TCM):** ◉ Qi (violent downward-draining) / ☿ Shen (madness-clearing in the Western humoral sense — no orthodox TCM analogue)
 **Training Phase:** [SPECIALIST ONLY] — cardiotoxic, never self-administered
 
@@ -78,3 +79,5 @@ The Codex policy here is explicit: **fewer real citations are preferred over inv
 *Cross-references: I_245 White Hellebore (*Veratrum album*) — the "upward" purgative counterpart and the ancient confusion of the two hellebores; Digitalis (foxglove) — the cardenolide cardiac glycoside paradigm; the bufadienolide entries (toad venom / Bufo) for the comparative bufadienolide class.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_039*
+
+*Filed under: Volume I — Plant-Based | Ranunculaceae | Canonical ID CPU-00046*

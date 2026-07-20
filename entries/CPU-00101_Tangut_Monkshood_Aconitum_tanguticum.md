@@ -2,7 +2,8 @@
 
 ## *Aconitum tanguticum* (Maxim.) Stapf — the alpine aconite of Tibetan medicine, processed poison for heat and fever
 
-**Tradition Tags:** Tibetan (rGyud-bzhi; bong-nga/bong-dkar) · Chinese Medicine-adjacent · Folk-Himalayan
+**Tradition Tags:** FMT
+**Tags (previous line, retained for reference):** Tibetan (rGyud-bzhi; bong-nga/bong-dkar) · Chinese Medicine-adjacent · Folk-Himalayan
 **Energetic Classification (TCM):** ◉ Qi / ☿ Shen (diterpenoid-alkaloid action)
 **Training Phase:** [SPECIALIST ONLY] — toxic aconite; processed use only, no casual use
 
@@ -62,3 +63,5 @@ Codex policy: mechanism stated securely; named citations to be supplied and veri
 *Cross-references: the aconite cluster — wolfsbane (*A. napellus*, this volume), Fuzi/Chuan Wu (*A. carmichaelii*); the norditerpenoid-alkaloid sodium-channel poisons — stavesacre (this volume); the Tibetan *rGyud-bzhi* materia medica.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_231*
+
+*Filed under: Volume I — Plant-Based | Ranunculaceae | Canonical ID CPU-00101*

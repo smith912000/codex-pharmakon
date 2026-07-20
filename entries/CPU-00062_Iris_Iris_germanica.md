@@ -2,7 +2,8 @@
 
 ## *Iris germanica* L. (incl. *I. florentina*) — the aromatic orris rhizome, expectorant and perfumer's fixative
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book I) · Greco-Roman · Egyptian · Unani · Folk-European
+**Tradition Tags:** EP, AT, DMM, CM, SS
+**Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book I) · Greco-Roman · Egyptian · Unani · Folk-European
 **Energetic Classification (TCM):** ◉ Qi (aromatic, warming-drying, expectorant/resolvent)
 **Training Phase:** [GENERAL]
 
@@ -67,3 +68,5 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 *Cross-references: the aromatic expectorant rhizomes — calamus/sweet flag (I_047), elecampane; the perfumery fixatives — labdanum (I_143), the resins; the acrid iris cousins (blue/yellow flag) as a cautionary contrast.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_135*
+
+*Filed under: Volume I — Plant-Based | Iridaceae | Canonical ID CPU-00062*

@@ -2,7 +2,8 @@
 
 ## *Areca catechu* L. — the stimulant palm-seed of half the world's chewers, anthelmintic in the clinic and carcinogen in the cheek
 
-**Tradition Tags:** SS (Ayurveda — Puga / Kramuka) · SBJ (Chinese Medicine — Bing Lang, *Bencao Gangmu*) · CM (Unani — Fufal / Supari) · BM-analogue/Folk (Pan-Asian and Pacific chewing complex)
+**Tradition Tags:** SS, FMT
+**Tags (previous line, retained for reference):** SS (Ayurveda — Puga / Kramuka) · SBJ (Chinese Medicine — Bing Lang, *Bencao Gangmu*) · CM (Unani — Fufal / Supari) · BM-analogue/Folk (Pan-Asian and Pacific chewing complex)
 **Energetic Classification (TCM):** ◉ Qi — a downward-draining, qi-moving, parasite-expelling agent
 **Training Phase:** [SPECIALIST ONLY] — habitual chewing is a recognised human carcinogen; honest toxicity below
 
@@ -77,3 +78,5 @@ Codex policy: the Group 1 carcinogen status and arecoline's cholinergic mechanis
 *Cross-references: Betel leaf (*Piper betle*) — the pepper-family wrapper of the quid; the parasite-expelling cluster; Datura (I_090) and Belladonna (I_031) as the *anti*-cholinergic counterpoints to arecoline's cholinergic agonism.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_256*
+
+*Filed under: Volume I — Plant-Based | Arecaceae | Canonical ID CPU-00137*

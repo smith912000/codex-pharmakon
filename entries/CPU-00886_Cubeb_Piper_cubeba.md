@@ -2,7 +2,8 @@
 
 ## *Piper cubeba* L.f. | Family: Piperaceae
 
-**Tradition Tags:** CM-analogue (Unani/Tibb — *Kabāb Chīnī*) · SS (Ayurvedic *Kankola*) · DMM (medieval Graeco-Arabic materia medica) · FMT (Folk European/Arab) · SBJ (Southeast-Asian/Javanese origin) · BM (Biomedical)
+**Tradition Tags:** AT, DMM, CM, SBJ, SS, FMT
+**Tags (previous line, retained for reference):** CM-analogue (Unani/Tibb — *Kabāb Chīnī*) · SS (Ayurvedic *Kankola*) · DMM (medieval Graeco-Arabic materia medica) · FMT (Folk European/Arab) · SBJ (Southeast-Asian/Javanese origin) · BM (Biomedical)
 
 **Energetic Classification:** Unani/Galenic — hot and dry, second degree (a warming, drying aromatic). Ayurvedic — pungent (*katu*) and bitter, heating (*ushna*), pungent post-digestive; kapha- and vata-pacifying.
 

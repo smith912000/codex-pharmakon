@@ -2,7 +2,8 @@
 
 ## *Cinnamomum zeylanicum* Blume (≡ *C. verum* J.Presl) | Family: Lauraceae
 
-**Tradition Tags:** SS (Suśruta Saṃhitā) · Ayurvedic classical materia medica · member of the classical **Tvak–Elā–Patra (Trijāta / Trisugandhi) aromatic triad**
+**Tradition Tags:** DMM, SS
+**Tags (previous line, retained for reference):** SS (Suśruta Saṃhitā) · Ayurvedic classical materia medica · member of the classical **Tvak–Elā–Patra (Trijāta / Trisugandhi) aromatic triad**
 
 **Energetic Classification (Ayurvedic):** Rasa (taste): Kaṭu (pungent), Tikta (bitter), Madhura (sweet) · Vīrya (potency): Uṣṇa (warming) · Vipāka (post-digestive): Kaṭu (pungent) · Guṇa (qualities): Laghu (light), Rūkṣa (dry), Tīkṣṇa (sharp/penetrating) · Doṣa action: Kapha-Vāta-śāmaka (pacifies Kapha and Vāta); increases Pitta.
 

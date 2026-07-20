@@ -2,7 +2,8 @@
 
 ## *Crepidium acuminatum* (D.Don) Szlach. (syn. *Malaxis acuminata* D.Don) | Family: Orchidaceae
 
-**Tradition Tags:** Suśruta Saṃhitā (member of the *Aṣṭavarga* octad; jīvanīya / rejuvenative context, constituent of *rasāyana* and *cyavanaprāśa*); Caraka Saṃhitā (jīvanīya gaṇa association); classical *ghṛta*/*rasāyana* formulae; modern conservation concern (threatened, routinely substituted)
+**Tradition Tags:** SS
+**Tags (previous line, retained for reference):** Suśruta Saṃhitā (member of the *Aṣṭavarga* octad; jīvanīya / rejuvenative context, constituent of *rasāyana* and *cyavanaprāśa*); Caraka Saṃhitā (jīvanīya gaṇa association); classical *ghṛta*/*rasāyana* formulae; modern conservation concern (threatened, routinely substituted)
 
 **Energetic Classification (Ayurvedic):** Tridoṣaghna with special Vāta-Pitta pacification; *madhura-vipāka*, *śīta-vīrya*, *guru-snigdha* — a bṛṃhaṇa (bulk-and-strength building), jīvanīya (life-promoting) dravya
 

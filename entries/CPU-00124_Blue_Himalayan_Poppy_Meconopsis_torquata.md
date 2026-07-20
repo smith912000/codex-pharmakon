@@ -2,7 +2,8 @@
 
 ## *Meconopsis torquata* Prain — the high-altitude blue poppy, Tibetan remedy for heat, liver and lung
 
-**Tradition Tags:** Tibetan (rGyud-bzhi) · Folk-Himalayan
+**Tradition Tags:** FMT
+**Tags (previous line, retained for reference):** Tibetan (rGyud-bzhi) · Folk-Himalayan
 **Energetic Classification (TCM):** ◉ Qi (cooling, heat-and-inflammation clearing)
 **Training Phase:** [GENERAL]
 
@@ -60,3 +61,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the Papaveraceae — opium poppy (*Papaver somniferum*, distinct; this volume), the blue-poppy *Meconopsis* group; the Tibetan *rGyud-bzhi* heat-clearing herbs — Tangut dragonhead, Tangut monkshood (this volume).*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_043*
+
+*Filed under: Volume I — Plant-Based | Papaveraceae | Canonical ID CPU-00124*

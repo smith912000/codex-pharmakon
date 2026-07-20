@@ -119,3 +119,5 @@ Polysaccharide fractions from *Eupatorium* species have been investigated for im
 
 *Cross-references: I_094 (Sambucus nigra — PA-free diaphoretic substitute for the febrile-immune indication); I_062 (Matricaria chamomilla — shares the Asteraceae sesquiterpene-lactone cross-reactivity caution); I_095 (Inula helenium — Asteraceae respiratory companion, also carries sesquiterpene-lactone sensitisation note); I_013 (Cynara scolymus — the cholagogue/hepatic-bitter action without PA risk).*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_299*
+
+*Filed under: Volume I — Plant-Based | Asteraceae | Canonical ID CPU-00278*

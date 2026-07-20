@@ -89,6 +89,26 @@ A research line (not yet RCT-validated) suggests cilantro fresh herb facilitates
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** No cultivation framing is attested, and one distinction has to be held firmly. Coriander is well established in Egyptian funerary contexts archaeobotanically — seeds recovered from tomb deposits — but **presence in a tomb is a deposition fact, not a cultivation status**. It tells us that coriander was available, valued enough to place with the dead, and part of the food economy. It does not tell us that the tradition held coriander to act on the *ka*, the *ba*, the *akh* or the *ib*. The Ebers material is indication-organised: it records what was done for a complaint. No *heka* recitation is attested for coriander in the sources retrieved, and no deity attribution is made here.
+
+**Assyrian (AT).** No cultivation status is attested. *Kisibirru* is frequent in the Nineveh tablets and coriander appears in the palace garden records as a cultivated plant — but that is horticulture, not cultivation in this section's sense, and the Codex's blocking warning over Assyrian substance identifications and tablet references applies in full. The corpus classifies illness by causal agency; nothing retrieved assigns coriander a role in relation to a person's vital constitution.
+
+**Greek / Dioscorides (DMM).** Dioscorides has no subtle-body system and none is supplied. What he gives a cultivator is a discipline of attention, and coriander is a good demonstration of it: he treats seed and fresh herb as two different materials with different actions, recommends the seed over the herb for most medicinal purposes, and records that the fresh leaf in quantity produces confusion and stupefaction. That is a dose-and-part judgement arrived at by observation — the practice is knowing which part you hold, in what quantity, and where the boundary of safe use sits.
+
+**Unani / Avicenna (CM).** No cultivation status is attested; only the frame. The tradition's cultivation idea is the conservation of innate heat and radical moisture — a finite endowment whose depletion is ageing — so longevity here is conservation, not acquisition. Ibn Sina's rating of coriander as cold and dry in the second degree is a temperamental co-ordinate governing its use in hot complaints, not a claim that it conserves that endowment. His warning that excessive fresh leaf causes "diminished reason" is a *harm* recorded against a faculty, not a cultivation status; it is a reason for restraint, not a practice. No claim that coriander strengthens the *ruh* is attested, and none should be constructed from the *mufarrih* literature, which belongs to a different work.
+
+**Ayurveda (SS).** Attested in the *dravyaguna* with unusually complete co-ordinates — *madhura-tikta rasa*, *sheeta virya*, *tridosha shamaka*, *dīpana*, *mūtrajana*, *prameha-ghna* — and one genuinely notable property: it is among the few spices that aggravate no *dosha* at culinary quantity. That tolerability is a real and useful fact. But *rasayana* and *vajikarana* are formal Sushrutan divisions, and coriander seed is not recorded in either in the sources retrieved; no *ojas* claim is attested for it. Status therefore unattested — a well-characterised therapeutic and dietary substance without a rejuvenative grade.
+
+**Chinese (SBJ).** No *san pin* 三品 grade is attested for either 芫荽 (fresh herb) or 胡荽子 (seed) in the sources retrieved, and it is worth noting that this entry's Chinese material is drawn from the *Bencao Gangmu* — Li Shizhen, 1596 — a late compilation rather than the classics, so no grade should be back-projected onto the earlier tradition from it. The recorded actions are dispersing and digestive: the fresh herb pungent and warm, promoting sweating and unblocking the pores; the seed promoting digestion. Both are curative in character, and *yang sheng* 養生 is a conservational project, not a curative one. No 輕身 attribution is attested.
+
+**Tibetan (FMT).** No cultivation framing is attested, and this entry supplies no Tibetan attestation for coriander at all — the tag stands without supporting material in the body of the entry. In the Four Tantras' own architecture, medicine is the third of four treatment branches and does not reach the root of the three *nyes pa*, which is the three poisons; there is no formal category of substances for subtle-body practice to place coriander in, and *bcud len* is not attested for it. The tradition tag should be re-examined against a source.
+
+**Practitioner's note.** Coriander is a food that does an honest job. Seed infusion before or after a meal, at the quantity a cook would use, is a carminative with a real and reproducible effect, and the seed's blood-sugar research line is worth watching without being oversold. What a cultivator does with it is eat it — regularly, in ordinary amounts, as part of how meals are constructed. Six of the seven traditions here classify it therapeutically or dietetically and none assigns it a rejuvenative grade, which is the correct outcome for a kitchen spice and not a deficiency in the record.
+
+---
+
 ### Contraindications
 
 - **Vitamin K content (fresh herb — anticoagulant interaction)** — cilantro contains extraordinarily high vitamin K (310μg/100g); large quantities of fresh cilantro significantly increase vitamin K intake and can counteract warfarin anticoagulation; patients on warfarin should maintain consistent cilantro intake (not wildly variable) and monitor INR; those on VKA therapy should not start/stop heavy cilantro consumption abruptly
@@ -98,3 +118,5 @@ A research line (not yet RCT-validated) suggests cilantro fresh herb facilitates
 
 *Cross-references: I_052 (Caraway — the D-carvone digestive seed companion), I_091 (Dill — the Apiaceae carminative family member), I_029 (Bay Laurel — the Mediterranean culinary antimicrobial complement)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_079*
+
+*Filed under: Volume I — Plant-Based | Apiaceae | Canonical ID CPU-00080*

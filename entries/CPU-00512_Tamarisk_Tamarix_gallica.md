@@ -93,3 +93,5 @@ Finely ground tamarisk bark applied dry to clean wounds as a styptic powder; pro
 
 *Cross-references: I_001 (Acacia — parallel astringent wound-healing from the same desert ecology), I_210 (Pomegranate — gallotannin-rich companion anti-malarial), I_258 (Willow — the other riverside tree pharmacopoeia of ancient Egypt)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_229*
+
+*Filed under: Volume I — Plant-Based | Tamaricaceae | Canonical ID CPU-00512*

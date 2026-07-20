@@ -97,3 +97,5 @@ The plant occupies a near-mythic register in the high-altitude pharmacopoeia: a 
 *Cross-references: Entry I_004 Aconite (Aconitum napellus) — the archetypal warming cold-disperser of the high mountains, sharing the cold-damp *bi* indication at far greater toxicity; Entry I_281 Gentiana crassicaulis (Qin Jiao) — the complementary wind-damp *bi*-pain herb that clears rather than warms, for mixed presentations*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_279*
+
+*Filed under: Volume I — Plant-Based | Asteraceae | Canonical ID CPU-00170*

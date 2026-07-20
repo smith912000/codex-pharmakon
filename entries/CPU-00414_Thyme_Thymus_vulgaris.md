@@ -97,3 +97,5 @@ Strong thyme infusion (6g/250mL) cooled to body temperature; gargle 30 seconds, 
 
 *Cross-references: I_139 (Juniper — aromatic antimicrobial pairing), I_121 (Ginger — warming respiratory combination), I_044 (Frankincense — compound respiratory formula), I_087 (Cumin — aromatic spice medicine tradition)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_233*
+
+*Filed under: Volume I — Plant-Based | Lamiaceae | Canonical ID CPU-00414*

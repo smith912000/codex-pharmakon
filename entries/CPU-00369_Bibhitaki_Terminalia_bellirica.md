@@ -194,3 +194,5 @@ The TCM listing of Hē Zǐ (*T. chebula*, not *T. bellirica*) acknowledges the T
 
 *Cross-references: I_184 Āmalakī (Triphala partner — Pitta aspect), I_124 Haritaki (Triphala partner — Vata aspect), I_188 Pippali (bioavailability amplifier for Triphala compound), IV_10 Triphala (complete formula entry)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_034*
+
+*Filed under: Volume I — Plant-Based | Combretaceae | Canonical ID CPU-00369*

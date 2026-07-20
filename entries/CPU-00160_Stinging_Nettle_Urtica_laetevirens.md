@@ -2,7 +2,8 @@
 
 ## *Urtica laetevirens* Maxim. — the stinging mountain herb, nutritive blood-builder and anti-rheumatic of the high Asian forests
 
-**Tradition Tags:** Tibetan / Four Medical Tantras (FMT-adjacent, *Urtica* genus) · Himalayan & Chinese folk medicine · Ayurveda (genus-adjacent, *Vrishchikali/Bichhu-buti*) · Sowa Rigpa
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** Tibetan / Four Medical Tantras (FMT-adjacent, *Urtica* genus) · Himalayan & Chinese folk medicine · Ayurveda (genus-adjacent, *Vrishchikali/Bichhu-buti*) · Sowa Rigpa
 **Energetic Classification (TCM):** ◉ Qi (nutritive, circulation-stimulating) / ◈ Jing (blood/mineral nourishment)
 **Training Phase:** [GENERAL]
 
@@ -74,3 +75,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the nutritive blood-building greens and the anti-rheumatic counter-irritants; common nettle *Urtica dioica* (the genus's most-studied member); the iron/blood-building tonics (Angelica I_010, Rehmannia); the warming joint-pain remedies.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_271*
+
+*Filed under: Volume I — Plant-Based | Urticaceae | Canonical ID CPU-00160*

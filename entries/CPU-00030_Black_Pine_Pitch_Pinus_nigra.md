@@ -92,3 +92,5 @@ Barnes TM, Greive KA (2017) "Topical pine tar: History, properties and use as a 
 *Cross-references: I_036 Bitter Almond (companion DMM Book I entry); other Volume I conifer/resin entries; Volume on Topical & Wound agents.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_041*
+
+*Filed under: Volume I — Plant-Based | Pinaceae | Canonical ID CPU-00030*

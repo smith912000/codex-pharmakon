@@ -104,3 +104,5 @@ Lindegardh N, Annerberg A, White NJ, Day NP (2007) "Development and validation o
 *Cross-references: I_080 Artemisia annua / Qing Hao (the anti-malarial that superseded quinine; artemisinin mechanism comparison); I_253 Valeriana officinalis (Na⁺/K⁺-ATPase context for muscle cramp mechanism); Volume III Anti-Parasitic entries*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_197*
+
+*Filed under: Volume I — Plant-Based | Rubiaceae | Canonical ID CPU-00469*

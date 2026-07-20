@@ -95,6 +95,28 @@ Apply 100% aloe vera gel liberally to affected area 3–4x/day; keep moist; do n
 
 ---
 
+### Cultivation Register
+
+**Chinese (SBJ).** The *san pin* 三品 grading of the *Shen Nong Ben Cao Jing* is a cultivation hierarchy in its own terms: the superior class comprises drugs that "mainly nourish life and correspond to heaven... they are nontoxic," as against the lower class which attacks disease on a defined course. Aloe (蘆薈 *lú huì*) carries **no *san pin* grade in the sources retrieved** — it is an import that entered the Chinese materia medica through the later compilations rather than the Han-period classic, and no grade could be confirmed from the classic itself. It therefore holds a therapeutic standing in this tradition and not a cultivation one. Nothing here supports *yang sheng* 養生 use, and the anthraquinone fraction argues actively against it.
+
+**Ayurveda (SS).** *Ghṛtakumārī* / *Kumārī* is securely attested in the Indian materia medica, and the entry above records its *dravyaguṇa* profile. Whether it carries formal *rasāyana* status in the Sushrutan or Charakan divisions — as distinct from being used restoratively — **could not be confirmed from named scholarship in the sources retrieved**, and it is recorded here as unattested rather than asserted. *Ojas* is not claimed for it by any source consulted; the term is not to be attached to this plant on the strength of the *rasāyana* label alone.
+
+**Tibetan (FMT).** No *bcud len* (essence-extraction) attestation for aloe was found. Per the Four Tantras' own architecture, medicine is the third of four treatment branches — it supports practice without reaching the root, which is the three poisons underlying the *nyes pa*. Aloe sits in the third branch or nowhere; **no formal category of "substances for subtle-body practice" exists in this system** and none is asserted here.
+
+**Unani / Greco-Arabic (CM).** The governing cultivation idea in this tradition is that innate heat (*ḥarārat gharīziyya*) continuously consumes radical moisture (*ruṭūbat gharīziyya*) as a flame consumes the oil of a lamp — a **finite endowment**, so ageing *is* its depletion and longevity practice is **conservation, not acquisition** (see the analysis of innate heat in Avicenna's *Canon*, Springer, 2025). Ṣabir (aloes) is attested as a purgative and bitter within this pharmacology. **No claim on the *ruḥ* or on the conservation of innate heat is attested for it**, and a strongly evacuant drug sits awkwardly with a conservational project — that tension is the honest reading, not a hidden endorsement.
+
+**Greek / Dioscorides (DMM).** Dioscorides has **no subtle-body system**, and none is manufactured here. What his text offers a cultivator is real but different: a **discipline of attention** — provenance, season of gathering, sensory assay, and the detection of adulteration, which Riddle identifies as central to his method and which the text applies particularly to drugs not grown locally (Riddle, *Dioscorides on Pharmacy and Medicine*, Univ. of Texas Press, 1985; Beck's translation, Olms-Weidmann). Aloes, an imported resin traded over long distances, falls squarely in that class of goods. The specific wording of his aloe chapter was **not verified directly here**, so no test or provenance ranking is quoted.
+
+**Egyptian (EP).** No cultivation framing is attested. The corpus is indication-organised — it records what was done for a complaint, not what a substance does to the *ka*, *ba* or *ib* — and substance identifications in the medical papyri remain modern hypotheses. The widely repeated claim that aloe was an **embalming or funerary material is not supported**: molecular characterisation of Egyptian funerary wrappings and animal mummies identifies conifer resin, plant gum, plant oils and animal fats, aromatic extracts, petroleum and beeswax, with no aloe among them (Buckley et al., *PLOS ONE*; Kom Mereh gazelle-mummy analysis, 2022). *Heka* — where spell and drug are one intervention — is a genuine framing in this tradition, but it is not attested for this plant.
+
+**Assyrian / Mesopotamian (AT).** No cultivation framing is attested. The blocking warning on substance identifications, tablet references and deity attributions is in force, and illness in this corpus is classified by causal agency (divine hand, ghost, oath) rather than by a substance's effect on a vital constitution. Nothing is asserted for aloe here.
+
+**Nahua / Badianus (BM).** No cultivation framing is attested. Aloe is an Old World plant, and the Badianus manuscript is itself **naturalistic — it does not contain the *tonalli* / *teyolia* / *ihiyotl* model**, which is reconstructed from later ethnohistory (López Austin). Importing that model onto this plant would be doubly unfounded.
+
+**Practitioner's note.** For a cultivator the honest answer is mostly *nothing*. Aloe is a wound-healer, a demulcent and — in its latex fraction — a purgative, and none of the eight traditions tagged here grants it a cultivation status that survived checking. Use the gel externally and short-term internally for a stated indication; the anthraquinone fraction is a defined-course drug that the traditions' own logic, and the modern safety data, say to stop. The one durable practice this plant supports is the Dioscoridean one: know where your material came from, know which fraction you have, and test it.
+
+---
+
 ### Contraindications
 
 - **Anthraquinone fraction (aloin/whole leaf) — long-term use contraindicated** — chronic anthraquinone use causes melanosis coli (harmless but indicates long-term exposure); possible association with colorectal cancer risk (EFSA review); the EU food standard requires <10ppm aloin in food-grade products; do not use whole-leaf latex products for chronic constipation
@@ -105,3 +127,5 @@ Apply 100% aloe vera gel liberally to affected area 3–4x/day; keep moist; do n
 
 *Cross-references: I_216 (Senna — the anthraquinone cathartic pharmacology comparison), I_159 (Milk Thistle — the primary hepatoprotective companion), I_013 (Artichoke — the choleretic hepatic complement)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_008*
+
+*Filed under: Volume I — Plant-Based | Asphodelaceae | Canonical ID CPU-00040*

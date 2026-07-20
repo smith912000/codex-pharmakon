@@ -94,3 +94,5 @@ Mastic's oleanolic/ursolic acid triterpenoid complex provides hepatoprotective a
 
 *Cross-references: I_044 (Boswellia — the other major anti-inflammatory resin medicine; overlapping triterpenoid mechanism), I_166 (Myrrh — the Egyptian-Mesopotamian resin parallel), I_216 (Senna — the GI-reset complementary to mastic's GI-healing role)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_158*
+
+*Filed under: Volume I — Plant-Based | Anacardiaceae | Canonical ID CPU-00015*

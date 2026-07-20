@@ -2,7 +2,8 @@
 
 ## *Santalum album* L. — the cooling aromatic heartwood, calmer of heat and the restless mind
 
-**Tradition Tags:** Ayurveda (Chandana) · Chinese Medicine (Tan Xiang) · Unani · DMM-adjacent (later aromatic trade) · Folk-Indian
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS, FMT
+**Tags (previous line, retained for reference):** Ayurveda (Chandana) · Chinese Medicine (Tan Xiang) · Unani · DMM-adjacent (later aromatic trade) · Folk-Indian
 **Energetic Classification (TCM):** ◉ Qi (cooling-aromatic, qi-moving) / ☿ Shen (calming)
 **Training Phase:** [GENERAL]
 
@@ -63,3 +64,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the cooling *pitta*-pacifying aromatics; the qi-moving aromatics (CM) — aloeswood/agarwood (this volume); the calming-Shen fragrances; the perfumery heartwoods.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_212*
+
+*Filed under: Volume I — Plant-Based | Santalaceae | Canonical ID CPU-00099*

@@ -2,7 +2,8 @@
 
 ## *Stellera chamaejasme* L. — the rose-and-cream cushion of the high steppe whose root poisons the soil it conquers
 
-**Tradition Tags:** CM (Rui Xiang Lang Du / Lang Du, related *langdu* drugs) · Tibetan-Mongolian folk medicine · Central-Asian pastoral pharmacology · BM (ethnobotanical / agricultural)
+**Tradition Tags:** FMT
+**Tags (previous line, retained for reference):** CM (Rui Xiang Lang Du / Lang Du, related *langdu* drugs) · Tibetan-Mongolian folk medicine · Central-Asian pastoral pharmacology · BM (ethnobotanical / agricultural)
 **Energetic Classification (TCM):** ◉ Qi (purgative, dispersing, toxic)
 **Training Phase:** [SPECIALIST ONLY] — a toxic diterpene-ester root; not for unsupervised use
 
@@ -76,3 +77,5 @@ Codex policy: chemical class (daphnane/tigliane diterpene esters, biflavonoids) 
 *Cross-references: the Thymelaeaceae/Euphorbiaceae caustic-ester cluster — Daphne and the tigliane/daphnane diterpene poisons; Aconite (I_004) and the [SPECIALIST ONLY] toxic-root class generally; Lang Du as a shared Chinese-tradition drug name applied to more than one toxic root.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_259*
+
+*Filed under: Volume I — Plant-Based | Thymelaeaceae | Canonical ID CPU-00140*

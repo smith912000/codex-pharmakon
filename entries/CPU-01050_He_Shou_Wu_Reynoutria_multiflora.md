@@ -121,3 +121,5 @@ When used, should be standardised for TSG content (minimum 0.5 mg/g); maximum 50
 *Cross-references: I_198 Rehmannia (Shu Di Huang), I_161 Morinda (Ba Ji Tian), I_070 Cistanche (Rou Cong Rong), I_116 Goji (Lycium barbarum), I_184 Amalaki (Phyllanthus emblica)*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_126*
+
+*Filed under: Volume I — Plant-Based | Polygonaceae | Canonical ID CPU-01050*

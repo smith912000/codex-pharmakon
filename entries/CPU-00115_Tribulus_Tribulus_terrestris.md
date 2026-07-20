@@ -120,3 +120,5 @@ Adimoelja A (2000) "Phytochemicals and the breakthrough of traditional herbs in 
 *Cross-references: I_170 (Nigella sativa — complementary testosterone and reproductive support); I_017 (Withania somnifera — classical Ayurvedic Vajikarana synergy with Gokshura); I_088 [Epimedium] — complementary erectile function via PDE5 mechanism; I_045 (Boswellia serrata — complementary joint support in BUILD)*
 
 *Filed under: Codex Pharmakon Universalis — Volume I (Plant-Based Substances) | Entry I_236*
+
+*Filed under: Volume I — Plant-Based | Zygophyllaceae | Canonical ID CPU-00115*

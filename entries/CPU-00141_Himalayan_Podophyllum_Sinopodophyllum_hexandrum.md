@@ -2,7 +2,8 @@
 
 ## *Sinopodophyllum hexandrum* (Royle) Ying — the single nodding flower of the alpine forest whose resin became a cancer drug
 
-**Tradition Tags:** Ayurveda / Himalayan folk medicine (bankakri) · Tibetan medicine · CM (related podophyllum drugs) · BM (modern pharmacology — etoposide/teniposide lineage)
+**Tradition Tags:** FMT
+**Tags (previous line, retained for reference):** Ayurveda / Himalayan folk medicine (bankakri) · Tibetan medicine · CM (related podophyllum drugs) · BM (modern pharmacology — etoposide/teniposide lineage)
 **Energetic Classification (TCM):** ◉ Qi (purgative, caustic, toxic)
 **Training Phase:** [SPECIALIST ONLY] — a potent antimitotic and caustic resin; not for unsupervised use
 
@@ -77,3 +78,5 @@ Codex policy: chemical class (aryltetralin lignan), antimitotic mechanism and th
 *Cross-references: American mayapple (*Podophyllum peltatum*) — the New-World podophyllin source sharing the same lignan; the antimitotic/spindle-poison cluster — Colchicum (I_074) and the *Vinca* alkaloids; the toxic-purgative class generally.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_260*
+
+*Filed under: Volume I — Plant-Based | Berberidaceae | Canonical ID CPU-00141*

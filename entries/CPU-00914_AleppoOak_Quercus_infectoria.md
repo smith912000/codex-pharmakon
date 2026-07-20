@@ -2,7 +2,8 @@
 
 ## *Quercus infectoria* Olivier | Family: Fagaceae
 
-**Tradition Tags:** EP (European Phytotherapy) · DMM (Dioscoridean Materia Medica) · CM (Chinese Materia Medica, by gallotannin kinship) · SS (South Asian / Unani-Ayurvedic) · FMT (Folk & Ritual Traditions) · BM (Biomedical)
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** EP (European Phytotherapy) · DMM (Dioscoridean Materia Medica) · CM (Chinese Materia Medica, by gallotannin kinship) · SS (South Asian / Unani-Ayurvedic) · FMT (Folk & Ritual Traditions) · BM (Biomedical)
 
 **Energetic Classification:** Galenic — cold and dry in the third degree, powerfully astringent (styptic-desiccant); TCM — sour and astringent, cool, entering Lung, Large Intestine and Kidney (by kinship with the gallotannin drug 五倍子 *wŭ bèi zĭ*), securing and binding.
 

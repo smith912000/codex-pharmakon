@@ -102,3 +102,5 @@ Caramelized/sautéed onion as regular dietary component; cooking reduces the vol
 
 *Cross-references: I_101 (Garlic — the allicin-dominant Allium for cardiovascular-antimicrobial applications), I_189 (Plantain — the FOS prebiotic fiber complement), I_040 (Black Pepper — quercetin bioavailability enhancer via piperine)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_174*
+
+*Filed under: Volume I — Plant-Based | Amaryllidaceae | Canonical ID CPU-00070*

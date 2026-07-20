@@ -66,3 +66,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the CM yin-moistening herbs — Yu Zhu/Huang Jing (genus relatives), Mai Men Dong, Shi Hu; the vulnerary consolidants — comfrey (allantoin), horsetail; toxic look-alikes — lily-of-the-valley, false Solomon's seal. Note rhizome-medicine / berry-toxic distinction.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_220*
+
+*Filed under: Volume I — Plant-Based | Asparagaceae | Canonical ID CPU-00083*

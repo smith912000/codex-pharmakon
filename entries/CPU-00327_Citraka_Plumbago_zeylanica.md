@@ -2,7 +2,8 @@
 
 ## *Plumbago zeylanica* L. | Family: Plumbaginaceae
 
-**Tradition Tags:** SS (Suśruta Saṃhitā), CS (Caraka Saṃhitā), Bhāvaprakāśa Nighaṇṭu; Siddha (Chittiramoolam)
+**Tradition Tags:** CM, SS
+**Tags (previous line, retained for reference):** SS (Suśruta Saṃhitā), CS (Caraka Saṃhitā), Bhāvaprakāśa Nighaṇṭu; Siddha (Chittiramoolam)
 **Energetic Classification (Ayurvedic):** Kaṭu (pungent) rasa · Laghu–Rūkṣa–Tīkṣṇa guṇa · Uṣṇa vīrya · Kaṭu vipāka — Kapha–Vāta hara, Pitta vardhaka (aggravates Pitta if unchecked)
 **Training Phase:** `[PRIME]`
 

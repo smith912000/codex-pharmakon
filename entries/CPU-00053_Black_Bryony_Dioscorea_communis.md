@@ -67,3 +67,5 @@ Codex policy: mechanism stated generally; named citations to be supplied and ver
 *Cross-references: white bryony (I_244) — the look-alike grouped by acridity but botanically a cucurbit; the raphide-irritant plants (*Arum*, *Dieffenbachia*); the counter-irritant/rubefacient cluster (mustard, I_111 cress, black pepper); note the genus *Dioscorea* is named for Dioscorides himself.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_038*
+
+*Filed under: Volume I — Plant-Based | Dioscoreaceae | Canonical ID CPU-00053*

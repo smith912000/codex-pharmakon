@@ -120,3 +120,5 @@ Cold-pressed neem seed oil; apply directly to skin infections, tinea, folliculit
 
 *Cross-references: I_001 (Acacia — complementary antimicrobial from Egyptian tradition), I_233 (Thyme — respiratory antimicrobial parallel), I_112 (Garlic — antimicrobial-Jing tonic parallel from different tradition)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_168*
+
+*Filed under: Volume I — Plant-Based | Meliaceae | Canonical ID CPU-00323*

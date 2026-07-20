@@ -95,3 +95,5 @@ Germinated barley (barley malt) is rich in diastases, amylases, and proteases �
 
 *Cross-references: I_243 (Wheat — the grain comparison, gluten pharmacology), I_189 (Plantain/Psyllium — the soluble fiber comparison), I_027 (Barberry — berberine AMPK complement for glucose management)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_028*
+
+*Filed under: Volume I — Plant-Based | Poaceae | Canonical ID CPU-00427*

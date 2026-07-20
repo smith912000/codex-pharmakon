@@ -2,7 +2,8 @@
 
 ## *Holarrhena antidysenterica* Wall. (*H. pubescens*) — the steroidal-alkaloid bark, premier remedy for dysentery and diarrhoea
 
-**Tradition Tags:** Ayurveda (Kutaja) · Unani (Kurchi) · Folk-Indian · Colonial pharmacy (conessi)
+**Tradition Tags:** CM, SS, FMT
+**Tags (previous line, retained for reference):** Ayurveda (Kutaja) · Unani (Kurchi) · Folk-Indian · Colonial pharmacy (conessi)
 **Energetic Classification (TCM):** ◉ Qi (astringent, bitter-cooling, anti-dysenteric)
 **Training Phase:** [GENERAL]
 
@@ -60,3 +61,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the anti-dysenteric/astringent bowel remedies — bael (this volume), pomegranate rind, the tannin astringents; the antiprotozoal/antiparasitic plants; classical Ayurvedic anti-diarrhoeal formulae.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_142*
+
+*Filed under: Volume I — Plant-Based | Apocynaceae | Canonical ID CPU-00106*

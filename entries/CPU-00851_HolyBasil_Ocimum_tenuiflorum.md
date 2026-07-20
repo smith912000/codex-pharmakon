@@ -2,7 +2,8 @@
 
 ## *Ocimum tenuiflorum* L. (≡ *O. sanctum* L.) | Family: Lamiaceae
 
-**Tradition Tags:** SS (Sushruta/Ayurveda) · DMM (Dioscoridean/Graeco-materia medica lineage) · CM (Chinese materia medica, minor) · SBJ (Southeast-Asian/Jamu) · FMT (Folk Mediterranean/Near-Eastern) · BM (Biomedical)
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** SS (Sushruta/Ayurveda) · DMM (Dioscoridean/Graeco-materia medica lineage) · CM (Chinese materia medica, minor) · SBJ (Southeast-Asian/Jamu) · FMT (Folk Mediterranean/Near-Eastern) · BM (Biomedical)
 
 **Energetic Classification:** Ayurvedic — *katu* (pungent) and *tikta* (bitter) *rasa*, *ushna* (heating) *virya*, *katu vipaka*; kapha- and vata-pacifying, mildly pitta-aggravating in excess. Galenic analogue — warm and dry, second to third degree.
 

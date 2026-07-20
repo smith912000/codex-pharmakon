@@ -2,7 +2,8 @@
 
 ## *Abelmoschus moschatus* Medik. — the musk-scented seed, aromatic nervine and cooling antispasmodic of the Asian hibiscus kin
 
-**Tradition Tags:** Ayurveda (*Lata Kasturi* / Kasturi-bheda) · Unani (*Mushkdana*) · Southeast Asian folk medicine · Perfumery/aromatic trade (DMM-adjacent)
+**Tradition Tags:** DMM, CM, SBJ, SS, FMT
+**Tags (previous line, retained for reference):** Ayurveda (*Lata Kasturi* / Kasturi-bheda) · Unani (*Mushkdana*) · Southeast Asian folk medicine · Perfumery/aromatic trade (DMM-adjacent)
 **Energetic Classification (TCM):** ◉ Qi (aromatic, carminative) / ☿ Shen (nervine, calming)
 **Training Phase:** [GENERAL]
 
@@ -71,3 +72,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the aromatic carminative-nervine seeds and the calming fragrances — fennel/anise (this volume), ajwain I_006; the musk and aromatic-fixative materia (agarwood I_005, the resins); okra-kin Malvaceae mucilage plants.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_270*
+
+*Filed under: Volume I — Plant-Based | Malvaceae | Canonical ID CPU-00159*

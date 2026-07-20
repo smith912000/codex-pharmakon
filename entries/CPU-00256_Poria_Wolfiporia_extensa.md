@@ -83,6 +83,12 @@ Fú Líng holds a singular position in all of Chinese medical history: it appear
 
 ---
 
+### Cultivation Register
+
+**Divine Farmer's Classic (SBJ).** *(a) Attested, with one limit.* Fú Líng 茯苓 is placed in the upper grade (上品 *shang pin*) — in the text's own preface, the drugs that "mainly nourish life and correspond to heaven," non-toxic and fit for protracted taking, as against the middle grade (nurture the nature) and the lower (treat disease). That grading is a cultivation hierarchy tracking 養命/養性/治病, not a measure of potency (Stanley-Baker); the classification is standardly reported for this substance in reviews of the classical record and is consistent with the long-term-use note already given under Preparation. The *anshen* 安神 association is likewise real and is one of the few shen claims in this volume that rests on an actual formal category — *anshen* is a chaptered division of the Chinese materia medica, unlike jing, which has no chapter at all. But the attribution should be dated honestly: the explicit "calm the heart and quieten the spirit (安神)" formulation quoted in the Origin section above is **Li Shizhen's *Bencao gangmu* (1596)**, not the Han-era classic, and the *Divine Farmer's* own wording for this entry was not verified in the sources retrieved. So: grade attested at (a); *anshen* attested at (a) but to a late-Ming bencao; any stronger claim that the earliest classic assigns it a shen action is left at (b), unattested here. Note also that Fú Líng is a sclerotial **fungus**, not a plant — its placement in this plant-based volume is an artefact of the codex's own volume scheme, not of any tradition's classification, and the Chinese record treats the *zhi* and the sclerotia as their own thing.
+
+**Practitioner's note.** This is a base, not a peak. Its cultivation warrant is the same one the tradition gives every upper-grade drug — take it long, take it low, and expect nothing dramatic — and in practice Fú Líng is used as the quiet floor of a formula rather than its subject, which is why it appears in more classical prescriptions than almost anything else. For a cultivator the honest use is structural: it steadies digestion and sleep so that practice can happen, and it makes no claim to do the practice. Where the spirit is unsettled by disordered hours or an overloaded gut, this is the right kind of answer; where it is unsettled by how a person is living, the abstentive answer is the better one and no substance substitutes for it.
+
 ### Contraindications
 
 - **Yin deficiency with interior heat:** The drying and dampness-draining properties of Fú Líng may exacerbate conditions of Yin deficiency characterised by dry mouth, night sweats, and heat sensation. Reduce dose to 3–6 g or combine with Yin-nourishing herbs (Ophiopogon, Rehmannia)
@@ -93,3 +99,5 @@ Fú Líng holds a singular position in all of Chinese medical history: it appear
 
 *Cross-references: I_022 Atractylodes Bai Zhu · I_159 Codonopsis Codonopsis pilosula · I_115 Ginseng Panax ginseng · I_175 Ophiopogon Mai Men Dong · I_199 Rehmannia Di Huang*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_194*
+
+*Filed under: Volume I — Plant-Based | Polyporaceae | Canonical ID CPU-00256*

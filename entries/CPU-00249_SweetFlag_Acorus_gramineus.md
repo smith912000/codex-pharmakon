@@ -2,7 +2,8 @@
 
 ## *Acorus gramineus* Sol. ex Aiton | Family: Acoraceae
 
-**Tradition Tags:** SBJ (Shennong / Chinese materia medica — *Shí Chāng Pú* is a canonical aromatic "orifice-opening," phlegm-transforming, and Shen-calming rhizome)
+**Tradition Tags:** SBJ, FMT
+**Tags (previous line, retained for reference):** SBJ (Shennong / Chinese materia medica — *Shí Chāng Pú* is a canonical aromatic "orifice-opening," phlegm-transforming, and Shen-calming rhizome)
 **Energetic Classification (TCM):** Acrid & bitter, warm & aromatic; enters Heart and Stomach channels — opens the orifices, transforms damp-phlegm, quiets the spirit, sharpens the senses
 **Training Phase:** `[PRIME]` `[RESET]`
 

@@ -2,7 +2,8 @@
 
 ## *Boerhavia diffusa* L. | Family: Nyctaginaceae
 
-**Tradition Tags:** Suśruta Saṃhitā (Sūtra & Cikitsā sthāna); Caraka Saṃhitā; Ayurvedic (dravyaguṇa); Siddha; folk/ethnomedicine (Indian subcontinent, Africa, Pacific)
+**Tradition Tags:** CM, SS
+**Tags (previous line, retained for reference):** Suśruta Saṃhitā (Sūtra & Cikitsā sthāna); Caraka Saṃhitā; Ayurvedic (dravyaguṇa); Siddha; folk/ethnomedicine (Indian subcontinent, Africa, Pacific)
 
 **Energetic Classification (Ayurvedic):** Kapha-Vāta-śāmaka (primarily reduces Kapha and Vāta); mild Pitta-śāmaka via the red-flowered variety; *anulomana* on the fluid channels (mūtravaha and udakavaha srotas).
 

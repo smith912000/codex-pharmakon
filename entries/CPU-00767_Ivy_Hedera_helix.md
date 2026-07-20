@@ -91,3 +91,5 @@ This is the most appropriate respiratory expectorant for productive cough with t
 
 *Cross-references: I_133 (Hyssop — the pinocamphone expectorant complement), I_167 (Myrtle — the 1,8-cineole respiratory antimicrobial companion), I_233 (Thyme — the thymol antimicrobial bronchodilator complement)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_136*
+
+*Filed under: Volume I — Plant-Based | Araliaceae | Canonical ID CPU-00767*

@@ -115,3 +115,5 @@ Cooked lentil paste applied to inflamed skin, burns, and eye conditions; the tra
 
 *Cross-references: I_089 (Date Palm — the complementary carbohydrate-electrolyte recovery food), I_217 (Sesame — amino acid complementarity in the traditional sesame-lentil combination), I_087 (Cumin — the traditional antiflautulent companion spice for lentil cooking)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_146*
+
+*Filed under: Volume I — Plant-Based | Fabaceae | Canonical ID CPU-00525*

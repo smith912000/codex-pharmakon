@@ -91,3 +91,5 @@ Small piece of fresh willow bark chewed slowly — the traditional headache/feve
 
 *Cross-references: I_044 (Boswellia — the AKBA LOX-5 inhibitor complement for complete arachidonic acid cascade coverage), I_263 (Wormwood — the bitter anti-inflammatory complement for digestive anti-inflammatory protocols), I_042 (Black Seed — the thymoquinone COX/LOX inhibitor companion)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_246*
+
+*Filed under: Volume I — Plant-Based | Salicaceae | Canonical ID CPU-00290*

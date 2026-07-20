@@ -100,6 +100,26 @@ Equal parts black pepper + long pepper (*Pippali*) + dried ginger (*Shunthi*); 5
 
 ---
 
+### Cultivation Register
+
+**Ayurveda (SS).** The classifications this entry records for *marica* — *dipana* and *pachana* (kindling and digesting), *anulomana*, and *yogavahi* (the vehicle that potentiates a co-administered drug) — are *dravyaguna* categories describing what the substance does to a process, not statuses within a cultivation discipline. The distinction matters and is easily lost: "supports *agni*" is a therapeutic claim about digestive capacity, and *agni* in the *dravyaguna* sense is the digestive fire a physician treats, not a vital endowment a practitioner accumulates. The formal Sushrutan cultivation divisions are *rasayana* and *vajikarana*, and **no *rasayana* or *vajikarana* status for *marica* was found in the sources retrieved** — the four *medhya rasayana* named in *Charaka Samhita* Chikitsasthana 1.3 (*mandukaparni*, *yashtimadhu*, *guduchi*, *shankhapushpi*) do not include it. Nor is any claim made here about *ojas*, *tejas* or *prana*: the texts consulted do not make one for this substance. Black pepper therefore sits at frame level in this tradition — securely inside the materia medica, with no attested cultivation status. (Charak Samhita Research, Training and Skill Development Centre critical edition, carakasamhitaonline.com.)
+
+**SBJ / TCM (SBJ).** *Hújiāo* 胡椒 is by its own name a foreign arrival — the Chinese pharmacopoeia marks it as such — and **no *san pin* 三品 grade for it is recorded in the sources retrieved**. The three-grade hierarchy (上品/中品/下品), which is the tradition's own cultivation ranking, belongs to the early *bencao* stratum that pepper post-dates. Its recorded actions — warming the Middle Burner, dispersing Cold — are curative in the tradition's own terms, and *yang sheng* 養生 is explicitly conservational rather than curative. No *jing*/*qi*/*shen* assignment is asserted here; the materia medica itself rarely asserts one, least of all for *jing*.
+
+**Canon of Medicine (CM).** Ibn Sina's placement of *filfil aswad* as hot in the fourth degree is a humoral intensity rating, and in this system a substance of that intensity is a corrective applied against a cold distemper, not something taken habitually. The tradition's central cultivation idea — innate heat and radical moisture as a **finite vital endowment**, so that longevity practice is conservation rather than acquisition — is the frame black pepper sits inside; but **no attested status for pepper with respect to the *ruh* or to that endowment was found in the sources retrieved**. Its documented role is as an activator within compound formulas, including the theriacs. No *Canon* chapter reference is given, the standard English being unreliable.
+
+**De Materia Medica (DMM).** Dioscorides has no subtle-body system and none is manufactured here. What his pepper entry offers a cultivator is the thing he actually practises: **a discipline of attention.** He separates *peperi melan* from *peperi leukon* and *peperi makron*, ties grade to provenance, and assays by the senses — pepper being among the most adulterated goods of the ancient trade, this is a working method for knowing what is in your hand before you take it. That is a real practice, and for a substance whose entire value here is that it changes the absorption of everything taken with it, knowing the material is not a secondary concern.
+
+**Egyptian (EP).** **No cultivation framing is attested.** The Ebers material is indication-organised: it records what was done for a complaint, not what a substance does to a person's *ka*, *ba*, *akh* or *ib*. The peppercorns recovered from the mummy of Ramesses II are a mortuary and trade datum, not a statement of vital effect, and nothing in the sources retrieved attaches *heka* to pepper. No deity attribution is offered.
+
+**Assyrian (AT).** **Absent.** The blocking warning stands over every substance identification and tablet reference in this tradition, and the reading of *pippari* as *Piper nigrum* is exactly the kind of identification it covers. Illness in this corpus is classified by causal agency — divine hand, ghost, oath — so a cultivation claim would require knowing what agency the substance was held to oppose. Nothing retrieved establishes that for pepper.
+
+**Tibetan (FMT).** **Absent.** No Tibetan attestation for black pepper was retrieved for this entry, and none is imported. It is worth stating what would be required: the *nyes pa* derive from the three poisons, so pathology is at root a spiritual condition — but medicine is the third of four treatment branches, supporting practice rather than reaching that root, and **no formal category of "substances for subtle-body practice" exists** in this tradition to place pepper in. *bCud len* is a located practice within the Four Tantras, not a label to be applied outward.
+
+**Practitioner's note.** Black pepper is a potentiator, and that is the whole of it. Nothing retrieved from any of the seven traditions gives it a cultivation status; two of them (Ayurveda, TCM) place it firmly among the substances that act on digestion and cold, which is a therapeutic office. What a cultivator does with it is practical rather than devotional — grind it fresh, take it with the thing whose absorption matters, and treat its potency as the hazard it is: the same CYP3A4 inhibition that carries a co-administered herb into the blood will do the same for a prescription drug. The tradition's own honest answer here is a small one, and inflating it would be the error.
+
+---
+
 ### Contraindications
 
 - **Pitta-excess constitution** — the hottest of the aromatic spices; aggravates Pitta (acid reflux, hyperacidity, gastritis, redness, inflammation); Pitta-dominant types use moderately with cooling foods
@@ -109,3 +129,5 @@ Equal parts black pepper + long pepper (*Pippali*) + dried ginger (*Shunthi*); 5
 
 *Cross-references: I_188 (Long Pepper/Pippali — the more potent medicinal sibling; same Trikatu formula), I_121 (Ginger — third Trikatu member), I_044 (Turmeric — the primary curcumin source requiring piperine for absorption)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_040*
+
+*Filed under: Volume I — Plant-Based | Piperaceae | Canonical ID CPU-00064*

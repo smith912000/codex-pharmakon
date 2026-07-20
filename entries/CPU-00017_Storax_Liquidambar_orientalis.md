@@ -105,3 +105,5 @@ The peer-reviewed literature on *Liquidambar orientalis* covers its essential-oi
 *Cross-references: I_143 Labdanum, I_232 Terebinth, I_109 Galbanum, I_009 Ammoniacum (Book I resins); I_NNN Frankincense and Myrrh (incense-trade balsams); benzoin (*Styrax benzoin*) and Cinnamon/Cassia entries (cinnamic-acid and Styracaceae cross-references)*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_227*
+
+*Filed under: Volume I — Plant-Based | Altingiaceae | Canonical ID CPU-00017*

@@ -64,3 +64,5 @@ Codex policy: identity flagged uncertain; activity described generally; named ci
 *Cross-references: the plant-manna cluster — manna ash (*Fraxinus ornus*), tamarisk manna; the gentle osmotic laxatives; note explicitly the modern *Aspalathus linearis* (rooibos) is a DIFFERENT plant sharing only the genus name.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_018*
+
+*Filed under: Volume I — Plant-Based | Convolvulaceae | Canonical ID CPU-00010*

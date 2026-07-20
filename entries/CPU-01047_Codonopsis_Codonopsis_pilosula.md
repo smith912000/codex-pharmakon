@@ -107,3 +107,5 @@ Codonopsis 15 g + Poria cocos (Fu Ling) 9 g + Atractylodes macrocephala (Bai Zhu
 *Cross-references: I_115 Ginseng (Panax ginseng), I_193 Poria (Fu Ling), I_022 Atractylodes (Bai Zhu), I_148 Licorice (Glycyrrhiza), I_097 Eleuthero (Eleutherococcus senticosus), I_021 Astragalus (Astragalus membranaceus)*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_073*
+
+*Filed under: Volume I — Plant-Based | Campanulaceae | Canonical ID CPU-01047*

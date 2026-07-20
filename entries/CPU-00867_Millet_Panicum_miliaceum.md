@@ -2,7 +2,8 @@
 
 ## *Panicum miliaceum* L. | Family: Poaceae
 
-**Tradition Tags:** CM (Chinese materia medica — Shu Mi / grain-medicine) · SS (Ayurvedic grain dietetics) · DMM (Graeco-Roman *milium*) · EP (ancient Near-Eastern staple) · FMT (Folk European/Slavic) · BM (Biomedical)
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** CM (Chinese materia medica — Shu Mi / grain-medicine) · SS (Ayurvedic grain dietetics) · DMM (Graeco-Roman *milium*) · EP (ancient Near-Eastern staple) · FMT (Folk European/Slavic) · BM (Biomedical)
 
 **Energetic Classification:** TCM — sweet (甘) and slightly salty, cooling to neutral (traditionally cooling when unhusked, warming when cooked/aged); enters Spleen, Stomach and Kidney. Ayurvedic — sweet *rasa*, cooling-to-neutral, kapha-increasing when heavy, but light varieties astringent and drying.
 

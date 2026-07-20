@@ -104,3 +104,5 @@ Strong decoction of myrtle leaves (20g in 500mL water); cool and strain; use as 
 
 *Cross-references: I_233 (Thyme — the primary respiratory antimicrobial aromatic herb), I_103 (Fennel — aromatic anti-inflammatory complement), I_210 (Pomegranate — another Mediterranean astringent polyphenol-rich fruit medicine)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_167*
+
+*Filed under: Volume I — Plant-Based | Myrtaceae | Canonical ID CPU-00032*

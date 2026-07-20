@@ -159,3 +159,5 @@ Despite not producing significant sedation at standard doses, amentoflavone's be
 
 *Cross-references: I_050 (Cannabis — endocannabinoid system comparison for mood and pain; TRPC6 channel comparison), I_188 (Pippali/Long Pepper — CYP interaction comparison; bioavailability enhancement), I_193 (Poria Fu Ling — combined Shen-calming formulation in [RESET]), I_066 (Chrysanthemum — combined [RESET] nervine and anti-inflammatory stack), I_113 (Gentian — digestive fire combination for [RESET] complete restoration protocol)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_224*
+
+*Filed under: Volume I — Plant-Based | Hypericaceae | Canonical ID CPU-00024*

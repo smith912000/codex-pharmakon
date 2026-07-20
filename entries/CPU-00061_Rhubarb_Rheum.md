@@ -163,3 +163,5 @@ Da Huang's pharmacological profile maps most closely to the Ayurvedic category o
 
 *Cross-references: I_116 (Goji/Lycium — hepatoprotective combination in [CYCLE-OFF]), I_239 (Ashwagandha — counterbalancing tonic during Da Huang cycle-off protocols), I_137 (Jatamansi — post-cycle Shen stabilization partner), I_186 (Milk Thistle/Silybum — hepatoprotective partner in liver-clearing protocols), I_188 (Piper longum — bioavailability modifier; use with caution given additive GI stimulation)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_203*
+
+*Filed under: Volume I — Plant-Based | Polygonaceae | Canonical ID CPU-00061*

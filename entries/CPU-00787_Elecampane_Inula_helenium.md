@@ -2,7 +2,8 @@
 
 ## *Inula helenium* L. | Family: Asteraceae (Compositae)
 
-**Tradition Tags:** DMM (Dioscoridean / Graeco-Roman materia medica) · EP (European Phytotherapy) · CM (Chinese Medicine) · AT (Ayurveda / Unani-adopted) · SBJ (— limited; N. African/Maghreb Unani use) · FMT (Folk domestic & veterinary medicine) · SS (— via Unani-Siddha overlap) · BM (Biomedical / Isolate)
+**Tradition Tags:** AT, DMM, CM, SBJ, SS, FMT
+**Tags (previous line, retained for reference):** DMM (Dioscoridean / Graeco-Roman materia medica) · EP (European Phytotherapy) · CM (Chinese Medicine) · AT (Ayurveda / Unani-adopted) · SBJ (— limited; N. African/Maghreb Unani use) · FMT (Folk domestic & veterinary medicine) · SS (— via Unani-Siddha overlap) · BM (Biomedical / Isolate)
 
 **Energetic Classification:** TCM (*tu-mu-xiang*) — warm, acrid & bitter, Qi-moving & Damp-transforming; Galenic — warm & dry (grade II–III)
 
@@ -67,6 +68,26 @@ According to PubMed, the traditional respiratory and metabolic uses map onto rea
 - **TCM (*tu-mu-xiang*):** Warm, acrid, bitter; moves Qi, relieves stagnation and pain, transforms Damp, harmonises the stomach; Liver, Spleen, Stomach channels.
 - **Ayurveda / Unani (*Rasan*):** *Ushna* (heating) *virya*, pungent-bitter; *kapha*-reducing, *vata*-warming; chest-opening, digestive-stimulant, warming tonic (Galenic warm & dry grade II–III).
 - **Galenic:** Warm & dry (grade II–III); expectorant, stomachic, diuretic, emmenagogue.
+
+### Cultivation Register
+
+**Dioscoridean / Graeco-Roman (DMM).** Dioscorides has **no subtle-body system**, and none is manufactured here; *pneuma* is context only, and the Galenic three spirits are later and post-Dioscoridean. No cultivation status for *helenion* is attested, because the text does not deal in such statuses. What the tradition does offer a cultivator is real and substantial: a **discipline of attention** — provenance, the season of gathering, sensory assay of the root, and the detection of adulteration. For a root as widely traded, substituted and candied as this one, that discipline is the practice, not a consolation for the absence of a doctrine.
+
+**European Phytotherapy (EP).** No cultivation framing is attested. The European record for *Radix Enulae* is therapeutic and horticultural — the physic-garden root, the standard expectorant for the chronic wet cough, the bitter digestive tonic — and it makes no claim about the vital constitution of the person taking it.
+
+**Chinese Medicine (CM).** No *san pin* 三品 grade for *Inula helenium* is attested in the sources retrieved, and it therefore carries no cultivation status in this tradition, only a therapeutic one. Two cautions belong on the record. First, the *Inula* material graded in the Chinese classics is *xuan-fu-hua*, from a different species of the genus, and per the Codex's non-transfer rule its status cannot be carried across to *I. helenium*. Second, *tu-mu-xiang* is a Qi-moving, stagnation-relieving, Damp-transforming drug — a treating register, not the conservational register of *yang sheng* 養生.
+
+**Ayurveda / Unani-adopted (AT).** The attestation retrieved for this species is the Unani one — *Rasan*, warm and dry, for cold phlegmatic chest conditions and weak digestion. Read as Unani, that is a humoral-therapeutic placement and not a practice of conserving **innate heat and radical moisture**, the tradition's actual cultivation idea; no attribution to the *ruh* is attested for this substance. Read as Ayurveda, the tag is suspect: the Ayurvedic drug *pushkaramula* is *Inula racemosa*, **a different species**, and its status is not transferred here. No *rasayana* status is attested for *Inula helenium*.
+
+**N. African / Maghreb Unani use (SBJ).** The entry's own tag marks this attestation as limited, and the sources retrieved add nothing to it. No cultivation framing is attested for this substance in this tradition.
+
+**Folk domestic & veterinary medicine (FMT).** No cultivation framing is attested. The folk register is emphatically practical — "horse-heal," "scabwort," the country remedy for cough, mange and parasites in animals and people alike — and carries no vital-constitution claim.
+
+**Siddha, via Unani overlap (SS).** The entry's own tag records this as indirect rather than direct attestation, and the sources retrieved contain no Siddha attestation for *Inula helenium* itself. No cultivation framing is attested; the tag is flagged as probably reflecting the Unani adoption rather than a Siddha use of this species.
+
+**Biomedical / Isolate (BM).** Biomedicine has no cultivation register. The alantolactone cytokine work cited above is mechanistic pharmacology and makes no claim about a vital constitution.
+
+**Practitioner's note.** A cultivator uses elecampane the way every tradition tagged here actually uses it: for a defined course, against a defined complaint — the deep, wet, cold cough, or a sunk and sluggish digestion — and then stops. Nothing attested supports taking it long-term for the constitution's own sake, and the sesquiterpene-lactone sensitisation risk argues actively against it. The real ongoing practice attached to this root is the Dioscoridean one: know where it was grown, when it was lifted, and whether what you have is *I. helenium* at all.
 
 ### Contraindications
 

@@ -2,7 +2,8 @@
 
 ## *Rheum palmatum* L. — the anthraquinone root, the great heat-draining purgative and blood-mover
 
-**Tradition Tags:** Chinese Medicine (Da Huang) · DMM-adjacent (rhubarb of the later drug trade) · Ayurveda-adjacent · Tibetan · Unani
+**Tradition Tags:** EP, DMM, CM, SBJ, FMT
+**Tags (previous line, retained for reference):** Chinese Medicine (Da Huang) · DMM-adjacent (rhubarb of the later drug trade) · Ayurveda-adjacent · Tibetan · Unani
 **Energetic Classification (TCM):** ◉ Qi (cold, draining-downward, blood-moving)
 **Training Phase:** [GENERAL] (with cautions)
 
@@ -63,3 +64,5 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 *Cross-references: garden rhubarb (*Rheum rhabarbarum*, this volume — edible stalk, toxic leaf, distinct from medicinal Da Huang); the anthraquinone laxatives — senna, aloe (this volume), golden shower (this volume); the heat-draining/blood-moving CM herbs.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_178*
+
+*Filed under: Volume I — Plant-Based | Polygonaceae | Canonical ID CPU-00128*

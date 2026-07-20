@@ -2,7 +2,8 @@
 
 ## *Ammi majus* L. | Family: Apiaceae (Umbelliferae)
 
-**Tradition Tags:** EP (Egyptian/Pharaonic), SS (Siddha/South Asian via Unani transmission), FMT (Folk Mediterranean & Arab-Islamic), DMM (Dioscoridean/Greco-Roman materia medica), SBJ (Unani/Tibb — as *Aatrilal*)
+**Tradition Tags:** EP, AT, DMM, CM, SS
+**Tags (previous line, retained for reference):** EP (Egyptian/Pharaonic), SS (Siddha/South Asian via Unani transmission), FMT (Folk Mediterranean & Arab-Islamic), DMM (Dioscoridean/Greco-Roman materia medica), SBJ (Unani/Tibb — as *Aatrilal*)
 **Energetic Classification:** Galenic — Hot & Dry in the third degree (Unani: *harr yabis*); TCM analogue tier: acrid, warm, dispersing (no classical Chinese pedigree — see note)
 **Training Phase:** Phase III (Pigmentary & Photodynamic work) — advanced only; phototoxic agent, never a beginner substance
 

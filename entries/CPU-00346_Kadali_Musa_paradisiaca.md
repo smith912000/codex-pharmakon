@@ -2,7 +2,8 @@
 
 ## *Musa paradisiaca* L. | Family: Musaceae
 
-**Tradition Tags:** Suśruta Saṃhitā (dietetic and demulcent materia — mocarasa/kadalī-kṣāra references; ritual and wound-dressing use of the leaf); Caraka Saṃhitā (dietary fruit, guru-snigdha; śītala/tṛṣṇā-hara); Bhāvaprakāśa Nighaṇṭu (Āmradi-phala varga); pan-Indic ritual and folk medicine
+**Tradition Tags:** SS
+**Tags (previous line, retained for reference):** Suśruta Saṃhitā (dietetic and demulcent materia — mocarasa/kadalī-kṣāra references; ritual and wound-dressing use of the leaf); Caraka Saṃhitā (dietary fruit, guru-snigdha; śītala/tṛṣṇā-hara); Bhāvaprakāśa Nighaṇṭu (Āmradi-phala varga); pan-Indic ritual and folk medicine
 **Energetic Classification (Ayurvedic):** Madhura (± Kaṣāya in unripe) rasa · Guru-Snigdha guṇa · Śīta vīrya · Madhura vipāka → **Vāta-Pitta-śāmaka**, Kapha-vardhaka
 **Training Phase:** `[SLEEP]`
 

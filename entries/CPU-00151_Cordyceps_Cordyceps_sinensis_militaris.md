@@ -111,3 +111,5 @@ The global trade in *Yarsagumba* has transformed the economy of Tibet, Bhutan, N
 *Cross-references: Entry I_238 Turkey Tail (Trametes versicolor) — immune synergy; Entry I_063 Chaga (Inonotus obliquus) — antioxidant complement; Entry I_097 Eleuthero (Eleutherococcus senticosus) — adaptogenic combination; Entry I_115 Ginseng (Panax ginseng) — Kidney Yang tonification comparison*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_078*
+
+*Filed under: Volume I — Plant-Based | Canonical ID CPU-00151*

@@ -93,3 +93,5 @@ Start with 1 long pepper berry/day in warm milk with ghee and honey; increase by
 
 *Cross-references: I_040 (Black Pepper — piperine bioavailability companion; the Trikatu ingredient), I_116 (Ginger — the Trikatu third ingredient), I_101 (Elecampane — the cooling respiratory expectorant contrast)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_151*
+
+*Filed under: Volume I — Plant-Based | Piperaceae | Canonical ID CPU-00065*

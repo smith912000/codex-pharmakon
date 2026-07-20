@@ -92,3 +92,5 @@ The traditional applications that reflect genuine pharmacology (now deliverable 
 
 *Cross-references: I_162 (Motherwort — the safer uterotonic/emmenagogue replacement), I_207 (Safflower — the Blood-moving uterotonic alternative), I_027 (Barberry — berberine as the safer antimicrobial alkaloid alternative)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_035*
+
+*Filed under: Volume I — Plant-Based | Aristolochiaceae | Canonical ID CPU-00169*

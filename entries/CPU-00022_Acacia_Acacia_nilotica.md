@@ -106,3 +106,5 @@ Acacia is the defining tree of the ancient Egyptian, Mesopotamian, and Arabian p
 *Cross-references: Pomegranate rind (the ellagitannin astringent companion); Plantain (mucilage anti-diarrhoeal complement); Calamus (this volume, mucilage-demulcent gut pairing); Senna (the companion cathartic opposing acacia's astringency); Garlic (complementary antimicrobial).*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_001*
+
+*Filed under: Volume I — Plant-Based | Fabaceae | Canonical ID CPU-00022*

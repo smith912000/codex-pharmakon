@@ -2,7 +2,8 @@
 
 ## *Mentha spicata* L. | Family: Lamiaceae
 
-**Tradition Tags:** DMM (Dioscoridean/Graeco-Roman) · SBJ (Unani/Tibb) · AT (Ayurveda) · CM (Chinese Materia Medica, allied mint) · FMT (Folk & Magico-Traditional) · BM (Biomedicine)
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** DMM (Dioscoridean/Graeco-Roman) · SBJ (Unani/Tibb) · AT (Ayurveda) · CM (Chinese Materia Medica, allied mint) · FMT (Folk & Magico-Traditional) · BM (Biomedicine)
 **Energetic Classification:** Galenic/Unani — warm and dry in the second degree; aromatic, carminative, stomachic. TCM (allied *bò he*) — acrisweet, cool, aromatic; Lung/Liver (surface-releasing, qi-moving).
 **Training Phase:** Digestive-clearing · Cooling-aromatic · Hormonal-balancing
 

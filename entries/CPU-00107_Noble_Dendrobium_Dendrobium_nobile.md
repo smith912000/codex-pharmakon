@@ -2,7 +2,8 @@
 
 ## *Dendrobium nobile* Lindl. — the epiphytic orchid stem that generates fluids and nourishes stomach yin
 
-**Tradition Tags:** Chinese Medicine (Shi Hu) · Folk-East Asian
+**Tradition Tags:** SBJ, FMT
+**Tags (previous line, retained for reference):** Chinese Medicine (Shi Hu) · Folk-East Asian
 **Energetic Classification (TCM):** ◉ Qi (cooling-moistening, yin/fluid-generating)
 **Training Phase:** [GENERAL]
 
@@ -61,3 +62,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the CM yin-moistening/fluid-generating herbs — Yu Zhu/Huang Jing (Solomon's seal relatives, this volume), Mai Men Dong, Sha Shen; the immunomodulatory polysaccharide tonics (medicinal mushrooms).*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_171*
+
+*Filed under: Volume I — Plant-Based | Orchidaceae | Canonical ID CPU-00107*

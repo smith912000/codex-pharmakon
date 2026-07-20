@@ -2,7 +2,8 @@
 
 ## *Pulmonaria officinalis* L. | Family: Boraginaceae
 
-**Tradition Tags:** AT, DMM, BM (Avicennian/Unani)
+**Tradition Tags:** AT, DMM, CM
+**Tags (previous line, retained for reference):** AT, DMM, BM (Avicennian/Unani)
 **Energetic Classification:** Cool and moist (Galenic) — a demulcent of the second degree, softening and soothing rather than heating
 **Training Phase:** Grounding / Restoration (soothing the respiratory gate)
 

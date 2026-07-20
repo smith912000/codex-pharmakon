@@ -1,6 +1,7 @@
 # Murva — Mūrvā, Madhurasā, Devī, Tejanī, Pīluparṇī, Gokarṇī, Madhulikā
 ## *Marsdenia tenacissima* (Roxb.) Moon | Family: Apocynaceae (Asclepiadaceae *sensu lato*)
-**Tradition Tags:** SS (Suśruta Saṃhitā) · CS (Caraka, as *Mūrvā*) · TCM (as *Tong Guang San / Xiao'aiping*, cross-lineage) · Folk (Dai / Yunnan)
+**Tradition Tags:** SS
+**Tags (previous line, retained for reference):** SS (Suśruta Saṃhitā) · CS (Caraka, as *Mūrvā*) · TCM (as *Tong Guang San / Xiao'aiping*, cross-lineage) · Folk (Dai / Yunnan)
 **Energetic Classification (Ayurvedic):** Tikta–Kaṣāya rasa · Laghu–Rūkṣa guṇa · Uṣṇa vīrya · Kaṭu vipāka · Kapha-Pitta śāmaka (mild Vāta-provoking in excess)
 **Training Phase:** Grounding · Purification · Bitter-tonic conditioning
 

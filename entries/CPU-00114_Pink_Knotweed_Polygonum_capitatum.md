@@ -2,7 +2,8 @@
 
 ## *Polygonum capitatum* Buch.-Ham. ex D.Don — the damp-heat-clearing knotweed of the urinary tract
 
-**Tradition Tags:** Chinese Medicine / Miao ethnomedicine (Tou Hua Liao) · Folk-Himalayan/Southwest-Chinese
+**Tradition Tags:** FMT
+**Tags (previous line, retained for reference):** Chinese Medicine / Miao ethnomedicine (Tou Hua Liao) · Folk-Himalayan/Southwest-Chinese
 **Energetic Classification (TCM):** ◉ Qi (bitter-cooling, damp-heat clearing, diuretic)
 **Training Phase:** [GENERAL]
 
@@ -61,3 +62,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the damp-heat-clearing urinary herbs — Jin Qian Cao, Che Qian Zi, the diuretic stone-resolving group; the Polygonaceae (knotweeds, rhubarb this volume, docks); the urological patent formulas.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_187*
+
+*Filed under: Volume I — Plant-Based | Polygonaceae | Canonical ID CPU-00114*

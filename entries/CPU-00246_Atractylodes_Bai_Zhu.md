@@ -127,3 +127,5 @@ Cāng Zhú finds its primary Kenetica application in athletes presenting with da
 
 *Cross-references: I_179 (Panax Ginseng — Sì Jūn Zǐ Tāng combination), I_021 (Astragalus — Wei Qi / immune combination), I_193 (Poria Fu Ling — foundational Four Gentlemen partner), I_148 (Licorice — Sì Jūn Zǐ Tāng base formula harmonizer)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_022*
+
+*Filed under: Volume I — Plant-Based | Asteraceae | Canonical ID CPU-00246*

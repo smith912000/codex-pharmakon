@@ -94,3 +94,5 @@ Bolarinwa IF, Orfila C, Morgan MRA (2014) "Determination of amygdalin in apple s
 *Cross-references: I_197 Cinchona (companion bitter-principle/specialist agent); other Volume I *Prunus*/cyanogenic entries; Volume on Toxic & Restricted plants.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_036*
+
+*Filed under: Volume I — Plant-Based | Rosaceae | Canonical ID CPU-00037*

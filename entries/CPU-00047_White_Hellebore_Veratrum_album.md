@@ -2,7 +2,8 @@
 
 ## *Veratrum album* L. — the upward purge, the alkaloid that empties heart and stomach
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book IV) · Hippocratic Corpus · Galenic · Pliny · Renaissance pharmacy
+**Tradition Tags:** EP, AT, DMM, CM, SS
+**Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book IV) · Hippocratic Corpus · Galenic · Pliny · Renaissance pharmacy
 **Energetic Classification (TCM):** ◉ Qi (violent upward-expelling) / ☿ Shen (no orthodox subtle ascription)
 **Training Phase:** [SPECIALIST ONLY] — steroidal alkaloid cardiotoxin / emetic
 
@@ -78,3 +79,5 @@ Codex policy: secure mechanism over invented specifics. The sodium-channel and B
 *Cross-references: I_039 Black Hellebore (*Helleborus niger*) — the "downward" purgative counterpart and the ancient confusion of the two hellebores; *Veratrum nigrum* / Lí Lú (Chinese congener and the eighteen-incompatibilities rule); sabadilla / *Schoenocaulon* and veratridine as the sodium-channel tool compound.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_245*
+
+*Filed under: Volume I — Plant-Based | Melanthiaceae | Canonical ID CPU-00047*

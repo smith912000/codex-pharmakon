@@ -99,9 +99,31 @@ Jurenka JS (2009) "Anti-inflammatory properties of curcumin, a major constituent
 - Virya (potency): Ushna (hot)
 - Vipaka (post-digestive effect): Katu (pungent)
 - Dosha: Tridoshic in moderate use (reduces all three); excess may increase Pitta (heating and drying in large quantities)
-- Karma (actions): Kusthagna (anti-skin disease), Krimighna (anti-parasitic), Raktashodhana (blood purifying), Vedanasthapana (analgesic), Vishaghna (anti-toxic), Lekhaniya (reducing/scraping of excess Kapha deposits), Medhya (cognitive tonic — secondary), Vardhamana Rasayana (incrementally increasing rejuvenation when taken in graduated doses over extended periods)
+- Karma (actions): Kusthagna (anti-skin disease), Krimighna (anti-parasitic), Raktashodhana (blood purifying), Vedanasthapana (analgesic), Vishaghna (anti-toxic), Lekhaniya (reducing/scraping of excess Kapha deposits), Medhya (cognitive tonic — secondary). **[USER: verify — attribution corrected 2026-07-18]** *Vardhamana Rasayana* was previously listed here as a karma of haridrā; a targeted sourcing pass could not attest it. Haridrā is located in the *Lekhanīya* and *Kuṣṭhaghna mahākaṣāya* (indication classes) and in the *pūrvakarma* cleansing taken **before** rasāyana therapy — which is not the same as holding rasāyana status itself. Removed as an asserted karma; see `### Cultivation Register`
 
 **Tibetan (FMT):** Yung-ba (གཡུང་བ); classified as warming digestive with liver-supporting action; incorporated into Tibetan formulas for hepatic conditions and digestive fire enhancement; wind-illness (Rlung disease — broadly analogous to Vata dysregulation) supportive in compound preparations; received via Indian Buddhist medical transmission.
+
+---
+
+### Cultivation Register
+
+**Ayurveda (SS).** Two different claims must be kept apart here, and conflating them is the standard error with this plant.
+
+*The dravyaguṇa placement is attested and therapeutic.* Haridrā is securely located in the *Charaka Saṃhitā*'s *mahākaṣāya* groupings — **Lekhanīya** (scraping/reducing) and **Kuṣṭhaghna** (anti-skin-disease) among them. These are indication classes. They say what the substance is used against; they do not confer a cultivation status.
+
+*A rasāyana status is not attested.* **(b) framed.** No source retrieved places haridrā in the *Rasāyana Adhyāya* or names it as a *rasāyana* in its own right; where it appears near rejuvenation therapy it does so as a component of the *pūrvakarma* bowel-cleansing preparation taken **before** *rasāyana* treatment — a preparatory role, which is not the same claim. Any *vardhamāna rasāyana* attribution should be treated as unverified until a classical locus is produced. Likewise no *vājīkaraṇa* status and no *ojas*, *tejas* or *prāṇa* action is claimed here.
+
+*The ritual register is real but separate.* **(a) attested, in its own domain.** Turmeric's auspicious use in South Asia is well documented in the scholarly literature: it is treated as sacred and auspicious, the *maṅgalasūtra* thread is turmeric-dyed, and turmeric paste is smeared over bride and groom on the eve of the wedding, particularly in South India. This is a genuine cultivation framing — turmeric as an agent of *maṅgala* and purification — but it is a **ritual and social** status, not a *dravyaguṇa* or *rasāyana* one. The two must not be traded for each other: that turmeric sanctifies a threshold is not evidence that it rejuvenates the *dhātus*.
+
+**Tibetan (FMT).** **(b) framed.** *Yung ba* (གཡུང་བ) is attested in the Tibetan pharmacopoeia as a warming medicine for cold-type conditions of digestion, liver and skin, and appears in *Gyüshi*-lineage formulas — a therapeutic placement. **No *bcud len* (essence-extraction) status is recorded for it in the sources retrieved**, and no formal category of substances for subtle-body practice exists in the Tibetan system to assign it to. What can properly be said is structural rather than substance-specific: the three *nyes pa* derive from the three poisons, so a warming digestive medicine addresses a condition whose root the tradition locates elsewhere, and medicine remains the third of the four treatment branches.
+
+**Unani (CM).** **(c) absent.** The entry carries the CM tag, but no Unani material for *Curcuma longa* is presented in it and none was retrieved. No *rūḥ* action, no *mufarriḥ* classification, and no placement within the innate-heat-and-radical-moisture economy is attested for this substance. The frame exists in the tradition; turmeric's position in it does not, on present evidence, and is not invented here.
+
+**Assyrian (AT).** **(c) absent.** The identification of cuneiform *kurkanû* with turmeric is a philological proposal, not a settled reading, and the Codex's blocking warning is in force for every substance identification, deity or demon attribution, and tablet reference in this tradition. Assyrian medicine classifies illness partly by **causal agency** — divine hand, ghost, oath — so a cultivation claim here would have to specify what agency the substance opposes, and nothing retrieved supports such a specification. Note also that the older *asû*/*āšipu* split as rational-versus-superstitious is rejected, but "complementary" overstates it: textual overlap is secure, etiological unity is actively debated.
+
+**Egyptian (EP).** **(c) absent.** No cultivation framing is attested. The corpus is indication-organised, and the presence of yellow aromatic spice-medicines in the papyri is not a botanical identification of *C. longa* — that identification is a modern hypothesis. Nothing is claimed about *ka*, *ba*, *akh* or *ib*, and no *heka* recitation is recorded for this substance; where a spell did accompany a drug, dropping the recitation would lose half the prescription, so silence here is silence, not permission to reconstruct.
+
+**Practitioner's note.** Turmeric is a therapeutic and a ritual substance, and in this entry's traditions it is not a longevity substance. A cultivator uses it the way the households that never stopped using it do — daily, in food, with fat and pepper, at culinary rather than clinical dose — and takes the high-dose bioavailable preparations as what they are: a course against a defined inflammatory problem, reassessed and stopped. Its auspiciousness at a wedding threshold is a real cultural fact and belongs to a different register entirely; it should not be recruited as evidence of constitutional rejuvenation, and no tradition here asks it to be.
 
 ---
 
@@ -124,3 +146,5 @@ Jurenka JS (2009) "Anti-inflammatory properties of curcumin, a major constituent
 *Cross-references: I_045 (Boswellia serrata — complementary 5-LOX/MMP inhibition; primary triple-stack anti-inflammatory partner); I_170 (Nigella sativa — third component of triple anti-inflammatory stack); I_114 (Zingiber officinale — Zingiberaceae family kinship; combinatorial synergy for GI and anti-inflammatory applications); I_017 (Withania somnifera — adaptogenic/anti-inflammatory synergy)*
 
 *Filed under: Codex Pharmakon Universalis — Volume I (Plant-Based Substances) | Entry I_240*
+
+*Filed under: Volume I — Plant-Based | Zingiberaceae | Canonical ID CPU-00125*

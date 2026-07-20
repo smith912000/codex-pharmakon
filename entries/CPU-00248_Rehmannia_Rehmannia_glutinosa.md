@@ -91,3 +91,5 @@ Unusually among major Chinese herbs, *Rehmannia glutinosa* presents two pharmaco
 
 *Cross-references: I_198 Rehmannia glutinosa (early entry) · I_010 Angelica Dang Gui · I_194 Poria Fu Ling · I_175 Ophiopogon Mai Men Dong · I_100 Epimedium Yin Yang Huo*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_199*
+
+*Filed under: Volume I — Plant-Based | Orobanchaceae | Canonical ID CPU-00248*

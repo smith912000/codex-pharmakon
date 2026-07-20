@@ -2,7 +2,8 @@
 
 ## *Lepidium sativum* L. — the pungent quick-sprouting seed that bites the tongue and dries the damp
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book II) · Greco-Roman · Ayurveda (Chandrashura) · Unani · Folk-European
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book II) · Greco-Roman · Ayurveda (Chandrashura) · Unani · Folk-European
 **Energetic Classification (TCM):** ◉ Qi (warming, drying, dispersing)
 **Training Phase:** [GENERAL]
 
@@ -67,3 +68,5 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 *Cross-references: the pungent Brassicaceae cluster — mustard (*Sinapis*/*Brassica*), rocket; the seed-mucilage demulcents (quince seed, flax, psyllium); cardamom (I_110) — note the historical *kardamon* name confusion that links the two in old texts.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_111*
+
+*Filed under: Volume I — Plant-Based | Brassicaceae | Canonical ID CPU-00006*

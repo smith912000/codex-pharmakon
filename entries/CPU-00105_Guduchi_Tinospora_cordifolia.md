@@ -107,3 +107,5 @@ Singh SS, Pandey SC, Srivastava S, Gupta VS, Patro B, Ghosh AC (2003) "Chemistry
 *Cross-references: I_248 Withania somnifera (combined Rasayana pairing); I_021 Astragalus membranaceus (overlapping Yuan Qi immunomodulatory role; Western complementary herb); Volume V Alkaloids: Berberine — standalone entry for metabolic application*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_122*
+
+*Filed under: Volume I — Plant-Based | Menispermaceae | Canonical ID CPU-00105*

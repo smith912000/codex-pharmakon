@@ -2,7 +2,8 @@
 
 ## *Lactuca indica* L. | Family: Asteraceae
 
-**Tradition Tags:** FMT (Avicennan/Unani), SBJ (Shennong), SS (Sushruta)
+**Tradition Tags:** CM, SBJ, SS
+**Tags (previous line, retained for reference):** FMT (Avicennan/Unani), SBJ (Shennong), SS (Sushruta)
 **Energetic Classification:** Cool & Dry (2nd degree) — cooling, sedative, bitter-relaxant (Galenic)
 **Training Phase:** Descent / Settling — quieting an over-active nervous field
 

@@ -117,3 +117,5 @@ Hóng Jǐng Tiān (紅景天, "Red Stalk Heaven Plant") is a succulent perennial
 *Cross-references: Entry I_115 Ginseng (Panax ginseng); Entry I_017 Ashwagandha (Withania somnifera); Entry I_215 Schisandra chinensis; Entry I_097 Eleuthero (Eleutherococcus senticosus) — Soviet adaptogen stack*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_202*
+
+*Filed under: Volume I — Plant-Based | Crassulaceae | Canonical ID CPU-00927*

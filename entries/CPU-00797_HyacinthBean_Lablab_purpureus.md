@@ -2,7 +2,8 @@
 
 ## *Lablab purpureus* (L.) Sweet | Family: Fabaceae (Leguminosae)
 
-**Tradition Tags:** CM (Chinese Medicine) · AT (Ayurveda / Traditional Indian) · SS (Siddha) · SBJ (Sub-Saharan / East African ethnobotany) · DMM (Graeco-Arabic / Unani adopted) · EP (European colonial botany, food-medicine) · FMT (Folk domestic & dietary medicine) · BM (Biomedical)
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** CM (Chinese Medicine) · AT (Ayurveda / Traditional Indian) · SS (Siddha) · SBJ (Sub-Saharan / East African ethnobotany) · DMM (Graeco-Arabic / Unani adopted) · EP (European colonial botany, food-medicine) · FMT (Folk domestic & dietary medicine) · BM (Biomedical)
 
 **Energetic Classification:** TCM (*bai bian dou*) — neutral-to-slightly-warm, sweet, Spleen-strengthening & Damp-transforming; Galenic — temperate, mildly warming & drying
 
@@ -69,6 +70,26 @@ According to PubMed, the traditional profile is supported by a systematic review
 - **TCM (*bai bian dou*):** Sweet, slightly warm/neutral; strengthens Spleen (*jian-pi*), transforms Damp (*hua-shi*), resolves summer-heat-damp (*shu-shi*); Spleen and Stomach channels.
 - **Ayurveda / Siddha:** Sweet (*madhura*) *rasa*, gently *ushna*, heavy (*guru*); *kapha*/*vata*-modulating, nourishing (*balya*), somewhat *ama*-forming raw; requires cooking.
 - **Galenic / Unani:** Temperate, mildly warming and drying; nutritive pulse, digestion-supporting.
+
+### Cultivation Register
+
+**Chinese Medicine (CM).** No *san pin* 三品 grade for *bai bian dou* is attested in the sources retrieved. Searches returned the grading only from clinic and supplier compilations, which this Codex refuses as authorities; no scholarly attestation was obtained, so the drug is recorded here as carrying **no cultivation status in this tradition, only a therapeutic one**. Two distinctions matter. **Food-grade status is not cultivation status**: that a substance is mild enough to eat daily is a statement about its safety, not a claim that the tradition assigns it to nourishing life. And *yang sheng* 養生 — the conservational project — is nowhere attributed to this bean in the sources retrieved, despite its *jian-pi* function sitting close to that register. The closeness is not the claim.
+
+**Ayurveda / Traditional Indian (AT).** *Nishpava* is recorded as sweet, nourishing and *balya* (strengthening), and as heavy and *ama*-forming if eaten raw or in excess. No *rasayana* or *vajikarana* status — Ayurveda's two formal cultivation disciplines — is attested for it in the sources retrieved, and no attribution to *ojas* is made. Nutritive strengthening in the *dravyaguna* sense is a therapeutic and dietetic reading, and is not treated here as a constitutional one.
+
+**Siddha (SS).** The Siddha attestation retrieved for *Avarai* places it inside a food-as-medicine framework as a common dietary pulse with mild strengthening and digestive-regulating properties. No cultivation status within the Siddha system is attested for it, and none is asserted.
+
+**Sub-Saharan / East African ethnobotany (SBJ).** Attestation here is ethnographic rather than textual. The strongest specific record is Kikuyu, where *njahi* is valued as a nourishing food for postpartum and lactating women and for convalescent strength. That is a real, named-people attribution and is recorded as such — but it is a nutritional and social reputation for restoration, not an assignment of cultivation status, and no subtle-anatomy model is invoked or imported to make it into one.
+
+**Graeco-Arabic / Unani, adopted (DMM).** The Unani cultivation idea is the conservation of **innate heat and radical moisture**, the finite vital endowment whose depletion is ageing. *Lablab* enters this tradition as a temperate, nourishing pulse within dietetics. Dietetics is the arena in which that conservation is practised, but the sources retrieved attribute nothing to this bean in those terms — no *ruh* attribution, no conservational role. The status is unattested; the frame is dietary.
+
+**European colonial botany, food-medicine (EP).** No cultivation framing is attested, and structurally none could be: this is a documentary and agronomic record — *Dolichos lablab* catalogued as a food and green-manure crop across its tropical range — which noted local use rather than developing any account of the vital constitution.
+
+**Folk domestic & dietary medicine (FMT).** No cultivation framing is attested. The folk register is the kitchen: a staple pulse, cooked, eaten for strength and recovery, with the raw-toxicity rule carried as practical knowledge rather than doctrine.
+
+**Biomedical (BM).** Biomedicine has no cultivation register. The systematic review cited above consolidates preclinical pharmacology and flags insufficient clinical data; it makes no claim about a vital constitution.
+
+**Practitioner's note.** Here the cultivator's action is behavioural and almost entirely dietary: cook the bean thoroughly — never raw, dry-fried for medicinal use — and eat it with constancy through hot, humid weather or during convalescence, in food quantities, over time. That is what every tradition tagged here actually does with it. What a practitioner should *not* do is upgrade its gentleness into a cultivation claim: this is a mild, well-tolerated food-drug for a weak and water-logged middle, and no source retrieved says more than that.
 
 ### Contraindications
 

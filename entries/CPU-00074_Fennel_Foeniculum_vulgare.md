@@ -112,3 +112,5 @@ Not commonly indicated — culinary and tea preparations provide adequate therap
 
 *Cross-references: I_081 (Coriander — aromatic digestive triad pairing), I_053 (Cardamom — complementary aromatic carminative), I_087 (Cumin — traditional three-spice digestive formula: cumin + coriander + fennel)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_103*
+
+*Filed under: Volume I — Plant-Based | Apiaceae | Canonical ID CPU-00074*

@@ -2,7 +2,8 @@
 
 ## *Cissampelos pareira* L. | Family: Menispermaceae
 
-**Tradition Tags:** Suśruta Saṃhitā (SS) · Caraka Saṃhitā (CS) · Aṣṭāṅga Hṛdaya · Bhāvaprakāśa (Pāṭhā/Ambaṣṭhā) · Amazonian & African ethnomedicine (curare kin)
+**Tradition Tags:** CM, SS
+**Tags (previous line, retained for reference):** Suśruta Saṃhitā (SS) · Caraka Saṃhitā (CS) · Aṣṭāṅga Hṛdaya · Bhāvaprakāśa (Pāṭhā/Ambaṣṭhā) · Amazonian & African ethnomedicine (curare kin)
 **Energetic Classification (Ayurvedic):** Tikta–Kaṭu rasa · Uṣṇa vīrya · Kaṭu vipāka — *kapha-pitta-śāmaka*, saṅgrāhī (astringent-binding)
 
 **Training Phase:** Binding & Consolidation (Saṅgrāhaṇa/Stambhana) · Kindling (Dīpana–Pācana) · Fever-clearing (Jvarahara)

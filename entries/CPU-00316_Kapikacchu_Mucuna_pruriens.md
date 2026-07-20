@@ -110,3 +110,5 @@ Govindaiah HP, Seethalakshmi S, Rao BS (2002) "Effect of Mucuna pruriens on some
 *Cross-references: I_248 Withania somnifera (Ashwagandha) — classical Vajikaran co-formula; I_122 Tinospora cordifolia — general constitutional support during HPG restoration; Volume V Alkaloids: Berberine (competing AMPK vs. LH axis effects)*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_140*
+
+*Filed under: Volume I — Plant-Based | Fabaceae | Canonical ID CPU-00316*

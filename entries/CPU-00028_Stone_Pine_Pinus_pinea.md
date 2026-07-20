@@ -2,7 +2,8 @@
 
 ## *Pinus pinea* L. — the broad-crowned Mediterranean pine of edible nuts, soothing resin and warm pitch
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book I) · Greco-Roman · Folk-Mediterranean
+**Tradition Tags:** EP, AT, DMM, CM, SS
+**Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book I) · Greco-Roman · Folk-Mediterranean
 **Energetic Classification (TCM):** ◉ Qi (warming-moistening nut; warming-drying resin)
 **Training Phase:** [GENERAL]
 
@@ -64,3 +65,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: black pine / pitch (I_041) for the pitch register; the conifer resins — cypress (I_085), Phoenician cedar (I_183), juniper; the nutritive nuts — chestnut (I_063), almond.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_226*
+
+*Filed under: Volume I — Plant-Based | Pinaceae | Canonical ID CPU-00028*

@@ -68,3 +68,5 @@ Shatavari is the primary Yin-restoration herb for the practitioner whose connect
 - **Phlegm-damp excess** (bloating, heaviness, foggy mind, excess mucus) — Shatavari's moistening action aggravates dampness
 - **Acute digestive congestion** — rich, heavy herb; add digestive herbs (ginger, cardamom, fennel)
 - **Kidney disease with fluid restriction** — the Yin-moistening action increases fluid production
+
+*Filed under: Volume I — Plant-Based | Asparagaceae | Canonical ID CPU-00304*

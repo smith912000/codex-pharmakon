@@ -65,3 +65,5 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 *Cross-references: Shatavari (*Asparagus racemosus*, I_218) — the Ayurvedic reproductive-tonic relative rich in steroidal saponins; the diuretic/urinary herbs — parsley, the "five opening roots"; the prebiotic-fibre foods — leek (I_144).*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_019*
+
+*Filed under: Volume I — Plant-Based | Asparagaceae | Canonical ID CPU-00072*

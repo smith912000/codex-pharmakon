@@ -1,6 +1,7 @@
 # Cacao — Xocolātl / Kakaw / Food of the Gods
 ## *Theobroma cacao* L. | Family: Malvaceae (formerly Sterculiaceae)
-**Tradition Tags:** BM (Mesoamerican primary), CM (Arabic secondary)
+**Tradition Tags:** CM, BM, SA
+**Tags (previous line, retained for reference):** BM (Mesoamerican primary), CM (Arabic secondary)
 **Energetic Classification:** ◉ Qi / ☿ Shen — Heart Qi, Mood Elevation, Sustained Energy
 **Training Phase:** `[PRIME]` `[BUILD]`
 
@@ -179,3 +180,5 @@ For Kenetica application, the specifications are:
 
 *Cross-references: I_099 Ephedra (complementary PRIME-phase cardiovascular activator; ephedrine + theobromine produces synergistic bronchodilation and cardiac stimulation — the WADA-aware alternative pairing), I_123 Guggulu (lipid management combination — cacao flavanols and guggulsterones represent complementary cholesterol-management mechanisms in athletes on high-calorie BUILD diets), I_066 Chrysanthemum (combined Shen-elevation stack for REFINE phase cognitive demands: chrysanthemum's GABA-A anxiolysis + cacao's BDNF/anandamide mood support), IV_04 Sacred Smoke Medicine (cross-tradition ceremonial context), I_214 Schisandra (adaptogen-flavanol BUILD phase combination for combined stress resilience + mitochondrial support)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_046*
+
+*Filed under: Volume I — Plant-Based | Malvaceae | Canonical ID CPU-00500*

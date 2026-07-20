@@ -2,7 +2,8 @@
 
 ## *Swertia chirayita* (Roxb. ex Fleming) H.Karst. — the intensely bitter herb, febrifuge and bitter tonic of the liver and blood
 
-**Tradition Tags:** Ayurveda (Kiratatikta) · Unani (Chirayata) · Tibetan · Folk-Himalayan
+**Tradition Tags:** FMT
+**Tags (previous line, retained for reference):** Ayurveda (Kiratatikta) · Unani (Chirayata) · Tibetan · Folk-Himalayan
 **Energetic Classification (TCM):** ◉ Qi (bitter-cooling, heat-and-damp clearing, digestive)
 **Training Phase:** [GENERAL]
 
@@ -62,3 +63,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the bitter-tonic gentians — gentian (*Gentiana lutea*, this volume), the Tibetan "bitter" (tig-ta) herbs; the febrifuge/anti-malarial bitters — cinchona (this volume); the hepatic/metabolic bitters.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_065*
+
+*Filed under: Volume I — Plant-Based | Gentianaceae | Canonical ID CPU-00126*

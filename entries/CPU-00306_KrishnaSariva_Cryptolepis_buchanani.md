@@ -2,7 +2,8 @@
 
 ## *Cryptolepis buchanani* Roem. & Schult. | Family: Apocynaceae (formerly Asclepiadaceae)
 
-**Tradition Tags:** Suśruta Saṃhitā (as the "black" (*kṛṣṇa*) counterpart of Sāriva; raktaprasādana / sārivādi context); Ayurvedic nighaṇṭus (Kṛṣṇa-sāriva as recognised Sāriva-varga substitute); Thai & Southeast-Asian folk medicine (anti-inflammatory, arthritis); tribal medicine of India (galactagogue, bone-setting, wounds)
+**Tradition Tags:** SS
+**Tags (previous line, retained for reference):** Suśruta Saṃhitā (as the "black" (*kṛṣṇa*) counterpart of Sāriva; raktaprasādana / sārivādi context); Ayurvedic nighaṇṭus (Kṛṣṇa-sāriva as recognised Sāriva-varga substitute); Thai & Southeast-Asian folk medicine (anti-inflammatory, arthritis); tribal medicine of India (galactagogue, bone-setting, wounds)
 
 **Energetic Classification (Ayurvedic):** Predominantly Pitta- and Rakta-pacifying; *madhura-vipāka*, *śīta-vīrya*; tikta-kaṣāya rasa gives a drying edge that also checks Kapha
 

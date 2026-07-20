@@ -65,3 +65,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the Lamiaceae nervine/aromatic herbs — sage, rosemary, motherwort, vervain; the headache/nervine herbs — feverfew, lavender; the vulnerary wound-herbs — Solomon's seal (this volume), yarrow. Note *Betonica officinalis* = *Stachys officinalis*.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_033*
+
+*Filed under: Volume I — Plant-Based | Lamiaceae | Canonical ID CPU-00084*

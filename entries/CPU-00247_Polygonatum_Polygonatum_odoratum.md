@@ -2,7 +2,8 @@
 
 ## *Polygonatum odoratum* (Mill.) Druce | Family: Asparagaceae (formerly Liliaceae/Convallariaceae)
 
-**Tradition Tags:** SBJ (Shennong / Chinese materia medica — *Yù Zhú* / *Wěi Ruí* is a canonical Yin-moistening, fluid-generating tonic)
+**Tradition Tags:** DMM, CM, SBJ
+**Tags (previous line, retained for reference):** SBJ (Shennong / Chinese materia medica — *Yù Zhú* / *Wěi Ruí* is a canonical Yin-moistening, fluid-generating tonic)
 **Energetic Classification (TCM):** Sweet, neutral (slightly cool); enters Lung and Stomach channels — nourishes Yin, moistens dryness, generates fluids
 **Training Phase:** `[RESET]` `[SLEEP]`
 

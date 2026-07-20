@@ -86,3 +86,5 @@ The carminative mechanism is shared with fennel and caraway. Dill's specific adv
 
 *Cross-references: I_103 (Fennel — the closely related galactagogue carminative), I_052 (Caraway — the carminative with highest carvone parallel), I_152 (Lotus — the Shen-settling sleep companion for deeper sedation)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_091*
+
+*Filed under: Volume I — Plant-Based | Apiaceae | Canonical ID CPU-00079*

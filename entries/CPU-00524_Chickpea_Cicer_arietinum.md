@@ -115,3 +115,5 @@ The liquid from cooking or canning chickpeas; contains significant saponin and p
 
 *Cross-references: I_146 (Lentil — the companion legume protein; complementary amino acid profile; higher folate), I_216 (Senna — contraindication: legume allergy cross-reactivity context within Fabaceae), I_040 (Black Pepper — Pitta-enhancing digestive for legume gas reduction per Ayurvedic Trikatu application)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_064*
+
+*Filed under: Volume I — Plant-Based | Fabaceae | Canonical ID CPU-00524*

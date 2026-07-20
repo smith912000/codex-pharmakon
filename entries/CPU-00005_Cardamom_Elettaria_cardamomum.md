@@ -113,3 +113,5 @@
 *Cross-references: Entry I_084 Cumin (Cuminum cyminum); Entry I_006 Ajwain (Trachyspermum ammi); Entry I_001 Ginger (Zingiber officinale)*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_054*
+
+*Filed under: Volume I — Plant-Based | Zingiberaceae | Canonical ID CPU-00005*

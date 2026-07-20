@@ -147,6 +147,26 @@ The galactagogue function — while outside the standard athletic performance ap
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** No cultivation framing is attested for fenugreek. The Egyptian material that names it is prescriptive and indication-organised — it records what was compounded for a complaint, not what the seed does to a person's *ka*, *ba* or *ib*. The modern secondary literature that repeats "the Ebers Papyrus documented fenugreek" is pharmacological review writing, not Egyptological scholarship, and none of it carries an operative *heka* context, a recitation, or a deity attribution for this plant. This is a **(c) absent** result and it is the honest one.
+
+**Assyrian (AT).** No cultivation status is recorded. The entry above identifies *ḫilbu* with *Trigonella*, but every substance identification in the cuneiform pharmacopoeia is subject to the standing blocking warning, and no source retrieved here attests what causal agency — divine hand, ghost, oath — a *ḫilbu* preparation was held to oppose. Without that, the substance cannot be placed in the Assyrian scheme at all, which classifies partly by *what a drug is set against*. **(c) absent.**
+
+**Greek / Dioscorides (DMM).** Dioscorides has no subtle-body system, and none should be manufactured for *tēlis*. What he offers a cultivator here is the discipline of attention: a seed identified by its own name, assayed by its softening and resolving action on hard swellings, and prepared by a specified route (poultice, decoction, hip-bath) rather than by a generic one. That is a real practice — knowing which seed, gathered when, prepared how — and it is the whole of what this tradition gives. **(c) absent** as to vital status.
+
+**Unani (CM).** Fenugreek carries a *mizāj* — a temperament assignment, warming and moderately drying. **A temperament is not a cultivation status.** It states how the drug acts on the body's balance, not what it does to the *rūḥ* or to the finite endowment of innate heat and radical moisture whose depletion is, in this system, ageing itself. No source retrieved attests *ḥulbah* as a *mufarriḥ* or as a conserver of that endowment, and no *Canon* chapter reference is given here (the standard English text is an unreliable adaptation). The tradition claims the drug emphatically; it does not, in anything retrieved, claim it for longevity. **(b) framed, status unattested.**
+
+**Chinese (SBJ).** *Hú Lú Bā* 葫蘆巴 is a late arrival in the Chinese materia medica, entering by the Arabic trade under a transliteration of *ḥulbah* rather than descending from the Han-period classic. It is therefore **not** a *Ben Jing* drug and carries no *san pin* 三品 grade in the sources retrieved — no grading, no *jiu fu* 久服 long-term-consumption formula, no claim of *qing shen* 輕身. Its recorded actions are therapeutic and directional (warming, dispersing cold-damp). It sits outside the *yang sheng* 養生 register, not low within it. **(b) framed, grade unattested.**
+
+**Ayurveda (SS).** The dravyaguna profile recorded above — *tikta* rasa, *uṣṇa* vīrya, *kaṭu* vipāka, Vata-pacifying — is a pharmacological description, not a cultivation assignment. The *vṛṣya* attribution would be the cultivation-bearing one, since *vājīkaraṇa* is a formal Sushrutan division rather than a loose category; but no named academic edition or translation verifying a *vṛṣya* classification for *methikā* specifically was retrieved in this pass. It is therefore recorded here as **unverified**, and no *rasāyana* or *vājīkaraṇa* status is claimed for fenugreek. **(b) framed, status unattested.**
+
+**Tibetan (FMT).** No Tibetan cultivation framing is attested. Nothing retrieved places fenugreek inside *bcud len* (essence extraction) or inside any *nyes pa*-specific regimen in the Four Tantras. It should also be remembered that in this system medicine is the third of four treatment branches — it supports practice and does not reach the root, which is the three poisons. Even a well-attested Tibetan drug would not, on that account, be a cultivation substance. **(c) absent.**
+
+**Practitioner's note.** Fenugreek is a food that works. Across seven traditions it is claimed hard and claimed consistently — warming, digestive, galactagogue, resolving — and in not one of them, on the evidence retrieved here, is it given a status in that tradition's own vital or spiritual scheme. What a cultivator does with fenugreek is therefore ordinary and daily: eat it, at culinary or low therapeutic dose, as the South Asian tradition has done continuously for millennia, and take the results as metabolic rather than constitutional. Do not carry it as a longevity drug; nothing in any of these seven systems asks you to.
+
+---
+
 **References:**
 
 1. Sauvaire Y et al. (1998). 4-Hydroxyisoleucine: a novel amino acid potentiator of insulin secretion. *Diabetes*, 47(2), 206–210.
@@ -164,3 +184,5 @@ The galactagogue function — while outside the standard athletic performance ap
 
 *Cross-references: I_007 (Aloe vera — complementary insulin-sensitizing combination in CYCLE-OFF), I_053 (Cardamom — digestive Qi companion in BUILD warming stack), I_148 (Licorice — formula harmonizer; phytoestrogen interactions), I_188 (Trikatu compound — digestive fire activation synergy)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_104*
+
+*Filed under: Volume I — Plant-Based | Fabaceae | Canonical ID CPU-00136*

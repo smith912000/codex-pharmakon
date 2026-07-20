@@ -159,3 +159,5 @@ The Shen secondary classification acknowledges the gut-brain axis reality: athle
 
 *Cross-references: I_224 (St. John's Wort — complementary [RESET] neurochemical restoration alongside gentian's hepatobiliary clearing), I_141 (Kava — [RESET] neurological unwinding; the gentian-kava [RESET] combination addresses both hepatic clearing and nervous system relaxation), I_188 (Pippali — digestive fire combination; the bitter-pungent digestive synergy of Pippali + gentian is used in Ayurvedic and Tibetan traditions), I_148 (Licorice — the classical Chinese formula modifier used with *Long Dan Cao* to protect the Stomach from cold-bitter excess), I_066 (Chrysanthemum — combined Liver-clearing application; Chrysanthemum's Liver Yang-calming complements Long Dan's Liver fire-draining in the same formula tradition)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_113*
+
+*Filed under: Volume I — Plant-Based | Gentianaceae | Canonical ID CPU-00059*

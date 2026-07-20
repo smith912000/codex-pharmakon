@@ -4,7 +4,8 @@
 
 > **⚠️⚠️ POISON — DEADLY. This plant contains COLCHICINE, a potent antimitotic alkaloid with a NARROW THERAPEUTIC INDEX and NO SPECIFIC ANTIDOTE. Ingestion of plant material has caused fatal multi-organ failure. It is not a home remedy, not a food, and not a safe herb. This entry is documentary. Do not prepare, dose, or self-administer. All legitimate use is via pharmaceutical colchicine under medical supervision.** ⚠️⚠️
 
-**Tradition Tags:** DMM, CM (genus-level; see note)
+**Tradition Tags:** EP, AT, DMM, CM, SS
+**Tags (previous line, retained for reference):** DMM, CM (genus-level; see note)
 
 **Energetic Classification:** Cold, Dry (toxic/deobstruent in the old sense) — a "sharp" evacuant-antiphlogistic poison
 

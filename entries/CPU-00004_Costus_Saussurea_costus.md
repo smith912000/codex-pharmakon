@@ -2,7 +2,8 @@
 
 ## *Saussurea costus* (Falc.) Lipsch. — the warming root of the high Himalaya
 
-**Tradition Tags:** DMM · AV (kushtha) · CM (mu xiang complex, by relation) · BM
+**Tradition Tags:** DMM, CM, SBJ, SS, FMT
+**Tags (previous line, retained for reference):** DMM · AV (kushtha) · CM (mu xiang complex, by relation) · BM
 **Energetic Classification (TCM):** ◉ Qi (moving, warming the Middle) · ☿ minor Shen-settling
 **Training Phase:** [GENERAL] (with CITES sourcing caveat)
 
@@ -72,3 +73,5 @@ According to PubMed:
 *Cross-references: Indian spikenard (*Nardostachys jatamansi*); Mu xiang / *Aucklandia*; the warm aromatics of DMM Book I; Ayurvedic *kushtha* formulations.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_080*
+
+*Filed under: Volume I — Plant-Based | Asteraceae | Canonical ID CPU-00004*

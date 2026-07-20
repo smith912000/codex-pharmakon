@@ -2,7 +2,8 @@
 
 ## *Malaxis muscifera* (Lindl.) Kuntze | Family: Orchidaceae
 
-**Tradition Tags:** Suśruta Saṃhitā (member of the *Aṣṭavarga* octad; jīvanīya / bṛṃhaṇa-rasāyana context; constituent of *cyavanaprāśa* and *rasāyana ghṛta*); Caraka Saṃhitā (jīvanīya association); classical restorative formulae; modern conservation concern (endangered, routinely substituted)
+**Tradition Tags:** SS
+**Tags (previous line, retained for reference):** Suśruta Saṃhitā (member of the *Aṣṭavarga* octad; jīvanīya / bṛṃhaṇa-rasāyana context; constituent of *cyavanaprāśa* and *rasāyana ghṛta*); Caraka Saṃhitā (jīvanīya association); classical restorative formulae; modern conservation concern (endangered, routinely substituted)
 
 **Energetic Classification (Ayurvedic):** Tridoṣaghna with Vāta-Pitta pacification; *madhura-vipāka*, *śīta-vīrya*, *guru-snigdha* — a jīvanīya, bṛṃhaṇa, vṛṣya rasāyana
 

@@ -69,3 +69,5 @@ Codex policy: mechanism stated generally; named citations to be supplied and ver
 *Cross-references: the norditerpenoid-alkaloid cluster — aconite (I_004); the parasiticidal/pediculicidal agents — sabadilla (*Schoenocaulon*), quassia, the larkspurs; the homeopathic remedies. Distinguish from the ornamental larkspurs/delphiniums (also toxic).*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_225*
+
+*Filed under: Volume I — Plant-Based | Ranunculaceae | Canonical ID CPU-00056*

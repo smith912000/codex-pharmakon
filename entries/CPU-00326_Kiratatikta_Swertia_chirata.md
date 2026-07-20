@@ -1,6 +1,7 @@
 # Kiratatikta (Chirata, Chirayta) — Kirātatikta, Kirātaka, Bhūnimba, Anāryatikta, Rāmasenaka, Chirāyatā
 ## *Swertia chirata* Buch.-Ham. ex Wall. (syn. *S. chirayita*) | Family: Gentianaceae
-**Tradition Tags:** SS (Suśruta Saṃhitā) · CS (Caraka Saṃhitā) · Unani · Folk (Himalayan / pan-Indian)
+**Tradition Tags:** CM, SS, FMT
+**Tags (previous line, retained for reference):** SS (Suśruta Saṃhitā) · CS (Caraka Saṃhitā) · Unani · Folk (Himalayan / pan-Indian)
 **Energetic Classification (Ayurvedic):** Tikta rasa (the archetype) · Laghu–Rūkṣa guṇa · Śīta vīrya · Kaṭu vipāka · Pitta-Kapha śāmaka
 **Training Phase:** Purification · Fever-clearing · Deep bitter-tonic reset
 

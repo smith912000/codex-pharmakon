@@ -100,3 +100,5 @@ The modern peer-reviewed literature concentrates on *Pistacia* phytochemistry, a
 *Cross-references: I_143 Labdanum (companion Dioscoridean resin; consolidating vs. terebinth's dispersing warmth); I_227 Storax, I_109 Galbanum, I_009 Ammoniacum (Book I resins); I_NNN Mastic / Pistacia lentiscus if present (closest studied relative)*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_232*
+
+*Filed under: Volume I — Plant-Based | Anacardiaceae | Canonical ID CPU-00016*

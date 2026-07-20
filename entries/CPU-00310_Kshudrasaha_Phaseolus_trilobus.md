@@ -2,7 +2,8 @@
 
 ## *Phaseolus trilobus* Ait. (≡ *Vigna trilobata* (L.) Verdc.) | Family: Fabaceae (Leguminosae)
 
-**Tradition Tags:** Suśruta Saṃhitā (Mudgaparṇī / wild-pulse group); Ayurvedic (dravyaguṇa, nighaṇṭu tradition); folk medicine (Indian subcontinent); pulse/fodder ethnobotany
+**Tradition Tags:** SS
+**Tags (previous line, retained for reference):** Suśruta Saṃhitā (Mudgaparṇī / wild-pulse group); Ayurvedic (dravyaguṇa, nighaṇṭu tradition); folk medicine (Indian subcontinent); pulse/fodder ethnobotany
 
 **Energetic Classification (Ayurvedic):** Pitta-Kapha-śāmaka (cooling, light, sweet-astringent pulse); mild, nourishing, Vāta-neutral to mildly Vāta-increasing if very dry.
 

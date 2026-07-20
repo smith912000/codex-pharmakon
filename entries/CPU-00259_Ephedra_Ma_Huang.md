@@ -188,3 +188,5 @@ The respiratory stimulant action of ephedrine at altitude deserves specific atte
 
 *Cross-references: I_044 Boswellia (complementary anti-inflammatory respiratory support for chronic asthma vs. Ephedra's acute bronchodilation), I_066 Chrysanthemum (Wind-Heat respiratory conditions where Ephedra is contraindicated — opposing energetic profiles), I_046 Cacao/Theobroma (theobromine as mild bronchodilator for subthreshold respiratory support in WADA-tested athletes), IV_04 Sacred Smoke Medicine (ritual respiratory context), II_214 Camellia sinensis/Green Tea (the xanthine partner in the traditional EC-equivalent stack — caffeine's phosphodiesterase inhibition synergizing with ephedrine's adrenergic mechanism)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_099*
+
+*Filed under: Volume I — Plant-Based | Ephedraceae | Canonical ID CPU-00259*

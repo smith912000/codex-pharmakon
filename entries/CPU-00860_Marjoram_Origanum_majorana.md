@@ -2,7 +2,8 @@
 
 ## *Origanum majorana* L. | Family: Lamiaceae
 
-**Tradition Tags:** DMM (Dioscoridean/Graeco materia medica) · EP (Egyptian/Ebers-adjacent aromatic use) · FMT (Folk Mediterranean) · CM-analogue (Unani/Tibb) · SBJ (minor) · BM (Biomedical)
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** DMM (Dioscoridean/Graeco materia medica) · EP (Egyptian/Ebers-adjacent aromatic use) · FMT (Folk Mediterranean) · CM-analogue (Unani/Tibb) · SBJ (minor) · BM (Biomedical)
 
 **Energetic Classification:** Galenic — warm and dry, second to third degree (a classic warming carminative). Unani analogue — *ḥārr yābis* (hot and dry). Ayurvedic-adjacent: pungent, heating, vata- and kapha-pacifying.
 

@@ -106,3 +106,5 @@ Fresh or dried powdered horsetail applied directly to wound for hemostasis. Trad
 
 *Cross-references: I_189 (Plantain — complementary urinary/wound herb), I_206 (Juniper — the more potent diuretic complement for acute edema), I_258 (Willow — bone-building anti-inflammatory companion for joint repair)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_132*
+
+*Filed under: Volume I — Plant-Based | Equisetaceae | Canonical ID CPU-00085*

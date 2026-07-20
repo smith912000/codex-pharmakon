@@ -2,7 +2,8 @@
 
 ## *Moringa oleifera* Lam. | Family: Moringaceae
 
-**Tradition Tags:** Suśruta Saṃhitā (**Varuṇādi gaṇa** — the kapha-medohara, gulma/abscess-dissolving, lithotriptic group; also kṛmighna and śothahara); Caraka Saṃhitā (kaṭu/dīpana, kaphavātahara, śothahara, śvayathu-hara); Bhāvaprakāśa Nighaṇṭu (Guḍūcyādi/Śāka varga); pan-tropical folk and nutritional medicine
+**Tradition Tags:** SS
+**Tags (previous line, retained for reference):** Suśruta Saṃhitā (**Varuṇādi gaṇa** — the kapha-medohara, gulma/abscess-dissolving, lithotriptic group; also kṛmighna and śothahara); Caraka Saṃhitā (kaṭu/dīpana, kaphavātahara, śothahara, śvayathu-hara); Bhāvaprakāśa Nighaṇṭu (Guḍūcyādi/Śāka varga); pan-tropical folk and nutritional medicine
 **Energetic Classification (Ayurvedic):** Kaṭu-Tikta rasa · Laghu-Rūkṣa-Tīkṣṇa guṇa · Uṣṇa vīrya · Kaṭu vipāka → **Kapha-Vāta-śāmaka**, Pitta-vardhaka (in excess)
 **Training Phase:** `[PRIME]`
 

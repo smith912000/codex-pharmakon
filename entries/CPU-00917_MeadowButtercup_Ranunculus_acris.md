@@ -2,7 +2,8 @@
 
 ## *Ranunculus acris* L. | Family: Ranunculaceae
 
-**Tradition Tags:** AT, DMM, BM (Avicennian/Unani)
+**Tradition Tags:** AT, DMM, CM
+**Tags (previous line, retained for reference):** AT, DMM, BM (Avicennian/Unani)
 **Energetic Classification:** Hot and dry in the extreme (Galenic) — a caustic, acrid rubefacient of the fourth (burning) degree
 **Training Phase:** External counterirritant only — NOT an internal Kenetica remedy
 

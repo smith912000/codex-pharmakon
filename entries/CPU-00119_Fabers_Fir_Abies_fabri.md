@@ -2,7 +2,8 @@
 
 ## *Abies fabri* (Mast.) Craib — the Sichuan fir, resin and needle source of warming antiseptic aromatics
 
-**Tradition Tags:** Chinese folk / Tibetan-adjacent · Folk-Sichuan (Mt Emei)
+**Tradition Tags:** FMT
+**Tags (previous line, retained for reference):** Chinese folk / Tibetan-adjacent · Folk-Sichuan (Mt Emei)
 **Energetic Classification (TCM):** ◉ Qi (warming-drying, resinous-antiseptic, expectorant)
 **Training Phase:** [GENERAL]
 
@@ -61,3 +62,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the medicinal conifers — pine (this volume), juniper, cypress (this volume), Tibetan juniper (this volume); the resin/balsam wound dressings; the monoterpene expectorant oils.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_102*
+
+*Filed under: Volume I — Plant-Based | Pinaceae | Canonical ID CPU-00119*

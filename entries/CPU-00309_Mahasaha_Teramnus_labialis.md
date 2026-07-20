@@ -2,7 +2,8 @@
 
 ## *Teramnus labialis* (L.f.) Spreng. | Family: Fabaceae (Leguminosae, subfam. Faboideae)
 
-**Tradition Tags:** Suśruta Saṃhitā (identified with Mahāsahā, paired with Sahā/Alpasahā; balya / vātahara context); Ayurvedic nighaṇṭus (Mahāsahā–Sahā pair, *māṣaparṇī* substitute discussions); Indian folk & tribal medicine (tonic, galactagogue, food legume); pan-tropical fodder/food legume
+**Tradition Tags:** SS
+**Tags (previous line, retained for reference):** Suśruta Saṃhitā (identified with Mahāsahā, paired with Sahā/Alpasahā; balya / vātahara context); Ayurvedic nighaṇṭus (Mahāsahā–Sahā pair, *māṣaparṇī* substitute discussions); Indian folk & tribal medicine (tonic, galactagogue, food legume); pan-tropical fodder/food legume
 
 **Energetic Classification (Ayurvedic):** Predominantly Vāta-pacifying and balya; *madhura-vipāka*, *śīta*-to-mild *vīrya*, *guru-snigdha* — a nourishing, strength-giving legume-drug
 

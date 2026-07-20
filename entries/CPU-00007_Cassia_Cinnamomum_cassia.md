@@ -2,7 +2,8 @@
 
 ## *Cinnamomum cassia* (L.) J.Presl — the deep-warming bark that kindles the gate of vitality
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book I) · Greco-Roman · Chinese Medicine (Rou Gui / Gui Zhi) · Egyptian (Ebers) · Tibetan (rGyud-bzhi) · Unani
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS, FMT
+**Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book I) · Greco-Roman · Chinese Medicine (Rou Gui / Gui Zhi) · Egyptian (Ebers) · Tibetan (rGyud-bzhi) · Unani
 **Energetic Classification (TCM):** ◉ Qi (deeply warming, yang-supporting)
 **Training Phase:** [GENERAL]
 
@@ -67,3 +68,5 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 *Cross-references: Ceylon cinnamon (*Cinnamomum verum*, I_068) — the milder "true" cinnamon perennially confused with cassia; the warming aromatics — ginger, clove, cardamom; the CM warming-interior herbs (dried ginger, aconite Fu Zi, I_004). Note the cassia↔cinnamon↔senna naming confusions in old texts.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_055*
+
+*Filed under: Volume I — Plant-Based | Lauraceae | Canonical ID CPU-00007*

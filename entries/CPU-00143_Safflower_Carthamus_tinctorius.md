@@ -94,3 +94,5 @@ Cold-pressed safflower seed oil used in cooking; significant linoleic acid conte
 
 *Cross-references: I_081 (Saffron — the other flower-dye blood-moving medicine, with different pharmacology), I_210 (Pomegranate — cardiovascular OPC complement), I_198 (Rehmannia — the Blood-nourishing complement in Tao Hong Si Wu Tang)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_207*
+
+*Filed under: Volume I — Plant-Based | Asteraceae | Canonical ID CPU-00143*

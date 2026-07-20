@@ -2,7 +2,8 @@
 
 ## *Cydonia oblonga* Mill. | Family: Rosaceae
 
-**Tradition Tags:** CM (Avicenna, *Qānūn* — *safarjal* and its seed), DMM (Dioscorides — *kydōnion mēlon*, the Cydonian apple)
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** CM (Avicenna, *Qānūn* — *safarjal* and its seed), DMM (Dioscorides — *kydōnion mēlon*, the Cydonian apple)
 
 **Energetic Classification (Galenic/Unani):** The fruit cool & dry (astringent); the **seed mucilage** cool & moist — demulcent (*mulaṭṭif*/*mulayyin*)
 

@@ -83,3 +83,5 @@ Compound digestive pill containing caraway/ajamoda; 1–2 tablets before or afte
 
 *Cross-references: I_103 (Fennel — closely related Apiaceae carminative; synergistic pair), I_087 (Cumin — classical culinary digestive triad with caraway and fennel), I_081 (Coriander — fourth Apiaceae digestive spice)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_052*
+
+*Filed under: Volume I — Plant-Based | Apiaceae | Canonical ID CPU-00077*

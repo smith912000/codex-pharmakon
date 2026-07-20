@@ -2,7 +2,8 @@
 
 ## *Allium porrum* L. (*Allium ampeloprasum* Porrum group) — the mild pungent allium, expectorant and cleanser of the chest
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book II) · Greco-Roman · Egyptian · Folk-European (esp. Welsh) · Unani
+**Tradition Tags:** EP, AT, DMM, CM, SS
+**Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book II) · Greco-Roman · Egyptian · Folk-European (esp. Welsh) · Unani
 **Energetic Classification (TCM):** ◉ Qi (warming, dispersing, expectorant)
 **Training Phase:** [GENERAL]
 
@@ -64,3 +65,5 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 *Cross-references: the allium family — garlic, onion, the broader *Allium* group; the expectorant/throat herbs — hyssop, horehound; the prebiotic fibre foods. Contrast the fiercer garlic for the strong end of the allium spectrum.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_144*
+
+*Filed under: Volume I — Plant-Based | Amaryllidaceae | Canonical ID CPU-00071*

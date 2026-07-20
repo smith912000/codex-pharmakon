@@ -88,3 +88,5 @@ Verifiable, species-specific pharmacological literature on *Arenaria kansuensis*
 
 *Cross-references: I_274 (Lesser Galangal — opposing warming pole), I_275 (Aromatic Ginger — opposing warming pole), I_066 (Chrysanthemum — Liver-heat-clearing comparison), I_065 (Chirata — bitter heat-clearing parallel)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_276*
+
+*Filed under: Volume I — Plant-Based | Caryophyllaceae | Canonical ID CPU-00166*

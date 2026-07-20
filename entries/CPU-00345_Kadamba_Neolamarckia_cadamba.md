@@ -2,7 +2,8 @@
 
 ## *Neolamarckia cadamba* (Roxb.) Bosser | Family: Rubiaceae
 **(syn. *Anthocephalus cadamba*, *Anthocephalus chinensis*)**
-**Tradition Tags:** SS (Suśruta Saṃhitā), CS (Caraka Saṃhitā); Nighaṇṭu literature; Purāṇic/devotional corpus
+**Tradition Tags:** CM, SS
+**Tags (previous line, retained for reference):** SS (Suśruta Saṃhitā), CS (Caraka Saṃhitā); Nighaṇṭu literature; Purāṇic/devotional corpus
 **Energetic Classification (Ayurvedic):** Rasa — Kaṣāya (astringent), Tikta (bitter), Madhura (sweet, secondary); Vīrya — Śīta (cooling); Vipāka — Kaṭu (pungent); Guṇa — Laghu (light), Rūkṣa (dry). Pacifies Pitta and Kapha; the astringent-dry character can aggravate Vāta.
 **Training Phase:** Stabilisation / Astringent-restorative — a cooling astringent for flux states (diarrhoea, discharge, metabolic excess).
 

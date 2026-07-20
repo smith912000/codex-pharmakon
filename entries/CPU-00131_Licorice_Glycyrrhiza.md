@@ -211,3 +211,5 @@ Qiu F et al. (2014) and multiple Chinese pharmacokinetic studies document that g
 
 *Cross-references: I_021 (Astragalus membranaceus — co-formula Qi tonic; frequent Gān Cǎo partner in Yù Píng Fēng Sǎn and Buzhong Yiqi Tang); I_179 (Panax ginseng — co-formula Jūn herb in Four Gentlemen and other Qi-tonic formulas where Gān Cǎo serves Shǐ role); I_112 (Allium sativum — complementary antimicrobial; harmonizing contrast); I_011 (Angelica sinensis — key co-herb in Dāng Guī Bǔ Xuè Tāng, where Gān Cǎo modulates the formula); I_044 (Boswellia — anti-inflammatory synergy for joint and tendon protocols).*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_148*
+
+*Filed under: Volume I — Plant-Based | Fabaceae | Canonical ID CPU-00131*

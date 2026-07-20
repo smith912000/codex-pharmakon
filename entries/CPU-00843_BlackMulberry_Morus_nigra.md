@@ -2,7 +2,8 @@
 
 ## *Morus nigra* L. | Family: Moraceae
 
-**Tradition Tags:** AT, DMM, SBJ, SS, +Avicenna (Unani/Canon)
+**Tradition Tags:** AT, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** AT, DMM, SBJ, SS, +Avicenna (Unani/Canon)
 **Energetic Classification:** Cooling and moist when ripe; astringent-sour when unripe (Galenic/Unani)
 **Training Phase:** Cooling & Soothing (mucosal-astringent, blood-cooling)
 

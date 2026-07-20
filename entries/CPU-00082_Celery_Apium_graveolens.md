@@ -94,3 +94,5 @@ The seed phthalides and terpenes relax intestinal smooth muscle (the carminative
 
 *Cross-references: I_079 (Coriander — the Apiaceae digestive carminative companion), I_052 (Caraway — the digestive seed family member), I_125 (Hawthorn — the cardiovascular tonic complement for antihypertensive protocols)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_059*
+
+*Filed under: Volume I — Plant-Based | Apiaceae | Canonical ID CPU-00082*

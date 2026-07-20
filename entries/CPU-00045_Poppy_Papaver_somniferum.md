@@ -103,3 +103,5 @@ The opium poppy is the most pharmacologically influential plant in human history
 
 *Cross-references: I_147 (Wild Lettuce — the safer lactucopicrin analgesic-sedative for non-severe pain), I_166 (Mandrake — the other historic surgical anesthetic in the same tradition context), I_263 (Wormwood — the bitter tonic anti-inflammatory at the opposite end of the analgesic spectrum)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_192*
+
+*Filed under: Volume I — Plant-Based | Papaveraceae | Canonical ID CPU-00045*

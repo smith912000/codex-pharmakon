@@ -91,3 +91,5 @@ This is a `[GENERAL]` herb: gentle enough for routine cyclical use, but not a to
 
 *Cross-references: I_193 (Poria Fu Ling — Wǔ Líng Sǎn and Liù Wèi Dì Huáng Wán partner), I_022 (Atractylodes Bai Zhu — Spleen-strengthening fluid transformation), I_092 (Dioscorea Shan Yao — Liù Wèi Dì Huáng Wán tonic counterpart)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_289*
+
+*Filed under: Volume I — Plant-Based | Alismataceae | Canonical ID CPU-00251*

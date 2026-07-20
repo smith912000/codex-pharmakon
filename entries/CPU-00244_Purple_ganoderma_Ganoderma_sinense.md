@@ -2,7 +2,8 @@
 
 ## *Ganoderma sinense* J.D.Zhao, L.W.Hsu & X.Q.Zhang — the violet-lacquered fungus of the Pharmacopoeia
 
-**Tradition Tags:** CM · SBJ · DMM (functional class)
+**Tradition Tags:** SBJ, FMT
+**Tags (previous line, retained for reference):** CM · SBJ · DMM (functional class)
 
 **Energetic Classification (TCM):** ☿ Shen / ◉ Qi
 
@@ -95,3 +96,5 @@ The genus is best served by a hot-water + alcohol dual extraction, since polysac
 *Cross-references: I_061 Chaga (Inonotus obliquus), I_077 Cordyceps, I_073 Codonopsis (Dang Shen), I_020 Astragalus (Astragalus membranaceus)*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_284*
+
+*Filed under: Volume I — Plant-Based | Ganodermataceae | Canonical ID CPU-00244*

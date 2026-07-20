@@ -1,6 +1,7 @@
 # Ativisha — Ativiṣā / Aruṇā / Śṛṅgī / Viṣā / Bhaṅgurā (Sanskrit); Atis, Ativish (Hindi); Indian Atees, Aconite (English — non-toxic species)
 ## *Aconitum heterophyllum* Wall. ex Royle | Family: Ranunculaceae
-**Tradition Tags:** SS (Suśruta Saṃhitā — the "non-toxic" detoxified aconite; antidiarrhoeal, digestive, paediatric); CS (Caraka); AH
+**Tradition Tags:** CM, SS, FMT
+**Tags (previous line, retained for reference):** SS (Suśruta Saṃhitā — the "non-toxic" detoxified aconite; antidiarrhoeal, digestive, paediatric); CS (Caraka); AH
 **Energetic Classification (Ayurvedic):** Tridoṣaghna, with primary Kapha–Pitta hara; heating (uṣṇa vīrya) yet — uniquely — dīpana without aggravating Pitta unduly
 **Training Phase:** Recovery / Gut-restoration phase; Paediatric-analogue gentle-tonic tier; convalescent digestive-priming
 

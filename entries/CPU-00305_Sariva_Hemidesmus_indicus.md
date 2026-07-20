@@ -2,7 +2,8 @@
 
 ## *Hemidesmus indicus* (L.) R.Br. ex Schult. | Family: Apocynaceae
 
-**Tradition Tags:** Suśruta Saṃhitā (raktaprasādana — blood-clarifying; *sārivādi gaṇa*); Caraka Saṃhitā (dāhapraśamana, stanya-śodhana); Unani (as *Ushba hindi*); Siddha; South Indian folk & European pharmacopoeial *Sarsaparilla* surrogate
+**Tradition Tags:** SS
+**Tags (previous line, retained for reference):** Suśruta Saṃhitā (raktaprasādana — blood-clarifying; *sārivādi gaṇa*); Caraka Saṃhitā (dāhapraśamana, stanya-śodhana); Unani (as *Ushba hindi*); Siddha; South Indian folk & European pharmacopoeial *Sarsaparilla* surrogate
 
 **Energetic Classification (Ayurvedic):** Tridoṣaghna with primary action on Pitta and Rakta; *madhura-vipāka*, *śīta-vīrya* — pacifies Pitta and Kapha, mildly grounding to Vāta
 

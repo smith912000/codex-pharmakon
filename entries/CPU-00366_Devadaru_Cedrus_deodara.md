@@ -2,7 +2,8 @@
 
 ## *Cedrus deodara* (Roxb. ex D.Don) G.Don | Family: Pinaceae
 
-**Tradition Tags:** SS (Suśruta Saṃhitā) — "timber of the gods"; anti-inflammatory wood/oil; Kaphahara–Vātahara, śothahara (anti-swelling), vedanāsthāpana (analgesic)
+**Tradition Tags:** CM, SS, FMT
+**Tags (previous line, retained for reference):** SS (Suśruta Saṃhitā) — "timber of the gods"; anti-inflammatory wood/oil; Kaphahara–Vātahara, śothahara (anti-swelling), vedanāsthāpana (analgesic)
 
 **Energetic Classification (Ayurvedic):** Rasa — tikta (bitter), kaṭu (pungent) · Vīrya — uṣṇa (heating) · Vipāka — kaṭu (pungent) · Doṣa — pacifies Kapha and Vāta; may aggravate Pitta
 

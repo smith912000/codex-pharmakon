@@ -2,7 +2,8 @@
 
 ## *Pisum sativum* L. | Family: Fabaceae
 
-**Tradition Tags:** EP (European Phytotherapy) · DMM (Dioscoridean Materia Medica) · CM (Chinese Materia Medica) · SS (South Asian / Siddha-Ayurvedic food-medicine) · FMT (Folk & Monastic Traditions) · BM (Biomedical)
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** EP (European Phytotherapy) · DMM (Dioscoridean Materia Medica) · CM (Chinese Materia Medica) · SS (South Asian / Siddha-Ayurvedic food-medicine) · FMT (Folk & Monastic Traditions) · BM (Biomedical)
 
 **Energetic Classification:** Galenic — cool and moist in the first degree, nourishing and mildly demulcent; TCM — sweet (甘) and neutral, entering Spleen and Stomach, harmonising the Middle Burner.
 

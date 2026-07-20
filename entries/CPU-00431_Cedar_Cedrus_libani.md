@@ -159,6 +159,26 @@ Cedar shavings or chips burned on charcoal; allow smoke to fill space for 10–2
 
 ---
 
+### Cultivation Register
+
+**Assyrian (AT).** No cultivation status is attested. The Codex holds a standing blocking warning over Assyrian substance identifications, deity and demon attributions, and tablet references, and cedar is one of the worst cases for it: *erēnu* and *ballukku* are not securely a single botanical species, and the cuneiform corpus classifies illness by causal agency — divine hand, ghost, sworn oath — rather than by what a substance does to a person's vital constitution. Cedar's presence in fumigation for "purification of a house" is a claim about a *place* and the agency afflicting it, not a claim about the practitioner. Nothing here supports an attested Assyrian cultivation status for *Cedrus libani*.
+
+**Egyptian (EP).** No cultivation framing is attested. Two things must be separated. First, the botanical identification: biomolecular analysis of the Saqqara embalming workshop vessels distinguished cedar (himachalene-series sesquiterpenoids) from juniper/cypress (totarol derivatives, cuparene-related sesquiterpenes), and found cedar oil or tar in 19 of the analysed vessels — so the older scholarly suspicion that "Egyptian cedar oil" was always juniper is too strong, though the two do occur together and the inscribed *antiu* was a mixture of both with animal fat (Rageot et al., *Nature* 614, 2023, on a Twenty-Sixth Dynasty context). Second, and separately: this is mortuary technology applied to a corpse. It says nothing about *ka*, *ba*, *akh* or the *ib* in a living person, and no *heka* recitation is attested for cedar in the sources retrieved here. The Egyptian corpus is indication-organised; the honest answer is absence.
+
+**Greek / Dioscorides (DMM).** Dioscorides has no subtle-body system and none is manufactured here. What Book I offers a cultivator is a discipline of attention: he separates *kedros* (the tree) from *kedria* (the extracted oil) as distinct materials with distinct uses, records that the *kedria* preserves bodies from decay, and specifies preparation and admixture. That distinction between a plant and a particular preparation of it — and the habit of asking which one you actually hold — is the practice, and it is a real one.
+
+**Unani / Avicenna (CM).** No cultivation status is attested; the frame is given without a claim inside it. The Unani system's cultivation idea is the conservation of innate heat and radical moisture, a finite vital endowment whose depletion *is* ageing, so longevity practice in this tradition is conservation rather than acquisition. Cedar's assignment as warming and drying in the second degree is a *temperamental* rating governing its use against cold-damp complaints — it is a therapeutic co-ordinate, not a statement that cedar conserves the endowment or strengthens the *ruh*. No such claim is recorded in the sources retrieved.
+
+**Chinese (SBJ).** Attested in the materia medica but with no *san pin* 三品 grade recorded for 雪松 or the 松脂 conifer-resin category in the sources retrieved; cedar therefore carries no cultivation status in this tradition here, only a therapeutic one. In particular, no 輕身 (*qing shen*, "lighten the body") attribution is attested for cedar, and none should be inferred from its aromatic character. The *Bencao Gangmu* material cited in this entry is a 1596 compilation, later than the classics, and its inclusion of Himalayan cedar does not carry a grade with it.
+
+**Ayurveda (SS).** Attested in the *dravyaguna* with a full set of co-ordinates — *tikta-katu rasa*, *ushna virya*, *katu vipaka*, Kapha-Vata *shamaka* — and a set of *karma* (*shothahara*, *vedanasthapana*, *krimighna*, *lekhana*). Every one of those is a therapeutic action. No *rasayana* or *vajikarana* status is attested for *Devadāru* in the sources retrieved, and no *ojas* claim is made for it; the name "timber of the gods" is an epithet and is not a *dravyaguna* classification. Status therefore unattested.
+
+**Tibetan (FMT).** No cultivation status is attested. Aromatic conifer wood is used in *bsang* (བསང་) smoke offering, which is a ritual purification practice with its own logic, and conifers appear in compound formulas — but per the Four Tantras' own architecture, medicine is the third of four treatment branches and supports practice rather than reaching its root, which is the three poisons underlying the three *nyes pa*. No formal category of "substances for subtle-body practice" exists in this tradition to place cedar into, and *bcud len* (essence extraction) is not attested for it. The *bsang* practice is real; it is not a cultivation status for the wood.
+
+**Practitioner's note.** A cultivator's honest use of cedar is environmental and sensory, not constitutional. Aromatic diffusion and cedar in a steam or sauna environment have a measured autonomic effect and a measured antimicrobial one; medicated *Devadāru* oil has a defined topical use for joints. None of the seven traditions here records cedar as a substance you take to build or conserve your vital endowment, and the absence is consistent enough across them to be informative rather than a gap in the research. Use it to condition a space and a nervous system before practice — and do not confuse that with the practice.
+
+---
+
 ### Contraindications
 
 - **Cedar wood dust** — occupational exposure (furniture makers, sawyers): cedar dust is a known sensitizer causing occupational asthma and rhinitis; immunological sensitization, not direct toxicity
@@ -184,3 +204,5 @@ Cedar shavings or chips burned on charcoal; allow smoke to fill space for 10–2
 
 *Cross-references: I_139 (Juniper — traditional aromatic pairing; AT/EP/FMT fumigation partner), I_044 (Frankincense — the great complementary aromatic), I_166 (Myrrh — aromatic wound-healing trio with cedar), IV_12 (Kyphi — cedar appears in some Egyptian Kyphi variants), I_058's AT fumigation protocol referenced in K.10228 tablet*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_058*
+
+*Filed under: Volume I — Plant-Based | Pinaceae | Canonical ID CPU-00431*

@@ -118,3 +118,5 @@ Codex policy: the chemistry (sugars, polysaccharides, phenolics) is securely sta
 *Cross-references: I_086 (Dà Zǎo — Red Jujube, the co-formulary Blood-Shen tonic) · Suān Zǎo Rén (Ziziphus spinosa seed — the stronger sleep-specific partner in the Blood-Shen sleep stack) · I_010 (Dāng Guī — the premier Blood-nourishing complement in Guī Pí Tāng) · I_020 (Astragalus — the Qi-tonifying co-ingredient of Guī Pí Tāng)*
 
 *Filed under: Codex Pharmakon Universalis — Volume I (Plant-Based Substances) | Entry I_294*
+
+*Filed under: Volume I — Plant-Based | Sapindaceae | Canonical ID CPU-00263*

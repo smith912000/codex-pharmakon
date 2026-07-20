@@ -2,7 +2,8 @@
 
 ## *Lavandula stoechas* L. | Family: Lamiaceae
 
-**Tradition Tags:** CM (Avicenna, *Qānūn* — *ustukhuddūs*), DMM (Dioscorides — *stoichas*)
+**Tradition Tags:** AT, DMM, CM
+**Tags (previous line, retained for reference):** CM (Avicenna, *Qānūn* — *ustukhuddūs*), DMM (Dioscorides — *stoichas*)
 
 **Energetic Classification (Galenic/Unani):** Hot & dry (1°–2°) — a warming nervine and deobstruent (*mufattiḥ*)
 

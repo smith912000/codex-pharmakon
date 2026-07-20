@@ -2,7 +2,8 @@
 
 ## *Castanea sativa* Mill. — the tannin-rich astringent leaf and the nourishing flour-nut
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book I) · Greco-Roman · Folk-European (Mediterranean & mountain)
+**Tradition Tags:** AT, DMM, CM, SBJ
+**Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book I) · Greco-Roman · Folk-European (Mediterranean & mountain)
 **Energetic Classification (TCM):** ◉ Qi (astringent-drying leaf/bark; nourishing nut)
 **Training Phase:** [GENERAL]
 
@@ -63,3 +64,5 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 *Cross-references: the astringent-tannin cluster — oak gall, cypress (I_085), bistort, tormentil; the antitussive/respiratory herbs; the nutritive food-nuts — stone pine (I_226), almond.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_063*
+
+*Filed under: Volume I — Plant-Based | Fagaceae | Canonical ID CPU-00039*

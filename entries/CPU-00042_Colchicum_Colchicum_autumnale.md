@@ -2,7 +2,8 @@
 
 ## *Colchicum autumnale* L. — the autumn flower of Colchis whose poison tames the gout and arrests the cell
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book IV) · Greco-Roman · Byzantine/Arabic (Hermodactyl) · Modern pharmacy
+**Tradition Tags:** EP, AT, DMM, CM, SS
+**Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book IV) · Greco-Roman · Byzantine/Arabic (Hermodactyl) · Modern pharmacy
 **Energetic Classification (TCM):** ◉ Qi / ☿ Shen (mitotic/systemic action)
 **Training Phase:** [SPECIALIST ONLY] — potent mitotic poison; narrow margin, no antidote
 
@@ -68,3 +69,5 @@ Codex policy: mechanism stated securely; named citations to be supplied and veri
 *Cross-references: the mitotic-poison/antimitotic cluster (vinca alkaloids, taxanes — by mechanism contrast); the gout therapeutics; the deadly-bulb poisons of Book IV — squill (I_222), the hellebores (I_039, I_245). Note the fatal confusion with edible wild garlic/saffron.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_074*
+
+*Filed under: Volume I — Plant-Based | Colchicaceae | Canonical ID CPU-00042*

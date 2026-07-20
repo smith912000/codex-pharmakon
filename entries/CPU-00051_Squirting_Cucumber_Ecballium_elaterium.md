@@ -97,3 +97,5 @@ Attard E, Cuschieri A (2004) "Cytotoxicity of cucurbitacin E extracted from *Ecb
 *Cross-references: I_213 Scammony / Convolvulus scammonia (Levant-trade drastic cathartic); I_038 Black Bryony / Dioscorea communis; I_244 White Bryony / Bryonia alba (cucurbitacin-bearing drastic — shared chemistry); I_221 Spurge / Euphorbia characias (caustic drastic); Volume III Cytotoxic / Cucurbitacin entries*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_223*
+
+*Filed under: Volume I — Plant-Based | Cucurbitaceae | Canonical ID CPU-00051*

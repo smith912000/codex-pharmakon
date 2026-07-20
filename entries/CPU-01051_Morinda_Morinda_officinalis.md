@@ -98,3 +98,5 @@ Bā Jǐ Tiān 15 g + Yin Yang Huo (Epimedium) 15 g + Rou Cong Rong (Cistanche) 1
 *Cross-references: I_070 Cistanche (Rou Cong Rong), I_002 Achyranthes (Niu Xi), I_198 Rehmannia (Shu Di Huang), I_117 Gokshura (Tribulus terrestris), I_163 Mucuna (Mucuna pruriens), I_186 Pine Pollen*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_161*
+
+*Filed under: Volume I — Plant-Based | Rubiaceae | Canonical ID CPU-01051*

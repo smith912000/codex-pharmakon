@@ -1,7 +1,8 @@
 # Ashoka — Aśoka, Aśoka-vṛkṣa, Hema-puṣpa, Vañjula, Kaṅkeli (Sanskrit); Sita Ashok, Anganapriya
 
 ## *Saraca asoca* (Roxb.) Willd. | Family: Fabaceae (Caesalpinioideae)
-**Tradition Tags:** SS (Suśruta Saṃhitā), CS (Caraka Saṃhitā), Aṣṭāṅga Hṛdaya; Nighaṇṭu literature (Bhāvaprakāśa)
+**Tradition Tags:** CM, SS
+**Tags (previous line, retained for reference):** SS (Suśruta Saṃhitā), CS (Caraka Saṃhitā), Aṣṭāṅga Hṛdaya; Nighaṇṭu literature (Bhāvaprakāśa)
 **Energetic Classification (Ayurvedic):** Rasa — Kaṣāya (astringent), Tikta (bitter); Vīrya — Śīta (cooling); Vipāka — Kaṭu (pungent); Guṇa — Laghu (light), Rūkṣa (dry). Pacifies Pitta and Kapha; the astringency mildly aggravates Vāta if used dry and unattended.
 **Training Phase:** Stabilisation / Restorative — a Stri-roga (gynaecology) tonic used to steady cyclical instability rather than to force acute change.
 

@@ -2,7 +2,8 @@
 
 ## *Beta vulgaris* L. — the nitrate-rich crimson root, opener of the liver and nourisher of the blood
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book II) · Greco-Roman · Unani · Folk-European
+**Tradition Tags:** EP, AT, DMM, CM
+**Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book II) · Greco-Roman · Unani · Folk-European
 **Energetic Classification (TCM):** ◉ Qi (cooling-moistening, opening, nutritive)
 **Training Phase:** [GENERAL]
 
@@ -65,3 +66,5 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 *Cross-references: the nutritive/cleansing pot-herbs — chard, spinach, the goosefoots; the diuretic/opening roots — asparagus (this volume), parsley; the nitrate-vascular foods; betalain pigment plants.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_030*
+
+*Filed under: Volume I — Plant-Based | Amaranthaceae | Canonical ID CPU-00073*

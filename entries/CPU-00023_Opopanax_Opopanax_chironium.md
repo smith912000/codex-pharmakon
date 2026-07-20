@@ -2,7 +2,8 @@
 
 ## *Opopanax chironium* (L.) W.D.J.Koch — the "all-heal" juice of the Centaur's herb
 
-**Tradition Tags:** DMM · CM-Unani · (perfumery lineage)
+**Tradition Tags:** AT, DMM, CM
+**Tags (previous line, retained for reference):** DMM · CM-Unani · (perfumery lineage)
 **Energetic Classification (TCM):** ◉ Qi (warm dispersing resolvent) · secondary ☿ Shen (antispasmodic, nervine)
 **Training Phase:** [SPECIALIST ONLY]
 
@@ -77,3 +78,5 @@ The umbelliferone-class calcium-channel-modulating smooth-muscle mechanism is do
 *Cross-references: I_209 (Ferula persica / sagapenum — grouped with opopanax in the classical resolvent-gum class); I_014 (Ferula assa-foetida — the fetid heavyweight of the same Qi-dispersing family; opopanax is the sweeter, gentler member); I_166 (Myrrh — note the commercial-naming overlap, since perfumer's "opopanax" is often a Commiphora resin akin to myrrh); I_123 (Commiphora wightii / guggulu — Burseraceae resolvent resin, functional parallel for resolving masses).*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_176*
+
+*Filed under: Volume I — Plant-Based | Apiaceae | Canonical ID CPU-00023*

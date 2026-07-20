@@ -69,3 +69,5 @@ Codex policy: chemistry stated securely; homeopathic use framed as a separate tr
 *Cross-references: black bryony (I_038) — the unrelated yam-family look-alike grouped by acridity; the cucurbitacin drastic cluster — colocynth (I_075), squirting cucumber (I_223); true mandrake (*Mandragora*) as the plant it was fraudulently carved to imitate; scammony (I_213) and the compound drastics.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_244*
+
+*Filed under: Volume I — Plant-Based | Cucurbitaceae | Canonical ID CPU-00054*

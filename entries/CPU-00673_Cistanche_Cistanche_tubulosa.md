@@ -108,3 +108,5 @@ Rou Cong Rong 12 g + Yin Yang Huo (Epimedium) 9 g + Ba Ji Tian (Morinda) 9 g + D
 *Cross-references: I_161 Morinda (Ba Ji Tian), I_002 Achyranthes (Niu Xi), I_198 Rehmannia (Shu Di Huang), I_126 He Shou Wu (Reynoutria multiflora), I_101 Eucommia (Eucommia ulmoides), I_069 Cistanche (prior entry)*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_070*
+
+*Filed under: Volume I — Plant-Based | Orobanchaceae | Canonical ID CPU-00673*

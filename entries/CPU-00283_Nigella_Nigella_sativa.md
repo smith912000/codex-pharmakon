@@ -2,7 +2,8 @@
 
 ## *Nigella sativa* L. — Black Cumin, Roman Coriander, Kalonji, Fennel Flower
 
-**Tradition Tags:** EP · AT · CM · SS · FMT (peripheral)
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS, FMT
+**Tags (previous line, retained for reference):** EP · AT · CM · SS · FMT (peripheral)
 
 **Energetic Classification (TCM):** ◉ Qi primary / ⊕ Yuan secondary
 
@@ -130,3 +131,5 @@ Kolahdooz M, Nasri S, Modarres SZ, Kianbakht S, Huseini HF (2014) "Effects of Ni
 *Cross-references: I_045 (Boswellia serrata — complementary 5-LOX inhibition); I_240 (Curcuma longa — complementary NF-κB/COX-2 inhibition); I_017 (Withania somnifera — complementary adaptogenic/anti-inflammatory); I_208 (Crocus sativus — cognitive and mood synergy in CYCLE-OFF protocol); I_236 (Tribulus terrestris — complementary male reproductive support)*
 
 *Filed under: Codex Pharmakon Universalis — Volume I (Plant-Based Substances) | Entry I_170*
+
+*Filed under: Volume I — Plant-Based | Ranunculaceae | Canonical ID CPU-00283*

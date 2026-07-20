@@ -107,3 +107,5 @@ Warm extra-virgin olive oil applied directly to skin, wounds, and joints — the
 
 *Cross-references: I_159 (Milk Thistle — the liver companion for hepatoprotective depth), I_027 (Barberry — the AMPK/lipid complement for metabolic management), I_013 (Artichoke — the bile and hepatic companion in Mediterranean medicine)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_173*
+
+*Filed under: Volume I — Plant-Based | Oleaceae | Canonical ID CPU-00034*

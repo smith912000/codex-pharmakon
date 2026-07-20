@@ -2,7 +2,8 @@
 
 ## *Convolvulus scammonia* L. — the Levantine bindweed whose root-resin drives a swift, cold purge
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book IV) · Greco-Roman · Unani/Arabic (Saqmunia / Mahmudah) · Medieval-European pharmacy
+**Tradition Tags:** EP, AT, DMM, CM
+**Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book IV) · Greco-Roman · Unani/Arabic (Saqmunia / Mahmudah) · Medieval-European pharmacy
 **Energetic Classification (TCM):** ◉ Qi (resin-glycoside drastic purgative)
 **Training Phase:** [SPECIALIST ONLY] — drastic resin cathartic; irritant, tempered in compounds
 
@@ -67,3 +68,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the resin-glycoside cathartics — jalap, the morning glories (*Ipomoea*); the drastic-purgative cluster — colocynth (I_075), squirting cucumber (I_223), white bryony (I_244); the compound purgatives (Confectio Hamech). Contrast the anthraquinone purgatives (senna, aloes) and the gentle osmotic laxatives (manna, I_018).*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_213*
+
+*Filed under: Volume I — Plant-Based | Convolvulaceae | Canonical ID CPU-00052*

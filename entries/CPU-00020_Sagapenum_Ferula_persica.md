@@ -2,7 +2,8 @@
 
 ## *Ferula persica* Willd. — the lesser fetid gum of the Median road
 
-**Tradition Tags:** DMM · CM-Unani · SS (peripheral)
+**Tradition Tags:** DMM
+**Tags (previous line, retained for reference):** DMM · CM-Unani · SS (peripheral)
 **Energetic Classification (TCM):** ◉ Qi (moves and disperses stagnation in the Middle Burner) · secondary ☿ Shen (antispasmodic, nervine)
 **Training Phase:** [SPECIALIST ONLY]
 
@@ -76,3 +77,5 @@ The umbelliferone / coumarin calcium-channel-modulating smooth-muscle mechanism 
 *Cross-references: I_014 (Ferula assa-foetida — the heavier, more fetid sibling in the same Qi-dispersing niche; sagapenum is the milder analogue); I_176 (Opopanax chironium — the other classical Apiaceae "panax/all-heal" gum-resin, frequently grouped with sagapenum and galbanum in the resolvent-gum class); I_139 (Juniperus — warming aromatic, complementary cold-damp dispersal).*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_209*
+
+*Filed under: Volume I — Plant-Based | Apiaceae | Canonical ID CPU-00020*

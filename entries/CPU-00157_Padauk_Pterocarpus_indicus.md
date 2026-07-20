@@ -2,7 +2,8 @@
 
 ## *Pterocarpus indicus* Willd. — the bleeding red heartwood and its kino, astringent haemostat of the tropical Asian forest
 
-**Tradition Tags:** Ayurveda (adjacent — *Pterocarpus* lineage) · Southeast Asian folk medicine · Chinese Medicine (adjacent, *jiang xiang* relatives) · Traditional Pacific/Malay (SBJ-adjacent ethnobotany)
+**Tradition Tags:** FMT
+**Tags (previous line, retained for reference):** Ayurveda (adjacent — *Pterocarpus* lineage) · Southeast Asian folk medicine · Chinese Medicine (adjacent, *jiang xiang* relatives) · Traditional Pacific/Malay (SBJ-adjacent ethnobotany)
 **Energetic Classification (TCM):** ◉ Qi (blood-cooling, astringent, stasis-resolving) / ◈ Jing (secondary — connective/tissue)
 **Training Phase:** [SPECIALIST ONLY]
 
@@ -80,3 +81,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the red-wood and red-resin astringent-haemostatic class — true red sandalwood *Pterocarpus santalinus*, catechu (*Acacia/Senegalia*, this volume), dragon's blood resins; the *jiang xiang* aromatic rosewood I_272 Dalbergia odorifera; the antidiabetic heartwood *P. marsupium*.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_269*
+
+*Filed under: Volume I — Plant-Based | Fabaceae | Canonical ID CPU-00157*

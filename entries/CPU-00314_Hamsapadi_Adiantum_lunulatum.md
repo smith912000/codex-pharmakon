@@ -2,7 +2,8 @@
 
 ## *Adiantum lunulatum* Burm.f. | Family: Pteridaceae
 
-**Tradition Tags:** Suśruta Saṃhitā; Ayurvedic (dravyaguṇa, nighaṇṭu tradition); Siddha; folk medicine (South & Southeast Asia)
+**Tradition Tags:** SS
+**Tags (previous line, retained for reference):** Suśruta Saṃhitā; Ayurvedic (dravyaguṇa, nighaṇṭu tradition); Siddha; folk medicine (South & Southeast Asia)
 
 **Energetic Classification (Ayurvedic):** Pitta-Kapha-śāmaka (cooling, bitter, blood- and liver-directed); mild Vāta-neutral.
 

@@ -2,7 +2,8 @@
 
 ## *Malva sylvestris* L. | Family: Malvaceae
 
-**Tradition Tags:** DMM (Dioscoridean/Graeco-Roman) · SBJ (Unani/Tibb) · AT (Ayurveda, adopted/folk) · CM (Chinese Materia Medica, allied *Malva*) · FMT (Folk & Magico-Traditional) · BM (Biomedicine)
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** DMM (Dioscoridean/Graeco-Roman) · SBJ (Unani/Tibb) · AT (Ayurveda, adopted/folk) · CM (Chinese Materia Medica, allied *Malva*) · FMT (Folk & Magico-Traditional) · BM (Biomedicine)
 **Energetic Classification:** Galenic/Unani — cold and moist in the first degree; supremely emollient and demulcent. TCM (allied *Malva* spp.) — sweet, cool, slippery; Large Intestine / Small Intestine / Bladder.
 **Training Phase:** Cooling · Softening · Demulcent-restoration
 

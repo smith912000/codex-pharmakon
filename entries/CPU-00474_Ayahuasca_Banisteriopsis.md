@@ -2,7 +2,8 @@
 ## *Banisteriopsis caapi* (Spruce ex Griseb.) C.V.Morton + *Psychotria viridis* Ruiz & Pav.
 ### Family: Malpighiaceae (*B. caapi*) + Rubiaceae (*P. viridis*)
 
-**Tradition Tags:** `SA` `AT`
+**Tradition Tags:** SA
+**Tags (previous line, retained for reference):** `SA` `AT`
 **Energetic Classification:** ⊕ Yuan Primary / ☿ Shen Co-Primary — The deepest Yuan-level constitutional reset available through botanical means; accesses the Shen at its source and restructures its relationship with Yuan
 **Training Phase:** `[SPECIALIST ONLY]` `[CEREMONIAL]`
 **Legal Status:** DMT (primary psychedelic compound) is Schedule I in the United States; ayahuasca itself is in a complex legal gray zone in several countries; religious use protected by US Supreme Court ruling (Gonzales v. O Centro Espírita, 2006); legal in Peru, Brazil, the Netherlands, and other jurisdictions

@@ -2,7 +2,8 @@
 
 ## *Clematis vitalba* L. — the acrid protoanemonin-bearing climber, counter-irritant and caustic
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book IV) · Greco-Roman · Folk-European · Bach flower (Clematis)
+**Tradition Tags:** DMM, CM
+**Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book IV) · Greco-Roman · Folk-European · Bach flower (Clematis)
 **Energetic Classification (TCM):** ◉ Qi (acrid, caustic, counter-irritant)
 **Training Phase:** [SPECIALIST ONLY] — acrid blistering sap; toxic fresh, external only
 
@@ -69,3 +70,5 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 *Cross-references: the acrid Ranunculaceae — buttercups (*Ranunculus*), hellebores (this volume), anemone, pulsatilla (all protoanemonin-bearing); the counter-irritant/vesicant agents — mustard, spurge (this volume), black bryony (this volume); CM Wei Ling Xian (*Clematis chinensis*) as the prepared genus relative.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_071*
+
+*Filed under: Volume I — Plant-Based | Ranunculaceae | Canonical ID CPU-00087*

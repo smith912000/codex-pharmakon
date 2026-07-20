@@ -2,7 +2,8 @@
 
 ## *Dalbergia sissoo* Roxb. | Family: Fabaceae (Leguminosae; subfamily Faboideae)
 
-**Tradition Tags:** Suśruta Saṃhitā (Salasārādi gaṇa — the "heartwood" group used for kuṣṭha/skin disease, obesity, and prameha); Caraka's kuṣṭha-hara and kaṇḍū-hara lists; Bhāvaprakāśa Nighaṇṭu (Vaṭādi/Karañjādi varga); folk medicine across the Indo-Gangetic plain
+**Tradition Tags:** SS
+**Tags (previous line, retained for reference):** Suśruta Saṃhitā (Salasārādi gaṇa — the "heartwood" group used for kuṣṭha/skin disease, obesity, and prameha); Caraka's kuṣṭha-hara and kaṇḍū-hara lists; Bhāvaprakāśa Nighaṇṭu (Vaṭādi/Karañjādi varga); folk medicine across the Indo-Gangetic plain
 **Energetic Classification (Ayurvedic):** Kaṭu-Tikta-Kaṣāya rasa · Laghu-Rūkṣa guṇa · Śīta vīrya · Kaṭu vipāka → **Kapha-Pitta-śāmaka**, mildly Vāta-vardhaka in excess
 **Training Phase:** `[RESET]`
 

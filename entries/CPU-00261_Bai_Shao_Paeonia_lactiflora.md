@@ -126,3 +126,5 @@ Cho MJ, Kim BY, Park JH, Choi JS, Kim JK, Hamb SS, Lee HJ (2008) "Inhibitory eff
 *Cross-references: I_088 (Dān Shēn — primary blood-activating complement in cardiovascular formulas) · I_010 (Dāng Guī — Angelica sinensis, Sì Wù Tāng formula partner, blood-nourishing and blood-moving) · I_067 (Chuān Xiōng — Ligusticum chuanxiong, Sì Wù Tāng formula partner, Qi-mover within Blood) · I_150 (Licorice / Gān Cǎo — Sháo Yào Gān Cǎo Tāng synergistic pair)*
 
 *Filed under: Codex Pharmakon Universalis — Volume I (Plant-Based Substances) | Entry I_026*
+
+*Filed under: Volume I — Plant-Based | Paeoniaceae | Canonical ID CPU-00261*

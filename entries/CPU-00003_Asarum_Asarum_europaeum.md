@@ -2,7 +2,8 @@
 
 ## *Asarum europaeum* L. — the creeping nard of the shaded wood
 
-**Tradition Tags:** DMM · BM · Galenic
+**Tradition Tags:** AT, DMM, CM
+**Tags (previous line, retained for reference):** DMM · BM · Galenic
 **Energetic Classification (TCM):** ◉ Qi (strongly dispersing, ascending — emetic/sternutatory) · ☿ minor Shen-rousing
 **Training Phase:** [SPECIALIST ONLY]
 
@@ -73,3 +74,5 @@ Given the species' obscurity and the danger of overstating efficacy, this sectio
 *Cross-references: Sweet flag / Calamus (*Acorus calamus*) — shares asarone toxicology; Chinese wild ginger / xi xin (*Asarum heterotropoides*); the nards of DMM Book I.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_016*
+
+*Filed under: Volume I — Plant-Based | Aristolochiaceae | Canonical ID CPU-00003*

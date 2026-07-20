@@ -121,3 +121,5 @@ The result was an extraordinary body of observational data from the Soviet milit
 *Cross-references: Entry I_078 Cordyceps (Cordyceps sinensis/militaris) — PRIME phase combination; Entry I_017 Ashwagandha (Withania somnifera) — HPA axis dual-protocol; Entry I_115 Ginseng (Panax ginseng) — Araliaceae family adaptogen comparison; Entry I_202 Rhodiola rosea — triple adaptogen stack partner; Entry I_238 Turkey Tail (Trametes versicolor) — immune axis complement*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_097*
+
+*Filed under: Volume I — Plant-Based | Araliaceae | Canonical ID CPU-01048*

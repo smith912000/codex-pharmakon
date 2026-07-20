@@ -2,7 +2,8 @@
 
 ## *Peganum harmala* L. | Family: Nitrariaceae (formerly Zygophyllaceae)
 
-**Tradition Tags:** DMM (Dioscoridean/Graeco *pēganon agrion*) · EP (ancient Near-Eastern/Persian ritual) · CM-analogue (Unani/Tibb — *ḥarmal*) · FMT (Folk Persian/Anatolian/North-African) · SBJ (minor) · BM (Biomedical)
+**Tradition Tags:** EP, AT, DMM, CM, SS, SA
+**Tags (previous line, retained for reference):** DMM (Dioscoridean/Graeco *pēganon agrion*) · EP (ancient Near-Eastern/Persian ritual) · CM-analogue (Unani/Tibb — *ḥarmal*) · FMT (Folk Persian/Anatolian/North-African) · SBJ (minor) · BM (Biomedical)
 
 **Energetic Classification:** Unani/Galenic — hot and dry, third degree (a strong, "sharp" drug). Not a food; classed among the potent, potentially toxic medicinal-ritual plants.
 

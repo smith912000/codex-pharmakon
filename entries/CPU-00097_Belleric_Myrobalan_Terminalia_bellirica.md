@@ -2,7 +2,8 @@
 
 ## *Terminalia bellirica* (Gaertn.) Roxb. — the astringent-laxative fruit, one of the three myrobalans
 
-**Tradition Tags:** Ayurveda (Bibhitaki) · DMM-adjacent (myrobalans of later trade) · Unani (Balela) · Tibetan (rGyud-bzhi) · Folk-Indian
+**Tradition Tags:** FMT
+**Tags (previous line, retained for reference):** Ayurveda (Bibhitaki) · DMM-adjacent (myrobalans of later trade) · Unani (Balela) · Tibetan (rGyud-bzhi) · Folk-Indian
 **Energetic Classification (TCM):** ◉ Qi (astringent, drying, balancing)
 **Training Phase:** [GENERAL]
 
@@ -62,3 +63,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the myrobalan triad / Triphala — Haritaki (*T. chebula*), Amalaki (*Phyllanthus emblica*, in this volume); the astringent tannin fruits; the Ayurvedic rasayana tonics.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_032*
+
+*Filed under: Volume I — Plant-Based | Combretaceae | Canonical ID CPU-00097*

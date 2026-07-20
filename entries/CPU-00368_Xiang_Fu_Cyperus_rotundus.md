@@ -112,3 +112,5 @@ Singh N, Pandey BR, Verma P, Bhalla M, Gilca M (2012) "An overview of phytoconst
 *Cross-references: I_214 Schisandra chinensis (liver Qi regulation complementary action); I_206 Ruta graveolens (overlapping menstrual-regulating application — differentiation required); Volume II Minerals: Magnesium (smooth muscle complementary mechanism)*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_250*
+
+*Filed under: Volume I — Plant-Based | Cyperaceae | Canonical ID CPU-00368*

@@ -2,7 +2,8 @@
 
 ## *Notopterygium incisum* Ting ex H.T.Chang | Family: Apiaceae (carrot / umbellifer family)
 
-**Tradition Tags:** FMT (rGyud-bzhi / Tibetan) · Chinese Medicine (Qiāng Huó 羌活)
+**Tradition Tags:** SBJ, FMT
+**Tags (previous line, retained for reference):** FMT (rGyud-bzhi / Tibetan) · Chinese Medicine (Qiāng Huó 羌活)
 **Energetic Classification (TCM):** ⊕ Yang — acrid, bitter, warm; disperses wind-cold-damp, unblocks channels
 **Training Phase:** `[RESET]` (relieving wind-cold-damp obstruction; joint and neck-shoulder stiffness)
 

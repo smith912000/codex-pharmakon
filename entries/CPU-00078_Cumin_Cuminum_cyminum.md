@@ -113,3 +113,5 @@
 *Cross-references: Entry I_006 Ajwain (Trachyspermum ammi); Entry I_054 Cardamom (Elettaria cardamomum); Entry I_079 Coriander (Coriandrum sativum)*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_084*
+
+*Filed under: Volume I — Plant-Based | Apiaceae | Canonical ID CPU-00078*

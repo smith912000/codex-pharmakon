@@ -2,7 +2,8 @@
 
 ## *Sabina tibetica* Kom. (*Juniperus tibetica*) — the high-altitude juniper, ritual fumigant and warming antiseptic
 
-**Tradition Tags:** Tibetan (rGyud-bzhi; shukpa) · Folk-Himalayan · Buddhist ritual
+**Tradition Tags:** FMT
+**Tags (previous line, retained for reference):** Tibetan (rGyud-bzhi; shukpa) · Folk-Himalayan · Buddhist ritual
 **Energetic Classification (TCM):** ◉ Qi (warming-drying, antiseptic, diuretic)
 **Training Phase:** [GENERAL]
 
@@ -61,3 +62,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the juniper group — common juniper, Phoenician cedar (*Juniperus phoenicea*, this volume); the medicinal conifers — Faber's fir (this volume), pine, cypress (this volume); the ritual/antiseptic fumigants. Note renal/pregnancy junipers cautions.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_234*
+
+*Filed under: Volume I — Plant-Based | Cupressaceae | Canonical ID CPU-00121*

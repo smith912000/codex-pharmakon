@@ -2,7 +2,8 @@
 
 ## *Saccharum officinarum* L. | Family: Poaceae
 
-**Tradition Tags:** EP (European Phytotherapy, via the Arabic transmission) · DMM (post-Dioscoridean Greco-Arabic materia medica) · CM (Chinese Materia Medica) · SS (South Asian / Ayurvedic-Siddha-Unani) · FMT (Folk & Ritual Traditions) · BM (Biomedical)
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** EP (European Phytotherapy, via the Arabic transmission) · DMM (post-Dioscoridean Greco-Arabic materia medica) · CM (Chinese Materia Medica) · SS (South Asian / Ayurvedic-Siddha-Unani) · FMT (Folk & Ritual Traditions) · BM (Biomedical)
 
 **Energetic Classification:** Galenic — temperate to warm and moist, nourishing and demulcent; TCM — the cane (甘蔗 *gān zhè*) sweet and cold, entering Lung and Stomach, engendering fluid and clearing heat.
 

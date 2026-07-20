@@ -2,7 +2,8 @@
 
 ## *Rosa damascena* Mill. | Family: Rosaceae
 
-**Tradition Tags:** SS (Ayurveda — later nighaṇṭu tradition, Gulāb / Śatapatrī); Unani (Avicenna, *Gul-e-surkh*, a cornerstone cardiotonic and cephalic); Persian Traditional Medicine (Gol-e-Mohammadi)
+**Tradition Tags:** EP, DMM, CM, SBJ, SS, FMT
+**Tags (previous line, retained for reference):** SS (Ayurveda — later nighaṇṭu tradition, Gulāb / Śatapatrī); Unani (Avicenna, *Gul-e-surkh*, a cornerstone cardiotonic and cephalic); Persian Traditional Medicine (Gol-e-Mohammadi)
 **Energetic Classification (Ayurvedic):** Tridoshic, chiefly **Pitta-śāmaka** — a rare cooling aromatic that pacifies Pitta and Vāta without aggravating Kapha in small doses; *hṛdya* (cardiotonic) and *manasika* (mind-soothing)
 **Training Phase:** `[RESET]` `[SLEEP]`
 

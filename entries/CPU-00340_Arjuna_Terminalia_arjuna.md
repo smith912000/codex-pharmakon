@@ -2,7 +2,8 @@
 
 ## *Terminalia arjuna* (Roxb. ex DC.) Wight & Arn. | Family: Combretaceae
 
-**Tradition Tags:** SS (Suśruta Saṃhitā), CS (Caraka Saṃhitā), AH (Aṣṭāṅga Hṛdaya), Nighaṇṭus (Bhāvaprakāśa, Dhanvantari)
+**Tradition Tags:** CM, SBJ, SS
+**Tags (previous line, retained for reference):** SS (Suśruta Saṃhitā), CS (Caraka Saṃhitā), AH (Aṣṭāṅga Hṛdaya), Nighaṇṭus (Bhāvaprakāśa, Dhanvantari)
 **Energetic Classification (Ayurvedic):** Rasa — Kaṣāya (astringent) predominant, Tikta (bitter) · Vīrya — Śīta (cooling) · Vipāka — Kaṭu (pungent) · Guṇa — Laghu (light), Rūkṣa (dry) · Kapha–Pitta-hara; the supreme **Hṛdya** (cardiac tonic), and a **Raktastambhaka** (haemostatic), **Vraṇaropaṇa** (wound-healing), and **Medohara** agent.
 **Training Phase:** Cardiac & vascular conditioning (the cardinal Arjuna phase) · Tissue-firming / consolidation · Resilience under load
 

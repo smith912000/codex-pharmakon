@@ -2,7 +2,8 @@
 
 ## *Rosa canina* L. | Family: Rosaceae
 
-**Tradition Tags:** EP, AT, DMM, SS, +Avicenna (Unani/Canon)
+**Tradition Tags:** EP, AT, DMM, CM, SS
+**Tags (previous line, retained for reference):** EP, AT, DMM, SS, +Avicenna (Unani/Canon)
 **Energetic Classification:** Cold and dry (Galenic/Unani); astringent, nutritive-sour
 **Training Phase:** Restoration & Fortification (astringent-nutritive rebuild)
 

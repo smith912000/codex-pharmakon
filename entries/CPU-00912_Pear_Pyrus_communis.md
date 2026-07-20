@@ -2,7 +2,8 @@
 
 ## *Pyrus communis* L. | Family: Rosaceae
 
-**Tradition Tags:** EP, AT, DMM, SBJ (Shennong lineage)
+**Tradition Tags:** EP, AT, DMM, CM, SBJ
+**Tags (previous line, retained for reference):** EP, AT, DMM, SBJ (Shennong lineage)
 **Energetic Classification:** Cool and moist (Galenic) — moistening, thirst-quenching, gently astringent
 **Training Phase:** Grounding / Restoration (cooling and moistening the dry, over-heated system)
 

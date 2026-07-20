@@ -2,7 +2,8 @@
 
 ## *Amomum tsaoko* Crevost et Lemaire — the smoke-dried mountain pod that breaks cold dampness in the centre
 
-**Tradition Tags:** CM · FMT (Yunnan/Tibetan borderland use) · Folk-Southwest-Chinese
+**Tradition Tags:** FMT
+**Tags (previous line, retained for reference):** CM · FMT (Yunnan/Tibetan borderland use) · Folk-Southwest-Chinese
 **Energetic Classification (TCM):** ◉ Qi Primary — Warm, aromatic, dampness-transforming, Spleen/Stomach
 **Training Phase:** `[BUILD]` `[RESET]`
 
@@ -94,3 +95,5 @@ Codex policy: monoterpene-rich aromatic carminative chemistry is securely stated
 
 *Cross-references: I_053 / I_054 (Cardamom, *Elettaria* — the sweet green cardamom, distinct), I_048 (Cambodian Cardamom, *Amomum kravanh* — milder damp-transformer), I_022 (Atractylodes / Bai Zhu — Spleen-Qi tonic that builds the ground tsao-ko clears), I_040 (Black Pepper) and other warming digestive aromatics.*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_264*
+
+*Filed under: Volume I — Plant-Based | Zingiberaceae | Canonical ID CPU-00150*

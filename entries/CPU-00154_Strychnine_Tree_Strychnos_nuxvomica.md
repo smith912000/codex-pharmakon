@@ -2,7 +2,8 @@
 
 ## *Strychnos nux-vomica* Linn. — the disc-shaped seed whose strychnine arches the spine and, processed in minute dose, "unblocks the channels"
 
-**Tradition Tags:** CM · Ayurveda (Kupeelu / Vishamushti) · DMM-adjacent European pharmacy (later) · Folk-toxin
+**Tradition Tags:** AT, DMM, CM, SBJ, SS, FMT
+**Tags (previous line, retained for reference):** CM · Ayurveda (Kupeelu / Vishamushti) · DMM-adjacent European pharmacy (later) · Folk-toxin
 **Energetic Classification (TCM):** ◉ Qi (channel-opening, blood-moving) — bitter, cold, **toxic**
 **Training Phase:** [SPECIALIST ONLY] — a potent convulsant poison; narrow lethal margin
 
@@ -96,3 +97,5 @@ Codex policy: the glycine-antagonist mechanism and the processing→alkaloid-red
 
 *Cross-references: I_004 (Aconite — the companion paradigm of a lethal botanical made therapeutic only by processing and microdosing), the convulsant/neurotoxin cluster; Ma Qian Zi (Chinese-tradition processed-seed entry) and Kupeelu/Vishamushti (Ayurvedic processed-seed entry).*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_266*
+
+*Filed under: Volume I — Plant-Based | Loganiaceae | Canonical ID CPU-00154*

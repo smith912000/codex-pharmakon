@@ -2,7 +2,8 @@
 
 ## *Berberis aristata* DC. — the yellow berberine-rich root-bark, antimicrobial bitter for eyes, gut and skin
 
-**Tradition Tags:** Ayurveda (Daruharidra; Rasanjana) · Unani · Folk-Himalayan
+**Tradition Tags:** SS, FMT
+**Tags (previous line, retained for reference):** Ayurveda (Daruharidra; Rasanjana) · Unani · Folk-Himalayan
 **Energetic Classification (TCM):** ◉ Qi (bitter-cooling, drying, antimicrobial)
 **Training Phase:** [GENERAL]
 
@@ -63,3 +64,5 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 *Cross-references: the berberine plants — barberry (*Berberis vulgaris*, this volume), goldthread (*Coptis*, this volume), Oregon grape; the antimicrobial bitters; the metabolic/glycaemic herbs. Note unrelated to true turmeric (*Curcuma*).*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_235*
+
+*Filed under: Volume I — Plant-Based | Berberidaceae | Canonical ID CPU-00109*

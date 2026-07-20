@@ -2,7 +2,8 @@
 
 ## *Aegle marmelos* (L.) Corrêa — the astringent unripe fruit, premier remedy for chronic diarrhoea and dysentery
 
-**Tradition Tags:** Ayurveda (Bilva) · Unani · Folk-Indian · Hindu ritual (sacred to Shiva)
+**Tradition Tags:** CM, SBJ, SS, FMT
+**Tags (previous line, retained for reference):** Ayurveda (Bilva) · Unani · Folk-Indian · Hindu ritual (sacred to Shiva)
 **Energetic Classification (TCM):** ◉ Qi (astringent, warming-bitter, bowel-binding)
 **Training Phase:** [GENERAL]
 
@@ -63,3 +64,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the anti-dysenteric/astringent bowel remedies — kurchi (this volume), pomegranate rind; the demulcent fruits; the furanocoumarin-bearing plants. Note bael's ripeness-dependent dual action.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_025*
+
+*Filed under: Volume I — Plant-Based | Rutaceae | Canonical ID CPU-00108*

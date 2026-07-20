@@ -2,7 +2,8 @@
 
 ## *Dracocephalum tanguticum* Maxim. — the fragrant Lamiaceae herb, liver-and-stomach cooler of Tibetan medicine
 
-**Tradition Tags:** Tibetan (rGyud-bzhi) · Chinese folk · Folk-Himalayan
+**Tradition Tags:** FMT
+**Tags (previous line, retained for reference):** Tibetan (rGyud-bzhi) · Chinese folk · Folk-Himalayan
 **Energetic Classification (TCM):** ◉ Qi (cooling-aromatic, liver-and-stomach soothing)
 **Training Phase:** [GENERAL]
 
@@ -60,3 +61,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the *Dracocephalum* genus — Moldavian balm (*D. moldavica*); the cooling-aromatic Lamiaceae — betony (this volume), mints, lemon balm; the Tibetan *rGyud-bzhi* liver-heat herbs.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_230*
+
+*Filed under: Volume I — Plant-Based | Lamiaceae | Canonical ID CPU-00123*

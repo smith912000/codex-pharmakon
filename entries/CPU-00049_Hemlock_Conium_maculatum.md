@@ -2,7 +2,8 @@
 
 ## *Conium maculatum* L. — the purple-blotched umbellifer that brought the philosopher's calm, ascending death
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book IV) · Greco-Roman · Folk-European (historical)
+**Tradition Tags:** EP, AT, DMM, CM
+**Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book IV) · Greco-Roman · Folk-European (historical)
 **Energetic Classification (TCM):** ◉ Qi / ☿ Shen (neuromuscular/respiratory paralysis)
 **Training Phase:** [SPECIALIST ONLY] — lethal neurotoxin; historical/archival use only
 
@@ -68,3 +69,5 @@ Codex policy: mechanism stated securely; named citations to be supplied and veri
 *Cross-references: the lethal-poison cluster of Book IV — aconite (I_004, the hot pole), the hellebores (I_039, I_245); water hemlock (*Cicuta*) as the convulsant look-alike; the edible umbellifers (parsley, chervil) as the dangerous confusers; the soporific-sponge tradition (mandrake, henbane, opium).*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_127*
+
+*Filed under: Volume I — Plant-Based | Apiaceae | Canonical ID CPU-00049*

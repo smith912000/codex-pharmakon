@@ -2,7 +2,8 @@
 
 ## *Pimpinella anisum* L. — the sweet aromatic seed, carminative and galactagogue of the windy gut
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book III) · Greco-Roman · Egyptian · Unani · Ayurveda · Folk-European
+**Tradition Tags:** DMM, CM
+**Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book III) · Greco-Roman · Egyptian · Unani · Ayurveda · Folk-European
 **Energetic Classification (TCM):** ◉ Qi (warming, dispersing, carminative)
 **Training Phase:** [GENERAL]
 
@@ -64,3 +65,5 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 *Cross-references: the sweet aromatic carminative seeds — fennel, dill, caraway, star anise (*Illicium verum*, the anethole-sharing relative); the expectorant aromatics; the galactagogue herbs (fenugreek). All share anethole-type chemistry where noted.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_012*
+
+*Filed under: Volume I — Plant-Based | Apiaceae | Canonical ID CPU-00081*

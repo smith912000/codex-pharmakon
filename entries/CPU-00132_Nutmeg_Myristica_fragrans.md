@@ -2,7 +2,8 @@
 
 ## *Myristica fragrans* Houtt. — the warming astringent seed, gut-binder, carminative and deliriant in excess
 
-**Tradition Tags:** Ayurveda (Jatiphala) · Chinese Medicine (Rou Dou Kou) · Unani (Jauz buwa) · DMM-adjacent (later spice trade) · Folk-global
+**Tradition Tags:** CM, FMT
+**Tags (previous line, retained for reference):** Ayurveda (Jatiphala) · Chinese Medicine (Rou Dou Kou) · Unani (Jauz buwa) · DMM-adjacent (later spice trade) · Folk-global
 **Energetic Classification (TCM):** ◉ Qi (warming, astringent, carminative) / ☿ Shen (deliriant in overdose)
 **Training Phase:** [GENERAL] (with overdose caution)
 
@@ -64,3 +65,5 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 *Cross-references: mace (the aril of the same fruit — sister spice); the warming carminative spices — cardamom, cinnamon/cassia (this volume), ginger; the bowel-binding antidiarrhoeals — kurchi, bael (this volume); the deliriant plants — datura (this volume) for the anticholinergic-delirium comparison.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_172*
+
+*Filed under: Volume I — Plant-Based | Myristicaceae | Canonical ID CPU-00132*

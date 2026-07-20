@@ -2,7 +2,8 @@
 
 ## *Symplocos racemosa* Roxb. | Family: Symplocaceae
 
-**Tradition Tags:** Suśruta Saṃhitā (Nyagrodhādi gaṇa and Priyaṅgvādi/Ambaṣṭhādi astringent groups — vraṇa, atisāra, raktapitta; prominent in Strī-roga/gynaecological therapeutics); Caraka's saṃgrāhi (astringent-absorbent) and stambhana lists; Aṣṭāṅga Hṛdaya; Bhāvaprakāśa Nighaṇṭu; classical cosmetic (varṇya) formularies
+**Tradition Tags:** SS
+**Tags (previous line, retained for reference):** Suśruta Saṃhitā (Nyagrodhādi gaṇa and Priyaṅgvādi/Ambaṣṭhādi astringent groups — vraṇa, atisāra, raktapitta; prominent in Strī-roga/gynaecological therapeutics); Caraka's saṃgrāhi (astringent-absorbent) and stambhana lists; Aṣṭāṅga Hṛdaya; Bhāvaprakāśa Nighaṇṭu; classical cosmetic (varṇya) formularies
 **Energetic Classification (Ayurvedic):** Kaṣāya-Tikta rasa · Laghu-Rūkṣa guṇa · Śīta vīrya · Kaṭu vipāka → **Kapha-Pitta-śāmaka** (śoṇita-sthāpaka)
 **Training Phase:** `[RESET]`
 

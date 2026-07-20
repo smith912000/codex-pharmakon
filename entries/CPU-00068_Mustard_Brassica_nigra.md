@@ -102,3 +102,5 @@ The TCM *tan jie* (Phlegm nodule) application — mustard seed's ability to disp
 
 *Cross-references: I_040 (Black Pepper — the other maximum-heat pungent digestive), I_121 (Ginger — the warming carminative; Trikatu trio member), I_185 (Pine — counter-irritant resin topical parallel)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_165*
+
+*Filed under: Volume I — Plant-Based | Brassicaceae | Canonical ID CPU-00068*

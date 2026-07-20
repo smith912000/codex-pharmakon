@@ -109,3 +109,5 @@ Icariin is a confirmed PDE5 (phosphodiesterase type-5) inhibitor. This creates a
 
 *Cross-references: I_101 Eucommia ulmoides · I_160 Morinda officinalis · I_117 Gokshura Tribulus terrestris · I_199 Rehmannia Di Huang · I_161 Morinda officinalis*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_100*
+
+*Filed under: Volume I — Plant-Based | Berberidaceae | Canonical ID CPU-01049*

@@ -2,7 +2,8 @@
 
 ## *Stereospermum suaveolens* (Roxb.) DC. (≡ *Stereospermum chelonoides* (L.f.) DC.) | Family: Bignoniaceae
 
-**Tradition Tags:** Suśruta Saṃhitā (SS — Daśamūla) · Caraka Saṃhitā (CS) · Aṣṭāṅga Hṛdaya · Bhāvaprakāśa Nighaṇṭu
+**Tradition Tags:** CM, SS
+**Tags (previous line, retained for reference):** Suśruta Saṃhitā (SS — Daśamūla) · Caraka Saṃhitā (CS) · Aṣṭāṅga Hṛdaya · Bhāvaprakāśa Nighaṇṭu
 **Energetic Classification (Ayurvedic):** Tikta–Kaṣāya–Madhura rasa · Uṣṇa (mild) vīrya · Kaṭu vipāka — *tridoṣa-śāmaka*, chiefly vāta-kapha-hara
 
 **Training Phase:** Foundation & Grounding (Vāta-śamana / Balya) · Fever-clearing (Jvarahara) · Śvāsa-clearing (respiratory)

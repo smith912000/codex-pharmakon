@@ -2,7 +2,8 @@
 
 ## *Pterocarpus marsupium* Roxb. | Family: Fabaceae (Leguminosae; subfamily Faboideae/Papilionoideae)
 
-**Tradition Tags:** SS (Suśruta Saṃhitā), CS (Caraka Saṃhitā), AH (Aṣṭāṅga Hṛdaya), Nighaṇṭus (Bhāvaprakāśa, Dhanvantari)
+**Tradition Tags:** CM, SS
+**Tags (previous line, retained for reference):** SS (Suśruta Saṃhitā), CS (Caraka Saṃhitā), AH (Aṣṭāṅga Hṛdaya), Nighaṇṭus (Bhāvaprakāśa, Dhanvantari)
 **Energetic Classification (Ayurvedic):** Rasa — Kaṣāya (astringent), Tikta (bitter) · Vīrya — Śīta (cooling) · Vipāka — Kaṭu (pungent) · Guṇa — Laghu (light), Rūkṣa (dry) · Kapha–Pitta-hara; the classical **Meha-hara / Pramehaghna** (anti-diabetic) heartwood, and a **Kuṣṭhaghna** (anti-dermatosis) and **Kṛmighna** agent.
 **Training Phase:** Metabolic regulation (glycaemic conditioning) · Clearing / Purification · Tissue-firming (astringent consolidation)
 

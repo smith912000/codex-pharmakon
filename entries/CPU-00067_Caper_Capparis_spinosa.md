@@ -2,7 +2,8 @@
 
 ## *Capparis spinosa* L. — the bitter pickled bud and bark, deobstruent of the hardened spleen
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book II) · Greco-Roman · Unani/Arabic (Kabar) · Ayurveda (related spp.) · Folk-Mediterranean
+**Tradition Tags:** EP, AT, DMM, CM, SS
+**Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book II) · Greco-Roman · Unani/Arabic (Kabar) · Ayurveda (related spp.) · Folk-Mediterranean
 **Energetic Classification (TCM):** ◉ Qi (warming, drying, deobstruent/astringent)
 **Training Phase:** [GENERAL]
 
@@ -65,3 +66,5 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 *Cross-references: the deobstruent/spleen-resolving agents — the *Ferula* gum-resins (ammoniacum I_009), tamarisk (I_229); the bitter digestive stomachics — gentian (I_113), wormwood (I_263); the flavonoid (rutin/quercetin) antioxidant plants.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_051*
+
+*Filed under: Volume I — Plant-Based | Capparaceae | Canonical ID CPU-00067*

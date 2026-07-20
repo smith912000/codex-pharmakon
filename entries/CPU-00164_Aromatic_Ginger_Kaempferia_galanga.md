@@ -93,3 +93,5 @@ Because both actions are warming and dispersing, Aromatic Ginger is suited to co
 
 *Cross-references: I_274 (Lesser Galangal — adjacent Zingiberaceae Middle-Burner warmer), I_047 (Calamus — aromatic damp-rousing comparison), I_080 (Costus — aromatic Qi-moving partner), I_049 (Camphor — borneol/camphene topical-warming parallel)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_275*
+
+*Filed under: Volume I — Plant-Based | Zingiberaceae | Canonical ID CPU-00164*

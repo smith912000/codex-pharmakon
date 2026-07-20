@@ -90,3 +90,5 @@ The classic EP/AT/DMM/CM/SS anthelmintic application for tapeworm uses the root 
 
 *Cross-references: I_190 (Pomegranate fruit — the cardiovascular antioxidant entry), I_216 (Senna — the traditional cathartic companion in anthelmintic protocols), I_177 (Oregano — the alternative antimicrobial for GI pathogens)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_191*
+
+*Filed under: Volume I — Plant-Based | Lythraceae | Canonical ID CPU-00103*

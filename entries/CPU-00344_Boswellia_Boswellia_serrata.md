@@ -122,3 +122,5 @@ Moussaieff A, Rimmerman N, Bregman T, Straiker A, Felder CC, Shoham S, Kashman Y
 *Cross-references: I_170 (Nigella sativa — complementary 5-LOX/NF-κB inhibition; combination anti-inflammatory stack); I_240 (Curcuma longa — the primary triple-stack anti-inflammatory companion; NF-κB/COX-2/5-LOX synergy); I_017 (Withania somnifera — joint protection synergy in high-load training); I_044 (stub entry — SUPERSEDED by this entry I_045)*
 
 *Filed under: Codex Pharmakon Universalis — Volume I (Plant-Based Substances) | Entry I_045*
+
+*Filed under: Volume I — Plant-Based | Burseraceae | Canonical ID CPU-00344*

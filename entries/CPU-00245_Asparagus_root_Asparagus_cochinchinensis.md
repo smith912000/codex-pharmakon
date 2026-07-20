@@ -2,7 +2,8 @@
 
 ## *Asparagus cochinchinensis* (Lour.) Merr. — "Heavenly Gate Winter," the yin-moistening tuber of the dry lung
 
-**Tradition Tags:** CM · SBJ · FMT (functional class)
+**Tradition Tags:** CM, SBJ, SS
+**Tags (previous line, retained for reference):** CM · SBJ · FMT (functional class)
 
 **Energetic Classification (TCM):** ◈ Jing / ◉ Qi (Yin-fluid)
 
@@ -99,3 +100,5 @@ Standardised extract per manufacturer guidance, typically equivalent to several 
 *Cross-references: I_019 Asparagus (Asparagus officinalis, culinary, distinct), I_286 Polygonatum (Yu Zhu), I_073 Codonopsis (Dang Shen), I_020 Astragalus (Astragalus membranaceus)*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_285*
+
+*Filed under: Volume I — Plant-Based | Asparagaceae | Canonical ID CPU-00245*

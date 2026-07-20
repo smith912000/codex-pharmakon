@@ -193,3 +193,5 @@ Mandal AK et al. (2017): Incubation of *T. chebula* tannin extract with human co
 
 *Cross-references: I_184 Āmalakī (Triphala partner — Pitta aspect), I_034 Bibhitaki (Triphala partner — Kapha aspect), I_188 Pippali (traditional anupana pairing — winter), IV_10 Triphala (complete formula entry)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_124*
+
+*Filed under: Volume I — Plant-Based | Combretaceae | Canonical ID CPU-00095*

@@ -70,3 +70,5 @@ Codex policy: mechanism stated securely; named citations to be supplied and veri
 *Cross-references: the Amaryllidaceae alkaloid group — snowdrop (*Galanthus*, galantamine), other *Narcissus* cultivars; the acetylcholinesterase-inhibitor drugs; the toxic emetic/ornamental bulbs — squill (this volume), colchicum (this volume). Note bulb-toxicity and the onion-confusion hazard.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_087*
+
+*Filed under: Volume I — Plant-Based | Amaryllidaceae | Canonical ID CPU-00086*

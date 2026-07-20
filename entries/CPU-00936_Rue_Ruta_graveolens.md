@@ -1,7 +1,8 @@
 # Rue — Peganon (Gk.), Ruta (Lat.), Sadhab / Fijan (Ar.), Herb of Grace, Herb-of-Repentance
 
 ## *Ruta graveolens* L. | Family: Rutaceae
-**Tradition Tags:** DMM · CM · (AT/EP aromatic-medicinal repertoire, hedged)
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** DMM · CM · (AT/EP aromatic-medicinal repertoire, hedged)
 **Energetic Classification:** Galenic — Hot in the 3rd degree, Dry in the 3rd degree (violently heating, drying, dispersing, "cutting"); TCM analogue — acrid-bitter, warm, strongly moving and toxic
 **Training Phase:** `[RESET]` (traditional-context entry only — **not** for self-directed internal use)
 

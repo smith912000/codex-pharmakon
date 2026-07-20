@@ -2,7 +2,8 @@
 
 ## *Petroselinum crispum* (Mill.) Fuss — the diuretic-emmenagogue umbellifer, opener of the urinary passages
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book III) · Greco-Roman · Unani · Folk-European
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book III) · Greco-Roman · Unani · Folk-European
 **Energetic Classification (TCM):** ◉ Qi (warming-drying, diuretic, carminative)
 **Training Phase:** [GENERAL]
 
@@ -65,3 +66,5 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 *Cross-references: the diuretic "five opening roots" — asparagus (this volume), fennel, celery, butcher's broom; the aromatic umbellifers — anise, dill, lovage; the apiole/myristicin-bearing plants (nutmeg). Note the leaf-safe / seed-dangerous distinction.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_181*
+
+*Filed under: Volume I — Plant-Based | Apiaceae | Canonical ID CPU-00075*

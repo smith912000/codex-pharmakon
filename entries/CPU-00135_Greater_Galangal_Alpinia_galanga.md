@@ -2,7 +2,8 @@
 
 ## *Alpinia galanga* (L.) Willd. — the pungent kitchen-and-clinic rhizome that wakes the cold stomach
 
-**Tradition Tags:** SS (Ayurveda — Kulanjana) · SBJ (Chinese Medicine — Da Gao Liang Jiang / related *Alpinia*) · CM (Unani — Khulanjan) · DMM/Medieval-European (galingale of the medieval pharmacopoeia) · Folk-Southeast-Asian
+**Tradition Tags:** FMT
+**Tags (previous line, retained for reference):** SS (Ayurveda — Kulanjana) · SBJ (Chinese Medicine — Da Gao Liang Jiang / related *Alpinia*) · CM (Unani — Khulanjan) · DMM/Medieval-European (galingale of the medieval pharmacopoeia) · Folk-Southeast-Asian
 **Energetic Classification (TCM):** ◉ Qi — a warming, qi-and-digestion-moving aromatic of the middle burner
 **Training Phase:** [GENERAL]
 
@@ -74,3 +75,5 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 *Cross-references: Ginger (Zingiberaceae cluster), Black Pepper (I_040), Cardamom (I_053/I_054), Cubeb (I_082) — the warming aromatic carminatives; Calamus (I_047) as a fellow aromatic stomachic rhizome.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_255*
+
+*Filed under: Volume I — Plant-Based | Zingiberaceae | Canonical ID CPU-00135*

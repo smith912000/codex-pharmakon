@@ -120,3 +120,5 @@ Apply fresh white latex from broken stem or unripe fig directly to wart; cover; 
 
 *Cross-references: I_089 (Date Palm — the other classical fruit-Jing tonic of the ancient world; complementary post-training combination), I_001 (Acacia gum — prebiotic complement for gut reset protocol), I_201 (Aloe vera — parallel laxative-demulcent pairing)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_105*
+
+*Filed under: Volume I — Plant-Based | Moraceae | Canonical ID CPU-00419*

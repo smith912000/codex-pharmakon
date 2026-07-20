@@ -91,3 +91,5 @@ Galangal is best understood as a short-course intervention timed to symptom onse
 
 *Cross-references: I_275 (Aromatic Ginger — adjacent Zingiberaceae warming carminative), I_276 (Kansu Sandwort — contrasting heat-clearing pole), I_068 (Cinnamon — warming Middle-Burner partner), I_084 (Cumin — carminative comparison)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_274*
+
+*Filed under: Volume I — Plant-Based | Zingiberaceae | Canonical ID CPU-00163*

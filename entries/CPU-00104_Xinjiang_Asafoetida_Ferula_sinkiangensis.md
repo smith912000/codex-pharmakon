@@ -2,7 +2,8 @@
 
 ## *Ferula sinkiangensis* K.M.Shen — the Xinjiang giant-fennel resin, carminative and antiparasitic of the cold gut
 
-**Tradition Tags:** Chinese Medicine (A Wei) · Unani/Persian-adjacent · Folk-Central Asian
+**Tradition Tags:** FMT
+**Tags (previous line, retained for reference):** Chinese Medicine (A Wei) · Unani/Persian-adjacent · Folk-Central Asian
 **Energetic Classification (TCM):** ◉ Qi (warming, descending, mass-and-wind dispersing)
 **Training Phase:** [GENERAL]
 
@@ -62,3 +63,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the *Ferula* asafoetida group — Persian asafoetida (*F. assa-foetida*, this volume), galbanum, ammoniacum, sagapenum (all this volume); the CM mass-dispersing/food-stagnation drugs; the antiparasitic aromatics.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_251*
+
+*Filed under: Volume I — Plant-Based | Apiaceae | Canonical ID CPU-00104*

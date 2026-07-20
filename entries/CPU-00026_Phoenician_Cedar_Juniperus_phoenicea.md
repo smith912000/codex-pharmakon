@@ -2,7 +2,8 @@
 
 ## *Juniperus phoenicea* L. — the resinous "cedar" whose oil (cedria) preserved the dead
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book I) · Greco-Roman · Egyptian (embalming context) · Folk-Mediterranean/North-African
+**Tradition Tags:** EP, AT, DMM, CM
+**Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book I) · Greco-Roman · Egyptian (embalming context) · Folk-Mediterranean/North-African
 **Energetic Classification (TCM):** ◉ Qi (warming, drying, resinous-antiseptic)
 **Training Phase:** [SPECIALIST ONLY] — the tar/oil is irritant; identity and toxicity caveats
 
@@ -64,3 +65,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the juniper cluster — common juniper (existing entry); the medicinal-tar group — birch tar, pine pitch (I_041); the conifer resins; the Egyptian-embalming aromatics. Note the pervasive *kedros*/"cedar" identity problem.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_183*
+
+*Filed under: Volume I — Plant-Based | Cupressaceae | Canonical ID CPU-00026*

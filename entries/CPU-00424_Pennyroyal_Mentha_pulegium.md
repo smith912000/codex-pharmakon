@@ -86,3 +86,5 @@ The emmenagogue application for delayed menses is documented in all five traditi
 
 *Cross-references: I_103 (Fennel — the safer carminative-emmenagogue aromatic), I_233 (Thyme — the safer respiratory aromatic replacement), I_206 (Rue — the other emmenagogue-carminative requiring specialist knowledge)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_182*
+
+*Filed under: Volume I — Plant-Based | Lamiaceae | Canonical ID CPU-00424*

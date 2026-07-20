@@ -243,3 +243,5 @@ Bora KS and Sharma A (2011) review documented that artabsin and casticin from *A
 
 *Cross-references: I_164 (Artemisia vulgaris — Mugwort; related species, same genus, different applications; moxa base; uterine warming vs. wormwood's anthelmintic-hepatic focus); I_156 (Mandragora officinarum — shares the tradition of ancient anesthetic-narcotic substances reviewed in this Codex; both are EP and DMM tradition herbs of extreme historical pharmacological importance); I_112 (Allium sativum — anthelmintic synergy in RESET protocols; complementary mechanisms); I_XX (Silybum marianum / Milk Thistle — hepatoprotective complement to wormwood's hepatocholeretic stimulation; standard pairing in liver support protocols); I_XX (Gentiana lutea — bitter tonic companion; gentian's xanthone bitter complex complements wormwood's sesquiterpene lactone bitter complex in digestive formula combinations).*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_249*
+
+*Filed under: Volume I — Plant-Based | Asteraceae | Canonical ID CPU-00276*

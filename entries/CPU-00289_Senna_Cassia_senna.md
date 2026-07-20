@@ -94,3 +94,5 @@ Senna combined with *haritaki* (Terminalia chebula) and *trivrit* (Operculina tu
 
 *Cross-references: I_001 (Acacia gum — complementary prebiotic gut reset pairing post-senna), I_201 (Aloe vera — gentler anthraquinone parallel for chronic constipation), I_003 (Rhubarb/Da Huang — TCM parallel purgative for heat-type constipation)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_216*
+
+*Filed under: Volume I — Plant-Based | Fabaceae | Canonical ID CPU-00289*

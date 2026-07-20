@@ -2,7 +2,8 @@
 
 ## *Croton tiglium* L. — the drastic croton-oil seed, fierce cold-purge and the tumour-promoter of pharmacology
 
-**Tradition Tags:** Chinese Medicine (Ba Dou) · Ayurveda (Jayapala) · Unani · DMM-adjacent (croton oil of later pharmacy)
+**Tradition Tags:** SBJ, FMT
+**Tags (previous line, retained for reference):** Chinese Medicine (Ba Dou) · Ayurveda (Jayapala) · Unani · DMM-adjacent (croton oil of later pharmacy)
 **Energetic Classification (TCM):** ◉ Qi (hot, drastic, cold-accumulation purge)
 **Training Phase:** [SPECIALIST ONLY] — extremely drastic, toxic, co-carcinogenic; processed/specialist only
 
@@ -68,3 +69,5 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 *Cross-references: the drastic purgatives — colocynth, scammony, the bryonies (this volume, the cold drastics); the caustic spurges — European spurge, Fischer's spurge (this volume); the phorbol-ester/PKC research lineage. Ba Dou as the hot counterpart to the cold drastics.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_196*
+
+*Filed under: Volume I — Plant-Based | Euphorbiaceae | Canonical ID CPU-00118*

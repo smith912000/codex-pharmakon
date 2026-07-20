@@ -98,3 +98,5 @@ Fresh hyssop sprigs in apple cider vinegar; macerate 2 weeks; 1 tsp in water bef
 
 *Cross-references: I_233 (Thyme — closely related Lamiaceae respiratory herb; complementary and safer for daily use), I_167 (Myrtle — complementary Mediterranean respiratory antimicrobial), I_103 (Fennel — digestive aromatic complement)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_133*
+
+*Filed under: Volume I — Plant-Based | Lamiaceae | Canonical ID CPU-00285*

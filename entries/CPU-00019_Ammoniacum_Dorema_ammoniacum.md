@@ -2,7 +2,8 @@
 
 ## *Dorema ammoniacum* D.Don — the Persian umbelliferous gum-resin that softens and clears the cold chest
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book III) · Greco-Roman · Unani/Persian (Oshaq/Ushaq) · Folk-Persian
+**Tradition Tags:** AT, DMM, CM
+**Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book III) · Greco-Roman · Unani/Persian (Oshaq/Ushaq) · Folk-Persian
 **Energetic Classification (TCM):** ◉ Qi (warming, resolving, expectorant)
 **Training Phase:** [GENERAL]
 
@@ -63,3 +64,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the *Ferula*/umbelliferous gum-resin cluster — galbanum (I_109), sagapenum (I_209), opopanax (I_176), asafoetida; the historical Western expectorant mixtures (lac ammoniaci); the etymological note on the Temple of Ammon.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_009*
+
+*Filed under: Volume I — Plant-Based | Apiaceae | Canonical ID CPU-00019*

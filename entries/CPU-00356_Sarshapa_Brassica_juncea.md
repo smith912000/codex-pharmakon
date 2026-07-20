@@ -1,6 +1,7 @@
 # Sarshapa — Sarṣapa / Rājikā (black-brown seed) / Kaṭu-sneha source (Sanskrit); Rai, Sarson (Hindi); Brown/Indian Mustard (English); Kadugu (Tamil)
 ## *Brassica juncea* (L.) Czern. | Family: Brassicaceae (Cruciferae)
-**Tradition Tags:** SS (Suśruta Saṃhitā — pungent rubefacient; taila-varga oil source; external poultice), CS (Caraka), AH
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** SS (Suśruta Saṃhitā — pungent rubefacient; taila-varga oil source; external poultice), CS (Caraka), AH
 **Energetic Classification (Ayurvedic):** Kapha–Vāta hara, strongly Pitta-vardhaka; intensely heating (uṣṇa vīrya), sharp and penetrating (tīkṣṇa)
 **Training Phase:** External / Recovery-bodywork phase (poultice, rubefacient); Activation-phase warming adjunct (internal, small dose)
 

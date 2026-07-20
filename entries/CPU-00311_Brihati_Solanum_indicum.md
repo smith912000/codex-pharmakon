@@ -2,7 +2,8 @@
 
 ## *Solanum indicum* L. | Family: Solanaceae
 
-**Tradition Tags:** Suśruta Saṃhitā (Daśamūla component); Caraka Saṃhitā (kāsahara, śvāsahara, dīpanīya groups); Ayurvedic (dravyaguṇa); Siddha; folk medicine
+**Tradition Tags:** SS
+**Tags (previous line, retained for reference):** Suśruta Saṃhitā (Daśamūla component); Caraka Saṃhitā (kāsahara, śvāsahara, dīpanīya groups); Ayurvedic (dravyaguṇa); Siddha; folk medicine
 
 **Energetic Classification (Ayurvedic):** Kapha-Vāta-śāmaka; heating, kindling; agni-restorative.
 

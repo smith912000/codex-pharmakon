@@ -102,3 +102,5 @@ Warm bay berry oil (commercially available from Levantine producers) applied top
 
 *Cross-references: I_103 (Fennel — aromatic digestive companion), I_233 (Thyme — antimicrobial aromatic pair), I_053 (Cardamom — classic five-spice digestive formula co-ingredient)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_029*
+
+*Filed under: Volume I — Plant-Based | Lauraceae | Canonical ID CPU-00033*

@@ -2,7 +2,8 @@
 
 ## *Aconitum napellus* L. — the hooded flower that stops the heart and, processed, warms the dying yang
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book IV) · Greco-Roman · Ayurveda (Vatsanabha, related species) · Chinese Medicine (Fuzi / Chuan Wu, related *Aconitum* spp.) · Folk-European
+**Tradition Tags:** SBJ
+**Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book IV) · Greco-Roman · Ayurveda (Vatsanabha, related species) · Chinese Medicine (Fuzi / Chuan Wu, related *Aconitum* spp.) · Folk-European
 **Energetic Classification (TCM):** ◉ Qi (processed Fuzi: supreme Yang-restoring) / ☿ Shen
 **Training Phase:** [SPECIALIST ONLY] — among the most lethal of all botanical poisons
 
@@ -77,3 +78,5 @@ Codex policy: the mechanism (sodium-channel, diester→monoester detoxification)
 *Cross-references: Fuzi / Chuan Wu / Cao Wu (Chinese-tradition processed and raw aconite entries); Vatsanabha (Ayurvedic aconite); the sodium-channel poisons cluster — *Veratrum* (I_245) and aconite both act on the sodium channel by opposite-but-related mechanisms.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_004*
+
+*Filed under: Volume I — Plant-Based | Ranunculaceae | Canonical ID CPU-00264*

@@ -2,7 +2,8 @@
 
 ## *Datura stramonium* L. — the tropane-bearing weed of delirium, antispasmodic and poison
 
-**Tradition Tags:** DMM-adjacent (Solanaceae nightshades of the classical/medieval pharmacy) · Ayurveda (Dhattura, related *Datura* spp.) · Folk-global · Western pharmacy (asthma "cigarettes")
+**Tradition Tags:** EP, AT, DMM, CM, SS, FMT, BM, SA
+**Tags (previous line, retained for reference):** DMM-adjacent (Solanaceae nightshades of the classical/medieval pharmacy) · Ayurveda (Dhattura, related *Datura* spp.) · Folk-global · Western pharmacy (asthma "cigarettes")
 **Energetic Classification (TCM):** ◉ Qi / ☿ Shen (anticholinergic CNS action)
 **Training Phase:** [SPECIALIST ONLY] — potent deliriant/toxin; narrow margin, frequent fatal poisoning
 
@@ -70,3 +71,5 @@ Codex policy: mechanism stated securely; named citations to be supplied and veri
 *Cross-references: the tropane nightshades — henbane (*Hyoscyamus*, CPU-00043), mandrake (*Mandragora*, CPU-00044), belladonna (I_031), *Brugmansia* (angel's trumpet); the soporific-sponge/anaesthetic tradition (with opium poppy, CPU-00045); purified atropine/scopolamine in modern pharmacy.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_090*
+
+*Filed under: Volume I — Plant-Based | Solanaceae | Canonical ID CPU-00058*

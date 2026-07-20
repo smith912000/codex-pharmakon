@@ -2,7 +2,8 @@
 
 ## *Valeriana celtica* L. — the dwarf nard of the high pastures
 
-**Tradition Tags:** DMM · BM · CM (by analogy with *Nardostachys*)
+**Tradition Tags:** DMM
+**Tags (previous line, retained for reference):** DMM · BM · CM (by analogy with *Nardostachys*)
 **Energetic Classification (TCM):** ◉ Qi (descending, settling) · ☿ Shen (anchoring)
 **Training Phase:** [GENERAL]
 
@@ -70,3 +71,5 @@ Until verified citations are supplied, this section should state that species-sp
 *Cross-references: Indian spikenard (*Nardostachys jatamansi*); Syrian nard; Common valerian (*Valeriana officinalis*); the materia aromatica of DMM Book I.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_060*
+
+*Filed under: Volume I — Plant-Based | Caprifoliaceae | Canonical ID CPU-00002*

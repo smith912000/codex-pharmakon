@@ -147,3 +147,5 @@ The Codex also notes silymarin's documented role as the sole evidence-based anti
 
 *Cross-references: I_061 (Chaga — parallel antioxidant/hepatoprotective function, dual extraction synergy), I_214 (Schisandra — hepatoprotective combination for Phase I/II support; Schisandra's dibenzocyclooctadiene lignans complement silymarin's Phase II upregulation), I_066 (Chrysanthemum — combined anti-inflammatory hepatic support), I_193 (Poria Fu Ling — combined Spleen-Liver support formula), Volume II I_101 (Mumijo/Shilajit — parallel CYCLE-OFF detoxification and restoration tonic)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_159*
+
+*Filed under: Volume I — Plant-Based | Asteraceae | Canonical ID CPU-00965*

@@ -132,3 +132,5 @@ Wang BQ (2010) "Salvia miltiorrhiza: Chemical and pharmacological review of a me
 *Cross-references: I_211 (Sān Qī — Panax notoginseng, synergistic cardiovascular partner in compound Danshen preparations) · I_010 (Dāng Guī — Angelica sinensis, blood-nourishing complement to Dān Shēn's blood-moving action) · I_026 (Bái Sháo — Paeonia lactiflora, structural Yin-nourishing complement) · I_199 (Rehmannia — Gān/Shú Dì Huáng, deep Yin and Blood nourishment completing the Sì Wù Tāng equivalence)*
 
 *Filed under: Codex Pharmakon Universalis — Volume I (Plant-Based Substances) | Entry I_088*
+
+*Filed under: Volume I — Plant-Based | Lamiaceae | Canonical ID CPU-01045*

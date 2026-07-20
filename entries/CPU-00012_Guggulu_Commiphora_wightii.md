@@ -151,3 +151,5 @@ Urizar NL et al. (2002, *Science* — the landmark mechanistic paper): Guggulste
 
 *Cross-references: I_044 Boswellia (Burseraceae family; anti-inflammatory comparison and combination), I_166 Myrrh (Burseraceae family; blood-moving comparison), I_117 Gokshura (classical Gokshuradi Guggulu pairing), I_124 Haritaki (classical Triphala Guggulu combination), IV_10 Triphala (foundational formula partner)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_123*
+
+*Filed under: Volume I — Plant-Based | Burseraceae | Canonical ID CPU-00012*

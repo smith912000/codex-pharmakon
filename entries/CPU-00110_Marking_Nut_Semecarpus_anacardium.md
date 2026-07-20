@@ -2,7 +2,8 @@
 
 ## *Semecarpus anacardium* L.f. — the caustic urushiol-bearing nut, processed rasayana and rubefacient
 
-**Tradition Tags:** Ayurveda (Bhallataka) · Unani (Baladur) · Folk-Indian
+**Tradition Tags:** CM, SS, FMT
+**Tags (previous line, retained for reference):** Ayurveda (Bhallataka) · Unani (Baladur) · Folk-Indian
 **Energetic Classification (TCM):** ◉ Qi (hot, acrid, caustic; processed tonic) / ☿ Shen (nervine reputation)
 **Training Phase:** [SPECIALIST ONLY] — caustic urushiol nut; requires processing, severe blistering hazard
 
@@ -68,3 +69,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the Anacardiaceae urushiol plants — cashew, poison ivy/oak, mango (contact allergens); the caustic/rubefacient agents — spurge, clematis (this volume); the processed Ayurvedic rasayana drugs requiring shodhana (aconite, this volume).*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_157*
+
+*Filed under: Volume I — Plant-Based | Anacardiaceae | Canonical ID CPU-00110*

@@ -2,7 +2,8 @@
 
 ## *Symplocos caudata* Wall. (*Symplocos racemosa* group) — the astringent-cooling bark for menorrhagia, leucorrhoea and lax tissue
 
-**Tradition Tags:** Ayurveda (Lodhra) · Chinese Medicine-adjacent · Folk-Himalayan
+**Tradition Tags:** FMT
+**Tags (previous line, retained for reference):** Ayurveda (Lodhra) · Chinese Medicine-adjacent · Folk-Himalayan
 **Energetic Classification (TCM):** ◉ Qi (astringent, cooling, blood-staunching)
 **Training Phase:** [GENERAL]
 
@@ -61,3 +62,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the astringent/haemostatic gynaecological herbs — ashoka (*Saraca*), the uterine tonics; the tannin astringents — cypress, chestnut (this volume); Symplocos as a historic dye-mordant (aluminium accumulator).*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_228*
+
+*Filed under: Volume I — Plant-Based | Symplocaceae | Canonical ID CPU-00116*

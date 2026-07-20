@@ -70,3 +70,5 @@ Codex policy: chemistry stated generally; species distinctions kept explicit; na
 *Cross-references: gum euphorbium (*Euphorbia resinifera*) — the related caustic-latex pharmacy drug; the drastic-purgative cluster — colocynth (I_075), the bryonies (I_038, I_244), scammony (I_213); the escharotic/caustic agents; the diterpene-ester research lineage (ingenol). Keep species distinctions explicit.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_221*
+
+*Filed under: Volume I — Plant-Based | Euphorbiaceae | Canonical ID CPU-00055*

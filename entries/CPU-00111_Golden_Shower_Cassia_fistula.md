@@ -2,7 +2,8 @@
 
 ## *Cassia fistula* L. — the gentle anthraquinone laxative pulp, mild purge for the delicate and the young
 
-**Tradition Tags:** Ayurveda (Aragvadha) · Unani (Khiyar shambar) · DMM-adjacent (purging cassia of later pharmacy) · Folk-Indian
+**Tradition Tags:** SS, FMT
+**Tags (previous line, retained for reference):** Ayurveda (Aragvadha) · Unani (Khiyar shambar) · DMM-adjacent (purging cassia of later pharmacy) · Folk-Indian
 **Energetic Classification (TCM):** ◉ Qi (cooling, gently purgative)
 **Training Phase:** [GENERAL]
 
@@ -62,3 +63,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the anthraquinone laxatives — senna (*Cassia/Senna*), rhubarb (this volume), aloe (this volume); the drastic purgatives it tempers — colocynth, scammony (this volume); the Ayurvedic skin remedies.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_118*
+
+*Filed under: Volume I — Plant-Based | Fabaceae | Canonical ID CPU-00111*

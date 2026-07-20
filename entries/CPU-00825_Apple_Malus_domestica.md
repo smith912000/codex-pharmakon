@@ -2,7 +2,8 @@
 
 ## *Malus domestica* Borkh. | Family: Rosaceae
 
-**Tradition Tags:** DMM (Dioscoridean/Graeco-Roman) · SBJ (Unani/Tibb) · AT (Ayurveda) · CM (Chinese Materia Medica) · FMT (Folk & Magico-Traditional) · BM (Biomedicine)
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** DMM (Dioscoridean/Graeco-Roman) · SBJ (Unani/Tibb) · AT (Ayurveda) · CM (Chinese Materia Medica) · FMT (Folk & Magico-Traditional) · BM (Biomedicine)
 **Energetic Classification:** Galenic/Unani — variable by cultivar: sweet apples warm and moist, sour apples cold and dry (a rare "temperament-tunable" fruit). TCM — cool to neutral, sweet-sour; Spleen/Stomach/Lung.
 **Training Phase:** Restoration · Grounding · Integration
 

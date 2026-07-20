@@ -2,7 +2,8 @@
 
 ## *Indigofera tinctoria* L. | Family: Fabaceae (Leguminosae)
 
-**Tradition Tags:** AT (Ayurveda / Traditional Indian) · SS (Siddha) · DMM (Graeco-Arabic / Unani materia medica) · CM (Chinese Medicine — indigo-yielding class) · EP (European Phytotherapy / dyer's pharmacopoeia) · SBJ (Sub-Saharan / West African indigo craft) · FMT (Folk domestic medicine) · BM (Biomedical / Isolate)
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** AT (Ayurveda / Traditional Indian) · SS (Siddha) · DMM (Graeco-Arabic / Unani materia medica) · CM (Chinese Medicine — indigo-yielding class) · EP (European Phytotherapy / dyer's pharmacopoeia) · SBJ (Sub-Saharan / West African indigo craft) · FMT (Folk domestic medicine) · BM (Biomedical / Isolate)
 
 **Energetic Classification:** TCM (indigo class *qing-dai*) — cold, salty, Heat-clearing & toxin-resolving; Galenic/Unani — cold & dry (grade II–III)
 
@@ -70,6 +71,26 @@ According to PubMed, the traditional hepatoprotective ("liver-cooling") use has 
 - **TCM (indigo class):** Cold, salty; clears Heat, cools Blood, resolves toxin (*jie-du*), reduces swelling; Liver, Lung and Stomach channels (*qing-dai* profile).
 - **Ayurveda / Siddha:** *Sheeta* (cooling) *virya*, bitter/astringent *rasa*, pungent *vipaka*; *pitta*- and *kapha*-reducing; *yakrit-uttejaka* (liver-acting), *keshya* (hair-benefiting), *kushtha-ghna* (skin-disease-clearing).
 - **Galenic / Unani:** Cold & dry (grade II–III), refrigerant-desiccant; external for hot skin, ulcers and as hair colourant.
+
+### Cultivation Register
+
+**Ayurveda / Traditional Indian (AT).** Ayurveda's formal cultivation disciplines are *rasayana* (rejuvenation) and *vajikarana* (generative vitality), and its depletable vital distillate is *ojas*. No *rasayana* or *vajikarana* status for *Nili* is attested in the sources retrieved; the classical indications recorded above — *yakrit-pliha*, *kushtha-ghna*, *keshya* — are therapeutic and cosmetic, not constitutional. The status is doubly unavailable because the identification is unresolved: *nila* / *nili* in the Sanskrit materia medica does not denote a single plant, and nothing retrieved establishes that classical *Nili* is *Indigofera tinctoria* throughout. It therefore carries no cultivation status here, only a therapeutic one.
+
+**Siddha (SS).** The Siddha attestation retrieved for *Avuri* is of a cooling *pitta*-agent for liver, skin and hair. No longevity or regenerative status within the Siddha system is recorded for it in the sources retrieved, and none is asserted here. The frame is therapeutic; the cultivation status is unattested.
+
+**Graeco-Arabic / Unani (DMM).** The Unani cultivation idea is the conservation of **innate heat and radical moisture** — a finite vital endowment whose depletion *is* ageing, so longevity practice in this system is conservation rather than acquisition. Indigo (*nil* / *wasma*) is placed among the cold-and-dry refrigerant-desiccant drugs and used externally on hot skin, ulcers and hair. That is a humoral-therapeutic placement, not a conservation practice: no strengthening of the *ruh* and no *mufarrih* attribution is attested for this substance in the sources retrieved.
+
+**Chinese Medicine — indigo-yielding class (CM).** The Chinese cultivation hierarchy is the *san pin* 三品 grading, and the project it serves is *yang sheng* 養生, nourishing life — conservational, not curative. No *san pin* grade for *Indigofera tinctoria* is attested in the sources retrieved. The graded indigo material of the Chinese classics derives from other indigo-yielding species, and per the Codex's non-transfer rule its status cannot be carried across to this plant. *Qing-dai* is in any case a cold, toxin-resolving, Heat-clearing drug — the short-course register, doctrinally opposite to the long-term nourishing-life register.
+
+**European Phytotherapy / dyer's pharmacopoeia (EP).** No cultivation framing is attested. The European reception of indigo is a craft-and-therapeutic record — the dyeing trades, and a cooling astringent for skin ulcers — and it carries no account of what the substance does to a person's vital constitution.
+
+**Sub-Saharan / West African indigo craft (SBJ).** Attestation here is ethnographic rather than textual, and the sources retrieved do not attribute a cultivation practice for this plant to any named people. The ritual and social weight of the dye-pit and of the colour blue is real and is recorded above, but **colour symbolism is not a cultivation status** and is not treated as one here. No cultivation framing is attested.
+
+**Folk domestic medicine (FMT).** No cultivation framing is attested. The folk register recorded for indigo is external and cosmetic — hair-darkening, washes for hot sores — with no vital-constitution claim attached.
+
+**Biomedical / Isolate (BM).** Biomedicine has no cultivation register. The hepatoprotective isolate work cited above concerns organ injury models; it makes no claim about a vital constitution and is not evidence for one.
+
+**Practitioner's note.** For a cultivator, indigo is a plant to work with rather than to take. Nothing in any tradition tagged here supports long-term internal use for the sake of the constitution, and the *qing-dai* class's own cold, short-course grading is the warning. The external and hair applications are the honest register, patch-tested first. What indigo genuinely teaches is a discipline of preparation — the leaf is green and the blue must be fermented and oxidised out of it — but that is a craft attention, not a cultivation status, and the entry keeps the two apart.
 
 ### Contraindications
 

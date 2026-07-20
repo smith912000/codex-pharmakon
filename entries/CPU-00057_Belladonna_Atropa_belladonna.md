@@ -94,3 +94,5 @@ The pharmacology of atropine and scopolamine is among the most extensively docum
 
 *Cross-references: I_129 (Henbane — the closest pharmacological relative; also SPECIALIST ONLY), I_156 (Mandrake — the third member of the soporific Solanaceae trinity; also SPECIALIST ONLY), I_141 (Kava — the preferred safe Shen-altering alternative for non-clinical practitioners)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_031*
+
+*Filed under: Volume I — Plant-Based | Solanaceae | Canonical ID CPU-00057*

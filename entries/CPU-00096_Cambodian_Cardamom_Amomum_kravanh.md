@@ -2,7 +2,8 @@
 
 ## *Amomum kravanh* Pierre ex Gagnep. — the warming aromatic seed that wakes the damp, cold middle
 
-**Tradition Tags:** Chinese Medicine (Bai Dou Kou) · Ayurveda-adjacent · Unani · Folk-Southeast Asian
+**Tradition Tags:** FMT
+**Tags (previous line, retained for reference):** Chinese Medicine (Bai Dou Kou) · Ayurveda-adjacent · Unani · Folk-Southeast Asian
 **Energetic Classification (TCM):** ◉ Qi (warming, aromatic, dampness-transforming)
 **Training Phase:** [GENERAL]
 
@@ -62,3 +63,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the aromatic dampness-transforming/carminative spices — green cardamom (*Elettaria*), Sha Ren (*Amomum*), nutmeg (this volume), galangal (this volume); the cineole-rich aromatics.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_048*
+
+*Filed under: Volume I — Plant-Based | Zingiberaceae | Canonical ID CPU-00096*

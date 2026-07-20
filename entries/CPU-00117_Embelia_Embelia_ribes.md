@@ -2,7 +2,8 @@
 
 ## *Embelia ribes* Burm.f. — the embelin-bearing berry, foremost worm-expeller of Ayurveda
 
-**Tradition Tags:** Ayurveda (Vidanga) · Unani (Baobarang) · Folk-Indian
+**Tradition Tags:** SS, FMT
+**Tags (previous line, retained for reference):** Ayurveda (Vidanga) · Unani (Baobarang) · Folk-Indian
 **Energetic Classification (TCM):** ◉ Qi (pungent-bitter, warming, antiparasitic, digestive)
 **Training Phase:** [GENERAL]
 
@@ -61,3 +62,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the anthelmintic/antiparasitic herbs — pomegranate bark, male fern, wormseed, the Ayurvedic krimighna group; "false black pepper" as a historic pepper adulterant; the benzoquinone-bearing plants.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_098*
+
+*Filed under: Volume I — Plant-Based | Primulaceae | Canonical ID CPU-00117*

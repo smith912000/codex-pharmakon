@@ -2,7 +2,8 @@
 
 ## *Gymnema sylvestre* (Retz.) R.Br. | Family: Apocynaceae (Asclepiadaceae s.l.)
 
-**Tradition Tags:** SS (Suśruta Saṃhitā) · Āyurveda · classical dravyaguṇa · pan-Indian folk antidiabetic
+**Tradition Tags:** CM, SS
+**Tags (previous line, retained for reference):** SS (Suśruta Saṃhitā) · Āyurveda · classical dravyaguṇa · pan-Indian folk antidiabetic
 
 **Energetic Classification (Ayurvedic):** Rasa — Tikta (bitter), Kaṣāya (astringent) · Vīrya — Uṣṇa (heating) · Vipāka — Kaṭu (pungent) · primarily Kapha–Pitta śāmaka; balances Meda (fat) and Kleda (fluid/moisture excess)
 

@@ -95,3 +95,5 @@ Black walnut (*J. nigra*) hull contains significantly higher juglone concentrati
 
 *Cross-references: I_185 (Pine — the Pycnogenol OPC cardiovascular-brain complement), I_121 (Grape — the resveratrol cardiovascular/cognitive companion), I_191 (Pomegranate — ellagitannin-urolithin parallel pharmacology)*
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_242*
+
+*Filed under: Volume I — Plant-Based | Juglandaceae | Canonical ID CPU-00038*

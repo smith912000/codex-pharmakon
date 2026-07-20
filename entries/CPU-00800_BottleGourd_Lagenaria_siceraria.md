@@ -2,7 +2,8 @@
 
 ## *Lagenaria siceraria* (Molina) Standl. | Family: Cucurbitaceae
 
-**Tradition Tags:** AT (Ayurveda) · CM (Chinese Materia Medica) · SBJ (Unani/Tibb) · DMM (Dioscoridean/Graeco-Roman) · FMT (Folk & Magico-Traditional) · BM (Biomedicine)
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** AT (Ayurveda) · CM (Chinese Materia Medica) · SBJ (Unani/Tibb) · DMM (Dioscoridean/Graeco-Roman) · FMT (Folk & Magico-Traditional) · BM (Biomedicine)
 **Energetic Classification:** TCM — cool, sweet, slightly bland; channels Lung, Stomach, Small Intestine (fluid-draining, damp-clearing). Galenic/Unani — cold and moist in the second degree.
 **Training Phase:** Cooling · Purification · Fluid-regulation
 

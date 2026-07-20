@@ -2,7 +2,8 @@
 
 ## *Aquilaria agallocha* Roxb. (*A. malaccensis*) — the resin-soaked heartwood, warming qi-descender and calmer of the spirit
 
-**Tradition Tags:** Chinese Medicine (Chen Xiang) · Ayurveda (Agaru) · Unani (Ud) · Tibetan · DMM-adjacent (later aromatic trade) · Islamic/devotional
+**Tradition Tags:** DMM, CM, SBJ, SS, FMT
+**Tags (previous line, retained for reference):** Chinese Medicine (Chen Xiang) · Ayurveda (Agaru) · Unani (Ud) · Tibetan · DMM-adjacent (later aromatic trade) · Islamic/devotional
 **Energetic Classification (TCM):** ◉ Qi (warming, qi-descending, aromatic) / ☿ Shen (calming)
 **Training Phase:** [GENERAL]
 
@@ -62,3 +63,5 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 *Cross-references: the qi-moving/calming aromatics — sandalwood (this volume, Tan Xiang), the resins; the CM qi-descending herbs; the devotional/perfumery aromatic woods. Note CITES protection and authenticity concerns.*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_005*
+
+*Filed under: Volume I — Plant-Based | Thymelaeaceae | Canonical ID CPU-00112*

@@ -1,7 +1,8 @@
 # Sage — Elelisphakon (Gk.), Salvia (Lat. "the saviour"), Maryamiya (Ar.), Garden Sage
 
 ## *Salvia officinalis* L. | Family: Lamiaceae
-**Tradition Tags:** DMM · CM · (EP/AT aromatic-Salvia complex, hedged)
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** DMM · CM · (EP/AT aromatic-Salvia complex, hedged)
 **Energetic Classification:** Galenic — Hot in the 1st–2nd degree, Dry in the 2nd degree (warming, drying, astringent, consolidating); TCM analogue — acrid-bitter, cool-to-neutral aromatic that dries damp and steadies the spirit
 **Training Phase:** `[PRIME]`
 

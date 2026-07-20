@@ -94,3 +94,5 @@ The peer-reviewed literature on labdanum/*Cistus* is modest compared with franki
 *Cross-references: I_NNN Frankincense (Boswellia) and I_NNN Myrrh (Commiphora) — the gum-resins of the incense trade with which labdanum traded; I_232 Terebinth, I_227 Storax, I_109 Galbanum, I_009 Ammoniacum — companion Dioscoridean Book I resins*
 
 *Filed under: Codex Pharmakon Universalis — Volume I | Entry I_143*
+
+*Filed under: Volume I — Plant-Based | Cistaceae | Canonical ID CPU-00014*
