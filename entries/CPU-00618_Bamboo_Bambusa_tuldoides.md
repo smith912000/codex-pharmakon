@@ -16,13 +16,13 @@ Bamboo is the rare case of a single plant yielding **two distinct official drugs
 
 A third bamboo product — **tabasheer / vamshalochana**, the siliceous concretion that forms inside the hollow internodes — is a separate codex entry and is *not* covered here beyond noting that it must not be confused with either drug below.
 
-**Chinese Medicine (SBJ) — 竹沥 Zhu Li, "bamboo dripping"**
+**Chinese Medicine (TCM) — 竹沥 Zhu Li, "bamboo dripping"**
 
 Zhu Li is the **sap driven out of the fresh, green culm by roasting**. The cultivator's method is unambiguous and physically specific: a fresh culm section is cut, both ends left open or one end tilted downward, and the mid-section heated over fire. Heat drives a yellow-brown to amber fluid out of the cut end, which is collected drop by drop. It is a fire-extracted exudate, not a decoction and not a pressed juice — and the fluid keeps badly, spoiling within days unless preserved.
 
 Classical indication: **清热化痰 — clear heat, transform phlegm.** Zhu Li is the drug reached for in *acute, hot, obstructive* presentations — wind-stroke with phlegm blocking the orifices (中风痰迷), sudden loss of speech, convulsion in children with high fever, and the thick yellow sputum of a hot cough. Its reputation is for *penetration*: the doctrine holds that where other phlegm drugs work on the chest and stomach, Zhu Li reaches the channels and the orifices of the heart. It is characteristically paired with ginger juice (姜汁), a pairing the tradition itself explains as a corrective — Zhu Li is cold and cloying enough to injure the stomach, and the ginger both offsets that and is said to carry the sap through the channels.
 
-**Chinese Medicine (SBJ) — 竹茹 Zhu Ru, "bamboo shavings"**
+**Chinese Medicine (TCM) — 竹茹 Zhu Ru, "bamboo shavings"**
 
 Zhu Ru is a different thing entirely: the **green outer skin is scraped away and discarded**, and the pale intermediate layer beneath it is shaved off in thin curling ribbons and dried. No fire, no exudate. Just the middle tissue of the culm wall.
 
@@ -30,7 +30,7 @@ Classical indication: **清热化痰, 除烦止呕 — clear heat, transform phl
 
 Zhu Ru also appears in the composite prescription *Naozhenning granule* alongside ten other herbs, where the source lists the Zhu Ru botanical as *Phyllostachys nigra* rather than *Bambusa* — a reminder that the official Zhu Ru drug is polyspecific ([DOI: 10.1016/j.jep.2019.112247](https://doi.org/10.1016/j.jep.2019.112247), PubMed).
 
-**Folk Medicine & Materia Traditions (FMT)**
+**Folk Medicine & Materia Traditions**
 
 Across Southeast Asia bamboo culm and leaf infusions appear as cooling drinks and febrifuges, and bamboo leaves are drunk as tea in Malaysia and southern China. This is a genuine, widely distributed folk usage, but it is *leaf* usage — it is adjacent to, not identical with, the Zhu Li / Zhu Ru drugs, and the codex declines to merge them.
 

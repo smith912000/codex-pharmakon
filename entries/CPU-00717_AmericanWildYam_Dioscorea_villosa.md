@@ -19,7 +19,7 @@ The genus carries the name of Pedanius Dioscorides himself, whose *De Materia Me
 **Sushruta / Ayurvedic Analogue (SS).**
 The *Sushruta Samhita* and the broader Ayurvedic corpus employ Old-World yams (notably *Dioscorea* species of the Indian subcontinent) as nourishing, grounding tubers and as components of rejuvenative and anti-colic formulae. *D. villosa* stands as the North American cousin within this shared *Dioscorea* materia; the ethnobotanical overlap — tubers used against cramp and for vitality — is genuine at the genus level, while the specific American species is not a classical Ayurvedic dravya.
 
-**Avicennian / Unani Reception (EP).**
+**Avicennian / Unani Reception (CM).**
 As with the pinks, the yams entered the Galenic-Unani synthesis as acrid, drying roots; the placement is humoral and general rather than a discrete *Qanun* chapter on *D. villosa*.
 
 **Doctrinal & Symbolic Layer.**

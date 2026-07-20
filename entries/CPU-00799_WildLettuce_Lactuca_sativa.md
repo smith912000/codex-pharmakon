@@ -14,9 +14,9 @@ Lettuce is the great domestic paradox of the materia medica: the blandest thing 
 
 Across the classical world, lettuce was above all the **plant of sleep**. The doctrine is old, coherent, and nearly universal — with one instructive exception in Egypt, where lettuce was, oppositely, the erotic emblem of the fertility god **Min**.
 
-**Assyro-Babylonian (BM).** Mesopotamian medical and lexical texts include lettuce (*ḫassu*, the standard reading, to be flagged [USER: verify] for exact identification) among cultivated pot-herbs and cooling remedies; the *functional* niche — a cooling, soothing garden green — is secure, even where humoral grading is not preserved.
+**Assyro-Babylonian (AT).** Mesopotamian medical and lexical texts include lettuce (*ḫassu*, the standard reading, to be flagged [USER: verify] for exact identification) among cultivated pot-herbs and cooling remedies; the *functional* niche — a cooling, soothing garden green — is secure, even where humoral grading is not preserved.
 
-**Avicenna & the Unani stream (AT).** In the *Canon*, lettuce (*khass*) is a cold-and-moist drug: a *munawwim* (sleep-bringer) and refrigerant, calming of "heat," useful for insomnia, headache of hot cause, and — consistent with its cooling doctrine — as an **anaphrodisiac** that damps sexual heat and (in the seed) checks nocturnal emissions. Unani lettuce-seed remains a classic cooling nervine.
+**Avicenna & the Unani stream (CM).** In the *Canon*, lettuce (*khass*) is a cold-and-moist drug: a *munawwim* (sleep-bringer) and refrigerant, calming of "heat," useful for insomnia, headache of hot cause, and — consistent with its cooling doctrine — as an **anaphrodisiac** that damps sexual heat and (in the seed) checks nocturnal emissions. Unani lettuce-seed remains a classic cooling nervine.
 
 **Dioscorides & the Graeco-Roman tradition (DMM).** *De Materia Medica* distinguishes garden lettuce (cooling, sleep-inducing, milk-promoting, and lust-quieting) from the stronger wild lettuce, whose abundant *opos* (latex) it likens in effect to poppy — an explicit ancient equation of lettuce-latex with opium's soporific action. Galen famously recorded eating lettuce in old age to procure sleep. This is the doctrinal heart of "sleep-lettuce."
 

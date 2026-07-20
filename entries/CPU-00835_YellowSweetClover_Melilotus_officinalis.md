@@ -10,9 +10,9 @@
 
 ### Origin & Tradition
 
-**Assyrian & Mesopotamian record (SBJ).** Sweet-smelling clovers belong to the oldest stratum of Near-Eastern herbal practice. The Assyrian cuneiform medical tablets record aromatic meadow herbs used in poultices and fomentations for swellings and painful joints; *Melilotus*, with its unmistakable new-mown-hay fragrance, sits in this tradition of softening, resolving external applications laid over congested or inflamed tissue.
+**Assyrian & Mesopotamian record (AT).** Sweet-smelling clovers belong to the oldest stratum of Near-Eastern herbal practice. The Assyrian cuneiform medical tablets record aromatic meadow herbs used in poultices and fomentations for swellings and painful joints; *Melilotus*, with its unmistakable new-mown-hay fragrance, sits in this tradition of softening, resolving external applications laid over congested or inflamed tissue.
 
-**Avicenna & the Unani inheritance (AT).** Under the name *iklīl al-malik* ("the king's crown/garland") melilot is a well-defined drug of the *Qanun* lineage. Classed as warm and dry, mollient (softening) and discutient (dispersing), it was applied as a plaster or poultice to disperse hard swellings, soothe inflamed eyes, ease headache, and relax spasm and colic. The garland name reflects both the arching flower-racemes and the drug's esteem.
+**Avicenna & the Unani inheritance (CM).** Under the name *iklīl al-malik* ("the king's crown/garland") melilot is a well-defined drug of the *Qanun* lineage. Classed as warm and dry, mollient (softening) and discutient (dispersing), it was applied as a plaster or poultice to disperse hard swellings, soothe inflamed eyes, ease headache, and relax spasm and colic. The garland name reflects both the arching flower-racemes and the drug's esteem.
 
 **Dioscorides & the Greek materia medica (DMM).** Dioscorides describes *melilōtos* and its use in emollient cataplasms for inflammations and gatherings — of the stomach, eyes, and other soft-tissue swellings — typically combined with wine or other bases. This softening-and-resolving indication is the through-line of the Mediterranean tradition and matches the modern venous/lymphatic reputation of the plant.
 

@@ -22,7 +22,7 @@ In the northern European herbal tradition the plant is *Fragaria* (from *fragran
 
 The most famous doctrinal datum attached to this plant is **Linnaeus's gout claim** — the Swedish naturalist held that eating strawberries in quantity relieved or cured his gout. This is an anecdote, and it should be filed as an anecdote: a well-known claim by a named individual about himself, transmitted as tradition. It is a *doctrinal datum* (it tells us what the tradition believed), not *evidence*. No trial retrieved this run tests strawberry against gout, urate, or xanthine oxidase in humans. **Do not present it as a finding.** [USER: verify the primary source before quoting Linnaeus directly.]
 
-**Contemporary / folk-clinical (CM)**
+**Contemporary / folk-clinical**
 Wild strawberry leaf persists in modern European folk practice as a gentle household tea for diarrhoea, as a mouthwash, and as a mild "spring cleaning" beverage — the last being an inherited depurative habit rather than a defined indication. Ethnopharmacological reviews record its folk use for **gastrointestinal, cardiovascular and urinary disorders**; a 2014 study explicitly set out to test whether an anti-inflammatory mechanism could underwrite those uses (Liberal et al., *J Ethnopharmacol*; PubMed, [DOI](https://doi.org/10.1016/j.jep.2014.09.043)). Folk dermatological use — leaf as an emollient, antiseptic, and skin-protectant wash — is also recorded and has attracted the cosmetic industry (Couto et al., *Antioxidants*; PubMed, [DOI](https://doi.org/10.3390/antiox9020154)).
 
 **Doctrinal & Symbolic Layer**

@@ -12,7 +12,7 @@
 
 **Avicenna / Unani (CM):** The sour star-shaped fruits of the *Averrhoa* group entered Perso-Arabic and later Unani practice through the maritime trade routes of the Indian Ocean, where cooling, acidic fruits were classed among the *mubarridat* (refrigerants). In the humoral frame, a cold-and-moist sour fruit was indicated to quench pathological heat, settle bilious (choleric) fevers, and check excessive thirst. The pronounced sourness marked it as a corrector of hot, bilious temperaments rather than a daily food.
 
-**Shennong lineage / Chinese materia medica (SBJ):** In southern Chinese folk and later herbal practice the fruit (yang tao / wu lian zi) is treated as sweet-sour and cooling, used to "clear heat," promote fluids, ease sore throat, and relieve the heat-dryness of feverish conditions. Its diuretic reputation placed it among remedies said to move water and reduce swelling.
+**Shennong lineage / Chinese materia medica (TCM):** In southern Chinese folk and later herbal practice the fruit (yang tao / wu lian zi) is treated as sweet-sour and cooling, used to "clear heat," promote fluids, ease sore throat, and relieve the heat-dryness of feverish conditions. Its diuretic reputation placed it among remedies said to move water and reduce swelling.
 
 **Ayurveda / Sushruta lineage (SS):** As kamrakh, the unripe sour fruit is *amla-kashaya* (sour-astringent) and the ripe fruit sweeter; classical usage treats it as cooling (*shita virya*), thirst-relieving, and digestive-stimulant in small quantity, while acknowledging that heavy sour intake aggravates and that the fruit is heavy on the kidneys.
 

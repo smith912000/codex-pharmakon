@@ -16,7 +16,7 @@
 
 **Sushruta / Ayurvedic stream (SS).** In post-Columbian Indian practice guava (*amrood*, *peru*) leaf and unripe fruit are classic *grahi* (binding, antidiarrhoeal) agents, used for loose stools, mouth ulcers, and sore gums, and later folded into folk management of **diabetes** (*madhumeha*) as a hypoglycaemic leaf tea.
 
-**Shennong / Chinese folk stream (SBJ).** Known as *fan shi liu* — literally "foreign pomegranate" — the leaf is used in southern Chinese and broader East Asian folk medicine for diarrhoea, enteritis, and, notably, as an adjunct in **diabetes** management, the "foreign" prefix itself recording its imported origin.
+**Shennong / Chinese folk stream.** Known as *fan shi liu* — literally "foreign pomegranate" — the leaf is used in southern Chinese and broader East Asian folk medicine for diarrhoea, enteritis, and, notably, as an adjunct in **diabetes** management, the "foreign" prefix itself recording its imported origin.
 
 **Doctrinal & Symbolic Layer.** Every tradition that adopted guava reached for the *same* action: **astringency**. The leaf's mouth-puckering tannins are read across cultures as a "binding" or "drying" virtue — the plant that firms what is loose, whether loose bowels, bleeding gums, or slack tissue. This is a rare case where a New World plant slotted into Old World energetic doctrine precisely because its pharmacology (high tannin, high flavonoid) matched an existing category so cleanly.
 

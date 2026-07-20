@@ -10,13 +10,13 @@
 
 ### Origin & Tradition
 
-**Chinese Materia Medica (CM) — Qu Mai.**
+**Chinese Materia Medica (TCM) — Qu Mai.**
 The aerial parts of *Dianthus superbus* (and its close relative *D. chinensis*) constitute Qu Mai, one of the classical "damp-draining, urine-promoting" (利水通淋, *lì shuǐ tōng lín*) herbs of the Chinese pharmacopoeia. First recorded in the tradition attributed to the *Shennong Bencao Jing*, Qu Mai is grouped among the middle-class herbs and directed at the *lin* syndromes — the painful, dribbling, obstructed urination that maps onto what a modern clinician would recognise as dysuria, cystitis, urinary calculi, and gonococcal urethritis. It is classically used to "unblock the water passages," promote urination, invigorate blood, and bring on delayed menstruation. The plant is bitter and cold, entering the Heart, Small Intestine, and Bladder channels.
 
 **Dioscorides & the Greek Tradition (DMM).**
 Species of *Dianthus* and their Caryophyllaceous kin were known to the Greek herbal tradition among the aromatic "little pinks" valued as tonic, cordial, and diuretic simples. The genus name *Dianthus* — "flower of Zeus" (*Dios anthos*) — descends from this classical esteem. While Dioscorides' *De Materia Medica* is most secure on the cultivated clove-scented pinks, the fringed, deeply-laciniate flowers of *D. superbus* were absorbed into the same broad category of cooling, gently diuretic, blood-moving flowers of European herbalism.
 
-**Avicennian / Unani Reception (EP).**
+**Avicennian / Unani Reception (CM).**
 Through the transmission of Greek pharmacy into the Arabic-Persian synthesis, the pinks entered Unani practice as *qaranful*-adjacent cordials — cooling flowers used to temper heat of the urinary tract and to comfort the heart. The attribution here is general rather than to a specific named chapter of the *Qanun*; it reflects the shared Galenic humoral placement of the pinks as cold-and-dry drainers rather than a unique Avicennian monograph on *D. superbus*.
 
 **Doctrinal & Symbolic Layer.**

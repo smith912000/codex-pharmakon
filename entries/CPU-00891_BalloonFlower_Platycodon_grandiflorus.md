@@ -10,11 +10,11 @@
 
 ### Origin & Tradition
 
-**Shennong / Chinese Materia Medica (CM):** Jie Geng, the dried root of *Platycodon grandiflorus*, is one of the most enduring throat-and-lung medicines of the Chinese tradition. It is classified among the phlegm-resolving, cough-stopping herbs and is famous as a "guiding" herb that directs the actions of a formula upward to the chest and throat. Classical use is for cough with thick or difficult phlegm, sore and swollen throat, hoarseness, and — combined with other herbs — the discharge of pus in lung and throat abscess. It is a food-and-medicine plant (the root is also eaten as a pickled vegetable).
+**Shennong / Chinese Materia Medica (TCM):** Jie Geng, the dried root of *Platycodon grandiflorus*, is one of the most enduring throat-and-lung medicines of the Chinese tradition. It is classified among the phlegm-resolving, cough-stopping herbs and is famous as a "guiding" herb that directs the actions of a formula upward to the chest and throat. Classical use is for cough with thick or difficult phlegm, sore and swollen throat, hoarseness, and — combined with other herbs — the discharge of pus in lung and throat abscess. It is a food-and-medicine plant (the root is also eaten as a pickled vegetable).
 
-**rGyud-bzhi / Tibetan medicine (SBJ):** The Tibetan medical tradition (the Four Tantras, rGyud-bzhi) incorporates balloon-flower root among lung- and throat-clearing agents, used in compound formulas for cough, chest congestion and disorders of the breath-channels — consistent with its East Asian reputation as an upper-respiratory, phlegm-moving remedy.
+**rGyud-bzhi / Tibetan medicine (FMT):** The Tibetan medical tradition (the Four Tantras, rGyud-bzhi) incorporates balloon-flower root among lung- and throat-clearing agents, used in compound formulas for cough, chest congestion and disorders of the breath-channels — consistent with its East Asian reputation as an upper-respiratory, phlegm-moving remedy.
 
-**Avicenna / Unani (AT):** Bellflower-type expectorant roots enter the broader Unani repertoire of phlegm-cutting, chest-loosening simples — warming, drying agents that thin viscous humours in the lung and ease their expulsion. Balloon flower fits this class as a drying, phlegm-resolving root.
+**Avicenna / Unani (CM):** Bellflower-type expectorant roots enter the broader Unani repertoire of phlegm-cutting, chest-loosening simples — warming, drying agents that thin viscous humours in the lung and ease their expulsion. Balloon flower fits this class as a drying, phlegm-resolving root.
 
 **Korean (Doraji) tradition:** Beyond the pharmacopoeia, doraji is deeply woven into Korean food and folk medicine — the root eaten as namul and taken in domestic remedies for cough, bronchitis and sore throat. This living food-medicine continuity reinforces the plant's low-dose safety in culinary amounts while the concentrated medicinal root retains saponin cautions.
 

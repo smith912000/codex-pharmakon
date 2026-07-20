@@ -10,7 +10,7 @@
 
 ### Origin & Tradition
 
-**Shennong / Chinese materia medica (SBJ):** The rhizome, *Bai Mao Gen* ("white thatch-grass root"), is a long-standing item of the Chinese materia medica. It is classed as sweet and cold, entering the lung, stomach and bladder. Its two canonical actions are **cooling the blood to stop bleeding** (epistaxis, blood in the urine, coughing of blood) and **clearing heat to promote urination** — a diuretic that drains damp-heat and eases oedema and hot, scanty urination. The fresh root juice was prized for feverish thirst and stomach heat.
+**Shennong / Chinese materia medica (TCM):** The rhizome, *Bai Mao Gen* ("white thatch-grass root"), is a long-standing item of the Chinese materia medica. It is classed as sweet and cold, entering the lung, stomach and bladder. Its two canonical actions are **cooling the blood to stop bleeding** (epistaxis, blood in the urine, coughing of blood) and **clearing heat to promote urination** — a diuretic that drains damp-heat and eases oedema and hot, scanty urination. The fresh root juice was prized for feverish thirst and stomach heat.
 
 **Sushruta / Ayurveda (SS):** As *darbha* or *kusha* grass, *Imperata* and its close sacred relatives are woven through the Ayurvedic and Vedic corpus. The rhizome and root are used as a cooling diuretic (*mutrala*) and haemostatic (*raktastambhana*), directed at burning urination, urinary gravel and bleeding disorders (*raktapitta*). *Kusha* grass is simultaneously a ritual purity object and a medicine — the two roles are not separable in the tradition.
 

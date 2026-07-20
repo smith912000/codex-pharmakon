@@ -10,13 +10,13 @@
 
 ### Origin & Tradition
 
-**Assyrian / Mesopotamian (SBJ):** Among the oldest strands of Old-World herbalism, the bitter climbing vine and its resinous cones enter the cuneiform and Near-Eastern pharmacological tradition as a bitter digestive and calmative, and — inseparably — as a preservative and flavouring in fermented grain drinks. The pairing of hops with brewing and with rest is ancient.
+**Assyrian / Mesopotamian (AT):** Among the oldest strands of Old-World herbalism, the bitter climbing vine and its resinous cones enter the cuneiform and Near-Eastern pharmacological tradition as a bitter digestive and calmative, and — inseparably — as a preservative and flavouring in fermented grain drinks. The pairing of hops with brewing and with rest is ancient.
 
-**Dioscoridean / Graeco-Roman (EP):** *Lupulus salictarius* is described in the classical stream as a wild climbing bitter used to cleanse the blood and loosen the belly — the bitter-aperient reading of a plant whose resins later prove genuinely sedative.
+**Dioscoridean / Graeco-Roman (DMM):** *Lupulus salictarius* is described in the classical stream as a wild climbing bitter used to cleanse the blood and loosen the belly — the bitter-aperient reading of a plant whose resins later prove genuinely sedative.
 
-**Unani / Avicennan (AT):** In the Graeco-Arabic tradition hops is a cool-dry bitter: a blood-cleanser, a mild aperient, a calmative for an overheated, restless disposition, and a corrective for a bilious stomach. Its cooling-drying temperament underlies its use to quiet agitation and settle a "hot" nervous state.
+**Unani / Avicennan (CM):** In the Graeco-Arabic tradition hops is a cool-dry bitter: a blood-cleanser, a mild aperient, a calmative for an overheated, restless disposition, and a corrective for a bilious stomach. Its cooling-drying temperament underlies its use to quiet agitation and settle a "hot" nervous state.
 
-**Chinese (DMM):** *Pi jiu hua* enters later Chinese materia medica as a bitter, cool herb that strengthens the stomach, aids digestion, calms the spirit and settles restlessness and insomnia — the digestive-plus-sedative pairing seen across every tradition.
+**Chinese (TCM):** *Pi jiu hua* enters later Chinese materia medica as a bitter, cool herb that strengthens the stomach, aids digestion, calms the spirit and settles restlessness and insomnia — the digestive-plus-sedative pairing seen across every tradition.
 
 **Doctrinal & Symbolic Layer:** Hops is the herb of the drowsy harvest — pickers were long observed to grow sleepy in the fields, and hop-stuffed "sleep pillows" are a durable folk remedy. The doctrine (a bitter that cools heat and brings sleep) tracks the pharmacology precisely: the α-acid degradation product **2-methyl-3-butene-2-ol** accumulates in stored hops and is a demonstrated sedative, while the bitter resins raise inhibitory **GABA** signalling in the CNS. The plant that makes the harvester drowsy and the beer bitter is doing, chemically, exactly what the tradition says.
 

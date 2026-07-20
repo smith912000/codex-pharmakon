@@ -18,7 +18,7 @@
 
 **Ayurvedic tradition more broadly** recommends *B. hispida* juice for peptic complaints, hyperacidity and as a general tonic — a use explicitly cited in the modern ethnopharmacology literature as the rationale for testing its antiulcer activity (Grover et al., 2001).
 
-**Shennong / Chinese materia medica (SBJ):** As *dong gua*, winter melon is a cooling, diuretic food used to clear "summer heat," resolve damp, promote urination and quench thirst; the seeds and rind are distinct articles in the Chinese pharmacopoeia.
+**Shennong / Chinese materia medica (TCM):** As *dong gua*, winter melon is a cooling, diuretic food used to clear "summer heat," resolve damp, promote urination and quench thirst; the seeds and rind are distinct articles in the Chinese pharmacopoeia.
 
 **rGyud-bzhi / Tibetan (FMT):** The Four Tantras tradition incorporates cooling cucurbit foods of this type for heat and urinary disorders, consistent with the shared trans-Himalayan pharmacopeia.
 

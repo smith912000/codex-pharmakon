@@ -16,7 +16,7 @@ A historical honesty note precedes every tradition here: *Capsicum* is a New Wor
 
 **Avicenna / Unani (CM):** The *Qanun* itself predates the plant, but the Unani tradition it seeded absorbed cayenne as *filfil ahmar* once trade carried it east. Classified hot and dry to a high degree, it was folded into the existing Galenic category of pungent calefacients alongside black pepper and ginger — used to "kindle innate heat," disperse cold phlegmatic stagnation, and stimulate digestion.
 
-**Shennong / TCM (SBJ):** Post-Columbian Chinese medicine adopted the chili (*la jiao*) as an acrid, hot herb that warms the middle burner, dispels cold-damp, and restores appetite. It never appears in the earliest strata of the *Shennong Bencao Jing*; the tag reflects its integration into the later materia medica of warming interior herbs.
+**Shennong / TCM (TCM):** Post-Columbian Chinese medicine adopted the chili (*la jiao*) as an acrid, hot herb that warms the middle burner, dispels cold-damp, and restores appetite. It never appears in the earliest strata of the *Shennong Bencao Jing*; the tag reflects its integration into the later materia medica of warming interior herbs.
 
 **Sushruta / Ayurveda (SS):** Likewise, cayenne entered Ayurvedic practice as a hot, pungent (*katu*) dravya used to kindle *agni* (digestive fire) and reduce *kapha* — an assimilation into the classical framework the *Sushruta Samhita* established, not a substance the ancient text itself named.
 

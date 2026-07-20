@@ -14,7 +14,7 @@
 
 **Unani / Avicenna-era practice (CM):** In the humoral system a cooling, bitter nervine of this kind is used to temper heat and dryness disturbing the *ruh* and the faculties of the brain, calming agitation while clearing the sensorium — a corrector for hot, restless mental states.
 
-**Shennong lineage / later Chinese herbal use (SBJ):** Cooling, bitter herbs that "quiet the spirit" (an shen) and clear heat occupy an adjacent niche in Chinese materia medica; *Bacopa*, as a semi-aquatic bitter, was folded into folk use for calming agitation and supporting mental clarity.
+**Shennong lineage / later Chinese herbal use (TCM):** Cooling, bitter herbs that "quiet the spirit" (an shen) and clear heat occupy an adjacent niche in Chinese materia medica; *Bacopa*, as a semi-aquatic bitter, was folded into folk use for calming agitation and supporting mental clarity.
 
 **Doctrinal & Symbolic Layer:** The plant's naming after Brahma encodes its observed action — a herb of clarified consciousness. The symbolism is unusually well-matched to the pharmacology: the bacoside fraction modulates cholinergic transmission, supports synaptic density and antioxidant defence in the hippocampus (the memory organ), and produces a measurable, if modest, improvement in verbal recall in controlled trials. "Rejuvenator of intellect" is here a description that survives laboratory scrutiny better than most traditional epithets.
 

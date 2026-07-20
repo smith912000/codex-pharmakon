@@ -14,7 +14,7 @@ Okra is a warm-climate mallow grown for its ridged, mucilage-rich seed pods. Acr
 
 **Avicenna / Unani (CM):** In the Greco-Arabic humoral system, okra (*bāmiyā*) is classed as cool and moist, a *mulattif* and *mula''in* — a softening, demulcent food that eases dry, hot, irritated states of the stomach and bowel. Its sliminess is read as a direct signature of its lubricating action on rough internal surfaces, and it is recommended in convalescent and cooling diets.
 
-**Shennong / Chinese tradition (SBJ):** Within the Chinese materia-medica lineage that traces to the *Shennong Bencao Jing*, mucilaginous, cooling vegetables of this class are used to moisten dryness, ease the passage of stool, and clear heat from the stomach and intestines. Okra (*qiu kui*) enters this category as a moistening, heat-clearing food-medicine supporting the digestive and urinary tracts.
+**Shennong / Chinese tradition (TCM):** Within the Chinese materia-medica lineage that traces to the *Shennong Bencao Jing*, mucilaginous, cooling vegetables of this class are used to moisten dryness, ease the passage of stool, and clear heat from the stomach and intestines. Okra (*qiu kui*) enters this category as a moistening, heat-clearing food-medicine supporting the digestive and urinary tracts.
 
 **Sushruta / Ayurveda (SS):** In the Ayurvedic tradition carried by the *Sushruta Samhita*, okra (*bhindi*) is a *picchila* (slimy) and *guru* (heavy), cooling vegetable that pacifies aggravated **pitta** and **vata** through its unctuous, demulcent quality. It is valued as *balya* (strengthening) and *mutrala* (mildly diuretic), and its gel is used to soothe irritation of the stomach, intestines, and urinary passages.
 

@@ -26,7 +26,7 @@ Doctrine: solar. The plant is said to induce a suffusing golden or yellow light 
 
 **Handle the "sun herb" doctrine with care.** The linkage of a specific Nahuatl name to a specific binomial across four centuries of colonial transmission, popular ethnobotany, and 20th-century enthusiast literature is exactly the kind of chain where an attractive claim gets laundered into a fact. The doctrine may well be genuine. The evidential chain, as far as this entry can honestly represent it, is not verified.
 
-**Mexican & Central American folk medicine (BM) — *sinicuichi*, *sinicuiche*, *hierba de la vida*, *abre-o-sol*, "sun opener"**
+**Mexican & Central American folk medicine — *sinicuichi*, *sinicuiche*, *hierba de la vida*, *abre-o-sol*, "sun opener"**
 
 The living folk use is far better attested than the entheogenic one, and far more modest. Aerial parts are used as a decoction across a broad indication set: as a febrifuge, a diuretic, a wound wash, and for gynaecological complaints. The Brazilian *abre-o-sol* ("sun opener") is where the English trade-name "Sun Opener" comes from.
 
@@ -34,7 +34,7 @@ Classical indication: decoction of aerial parts for fever, inflammation, and as 
 
 Doctrine: cooling and opening. Note that this is a plain anti-inflammatory/antipyretic doctrine — no visions in it at all.
 
-**South American (Argentine) folk medicine (SA)**
+**South American (Argentine) folk medicine**
 
 At the southern end of its range *H. salicifolia* appears in Argentine folk pharmacopoeia as an aerial-part remedy, and it survives contact with modern screening: a systematic screen of 132 Argentine folk-medicinal samples against *Salmonella typhi* found *H. salicifolia* aerial parts among the more active extracts (PubMed; [DOI](https://doi.org/10.1016/0378-8741(94)90097-3)). Whatever else is uncertain about this plant, its folk-medicinal use in the south is real, documented, and not about visions.
 

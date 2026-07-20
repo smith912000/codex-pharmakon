@@ -12,9 +12,9 @@
 
 Ribwort plantain is the great **wound herb and cough-soother of the temperate world** — a humble roadside rosette that trailed human footpaths across Eurasia so faithfully it was called *waybread*. Its therapeutic identity is doubled: outwardly it staunches, draws, and closes wounds; inwardly it coats and calms the inflamed airway. Both halves rest on the same small set of molecules.
 
-**Assyrian / Mesopotamian cuneiform medicine (CM).** *Plantago* species belong to the astringent wound-and-flux drugs of the ancient Near East, used in poultices and washes for bleeding, sores, and inflamed tissue. *[USER: verify — the Akkadian designation for* Plantago *is not securely established; treat as a genuine regional astringent-herb tradition, not a fixed binomial. Do not cite an invented Akkadian name.]*
+**Assyrian / Mesopotamian cuneiform medicine (AT).** *Plantago* species belong to the astringent wound-and-flux drugs of the ancient Near East, used in poultices and washes for bleeding, sores, and inflamed tissue. *[USER: verify — the Akkadian designation for* Plantago *is not securely established; treat as a genuine regional astringent-herb tradition, not a fixed binomial. Do not cite an invented Akkadian name.]*
 
-**Avicenna & the Unani tradition (AT).** As *lisān al-ḥamal* ("lamb's tongue," لسان الحمل), plantain is a canonical *qābiḍ* (astringent) and *rādi'* (repellent/anti-inflammatory) drug: cooling and drying, used to stop haemorrhage and fluxes, consolidate wounds and ulcers, and quiet hot coughs and sore throats — the demulcent-astringent pairing made explicit.
+**Avicenna & the Unani tradition (CM).** As *lisān al-ḥamal* ("lamb's tongue," لسان الحمل), plantain is a canonical *qābiḍ* (astringent) and *rādi'* (repellent/anti-inflammatory) drug: cooling and drying, used to stop haemorrhage and fluxes, consolidate wounds and ulcers, and quiet hot coughs and sore throats — the demulcent-astringent pairing made explicit.
 
 **Dioscorides — *De Materia Medica* (DMM).** Dioscorides describes *arnoglosson* (plantain, "lamb's tongue") in detail as a cooling, drying, astringent herb: the leaves applied to wounds, malignant ulcers, and inflammations, and the plant used for spitting of blood and fluxes of the bowel. This is the taproot of the European wound-herb tradition.
 

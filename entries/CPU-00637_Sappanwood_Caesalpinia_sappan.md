@@ -10,7 +10,7 @@
 
 ### Origin & Tradition
 
-**Shennong (SBJ):** In the Chinese materia medica the heartwood is Su Mu, a blood-invigorating remedy entering the Heart, Liver and Spleen channels. Classical use is for blood stasis: traumatic injury, bruising and swelling, fixed masses, and post-partum stagnation with pain. The characteristic action is to "invigorate blood, dispel stasis, reduce swelling and stop pain" — a mover applied where blood has congealed and turned static.
+**Shennong (TCM):** In the Chinese materia medica the heartwood is Su Mu, a blood-invigorating remedy entering the Heart, Liver and Spleen channels. Classical use is for blood stasis: traumatic injury, bruising and swelling, fixed masses, and post-partum stagnation with pain. The characteristic action is to "invigorate blood, dispel stasis, reduce swelling and stop pain" — a mover applied where blood has congealed and turned static.
 
 **Sushruta / Ayurveda (SS):** Known as *patanga* or *pattanga*, the heartwood appears in the Ayurvedic tradition as an astringent, cooling, blood-related drug (*raktaprasadana*) used for disorders of the blood (*raktapitta*), skin conditions, and as a dye and wound remedy. It carries the same double identity there as in China — a colouring wood that is simultaneously a medicine of the blood.
 

@@ -24,7 +24,7 @@ Rice is the paradigm **grain-as-medicine**: a staple so central that its therape
 
 **Assyrian / Mesopotamian tradition:** Rice spread into the Persian-Mesopotamian sphere as a cultivated grain and dietary staple; its place in the regional food-medicine is as a bland, restorative, binding starch — the same clinical slot the grain holds everywhere it travels.
 
-**Folk / Traditional (FMT):** Globally, **rice-water** (the starchy liquid poured off boiled or soaked rice) is one of the most widespread folk remedies for **diarrhoea and infant/childhood gastroenteritis** — a bland oral fluid that settles the gut; it is also a traditional skin and hair rinse across East and South Asia.
+**Folk / Traditional:** Globally, **rice-water** (the starchy liquid poured off boiled or soaked rice) is one of the most widespread folk remedies for **diarrhoea and infant/childhood gastroenteritis** — a bland oral fluid that settles the gut; it is also a traditional skin and hair rinse across East and South Asia.
 
 **Doctrinal & Symbolic Layer — the grain of sustenance and increase:** Rice is, across the rice-eating world, the symbol of **life, fertility, prosperity and the gift of sustenance** — thrown at weddings for increase, offered to deities and ancestors, counted as the very substance of daily survival ("bread" of half the earth). Its doctrinal signature in Kenetica is *the neutral ground*: it takes no strong side, imposes no strong action, but feeds and stabilises — the blank nourishing base upon which stronger medicines are carried (medicated congee, herbal gruels). Where potent herbs act, rice holds the floor. It is the medicine of *the foundation being re-laid* — what you give a body that must be rebuilt from the middle outward.
 

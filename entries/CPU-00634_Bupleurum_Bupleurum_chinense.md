@@ -10,7 +10,7 @@
 
 ### Origin & Tradition
 
-**Shennong (SBJ):** Chai Hu is one of the oldest and most heavily used roots in the Chinese materia medica, entered in the *Shennong Bencao Jing* among the superior class of remedies said to be taken over long periods to lighten the body. Classical doctrine assigns it to the Liver and Gallbladder channels, where it is the archetypal "harmonising" agent — the ruling herb of the formula Xiao Chai Hu Tang (Minor Bupleurum Decoction), prescribed for the Shaoyang syndrome of alternating fever and chills, bitter taste, and fullness beneath the ribs. Its two signature actions in the tradition are to disperse constrained Liver qi and to raise the clear yang that has sunk.
+**Shennong (TCM):** Chai Hu is one of the oldest and most heavily used roots in the Chinese materia medica, entered in the *Shennong Bencao Jing* among the superior class of remedies said to be taken over long periods to lighten the body. Classical doctrine assigns it to the Liver and Gallbladder channels, where it is the archetypal "harmonising" agent — the ruling herb of the formula Xiao Chai Hu Tang (Minor Bupleurum Decoction), prescribed for the Shaoyang syndrome of alternating fever and chills, bitter taste, and fullness beneath the ribs. Its two signature actions in the tradition are to disperse constrained Liver qi and to raise the clear yang that has sunk.
 
 **Avicenna / Unani (CM):** The genus *Bupleurum* answers to the plants the Greco-Arabic physicians grouped with the fennel-leaved umbellifers used to open obstructions of the liver and spleen. In the Unani frame the root is read as a resolvent for hot swellings and stagnation in the hypochondrium, consonant with its cool, dispersing temperament.
 

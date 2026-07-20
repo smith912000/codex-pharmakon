@@ -14,7 +14,7 @@ Broad-leaved dock is two remedies wearing one name. Above ground it is the child
 
 **Medieval/Early-Modern English — Culpeper (CM).** Culpeper places the docks under Jupiter and keeps the split use: the root "cleanses the blood," is "good for the itch," scabby and eruptive skin, and works as a gentle purge; the bruised leaf is a cooling application. The "blood-cleansing"/alterative framing — dock as a spring depurative that clears "foul humours" through the bowel and skin — becomes the dominant folk indication from this period forward.
 
-**British / Northern-European folk (SBJ).** This is the living oral tradition: *"Nettle in, dock out."* The broad, cool leaf of *R. obtusifolius* is crushed and rubbed on the wheal raised by a stinging nettle (*Urtica dioica*), reliably found beside it. The same folk register keeps dock root as a bitter "spring tonic" and the leaf as a rough field poultice.
+**British / Northern-European folk.** This is the living oral tradition: *"Nettle in, dock out."* The broad, cool leaf of *R. obtusifolius* is crushed and rubbed on the wheal raised by a stinging nettle (*Urtica dioica*), reliably found beside it. The same folk register keeps dock root as a bitter "spring tonic" and the leaf as a rough field poultice.
 
 **Doctrinal & Symbolic Layer.** Two doctrines, opposite fates.
 

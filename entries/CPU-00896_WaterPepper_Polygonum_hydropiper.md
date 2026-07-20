@@ -18,7 +18,7 @@ The Greco-Roman materia medica knew a biting waterside herb, *hydropeper* ("wate
 **Chinese (CM) — Shui Liao 水蓼** 
 In Chinese materia medica the herb is *Shui Liao* (水蓼, "water smartweed"). It is classed among the acrid, warm, dispersing herbs and is used to *stop bleeding* and *resolve dampness* — given traditionally for bloody dysentery and diarrhoea, for abnormal uterine and other bleeding, and topically for sores, swelling, and snakebite. The doctrine unites two apparently opposite actions: the herb *moves* (its pungency disperses stagnant blood and damp) yet *staunches* (its astringency stops flux and bleeding). In the Chinese reading, controlled dispersal and astringent consolidation are two faces of restoring proper flow.
 
-**Japanese / Asian folk (SBJ) — *tade* 蓼 & *benitade*** 
+**Japanese / Asian folk — *tade* 蓼 & *benitade*** 
 In Japan the plant is *tade*; the red seedling sprouts, *benitade*, are a classic sharp garnish for sashimi, and the proverb *tade kuu mushi mo sukizuki* ("even the bug that eats the smartweed has its preference" — to each their own taste) preserves the herb's proverbial acridity. Folk practice across East and South Asia used the crushed herb as a styptic on wounds, as an emmenagogue to bring on delayed menses, and as an insect-repellent strewing and antifeedant plant — a use its chemistry vindicates. Across these traditions the plant is described as astringent, antiseptic, and sedative, and is used for oedema, respiratory complaints, and bites (Ayaz et al., 2019, *J. Ethnopharmacology*) [DOI](https://doi.org/10.1016/j.jep.2019.112516).
 
 **Doctrinal & Symbolic Layer**

@@ -20,7 +20,7 @@ Sweet Flag is one of the rare botanicals attested across all seven of the great 
 
 **Avicenna / Unani (CM):** The *Qanun* carries calamus (wajj) forward as a hot-dry aromatic, an attenuant and deobstruent employed for cold stomach, flatulence and sluggish digestion, consistent with the humoral logic of a pungent warming root.
 
-**Shennong / Chinese (SBJ):** As **Shi Chang Pu** the rhizome is a foundational aromatic that "opens the orifices," transforms turbid dampness, quiets the spirit and sharpens the senses — used for a clouded mind, poor memory, and phlegm-obstructed awareness. (Chinese practice favours the related *A. tatarinowii/gramineus* species, low in β-asarone.)
+**Shennong / Chinese (TCM):** As **Shi Chang Pu** the rhizome is a foundational aromatic that "opens the orifices," transforms turbid dampness, quiets the spirit and sharpens the senses — used for a clouded mind, poor memory, and phlegm-obstructed awareness. (Chinese practice favours the related *A. tatarinowii/gramineus* species, low in β-asarone.)
 
 **Sushruta / Ayurveda (SS):** As **Vacha** ("the speech-giver"), calamus is a celebrated *medhya* (intellect-promoting) and vak-pradha (speech-restoring) rhizome, prescribed for dull cognition, delayed speech in children (traditionally), epilepsy and to kindle digestive fire.
 

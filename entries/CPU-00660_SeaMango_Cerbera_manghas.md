@@ -19,7 +19,7 @@
 
 *Cerbera manghas* — sea mango, pong-pong, bintaro, othalanga (a name it shares with its sibling *C. odollam*) — is a small coastal and mangrove-margin tree of the Apocynaceae, distributed from the Seychelles and Madagascar through South and Southeast Asia to Australia and across the Pacific. It bears glossy leaves, fragrant white flowers with a red or pink throat (hence "red-eye sea mango"), and a smooth, green-to-red drupe that ripens to something a hungry stranger would take for a mango. It is not a mango. The resemblance is the whole tragedy: an edible-looking fruit on a shoreline tree, buoyant, sea-dispersed, washing up on beaches across the Indo-Pacific with a lethal kernel inside.
 
-**Contemporary Folk Medicine (CM)** — *external and expulsive only*
+**Contemporary Folk Medicine** — *external and expulsive only*
 Traditional use across the plant's range is, tellingly, almost entirely **non-ingestive**. The tree is used as:
 - a **fish poison (piscicide)** — crushed fruit and bark thrown into pools or tidal traps to stun and float fish
 - a **rodenticide and insecticide** — the seed's toxicity turned against pests

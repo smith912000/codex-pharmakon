@@ -18,7 +18,7 @@ The cuneiform materia medica of Mesopotamia lists poplar and willow among the fe
 **Greco-Roman (DMM) — Dioscorides' *aigeiros* / *leukē*** 
 Dioscorides in *De Materia Medica* treats the poplars (*aigeiros*, the black poplar; *leukē*, the white) as cooling remedies: the bark and leaves for inflammation, the resinous buds in salves for bruises and hot swellings, and preparations taken for the pain of gout and sciatica. The doctrine is humoral and consistent — poplar is *cold and drying*, and is therefore given against *hot* complaints: fever, inflamed joints, and the burning of wounds. Aspen, the trembling poplar, sits inside this same cooling genus and was used interchangeably in the European folk descent from Dioscorides.
 
-**Chinese & European folk materia (CM) — the trembling-leaf signature** 
+**Chinese & European folk materia — the trembling-leaf signature** 
 In the Chinese materia medica the salicylate lineage is carried chiefly by willow (柳, *liǔ*), whose bark and twigs are given to disperse heat and ease painful obstruction (*bì* 痺, the "blockage" syndromes of joint pain); poplar species (楊, *yáng*) appear in regional folk practice for similar heat-and-swelling complaints. *[USER: verify any specific classical Chinese indication tied to* Populus tremula *before publication — the firm attestation is for willow.]* The tree's most vivid doctrine, however, is European and folkloric: the aspen's leaves *tremble* in the faintest wind on their flattened petioles, and by the doctrine of signatures this "quaking" marked the tree as governing *the shakes* — the rigors of ague (intermittent fever) and the tremor of palsy. The aspen was, in effect, read as a fever tree *by its own shivering*.
 
 **Doctrinal & Symbolic Layer**

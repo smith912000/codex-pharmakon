@@ -20,7 +20,7 @@ Silver birch is a pioneer tree of the northern temperate and boreal zones, unmis
 
 **Avicenna (CM):** Birch and comparable barks/tars in the Unani tradition are drying and cleansing, used topically for chronic skin disease and as depuratives; the tar in particular has a long dermatological history.
 
-**Shennong / Chinese materia medica (SBJ):** Birch bark (*hua mu pi* / bai hua) appears in the Chinese tradition as a bitter, cooling, heat-clearing and detoxifying agent used for damp-heat skin conditions, sores and respiratory-throat heat.
+**Shennong / Chinese materia medica (TCM):** Birch bark (*hua mu pi* / bai hua) appears in the Chinese tradition as a bitter, cooling, heat-clearing and detoxifying agent used for damp-heat skin conditions, sores and respiratory-throat heat.
 
 **European folk and traditional medicine** — well documented in the modern ethnopharmacological review — uses birch leaf as a diuretic "spring cure" and depurative for arthritis, rheumatism and urinary complaints, and birch bark and its triterpenes for inflammatory and skin conditions (Rastogi et al., 2014).
 

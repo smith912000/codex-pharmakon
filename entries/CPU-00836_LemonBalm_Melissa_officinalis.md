@@ -10,9 +10,9 @@
 
 ### Origin & Tradition
 
-**Assyrian & Near-Eastern record (SBJ).** Aromatic mints belong to the deepest layer of Mesopotamian herbal practice, where fragrant leaf-drugs were used in infusions and fomentations to settle the stomach and lift the spirits. *Melissa*, with its lemon-scented foliage prized by bees (Greek *mélissa*, "honey-bee"), enters this tradition as a sweet, gently warming carminative and heart-gladdener — a plant grown near hives and valued for both honey and calm.
+**Assyrian & Near-Eastern record (AT).** Aromatic mints belong to the deepest layer of Mesopotamian herbal practice, where fragrant leaf-drugs were used in infusions and fomentations to settle the stomach and lift the spirits. *Melissa*, with its lemon-scented foliage prized by bees (Greek *mélissa*, "honey-bee"), enters this tradition as a sweet, gently warming carminative and heart-gladdener — a plant grown near hives and valued for both honey and calm.
 
-**Avicenna & the Unani inheritance (AT).** In the *Qanun* lineage lemon balm (*bādranjbūyah* / *turunjān*) is a celebrated **exhilarant and cardiotonic** — a drug to "gladden the heart," dispel melancholy and palpitation, sharpen the mind, and settle a nervous stomach. Classed as warm and dry in the first degree, it was given for anxious low mood, palpitations of nervous origin, and digestive unease — precisely the modern calmative/carminative profile.
+**Avicenna & the Unani inheritance (CM).** In the *Qanun* lineage lemon balm (*bādranjbūyah* / *turunjān*) is a celebrated **exhilarant and cardiotonic** — a drug to "gladden the heart," dispel melancholy and palpitation, sharpen the mind, and settle a nervous stomach. Classed as warm and dry in the first degree, it was given for anxious low mood, palpitations of nervous origin, and digestive unease — precisely the modern calmative/carminative profile.
 
 **Dioscorides & the Greek materia medica (DMM).** Dioscorides describes *melissophyllon* ("bee-leaf"), noting the plant's attraction to bees and its use in wine or as a poultice for stings, bites, and to settle the stomach and womb. The Mediterranean tradition carried melilot's sibling reputation forward into the medieval "Carmelite water" and the physicians' maxim, echoed by Paracelsus and the Arab school, that balm "maketh the heart merry."
 

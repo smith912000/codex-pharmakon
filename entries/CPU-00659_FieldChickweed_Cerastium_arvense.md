@@ -17,7 +17,7 @@ Before anything else, this entry must state its own limits, because the honest r
 **Doctrine of the Materia Medica (DMM)** — [USER: verify]
 The chickweed tradition in European herbals is real and old, but it is overwhelmingly a tradition attached to **common chickweed, *Stellaria media*** — the cooling, demulcent, vulnerary "little star" of the hedgerow, applied to hot skin, itch, inflamed eyes, and irritated gut. *Cerastium* species have been folded into that tradition largely by **morphological adjacency**: they are chickweeds, they are Caryophyllaceae, they look and taste broadly similar, and they occupy the same disturbed ground. Whether *C. arvense* carries an independent, primary attestation in the classical materia medica — as opposed to being swept in under a generic "chickweed" heading by later compilers — this codex cannot confirm from retrievable sources. The DMM tag is therefore retained **provisionally and flagged**. A cultivator or scholar working from a primary herbal should treat "chickweed" in any pre-modern text as *Stellaria* unless the text says otherwise.
 
-**Contemporary Folk Medicine (CM)** — [USER: verify]
+**Contemporary Folk Medicine** — [USER: verify]
 Contemporary folk and forager practice treats field chickweed as a **lesser substitute** for common chickweed: a poultice herb for itch, minor abrasion, and hot inflamed skin; occasionally a spring potherb. The distinction folk practice actually enforces is culinary, not medical — *Stellaria media* is tender and mild; *Cerastium* is **hairy, tougher, and less palatable**, which is why foragers pass it over. The hairiness is diagnostic and it is the reason field chickweed never rose to the same standing.
 
 **Distinguishing from *Stellaria media* (in codex)**

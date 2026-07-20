@@ -20,7 +20,7 @@ Two hawthorns, one genus, two entirely different doctrines. That is this entry.
 
 **The digestive doctrine is specific, and the specificity is the point.** *Shan Zha* is not a general tonic. In classical practice it is the fruit you reach for when the accumulation is of **meat and fat** — the after-effect of a heavy, greasy, protein-dense meal. Other food-stagnation herbs in the Chinese pharmacy are keyed to other substrates (*Shen Qu* to fermented grain-stagnation, *Mai Ya* to starch), and *Shan Zha* holds the meat-and-grease slot. This is not folkloric vagueness. It is a substrate-specific indication, and it is unusual.
 
-**Folk medicine and food (FMT).** In everyday Chinese use *Shan Zha* is barely medicinal at all. It is *bīng táng hú lu* — hawthorn fruits on a skewer in hard candy, sold on winter streets — and it is *shān zhā piàn*, the pressed sour hawthorn discs eaten as a children's snack and after rich meals, and it is a component of digestive syrups and pastilles. It is one of the very few substances in this codex where the folk delivery vehicle is a confection sold to children.
+**Folk medicine and food.** In everyday Chinese use *Shan Zha* is barely medicinal at all. It is *bīng táng hú lu* — hawthorn fruits on a skewer in hard candy, sold on winter streets — and it is *shān zhā piàn*, the pressed sour hawthorn discs eaten as a children's snack and after rich meals, and it is a component of digestive syrups and pastilles. It is one of the very few substances in this codex where the folk delivery vehicle is a confection sold to children.
 
 **Korean and Japanese use.** *C. pinnatifida* is used across the East Asian sphere; one retrieved clinical study is a Korean cosmetic application (see Scientific Correlation).
 

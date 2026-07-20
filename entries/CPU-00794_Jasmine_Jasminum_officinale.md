@@ -14,13 +14,13 @@
 
 Common jasmine is a climbing shrub of the olive family, native to the Caucasus, Persia, and the northern Indian subcontinent, and carried westward and eastward along the perfume and trade routes. Its very name is Persian — *yāsamīn* — and it is prized across almost every classical tradition primarily as an **aromatic**: the flower and its absolute/oil, not the bulk herb, carry the medicine.
 
-**Assyrian / Near Eastern (SBJ):** Jasmine belongs to the ancient Persian–Mesopotamian world of aromatic flowers and perfumed oils. Fragrant flower-oils of this type were used in the Near East for anointing, for perfuming, and for their soothing, mood-lifting effect — the earliest register of jasmine as a substance that acts through scent.
+**Assyrian / Near Eastern (AT):** Jasmine belongs to the ancient Persian–Mesopotamian world of aromatic flowers and perfumed oils. Fragrant flower-oils of this type were used in the Near East for anointing, for perfuming, and for their soothing, mood-lifting effect — the earliest register of jasmine as a substance that acts through scent.
 
 **Dioscoridean / European Pharmacy (DMM):** The Greeks and Romans knew jasmine perfume — *oleum sambacinum / iasme* — as a Persian import. Dioscorides notes the jasmine (Persian "white oil") scented oil, remarking that the Persians used it at banquets for its fragrance while cautioning that so warming a perfume did not suit everyone — an early observation of its warming, heady, potentially over-stimulating character.
 
-**Avicennan / Unani (AT):** Jasmine (*yāsamīn*) is a defined simple in the Unani tradition, classified as warm and dry. Its oil (roghan-e-yasmin) is used as a warming nervine and tonic — massaged for cold nervous conditions, applied to the head for certain headaches of cold origin, and valued as an exhilarant that lifts the spirits.
+**Avicennan / Unani (CM):** Jasmine (*yāsamīn*) is a defined simple in the Unani tradition, classified as warm and dry. Its oil (roghan-e-yasmin) is used as a warming nervine and tonic — massaged for cold nervous conditions, applied to the head for certain headaches of cold origin, and valued as an exhilarant that lifts the spirits.
 
-**Shennong / Chinese Materia Medica (CM):** In TCM the jasmine flower — **Su Xin Hua** (素馨花, referring chiefly to *J. officinale/grandiflorum*) — is a warm, aromatic, qi-regulating flower that **moves stagnant Liver qi, harmonises the Stomach, and relieves constrained emotions and pain** from qi stagnation. It is a gentle, fragrant "coursing" herb rather than a strong drug.
+**Shennong / Chinese Materia Medica (TCM):** In TCM the jasmine flower — **Su Xin Hua** (素馨花, referring chiefly to *J. officinale/grandiflorum*) — is a warm, aromatic, qi-regulating flower that **moves stagnant Liver qi, harmonises the Stomach, and relieves constrained emotions and pain** from qi stagnation. It is a gentle, fragrant "coursing" herb rather than a strong drug.
 
 **Sushruta / Ayurvedic (SS):** As **Chameli / Jati** (*Jasminum* spp.), jasmine appears in the Ayurvedic materia medica. The flowers and leaves are used for oral ulcers and sore mouth, for skin and eye conditions, and the fragrant oil as a calming, cooling-yet-uplifting aromatic; jasmine is a classic component of Ayurvedic and Indian perfumery and devotional practice.
 

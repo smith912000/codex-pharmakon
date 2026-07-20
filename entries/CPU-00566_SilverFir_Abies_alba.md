@@ -30,7 +30,7 @@ Classical indication: the turpentine externally as a vulnerary and drawing plast
 
 Doctrine: the resin *draws*. Applied over a splinter, a boil, or a congested chest, it was held to pull the offending thing toward the surface. Note that "drawing" is a doctrine with almost no mechanistic content and enormous folk persistence.
 
-**Broader European folk & Alpine practice (CM) — needle bath, chest rub, forest air**
+**Broader European folk & Alpine practice — needle bath, chest rub, forest air**
 
 Beyond the apothecary, silver fir belongs to a living Alpine tradition of *forest air as medicine* — the sanatorium sited among conifers, the needle bath, the resin rubbed on the chest in winter. This is where the tradition remains most alive today, and it is the strand with the most interesting modern evidence attached to it.
 

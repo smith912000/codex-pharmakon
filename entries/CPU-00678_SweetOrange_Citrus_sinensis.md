@@ -14,7 +14,7 @@
 
 The sweet orange is one of the very few substances in this codex where the plant is split into two pharmacologically opposite medicines by the tradition that knows it best. The flesh is cool and moistening; the peel is warm and drying. A tradition that treats these as one substance has not looked carefully. Chinese medicine looked carefully.
 
-**Chinese Medicine (CM) — 橙 (chéng), and the peel doctrine of 陳皮 (chén pí)**
+**Chinese Medicine (TCM) — 橙 (chéng), and the peel doctrine of 陳皮 (chén pí)**
 
 The sweet orange itself (*chéng*) enters the Chinese materia medica chiefly as a fruit: sweet-sour, cooling, classified as generating fluids and quenching thirst (*shēng jīn zhǐ kě*), harmonising the Stomach, and settling counterflow — the doctrine invoked for nausea, dry mouth, hangover, and post-febrile depletion. This is a nutritive-corrective classification, not a pharmacological one, and the tradition treats it as such: it is food that behaves medicinally.
 
@@ -22,7 +22,7 @@ The peel is the serious drug. The classical *chén pí* category — literally "
 
 Sweet orange peel is not the orthodox *chén pí* source — pharmacopoeial *chén pí* is *C. reticulatae pericarpium* — and this entry does not claim otherwise. What it claims is that sweet orange peel is used as a *chén pí*-type material in the same doctrinal category, and that the chemistry underwriting the category is largely shared. According to PubMed, a systematic review of Citri Reticulatae Pericarpium confirms that this is "the most commonly used medicine for regulating qi" and that it has been used clinically for nausea, vomiting, cough and phlegm, with terpenes, flavonoids and alkaloids as the principal bioactive classes ([DOI: 10.1016/j.jep.2024.118503](https://doi.org/10.1016/j.jep.2024.118503)).
 
-**Siddha / Bhaishajya-adjacent Indian usage (SBJ) — नारंगी (nāraṅgī)**
+**Siddha / Bhaishajya-adjacent Indian usage — नारंगी (nāraṅgī)**
 
 In the Indian traditions the orange is a *phala* — a fruit-food with formal properties — rather than a classical single-drug *dravya* of the Caraka/Suśruta core. Its attributed qualities are *madhura-amla* (sweet-sour) *rasa*, *śīta* (cooling) *vīrya*, and a *pitta*-pacifying, thirst-quenching, appetite-restoring action, used in convalescence and in heat conditions. The peel, dried and powdered, is used as a *dīpana-pācana* (appetite-kindling, digestive) agent in the same functional slot Chinese medicine assigns it. The convergence is notable: two traditions with no shared theoretical apparatus independently classify the flesh as cooling-nutritive and the peel as warming-digestive. [USER: verify the specific Sanskrit/Tamil source text before treating nāraṅgī attributions as classical rather than later-medieval — the sweet orange is a relatively late arrival in the subcontinent's written materia medica.]
 

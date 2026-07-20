@@ -16,7 +16,7 @@
 
 **Avicenna / Unani (CM):** The *Canon* and Unani tradition class the colocasia/*qulqas* root as a heavy, moist, nutritive food-drug — nourishing but "thickening," to be well-cooked, producing viscous humour, and eaten as a demulcent bulk food. Unani practice recognised both its food value and its tendency to cause heaviness/flatulence if under-prepared — an accurate empirical read of its starch and its raw irritancy.
 
-**Shennong / Chinese (SBJ):** In the Chinese dietetic-medical tradition descending from the *Shennong Bencao Jing* lineage, taro (*yu tou* / *yu nai*) is a sweet, acrid, neutral-to-cooling food that supplements the spleen and stomach, moistens, and resolves scrofula/nodules and swellings (topically and dietetically). It is a canonical example of a "medicine-food homology" (*yao shi tong yuan*) staple — eaten as food, used gently as medicine.
+**Shennong / Chinese (TCM):** In the Chinese dietetic-medical tradition descending from the *Shennong Bencao Jing* lineage, taro (*yu tou* / *yu nai*) is a sweet, acrid, neutral-to-cooling food that supplements the spleen and stomach, moistens, and resolves scrofula/nodules and swellings (topically and dietetically). It is a canonical example of a "medicine-food homology" (*yao shi tong yuan*) staple — eaten as food, used gently as medicine.
 
 **Sushruta (SS):** Ayurveda knows taro as *kachu* / *alukam*, a heavy (guru), nourishing, kapha-increasing tuber. It is dietetically classed among the moist, strength-giving but hard-to-digest roots, recommended cooked, and noted (like Unani) to aggravate *vata* (gas) and be unsuitable in weak digestion if poorly prepared.
 

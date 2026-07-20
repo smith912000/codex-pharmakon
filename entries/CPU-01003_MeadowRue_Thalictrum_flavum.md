@@ -14,9 +14,9 @@ Yellow meadow rue is a tall, plume-flowered wetland herb of European fen and riv
 
 **Dioscorides (DMM).** Dioscorides names *thaliktron*, a meadow plant with rue-like (finely divided) leaves, and assigns it a wound-healing and cleansing use — the bruised leaves laid on old ulcers and sores. The Greek reading is of a bitter, drying, cleansing herb; the emphasis is topical and depurative rather than the later purgative fame.
 
-**Avicenna & the Galenic-Unani tradition (AT).** In the Arabic materia medica the *Thalictrum* type is handled among the bitter, cold-drying cleansers and deobstruents — a drug to scour foul humour from wounds and to move a sluggish belly. The classification as cold-and-dry bitter is the Unani reflex of the same wound-and-cleansing profile.
+**Avicenna & the Galenic-Unani tradition (CM).** In the Arabic materia medica the *Thalictrum* type is handled among the bitter, cold-drying cleansers and deobstruents — a drug to scour foul humour from wounds and to move a sluggish belly. The classification as cold-and-dry bitter is the Unani reflex of the same wound-and-cleansing profile.
 
-**Assyrian / Mesopotamian (SS).** The cuneiform herbals are rich in yellow dye-and-drug roots used both to colour and to purge, and a berberine-bearing yellow root of the *Thalictrum* or related type is plausibly among them, but no secure Akkadian binomial can be assigned. [USER: verify Assyrian attestation and native name.]
+**Assyrian / Mesopotamian (AT).** The cuneiform herbals are rich in yellow dye-and-drug roots used both to colour and to purge, and a berberine-bearing yellow root of the *Thalictrum* or related type is plausibly among them, but no secure Akkadian binomial can be assigned. [USER: verify Assyrian attestation and native name.]
 
 **Folk pharmacy.** Across European folk use the yellow root served a double office that recurs wherever berberine occurs: a **dye** (the root yields a yellow colourant, exactly as its cousins *Berberis*, *Coptis*, *Hydrastis* do) and a **purgative-diuretic bitter**, earning meadow rue vernacular names in the "poor-man's rhubarb" family. The union of *yellow pigment* and *bitter purgative virtue* in one root is not coincidence — it is one molecule wearing two hats.
 

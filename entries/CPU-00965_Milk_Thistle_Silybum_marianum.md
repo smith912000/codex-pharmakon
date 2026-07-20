@@ -117,7 +117,7 @@ The Codex also notes silymarin's documented role as the sole evidence-based anti
 - Actions: Opens hepatic obstructions; promotes bile flow (choleretic); purifies the blood of bilious accumulations; strengthens the liver's natural temperament
 - The *Canon* of Avicenna specifically notes the thistle's action in "strengthening the liver against the influx of corrupt humors" — in modern terms, hepatocyte membrane protection against hepatotoxic assault
 
-**European Folk (AT):**
+**European Folk:**
 - Spring herb: used as part of the traditional spring detoxification practice in Germanic and central European folk medicine — the seasonal preparation of the body after winter's dietary excess and reduced physical activity; this corresponds precisely to what modern hepatology understands as the periodic restoration of Phase II conjugation capacity and hepatic glutathione pools
 - The "liver herb" par excellence in German folk tradition: *Mariendistel* was so specifically associated with the liver that its common name in many dialects was simply "Leberdistel" (liver thistle)
 

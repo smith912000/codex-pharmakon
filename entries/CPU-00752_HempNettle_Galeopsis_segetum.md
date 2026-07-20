@@ -26,7 +26,7 @@ The classical indication set is narrow and consistent: **chronic cough, bronchit
 
 **The doctrine attached to it is explicitly mineral.** The tradition holds that *Galeopsis* is rich in **silicic acid**, and that silicic acid **strengthens lung tissue** — that the lung of the consumptive is structurally weakened, and that supplying silica rebuilds it. This is not vague vitalism; it is a mechanistic claim with a named compound and a named target tissue, and it is the whole basis of the plant's use.
 
-**Contemporary / folk-clinical (CM)**
+**Contemporary / folk-clinical**
 *Herba Galeopsidis* persists in German-speaking folk practice as a silica-bearing "lung tea", usually blended with *Equisetum arvense* (horsetail — the other great silica herb), *Plantago lanceolata* and *Thymus*. The same silica doctrine has migrated sideways into modern supplement marketing, where it now attaches to hair, nails, skin and connective tissue as much as to lung.
 
 **Doctrinal & Symbolic Layer**

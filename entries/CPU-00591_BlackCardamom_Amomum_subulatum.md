@@ -16,7 +16,7 @@
 
 **Avicenna / Unani (CM):** In the *Canon* and the wider Unani tradition, cardamom (*heel*, in greater and lesser forms) is a warm-dry aromatic classed as *muqawwi-e-meda* (stomach-strengthening), carminative, cardiotonic (*muqawwi-e-qalb*), and *kasir-e-riyah* (wind-breaking). Greater cardamom specifically was used for cold stomach, nausea, and heaviness after eating.
 
-**Shennong / Chinese (SBJ):** The Zingiberaceae aromatic capsules (the *sha ren* / *cao guo* group of "aromatic-damp-transforming" drugs) are foundational to the Chinese warming-digestive tradition descending from the *Shennong Bencao Jing* lineage. *Amomum* species in this family are used to warm the middle, transform damp, move stagnant qi, and stop nausea and epigastric fullness — the classic pattern for a smoky, penetrating aromatic seed.
+**Shennong / Chinese (TCM):** The Zingiberaceae aromatic capsules (the *sha ren* / *cao guo* group of "aromatic-damp-transforming" drugs) are foundational to the Chinese warming-digestive tradition descending from the *Shennong Bencao Jing* lineage. *Amomum* species in this family are used to warm the middle, transform damp, move stagnant qi, and stop nausea and epigastric fullness — the classic pattern for a smoky, penetrating aromatic seed.
 
 **Sushruta (SS):** Ayurveda knows greater cardamom as *bhadra* / *sthula-ela* (the "large cardamom," distinct from *sukshma-ela*, the small green cardamom). It appears in the dipana-pachana (kindling-digestive) group, for *kapha*-*vata* disorders, cough, asthma, poor appetite, and as a mouth-freshener and cardiac aromatic.
 
