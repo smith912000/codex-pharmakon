@@ -76,7 +76,7 @@ Unusually among major Chinese herbs, *Rehmannia glutinosa* presents two pharmaco
 **Primary Tier:** ◈ Jing (deep structural/anabolic restoration, the paramount Yin and Essence tonic)
 **TCM Channel:** Heart, Liver, Kidney
 **Energetic Action:** *Shēng Dì Huáng* — clears Heat from the nutritive level (*qīng yíng liáng xuè*), nourishes Yin, generates Fluids; *Shú Dì Huáng* — tonifies Kidney and Liver Yin (*zī yīn bǔ shèn*), fills Essence and Marrow (*tiān jīng bǔ suǐ*), tonifies Blood, consolidates Jing
-**Ayurvedic:** *Rasayana* par excellence for Kidney-Jing equivalent (*Shukra-dhatu* and *Majja-dhatu* nourishment); *Vrushya* (reproductive tonic); *Medhya* (brain tonic); predominantly *Madhura* rasa and *Sheeta* (cooling) virya in raw form; *Madhura* rasa and *Ushna* (warming) virya in prepared form; pacifies *Pitta* and *Vata*; may aggravate *Kapha* if overused
+**Ayurvedic:** **[R-CLASS-2 — editorial analogy, not attestation, flagged 2026-07-18]** Rehmannia is a **Chinese** drug; the Ayurvedic categories below are a Kenetica cross-reading, **not** an Ayurvedic attestation for this species, and *jing* 精 is **not** equivalent to *shukra-* or *majja-dhatu* — those belong to different systems and must not be equated (see `CULTIVATION_REGISTER_SPEC.md`, trap 3). Read as analogy only: *rasayana*-like positioning; *shukra*/*majja* comparison; *Vrushya* (reproductive tonic); *Medhya* (brain tonic); predominantly *Madhura* rasa and *Sheeta* (cooling) virya in raw form; *Madhura* rasa and *Ushna* (warming) virya in prepared form; pacifies *Pitta* and *Vata*; may aggravate *Kapha* if overused
 
 ---
 
