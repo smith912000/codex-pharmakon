@@ -2,7 +2,7 @@
 
 ## *Hibiscus sabdariffa* L. | Family: Malvaceae
 
-**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tradition Tags:** DMM, CM, SBJ, SS
 **Tags (previous line, retained for reference):** EP (European Phytotherapy) · AT (Ayurveda / Traditional Indian) · DMM (Graeco-Arabic / Unani materia medica) · CM (Chinese Medicine, adopted) · SBJ (Sub-Saharan / West African ethnobotany) · SS (Siddha) · FMT (Folk domestic medicine) · BM (Biomedical / Clinical)
 
 **Energetic Classification:** TCM — cool, sour, Heat-clearing, fluid-generating; Galenic/Unani — cold & dry (grade II), refrigerant
@@ -76,10 +76,6 @@ According to PubMed, roselle's cooling-cardiovascular reputation is among the be
 
 **The short answer.** Roselle's genuine home is African and its spread is by trade. Every Old World tradition tagged here would have received it as an **adoption** — and for the three ancient corpora above, could not have received it at all. Adoption into a materia medica confers a therapeutic and dietetic standing. **It does not confer a cultivation status, and none is attested for this species in any tradition below.**
 
-**Ebers Papyrus / ancient Egyptian (EP).** **Absent, and chronologically impossible.** *H. sabdariffa* is not a plant of pharaonic Egypt; it is an African species of later trade diffusion, and no Ebers attestation is or could be claimed. The point needs stating rather than passing over in silence, because this is the single most likely false attestation for this substance in the whole Codex: *karkade* is emblematically Egyptian **today**, and the entry's own body reflects that modern culture. Modern Egyptian *karkade* is not evidence about the Ebers corpus. Note additionally that the Ebers material is **indication-organised** — it records what was done for a complaint, not what a substance does to the constitution — so it yields no cultivation status even where identification is secure. No *heka*, *ka*/*ba*/*akh*/*ib* or deity claim is made.
-
-**Assyrian / Mesopotamian (AT).** **Absent, and chronologically impossible** for the same reason: an African species of later diffusion has no place in the cuneiform corpus. Independently, the Codex's **blocking warning on Assyrian substance identifications, deity or demon attributions and tablet references is in force**, so even a proposed identification would default to (c) here. No classification by causal agency — divine hand, ghost, oath — is attested or invented.
-
 **Dioscorides / Greek (DMM).** **Absent, and chronologically impossible**: Dioscorides could not have known this species. Nothing is constructed for him, and it should be remembered that he has **no subtle-body system** to construct from — the Galenic three spirits are later and post-Dioscoridean. The only thing this tradition legitimately contributes is its **discipline of attention** to provenance and identity, and applied here that discipline delivers the negative result rather than a positive one: it is what rules the attribution out.
 
 **Avicenna / Unani (CM).** The Unani cultivation idea is the conservation of **innate heat and radical moisture**, a finite vital endowment whose depletion *is* ageing — so longevity practice in this system is conservation, not acquisition. The entry records roselle (*karkadé*) read as cold and dry, a refrigerant (*muhallil-e-hararat*) for thirst, fever and hot temperament. That is a **humoral-therapeutic placement, not a conservation practice**, and this register explicitly refuses the inference that a cooling agent must therefore preserve the innate heat — that reasoning is seductive and unsourced, and it is exactly what would produce a fabricated claim here. Whether the Unani reception of this African species is even pre-modern is itself unestablished in the sources retrieved. **No relation to the *ruh*, no *mufarrih* attribution, no *Canon* chapter cited.** Cultivation status: **unattested**.
@@ -90,6 +86,7 @@ According to PubMed, roselle's cooling-cardiovascular reputation is among the be
 
 **Practitioner's note.** Roselle is the rare Codex substance a cultivator can simply drink, daily, without a doctrine attached — and the absence of the doctrine is the point. No tradition tagged here assigns it a status in a scheme of nourishing or conserving the person, and three of them could not have known the plant at all. What is recorded is a **cooling, sour, thirst-quenching drink taken habitually**, and that habit is the whole of the practice: dose through habit, not through prescription. That model is behavioural, and per house policy a behavioural answer is a legitimate one. The real disciplines are unglamorous and belong to the modern evidence rather than to any tradition's vital scheme — it lowers blood pressure modestly and genuinely, so it stacks with antihypertensive medication; concentrated medicinal doses are avoided in pregnancy; and the acidity sets its own ceiling on habitual intake.
 
+*[2 tradition paragraph(s) removed 2026-07-18 — tag withdrawn per approved attestation ruling; see spine notes.]*
 ### Contraindications
 
 - **Hypotension / antihypertensive medication:** additive blood-pressure lowering — monitor if combined with antihypertensive drugs; avoid excess in already-low blood pressure.

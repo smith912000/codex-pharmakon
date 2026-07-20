@@ -2,7 +2,7 @@
 
 ## *Inula helenium* L. | Family: Asteraceae (Compositae)
 
-**Tradition Tags:** AT, DMM, CM, SBJ, SS, FMT
+**Tradition Tags:** AT, DMM, CM, SBJ
 **Tags (previous line, retained for reference):** DMM (Dioscoridean / Graeco-Roman materia medica) · EP (European Phytotherapy) · CM (Chinese Medicine) · AT (Ayurveda / Unani-adopted) · SBJ (— limited; N. African/Maghreb Unani use) · FMT (Folk domestic & veterinary medicine) · SS (— via Unani-Siddha overlap) · BM (Biomedical / Isolate)
 
 **Energetic Classification:** TCM (*tu-mu-xiang*) — warm, acrid & bitter, Qi-moving & Damp-transforming; Galenic — warm & dry (grade II–III)
@@ -79,12 +79,9 @@ According to PubMed, the traditional respiratory and metabolic uses map onto rea
 
 **Shennong / Chinese (TCM).** No *san pin* 三品 grade for *Inula helenium* is attested in the sources retrieved, and it therefore carries **no cultivation status in this tradition, only a therapeutic one**. Two cautions belong permanently on the record. First, the *Inula* material graded in the Chinese classics is *xuan-fu-hua* 旋覆花, from *I. japonica*/*britannica* — **a different species** — and per the Codex's non-transfer rule its grade cannot be carried across to *I. helenium*. Second, *tu-mu-xiang* 土木香 is a Qi-moving, stagnation-relieving, Damp-transforming drug: a treating register, not the conservational register of *yang sheng* 養生. Whether *tu-mu-xiang* belongs to the *Shennong bencao jing* stratum at all was not established in the sources retrieved, which is a further reason the tag supports no upper-grade reading.
 
-**Sushruta / Ayurveda (SS).** No cultivation framing is attested for *Inula helenium*, and the tag is flagged as probably resting on a species error. The Ayurvedic drug *pushkaramula* (पुष्करमूल) is ***Inula racemosa*, a different species**; whatever status Ayurveda assigns it is **not transferred here**. No *rasayana* and no *vajikarana* status — the two formal Sushrutan cultivation disciplines — is attested for *I. helenium*, and no attribution to *ojas* is made. Recorded as absent.
-
-**rGyud-bzhi / Tibetan (FMT).** No cultivation framing is attested. No *bcud len* (essence-extraction) use of *Inula helenium* was retrieved from the Four Tantras material, and none is asserted; nor is any placement against the three *nyes pa*. It should be remembered in any case that in this tradition medicine is the **third of four treatment branches** — it supports practice rather than reaching the root, which is the three poisons — and that **no formal category of "substances for subtle-body practice" exists** to be filled. Recorded as absent.
-
 **Practitioner's note.** A cultivator uses elecampane the way the traditions that actually attest it use it: for a defined course, against a defined complaint — the deep, wet, cold cough, or a sunk and sluggish digestion — and then stops. Nothing attested supports taking it long-term for the constitution's own sake, and the sesquiterpene-lactone sensitisation risk argues actively against it. The one genuinely ongoing practice attached to this root is the Dioscoridean one: know where it was grown, when it was lifted, and whether what you have is *I. helenium* at all rather than *I. racemosa* or an *Inula* flower.
 
+*[2 tradition paragraph(s) removed 2026-07-18 — tag withdrawn per approved attestation ruling; see spine notes.]*
 ### Contraindications
 
 - **Asteraceae allergy:** sesquiterpene lactones (alantolactone) are known contact and systemic sensitisers — avoid in those allergic to Compositae (ragweed, chamomile, etc.); can cause allergic contact dermatitis.

@@ -2,7 +2,7 @@
 
 ## *Lablab purpureus* (L.) Sweet | Family: Fabaceae (Leguminosae)
 
-**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tradition Tags:** EP, AT, CM, SBJ, SS
 **Tags (previous line, retained for reference):** CM (Chinese Medicine) · AT (Ayurveda / Traditional Indian) · SS (Siddha) · SBJ (Sub-Saharan / East African ethnobotany) · DMM (Graeco-Arabic / Unani adopted) · EP (European colonial botany, food-medicine) · FMT (Folk domestic & dietary medicine) · BM (Biomedical)
 
 **Energetic Classification:** TCM (*bai bian dou*) — neutral-to-slightly-warm, sweet, Spleen-strengthening & Damp-transforming; Galenic — temperate, mildly warming & drying
@@ -77,8 +77,6 @@ According to PubMed, the traditional profile is supported by a systematic review
 
 **Assyrian / Mesopotamian (AT).** No cultivation framing is attested. The **blocking warning** in force for the cuneiform corpus governs here — substance identification, deity or demon attribution and tablet reference all require positive evidence, and none was retrieved for *Lablab purpureus*. Recorded as absent, which is the default position for this tradition.
 
-**Dioscorides / Greek (DMM).** No cultivation framing is attested, and the tag is flagged as a **suspected impossible attestation**: no *De Materia Medica* entry for this bean was located in the sources retrieved, and the tag appears to descend from a Graeco-*Arabic* (dietetic, Arabic-transmission) reading rather than from Dioscorides. Even had he recorded it, Dioscorides has **no subtle-body system** and none is manufactured here; *pneuma* is context only and the Galenic three spirits are later and post-Dioscoridean. What the tradition genuinely offers a cultivator of a traded pulse is his **discipline of attention** — provenance, season of gathering, sensory assay, adulteration detection.
-
 **Avicenna / Unani (CM).** The Unani cultivation idea is the conservation of **innate heat and radical moisture**, the finite vital endowment whose depletion is ageing — so longevity practice here is conservation, not acquisition. *Lablab* enters the tradition as a temperate, nourishing pulse within dietetics, and dietetics is precisely the arena in which that conservation is practised. But the sources retrieved attribute nothing to this bean in those terms: no conservational role, no action on the *ruh*. The status is unattested; the frame is dietary and humoral.
 
 **Shennong / Chinese (TCM).** No *san pin* 三品 grade for *bai bian dou* 白扁豆 is attested in the sources retrieved. Searches returned a grading only from TCM clinic and supplier compilations, which this Codex refuses as authorities, so the grade is recorded as **unattested in the sources retrieved** rather than asserted; the drug carries no cultivation status here, only a therapeutic one. Three points belong on the record. First, the bean appears to be a **post-*Shennong* addition**: the systematic review of *Lablab* Semen Album by Yao, Xia, Tang et al. (2024), *Journal of Ethnopharmacology*, states that lablab was first included in the *Mingyi Bielu* 名醫別錄 during the Northern and Southern Dynasties, initially as *bian dou* 扁豆 — a later text than the *Shennong bencao jing*, which is a further reason no upper-grade reading can be drawn from this tag. Second, **food-grade status is not cultivation status**: that a substance is mild enough to eat daily speaks to its safety, not to an assignment within the project of nourishing life. Third, *yang sheng* 養生 is nowhere attributed to this bean in the sources retrieved, despite its *jian-pi* 健脾 function sitting close to that register — closeness is not the claim.
@@ -87,6 +85,7 @@ According to PubMed, the traditional profile is supported by a systematic review
 
 **Practitioner's note.** Here the cultivator's action is behavioural and almost entirely dietary: cook the bean thoroughly — never raw, dry-fried for medicinal use — and eat it with constancy through hot, humid weather or during convalescence, in food quantities, over time. That is what the traditions actually attesting it do with it. What a practitioner should *not* do is upgrade its gentleness into a cultivation claim: this is a mild, well-tolerated food-drug for a weak and water-logged middle, and no source retrieved says more than that.
 
+*[1 tradition paragraph(s) removed 2026-07-18 — tag withdrawn per approved attestation ruling; see spine notes.]*
 ### Contraindications
 
 - **NEVER eat raw or undercooked** — raw hyacinth bean contains heat-labile lectins, trypsin inhibitors and (in some cultivars) cyanogenic glycosides; raw/undercooked consumption causes nausea, vomiting, diarrhoea and can cause serious poisoning. Always dry-fry or thoroughly cook.

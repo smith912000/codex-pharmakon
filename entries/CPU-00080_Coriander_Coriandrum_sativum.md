@@ -1,6 +1,6 @@
 # Coriander — كزبرة (Kuzbara) / Κορίανδρον (Koriandron) / धनिया (Dhanyā) / 芫荽 (Yánsui)
 ## *Coriandrum sativum L. — Coriander / Cilantro*
-**Tradition Tags:** AT, CM, DMM, EP, SBJ, SS, FMT
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
 **Energetic Classification (TCM):** ◉ Qi
 **Training Phase:** `[PRIME]` `[RESET]`
 
@@ -103,12 +103,11 @@ A research line (not yet RCT-validated) suggests cilantro fresh herb facilitates
 
 **Chinese (TCM).** No *san pin* 三品 grade is attested for either 芫荽 (fresh herb) or 胡荽子 (seed) in the sources retrieved, and it is worth noting that this entry's Chinese material is drawn from the *Bencao Gangmu* — Li Shizhen, 1596 — a late compilation rather than the classics, so no grade should be back-projected onto the earlier tradition from it. The recorded actions are dispersing and digestive: the fresh herb pungent and warm, promoting sweating and unblocking the pores; the seed promoting digestion. Both are curative in character, and *yang sheng* 養生 is a conservational project, not a curative one. No 輕身 attribution is attested.
 
-**Tibetan (FMT).** No cultivation framing is attested, and this entry supplies no Tibetan attestation for coriander at all — the tag stands without supporting material in the body of the entry. In the Four Tantras' own architecture, medicine is the third of four treatment branches and does not reach the root of the three *nyes pa*, which is the three poisons; there is no formal category of substances for subtle-body practice to place coriander in, and *bcud len* is not attested for it. The tradition tag should be re-examined against a source.
-
 **Practitioner's note.** Coriander is a food that does an honest job. Seed infusion before or after a meal, at the quantity a cook would use, is a carminative with a real and reproducible effect, and the seed's blood-sugar research line is worth watching without being oversold. What a cultivator does with it is eat it — regularly, in ordinary amounts, as part of how meals are constructed. Six of the seven traditions here classify it therapeutically or dietetically and none assigns it a rejuvenative grade, which is the correct outcome for a kitchen spice and not a deficiency in the record.
 
 ---
 
+*[1 tradition paragraph(s) removed 2026-07-18 — tag withdrawn per approved attestation ruling; see spine notes.]*
 ### Contraindications
 
 - **Vitamin K content (fresh herb — anticoagulant interaction)** — cilantro contains extraordinarily high vitamin K (310μg/100g); large quantities of fresh cilantro significantly increase vitamin K intake and can counteract warfarin anticoagulation; patients on warfarin should maintain consistent cilantro intake (not wildly variable) and monitor INR; those on VKA therapy should not start/stop heavy cilantro consumption abruptly

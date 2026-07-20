@@ -1,6 +1,6 @@
 # Honey — Bjt (Ebers) / Mádhu (मधु) / ʿAsal (عسل) / Méli (μέλι) / Fēng Mì (蜂蜜)
 ## *Apis mellifera* L. (honeybee product) | Family: Apidae *(Volume II — Animal)*
-**Tradition Tags:** AT, CM, BM, DMM, EP, SBJ, SS, FMT  *(canonical index attests Ebers + Assyrian; honey's presence in Dioscorides, the Canon, Ayurveda, Chinese and Tibetan medicine is historically documented, not inferred — a near-universal materia medica)*
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS, FMT
 **Energetic Classification (TCM):** ◉ Qi/Yin — tonifying, moistening, harmonising, and detoxifying (Bǔ Zhōng / Rùn Zào / Jiě Dú); the great *yogavāhī* carrier
 **Training Phase:** `[BUILD]` `[RESET]` `[SLEEP]`
 
@@ -112,12 +112,11 @@ A Cochrane review of **6 RCTs (899 children)** (Oduwole et al., 2018) found **mo
 
 **Tibetan (FMT).** Honey is used in Tibetan practice among the sweet, moistening, carrying agents and as a vehicle in precious pills. **No *bcud len* (essence-extraction) status is attested for it in the sources retrieved**, and since no formal category of "substances for subtle-body practice" exists in this tradition, none can be constructed. Medicine here is in any case the third of four treatment branches: it supports practice and does not reach the root, which is the three poisons.
 
-**Nahua / Badianus (BM).** No cultivation framing is attested, and the tag itself is doubtful. *Apis mellifera* is an Old World bee; Mesoamerican honey traditions centre on the stingless *Melipona* bees, and the Badianus manuscript is a post-conquest (1552) document that is in any case naturalistic and does not contain the *tonalli* / *teyolia* / *ihiyotl* model — that model is reconstructed from later ethnohistory. **Flagged for the index as a probable species-level mis-tag** rather than treated as a claim. Cultivation status: **absent**.
-
 **Practitioner's note.** For the cultivator, honey has exactly one attested standing — the Chinese upper grade — and that standing prescribes the manner of use rather than a dose: small, sustained, unheated, over long time, as part of nourishing life and not as a treatment for anything. Everything else honey is famous for is either a real pharmacological property (the vehicle; the wound dressing; the antitussive) or a real ritual and symbolic use (offering, embalming, incorruptibility), and neither converts into a cultivation status by repetition. The practical disciplines are the ones that survive across every tradition here and require no doctrine at all: **never heat it, know its floral source, use medical-grade product on wounds, and never give it to an infant.**
 
 ---
 
+*[1 tradition paragraph(s) removed 2026-07-18 — tag withdrawn per approved attestation ruling; see spine notes.]*
 ### Contraindications
 
 - **Infants under 12 months — ABSOLUTE:** risk of infant botulism (*C. botulinum* spores); never give honey to babies.

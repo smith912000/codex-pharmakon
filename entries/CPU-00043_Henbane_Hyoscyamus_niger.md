@@ -1,6 +1,6 @@
 # Henbane — بنج (Banj) / Ὑοσκύαμος (Hyoscyamos) / धत्तूर सहोदर (Dhattura Sahodara)
 ## *Hyoscyamus niger L. — Black Henbane*
-**Tradition Tags:** AT, CM, DMM, EP, SA, SBJ, SS, FMT
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS, FMT
 **Energetic Classification (TCM):** ☿ Shen (extreme sedative tier)
 **Training Phase:** `[SPECIALIST ONLY]`
 
@@ -149,8 +149,6 @@ Traditional preparations included:
 
 **Egyptian (EP).** Absent. Henbane is often asserted to appear in the Ebers material, but the corpus is **indication-organised** — it records what was done for a complaint, not what a substance does to a person's *ka*, *ba*, *akh* or *ib* — and the identification of its plant names is a **modern hypothesis** that no source meeting this project's standard settles for henbane. *Heka* is real where attested; it is not attested for this plant, and no deity attribution is offered.
 
-**South American (SA).** Absent, and importantly so. *Hyoscyamus niger* is an Old World plant with **no South American attestation retrieved**. The *dieta*, the *plantas maestras* relation in which the plant is an agent rather than a tool, and the structural role of the *vegetalista* are genuine features of South American practice — **and none of them is extended to henbane here.** The temptation to transfer the framing attached to *Brugmansia*, *Datura* or ayahuasca onto a botanically or pharmacologically adjacent plant is precisely the error this register forbids. There is also **no pan-South-American subtle-anatomy model** to invoke, and none is invented.
-
 **Chinese / Shennong (TCM).** Henbane is attested in the Chinese materia medica as *langdang* 莨菪, its seeds as *langdangzi* 莨菪子, and it is also recorded under the name **天仙子, "heavenly transcendent seeds."** That name is a **lexical fact and nothing more** — a name is not a status assignment, and no *san pin* 三品 grade or cultivation status is built on it here. Secondary literature associates prolonged-use and spirit-communication language from the *Shennong bencao jing* with this plant, but **the primary wording could not be verified in scholarship read directly for this entry** (the trail runs through encyclopaedic summaries to Li Hui-Lin, *Botanical Museum Leaflets, Harvard University* 25(6):161–181, 1977, which was not accessible here). Under this project's sourcing rule that claim therefore **stays unmade**: henbane carries **no attested cultivation status in this register**, only the recognition that the tradition placed it among the potent and dangerous drugs. When the underlying scholarship is read, this paragraph can be revisited — upward only on evidence.
 
 **Ayurveda (SS).** Henbane is attested in the Ayurvedic and nighantu literature as ***Pārasīka yavānī***, and the recorded name is itself a foreign-origin designation. The classification given above — *Vishayukta*, *Tikshna*, and use only in *Shodhita* form if at all — places it firmly in the toxic class. **No *rasayana* or *vajikarana* membership is attested**, and no *ojas* claim is made; the tradition's own handling of this plant is one of restriction, not cultivation. Worth noting that *shodhana* here is not symbolic: purification procedures in this tradition are **measurably** effective on other toxic drugs, demonstrably reducing strychnine and brucine in *nux-vomica* and abrin in *Abrus*.
@@ -163,6 +161,7 @@ Traditional preparations included:
 
 ---
 
+*[1 tradition paragraph(s) removed 2026-07-18 — tag withdrawn per approved attestation ruling; see spine notes.]*
 ### Contraindications
 
 - **Glaucoma** — raises intraocular pressure by blocking ciliary muscle; acute angle-closure glaucoma emergency if administered
