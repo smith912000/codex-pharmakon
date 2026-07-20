@@ -2,7 +2,7 @@
 
 ## *Lycium barbarum L.* | Family: Solanaceae
 
-**Tradition Tags:** AT, CM, BM
+**Tradition Tags:** CM, SBJ, FMT
 **Energetic Classification:** Neutral–slightly warm, moistening — a sweet, nourishing yin/blood tonic in the humoral scheme.
 **Training Phase:** Building / Tonification (Phase III — deep restorative nourishment of blood, essence, and the eyes)
 

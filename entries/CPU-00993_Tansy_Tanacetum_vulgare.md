@@ -2,7 +2,7 @@
 
 ## *Tanacetum vulgare* L. | Family: Asteraceae (Compositae)
 
-**Tradition Tags:** SS, AT, DMM
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Hot & dry (third degree), intensely bitter and acrid — a powerful, *lethal-margin* Galenic-Unani drug
 **Training Phase:** Purge (the expulsion phase — worms, retained menses, corruption driven out — and therefore the phase where the Codex's hazard doctrine bites hardest)
 

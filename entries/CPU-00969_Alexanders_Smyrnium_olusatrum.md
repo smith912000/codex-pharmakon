@@ -2,7 +2,7 @@
 
 ## *Smyrnium olusatrum* L. | Family: Apiaceae
 
-**Tradition Tags:** EP, AT, DMM, BM
+**Tradition Tags:** AT, CM, DMM, EP
 **Energetic Classification:** Hot and dry in the second degree (Galenic) — attenuating, deobstruent, carminative; *mufattiḥ* and *muḥallil* in the Unani register
 **Training Phase:** Kindling / Digestive Ignition (Phase I) — the warming, obstruction-opening opening move
 

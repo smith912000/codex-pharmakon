@@ -2,7 +2,7 @@
 
 ## *Hyoscyamus albus* L. | Family: Solanaceae
 
-**Tradition Tags:** BM, SBJ, DMM, EP, SS
+**Tradition Tags:** AT, CM, DMM, EP, SS
 **Energetic Classification:** Cold and dry in the third degree (Galenic) — a narcotic-soporific of the deadly class
 **Training Phase:** Phase V — The Deadly Threshold (soporifics and anaesthetics; masters only)
 

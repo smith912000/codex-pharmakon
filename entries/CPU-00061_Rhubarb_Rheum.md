@@ -1,7 +1,7 @@
 # Rhubarb — 大黄 (Dà Huáng) / Medicinal Rhubarb
 ## *Rheum palmatum* L. / *Rheum officinale* Baill. | Family: Polygonaceae
 **NOTE on species:** *R. rhabarbarum* (culinary rhubarb, the garden vegetable familiar in Western kitchens) contains anthraquinone concentrations approximately 10–20× lower than *R. palmatum* and *R. officinale* and is NOT the subject of this entry. All clinical data, pharmacological profiles, dosing parameters, and traditional references in this entry refer exclusively to the medicinal species.
-**Tradition Tags:** SBJ, FMT, CM, DMM, EP
+**Tradition Tags:** CM, DMM, SBJ
 **Energetic Classification:** ◉ Qi Primary — Descending and Purging, Liver-Gallbladder Clearing, Damp-Heat Resolution
 **Training Phase:** `[CYCLE-OFF]` `[RESET]`
 

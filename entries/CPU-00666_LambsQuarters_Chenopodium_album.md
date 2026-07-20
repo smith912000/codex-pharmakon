@@ -2,7 +2,7 @@
 
 ## *Chenopodium album* L. | Family: Amaranthaceae (formerly Chenopodiaceae)
 
-**Tradition Tags:** EP · AT · DMM · CM · SBJ · SS · FMT
+**Tradition Tags:** AT, CM, DMM, EP, SBJ, SS
 **Energetic Classification:** Galenic — cool and moist in the first degree; Unani *sard-ratb*; TCM cool, sweet-slightly bitter, spleen/large-intestine channels
 **Training Phase:** Foundation · Purification
 

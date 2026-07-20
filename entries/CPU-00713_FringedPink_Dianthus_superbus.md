@@ -2,7 +2,7 @@
 
 ## *Dianthus superbus* L. | Family: Caryophyllaceae
 
-**Tradition Tags:** EP, DMM, CM
+**Tradition Tags:** CM, DMM, SBJ
 **Energetic Classification:** Cold and dry (Galenic 2nd degree); bitter-acrid, downward-draining
 **Training Phase:** Clearing / Drainage (the phase concerned with clearing damp-heat and restoring free flow through the water passages)
 

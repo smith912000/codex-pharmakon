@@ -2,7 +2,7 @@
 
 ## *Citrus medica* L. | Family: Rutaceae
 
-**Tradition Tags:** BM, SBJ, DMM, EP, CM, SS
+**Tradition Tags:** AT, CM, DMM, EP, SBJ, SS
 **Energetic Classification:** Warm and dry in the first degree (peel); the pulp cool and moist — a Galenic "temperate" fruit whose fragrance "gladdens the heart"
 **Training Phase:** Phase II — Clarification & Digestive Kindling (the aromatic carminatives)
 

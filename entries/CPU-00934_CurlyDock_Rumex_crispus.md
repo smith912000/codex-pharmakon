@@ -2,7 +2,7 @@
 
 ## *Rumex crispus* L. | Family: Polygonaceae
 
-**Tradition Tags:** BM, DMM, CM
+**Tradition Tags:** AT, CM, DMM, SBJ
 **Energetic Classification:** Cool and dry; bitter, mildly astringent; the root gently "descending" (purgative) and "blood-moving" (Galenic/humoral reading)
 **Training Phase:** Elimination / Depurative
 

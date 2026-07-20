@@ -2,7 +2,7 @@
 
 ## *Thlaspi arvense* L. | Family: Brassicaceae
 
-**Tradition Tags:** BM, CM, DMM, SBJ
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Hot & Dry (2nd degree) — pungent-bitter depurative (Galenic/Unani)
 **Training Phase:** Purification & Clearing
 

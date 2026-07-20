@@ -1,6 +1,6 @@
 # Guggulu — गुग्गुलु / Indian Bdellium / Gur gum / Mukul Myrrh
 ## *Commiphora wightii* (Arnott) Bhandari | Family: Burseraceae
-**Tradition Tags:** SS, FMT, DMM, CM
+**Tradition Tags:** AT, CM, DMM, SS, FMT
 **Energetic Classification (TCM):** ◉ Qi primary — Lekhaniya / scraping-clearing / lipid-dissolving / anti-inflammatory / ◈ Jing secondary — structural restoration, joint preservation
 **Training Phase:** `[RESET]` `[CYCLE-OFF]` `[BUILD]`
 

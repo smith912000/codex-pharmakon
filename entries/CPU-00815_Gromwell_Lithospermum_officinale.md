@@ -2,7 +2,7 @@
 
 ## *Lithospermum officinale* L. | Family: Boraginaceae
 
-**Tradition Tags:** AT, DMM, EP
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Cold and dry — a stony, drying, "descending" herb in the Galenic-Unani frame, classed among the lithontriptics (stone-breakers).
 **Training Phase:** Descending / Clearing Phase — traditionally aimed at "stones" and urinary gravel; in Kenetica, a cautionary study-entry rather than a working remedy.
 

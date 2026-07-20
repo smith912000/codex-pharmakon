@@ -2,7 +2,7 @@
 
 ## *Ferula assa-foetida* L. | Family: Apiaceae (Umbelliferae)
 
-**Tradition Tags:** BM, AT, DMM, CM, SS, FMT
+**Tradition Tags:** AT, CM, DMM, SBJ, SS, FMT
 **Energetic Classification:** Hot and dry in the third degree (Galenic–Unani) — a pungent, incisive, wind-dispelling *deobstruent* and carminative
 **Training Phase:** Phase II — Kindling the Digestive Fire (carminatives, antispasmodics, and wind-expellers)
 

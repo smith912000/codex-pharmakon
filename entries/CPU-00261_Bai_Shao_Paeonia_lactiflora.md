@@ -1,7 +1,7 @@
 # Bái Sháo — 白芍 / Peony Root / Paeonía Blanca
 ## *Paeonia lactiflora* Pallas — White Peony Root, Chinese Peony, Common Garden Peony; synonyms: Bai Shao Yao (full classical name), Hang Shao (Hangzhou variant), Chuan Bai Shao (Sichuan variant)
 
-**Tradition Tags:** CM · SBJ · DMM · SS
+**Tradition Tags:** SBJ
 
 **Energetic Classification (TCM):** ◈ Jing primary / ◉ Qi secondary
 

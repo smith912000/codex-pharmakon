@@ -1,6 +1,6 @@
 # Olive — زيتون (Zaytūn) / Ἐλαία (Elaia) / जैतून (Jaitūn) / 油橄榄 (Yóu Gǎnlǎn)
 ## *Olea europaea L. — Olive; European Olive*
-**Tradition Tags:** EP · AT · DMM · CM
+**Tradition Tags:** AT, CM, DMM, EP, SBJ
 **Energetic Classification (TCM):** ◉ Qi
 **Training Phase:** `[RESET]` `[CYCLE-OFF]`
 

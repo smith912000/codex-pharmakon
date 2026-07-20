@@ -2,7 +2,7 @@
 
 ## *Medicago sativa* L. | Family: Fabaceae (Leguminosae)
 
-**Tradition Tags:** AT, DMM, CM, SS, BM
+**Tradition Tags:** AT, CM, DMM, SBJ, SS
 **Energetic Classification:** Cool & Moist — a cooling, nourishing tonic (Galenic/Unani); sweet and neutral-to-cool in Eastern schemes
 **Training Phase:** Nourishing Phase — a restorative, mineral- and vitamin-dense tonic for depletion and convalescence. Bounded by a hard safety flag (see Contraindications).
 

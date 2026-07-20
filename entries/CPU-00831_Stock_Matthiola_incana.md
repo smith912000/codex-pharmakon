@@ -2,7 +2,7 @@
 
 ## *Matthiola incana* (L.) R.Br. | Family: Brassicaceae
 
-**Tradition Tags:** AT, DMM, BM
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Warm & Dry — a fragrant, gently warming aromatic (Galenic/Unani, by analogy to the *leucoion* group)
 **Training Phase:** Settling Phase — a minor aromatic cordial used to lift and steady mood rather than to treat disease.
 

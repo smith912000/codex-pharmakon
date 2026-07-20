@@ -2,7 +2,7 @@
 
 ## *Platanus orientalis* L. | Family: Platanaceae
 
-**Tradition Tags:** BM, AT, DMM
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Cold and dry (Galenic); astringent, drying, wound-binding
 **Training Phase:** Restoration & Surface-Repair (topical/adjunct)
 

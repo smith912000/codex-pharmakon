@@ -2,7 +2,7 @@
 
 ## *Tribulus alatus* Delile | Family: Zygophyllaceae
 
-**Tradition Tags:** BM, AT, DMM, FMT, SS
+**Tradition Tags:** AT, CM, DMM, EP, SS
 **Energetic Classification:** Warm, drying, dispersing (Galenic/Unani); moving, diuretic
 **Training Phase:** Circulation / Waterworks (urinary flushing; disputed vitality claim)
 

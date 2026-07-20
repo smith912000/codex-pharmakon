@@ -2,7 +2,7 @@
 
 ## *Nasturtium officinale* R.Br. | Family: Brassicaceae
 
-**Tradition Tags:** AT, DMM, SS, BM
+**Tradition Tags:** AT, CM, DMM, SS
 **Energetic Classification:** Hot and dry in the second degree (Galenic); pungent, penetrating, opening and depurative
 **Training Phase:** Clearing / Depuration — the phase concerned with mobilising the blood, opening obstruction, and driving out stagnant heat
 

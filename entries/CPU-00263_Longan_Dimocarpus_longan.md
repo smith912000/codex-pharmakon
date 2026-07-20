@@ -2,7 +2,7 @@
 
 ## *Dimocarpus longan* Lour. — the sweet flesh that nourishes Blood and houses the wandering Shen
 
-**Tradition Tags:** CM · SBJ · SS · FMT
+**Tradition Tags:** SBJ
 
 **Energetic Classification (TCM):** ◈ Jing primary / ☿ Shen secondary
 

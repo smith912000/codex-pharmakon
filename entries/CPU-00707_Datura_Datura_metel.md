@@ -4,7 +4,7 @@
 
 > ⚠️ **CLASS: DELIRIANT POISON — NOT FOR SELF-ADMINISTRATION.** *Datura metel* contains potent tropane alkaloids (scopolamine, atropine, hyoscyamine). All parts are toxic. Ingestion causes anticholinergic delirium, hyperthermia, seizures, and death. **This entry is documentary and doctrinal only. The Codex prescribes NO internal-use protocol. Do not prepare, dose, or ingest.**
 
-**Tradition Tags:** AT · DMM · CM · SBJ · SS · FMT
+**Tradition Tags:** AT, CM, DMM, SA, SBJ, SS
 **Energetic Classification:** Galenic — hot and dry in the third-to-fourth degree (a poison-grade drug); Unani *har-yabis* (extreme); TCM warm, acrid, **toxic** (*du*), lung/liver channels
 **Training Phase:** Restricted / Doctrinal — no practitioner-use phase assigned
 

@@ -2,7 +2,7 @@
 
 ## *Hedychium spicatum* Sm. | Family: Zingiberaceae
 
-**Tradition Tags:** AT, SS, BM
+**Tradition Tags:** CM, SS, FMT
 **Energetic Classification:** Warm & Dry (2nd degree) — aromatic, resolvent, attenuating
 **Training Phase:** Clearing Breath (respiratory opening & aromatic circulation)
 

@@ -1,7 +1,7 @@
 # Cumin — كمون (Kammūn) / Κύμινον (Kyminon) / जीरक (Jīraka) / 孜然 (Zīrán)
 ## *Cuminum cyminum* — Common Cumin, White Cumin, Roman Cumin
 
-**Tradition Tags:** EP · AT · DMM · CM · SS · SBJ
+**Tradition Tags:** DMM, CM, SS, EP, AT
 
 **Energetic Classification (TCM):** ◉ Qi / ◈ Jing
 

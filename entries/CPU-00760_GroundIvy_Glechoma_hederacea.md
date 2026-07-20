@@ -2,7 +2,7 @@
 
 ## *Glechoma hederacea* L. (syn. *Nepeta glechoma*) | Family: Lamiaceae (Labiatae)
 
-**Tradition Tags:** AT, DMM
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Warm and dry (first–second degree) — a bitter-aromatic that opens, dries catarrh, and moves stagnant fluids
 **Training Phase:** Clearing / Opening — a decongestant of the head and chest, used at the threshold of a working
 

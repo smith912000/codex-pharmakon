@@ -1,6 +1,6 @@
 # Thyme — زعتر (Za'tar) / Θύμος (Thymos) / हषु (Hašū) / 百里香 (Bǎilǐxiāng)
 ## *Thymus vulgaris L. — Common Thyme; T. serpyllum L. — Wild Thyme*
-**Tradition Tags:** AT · EP · DMM · CM · SS
+**Tradition Tags:** AT, CM, BM, DMM, EP, SS
 **Energetic Classification (TCM):** ◉ Qi · ☿ Shen (mild)
 **Training Phase:** `[PRIME]` `[REFINE]` `[RESET]`
 

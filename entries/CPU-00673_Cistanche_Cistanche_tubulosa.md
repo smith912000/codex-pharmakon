@@ -2,7 +2,7 @@
 
 ## *Cistanche tubulosa / Cistanche deserticola — "Soft and Succulent," Broomrape Root, Desert Ginseng, Cistanche*
 
-**Tradition Tags:** CM · SBJ · FMT
+**Tradition Tags:** SBJ, FMT
 
 **Energetic Classification (TCM):** ◈ Jing / ⊕ Yuan
 

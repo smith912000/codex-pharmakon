@@ -1,6 +1,6 @@
 # Tamarisk / Manna Plant — أثل (Athal) / Μυρίκη (Myrikē) / शमी (Śamī) / 柽柳 (Chēngliǔ)
 ## *Tamarix gallica L. — French Tamarisk; T. aphylla (L.) H.Karst. — Athel Tamarisk; T. articulata Vahl — Articulated Tamarisk*
-**Tradition Tags:** EP · AT · DMM · CM · SS · SBJ
+**Tradition Tags:** AT
 **Energetic Classification (TCM):** ◉ Qi
 **Training Phase:** `[RESET]` `[REFINE]`
 

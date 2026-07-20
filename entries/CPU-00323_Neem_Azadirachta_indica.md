@@ -1,6 +1,6 @@
 # Neem — نيم (Nīm) / نيمب (Nīmb) / निम्ब (Nimba) / 印楝 (Yìnliàn)
 ## *Azadirachta indica A.Juss. — Neem Tree / Indian Lilac*
-**Tradition Tags:** AT · CM · SS · SBJ · FMT
+**Tradition Tags:** AT, CM, DMM, SBJ, SS, FMT
 **Energetic Classification (TCM):** ◉ Qi · ◈ Jing
 **Training Phase:** `[RESET]` `[REFINE]`
 

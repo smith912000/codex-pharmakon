@@ -2,7 +2,7 @@
 
 ## *Onosma alboroseum* Fisch. & C.A.Mey. | Family: Boraginaceae
 
-**Tradition Tags:** EP, AT, DMM, SS
+**Tradition Tags:** AT, CM, DMM, EP
 **Energetic Classification:** Cool and dry, drawing and drying to open sores; a "sealing" astringent-vulnerary of the reddening class
 **Training Phase:** Sealing Phase — the outer, wound-closing and skin-restoring work applied topically at the surface
 

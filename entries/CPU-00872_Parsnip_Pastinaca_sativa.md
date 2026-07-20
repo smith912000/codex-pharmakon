@@ -2,7 +2,7 @@
 
 ## *Pastinaca sativa* L. | Family: Apiaceae (Umbelliferae)
 
-**Tradition Tags:** SBJ, AT, DMM
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Warm and dry (moderate) — a heating, opening, wind-dispersing root in the Galenic-Unani scheme
 **Training Phase:** Warming / Nourishment — the grounding, kindling phase, where a starchy warming root feeds and gently opens the passages
 

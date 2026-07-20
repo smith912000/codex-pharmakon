@@ -1,6 +1,6 @@
 # Mandrake — يبروج (Yabrūj) / Μανδραγόρας (Mandragoras) / Luffah al-Barriyya
 ## *Mandragora officinarum L. — European Mandrake; M. autumnalis Bertol. — Autumn Mandrake*
-**Tradition Tags:** AT · EP · DMM · CM · SS · BM
+**Tradition Tags:** AT, CM, BM, DMM, EP, SA, SS
 **Energetic Classification (TCM):** ☿ Shen (extreme narcotic tier) · ◈ Jing (aphrodisiac/fertility traditional classification)
 **Training Phase:** `[SPECIALIST ONLY]`
 

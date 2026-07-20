@@ -2,7 +2,7 @@
 
 ## *Pedicularis foliosa* L. | Family: Orobanchaceae
 
-**Tradition Tags:** BM, AT, DMM
+**Tradition Tags:** CM, DMM, FMT
 **Energetic Classification:** Cool and dry (traditional attribution) — an astringent, heat-settling alpine herb; classification tentative given sparse data
 **Training Phase:** Cooling / Restoration — the high-altitude recovery phase, an anti-fatigue and steadying herb of thin air
 

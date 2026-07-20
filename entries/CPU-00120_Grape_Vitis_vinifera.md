@@ -1,6 +1,6 @@
 # Grape / Vine — عنب (ʿInab) / Ἄμπελος (Ampelos) / द्राक्षा (Drākṣā) / 葡萄 (Pútao)
 ## *Vitis vinifera L. — Common Grape Vine; Cultivated Grape*
-**Tradition Tags:** EP · AT · DMM · CM · SS · SBJ
+**Tradition Tags:** AT, CM, DMM, EP, SBJ, SS, FMT
 **Energetic Classification (TCM):** ◉ Qi · ◈ Jing
 **Training Phase:** `[BUILD]` `[RESET]` `[CYCLE-OFF]`
 

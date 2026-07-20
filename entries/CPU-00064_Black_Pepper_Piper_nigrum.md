@@ -1,6 +1,6 @@
 # Black Pepper — فلفل (Filfil) / Πέπερι (Peperi) / मरिच (Marica) / 胡椒 (Hújiāo)
 ## *Piper nigrum L. — Black Pepper (also White, Green, Red pepper — same species, different processing)*
-**Tradition Tags:** EP · AT · DMM · CM · SS · SBJ
+**Tradition Tags:** AT, CM, DMM, EP, SBJ, SS, FMT
 **Energetic Classification (TCM):** ◉ Qi · ◈ Jing
 **Training Phase:** `[PRIME]` `[BUILD]` `[REFINE]`
 

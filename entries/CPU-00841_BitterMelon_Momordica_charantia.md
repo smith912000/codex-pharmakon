@@ -2,7 +2,7 @@
 
 ## *Momordica charantia* L. | Family: Cucurbitaceae
 
-**Tradition Tags:** AT, BM, SBJ, SS, FMT
+**Tradition Tags:** CM, BM, SBJ, SS, FMT
 **Energetic Classification:** Cold and Dry (2nd–3rd degree) — Galenic/Unani
 **Training Phase:** Purgation & Clarification (bitter-cooling, blood-cleansing tier)
 

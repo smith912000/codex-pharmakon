@@ -2,7 +2,7 @@
 
 ## *Leonurus cardiaca* L. | Family: Lamiaceae (Labiatae)
 
-**Tradition Tags:** DMM, CM, SS, BM
+**Tradition Tags:** CM, DMM, SBJ, SS, FMT
 **Energetic Classification:** Cold and dry (Galenic); bitter, moving-and-settling to the heart
 **Training Phase:** Settling / Heart-Steadying (Kenetica) — calms an over-driven system
 

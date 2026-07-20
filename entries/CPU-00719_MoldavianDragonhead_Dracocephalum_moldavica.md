@@ -2,7 +2,7 @@
 
 ## *Dracocephalum moldavica* L. | Family: Lamiaceae
 
-**Tradition Tags:** EP, DMM, CM
+**Tradition Tags:** CM, DMM, SBJ
 **Energetic Classification:** Cool and dry, aromatic (Galenic); pungent-sweet, dispersing and calming
 **Training Phase:** Settling / Calm (the phase that quiets an agitated heart-mind and disperses stagnant heat upward and out)
 

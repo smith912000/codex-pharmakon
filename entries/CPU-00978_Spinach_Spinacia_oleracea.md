@@ -1,6 +1,6 @@
 # Spinach — 菠菜 (Bōcài) / पालक (Palak) / اسفناج (Isfanākh) / Σπανάκι (Spanáki)
 ## *Spinacia oleracea L.* | Family: Amaranthaceae
-**Tradition Tags:** AT · DMM · CM · SS · SBJ · FMT
+**Tradition Tags:** AT, CM, DMM, EP, SBJ, SS
 **Energetic Classification:** Cool, sweet, moistening (TCM ◉ Qi / ◈ Xue blood-nourishing pot-herb); Galenic cold and moist
 **Training Phase:** `[BUILD]` `[RESET]`
 

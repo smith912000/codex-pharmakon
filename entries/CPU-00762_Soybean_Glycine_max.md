@@ -2,7 +2,7 @@
 
 ## *Glycine max* (L.) Merr. | Family: Fabaceae
 
-**Tradition Tags:** AT, CM, SS
+**Tradition Tags:** CM, SBJ, SS
 **Energetic Classification:** Cool and moist (Galenic: cold in the first degree, moist in the first) — a nourishing, temperate legume that the humoral tradition read as thickening and cooling to an over-heated constitution.
 **Training Phase:** Foundation / Nourishment — a base-tier substance used to build reserve and steady the endocrine terrain rather than to provoke acute change.
 

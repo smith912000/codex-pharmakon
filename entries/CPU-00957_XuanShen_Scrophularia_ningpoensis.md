@@ -1,6 +1,6 @@
 # Ningpo Figwort — Xuan Shen (玄参, "dark/mysterious root"), Scrophulariae Radix, Yuan Shen (元参); Western congeners: Common Figwort / Throatwort / *herba scrophulariae* / *galeopsis* of the Greeks
 ## *Scrophularia ningpoensis* Hemsl. | Family: Scrophulariaceae
-**Tradition Tags:** SS, DMM, AT
+**Tradition Tags:** CM, DMM, SBJ
 **Energetic Classification:** TCM — Cold, sweet-bitter-salty; Kidney, Stomach, Lung channels. Galenic/Unani (of the European figworts) — cool and drying; a *muḥallil* (resolvent) of hard cold swellings.
 **Training Phase:** Cooling / Resolving — a yin-nourishing, nodule-dispersing agent used where heat has dried the fluids and matter has hardened.
 

@@ -2,7 +2,7 @@
 
 ## *Populus nigra* L. | Family: Salicaceae
 
-**Tradition Tags:** SBJ, AT, EP, CM
+**Tradition Tags:** AT, CM, DMM, SBJ
 **Energetic Classification:** Warm and drying, resolvent and resinous; Galenic "hot in the first, dry in the second"
 **Training Phase:** Foundational — Soothe & Resolve (topical anti-inflammatory)
 

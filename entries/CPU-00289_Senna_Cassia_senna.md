@@ -1,6 +1,6 @@
 # Senna — سنا (Sanā) / Σεννά (Senna) / स्वर्णपत्री (Svarṇapatrī) / 番泻叶 (Fānxièyè)
 ## *Cassia senna L. (syn. Senna alexandrina Mill.) — Alexandrian Senna; Cassia angustifolia Vahl — Indian Senna*
-**Tradition Tags:** EP · AT · CM · SS · SBJ
+**Tradition Tags:** CM, AT
 **Energetic Classification (TCM):** ◉ Qi
 **Training Phase:** `[RESET]` `[CYCLE-OFF]`
 

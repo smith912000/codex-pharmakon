@@ -1,6 +1,6 @@
 # Tangut Rhubarb — Táng Gǔ Tè Dà Huáng / Jí-Zhǎo Dà Huáng (鸡爪大黄)
 ## *Rheum tanguticum* Maxim. ex Regel | Family: Polygonaceae
-**Tradition Tags:** SBJ, FMT *(a co-official Dà Huáng source species; canonical index attests rGyud-bzhi)*
+**Tradition Tags:** FMT  *(a co-official Dà Huáng source species; canonical index attests rGyud-bzhi)*
 **Energetic Classification (TCM):** ◉ Heat / Blood — bitter-cold downward-draining purgative (identical Dà Huáng action to *R. officinale*)
 **Training Phase:** `[RESET]`
 

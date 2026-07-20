@@ -2,7 +2,7 @@
 
 ## *Ecballium elaterium* (L.) A.Rich. — The Cathartic That Fires Its Own Seed; Elaterium of the Ancients; The Drastic of Drastics
 
-**Tradition Tags:** DMM · BM
+**Tradition Tags:** DMM
 **Energetic Classification (TCM):** ◉ Qi primary / ☿ Shen secondary
 **Training Phase:** [SPECIALIST ONLY] — violent drastic purgative; toxic
 

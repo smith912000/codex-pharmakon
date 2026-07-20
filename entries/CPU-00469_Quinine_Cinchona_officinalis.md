@@ -1,7 +1,7 @@
 # Cinchona — 奎寧 (Kuí Níng) / Quina-quina / Cascarilla / Peruvian Bark / Fever Bark / Jesuits' Bark
 ## *Cinchona officinalis* L. — The Medicine That Changed the World; Bark of Barks; Founding Molecule of Anti-Parasitology
 
-**Tradition Tags:** BM · DMM
+**Tradition Tags:** SA
 **Energetic Classification (TCM):** ◉ Qi primary / ☿ Shen secondary
 **Training Phase:** [SPECIALIST ONLY]
 

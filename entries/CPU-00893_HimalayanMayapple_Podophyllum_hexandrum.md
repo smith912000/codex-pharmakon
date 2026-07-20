@@ -2,7 +2,7 @@
 
 ## *Podophyllum hexandrum* Royle (syn. *Sinopodophyllum hexandrum* (Royle) T.S. Ying) | Family: Berberidaceae
 
-**Tradition Tags:** AT, SS, CM
+**Tradition Tags:** CM, SBJ, SS
 **Energetic Classification:** Hot and Dry in the third degree (Unani); intensely purgative, downward-draining
 **Training Phase:** Advanced — Purgation & Excision (restricted; supervised use only)
 

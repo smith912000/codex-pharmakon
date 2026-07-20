@@ -1,6 +1,6 @@
 # Licorice Root — Gān Cǎo (甘草) / Yashtimadhu / Irq al-Sus / Glykyrrhiza
 ## *Glycyrrhiza glabra* L. / *G. uralensis* Fisch. / *G. inflata* Bat. | Family: Fabaceae
-**Tradition Tags:** SBJ, SS, DMM, CM, EP, AT, FMT, BM
+**Tradition Tags:** CM, SBJ, SS, FMT
 **Energetic Classification (TCM):** ◉ Qi — Harmonizer / Universal Tonifier — moderates, coordinates, and amplifies all other herbs; adrenal cortex preservation / ◈ Jing — secondary (cortisol-axis support; adrenal-constitutional substrate)
 **Training Phase:** `[BUILD]` `[RESET]` `[PRIME]`
 

@@ -2,7 +2,7 @@
 
 ## *Kaempferia galanga* L. — the fragrant rhizome of the warm south
 
-**Tradition Tags:** CM, FMT, AT
+**Tradition Tags:** SA, FMT
 
 **Energetic Classification (TCM):** ◉ Qi Primary — Middle Burner Warming / Aromatic Carminative
 

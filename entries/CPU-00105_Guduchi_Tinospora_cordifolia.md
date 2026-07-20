@@ -1,7 +1,7 @@
 # Guduchi — गुडूची / Giloy / 心葉青牛膽 (Xīn Yè Qīng Niú Dǎn) / Amrita
 ## *Tinospora cordifolia* (Willd.) Miers — The Immortality Vine; Divine Nectar Plant; Heart-Leaf Moonseed
 
-**Tradition Tags:** SS · SBJ
+**Tradition Tags:** CM, SBJ, SS, FMT
 **Energetic Classification (TCM):** ⊕ Yuan (constitutional/adaptogenic) primary · ◉ Qi (circulatory/anti-inflammatory) secondary
 **Training Phase:** [BUILD] [RESET] [CYCLE-OFF]
 

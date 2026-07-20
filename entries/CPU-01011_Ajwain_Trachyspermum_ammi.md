@@ -2,7 +2,7 @@
 
 ## *Trachyspermum ammi* (L.) Sprague | Family: Apiaceae (Umbelliferae)
 
-**Tradition Tags:** BM, CM, DMM, SBJ, SS
+**Tradition Tags:** AT, CM, DMM, SBJ, SS
 **Energetic Classification:** Hot & Dry (3rd degree) — pungent carminative & antiseptic (Galenic/Unani; Ayurvedic *ushna virya*)
 **Training Phase:** Digestive Fire & Antisepsis
 

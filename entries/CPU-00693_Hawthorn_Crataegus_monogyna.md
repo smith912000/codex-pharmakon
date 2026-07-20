@@ -2,7 +2,7 @@
 
 ## *Crataegus monogyna* Jacq. | Family: Rosaceae
 
-**Tradition Tags:** EP · CM · DMM · SS · FMT
+**Tradition Tags:** CM, DMM, SBJ, SS, FMT
 **Energetic Classification:** TCM — cool-neutral, sour-sweet (Shan Zha lineage); Galenic — cold and dry in the first degree, astringent-tonic
 **Training Phase:** Consolidation · Circulatory Grounding · Elder-Tonic (long-arc)
 

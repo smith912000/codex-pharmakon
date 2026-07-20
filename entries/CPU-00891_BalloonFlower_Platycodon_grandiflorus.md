@@ -2,7 +2,7 @@
 
 ## *Platycodon grandiflorus* (Jacq.) A.DC. | Family: Campanulaceae
 
-**Tradition Tags:** CM, SBJ, AT
+**Tradition Tags:** CM, SBJ, FMT
 **Energetic Classification:** Neutral-to-slightly-warm, drying (Galenic-analogue); ascending, throat-opening, phlegm-resolving
 **Training Phase:** Clearing & Airway-Opening (upper-respiratory support)
 

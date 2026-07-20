@@ -2,7 +2,7 @@
 
 ## *Perilla frutescens (L.) Britton* | Family: Lamiaceae
 
-**Tradition Tags:** CM, SS, BM
+**Tradition Tags:** SBJ, SS, FMT
 **Energetic Classification:** Warm and dry (2nd degree) — pungent, aromatic, dispersing
 **Training Phase:** Phase II — Dispersal & Surface-Release (opening the exterior, settling the descending current)
 

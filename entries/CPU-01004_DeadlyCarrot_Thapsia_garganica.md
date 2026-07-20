@@ -2,7 +2,7 @@
 
 ## *Thapsia garganica* L. | Family: Apiaceae
 
-**Tradition Tags:** SS, AT, DMM, BM
+**Tradition Tags:** AT, CM, DMM, EP
 **Energetic Classification:** Hot and Dry in the fourth (extreme) degree — caustic, vesicant, purgative (Galenic/Unani)
 **Training Phase:** Inferno — the caustic extreme; the burning stone handled only with tongs
 

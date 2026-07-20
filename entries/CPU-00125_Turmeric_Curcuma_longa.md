@@ -2,7 +2,7 @@
 
 ## *Curcuma longa* L. — Curcumin, Common Turmeric, Indian Saffron; synonyms: Haridra (Sanskrit), Haldi (Hindi), Ukon (Japanese), Jiang Huang (Chinese)
 
-**Tradition Tags:** EP · AT · DMM · CM · SS · SBJ · FMT
+**Tradition Tags:** AT, CM, EP, SS, FMT
 
 **Energetic Classification (TCM):** ◉ Qi primary / ◈ Jing secondary
 

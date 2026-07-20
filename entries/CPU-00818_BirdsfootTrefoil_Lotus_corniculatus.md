@@ -2,7 +2,7 @@
 
 ## *Lotus corniculatus* L. | Family: Fabaceae
 
-**Tradition Tags:** AT, DMM, EP
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Cool and moist, gently drying at the surface — a mild, "settling" herb in the Galenic-Unani frame; sedative and vulnerary in the folk reckoning.
 **Training Phase:** Settling / Calming Phase — a gentle nervine-and-wound herb for the surface and the nerves, handled with respect for its cyanogenic foliage.
 

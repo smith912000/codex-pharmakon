@@ -6,7 +6,7 @@
 
 ## | Family: Fucaceae
 
-**Tradition Tags:** DMM, AT, SS
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Cool, moist, salty and dispersing in the Galenic-Unani frame; softening and resolving to hard swellings (the classical rationale for goitre/scrofula use).
 **Training Phase:** Metabolic / Resolving (thyroid-metabolic and swelling-resolving phase — a caution-gated entry)
 

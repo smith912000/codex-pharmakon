@@ -2,7 +2,7 @@
 
 ## *Melilotus officinalis* (L.) Lam. | Family: Fabaceae
 
-**Tradition Tags:** SBJ, AT, DMM
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Warm and dry, mollient and discutient (Galenic/Unani) — a softening, resolving drug for congested swellings
 **Training Phase:** Intermediate — a venous/lymphatic conditioning herb carrying a real anticoagulant hazard
 

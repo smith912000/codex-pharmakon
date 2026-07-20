@@ -2,7 +2,7 @@
 
 ## *Luffa acutangula (L.) Roxb.* | Family: Cucurbitaceae
 
-**Tradition Tags:** AT, CM, SS
+**Tradition Tags:** CM, SBJ, SS
 **Energetic Classification:** Cold and moist (2nd degree) — a cooling, moistening, mildly detergent vegetable in the Galenic-Unani scheme.
 **Training Phase:** Cooling / Clearing (Phase II — depurative preparation, used to lower internal heat before deeper tonification)
 

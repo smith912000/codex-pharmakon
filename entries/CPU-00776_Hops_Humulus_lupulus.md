@@ -2,7 +2,7 @@
 
 ## *Humulus lupulus* L. | Family: Cannabaceae
 
-**Tradition Tags:** SBJ, AT, EP, DMM
+**Tradition Tags:** AT, CM, DMM, SBJ
 **Energetic Classification:** Cool & Dry — bitter, sedative, relaxant
 **Training Phase:** Settling Night (nervous quieting & sleep onset)
 

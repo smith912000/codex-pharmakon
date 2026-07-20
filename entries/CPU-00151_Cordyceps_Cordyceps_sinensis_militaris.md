@@ -1,7 +1,7 @@
 # Cordyceps — الكورديسيبس / Κορδύσεπς / Yarsagumba / 冬蟲夏草
 ## *Cordyceps sinensis (Berk.) Sacc. / Cordyceps militaris (L.) Link* — Caterpillar Fungus, Winter Worm Summer Grass, Dōng Chóng Xià Cǎo
 
-**Tradition Tags:** CM · SBJ · FMT
+**Tradition Tags:** SBJ, FMT
 
 **Energetic Classification (TCM):** ◈ Jing / ⊕ Yuan / ◉ Qi
 

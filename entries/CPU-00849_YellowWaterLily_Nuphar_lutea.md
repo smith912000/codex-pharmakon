@@ -2,7 +2,7 @@
 
 ## *Nuphar lutea* (L.) Sm. | Family: Nymphaeaceae
 
-**Tradition Tags:** AT, DMM, SBJ
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Cold and dry (Galenic/Unani); astringent and refrigerant
 **Training Phase:** Damping — cooling and binding an over-heated, over-excited system
 

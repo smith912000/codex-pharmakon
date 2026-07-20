@@ -2,7 +2,7 @@
 
 ## *Phyllanthus emblica* L. (syn. *Emblica officinalis* Gaertn.) | Family: Phyllanthaceae
 
-**Tradition Tags:** SS, AT, DMM, CM
+**Tradition Tags:** CM, DMM, SBJ, SS
 **Energetic Classification:** Cooling yet balancing — sour-astringent, drying; a rare tridoshic "cooling tonic" in the Galenic-Unani frame.
 **Training Phase:** Rejuvenation / Rasayana (deep tonification and antioxidant consolidation)
 

@@ -2,7 +2,7 @@
 
 ## *Thalictrum flavum* L. | Family: Ranunculaceae
 
-**Tradition Tags:** SS, AT, DMM
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Cold and Dry in the second degree (Galenic/Unani — bitter, drying, purgative)
 **Training Phase:** Purgatorio — bitter clearing, the yellow-root signature
 

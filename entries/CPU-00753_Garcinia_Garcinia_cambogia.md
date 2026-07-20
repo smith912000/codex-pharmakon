@@ -2,7 +2,7 @@
 
 ## *Garcinia gummi-gutta* (syn. *Garcinia cambogia*) | Family: Clusiaceae (Guttiferae)
 
-**Tradition Tags:** DMM, CM, SS
+**Tradition Tags:** CM, SBJ, SS
 **Energetic Classification:** Cool and dry (third degree drying) — a sharp astringent-sour that binds and scrapes
 **Training Phase:** Refinement / Descent — a corrective agent for surplus, never a foundational tonic
 

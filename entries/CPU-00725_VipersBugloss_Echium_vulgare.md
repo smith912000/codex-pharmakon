@@ -2,7 +2,7 @@
 
 ## *Echium vulgare* L. | Family: Boraginaceae
 
-**Tradition Tags:** DMM, AT, SBJ
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Warm-to-temperate, moist — a demulcent, "cheering" cordial herb in the Galenic reading.
 **Training Phase:** ⚠️ Deprecated — historical/topical reference only; NOT recommended for internal training use (see Contraindications).
 

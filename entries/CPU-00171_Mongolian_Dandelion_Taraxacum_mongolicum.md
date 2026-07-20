@@ -2,7 +2,7 @@
 
 ## *Taraxacum mongolicum* Hand.-Mazz. — the bitter rosette that clears the fire of swelling and toxin
 
-**Tradition Tags:** CM · SBJ · BM
+**Tradition Tags:** SBJ, FMT
 
 **Energetic Classification (TCM):** ◉ Qi
 

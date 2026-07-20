@@ -1,6 +1,6 @@
 # Boswellia serrata — Frankincense / Shallaki (शल्लकी)
 ## *Burseraceae — Indian Frankincense*
-**Tradition Tags:** SS · CM · EP · AT · DMM
+**Tradition Tags:** AT, CM, DMM, EP, FMT
 **Energetic Classification (TCM):** ◉ Qi — Circulatory/Anti-inflammatory
 **Training Phase:** `[PRIME]` `[BUILD]` `[REFINE]` `[RESET]`
 

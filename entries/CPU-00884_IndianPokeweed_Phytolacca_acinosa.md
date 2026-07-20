@@ -2,7 +2,7 @@
 
 ## *Phytolacca acinosa* Roxb. | Family: Phytolaccaceae
 
-**Tradition Tags:** DMM, CM, SS, AT
+**Tradition Tags:** CM, DMM, SBJ, SS
 **Energetic Classification:** Cold and dry in the third degree (Galenic); strongly downward-draining, purgative
 **Training Phase:** Purgation & Clearing (advanced only — never a foundation-phase agent)
 

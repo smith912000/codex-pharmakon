@@ -2,7 +2,7 @@
 
 ## *Lupinus albus L.* | Family: Fabaceae (Leguminosae)
 
-**Tradition Tags:** SBJ, AT, DMM, EP, SS
+**Tradition Tags:** AT, CM, DMM, EP, SS
 **Energetic Classification:** Hot and dry (1st–2nd degree) — a bitter, "cleansing," incisive pulse in the Galenic-Unani scheme.
 **Training Phase:** Clearing / Building bridge — a debittered protein pulse used to nourish, with a traditional cleansing (vermifuge / skin-clearing) edge.
 

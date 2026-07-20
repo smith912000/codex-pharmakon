@@ -2,7 +2,7 @@
 
 ## *Eupatorium cannabinum* L. — the riverbank immune-fire that must be handled with care
 
-**Tradition Tags:** DMM · BM
+**Tradition Tags:** AT, CM, DMM
 
 **Energetic Classification (TCM):** ◉ Qi — surface-releasing diaphoretic that moves Wei Qi and resolves Damp-stagnation; ☿ Shen secondary only insofar as the febrile-clearing action settles the disturbed spirit of fever
 

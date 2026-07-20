@@ -2,7 +2,7 @@
 
 ## *Syringa vulgaris* L. | Family: Oleaceae
 
-**Tradition Tags:** SS, AT, DMM
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Cold & dry (second degree), bitter — a cooling astringent tonic bitter in the Galenic-Unani reading
 **Training Phase:** Clarify (bitter-tonic phase — the pruning of stagnant heat and the sharpening of appetite/attention)
 

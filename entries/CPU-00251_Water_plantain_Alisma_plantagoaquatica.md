@@ -2,7 +2,7 @@
 
 ## *Alisma plantago-aquatica* L. — the marsh-drainer that empties standing water from the body
 
-**Tradition Tags:** SBJ, CM
+**Tradition Tags:** SBJ, FMT
 **Energetic Classification (TCM):** ◉ Qi Primary — Water-Draining / Damp-Heat Clearing (Water Element)
 **Training Phase:** `[RESET]` `[BUILD]` — `[GENERAL]`
 

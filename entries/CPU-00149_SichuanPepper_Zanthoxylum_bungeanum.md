@@ -1,6 +1,6 @@
 # Sichuan Pepper — Huā Jiāo (花椒)
 ## *Zanthoxylum bungeanum* Maxim. | Family: Rutaceae
-**Tradition Tags:** SBJ, FMT *(Shén Nóng Běncǎo Jīng lineage; rGyud-bzhi — canonical index attests rGyud-bzhi)*
+**Tradition Tags:** FMT  *(Shén Nóng Běncǎo Jīng lineage; rGyud-bzhi — canonical index attests rGyud-bzhi)*
 **Energetic Classification (TCM):** ⊕ Yang — warming interior-cold disperser and pain-reliever; anthelmintic (Wēn Zhōng Zhǐ Tòng / Shā Chóng)
 **Training Phase:** `[RESET]` `[BUILD]`
 

@@ -6,7 +6,7 @@
 
 ## | Family: Polyporaceae (Basidiomycota)
 
-**Tradition Tags:** CM, AT, SS, BM
+**Tradition Tags:** CM, SBJ, SS, FMT
 **Energetic Classification:** Bland, sweet, neutral; quietly draining and harmonising (neither heating nor cooling)
 **Training Phase:** Foundational — Drain & Steady (fluid regulation and calming)
 

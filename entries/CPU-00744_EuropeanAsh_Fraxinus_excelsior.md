@@ -2,7 +2,7 @@
 
 ## *Fraxinus excelsior* L. | Family: Oleaceae
 
-**Tradition Tags:** DMM, AT, SS
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Warm and dry (first–second degree) in the Galenic-Unani frame; opening, diuretic, mildly purgative — the leaf lighter, the sweet exudate ("manna") gently laxative.
 **Training Phase:** Circulation / Clearing (diuretic, joint-clearing and mild-purgative drainage phase)
 

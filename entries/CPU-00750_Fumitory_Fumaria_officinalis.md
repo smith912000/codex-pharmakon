@@ -2,7 +2,7 @@
 
 ## *Fumaria officinalis* L. | Family: Papaveraceae (Fumarioideae)
 
-**Tradition Tags:** EP · AT · DMM · CM · SBJ · SS · FMT
+**Tradition Tags:** AT, CM, DMM, EP, SBJ, SS
 **Energetic Classification:** Galenic — warm and dry in the second degree, bitter and cleansing; Unani *har-yabis* (a blood-purifier); TCM analogue: bitter, cool, liver/gallbladder-draining
 **Training Phase:** Purification · Sustainment
 

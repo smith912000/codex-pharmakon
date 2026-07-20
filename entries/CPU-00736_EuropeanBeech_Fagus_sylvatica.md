@@ -2,7 +2,7 @@
 
 ## *Fagus sylvatica* L. | Family: Fagaceae
 
-**Tradition Tags:** DMM, AT, SS
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Cool and dry (second degree) in the Galenic-Unani frame; astringent, drying, mildly binding — the bark markedly more so than the nut.
 **Training Phase:** Grounding / Consolidation (astringent tissue-toning and antiseptic wound phase)
 

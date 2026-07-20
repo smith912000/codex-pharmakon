@@ -2,7 +2,7 @@
 
 ## *Citrus aurantium* L. | Family: Rutaceae
 
-**Tradition Tags:** EP, AT, DMM, CM
+**Tradition Tags:** CM, DMM, SBJ, SS
 
 **Energetic Classification:** Cool-and-dry to temperate in the classical humoral reckoning (the sour peel and juice "cooling," the aromatic oil "subtly warming and thinning"); in the Kenetica frame an *aromatic mover* — a substance whose virtue is to unstick, circulate, and lift, mirrored chemically by both a volatile carminative fraction and a stimulant amine.
 

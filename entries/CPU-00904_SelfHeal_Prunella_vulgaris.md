@@ -2,7 +2,7 @@
 
 ## *Prunella vulgaris* L. | Family: Lamiaceae
 
-**Tradition Tags:** SBJ, DMM, EP, CM
+**Tradition Tags:** AT, CM, DMM, SBJ
 **Energetic Classification:** Cold and dry (Galenic, second degree); bitter–pungent, cooling
 **Training Phase:** Clarification — the cooling, clearing herbs that quiet inflammatory heat and restore clear perception before deeper work.
 

@@ -1,6 +1,6 @@
 # Salt — Milḥ (ملح) / Ṭābtu (Akkadian) / Háls (ἅλς) / Lavaṇa / Yán (盐)
 ## Sodium chloride (NaCl) — halite / evaporated sea & rock salt | *(Volume III — Mineral)*
-**Tradition Tags:** CM, AT, DMM, SS, SBJ, EP *(canonical index attests Avicenna + Assyrian; salt is, with honey and water, among the truly universal materia medica — its presence across Egyptian, Greek, Ayurvedic, and Chinese practice is documented, not inferred)*
+**Tradition Tags:** CM, AT  *(canonical index attests Avicenna + Assyrian; salt is, with honey and water, among the truly universal materia medica — its presence across Egyptian, Greek, Ayurvedic, and Chinese practice is documented, not inferred)*
 **Energetic Classification (TCM):** ◉ Yin/Descending — salty, cold; softens hardness, purges, drains fire, and guides other medicines to the Kidney (Ruǎn Jiān / Xiè Xià / Yǐn Yào Rù Shèn)
 **Training Phase:** `[RESET]` *(and the universal electrolyte substrate of all phases)*
 

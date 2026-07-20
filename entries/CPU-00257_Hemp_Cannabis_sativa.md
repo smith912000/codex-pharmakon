@@ -1,6 +1,6 @@
 # Hemp / Cannabis — قنب (Qannab) / Κάνναβις (Kannabis) / भांग (Bhāṅg) / 大麻 (Dàmá)
 ## *Cannabis sativa L. — Hemp / Cannabis; C. indica Lam. — Indian Hemp*
-**Tradition Tags:** AT · DMM · CM · SS · SBJ · FMT · BM
+**Tradition Tags:** AT, CM, BM, DMM, EP, SBJ, SS, FMT
 **Energetic Classification (TCM):** ◈ Jing · ☿ Shen
 **Training Phase:** `[SLEEP]` `[RESET]` `[CYCLE-OFF]`
 

@@ -2,7 +2,7 @@
 
 ## *Cistus creticus* L. — The Beard of Goats; Ambergris of the Mountainside; First Fixative of the Ancient Perfumer
 
-**Tradition Tags:** DMM · BM
+**Tradition Tags:** DMM
 **Energetic Classification (TCM):** ◉ Qi primary / ☿ Shen secondary
 **Training Phase:** [GENERAL]
 

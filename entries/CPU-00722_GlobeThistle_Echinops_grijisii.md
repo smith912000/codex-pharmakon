@@ -2,7 +2,7 @@
 
 ## *Echinops grijisii* Hance | Family: Asteraceae (Compositae)
 
-**Tradition Tags:** DMM, CM, AT
+**Tradition Tags:** CM, DMM, SBJ
 **Energetic Classification:** Cold, dry — a bitter, heat-clearing purgative in the Galenic-Unani reading; cold and bitter in the Chinese scheme.
 **Training Phase:** Clearing / Purgation (early depurative phase)
 

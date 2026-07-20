@@ -2,7 +2,7 @@
 
 ## *Styrax officinalis* L. | Family: Styracaceae
 
-**Tradition Tags:** BM, DMM, EP, SBJ
+**Tradition Tags:** AT, CM, DMM, EP
 **Energetic Classification:** Warm and dry in the second degree; resolving, "opening," aromatic (Galenic/Unani reading of a warming balsam)
 **Training Phase:** Respiratory / Purification (fumigant & balsamic)
 

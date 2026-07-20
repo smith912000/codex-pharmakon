@@ -1,6 +1,6 @@
 # Rehmannia / Di Huang — ديهوانغ / Ῥεμάννια / Rakta-pushpi / 地黃
 ## *Rehmannia glutinosa (Gaertn.) DC. — Chinese foxglove, earth yellow, glutinous rehmannia*
-**Tradition Tags:** CM · SBJ · FMT
+**Tradition Tags:** SBJ, FMT
 **Energetic Classification (TCM):** ◈ Jing · ☿ Shen (secondary) · ◉ Qi (secondary)
 **Training Phase:** `BUILD` `REFINE` `RESET` `SLEEP` `CYCLE-OFF`
 

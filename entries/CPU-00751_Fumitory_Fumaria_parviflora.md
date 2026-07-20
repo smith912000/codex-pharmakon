@@ -2,7 +2,7 @@
 
 ## *Fumaria parviflora* Lam. | Family: Papaveraceae (Fumarioideae)
 
-**Tradition Tags:** EP, AT, DMM, CM
+**Tradition Tags:** AT, CM, DMM, SS
 **Energetic Classification:** Cold · Dry · Bitter-Depurative (blood-cleansing / "opening" of obstructions)
 **Training Phase:** Alterative & Hepato-Biliary Bitter — Phase III (Depuration / Skin & Liver)
 

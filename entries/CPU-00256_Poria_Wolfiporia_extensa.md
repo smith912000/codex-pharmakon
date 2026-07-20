@@ -1,6 +1,6 @@
 # Poria — فو لينغ / Πόρια / Trina-pushpa / 茯苓
 ## *Wolfiporia extensa (Peck) Ginns (syn. Poria cocos F.A. Wolf) — Indian bread, hoelen, tuckahoe, pine spirit fungus*
-**Tradition Tags:** CM · SS · SBJ · FMT
+**Tradition Tags:** SBJ
 **Energetic Classification (TCM):** ☿ Shen · ◉ Qi · ◈ Jing (secondary)
 **Training Phase:** `BUILD` `REFINE` `SLEEP` `RESET`
 

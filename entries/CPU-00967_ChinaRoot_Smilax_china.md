@@ -2,7 +2,7 @@
 
 ## *Smilax china* L. | Family: Smilacaceae
 
-**Tradition Tags:** AT, DMM, CM, SS
+**Tradition Tags:** CM, DMM, SBJ, SS
 **Energetic Classification:** Hot and dry in the first degree (Galenic reading of the early-modern *radix Chinae*); attenuating, opening, drying — a *desiccans* and *aperiens* rather than a purge
 **Training Phase:** Clearance / Depuration (Phase II) — the long, slow, low-intensity phase of the Kenetica sequence, run over weeks rather than days
 

@@ -1,6 +1,6 @@
 # Walnut — جوز (Jawz) / Καρυόφυλλον / Καρύα (Karya) / अक्षोट (Akṣoṭa) / 核桃 (Hétáo)
 ## *Juglans regia L. — Persian/English Walnut; J. nigra L. — Black Walnut*
-**Tradition Tags:** EP · AT · DMM · CM · SS · SBJ
+**Tradition Tags:** AT, CM, DMM, EP, SBJ, SS, FMT
 **Energetic Classification (TCM):** ◈ Jing · ◉ Qi
 **Training Phase:** `[BUILD]` `[CYCLE-OFF]`
 

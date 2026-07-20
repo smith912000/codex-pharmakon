@@ -2,7 +2,7 @@
 
 ## *Melia azedarach* L. | Family: Meliaceae
 
-**Tradition Tags:** AT, DMM, CM, SS
+**Tradition Tags:** CM, DMM, SBJ, SS
 **Energetic Classification:** Cold and dry in the third degree (Galenic/Unani) — a bitter, downward-draining, incisive drug
 **Training Phase:** Advanced / Custodial only — a poison-tier plant studied for boundary-knowledge, never a beginner's remedy
 

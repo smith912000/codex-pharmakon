@@ -2,7 +2,7 @@
 
 ## *Reseda lutea* L. | Family: Resedaceae
 
-**Tradition Tags:** AT, DMM, EP
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Hot and dry in the first degree (Galenic reading, by analogy with the pungent/mustard-adjacent group); drying, attenuating, discutient
 **Training Phase:** Phase II — Purification / Clearing (topical drawing and light diuretic support; never a central agent)
 

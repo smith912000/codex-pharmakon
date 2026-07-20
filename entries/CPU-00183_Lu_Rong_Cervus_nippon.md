@@ -1,7 +1,7 @@
 # Lu Rong / Deer Velvet Antler — لورونغ / Κέρατα Ελάφου / Mṛgaśṛṅga / 鹿茸
 ## *Cervus nippon* Temminck (Sika Deer) / *Cervus elaphus* L. (Red Deer) — Velvet Antler, Lu Rong, Deer Velvet
 
-**Tradition Tags:** CM · SBJ · FMT
+**Tradition Tags:** CM, SBJ, SS, FMT
 
 **Energetic Classification (TCM):** ◈ Jing / ⊕ Yuan
 

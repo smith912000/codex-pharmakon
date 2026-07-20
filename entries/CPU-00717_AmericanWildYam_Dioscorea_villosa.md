@@ -2,7 +2,7 @@
 
 ## *Dioscorea villosa* L. | Family: Dioscoreaceae
 
-**Tradition Tags:** EP, DMM, SS
+**Tradition Tags:** CM, DMM, SS
 **Energetic Classification:** Cool and dry (Galenic); acrid-bitter, relaxant-antispasmodic
 **Training Phase:** Softening / Release (the phase that relaxes cramp, spasm, and colic in smooth muscle)
 

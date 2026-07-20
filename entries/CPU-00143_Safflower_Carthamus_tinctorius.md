@@ -1,6 +1,6 @@
 # Safflower — عصفر (ʿUṣfur) / Κνῆκος (Knēkos) / कुसुम (Kusuma) / 红花 (Hónghuā)
 ## *Carthamus tinctorius L. — Safflower*
-**Tradition Tags:** EP · AT · DMM · CM · SS · SBJ
+**Tradition Tags:** AT, CM, DMM, EP, SBJ, SS, FMT
 **Energetic Classification (TCM):** ◉ Qi · ◈ Jing
 **Training Phase:** `[BUILD]` `[RESET]`
 

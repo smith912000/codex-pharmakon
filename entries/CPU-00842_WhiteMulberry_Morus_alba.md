@@ -2,7 +2,7 @@
 
 ## *Morus alba* L. | Family: Moraceae
 
-**Tradition Tags:** CM, SS, BM
+**Tradition Tags:** SBJ, SS, FMT
 **Energetic Classification:** Leaf — cool, sweet-bitter, light-dispersing; Fruit — cool-to-neutral, sweet, moistening and nourishing
 **Training Phase:** Metabolic Regulation / Clearing — the phase concerned with steadying the sugar-and-fluid economy and cooling low-grade heat
 

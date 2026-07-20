@@ -1,7 +1,7 @@
 # Schisandra / Five Flavor Berry — وُو وِي زِي / Σχισάνδρα / Pañcakaṣāya / 五味子
 ## *Schisandra chinensis (Turcz.) Baill.* — Five Flavor Fruit, Magnolia Vine, Northern Schisandra
 
-**Tradition Tags:** CM · SBJ · FMT
+**Tradition Tags:** SBJ, FMT
 
 **Energetic Classification (TCM):** ◈ Jing / ◉ Qi / ☿ Shen
 

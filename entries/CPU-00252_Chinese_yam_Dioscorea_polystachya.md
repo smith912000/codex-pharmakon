@@ -2,7 +2,7 @@
 
 ## *Dioscorea polystachya* Turcz. — the food-medicine that nourishes three organs without burdening any
 
-**Tradition Tags:** SBJ, CM
+**Tradition Tags:** SBJ
 **Energetic Classification (TCM):** ◉ Qi Primary — Spleen/Lung/Kidney Tonic / ◈ Jing Secondary (Earth & Water Elements)
 **Training Phase:** `[BUILD]` `[RESET]` `[PRIME]` — `[GENERAL]`
 

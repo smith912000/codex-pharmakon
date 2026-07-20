@@ -1,6 +1,6 @@
 # Honey — Bjt (Ebers) / Mádhu (मधु) / ʿAsal (عسل) / Méli (μέλι) / Fēng Mì (蜂蜜)
 ## *Apis mellifera* L. (honeybee product) | Family: Apidae *(Volume II — Animal)*
-**Tradition Tags:** EP, AT, DMM, CM, SS, SBJ, FMT *(canonical index attests Ebers + Assyrian; honey's presence in Dioscorides, the Canon, Ayurveda, Chinese and Tibetan medicine is historically documented, not inferred — a near-universal materia medica)*
+**Tradition Tags:** AT, CM, BM, DMM, EP, SBJ, SS, FMT  *(canonical index attests Ebers + Assyrian; honey's presence in Dioscorides, the Canon, Ayurveda, Chinese and Tibetan medicine is historically documented, not inferred — a near-universal materia medica)*
 **Energetic Classification (TCM):** ◉ Qi/Yin — tonifying, moistening, harmonising, and detoxifying (Bǔ Zhōng / Rùn Zào / Jiě Dú); the great *yogavāhī* carrier
 **Training Phase:** `[BUILD]` `[RESET]` `[SLEEP]`
 

@@ -1,6 +1,6 @@
 # Asparagus racemosus — Shatavari (शतावरी)
 ## *Asparagaceae — Wild Asparagus Root / "She Who Has a Hundred Husbands"*
-**Tradition Tags:** SS · FMT
+**Tradition Tags:** CM, SS
 **Energetic Classification (TCM):** ◈ Jing — Structural/Anabolic
 **Training Phase:** `[RESET]` `[CYCLE-OFF]` `[REFINE]`
 

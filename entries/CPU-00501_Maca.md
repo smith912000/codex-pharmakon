@@ -1,6 +1,6 @@
 # Lepidium meyenii — Maca / Maka
 ## *Brassicaceae — Peruvian Ginseng*
-**Tradition Tags:** BM
+**Tradition Tags:** SA
 **Energetic Classification (TCM):** ◈ Jing — Structural/Anabolic · ◉ Qi — Circulatory/Anti-inflammatory
 **Training Phase:** `[BUILD]` `[REFINE]` `[RESET]`
 

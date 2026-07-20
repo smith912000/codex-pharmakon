@@ -2,7 +2,7 @@
 
 ## *Salvia rosmarinus* Spenn. (syn. *Rosmarinus officinalis* L.) | Family: Lamiaceae
 
-**Tradition Tags:** AT, DMM, EP, CM, SS
+**Tradition Tags:** AT, CM, DMM, SBJ, SS
 **Energetic Classification:** Hot and dry in the second degree (Galenic/Unani); attenuant, cephalic, resolvent, emmenagogue
 **Training Phase:** Phase III — Consolidation & Recall (the memory-fixing agent of the Codex; also a Phase I circulatory opener)
 

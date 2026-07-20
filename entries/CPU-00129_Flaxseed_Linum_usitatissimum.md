@@ -1,6 +1,6 @@
 # Flaxseed / Linseed — كتان (Kattān) / Λινάριον (Linarion) / अतसी (Atasī) / 亚麻籽 (Yàmázǐ)
 ## *Linum usitatissimum L. — Common Flax / Linseed*
-**Tradition Tags:** EP · AT · DMM · CM · SS · SBJ
+**Tradition Tags:** AT, CM, DMM, EP, SBJ, SS, FMT
 **Energetic Classification (TCM):** ◈ Jing · ◉ Qi
 **Training Phase:** `[BUILD]` `[RESET]`
 

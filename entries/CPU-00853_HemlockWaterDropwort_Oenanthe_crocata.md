@@ -2,7 +2,7 @@
 
 ## *Oenanthe crocata* L. | Family: Apiaceae
 
-**Tradition Tags:** AT, DMM
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Cold and moist in the extreme, "malignant" (Galenic/Unani reading of a poison)
 **Training Phase:** None — hazard reference entry only; NOT a therapeutic agent
 

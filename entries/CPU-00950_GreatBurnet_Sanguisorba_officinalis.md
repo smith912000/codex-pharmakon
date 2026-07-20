@@ -1,7 +1,7 @@
 # Great Burnet — Di Yu (地榆) · Blood-Absorber · Pimpinella sanguisorba · Sanguisorba
 ## *Sanguisorba officinalis* L. | Family: Rosaceae
 
-**Tradition Tags:** DMM, SBJ, SS
+**Tradition Tags:** CM, DMM, SBJ
 **Energetic Classification:** Cold in the first–second degree, Dry in the second degree (Galenic/Unani); *qābiḍ* (astringent), *ḥābis li'l-dam* (styptic/haemostatic)
 **Training Phase:** Phase III — Consolidation & Containment (astringent closure; stopping loss)
 

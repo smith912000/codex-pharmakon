@@ -2,7 +2,7 @@
 
 ## *Prunus dulcis* (Mill.) D.A.Webb var. *amara* — The Sweet Kernel's Poisonous Twin; The Almond That Carries Cyanide; Source of the Almond Scent and the Almond Death
 
-**Tradition Tags:** DMM
+**Tradition Tags:** AT, CM, DMM, EP, SBJ, SS
 **Energetic Classification (TCM):** ◉ Qi / ☿ Shen secondary
 **Training Phase:** [SPECIALIST ONLY]
 

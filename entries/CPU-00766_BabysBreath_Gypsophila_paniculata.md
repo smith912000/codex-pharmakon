@@ -2,7 +2,7 @@
 
 ## *Gypsophila paniculata* L. | Family: Caryophyllaceae
 
-**Tradition Tags:** EP, AT
+**Tradition Tags:** CM, DMM, SBJ
 **Energetic Classification:** Warm and dry, cleansing/detergent (Galenic: hot and dry, abstergent) — a saponin-bearing "washing" root read as a scourer that cuts thick, sticky humours.
 **Training Phase:** Purgation / Detergent — a surfactant, expectorant-class root used to break down and move viscid matter; a mobiliser, never a nourisher.
 

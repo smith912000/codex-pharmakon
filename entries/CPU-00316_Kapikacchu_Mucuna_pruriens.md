@@ -1,7 +1,7 @@
 # Kapikacchu — कपिकच्छू / Velvet Bean / 黧豆 (Lí Dòu) / Cowitch
 ## *Mucuna pruriens* (L.) DC. — The Dopamine Precursor Legume; Seed of the Itching Monkey; Natural Levodopa Source
 
-**Tradition Tags:** SS · SBJ
+**Tradition Tags:** CM, SBJ, SS
 **Energetic Classification (TCM):** ◈ Jing (structural/anabolic) primary · ☿ Shen (neurological) secondary
 **Training Phase:** [BUILD] [CYCLE-OFF]
 

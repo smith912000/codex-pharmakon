@@ -1,7 +1,7 @@
 # Cardamom — هال (Hāl) / Καρδάμωμον (Kardámomon) / एला (Elā) / 小豆蔻 (Xiǎo Dòukòu)
 ## *Elettaria cardamomum* — True Cardamom, Green Cardamom, Queen of Spices
 
-**Tradition Tags:** EP · AT · DMM · CM · SS · SBJ · FMT
+**Tradition Tags:** CM, DMM, EP, SBJ, SS, FMT
 
 **Energetic Classification (TCM):** ◉ Qi / ⊕ Yuan
 

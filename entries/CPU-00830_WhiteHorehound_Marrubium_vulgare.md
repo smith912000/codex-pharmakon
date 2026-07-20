@@ -2,7 +2,7 @@
 
 ## *Marrubium vulgare* L. | Family: Lamiaceae
 
-**Tradition Tags:** EP, AT, DMM, BM
+**Tradition Tags:** AT, CM, DMM, EP
 **Energetic Classification:** Hot (1st degree) & Dry (2nd degree) — a warming, drying bitter (Galenic/Unani)
 **Training Phase:** Clearing Phase — used to open and drain congested passages before deeper tonification.
 

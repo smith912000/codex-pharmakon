@@ -2,7 +2,7 @@
 
 ## *Taxus baccata* L. | Family: Taxaceae
 
-**Tradition Tags:** SS, AT, DMM
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Cold & dry in the extreme — classed among the *deadly poisons* (Galenic *venenum frigidum*), not a graded therapeutic hot/cold drug
 **Training Phase:** Threshold (the death-adjacent teaching entry — the poison that became a cure; studied, never self-administered)
 

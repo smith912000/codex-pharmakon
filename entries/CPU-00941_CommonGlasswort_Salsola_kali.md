@@ -1,7 +1,7 @@
 # Common Glasswort — Prickly Saltwort · Russian Thistle · Ushnan (اشنان) · Kali · Ἅλς-plant of the shore
 ## *Salsola kali* L. (= *Kali turgidum* (Dumort.) Guterm.) | Family: Amaranthaceae (Chenopodioideae; formerly Chenopodiaceae)
 
-**Tradition Tags:** EP, AT, DMM, SBJ
+**Tradition Tags:** AT, CM, DMM, EP
 **Energetic Classification:** Hot in the second degree, Dry in the second-to-third degree (Galenic/Unani); saline-abstergent (*jālī*, cleansing), aperient, resolvent
 **Training Phase:** Phase II — Purification & Clearing (external and eliminative work; not a deep-tissue tonic)
 

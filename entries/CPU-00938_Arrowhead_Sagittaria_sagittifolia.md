@@ -2,7 +2,7 @@
 
 ## *Sagittaria sagittifolia* L. | Family: Alismataceae
 
-**Tradition Tags:** DMM, EP, CM
+**Tradition Tags:** CM, DMM, SBJ
 **Energetic Classification:** Cold and moist (2nd degree in the Galenic reading of the aquatic, mucilaginous, cooling class); refrigerant, emollient, resolvent when applied; nutritive when cooked
 **Training Phase:** Phase I — Grounding & Nourishment (the cooked corm as a cooling, nutritive base) / Phase II — Clearing (the leaf as a cooling topical)
 

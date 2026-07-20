@@ -2,7 +2,7 @@
 
 ## *Mespilus germanica* L. | Family: Rosaceae
 
-**Tradition Tags:** AT, DMM, BM
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Cold and dry in the second degree (Galenic); strongly astringent, earth-fixing
 **Training Phase:** Grounding / Retention — the phase concerned with sealing leakage, firming loose tissue, and settling an over-mobile digestion
 

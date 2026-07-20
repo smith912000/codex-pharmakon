@@ -2,7 +2,7 @@
 
 ## *Ligusticum mutellina* (L.) Crantz (syn. *Mutellina purpurea* (Poll.) Reduron, Charpin & Pimenov) | Family: Apiaceae (Umbelliferae)
 
-**Tradition Tags:** AT, DMM, BM
+**Tradition Tags:** AT, CM, DMM, FMT
 **Energetic Classification:** Warm and dry (Galenic); aromatic, carminative, mildly stimulant
 **Training Phase:** Kindling / Digestive-Warming (Kenetica) — an aromatic that wakes a cold, sluggish gut
 

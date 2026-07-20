@@ -1,7 +1,7 @@
 # Dwarf Elder — Danewort · Walwort · Blood Hilder · Χαμαιάκτη (*chamaiaktē*) · Ebulus · Khaman-e Kuchak
 ## *Sambucus ebulus* L. | Family: Viburnaceae (Adoxaceae; formerly Caprifoliaceae)
 
-**Tradition Tags:** AT, DMM, SBJ
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Hot in the first–second degree, Dry in the second degree (Galenic/Unani); *muḥallil* (resolvent), *jālī* (abstergent), strongly *mus·hil* (purgative) — a **caustic-grade** drug, not a gentle one
 **Training Phase:** Phase II — Purification & Clearing, **external application only**
 

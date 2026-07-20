@@ -1,6 +1,6 @@
 # Angelica / Dang Gui — دانغ كوي / Ἀγγελική / Choraka / 當歸
 ## *Angelica sinensis (Oliv.) Diels — Chinese angelica, female ginseng, dong quai*
-**Tradition Tags:** CM · SS · SBJ · FMT
+**Tradition Tags:** SBJ, SS, FMT
 **Energetic Classification (TCM):** ◈ Jing · ◉ Qi · ☿ Shen (secondary)
 **Training Phase:** `BUILD` `REFINE` `RESET` `CYCLE-OFF`
 

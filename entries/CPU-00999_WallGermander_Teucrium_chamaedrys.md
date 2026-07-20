@@ -2,7 +2,7 @@
 
 ## *Teucrium chamaedrys* L. | Family: Lamiaceae
 
-**Tradition Tags:** SS, AT, DMM
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Hot in the second degree, Dry in the third (Galenic/Unani — bitter incisive)
 **Training Phase:** Purgatorio — the phase of bitter clearing and hepatic reckoning
 

@@ -1,7 +1,7 @@
 # Wood Betony — Betony / Betonica / Bishopwort / Purple Betony / *vettonica*
 ## *Stachys officinalis* (L.) Trevis. (syn. *Betonica officinalis* L.) | Family: Lamiaceae
 
-**Tradition Tags:** AT, DMM, SBJ
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Warm and dry (Galenic, roughly second degree in the Arabic reception); drying, astringent, "opening" of obstructions
 **Training Phase:** Phase II — Nervine Grounding (Kenetica: pre-sleep settling and dream-hygiene practice)
 

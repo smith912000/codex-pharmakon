@@ -1,7 +1,7 @@
 # Dà Zǎo — 大枣 / Red Jujube / Chinese Date
 ## *Ziziphus jujuba* Miller — Common Jujube, Red Date, Chinese Red Date, Da Tsao; Sanskrit: Badara (बदर); Arabic: 'Unnāb (عُنّاب); Tibetan: Shing tog (སྨན་ལྗོན)
 
-**Tradition Tags:** EP · AT · CM · SBJ · SS · FMT
+**Tradition Tags:** AT, CM, DMM, EP, SBJ, SS, FMT
 
 **Energetic Classification (TCM):** ◈ Jing primary / ☿ Shen secondary
 

@@ -2,7 +2,7 @@
 
 ## *Verbascum sinuatum* L. | Family: Scrophulariaceae
 
-**Tradition Tags:** EP, AT, DMM
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Cool and moist (demulcent); Unani cold-and-moist band — a mucilage plant that damps heat and lubricates the dry, raw membrane ([USER: verify degree])
 **Training Phase:** Phase I — Soothing & Opening the Airway
 

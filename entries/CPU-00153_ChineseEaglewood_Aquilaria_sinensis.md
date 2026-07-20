@@ -1,6 +1,6 @@
 # Chinese Eaglewood (Agarwood) — Chén Xiāng (沉香) / A-ga-ru (bod)
 ## *Aquilaria sinensis* (Lour.) Spreng. | Family: Thymelaeaceae
-**Tradition Tags:** SBJ, FMT *(Chinese Chén Xiāng lineage; rGyud-bzhi — canonical index attests rGyud-bzhi; also Unani ʿūd and Ayurvedic aguru, historically documented)*
+**Tradition Tags:** FMT  *(Chinese Chén Xiāng lineage; rGyud-bzhi — canonical index attests rGyud-bzhi; also Unani ʿūd and Ayurvedic aguru, historically documented)*
 **Energetic Classification (TCM):** ◉ Qi — the great Qi-descending, Kidney-grasping aromatic (Xíng Qì / Nà Qì Píng Chuǎn); ⊕ Shen — grounding aromatic
 **Training Phase:** `[RESET]` `[SLEEP]`
 

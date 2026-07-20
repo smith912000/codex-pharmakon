@@ -1,6 +1,6 @@
 # Sesame — سمسم (Simsim) / Σήσαμον (Sēsamon) / तिल (Tila) / 芝麻 (Zhīma)
 ## *Sesamum indicum L. — Sesame*
-**Tradition Tags:** EP · AT · DMM · CM · SS · SBJ
+**Tradition Tags:** AT, CM, DMM, EP, SBJ, SS, FMT
 **Energetic Classification (TCM):** ◈ Jing · ◉ Qi
 **Training Phase:** `[BUILD]` `[RESET]` `[CYCLE-OFF]`
 

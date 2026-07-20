@@ -2,7 +2,7 @@
 
 ## *Verbascum thapsus* L. | Family: Scrophulariaceae
 
-**Tradition Tags:** BM, AT, DMM, SS
+**Tradition Tags:** AT, CM, DMM, SS
 **Energetic Classification:** Cool and moist / softening (Galenic); demulcent, relaxant
 **Training Phase:** Soothing / Restoration (mucosal repair, respiratory ease)
 

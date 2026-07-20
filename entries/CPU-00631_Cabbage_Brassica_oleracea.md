@@ -2,7 +2,7 @@
 
 ## *Brassica oleracea* L. | Family: Brassicaceae (Cruciferae)
 
-**Tradition Tags:** EP · AT · DMM · CM · SBJ · SS · FMT
+**Tradition Tags:** AT, CM, DMM, EP, SBJ, SS
 **Energetic Classification:** Galenic — cool and dry in the first-to-second degree (leaf); Unani *sard-khushk*; TCM cool, sweet-pungent, spleen/stomach/large-intestine channels
 **Training Phase:** Foundation · Purification · Sustainment
 

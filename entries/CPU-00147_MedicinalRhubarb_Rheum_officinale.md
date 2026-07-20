@@ -1,6 +1,6 @@
 # Medicinal Rhubarb — Dà Huáng (大黄) / Chu-rtsa (bod)
 ## *Rheum officinale* Baill. | Family: Polygonaceae
-**Tradition Tags:** SBJ, FMT *(one of the three official Dà Huáng source species; canonical index attests rGyud-bzhi — Shennong/Chinese use documented)*
+**Tradition Tags:** DMM, FMT  *(one of the three official Dà Huáng source species; canonical index attests rGyud-bzhi — Shennong/Chinese use documented)*
 **Energetic Classification (TCM):** ◉ Heat / Blood — bitter-cold downward-draining purgative; "the General" that clears heat, moves stagnation, and breaks Blood stasis (Xiè Xià / Qīng Rè)
 **Training Phase:** `[RESET]`
 

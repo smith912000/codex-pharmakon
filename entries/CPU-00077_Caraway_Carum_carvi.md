@@ -1,6 +1,6 @@
 # Caraway — كراويا (Karāwiyā) / Κάρον (Karon) / अजमोद (Ajamoda) / 葛缕子 (Gélǚzǐ)
 ## *Carum carvi L. — Caraway*
-**Tradition Tags:** AT · DMM · CM · SS · SBJ
+**Tradition Tags:** AT, CM, DMM, EP, SBJ, SS
 **Energetic Classification (TCM):** ◉ Qi
 **Training Phase:** `[PRIME]` `[RESET]`
 

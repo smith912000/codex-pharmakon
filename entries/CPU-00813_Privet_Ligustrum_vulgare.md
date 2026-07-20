@@ -2,7 +2,7 @@
 
 ## *Ligustrum vulgare* L. | Family: Oleaceae
 
-**Tradition Tags:** AT, DMM, EP
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Cold and dry (second degree) — a drying, astringent, binding herb in the Galenic-Unani reckoning.
 **Training Phase:** Sealing / Astringent Phase — used where tissue is lax, weeping, or ulcerated and needs to be drawn together, never for the toxic fruit.
 

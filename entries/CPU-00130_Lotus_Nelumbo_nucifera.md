@@ -1,6 +1,6 @@
 # Sacred Lotus — لوطس (Lūtus) / Λωτός (Lōtos) / कमल (Kamala) / 荷花 (Héhuā) / 蓮 (Lián)
 ## *Nelumbo nucifera Gaertn. — Sacred Lotus; N. lutea Willd. — American Lotus*
-**Tradition Tags:** EP · AT · DMM · CM · SS · SBJ
+**Tradition Tags:** AT, CM, DMM, EP, SBJ, SS, FMT
 **Energetic Classification (TCM):** ☿ Shen · ◈ Jing · ◉ Qi
 **Training Phase:** `[REFINE]` `[RESET]` `[SLEEP]`
 

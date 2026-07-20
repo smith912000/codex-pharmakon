@@ -1,6 +1,6 @@
 # Sweet Flag / Calamus — Vacā (वचा) / Waj (واج) / Shu dag (ཤུ་དག) / Calamus aromaticus
 ## *Acorus calamus* L. / *Acorus americanus* Raf. / *Acorus gramineus* Aiton | Family: Acoraceae
-**Tradition Tags:** DMM, CM, AT, FMT, SS, BM
+**Tradition Tags:** AT, CM, BM, DMM, SA, SS, FMT
 **Energetic Classification (TCM):** ☿ Shen primary (CNS / cognitive / nervous system) — opens the orifices, clarifies the mind, dissolves phlegm misting the Heart; AChE inhibition; dose-dependent CNS paradox (low-dose clarifying, high-dose sedating) / ◉ Qi secondary (digestive carminative) — warms and arouses the Middle Burner, relieves intestinal stagnation and colic through smooth-muscle relaxation
 **Training Phase:** `[REFINE]` `[RESET]`
 

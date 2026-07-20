@@ -1,6 +1,6 @@
 # Frankincense (Olibanum) — Snṯr / Lubān / Líbanos / Kundur / Spos dkar
 ## *Boswellia carterii* Birdw. (≡ *B. sacra* Flück.) | Family: Burseraceae
-**Tradition Tags:** EP, AT, DMM, CM, FMT *(also Hebrew Temple ketoret; canonical index attests FMT — the wider attestation below is historically documented, not inferred)*
+**Tradition Tags:** DMM, FMT  *(also Hebrew Temple ketoret; canonical index attests FMT — the wider attestation below is historically documented, not inferred)*
 **Energetic Classification (TCM):** ◉ Qi — aromatic Qi-and-Blood mover / stagnation-and-pain resolver (Rǔ Xiāng 乳香) / ⊕ Shen — Shen-settling aromatic (smoke-borne calm; the archetypal sacred fumigant)
 **Training Phase:** `[BUILD]` `[RESET]` `[SLEEP]`
 

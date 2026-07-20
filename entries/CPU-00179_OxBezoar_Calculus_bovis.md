@@ -1,6 +1,6 @@
 # Ox Gallstone (Bezoar) — Niú Huáng (牛黄) / Go-rochana / Gi-wang (bod)
 ## *Calculus bovis* — the gallstone/biliary concretion of *Bos taurus* | *(Volume II — Animal)*
-**Tradition Tags:** FMT, EP, SBJ, SS *(canonical index attests rGyud-bzhi + Ebers; Chinese Niú Huáng and Ayurvedic Gorochana are documented)*
+**Tradition Tags:** FMT, EP  *(canonical index attests rGyud-bzhi + Ebers; Chinese Niú Huáng and Ayurvedic Gorochana are documented)*
 **Energetic Classification (TCM):** ◉ Heat/Shen — cool, clears heat and toxin, opens the orifices, extinguishes wind, and resolves phlegm (Qīng Xīn / Kāi Qiào / Xī Fēng / Huà Tán)
 **Training Phase:** `[RESET]` *(acute/specialist only)*
 

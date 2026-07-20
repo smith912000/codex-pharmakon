@@ -2,7 +2,7 @@
 
 ## *Oxalis corniculata* L. | Family: Oxalidaceae
 
-**Tradition Tags:** DMM, AT, CM
+**Tradition Tags:** CM, DMM, SBJ
 **Energetic Classification:** Cold and dry (second degree) — a refrigerant, astringent-sour herb in the Galenic-Unani scheme
 **Training Phase:** Cooling / Descent — the quenching phase, used to draw down heat and check flux
 

@@ -2,7 +2,7 @@
 
 ## *Ononis spinosa* L. | Family: Fabaceae
 
-**Tradition Tags:** AT, DMM, SS
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Warm and dry in the second degree (Galenic); opening and attenuating, deobstruent to the urinary passages
 **Training Phase:** Clearing Phase — the flushing and de-silting work that precedes deeper tonification
 

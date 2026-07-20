@@ -2,7 +2,7 @@
 
 ## *Onopordum acanthium* L. | Family: Asteraceae
 
-**Tradition Tags:** AT, DMM, SS
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Cool and dry (astringent, binding); with a warming, "strengthening" action on the heart per the humoral cardiotonic tradition
 **Training Phase:** Consolidating Phase — the astringent, tone-restoring work that binds and steadies after clearing
 

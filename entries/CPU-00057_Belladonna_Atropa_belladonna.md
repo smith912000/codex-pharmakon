@@ -1,6 +1,6 @@
 # Belladonna / Deadly Nightshade — بنج (Banj) / Βελλαδόννα (Belladonna) / मदन (Madana) / 颠茄 (Diāncié)
 ## *Atropa belladonna L. — Deadly Nightshade / Belladonna*
-**Tradition Tags:** AT · DMM · CM · SS · BM
+**Tradition Tags:** AT, CM, BM, DMM, SA, SS
 **Energetic Classification (TCM):** ☿ Shen [SPECIALIST ONLY]
 **Training Phase:** `[SPECIALIST ONLY]`
 

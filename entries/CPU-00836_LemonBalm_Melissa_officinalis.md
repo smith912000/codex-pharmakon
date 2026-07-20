@@ -2,7 +2,7 @@
 
 ## *Melissa officinalis* L. | Family: Lamiaceae
 
-**Tradition Tags:** SBJ, AT, DMM
+**Tradition Tags:** AT, CM, DMM
 **Energetic Classification:** Warm and dry in the first degree (Galenic/Unani) — a gladdening, exhilarant cardiotonic and carminative
 **Training Phase:** Foundational — a gentle, well-tolerated calmative introduced early in Kenetica practice
 

@@ -1,7 +1,7 @@
 # Comfrey — Knitbone / Boneset / Bruisewort / Blackwort / *Symphyton* (Gk. *symphyō*, "to make grow together")
 ## *Symphytum officinale* L. | Family: Boraginaceae
 
-**Tradition Tags:** AT, DMM, SBJ, EP
+**Tradition Tags:** AT, CM, DMM, EP
 **Energetic Classification:** Cold and dry with a moistening, gluey (mucilaginous) surface quality (Galenic); astringent, agglutinant, consolidating
 **Training Phase:** Phase I — Structural Repair (topical only)
 

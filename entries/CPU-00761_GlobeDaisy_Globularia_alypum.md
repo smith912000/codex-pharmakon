@@ -2,7 +2,7 @@
 
 ## *Globularia alypum* L. | Family: Plantaginaceae (formerly Globulariaceae)
 
-**Tradition Tags:** AT, DMM, EP
+**Tradition Tags:** AT, CM, DMM, EP
 **Energetic Classification:** Hot and dry (second–third degree) — a bitter drastic that evacuates downward and cuts thick, stagnant humour
 **Training Phase:** Purge / Descent — a powerful clearing-out agent, used briefly and with restraint
 

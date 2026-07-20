@@ -2,7 +2,7 @@
 
 ## *Pistacia terebinthus* L. — The Oldest Turpentine; Tree of the Oath; Resin of the Aegean Physicians
 
-**Tradition Tags:** DMM · BM
+**Tradition Tags:** AT, CM, DMM, EP
 **Energetic Classification (TCM):** ◉ Qi primary / ☿ Shen secondary
 **Training Phase:** [GENERAL]
 

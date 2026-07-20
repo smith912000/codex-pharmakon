@@ -2,7 +2,7 @@
 
 ## *Brassica rapa* L. | Family: Brassicaceae (Cruciferae)
 
-**Tradition Tags:** EP · AT · DMM · CM · SBJ · SS · FMT
+**Tradition Tags:** AT, CM, DMM, EP, SBJ, SS
 **Energetic Classification:** Galenic — warm and moist in the first degree (root), the leaf cooler and drier; Unani *har-ratb* (root); TCM cool-to-neutral, sweet-pungent-bitter, lung/spleen/stomach channels
 **Training Phase:** Foundation · Purification · Sustainment
 

@@ -1,6 +1,6 @@
 # Cutch / Catechu (Black Catechu) — Khadira / Ér Chá (儿茶) / Seng-ldeng (bod)
 ## *Acacia catechu* (L.f.) Willd. (≡ *Senegalia catechu*) | Family: Fabaceae
-**Tradition Tags:** SS, FMT *(Sushruta/Ayurvedic Khadira; rGyud-bzhi — canonical index attests both; also Chinese Ér Chá)*
+**Tradition Tags:** CM, SBJ, SS, FMT  *(Sushruta/Ayurvedic Khadira; rGyud-bzhi — canonical index attests both; also Chinese Ér Chá)*
 **Energetic Classification (TCM):** ◉ Blood/Damp — cool astringent that clears heat, dries damp, and heals surfaces (Shōu Shī Liǎn Chuāng)
 **Training Phase:** `[RESET]`
 

@@ -1,6 +1,6 @@
 # Benzoin (Gum Benjamin) — Ān Xī Xiāng (安息香) / Lubān Jāwī
 ## *Styrax benzoin* Dryand. | Family: Styracaceae
-**Tradition Tags:** FMT *(rGyud-bzhi; canonical index attests FMT — also Chinese An Xi Xiang and Unani lubān jāwī, historically documented)*
+**Tradition Tags:** CM, DMM, SBJ, FMT  *(rGyud-bzhi; canonical index attests FMT — also Chinese An Xi Xiang and Unani lubān jāwī, historically documented)*
 **Energetic Classification (TCM):** ◉ Qi — aromatic orifice-opening resuscitative (Kāi Qiào) / Qi-and-Blood mover; ⊕ Shen — calming aromatic (the "peaceful-rest fragrance")
 **Training Phase:** `[RESET]` `[SLEEP]`
 

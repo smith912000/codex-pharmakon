@@ -2,7 +2,7 @@
 
 ## *Liquidambar orientalis* Mill. — The Balsam of Two Trees; Sweet Gum of the Anatolian Marsh; Resin of Mistaken Identity
 
-**Tradition Tags:** DMM · BM
+**Tradition Tags:** CM, DMM
 **Energetic Classification (TCM):** ◉ Qi primary / ☿ Shen secondary
 **Training Phase:** [GENERAL]
 

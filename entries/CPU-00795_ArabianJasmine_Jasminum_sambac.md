@@ -2,7 +2,7 @@
 
 ## *Jasminum sambac* (L.) Aiton | Family: Oleaceae
 
-**Tradition Tags:** EP, AT, DMM, CM
+**Tradition Tags:** CM, DMM, SBJ, SS
 **Energetic Classification:** Cooling · Moistening-to-Drying (paradoxical; scent cools, topical flower dries) · Relaxing to the animal spirits
 **Training Phase:** Calmative & Aromatic — Phase II (Nervine / Sensory Regulation)
 

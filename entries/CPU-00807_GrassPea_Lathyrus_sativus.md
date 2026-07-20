@@ -2,7 +2,7 @@
 
 ## *Lathyrus sativus* L. | Family: Fabaceae (Leguminosae)
 
-**Tradition Tags:** AT, DMM, EP, SS
+**Tradition Tags:** AT, CM, DMM, EP, SS
 **Energetic Classification:** Cold and dry in the second degree (Galenic); astringent, earth-heavy pulse
 **Training Phase:** Endurance / Famine-Ballast (Kenetica) — a survival ration, never a foundation stone
 

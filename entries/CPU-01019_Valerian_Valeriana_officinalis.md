@@ -2,7 +2,7 @@
 
 ## *Valeriana officinalis* L. | Family: Caprifoliaceae (formerly Valerianaceae)
 
-**Tradition Tags:** DMM, AT, SS, FMT
+**Tradition Tags:** CM, DMM, SS, FMT
 **Energetic Classification:** Warm and dry (Galenic, 1st–2nd degree); heating nervine
 **Training Phase:** Descent / Stilling (parasympathetic downshift, pre-sleep)
 

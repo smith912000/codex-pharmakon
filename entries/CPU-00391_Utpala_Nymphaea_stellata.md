@@ -2,7 +2,7 @@
 
 ## *Nymphaea stellata* Willd. | Family: Nymphaeaceae
 
-**Tradition Tags:** EP · AT · DMM · CM · SBJ · SS
+**Tradition Tags:** CM, DMM, EP, SBJ, SS
 
 **Energetic Classification:** Cooling, Moist (cold in the second degree, moist in the first — Galenic/Unani)
 

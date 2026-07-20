@@ -2,7 +2,7 @@
 
 ## *Saussurea laniceps* Hand.-Mazz. — the woolly crown of the scree, flower of the perpetual snowline
 
-**Tradition Tags:** CM · SBJ · FMT · BM
+**Tradition Tags:** SS, FMT
 
 **Energetic Classification (TCM):** ◉ Qi / ◈ Jing
 

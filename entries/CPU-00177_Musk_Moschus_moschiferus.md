@@ -1,6 +1,6 @@
 # Musk — Shè Xiāng (麝香) / Misk (مسك) / Kastūrī (कस्तूरी) / Gla-rtsi (bod)
 ## *Moschus moschiferus* Linnaeus (glandular secretion, male musk deer) | Family: Moschidae *(Volume II — Animal)*
-**Tradition Tags:** SBJ, CM, FMT, SS *(Chinese Shè Xiāng; Avicenna's misk; rGyud-bzhi; Ayurvedic kastūrī — canonical index attests rGyud-bzhi + Avicenna; the wider attestation is historically documented)*
+**Tradition Tags:** FMT, CM  *(Chinese Shè Xiāng; Avicenna's misk; rGyud-bzhi; Ayurvedic kastūrī — canonical index attests rGyud-bzhi + Avicenna; the wider attestation is historically documented)*
 **Energetic Classification (TCM):** ◉ Qi/Shen — the supreme aromatic orifice-opening resuscitative (Kāi Qiào Xǐng Shén); ◉ Blood — Blood-mover and pain-reliever
 **Training Phase:** `[RESET]` *(acute/specialist only)*
 

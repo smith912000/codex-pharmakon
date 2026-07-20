@@ -2,7 +2,7 @@
 
 ## *Isatis tinctoria* L. | Family: Brassicaceae
 
-**Tradition Tags:** AT, DMM, CM, SBJ, BM
+**Tradition Tags:** AT, CM, DMM, SBJ, FMT
 
 **Energetic Classification:** Cold and dry (Galenic); bitter-cold, heat-clearing and toxin-resolving (TCM)
 

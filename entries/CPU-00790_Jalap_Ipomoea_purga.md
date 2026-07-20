@@ -2,7 +2,7 @@
 
 ## *Ipomoea purga* (Wender.) Lindl. | Family: Convolvulaceae
 
-**Tradition Tags:** AT, DMM, EP
+**Tradition Tags:** CM, BM, DMM
 
 **Energetic Classification:** Hot and dry in the third degree (Galenic-Unani); a violently expulsive, downward-driving simple
 

@@ -1,6 +1,6 @@
 # Pomegranate Rind & Bark — قشر الرمان (Qishr al-Rummān) / Ῥοιά φλοιός (Rhoia phloios) / दाडिम त्वक् (Dāḍima Tvak) / 石榴皮 (Shíliúpí)
 ## *Punica granatum L. — Pomegranate (Rind, Bark, and Root Bark — the medicinal fractions)*
-**Tradition Tags:** EP · AT · DMM · CM · SS · SBJ
+**Tradition Tags:** AT, CM, DMM, EP, SBJ, SS, FMT
 **Energetic Classification (TCM):** ◉ Qi
 **Training Phase:** `[RESET]`
 

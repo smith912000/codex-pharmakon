@@ -2,7 +2,7 @@
 
 ## *Terminalia catappa* L. | Family: Combretaceae
 
-**Tradition Tags:** DMM, CM, SS
+**Tradition Tags:** CM, SBJ, SS
 
 **Energetic Classification:** Cooling, drying, astringent (contracting); bitter-sour with a sweet oily seed
 

@@ -1,6 +1,6 @@
 # Uncaria tomentosa — Cat's Claw / Uña de Gato
 ## *Rubiaceae — Amazonian Cat's Claw*
-**Tradition Tags:** BM
+**Tradition Tags:** BM, SA
 **Energetic Classification (TCM):** ◉ Qi — Circulatory/Anti-inflammatory
 **Training Phase:** `[PRIME]` `[BUILD]` `[RESET]`
 

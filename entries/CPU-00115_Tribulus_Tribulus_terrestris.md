@@ -2,7 +2,7 @@
 
 ## *Tribulus terrestris* L. — Goat's Head, Caltrop, Devil's Thorn, Land Caltrops, Bindii
 
-**Tradition Tags:** DMM · CM · SS
+**Tradition Tags:** CM, DMM, SS, FMT
 
 **Energetic Classification (TCM):** ◈ Jing primary / ◉ Qi secondary
 

@@ -2,7 +2,7 @@
 
 ## *Hippophae rhamnoides* L. | Family: Elaeagnaceae
 
-**Tradition Tags:** AT, DMM, SS, BM
+**Tradition Tags:** CM, SBJ, SS, FMT
 **Energetic Classification:** Cool-neutral & Moist — nourishing, softening, restorative
 **Training Phase:** Mucosal Restore (barrier repair & tissue nourishment)
 

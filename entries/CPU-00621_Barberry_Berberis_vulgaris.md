@@ -2,7 +2,7 @@
 
 ## *Berberis vulgaris* L. | Family: Berberidaceae
 
-**Tradition Tags:** AT · CM · DMM · EP · SBJ · SS
+**Tradition Tags:** AT, CM, DMM, SBJ, SS, FMT
 **Energetic Classification:** Bitter, Cold & Dry (Galenic ~2nd–3rd degree); TCM tier — Bitter-Cold, drains damp-heat, liver/gallbladder/stomach/large-intestine channels
 **Training Phase:** Clearing Damp-Heat · Bile & Liver Regulation · Astringent Consolidation
 

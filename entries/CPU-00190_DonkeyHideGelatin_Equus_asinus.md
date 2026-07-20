@@ -1,6 +1,6 @@
 # Donkey-Hide Gelatin — Ē Jiāo (阿胶)
 ## *Equus asinus* L. — Colla corii asini (gelatin from processed donkey hide) | *(Volume II — Animal)*
-**Tradition Tags:** FMT, EP, SBJ *(canonical index attests rGyud-bzhi + Ebers; Chinese Ē Jiāo is the classic form)*
+**Tradition Tags:** FMT, EP  *(canonical index attests rGyud-bzhi + Ebers; Chinese Ē Jiāo is the classic form)*
 **Energetic Classification (TCM):** ⊕ Blood/Yin — the supreme Blood tonic and Yin-nourishing, bleeding-stopping gelatin (Bǔ Xuè / Zī Yīn / Zhǐ Xuè / Rùn Zào)
 **Training Phase:** `[BUILD]` `[RESET]`
 

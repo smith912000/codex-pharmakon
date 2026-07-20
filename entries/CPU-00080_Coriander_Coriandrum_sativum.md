@@ -1,6 +1,6 @@
 # Coriander — كزبرة (Kuzbara) / Κορίανδρον (Koriandron) / धनिया (Dhanyā) / 芫荽 (Yánsui)
 ## *Coriandrum sativum L. — Coriander / Cilantro*
-**Tradition Tags:** EP · AT · DMM · CM · SS · SBJ
+**Tradition Tags:** AT, CM, DMM, EP, SBJ, SS, FMT
 **Energetic Classification (TCM):** ◉ Qi
 **Training Phase:** `[PRIME]` `[RESET]`
 

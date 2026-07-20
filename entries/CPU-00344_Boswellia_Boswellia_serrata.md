@@ -2,7 +2,7 @@
 
 ## *Boswellia serrata* Roxb. ex Colebr. — Indian Frankincense; also *Boswellia sacra* Flueck. (Arabian/Sacred Frankincense), *Boswellia carterii* Birdw. (Somali Frankincense); synonyms: Salai Guggal (Ayurvedic), Olibanum
 
-**Tradition Tags:** EP · AT · DMM · CM · SS
+**Tradition Tags:** CM, DMM, SBJ, SS, FMT
 
 **Energetic Classification (TCM):** ◉ Qi primary / ◈ Jing secondary
 

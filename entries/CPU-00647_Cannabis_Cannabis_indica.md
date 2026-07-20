@@ -2,7 +2,7 @@
 
 ## *Cannabis indica* Lam. | Family: Cannabaceae
 
-**Tradition Tags:** AT · CM · DMM · EP · SBJ · SS
+**Tradition Tags:** AT, CM, DMM, SBJ, SS, FMT
 **Energetic Classification:** Bitter-Pungent, Warming, Heavy-Intoxicant (Galenic — warm & dry; a *mukhaddir*/narcotic in Unani); TCM tier — *huo ma ren* (seed): Sweet, Neutral, moistening; the resin: warming, intoxicating
 **Training Phase:** Nervine Sedation & Analgesia · Visionary / Psychoactive (advanced, gated) · Moistening Descent (seed)
 

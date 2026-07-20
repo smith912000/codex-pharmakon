@@ -1,6 +1,6 @@
 # Henbane — بنج (Banj) / Ὑοσκύαμος (Hyoscyamos) / धत्तूर सहोदर (Dhattura Sahodara)
 ## *Hyoscyamus niger L. — Black Henbane*
-**Tradition Tags:** AT · EP · DMM · CM · SS · SBJ · BM
+**Tradition Tags:** AT, CM, DMM, EP, SA, SBJ, SS, FMT
 **Energetic Classification (TCM):** ☿ Shen (extreme sedative tier)
 **Training Phase:** `[SPECIALIST ONLY]`
 

@@ -2,7 +2,7 @@
 
 ## *Lactuca sativa* L. (and *L. virosa* L.) | Family: Asteraceae (Compositae)
 
-**Tradition Tags:** BM, AT, DMM, EP, SS
+**Tradition Tags:** AT, CM, DMM, EP, SS
 **Energetic Classification:** Cold and moist in the second degree (Galenic–Unani) — a refrigerant soporific and anaphrodisiac
 **Training Phase:** Phase IV — Sedation & Sleep (gentle soporifics and nervines)
 

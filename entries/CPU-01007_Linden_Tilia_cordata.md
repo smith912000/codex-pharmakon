@@ -2,7 +2,7 @@
 
 ## *Tilia cordata* Mill. | Family: Malvaceae (formerly Tiliaceae)
 
-**Tradition Tags:** BM, CM, DMM, SBJ
+**Tradition Tags:** AT, CM, DMM, SBJ
 **Energetic Classification:** Warm & Moist (temperate, gently relaxing) — diaphoretic & nervine (Galenic/Unani)
 **Training Phase:** Calming & Release
 

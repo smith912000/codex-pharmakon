@@ -1,6 +1,6 @@
 # Fenugreek — Methi / الحلبة (Al-Ḥulbah)
 ## *Trigonella foenum-graecum* L. | Family: Fabaceae
-**Tradition Tags:** CM, SS, EP, AT, DMM
+**Tradition Tags:** AT, CM, DMM, EP, SBJ, SS, FMT
 **Energetic Classification:** ◈ Jing Secondary (seed — warming, testosterone-supportive, reproductive Jing activation) / ◉ Qi Primary (digestive bitter, galactagogue, Spleen-Stomach warming)
 **Training Phase:** `[BUILD]` `[PRIME]`
 
