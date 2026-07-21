@@ -85,6 +85,26 @@ Cold-pressed safflower seed oil used in cooking; significant linoleic acid conte
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** Safflower's abundant Egyptian presence — garlands in Tutankhamun's tomb, seeds in tombs, carthamin and safflormin dyeing textiles and mummy wrappings — is material, economic and funerary-decorative, not a vital-cultivation status. Dyeing a wrapping is a use of the pigment, not a claim about the plant's action on the person. No *heka* recitation and no constitutional framing are attested for it in the sources retrieved. Presence is not status. **(c) absent.**
+
+**Assyrian (AT).** No cultivation status is attested, and the blocking warning on Assyrian identifications and attributions applies. Safflower appears as a traded commodity from Egypt and the Levant, worked into compound preparations for skin conditions and as a laxative — a therapeutic and economic record, classified if at all by the complaint it addresses, not by any good conferred on the vital constitution. **(c) absent.**
+
+**Greek (DMM).** Dioscorides offers no subtle-body system. What he gives a cultivator is a discipline of attention: he distinguishes the strongly cathartic seed (and warns against eating it in quantity) from the flower used for dye and flavouring, placing safflower among the compound purgatives. Knowing which part purges and which merely colours is the practice on offer. No vital-cultivation status is claimed. **(c) absent.**
+
+**Unani (CM).** Ibn Sina classes safflower hot in the second degree and dry, with the seed cathartic, the plant emmenagogue, and the oil emollient. These are therapeutic humoral actions — evacuant and menstrual-promoting — not a husbanding of innate heat and radical moisture; a hot, drying purgative is corrective and depleting, the opposite pole from a longevity conservant. The tradition claims it, but assigns it a therapeutic role, not a cultivation one. **(b) framed — no cultivation status attested.**
+
+**Chinese (SBJ).** *Hónghuā* 红花 is a major blood-moving herb: pungent and warm, entering Heart and Liver, invigorating blood and dispersing stasis (*xuè yū* 血瘀), the anchor of *Táo Hóng Sì Wù Tāng*. This is precisely a draining, moving, dispersing action, prescribed in short courses and contraindicated in pregnancy — no *san pin* 三品 grade is attested for it, and a stasis-breaking herb belongs nowhere near the upper grade of substances taken long-term to nourish life. It holds a strong therapeutic identity here and no cultivation status. **(b) framed — no *san pin* grade attested.**
+
+**Ayurveda (SS).** *Kusuma* is given as *katu-tikta rasa*, *ushna virya*, *vata-kapha shamaka*, acting as *artavajanana* (emmenagogue) and *raktavardhana*, with the seed oil (*kusuma taila*) used topically. These are therapeutic assignments; no *rasayana* or *vajikarana* standing is attested for safflower. A menstrual-promoting, circulation-moving drug is used against a condition, not taken to rejuvenate. **(b) framed — no *rasayana* status attested.**
+
+**Tibetan (FMT).** No *bcud len* role and no subtle-body-practice category are attested for safflower, and none is asserted by the Four Tantras to be filled. Where it enters Tibetan compounding it does so therapeutically. **(c) absent.**
+
+**Practitioner's note.** Safflower is a mover, not a builder — a blood-invigorating, stasis-dispersing, menstrual-promoting agent that a cultivator reaches for against a specific obstruction (traumatic stasis, cold-blocked menses) and then sets down. Its deep heritage as a dye and food oil is real but irrelevant to cultivation status: colouring a cloth and building a constitution are different acts, and the archaeological ubiquity of the plant proves the former, not the latter. Nothing in the corpus supports long-term self-directed use; the pregnancy and bleeding contraindications are the tradition telling you the same thing.
+
+---
+
 ### Contraindications
 
 - **Pregnancy** — the Blood-moving emmenagogue action risks miscarriage; absolutely contraindicated during pregnancy

@@ -81,6 +81,26 @@ Bolarinwa IF, Orfila C, Morgan MRA (2014) "Determination of amygdalin in apple s
 
 ---
 
+### Cultivation Register
+
+Throughout, the cultivation question concerns the **bitter** kernel (var. *amara*) and its cyanogenic fraction, not the sweet almond or the bland expressed oil; ritual and symbolic uses of "the almond" (Aaron's budding rod, Near-Eastern almond-blossom imagery) attach to the tree and its nut in general and are not cultivation statuses for this poisonous kernel.
+
+**Assyrian (AT).** No cultivation status is attested, and the blocking warning on Mesopotamian identifications and tablet references is in force. Whatever almond material appears in the record sits within a corpus that classifies by causal agency and complaint, not by any subtle-body function; nothing retrieved assigns the bitter kernel a cultivation role. Result: (c) absent.
+
+**Unani / Avicennan (CM).** The tradition's cultivation idea is the conservation of innate heat and radical moisture — a finite endowment protected, not built. The bitter almond is classed hot and dry and used as a deobstruent, "opening," and emmenagogue agent; it is a potent, at-dose toxic drug, not a nourisher of that endowment, and no source retrieved gives it an action on the *ruh* or on innate heat/radical moisture. Result: (b) framed — a therapeutic (and hazardous) classification, no cultivation status recorded.
+
+**Greek / Dioscoridean (DMM) — primary tradition.** Dioscorides has no subtle-body system, and none is manufactured for the bitter almond. He records concrete actions — provokes urine and menses, relieves headache and pain, acts on liver and spleen, eases cough and clears the chest, cleanses the skin — and treats the sweet expressed oil as an emollient base; where amuletic or symbolic uses touch the almond he records at a distance, and recording is not endorsing. What this tradition genuinely trains is a discipline of attention that here is also a discipline of safety: telling the bitter var. *amara* from the sweet kernel by its bitterness, and separating the safe fixed oil from the cyanogenic meal and water. Result: (c) absent, with the attention/assay frame — which for this substance is the whole of the honest practice.
+
+**Egyptian (EP).** No cultivation framing is attested. The Egyptian record is indication-organised and does not assign the bitter kernel a status touching the *ka*, *ba* or *ib*; no *heka* recitation is recorded for it here, so none is asserted. Result: (c) absent.
+
+**Chinese (SBJ).** No *san pin* 三品 grade for the bitter almond was found in the sources retrieved, and the Chinese descending, chest-clearing "bitter kernel" of the materia medica is properly *ku xing ren* 苦杏仁 (bitter apricot kernel), a distinct *Prunus* drug — so no cultivation grade is imported to *Prunus dulcis amara* on the strength of that cognate. Result: (c) absent (identification and grade both unattested here).
+
+**Ayurvedic (SS).** No *rasayana* or *vajikarana* status is attested for the bitter almond; it is not a rejuvenative. The one Ayurvedic discipline that genuinely bears on a cyanogenic seed is *shodhana* (purification) — a measurable process demonstrably able to lower the toxic load of poisonous seeds — which frames the bitter almond as a substance to be *detoxified before use*, the opposite pole from a drug taken long-term to nourish life. Result: (b) framed — no cultivation status; the pertinent discipline is purification, not cultivation.
+
+**Practitioner's note.** For a cultivator the honest answer is *nothing* — and, given the cyanogenic hazard, worse than nothing if attempted. No tradition tagged here assigns the bitter kernel a subtle-body or longevity cultivation status; the only disciplines that touch it are protective (Dioscoridean assay of bitter-versus-sweet and oil-versus-meal, Ayurvedic *shodhana*), and the sole component that crosses into ordinary use is the cyanide-free sweet fixed oil as an emollient. The bitter kernel itself is a [SPECIALIST ONLY] poison, and abstention is the practice.
+
+---
+
 ### Contraindications
 
 - **Cyanide poisoning (lethal):** Crushed/moistened bitter-almond kernels, bitter-almond water, and amygdalin/laetrile can release hydrogen cyanide and cause rapid histotoxic hypoxia — headache, dizziness, confusion, breathlessness with paradoxically well-oxygenated blood, seizures, cardiovascular collapse, and death. The classic almond odour may or may not be detectable. This is the governing contraindication for all non-oil preparations.

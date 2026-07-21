@@ -102,6 +102,22 @@
 
 ---
 
+### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* places cardamom (*hāl* / *qāqula*) as hot and dry in the second degree and uses it for flatulence, cold stomach, diuresis and cold-phlegm cough, and notes its appearance in aromatic electuaries. It is an aromatic warming corrective, and any cardiac-gladdening (*mufarrih*) use belongs to the *Kitāb al-Adwiya al-Qalbiyya* rather than the *Canon*; no constituent list is drawn from it here. No assignment to the conservation of innate heat and radical moisture — Unani's actual longevity discipline — is attested for cardamom. Attested as a therapeutic aromatic; no cultivation status recorded — **(b) framed**.
+
+**Greek / Dioscoridean (DMM).** Dioscorides distinguishes *kardámomon* as warming, moderately drying and aromatic, a digestive and a theriac component, and remarks that the Babylonian variety surpasses the Indian. That last remark is the register's real content for a cultivator: it is a **discipline of attention** — grading, provenance and sensory assay — not a subtle-body doctrine, which Dioscorides does not possess and which must not be invented for him. No cultivation status — **(c) absent**, framed as method.
+
+**Egyptian (EP).** The Ebers Papyrus places cardamom in fumigations, mouth-cleansing preparations and multi-ingredient digestive and urinary compounds. The corpus is indication-organised and no *heka* recitation is attested for the seed in a cited source. It records what was done for a complaint, not what cardamom does to a person's vital constitution — **(c) absent**.
+
+**Chinese (SBJ).** Li Shizhen's *Bencao Gangmu* (1596) records *xiǎo dòukòu* as acrid and warm, entering Lung, Spleen and Stomach, warming the middle burner, moving Qi stagnation and transforming dampness. This is a therapeutic notice in a late compilation; no *san pin* 三品 grade is recorded for it in the sources retrieved. It carries a therapeutic standing, not a cultivation one — **(b) framed**, dated 1596.
+
+**Ayurvedic (SS).** *Elā* is classed as *tridoshahara* in moderate use and placed in the *eladi gana* of carminatives, with *deepana*, *pachana* and *hrdya* actions and use as a *mukha-shodhana*. These are digestive-aromatic and oral-hygiene functions — therapeutic and culinary. No *rasayana* (rejuvenative) or *vajikarana* (generative) cultivation status is attested for cardamom in the sources retrieved; its *hrdya* note is a cardiac-supportive action, not a longevity discipline. Attested in the materia medica; no cultivation status — **(b) framed**.
+
+**Tibetan (FMT).** The *rGyud bzhi* uses *sug smel* extensively in compound formulas for digestive cold, phlegm disorders and cardiac weakness. Medicine here is the third of four treatment branches, and no formal "substances for subtle-body practice" category exists to receive cardamom. Its role is compound-therapeutic — **(c) absent** as to cultivation.
+
+**Practitioner's note.** Across all six traditions cardamom is the same thing: a warming aromatic carminative and breath-sweetener, prized and expensive but never assigned a cultivation station. What a cultivator actually does with it is culinary-medicinal — a pod chewed after a meal, a seed simmered in milk before sleep, a pre-meal digestive — and the one transferable discipline is Dioscorides' grading of provenance and freshness. Nothing here supports treating cardamom as a tonic of vital essence; its honest register is the daily kitchen, and that is enough.
+
 ### Contraindications
 
 - **Active gastric ulcer or severe gastritis:** Pungent volatile fraction may irritate inflamed gastric mucosa at supplemental doses; discontinue if GI discomfort increases

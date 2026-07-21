@@ -57,6 +57,24 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 - **Unani/Tibetan mapping:** hot-dry; warming digestive and circulatory stimulant; component of warming compound formulae.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — at the deep-warming, yang-supporting, channel-freeing end of the axis; one of the volume's archetypal "kindle the inner fire" agents.
 
+### Cultivation Register
+
+**Chinese (SBJ).** The two cinnamon drugs of the *Shennong Bencaojing* — *mu gui* 牡桂 and *jun gui* 菌桂 — are both entered in the **upper grade** (上品), the *san pin* rank Stanley-Baker reads as a genuine cultivation hierarchy (養命, nourishing life over the long term) rather than a potency scale. This is an attested cultivation status. Cassia's warming here is **conservational** — "returning fire to its source" (引火歸源) re-seats and preserves Kidney *yang*, it does not manufacture it. Two cautions down the ladder: the identification of *mu gui* with the thick-barked *rou gui* is Li Shizhen's later gloss (*Bencao Gangmu*, 1596), and **which classical *gui* answers to modern *C. cassia* rather than *C. verum* is a modern botanical step** — the grade attaches to the text's *gui*, not to a Linnaean species. The *neidan* reading of cinnamon as a fire-phase agent is a cultivator's overlay, not a *bencao* category.
+
+**Unani (CM).** Cassia is attested as a hot-and-dry aromatic cordial, and Unani carries the strongest cultivation idea in the corpus — the finite endowment of innate heat and radical moisture, whose conservation *is* longevity practice. But no source retrieved assigns cassia a **formal** innate-heat status; it therefore sits at the therapeutic level, the vital frame noted but its cultivation status **unattested (b)**.
+
+**Greek (DMM).** Dioscorides grades cassia minutely by provenance, colour and aroma in Book I and warns against adulteration. He offers the cultivator not a subtle-body doctrine — he has none — but a **discipline of attention**: telling the true bark from the counterfeit by the senses. That is a real practice, and the whole of what he offers here. **(c)**
+
+**Ayurveda (SS).** Cinnamon-cassia (*tvak*) enters the *dravyaguṇa* as a warming, *dīpana* aromatic. No *rasāyana* or *vājīkaraṇa* status is attested for it in the sources retrieved, so it carries a **therapeutic, not a cultivation, standing (b)**.
+
+**Tibetan (FMT).** Cassia appears as a hot-natured aromatic inside compound warming formulas. The Four Tantras hold no formal category of "substances for subtle-body practice" to place it in; its standing is therapeutic. **(c)**
+
+**Egyptian (EP).** The Ebers corpus is indication-organised, and the identity of its cassia/cinnamon barks is a **modern hypothesis** — actively contested for exactly this pair. Temple-incense and anointing associations are **liturgical** — a use of the aromatic in cult — and must not be read as a doctrine of what the bark does to a person's vital constitution. No cultivation status is attested. **(c)**
+
+**Assyrian (AT).** The Codex's blocking warning is in force for every Assyrian substance identification and tablet reference; nothing about cassia's *asû/āšipu* placement can be asserted. **(c)**
+
+**Practitioner's note.** What a cultivator has here is one solid rung and a set of honest blanks. In the Chinese scheme cassia is an upper-grade, long-life drug used *conservationally* — to warm and re-seat a vitality assumed already present, taken in course against cold-depletion rather than swallowed indefinitely; its own heat is the contraindication in anyone with heat or *yin* deficiency. In every other tradition the register is therapeutic or silent, and Dioscorides' lesson — buy and test the real bark, not the adulterated one — is the most transferable cultivation act cassia offers outside China.
+
 ### Contraindications
 
 - **Heat patterns / yin-deficiency with heat (CM).** Contraindicated — a strongly warming herb aggravates heat, dryness and yin deficiency.

@@ -64,6 +64,26 @@ According to PubMed:
 - **Ayurvedic:** Sweet (*madhura*) *rasa*, cooling *vīrya* (aged *śāli*), *balya* and *bṛṃhaṇa* (nourishing); tridoshic when old, Pitta-pacifying.
 - **Galenic / Unani:** Temperate tending cool-dry; nutritive, mildly astringent/binding to the bowel; demulcent as gruel.
 
+### Cultivation Register
+
+Rice is genuinely Old World (domesticated in monsoon Asia) so the tags are not anachronistic in the way a New World species would be — but its therapeutic identity is inseparable from its identity as staple food, and **food-grade status is not a cultivation status**. Its heavy ritual weight in Asia (weddings, offerings, life-symbol) is real but belongs to the religious/symbolic layer, not to any tradition's internal cultivation grading; it is recorded here, not translated into a grade.
+
+**Chinese medicine (SBJ).** Polished rice (*geng mi* 粳米 — the grain-name, not *jing* 精 essence) is an attested materia medica food-drug, the base of convalescent *zhōu* congee. But no *san pin* grade is recorded for it in the sources retrieved: the three-grade scheme covers 365 graded drugs and rice as a staple grain is not confirmed among them. It therefore carries a nourishing dietetic role, not a graded *yang sheng* cultivation status. **(b) framed — attested, no grade attested.**
+
+**Ayurveda (SS).** Aged *śāli* rice is esteemed as *balya* and *bṛṃhaṇa* (strengthening, nourishing) and tridoshic — but no formal *rasāyana* status is attested for rice specifically in the classical sources; it sits inside convalescent dietetics (*peyā*, *yavāgū*, *maṇḍa*), which is graded refeeding, not a rejuvenation discipline. **(b) framed — attested food, no rasāyana status.**
+
+**Unani — Avicenna (CM).** *Aruz* is a temperate nutritive restorative; the tradition's cultivation idea (conservation of innate heat and radical moisture) is not tied to it. No cultivation status attested. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides records only that rice-gruel is mildly binding; he has no subtle-body system, and rice was an exotic import in the classical Mediterranean. No cultivation status attested. **(c) absent.**
+
+**Egyptian (EP).** Rice reached Egypt late, via Persian/Arab agriculture, as a bowel-settling convalescent grain; the corpus is indication-organised and no *heka* framing attaches. No cultivation status attested. **(c) absent.**
+
+**Assyrian (AT).** Rice is a late-arriving staple in the Mesopotamian sphere, filling a bland restorative-starch slot; the blocking warning on Assyrian identifications applies. No cultivation status attested. **(c) absent.**
+
+**Tibetan (FMT).** No *bcud len* (essence-extraction) status is attested for rice, and medicine is in any case the supporting, not the root-reaching, branch of practice. No cultivation status attested. **(c) absent.**
+
+**Practitioner's note.** What a cultivator does with rice is feed with it — congee and rice-water to re-lay the foundation of a depleted digestion after illness, fasting or purgation. That is dietetic groundwork and convalescent care, valuable but not a practice of cultivating a vital substance. Even in the tradition that prizes it most (Chinese), its status is that of the neutral nourishing base other medicines are carried on, not a graded life-nourishing drug.
+
 ### Contraindications
 
 - Polished white rice is high-glycaemic; large quantities warrant caution in diabetes and insulin resistance (favour brown/whole rice for metabolic contexts).

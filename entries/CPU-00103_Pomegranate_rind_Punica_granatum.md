@@ -81,6 +81,26 @@ The classic EP/AT/DMM/CM/SS anthelmintic application for tapeworm uses the root 
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** No cultivation framing is attested for the rind. The Ebers material is indication-organised: it records an anthelmintic protocol — rind decoction with a cathartic, drunk over days, worms observed on expulsion — not any action of the drug on the person's vital constitution. No *heka* recitation is preserved with this preparation in the sources retrieved, so the operative-power dimension cannot be reconstructed here. This is a therapeutic record and nothing more. **(c) absent.**
+
+**Assyrian (AT).** No cultivation status is attested, and the standing blocking warning on Assyrian substance identifications, tablet references and agency attributions is in force. The bark appears in the Nineveh material for worm expulsion and bloody flux; where illness is classified by causal agency, an anthelmintic is defined by the intruder it drives out, not by any constitutional good it confers. **(c) absent.**
+
+**Greek (DMM).** Dioscorides has no subtle-body system and none is manufactured here. What the *De Materia Medica* offers a cultivator is a discipline of attention: he separates root bark, rind and flower (*balaustion*) as three distinct medicinal fractions with distinct actions and doses, and specifies the anthelmintic root-bark decoction taken on an empty stomach before purging. That precision — knowing which fraction, gathered how, does what — is the real practice. No vital-cultivation status is claimed. **(c) absent.**
+
+**Unani (CM).** Ibn Sina places the rind as cold and dry, astringent — a therapeutic humoral assignment for diarrhoea, dysentery and uterine flux, with the root bark reserved as the anthelmintic. No conservation of innate heat and radical moisture is attached to it; a cooling astringent is corrective, not a substance one takes to husband the finite vital endowment. It carries a therapeutic profile in this tradition, not a cultivation one. **(b) framed — claimed by the tradition, no cultivation status attested.**
+
+**Chinese (SBJ).** The rind (石榴皮 *shíliúpí*) is recorded as sour-astringent and warm — astringes the intestines, stops diarrhoea, kills parasites, stops bleeding. This wording is drawn from Li Shizhen's *Bencao Gangmu* (1596), a late compilation, and no *san pin* 三品 grade is recorded for it in the sources retrieved. It therefore carries no cultivation status here, only a therapeutic one; an astringent draining-and-securing agent sits at the opposite pole from the upper-grade substances taken long-term to nourish life. **(b) framed — no *san pin* grade attested.**
+
+**Ayurveda (SS).** Sushruta and Charaka give the rind (*dāḍima tvak*) as *kashaya* (astringent) *rasa*, *sheeta virya*, *kapha-pitta shamaka*, for *atisara* (flux) and *krimi* (intestinal parasites). This is a therapeutic assignment; no *rasayana* or *vajikarana* standing is attested for the rind. The fruit's wider symbolic and dietetic reputation does not transfer to the astringent drug fraction. **(b) framed — no *rasayana* status attested.**
+
+**Tibetan (FMT).** The pomegranate is a warming digestive in the Tibetan materia medica, but no *bcud len* (essence-extraction) role and no subtle-body-practice category are attested for the rind, and the Four Tantras assert no such formal category to fill. Medicine here is the third of four treatment branches — it supports practice without reaching the root. **(c) absent.**
+
+**Practitioner's note.** There is nothing here to cultivate. Across every tradition the rind and bark are a `[RESET]` drug in the strict sense — an astringent, antimicrobial, anthelmintic agent taken for a defined complaint over a defined short course and then stopped. The pomegranate's enormous symbolic weight (Persephone, fertility, Jewish and Persian iconography) attaches to the whole fruit and seed, not to the rind, and symbolism is not a cultivation status in any case: it tells you what the fruit meant, not what the drug does to a body. Keep the two apart. The honest cultivator's use of this fraction is brief, targeted, and self-terminating.
+
+---
+
 ### Contraindications
 
 - **Root bark preparation — CAUTION** — pelletierine alkaloids in the root bark are toxic at overdose; traditional anthelmintic doses require accurate measurement; not for self-treatment; only the rind (not root bark) for general use

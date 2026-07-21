@@ -121,6 +121,26 @@ Tahini (sesame paste) is an extremely convenient whole-food protein-mineral-fat 
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** Sesame's Egyptian standing is strong but food-and-craft, not vital-cultivation: *šemsem* as a cooking and lamp oil, an emollient, a drug vehicle, and a ceremonial offering, with seeds recovered from Tutankhamun's tomb. A ceremonial offering and a drug base are uses of the substance, not statements about its action on the *ka* or *ib*; no *heka* recitation and no constitutional framing are attested for it in the sources retrieved. Presence — even prestigious, funerary presence — is not status. **(c) absent.**
+
+**Assyrian (AT).** No cultivation status is attested, and the blocking warning on Assyrian identifications applies. *Šamaššammū*, the "plant of the sun," was Mesopotamia's primary oilseed — cultivated at scale, pressed for the region's staple oil, used as a wound-healing medium and drug vehicle. This is economic and therapeutic centrality, not a claim that the oil husbands the vital constitution. **(c) absent.**
+
+**Greek (DMM).** Dioscorides has no subtle-body system and none is supplied. He records sesame as nutritive and fattening, the oil as emollient and digestive, with topical uses for the ears and skin, and distinguishes the Indian black seed from the white cultivated type. That varietal discrimination — knowing black from white, seed from expressed oil — is exactly the discipline of attention his text trains. No vital-cultivation status is claimed. **(c) absent.**
+
+**Unani (CM).** Ibn Sina classes sesame warm in the first degree and moist, and gives it a genuine strengthening role: *muqawwi* (fortifying) and a *musammim*-type strengthener for the brain and nerves, its warm-moist profile suited to cold-dry constitutions. This edges toward cultivation, but the *Canon* frames it as a nourishing-tonic therapeutic action for the faculties, not as an attested regimen for conserving innate heat and radical moisture; that longevity doctrine is not tied to this substance in the sources retrieved. **(b) framed — a strengthening faculty attested, cultivation status not.**
+
+**Chinese (SBJ).** Sesame — 胡麻 *hú má*, traditionally identified with *Sesamum* — is recorded in the *Shénnóng Běncǎo Jīng* (c. 1st–2nd c. CE) in the **upper grade (上品)**, the class of substances taken long-term to nourish life; the classic states that sustained use "lightens the body" (輕身 *qīng shēn*), extends years, and forestalls greying. This is an attested cultivation status, not a therapeutic one, and it aligns with the later Liver–Kidney tonic reputation of the black seed. (Note: some scholarship debates whether the earliest *hú má* denoted sesame or flax; the tradition from Li Shizhen onward reads it as sesame.) **(a) attested — upper-grade *san pin* status, *Shénnóng Běncǎo Jīng*.**
+
+**Ayurveda (SS).** *Tila* is classed among the *rasayana* substances in the classical Samhitas: Charaka places it as the supreme seed for *snehana* and *vata* pacification and describes it as promoting longevity and strength, while Sushruta calls *tila taila* the foremost of oils — *brimhana* (bulk-building), *vrishya* (generative), *medhya* and *tvakprasadana* — with the black seed (*kāla tila*) held the more potent. This is an attested rejuvenative standing, distinct from *tila*'s separate ritual life in funerary and ancestral offering (*tarpana*), which is a religious observance and not a cultivation status. **(a) attested — *rasayana*/*brimhana* standing, Charaka and Sushruta Samhitas.**
+
+**Tibetan (FMT).** Sesame enters Tibetan practice through the Indian materia medica as a nourishing oil, but no specific *bcud len* (essence-extraction) attribution and no formal subtle-body-practice category are attested for it in the sources retrieved, and the Four Tantras assert no such category to fill. **(c) absent.**
+
+**Practitioner's note.** This is one of the rare foods with a genuine, sourced cultivation standing — and in two independent traditions at once, each in its own terms: an upper-grade *qīng shēn* substance in the Chinese classic, a *rasayana*/*brimhana* seed in the Ayurvedic Samhitas. What a cultivator actually does with it is undramatic and long-horizon: a daily handful or spoon of (preferably black) sesame or tahini as a building food, and warm sesame-oil *abhyanga* in `[RESET]` and `[CYCLE-OFF]` phases. Hold this apart from sesame's ritual use (the offering) and its sheer culinary ubiquity — those are why it is everywhere, but the cultivation claim rests on the two texts above, not on its presence in a tomb or a kitchen.
+
+---
+
 ### Contraindications
 
 - **Sesame allergy** — one of the top 9 food allergens (US FDA 2023); IgE-mediated; anaphylaxis risk; prevalence ~0.1–0.2% but reactions can be severe; screen before therapeutic protocols

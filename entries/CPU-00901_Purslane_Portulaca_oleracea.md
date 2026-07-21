@@ -63,6 +63,26 @@ According to PubMed:
 - **Ayurvedic:** Cooling *vīrya*, Pitta-pacifying; mildly diuretic and soothing.
 - **Galenic / Unani:** Cold & moist (2nd–3rd degree); refrigerant, moistening, mildly astringent; seeds a classic cooling demulcent for hot fluxes.
 
+### Cultivation Register
+
+Purslane is an Old World cosmopolitan weed, so its Eurasian and Mediterranean tags are not chronologically suspect. But its role everywhere is that of a **clearing, cooling, heat-resolving** agent — the therapeutic opposite of a life-nourishing tonic — so a cultivation status is largely absent even where the therapeutic attestation is strong.
+
+**Greek — Dioscorides (DMM).** The classical record is genuine: Dioscorides describes *andrákhnē* as cooling and moistening, and Galen ranks it cold-and-moist. But Dioscorides carries no subtle-body system to assign a cultivation status; what he offers a cultivator is his discipline of attention, not a status for this plant. **(c) absent, atop a real therapeutic record.**
+
+**Chinese medicine (SBJ).** *Ma chi xian* is a standard "clear Heat, resolve toxicity" drug — a cooling, blood-cooling, anti-dysenteric agent. That is a clearing therapeutic function, not a *yang sheng* one; no *san pin* upper grade or life-nourishing status is attested. **(c) absent (clearing, not cultivating).**
+
+**Unani — Avicenna (CM).** *Baqla ḥamqāʾ* and its seeds are a reliable refrigerant and cooling demulcent for hot dyscrasias. Cooling a hot humour is therapeutic correction, not conservation of innate heat; no cultivation status attested. **(c) absent.**
+
+**Ayurveda (SS).** *Lonika* is a cooling, Pitta-pacifying pot-herb and mild diuretic; no *rasāyana* or *vājīkaraṇa* status is attested. **(c) absent.**
+
+**Egyptian (EP).** *Rigla* is a cooling summer pot-herb and folk soothing food-medicine; no *heka* cultivation framing attaches. **(c) absent.**
+
+**Assyrian (AT).** A widespread edible succulent in the region's cooling pot-herb tradition; the blocking warning on Assyrian identifications applies. No cultivation status attested. **(c) absent.**
+
+**Nahua — Badianus (BM).** ⚠️ This tag is unsupported in the entry body, which records no Mesoamerican attestation for purslane; the Badianus manuscript is in any case naturalistic and does not carry the *tonalli/teyolia/ihiyotl* model (reconstructed from later ethnohistory, López Austin). No cultivation status attested; the tag itself should be reviewed. **(c) absent.**
+
+**Practitioner's note.** A cultivator uses purslane to cool and clear — a fresh potherb or poultice against damp-heat, hot sores and burning flux, and a nutrient-dense omega-3-rich green. Its work is subtractive (draining heat and toxicity), not the building of a vital substance. Across every tradition that claims it, the honest register is (c): a heat-clearer, not a life-nourisher.
+
 ### Contraindications
 
 - **High oxalate content** — caution or avoidance in oxalate kidney-stone formers and significant renal impairment; excessive intake may aggravate stone risk.

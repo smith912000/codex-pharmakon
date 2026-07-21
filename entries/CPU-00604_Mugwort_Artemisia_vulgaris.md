@@ -65,6 +65,22 @@ For *A. vulgaris* specifically, the best-characterised modern finding is its **a
 - **Tibetan (rGyud-bzhi):** warming moxa material for "cold" disorders and channel-cold.
 - **Dantian mapping (Kenetica):** lower dantian (womb-warming, pelvic-moving) with an upper-dantian dream/threshold action.
 
+### Cultivation Register
+
+**Chinese (SBJ).** Mugwort's genuine practice-level framing is **moxibustion** (*jiǔ* 灸): dried, refined leaf-punk (*ài róng*) burned at acupoints to drive penetrating warmth against cold and stagnation. This is one of the oldest characteristic therapies of Chinese medicine and is a real, attested technique — but it is a **therapy, not a cultivation grade**. Two cautions hold it below (a) for cultivation status: the classical moxa leaf is *Artemisia argyi* (*ài yè* 艾葉), the sibling species, not the *A. vulgaris* of this entry; and no *san pin* 三品 grade assigning the leaf a life-nourishing, long-term *yang sheng* 養生 role is recorded in the sources retrieved. Moxa-as-technique is (a); cultivation grade is (b), unattested.
+
+**Tibetan (FMT).** Artemisia is the material of Tibetan moxa (*me-btsa'*), applied within the *rGyud-bzhi* framework for "cold" disorders and channel-cold — again a **practice**, and one that per the tradition's own structure is medicine as the third of four treatment branches: it supports practice, it does not reach the root (the *nyes pa* derived from the three poisons). No formal "substance for subtle-body practice" category exists to assign mugwort to, and none is asserted. (b) framed as a warming external therapy.
+
+**Ayurveda (SS).** As *nagadamani*/*dawana*-group, Artemisia is a warming, bitter, *krimighna* (anthelmintic) and emmenagogue herb — a moving, stagnation-clearing drug. **No *rasayana* status is attested**; its profile is therapeutic and *doshic*, not rejuvenative. (b).
+
+**Unani (CM).** The *shīḥ*/*baranjāsif* group is hot-dry, deobstruent, emmenagogue — opening obstruction and warming a cold womb. Avicennan cultivation is the conservation of innate heat and radical moisture, and a hot-dry emmenagogue is not framed as a conservational longevity agent; nothing ties mugwort specifically to that project. (b)/(c) for cultivation status.
+
+**Greek (DMM).** Dioscorides (*De Materia Medica* III) treats *artemisia* as a warming womb-herb and emmenagogue; Pliny **records** its protective, fatigue-warding, travel-lore uses — amuletic material that the tradition notes without endorsing, and which is folk-apotropaic, not a subtle-body doctrine. The later European St John's Eve / midsummer protective-herb and dream-pillow *oneirogen* traditions are folk practice, not Dioscoridean physiology. No cultivation system is present to draw on; what remains is the discipline of attention. (c) absent for cultivation status; the amuletic and dream-threshold uses are recorded folk framings, not tradition-attested cultivation.
+
+**Egyptian (EP) and Assyrian (AT).** Bitter aromatic Artemisias belong to both repertoires for warming, worm-expelling and fumigation use, but species identification to *A. vulgaris* is not secure (uncertain for EP; under the standing blocking-warning for AT). No cultivation framing is attested in either. (c) absent.
+
+**Practitioner's note.** What a cultivator actually *does* with mugwort is **burn it or sleep on it** — moxa for penetrating warmth against cold patterns (professionally, and with the *argyi*/*vulgaris* species distinction kept honest), or a dream-pillow / light short-course evening infusion in the folk *oneirogen* tradition for dream recall. Both are bounded by its thujone content and emmenagogue power, and neither is a "nourishing-life" cultivation grade — mugwort is a threshold-and-warming working herb, not a tonic taken to build the person. Its most spiritually loaded uses (St John's Eve protection, the dream-pillow) are folk-apotropaic practice, not a subtle-body cultivation status attested by any of the tagged traditions.
+
 ### Contraindications
 - **Pregnancy — avoid:** emmenagogue and uterine stimulant (classical "moves the menses / eases birth" herb); internal use contraindicated in pregnancy.
 - **Compositae/ragweed/mugwort-pollen allergy:** significant contact-dermatitis and food-cross-reactivity risk (Art v 1, LTP); a major and well-documented caution.

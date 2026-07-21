@@ -61,6 +61,26 @@ According to PubMed:
 - **Ayurvedic:** Sweet (*madhura*) *rasa*, cooling *vīrya*, Pitta-pacifying; seed mildly *kṛmighna* (anthelmintic).
 - **Galenic / Unani:** Flesh cold & moist (2nd degree), *muraṭṭib* and gently diuretic; seed (*bazr al-qarʿ*) temperate-cool, softening, anthelmintic.
 
+### Cultivation Register
+
+The governing fact for this entry is chronological: *Cucurbita pepo* is a New World domesticate absent from the Old World until the 16th century. Every pre-Columbian tag below is therefore a **substitution tag** — the pumpkin inherited an Old-World "gourd" role (from bottle gourd, colocynth and kin) after arrival. No genuine pre-Columbian cultivation status can exist for this species in any of these traditions, and its deep food-centrality is not a cultivation status.
+
+**Egyptian (EP).** No cultivation framing is attested. The Ebers "gourd" is not *Cucurbita*, the corpus is indication-organised, and no *heka* framing attaches to this plant. **(c) absent.**
+
+**Assyrian (AT).** No cultivation status is attested. Cuneiform *qarʿu* denotes a different cucurbit, and the standing blocking warning on Assyrian substance identifications applies with full force. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** No subtle-body cultivation system exists in Dioscorides to begin with, and his *kolokýnthē* is Lagenaria/colocynth, not the pumpkin. What survives for a cultivator is his discipline of attention — provenance, season, sensory assay — not any status for this plant. **(c) absent.**
+
+**Unani — Avicenna (CM).** *Qarʿ* is read cold-and-moist by inheritance, a refrigerant and moistener. The tradition's real cultivation idea — conservation of innate heat and radical moisture — is nowhere tied to this plant. No cultivation status attested. **(c) absent.**
+
+**Chinese medicine (TCM).** *Nan gua* entered China only in the Ming as a foreign food-drug, postdating the classical three-grade (*san pin*) scheme; no upper/middle/lower grade is recorded for it, and the seed (*nan gua zi*) functions as a worm-expelling clearing agent, not a life-nourishing tonic. No *yang sheng* cultivation status attested. **(c) absent.**
+
+**Ayurveda (SS).** Pumpkin is a late, post-Columbian addition to the *kūshmāṇḍa* cucurbit group; no *rasāyana* or *vājīkaraṇa* status is attested for this species in the classical sources retrieved — only a general cooling, nourishing food role. **(c) absent, framed as unattested.**
+
+**Nahua — Badianus (BM).** This is the plant's genuine cradle: *Cucurbita* is a Mesoamerican "Three Sisters" staple. But staple-food centrality is not a cultivation status, and the Badianus manuscript is itself naturalistic — the *tonalli/teyolia/ihiyotl* model is reconstructed from later ethnohistory (López Austin), not the manuscript. No subtle-body cultivation status is textually attested for the plant. **(c) absent.**
+
+**Practitioner's note.** A cultivator does nothing "cultivational" with pumpkin in any of these traditions. It is used two ways — the seed to expel worms and ease an over-full ageing prostate, the flesh as cooling convalescent food — both therapeutic or dietary, neither a practice of nourishing life. The honest answer here is uniformly (c): a New World food-medicine wearing an inherited Old-World gourd-role, with no cultivation register of its own.
+
 ### Contraindications
 
 - Seeds are calorie-dense and oily — large anthelmintic doses may cause GI upset. Seed allergy is possible.

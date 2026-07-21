@@ -86,6 +86,26 @@ Black walnut (*J. nigra*) hull contains significantly higher juglone concentrati
 
 ---
 
+### Cultivation Register
+
+**Chinese (SBJ).** Walnut kernel (胡桃仁, *hu tao ren*) entered the Chinese materia medica only in the Tang–Song period, after the three-grade *Shennong Bencao Jing* that defines the *san pin* 三品 hierarchy; it therefore carries **no graded cultivation status** in the classic that would assign one. Its Kidney-supporting, warming reputation is genuine *bencao* material, but it belongs to the therapeutic register rather than to a recorded *shang pin* 上品 nourish-life grade. The familiar claim that the brain-shaped kernel "nourishes the brain and marrow" is *yi xing bu xing* 以形補形 (like-form-supplies-like) signature reasoning — recorded here as signature-thinking, not endorsed as fact. **(b), signature noted.**
+
+**Ayurveda (SS).** *Akṣoṭa* is claimed in the *dravyaguṇa* as *balya* and *medhya*, and the profile above leans on a nutritive-rasayana reading — but no formal Sushrutan *rasāyana* or *vājīkaraṇa* chapter placement for the walnut is attested in the sources retrieved (it is a Himalayan/Persian import to the classical corpus). It sits in a therapeutic-nutritive frame; its relation to *ojas* is unattested and is not to be inferred. **(b), framed.**
+
+**Unani (CM).** Ibn Sīnā classes walnut hot and dry in the second degree — a humoral-therapeutic grading, not a cultivation status. The Unani cultivation idea proper is the conservation of *innate heat and radical moisture*, and nothing substance-specific to walnut is attested within it. **(c) absent.**
+
+**Greek / Dioscorides (DMM).** *De Materia Medica* records walnut (*karya*) as food and remedy; Dioscorides has no subtle-body system, so there is no cultivation status to report. The famous walnut-brain "signature" is not Dioscoridean at all — it is a later European doctrine, stated most plainly by William Coles (*Adam in Eden*, 1657: the kernel "hath the very figure of the Brain") and named a *signatura* only after Jakob Böhme (1621). It is recorded here as Renaissance signature-thinking — not as fact, and not as Dioscorides'. What DMM genuinely offers a cultivator is a **discipline of attention**: Dioscorides' note that the green, unripe hull is more potent than the ripe nut is a provenance-and-season assay, not a vital doctrine. **(c) absent; signature dated and quarantined.**
+
+**Egyptian (EP).** Walnut preparations are recorded in a nutritive-restorative frame, but the Egyptian corpus is indication-organised — it records what was done for a complaint, not what a substance does to the person's vital constitution — and no *heka* or cultivation framing specific to walnut is attested. **(c) absent.**
+
+**Assyrian (AT).** The identification of walnut preparations in the cuneiform record is itself subject to the standing blocking warning on substance identifications and tablet attributions; no cultivation framing can be asserted. **(c) absent.**
+
+**Tibetan (FMT).** Walnut appears in Tibetan practice as a nutritive foodstuff, but no *bcud len* (essence-extraction) status or subtle-body-substance category is attested for it, and none exists to import. **(c) absent.**
+
+**Practitioner's note.** A cultivator eats it — as a dense food-tonic. The one framing that even approaches cultivation is the Chinese Kidney-warming reputation, and that is an ungraded therapeutic use, not a nourish-life grade; the brain-shaped "signatures," Chinese and European alike, are signature-thinking and carry no evidential weight. Eat the nut for what it is and expect nothing of the resemblance.
+
+---
+
 ### Contraindications
 
 - **Nut allergy (tree nut)** — walnut allergy is among the most common tree nut allergies; cross-reactive with pecan, hickory nut; walnut allergy can be severe (anaphylaxis risk); screen for tree nut allergy before therapeutic doses

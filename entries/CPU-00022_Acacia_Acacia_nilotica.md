@@ -95,6 +95,24 @@ Acacia is the defining tree of the ancient Egyptian, Mesopotamian, and Arabian p
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** *šndt* is among the most-attested plants in the Egyptian medical corpus, but the Ebers material is indication-organised — it records what was done for a bleeding wound or a loose gut, not what the exudate does to a person's *ka*, *ib* or vital constitution. The acacia does carry sacred-material standing in Egyptian religion (temple timber, coffin wood, mythic associations with the Osirian cycle), yet that is the standing of the tree as sacred matter, not a *heka*-bearing cultivation status assigned to the gum, and no operative recitation is attested for the exudate in the retrieved sources. Cultivation status: **(c) absent** — the sacred associations are real but belong to the tree-as-material, not to gum arabic worked for the person's vitality.
+
+**Assyrian (AT).** Acacia appears in Nineveh medical tablets as an astringent wound and binding agent. Under the standing blocking warning for Assyrian substance identifications and their causal-agency framing, no cultivation status is claimed here; the attestation is therapeutic. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Akakia* is given a systematic therapeutic account in Book I, and Dioscorides carries no subtle-body system to assign it a cultivation status. What the tradition offers a cultivator is his discipline of attention — the unripe pods as the true concentrated "acacia," the assay of the dried juice, the guard against adulteration. That is a real practice of provenance and sensory judgement, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The bark and pods are classed cold and dry in the second degree with astringent, styptic and ophthalmic uses. The strongest cultivation idea in the Unani corpus — conservation of innate heat and radical moisture — is a longevity frame of the whole regimen, not a status the *Canon* tradition assigns to this cooling astringent, and no *mufarrih* or cardiac-*ruh* role is claimed. **(b) framed:** attested therapeutically, no cultivation status sourced.
+
+**Ayurveda (SS).** *Babbūla* sits in the astringent Nyagrodhadi group with Kashaya rasa and Shita virya, worked for Stambhana and Ropana. No *rasayana* or *vajikarana* assignment is recorded in the sources retrieved, so its standing is therapeutic/dietetic, not a formal rejuvenative cultivation status. **(b) framed.**
+
+**Chinese — Bencao (SBJ).** Acacia enters Chinese materia medica chiefly as catechu (*Ér Chá*) in Li Shizhen's *Bencao Gangmu* (1596), a late compilation, and no *san pin* 三品 grade is recorded for it in the sources retrieved. Within *yang sheng* 養生 — conservational, not curative — it therefore carries a therapeutic, not a cultivation, status. **(b) framed**, dated to the 1596 compilation rather than any classic.
+
+**Practitioner's note.** Nothing here is a longevity substance. Across all six traditions acacia is worked topically and short-term — a wound seal, an astringent for loose bowels, an ophthalmic wash, a mouth rinse; gum arabic is a demulcent and prebiotic vehicle. The sacred weight of the acacia tree in Egypt is cultural and material and does not transfer to the exudate as something a cultivator takes to build vitality. Use it for the defined job, then stop.
+
+---
+
 ### Contraindications
 
 - **Constipation** — the astringent pod/bark decoction worsens constipation; use for diarrhoea/excess looseness only, not as a daily supplement in those prone to constipation.

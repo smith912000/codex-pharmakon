@@ -75,6 +75,22 @@ Compound digestive pill containing caraway/ajamoda; 1–2 tablets before or afte
 
 ---
 
+### Cultivation Register
+
+**Assyrian (AT).** Aromatic seeds of the *Carum* group are recorded in the cuneiform medical corpus among digestive and compound aromatic preparations, but the identification of caraway specifically remains uncertain and the standing blocking warning applies to every such substance identification. The Assyrian scheme classifies illness by causal agency (divine hand, ghost, oath) rather than by a substance's effect on a vital constitution, and no such agency-opposing or cultivation role is attested for these seeds. No cultivation status is recorded — (c) absent.
+
+**Unani / Avicenna (CM).** The *Canon* attests caraway (*Karāwiyā* / *Kammun al-Rum*) as warm and dry, carminative, digestive, diuretic and galactagogue — a therapeutic profile only. No claim is made connecting it to the conservation of innate heat and radical moisture, which is the tradition's true cultivation idea; it is here a corrective warming drug, not a substance for husbanding the finite vital endowment. Attested in the materia medica but with no cultivation status recorded — (b) framed.
+
+**Dioscorides (DMM).** *De Materia Medica* Book III records caraway as carminative, digestive, diuretic and helpful for the pale-complexioned, alongside stomach pain, flatulence and lactation. Dioscorides operates no subtle-body system, so there is no vital-constitution framing to report. What he offers a cultivator is instead a discipline of attention — provenance, gathering, and sensory assay of the seed against its Apiaceae look-alikes. No cultivation framing is attested — (c) absent.
+
+**Egyptian (EP).** The Egyptian medical corpus is indication-organised: it records what was done for a complaint, not what a substance does to the *ka*, *ba* or *ib*. Any species identity behind an aromatic-seed prescription is a modern hypothesis, and no *heka* recitation or deity attribution can be assigned to caraway without a source. No cultivation framing is attested — (c) absent.
+
+**Chinese (SBJ).** Caraway (葛缕子, *Gélǚzǐ*) enters the Chinese record late and through Silk Road trade rather than the foundational *bencao*, treated as a warm, pungent, Qi-moving Middle-Burner aromatic akin to small fennel (*Xiao Huixiang*). No *san pin* 三品 grade is recorded for it in the sources retrieved, so it carries no *yang sheng* cultivation standing — only a therapeutic, Qi-dispersing one. Attested but ungraded — (b) framed.
+
+**Ayurveda (SS).** *Ajamoda* is classed by rasa (Katu-Tikta), virya (Ushna) and its Vata-Kapha-reducing *deepana-pachana* (kindling-digestive) action, and appears in compound digestives such as *Ajamoda Vati*. It is not assigned to *rasayana* (rejuvenation) or *vajikarana* (generative vitality) — the formal cultivation disciplines — in the classical material. Attested within *dravyaguna* as a digestive but with no cultivation status — (b) framed.
+
+**Practitioner's note.** Across all six traditions caraway is a digestive carminative and, secondarily, a galactagogue — a substance taken to move stagnant gut Qi and settle the stomach, not to cultivate the vital constitution. The honest cultivation answer is that there is no cultivation layer: the traditions record culinary and carminative use, not a status in any longevity or subtle-body discipline. A cultivator uses it as a functional food — in rye bread, sauerkraut, beans and cabbage, self-titrating through the diet — and expects nothing from it beyond a quieter, less obstructed digestion.
+
 ### Contraindications
 
 - **Pitta-excess constitution** — warming volatile oil can aggravate acidity and inflammation; use moderately

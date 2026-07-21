@@ -84,6 +84,24 @@ The seed phthalides and terpenes relax intestinal smooth muscle (the carminative
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** No cultivation framing is attested. The Egyptian record for wild celery is indication-organised — diuretic, digestive stimulant, an aromatic seed used in wound preparations — and says what was done for a complaint, not what the plant does to the person's vital constitution. No *heka* recitation and no deity attribution is recorded here for celery, so none is asserted. Result: (c) absent.
+
+**Assyrian (AT).** No cultivation status is attested, and the blocking warning on Mesopotamian substance identifications and tablet references stands. Celery appears in the medical tablets for urinary, digestive and febrile complaints, and the seed for joint pain — therapeutic uses classified, in this tradition, by the complaint or agency addressed, not by any subtle-body function. Result: (c) absent.
+
+**Greek / Dioscoridean (DMM).** Dioscorides has no subtle-body system, and none is invented for celery. The plant's deepest cultural charge in the Greek world is the *selinon* garland — the funerary crown laid on the dead and the victory wreath of the Isthmian and Nemean games — but a garland is a mortuary and athletic symbol, not a cultivation status for the drug, and it must not be read as one. Dioscorides himself *records* an anti-epileptic/amuletic association (entangled with a myth-driven confusion between *selinon* and *petroselinon*) while keeping his distance from it; recording is not endorsing. What celery genuinely offers a cultivator here is the discipline of attention — distinguishing the potent wild smallage and its seed from the milder cultivated stalk, and knowing the seed is the medicinal fraction. Result: (c) absent, with the garland noted as culture, not cultivation.
+
+**Unani / Avicennan (CM).** The tradition's central cultivation idea is the conservation of innate heat and radical moisture; celery, classed hot and dry in the third degree, is a warming diuretic and deobstruent rather than a nourisher of that finite endowment. No source retrieved assigns celery a specific action on the *ruh* or on innate heat/radical moisture, so no cultivation status is claimed for it — the frame is the tradition's, the celery-specific assignment is unattested. Result: (b) framed — therapeutic classification, no cultivation status recorded.
+
+**Ayurvedic (SS).** *Ajmodā* (celery/wild-celery seed) is classed among the warming digestive seeds — *katu-tikta rasa*, *ushna virya*, *vata-kapha shamaka* — and used as a carminative, analgesic for *vata* pain, and *anti-ama* agent. This is a therapeutic profile in *dravyaguna*; no source retrieved places celery seed among the *rasayana* or *vajikarana* drugs or assigns it a status touching *ojas*, *tejas* or *prana*. Result: (b) framed — attested therapeutic seed, no cultivation status.
+
+**Chinese (SBJ).** Land celery (*hàn qín* 旱芹) is attested in Li Shizhen's *Bencao Gangmu* (1596), a late compilation, where it is recorded to calm Liver-Yang rising, benefit the Kidney and promote urination. No *san pin* 三品 grade for celery was found in the earlier classic in the sources retrieved, so no upper/middle/lower cultivation grade is asserted; the recorded actions are therapeutic, not a graded *yang sheng* 養生 assignment. Result: (b) framed — attested drug, no *san pin* grade recorded.
+
+**Practitioner's note.** Celery is used, honestly, as a therapeutic and culinary agent — diuretic, uricosuric, Liver-Yang-calming, carminative — and not as a cultivation drug in any of the traditions tagged here. The one place it carries real symbolic weight, the Greek *selinon* garland of the grave and the victory games, is cultural and funerary, not a subtle-body status. A cultivator reaches for the seed for a defined complaint (blood pressure, gout, bloating) and stops; nothing in these sources supports a constitutional or longevity practice built on it.
+
+---
+
 ### Contraindications
 
 - **Pregnancy** — phthalides and apiin have uterotonic/emmenagogue activity at medicinal doses (seed extract, seed infusion); avoid therapeutic doses during pregnancy; normal culinary amounts (stalk as food) are considered safe

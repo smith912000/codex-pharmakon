@@ -58,6 +58,26 @@ Codex policy: mechanism stated securely; named citations to be supplied and veri
 - **Ayurvedic mapping:** *Dhattura* — *ushna* (the tropanes are warming/drying in effect — note humoral systems differ on the nightshades), recognised toxic (*visha*) drug, purified by shodhana before any use; respiratory and analgesic indications. [USER: verify Ayurvedic temperament classification.]
 - **Kenetica Qi/Shen tier:** ◉ **Qi** for the smooth-muscle/antispasmodic action (bronchi, gut), with a strong ☿ **Shen** ascription for the profound action on consciousness — delirium, hallucination, amnesia; a substance that reaches deep into the mind, which is why it is specialist/archival.
 
+### Cultivation Register
+
+**Ancient Egyptian (EP).** No cultivation framing is attested, and the tag itself is doubtful: *Datura stramonium* is a New-World species with no secure presence in the pharaonic record, so any Egyptian identification is a modern back-projection rather than an attested assignment. The Ebers-type corpus is indication-organised in any case — it records what was done for a complaint, not what a substance does to the *ka*/*ba*/*ib*. Absent.
+
+**Assyrian (AT).** Absent, and under the standing blocking warning for all Mesopotamian substance identifications. The Old-World *banj* narcotic complex of the Nineveh tablets covers henbane and mandrake; extending it to a New-World *Datura* is a species transfer, not an attestation. No causal-agency classification survives that can be tied to this plant.
+
+**Greek / Dioscorides (DMM).** Dioscorides has no subtle-body system to draw on, and his *strykhnos*-group nightshades are debated Old-World Solanaceae rather than New-World *D. stramonium*. What the tradition genuinely offers a cultivator here is his discipline of attention — provenance, assay, and the emphatic recording of lethal danger. No cultivation status; the honest register is his warning.
+
+**Unani / Avicenna (CM).** Attested only through the Old-World *banj* category, not for this species; no *mufarrih* or innate-heat framing is recorded for it. Because the Avicennan cultivation idea is conservation of a finite innate heat, a deliriant poison sits outside it entirely — it depletes, it does not conserve. Framed, status absent.
+
+**Ayurveda (SS).** *Dhattūra* is a recognised toxic drug (*visha*), handled only after *shodhana* purification — and *shodhana* here is measurable, not merely ritual. But the Indian *dhattūra* is chiefly *Datura metel*/*innoxia*, not *stramonium*, and the classification is therapeutic-toxic: it carries **no** *rasayana* (rejuvenation) or *vajikarana* status. Framed as a purified *visha*; no cultivation status attested.
+
+**Tibetan (FMT).** Absent. No formal category of "substances for subtle-body practice" exists to place it in, and medicine is in any case the third of four treatment branches — supporting practice, not reaching its root. Any use would be therapeutic and tightly controlled.
+
+**Nahua / Badianus (BM).** This is the species' own home ground and the one attested ritual assignment: *toloatzin* / *tlapatl* (*Datura* spp.) is documented in Nahua ethnohistory as a divinatory and insight-seeking agent, and as a plant of dangerous, "evil" association (López Austin, *The Human Body and Ideology*, 1988; and *Tamoanchan, Tlalocan*, 1993). The caution the spec requires: the Badianus manuscript is itself naturalistic and does **not** contain the *tonalli*/*teyolia*/*ihiyotl* model — that model is reconstructed from later ethnohistory, so the *ritual* use is attested while the vital-substrate assignment is a scholarly reconstruction, not a period claim.
+
+**South American (SA).** Attestation is ethnographic, not textual, and it mostly attaches to *Brugmansia* (*toé*) rather than *Datura stramonium*; within Amazonian *vegetalismo* such plants are *plantas maestras* — teacher-agents met through the *dieta* of restriction. Stated as a generalisation across named practices, not a pan-continental system, and with the species caveat flagged. Framed; not securely this species.
+
+**Practitioner's note.** A cultivator does nothing with this plant. Across every tradition that genuinely attests it, *Datura* is a poison or a specialist divinatory agent handled only by initiated specialists — never a nourish-life or constitution-building substance. The one attested ritual register (Nahua) belongs to a closed specialist role, and this entry's own toxicology is the reason: a deliriant with a lethal margin. The register's answer is abstention.
+
 ### Contraindications
 
 - **Recreational/self-administered use — absolute prohibition.** Narrow margin, variable potency, frequent fatal/severe poisoning.

@@ -65,6 +65,22 @@ Consistent with this, **Orona-Tamayo, Valverde & Paredes-López (2018), *Critica
 - **Galenic / Unani:** cool and moist; emollient, mildly laxative, nourishing pot-herb.
 - **Dantian mapping (Kenetica):** lower/middle dantian — a building, rooting nourishment that also gently clears heat.
 
+### Cultivation Register
+
+**Mesoamerican / Nahua (BM).** This is amaranth's one genuinely attested cultivation-weight tradition, and it is **ritual/devotional, not vital-constitutional**. Sahagún's *Florentine Codex* (Book 3, the origin of the gods) records that an image of Huitzilopochtli was moulded from *tzoalli* — amaranth-seed dough — then broken up and its "flesh and bones" apportioned and eaten by the community; the seed-grain itself, *huauhtli*, was a staple and a sacramental offering. The eucharistic reading is treated at length by Flores Farfán and Elferink, "The Aztec communion: *tzoalli* in religion and medicine of the Aztecs," which also notes *tzoalli* eaten for healing by divine favour. What this attests is a **devotional and ceremonial status**, not a claim about *tonalli*, *teyolia* or *ihiyotl*: per the House warning, the *Badianus* manuscript is itself naturalistic and does not carry that animist model — it is reconstructed from later ethnohistory (López Austin), so no substance-specific subtle-body assignment for amaranth can be stated. The devotional use is (a); the vital-body cultivation status is absent.
+
+**Chinese (SBJ).** *Xiàn* 莧 is a real and continuous leaf-vegetable food-medicine — sweet, cool, heat-clearing — but no *san pin* 三品 grade for it is recorded in the sources retrieved. It therefore carries a **therapeutic status only, no cultivation grade**: attested in use, unattested as a substance "taken long-term to nourish life." (b).
+
+**Ayurveda (SS).** As *tanduliya* (pot-herb) and *rajgira* (the "royal" fasting-grain, *vrat* food), amaranth sits inside dietetics as a cooling, wholesome *śāka*. That fasting-grain role is a devotional-dietary framing, but **no *rasayana* status is attested** for it in the classical materia medica retrieved — it is nourishing food, not a named rejuvenative. (b), with the fast-day use noted as observance rather than *rasayana*.
+
+**Unani (CM).** The *baqla*/*yarbūz* greens are read as cool-moist, emollient, mildly laxative nourishment. Avicennan longevity practice is the **conservation of innate heat and radical moisture**, but nothing in the retrieved corpus ties amaranth specifically to that conservational project; it is a cooling dietetic food. (b) framed, (c) for any cultivation status.
+
+**Greek (DMM).** Dioscorides has **no subtle-body system** and none should be manufactured. What the *bliton* (blite) material offers a cultivator is his actual discipline — provenance, season, sensory assay of a wholesome cooling green — plus the Greek *amarantos* "unfading" wreath-symbolism, which is emblematic, not physiological. Cultivation status: (c) absent; the discipline of attention is the honest offering.
+
+**Egyptian (EP) and Assyrian (AT).** Both corpora are indication-organised and the *Amaranthus*/*Blitum* identification is only secure at the family/leafy-food level; the Assyrian material sits under the standing blocking-warning for species identification. No cultivation framing is attested in either. (c) absent for both.
+
+**Practitioner's note.** A cultivator uses amaranth as a **foundation food, not a discipline** — cooked grain for lysine-complete protein and minerals, cooked leaf as a cooling green. The one place it carries true spiritual weight is the Nahua ceremonial *tzoalli*, and that is a communal devotional act, not a personal vital-cultivation regimen. Everywhere else the honest register is "wholesome food, no cultivation status." Note for the ATTESTATION_QUEUE: this entry is filed as *A. hybridus* but the Old-World tags (EP/AT/DMM/CM) rest on the leafy *blite* group (*A. blitum* and kin), while the charged BM material is the New-World grain *huauhtli* — the New-World domesticate could not appear in Dioscorides, Avicenna, the Ebers corpus or cuneiform sources, so those four tags are chronologically valid **only** if read as the cosmopolitan leafy species, and the grain/pot-herb conflation should be resolved.
+
 ### Contraindications
 - **Oxalate load (raw leaf):** relevant in oxalate-type kidney-stone susceptibility — favour cooked leaf and moderate intake.
 - **Nitrate accumulation (leaf):** avoid large quantities of raw, over-mature, or long-stored greens.

@@ -82,6 +82,24 @@ The traditional applications that reflect genuine pharmacology (now deliverable 
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** Birthwort enters the Ebers material only as a component of labour- and afterbirth-preparations — an indication-organised record of what was done for a complaint, not an account of what the plant does to a person's vital constitution (*ka*, *ba*, *akh*, *ib*). No *heka* recitation is attested for this substance in the sources retrieved, and the modern reading of the drug's botanical identity is itself a hypothesis. **No cultivation framing is attested — (c) absent**, and honestly so.
+
+**Assyrian (AT).** The Mesopotamian *Zarāwand* is placed among wound- and snakebite-remedies — that is, classified largely by the agency it was thought to oppose (venom, the biting thing). The identification of the tablet-plant with *Aristolochia*, and the reading of any tablet reference, remain under the standing blocking-warning for cuneiform materia medica. No cultivation status can be responsibly asserted — **(c) absent**.
+
+**Greek / Dioscorides (DMM).** This is the teaching case. The name itself — Ἀριστολοχία, from *aristos* (best) + *locheia* (childbirth) — is a signature: the plant was read as *best for childbirth*, its form taken to declare its use, and Dioscorides (Book III) accordingly distinguishes round, long and *clematitis* kinds and assigns them uterine and post-partum work. Dioscorides has no subtle-body system to cultivate; what he offers a practitioner is the assayer's discipline — species discrimination, provenance, distrust of look-alikes. The signature must be recorded *as signature-thinking*, not as attestation: the reasoning encoded in the name "best for childbirth" was later shown to deliver irreversible renal failure and urothelial carcinoma. The signature was eloquent and catastrophically wrong. **No cultivation status — (c) absent; signature recorded as doctrine, not endorsed.**
+
+**Unani / Avicenna (CM).** Ibn Sīnā classes *Zarāwand* as hot and dry in the third degree and — notably — records that excessive use causes harm. Unani's cultivation idea proper is the conservation of a finite innate heat and radical moisture; a hot-and-dry, third-degree drug that injures with repetition is the antithesis of a conserving agent. The humoral frame is attested; a cultivation or longevity role is **not — (b) framed as unattested**. No *mufarrih* / cardiac-strengthening role is claimed, and none should be.
+
+**Ayurveda (SS).** Classed by rasa and virya (Tikta-Katu, Ushna) and as *Sarpadamanī*, "snake-subduer" — an anti-venom, *krimighna* and emmenagogue role, therapeutic rather than rejuvenative. Ayurveda's cultivation disciplines are *rasayana* and *vajikarana*; no *rasayana* status is attested for birthwort, and it would be a serious error to reach for one. Note that *shodhana* (purification) is a real and sometimes measurable Ayurvedic process — but no source retrieved shows *shodhana* removing aristolochic acid, and nothing here should be read as implying that any preparation renders this plant safe. **(b) framed as unattested.**
+
+**Chinese (SBJ).** *Mǎdōulíng* and the *Guān Mùtōng* group sit in the materia medica as disease-directed drugs — descending Lung qi against cough and wheeze, draining through the Bladder — the work of a *treating* (治病) substance, not a life-nourishing one. No *san pin* 三品 grade is recoverable from the sources retrieved, so no cultivation status is assigned, only a therapeutic one; and the modern record is that these species were withdrawn from the Chinese Pharmacopoeia. **(b) framed as unattested.**
+
+**Practitioner's note.** A cultivator does nothing with this plant internally. There is no nourishing-life use to be had in any of its six traditions: the voice that spoke most confidently — the Greek signature that named it "best for childbirth" — is precisely the one that led practitioners into aristolochic-acid nephropathy and cancer. Nothing in this section softens the Contraindications that follow: internal use has no safe dose, cumulative exposure is silent until the damage is advanced, and no purification claim removes the hazard. The honest cultivation answer is abstention.
+
+---
+
 ### Contraindications
 
 - **Internal use — confirmed aristolochic acid accumulation risk** — there is no documented safe internal dose; cumulative exposure from multiple short courses may exceed nephrotoxic threshold without acute symptoms until fibrosis is advanced

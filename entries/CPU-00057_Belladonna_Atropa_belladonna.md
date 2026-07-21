@@ -83,6 +83,24 @@ The pharmacology of atropine and scopolamine is among the most extensively docum
 
 ---
 
+### Cultivation Register
+
+**Assyrian (AT).** Attested only inside the Old-World *banj* narcotic-witchcraft complex of the Nineveh tablets, where a "demonic" state is the classification — illness by causal agency, the plant defined by the agency it induces. Under the standing blocking warning, the identification of belladonna *specifically* (versus henbane or mandrake) is not secure. No cultivation status: it is a substance that opposes or induces an agency, not one that nourishes a constitution. Framed, status absent.
+
+**Unani / Avicenna (CM).** Ibn Sīnā's *banj* account is pharmacologically sophisticated — it names the anticholinergic toxidrome and gives an antidote protocol — but it treats the plant as a poison to be managed, not a *mufarrih* cardiac-gladdening or longevity drug. Against the Avicennan idea of conserving a finite innate heat, a deadly narcotic sits wholly outside cultivation. Framed; no cultivation status.
+
+**Badianus / Nahua (BM).** Absent for belladonna proper, which is an Old-World plant: the Aztec anticholinergic Solanaceae are *Datura* relatives (jimsonweed / thorn-apple), not *Atropa*. Treating the Badianus record as attestation for belladonna is a species transfer. (And per the standing caveat, the *tonalli*/*teyolia*/*ihiyotl* model is reconstructed from later ethnohistory, not present in the manuscript itself.)
+
+**Greek / Dioscorides (DMM).** *Strykhnos manikos*, the "mad nightshade," is recorded with some of the most emphatic death-warnings in *De Materia Medica*. Dioscorides has no subtle-body system to assign it to; what the tradition offers is his discipline of attention and his refusal to soften the danger. No cultivation status — the register is the warning.
+
+**South American (SA).** Absent. Belladonna is European; there is no ethnographic attestation for *Atropa belladonna* in any named South American practice. The tag cannot be supported without importing a plant the tradition never had.
+
+**Ayurveda (SS).** The anticholinergic Solanaceae group in Ayurveda centres on *Dhattūra* (*Datura*), with belladonna proper reaching India only via trade; the shared classification is *tikta-katu*, *ushna vīrya*, extreme *pitta*-increasing, handled only in *shodhana*-purified form. This is therapeutic-toxic framing borrowed from a relative — it carries **no** *rasayana* or *vajīkarana* cultivation status. Framed; status absent, and partly by substitution.
+
+**Non-tradition note (outside the tagged set).** Belladonna's best-known "cultivation" reputation — the early-modern European witchcraft and "flying-ointment" literature, and the Greek naming after Atropos, the Fate who cuts the thread — falls **outside** the six tagged traditions and is recorded here as such rather than forced into a tradition slot. It is early-modern and classical European folklore, not an attested subtle-body assignment from AT, CM, BM, DMM, SA or SS.
+
+**Practitioner's note.** Nothing. Belladonna is among the most toxic plants in the European flora, with a therapeutic margin too narrow for any self-directed practice. No tradition in the tagged set assigns it a cultivation or nourish-life status; every one that records it records a poison. The register's answer is abstention.
+
 ### Contraindications
 
 - **All routine applications** — the primary contraindication is the plant itself at full concentration for non-clinical use

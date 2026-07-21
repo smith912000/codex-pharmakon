@@ -54,6 +54,22 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Chinese Medicine mapping:** **Tan Xiang** — acrid, warm, aromatic; Spleen, Stomach, Heart, Lung; moves qi, alleviates (cold-type) chest/epigastric pain.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** for the qi-moving/cooling actions, with a ☿ **Shen** ascription for the fragrance's calming, meditative effect on the mind — a rare cooling aromatic that quiets both heat and the restless spirit.
 
+### Cultivation Register
+
+**Ayurveda (SS).** Chandana carries a firmly attested *dravyaguna* classification: *tikta-kaṣāya* (bitter-astringent) *rasa*, *śīta* (cooling) *vīrya*, *madhura vipāka*, and it is one of the principal *pitta-hara* drugs — a reading stable across the classical Nighantus (Bhavaprakāśa, Rāja, Dhanvantari, Ṣoḍhala). This is a **therapeutic classification, not a *rasayana* cultivation status**: no rejuvenative (*rasayana*) or *vajikarana* assignment for chandana appears in the retrieved classical material, so the cooling *dravyaguna* profile is (a) attested, while a cultivation status is (b) unattested. Separately, the Hindu/Buddhist devotional use — *chandana* temple paste, *tilaka* on brow and deity, funerary and incense use — is a strong **ritual/devotional** attestation, but it is a cultic practice, not a claim about *ojas* or a vital-body regimen, and must not be glossed into one.
+
+**Chinese (SBJ).** *Tán xiāng* 檀香 is acrid, warm, aromatic — a qi-mover for cold-type chest and epigastric pain, entering Spleen, Stomach, Heart, Lung; its fragrance is regarded as calming to *shen* 神. No *san pin* 三品 grade is recorded for it in the sources retrieved, so it holds a **therapeutic and qi-moving status, not a cultivation grade**. (b). Note the traditions **diverge**: cooling in Ayurveda, warming-in-its-qi-action in Chinese use — recorded verbatim, not reconciled.
+
+**Tibetan (FMT).** Sandalwood (white *tsan dan dkar po*) is a recognised cooling material in the Tibetan materia medica of the *rGyud-bzhi*, used against heat/fever. But no formal "substance for subtle-body practice" category exists to assign it to, and none is asserted; its devotional-incense role sits alongside, not inside, a cultivation doctrine. (b) framed as a cooling drug.
+
+**Unani (CM).** Sandal (*ṣandal abyaḍ*) is used as a cooling, cardiac-gladdening aromatic. The *mufarrih* (gladdening/heart-strengthening) framing belongs to the *Kitāb al-Adwiya al-Qalbiyya*, **not** the *Canon*, and no *mufarrih* constituent claim is published here; the Avicennan conservation-of-innate-heat cultivation idea is not specifically attested for sandal. (b)/(c).
+
+**Greek (DMM), Egyptian (EP), Assyrian (AT).** Sandalwood is **not securely present** in any of these corpora: it is a later Indian-Ocean aromatic-trade material that post-dates Dioscorides (the entry's own header flags it "DMM-adjacent, later aromatic trade"), and there is no secure *Santalum album* identification in the Ebers or cuneiform records. No cultivation framing is attested. (c) absent for all three — and see the ATTESTATION_QUEUE flag below.
+
+**Conservation flag.** *Santalum album* is assessed **Vulnerable (A1d)** on the IUCN Red List (assessment 1998, republished 2019) after centuries of over-exploitation of wild populations. A cultivator's register should carry this: authenticity and sustainable-cultivation sourcing are not optional niceties but a conservation obligation for this species.
+
+**Practitioner's note.** A cultivator uses sandalwood as a **cooling and quieting aromatic** — paste on hot skin or brow, diluted oil or incense for a restless mind before meditation or devotion — and its most loaded role is genuinely spiritual: the *chandana* of temple and *tilaka*. But that is **devotional practice, not an attested vital-cultivation status** in any of the tagged materia-medica traditions, and the cooling (SS) versus warming-qi (SBJ) readings must be kept apart, never merged. Given the species' Vulnerable status, the honest practitioner's first act is to verify authentic, cultivated (not wild-stripped) source. Note for the ATTESTATION_QUEUE: the DMM, EP and AT tags are chronologically/philologically doubtful for *S. album* (a post-Dioscoridean trade aromatic with no secure Egyptian or Assyrian identification) and should be reviewed for removal or down-grading.
+
 ### Contraindications
 
 - **Kidney disease.** Internal use cautioned in renal disease (the urinary-irritation concern with concentrated oil). [USER: verify.]
