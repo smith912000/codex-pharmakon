@@ -60,6 +60,22 @@ According to PubMed, Grant (2010, *Phytotherapy Research*) conducted a 30-day, t
 - **Ayurveda:** Pungent, warming; *deepana*/*pachana* (digestive-kindling, *ama*-clearing), carminative, anti-nauseant.
 - **Galenic / Unani:** Warm and dry in the second degree; stomachic, carminative, spirit-lifting.
 
+### Cultivation Register
+
+**Egyptian (EP).** Spearmint is tagged but the Egyptian corpus is indication-organised, and pinning a specific mint to a pharaonic prescription is a modern hypothesis, not a secure reading. No cultivation framing is attested, and no *heka* operation binds this herb to a named intervention in the sources retrieved. **(c) absent.**
+
+**Assyrian (AT).** The blocking warning on substance identification and tablet reference is in force. Nothing in the retrieved cuneiform material assigns spearmint a role — neither an agency it opposes nor a status touching the person's vitality. **(c) absent.**
+
+**Greek / Dioscoridean (DMM).** Dioscorides has no subtle-body system, and none is to be invented for garden mint. What he offers a cultivator is a *discipline of attention*: recognising *hedyosmon* "the sweet-smelling" by its fragrance, judging warming from cooling by aroma and taste. He also *records* the old reputation that mint is "contrary to generation" — but recording is not endorsing, and it is a note on effect, not a cultivation regimen. **(b) framed — a therapeutic and dietetic status, no cultivation status.**
+
+**Unani / Avicennan (CM).** As *naʿnāʿ* spearmint is a warm-and-dry stomachic that strengthens a cold, weak stomach and lifts the spirits, placing it within the economy of the *ruh* and the innate heat. But this is a therapeutic warming action; no regimen for conserving the innate heat and radical moisture is prescribed for this herb specifically, and its spirit-lifting reputation must not be inflated into a *mufarriḥ* constituent claim. **(b) framed.**
+
+**Chinese (TCM).** The allied mint *bò he* is acrid, cool, and aromatic — it releases the exterior and courses constrained Liver qi. Categorically this is a *dispersing, surface-releasing* drug, close to the opposite of a conservational *yang sheng* tonic, and no *san pin* upper grade is attested for it. Spearmint sits in that dispersing family. Its status is therapeutic; a cultivation grade is not attested and would run against the herb's own dispersing character. **(b) framed, dropping to (c) for cultivation status.**
+
+**Ayurvedic (SS).** *Pudina* is a *deepana*/*pachana* carminative — kindling digestion and clearing *ama*. This is therapeutic. No *rasayana* or *vajikarana* status is attested; indeed the herb's recorded anti-generative tendency runs contrary to the *vajikarana* (generative) aim. **(b) framed, dropping to (c) for cultivation status.**
+
+**Practitioner's note.** Spearmint is a dispersing, de-escalating herb, not a tonic in any tradition's cultivation sense. A cultivator uses it for a defined job — moving a stuck, cold, windy digestion — or for the deliberate, trial-supported twice-daily antiandrogen tea. Its quiet through-line across the traditions is the *anti-generative* note, which is the categorical opposite of a generative or life-hoarding cultivation aim: this is a herb of softening and release, taken for a purpose and then set down, never a longevity drug.
+
 ### Contraindications
 
 - **Anti-androgen action is a two-edged effect:** helpful in androgen excess, but sustained high intake is theoretically inappropriate where androgen levels must be preserved (e.g. some fertility contexts, male hormonal concerns); the ancients' "anti-generative" reputation is consistent with this. `[USER: verify]` clinical significance of casual culinary intake — trial effects used deliberate twice-daily tea.

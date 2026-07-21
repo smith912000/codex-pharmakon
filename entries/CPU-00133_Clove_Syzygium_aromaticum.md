@@ -103,7 +103,7 @@ Clove 1g + ginger 1g + black pepper 0.5g decoction; drink for cold-type conditio
 
 **Ayurveda (SS).** *Lavaṅga* is a firmly attested *dravya* — Katu-Tikta in rasa, Ushna in virya, a supreme Deepana-Pachana (digestive-fire) spice and Hridya (cardiac). These are therapeutic actions; no *rasayana* or *vajikarana* division membership is attested for clove in the sources retrieved, so it carries no cultivation status in the tradition, only a therapeutic one — (b).
 
-**Chinese (SBJ).** Clove (丁香) is a warming Middle-Burner and Kidney-Yang drug that descends Stomach qi — the classic remedy for cold-type hiccup. This is *zhi bing* 治病 (treating disease), not *yang sheng* 養生 (nourishing life); no *san pin* upper-grade status is recorded for it in the sources retrieved, and as a late trade arrival it does not sit among the classic long-term nourishing-life drugs. Framed; therapeutic status only — (b).
+**Chinese (TCM).** Clove (丁香) is a warming Middle-Burner and Kidney-Yang drug that descends Stomach qi — the classic remedy for cold-type hiccup. This is *zhi bing* 治病 (treating disease), not *yang sheng* 養生 (nourishing life); no *san pin* upper-grade status is recorded for it in the sources retrieved, and as a late trade arrival it does not sit among the classic long-term nourishing-life drugs. Framed; therapeutic status only — (b).
 
 **Tibetan (FMT).** Clove (*Byi-ma-ra*) appears in the *Gyushi* as a warming ingredient and figures in the *Rinchen Rilbu* precious-pill formulas — but that is formula membership, not a cultivation status, and Tibetan medicine has no formal "substances for subtle-body practice" category in which to place it. Medicine is the third of four treatment branches; it supports practice, it does not reach the root. (c) absent.
 

@@ -63,6 +63,22 @@ According to PubMed:
 - **Ayurvedic:** Cooling *vīrya*, Pitta-pacifying; astringent; cooling to the periphery (palms, soles, scalp).
 - **Galenic / Unani:** Cold & dry (≈2nd degree); astringent (*qābiḍ*), desiccant, cooling topical.
 
+### Cultivation Register
+
+**Greek / Dioscoridean (DMM).** Dioscorides records *kýpros* as a cooling, astringent topical and prizes the flower's *kypros* perfume, but *De Materia Medica* carries no subtle-body or vital-cultivation system into which henna could be placed — none exists to be found. What the tradition offers a cultivator here is not a status but a discipline of attention: the assay of the leaf, the season of gathering, the detection of adulteration. Cultivation status: absent (c).
+
+**Unani / Avicenna (CM).** Henna is richly attested in the *Canon*-lineage materia medica as a cold-and-dry astringent (*qābiḍ*) topical — a therapeutic assignment, not a cultivation one: nothing in this frame enlists henna in the conservation of innate heat and radical moisture that defines Unani longevity practice. A distinct devotional frame does attach to it — the prophetic-medicine tradition (*Tibb al-Nabawi*), which is not Avicenna's *Canon* and must not be conflated with it, holds henna in special regard on the report that the Prophet used and praised it. That regard is a blessing placed on the substance, not a claim about the body's vital economy. Cultivation status: framed but unattested (b).
+
+**Egyptian (EP).** Henna is materially present in Egypt — leaf-staining has been associated with mummified remains — but this is funerary and cosmetic use, not a recorded action on the *ka*, *ba* or *ib*. The Egyptian corpus is indication-organised, and where a substance's very identity in the texts is a modern reconstruction, the honest reading is that no cultivation framing is attested; the *heka* (operative word-and-drug together) that would have accompanied any such use is not preserved for henna in a form we can cite. Cultivation status: absent (c).
+
+**Assyrian (AT).** As a native dye and cosmetic plant of the ancient Near East, henna sits within the region's body-staining and topical practice, but the standing blocking warning on Assyrian substance identifications, tablet references and any agency attribution applies in full here. No cultivation status can be responsibly asserted. Cultivation status: absent (c).
+
+**Ayurveda (SS).** *Mehndi* / *madayantika* is attested in South-Asian practice as a cooling, Pitta-pacifying topical for the burning periphery — palms, soles, scalp. This is a *dravyaguna* therapeutic reading; no *rasayana* (rejuvenation) or *vajikarana* status is recorded for it, and none should be inferred from its coolness. Cultivation status: framed but unattested (b).
+
+**Chinese (TCM).** As an introduced regional plant, *zhi jia hua* ("fingernail flower") is used topically to cool blood-heat and resolve toxicity in skin sores. No *san pin* 三品 grade is recorded for it in the sources retrieved, so it carries no place in the *yang sheng* 養生 hierarchy — only a surface therapeutic role. Cultivation status: framed but unattested (b).
+
+**Practitioner's note.** A cultivator does with henna what the skin allows and no more: it is a topical, and internal use is contraindicated (G6PD haemolysis). Across every tradition that names it, henna is a surface medicine and an adornment — cooling, binding, marking — not a substance taken to lengthen or refine a life. The blessing the prophetic tradition lays on it is real to those who hold it, but it is worn, not ingested.
+
 ### Contraindications
 
 - **⛔ G6PD deficiency — serious hazard.** Lawsone can trigger oxidative haemolysis; henna (especially applied to large areas or to infants/neonates) has caused **haemolytic crisis in G6PD-deficient individuals**. Do not apply extensively to G6PD-deficient people or young infants. This is the single most important safety point for henna.

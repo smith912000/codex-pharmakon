@@ -62,6 +62,22 @@ According to PubMed:
 - **Ayurveda:** *Upavisha* (sub-poison), hot, requiring *shodhana* purification; external analgesic and respiratory use under poison discipline.
 - **Galenic/Unani:** Hot and dry to the extreme (3rd–4th degree); narcotic poison-drug, mainly external anodyne.
 
+### Cultivation Register
+
+**Ayurveda (SS).** Dhattura (*dhattura*) is attested in classical Indian materia medica as an *upavisha* (sub-poison) / *sthavara visha* (stationary poison) — a plant admitted to use only after *shodhana*, the purification discipline (classically soaking in *gomutra* and boiling in *godugdha*), which measurably strips its tropane load: the *Journal of Drug Research in Ayurvedic Sciences* (2022) records scopolamine reduced almost to zero and hyoscyamine down 70–90% after *shodhana* of *D. metel* seed. This is a genuine attested handling — but it is a poison-control discipline, not a *rasayana* (rejuvenation) or *vajikarana* (generative) status. Its Shaivite association — dhattura as an offering to Shiva, the danger folded into a devotional container — is likewise an attested historical framing, recorded here as history, not as a cultivation status. So: (a) for the *shodhana* requirement, but no nourish-life status is attested — what the tradition assigns is the discipline of bounding a poison.
+
+**Chinese (TCM).** As *yang-jin-hua* (洋金花, "foreign golden flower") the flower is an attested item of the Chinese materia medica — warm, acrid, explicitly toxic (*du*), historically dose-restricted for wheezing/pain and surgical anaesthesia. But the name marks it as a late, imported addition, not a Shennong-era classic drug, and no *san pin* 三品 grade is recorded for it in the sources retrieved. It therefore carries a therapeutic, dose-restricted identity only; its cultivation status is unattested. (b), framed — and dated as a later import, dropping to (c) for any cultivation claim.
+
+**Unani (CM).** The deliriant Solanaceae entered the Arabic corpus as *summum* (poisons), extreme in heat and dryness, used mainly as external anodynes. Avicennian cultivation is the conservation of innate heat and radical moisture — the husbanding of a finite vital endowment — and a violent hot-dry narcotic poison is the antithesis of that conservation, not an ally to it. No conservational status is attested. (c) absent.
+
+**Greek (DMM).** Dioscorides has no subtle-body system to assign, and *Datura metel* is not securely his plant — the Mediterranean deliriant Solanaceae he described (henbane, mandrake, *strychnos*) are analogues, not this species. What his tradition offers a cultivator is a discipline of attention: provenance, sensory assay, the recording of a poison's action while distancing from its use. For dhattura that discipline resolves into caution alone. (c) absent for any cultivation framing.
+
+**Assyrian (AT).** Under the standing blocking warning in force for every Mesopotamian substance identification, deity attribution and tablet reference, no secure cuneiform identification of *Datura metel* can be asserted — and no cultivation status can be built on an unsecured identity. (c) absent.
+
+**South American (SA).** ⚠️ This tag appears to be a mis-tag. *Datura metel* is an Old-World species; the New-World *dieta* and teacher-plant tradition attaches to the American daturas (*D. stramonium*, *D. innoxia*, *D. wrightii*) and to *Brugmansia*, not to *D. metel*. No South American cultivation framing is attested for this species, and the SA tag should be removed or reassigned to the New-World datura entries. (c) absent — flagged mis-tag.
+
+**Practitioner's note.** Nothing here is cultivated with. Across every tradition that genuinely holds it, *Datura metel* is a bounded poison: the Ayurvedic answer is *shodhana* under specialist control, the Chinese and Unani answer is minimal, dose-restricted or external therapeutic use, and the cultivator's answer is abstention. The plant teaches containment — the sacred gate that is not opened. Do not prepare, dose, or ingest by any route.
+
 ### Contraindications
 
 - **ABSOLUTE:** Not for self-administration by any route. All parts toxic.

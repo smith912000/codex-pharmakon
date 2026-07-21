@@ -63,6 +63,22 @@ Saurabh, Ghosh and Sanyal (2022, *Journal of Food Science and Technology*) devel
 - **Ayurveda:** *Madhura* (sweet), *shita virya* (cold potency), *pitta*-pacifying; light, laxative, diuretic.
 - **Galenic / Unani:** Cold and moist to the second degree; coolant, thirst-quenching, gently aperient.
 
+### Cultivation Register
+
+**Chinese materia medica (TCM).** As *húlu* 葫芦 the drug is a cooling, sweet, fluid-draining food-medicine — it opens the water passages and drains damp, a downward, dispersing action that is the opposite of tonification. No *san pin* grade and no *yang sheng* nourishing-life status is attested for it; draining a repletion is a treat-condition function, not a nourish-life one. The famous *húlu* immortality emblem — the immortals' medicine-gourd, the double-bulbed image of the microcosm in Daoist iconography — is genuine culture, but it attaches to the *vessel and symbol*, not to the drug's materia medica standing, and must be kept distinct from any cultivation status. (b): a claimed drug, draining not nourishing, with no grade recorded; the *xian* emblem is of the gourd-as-vessel, not a cultivation assignment.
+
+**Ayurveda (SS).** *Lauki* / *alabu* is classed among the cooling, *pitta*-pacifying vegetables — *madhura rasa*, *shita virya*, light and easily digested. This is a dietetic and therapeutic placement; no *rasayana* or *vajikarana* status is attested for the bottle gourd in the sources retrieved. The dried *tumbi* as the renunciate's water-vessel is, like the Chinese *húlu*, symbolism of the emptied container, not a materia medica cultivation status. (b).
+
+**Unani / Avicennan (CM).** *Al-qarʿ* is cold and moist in the second degree, a classic coolant for hot temperaments. Within the tradition's cultivation idea — the conservation of innate heat and radical moisture — a second-degree coolant is a corrective for a hot repletion, not a means of conserving the vital endowment, and no cultivation status is attested for it. (b).
+
+**Graeco-Roman / Dioscoridean (DMM).** Dioscorides reads the edible gourd (*kolokyntha*) as a cold, moist, watery food — cooling much, nourishing little. There is no subtle-body claim; what the tradition offers is the discipline of attention, sharpened here to a single readable sign: the bitter gourd is poison, the sweet is food, discernible only at the tongue. That is assay, not cultivation status — (c).
+
+**Egyptian (EP).** No cultivation framing is attested for the bottle gourd in this register; no *heka* or constitutional account is recorded in the sources retrieved. (c).
+
+**Assyrian (AT).** No cultivation status is attested, and the blocking warning on Assyrian substance-identification is in force. (c).
+
+**Practitioner's note.** A cultivator uses non-bitter bottle gourd as a cooling, hydrating, mildly draining food during heat and fluid-regulation phases — and, more importantly in this volume, as the designated teacher of discernment: the substance one never takes on reputation but must taste-test at the point of use. Its cultivation "status" is really a cultivation *discipline* — read the bitter signal every time. The immortality-gourd is a symbol to admire, not a status the drug confers.
+
 ### Contraindications
 
 - **⚠ BITTER-FRUIT POISONING (primary hazard).** Any bottle gourd — or its juice — that tastes bitter may contain toxic cucurbitacins and must **never** be consumed. Onset is minutes; symptoms include severe vomiting, bloody diarrhoea, GI bleeding and hypotension; there is no antidote. Fatalities from bitter-gourd juice are reported in the literature.

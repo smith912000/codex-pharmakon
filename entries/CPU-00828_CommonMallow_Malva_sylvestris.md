@@ -62,6 +62,22 @@ A cautionary counterpoint: Kovalik and colleagues (2014, *Journal of Medicinal F
 - **Ayurveda (adopted/folk):** Cooling, *pitta*-pacifying, mucilaginous demulcent; soothing to throat, gut and urinary heat.
 - **Galenic / Unani:** Cold and moist in the first degree; emollient, demulcent, gently laxative.
 
+### Cultivation Register
+
+**Greek / Dioscoridean (DMM).** Dioscorides describes *malache* as an emollient, softening food-medicine; as with all his materia medica he assigns **no subtle-body or cultivation status**, so on the pharmacological axis the cultivation status is absent. But mallow carries a genuine, separate charge in Greek high culture: Hesiod praises "how great the good in mallow and asphodel" (*Works and Days* 41, trans. Loeb Classical Library), and the plant is reported honoured in the later Pythagorean tradition. This is attested **culture**, recorded here as culture — a mark of esteem, not a cultivation-status claim, and not to be translated into one.
+
+**Unani (CM).** *Khubbāzī* is cold-and-moist, the standard *muraṭṭib* / emollient demulcent of the Greco-Arabic system — a therapeutic placement. The tradition's cultivation doctrine, the conservation of the finite **innate heat and radical moisture**, is real, but **no source enlists mallow within it**; it cools and lubricates hot, dry, raw tissue and is not attested as a longevity simple.
+
+**Chinese materia medica (TCM).** The Chinese stream works the allied *Malva verticillata* (*dōng kuí zǐ* 冬葵子), sweet, cool and slippery, to disinhibit urine and moisten the intestines; *M. sylvestris* itself is a Western plant read across by kinship. **No *san pin* 三品 grade is attested** for either in the sources retrieved, and no *yang sheng* 養生 role — the placement is downward-draining and demulcent, therapeutic not cultivational. (The Chinese framing is reported as the tradition's separate treatment of a relative, not carried onto the Western plant.)
+
+**Ayurveda (SS).** Adopted through Unani-influenced folk practice as *khubbazi*, mallow is used as a cooling, *pitta*-pacifying demulcent. This is a therapeutic reading; **no *rasayana* or *vajikarana* status is attested**. No *ojas* claim is recorded and none should be supplied.
+
+**Egyptian (EP).** No Egyptian attestation for *M. sylvestris* appears in the profile; the indication-organised Nile corpus records complaints treated, not constitutions altered. No cultivation framing is attested, and no *heka* datum specific to this plant survives.
+
+**Assyrian (AT).** Under the standing identification block, no secure substance identity, causal-agency classification, or cultivation framing can be assigned.
+
+**Practitioner's note.** What a cultivator does with mallow is soften — coat a raw throat, ease a dry gut, calm scalded urine. That is a therapeutic act, not a cultivation one; no tradition records mallow as a longevity or subtle-body plant. The one thing rising above the therapeutic is cultural, not pharmacological: the Greek esteem for the plant of softness, which a practitioner may honour as heritage while claiming nothing medical from it.
+
 ### Contraindications
 
 - Mucilage can **slow the absorption of concurrently taken oral drugs** — separate dosing by ~1–2 hours.

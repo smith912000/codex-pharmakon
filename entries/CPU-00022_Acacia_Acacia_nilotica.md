@@ -107,7 +107,7 @@ Acacia is the defining tree of the ancient Egyptian, Mesopotamian, and Arabian p
 
 **Ayurveda (SS).** *Babbūla* sits in the astringent Nyagrodhadi group with Kashaya rasa and Shita virya, worked for Stambhana and Ropana. No *rasayana* or *vajikarana* assignment is recorded in the sources retrieved, so its standing is therapeutic/dietetic, not a formal rejuvenative cultivation status. **(b) framed.**
 
-**Chinese — Bencao (SBJ).** Acacia enters Chinese materia medica chiefly as catechu (*Ér Chá*) in Li Shizhen's *Bencao Gangmu* (1596), a late compilation, and no *san pin* 三品 grade is recorded for it in the sources retrieved. Within *yang sheng* 養生 — conservational, not curative — it therefore carries a therapeutic, not a cultivation, status. **(b) framed**, dated to the 1596 compilation rather than any classic.
+**Chinese — Bencao (TCM).** Acacia enters Chinese materia medica chiefly as catechu (*Ér Chá*) in Li Shizhen's *Bencao Gangmu* (1596), a late compilation, and no *san pin* 三品 grade is recorded for it in the sources retrieved. Within *yang sheng* 養生 — conservational, not curative — it therefore carries a therapeutic, not a cultivation, status. **(b) framed**, dated to the 1596 compilation rather than any classic.
 
 **Practitioner's note.** Nothing here is a longevity substance. Across all six traditions acacia is worked topically and short-term — a wound seal, an astringent for loose bowels, an ophthalmic wash, a mouth rinse; gum arabic is a demulcent and prebiotic vehicle. The sacred weight of the acacia tree in Egypt is cultural and material and does not transfer to the exudate as something a cultivator takes to build vitality. Use it for the defined job, then stop.
 

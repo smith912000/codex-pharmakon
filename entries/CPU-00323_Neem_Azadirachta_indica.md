@@ -117,7 +117,7 @@ Cold-pressed neem seed oil; apply directly to skin infections, tinea, folliculit
 
 **De Materia Medica (DMM).** Neem is an Indian tree outside Dioscorides' Mediterranean range; the corpus offers no entry for it and, in any case, no subtle-body system. (c) absent.
 
-**Chinese (SBJ).** TCM documents the related *Kǔliàn / Chuānliànzǐ* (*Melia* spp.), a bitter-cold, qi-regulating anthelmintic — a disease-attacking (*zhi bing* 治病) drug, not a nourish-life one, and a different species from neem. No *san pin* nourishing-life status attaches to neem itself. (c) absent.
+**Chinese (TCM).** TCM documents the related *Kǔliàn / Chuānliànzǐ* (*Melia* spp.), a bitter-cold, qi-regulating anthelmintic — a disease-attacking (*zhi bing* 治病) drug, not a nourish-life one, and a different species from neem. No *san pin* nourishing-life status attaches to neem itself. (c) absent.
 
 **Ayurveda (SS).** *Nimba* is firmly attested in the *dravyaguna*: the supreme Tikta (bitter), Śīta in virya, Kaṭu in vipāka, Pitta-Kapha-śāmaka, and a member of the Pañcatikta (five-bitters) group named in the Suśruta Saṃhitā — an attested classification — (a). Its ritual and protective use is also genuine but separate: neem's association with the goddess Śītalā and the Gudi Padwa custom of eating neem are ritual/apotropaic, not *dravyaguna*. The further claim that *Nimba* holds a formal *rasayana* (rejuvenation-division) status is not confirmed to a named rasayana chapter in the sources retrieved — it is only loosely asserted in secondary literature — so that status stays framed — (b). Bitter cleansing is attested; rejuvenation-division membership is not.
 

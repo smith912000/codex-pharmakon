@@ -73,6 +73,22 @@ According to PubMed, an in vitro study of *Plantago major* and its two principal
 - **Ayurvedic / Unani:** cool and dry; astringent (*qābiḍ* / *kashaya*) and demulcent; wound-closing, flux-checking, membrane-soothing.
 - **Galenic:** cool and dry in the second degree; drawing, binding, vulnerary (Dioscoridean *arnoglosson*).
 
+### Cultivation Register
+
+**European phytotherapy.** Plantain's one genuinely non-therapeutic datum in this tradition is a **magico-medical** one: as *wegbrade* it is invoked in the Anglo-Saxon *Nine Herbs Charm* (Lacnunga, British Library Harley MS 585, tenth century), addressed as "mother of worts... mighty within" — a recited charm in which spell and herb form one intervention (M. L. Cameron, *Anglo-Saxon Medicine*, Cambridge 1993). This is recorded **historically, as an attested charm context** — *heka*-adjacent but European — and is explicitly **not** a cultivation status: it frames the plant's power, it does not grade the plant's action on the practitioner's vital constitution.
+
+**Greek / Dioscoridean (DMM).** Dioscorides classes *arnoglosson* among the cool, dry, astringent wound-herbs. He supplies **no subtle-body or cultivation system**. What the tradition offers a cultivator is the *discipline of attention* — leaf-recognition, the drawing-binding assay of astringency on the tongue — not a doctrine of vital refinement.
+
+**Chinese materia medica (TCM).** The Chinese stream centres the kin species *Plantago asiatica* (*chē qián* 车前), leaf and seed, as established heat-clearing, damp-draining drugs; *P. major* is used as regional substitute. These are therapeutic placements: **no *san pin* 三品 grade and no *yang sheng* 養生 role is attested** in the sources retrieved. The seed's eye-brightening and phlegm-transforming actions are curative, not cultivational.
+
+**Unani / South Asian (CM).** As *bārtang* / *lisān al-ḥamal*, plantain enters the Greco-Arabic materia medica as a cool, dry, astringent (*qābiḍ*) wound-herb and demulcent — a therapeutic placement. The tradition's cultivation doctrine, the conservation of **innate heat and radical moisture**, is not brought to bear on it in any source retrieved; it closes and binds tissue, and is not attested as a longevity simple.
+
+**Ayurveda (SS).** Received through the same Unani-Ayurvedic transmission, plantain is read as astringent (*kashaya*) and demulcent, wound-closing and flux-checking. This is therapeutic; **no *rasayana* or *vajikarana* status is attested**, and no *ojas* claim is recorded.
+
+**Assyrian (AT).** Under the standing identification block, no secure substance identity, causal-agency classification, or cultivation framing can be assigned to this plant.
+
+**Practitioner's note.** A cultivator reaches for plantain to *close* — a bruised leaf on a stung or grazed surface, a seed-mucilage to settle the bowel. That is restorative craft, not vital cultivation, and no tradition grades it as a longevity or subtle-body plant. Its one charge beyond the therapeutic is the Anglo-Saxon charm, which a practitioner may keep as heritage and recitation while claiming from it nothing about the constitution.
+
 ### Contraindications
 
 - **Known iridoid/plantain allergy:** discontinue on any hypersensitivity reaction.

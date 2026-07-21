@@ -66,6 +66,22 @@ According to PubMed, research on proso millet focuses on its glycaemic behaviour
 - **Ayurvedic (SS):** sweet *rasa*, light (*laghu*), cooling-to-neutral, drying; kapha-suitable in light forms.
 - **Galenic (DMM):** cool and dry; binding, gently nourishing.
 
+### Cultivation Register
+
+**Chinese materia medica (TCM).** Millet's Chinese standing is genuine and ancient, but it is agricultural-ritual, not a graded drug status. As one of the *wu gu* 五穀 (five grains) and the *ji* 稷 of the *she ji* 社稷 soil-and-grain altars, millet is bound to sustenance and civilisation itself — recorded here as ritual-grain culture, not as a materia medica cultivation grade. Within *yang sheng* 養生 (nourishing life), millet congee is a conservational, restorative food that rebuilds the digestive centre, which is a genuinely nourishing-life role. But no *san pin* 三品 grade is attested for it in the sources retrieved: the *san pin* hierarchy grades the drugs of the *Shennong Bencao Jing*, and staple grains sit in dietetics rather than in that three-grade drug scheme. Cultivation status therefore rests at (b) — a real nourishing-life food, but with no upper/middle/lower grade recorded.
+
+**Ayurveda (SS).** Millet is placed in the *dravyaguna* of grains as *laghu* (light), drying and astringent-sweet — a general grain-category placement, not a substance-specific cultivation assignment. No *rasayana* (rejuvenation) or *vajikarana* status is attested for *Panicum miliaceum* in the sources retrieved; it carries a dietetic identity, not a cultivation one. (b).
+
+**Graeco-Roman / Dioscoridean (DMM).** Dioscorides has no subtle-body system, and none is manufactured here. What the tradition offers a cultivator is a discipline of attention: *milium* (κέγχρος) is assayed as a cool, dry, binding grain, dry-roasted as a warming poultice and eaten as a gentle convalescent porridge. That is a therapeutic and dietetic reading, not a cultivation status — (c), absent by the tradition's own design.
+
+**Unani / Avicennan (CM).** No cultivation status is attested for millet in this register in the sources retrieved. The Unani frame in which such a status would sit — the conservation of innate heat and radical moisture as a finite vital endowment — is not invoked for this grain here, and it would be fabrication to assert it. (c).
+
+**Egyptian (EP).** No cultivation framing is attested. The Egyptian and Near-Eastern record places millet as an ancient staple and famine-grain within the grain economy, not within any account of what the grain does to the person's vital constitution; the corpus is indication- and provision-organised. There is no *heka* attribution for it. (c).
+
+**Assyrian (AT).** No cultivation status is attested, and the blocking warning on Assyrian substance-identification and tablet reference is in force. (c).
+
+**Practitioner's note.** In practice a cultivator uses millet exactly where the Chinese nourishing-life tradition places it: as the plain restorative congee given after depletion, illness, fasting or hard practice to rebuild the centre before anything more demanding. That is a conservational, between-practices food — not a graded tonic and not a subtle-body agent. The honest reading is that its one real cultivation role is dietetic rebuilding; everything above that is unattested.
+
 ### Contraindications
 
 - **Hypothyroid caution:** millets contain goitrogenic compounds; heavy, sole-staple raw/under-processed intake may affect thyroid function, particularly with iodine deficiency — moderate and cook well. `[USER: verify]`

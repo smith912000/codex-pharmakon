@@ -78,6 +78,22 @@ According to PubMed, a review of the health benefits of peas (Dahl, Foster & Tyl
 - **Ayurvedic / South Asian:** cooling, drying, with an astringent (*kashaya*) undertone; nourishing and *balya* when well-cooked with fats and warming spices; *vata*-increasing if under-prepared.
 - **Galenic / Unani:** cool and moist in the first degree; a temperate, nourishing pulse, less flatulent than the bean; corrected with warming carminatives.
 
+### Cultivation Register
+
+**Egyptian / European tag (EP).** This entry glosses EP as European phytotherapy, while the Codex codebook reads EP as Egyptian; under either reading no cultivation status attaches to the pea. The European material is dietary *culture* — Lenten and monastic pease-pottage, the physic-garden bed, the cloister as its emblematic setting — not a subtle-body or longevity assignment. The Egyptian corpus, indication-organised and framed by *heka*, does not carry the pea with any vital-constitution status at all. (c) absent either way.
+
+**Assyrian (AT).** Under the blocking warning in force for cuneiform substance identifications, no cultivation status can be assigned to the pea. Mesopotamian medicine framed a plant by the causal agency it opposed rather than by any action on a vital constitution, and no such framing for the pea is securely attested. (c) absent.
+
+**Greek / Dioscorides (DMM).** Peas sit within the classical family of *legumina*, valued as a temperate, easily digested pulse appropriate for the sick — a temperament-and-indication reading. Dioscorides' system holds no subtle-body scheme from which a cultivation status could be drawn, so none exists to assign. What the Greek stream offers a cultivator is the discipline of attention: sound provenance, proper cooking, honest judgement of the pulse. (c) for cultivation status.
+
+**Unani / Avicenna (CM).** The pea (*bāzillā*) is classed among the cooling, nourishing *ḥubūb* and prescribed well-cooked with warming carminatives as a restorative for the depleted. That is a therapeutic and dietetic classification, not a cultivation one. Unani's cultivation idea proper — conservation of innate heat and radical moisture — is not attributed to the pea by any source retrieved, so it carries a therapeutic status only. (b) framed.
+
+**Chinese (TCM).** The pea (*wān dòu* 豌豆) is a recognised dietary food-medicine — sweet, neutral, entering Spleen and Stomach, harmonising the Middle Burner and fortifying the acquired constitution (後天). This is a *yang sheng*–adjacent, conservational register, but no *san pin* 三品 grade is recorded for it in the sources retrieved; it therefore carries a dietary/therapeutic status, not an attested cultivation grade. (b) framed.
+
+**Ayurveda (SS).** In the dietary corpus the pea is cooling, drying and astringent (*kashaya*), and *balya* — strength-giving — when well-cooked with fats and warming spice. *Balya* is a food quality, not a *rasayana* (rejuvenation) or *vajikarana* status, and no such cultivation assignment is attested for the pea; the sattvic/rajasic food lists are post-Sushrutan and are not imported. (b) framed.
+
+**Practitioner's note.** The pea is eaten, not cultivated-with: a Foundation-phase food for rebuilding the depleted and steadying the Middle. Its nearest cultivation-adjacent notes — the Chinese fortifying of the acquired constitution, the Ayurvedic *balya* quality — are dietary strengthening, not a longevity grade or a subtle-body practice, and are honestly left at that level.
+
 ### Contraindications
 
 - **Flatulence / IBS-type sensitivity:** the galacto-oligosaccharide (FODMAP) content can provoke bloating and wind; thorough cooking, soaking, and modest portions mitigate this.

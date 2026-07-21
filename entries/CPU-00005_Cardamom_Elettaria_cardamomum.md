@@ -110,7 +110,7 @@
 
 **Egyptian (EP).** The Ebers Papyrus places cardamom in fumigations, mouth-cleansing preparations and multi-ingredient digestive and urinary compounds. The corpus is indication-organised and no *heka* recitation is attested for the seed in a cited source. It records what was done for a complaint, not what cardamom does to a person's vital constitution — **(c) absent**.
 
-**Chinese (SBJ).** Li Shizhen's *Bencao Gangmu* (1596) records *xiǎo dòukòu* as acrid and warm, entering Lung, Spleen and Stomach, warming the middle burner, moving Qi stagnation and transforming dampness. This is a therapeutic notice in a late compilation; no *san pin* 三品 grade is recorded for it in the sources retrieved. It carries a therapeutic standing, not a cultivation one — **(b) framed**, dated 1596.
+**Chinese (TCM).** Li Shizhen's *Bencao Gangmu* (1596) records *xiǎo dòukòu* as acrid and warm, entering Lung, Spleen and Stomach, warming the middle burner, moving Qi stagnation and transforming dampness. This is a therapeutic notice in a late compilation; no *san pin* 三品 grade is recorded for it in the sources retrieved. It carries a therapeutic standing, not a cultivation one — **(b) framed**, dated 1596.
 
 **Ayurvedic (SS).** *Elā* is classed as *tridoshahara* in moderate use and placed in the *eladi gana* of carminatives, with *deepana*, *pachana* and *hrdya* actions and use as a *mukha-shodhana*. These are digestive-aromatic and oral-hygiene functions — therapeutic and culinary. No *rasayana* (rejuvenative) or *vajikarana* (generative) cultivation status is attested for cardamom in the sources retrieved; its *hrdya* note is a cardiac-supportive action, not a longevity discipline. Attested in the materia medica; no cultivation status — **(b) framed**.
 

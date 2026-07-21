@@ -21,7 +21,7 @@ Cubeb is a climbing pepper vine native to the Indonesian archipelago — Java an
 
 **Medieval Graeco-Arabic and European lineage (DMM / FMT).** Carried west by Arab traders, cubeb entered the medieval European pharmacopoeia as a costly aromatic prized for the same urinary and respiratory uses, and additionally as a reputed aphrodisiac and breath-sweetener; it appears in medieval recipe collections and remained an official drug into the era of the early modern pharmacopoeias, later finding a niche in medicated cigarettes for catarrh and asthma.
 
-**Southeast-Asian origin lineage (SBJ).** In its Javanese homeland cubeb is both spice and folk remedy, used locally for the same warming, decongestant, and digestive purposes before it ever reached the western trade.
+**Southeast-Asian origin lineage.** In its Javanese homeland cubeb is both spice and folk remedy, used locally for the same warming, decongestant, and digestive purposes before it ever reached the western trade.
 
 **Doctrinal & Symbolic Layer — The Aromatic Key to the Waterways:** Cubeb's doctrinal signature in Kenetica is *the warm aromatic that clears the channels* — specifically the two channel-systems the tradition ties it to: the **airways** and the **waterways** (the respiratory and urinary tracts). Symbolically it belongs to the family of penetrating, "tailed," trade-borne aromatics whose action is imagined as opening and drying passages clogged by cold and damp — dispersing catarrh from the chest and clearing stagnation from the bladder. The "tail" itself reads, in the Codex's symbolic scheme, as the mark of a plant that *reaches* — a spice with a handle, a drug that travels (as it literally did, across half the world) and that penetrates into the body's remoter passages. Where marjoram warms the hearth of the gut and millet rebuilds the centre, cubeb is the aromatic *key* that unlocks and dries the peripheral channels. Its long dual reputation — for the breath and for the waters — makes it, in the Kenetica register, the plant of *clearing and freshening*: the warming aromatic taken to open what cold-damp has closed and to sweeten what stagnation has soured.
 
@@ -61,6 +61,22 @@ According to PubMed, the modern evidence for cubeb is **constituent-level and pr
 
 - **Unani / Galenic (CM-analogue / DMM):** hot and dry, second degree; carminative, diuretic, expectorant, deobstruent of the urinary and respiratory tracts.
 - **Ayurvedic (SS):** *katu*/*tikta rasa*, *ushna virya*, *katu vipaka*; kapha- and vata-pacifying; used for mouth, throat, cough, and urinary complaints.
+
+### Cultivation Register
+
+**Assyrian (AT).** Cubeb is a Southeast-Asian trade spice that postdates the cuneiform record; there is no attestation to frame, and the standing blocking warning on Mesopotamian identifications, deity/demon attributions and tablet references is in force regardless. Absent.
+
+**Greek / Dioscoridean (DMM).** Dioscorides did not know cubeb — the berry is Javanese and entered Western practice only through medieval Arab traders, long after *De materia medica* was compiled. There is no Dioscoridean attestation to frame, and the Greek corpus carries no subtle-body system into which a cultivation status could be entered. What the lineage offers a cultivator is a discipline of attention — provenance, gathering, sensory assay, adulteration detection — but cubeb postdates it there. Absent.
+
+**Unani / Avicennan (CM).** Cubeb — *kabāb chīnī* — has a genuine and remarkably stable standing in the tradition, classed hot and dry in the second degree, a carminative, diuretic and expectorant deobstruent of the urinary and respiratory tracts. Checked against the cultivation register, that standing is squarely therapeutic: it names what the drug clears, not what it does to the vital endowment. The conservational idea of *innate heat* and *radical moisture* does not enrol it, and no *mufarrih* (*ruh*-strengthening) role is attested for it in the sources retrieved. Its status is framed but not cultivational — claimed by the tradition, therapeutically.
+
+**Southeast-Asian / Javanese.** In its Javanese homeland cubeb is spice and folk remedy — warming, decongestant, digestive — an ethnographic, orally transmitted usage rather than a textual system, carrying no codified category of vital cultivation. Attribution is to the Southeast-Asian folk practice, which the sources generalise; the honest reading is absence of a cultivation framing.
+
+**Ayurveda (SS).** Cubeb appears in Ayurveda as *kankola* (*sheetalchini*), a pungent-bitter heating aromatic (*katu/tikta rasa*, *ushna virya*, *katu vipaka*) for the mouth, throat, cough and urinary complaints — a therapeutic *dravyaguna* placement. No *rasayana* or *vajikarana* standing is attested for it in the sources retrieved; the aphrodisiac reputation that clings to cubeb belongs to the medieval European trade, not to an Ayurvedic *vajikarana* classification, and the two must not be run together. Its cultivation status here is unattested.
+
+**Tibetan (FMT).** In the Tibetan system medicine is the third of four treatment branches — it supports practice but does not reach the root, which is spiritual (the three *nyes pa* deriving from the three poisons). There is no formal category of "substances for subtle-body practice", and no *bcud len* (essence-extraction) role is attested for cubeb in the sources retrieved. Absent.
+
+**Practitioner's note.** A cultivator uses cubeb to clear, not to cultivate. It is a warming, drying aromatic taken in a short course to open cold-damp airways and waterways and to freshen the breath — a therapeutic clearing, stopped once the passage is open. No tradition in this entry grants it a vital-cultivation grade, and its own drying, penetrating character argues against continuous use.
 
 ### Contraindications
 

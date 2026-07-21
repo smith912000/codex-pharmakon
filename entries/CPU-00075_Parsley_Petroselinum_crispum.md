@@ -65,7 +65,7 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 
 **Unani / Avicenna (CM).** Attested therapeutically — hot and dry in the second degree; *mudirr-e-baul* (diuretic), *mufattit-e-hasat* (stone-breaking), *mudirr-e-haid* (emmenagogue) — but with no cultivation status recorded, so (b). Within the innate-heat / radical-moisture frame it reads as a warming, drying, opening attenuant deployed against retention and obstruction: therapeutic work, not conservation of the vital endowment. No *ruh* claim is attested.
 
-**Chinese (SBJ).** Parsley is a Mediterranean umbellifer and not a plant of the classical Chinese *materia medica*; the TCM tag here is a Kenetica energetic *mapping* (warming-drying diuretic, Qi-moving carminative), not a *bencao* attestation. There is therefore no *san pin* 三品 grade and no Chinese cultivation status to assign — (c), stated plainly rather than manufactured.
+**Chinese (TCM).** Parsley is a Mediterranean umbellifer and not a plant of the classical Chinese *materia medica*; the TCM tag here is a Kenetica energetic *mapping* (warming-drying diuretic, Qi-moving carminative), not a *bencao* attestation. There is therefore no *san pin* 三品 grade and no Chinese cultivation status to assign — (c), stated plainly rather than manufactured.
 
 **Ayurveda (SS).** Likewise, parsley is not a classical *dravya* of Sushruta or Charaka; the Ayurvedic tag is a mapping onto the tradition's categories, not an attestation within it. No *rasayana* or other cultivation status is recorded or should be invented. (c).
 

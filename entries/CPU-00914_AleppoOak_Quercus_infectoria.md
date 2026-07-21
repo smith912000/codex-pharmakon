@@ -73,6 +73,22 @@ Supporting the broader gallotannin-astringent wound rationale (in the kindred oa
 - **Ayurvedic / Unani:** cold and dry; supremely astringent (*qābiḍ* / *kashaya*); as *mājūphal* / ʿ*afṣ*, a binding, leakage-stopping, tissue-tightening drug.
 - **Galenic:** cold and dry in the third degree — the most powerfully astringent grade of the classical system.
 
+### Cultivation Register
+
+**Graeco-Roman / Dioscoridean (DMM).** The oak gall (*kēkis* κηκίς, *galla*) is a fixed drug of the classical materia medica — cold and dry in the third degree, the most binding grade the Galenic system recognised, prescribed for fluxes, dysentery, prolapse, haemorrhage and spongy gums. This is therapeutic astringency, not a cultivation status, and the two must not be conflated. What the tradition offers a cultivator is its discipline of attention, unusually concrete here: the assay of the blue/green gall (gathered before the wasp emerges, richest in tannin) against the lighter white gall gathered after — a season-of-gathering and grade judgement made at harvest. (c), carrying a genuine gathering-and-assay discipline.
+
+**Ayurveda / South Asian (SS).** As *mājūphal* the nutgall is a supremely astringent (*kashaya*) binding drug, its signature use gynaecological and post-partum. This is a therapeutic-astringent identity; no *rasayana* or *vajikarana* cultivation status is attested for it in the sources retrieved. (b): a claimed drug with an astringent function and no cultivation status.
+
+**Unani / Avicennan (CM).** Under the name ʿ*afṣ* the gall is a major *qābiḍ* (astringent), cold and dry — a binding, leakage-stopping agent. Astringency is a therapeutic action, not a conservation of innate heat and radical moisture; no cultivation status is attested for it. (b).
+
+**Chinese materia medica (TCM).** *Quercus infectoria* is not itself a Chinese drug — the tag is held by gallotannin kinship with 五倍子 *wŭ bèi zĭ*, the *Rhus* gall, which is the actual materia medica entry. For this substance, then, Chinese cultivation status is unattested. Even in its twin the action — securing and astringing chronic leakage, sweating and bleeding — is a treat-disease function with no *san pin* nourishing-life grade recorded. (c) for this substance; the kinship is analogical, not an attestation.
+
+**Egyptian (EP).** No cultivation framing is attested for the oak gall in this register; no *heka* or constitutional account is recorded in the sources retrieved. (c).
+
+**Assyrian (AT).** No cultivation status is attested, and the blocking warning on Assyrian substance-identification and tablet reference is in force. That galls and iron-gall ink circulated in the ancient Near East is commerce, not an attested cultivation status. (c).
+
+**Practitioner's note.** A cultivator treats the oak gall as a third-degree astringent tool — dilute, short-term, external by preference — for what will not stop flowing. There is no cultivation status to invoke; the one transferable practice is Dioscorides' discipline of attention, the blue-versus-white gall judgement at gathering. Therapeutic power here is not a vital-cultivation claim, and the tannin load is the standing warning against treating it as anything taken long-term.
+
 ### Contraindications
 
 - **Very high tannin load:** internal use can cause nausea, constipation, and (chronically) impaired iron and micronutrient absorption; keep internal use brief and dilute.

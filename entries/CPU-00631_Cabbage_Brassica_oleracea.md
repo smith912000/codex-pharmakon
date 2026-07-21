@@ -64,6 +64,22 @@ According to PubMed, controlled work supports the cytoprotective and chemopreven
 - **Ayurveda:** Cooling, heavy, *vata*-increasing, *pitta*-pacifying; best cooked with warming spice.
 - **Galenic/Unani:** Cold and dry (1st–2nd degree); binding, cleansing, temperance-supporting; cautioned in cold stomachs.
 
+### Cultivation Register
+
+**Assyrian (AT).** Under the blocking warning that governs every cuneiform substance identification, no cultivation status can be assigned to the cabbage here. Mesopotamian medicine classified illness partly by causal agency — the hand of a god, a ghost, a broken oath — so a plant was framed by what agency it opposed, not by any action on a vital constitution. No such framing for cabbage is securely attested, and the default is silence. (c) absent.
+
+**Unani / Avicenna (CM).** The cabbage (*karam*, *kurunb*) is attested in the *Qanun* stream as a cold-and-dry aliment-drug — cooling, gently laxative, topically resolvent. That is a therapeutic classification, not a cultivation one. Unani's genuine cultivation idea is the conservation of innate heat and radical moisture, the finite vital endowment whose depletion *is* ageing; but no source assigns cabbage a role in that economy or a strengthening of the *ruh*, so it carries only a therapeutic status here, not a cultivation status. (b) framed.
+
+**Greek / Dioscorides (DMM).** *De Materia Medica* treats *krambe* at length, and the Roman agronomic tradition — Cato's extended praise, the tag reported of Chrysippus that it is "the vegetable that sustains" — heaped reverence on it. That reverence is genuine dietary *culture* and is recorded as culture, not as a cultivation status: Dioscorides' system contains no subtle-body scheme to grant one. What the Greek stream actually offers a cultivator is a discipline of attention — provenance, season of gathering, the sharp distinction of the cultivated leaf from the wild sea-cabbage, sensory assay. (c) for cultivation status, with that discipline as the real practice.
+
+**Egyptian (EP).** The pharaonic corpus is indication-organised and its operative frame is *heka*, in which recited spell and administered drug form one intervention. Cabbage-type greens sit only within the general category of cultivated pot-herbs; no substance-specific cultivation framing is attested, and for an indication-organised corpus that absence is the honest reading. (c) absent.
+
+**Chinese (TCM).** Cultivated brassicas (the *gan-lan* group) are firmly placed in the dietary-therapeutic literature as *food-that-is-medicine*, read within the conservational project of *yang sheng* 養生 — nourishing life rather than attacking disease. But no *san pin* 三品 grade is recorded for them in the sources retrieved; they therefore carry a dietary/therapeutic status, not an attested cultivation grade. (b) framed.
+
+**Ayurveda (SS).** Cabbage-type leaves appear in the dietary (*dravyaguna*) corpus as cooling, heavy, *vata*-provoking and *pitta*-pacifying, best cooked with warming spice. These are qualities of a food, not a *rasayana* (rejuvenation) or *vajikarana* assignment, and none is attested for cabbage. The popular sattvic/rajasic/tamasic food lists derive from the Gita and later material rather than from Sushruta, and are not imported here. (b) framed.
+
+**Practitioner's note.** A cultivator eats cabbage; there is nothing to grade, time, or take in course. Its honest cultivation content is dietary and conservational — a daily cool green that binds excess (its ancient temperance-against-wine reputation belongs to culture, not pharmacology) — plus the Dioscoridean discipline of choosing and handling it well. No tradition in this file grants it a longevity or subtle-body status, and none should be manufactured.
+
 ### Contraindications
 
 - **Thyroid:** Large habitual raw intakes supply goitrogenic thiocyanate precursors; caution with iodine deficiency or existing hypothyroidism.

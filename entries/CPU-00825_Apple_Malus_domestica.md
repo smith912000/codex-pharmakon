@@ -61,6 +61,22 @@ Berni and colleagues (2019, *Medicines*) quantified antioxidants, total polyphen
 - **Ayurveda (folk):** Sweet-astringent, cooling, broadly *tridosha*-balancing; nourishing and mildly binding.
 - **Galenic / Unani:** Cultivar-dependent — sweet apples warm/moist and cardiotonic; sour apples cold/dry and astringent.
 
+### Cultivation Register
+
+**Egyptian (EP).** The apple is tagged here, but the Egyptian corpus is indication-organised and the very identification of a fruit as "apple" in the pharaonic sources is a modern botanical hypothesis rather than a secure reading. No cultivation framing is attested. Even where a plant enters a prescription, the operative act was *heka* — the recitation and the drug forming one intervention — and no such operation is tied to this fruit in the sources retrieved. Honest outcome: **(c) absent**.
+
+**Assyrian (AT).** The standing blocking warning applies to every substance identification, deity attribution, and tablet reference in the cuneiform medical corpus, and it is in force here. Illness in that system is classified partly by the causal agency a substance opposes (divine hand, ghost, oath), but nothing in the retrieved material assigns the apple such a role, still less a status for nourishing the person's vitality. **(c) absent.**
+
+**Greek / Dioscoridean (DMM).** Dioscorides carries no subtle-body system, and none may be manufactured for the apple. What the tradition genuinely offers a cultivator is a *discipline of attention*: the sweet/sour cultivar distinction is a call to assay the individual fruit — its ripeness, its astringency, the temperament it suits — and to match the specimen to the person rather than treating "apple" as one thing. That is a real practice of discernment, not a cultivation status. The mythic freight (the golden apples, the star in the core) is culture, not a claim the materia medica makes. **(b) framed — no cultivation status attested, only a therapeutic and dietetic one.**
+
+**Unani / Avicennan (CM).** The tradition claims the apple as a gladdening cardiac drug (*mufarriḥ*) that lifts the spirit and strengthens the heart, which places it within the economy of the *ruh* and of the innate heat and radical moisture — the finite vital endowment whose conservation *is* longevity practice in this system. But the *mufarriḥ* category belongs to the *Kitāb al-Adwiya al-Qalbiyya*, not the *Canon*, and no regimen of conservation is prescribed for this fruit specifically. The frame is real; the cultivation status is not attested. **(b) framed.**
+
+**Chinese (TCM).** As *píngguǒ* the apple generates fluids, moistens dryness, and harmonises the stomach — but these are therapeutic actions, not a cultivation grade. The apple is a late and largely folk entrant to the Chinese materia medica; no *san pin* 三品 placement (upper/middle/lower) is recorded for it in the sources retrieved, and neither *yang sheng* 養生 nor *qing shen* 輕身 is attested for it. It therefore carries a therapeutic status only. **(b) framed — no cultivation grade attested.**
+
+**Ayurvedic (SS).** The entry itself notes the apple is not native to the classical Indian pharmacopoeia and was absorbed into later and folk practice as a cooling, mildly binding convalescent fruit. No *rasayana* (rejuvenation) or *vajikarana* (generative) classification is attested for it in the Sushrutan divisions. The folk use is real; the formal cultivation status is not. **(b) framed, dropping to (c) for cultivation status.**
+
+**Practitioner's note.** No tradition in the tag set assigns the apple a formal life-nourishing status; the honest reading across all six is therapeutic-or-dietetic at most, and absent at the edges (EP, AT). This is fitting. The apple's vast symbolic weight — Eden, Iðunn's apples of youth, Avalon the isle of apples — is *culture*, the record of what the fruit has meant, not a cultivation assignment any materia medica made. What a cultivator actually does with it is humble and abstentive: return to it, daily and undramatically, as the food of consolidation between interventions — not because a tradition grades it as a tonic, but because it is the ordinary fruit you come back to.
+
 ### Contraindications
 
 - **Seeds contain amygdalin** (cyanogenic); incidental swallowing of a few is harmless, but deliberately crushing and eating large quantities of seeds is unsafe.

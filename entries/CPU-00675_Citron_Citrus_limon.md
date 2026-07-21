@@ -20,7 +20,7 @@ A note on identity must open this entry, because the traditions do not all mean 
 
 **Ayurveda & Siddha (AT / SS):** In Ayurveda and the Tamil Siddha system the lemon/lime (*nimbū*, *jambīra*, *elumichai*) is a valued *amla* (sour) *deepana-pachana* digestive stimulant, appetiser and antiemetic, used for nausea, poor appetite, and as a vehicle and *anupāna* for other drugs; the juice is a cooling refrigerant while the fruit overall is regarded as kindling to *agni*. It is one of the everyday medicinal foods of the subcontinent, taken for indigestion, thirst and biliousness.
 
-**European Physiomedical / Eclectic (EP) — and the antiscorbutic revolution:** The lemon's greatest documented contribution to Western medicine is as the classic **antiscorbutic**: the fruit whose juice prevents and cures scurvy. This is the single most historically consequential citrus indication — the naval and Eclectic use of lemon (and lime) juice against scurvy, later understood as vitamin C (ascorbic acid) deficiency, is one of the founding stories of evidence-based nutrition. In Western herbal and eclectic practice lemon was retained as a refrigerant in fevers, a stomachic and antiscorbutic, and a source of citric acid for effervescent and cooling drinks.
+**European Physiomedical / Eclectic — and the antiscorbutic revolution:** The lemon's greatest documented contribution to Western medicine is as the classic **antiscorbutic**: the fruit whose juice prevents and cures scurvy. This is the single most historically consequential citrus indication — the naval and Eclectic use of lemon (and lime) juice against scurvy, later understood as vitamin C (ascorbic acid) deficiency, is one of the founding stories of evidence-based nutrition. In Western herbal and eclectic practice lemon was retained as a refrigerant in fevers, a stomachic and antiscorbutic, and a source of citric acid for effervescent and cooling drinks.
 
 **Doctrinal & Symbolic Layer — The Cooling Sun-Fruit and the Sacred Etrog:** The lemon carries a doubled symbolism of *radiant light* and *cooling acid*. As the golden, sun-coloured fruit it belongs to the solar register — but unlike solar warming herbs, its virtue is to *cool and clarify*: the sour juice cuts through heat, thirst and bilious cloudiness the way its scent cuts through foulness. In the Codex's grammar the lemon is the **Cooling Sun** — brightness that refrigerates rather than inflames, the acid clarity that dispels turbidity. Its ancestor the citron carries an explicit sacred charge: the *etrog* is one of the Four Species of the Jewish festival of Sukkot, held as the fruit of the "goodly tree," a symbol of the heart and of ripened righteousness — the single citrus fruit elevated to ritual sanctity in a major tradition. This sacral dimension, together with the antitoxic and purifying virtues ascribed to it from antiquity, marks the citron/lemon as a **purifier and clarifier** — the substance that brightens, cleanses, and cuts corruption, in both the humoral and the symbolic sense.
 
@@ -65,6 +65,24 @@ According to PubMed, Wang et al. (2021), *Critical Reviews in Food Science and N
 - **TCM:** Sour, Sweet, Cool; generates fluids, quenches thirst, harmonises the stomach, calms restlessness; Liver, Stomach, Lung channels. Peel — warm, aromatic, qi-moving, phlegm-transforming.
 - **Ayurveda:** *Rasa* — *amla* (peel with *tikta/katu*); *deepana-pachana*, appetiser, antiemetic; juice cooling/refrigerant.
 - **Unani (Galenic):** Juice/pulp cold and dry — refrigerant, cardiac tonic, antiemetic; peel warm — carminative, stomachic.
+
+### Cultivation Register
+
+_The botanical here is the true lemon (*Citrus limon*); the *etrog* material belongs to the citron (*Citrus medica*) and is kept out of this register._
+
+**Assyrian (AT).** True lemon is a medieval hybrid that post-dates the cuneiform corpus, and no secure Assyrian attestation exists for it; the standing blocking warning applies to any Mesopotamian identification. Cultivation status: absent (c).
+
+**Unani / Avicenna (CM).** *Utrujj* / *līmū* is a major drug, its fruit precisely divided into cooling pulp/juice and warming peel, its juice used as a *muqawwī-e-qalb* — a cardiac strengthener. That cardiac register is the one place lemon brushes against a cultivation-adjacent idea: the strengthening of the heart and the *ruh*. But the drugs-of-the-heart doctrine belongs to the *Kitāb al-Adwiya al-Qalbiyya*, not the *Canon*; no *mufarrih* status is recorded for lemon specifically, and no constituent list may be published for it. It remains a cooling cardiac therapeutic. Cultivation status: framed but unattested (b).
+
+**Greek / Dioscoridean (DMM).** The classical authors knew the citron (the fruit actually before them was *Citrus medica*, not the later lemon) as an antitoxic, fragrant "Median apple"; Dioscorides records such uses while offering no subtle-body system to convert them into a cultivation status. The discipline he hands a cultivator is sensory: fragrance, freshness, the assay of the rind. Cultivation status: absent (c).
+
+**Egyptian (EP).** The Egyptian corpus is indication-organised and offers no recorded action of citron/lemon upon the *ka*, *ba* or *ib*; the identity of any such fruit in the texts would be a modern reconstruction, and the *heka* that would frame a vital use is not preserved. Cultivation status: absent (c).
+
+**Chinese (TCM).** *Ning meng* is a sour-sweet, cooling dietary fruit that generates fluids, quenches thirst and harmonises the stomach — a food-medicine reading. No *san pin* 三品 grade is recorded for it, and its aromatic-peel kin (*chen pi*) are qi-movers, not *yang sheng* 養生 tonics. Cultivation status: framed but unattested (b).
+
+**Ayurveda (SS).** *Nimbū* / *jambīra* is an *amla* (sour) *deepana-pachana* — a digestive kindler and antiemetic, one of the everyday medicinal foods. This is a therapeutic and dietary placement; no *rasayana* status is attested for it. Cultivation status: framed but unattested (b).
+
+**Practitioner's note.** The cultivator's honest use of lemon is ordinary and daily: a cooling, fluid-generating juice and a warming, qi-moving peel, taken as food-medicine against heat, thirst and sluggish digestion, with the vitamin-C antiscorbutic action its one historically decisive contribution. The sacral weight often reached for here belongs to the *etrog* — the citron (*Citrus medica*) of the Jewish Sukkot rite, a different botanical and a tradition outside these tags — and must not be transferred onto the lemon. Nothing attested makes lemon a substance taken to refine or extend a life.
 
 ### Contraindications
 

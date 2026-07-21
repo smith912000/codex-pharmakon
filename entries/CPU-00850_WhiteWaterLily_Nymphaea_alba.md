@@ -61,6 +61,22 @@ The plant's sedative/anaphrodisiac reputation therefore rests on a long, strikin
 - **Ayurveda (allied *Nymphaea*):** Sweet, cooling, *pitta*-pacifying; calming to heart and mind, gently restraining.
 - **Galenic / Unani:** Cold and moist (second–third degree); refrigerant, cardiac/nervine sedative, anaphrodisiac.
 
+### Cultivation Register
+
+**Egyptian (EP).** This is the critical mis-tag. *Nymphaea alba* is the European white water lily, whereas the Egyptian sacred "lotus" is *N. caerulea* / *N. lotus*. Any Egyptian sacred-lily material — the blue lily in tomb art, its symbolic associations with the *ka* and *ba*, its place within *heka* — belongs to those species and must not transfer onto *N. alba*. On the European species the Pharaonic corpus offers no cultivation framing. (c) absent — and the EP tag should be routed to the attestation queue as resting on a species conflation.
+
+**Assyrian (AT).** The blocking warning stands for every Mesopotamian identification and tablet reference; no secure identification and no cultivation status. (c) absent.
+
+**Greek / Dioscoridean (DMM).** Dioscorides describes *nymphaia* in detail — cooling root and seed, refrigerant action, the cumulative anaphrodisiac reputation later repeated by Pliny and the herbalists — a well-attested *therapeutic* record. But there is no Greek subtle-body or cultivation grade; the offer to a cultivator is the discipline of attention (provenance, gathering, assay). (b) framed; no cultivation status.
+
+**Unani / Avicenna (CM).** The strongest cultivation-relevant tag here. Unani *nīlūfar* is a cold-and-moist refrigerant and cardiac/nervine sedative, a standard ingredient of cooling cardiotonic confections; through the innate-heat / radical-moisture frame, a cooling-moistening cardiac drug reads as *conserving* rather than spending the finite vital endowment — the conservational pole of Unani longevity thinking. It is kept at (b): the cardiac (*qalbiyya*) material sits outside the *Canon*, no named-scholarship citation ties *N. alba* specifically to a *ruh* cultivation status, and *nīlūfar* itself travels ambiguously between the white and the blue Egyptian lily. (b) framed.
+
+**Chinese / TCM (TCM).** China's canonical aquatic is the true lotus *Nelumbo nucifera* — seed, plumule (*lián zǐ xīn* 蓮子心), rhizome — a *different plant*. The entry reads *N. alba* as "kin," but that is a cross-species transfer; *N. alba* itself carries no *san pin* 三品 grade or Chinese cultivation status. (c) absent — do not import the lotus's *shen*-calming material onto this species.
+
+**Ayurveda (SS).** The Indian material centres on allied *Nymphaea* (the blue/star lotus *N. nouchali* / *stellata*) and *Nelumbo* — *utpala* / *kamala* — not on *N. alba*, as the entry concedes. No *rasayana* or cultivation status is attested for the European species. (c) absent; the Indian cultivation reading belongs to the allied species, not this one.
+
+**Practitioner's note.** A cultivator uses *N. alba* for restraint and cooling — the deliberate, chosen banking of sexual heat and the quieting of an overheated heart during continence or retreat. That is a behavioural-abstentive practice, legitimate in its own right, not a tonic one. Its only cultivation-adjacent standing is the Unani conservational reading (cool-moist, moisture-preserving), and even that is framed rather than sourced. Three of its tags (EP, SBJ, SS) rest on other species; the honest cultivation record for the European white water lily is thin, and restraint — doing less — is the practice.
+
 ### Contraindications
 
 - **Cold constitutions, low libido, depressive or hypotensive states:** the cooling, sedating, desire-damping action is inappropriate and may aggravate.

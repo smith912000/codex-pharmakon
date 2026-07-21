@@ -63,6 +63,22 @@ According to PubMed:
 - **Ayurvedic (sweet basil *barbari*, distinct from Tulsi):** Pungent aromatic, warming *vīrya*, Kapha- and Vata-reducing (leaf); seeds cooling, demulcent, Pitta-soothing.
 - **Galenic / Unani:** Warm & dry (≈2nd degree); carminative, aromatic digestive, *mufarriḥ* (exhilarant) and *muqawwī-e-dimāgh* (nerve/brain tonic); seeds cool and mucilaginous.
 
+### Cultivation Register
+
+**Greek / Dioscoridean (DMM).** Dioscorides treats *ōkimon* in *De Materia Medica* as a warming, carminative aromatic of debated repute — a genuine therapeutic attestation for cultivated basil — but the tradition supplies no subtle-body system and no cultivation grade. What it offers a cultivator is the Dioscoridean discipline of attention: provenance, gathering, sensory assay, adulteration detection. (b) framed; no cultivation status.
+
+**Unani / Avicenna (CM).** This is the richest tag for sweet basil. Unani classes basil (*rayḥān* / *ḥabaq*) as warm and dry and ranks it among the gladdening/exhilarant (*mufarriḥ*) and brain-strengthening (*muqawwī-e-dimāgh*) aromatics — the *mufarriḥ* group being those held to strengthen the *ruh*. It is kept at (b): the *mufarriḥ* material belongs to the *Kitāb al-Adwiya al-Qalbiyya*, not the *Canon*, and no named-scholarship citation assigning basil that status is held here, so no constituent list or *Canon* reference is published. Through the innate-heat / radical-moisture lens, a warm-dry aromatic warms and dries — a spirit-lifter, not a moisture-conserving longevity drug. (b) framed.
+
+**Egyptian (EP).** The "Egyptian / Near-Eastern" use recorded in the entry is Arab-era folk fragrance-and-carminative use, not the Pharaonic corpus; the Ebers-type record is indication-organised and yields no cultivation framing (*ka* · *ba* · *akh* · *ib*; *heka*). (c) absent for the cultivation register.
+
+**Assyrian (AT).** The blocking warning is in force; no secure Mesopotamian identification and no cultivation status. (c) absent.
+
+**Ayurveda (SS).** In Ayurveda sweet basil is *barbari* / *munjariki*, explicitly distinct from tulsi — a warming aromatic digestive with a cooling mucilaginous seed (*sabja*). It carries no *rasayana* or *vajikarana* status; it is a therapeutic drug, not a cultivation one bearing on *ojas*. (c) absent as to cultivation status; the therapeutic attestation is a separate, framed matter.
+
+**Chinese / TCM (TCM).** *Luo le* 羅勒 is attested — acrid, warm, wind-cold-dispelling, qi-moving — but bears no *san pin* 三品 grade; a culinary/therapeutic entrant, not an upper-grade *yang sheng* 養生 drug. (b) framed; no cultivation status.
+
+**Practitioner's note.** A cultivator uses sweet basil as an uplift-and-clearing aromatic — a spirit-lifting (*mufarriḥ*) head-clearer and qi-mover for stagnation and cold-damp — taken as an event or a short course, not banked long-term. No tradition here grants it a rejuvenative cultivation grade, and its warm-dry nature argues against heavy sustained use; the cooling *sabja* seed is the counter-move. Keep it firmly separate from tulsi, whose sacred status is not transferable to this species.
+
 ### Contraindications
 
 - **Estragole (methyl chavicol) caution:** basil essential oil and some chemotypes are high in estragole, which is genotoxic/carcinogenic in animal studies at high doses. Avoid concentrated/therapeutic internal use of estragole-rich basil essential oil, especially in pregnancy, breastfeeding and infants; culinary use of the herb is considered safe.

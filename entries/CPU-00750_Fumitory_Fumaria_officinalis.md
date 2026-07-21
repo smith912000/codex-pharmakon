@@ -61,6 +61,22 @@ According to PubMed, the alkaloid chemistry and several bioactivities of *Fumari
 - **Ayurveda / Indian:** Bitter, cooling, *pitta*-reducing blood-purifier (*pitpapra*); for skin, fever and liver heat.
 - **Galenic/Unani:** Hot and dry (2nd degree); premier blood-purifier (*musaffi-e-dam*, shahtara); biliary and dermatological alterative.
 
+### Cultivation Register
+
+**Unani (CM).** *Shahtara* (شاهترہ) is a genuine and still-current drug of Unani medicine — classed hot and dry, the premier *musaffi-e-dam* (blood-purifier) for chronic skin disease, itch, and hepatic-biliary sluggishness, and one of the most widely used blood-cleansing herbs of the South Asian and Middle-Eastern Unani pharmacopoeia. But "blood-purifier" is a therapeutic-alterative status: the depurative *clears* the blood, it does not husband the innate heat and radical moisture that Unani cultivation exists to conserve. The tradition claims the substance strongly, but as therapy. (b): attested and named, framed as therapeutic — no cultivation status.
+
+**Greek (DMM).** Dioscorides describes fumitory as *kapnos* (καπνός, "smoke"), noting its sharp juice, its sting to the eyes, and its use to move bile through the urine — a cleansing bitter. This is a therapeutic action recorded within his discipline of attention (naming, sensory assay of the acrid juice), not a subtle-body or cultivation assignment, which he does not make. (c) absent for cultivation framing; the frame is therapeutic-plus-attentional.
+
+**Ayurveda (SS).** As *pitpapra* / *shahtara*, fumitory is used as a bitter, cooling, *pitta*-reducing blood-purifier and febrifuge — a footing that came onto the subcontinent partly through Unani influence. This is a *pitta*-clearing therapeutic register, not a *rasāyana* (rejuvenation) status, and none is attested. (b): claimed therapeutically, no cultivation status attested.
+
+**Chinese (TCM).** *Fumaria officinalis* is a Western species; the Chinese tradition articulates the bitter, cool, liver/gallbladder-draining, damp-heat-clearing register through its own Fumarioideae — the *Corydalis* group — not through *F. officinalis* itself. There is thus no Chinese attestation for this species: the register is an analogue only, and no *san pin* 三品 grade or cultivation status can be assigned to it. (c) absent — analogue, not a native Chinese drug.
+
+**Egyptian (EP).** The Ebers corpus is indication-organised, and no secure identification of fumitory sits within it; it belongs to the general bitter-cleanser stratum by category, not by attested substance-identity. In *heka*-framed practice spell and drug form one intervention, but nothing here attaches to fumitory specifically. (c) absent — the honest Egyptian answer.
+
+**Assyrian (AT).** Under the standing blocking warning for every Mesopotamian substance identification, no secure cuneiform identification of fumitory can be asserted, and no cultivation status can be built on it. (c) absent.
+
+**Practitioner's note.** Fumitory is worked with, but as a therapeutic alterative, not a cultivation ally: the "slow clean" — bitter courses taken to lift chronic heat and biliary stagnation out of the blood and liver, then stopped. Its strongest living tradition, Unani *shahtara*, is emphatically a *musaffi* (purifier), and the discipline it asks is course-limitation, because the isoquinoline alkaloids (sanguinarine, protopine) are not for indefinite intake. Clear with it; do not dwell on it.
+
 ### Contraindications
 
 - **Biliary obstruction:** Avoid in gallstone obstruction or biliary-tract blockage — a bile-moving herb is inappropriate where flow is mechanically obstructed.

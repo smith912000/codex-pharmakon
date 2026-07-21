@@ -64,6 +64,22 @@ According to PubMed, marjoram has a broad preclinical pharmacology and a support
 - **Unani / Tibb:** *ḥārr yābis* (hot and dry); nervine, digestive, emmenagogue for "cold" temperaments.
 - **Ayurvedic-adjacent:** pungent/heating; vata- and kapha-pacifying.
 
+### Cultivation Register
+
+**Egyptian (EP).** The entry attributes marjoram to the general Egyptian sphere of sacred and cosmetic aromatics — perfumery and embalming-adjacent use — while stating plainly that no Ebers-papyrus prescription can be pinned to this species with confidence. That honesty must hold here: a diffuse aromatic association is culture, not a substance-specific cultivation status, and no *heka* operation binds *Origanum majorana* to a named intervention in the sources retrieved. **(b) framed as an aromatic-sphere association, dropping to (c) for any cultivation status.**
+
+**Assyrian (AT).** The blocking warning on substance identification and tablet reference is in force. No role — agential or vital — is attested for marjoram in the retrieved cuneiform material. **(c) absent.**
+
+**Greek / Dioscoridean (DMM).** Dioscorides carries no subtle-body system to invent one for *amárakos*. The Galenic hot-and-dry grade is an energetic-therapeutic classification, not a cultivation status, and the tradition's real gift to a cultivator is the *discipline of attention* — distinguishing true sweet marjoram (soft, *cis*-sabinene-hydrate aroma) from the sharp wild oreganos it is so often confused with. The Aphrodite link and the bridal and funerary wreaths are culture — the record of what the herb has meant — not a claim the materia medica makes. **(b) framed.**
+
+**Unani / Avicennan (CM).** As *marzanjūsh* marjoram is a hot-and-dry nervine, digestive, and emmenagogue for "cold" temperaments — its gentle interior warmth placing it within the economy of the *ruh* and the innate heat. But this is a therapeutic warming action; no regimen for conserving the innate heat and radical moisture is prescribed for this herb specifically. **(b) framed.**
+
+**Chinese (TCM).** Marjoram is not a classical Chinese drug; the tag is minor and the plant sits outside the graded *bencao*. No *san pin* placement, no *yang sheng* or *qing shen* framing is attested. **(c) absent.**
+
+**Ayurvedic (SS).** The entry labels marjoram "Ayurvedic-adjacent" rather than classical — a pungent, heating, *vata*- and *kapha*-pacifying aromatic absorbed by proximity, not a Sushrutan drug. No *rasayana* or *vajikarana* status is attested for it. **(b) framed, dropping to (c) for cultivation status.**
+
+**Practitioner's note.** No tradition in the tag set grades marjoram as a life-nourishing substance; the honest reading is therapeutic-or-adjacent at most, and absent at the edges (AT, SBJ). Its rich symbolic register — Aphrodite's touched-into-fragrance herb, the marriage wreath, the funerary aromatic — is *culture*, not a cultivation assignment. What a cultivator does with it is modest and daily: a gentle warming nervine taken to settle a knotted gut and ease the passage toward sleep, chosen for that specific job rather than for any formal tonic status.
+
 ### Contraindications
 
 - **Pregnancy:** traditional emmenagogue; avoid therapeutic/medicinal doses in pregnancy (culinary amounts considered ordinary). `[USER: verify]`

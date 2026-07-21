@@ -69,7 +69,7 @@ Purslane is an Old World cosmopolitan weed, so its Eurasian and Mediterranean ta
 
 **Greek — Dioscorides (DMM).** The classical record is genuine: Dioscorides describes *andrákhnē* as cooling and moistening, and Galen ranks it cold-and-moist. But Dioscorides carries no subtle-body system to assign a cultivation status; what he offers a cultivator is his discipline of attention, not a status for this plant. **(c) absent, atop a real therapeutic record.**
 
-**Chinese medicine (SBJ).** *Ma chi xian* is a standard "clear Heat, resolve toxicity" drug — a cooling, blood-cooling, anti-dysenteric agent. That is a clearing therapeutic function, not a *yang sheng* one; no *san pin* upper grade or life-nourishing status is attested. **(c) absent (clearing, not cultivating).**
+**Chinese medicine (TCM).** *Ma chi xian* is a standard "clear Heat, resolve toxicity" drug — a cooling, blood-cooling, anti-dysenteric agent. That is a clearing therapeutic function, not a *yang sheng* one; no *san pin* upper grade or life-nourishing status is attested. **(c) absent (clearing, not cultivating).**
 
 **Unani — Avicenna (CM).** *Baqla ḥamqāʾ* and its seeds are a reliable refrigerant and cooling demulcent for hot dyscrasias. Cooling a hot humour is therapeutic correction, not conservation of innate heat; no cultivation status attested. **(c) absent.**
 

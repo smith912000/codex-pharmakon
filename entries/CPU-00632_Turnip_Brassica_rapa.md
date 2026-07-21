@@ -64,6 +64,22 @@ The broader *Brassica* isothiocyanate–Nrf2 mechanism reviewed for the cabbage 
 - **Ayurveda:** Root sweet, heavy, building, *kapha*-increasing; greens lighter and cleansing; cook with warming spice.
 - **Galenic/Unani:** Cooked root warm and moist (1st degree), nourishing but flatulent; seed sharper; greens cooler.
 
+### Cultivation Register
+
+**Assyrian (AT).** Under the blocking warning in force for every cuneiform substance identification, deity attribution and tablet reference, no cultivation status can be assigned to the turnip. Mesopotamian medicine classified illness partly by causal agency, framing a plant by the agency it opposed rather than by any effect on a vital constitution; no such framing for the turnip is securely attested. (c) absent.
+
+**Unani / Avicenna (CM).** The turnip (*shalgham*) is attested in the *Qanun* stream as a warm-and-moist aliment-drug — nourishing, aphrodisiac in reputation, wind-producing, the seed a sharper remedy for the chest and cold conditions. That is a therapeutic classification, not a cultivation one. Unani's cultivation idea proper is the conservation of innate heat and radical moisture; no source places the turnip in that economy or has it strengthen the *ruh*, so it carries a therapeutic status only. (b) framed.
+
+**Greek / Dioscorides (DMM).** Dioscorides discusses *gongylis / napus* — the boiled root nourishing but flatulent, softening, applied topically for chilblains — and the agronomists (Columella, Pliny) treated it as staple and famine-insurance. This is a temperament-and-indication reading; the Greek system holds no subtle-body scheme from which a cultivation status could come. What it offers a cultivator is the discipline of attention: distinguishing root from greens from the sharper seed, judging season and quality, honest assay. (c) for cultivation status, with that discipline as the practice.
+
+**Egyptian (EP).** The pharaonic corpus is indication-organised and framed by *heka*. Turnip-type roots and rape-seed oil sit only within the general category of cultivated roots and seed-oils; no substance-specific cultivation framing is attested, which for an indication-organised corpus is the honest reading. (c) absent.
+
+**Chinese (TCM).** The turnip (*wu-jing*) is prominent in the dietary-therapeutic literature as *food-that-is-medicine* within the conservational register of *yang sheng* 養生 — it resolves food stagnation, aids digestion and generates fluids. These are therapeutic actions; no *san pin* 三品 grade is recorded for it in the sources retrieved, so it carries a dietary/therapeutic status, not an attested cultivation grade. (b) framed.
+
+**Ayurveda (SS).** In the dietary (*dravyaguna*) corpus the root is sweet, heavy and *kapha*-building while the greens are lighter and cleansing, cooked with warming spice to offset the root's wind. These are food qualities, not a *rasayana* or *vajikarana* assignment, and none is attested for the turnip; the sattvic/rajasic/tamasic lists are post-Sushrutan and are not imported. (b) framed.
+
+**Practitioner's note.** Two parts, two uses — cooked root as building ballast, greens and seed as a lighter scour — but both are food registers, not cultivation grades. The turnip's nearest cultivation-adjacent charge is provision: the stored winter root as reserve against scarcity. Nothing here is taken long-term to nourish a vital constitution; the honest practice is dietary, and in the Greek key, careful selection.
+
 ### Contraindications
 
 - **Digestive:** The cooked root is notably wind-producing; caution in bloating-prone or cold-stomach constitutions — cook thoroughly with carminatives.

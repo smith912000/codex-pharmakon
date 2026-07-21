@@ -64,6 +64,22 @@ According to PubMed, small human studies support tulsi's traditional profile as 
 - **TCM (CM, minor):** *luo le* — acrid, warm; moves qi, disperses cold-damp, harmonises the stomach.
 - **Galenic / Unani (DMM / FMT):** warm and dry aromatic (≈ second–third degree); carminative, resolvent.
 
+### Cultivation Register
+
+**Egyptian (EP).** No cultivation framing is attested, and the tag looks mis-applied. Tulsi is an Indian-subcontinent plant with no place in the Pharaonic materia medica; that corpus is in any case indication-organised — it records what was done for a complaint, not what a substance does to the person's plural constitution (*ka* · *ba* · *akh* · *ib*) — and it folds drug and *heka* recitation into a single intervention. There is nothing here to cultivate. (c) absent.
+
+**Assyrian (AT).** The blocking warning stands for every Mesopotamian substance identification and tablet reference, and no secure identification of tulsi in the *asû*/*āšipu* record is available. Assyrian classification proceeds by causal agency — divine hand, ghost, broken oath — not by any cultivation status a substance confers. (c) absent.
+
+**Greek / Dioscoridean (DMM).** Dioscorides discusses *ōkimon* (basil), but the entry itself notes the plant he handled is not securely *O. tenuiflorum*, so even the therapeutic attestation is uncertain for this species — and Dioscorides carries no subtle-body or cultivation system in any case. What the tradition genuinely offers a cultivator is his discipline of attention: provenance, season of gathering, sensory assay, adulteration detection. That is a real practice, not a consolation. (b) framed; no cultivation status.
+
+**Unani / Avicenna (CM).** Unani knows fragrant basils (*rayḥān*) as warm-and-dry aromatics, and its gladdening/cardiac (*mufarriḥ*) class is held to strengthen the *ruh* — but that class belongs to the *Kitāb al-Adwiya al-Qalbiyya*, not the *Canon*, and no *mufarriḥ* status specific to tulsi is securely sourced here (no constituent list is published). Read through the strongest Unani cultivation idea — innate heat and radical moisture as a finite endowment whose conservation *is* longevity practice — a warm, drying aromatic spends rather than banks moisture. (b) framed; status unattested for this species.
+
+**Chinese / TCM (TCM).** Basil enters the Chinese materia medica as *luo le* 羅勒, an acrid, warm, qi-moving herb, but it carries no *san pin* 三品 grade in the sources retrieved; it is a later, largely culinary entrant rather than an upper-grade (上品) *yang sheng* 養生 drug taken long-term to nourish life. It therefore holds a therapeutic status only, not a cultivation one. (b) framed.
+
+**Ayurveda (SS).** Two statuses must be kept apart. The *ritual* status is genuine and among the best-documented living plant cults: tulsi is worshipped as the goddess Tulasī, kept on the raised *tulsi vrindavan*, and its leaf is obligatory in Vaishnava worship of Vishnu and Krishna. But that is a devotional cultivation status, not a *dravyaguna* one. On the dravyaguna side, tulsi is firmly attested in the Samhita materia medica as a pungent-bitter, heating aromatic — yet its classification as a formal *rasayana* (a Sushrutan rejuvenation discipline bearing on *ojas*) could not be confirmed in named classical scholarship in this pass; the popular "adaptogen/rasayana" reading appears to lean on modern reviews rather than the classics. (b) framed for the dravyaguna cultivation grade; the ritual status is real but must not be glossed into a dravyaguna one, and *ojas* is never to be translated into another tradition's substrate.
+
+**Practitioner's note.** What a cultivator actually does here is keep tulsi as a standing daily discipline — the household plant taken as a morning infusion or a chewed leaf to hold baseline composure under chronic low-grade load. The one unambiguous cultivation status it carries is devotional, not pharmacological. Its heating, drying nature makes it a stabiliser, not a rejuvenative to be loaded for "building *ojas*" — a claim that remains unverified. Honour the ritual; do not inflate the dravyaguna.
+
 ### Contraindications
 
 - **Reported anti-fertility signal:** animal studies have suggested reduced fertility/anti-spermatogenic effects; avoid in couples actively seeking conception and in pregnancy pending clarification. `[USER: verify]`

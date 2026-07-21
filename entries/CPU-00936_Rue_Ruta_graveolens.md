@@ -71,7 +71,7 @@ Separately, **Bernardo et al. (2002), *Cellular and Molecular Biology (Noisy-le-
 
 **Ayurveda (SS).** The classification given is a regional/analogue reading — *tikta*/*kaṭu*, intensely *uṣṇa*, *tīkṣṇa*, potentially *garaviṣa* (toxic), strongly *pitta*-aggravating. That is a sharp, toxic mover, the opposite pole from the *rasayana*/*vajikarana* cultivation disciplines; no such status is attested. **(b) framed**, tending to absent.
 
-**Chinese (SBJ).** The Chinese profile here is explicitly labelled an *analogue* (acrid-bitter, warm, toxic, among the restricted movers), not a securely attested classical *bencao* record. With no genuine classical entry, there is no *san pin* 三品 grade to cite. **(c) absent.**
+**Chinese (TCM).** The Chinese profile here is explicitly labelled an *analogue* (acrid-bitter, warm, toxic, among the restricted movers), not a securely attested classical *bencao* record. With no genuine classical entry, there is no *san pin* 三品 grade to cite. **(c) absent.**
 
 **Apotropaic note (ritual, not cultivation).** Rue's living non-medical practice is genuine and well attested in the later Mediterranean and European record: the "herb of grace," strewn in courtrooms and churches, carried against the evil eye and against plague-"miasma." This is recorded as **ritual where attested** — an apotropaic and consecratory use — and it is explicitly *not* a cultivation status: no tradition assigns rue a role in refining a person's vital constitution.
 

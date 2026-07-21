@@ -93,7 +93,7 @@ Throughout, the cultivation question concerns the **bitter** kernel (var. *amara
 
 **Egyptian (EP).** No cultivation framing is attested. The Egyptian record is indication-organised and does not assign the bitter kernel a status touching the *ka*, *ba* or *ib*; no *heka* recitation is recorded for it here, so none is asserted. Result: (c) absent.
 
-**Chinese (SBJ).** No *san pin* 三品 grade for the bitter almond was found in the sources retrieved, and the Chinese descending, chest-clearing "bitter kernel" of the materia medica is properly *ku xing ren* 苦杏仁 (bitter apricot kernel), a distinct *Prunus* drug — so no cultivation grade is imported to *Prunus dulcis amara* on the strength of that cognate. Result: (c) absent (identification and grade both unattested here).
+**Chinese (TCM).** No *san pin* 三品 grade for the bitter almond was found in the sources retrieved, and the Chinese descending, chest-clearing "bitter kernel" of the materia medica is properly *ku xing ren* 苦杏仁 (bitter apricot kernel), a distinct *Prunus* drug — so no cultivation grade is imported to *Prunus dulcis amara* on the strength of that cognate. Result: (c) absent (identification and grade both unattested here).
 
 **Ayurvedic (SS).** No *rasayana* or *vajikarana* status is attested for the bitter almond; it is not a rejuvenative. The one Ayurvedic discipline that genuinely bears on a cyanogenic seed is *shodhana* (purification) — a measurable process demonstrably able to lower the toxic load of poisonous seeds — which frames the bitter almond as a substance to be *detoxified before use*, the opposite pole from a drug taken long-term to nourish life. Result: (b) framed — no cultivation status; the pertinent discipline is purification, not cultivation.
 

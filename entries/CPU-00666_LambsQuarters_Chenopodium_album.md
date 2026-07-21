@@ -62,6 +62,22 @@ According to PubMed, the traditional profile is supported by a recent compositio
 - **Ayurveda:** Cooling, *deepana* (digestive), mildly laxative, *krimighna* (anthelmintic), *tridosha*-balancing when cooked.
 - **Galenic/Unani:** Cold and moist (1st degree); cooling, laxative, blood-cooling.
 
+### Cultivation Register
+
+**Chinese materia medica (TCM).** *Chenopodium album* (*li* / *bai-li*) is recorded as a cool, sweet-bitter food-medicine that clears heat and resolves dampness. It is attested therapeutically but carries **no *san pin* 三品 grade** in the sources retrieved — it sits in the dietary-medical stream, not among the graded *bencao* drugs — so it holds no cultivation status here, only a therapeutic one. No *yang sheng* 養生 role and no *qing shen* 輕身 claim is attested for it, and none should be supplied.
+
+**Ayurveda (SS).** Bathua (*vastuka*) is a named *shaka* (pot-herb) of the classical dietetic corpus, valued as *deepana* (digestive) and *krimighna* (worm-expelling). This is a dietary-therapeutic placement, not a cultivation one: **no *rasayana* (rejuvenation) or *vajikarana* status is attested** for it in the sources retrieved. It is eaten as nourishing food; no claim on *ojas* is recorded and none should be invented.
+
+**Unani (CM).** As a cold-moist (*sard-ratb*) aperient and blood-cooling green, bathua sits inside the humoral therapeutic frame. The tradition's cultivation idea proper — the conservation of **innate heat and radical moisture**, the finite vital endowment whose depletion *is* ageing — is real and central, but **no source assigns this pot-herb a role within it**. It corrects hot, thick, obstructed states; it is not attested as a longevity simple.
+
+**Greek / Dioscoridean (DMM).** Dioscorides groups the chenopod pot-herbs among cooling, loosening greens. He offers **no subtle-body or cultivation system**, and none should be manufactured. What this tradition genuinely offers a cultivator is a *discipline of attention* — knowing the pot-herb cluster, the season of gathering, the wholesome from the rank — not a doctrine of what the plant does to one's vital constitution.
+
+**Egyptian (EP).** The Ebers-horizon corpus is indication-organised: it records what was done for a complaint, not what a substance does to the person's constitution, and the identification of *C. album* within its "gathered greens" is a modern hypothesis. No cultivation framing is attested. Where the Egyptian intervention had a vital dimension it lay in *heka*, the operative recited power — of which nothing specific to this plant survives.
+
+**Assyrian (AT).** The cuneiform medical record is under a standing identification block: substance identities, and any vital or causal-agency classification, cannot be securely assigned. No cultivation framing is attested for this plant.
+
+**Practitioner's note.** A cultivator uses bathua as food, not as a cultivation drug. It nourishes the depleted and, in its sharper seed fraction, scours the gut — but every tradition that claims it places it in the therapeutic-dietary register, and none records a longevity or subtle-body status. The honest instruction is to eat it well-cooked for what it is, and read no vital doctrine into a green the traditions themselves treated as a green.
+
 ### Contraindications
 
 - **Oxalates:** Contains meaningful oxalate — caution with a history of calcium-oxalate kidney stones; cooking reduces but does not eliminate it.

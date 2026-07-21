@@ -22,7 +22,7 @@ Barberry is the great Old-World bearer of **berberine** — the brilliant yellow
 
 **Chinese Medicine (TCM):** While *Coptis chinensis* (*huang lian*) and *Phellodendron* (*huang bai*) are the canonical Chinese berberine drugs, *Berberis* species (*xiao bo*) are used in Chinese and borderland practice on the same doctrinal footing: bitter and cold, they *clear heat, dry damp, and drain fire*, and are indicated for damp-heat diarrhoea and dysentery, hot eyes, and toxic sores — the exact clinical territory berberine now occupies in pharmacology.
 
-**European Physiomedical / Eclectic (EP):** In the Anglo-American physiomedical and eclectic materia medica, *Berberis vulgaris* bark was a valued bitter tonic, cholagogue and hepatic — prescribed for jaundice, sluggish digestion, gallbladder complaints, and as an appetite-restoring bitter. It entered the official pharmacopoeias of the nineteenth century and persisted as a cholagogue bitter.
+**European Physiomedical / Eclectic:** In the Anglo-American physiomedical and eclectic materia medica, *Berberis vulgaris* bark was a valued bitter tonic, cholagogue and hepatic — prescribed for jaundice, sluggish digestion, gallbladder complaints, and as an appetite-restoring bitter. It entered the official pharmacopoeias of the nineteenth century and persisted as a cholagogue bitter.
 
 **Doctrinal & Symbolic Layer — The Yellow Bitter that Governs Bile:** Barberry's doctrine is written in its colour. The yellow of the root *is* the signature — in the symbolic grammar of the pre-modern traditions, yellow answered to bile and to the liver, and a plant that bled yellow was read as a governor of the bilious economy. Every tradition that met a berberine plant arrived at the same reading: *bitter + cold + yellow = drains heat, regulates bile, purifies the blood, clears the eyes*. In Kenetica this makes barberry the exemplar of the **Bile-Governor** archetype — the substance that presides over the transformation and downward release of heat lodged in the liver and gut. Its spines and sour berries add a second doctrinal note of *astringent consolidation*: it both opens (draining fire) and binds (staunching flux), the two-handed action of a plant that clears without depleting into weakness. The convergence of goldenseal, *Coptis*, *daruharidra* and barberry on a single molecule is, in the Codex's frame, the clearest empirical case that the traditions were reading real chemistry through the language of colour and taste.
 
@@ -66,6 +66,22 @@ According to PubMed, Imenshahidi & Hosseinzadeh (2019), *Phytotherapy Research*,
 - **TCM:** Bitter, Cold; drains fire, clears heat, dries damp; Liver, Gallbladder, Stomach, Large Intestine channels.
 - **Ayurveda (Daruharidra complex):** *Rasa* — *tikta*, *kashaya*; *Virya* — *ushna*; *Vipaka* — *katu*; *pittahara* and *kaphahara*; premier eye and skin drug.
 - **Unani (Galenic):** Cold and dry (~2nd–3rd degree); hepatic, cardiac, blood-purifier, astringent, antipyretic.
+
+### Cultivation Register
+
+**Assyrian (AT).** *Berberis vulgaris* has no secure attestation in the cuneiform materia medica, and the standing blocking warning on Assyrian plant identifications and their causal-agency classification forbids manufacturing one. Cultivation status: absent (c).
+
+**Unani / Avicenna (CM).** Barberry (*zereshk*, the fruit; *ziryār*) is deeply embedded as a cold-and-dry hepatic and cardiac drug, a *musaffī* (blood-purifier) and antipyretic. This is a dense therapeutic attestation, but it is precisely that — a corrective for hot, bilious states — not an enlistment of barberry in the conservation of innate heat and radical moisture. Its cardiac use gestures toward the *ruh*, yet no cultivation status is recorded, and the *mufarrih* literature that governs cardiac drugs sits in the *Kitāb al-Adwiya al-Qalbiyya*, not the *Canon*. Cultivation status: framed but unattested (b).
+
+**Greek / Dioscoridean (DMM).** The classical and medieval Latin herbals read the sour, spiny shrub as a cooling, bile-tempering refrigerant of the choleric temperament — a humoral therapeutic placement. Dioscorides offers no subtle-body system to elevate this into a cultivation status; what remains for the cultivator is the discipline of attention to provenance and quality. Cultivation status: absent (c).
+
+**Chinese (TCM).** *Xiao bo* stands on the same doctrinal footing as *huang lian*: bitter and cold, it clears heat, dries damp and drains fire — the vocabulary of a drug that *attacks* excess, the opposite pole from the conservational *yang sheng* 養生 drugs. No *san pin* 三品 grade is recorded for *Berberis* itself in the sources retrieved. Cultivation status: framed but unattested (b).
+
+**Ayurveda (SS).** Carried chiefly through the *dāruharidrā* / *rasāñjana* complex, barberry is *tikta* and *kashaya*, *ushna*, a premier *pittahara* and *kaphahara* eye-and-liver drug. This is a therapeutic profile; no *rasayana* or *vajikarana* status is attested for the drug, and its heat-clearing action is not a rejuvenative one. Cultivation status: framed but unattested (b).
+
+**Tibetan (FMT).** Even granting *Berberis* a place in the Tibetan pharmacopoeia, no *bcud len* (essence-extraction) status is recorded for it, and in the Tibetan frame medicine is in any case the third of four treatment branches — it supports practice rather than reaching the root, which lies in the spiritual condition underlying the three *nyes pa*. Cultivation status: absent (c).
+
+**Practitioner's note.** Barberry is a clearer, not a cultivator's tonic. Everywhere it is named it drains and cools — bile, damp-heat, hot flux — and the sour fruit consolidates afterward. A cultivator reaches for it to remove an excess, on a defined course, then stops; berberine's pregnancy, neonatal and drug-interaction cautions reinforce that this is targeted therapeutics, not something taken long-term to nourish life.
 
 ### Contraindications
 
