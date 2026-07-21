@@ -2,7 +2,7 @@
 
 ## *Datura stramonium* L. — the tropane-bearing weed of delirium, antispasmodic and poison
 
-**Tradition Tags:** EP, AT, DMM, CM, SS, FMT, BM, SA
+**Tradition Tags:** EP, AT, DMM, CM, SS, FMT, BM
 **Tags (previous line, retained for reference):** DMM-adjacent (Solanaceae nightshades of the classical/medieval pharmacy) · Ayurveda (Dhattura, related *Datura* spp.) · Folk-global · Western pharmacy (asthma "cigarettes")
 **Energetic Classification (TCM):** ◉ Qi / ☿ Shen (anticholinergic CNS action)
 **Training Phase:** [SPECIALIST ONLY] — potent deliriant/toxin; narrow margin, frequent fatal poisoning
@@ -74,10 +74,9 @@ Codex policy: mechanism stated securely; named citations to be supplied and veri
 
 **Nahua / Badianus (BM).** This is the species' own home ground and the one attested ritual assignment: *toloatzin* / *tlapatl* (*Datura* spp.) is documented in Nahua ethnohistory as a divinatory and insight-seeking agent, and as a plant of dangerous, "evil" association (López Austin, *The Human Body and Ideology*, 1988; and *Tamoanchan, Tlalocan*, 1993). The caution the spec requires: the Badianus manuscript is itself naturalistic and does **not** contain the *tonalli*/*teyolia*/*ihiyotl* model — that model is reconstructed from later ethnohistory, so the *ritual* use is attested while the vital-substrate assignment is a scholarly reconstruction, not a period claim.
 
-**South American (SA).** Attestation is ethnographic, not textual, and it mostly attaches to *Brugmansia* (*toé*) rather than *Datura stramonium*; within Amazonian *vegetalismo* such plants are *plantas maestras* — teacher-agents met through the *dieta* of restriction. Stated as a generalisation across named practices, not a pan-continental system, and with the species caveat flagged. Framed; not securely this species.
-
 **Practitioner's note.** A cultivator does nothing with this plant. Across every tradition that genuinely attests it, *Datura* is a poison or a specialist divinatory agent handled only by initiated specialists — never a nourish-life or constitution-building substance. The one attested ritual register (Nahua) belongs to a closed specialist role, and this entry's own toxicology is the reason: a deliriant with a lethal margin. The register's answer is abstention.
 
+*[1 paragraph(s) removed 2026-07-18 — tag withdrawn per attestation ruling; see spine notes.]*
 ### Contraindications
 
 - **Recreational/self-administered use — absolute prohibition.** Narrow margin, variable potency, frequent fatal/severe poisoning.

@@ -1,6 +1,6 @@
 # Thyme — زعتر (Za'tar) / Θύμος (Thymos) / हषु (Hašū) / 百里香 (Bǎilǐxiāng)
 ## *Thymus vulgaris L. — Common Thyme; T. serpyllum L. — Wild Thyme*
-**Tradition Tags:** AT, CM, BM, DMM, EP, SS
+**Tradition Tags:** EP, AT, DMM, CM
 **Energetic Classification (TCM):** ◉ Qi · ☿ Shen (mild)
 **Training Phase:** `[PRIME]` `[REFINE]` `[RESET]`
 
@@ -100,10 +100,9 @@ Strong thyme infusion (6g/250mL) cooled to body temperature; gargle 30 seconds, 
 
 **Nahua / Badianus (BM) — ⚠️ probable mis-tag.** Thyme (*Thymus vulgaris*) is an Old World Mediterranean plant and was not part of the pre-Columbian Nahua materia medica; its presence as a BM tag on this entry is almost certainly an error and should be reviewed against the tag source. Even setting that aside, the *tonalli / teyolia / ihiyotl* model is not contained in the Badianus manuscript itself (which is naturalistic) but reconstructed from later ethnohistory (López Austin). There is no attested Nahua cultivation assignment for this plant. **(c) absent — and flag the tag.**
 
-**Ayurveda (SS).** Thyme is not a classical Sushrutan or Caraka dravya; it enters Indian practice largely through the later Unani exchange, with native Himalayan *Thymus* species used in folk medicine. It is describable by *rasa* (kaṭu), *vīrya* (uṣṇa) and *doṣa* action (Kapha-Vāta shamaka), but no *rasayana* (rejuvenation) or *vajikarana* (generative) status — the formal Sushrutan cultivation disciplines — is attested for it, and asserting *ojas*-building would be exactly the substance-specific fabrication this register exists to prevent. **(b) framed, status unattested; and later-tradition, not classical.**
-
 **Practitioner's note.** Across every tradition that claims it, thyme is a therapeutic aromatic — a respiratory and antimicrobial agent taken for a defined complaint and then stopped — not a substance any tradition grades as nourishing life or conserving the vital endowment. What a cultivator actually does with it is bounded and instrumental: use it against airway infection and digestive stagnation, respect the essential-oil toxicity, and take Dioscorides' lesson of provenance and assay as the only "cultivation" thyme genuinely teaches.
 
+*[1 paragraph(s) removed 2026-07-18 — tag withdrawn per attestation ruling; see spine notes.]*
 ### Contraindications
 
 - **Thyroid conditions** — thymol may mildly interfere with thyroid function at high doses; monitor in hyperthyroidism

@@ -1,6 +1,6 @@
 # Camphor — Zhang Nao — 樟脑
 ## *Cinnamomum camphora* (L.) J.Presl | Family: Lauraceae | syn. *Laurus camphora* L.; *Camphora officinarum* Nees
-**Tradition Tags:** EP, AT, CM, SBJ, SS, FMT
+**Tradition Tags:** CM, SBJ, SS, FMT
 **Energetic Classification:** ◉ Qi Primary — Opening the Orifices (开窍), Aromatic Clearing, Antimicrobial Penetration, Counterirritant Qi / ☿ Shen Secondary — Resuscitative in Collapse States, CNS Stimulant Arousal
 **Training Phase:** NOT a primary BUILD or PRIME phase substance — primarily `[RESET]` (topical and aromatic applications) and cross-phase topical use; oral applications: specialist/emergency context only
 
@@ -169,15 +169,13 @@ Avicenna's Canon classifies camphor as extremely cold and dry (4th degree cold �
 
 **Tibetan (FMT).** *Ga-bur* is attested as a frequently employed aromatic within compound formulation, which locates it inside a system whose three *nyes pa* derive from the three poisons and whose pathology is therefore at root a spiritual condition. **That is the frame, and no cultivation status within it was retrieved.** Medicine is the third of four treatment branches — it supports practice and does not reach the root — and **no formal category of "substances for subtle-body practice" exists** here. *bCud len* is not asserted for camphor.
 
-**Assyrian (AT).** **Absent.** The blocking warning stands over substance identifications and tablet references in this tradition, and the reading of an Assyrian-Aramaic *kāfūrēh* as camphor is precisely such an identification. Illness here is classified by causal agency, so a cultivation claim would require knowing what agency the substance was held to oppose; nothing retrieved establishes it.
-
-**Egyptian (EP).** **Absent.** The Ebers corpus is indication-organised and records what was done for a complaint rather than what a substance does to the *ka*, *ba*, *akh* or *ib*; substance identity within it is a modern hypothesis. No *heka* attribution and no deity attribution is offered for camphor, none having been retrieved.
-
 **Practitioner's note.** Camphor is not a substance a cultivator takes. Across seven traditions the retrievable record gives it rescue offices and external ones — opening the orifices in collapse, fumigating a room, clearing the skin — and not a single attested status in any tradition's cultivation discipline. Its most widespread use in a devotional setting is as something **burned in front of a practitioner, not swallowed by one**, which is a distinction worth holding: the flame is the practice, the ingestion is a poisoning risk with a documented pediatric fatality record. The honest instruction is topical, aromatic, environmental — and, orally, nothing.
 
 ---
 
 *[1 tradition paragraph(s) removed 2026-07-18 — tag withdrawn per approved attestation ruling; see spine notes.]*
+
+*[2 paragraph(s) removed 2026-07-18 — tag withdrawn per attestation ruling; see spine notes.]*
 ### Contraindications
 
 **CRITICAL SAFETY PROFILE — This section carries the highest safety priority of any contraindication section in Volume I of the Codex.**

@@ -2,7 +2,7 @@
 
 ## *Santalum album* L. — the cooling aromatic heartwood, calmer of heat and the restless mind
 
-**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS, FMT
+**Tradition Tags:** CM, SBJ, SS, FMT
 **Tags (previous line, retained for reference):** Ayurveda (Chandana) · Chinese Medicine (Tan Xiang) · Unani · DMM-adjacent (later aromatic trade) · Folk-Indian
 **Energetic Classification (TCM):** ◉ Qi (cooling-aromatic, qi-moving) / ☿ Shen (calming)
 **Training Phase:** [GENERAL]
@@ -64,12 +64,11 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 **Unani (CM).** Sandal (*ṣandal abyaḍ*) is used as a cooling, cardiac-gladdening aromatic. The *mufarrih* (gladdening/heart-strengthening) framing belongs to the *Kitāb al-Adwiya al-Qalbiyya*, **not** the *Canon*, and no *mufarrih* constituent claim is published here; the Avicennan conservation-of-innate-heat cultivation idea is not specifically attested for sandal. (b)/(c).
 
-**Greek (DMM), Egyptian (EP), Assyrian (AT).** Sandalwood is **not securely present** in any of these corpora: it is a later Indian-Ocean aromatic-trade material that post-dates Dioscorides (the entry's own header flags it "DMM-adjacent, later aromatic trade"), and there is no secure *Santalum album* identification in the Ebers or cuneiform records. No cultivation framing is attested. (c) absent for all three — and see the ATTESTATION_QUEUE flag below.
-
 **Conservation flag.** *Santalum album* is assessed **Vulnerable (A1d)** on the IUCN Red List (assessment 1998, republished 2019) after centuries of over-exploitation of wild populations. A cultivator's register should carry this: authenticity and sustainable-cultivation sourcing are not optional niceties but a conservation obligation for this species.
 
 **Practitioner's note.** A cultivator uses sandalwood as a **cooling and quieting aromatic** — paste on hot skin or brow, diluted oil or incense for a restless mind before meditation or devotion — and its most loaded role is genuinely spiritual: the *chandana* of temple and *tilaka*. But that is **devotional practice, not an attested vital-cultivation status** in any of the tagged materia-medica traditions, and the cooling (SS) versus warming-qi (SBJ) readings must be kept apart, never merged. Given the species' Vulnerable status, the honest practitioner's first act is to verify authentic, cultivated (not wild-stripped) source. Note for the ATTESTATION_QUEUE: the DMM, EP and AT tags are chronologically/philologically doubtful for *S. album* (a post-Dioscoridean trade aromatic with no secure Egyptian or Assyrian identification) and should be reviewed for removal or down-grading.
 
+*[1 paragraph(s) removed 2026-07-18 — tag withdrawn per attestation ruling; see spine notes.]*
 ### Contraindications
 
 - **Kidney disease.** Internal use cautioned in renal disease (the urinary-irritation concern with concentrated oil). [USER: verify.]
