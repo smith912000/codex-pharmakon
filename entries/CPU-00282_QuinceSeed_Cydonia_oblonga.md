@@ -63,6 +63,22 @@ In applied Kenetica, quince-seed mucilage is a gentle recovery/wind-down aid for
 - **TCM:** Not classically used — omit.
 - **Ayurvedic:** Not a classical Sanskrit dravya — omit.
 
+### Cultivation Register
+
+**Egyptian (EP).** No Egyptian cultivation framing is attested for quince or its seed; nothing in the *heka*-bound, indication-organised corpus is cited here. (c): absent.
+
+**Assyrian (AT).** No Mesopotamian attestation is provided, and the blocking warning over substance identifications and tablet references stands. (c): absent.
+
+**Greek / Dioscoridean (DMM).** Dioscorides describes the quince — the "Cydonian apple" (*kydōnion mēlon*) — as an astringent stomachic good in fluxes. That is a therapeutic characterisation, not a subtle-body one, and Dioscorides carries no vital-constitutional system to build one from. What the entry inherits from him is a discipline of attention: the careful separation of the binding fruit-flesh from the very different soaked seed. Attested substance, no cultivation status — (b), on the discipline-of-attention frame.
+
+**Unani / Avicennan (CM).** Here care is needed. The Unani *safarjal* is a noted cardiac and *mufarrih* (gladdening)-adjacent **fruit**, and *mufarrih* drugs are held to strengthen the *ruh* — but that doctrine belongs to Ibn Sina's *Kitāb al-Adwiya al-Qalbiyya*, not the *Canon*, and no constituent list from it may be published. Two further limits: this entry is the **seed** (*bizr al-safarjal*), a cool-moist demulcent mucilage, not the cardiac fruit; and no source assigns the seed a cultivation status within the innate-heat / radical-moisture economy. The gladdening-cardiac frame is real but attaches to the fruit, not this seed — (b), framed and bounded.
+
+**Chinese (SBJ).** The entry's own Traditional Energetic Classification records quince as not classically used in the Chinese materia medica. No *san pin* grade, no *yang sheng* framing — (c): absent, and the SBJ tag has no attestation behind it.
+
+**Ayurvedic (SS).** Likewise the entry states quince is not a classical Sanskrit *dravya*. No *rasayana* or *vajikarana* status exists to record — (c): absent, and the SS tag is unattested here.
+
+**Practitioner's note.** A cultivator does one plain thing with quince seed: cold-soaks the whole (never ground) seeds to lay their cooling mucilage over a dry, irritated throat or gut at the wind-down of an over-heated phase. That is a soothing, membrane-protective act, not a vitality practice. Of the six tag-line traditions only DMM and CM are genuinely attested — and CM's cardiac/*mufarrih* interest is for the fruit, not this seed; EP, AT, SBJ and SS read as mis-tags.
+
 ### Contraindications
 
 - **Cyanogenic seed kernels** — the seed's inner kernel, like other Rosaceae kernels (apple pip, bitter almond), contains cyanogenic glycosides. Prepare mucilage from **whole, un-ground** seeds only; do not crush, chew or make a flour of the kernels. Traditional cold-soaking extracts only the harmless outer mucilage.

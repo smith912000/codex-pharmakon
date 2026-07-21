@@ -88,6 +88,22 @@ Strong thyme infusion (6g/250mL) cooled to body temperature; gargle 30 seconds, 
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** No cultivation framing is attested. The Ebers material is indication-organised — it records aromatic herbs used in respiratory and fumigation preparations, not what a substance does to a person's *ka*, *ba* or *ib*. The identification of any specific Ebers aromatic as *Thymus* is itself a modern hypothesis, so a cultivation reading would rest on a guess stacked on a guess. Where *heka* operated, the recitation and the drug were one intervention; the surviving prescriptions preserve the material half and lose the operative word. Honest outcome here is **(c) absent**.
+
+**Assyrian (AT).** The identification of *hašū* (𒄩𒍮) as thyme is R. Campbell Thompson's (1924) linguistic reconstruction and remains debated; the standing blocking warning on Assyrian substance-identifications, deity attributions and tablet references applies. Mesopotamian medicine classified illness partly by causal agency (divine hand, ghost, oath), so what a cultivator would want — a statement of what constitution the substance nourishes — is not the axis the corpus is built on. **(c) absent.**
+
+**Greek / De Materia Medica (DMM).** Dioscorides has no subtle-body system, and none should be manufactured for thyme. His warming-in-the-second-degree, drying classification is a *therapeutic* temperament, not a cultivation status. What he genuinely offers a cultivator is a discipline of attention: correct identification of thyme versus its adulterants, season of gathering, and sensory assay of the volatile oil — a real practice. The Greek *thymos* (spiritedness, courage) etymology and thyme's funerary and embalming associations are cultural and linguistic resonances, not an attested assignment of cultivation status, and must not be inflated into one. **(c) absent**, with the attention-discipline as the honest offering.
+
+**Unani / Avicenna (CM).** Thyme (*Za'tar*) is attested in the materia medica with a warm-and-dry temperament (second degree), but this is a therapeutic classification. No status is recorded that would make thyme a conserver of the innate heat and radical moisture — the finite vital endowment whose depletion *is* ageing, and around which Unani longevity practice is organised. Thyme is not among the *mufarrih* (spirit-gladdening) cardiac drugs. It therefore carries a therapeutic temperament but no cultivation status in this tradition. **(b) framed, status unattested.**
+
+**Nahua / Badianus (BM) — ⚠️ probable mis-tag.** Thyme (*Thymus vulgaris*) is an Old World Mediterranean plant and was not part of the pre-Columbian Nahua materia medica; its presence as a BM tag on this entry is almost certainly an error and should be reviewed against the tag source. Even setting that aside, the *tonalli / teyolia / ihiyotl* model is not contained in the Badianus manuscript itself (which is naturalistic) but reconstructed from later ethnohistory (López Austin). There is no attested Nahua cultivation assignment for this plant. **(c) absent — and flag the tag.**
+
+**Ayurveda (SS).** Thyme is not a classical Sushrutan or Caraka dravya; it enters Indian practice largely through the later Unani exchange, with native Himalayan *Thymus* species used in folk medicine. It is describable by *rasa* (kaṭu), *vīrya* (uṣṇa) and *doṣa* action (Kapha-Vāta shamaka), but no *rasayana* (rejuvenation) or *vajikarana* (generative) status — the formal Sushrutan cultivation disciplines — is attested for it, and asserting *ojas*-building would be exactly the substance-specific fabrication this register exists to prevent. **(b) framed, status unattested; and later-tradition, not classical.**
+
+**Practitioner's note.** Across every tradition that claims it, thyme is a therapeutic aromatic — a respiratory and antimicrobial agent taken for a defined complaint and then stopped — not a substance any tradition grades as nourishing life or conserving the vital endowment. What a cultivator actually does with it is bounded and instrumental: use it against airway infection and digestive stagnation, respect the essential-oil toxicity, and take Dioscorides' lesson of provenance and assay as the only "cultivation" thyme genuinely teaches.
+
 ### Contraindications
 
 - **Thyroid conditions** — thymol may mildly interfere with thyroid function at high doses; monitor in hyperthyroidism

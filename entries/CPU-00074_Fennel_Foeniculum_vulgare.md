@@ -102,6 +102,24 @@ Not commonly indicated — culinary and tea preparations provide adequate therap
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** Fennel seed appears among the carminative aromatics of the Ebers material, in compound formulas for flatulence and digestive pain. That corpus is indication-organised — it records the complaint and the remedy, not the substance's action on the person's vital parts. No cultivation framing is attested for fennel, and no *heka* recitation is preserved for it. **(c) absent.**
+
+**Assyrian (AT).** *Šammarū* is recorded in the Nineveh material as a digestive herb and carminative adjuvant. The blocking warning on substance identification and tablet reference stands, and no vital or cultivation status is attested; the plant sits as a therapeutic item classified by the complaint it addresses. **(c) absent.**
+
+**Greek / Dioscorides (DMM).** Dioscorides gives fennel a full Book III entry — distinguishing wild from cultivated, fixing the galactagogue, carminative and diuretic actions — but no subtle-body system, which is not to be invented for it. His contribution to a cultivator is a discipline of attention: the discrimination of wild from garden stock, root from seed, and the recorded uses. (The Prometheus fire-in-the-stalk myth attaches to the giant fennel *narthex* — *Ferula*, a different genus — and carries no cultivation lineage into *Foeniculum*; the association must not be transferred.) On cultivation status, **(c) absent**.
+
+**Unani / Avicenna (CM).** Ibn Sina's fennel coverage is extensive: warm in the second degree, dry in the first, with digestive, galactagogue, diuretic and reproductive-tonic indications, including the note on "thickening" the semen. The tradition's cultivation axis is innate heat and radical moisture — a finite endowment conserved rather than acquired — and while fennel's warming, generative framing sits near that language, no conservational or vital-cultivation status is formally assigned to it in the sources retrieved. Its reproductive-tonic note is a therapeutic indication, not a cultivation grade. **(b) framed.**
+
+**Ayurveda (SS).** Fennel (*Śatapuṣpā* / *Soyā*) is a fundamental digestive medicine — Deepana-Pachana, Shula-prashamana, Stanya-janana, Chakshushya, with the paradoxical *shita virya* — all therapeutic *dravyaguna* classifications. No *rasayana* or *vajikarana* status is recorded for fennel in the sources retrieved; it is a Tridoshic everyday digestive, not a formal rejuvenative. **(b) framed** — richly claimed, therapeutically.
+
+**Chinese (SBJ / TCM).** Small fennel (*Xiǎo Huíxiāng*) is a warm, pungent herb entering Liver, Kidney, Spleen and Stomach to warm the Middle, disperse cold and regulate Qi, with a specific reach into cold-type Liver-channel pain. No *san pin* 三品 grade is recorded for it, and its actions are dispersing and warming — the register of a substance that moves and treats, not one taken long-term to nourish life under *yang sheng* 養生. **(b) framed.**
+
+**Practitioner's note.** Fennel is the most universally adopted digestive carminative in the corpus, and that ubiquity is exactly the point: it is a post-meal working herb — the seed chewed, the *saunf ka paani* drunk — taken to move Qi and settle the gut, not to build the constitution. Its phytoestrogen and reproductive-tonic threads are real therapeutic actions but stop short of any attested cultivation status. A cultivator uses fennel daily and expects nothing from it beyond a settled digestion.
+
+---
+
 ### Contraindications
 
 - **Oestrogen-sensitive conditions** — trans-anethole's phytoestrogen activity; theoretical concern in oestrogen-receptor-positive breast cancer; avoid concentrated fennel preparations (essential oil, high-dose supplements) in hormone-sensitive conditions; culinary use safe

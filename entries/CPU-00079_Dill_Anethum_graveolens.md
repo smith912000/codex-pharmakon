@@ -78,6 +78,24 @@ The carminative mechanism is shared with fennel and caraway. Dill's specific adv
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** Dill is recorded in the Ebers material inside digestive and calming preparations, but that corpus is indication-organised: it registers what was done for colic or flatulence, not what a substance does to the person's vital constitution. No cultivation framing is attested for dill. Where *heka* operated, the recitation was a component of one intervention alongside the drug — but no spoken component is preserved for this plant, so even that cannot be reconstructed here. This is a **(c) absent** reading, and the honest one.
+
+**Assyrian (AT).** *Šabat* appears in the Nineveh material as a carminative and digestive adjuvant. The Assyrian scheme classifies illness partly by causal agency, which would locate a substance by what it opposes — but the standing blocking warning on substance identification and tablet reference is in force here, and no vital or cultivation status is attested. **(c) absent.**
+
+**Greek / Dioscorides (DMM).** Dioscorides has no subtle-body system, and none should be manufactured for dill. What Book III actually offers a cultivator is a discipline of attention: he distinguishes cultivated from wild dill, fixes its warming carminative character, and specifies preparation (fomentation for sleep). That discrimination — provenance, form, sensory character — is the real practice on offer. On cultivation status proper, **(c) absent**.
+
+**Unani / Avicenna (CM).** Ibn Sina places dill warm in the second degree, dry in the first, and notes the sedative property explicitly. The framing that governs cultivation in this tradition is innate heat and radical moisture — a finite vital endowment whose depletion is ageing, so any longevity practice is conservation rather than acquisition. Dill sits inside the materia medica with a therapeutic profile (carminative, galactagogue, sleep-promoting); no conservational or vital-cultivation status is assigned to it in the sources retrieved. **(b) framed** — claimed, but therapeutic only.
+
+**Ayurveda (SS).** Dill (*Shatahva* / *Śatapuṣpā*) carries Deepana-Pachana, Nidrajana and Stanya-janana actions — these are therapeutic classifications within *dravyaguna*, not cultivation ones. No *rasayana* (rejuvenation) or *vajikarana* (generative vitality) grade is recorded for dill in the sources retrieved; its *nidrajana* character is sleep-promotion, not constitutional building. **(b) framed** — attested in the materia medica, with a therapeutic status only.
+
+**Chinese (SBJ / TCM).** *Shíluó* entered the Chinese materia medica late, via the Silk Road, classed pungent and warm, entering Spleen and Kidney to warm the Middle and disperse cold. No *san pin* 三品 grade is recorded for it in the classical *bencao*, and as a late foreign entrant it sits outside the *yang sheng* 養生 grading of the earliest canon. It therefore carries a therapeutic status, not a cultivation one. **(b) framed.**
+
+**Practitioner's note.** Dill is a carminative taken for a defined purpose and then stopped — after an evening meal to settle gas, or in the traditional water for colic. Its one cultivation-adjacent thread is the sedative *nidrajana* dimension, but settling sleep is still a therapeutic act, not the building of a vital constitution. Nothing across the six traditions supports long-term use of dill to nourish life; the honest answer for the cultivator is that this is a kitchen and bedside herb, not a cultivation one.
+
+---
+
 ### Contraindications
 
 - **Pregnancy (concentrated preparations)** — apiol content; uterotonic at high doses; culinary use safe, medicinal-dose tea and essential oil to avoid

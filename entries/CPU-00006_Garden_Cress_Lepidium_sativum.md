@@ -57,6 +57,22 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 - **Unani:** garm-khushk (hot-dry); deobstruent and resolvent.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — squarely on the warming/drying/dispersing axis with a nutritive-restorative secondary character (the soaked-seed tonic), a useful bridge between the pungent dispersing herbs and the building tonics.
 
+### Cultivation Register
+
+**Egyptian (EP).** Where garden cress is attested in the Egyptian material it sits, like the other pungent pot-herbs, inside an indication-organised corpus that records the complaint treated rather than the substance's action on the person's vital parts. No cultivation framing is attested, and no *heka* recitation is preserved for this seed. **(c) absent.**
+
+**Assyrian (AT).** Any Mesopotamian attestation of the seed falls under the standing blocking warning on substance identification and tablet reference; no vital or cultivation status can be responsibly assigned. **(c) absent.**
+
+**Greek / Dioscorides (DMM).** Dioscorides records garden cress (under *kardamon* — the name whose later confusion with true cardamom must not be resolved into an identity here) as a heating, pungent plant for clearing the chest, expelling worms and stirring digestion. He offers no subtle-body system, and none should be built for it. His gift to a cultivator is the discipline of attention — the naming, the heating signature read from the acrid bite, the distinction of the seed's uses. On cultivation status proper, **(c) absent**.
+
+**Unani / Avicenna (CM).** In the Galenic-Unani reading the seed is *garm-khushk* — hot and dry in a high degree — a deobstruent and resolvent set against cold-damp and phlegm. The tradition's cultivation axis is innate heat and radical moisture, conserved rather than acquired; a strongly heating-drying seed like this is a corrective agent worked against a humoral excess, not a substance assigned a conservational or vital status. Its status here is therapeutic. **(b) framed.**
+
+**Chinese (SBJ / TCM).** Garden cress carries a warming, drying, dispersing profile in the Chinese-facing classification, but no *san pin* 三品 grade is recorded for it in the classical *bencao*; it reads as a pungent dispersing agent that moves and dries, not a substance taken long-term to nourish life under *yang sheng* 養生. **(b) framed.**
+
+**Ayurveda (SS).** *Chandrashura* (*halim* / *aliv*) holds the most cultivation-adjacent framing of any tradition for this seed: soaked in milk into a gel, it is a postpartum and convalescent restorative — *balya* (strengthening), galactagogue, an iron-rich food taken to rebuild strength after childbirth. This is a genuine nutritive-restorative role. But it remains a therapeutic and dietary framing: no formal *rasayana* (rejuvenation) or *vajikarana* division is recorded for *Chandrashura* in the sources retrieved, and *balya* strengthening after depletion is a restorative indication, not an assigned cultivation grade. **(b) framed** — the strongest claim among the six traditions, but still therapeutic rather than a formal cultivation status.
+
+**Practitioner's note.** Garden cress is a two-natured herb for the cultivator, and neither nature is subtle-body cultivation. As pungent seed it is a corrective — heating, drying, dispersing a cold-damp or phlegmatic state, then stopped. As the milk-soaked gel it is nourishment: a postpartum and anaemia food that rebuilds a depleted body. The Ayurvedic *balya* framing comes closest to a cultivation idea, and a cultivator may reasonably use the soaked seed as convalescent food — but honestly stated, that is feeding the body back to strength, not the formal rejuvenative discipline the register exists to distinguish it from.
+
 ### Contraindications
 
 - **Pregnancy — caution/avoid medicinal doses.** Traditional emmenagogue and uterine-stimulant reputation; culinary amounts of leaf are ordinary food, but concentrated seed preparations are traditionally avoided in pregnancy. [USER: verify.]

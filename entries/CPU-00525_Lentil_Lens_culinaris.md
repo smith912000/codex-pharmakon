@@ -106,6 +106,22 @@ Cooked lentil paste applied to inflamed skin, burns, and eye conditions; the tra
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** The Ebers material records lentil preparations for digestive complaints and as a nutritive base — an indication-organised corpus that documents what was done for a complaint, within *heka* where recitation and drug are one intervention, not what the food does to a person's vital constitution. Lentils in tomb granaries and the Esau's-pottage association are cultural and funerary, not a cultivation status. (c) for status; the attestation is culinary-medical, not constitutional.
+
+**Assyrian (AT).** *Kiššatum* is among the most frequently named foods in the cuneiform record and appears in tonic preparations for the weak and convalescent — but the blocking warning over identifications and tablet references is in force, and Mesopotamian classification runs by causal agency, not by any vitality a food confers. Attested as convalescent food; no cultivation status — (b) sliding to (c).
+
+**Greek / Dioscoridean (DMM).** Dioscorides gives lentil close attention in Book II, separating the constipating whole-seed decoction from the laxative broth and prescribing cumin or fennel against its wind. This is precise pharmacy and a real discipline of attention, but a therapeutic account with no subtle-body system behind it. Attested, no cultivation status — (b).
+
+**Unani / Avicennan (CM).** Ibn Sina classes red lentil as cold and dry, a nutritive tonic that dries excess moisture. Within the innate-heat / radical-moisture economy that reads as a cooling, drying nutritive rather than a warming vital tonic — but no source here assigns it a longevity or cultivation status, and longevity practice in this tradition is the conservation of a finite endowment, which lentil is not said to serve. Framed, status unattested — (b).
+
+**Ayurvedic (SS).** *Masūr* is documented with *Kashaya-Tikta rasa*, *Ushna virya*, and the actions *Balya* (strengthening), *Grahi* (binding) and *Lekhana* (scraping). These are *dravyaguna* therapeutic properties; no *rasayana* or *vajikarana* status is attested, and *Balya* must not be read up into a rejuvenative claim. Attested therapeutic actions, no cultivation status — (b).
+
+**Chinese (SBJ).** Lentil sits in the tonifying-Qi **food** category — sweet, neutral, Spleen-Stomach — strengthening the Spleen-Stomach and resolving Damp. This is dietary therapy (*shiliao*), conservational in spirit, but no *bencao san pin* grade is recorded for it and no *jing* action should be asserted — the materia medica itself rarely does. Attested in the Qi-tonic food category, no *san pin* grade — (b).
+
+**Practitioner's note.** A cultivator treats lentil as exactly what every tradition here treats it as: a dense, cheap, easily-digested food eaten to rebuild after depletion or illness — soaked or sprouted and cooked with carminative spices to make it sit lightly. Six traditions attest the food; none assigns it a cultivation status, and the Esau's-pottage and granary associations are culture and economy, not a claim on the body's vital constitution. The honest answer is nutrition, plainly stated.
+
 ### Contraindications
 
 - **Flatulence / IBS** — lentil oligosaccharides (raffinose, stachyose) are potent gas-producers; soaking, sprouting, and cooking with carminative spices (cumin, fennel, ginger — exactly as traditionally prescribed) significantly reduces gas; those with severe IBS-D may need to start with small quantities and build up

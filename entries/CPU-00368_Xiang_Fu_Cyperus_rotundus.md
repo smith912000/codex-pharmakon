@@ -101,6 +101,22 @@ Singh N, Pandey BR, Verma P, Bhalla M, Gilca M (2012) "An overview of phytoconst
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** *Cyperus* tubers are documented in the Ebers material for digestive and uterine complaints and as a component of fumigation (the *kyphi* incense compound). But the corpus is indication-organised, and the "Cyprus root" identification is a modern hypothesis; where the tuber entered *kyphi* and temple fumigation, the recitation (*heka*) was integral to that single intervention. No cultivation status for the substance is attested. **(c) absent.**
+
+**Assyrian (AT).** *Cyperus* appears in Assyrian compound preparations for intestinal complaints and is burned as a purifying aromatic, and illness is classified by causal agency. But the blocking warning holds — plant-name identification and etiological framing are unsettled — so no cultivation status is assertable. **(c) absent.**
+
+**Greek / Dioscoridean (DMM).** Dioscorides has no subtle-body system, so no cultivation status. *Kyperos* is given by habitat (marshy ground, waterways) and by defined use (digestive, emmenagogue, diuretic, liver obstruction). The cultivator's takeaway is the discipline of attention — the habitat-and-assay precision that, in this case, is what lets *kyperos* be recognised as the same drug the other traditions independently described.
+
+**Unani / Avicennan (CM).** No Avicennan or Unani cultivation status for *Cyperus rotundus* is attested in the sources retrieved; within the *innate-heat* / *radical-moisture* frame nothing specific can be assigned to it. Record as absent rather than reach for a status. **(c) absent.**
+
+**Ayurvedic (SS).** As *musta* / *mustaka* the rhizome is a classical Ayurvedic drug — Sushruta and the *Ashtanga Hridayam* place it in digestive and fever-reducing use (*pachana*, *deepana*, *grahi*, *jwaraghna*), and it anchors formulas such as *Kutajarishta*. But these are therapeutic *karma*, not a cultivation standing: no *rasayana* (rejuvenation) or *ojas*-building status is attested for *musta* — it moves and settles the gut, it is not given as a life-nourishing tonic. Its qi-like "moving" reputation must not be translated into *qi*. **(b) framed.**
+
+**Chinese (SBJ).** Xiang Fu is a major classical Chinese drug, but its standing is therapeutic qi-regulation, not a cultivation grade. Its famous epithet *qi bing zhi shuai* 气病之帅 ("commander of the diseases of qi") comes from Li Shizhen's *Bencao Gangmu* (late 16th century) — a late compilation, and a therapeutic designation of its qi-moving reach, not a *san pin* 三品 cultivation grade. No upper-grade 上品 "nourish life" standing is recorded for it; on the contrary the tradition warns that its acrid qi-moving nature "consumes yin" with prolonged use. It is a qi-mover (*shu gan li qi*), not a *yang sheng* conservational tonic. **(b) framed, dated.**
+
+**Practitioner's note.** A cultivator uses Xiang Fu as a mover, not a builder — to unstick constrained liver qi and settle stress-bound digestion and menstruation, in defined courses of weeks. The tradition's own caution that it "consumes yin" over long use is the built-in warning: this is corrective qi-regulation for a stagnation pattern, not a substance taken long-term to nourish life, and no tagged tradition assigns it a cultivation grade.
+
 ### Contraindications
 
 - **Pregnancy (avoid at therapeutic doses):** Uterine smooth muscle stimulation documented at high doses of alpha-cyperone; the same anti-spasmodic effect that treats dysmenorrhea becomes potentially abortifacient at supertherapeutic doses; avoid systemic therapeutic use; topical massage preparations for perineal use at low essential oil concentrations generally considered acceptable

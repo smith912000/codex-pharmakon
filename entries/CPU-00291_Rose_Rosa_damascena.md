@@ -73,6 +73,22 @@ Attribution: findings from PubMed.
 
 **Dantian / subtle note (optional):** Works at the middle/heart centre — an opener and cooler of the emotional heart rather than a lower-centre builder.
 
+### Cultivation Register
+
+**Egyptian (EP).** No secure Egyptian cultivation framing for rose is attested. The Egyptian corpus is indication-organised — it records what was done for a complaint, not what a substance does to the person's vital constitution — and in that tradition drug and spoken *heka* form a single intervention, so any Egyptian "use" separated from its recitation is already only half the record. Substance identity in the papyri is itself a modern hypothesis. **(c) absent.**
+
+**De Materia Medica (DMM).** Dioscorides records the rose (*rhodon*) among astringent, cooling aromatics, and offers no subtle-body system into which a cultivation status could be set. What he gives the cultivator is the discipline of attention — the quality of the petals, their handling and preparation — not a claim about the flower's action on a vital principle. **(c) absent** as to cultivation status; the discernment is the practice.
+
+**Canon / Unani (CM).** This is the genuine claim, and it must be located precisely. Rose (*gul-e-surkh*) is attested as a *mufarriḥ* — an exhilarant, spirit-gladdening cardiac drug held to strengthen the *rūḥ* — but the *mufarriḥ* class belongs to Ibn Sīnā's ***Kitāb al-Adwiya al-Qalbiyya*** (the treatise on cardiac remedies), **not** the *Canon*; rose appears among the drugs of that work in the scholarship reviewing it. Within the Unani frame of innate heat and the vital spirit this is a cultivation-adjacent status: a drug held to gladden and strengthen the *rūḥ*. **(a) attested** — as a *mufarriḥ* of the *Adwiya al-Qalbiyya*, expressly not the *Canon*, and kept separate from the devotional/aromatic uses.
+
+**Bencao (SBJ).** Rose (*méi guī huā*) is claimed by the later Chinese materia medica as an aromatic that regulates and moves qi, but no *san pin* 三品 grade was retrieved for it, so no cultivation status can be stated — only a therapeutic, qi-regulating one. **(b) framed** — attested, no cultivation grade.
+
+**Sushruta / Ayurveda (SS).** Rose is explicitly **not** a classical Vedic-era Sushrutan *dravya*; it enters Ayurveda through the later *nighaṇṭu* lexicon tradition and the Mughal-era exchange with Unani, as *gulāb / śatapatrī*. It is classed *hṛdya* (cardiotonic, heart-gladdening) and *manasika balya* (mind-soothing), but no formal *rasāyana* or *vājīkaraṇa* discipline is attested for it; its status is therapeutic and soothing, not a formal cultivation regimen. **(b) framed** — claimed, but no rejuvenative discipline attested.
+
+**Four Tantras (FMT).** No formal Tibetan subtle-body-practice category exists for rose, and none is asserted. **(c) absent.**
+
+**Practitioner's note.** Two things must be kept apart. The *cultivation* status is thin and singular: only the Unani tradition assigns rose a genuine vital role — a *mufarriḥ* that gladdens and strengthens the *rūḥ* — and even that lives in the *Adwiya al-Qalbiyya*, not the *Canon*. The *devotional and aromatic* life of the rose — rose-water in shrine and mosque, the Kashan *golābgiri*, the Sufi and bhakti symbolism of the opened heart — is real and ancient but is ritual and cultural, not a materia-medica cultivation assignment, and the two should never be blurred. What a cultivator actually does with rose is corrective and calming: a cooling, heart-soothing aromatic for states of heat and agitation, best paired with tonics rather than used as one.
+
 ### Contraindications
 
 - Generally very safe in culinary/traditional doses. Essential oil (otto) must **never be ingested neat** and should be well-diluted for topical use.

@@ -81,6 +81,24 @@ Codex policy: the glycine-antagonist mechanism and the processing→alkaloid-red
 
 ---
 
+### Cultivation Register
+
+**Assyrian (AT).** No secure Assyrian attestation exists for this seed, and the standing blocking warning on all substance identifications and tablet references governs here. Nothing is recorded that would place nux vomica in any Assyrian frame of vital cultivation. **(c) absent.**
+
+**De Materia Medica (DMM).** *Strychnos nux-vomica* is not securely a Dioscoridean drug; the European strychnine pharmacy is a much later (nineteenth- and twentieth-century) development, not classical materia medica. Dioscorides offers no subtle-body system into which it could be placed, and none is invented. **(c) absent.**
+
+**Canon / Unani (CM).** In the humoral traditions the seed is classed essentially as a violent poison, never integrated as a routine medicine the way milder bitters were. No frame of innate-heat conservation or *rūḥ*-strengthening attaches to it; the classification that matters is the toxicological one. **(c) absent** — a poison, not a cultivation substance.
+
+**Bencao (SBJ).** Processed *mǎ qián zǐ* (马钱子) is classed among drugs that invigorate blood and unblock the channels and collaterals — bitter, cold, and explicitly **toxic** — used in minute processed dose for painful obstruction, trauma and certain paralytic patterns. This is the "attacks-disease" register, the opposite pole from *yang sheng* nourishing-life. No *san pin* grade was retrieved, but the whole logic of the drug — toxic, minute-dose, obstruction-breaking — is antithetical to long-term nourishment. **(b) framed** — a channel-opener, therapeutic-at-best, no cultivation status.
+
+**Sushruta / Ayurveda (SS).** This is the substantive traditional material. *Kupīlu* (Kuchlā) is placed in the *viṣa / upaviṣa* — poison / semi-poison — class of the rasaśāstra literature (e.g. *Rasa Ratna Samuccaya*), a category of substances admitted to therapeutic use **only** after *śodhana* (purification). The purification is not symbolic: analytical work confirms that classical *śodhana* — soaking and boiling, traditionally in cow's milk — measurably reduces the strychnine and brucine content of the seed (Mishra et al., *śodhana* processing study). The cultivation-adjacent framing is therefore disciplinary: the seed is an *upaviṣa* the tradition holds at arm's length behind a mandatory, materially-effective purification before it is allowed near a patient. **(a) attested** — the *viṣa/upaviṣa* classification and the *śodhana* requirement, with the alkaloid-reduction measured.
+
+**Four Tantras (FMT).** No formal Tibetan category of subtle-body-practice substances exists, and none is asserted. Nothing places this poison in any cultivation frame. **(c) absent.**
+
+**Practitioner's note.** A cultivator does nothing with this seed. Its only honest cultivation-register content is negative and disciplinary: the two traditions that used it at all — Chinese *mǎ qián zǐ* and Ayurvedic *kupīlu* — did so **only** through mandatory processing that reduces the alkaloid load, in minute doses, by qualified hands, and both classed it as toxic. Strychnine is a glycine-receptor antagonist with an unforgiving margin between the traditional dose and violent, fully-conscious convulsion; the raw seed is a frank poison. There is no self-use, no home preparation, and no "tonic" reading that is not the prelude to a medical emergency. The purification is genuine material history — it is not a permission.
+
+---
+
 ### Contraindications
 
 - **Raw/unprocessed seed — absolute prohibition.** Never ingested in any unsupervised context; lethal dose is small.

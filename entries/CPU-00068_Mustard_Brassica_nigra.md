@@ -93,6 +93,22 @@ The TCM *tan jie* (Phlegm nodule) application — mustard seed's ability to disp
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** No cultivation status is attested. Mustard appears in the Ebers material as a topical counter-irritant and a pungent digestive stimulant — an indication-organised record of what it was applied for, not of any effect on the vital person. (c).
+
+**Assyrian (AT).** No cultivation status is attested, and the blocking warning on substance identifications and tablet references stands. Mustard seed (*sinabru*) is a rubefacient and digestive agent in the corpus, classified by the complaint it opposes; there is no vital-endowment claim to record. (c).
+
+**Greek / Dioscorides (DMM).** Dioscorides frames no subtle-body action for mustard, and none should be invented. Book II gives the cultivator instead the discipline of attention — he grades black against white by strength and reads the plaster's drawing of "blood upward" as a plain, observable counter-irritant effect. That drawing is a therapeutic act, not a cultivational one. (c) for status.
+
+**Unani / Avicenna (CM).** Attested therapeutically at Avicenna's *maximum* — hot in the fourth degree — but with no cultivation status recorded, so (b). In the economy of innate heat and radical moisture, where longevity is the *conservation* of a finite endowment, so violently heating a drug is by its nature spending, not husbanding: a short-course revulsive against cold and paralytic conditions. No *ruh*-strengthening claim is attested and none is made.
+
+**Ayurveda (SS).** Attested in the therapeutic register — *Katu* rasa, *Ushna virya*, *Deepana*, *Svedana*, *Kaphagna*, *Vedanasthapana* — but with no *rasayana* or *vajikarana* status recorded, so (b). Mustard is not among the plants set aside from the contemplative's diet the way the pungent roots are; its classical identity is a heating, scraping, pain-relieving medicine and a cooking oil (*Sarṣapa Taila*), which is culinary and therapeutic use, distinct from any cultivation status.
+
+**Chinese (SBJ).** Attested therapeutically: white mustard seed (*bái jièzǐ* 白芥子) warms the Lung and disperses Cold-Phlegm and Phlegm nodules (*San Zi Yang Qin Tang*; *Tian Jiu* acupoint plasters). No *san pin* 三品 grade is recorded in the sources retrieved, so its status is (b) — but everything the *bencao* does record places it on the disease-attacking side of the tradition's own logic (it drives out a pathogen, it does not nourish life), the functional signature of a lower-register drug rather than a *yang sheng* one.
+
+**Practitioner's note.** Mustard is purely a treating substance — a counter-irritant plaster, a Cold-Phlegm cough seed, a digestive-fire spark. Nothing in any tradition supports taking it to cultivate the person, and its own gradings are the warning: hot in the fourth degree, "dilute four-to-one or it burns," off the skin inside twenty minutes. Used against a defined complaint and then stopped.
+
 ### Contraindications
 
 - **Skin sensitivity / chemical burns** — AITC causes genuine chemical burns at full concentration; always dilute mustard powder before topical use (minimum 4:1 flour:mustard ratio); check skin every 5 minutes; do not leave on longer than 20 minutes; do not use on broken skin, face, or genitalia

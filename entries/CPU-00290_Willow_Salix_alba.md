@@ -81,6 +81,24 @@ Small piece of fresh willow bark chewed slowly — the traditional headache/feve
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** The Ebers material records willow leaf and bark for fever and pain — an indication-organised entry that says what was done for a complaint, not what the substance does to a person's vital constitution. No cultivation framing is attested, and any drug-and-*heka* pairing that once accompanied the preparation is not preserved. This is a **(c) absent** reading: the corpus does not classify willow against the *ka/ba/akh/ib* person at all.
+
+**Assyrian (AT).** Willow (*Ēru*) is recorded in the Nineveh tablets for pain and fever, but under the standing blocking warning on Assyrian substance identifications, tablet references and causal-agency classifications, no cultivation status can be asserted. **(c) absent** by default — the therapeutic record is secure; a vital-cultivation status is not.
+
+**Greek — Dioscorides (DMM).** *De Materia Medica* has no subtle-body system to place willow within, so there is no cultivation status to record. What Dioscorides genuinely offers a cultivator is a **discipline of attention**: distinguishing leaf from bark, judging the decoction, noting the cooling anti-aphrodisiac application against excess passion. He *records* these therapeutic uses; he does not assign willow a status in a scheme of vital refinement. **(c) absent**, with the attention-practice as the real inheritance.
+
+**Unani — Avicenna (CM).** Ibn Sina classes willow cold and dry, a cooling antipyretic that "thins the blood" — a frankly therapeutic degree, not a cultivation grade. The Unani cultivation idea proper is the conservation of *innate heat* and *radical moisture* — a finite vital endowment, longevity as conservation. Willow carries no such status in the sources retrieved; a cooling, drying, evacuant drug sits opposite the warm conservation of vital heat. **(b) framed** — claimed in the materia medica, therapeutic only, no cultivation status recorded.
+
+**Ayurveda (SS).** Himalayan willow species appear with *tikta* rasa, *sheeta* virya and *pitta*-shamaka action — a therapeutic classification. The cultivation disciplines of this tradition are *rasayana* (rejuvenation) and *vajikarana* (generative vitality); no *rasayana* status for willow is attested in the sources retrieved, and its cooling anti-inflammatory profile is not what those disciplines describe. **(b) framed** — the *ojas*/*rasayana* frame exists, but willow is not assigned to it.
+
+**Chinese (SBJ).** Willow bark is bitter and cold, entering Liver channel to clear Heat — the profile of a disease-treating agent, and the *yang sheng* project of nourishing life is expressly conservational, not curative. The willow attribution rests on Li Shizhen's *Bencao Gangmu* (1596), a late compilation; per house rule the earlier record drops to **(b)**, and no *san pin* 三品 grade is recorded in the sources retrieved. A curative, Heat-clearing drug is not a candidate for the upper grade (上品) of substances taken long-term to nourish life.
+
+**Practitioner's note.** A cultivator does nothing cultivational with willow. It is a therapeutic analgesic and antipyretic — taken for a defined inflammatory or febrile complaint and then stopped, exactly as the standardised-extract dosing above frames it. Its salicylate history is a triumph of *therapeutics*, not of vital cultivation; nothing here supports long-term life-nourishing use, and the traditions' own cool-drug classifications are the signal that it does not belong to that register.
+
+---
+
 ### Contraindications
 
 - **Aspirin allergy / salicylate sensitivity** — cross-reactivity with willow bark salicylates; absolute contraindication in aspirin-allergic individuals; the mechanism is salicylate-mediated, not acetyl-group-specific, so cross-reactivity exists

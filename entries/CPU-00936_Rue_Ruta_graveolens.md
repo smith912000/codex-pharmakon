@@ -59,6 +59,24 @@ Separately, **Bernardo et al. (2002), *Cellular and Molecular Biology (Noisy-le-
 - **Galenic / Unani:** Hot & Dry in the 3rd degree; resolvent, deobstruent, emmenagogue, antidote — flagged as dangerous and abortifacient.
 - **Dantian mapping (Kenetica):** lower dantian — a violent mover of the pelvic/reproductive sphere; recorded, not prescribed.
 
+### Cultivation Register
+
+**Egyptian (EP).** The entry itself flags that a secure identification of *R. graveolens* in the Egyptian corpus is uncertain. With the substance identity unsettled and the material indication-organised, there is no cultivation framing to record. **(c) absent.**
+
+**Assyrian (AT).** Rue sits within the Near-Eastern repertoire of pungent "driving-out" herbs, but no securely dated cuneiform reference to this species is established, and the standing blocking warning governs any such identification. **(c) absent** — no cultivation status can be asserted.
+
+**Greek — Dioscorides (DMM).** Dioscorides gives rue (*peganon*) a substantial treatment, distinguishing the more violent wild rue from garden rue, and records its use as antidote, emmenagogue/abortifacient, and libido-suppressant while stating plainly that it "burns" and endangers pregnancy. This is a **discipline of attention** — potency-grading and provenance — not placement in any scheme of vital cultivation, which the tradition does not possess. Where he brushes the apotropaic register, he *records* the herb's protective reputation while distancing himself; recording is not endorsing, and a protective ritual is not a cultivation status. **(c) absent** for cultivation; the apotropaic use is noted below as ritual, not cultivation.
+
+**Unani — Avicenna (CM).** As *sadhab*/*fijan*, rue is classed Hot and Dry in the third degree — a therapeutic degree at the ceiling of tolerable force, a *muḥallil* (resolvent) and emmenagogue, expressly dangerous in pregnancy. The tradition's cultivation idea is the conservation of *innate heat* and *radical moisture*; a violently heating, drying herb depletes radical moisture rather than conserving it, and no cultivation status is attested for it. **(b) framed** — claimed in the *Canon* as a potent therapeutic mover, never as a substance that nourishes the vital endowment.
+
+**Ayurveda (SS).** The classification given is a regional/analogue reading — *tikta*/*kaṭu*, intensely *uṣṇa*, *tīkṣṇa*, potentially *garaviṣa* (toxic), strongly *pitta*-aggravating. That is a sharp, toxic mover, the opposite pole from the *rasayana*/*vajikarana* cultivation disciplines; no such status is attested. **(b) framed**, tending to absent.
+
+**Chinese (SBJ).** The Chinese profile here is explicitly labelled an *analogue* (acrid-bitter, warm, toxic, among the restricted movers), not a securely attested classical *bencao* record. With no genuine classical entry, there is no *san pin* 三品 grade to cite. **(c) absent.**
+
+**Apotropaic note (ritual, not cultivation).** Rue's living non-medical practice is genuine and well attested in the later Mediterranean and European record: the "herb of grace," strewn in courtrooms and churches, carried against the evil eye and against plague-"miasma." This is recorded as **ritual where attested** — an apotropaic and consecratory use — and it is explicitly *not* a cultivation status: no tradition assigns rue a role in refining a person's vital constitution.
+
+**Practitioner's note.** A cultivator does nothing internal with rue — the entry's toxicity, phototoxicity and abortifacient contraindications stand unsoftened, and no dose or route is offered. Its only living practice is apotropaic-ritual, where a culture attested it, and even that handles a poisonous, phototoxic plant. Rue carries no cultivation status in any tradition; it is catalogued for lineage and doctrine, contraindicated for practice.
+
 ### Contraindications
 - **PREGNANCY — absolute:** documented abortifacient and uterine stimulant; potentially fatal to mother and fetus.
 - **Phototoxicity:** skin contact plus UV → severe phytophotodermatitis (blistering, hyperpigmentation). Avoid handling fresh plant in sun.

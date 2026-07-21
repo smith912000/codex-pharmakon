@@ -60,6 +60,22 @@ According to PubMed, *B. juncea* shows **documented preclinical antimicrobial an
 - **Karma (actions):** Kaphahara (decongestant), Vātahara (external, warming), Dīpana (in small internal dose), Chardana (emetic in large dose), Vedanāsthāpana (topical pain-relief via counter-irritation), Krimighna (antimicrobial), Lekhana (scraping/cleansing on skin)
 - **Gaṇa membership (Suśruta):** Pungent/rubefacient drugs; taila-varga (oil-yielding group)
 
+### Cultivation Register
+
+**Ayurveda (SS).** Sarṣapa is fully placed in the *dravyaguṇa* scheme — kaṭu *rasa*, tīkṣṇa/sūkṣma *guṇa*, uṣṇa *vīrya*, kaṭu *vipāka*, Kapha-Vāta hara but strongly Pitta-vardhaka — and sits in Suśruta's pungent/rubefacient and taila-varga groupings. But this is a therapeutic and external classification, not a cultivation one: a sharp, heating counter-irritant that aggravates Pitta and, in larger internal dose, is frankly emetic. No *rasayana* (rejuvenation) or *vajikarana* (generative vitality) status — the formal Sushrutan cultivation disciplines — is attested for it, and its Pitta-provoking sharpness is the opposite of an *ojas*-conserving profile. **(b) framed, cultivation status unattested; the tradition grades it therapeutically, not for nourishing life.**
+
+**Unani / Avicenna (CM).** Mustard is attested with a hot-and-dry therapeutic temperament and a rubefacient, counter-irritant use, but nothing assigns it a role in conserving the innate heat and radical moisture around which Unani longevity practice — conservation, not acquisition — is organised, and it is not among the *mufarrih* spirit-gladdening drugs. It carries a therapeutic temperament, no cultivation status. **(b) framed, status unattested.**
+
+**Greek / De Materia Medica (DMM).** Dioscorides treats mustard (*sinapi*) as a warming, biting, rubefacient drug — a therapeutic degree-classification, not a subtle-body one, and none should be invented for it. What survives for a cultivator is his discipline of attention: seed selection, correct preparation, and the empirical knowledge that the pungency (now understood as the glucosinolate–myrosinase reaction) develops only on crushing. **(c) absent**, with the attention-discipline noted.
+
+**Assyrian (AT).** Mustard-type pungent seeds may appear in the Mesopotamian materia medica, but the standing blocking warning on substance-identifications and tablet references applies, and illness there is classified by causal agency rather than by what constitution a drug nourishes. No cultivation assignment is recoverable. **(c) absent.**
+
+**Egyptian (EP).** The corpus is indication-organised and any species-level identification is a modern hypothesis; *heka* bound recitation to remedy as one act, and only the material half survives. No cultivation framing is attested. **(c) absent.**
+
+**Chinese (SBJ).** Where mustard/*Brassica* seed enters the Chinese materia medica it does so as a warming, phlegm-dispersing, surface-moving therapeutic drug; no classical *san pin* 三品 grade placing it among the upper-grade substances "taken long-term to nourish life" (*yang sheng* 養生) is attested for it in the sources retrieved. On the grade hierarchy a sharp, dispersing, short-course agent of this kind belongs to the disease-attacking rather than the life-nourishing end. **(b) framed, no cultivation grade attested.**
+
+**Practitioner's note.** Ritual and folk uses of mustard seed — protective, apotropaic, funerary — are genuine, but they are *ritual*, not a cultivation status, and must not be translated into one; recording an amuletic use is not the tradition assigning the substance a role in nourishing the person's vital constitution. What a cultivator actually does with sarṣapa is external and time-bounded: a rubefacient poultice or a warming massage oil that draws heat and circulation to a cold, stiff surface, removed before it blisters. Its own sharpness is the teaching — dose and boundary, a small controlled fire to move a large cold, never a substance for long-term inward building.
+
 ### Contraindications
 
 - **Skin:** never leave a mustard poultice on until blistering — allyl isothiocyanate causes chemical burns; contraindicated on broken skin and in sensitive/paediatric skin without dilution and close monitoring.

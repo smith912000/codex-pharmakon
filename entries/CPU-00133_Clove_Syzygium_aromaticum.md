@@ -93,6 +93,24 @@ Clove 1g + ginger 1g + black pepper 0.5g decoction; drink for cold-type conditio
 
 ---
 
+### Cultivation Register
+
+**Assyrian (AT).** Clove is a late imported aromatic (*Qaranfulu*), and its identification in the cuneiform record is uncertain and under the standing blocking warning for Assyrian substance identifications. Assyrian therapeutics classify a drug partly by the causal agency it opposes, not by any doctrine of building the person's vitality. No cultivation status is attested — (c) absent.
+
+**De Materia Medica (DMM).** Dioscorides very likely never handled clove; it enters the Materia Medica tradition only through later Byzantine additions, and Dioscorides has no subtle-body system in any case. What the tradition offers a cultivator here is a discipline of attention — provenance, potency, and adulteration of an expensive traded aromatic — not a status for the person's constitution. (c) absent.
+
+**Unani / Canon (CM).** Ibn Sina classes clove hot in the third degree and dry, and among the drugs that strengthen the heart. But an intensely heating, drying drug is the opposite of what conserves innate heat and radical moisture — the tradition's actual longevity idea, which is conservation of that finite endowment, not its stoking. Its cardiac/gladdening character belongs to the *mufarrih* literature (the *Kitāb al-Adwiya al-Qalbiyya*, not the *Canon*); whether that rises to a cultivation status rather than a therapeutic one is not attested in the sources retrieved. Framed; no cultivation status — (b).
+
+**Ayurveda (SS).** *Lavaṅga* is a firmly attested *dravya* — Katu-Tikta in rasa, Ushna in virya, a supreme Deepana-Pachana (digestive-fire) spice and Hridya (cardiac). These are therapeutic actions; no *rasayana* or *vajikarana* division membership is attested for clove in the sources retrieved, so it carries no cultivation status in the tradition, only a therapeutic one — (b).
+
+**Chinese (SBJ).** Clove (丁香) is a warming Middle-Burner and Kidney-Yang drug that descends Stomach qi — the classic remedy for cold-type hiccup. This is *zhi bing* 治病 (treating disease), not *yang sheng* 養生 (nourishing life); no *san pin* upper-grade status is recorded for it in the sources retrieved, and as a late trade arrival it does not sit among the classic long-term nourishing-life drugs. Framed; therapeutic status only — (b).
+
+**Tibetan (FMT).** Clove (*Byi-ma-ra*) appears in the *Gyushi* as a warming ingredient and figures in the *Rinchen Rilbu* precious-pill formulas — but that is formula membership, not a cultivation status, and Tibetan medicine has no formal "substances for subtle-body practice" category in which to place it. Medicine is the third of four treatment branches; it supports practice, it does not reach the root. (c) absent.
+
+**Practitioner's note.** A cultivator uses clove as a warming digestive and dental analgesic — taken for a defined cold-type complaint and then stopped, not as a longevity substance. Across all six traditions its status is therapeutic or absent; nothing attested supports taking it to build the person's vitality, and Ibn Sina's "hot in the third degree" is itself the caution against sustained use.
+
+---
+
 ### Contraindications
 
 - **Clove essential oil internal ingestion** — CRITICAL: undiluted clove oil ingested internally causes severe hepatotoxicity (eugenol liver toxicity at high doses); eugenol is safe at food/spice doses but concentrated oil is dangerous

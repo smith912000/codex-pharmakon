@@ -84,6 +84,24 @@ Start with 1 long pepper berry/day in warm milk with ghee and honey; increase by
 
 ---
 
+### Cultivation Register
+
+**Assyrian (AT).** The seed's Assyrian identity is itself unsettled — *filfilu* in the Nineveh tablets is only *likely* long pepper — and the standing blocking warning on substance identifications, tablet references and etiological claims applies here in full. The Assyrian corpus classifies a drug by the causal agency it opposes, not by any action on a vital constitution, and nothing at that level is recorded for long pepper. No cultivation framing is attested. **(c) absent.**
+
+**De Materia Medica (DMM).** Dioscorides carries no subtle-body system, and none should be manufactured for him. What he offers a cultivator of long pepper is a discipline of attention: he distinguishes *peperi makron* from the round and white peppers and judges it by pungency and heat on the tongue — a sensory assay of identity and quality, and a guard against adulteration. That is a real practice, but it belongs to the gatherer; it is not a cultivation status assigned to the drug. **(c) absent** as to vital status; the discernment is the practice.
+
+**Canon / Unani (CM).** Ibn Sīnā classes *dār filfil* as hot and dry in the fourth degree — more extreme than black pepper's third. Within the Unani economy of innate heat and radical moisture a strongly warming drug acts on the body's finite thermal endowment, but no source retrieved assigns long pepper a specific longevity or conservation role; its degree-classification is a therapeutic thermal grade, not a cultivation status. Recorded as **(b) framed** — claimed by the tradition, sitting inside the innate-heat frame, with no cultivation status attested.
+
+**Sushruta / Charaka (SS).** Here the entry's strongest claim is genuine. *Pippalī* is named among the *rasāyana* (rejuvenative) drugs of the *Charaka Saṃhitā*, and *vardhamāna pippalī* — a graduated regimen in which the daily dose is raised step by step and then tapered back to baseline — is set down in the Rasāyana chapter of the Cikitsā-sthāna as a named rejuvenation protocol, distinct from ordinary *dīpana* (digestive-fire kindling). The distinction is the point: *dīpana* is a therapeutic action, *rasāyana* is a cultivation discipline aimed at the body's regeneration over a defined ascending-then-descending course. **(a) attested** — located to Charaka's Cikitsā-sthāna Rasāyana section; the graduated-dose framing corroborated in the AYU clinical-scholarship literature (Amavata trial, *AYU* 2011).
+
+**Bencao (SBJ).** The Chinese attestation the entry rests on is Li Shizhen's *Bencao Gangmu* (1596) — a late compilation. There *bìbá* warms the Middle Burner, disperses Cold and stops Cold-type vomiting: a therapeutic profile, not a *san pin* 三品 grade. No upper/middle/lower cultivation grade for long pepper was retrieved, and per the dating rule the earlier record cannot be assumed from the 1596 text. **(b) framed** — attested in the materia medica, therapeutic status only, no cultivation grade.
+
+**Four Tantras (FMT).** Long pepper is one of the three warming "hot spices" of Tibetan medicine, the local counterpart of *trikatu*. But no formal category of "substances for subtle-body practice" exists in the tradition, and none is asserted here; its role is warming and therapeutic, supporting practice only in the general sense that medicine is the third of the four treatment branches. **(c) absent.**
+
+**Practitioner's note.** One tradition, and one only, hands the cultivator a genuine discipline here: the Ayurvedic *vardhamāna pippalī* — an ascending-then-descending course taken as *rasāyana*, not a casual daily pinch. Everywhere else long pepper is a warming therapeutic — a digestive and expectorant drug used against a defined complaint and then stopped. The graduated protocol demands supervision precisely because it pushes the dose into the range where the raw herb turns purgative; it is a regimen, not a supplement.
+
+---
+
 ### Contraindications
 
 - **Heat excess constitution (Pitta-dominant, inflammatory conditions)** — long pepper is more thermogenic than black pepper (classified fourth degree hot vs. black pepper's third degree); contraindicated in active gastritis, peptic ulcer, esophageal reflux, high fever; reduce *Trikatu* dose significantly in Pitta constitutions

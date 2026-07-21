@@ -109,6 +109,24 @@ Cold-pressed neem seed oil; apply directly to skin infections, tinea, folliculit
 
 ---
 
+### Cultivation Register
+
+**Assyrian (AT).** Neem is at most "possibly referenced" in the Assyrian tablets as an imported Indian tree-medicine, and its identification in cuneiform is under active scholarly debate. Under the standing Assyrian blocking warning, no substance identification — and so no cultivation status — can be affirmed. (c) absent.
+
+**Unani / Canon (CM).** Ibn Sina documents not neem but the related *Azdarakht* (*Melia azedarach*), classed hot and dry, anthelmintic, and used for the skin — a purging, therapeutic drug reached only through a substitute species. A hot-dry purgative is not a conserver of innate heat and radical moisture, and the identification is itself indirect; no cultivation status is attested. (c) absent.
+
+**De Materia Medica (DMM).** Neem is an Indian tree outside Dioscorides' Mediterranean range; the corpus offers no entry for it and, in any case, no subtle-body system. (c) absent.
+
+**Chinese (SBJ).** TCM documents the related *Kǔliàn / Chuānliànzǐ* (*Melia* spp.), a bitter-cold, qi-regulating anthelmintic — a disease-attacking (*zhi bing* 治病) drug, not a nourish-life one, and a different species from neem. No *san pin* nourishing-life status attaches to neem itself. (c) absent.
+
+**Ayurveda (SS).** *Nimba* is firmly attested in the *dravyaguna*: the supreme Tikta (bitter), Śīta in virya, Kaṭu in vipāka, Pitta-Kapha-śāmaka, and a member of the Pañcatikta (five-bitters) group named in the Suśruta Saṃhitā — an attested classification — (a). Its ritual and protective use is also genuine but separate: neem's association with the goddess Śītalā and the Gudi Padwa custom of eating neem are ritual/apotropaic, not *dravyaguna*. The further claim that *Nimba* holds a formal *rasayana* (rejuvenation-division) status is not confirmed to a named rasayana chapter in the sources retrieved — it is only loosely asserted in secondary literature — so that status stays framed — (b). Bitter cleansing is attested; rejuvenation-division membership is not.
+
+**Tibetan (FMT).** The *Gyushi* places neem-type bitter, cooling trees in the detoxification and fever-medicine category — therapeutic use within the third of four treatment branches. Tibetan medicine has no formal subtle-body-cultivation category to assign it to, and none is attested. (c) absent.
+
+**Practitioner's note.** What a cultivator does with neem is cleanse, not build: an attested bitter detoxifier and antimicrobial for the skin, blood-heat and parasites, taken in short bitter courses and stopped — the bitterness itself limits the dose. Its ritual protective role (Śītalā, Gudi Padwa) is real but is ceremony, not constitution-building; and its documented abortifacient/contraceptive activity is a hard reason against any sustained "tonic" use. The honest cultivation register here is corrective and abstentive.
+
+---
+
 ### Contraindications
 
 - **Pregnancy** — neem has documented abortifacient properties; azadirachtin disrupts implantation; strictly contraindicated in pregnancy; also documented as male contraceptive at high doses

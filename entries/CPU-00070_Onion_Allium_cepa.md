@@ -92,6 +92,22 @@ Caramelized/sautéed onion as regular dietary component; cooking reduces the vol
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** No cultivation status is attested. Onion is among the most heavily recorded substances in the Ebers material, and its Egyptian presence is unmistakable — labourers' rations, a role in embalming, funerary and votive deposits — but the corpus is indication-organised: it records what onion was *done for*, not what it does to the person's vital constitution (*ka* · *ba* · *akh* · *ib*). The burial and ritual associations register presence, and at most a *heka*-adjacent placement of a potent plant, not a doctrine of what onion cultivates in the person. This is (c), and honestly so.
+
+**Assyrian (AT).** No cultivation status is attested, and the standing blocking warning on substance identifications and tablet references applies. Onion (*šūmu*) is a frequent *materia medica* item in the Nineveh corpus, classified by the complaint or agency it opposes rather than by any effect on a vital endowment. (c).
+
+**Greek / Dioscorides (DMM).** Dioscorides has no subtle-body system, and none should be manufactured for onion. What Book II offers a cultivator is the discipline of attention: he separates red, white and Ascalonian varieties by potency and marks the biting raw form from the milder cooked one — provenance and sensory assay, not a cultivation grade. (c) for status; the practice on offer is the assay itself.
+
+**Unani / Avicenna (CM).** Attested therapeutically — hot and dry in the third degree — but with no cultivation status recorded, so (b). Within the Avicennan economy of innate heat and radical moisture, in which longevity is *conservation* of a finite endowment rather than its acquisition, a warming, drying agent of this order is spent against cold-damp conditions, not banked for long life. No *ruh*-strengthening or *mufarrih* claim is attested and none is asserted here.
+
+**Ayurveda (SS).** Attested in the therapeutic register — *Hridya*, *Shukrala*, *Vata-Kapha shamaka* — but with no *rasayana* or *vajikarana* (rejuvenative/generative) status recorded, so (b). The one cultivation-relevant fact is an *exclusion*: onion is set aside as *rajasic*, unfit for the contemplative's plate. That exclusion belongs to the *sattva/rajas/tamas* scheme of the Gita and later material — Samkhya categories used alongside *dravyaguna*, not members of it, and not traceable to Sushruta — so it is framed, not classed as Sushrutan doctrine.
+
+**Chinese (SBJ).** Two registers must be kept apart. Within the *bencao* proper, onion sits with the *cōng* alliums as a Wind-Cold dispersing, Qi-moving drug (*Cōng Bái Tāng*); no *san pin* 三品 grade is recorded for it in the sources retrieved, so its *bencao* cultivation status is (b) — therapeutic, ungraded. The attested cultivation fact is again an exclusion, and it is (a): the alliums are counted among the five pungent roots (*wuxin* 五辛) that Daoist and Mahāyāna Buddhist cultivators renounce as inflaming to anger and desire (Costantini, *Wuxin taboo in Daoist prescription texts*, *Rocznik Orientalistyczny* 75/1, locating the proscription in the *Mahāparinirvāṇa-sūtra*, *Laṅkāvatāra-sūtra* and the *Fanwang jing*). This is a Daoist–Buddhist ascetic overlay brought *to* the pharmacopoeia, expressly not a Shennong category, and is marked as such.
+
+**Practitioner's note.** Onion is a cultivator's substance chiefly by its *absence* from the cultivator's plate: excluded as a pungent root from the Daoist and Buddhist ascetic diet, and as *rajasic* from the yogic one — too stimulating for stillness. As food-medicine it disperses cold and moves Qi and does it well; nothing attests it as a longevity, essence-building or spirit-settling substance. The honest cultivation fact about onion is the exclusion, and it is well sourced.
+
 ### Contraindications
 
 - **IBS / FODMAP-sensitive individuals** — onion is the highest-FODMAP common vegetable; the FOS that makes it prebiotic also produces significant gas and bloating in those with intestinal dysbiosis or SIBO; fermented onion (pickling) reduces but does not eliminate FODMAP content

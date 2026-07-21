@@ -59,6 +59,22 @@ The neuropharmacological rationale is shared across the sage/rosemary clade: a r
 - **Galenic / Unani:** Hot 1st–2nd / Dry 2nd degree; astringent, nerve-strengthening, desiccant of superfluous moistures, emmenagogue.
 - **Dantian mapping (Kenetica):** upper dantian — clarity, memory, sensory acuity; secondarily consolidating (checks dispersion and leakage).
 
+### Cultivation Register
+
+**Egyptian (EP).** Warming, drying *Salvia*-type labiates plausibly sit within Egyptian gynaecological and fumigation practice, but identification with *S. officinalis* specifically is uncertain and the corpus is indication-organised. Where an aromatic entered a fumigation, the recitation (*heka*) was integral to the one intervention; but no cultivation status for sage is attested, and the species identity is a modern hypothesis. **(c) absent.**
+
+**Assyrian (AT).** Aromatic labiates appear in the Mesopotamian repertoire for gynaecological and fumigation uses, but the blocking warning is in force: identification with *S. officinalis* is not secure and etiological framing is debated. No cultivation status is assertable. **(c) absent.**
+
+**Greek / Dioscoridean (DMM).** Dioscorides has no subtle-body system, so there is no cultivation status — but *elelisphakon* is given by habitat and by defined method (decoction to check haemorrhage, to staunch wounds, to settle the reproductive tract). What he offers a cultivator is the discipline of attention: know the plant, its provenance and its preparation. That is a real practice, not a consolation prize.
+
+**Unani / Avicennan (CM).** Sage — *maryamiya*, the "herb of Mary" — is genuinely in the Arabic pharmacopoeia and Avicenna's *Canon*, classed among warming, drying aromatics that strengthen the nerves and senses, dry excess phlegm and check discharge. Within the *innate-heat* / *radical-moisture* frame, a drying-astringent herb that checks superfluous leakage (sweat, saliva, milk, discharge) reads as conserving the body against dissipation of its substance — the nearest any tagged tradition comes to a genuine cultivation logic for sage. It is nonetheless stated as a therapeutic, drying-and-consolidating action; no formal cultivation status is attested, and this must not be translated into *qi* or *jing*. **(b) framed.**
+
+**Chinese (SBJ).** Sage is not a classical Chinese drug; the TCM column in this entry is an analogue mapping, not an attestation. No *san pin* grade and no *bencao* standing exist for *S. officinalis* — the Chinese cultivation register is empty for this substance, and the acrid-bitter "steady the spirit" analogue must not be mistaken for an attested Chinese assignment. **(c) absent (analogue only).**
+
+**Ayurvedic (SS).** Likewise, garden sage is not a classical Sushrutan monograph; the Ayurvedic column (*kaṭu-tikta-kaṣāya*, *uṣṇa*) is an analogue. No *rasayana* or *ojas*-building status is attested for it — the register is absent, an analogue rather than an attestation. **(c) absent (analogue only).**
+
+**Practitioner's note.** A cultivator uses sage for clarity and consolidation — to sharpen focus and to staunch excess loss (sweat, discharge, over-dispersion) — in short courses, capped by thujone. Its towering "*Salvia salvatrix*" saviour-and-longevity reputation, including the couplet *"Cur moriatur homo cui salvia crescit in horto?"*, is European folk proverb and medieval garden doctrine — **not** a subtle-body cultivation status in any of the tagged traditions, and it must not be read as one. Modern cognition trials only tentatively support the memory claim; treat the longevity fame as recorded reputation, not an attested cultivation assignment.
+
 ### Contraindications
 - **Pregnancy & lactation:** traditional emmenagogue; **suppresses milk** (used deliberately to wean) — avoid when breastfeeding is intended; thujone risk in pregnancy.
 - **Epilepsy / seizure disorders:** thujone is a convulsant — avoid concentrated/oil preparations.

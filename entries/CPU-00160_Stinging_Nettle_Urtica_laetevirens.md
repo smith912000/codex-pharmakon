@@ -62,6 +62,22 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Ayurvedic mapping (genus-adjacent):** *Vrishchikali/Bichhu-buti* — pungent, warming; *vata-*(and *kapha-*)reducing in cold-stiff presentations, blood-purifying and anti-rheumatic.
 - **Kenetica Qi/Jing tier:** ◉ **Qi** for the warming, circulation-stimulating and counter-irritant action, with a strong ◈ **Jing** ascription for the mineral/blood-nourishing food value — a stinging herb that both rouses and rebuilds.
 
+### Cultivation Register
+
+**Egyptian (EP).** No Egyptian cultivation framing is attested for this plant. The pharaonic corpus is indication-organised — within *heka*, recitation and drug form a single intervention — and records no nettle of this kind; the Mediterranean nettles the Nile world knew are not this Himalayan species. A clean (c): absent.
+
+**Assyrian (AT).** No Mesopotamian attestation is available for *Urtica laetevirens*, and the blocking warning that governs every cuneiform substance identification, agency attribution and tablet reference is in force. Nothing here rises above (c): absent.
+
+**Greek / Dioscoridean (DMM).** Dioscorides describes a nettle (*knidē / akalēphē*) in *De Materia Medica*, but that is a Mediterranean plant, not the East-Asian *U. laetevirens* of this entry; his material cannot be carried across the species boundary. What he offers a cultivator is a discipline of attention — season of gathering, and the handling of the stinging fresh plant versus the neutralised cooked herb — not a vital-constitutional status. (c) for this botanical.
+
+**Unani / Avicennan (CM).** In the Unani frame the warming, circulation-rousing sting would sit with the restoration of *innate heat* in cold, stiff, moisture-laden conditions — heat conserved rather than acquired, ageing being the depletion of that finite endowment of innate heat and radical moisture. But no Unani source is cited here assigning *U. laetevirens* such a status, and the nettle of the Arabic materia medica (*anjura*) is again a western species. Framed only, status unattested — (b) sliding to (c).
+
+**Chinese (SBJ).** Local *Urtica* including this species appear in Chinese and Himalayan **folk** use for rheumatic pain and as a blood-tonic diuretic; this is folk practice, not a *bencao san pin* placement. No upper/middle/lower grade is recorded and no *yang sheng* framing attaches — attested in use, no cultivation grade: (b).
+
+**Ayurvedic (SS).** The entry's Ayurvedic link is explicitly genus-adjacent — *Vrishchikali / Bichhu-buti*, the "scorpion plant" — not *U. laetevirens* itself. No *rasayana* or *vajikarana* status is attested for this plant, and its pungent-warming anti-rheumatic reputation is a *dravyaguna* therapeutic note, not a vitality assignment. (b)/(c).
+
+**Practitioner's note.** A cultivator uses this plant on two honest registers and no third: the cooked greens as a dense mineral food eaten to rebuild after depletion, and the fresh sting as a deliberate counter-irritant lashed on cold, stiff joints. Neither is a longevity discipline. The tag line's four western/Near-Eastern traditions (EP, AT, DMM, CM) most likely belong to the European nettle *U. dioica* and have been carried onto an Asian species — treat them as a botanical mis-tag to resolve, not as attestation.
+
 ### Contraindications
 
 - **Hot/inflamed (acute, swollen, red) joints:** urtication and warming use are for *cold* stiff joints; do not apply the counter-irritant sting to acutely inflamed, hot, or gouty joints.

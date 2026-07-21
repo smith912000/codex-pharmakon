@@ -55,6 +55,22 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 - **Unani mapping:** hot-dry; mudirr-e-baul (diuretic), mufattit-e-hasat (stone-breaking), mudirr-e-haid (emmenagogue), carminative.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the warming-drying, diuretic and qi-moving (carminative) axis; the archetypal "open the urinary passages" umbellifer alongside celery, fennel and asparagus.
 
+### Cultivation Register
+
+**Egyptian (EP).** No cultivation status is attested, and the identification of parsley itself in the Egyptian corpus is uncertain. The material is indication-organised; there is no doctrine here of what parsley does to the vital person to record. (c).
+
+**Assyrian (AT).** No cultivation status is attested, and the blocking warning on substance identifications and tablet references applies. (c).
+
+**Greek / Dioscorides (DMM).** This is parsley's home tradition — *petroselinon*, "rock-celery," treated in Book III among the aromatic diuretic umbellifers — and it is precisely here that presence must not be mistaken for cultivation status. The Greek funerary garland, the victory wreath, the proverb of "needing parsley" at death's door are *culture*: chthonic and civic ritual, not a subtle-body system, which Dioscorides does not possess. Recording such uses is not endorsing a vital doctrine. What he offers a cultivator is the discipline of attention — root the strongest form, seed the most concentrated, leaf the gentle everyday one, each assayed by potency. (c) for status.
+
+**Unani / Avicenna (CM).** Attested therapeutically — hot and dry in the second degree; *mudirr-e-baul* (diuretic), *mufattit-e-hasat* (stone-breaking), *mudirr-e-haid* (emmenagogue) — but with no cultivation status recorded, so (b). Within the innate-heat / radical-moisture frame it reads as a warming, drying, opening attenuant deployed against retention and obstruction: therapeutic work, not conservation of the vital endowment. No *ruh* claim is attested.
+
+**Chinese (SBJ).** Parsley is a Mediterranean umbellifer and not a plant of the classical Chinese *materia medica*; the TCM tag here is a Kenetica energetic *mapping* (warming-drying diuretic, Qi-moving carminative), not a *bencao* attestation. There is therefore no *san pin* 三品 grade and no Chinese cultivation status to assign — (c), stated plainly rather than manufactured.
+
+**Ayurveda (SS).** Likewise, parsley is not a classical *dravya* of Sushruta or Charaka; the Ayurvedic tag is a mapping onto the tradition's categories, not an attestation within it. No *rasayana* or other cultivation status is recorded or should be invented. (c).
+
+**Practitioner's note.** Parsley is a *doing* plant — a urinary opener, a carminative, an emmenagogue, and in its concentrated seed and oil a genuinely dangerous one. No tradition assigns it a cultivation status; the Greek funerary wreath is culture, not a doctrine of what parsley does to the vital person. The cultivator's whole discipline here is the Dioscoridean one of knowing what is in the hand: leaf-safe from seed-dangerous, food from medicine, medicine from poison.
+
 ### Contraindications
 
 - **Pregnancy — avoid medicinal/seed/oil.** Strong emmenagogue and abortifacient potential of the seed/oil; culinary leaf in food amounts is acceptable, concentrated products are not. [USER: verify.]

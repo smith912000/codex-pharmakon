@@ -100,6 +100,24 @@ Medjool date paste used as natural sweetener in training foods and recovery ball
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** The Ebers material records dates and date wine (*irp*) chiefly as drug-vehicles and remedies within an indication-organised corpus — it says what was done for a complaint, not what the fruit does to a person's vital constitution. The palm's standing as a sacred, longevity-associated tree is real in Egyptian imagery, but that symbolism attaches to the tree in the cosmos, not to a cultivation status for eating the fruit; no *heka*-bearing cultivation status for the date-drug is attested. (c) absent.
+
+**Assyrian (AT).** The date palm is the plant most often read as the Mesopotamian "sacred tree" / "Tree of Life" — yet those very names are unknown in the cuneiform texts, and the motif's meaning remains contested (Giovino, *The Assyrian Sacred Tree: A History of Interpretations*, 2007, who cautions against the settled "Tree of Life" reading while noting the image is likely a stylised *Phoenix dactylifera*). Under the standing Assyrian blocking warning, and because this is cosmological iconography rather than a status for the fruit-as-drug, no cultivation status is attested. (c) absent.
+
+**De Materia Medica (DMM).** Dioscorides treats the palm in Book I, distinguishing ripe fruit (nutritive, but headache-inducing in excess) from the unripe astringent fruit, and grading Libyan, Syrian, Egyptian and Palestinian varieties by potency. This is exactly the discipline of attention Dioscorides offers a cultivator — assay by provenance and part — and not a subtle-body doctrine, of which he has none. (c) absent.
+
+**Unani / Canon (CM).** Ibn Sina gives one of the fullest accounts, distinguishing dried (*tamr*, warm-moist, nutritive), fresh (*rutab*) and unripe (*busr*, astringent) dates. A warm-moist nutritive sits close to the tradition's real cultivation idea — nourishing the body's radical moisture and innate heat — but whether the Canon assigns dates a conservation *status* rather than a nutritive-therapeutic one is not attested in the sources retrieved. Framed — (b).
+
+**Ayurveda (SS).** *Kharjūra* is a genuinely attested tonic *dravya*: Suśruta classes it Hṛdya (cardiac) and Śīta (cooling), and Caraka places it among the Bṛṃhaṇīya (nourishing) and Śramahara (fatigue-dispelling) drugs, with Balya-Bṛṃhaṇa-Jīvana actions — an attested nourishing/strengthening classification (Suśruta Saṃhitā; Caraka Saṃhitā, via review literature) — (a). The stronger claim that it holds a place in a formal *rasayana* division is not confirmed to a named *rasayana* chapter in the sources retrieved, so that specific status stays framed — (b) — rather than asserted.
+
+**Chinese (SBJ).** *Phoenix dactylifera* is not a Chinese drug; the entry's own text assimilates it to *Dàzǎo* (jujube), a different species. That parallel is an analogy, not an attestation — and translating one tradition's substance into another's category is exactly what this register forbids. No *san pin* status for the date itself is attested in TCM. (c) absent.
+
+**Practitioner's note.** A cultivator's honest ground here is Ayurvedic and dietetic: dates are an attested nourishing, strength-building, cardiac-friendly food (Bṛṃhaṇa/Balya), used in convalescence — eaten, not dosed. The sacred-tree grandeur of the Egyptian and Mesopotamian palm concerns the tree's cosmology, not a vital action of the fruit; the cultivator should not let the symbolism inflate what the drug actually does.
+
+---
+
 ### Contraindications
 
 - **Diabetes / insulin resistance** — high glycemic index requires careful management; the fiber moderates but does not eliminate the blood sugar spike; diabetics should count dates in carbohydrate load and avoid post-sedentary consumption

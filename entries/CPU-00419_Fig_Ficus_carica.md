@@ -110,6 +110,24 @@ Apply fresh white latex from broken stem or unripe fig directly to wart; cover; 
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** The Ebers Papyrus records fig (*dbt*) for constipation, wound care, and as a drug vehicle — an indication-organised corpus that says what was done, not what fig does to the *ka/ba/akh/ib* person. The fig's heavy sacred and mythic weight (the Eden covering, the tree of Demeter) is *symbolism*, and symbolism is not a cultivation status. **(c) absent** — no vital-constitution framing is attested.
+
+**Assyrian (AT).** The fig tree (*tittu*) is among the most-mentioned fruit trees in the Mesopotamian record, documented as nutritive tonic, laxative and vehicle, with fig sap in skin preparations. Under the standing blocking warning on Assyrian identifications and tablet references, no cultivation status can be asserted beyond this therapeutic-dietary record. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides has no subtle-body system, so no cultivation status is available to record. He calls the fig "good for old men" — a dietetic longevity observation, not a doctrine of vital refinement — and offers the cultivator a **discipline of attention**: ripe fruit (nutritive, laxative) versus unripe (astringent, hemostatic) versus the milky latex (*opós*, vermicide/keratolytic). The fruit/latex distinction is the practice here, not a vital grade. **(c) absent**, with the discipline of attention as the real offering.
+
+**Unani — Avicenna (CM).** Ibn Sina classes ripe fig warm in the first degree and moist, a nutritive tonic and mild laxative, recommending it for "those doing physical labor who need rapid strength restoration." The Unani cultivation idea proper is the conservation of *innate heat* and *radical moisture*; a warm-moist nutritive food is broadly restorative in that frame, but Ibn Sina assigns no formal cultivation status — this is dietetics, not a graded vital assignment. **(b) framed** — claimed and nutritive, no cultivation status recorded.
+
+**Ayurveda (SS).** Fig's guna profile is genuinely nourishing — *brinhana* (anabolic), *balya* (strength-building), *madhura vipaka* — which sits adjacent to the *rasayana* rejuvenation discipline. But no formal *rasayana* designation for *Ficus carica* is attested in the sources retrieved, and the classical *Udumbara* of the texts is generally the related Indian species (*F. racemosa*/*glomerata*, e.g. in *Pañcavalkala* as a bark wash), not the common fig. **(b) framed** — the *rasayana*/*ojas* frame and the nourishing profile are real, but a cultivation status for this species is not attested; do not read the related-species record onto *F. carica*.
+
+**Chinese (SBJ).** Fig reached China along the Silk Road, long after the *Shennong Bencao Jing* was closed — so it carries **no *san pin* 三品 grade in the classic**, there being no classical entry to grade. Its Chinese record is Ming-era (Li Shizhen's *Bencao Gangmu*, 1596), a late compilation documenting therapeutic actions — moistens Lung, tonifies Spleen-Stomach, lubricates the intestines — not a cultivation grade. **(c) absent** for the classic; **(b) framed** for the later text, therapeutic only.
+
+**Practitioner's note.** A cultivator uses fig as a nutritive recovery food — the *brinhana*/*balya* profile and the mineral density are real and dietetic, the soaked-fig morning tonic above being the honest expression of it. But that is *food*, not a formal cultivation-status assignment in any tradition, and the fig's sacred symbolism carries no claim about the vital constitution. The latex is a topical keratolytic-vermicide, a therapeutic agent kept off sun-exposed skin — not an ingested cultivation substance. Distinguish the two: eat the fruit, respect the latex.
+
+---
+
 ### Contraindications
 
 - **Fig latex phototoxicity** — the furanocoumarin content (psoralen, bergapten) in fresh fig latex causes phototoxic dermatitis when applied topically and exposed to UV; avoid sun exposure after topical fig latex use; this reaction does not occur with ripe fruit consumption
