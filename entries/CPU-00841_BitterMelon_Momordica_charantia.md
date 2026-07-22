@@ -2,7 +2,8 @@
 
 ## *Momordica charantia* L. | Family: Cucurbitaceae
 
-**Tradition Tags:** CM, BM, SBJ, SS, FMT
+**Tradition Tags:** CM, TCM, SS, FMT, BM
+**Tags (previous line, retained for reference):** CM, BM, SBJ, SS, FMT
 **Energetic Classification:** Cold and Dry (2nd–3rd degree) — Galenic/Unani
 **Training Phase:** Purgation & Clarification (bitter-cooling, blood-cleansing tier)
 
@@ -78,7 +79,7 @@ The mechanistic case is real and the clinical case is genuinely weak — this en
 
 **Unani — Avicenna (CM).** In the Graeco-Arabic *Ṭibb* the bitter cucurbit is read as *mubarrid* (cooling) and *mujaffif* (drying), a hepatic deobstruent that cuts *balgham*, opens obstructions of liver and spleen, and cleanses the blood of "burnt" humours. That doctrinal category is genuine, but it is corrective, not conservational: the tradition's strongest cultivation idea — the husbanding of innate heat and radical moisture, that finite endowment whose loss *is* ageing — assigns no standing to a cold-dry drainer, which is reached for *against* a hot, corrupt state rather than to conserve the vital endowment. No *mufarrih* (*ruh*-strengthening) role is claimed, and no *Canon* chapter is cited (the entry itself flags the quotation as unverified). Used therapeutically, with no cultivation status. **(b) framed**.
 
-**Chinese — Shennong stratum (SBJ).** *Kǔ guā* (苦瓜) is the archetypal *kǔ hán* (bitter-cold) food that "clears heat" (*qīng rè*), relieves summer-heat (*jiě shǔ*) and drains fire — a corrective, draining action, the opposite pole from *yang sheng* 養生, the conservational nourishing of life. Crucially, the plant is a late arrival to China and is absent from the Shennong classical stratum; it is recorded in Li Shizhen's *Bencao Gangmu* (1596), a Ming compilation, so no *san pin* 三品 grade is attested for it — there is no upper-grade, life-nourishing standing to claim. Its standing is dietetic-therapeutic (draining repletion heat), not a cultivation grade. **(b) framed**, dated to the 1596 compilation rather than any classic.
+**Chinese medicine — post-classical (TCM).** *Kǔ guā* (苦瓜) is the archetypal *kǔ hán* (bitter-cold) food that "clears heat" (*qīng rè*), relieves summer-heat (*jiě shǔ*) and drains fire — a corrective, draining action, the opposite pole from *yang sheng* 養生, the conservational nourishing of life. Crucially, the plant is a late arrival to China and is absent from the Shennong classical stratum; it is recorded in Li Shizhen's *Bencao Gangmu* (1596), a Ming compilation, so no *san pin* 三品 grade is attested for it — there is no upper-grade, life-nourishing standing to claim. Its standing is dietetic-therapeutic (draining repletion heat), not a cultivation grade. **(b) framed**, dated to the 1596 compilation rather than any classic.
 
 **Ayurveda (SS).** As *kāravella* / *kāravellaka* the gourd is *tikta rasa* (bitter), *laghu-rūkṣa* (light, dry), a *kapha-pitta-hara*, *madhumeha-hara*, *krimighna* and *dīpana-pācana* drug that kindles digestion while scraping *āma* (metabolic residue). Every one of these is a reductive, scraping (*lekhana*-type) corrective — the antithesis of a *rasayana* or *vajikarana*, and no *ojas*-building or rejuvenative assignment is recorded for it. The plant is firmly attested in the materia medica, but its standing is therapeutic, not a formal rejuvenative cultivation status. **(b) framed**.
 

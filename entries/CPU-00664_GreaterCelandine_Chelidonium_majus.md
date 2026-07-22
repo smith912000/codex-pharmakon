@@ -2,7 +2,8 @@
 
 ## *Chelidonium majus* L. | Family: Papaveraceae
 
-**Tradition Tags:** AT, DMM, CM, SBJ
+**Tradition Tags:** AT, DMM, CM, SBJ, EF
+**Tags (previous line, retained for reference):** AT, DMM, CM, SBJ
 **Energetic Classification:** Hot and Dry (third degree) — an acrid, incising, deobstruent herb in the Galenic reckoning
 **Training Phase:** Purification (external use only — see Contraindications)
 
@@ -62,6 +63,8 @@ Based on articles retrieved from PubMed:
 **Unani — Avicenna (CM).** The *Qanun* classes *māmīrān*/celandine among the hot, incising simples that open obstructions of the liver and clear the sight — hot and dry in the third degree, a deobstruent and attenuant. This is a securely named therapeutic entry, but an incising remover of stagnation is curative, not conservational; the strongest cultivation idea in the Unani corpus, the conservation of innate heat and radical moisture, is a frame of the whole regimen and is not a status the tradition assigns to this caustic deobstruent. No *mufarrih* or cardiac-*ruh* role is claimed. Attested therapeutically, with no cultivation status sourced. **(b) framed.**
 
 **Chinese — Bencao (SBJ).** *Bai qu cai* (白屈菜) is recorded as bitter, acrid, cool and toxic (*you du*), moving stagnant qi, relieving pain and stopping cough, and explicitly reserved for short courses because of that toxicity. A toxic herb held to a short course is the treat-disease pole of the tradition — the opposite of *yang sheng* 養生, which is conservational, not curative — and no *san pin* 三品 grade is recorded for it in the sources retrieved. Its standing here is therefore therapeutic, not a cultivation status; no *qing shen* 輕身 or life-nourishing claim is supported. **(b) framed.**
+
+**European folk / phytotherapy (EF).** Post-Dioscoridean Europe read celandine through the doctrine of signatures: the vivid orange latex was taken as a sign of the yellow humour, and by that reasoning the plant was bound to the bile, the liver and jaundice. This is the reading systematised in the Renaissance signature-literature — della Porta's *Phytognomonica* (1588) and the wider Paracelsian doctrine that a plant's outward mark discloses its inward virtue — and it licensed the later European "liver-cleansing" tinctures and depurative preparations. The register records this as a doctrine historically held, not as a warrant: the signature reasoning is discredited, and modern pharmacovigilance shows the organ the latex was thought to purify is the organ its alkaloids can injure. European folk practice carries no formal subtle-anatomy or vital-substrate system into which a cultivation grade could be fixed, and the internal "cleansing" use it did generate is the hazardous one this entry proscribes. **(c) absent:** a historically-held symbolic doctrine and folk therapeutic use, no European vital-body and so no cultivation status to assign.
 
 **Practitioner's note.** A cultivator does nothing internal with this plant — that is the whole lesson. Celandine is retained in the Purification phase as a teaching-stone: the vivid orange latex reads, by the doctrine of signatures, as a bile-and-liver cleanser, yet the clinical record is one of idiosyncratic liver injury, and the organ the sap was thought to purify is the organ its alkaloids harm. The only defensible practice is the topical dab of fresh latex on a wart or corn, kept off healthy skin and away from the eyes despite the ancient eye-remedy legend. Nothing about its signature licenses taking it inward, and the tradition's own toxicity note is the warning.
 

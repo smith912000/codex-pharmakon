@@ -2,7 +2,8 @@
 
 ## *Hippophae rhamnoides* L. | Family: Elaeagnaceae
 
-**Tradition Tags:** CM, SBJ, SS, FMT
+**Tradition Tags:** CM, TCM, SS, FMT
+**Tags (previous line, retained for reference):** CM, SBJ, SS, FMT
 **Energetic Classification:** Cool-neutral & Moist — nourishing, softening, restorative
 **Training Phase:** Mucosal Restore (barrier repair & tissue nourishment)
 
@@ -67,7 +68,7 @@ The clinical signal is strongest for **local mucosal/epithelial application** (v
 
 **Unani — Avicenna (CM).** In the Central-Asian Unani stream the berry is taken as a nutritive restorative and applied as a topical vulnerary for burns and skin lesions. The strongest cultivation idea in the Unani corpus is the conservation of innate heat and radical moisture — ageing being their depletion, so longevity is conservation and not acquisition — and a temperate-moist nutritive of this kind sits adjacent to that frame; but no source assigns this berry a cultivation status, no *mufarrih* or cardiac-*ruh* role is claimed for it, and no placement in the *Canon* tradition is cited. Its recorded standing is nutritive and vulnerary. **(b) framed:** used in the tradition, no cultivation status sourced.
 
-**Chinese — Bencao (SBJ).** As *sha ji* 沙棘 sea buckthorn is a drug of Chinese and Mongolian medicine, but a late entrant: it is not in the classical Shennong *Bencao* stratum, entering Chinese materia medica largely through Mongolian and Tibetan medicine and being formalised only in the modern *Chinese Pharmacopoeia*. No *san pin* 三品 grade is therefore recorded for it, and within *yang sheng* 養生 — conservational, not curative — it carries no cultivation status, only the therapeutic one the Pharmacopoeia gives it (resolve phlegm and stop cough, invigorate blood, strengthen digestion). **(b) framed**, and expressly not a classical *Bencao* attestation.
+**Chinese medicine — post-classical (TCM).** As *sha ji* 沙棘 sea buckthorn is a drug of Chinese and Mongolian medicine, but a late entrant: it is not in the classical Shennong *Bencao* stratum, entering Chinese materia medica largely through Mongolian and Tibetan medicine and being formalised only in the modern *Chinese Pharmacopoeia*. No *san pin* 三品 grade is therefore recorded for it, and within *yang sheng* 養生 — conservational, not curative — it carries no cultivation status, only the therapeutic one the Pharmacopoeia gives it (resolve phlegm and stop cough, invigorate blood, strengthen digestion). **(b) framed**, and expressly not a classical *Bencao* attestation.
 
 **Ayurveda (SS).** In the trans-Himalayan belt the berry and seed oil enter *regional* Ayurvedic and folk practice as a nutritive (*brimhana*), *rakta*-building and vulnerary remedy. This is a description in the vocabulary of *guna* and action, not a formal assignment: no *rasayana* or *vajikarana* status is attested for this species in Charaka, Sushruta or the scholarship (Meulenbeld), and sea buckthorn is not a classical Sushrutan drug but a regional one. Its standing is nutritive and dietetic, not a formal rejuvenative category. **(b) framed.**
 

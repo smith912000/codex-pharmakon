@@ -2,7 +2,8 @@
 
 ## *Mandragora autumnalis* Bertol. | Family: Solanaceae
 
-**Tradition Tags:** AT, CM, DMM, EP, SS
+**Tradition Tags:** EP, AT, DMM, CM, SS, HEB
+**Tags (previous line, retained for reference):** AT, CM, DMM, EP, SS
 **Energetic Classification:** Cold and dry in the third degree (Galenic) — a narcotic-refrigerant of the highest, near-lethal potency
 **Training Phase:** Phase V — The Deadly Threshold (surgical narcotics and deliriant poisons; masters only)
 
@@ -85,6 +86,8 @@ Honest evidence-grade summary: the **anaesthetic/sedative/deliriant/lethal** axi
 **Unani — Avicenna (CM).** In the Unani corpus mandrake (*yabruḥ*) is placed cold and dry in the third degree — a narcotic (*narkōtikon*) grouped with henbane, opium poppy and hemlock among the cold stupefacients. This is a therapeutic-toxic humoral placement of fearsome strength, not a cultivation status. The tradition's cultivation idea proper — conserving the innate heat and radical moisture that are a finite vital endowment — sits at the opposite pole from a near-lethal cold-dry narcotic, and no gladdening or vitality-strengthening role is claimed for it; it is worked, when at all, to stupefy and to still pain. **(b) framed:** used within the humoral frame, no cultivation status sourced.
 
 **Ayurveda (SS).** Where the Himalayan *Mandragora* is admitted to the Sanskrit stream it enters as a potent narcotic — *nidrājanana* (sleep-inducing) and *vedanāsthāpana* (analgesic) — sometimes grouped with the *lakṣmaṇā* / powerful-root complex, an identification that is contested and hedged in this entry. No *rasa/guṇa/vīrya/vipāka* grading is securely attested for the species and none is invented; above all, no *rasayana* (rejuvenation) or *vajikarana* (generative vitality) status is recorded — its role is a dangerous sedative-analgesic one, not a rejuvenative cultivation one. **(b) framed**, with the classical identification itself uncertain.
+
+**Hebrew / Jewish (HEB).** Mandrake enters scripture as the *dûdā'îm* — the "mandrakes" of Genesis 30:14–16, which Reuben gathers in the wheat harvest and which Rachel bargains from Leah in exchange for a night with Jacob, an episode saturated with the plant's fertility and conception reputation; the *dûdā'îm* are named again among the fragrances of love in the Song of Songs (7:13). This is the scriptural seed of the whole Western fertility-and-love doctrine of the plant, but it is a narrative and symbolic fertility association, not a cultivation-status assignment: Hebrew tradition is a scriptural and ritual stream with no formal subtle-anatomy or vital-substrate doctrine into which such a status could be placed, and none is invented here. The engagement is recorded in its own terms — the mandrakes of the conception narrative and the love-song — and nothing in it grades the plant as a nourish-life or vitality substance. **(c) absent** as to cultivation status.
 
 **Practitioner's note.** A cultivator does nothing with mandrake but learn to recognise it and leave it alone. It is a Phase V lethal narcotic presented as a studied object, not a practice: across every tradition on this line it appears as a surgical stupefacient, a deliriant, a symbolic love-apple and a philological puzzle — never as a nourish-life or vitality substance, and no tradition here assigns it a cultivation status. The fertility and aphrodisiac reputation is doctrine-of-signatures and folklore, not pharmacology, and confers no cultivation standing. The only responsible engagement is intellectual and, at most, botanical — growing or identifying it in order to *avoid* poisoning. The honest answer is abstention.
 

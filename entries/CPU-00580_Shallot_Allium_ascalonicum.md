@@ -2,7 +2,8 @@
 
 ## *Allium ascalonicum* L. (= *A. cepa* Aggregatum group) | Family: Amaryllidaceae (Alliaceae)
 
-**Tradition Tags:** EP (Ebers), AT (Assyrian), DMM (Dioscorides), CM (Avicenna)
+**Tradition Tags:** EP, AT, DMM, CM, BDM
+**Tags (previous line, retained for reference):** EP (Ebers), AT (Assyrian), DMM (Dioscorides), CM (Avicenna)
 **Energetic Classification:** Hot and dry in the third/fourth degree — a strongly heating, penetrating, "opening" bulb in the Galenic-Unani scheme.
 **Training Phase:** Foundation
 
@@ -68,7 +69,9 @@ According to PubMed:
 
 **Avicenna / Unani (CM).** The *Qānūn* tradition classes onion as hot and dry in a high degree — incisive, attenuating, opening — cutting thick phlegm, stimulating appetite and digestion, provoking urine, and drawing externally; the shallot inherits this as a milder, concentrated member of the group. This is a genuine therapeutic and dietetic use, but the tradition's cultivation idea — the conservation of the *innate heat* and *radical moisture*, the finite vital endowment whose depletion *is* ageing — is a longevity frame of the whole regimen, not a status assigned to a fiercely heating kitchen-bulb, and none is sourced for the shallot; no *mufarrih* cardiac-*ruh* role is claimed. Cultivation status: **(b) framed** — attested therapeutically, no cultivation status recorded.
 
-**Practitioner's note.** A cultivator works the shallot through the kitchen, not the dispensary: it is a Foundation-phase food-medicine, crushed and rested a few minutes to develop its thiosulfinates, then eaten daily to keep the terrain warm, moving, and defended — stirring a cold or stagnant digestion and supplying antioxidant and antimicrobial support at nutritional doses. There is no ingestive longevity rite attached to it in any of the four tagged traditions; the honest cultivation practice is dietary habit — a warming, opening bulb worked in at the base layer and eaten, not dosed.
+**Buddho-Daoist monastic (BDM).** For the monastic and the ascetic the cultivation-relevant fact about the shallot is not what it does but that it is *avoided*. As a pungent *Allium* it falls under the *wǔxīn* 五辛, the "five acrid/pungent roots" proscribed to the practitioner — the exclusion set out in the *Śūraṅgama Sūtra* and the *Fànwǎng* (Brahmajāla) Sūtra of the Mahāyāna precept literature, and mirrored in the Daoist ascetic dietary rule. The scriptural reasoning is explicit: eaten cooked these pungent roots are held to inflame lust and desire, eaten raw to provoke anger, and in either case to cloud the clarity the meditator is cultivating and to drive off the protective, purifying influences — so the aspirant to concentration must set them aside. The shallot, an acrid clustering member of the same genus as the garlic, onion, and leek that anchor the *wǔxīn* list, is proscribed on exactly this ground. Cultivation status: **(a) attested** — as a proscription, the disciplined *abstention* is the practice.
+
+**Practitioner's note.** A cultivator works the shallot through the kitchen, not the dispensary: it is a Foundation-phase food-medicine, crushed and rested a few minutes to develop its thiosulfinates, then eaten daily to keep the terrain warm, moving, and defended — stirring a cold or stagnant digestion and supplying antioxidant and antimicrobial support at nutritional doses. There is no ingestive longevity rite attached to it in any of the five tagged traditions — and in the Buddho-Daoist case the discipline runs the other way, an abstention rather than a dose; the honest cultivation practice is dietary habit — a warming, opening bulb worked in at the base layer and eaten, not dosed.
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## *Citrullus colocynthis* (L.) Schrad. — the desert gourd whose bitter pulp empties the bowel with violence
 
-**Tradition Tags:** EP, AT, DMM, CM
+**Tradition Tags:** EP, AT, DMM, CM, HEB
 **Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book IV) · Greco-Roman · Hebrew/Biblical (paqquoth — "wild gourds") · Unani/Arabic (Handhal) · Folk-Saharan
 **Energetic Classification (TCM):** ◉ Qi (drastic purgative)
 **Training Phase:** [SPECIALIST ONLY] — violent drastic cathartic; toxic
@@ -69,6 +69,8 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 **Greek — Dioscorides (DMM).** Dioscorides places the wild bitter gourd among the violent cathartics of *De Materia Medica* (Book IV), and his tradition carries no subtle-body system into which a purgative could be given a cultivation status. What it offers a cultivator is instead a discipline of attention — recognising the true drug in the light, papery fruit and its intensely bitter pith, judging the ferocity of its action, and knowing it must be tempered in a compound rather than taken raw. That is a practice of provenance and sensory judgement, not a vital-body doctrine. **(c) absent** as to cultivation status.
 
 **Unani — Avicenna (CM).** In the Unani corpus colocynth is *handhal*, a hot-and-dry *mushil* (purgative) corrected (*islah*) with aromatics and gums to restrain its griping. The tradition's strongest cultivation idea — the conservation of innate heat and radical moisture across a whole regimen — is a longevity frame of temperance and husbandry, and a drastic evacuant of this order sits outside that frame rather than serving it; no gladdening, heart-strengthening (*mufarrih*) role is claimed for so violent a drug. It is genuinely used, therefore, but carries a therapeutic standing only, not a cultivation status. **(b) framed.**
+
+**Hebrew / Jewish (HEB).** Colocynth enters the Hebrew stream through a poisoning episode: in 2 Kings 4:39–40 one of the prophet's company goes out to gather herbs, finds a wild vine and gathers its "wild gourds" (*paqquoth*) into the pot, and when the men taste the pottage they cry out, "there is death in the pot" — a bitterness traditionally identified with the desert colocynth. This is a scriptural memory of a dangerous drug, recorded in its own narrative terms as a near-disaster of the cooking-pot, not a doctrine of the plant's virtues: Hebrew tradition is a scriptural and ritual stream with no formal subtle-anatomy or vital-substrate framework, and none is invented here. The engagement grades the gourd only as a bitterness to be feared, assigning it no cultivation standing of any kind. **(c) absent** as to cultivation status.
 
 **Practitioner's note.** A cultivator does nothing with colocynth. It builds nothing and conserves nothing; it is taken — if ever — only as a specialist's emergency evacuant, historically never given raw but compounded and tempered in the colocynth pill, for a defined obstruction and then stopped. Every tradition on this entry files it among the harshest drugs, and the Hebrew memory of "death in the pot" is the plainest warning the corpus gives. Its place is the specialist's shelf, not the cultivator's regimen.
 

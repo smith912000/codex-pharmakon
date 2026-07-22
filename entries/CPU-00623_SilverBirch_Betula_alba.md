@@ -2,7 +2,8 @@
 
 ## *Betula alba* L. (= *B. pendula* Roth / *B. pubescens* Ehrh. complex) | Family: Betulaceae
 
-**Tradition Tags:** AT, DMM, CM, SBJ
+**Tradition Tags:** AT, DMM, CM, SBJ, EF
+**Tags (previous line, retained for reference):** AT, DMM, CM, SBJ
 
 **Energetic Classification:** Cool and Dry (with a diuretic, cleansing tendency) — a draining, depurative tree-medicine
 
@@ -66,6 +67,8 @@ According to PubMed:
 **Unani — Avicenna (CM).** Birch and comparable barks and tars enter the Unani frame as drying, cleansing, depurative agents, the tar with a long dermatological use for chronic skin disease. The corpus's cultivation idea — conservation of innate heat and radical moisture — is a longevity discipline of the whole regimen, not a status fixed to a drying depurative bark, and no cardiac-*ruh* or *mufarrih* role is claimed. Its standing is therapeutic and depurative, not a cultivation grade. **(b) framed.**
 
 **Chinese — Bencao (SBJ).** The Chinese birch-bark article *hua mu pi* 桦木皮 (properly from the congener *Betula platyphylla*, Chinese white birch, rather than the European *B. alba* complex) is bitter and cooling, clearing heat and resolving toxin for damp-heat skin sores and throat heat. No *san pin* 三品 grade is recorded for it in the sources retrieved, so within *yang sheng* 養生 it holds a heat-clearing therapeutic standing, not a cultivation grade. **(b) framed:** attested as a materia medica drug (in a congeneric species), no grade sourced.
+
+**European folk / phytotherapy (EF).** European folk medicine is the tradition that actually carries birch as a cultivation-adjacent practice — the leaf and spring sap as a depurative, diuretic "spring cure," a seasonal draining and cleansing of the urinary tract and joints documented in the modern ethnopharmacological review of the genus (Rastogi, Pandey & Rawat, 2014, *Journal of Ethnopharmacology*). This is a therapeutic and seasonal-ritual folk use, not a doctrine: European folk practice carries no formal subtle-anatomy or vital-substrate system into which a cultivation grade could be fixed, so the "spring cure" reads as a recurring purificatory regimen rather than an assigned status on a vital body. **(b) framed:** a genuine, sourced depurative folk use, but with no European vital-body doctrine and therefore no cultivation status to assign.
 
 **Practitioner's note.** A Purification-phase drainer, not a longevity substance: birch-leaf infusion as a diuretic "spring cure" for the urinary tract and joints, birch bark and its betulin-rich triterpenes topically for inflammatory and skin conditions, spring sap as a seasonal tonic drink. Across the tagged traditions there is no cultivation grade to build toward — the cultivator uses birch to drain and cleanse for a defined course, then stops. The living tradition that actually carries this use is European folk phytotherapy rather than the classical corpora tagged here.
 

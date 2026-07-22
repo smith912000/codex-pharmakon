@@ -2,7 +2,8 @@
 
 ## *Phyllanthus emblica* L. (syn. *Emblica officinalis* Gaertn.) | Family: Phyllanthaceae
 
-**Tradition Tags:** CM, DMM, SBJ, SS
+**Tradition Tags:** DMM, CM, TCM, SS
+**Tags (previous line, retained for reference):** CM, DMM, SBJ, SS
 **Energetic Classification:** Cooling yet balancing — sour-astringent, drying; a rare tridoshic "cooling tonic" in the Galenic-Unani frame.
 **Training Phase:** Rejuvenation / Rasayana (deep tonification and antioxidant consolidation)
 
@@ -64,7 +65,7 @@ According to PubMed, amla has a **stronger human clinical evidence base than mos
 
 **Unani — Avicenna (CM).** As *Amlaj*, amla is a well-established Unani drug: a cold, dry astringent tonic (*muqawwi*) of the heart, brain, viscera and scalp that checks excessive discharge. The strongest cultivation idea in the Unani corpus, the conservation of innate heat and radical moisture across the whole regimen, is a frame of the constitution and is not the same as this substance's recorded tonic indications; no cultivation status is sourced beyond that therapeutic tonic role, and no *mufarrih* constituent claim is made. **(b) framed:** attested as a Unani tonic, no cultivation status sourced.
 
-**Chinese — Bencao (SBJ).** In Chinese medicine amla is *Yu Gan Zi* 余甘子, the "aftersweet fruit," classed as sour, sweet, astringent and cool — clearing heat, generating fluids, benefiting the throat and lung, and harmonising the middle. It is not, however, a drug of the classical Shennong stratum: it enters Chinese materia medica through later, southern- and Tibetan-transmitted compilations, and no *san pin* 三品 grade is recorded for it in the sources retrieved. It therefore carries a therapeutic, not a cultivation, status within *yang sheng* 養生. **(b) framed**, with the attestation belonging to the later Chinese stratum rather than the Shennong classic.
+**Chinese medicine — post-classical (TCM).** In Chinese medicine amla is *Yu Gan Zi* 余甘子, the "aftersweet fruit," classed as sour, sweet, astringent and cool — clearing heat, generating fluids, benefiting the throat and lung, and harmonising the middle. It is not, however, a drug of the classical Shennong stratum: it enters Chinese materia medica through later, southern- and Tibetan-transmitted compilations, and no *san pin* 三品 grade is recorded for it in the sources retrieved. It therefore carries a therapeutic, not a cultivation, status within *yang sheng* 養生. **(b) framed**, with the attestation belonging to the later Chinese stratum rather than the Shennong classic.
 
 **Ayurveda (SS).** *Amalaki* is a premier *rasayana* — the formal Ayurvedic rejuvenation discipline — named in the classical corpus, standing as the base of *Chyavanaprāśa* and as one of the three fruits of *Triphalā*, and given the rare profile of a cooling drug said to pacify all three doshas. Its *rasa* carries five of the six tastes with sour dominant, *virya* cooling, *vipaka* sweet. This is a genuine substance-specific cultivation status, not a therapeutic indication alone: rejuvenation taken to extend and restore the constitution. **(a) attested** — the *rasayana* standing of *Amalaki* is recorded in the classical Ayurvedic corpus (Charaka and Sushruta Saṃhitās; Meulenbeld, *A History of Indian Medical Literature*).
 

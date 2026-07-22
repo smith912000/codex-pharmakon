@@ -2,7 +2,8 @@
 
 ## *Pistacia terebinthus* L. — The Oldest Turpentine; Tree of the Oath; Resin of the Aegean Physicians
 
-**Tradition Tags:** AT, CM, DMM, EP
+**Tradition Tags:** EP, AT, DMM, CM, HEB, EF
+**Tags (previous line, retained for reference):** AT, CM, DMM, EP
 **Energetic Classification (TCM):** ◉ Qi primary / ☿ Shen secondary
 **Training Phase:** [GENERAL]
 
@@ -98,6 +99,10 @@ The modern peer-reviewed literature concentrates on *Pistacia* phytochemistry, a
 **Greek — Dioscorides (DMM).** *De Materia Medica* Book I ranks terebinth resin the foremost of the medicinal resins (*rhētinē*) — warming, drawing, mildly purgative, cleansing the chest — above the resins of pine, fir and lentisk. Dioscorides carries no subtle-body doctrine to which a cultivation status could attach; what he offers a cultivator is his discipline of attention — the recognition of the Chian grade as the standard of the type, the ranking of grades by smell and virtue, the judgement of a genuine resin from an inferior one. That is a real practice of provenance and sensory assay, not a vital-body assignment. **(c) absent** as to cultivation status.
 
 **Unani — Avicenna (CM).** The Dioscoridean resin is carried on through the Byzantine and Arabic materia medica as a warming, draining, consolidating balsam, the terebinth nut known as *butm*; humorally it sits Hot and Dry, an expectorant and rubefacient. The strongest cultivation idea in the Unani corpus — conservation of innate heat and radical moisture, longevity as husbandry of a finite endowment — is a frame of the whole regimen, not a status the tradition assigns to this warming expectorant resin, and no *mufarrih* or cardiac-*ruh* role is claimed. **(b) framed:** used in the materia medica, no cultivation status recorded.
+
+**Hebrew / Jewish (HEB).** In the Hebrew Bible the *elah* — the terebinth — appears as a sacred landmark of the Levantine landscape: the great solitary trees served as oath-places, boundary and burial markers, and sites of theophany, the "terebinth of Mamre" and the terebinths under which the patriarchs camped and buried their dead. This is a scriptural and ritual engagement with the *tree*-as-hallowed-fixture, not with the resin as a substance worked for the person's vitality; Hebrew tradition carries no formal subtle-anatomy or vital-substrate doctrine to which a cultivation status of *Pistacia* resin could attach, and none is manufactured here. The precise botanical identity behind each Hebrew term (*elah* / *allon* / *elon*, terebinth vs. oak) is debated by scholars, so the association is recorded in its own terms without asserting a specific verse identification. Cultivation status of the resin: **(c) absent.**
+
+**European folk / phytotherapy (EF).** Across Anatolia, the Aegean islands and the Levant the terebinth's products carried a continuous folk-therapeutic use: the resin and its oil as a warming chest-and-joint remedy and wound dressing, the galls as a powerful astringent for diarrhoea and bleeding, the fruit-oil as a nutritive and topical base. This is a therapeutic and symbolic folk practice, indication-organised; European folk medicine, like Dioscorides before it, carries no formal subtle-anatomy or vital-body doctrine, so no "vital body" reading is invented for it. What the tradition records is what the resin, oil and galls were *done for*, not a status they confer on the practitioner's constitution. Cultivation status: **(b)/(c)** — a therapeutic folk standing only, no cultivation status attested.
 
 **Practitioner's note.** A cultivator uses terebinth for defined jobs and then stops: a warming expectorant for cold-damp phlegm in the chest (specialist-supervised internally, given the real turpentine toxicity), a diluted rubefacient liniment over cold stiff joints, an occlusive antiseptic wound balsam, and — a distinct tannin action, not a resin one — the galls as a short-course astringent for looseness and bleeding. None of these is a substance taken over time to build or conserve vitality; the cultivation register is therapeutic throughout.
 

@@ -2,7 +2,8 @@
 
 ## *Marrubium vulgare* L. | Family: Lamiaceae
 
-**Tradition Tags:** AT, CM, DMM, EP
+**Tradition Tags:** EP, AT, DMM, CM, EF
+**Tags (previous line, retained for reference):** AT, CM, DMM, EP
 **Energetic Classification:** Hot (1st degree) & Dry (2nd degree) — a warming, drying bitter (Galenic/Unani)
 **Training Phase:** Clearing Phase — used to open and drain congested passages before deeper tonification.
 
@@ -69,6 +70,8 @@ According to PubMed, evidence for *Marrubium vulgare* is largely preclinical, wi
 **Greek — Dioscorides (DMM).** Here the attestation is genuinely textual and species-level: Dioscorides names *prasion* explicitly, prescribing the boiled leaves and seed, or an electuary with honey, for the orthopnoeic, the phthisical and the cough-troubled, and noting its power to expel afterbirth and bring on menstruation. Yet *De Materia Medica* carries no subtle-body doctrine into which a cultivation status could be set; what it offers a cultivator is the discipline of attention — recognising true *prasion* by its bitterness, judging the honeyed electuary, gathering at the right season — a practice of assay rather than a vital-body teaching. **(c) absent** as to cultivation status.
 
 **Unani — Avicenna (CM).** The Unani physicians class horehound (*farāsiyūn*) as hot in the first degree and dry in the second, a deobstruent and expectorant — *munaddij* and *muqaṭṭi'* — that ripens and cuts the cold, viscid humours of the lung. The corpus's strongest cultivation idea is the conservation of the *ruh* and of innate heat and radical moisture, the finite endowment whose depletion *is* ageing; but that governs the whole regimen of living, not this warming, drying bitter, and no gladdening cardiac (*mufarrih*) role is claimed for it. Its standing is a humoral-therapeutic placement, hot and dry, with no cultivation status recorded. **(b) framed.**
+
+**European folk / phytotherapy (EF).** European herbalism is where horehound's chest use is most continuously carried: Gerard's *Herball* and Culpeper's *Complete Herbal* pass on the Dioscoridean-Unani reading of a warming, drying bitter for coughs and "tough phlegm," and the plant persisted into modern commerce as horehound cough syrups and lozenges, its expectorant use recognised in the ESCOP and Commission E monographs. This is a bitter pectoral and expectorant tradition — a therapeutic and commercial folk lineage, not a doctrine of the person: European folk practice carries no formal subtle-anatomy or vital-substrate system into which a cultivation grade could be fixed, so the plant's standing here is a use, not a status. **(b) framed:** a well-sourced pectoral/expectorant folk use, with no European vital-body and therefore no cultivation status to assign.
 
 **Practitioner's note.** A cultivator uses horehound as a mover, not a builder: a very bitter clearing-phase expectorant taken briefly — usually honeyed, to carry the bitterness — to open and drain a congested, cold-damp chest and to prime a sluggish gut before meals, then withdrawn once the phlegm is loosening in favour of tonifying agents. None of its traditions assign it a longevity or vital-nourishing status, and the honest instruction is the traditional one: use it to shift stuck cold matter, then stop.
 

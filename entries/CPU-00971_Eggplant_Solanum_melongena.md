@@ -2,7 +2,7 @@
 
 ## *Solanum melongena* L. | Family: Solanaceae
 
-**Tradition Tags:** AT, DMM, CM, SBJ, SS
+**Tradition Tags:** AT, DMM, CM, TCM, SS
 **Tags (previous line, retained for reference):** AT, DMM, SBJ, SS, +Avicenna (Unani/Canon)
 **Energetic Classification:** Cold and dry in the second degree (Galenic/Unani), earthy-melancholic; sometimes graded "hot" by pungency of the unripe fruit
 **Training Phase:** Depuration & Grounding (Earth-phase food-medicine)
@@ -81,7 +81,7 @@ On the **cholesterol** folk claim specifically: the mechanistic hint that surviv
 
 **Unani — Avicenna (CM).** As *bādinjān* the *Canon* tradition grades the fruit cold and dry, generative of *sauda* (black bile / melancholia) and of thick, windy vapours; in excess it was held to darken the complexion and disturb mood and sleep, and it was therefore never eaten plain but "corrected" with vinegar, salt and heating spices, whereupon it served as a depurative for the plethoric and sluggish. The tradition's strongest cultivation idea — conservation of innate heat and radical moisture — is a frame of the whole regimen, not a status assigned to this cold, melancholy-breeding food; if anything the doctrine casts eggplant as adverse to the *rūḥ*, and no *mufarriḥ* role is claimed. Used and graded, but with no cultivation status. **(b) framed.**
 
-**Chinese — Shennong (SBJ).** In Chinese dietetics *qie zi* (茄子) is cooling (*liang*), sweet, entering Spleen, Stomach and Large Intestine, worked to cool the blood, reduce swelling and ease intestinal-heat bleeding — but it is a food-therapy item that enters the materia medica in the later *bencao*, not one of the graded drugs of the Shennong classic, and no *san pin* 三品 grade is recorded for it. Its standing is dietetic and cooling — a food eaten against heat, not a *yang sheng* 養生 nourishing-life substance — and no *qing shen* 輕身 or long-term life-nourishing role attaches. **(b) framed.**
+**Chinese medicine — post-classical (TCM).** In Chinese dietetics *qie zi* (茄子) is cooling (*liang*), sweet, entering Spleen, Stomach and Large Intestine, worked to cool the blood, reduce swelling and ease intestinal-heat bleeding — but it is a food-therapy item that enters the materia medica in the later *bencao*, not one of the graded drugs of the Shennong classic, and no *san pin* 三品 grade is recorded for it. Its standing is dietetic and cooling — a food eaten against heat, not a *yang sheng* 養生 nourishing-life substance — and no *qing shen* 輕身 or long-term life-nourishing role attaches. **(b) framed.**
 
 **Ayurveda (SS).** The fruit's homeland corpus works *vartaka* (*vṛntaka*) in frankly ambivalent dietetic terms: *rasa* *katu*/*tikta* (pungent-bitter), *guṇa* *laghu*/*rūkṣa* (light, dry), *vīrya* *uṣṇa* (heating, in the classical reading), *vipāka* *katu* — kindling of *agni* in small quantity, but *vāta*-provoking and, in excess, a producer of unquiet sleep and a disturbed mind, with the small tender fruit and the cooked form preferred over the large seedy or raw. No *rasāyana* (rejuvenation) or *vājīkaraṇa* (generative) grade is recorded — the recorded caution runs the other way — so its standing is *pathya* (dietetic), not a rejuvenative cultivation status. **(b) framed.**
 

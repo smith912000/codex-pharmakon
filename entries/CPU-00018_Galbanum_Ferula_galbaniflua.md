@@ -2,7 +2,7 @@
 
 ## *Ferula galbaniflua* Boiss. & Buhse — the fetid-green oleo-gum-resin of the sacred incense
 
-**Tradition Tags:** EP, AT, DMM, CM
+**Tradition Tags:** EP, AT, DMM, CM, HEB
 **Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book III) · Greco-Roman · Hebrew/Biblical (chelbenah) · Unani/Persian · Folk-Persian
 **Energetic Classification (TCM):** ◉ Qi (warming, dispersing, resolving)
 **Training Phase:** [GENERAL]
@@ -64,6 +64,8 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 **Greek — Dioscorides (DMM).** *De Materia Medica* Book III gives galbanum a systematic therapeutic account as a warming, softening, resolving gum-resin — a discutient that ripens and disperses cold swellings, an expectorant, an emmenagogue and a plaster ingredient. Dioscorides carries no subtle-body system to assign it a cultivation status. What the tradition offers a cultivator instead is his discipline of attention: judging the raw tear by its green-balsamic and faintly fetid odour, holding the notorious identity-fluidity of the *Ferula* gum-resins (galbanum against asafoetida, ammoniacum, sagapenum, opopanax) under sensory scrutiny, and guarding against adulteration of one resin with another. That is a real practice of provenance and assay, not a vital-body doctrine. **(c) absent** as to cultivation status.
 
 **Unani — Avicenna (CM).** In the Persian and Unani reckoning galbanum (*barzad*) is hot and dry in temperament, worked as *muhallil* (resolvent), *munzij*/*mukhrij* (ripener and expeller), antispasmodic and deobstruent for chest, "wind" and hard swellings. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture as a finite vital endowment — is a frame for the whole longevity regimen, not a status the tradition assigns to a warming, drying resolvent of this kind, and no *mufarrih* or cardiac-*ruh* role is claimed for it. **(b) framed:** attested therapeutically, with no cultivation status sourced.
+
+**Hebrew / Jewish (HEB).** Galbanum is *chelbenah*, and its Hebrew engagement is a ritual one: it is named in Exodus 30:34 as one of the four sacred spices of the holy incense of the Tabernacle — "Take unto thee sweet spices, stacte, and onycha, and galbanum; these sweet spices with pure frankincense." There is an old rabbinic reading that the galbanum, pungent and unpleasant on its own, was bound deliberately into the sweet compound so that the bitter would be carried within the fragrant — a moral note as much as an olfactory one. This is a sacred-incense and ritual engagement recorded in its own scriptural and rabbinic terms; Hebrew tradition supplies no formal subtle-anatomy or vital-substrate doctrine, and none is invented here, so the ritual use assigns the resin no cultivation standing. **(c) absent** as to cultivation status of the resin.
 
 **Practitioner's note.** Galbanum is not a substance a cultivator takes to build vitality. Across every tradition here it is worked short-term and mostly externally — a warming plaster to ripen and disperse cold, hard swellings, an expectorant for a cold and phlegmy chest, an antispasmodic for wind and colic, and, in its most famous role, a bitter-green resin burned as one voice in a compound sacred incense. Use it for the defined resolvent or aromatic job, respect the pregnancy caution, and expect nothing from it as a daily tonic.
 
