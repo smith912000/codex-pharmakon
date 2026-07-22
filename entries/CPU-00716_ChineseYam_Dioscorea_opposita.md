@@ -64,6 +64,20 @@ Modern work concentrates on the **mucilage polysaccharides**, which carry much o
 - **Ayurvedic (Sushruta tradition):** *madhura* (sweet) rasa; *guru/snigdha* (heavy, unctuous) guna; *shita*-to-neutral virya; *madhura* vipaka — a *balya/brmhana*, strength-building and moistening tuber.
 - **Galenic / Unani (Avicenna):** cool-moist to neutral, nutritive and demulcent; a substance-building convalescent food.
 
+### Cultivation Register
+
+**Greek — Dioscorides (DMM).** The genus *Dioscorea* bears Dioscorides' name, but *De Materia Medica* did not describe this East-Asian species — the entry itself concedes it "was not the one he handled directly," so the tag rests on the eponym and on the continuity of the demulcent-root doctrine, not on a named Dioscoridean entry for *D. polystachya*. Dioscorides in any case carries no subtle-body system into which a cultivation status could be set; what the tradition offers a cultivator is his discipline of attention — the recognition and assay of slippery, nutritive roots. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The Galenic-Unani frame treats starchy, mucilaginous roots as demulcent and nutritive — moistening the chest, soothing the gut, and building substance in the wasted or convalescent body — and Chinese yam is placed here by analogy to that class rather than by a *Qānūn* entry naming this species. The strongest cultivation idea in the Unani corpus, the conservation of innate heat and radical moisture across the whole regimen, is a frame of the constitution and is not a status assigned to this particular nutritive root; no *mufarrih* or cardiac-*ruh* role is recorded. **(b) framed:** placed within the nutritive/demulcent frame, no cultivation status sourced.
+
+**Chinese — Bencao (SBJ).** Shu Yu 薯蕷 — the classical name for the drug later renamed Shan Yao 山藥 — is classed in the upper grade (上品) of the *Shennong Bencao Jing*, the grade of gentle, non-toxic substances taken over years and months to nourish life rather than to attack disease. That is an explicit cultivation status, not merely a therapeutic one: a *bu* (tonifying) drug that supplements the spleen, lung and kidney *without cloying or heating*, exactly the profile the upper class exists to hold, and the reason it anchors formulas taken over months within *yang sheng* 養生, the conservational nourishing-of-life project. **(a) attested** — the upper-grade (上品) classification is recorded in the *Shennong Bencao Jing* itself.
+
+**Ayurveda (SS).** The tuberous *kanda* foods are known to the Sushrutan tradition as *balya* and *brmhana* — strength-giving, bulk-building, moistening substances that restore a depleted, dried-out constitution — and the Chinese yam's slippery rhizome fits that role by analogy. But no *rasayana* or *vajikarana* assignment is recorded for *D. polystachya* specifically; this East-Asian species is not among the classical Sushrutan *dravyas*, and its standing here is the general nutritive-tuber frame, not a formal rejuvenative cultivation status attested for the plant. **(b) framed.**
+
+**Practitioner's note.** In the Chinese scheme this is a substance a cultivator genuinely stays on: an upper-grade tonic taken daily, in cooking-scale amounts, to consolidate the spleen–lung–kidney axis over months — the nutritive ground on which sharper interventions are later layered, supplementing quietly without heating. Outside the Chinese lineage the other traditions offer only a nutritive-root frame, not a cultivation status; the honest practice everywhere is the same slow, low-drama, restorative daily use, with care taken only to cook the raw rhizome (the raphides irritate the hands).
+
+---
+
 ### Contraindications
 
 - **Skin-contact irritation (needle crystals):** the raw fresh rhizome and peel contain needle-shaped calcium oxalate raphides that can cause intense itching, stinging, and contact dermatitis on the hands during peeling/grating. Wear gloves, or briefly acidify (vinegar) / heat the hands; cooking destroys the effect.

@@ -59,6 +59,20 @@ According to PubMed:
 **Ayurveda (SS):** Rasa — sweet (*madhura*); Guna — heavy, unctuous (*guru, snigdha*); Virya — cooling (*shita*); Vipaka — sweet (*madhura*); a *rasayana* pacifying Pitta.
 **Galenic/Unani (CM):** Cold and moist; refrigerant, demulcent, diuretic.
 
+### Cultivation Register
+
+**Unani — Avicenna (CM).** Cooling, moist cucurbitaceous gourds of the *qarʿ* group are entered in the humoral materia medica as refrigerant, thirst-quenching foods that temper hot states and soothe the stomach, and *B. hispida* sits in exactly that cold-moist niche. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture, ageing being their slow depletion, so that longevity practice is conservation rather than acquisition — is a discipline of the whole regimen, not a status the tradition fixes to a single cooling gourd; no cardiac-*ruh* or *mufarrih* role is claimed for it. Its standing here is dietetic and humoral, not a cultivation grade. **(b) framed.**
+
+**Chinese — Bencao (SBJ).** As *dong gua* 冬瓜, winter melon is a settled article of the Chinese materia medica — cold and sweet, clearing summer-heat, resolving damp and promoting urination — with the seed (*dong gua zi* 冬瓜子) and the rind kept as distinct drugs. No *san pin* 三品 grade is recorded for it in the sources retrieved, so within *yang sheng* 養生 — the conservational, life-nourishing project rather than the curative one — it carries a therapeutic and dietetic standing, not a cultivation grade. **(b) framed:** attested in the materia medica, no grade sourced.
+
+**Ayurveda (SS).** *Kushmanda* is filed by Charaka, Sushruta and Vagbhata in the *phala varga* (the fruit/food group) as a sweet, cooling, *pitta*-pacifying nutritive, and the tradition does assign the species a formal rejuvenative standing: the named *Kushmanda(ka) Rasayana* / *Kushmanda Avaleha* is a documented *rasayana* preparation of *B. hispida*. That named formulation belongs to the medieval formulary stratum (the Kerala *Sahasrayogam* and later compendia), not to Sushruta himself, who records the fruit dietetically in *phala varga* rather than under a rejuvenative grade. Dated that way, the *rasayana* status is genuine but late. **(a) attested** for the *rasayana* category, dated to the medieval formulary stratum; the classical Sushrutan placement is dietetic (*phala varga*).
+
+**Tibetan — rGyud-bzhi (FMT).** The entry places ash gourd here only by extension — "cooling cucurbit foods of this type" for heat and urinary disorders across the shared trans-Himalayan pharmacopoeia — and no rGyud-bzhi attestation of *B. hispida* specifically is retrieved. Sowa Rigpa in any case carries no formal category of "substances for subtle-body practice"; medicine is the third of the four treatment branches, supporting practice rather than reaching its root. No cultivation status is attested. **(c) absent.**
+
+**Practitioner's note.** A cooling, mucilaginous food-medicine used as a base, not a forceful agent: taken as fresh juice or cooked fruit for hyperacidity, peptic upset and urinary heat, and — in the Ayurvedic line — reduced with ghee and honey into the *Kushmanda Avaleha* rasayana confection for debility and respiratory weakness. What a cultivator actually does with it is ground and cool the system through daily dietary use before more forceful substances enter later phases; there is no longevity grade to chase in the Chinese, Unani or Tibetan registers, only the Ayurvedic rejuvenative use, and that one is a gentle nutritive rather than a potent drug.
+
+---
+
 ### Contraindications
 
 Its cold, moist nature makes it traditionally less suitable for those with weak digestion, cold constitutions, chronic diarrhoea or excess damp/phlegm. As a diuretic food it should be used cautiously alongside diuretic medication. No significant toxicity is reported at food doses; concentrated extracts lack human dosing data — do not self-dose these. Standard cucurbit allergy caution applies.

@@ -57,6 +57,20 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Unani/Arabic mapping:** *saqmunia / mahmudah* — hot-dry; a powerful mushil (purgative) for phlegmatic/bilious states; always corrected (islah) to reduce griping.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the forcible downward-draining/eliminating axis; a resin-glycoside drastic kin to jalap, distinct in mechanism from the cucurbitacin (colocynth, bryony) and anthraquinone (senna, aloes) purgatives.
 
+### Cultivation Register
+
+**Egyptian (EP).** Scammony is a Levantine root-resin, and the entry records no Egyptian handling of it; the plant's centre of use lies in the Greek and Arabic pharmacy, not the Nile valley. The Ebers corpus is in any case indication-organised — it records what was done for a complaint, not what a substance does to a person's *ka*, *ib* or vital constitution — and no *heka*-bearing operative recitation is attested for this resin. Any Egyptian identification here would be a modern hypothesis rather than a sourced use. Cultivation status: **(c) absent.**
+
+**Assyrian (AT).** No Assyrian cuneiform attestation for this resin is present in the entry, and under the standing blocking warning for Mesopotamian substance identifications, causal-agency framing and tablet references, no cultivation status is claimed. Illness in that tradition is classified by the agency it opposes, and nothing here places scammony within such a scheme. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *De Materia Medica* Book IV places scammony among the strong purgatives, a swift hydragogue evacuant of "phlegm and bile." Dioscorides carries no subtle-body doctrine to which a cultivation status could attach; what the tradition genuinely offers a cultivator is his discipline of attention — the recognition of true "Aleppo" grade by its resin content, the assay against a drug that was among the most notoriously adulterated of the old trade, cut with chalk, starch or cheaper resins. That is a real practice of provenance and sensory judgement, not a vital-body assignment. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** As *saqmunia / mahmudah* the resin is classed hot and dry in a high degree, a powerful *mushil* (purgative) for stubborn constipation and gross phlegmatic or bilious humours, always corrected (*islah*) with milder aperients and aromatics to temper its griping. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture, where longevity is husbandry of a finite endowment — runs directly counter to a forcible evacuant like this; the tradition assigns scammony a therapeutic evacuative role, not a conservational cultivation status, and no *mufarrih* or cardiac-*ruh* role is claimed. **(b) framed:** used in the materia medica, no cultivation status recorded.
+
+**Practitioner's note.** There is nothing here for a cultivator to build with. Scammony is a drastic, irritant cathartic — specialist and historical material, given at all only corrected and compounded, to force a single defined evacuation and then stopped. Across every tradition on this line it is an eliminating agent, not a substance taken over time to nourish or conserve vitality; the honest cultivation answer is abstention.
+
+---
+
 ### Contraindications
 
 - **Pregnancy — absolute.** Drastic purgatives are uterine-stimulant/abortifacient-risk; contraindicated.

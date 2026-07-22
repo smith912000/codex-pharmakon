@@ -57,6 +57,20 @@ According to PubMed:
 **TCM (SBJ):** Bitter, cool/cold; clears heat, resolves damp-heat and toxin — used for skin sores and throat/respiratory heat.
 **Galenic/Unani (CM):** Cool and dry; drying, cleansing, depurative and diuretic; bark tar drying for chronic skin disease. No classical Ayurvedic (rasa/guna/virya/vipaka) classification is attested for this northern species and none is claimed here.
 
+### Cultivation Register
+
+**Assyrian (AT).** The entry files birch here as a "characteristic tree of the northern reaches" carried along the same trade routes as other resinous bark medicines — a regional generalisation, not a secured cuneiform attestation of *Betula* in the medical tablets. Under the standing blocking warning for Assyrian substance identifications, and with illness in that corpus classified by causal agency rather than by a substance's action on vitality, no cultivation status is claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Birch is a boreal tree outside the eastern-Mediterranean range of *De Materia Medica*; what the entry cites is the Greek documentation of astringent resinous barks "of this northern type," not *Betula* named as such. Dioscorides carries no subtle-body doctrine to assign a cultivation status in any case. What the tradition genuinely offers a cultivator is his discipline of attention — provenance, season of gathering, sensory assay of a drying, binding bark — a real practice rather than a vital-body claim. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Birch and comparable barks and tars enter the Unani frame as drying, cleansing, depurative agents, the tar with a long dermatological use for chronic skin disease. The corpus's cultivation idea — conservation of innate heat and radical moisture — is a longevity discipline of the whole regimen, not a status fixed to a drying depurative bark, and no cardiac-*ruh* or *mufarrih* role is claimed. Its standing is therapeutic and depurative, not a cultivation grade. **(b) framed.**
+
+**Chinese — Bencao (SBJ).** The Chinese birch-bark article *hua mu pi* 桦木皮 (properly from the congener *Betula platyphylla*, Chinese white birch, rather than the European *B. alba* complex) is bitter and cooling, clearing heat and resolving toxin for damp-heat skin sores and throat heat. No *san pin* 三品 grade is recorded for it in the sources retrieved, so within *yang sheng* 養生 it holds a heat-clearing therapeutic standing, not a cultivation grade. **(b) framed:** attested as a materia medica drug (in a congeneric species), no grade sourced.
+
+**Practitioner's note.** A Purification-phase drainer, not a longevity substance: birch-leaf infusion as a diuretic "spring cure" for the urinary tract and joints, birch bark and its betulin-rich triterpenes topically for inflammatory and skin conditions, spring sap as a seasonal tonic drink. Across the tagged traditions there is no cultivation grade to build toward — the cultivator uses birch to drain and cleanse for a defined course, then stops. The living tradition that actually carries this use is European folk phytotherapy rather than the classical corpora tagged here.
+
+---
+
 ### Contraindications
 
 **Birch-pollen cross-allergy is the key caution:** birch is a major aeroallergen, and pollen-allergic individuals may react to birch preparations and to oral-allergy-syndrome cross-reactive foods — avoid or use with medical guidance. Diuretic leaf preparations are inappropriate in significant renal or cardiac impairment without supervision and require adequate hydration; use caution alongside diuretic drugs. Concentrated betulin/betulinic-acid extracts lack established human dosing — do not self-dose. Avoid in pregnancy and lactation given insufficient safety data. Birch tar is for external use only.

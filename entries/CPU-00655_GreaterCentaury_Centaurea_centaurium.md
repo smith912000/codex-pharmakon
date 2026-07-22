@@ -50,6 +50,20 @@ Direct clinical or preclinical data on *Centaurea centaurium* itself are sparse 
 - **TCM analogue:** No canonical Chinese classification; by action it would read as bitter, slightly warm, moving and drying (bitter descending / draining).
 - **Ayurvedic analogue:** Not a classical dravya; by properties, *tikta rasa* (bitter), *ushna virya* (heating), *katu vipaka* (pungent post-digestive) — reducing to Kapha, potentially aggravating Vata if overused.
 
+---
+
+### Cultivation Register
+
+**Egyptian (EP).** Greater Centaury enters the Egyptian record only at the level of a class of bitter, resinous root-drugs used to "drive out" disorder from the belly, and even that placement rests on a contested identification rather than a securely read *šndt*-type entry. The Ebers material is indication-organised — it records what was done for a griping gut or an open wound, not what a root does to a person's *ka*, *ib* or vital constitution — and no *heka* recitation is attested for this plant in the retrieved sources. No cultivation framing exists. **(c) absent.**
+
+**Assyrian (AT).** The cuneiform herbal tradition holds a stream of bitter root-drugs used as vermifuges and wound-cleansers into which this plant is placed by class, not by a securely transliterated single name. Under the standing blocking warning in force for every Assyrian substance identification and its causal-agency framing, no cultivation status is claimed; the placement is therapeutic and provisional. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Kentaurion to mega* receives the clearest classical account of the plant — a warming, astringent root boiled for ruptures, cramps and old coughs, the bruised fresh root closing fresh cuts. Dioscorides carries no subtle-body system to assign it a cultivation status; what the tradition offers a cultivator is his discipline of attention — the gathering and drying of the root's juice for later use, the judgement of a true root against substitutes, the naming that keeps the "greater" plant distinct from the lesser. That is a real practice of provenance and assay, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The *Qanun* carries the Greek centaury forward under the *qantariyun* name-group and classes the greater kind as hot and dry, deobstruent and wound-consolidating, worked for the liver and spleen, retained menses, and applied to wounds and sinews. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture across a life — is a longevity frame of the whole regimen, not a status the tradition assigns to this warming, drying cleanser, and no *mufarrih* or cardiac-*ruh* role is claimed for it. It is attested therapeutically, with no cultivation status sourced. **(b) framed.**
+
+**Practitioner's note.** Nothing here is a substance a cultivator takes to build vitality. Across all four traditions Greater Centaury is a short-course bitter and wound simple — a warming, drying, consolidating root for clearing a sense of stagnation and knitting closed what is open, then stopped. The Chiron symbolism is doctrine and lineage, not a vital-body claim, and the species is so thinly characterised even at the therapeutic level that the honest move is to work it for the defined job in the Purification phase and expect nothing of it as a longevity agent.
+
 ### Contraindications
 
 Not for use in pregnancy (traditional emmenagogue reputation; theoretical uterine risk). Asteraceae-family sensitivity is common — avoid in those allergic to daisies, ragweed, chrysanthemum, or related composites. Bitter drying agents may aggravate already-dry or Vata-excess constitutions. Because species-specific safety data are absent, treat as a low-dose traditional bitter only and avoid in children, and in hepatic or renal impairment without professional supervision. [USER: verify all dosing before any practitioner-facing use.]

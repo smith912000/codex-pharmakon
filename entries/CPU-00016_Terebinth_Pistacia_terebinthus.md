@@ -89,6 +89,20 @@ The modern peer-reviewed literature concentrates on *Pistacia* phytochemistry, a
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** The entry records no Egyptian medical handling of terebinth resin, and the Ebers corpus is indication-organised — it registers what was done for a cough or a wound, not what a resin does to a person's *ka*, *ib* or vital constitution. Whatever standing *Pistacia* resin held as a traded aromatic and burial-material in the ancient Near East would belong to the substance-as-material, not to a *heka*-bearing cultivation status worked for the person's vitality, and no operative recitation is attested here. Cultivation status: **(c) absent.**
+
+**Assyrian (AT).** No Mesopotamian cuneiform attestation for terebinth resin is present in the entry, and under the standing blocking warning for Assyrian substance identifications, causal-agency framing and tablet references, no cultivation status is claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *De Materia Medica* Book I ranks terebinth resin the foremost of the medicinal resins (*rhētinē*) — warming, drawing, mildly purgative, cleansing the chest — above the resins of pine, fir and lentisk. Dioscorides carries no subtle-body doctrine to which a cultivation status could attach; what he offers a cultivator is his discipline of attention — the recognition of the Chian grade as the standard of the type, the ranking of grades by smell and virtue, the judgement of a genuine resin from an inferior one. That is a real practice of provenance and sensory assay, not a vital-body assignment. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The Dioscoridean resin is carried on through the Byzantine and Arabic materia medica as a warming, draining, consolidating balsam, the terebinth nut known as *butm*; humorally it sits Hot and Dry, an expectorant and rubefacient. The strongest cultivation idea in the Unani corpus — conservation of innate heat and radical moisture, longevity as husbandry of a finite endowment — is a frame of the whole regimen, not a status the tradition assigns to this warming expectorant resin, and no *mufarrih* or cardiac-*ruh* role is claimed. **(b) framed:** used in the materia medica, no cultivation status recorded.
+
+**Practitioner's note.** A cultivator uses terebinth for defined jobs and then stops: a warming expectorant for cold-damp phlegm in the chest (specialist-supervised internally, given the real turpentine toxicity), a diluted rubefacient liniment over cold stiff joints, an occlusive antiseptic wound balsam, and — a distinct tannin action, not a resin one — the galls as a short-course astringent for looseness and bleeding. None of these is a substance taken over time to build or conserve vitality; the cultivation register is therapeutic throughout.
+
+---
+
 ### Contraindications
 
 - **Irritant / contact sensitisation:** As an Anacardiaceae resin with a volatile terpene load, terebinth resin and oil can irritate and sensitise skin; patch-test and dilute before topical use; avoid on broken or inflamed skin beyond traditional wound-dressing use. **[USER: verify the specific allergen status of *P. terebinthus*.]**

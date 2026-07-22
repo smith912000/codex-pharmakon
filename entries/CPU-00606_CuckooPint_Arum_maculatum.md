@@ -56,6 +56,20 @@ The plant's distinctive thermogenic, scent-emitting spadix — the biological ba
 - **Greek (Dioscorides):** Acrid root, tamed by cooking; expectorant and humour-thinning once prepared.
 - **Ayurvedic analogue (uncharted for this species):** No classical Ayurvedic assignment attested; by analogy to acrid aroids the rasa would read as *katu* (pungent), *ushna* (hot) *virya* — [USER: verify, not a classical attribution].
 
+### Cultivation Register
+
+**Egyptian (EP).** The Egyptian layer records acrid aroid roots among the "burning" counter-irritants worked only in compounded, cooked form — an indication-organised notice of what was done for swellings, not an account of what the root does to a person's *ka*, *ib* or vital constitution. No *heka* recitation, operative spell or deity attribution is sourced for this plant, and the identification rests on the aroid class rather than *A. maculatum* specifically. Cultivation status: **(c) absent.**
+
+**Assyrian (AT).** The cuneiform tablets list acrid aroid roots among purging and skin-clearing agents, prepared by drying and repeated washing — a procedural, therapeutic notice classified by what the drug is worked to do. Under the standing blocking warning for Assyrian substance identifications, tablet references and causal-agency attributions, no cultivation status is claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides describes *aron* directly: the root, roasted or boiled, sheds its acrimony and becomes edible and medicinal, thinning thick humours and clearing the chest. He carries no subtle-body system to assign a cultivation status. What the tradition offers a cultivator is his discipline of attention — the observation that cooking removes the sting, and the judgement of when the root is safe to work. That is a real practice of preparation, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Avicenna classes *luf* as hot and dry, attenuating and incisive, a resolvent for cold thick swellings and phlegmatic congestion once cooked or dried, with a repeated warning of its corrosive action raw. The strongest cultivation idea in the Unani corpus — conservation of innate heat and radical moisture across the regimen — is not a status this tradition assigns to a corrosive, humour-cutting drug, and no *mufarrih* or cardiac-*ruh* role is claimed. It is a therapeutic hot-and-dry agent, not a longevity substance. **(b) framed:** attested therapeutically, no cultivation status sourced.
+
+**Practitioner's note.** A cultivator does effectively nothing with this for vitality. In every tradition Cuckoo Pint is either an unsecured aroid-class identification (EP, AT) or a therapeutic attenuant of cold phlegm accessible only after full detoxification (DMM, CM). Kenetica keeps it as a boundary-marker teaching plant: it demonstrates that "natural" and "safe" are unrelated and that process — thorough cooking, drying and ageing — is what makes the root a medicine rather than a poison. Raw, it is handled only as a hazard, gloved and away from children and animals; there is no vital-body or longevity use to take up.
+
+---
+
 ### Contraindications
 
 ⚠️ **SEVERE TOXICITY WARNING — READ BEFORE ANY HANDLING.**

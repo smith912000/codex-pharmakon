@@ -60,6 +60,22 @@ According to PubMed:
 - **Ayurveda (assimilated):** *katu/tikta* (pungent/bitter) rasa; *ushna* (warm) virya; *kapha-vata* reducing; deobstruent and emmenagogue in traditional use.
 - **Galenic / Unani:** Warm and dry; deobstruent, resolvent, emmenagogue; seed aperient (per Dioscorides and the *Qanun*).
 
+---
+
+### Cultivation Register
+
+**Egyptian — Ebers (EP).** Safflower is recorded in the Egyptian material chiefly as a dye and colourant plant and among the oil- and unguent-bearing seeds, with florets and textiles recovered from tombs. The Egyptian person is a plurality — *ka*, *ba*, *akh*, and the *ib* as the seat of judgement — but the Ebers corpus is indication-organised: it records what was done for a complaint, and the identity of a given plant behind it remains in part a modern hypothesis. No *heka*-bearing recitation and no operation on the vital constitution is attested for *Carthamus*; its standing is as dyestuff, seed-oil and funerary material. **(c) absent.**
+
+**Assyrian — cuneiform (AT).** *Kurtum*, identified with safflower, appears in the tablets as an oil-bearing and dye plant used in medicine and ritual. Under the standing blocking warning that governs every Assyrian substance identification, deity attribution and tablet reference — and given that illness in this system is classified by causal agency (a divine hand, a ghost, an oath) rather than by any status a substance holds in itself — no cultivation status is claimed. The attestation is of use, not of a vital assignment. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Knēkos* is given a plain therapeutic account: the seed purges the bowel, the plant moves the belly and, in the humoral idiom, the menses and phlegm. Dioscorides holds no subtle-body doctrine into which a cultivation status could be placed. What the tradition offers a cultivator is his discipline of attention — knowing the seed's aperient force, gathering and assaying the floret, guarding a dye-and-oil plant against substitution. That is a practice of provenance and judgement, not a doctrine of the vital body. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Safflower is known as *usfur* (the seed *qurtum*), classed warm and dry, worked as a resolvent, emmenagogue and mild seed-aperient to move stagnant humours. The tradition's genuine cultivation frame — conservation of the innate heat and radical moisture — is a matter of whole-regimen longevity and is not a status the corpus attaches to a warm-dry deobstruent used to *move* rather than to *husband*; no gladdening role for the *ruh* is claimed for it. Attested therapeutically, no cultivation status sourced. **(b) framed.**
+
+**Practitioner's note.** Safflower is a mover, not a substance to accumulate. The oldest four traditions here use it as dye, seed-oil, aperient and emmenagogue — outward work on bowel, menses and stagnation, or on cloth and skin — and none records a status for building the constitution. The cultivator's uses are the modest ones the sources support: the linoleic-rich seed oil as a culinary and skin-barrier oil, the florets as a traditional deobstruent kept well away from pregnancy. Its blood-moving fame belongs to its cultivated cousin *hong hua*, a different (Chinese) register not attested for this wild taxon.
+
+---
+
 ### Contraindications
 
 - **Pregnancy — avoid.** Safflower florets and seed preparations are traditional emmenagogues and are reputed to stimulate uterine activity; the cultivated species (*hong hua*) is a classic Chinese herb contraindicated in pregnancy for its blood-moving action. Avoid therapeutic floret/seed preparations in pregnancy and during heavy menstrual bleeding.

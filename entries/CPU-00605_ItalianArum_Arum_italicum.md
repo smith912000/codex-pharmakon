@@ -57,6 +57,20 @@ Peer-reviewed pharmacology of *A. italicum* is thin and mostly exploratory.
 - **Ayurveda:** Not a classical dravya; by analogy the raw plant's biting *katu* (pungent) quality, *ushna* (hot) virya and caustic *tikshna guna* place it among sharp, heating, potentially toxic substances requiring *shodhana* (purification processing) before any use — a cross-system mapping only.
 - **TCM:** No standard Zhong Yao identity; do not equate with prepared aroid drugs such as processed *Pinellia* (Ban Xia), though the "raw is toxic, processed is medicine" logic is directly parallel.
 
+### Cultivation Register
+
+**Egyptian (EP).** The Ebers layer here is a general attestation of arum-class caustic roots, not a species identification of *A. italicum*, and the corpus is indication-organised — it records what was done to draw or disperse a complaint, not what an arum root does to a person's *ka*, *ib* or vital constitution. No *heka* recitation, no operative spell, and no deity attribution is sourced for this plant, and the identity of the specific species is itself a modern hypothesis over a broad ancient category. Cultivation status: **(c) absent.**
+
+**Assyrian (AT).** The cuneiform "burning-mouth" roots plausibly include Mesopotamian arums, but this is a regional-class attestation and not a verified single-species identification. Under the standing blocking warning for Assyrian substance identifications, tablet references and causal-agency attributions, no cultivation status is claimed; the plant is not even securely fixed as this species. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Aron* is a recognisable arum in *De Materia Medica*, given a therapeutic account as an expectorant and disperser of cold thick humours — but only after the root is cooked, dried, or aged to destroy its bite. Dioscorides carries no subtle-body system to assign a cultivation status. What the tradition genuinely offers a cultivator is his discipline of attention: the insistence that the raw root is unusable and that provenance, processing, and time set the safety class of the material. That is a real practice of preparation and sensory judgement, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The *Qanun* stream classes arum (*luf*) as hot, cutting and dissolving in a high degree, used after preparation against phlegmatic congestion and cold swellings, always with the caution that the raw root burns. The strongest cultivation idea in the Unani corpus — conservation of innate heat and radical moisture across the whole regimen — is not a status this tradition assigns to a caustic, humour-cutting drug, and no *mufarrih* or cardiac-*ruh* role is claimed. It is a therapeutic hot-and-dry agent, not a longevity substance. **(b) framed:** attested therapeutically, no cultivation status sourced.
+
+**Practitioner's note.** A cultivator does effectively nothing with this for vitality. Across all four traditions arum is either an unsecured regional identification (EP, AT) or a therapeutic disperser of cold phlegm accessible only after complete detoxification (DMM, CM). Kenetica keeps it as a processing-and-hazard specimen: it teaches that preparation is pharmacology — that thorough cooking, drying and ageing, not the species alone, set what the root is. Raw, it is handled as a poison, gloved and away from children and pets; there is no longevity or vital-body use to take up.
+
+---
+
 ### Contraindications
 
 ⚠️ **TOXIC RAW — SERIOUS HAZARD. Every part of the raw plant is dangerous. This entry documents the hazard; it is NOT a recommendation to ingest.**

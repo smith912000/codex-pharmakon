@@ -55,6 +55,20 @@ According to PubMed:
 - **Ayurveda (by analogy):** *rasa* katu-tikta (pungent-bitter); *guna* sharp, dry, penetrating; *virya* heating (ushna); *vipaka* pungent. *Kapha*-reducing, strongly *pitta*-aggravating; topical parasiticide/keratolytic.
 - **Galenic/Unani (as attested):** hot and dry, third degree; the tar an intense *muhallil* and cleanser, escharotic in excess.
 
+### Cultivation Register
+
+**Egyptian (EP).** Juniper and its Cupressaceae kin belonged to the Egyptian aromatic and embalming stock — resins and berries valued for drying, preserving and disinfecting, used in fumigation and in salves that dried weeping surfaces. That standing is technological and material — a preservative and cleansing resin worked on bodies and surfaces — not a *heka*-bearing status assigned to a person's *ka*, *ba* or *ib*, and the corpus is indication-organised: it records what was done for a foul wound or an infested skin, not what the substance does to the vital constitution. Cultivation status: **(c) absent.**
+
+**Assyrian (AT).** Aromatic conifer resins and tars are used extensively in the cuneiform materia medica for fumigations and topical dressings against skin complaints, parasites and foul wounds. Under the standing blocking warning for Assyrian substance identifications and their causal-agency framing, no cultivation status is claimed; the attestation is therapeutic and environmental. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides describes the *kedros* and *oxykedros* junipers and the pitch (*pissa* / *kedria*) drawn from resinous cedar-junipers, prescribing the tarry oil for skin eruptions, ulcers, mange, lice and parasites, and as a drawing dressing. He carries no subtle-body system to assign it a cultivation status. What the tradition offers a cultivator is his discipline of attention — distinguishing the sharp juniper from the true cedar, judging the quality of a pitch won by destructive heat, watching for adulteration of the tar. That is a practice of provenance and assay, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The *Qanun* places juniper and its pitch among the hot, dry, resolving simples, worked topically for chronic skin disease, itch and indurations and by fumigation as a disinfectant — an intensely heating *muhallil* and cleanser. The strongest cultivation idea in the Unani corpus, the conservation of innate heat and radical moisture, is a whole-regimen longevity frame and is not a status the tradition assigns to this corrosive external agent; no *mufarrih* or cardiac-*ruh* role is claimed for it. **(b) framed:** attested therapeutically as a hot resolvent, with no cultivation status sourced.
+
+**Practitioner's note.** Nothing here is a substance a cultivator takes to build vitality — across all four traditions cade is a sharp, external, driving-out agent, worked on scaling, infested or festering skin and then withdrawn. Its power and its danger are the same keratolytic, escharotic property, and it is never internal or nourishing. A cultivator uses it to strip and disinfect a defined congested surface during purification, in refined pharmaceutical-grade form only, and stops; the honest answer to "what does one cultivate with this" is nothing.
+
+---
+
 ### Contraindications
 
 - **Crude/unrefined cade oil contains polycyclic aromatic hydrocarbons** and is restricted in cosmetics in several jurisdictions; use only refined, pharmaceutical-grade material and only as directed.

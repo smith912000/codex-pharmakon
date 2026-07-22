@@ -57,6 +57,20 @@ According to PubMed, the modern evidence base is preclinical (animal and in-vitr
 - **Greco-Roman/Dioscoridean:** bitter purging plant (*alypon*), evacuant downward.
 - **Ayurvedic mapping (by analogy, not classical):** *tikta* (bitter) rasa, *ushna* (hot) virya, *ruksha* (dry) guna; strongly kapha- and pitta-moving with a *virechana* (purgative) character — to be used only in the classical restrained manner for purgatives.
 
+### Cultivation Register
+
+**Egyptian (EP).** No cultivation framing is attested for this plant. The entry places *Globularia alypum* within the Ebers-descended register of evacuant *pharmaka* — the bitter, downward-moving simples used to void the belly — but records no specific Ebers prescription naming this Maghrebi shrub; the placement is register-level, not a named simple. And even where the corpus does name a purge, it is indication-organised: it says what was done for a loaded belly, not what the evacuation does to the person's *ka*, *ba* or *ib*, and no *heka* recitation is recorded for it. Cultivation status: **(c) absent** — indeed the Egyptian attestation here is a matter of belonging to a class, not an operative status assigned to the substance.
+
+**Assyrian (AT).** Under the standing blocking warning for Mesopotamian substance identifications, no cultivation status is claimed. The cuneiform corpus classifies evacuants by the matter they drive out — thick humour, retained "bile" — so a purgative is partly identified by *what it opposes*; but that is a therapeutic and causal classification, not a status worked for the person's vitality, and the identification of this particular species in the tablets is not secure. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides names *alypon* among the plants that purge downward, but he carries no subtle-body system that could give it a cultivation status. What the tradition genuinely offers a cultivator is his discipline of attention: settling which bitter shrub the true *alypon* is — an identity that is genuinely debated — judging the drastic by taste and strength, and guarding against confusing it with more violent purgatives that share the reputation. That is a real practice of provenance and sensory assay, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** *Globularia* is received as hot and dry in the second-to-third degree, a *mus-hil* (purgative) and deobstruent that voids thick phlegmatic and bilious matter. The strongest cultivation idea in the Unani corpus is the conservation of innate heat and radical moisture — a longevity frame of the whole regimen — and within it a drastic hot-dry evacuant is precisely an agent that spends rather than conserves; no *mufarrih* or *ruh*-strengthening role is claimed for it. Its recorded standing is therapeutic. **(b) framed:** used in the tradition, no cultivation status sourced.
+
+**Practitioner's note.** Nothing here is a substance a cultivator takes to build vitality. Across all four registers *Globularia* is a drastic purge — worked briefly, at low dose, to void the bowel and, in Maghrebi folk practice, to lower blood sugar — and then stopped. A drastic that empties also depletes, and the tradition's own restraint (weak infusions, a short arc, the pregnancy prohibition) is the instruction. The honest use of it is sparing and occasional, never a daily discipline.
+
+---
+
 ### Contraindications
 
 **⚠️ DRASTIC PURGATIVE — USE WITH RESTRAINT.** *Globularia alypum* is a **strong, drastic laxative**. Overuse or excess dose can cause violent purging, painful cramping, and — as with any drastic — fluid and electrolyte loss, dehydration and, with chronic use, laxative dependence and colonic dysfunction. It must not be used habitually, and never for routine bowel regulation. Keep to weak preparations; reserve strong purgative dosing for clinician-guided contexts.

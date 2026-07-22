@@ -81,6 +81,20 @@ This is the most appropriate respiratory expectorant for productive cough with t
 
 ---
 
+### Cultivation Register
+
+**Assyrian (AT).** Ivy-related climbing-plant preparations are reported for the Nineveh material as respiratory and analgesic remedies, but under the standing blocking warning for Mesopotamian substance identifications and tablet references, no cultivation status is claimed here. The framing is therapeutic and the identification itself is provisional. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Kissos* receives an extensive therapeutic account in *De Materia Medica* Book II, where Dioscorides distinguishes the black-berried, white-berried and other kinds and records their indications — and, notably, recording (while keeping his distance) the belief that an ivy crown guards against drunkenness. Dioscorides carries no subtle-body system by which to assign the plant a cultivation status; the plant's heavy sacred weight as the garland of Dionysus is the standing of ivy as sacred matter within Greek religion, not a status the physician assigns to work a person's vital constitution. What the tradition gives a cultivator is his discipline of attention — telling the ivy types apart, and separating the safe topical leaf from the purging, toxic berry. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Ivy (*lablāb*) is classed warm in the second degree and dry, worked as an astringent, a topical anti-inflammatory and a headache poultice, with the berry preparations flagged as potentially toxic. This is a therapeutic classification, not a cultivation one; the Unani corpus's central cultivation idea, the lifelong conservation of innate heat and radical moisture, is a frame of the whole regimen and is not a status the tradition assigns to this warm astringent, and no *mufarrih* or cardiac-*ruh* role and no *Canon* chapter is claimed. **(b) framed:** attested therapeutically, with no cultivation status sourced.
+
+**Ayurveda (SS).** *Hedera* enters the Indic record chiefly through regional Himalayan and Kashmiri materia medica and Unani–Ayurvedic overlap, classed Katu-Tikta rasa, Ushna virya, Vata-Kapha shamaka and worked as Kasahara (antitussive-expectorant) — a therapeutic profile. No *rasayana* or *vajikarana* assignment is recorded for the species in the sources retrieved, and the attestation is regional rather than classical Sushrutan, so its standing is therapeutic and dietetic, not a formal rejuvenative cultivation status. **(b) framed.**
+
+**Practitioner's note.** A cultivator's use of ivy is narrow and remedial, not constitutional: the standardised dried-leaf extract is a bronchosecretolytic taken for a defined course during a productive cough or bronchitis, then stopped. Nothing in the tagged traditions frames it as a substance taken to build or conserve vitality; the raw berry and raw leaf juice are toxic, so the only cultivation-adjacent discipline here is Dioscorides' assay — knowing which part is medicine and which is poison.
+
+---
+
 ### Contraindications
 
 - **Raw ivy berries — TOXIC** — berries contain concentrated polyacetylene toxins (falcarinol) and high-dose saponins; raw berries cause vomiting, diarrhea, and potentially cardiac effects; never ingest raw berries; pharmaceutical preparations use only the leaf extract at controlled saponin concentrations

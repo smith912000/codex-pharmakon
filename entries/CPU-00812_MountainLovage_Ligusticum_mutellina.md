@@ -54,6 +54,20 @@ According to PubMed, direct clinical or phytochemical research on *Ligusticum mu
 - **TCM (by analogy to chuanxiong):** acrid, warm; moves qi and blood, dispels wind — attribution belongs properly to *L. chuanxiong*, applied to *mutellina* only by genus analogy, not classical listing.
 - **Ayurveda:** not a classical dravya; falls loosely with warming aromatic (*ushna*, pungent/*katu*) digestives.
 
+### Cultivation Register
+
+**Assyrian (AT).** The Mesopotamian seed-drug tradition works aromatic umbelliferous roots and seeds — the broad *Ligusticum/Levisticum/Apium* cluster — as warming carminatives, classifying a drug partly by the causal agency it opposes (a ghost's hand, a seizing "wind" in the belly). But that attestation is family-level: *Ligusticum mutellina* is a European alpine plant the cuneiform record never names, so nothing here is a species-specific placement. Under the standing blocking warning that governs every Assyrian substance identification and etiological claim, no cultivation status is asserted; the engagement is therapeutic and generic to the aromatic-umbellifer class. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *De Materia Medica* places the *ligustikon* group among warming, wind-dispelling roots and seeds that aid digestion, provoke urine and warm a cold stomach — and mountain lovage is the alpine folk-heir of that reputation rather than a plant Dioscorides named in his own right. Dioscorides carries no subtle-body doctrine into which a cultivation status could be set; what he offers a cultivator instead is a discipline of attention — knowing the true aromatic root by its scent and pungency, judging provenance and season, and refusing the adulterated or misidentified umbellifer (a discrimination that here is a matter of life, given the deadly hemlock look-alikes). That is a real practice of assay, not a vital-body teaching. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the Galenic-Unani humoral scheme the aromatic lovage class is placed as warm and dry — a carminative, stomachic, wind-dispelling drug that warms a cold digestion. The strongest cultivation idea the Unani corpus carries is the conservation of the *ruh* and of innate heat and radical moisture, the finite vital endowment whose slow depletion *is* ageing; but that is a frame for the whole regimen of living, not a status the tradition fixes to this minor warming aromatic, and no gladdening cardiac (*mufarrih*) role is claimed for it. Its standing here is a humoral-therapeutic placement, warm and dry, with no cultivation status recorded. **(b) framed.**
+
+**Tibetan (FMT).** Sowa Rigpa makes heavy therapeutic use of warming high-altitude aromatic umbellifers for cold, sluggish digestion, wind and headache, and *L. mutellina* stands as the European analogue of that functional class rather than a plant named in the *rGyud-bzhi* itself. Tibetan medicine treats the *nyes pa* — *rlung*, *mkhris pa*, *bad kan* — as rooted ultimately in the three poisons, so that healing is the third of the four treatment branches and supports practice without reaching that root; but the tradition records no formal category of "substances for subtle-body practice," and none is invented here, nor is any *bcud len* essence-extraction status assigned to a species the corpus does not name. **(c) absent.**
+
+**Practitioner's note.** A cultivator does very little ceremonial or longevity work with mountain lovage: it is a food-adjacent kindling herb, chewed or brewed after a heavy, cold meal to wake a sluggish, gassy gut, and nothing across these four traditions raises it above that defined digestive job. The honest move is to use it as the warm carminative tea or pot-herb it has always been, and — where a stronger or better-documented action is wanted — to reach for its studied relatives (chuanxiong, osha) rather than to ask *mutellina* to carry a vitality claim none of its traditions actually make.
+
+---
+
 ### Contraindications
 
 ⚠️ **Cautions (moderate; data-sparse species).**

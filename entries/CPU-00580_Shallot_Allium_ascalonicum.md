@@ -58,6 +58,20 @@ According to PubMed:
 - **TCM (by analogy via *Allium*):** the *Allium* bulbs (e.g. cōng, xiè) are warm, acrid, surface-releasing and yang-moving, dispersing cold and moving qi/blood; shallot maps to this acrid-warm dispersing category.
 - **Ayurvedic (by analogy):** *rasa* — katu (pungent); *virya* — ushna (heating); *vipaka* — katu (pungent); kapha- and vata-reducing in cold-stagnant states, potentially pitta-aggravating in excess. Onions are classically *rajasic/tamasic* foods, used medicinally with that caveat.
 
+### Cultivation Register
+
+**Egyptian (EP).** The Ebers attestation is at the level of the *Allium* group — onions and their kin among the most frequently invoked bulbs, enlisted for the chest, digestion, worms, and topical use — rather than a secure identification of the shallot as such. The corpus is indication-organised: it records what an onion preparation was done for, not what the bulb does to a person's *ka*, *ib*, or vital constitution. No *heka* recitation is attested for it in the retrieved sources, and no deity attribution can be made without one. Cultivation status: **(c) absent**.
+
+**Assyrian (AT).** Cuneiform texts record onions and garlic as staple foods and as warming, "opening," worm-expelling remedies, and the clustering shallot sits within that class of hot, sharp kitchen-bulbs pressed into medical service. Under the standing blocking warning in force for every Assyrian substance identification, tablet reference, and causal-agency framing, no cultivation status is claimed; the standing is dietary and therapeutic. Cultivation status: **(c) absent**.
+
+**Greek — Dioscorides (DMM).** Dioscorides treats the onion (*krommyon*) in *De Materia Medica*, distinguishing the long from the round and the sharp from the mild, and it is the biting Ascalon onion — named for the Levantine city, the root of the word "shallot" — that gives this bulb its name. He reads it as sharp and heating, opening the bowels, provoking urine, thinning thick humours, and applied with vinegar or honey to the skin. Dioscorides carries no subtle-body system to assign a cultivation status; what he offers a cultivator is his discipline of attention — the sorting of sharp from mild kinds, the provenance marked in the very name, the sensory assay of pungency. That is a real practice of judgement, not a vital-body doctrine. Cultivation status: **(c) absent**.
+
+**Avicenna / Unani (CM).** The *Qānūn* tradition classes onion as hot and dry in a high degree — incisive, attenuating, opening — cutting thick phlegm, stimulating appetite and digestion, provoking urine, and drawing externally; the shallot inherits this as a milder, concentrated member of the group. This is a genuine therapeutic and dietetic use, but the tradition's cultivation idea — the conservation of the *innate heat* and *radical moisture*, the finite vital endowment whose depletion *is* ageing — is a longevity frame of the whole regimen, not a status assigned to a fiercely heating kitchen-bulb, and none is sourced for the shallot; no *mufarrih* cardiac-*ruh* role is claimed. Cultivation status: **(b) framed** — attested therapeutically, no cultivation status recorded.
+
+**Practitioner's note.** A cultivator works the shallot through the kitchen, not the dispensary: it is a Foundation-phase food-medicine, crushed and rested a few minutes to develop its thiosulfinates, then eaten daily to keep the terrain warm, moving, and defended — stirring a cold or stagnant digestion and supplying antioxidant and antimicrobial support at nutritional doses. There is no ingestive longevity rite attached to it in any of the four tagged traditions; the honest cultivation practice is dietary habit — a warming, opening bulb worked in at the base layer and eaten, not dosed.
+
+---
+
 ### Contraindications
 
 - **Anticoagulant/antiplatelet interaction:** organosulfur *Allium* compounds can inhibit platelet aggregation; caution with warfarin, aspirin, or other blood-thinners, and around surgery, at high or supplemental intake.

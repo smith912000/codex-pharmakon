@@ -74,6 +74,20 @@ The best-established modern fact about benzoin is its **officinal status**: Comp
 
 ---
 
+### Cultivation Register
+
+**Greek — Dioscorides (DMM).** Dioscorides describes στύραξ (*styrax*) in *De Materia Medica* — the fragrant balsamic resin of the Mediterranean *Styrax officinalis* — but *Styrax benzoin*, the Sumatran tree tapped for this resin, was unknown to the classical Greco-Roman world; benzoin reached Europe only in the late medieval period through Arab traders (the name itself is a corruption of *lubān jāwī*). Dioscorides therefore assigns no status to this species, and in any case carries no subtle-body system to which such a status could attach. What his tradition offers a cultivator here is his discipline of attention — provenance, the assay of a resin by odour and fracture, the guard against adulteration of aromatic gums — applied to a resin he never saw. Cultivation status: **(c) absent**, and the classical attestation belongs to Mediterranean storax, not to Sumatra benzoin.
+
+**Unani — Avicenna (CM).** As *lubān jāwī* benzoin was received into Unani practice as a warming, drying, resolvent balsam for the chest and skin. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture as a finite vital endowment — is a frame of the whole regimen, not a status the tradition assigns to a warming resolvent resin, and no *mufarrih* (gladdening, *ruh*-strengthening) role is claimed for it here. **(b) framed:** attested as a balsamic therapeutic, with no cultivation status sourced.
+
+**Chinese — Bencao (SBJ).** *Ān Xī Xiāng* (安息香) entered the Chinese materia medica through the western resin trade and is documented in the Tang-era pharmacopoeia and later compilations, not in the classical *Shennong Bencao Jing*; no *san pin* 三品 grade is recorded for it in the sources retrieved. Its function is *kāi qiào* 開竅 — aromatic orifice-opening resuscitation, a penetrating, dispersing action for acute collapse and clouded consciousness. That is the antithesis of *yang sheng* 養生, which is conservational and long-term; an orifice-opener is spent in the moment, not taken to nourish life. **(b) framed:** attested in the materia medica, no cultivation status, and its category is acute rather than cultivational.
+
+**Tibetan (FMT).** Aromatic resins of this class are used in Tibetan compound formulas and in consecration-smoke to calm *rlung* (wind) disturbance and clear spirit-affliction, and medicine is the third of the four treatment branches — it supports practice, it does not reach the root, which the tradition locates in the three poisons. The attestation retrieved is at the level of the aromatic-resin class rather than benzoin specifically, and no formal category of substances-for-subtle-body-practice exists to assign it one. **(b) framed:** used within the *rlung*-calming and consecratory frame, no cultivation status attested for the resin itself.
+
+**Practitioner's note.** A cultivator does almost nothing with benzoin in the vitality sense. It is worked externally (the film-forming antiseptic tincture over cracked or taped skin), by inhalation (balsamic steam for the congested airway), or in tiny amounts inside an acute orifice-opening formula — never as a bulk oral herb and never as a substance taken over time to build the person. The one place it touches practice is the incense-brazier: its warm balsamic fragrance settles the atmosphere at the close of a day. That is an environmental, abstentive use, not a regimen. Its reputation as a "peaceful-rest fragrance" outruns any attested cultivation status in every tradition on its tag line.
+
+---
+
 ### Contraindications
 
 - **Yin-deficiency / Heat patterns:** the warm aromatic resuscitatives are contraindicated where there is heat or yin deficiency; benzoin's opening-and-warming action is for cold-stagnation and closed patterns.

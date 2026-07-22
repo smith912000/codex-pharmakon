@@ -54,6 +54,20 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Unani/North-African mapping:** *arar* — hot-dry; antiseptic, parasiticide, resolvent; used for skin disease and parasites.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the warming-drying, antiseptic-preserving axis; a "stop-corruption" agent operating on the boundary between the living tissue and decay.
 
+### Cultivation Register
+
+**Egyptian (EP).** The Egyptian engagement here is the embalmers' "cedar oil" (*cedria*) — the corruption-resisting preservative of the dead — and it reaches us chiefly through Greek reporters (Herodotus) rather than a medical papyrus, with the very identity of the "cedar" left uncertain. Preservation of the intact body mattered profoundly to the Egyptian person-model, as the seat to which the *ka* and *ba* return; but that is a funerary standing of the tar as preserving matter, not a *heka*-bearing cultivation status assigned to *cedria* for a living person's vital constitution, and no operative recitation for the living is sourced. **(c) absent.**
+
+**Assyrian (AT).** The profile attests no Mesopotamian cuneiform source for this species — the material here is Greco-Roman, Egyptian-funerary and North-African folk, with nothing drawn from an *asû* or *āšipu* tablet. Under the standing blocking warning for Assyrian substance identifications, and with no tablet cited, no cultivation status — and no secure Assyrian attestation — can be claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides treats *kedros* and its products in Book I of *De Materia Medica*, the most important being *cedria*, the wood-tar credited with a near-miraculous preserving and antiseptic power. He carries no subtle-body doctrine that could assign the substance a cultivation status; what the tradition offers a cultivator is precisely his discipline of attention — and here that discipline is unusually load-bearing, because "cedar" spans several genera and the honest worker must fix the true resinous juniper, assay the tar, and refuse the assumed equivalence with true *Cedrus*. That is a real practice of identification and judgement, not a vital-body assignment. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the Unani/North-African mapping *arar* is hot and dry in a high degree — an antiseptic, parasiticide and resolvent for skin disease and parasites. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture — is a whole-regimen frame, not a status the tradition fixes to this strongly drying, irritant tar; no *mufarrih* or cardiac-*ruh* role is claimed, and no *Canon* chapter is cited. Attested therapeutically, no cultivation status sourced. **(b) framed.**
+
+**Practitioner's note.** A cultivator does essentially nothing inward with this one: across every tradition on the tag line *cedria*/cedar-tar is an external, specialist agent — a preservative and antiseptic-parasiticide for bodies, wounds, hides and skin disease — and the entry itself marks it `[SPECIALIST ONLY]`, irritant, with no casual internal dose. It is a "stop-corruption" material worked on the boundary between tissue and decay, not a substance taken to build vitality; here the honest cultivation answer is abstention from internal use.
+
+---
+
 ### Contraindications
 
 - **Tar irritancy.** The wood-tar is irritant to skin and mucous membranes; dilute and patch-test; avoid broken-barrier overuse.

@@ -53,6 +53,20 @@ Direct clinical data on *Daucus gingidium* is essentially absent — this is an 
 - **Ayurveda (by analogy to Daucus seed):** *rasa* — katu (pungent), tikta (bitter); *guna* — laghu, ruksha; *virya* — ushna (heating); *vipaka* — katu. Dipana-pachana (digestive-kindling), mutrala (diuretic).
 - **Galenic/Unani:** Hot and Dry, 2nd degree; *mudirr al-bawl* (diuretic), *kāsir al-riyāḥ* (carminative), emmenagogue.
 
+### Cultivation Register
+
+**Egyptian (EP).** The Ebers material is indication-organised — it records what a warming, opening seed-drug was made to do for a bloated belly or stagnant water, not what it does to the person as *ka*, *ba*, *akh* and *ib*, and no operative *heka* recitation is attested for this seed. The attribution here is only at the family/functional level (aromatic Apiaceae carminatives), so the very identity of *Gingidion* in the Egyptian corpus is a modern hypothesis rather than a named entry. No cultivation status can honestly be assigned. **(c) absent.**
+
+**Assyrian (AT).** Umbelliferous "seeds that make water flow" and "seeds that quiet the wind of the belly" sit in the Mesopotamian repertoire of aromatic-seed diuretics worked by the *asû*, where a substance is classified partly by the causal agency of the complaint it opposes. Under the standing blocking warning for Assyrian substance identifications and tablet references, no cultivation status is claimed; the attestation is therapeutic only. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Gingidion* is a named entry in *De Materia Medica*, held good for the stomach and a promoter of urine, and Dioscorides carries no subtle-body doctrine into which such a status could be placed. What the tradition offers a cultivator instead is his discipline of attention — the recognition of the true eastern-Mediterranean umbellifer, whether eaten cooked or raw, and the guard against the lethal look-alikes of the family. That is a real practice of provenance and sensory judgement, not a vital-body assignment. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The *Qānūn* carries the wild-carrot seeds forward as *mudirr al-bawl*, a warming carminative and emmenagogue that dispels flatulence, provokes urine and menses, and opens obstructions — a Hot-and-Dry, dispersing action. The strongest cultivation idea in the Unani corpus, the conservation of innate heat and radical moisture across the whole regimen, is a longevity frame of the constitution and not a status this dispersing diuretic is assigned; no *mufarrih* or cardiac-*ruh* role is recorded for it. **(b) framed:** attested therapeutically, no cultivation status sourced.
+
+**Practitioner's note.** Nothing here is a longevity or vitality substance. Across all four traditions the seed is worked short-term and for a defined job — a warm infusion to settle post-prandial bloating, move sluggish urine, and unstick stagnation — the archetypal "opener of passages." A cultivator uses it as a Foundation-phase food-medicine to train sensitivity to warming and fluid-moving actions, then stops; its dispersing, emmenagogue nature is a reason for restraint, not daily maintenance.
+
+---
+
 ### Contraindications
 
 - **Pregnancy:** avoid medicinal doses — wild-carrot seeds have a traditional emmenagogue/reproductive reputation and are not appropriate in pregnancy. [USER: verify]

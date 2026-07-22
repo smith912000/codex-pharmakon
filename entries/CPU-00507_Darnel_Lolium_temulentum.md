@@ -63,6 +63,20 @@ According to PubMed:
 - **Ayurvedic mapping (by analogy, not classical attestation):** would read as *tikta/kaṭu* (bitter/pungent), disturbing to *prāṇa* and the mind — a *manas*-clouding dravya; not a recognised classical Ayurvedic drug.
 - **TCM:** not a canonical materia medica item; included here only for cross-tradition contrast.
 
+### Cultivation Register
+
+**Egyptian (EP).** Darnel-class grasses sit within the Egyptian cereal-adjacent group used externally in pastes and poultices rather than eaten — an early recognition that the seed was unfit for the table. The corpus is indication-organised, recording what was compounded for a sore or an eye complaint, not what a substance does to a person's *ka*, *ba* or *ib*, and no operative *heka* recitation is attested for it in the retrieved sources. Given a plant identified only at grass-class resolution and used topically, no cultivation status is claimed. **(c) absent.**
+
+**Assyrian (AT).** Cuneiform agricultural and medical tablets mark darnel-type grasses among the "grains that darken the head" and treat the plant as a contaminant of stored barley and wheat and a cause of disordered vision — a hazard observation, not a cultivation status. Under the standing blocking warning for Assyrian substance identifications and their causal-agency framing, no cultivation status is claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides describes *aira* plainly: its flour compounded into drawing plasters for skin complaints and gangrenous sores, and bread contaminated with it producing heaviness and disturbance of the head. He carries no subtle-body system to assign it a cultivation status, and here he does the characteristic thing — harnessing the external use while warning against the internal. What the tradition offers a cultivator is his discipline of attention: telling the false grain from the true, judging when a seed-crop is fouled, distancing himself from the dangerous internal use even as he records it. That is a practice of discernment and provenance, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The *Qānūn* classes *zuwān* / *shailam* among the hot-dry drugs with a narcotic, head-heavying (*mukhaddir*) faculty, and the historical record documents it as a medieval Arab/Islamic stupefacient (Haddad 2005, *Middle East J Anaesthesiol*, PMID 16438002). That is a therapeutic action — dulling sensation — not the Unani cultivation idea of conserving innate heat and radical moisture, which this stupefying poison does not serve; no *mufarrih* or cardiac-*ruh* role is claimed. **(b) framed:** attested as a narcotic simple, with no cultivation status sourced.
+
+**Practitioner's note.** A cultivator does nothing with this — that is the honest and the intended answer. Darnel is a non-ingested study-object across the register: not a tonic, not a longevity substance, not something taken internally in any tradition, and every tradition that engages it does so to warn, to apply it externally, or to mark it as a contaminant. Its place in the work is as a discernment drill — the intoxicant that wears the face of bread — handled as dry specimen only, labelled and kept apart from foodstuffs, and never taken.
+
+---
+
 ### Contraindications
 
 **⚠️ TOXIC — HAZARD FLAG. Do not ingest under any circumstances.** *Lolium temulentum* seed, especially when carrying its fungal endophyte, causes intoxication (*temulentum* = "drunken"): vertigo, trembling, blurred/disturbed vision, nausea, vomiting, somnolence, and, in cases of heavy grain adulteration, reported death. The hazard is compounded because the seed physically mimics wheat and can enter flour undetected. Absolutely contraindicated in pregnancy, in children, and for anyone operating machinery or requiring clear vision. Not for internal medicinal, recreational, or "anaesthetic" use. Store any study specimens labelled and separated from foodstuffs and other grains.

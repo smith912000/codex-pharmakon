@@ -61,6 +61,22 @@ On the Kanglaite derivative: Zhan et al. (2012), *Asian Pacific Journal of Cance
 - **Ayurvedic (as attested, *gavedhuka*):** *rasa* sweet/astringent (madhura/kashaya); *virya* cooling (shita); *vipaka* pungent (katu); kapha-reducing, mildly grounding.
 - **Galenic / Unani (as attested):** Cool and dry cereal; demulcent-yet-desiccating; thins and moves phlegmatic matter.
 
+---
+
+### Cultivation Register
+
+**Unani — Avicenna (CM).** Coix enters the Galenic-Unani orbit as a cooling-drying cereal — a demulcent yet desiccating gruel that thins and moves thick phlegmatic matter while nourishing convalescents. The attestation sits at the level of the cooling-drying grain type rather than a named monograph, and the Unani cultivation idea — conservation of innate heat and radical moisture across a life — is a frame of the whole regimen, not a status assigned to this grain. Its standing here is dietetic and therapeutic. **(b) framed:** used as a cooling-drying sustenance, no cultivation status recorded.
+
+**Chinese — Shennong (SBJ).** In the *Shennong Bencao Jing*, the Han-era classic that is the root of the Chinese materia medica, *yi yi ren* 薏苡仁 is placed in the upper grade (上品) — the *shang pin* rank of substances taken long-term to nourish life rather than to attack disease — carrying the classic's characteristic upper-grade formula that prolonged use "lightens the body" (輕身, *qing shen*) and extends the years (the upper-class listing is rendered in Yang Shou-zhong's translation *The Divine Farmer's Materia Medica*; the grading is the classic's own). This is a genuine cultivation status: within *yang sheng* 養生 — conservational nourishing of life, not cure — the grain is a food-grade drug fit for prolonged, un-timed use. **(a) attested** — upper grade in the *Shennong Bencao Jing*.
+
+**Ayurveda (SS).** Known as *gavedhuka*, Coix is a cereal of cooling, drying, *kapha*-reducing character, taken as a gruel to lighten a damp, heavy, congested constitution. No *rasayana* (rejuvenation) or *vajikarana* (generative vitality) assignment is recorded for it in the sources retrieved, so its standing is dietetic — a nourishing yet reducing grain — not a formal rejuvenative cultivation status. **(b) framed.**
+
+**Tibetan — rGyud-bzhi (FMT).** The *Four Tantras* pharmacy places Coix-type grains among cooling, damp-clearing cereals used for joint and channel complaints and to settle disordered *bad-kan*. Tibetan medicine is the third of the four treatment branches — it supports practice rather than reaching the root — and no formal category of "substances for subtle-body practice" exists to house this grain, nor is any *bcud len* (essence-extraction) status attested for it. Its role is therapeutic. **(b) framed:** used in the pharmacy, no cultivation status assigned.
+
+**Practitioner's note.** Job's tears is the rare grain that is genuinely a cultivation substance in one tradition and plain medicine in the others. In the Chinese scheme it is an upper-grade food-drug — eaten as congee or decoction over long stretches to drain standing damp while it feeds, fit for un-timed use because it does not deplete. Elsewhere — Unani, Ayurveda, Tibetan — a cultivator uses it the same practical way but without any longevity status: a cooling, drying, damp-clearing gruel taken to lighten a waterlogged system, then eased off once the ground is dry. The Kanglaite injectable is a hospital oncology product and has nothing to do with self-directed cultivation.
+
+---
+
 ### Contraindications
 
 Contraindicated in pregnancy in classical Chinese usage — *yi yi ren* is traditionally avoided as it is held to be downward-draining and potentially destabilising to pregnancy; avoid medicinal doses if pregnant [USER: verify]. Its cooling-draining nature is unsuitable for those who are already dry, constipated, or deficient-cold without damp. The **Kanglaite injectable is a hospital-only prescription product** carrying infusion-related risks (including reported hypersensitivity/anaphylactoid reactions) and must never be self-administered or improvised from culinary seed oil. As a food, whole Job's tears grain is well tolerated.

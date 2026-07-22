@@ -72,6 +72,20 @@ The catechin fraction of *Acacia catechu* is a documented anti-inflammatory prin
 
 ---
 
+### Cultivation Register
+
+**Unani — Avicenna (CM).** In the Unani reading catechu (*kath*) is a cold, dry astringent worked for weeping surfaces, oral and skin complaints, and flux — a drying, consolidating remedy. The tradition's deepest cultivation idea, the conservation of innate heat and radical moisture as a finite endowment that ageing depletes, is a discipline of the whole regimen rather than a status assigned to a cooling astringent extract, and no *mufarrih* or *ruh*-strengthening role is claimed for it here. **(b) framed:** attested as an astringent therapeutic, with no cultivation status sourced.
+
+**Chinese — Bencao (SBJ).** *Ér Chá* (儿茶), "child tea," entered the Chinese materia medica as a late import and is documented in Li Shizhen's *Bencao Gangmu* (1596) rather than the classical *Shennong Bencao Jing*; no *san pin* 三品 grade is recorded for it in the sources retrieved. Its recorded action is to clear heat, transform phlegm, generate flesh (生肌) and stanch bleeding — a surface-healing, damp-heat-clearing therapeutic, not a conservational *yang sheng* 養生 role. **(b) framed**, dated to the 1596 compilation rather than any classic; attested therapeutically, no cultivation status.
+
+**Ayurveda (SS).** *Khadira* is a major classical drug — the drug of choice for *kushtha* (the broad class of skin disease), head of the *Khadiradi* group, and worked as *kushtaghna*, *vranaropana* (wound-healing) and *raktashodhaka* (blood-purifying). These are therapeutic and dietetic categories; no *rasayana* (rejuvenation) or *vajikarana* (generative vitality) assignment for *khadira* is recorded in the sources retrieved, so its standing here is that of a great cleansing and surface-healing drug, not a formal rejuvenative cultivation status. **(b) framed:** prominently attested, but with no *rasayana*/*vajikarana* status sourced for this species.
+
+**Tibetan (FMT).** As *seng-ldeng* the heartwood-extract sits among the astringent, heat-clearing, wound-healing agents of Tibetan practice, and medicine is the third of the four treatment branches — it supports practice without reaching the root, which the tradition locates in the three poisons. No formal category of substances-for-subtle-body-practice exists to assign it a cultivation status. **(b) framed:** attested as an astringent wound-healer, no cultivation status recorded.
+
+**Practitioner's note.** Catechu is a surface tool, not a vitality substance. A cultivator reaches for it exactly when a boundary is weeping, ulcerated, or bleeding — a mouth ulcer, sore gums, a raw patch of skin, a loose heat-type gut — as a lozenge, wash, or drying topical powder, and stops when the surface has drawn closed. Its own traditions grade it as an astringent that clears and heals, and its strong tannin content is itself the warning against long, heavy internal use. Nothing across its four tagged traditions frames it as something taken over time to build the person; it is worked for a defined job at a defined edge.
+
+---
+
 ### Contraindications
 
 - **Constipation / dryness / cold patterns:** the strong astringency aggravates constipation and dryness; not for cold-dry or constipated states.

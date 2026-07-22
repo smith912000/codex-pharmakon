@@ -63,6 +63,20 @@ The clinical signal is strongest for **local mucosal/epithelial application** (v
 - **Tibetan / Sowa Rigpa (FMT):** *star-bu* — used for phlegm (*bad-kan*) and blood disorders, lung and digestive complaints; a warming, opening, restorative berry.
 - **Unani (CM):** nutritive restorative and topical vulnerary; temperate-moist nourishing profile.
 
+### Cultivation Register
+
+**Unani — Avicenna (CM).** In the Central-Asian Unani stream the berry is taken as a nutritive restorative and applied as a topical vulnerary for burns and skin lesions. The strongest cultivation idea in the Unani corpus is the conservation of innate heat and radical moisture — ageing being their depletion, so longevity is conservation and not acquisition — and a temperate-moist nutritive of this kind sits adjacent to that frame; but no source assigns this berry a cultivation status, no *mufarrih* or cardiac-*ruh* role is claimed for it, and no placement in the *Canon* tradition is cited. Its recorded standing is nutritive and vulnerary. **(b) framed:** used in the tradition, no cultivation status sourced.
+
+**Chinese — Bencao (SBJ).** As *sha ji* 沙棘 sea buckthorn is a drug of Chinese and Mongolian medicine, but a late entrant: it is not in the classical Shennong *Bencao* stratum, entering Chinese materia medica largely through Mongolian and Tibetan medicine and being formalised only in the modern *Chinese Pharmacopoeia*. No *san pin* 三品 grade is therefore recorded for it, and within *yang sheng* 養生 — conservational, not curative — it carries no cultivation status, only the therapeutic one the Pharmacopoeia gives it (resolve phlegm and stop cough, invigorate blood, strengthen digestion). **(b) framed**, and expressly not a classical *Bencao* attestation.
+
+**Ayurveda (SS).** In the trans-Himalayan belt the berry and seed oil enter *regional* Ayurvedic and folk practice as a nutritive (*brimhana*), *rakta*-building and vulnerary remedy. This is a description in the vocabulary of *guna* and action, not a formal assignment: no *rasayana* or *vajikarana* status is attested for this species in Charaka, Sushruta or the scholarship (Meulenbeld), and sea buckthorn is not a classical Sushrutan drug but a regional one. Its standing is nutritive and dietetic, not a formal rejuvenative category. **(b) framed.**
+
+**Tibetan — Sowa Rigpa (FMT).** No tradition holds the plant closer: *star-bu* is among the most-cited simples in the rGyud-bzhi (Four Tantras), prescribed for *bad-kan* (phlegm) and blood disorders, for lung and digestive complaints, and to open the channels. But each of those is a therapeutic indication. Medicine in Sowa Rigpa is the third of the four treatment branches — it supports practice, it does not reach the root, which is at base the three poisons — and while the tradition does hold an essence-extraction practice (*bcud len*, located within the Four Tantras; Gerke), no *bcud len* or subtle-body status is recorded for *star-bu*, and none may be asserted for it. Its standing, however central, is therapeutic. **(b) framed.**
+
+**Practitioner's note.** A cultivator uses sea buckthorn as a restorative, not as a cultivation substance: a nutritive berry (juice, powder) and a barrier-repairing oil — omega-7 fruit oil taken with food over weeks, seed oil applied to burns, cracked skin and mucosal lesions — for depleted, dried or inflamed surfaces. Four traditions converge on that nourishing, tissue-rebuilding use, and none of them records a cultivation grade or subtle-body status for it. Take it to feed and repair a barrier; expect nothing more esoteric, and do not read the Tibetan reverence for *star-bu* as a longevity rank it was never assigned.
+
+---
+
 ### Contraindications
 
 - **Generally well tolerated** as a food-grade berry and oil; no major toxicity established.

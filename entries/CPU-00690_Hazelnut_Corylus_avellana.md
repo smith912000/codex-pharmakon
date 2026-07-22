@@ -58,6 +58,22 @@ Based on articles retrieved from PubMed:
 - **Galenic / Unani:** Warm and moist (1st degree), tending dry when roasted; nourishing, fattening, brain/nerve-restorative, pectoral; slow to digest.
 - **TCM (Shennong lineage):** *zhēn zi* — sweet, neutral; tonifies spleen–stomach, boosts qi, strengthens the body.
 
+---
+
+### Cultivation Register
+
+**Assyrian (AT).** The hazel is native to the Anatolian and Pontic-Caspian rim bordering Assyria and supplied a storable, oil-dense, warming aliment — but the attestation here is geographic and dietary rather than textual, and no cuneiform tablet naming the nut with a defined status is cited. Under the standing blocking warning for Assyrian substance identifications, and with illness classified by causal agency rather than by what a food confers on the vital person, no cultivation status is claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides describes the *karyon pontikon* as nourishing but heavy on the stomach, burned and ground for scalp complaints and taken with honey and pepper for chronic cough. He carries no subtle-body doctrine to which a cultivation status could attach. What the tradition offers a cultivator is his discipline of attention — the nut named for its Pontic provenance, the roasting that lightens a dense lipid load, the assay of a food frankly noted as "heavy on the stomach." That is provenance and sensory judgement, not a vital-body category. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the *Qanun* the hazelnut (*bunduq*) is a warming, nutritious nut that fattens the body and benefits the chest and cough, slow to digest and lightened by roasting; later Unani practice uses it as a nervine and brain-restorative. These are nutritive and tonic therapeutic uses. The Unani cultivation idea — conservation of innate heat and radical moisture across a life — is a frame of the whole regimen, not a status the tradition assigns to this fattening nut, and no cultivation grade is sourced. **(b) framed.**
+
+**Chinese — Shennong (SBJ).** As *zhēn zi* 榛子 the hazelnut is read as a sweet, neutral food-medicine that tonifies the spleen and stomach and boosts *qi* 氣 — the standard reading for an energy-dense, oily seed. The entry attributes it to the "Shennong lineage," which is a lineage placement rather than a listing in the classic itself, and no *san pin* 三品 grade is recorded for it in the sources retrieved; within *yang sheng* 養生 it therefore carries a tonifying therapeutic status, not a cultivation grade. **(b) framed:** attested as a spleen-*qi* food-medicine, no *san pin* grade sourced.
+
+**Practitioner's note.** Hazelnut is a nutritive, not a longevity substance. Across all four traditions a cultivator does the same plain thing with it: eat a small handful of roasted kernels, or take the oil or meal, as warming energy-dense food to underwrite tissue repair and steady the base of a training arc — and roast it, as every tradition advises, because the dense lipid load is genuinely heavy to digest. The Dioscoridean and Avicennan honey-and-pepper paste is a real cough preparation, still short-range and therapeutic. Nothing here supports the nut as a substance worked to build vitality beyond its plain nourishment, and the paclitaxel of hazel cell culture belongs to a laboratory, not to the kernel or the cultivator.
+
+---
+
 ### Contraindications
 
 - **⚠ Tree-nut allergy (potentially fatal):** hazelnut is a major tree-nut allergen and a recognised cause of IgE-mediated reactions up to and including **anaphylaxis**. It also cross-reacts with birch pollen in oral allergy syndrome. Anyone with tree-nut allergy, or birch-pollen sensitisation with nut symptoms, must **strictly avoid** hazelnut in all forms (kernel, meal, oil, skin extract). Cross-contamination in shared processing is common — read labels.

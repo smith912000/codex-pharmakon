@@ -60,6 +60,20 @@ The mechanistic story (2-methyl-3-butene-2-ol as sedative; α-acids up-regulatin
 - **TCM (SBJ):** *pi jiu hua* — bitter, cool; strengthens stomach and aids digestion, calms the spirit (*an shen*), settles insomnia and restlessness.
 - **Western/Galenic (EP, SBJ):** cool-dry bitter; nervine relaxant, bitter tonic, mild anodyne and soporific.
 
+### Cultivation Register
+
+**Assyrian (AT).** Under the standing blocking warning for Mesopotamian substance identifications, no cultivation status is claimed — and here even the therapeutic attestation should be held with caution: hops as a brewing and medicinal herb is a medieval European development (hopped ale post-dates the cuneiform corpus by millennia), and its presence in the Assyrian materia medica is not securely established. The Mesopotamian frame classifies a substance partly by the causal agency it opposes, but no such classification is sourced for this plant. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** The classical name usually cited — *lupus / lupulus salictarius* — is Pliny's, describing an edible wild shoot, not a Dioscoridean materia medica entry, and hops as a medicine is largely post-classical. Dioscorides in any case carries no subtle-body system that could assign a cultivation status. What the tradition offers a cultivator is his discipline of attention — provenance, the season for gathering the cones, the sensory assay of a bitter that changes on storage. That is a real practice, not a vital-body doctrine. **(c) absent** as to cultivation status, and the classical therapeutic attestation itself is thin.
+
+**Unani — Avicenna (CM).** In the Graeco-Arabic stream hops is read as a cool-dry bitter: a blood-cleanser, mild aperient and calmative for a hot, restless disposition. The strongest cultivation idea in the Unani corpus is the conservation of innate heat and radical moisture; a cooling-drying sedative bitter is a corrective for a "hot" state, not a substance assigned a status for conserving that vital endowment, and no *mufarrih* or *ruh*-role is claimed for it (hops quiets rather than gladdens). Its standing is therapeutic. **(b) framed:** used in the tradition, no cultivation status sourced.
+
+**Chinese — Bencao (SBJ).** Hops enters Chinese materia medica very late, as *pi jiu hua* 啤酒花 ("beer flower") — the name itself marks a modern loan, beer being a recent import — and it is not in the classical Shennong *Bencao* stratum at all. No *san pin* 三品 grade is recorded for it; the later Chinese use is calming and digestive (*an shen* 安神, settling restlessness and insomnia), a therapeutic role within *yang sheng* 養生 rather than a cultivation status. **(b) framed**, and expressly not a classical *Bencao* attestation.
+
+**Practitioner's note.** A cultivator uses hops for one narrow, bounded job: a short-course evening sedative for the "wired but tired" state and a nervous, bilious stomach, most reliably paired with valerian. No tradition assigns it a cultivation status, and its potent phytoestrogen (8-prenylnaringenin) is itself a reason to keep the arc short rather than take it daily. Reach for it at night, for a defined stretch, then stop — there is nothing here to build a long practice around.
+
+---
+
 ### Contraindications
 
 - **Sedation / CNS-depressant additive effect:** hops potentiates alcohol, benzodiazepines, "Z-drugs," barbiturates, opioids, antihistamines and other sedatives — do not combine; caution before driving or operating machinery.

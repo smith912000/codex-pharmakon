@@ -105,6 +105,20 @@ Lù Róng is classified in both the SBJ and all major TCM pharmacopoeias as the 
 
 ---
 
+### Cultivation Register
+
+**Unani — Avicenna (CM).** Deer products (the horn, *qarn al-ayyil*) enter Ibn Sina's pharmacopoeia under *muqawwī al-bāh* (generative strengtheners) and *muqawwī al-ʿiẓām* (bone strengtheners), reckoned warm and dry with *muqawwī* (tonifying) action. The strongest cultivation idea available in the Unani corpus — the conservation of the innate heat and radical moisture, that finite vital endowment whose slow spending *is* ageing — is a frame of the whole regimen, not a status the tradition fixes to this animal drug; no *mufarrih* or cardiac-*ruh* role is claimed for it here, and no *Canon* chapter is cited. Attested therapeutically, no cultivation status sourced. **(b) framed.**
+
+**Chinese — Bencao (SBJ).** In this profile Lù Róng 鹿茸 is documented from Li Shizhen's *Bencao Gangmu* (1596), a late Ming compilation, where it is "sweet, salty, warm" and the premier deer-derived supplement of Kidney yang, essence and blood. That is the source actually retrieved; no *san pin* 三品 grade from the Shennong classic is confirmed here from named scholarship, so within *yang sheng* 養生 — the conservational, life-nourishing project rather than the curative one — its recorded standing is therapeutic. The deer's cosmological pairing with longevity (*shòu* 壽) in Chinese art is cultural imagery, not a graded cultivation status assigned to the velvet. **(b) framed**, dated to the 1596 compilation rather than any classic.
+
+**Ayurveda (SS).** The profile's Ayurvedic material is given explicitly as a *functional correspondence* — a modern mapping (Madhura rasa, Ushna virya, Śukra/Asthi *dhatu* tropism, "supreme *vajīkaraṇa*") rather than a classical assignment drawn from Sushruta or Charaka for this substance. No named classical source attests a *rasayana* or *vajikarana* status for deer velvet in the sources retrieved, and a modern correspondence, however plausible, is not a classical cultivation status. No cultivation status can honestly be claimed. **(c) absent.**
+
+**Tibetan (FMT).** Tibetan medicine works *sha-ba ru-tsa* (deer antler velvet) as a body-strengthening (*lus stobs*) medicine, applied for post-illness and high-altitude reconditioning and for replenishing the body's essential nutrition (*lus kyi bcud*); *bcud len* (essence extraction) is a genuine longevity frame located within the Four Tantras (Gerke). But medicine is the third of the four treatment branches — it supports practice, it does not reach the root — and the tradition holds no formal category of "substances for subtle-body practice"; the profile's placement of this species in the top *bcud len* rank is not tied to a named source here, so the honest reading keeps it at the level of a body-strength medicine used within a longevity frame, not an attested cultivation grade. **(b) framed.**
+
+**Practitioner's note.** A cultivator uses this as a warm building agent inside a defined block — the three traditions that actually work it (Chinese, Unani, Tibetan) all treat it as a potent tonic/strengthener taken for reconditioning, generative vitality and bone-and-sinew repair, then cycled off, which is how the entry's `[BUILD]`/`[CYCLE-OFF]` phasing already places it. None of the four tagged traditions supplies a *sourced* cultivation grade for it, and the Ayurvedic rejuvenative language here is a modern correspondence rather than a classical assignment. Note too that this is an animal substance sitting in the plant volume — its full standing belongs with the Cervidae in Volume III.
+
+---
+
 ### Contraindications
 
 - **WADA and anti-doping compliance (CRITICAL):** Exogenous IGF-1 is listed on the WADA Prohibited List (S2: Peptide Hormones and Growth Factors). While oral velvet antler is NOT currently an explicitly named prohibited substance, the IGF-1 content creates a theoretical compliance ambiguity. Athletes subject to WADA-compliant testing should consult their national anti-doping authority before use; some anti-doping programs take a strict "product caution" approach to IGF-1-containing supplements

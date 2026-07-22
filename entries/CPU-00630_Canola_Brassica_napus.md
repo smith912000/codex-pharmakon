@@ -59,6 +59,20 @@ According to PubMed:
 - **Ayurveda (Brassica seed-oil analogy):** *rasa* katu (pungent); *guna* tikshna (sharp), ushna (hot); *virya* ushna (heating); *vipaka* katu (pungent); kapha- and vata-pacifying, pitta-increasing in excess.
 - **Galenic / Unani:** Warm and moist-to-dry, 1st–2nd degree; carminative, emmenagogue, resolvent; pressed oil an emollient carrier (Avicenna).
 
+### Cultivation Register
+
+**Assyrian (AT).** Brassica and mustard-family oilseeds sit among the pressed-oil and seed drugs of the Mesopotamian tablets, used as unguent bases and warming topical applications — but the attribution is to the oilseed family, not to *B. napus* secured by name, and illness in that corpus is classified by causal agency rather than by a substance's action on vitality. Under the standing blocking warning for Assyrian identifications, no cultivation status is claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Cultivated *Brassica* and rape (the *napus*/*gongylis* group) are genuinely in *De Materia Medica* as pot-herbs and seed-drugs, the pungent crushed seed used mustard-like as a warming, drawing rubefacient and the oil as a base for other medicines. Dioscorides carries no subtle-body doctrine to assign a cultivation status; what he offers a cultivator is his discipline of attention — the warming, dispersing quality assayed by the senses, the seed judged for pungency and the oil for its carrying. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Rape seed of the *shaljam*/colza group is classed hot and dry-to-moist, carminative and emmenagogue, the pressed oil an emollient carrier and the seed a warming digestive and topical resolvent for swellings. The corpus's cultivation idea — conservation of innate heat and radical moisture — is a discipline of the whole regimen, not a status fixed to a warming, dispersing seed-oil, and no cardiac-*ruh* or *mufarrih* role is claimed. Its standing is therapeutic and dietetic, not a cultivation grade. **(b) framed.**
+
+**Chinese — Bencao (SBJ).** *Yun tai* 芸薹 (oilseed rape) and its seed *yun tai zi* 芸薹子 are recognised articles of the Chinese materia medica — pungent and warm, moving blood, dispersing stasis and resolving swellings and abscesses topically, the seed-oil a warming household lipid. The drug enters through the later *bencao* rather than the Han classic, and no *san pin* 三品 grade is recorded for it in the sources retrieved; within *yang sheng* 養生 it therefore holds a blood-moving, dispersing therapeutic standing, not a cultivation grade. **(b) framed:** attested in the materia medica, no grade sourced.
+
+**Practitioner's note.** Two different substances wear one name here, and the cultivator must keep them apart: the modern low-erucic canola oil is a Foundation-phase dietary fat — an everyday cooking lipid used to set a favourable baseline, not a longevity agent — while the traditional high-erucic seed and its pungent poultice are a warming, dispersing topical for stagnation and swellings, used short-term and not taken internally. No tradition on the tag line assigns rape a cultivation grade; what a cultivator does with it is eat the modern oil as a plain dietary base and reserve the crushed seed for external, time-limited use.
+
+---
+
 ### Contraindications
 
 - **⚠️ Erucic acid (historical/HEAR oil):** high-erucic traditional rapeseed oil is associated with cardiac lipidosis in animal models and is regulated in food; **do not use high-erucic oil internally** — only modern low-erucic canola is food-safe.

@@ -51,6 +51,20 @@ Based on articles retrieved from PubMed:
 - **Galenic / Unani (CM):** Hot and dry in the third degree; incising, deobstruent, attenuant.
 - **Ayurvedic:** Not a classical dravya; by profile it would read as *tikta–katu rasa* (bitter–pungent), *ushna virya* (heating), *katu vipaka* — but this is an inference, not an attested Ayurvedic listing.
 
+---
+
+### Cultivation Register
+
+**Assyrian (AT).** The Nineveh materia medica records a class of acrid, latex-bearing "burning" herbs applied as caustics to skin growths and clouded eyes, kept carefully apart from remedies swallowed for the belly — and celandine belongs to that surface-caustic class. Under the standing blocking warning in force for every Assyrian substance identification and its causal-agency framing, no cultivation status is claimed; the attestation is a topical-therapeutic one, and even that at the level of class. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides names *chelidonion*, preserves the swallow etymology, and reports the caustic orange latex as sharpening vision and cleansing the skin — a topical throughout. He carries no subtle-body system to assign a cultivation status, and the swallow-restores-sight story is a legend he records rather than a doctrine he asserts (recording is not endorsing). What the tradition offers a cultivator is his discipline of attention — the season the plant flowers and withers, the assay of the fresh latex, the strict separation of a surface caustic from anything taken inward. That is a real practice of provenance and judgement, not a vital-body status. **(c) absent** as to cultivation.
+
+**Unani — Avicenna (CM).** The *Qanun* classes *māmīrān*/celandine among the hot, incising simples that open obstructions of the liver and clear the sight — hot and dry in the third degree, a deobstruent and attenuant. This is a securely named therapeutic entry, but an incising remover of stagnation is curative, not conservational; the strongest cultivation idea in the Unani corpus, the conservation of innate heat and radical moisture, is a frame of the whole regimen and is not a status the tradition assigns to this caustic deobstruent. No *mufarrih* or cardiac-*ruh* role is claimed. Attested therapeutically, with no cultivation status sourced. **(b) framed.**
+
+**Chinese — Bencao (SBJ).** *Bai qu cai* (白屈菜) is recorded as bitter, acrid, cool and toxic (*you du*), moving stagnant qi, relieving pain and stopping cough, and explicitly reserved for short courses because of that toxicity. A toxic herb held to a short course is the treat-disease pole of the tradition — the opposite of *yang sheng* 養生, which is conservational, not curative — and no *san pin* 三品 grade is recorded for it in the sources retrieved. Its standing here is therefore therapeutic, not a cultivation status; no *qing shen* 輕身 or life-nourishing claim is supported. **(b) framed.**
+
+**Practitioner's note.** A cultivator does nothing internal with this plant — that is the whole lesson. Celandine is retained in the Purification phase as a teaching-stone: the vivid orange latex reads, by the doctrine of signatures, as a bile-and-liver cleanser, yet the clinical record is one of idiosyncratic liver injury, and the organ the sap was thought to purify is the organ its alkaloids harm. The only defensible practice is the topical dab of fresh latex on a wart or corn, kept off healthy skin and away from the eyes despite the ancient eye-remedy legend. Nothing about its signature licenses taking it inward, and the tradition's own toxicity note is the warning.
+
 ### Contraindications
 
 **⚠️ HAZARD — DO NOT USE INTERNALLY.** Greater celandine is a documented cause of **idiosyncratic herb-induced liver injury**, presenting as acute hepatitis and cholestatic/hepatocellular liver damage, sometimes with jaundice, and reversible on withdrawal but occasionally severe. Onset is unpredictable and not dose-linear (idiosyncratic, metabolic-type), so no "safe" oral dose can be assured. Multiple European regulators have restricted or warned against oral celandine products on this basis.

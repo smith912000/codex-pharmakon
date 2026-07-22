@@ -61,6 +61,20 @@ According to PubMed:
 - **TCM (analogical):** cool, sweet/bland, moistening — no classical entry; classified by property analogy to cooling demulcents.
 - **Ayurvedic (analogical):** *rasa* sweet (madhura) and slightly bitter (tikta); *virya* cooling (shita); *vipaka* sweet; pitta-pacifying, potentially kapha-increasing. Analogy only; not a classical dravya.
 
+### Cultivation Register
+
+**Egyptian (EP).** The Ebers material is indication-organised — it records the cooling, softening poultice laid on a burn or a hot swelling, not what a mucilaginous herb does to a person's *ka*, *ib* or vital constitution. Here even the substance-identity is a modern class-inference: the papyri name softening wound-dressing plants, and *Anchusa azurea* is placed among them by botanical family rather than by a named Egyptian prescription for this species. No *heka* recitation is attested for it, and no operative or vital status is assigned. Cultivation status: **(c) absent.**
+
+**Assyrian (AT).** *Anchusa*-type red-rooted herbs are tied to Mesopotamian washes and dressings for burns and ulcers, but under the standing blocking warning for Assyrian substance identifications — and given that the attestation here is to "alkanet-type roots" as a class rather than to a tablet naming this species — no cultivation status is claimed. Illness in this tradition is classified by causal agency; nothing in the retrieved material assigns this plant a role against a named agency, so the standing is at most a topical therapeutic one. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Ankhousa* is given a real account in *De Materia Medica*: the red root worked with oil or wax for burns, ulcers and inflammations, with spleen and venom-bite uses noted. Dioscorides carries no subtle-body system to assign the plant a cultivation status. What the tradition offers a cultivator is his discipline of attention — the several *ankhousa* species to be told apart, the emphasis on the root over the herb, the external working with oil or wax. That is a practice of provenance and correct identification, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The blue-flowered borages sit in the *Qanun* tradition among cooling, moistening, "gladdening" remedies that soothe hot, dry states, and *Anchusa azurea* inherits this cold-and-moist emollient classification. The strongest cultivation idea in the Unani corpus — conservation of innate heat and radical moisture — is a longevity frame of the whole regimen, not a status assigned to this cooling demulcent; and although the family carries a cardiac-gladdening reputation, no *mufarrih* role is claimed here (that material belongs to the *Kitāb al-Adwiya al-Qalbiyya*, not the *Canon*, and no constituent list is published). The attestation is therapeutic. **(b) framed:** used within the humoral scheme, no cultivation status sourced.
+
+**Practitioner's note.** Nothing here is a substance a cultivator takes to build vitality. Across all four traditions Italian bugloss is worked externally and for a defined job — a cooling, emollient dressing on burnt, inflamed or damaged skin. The system's own guidance forbids the internal "blood-cooling" tea outright, on the pyrrolizidine-alkaloid liver hazard. So the honest answer is abstentive: use the root or leaf topically on hot, injured skin, and do not take it internally at all.
+
+---
+
 ### Contraindications
 
 **⚠️ PYRROLIZIDINE-ALKALOID HEPATOTOXICITY — THE PRIMARY INTERNAL HAZARD.** As a member of the **Boraginaceae**, *Anchusa azurea* belongs to a family well documented to contain **pyrrolizidine alkaloids (PAs)**, a class of compounds that are hepatotoxic and can cause **hepatic veno-occlusive disease (sinusoidal obstruction syndrome)**, are genotoxic/carcinogenic in animal models, and are teratogenic. Regulatory limits on PA intake exist for exactly this reason.

@@ -58,6 +58,20 @@ According to PubMed, amla has a **stronger human clinical evidence base than mos
 - **TCM (*Yu Gan Zi*):** Sour, sweet, astringent, cool. Clears heat, generates fluids, benefits throat and lung, harmonises the middle.
 - **Galenic / Unani (*Amlaj*):** Cold and dry; astringent tonic — cardiac, cerebral, digestive, and hair/scalp tonic.
 
+### Cultivation Register
+
+**Greek — Dioscorides (DMM).** The emblic myrobalan is not a native Greek drug and does not appear in *De Materia Medica*; it entered the Greco-Arabic-European stream later through the myrobalan trade, as the entry itself records — so the tag marks an eastward-sourced absorption into the Dioscoretic-Galenic pharmacy, not a Dioscoridean entry. Dioscorides carries no subtle-body system in any case; the tradition offers a cultivator only its discipline of attention — the sourcing and assay of an imported astringent fruit. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** As *Amlaj*, amla is a well-established Unani drug: a cold, dry astringent tonic (*muqawwi*) of the heart, brain, viscera and scalp that checks excessive discharge. The strongest cultivation idea in the Unani corpus, the conservation of innate heat and radical moisture across the whole regimen, is a frame of the constitution and is not the same as this substance's recorded tonic indications; no cultivation status is sourced beyond that therapeutic tonic role, and no *mufarrih* constituent claim is made. **(b) framed:** attested as a Unani tonic, no cultivation status sourced.
+
+**Chinese — Bencao (SBJ).** In Chinese medicine amla is *Yu Gan Zi* 余甘子, the "aftersweet fruit," classed as sour, sweet, astringent and cool — clearing heat, generating fluids, benefiting the throat and lung, and harmonising the middle. It is not, however, a drug of the classical Shennong stratum: it enters Chinese materia medica through later, southern- and Tibetan-transmitted compilations, and no *san pin* 三品 grade is recorded for it in the sources retrieved. It therefore carries a therapeutic, not a cultivation, status within *yang sheng* 養生. **(b) framed**, with the attestation belonging to the later Chinese stratum rather than the Shennong classic.
+
+**Ayurveda (SS).** *Amalaki* is a premier *rasayana* — the formal Ayurvedic rejuvenation discipline — named in the classical corpus, standing as the base of *Chyavanaprāśa* and as one of the three fruits of *Triphalā*, and given the rare profile of a cooling drug said to pacify all three doshas. Its *rasa* carries five of the six tastes with sour dominant, *virya* cooling, *vipaka* sweet. This is a genuine substance-specific cultivation status, not a therapeutic indication alone: rejuvenation taken to extend and restore the constitution. **(a) attested** — the *rasayana* standing of *Amalaki* is recorded in the classical Ayurvedic corpus (Charaka and Sushruta Saṃhitās; Meulenbeld, *A History of Indian Medical Literature*).
+
+**Practitioner's note.** This is one of the few entries where a cultivator has an attested, daily, long-arc use: in the Ayurvedic scheme amla is a *rasayana* fruit taken — as *churna*, as *Chyavanaprāśa*, or in *Triphalā* — for rejuvenative consolidation, and the modern cardiometabolic trials happen to converge on the same restorative role. Outside Ayurveda the other traditions give it only a cooling-astringent tonic frame with no cultivation grade. A cultivator uses it in the consolidation arc, coordinating with a clinician where anticoagulant or glucose-lowering drugs are in play.
+
+---
+
 ### Contraindications
 
 - **Astringent and cooling** — large or prolonged doses may aggravate cold/deficient digestive patterns or contribute to dryness/constipation in susceptible individuals.

@@ -60,6 +60,24 @@ According to PubMed:
 - **Ayurveda:** *Katu* (pungent) rasa; *ushna* (hot) virya; *katu* vipaka; increases *pitta*, decreases *kapha*; kindles *agni* (assimilated usage).
 - **Galenic / Unani:** Hot and dry to the 3rd–4th degree; calefacient, rubefacient, carminative, resolvent.
 
+---
+
+### Cultivation Register
+
+A standing caution frames all four paragraphs: *Capsicum* is a New World genus that reached the Old World only after the Columbian exchange. The Unani, Chinese and Ayurvedic registers below therefore describe a *later assimilation* of the plant into a living system — not an attestation from the classical text each tradition is named for.
+
+**Unani — Avicenna (CM).** Once trade carried it east, cayenne was received as *filfil ahmar* and folded into the Galenic class of pungent calefacients, hot and dry to a high degree, used to disperse cold phlegmatic stagnation and stir digestion. The tradition's genuine cultivation idea — the conservation of innate heat and radical moisture, the finite endowment whose slow depletion *is* ageing — is not served by a drug reckoned hot and dry to the third or fourth degree; such intensity spends the radical moisture rather than husbanding it, and no gladdening role for the *ruh* is claimed for it. The plant is a therapeutic calefacient, post-Columbian in adoption, carrying no cultivation status. **(b) framed.**
+
+**Chinese — later materia medica (TCM).** Chinese medicine took up the chili as *là jiāo* 辣椒, acrid and hot, warming the middle burner and dispelling cold-damp. It stands entirely outside the *Shénnóng Běncǎo Jīng* and its three grades — it entered the pharmacopoeia centuries after the classic closed — so no *san pin* 三品 grade and no place in *yǎng shēng* 養生 is or could be recorded for it. Its standing is that of a warming interior herb for a defined cold pattern, not a substance taken to nourish life. **(b) framed.**
+
+**Ayurveda — Sushruta lineage (SS).** Cayenne was assimilated as a *katu* (pungent) *dravya* of *ushna* (hot) *virya*, taken to kindle *agni* and reduce *kapha*. It is not a plant the *Sushruta Samhita* named, and no *rasayana* (rejuvenation) or *vajikarana* (generative vitality) assignment is recorded for it in the sources retrieved; its use is dietetic and digestive, keyed to the fire of digestion, not to the depletable distillate *ojas*. **(b) framed.**
+
+**Nahua — Badianus (BM).** This is the one tradition with a pre-Columbian claim on the plant: *chīlli* was food, tribute, ritual fumigant and medicine across Mesoamerica for millennia, and the *Libellus de Medicinalibus Indorum Herbis* (1552) records its warming, counter-irritant medicinal uses. But the *Libellus* is itself a naturalistic herbal — the *tonalli* / *teyolia* / *ihiyotl* model of the animate person is reconstructed from later ethnohistory (López Austin), not set down in the manuscript — so no subtle-body cultivation status for chili can be read out of the source text. The deep cultural weight of the pepper is real; a cultivation assignment in the Badianus record is not. **(b) framed.**
+
+**Practitioner's note.** Nothing here is a substance to build a constitution on. Everywhere except Mesoamerica cayenne arrived late and was slotted into the pre-existing class of hot, pungent, cold-dispersing drugs; in Mesoamerica it was ubiquitous but the surviving herbal treats it naturalistically. The cultivator's discipline is restraint: a bounded topical burn for cold, aching or neuropathic complaints, or a culinary pinch as a digestive stimulant — respected, self-limited, and never escalated. The plant teaches dose, not longevity.
+
+---
+
 ### Contraindications
 
 - **Mucosal and eye contact is hazardous.** Capsaicin causes intense burning of eyes, mouth and mucous membranes; keep away from eyes, genitals and broken skin, and wash hands thoroughly after topical use (capsaicin is not water-soluble — remove with oil/soap, not water alone).

@@ -58,6 +58,20 @@ Codex policy: mechanism stated securely; named citations to be supplied and veri
 - **Folk-European mapping:** the deadly anodyne; ingredient of soporific sponges and the witches'-salve tradition; handled strictly as a poison.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** at the extreme cooling-sedating pole, with a ☿ **Shen** ascription for its direct, fatal action on the neuromuscular/respiratory vital function — a substance that extinguishes the animating breath itself.
 
+### Cultivation Register
+
+**Egyptian (EP).** No Egyptian cultivation framing is attested for hemlock. The plant is a Mediterranean umbellifer whose fame is Greek, and the entry's own historical account records no Ebers preparation, no *heka*-bearing recitation, and no working of it toward the *ka*, *ib* or vital constitution; the Egyptian corpus is in any case indication-organised rather than constitution-organised. The tag carries no substance-specific Egyptian material to frame. Cultivation status: **(c) absent.**
+
+**Assyrian (AT).** No Assyrian cultivation framing is attested. Under the standing blocking warning for Mesopotamian substance identifications, deity/demon attributions and tablet references, no status is claimed here, and the entry records no cuneiform preparation of hemlock to frame in the first place. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Hemlock (*koneion*) is given a secure therapeutic-and-toxic account in *De Materia Medica* Book IV — a cooling, deadening anodyne for hot swellings and indurations and an anaphrodisiac, set squarely among the poisons — but Dioscorides carries no subtle-body system by which to assign it a cultivation status. What the tradition offers a cultivator here is his discipline of attention: the field marks that separate the lethal umbellifer from the edible ones (the purple-blotched stem, the foetid mousy odour) and from the convulsant water hemlock, plus the caution over plant stage and potency. That is a real practice of identification and assay, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Hemlock passes into the Greco-Arabic materia medica as a cold, narcotic poison used, if at all, as a topical cooling-deadening agent — a therapeutic-and-toxic classification, not a cultivation one. The strongest cultivation idea in the Unani corpus, the conservation of innate heat and radical moisture across a lifetime, is a frame of the whole regimen and is not a status the tradition assigns to an extreme cold poison that quenches the innate heat outright; no *mufarrih* or cardiac-*ruh* role is claimed, and no *Canon* chapter is cited. **(b) framed:** attested as a cooling narcotic in the tradition, with no cultivation status sourced.
+
+**Practitioner's note.** A cultivator does nothing with hemlock. It is archival and historical material — a lethal neurotoxin with a small margin and no field antidote — and across every tradition tagged here it is handled as a poison or, at most, a dangerous topical anodyne, never as a substance taken to build or conserve vitality. The one genuinely usable practice the traditions transmit is negative: correct identification, so it is never taken at all.
+
+---
+
 ### Contraindications
 
 - **All internal use — absolute prohibition.** Lethal; small margin; no antidote.

@@ -53,6 +53,20 @@ The safety-limiting side of the same family is equally documented. Kopp et al. (
 - **Ayurvedic (by analogy, not classical attribution):** *rasa* — madhura (sweet), tikta (bitter); *virya* — cooling on the surface; *vipaka* — madhura. Pitta-pacifying topically.
 - **TCM:** No classical Chinese usage; the alkannin-bearing Boraginaceae most nearly parallel the "cool the blood, resolve toxin" surface category, but this is analogical only.
 
+### Cultivation Register
+
+**Egyptian (EP).** The Ebers record here is general rather than binomial-precise — Egyptian scribes named the rough, blue-flowered "tongue plants" by leaf-form and habitat and grouped them among cooling, softening topical drugs for inflamed skin and stubborn sores. The corpus is indication-organised: it records what was laid on a hardened swelling, not what a herb does to a person's *ka*, *ib* or vital constitution, and no *heka* recitation or operative status is attested for this plant. Cultivation status: **(c) absent.**
+
+**Assyrian (AT).** The cuneiform tablets group rough, blue-flowered "tongue herbs" among heart-and-blood remedies, a placement the entry ties to a doctrine-of-signatures reading of the red-rooted plant rather than to a tablet naming *Anchusa officinalis*. Under the standing blocking warning for Assyrian substance identifications, no cultivation status is claimed. In a tradition that classifies illness by causal agency, nothing in the retrieved material assigns this plant a role against a named agency; the standing is symbolic-therapeutic at most. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Ankhousa* is described in *De Materia Medica* with the red root taken in wine for jaundice and kidney complaints and steeped in oil for burns, ulcers and skin eruptions, several kinds distinguished by root colour and leaf roughness. Dioscorides has no subtle-body system to assign the plant a cultivation status. What the tradition gives a cultivator is his discipline of attention — telling the kinds apart by root and leaf, prizing the root, judging the dye. That is provenance and correct identification, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the *Qanun* tradition *lisan al-thawr* ("ox-tongue") is a herb of the sanguine temperament, carried forward as an exhilarant cordial that gladdens the heart and lifts the spirits — the use blurring botanically across *Anchusa*, *Borago* and *Echium*. This is the corpus's cardiac-gladdening register, but that material belongs to the *Kitāb al-Adwiya al-Qalbiyya* rather than the *Canon*, so no *mufarrih* constituent list is published here and no chapter reference is given. Even so, a heart-gladdening cordial action is a therapeutic use, not the innate-heat-and-radical-moisture conservation that is the tradition's actual cultivation idea; that longevity frame belongs to the whole regimen, not to this herb. **(b) framed:** attested and used within the humoral scheme, no cultivation status sourced.
+
+**Practitioner's note.** A cultivator does almost nothing internal with this plant. Its cordial, spirit-lifting heritage is retained only as a symbolic anchor — steadiness and good cheer at the Foundation phase — not as something to swallow, because the Boraginaceae pyrrolizidine-alkaloid burden makes habitual internal use unsafe and the system withholds it. What remains is topical and short-term: an infused oil or poultice over inflamed, chafed or reddened skin. Reach for the cheer, leave the tea.
+
+---
+
 ### Contraindications
 
 - **Pyrrolizidine-alkaloid hepatotoxicity — do not take internally on a repeated or habitual basis.** As a member of the Boraginaceae, *Anchusa officinalis* contains pyrrolizidine alkaloids capable of causing hepatic veno-occlusive disease, and with genotoxic and potentially carcinogenic activity. Regulatory tolerable-intake limits are extremely low.

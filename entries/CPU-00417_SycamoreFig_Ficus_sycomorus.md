@@ -56,6 +56,20 @@ According to PubMed:
 - **Ayurveda (by analogy):** *rasa* madhura (sweet) with kashaya (astringent) in bark/latex; *guna* heavy, unctuous fruit vs. sharp latex; *virya* cooling; *vipaka* sweet. Broadly *pitta*- and *vata*-settling, mildly *kapha*-increasing in the fruit.
 - **Galenic/Unani (as attested):** cool and moist flesh, first degree; latex hot, cleansing, ripening — a *muhallil* (dissolving/softening) and gently *mushil* (opening) agent.
 
+### Cultivation Register
+
+**Egyptian (EP).** The sycamore is among the most sacred trees of the Nile — *nehet*, the tree of Hathor "Lady of the Sycamore," a shade and sap standing at the threshold between the living and the dead, its wood taken for coffins and funerary statuary. That is genuine sacred standing, but it belongs to the tree as sacred matter within Egyptian religion, not to the fruit or the latex worked for a person's *ka*, *ba* or *ib*. The medical papyri are indication-organised: they record the fruit as a food and the sap and leaf as drawing, softening applications for swellings, not what the substance does to the vital constitution, and no operative *heka* recitation is attested for the fruit or latex in the retrieved sources. Cultivation status: **(c) absent** — the sacred weight is real and attaches to the living tree, not to a cultivation status assigned to its parts.
+
+**Assyrian (AT).** Figs and fig-type saps recur in the cuneiform materia medica among the poultice and plaster plants — soft fruits and mucilaginous saps laid on swellings to soften indurated tissue. Under the standing blocking warning for Assyrian substance identifications and their causal-agency framing, no cultivation status is claimed; the attestation is therapeutic. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides treats the *sykomoros* as distinct from the common fig, noting its watery sweetness, its use as a foodstuff, and the incised latex that softens and disperses hard swellings and loosens the bowels. He carries no subtle-body system to assign it a cultivation status. What the tradition offers a cultivator is his discipline of attention — keeping the sycamore separate from the true fig, judging the fruit's ripeness, gathering the latex by deliberate incision. That is a practice of provenance and sensory assay, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the *Qanun* figs and their kin are catalogued among the ripening, softening, moistening simples, the latex treated as the sharper drawing part of an otherwise mild and nourishing tree. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture across a whole regimen — is not a status the tradition assigns to this cooling, moistening food-simple, and no *mufarrih* or cardiac-*ruh* role is claimed for it. **(b) framed:** attested therapeutically as a ripening moistener, with no cultivation status sourced.
+
+**Practitioner's note.** This is not a longevity substance in any of the four traditions. The fruit is eaten as a gentle, moistening, mildly laxative food; the latex and leaf are worked topically as a drawing, ripening plaster for swellings and slow surfaces. A cultivator uses it to steady and nourish a depleted baseline and to soften what is congested at the surface — a foundation food-medicine, not something taken to build vitality. The sacred weight of the sycamore in Egypt is cultural and belongs to the standing tree; it does not transfer to the fruit or sap as a cultivation status.
+
+---
+
 ### Contraindications
 
 - Latex is a **local irritant** to broken skin, eyes, and mucous membranes — restrict to intact-margin surface use and spot-test.

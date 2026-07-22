@@ -129,6 +129,20 @@ The Codex also notes silymarin's documented role as the sole evidence-based anti
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** Thistle-family preparations for hepatobiliary complaints appear in the Ebers Papyrus, but the corpus is indication-organised and the species identification is uncertain — *Silybum marianum* was one of several thistles in an ecosystem the Egyptian nomenclature does not resolve to a single modern taxon. The record is of what was done for a yellowed, bilious patient, not of what the plant does to the person's *ka*, *ib* or vital constitution, and no *heka* recitation or deity attribution is sourced for this plant. **(c) absent.**
+
+**Assyrian (AT).** The profile carries no genuine Mesopotamian cuneiform attestation for milk thistle; the material tagged "(AT)" in the entry is in fact European folk usage (the *Mariendistel* liver-herb and spring tonic), not an *asû*/*āšipu* source, and under the standing blocking warning for Assyrian substance identifications no tablet is actually cited. On the evidence in the profile, no secure Assyrian attestation — and therefore no cultivation status — can be claimed here. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Akantha leuke* carries one of the most explicit hepatological notices in *De Materia Medica* — the seed decoction "good for those afflicted with jaundice," promoting the flow of bile — and the genus name *Silybum* descends from his *silybon*. Yet Dioscorides holds no subtle-body doctrine that could assign the plant a cultivation status; what the tradition offers a cultivator is his discipline of attention — identifying the true white thistle, assaying the seed, judging the season and provenance of gathering. That is a real practice of judgement, not a vital-body assignment. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the *Canon* tradition the thistle is warm and dry in the first degree, a hepatic drainer and choleretic that "opens hepatic obstructions" and strengthens the liver against corrupt humors. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture, that finite endowment whose spending *is* ageing — is a frame of the whole regimen, not a status the tradition fixes to this bitter liver-draining drug; no *mufarrih* or cardiac-*ruh* role is claimed, and no *Canon* chapter is cited. Attested therapeutically, no cultivation status sourced. **(b) framed.**
+
+**Practitioner's note.** A cultivator uses milk thistle as a restorative worked at the liver — the traditions that actually engage it (Greek, Unani, and the European folk usage the entry mislabels as Assyrian) all point it at jaundice, biliousness and "obstructed" hepatic function, and Kenetica's own `[CYCLE-OFF]`/`[RESET]` phasing keeps it to defined restorative courses between loads rather than a daily vitality-builder. No tradition on the tag line assigns it a sourced cultivation status; it is a therapeutic liver herb, taken for the job and then stopped.
+
+---
+
 ### Contraindications
 
 - **Hormone-sensitive conditions:** Silymarin and silybin have documented weak phytoestrogenic activity via preferential ER-β (estrogen receptor beta) binding. The estrogenic potency is substantially lower than pharmaceutical estrogens and is not clinically significant at standard doses in healthy adults. However, in individuals with hormone-sensitive conditions — estrogen-receptor positive breast cancer, endometriosis, uterine fibroids — caution is warranted, particularly with high-dose or phytosome-enhanced formulations that achieve meaningfully higher plasma levels.

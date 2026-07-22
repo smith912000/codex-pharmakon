@@ -99,6 +99,20 @@ Adimoelja A (2000) "Phytochemicals and the breakthrough of traditional herbs in 
 
 ---
 
+### Cultivation Register
+
+**Greek — Dioscorides (DMM).** *De Materia Medica* Book IV describes *Tribolos* as a thorny plant whose hard spined fruit was given for strangury, urinary obstruction and stone — a diuretic classed mildly warm and dry, moving fluids downward and clearing blockage. Dioscorides carries no subtle-body doctrine to which a cultivation status could attach; the passing note that Greek athletes "may" have used it as a tonic is fragmentary in the ancient sources and cannot be built upon. What the tradition offers a cultivator is his discipline of attention — the recognition of the true fruit, its season and provenance, the assay of a genuine drug. That is a practice of sensory judgement, not a vital-body assignment. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the Graeco-Arabic tradition the fruit is *Khār-e-Khasak* (also *Gokhrū*), classed among the diuretic and lithontriptic drugs — given to break and pass urinary gravel and stone (*ḥaṣāt*), to ease dysuria, and with a secondary reputation as a strengthening (*muqawwī*) agent for the urinary and generative organs. The Unani cultivation idea — the conservation of innate heat and radical moisture — is a frame of the whole regimen, not a status assigned to this cooling diuretic; no such standing is recorded for it in the sources retrieved. Its place is therapeutic — a stone-and-urine drug with a tonic reputation — not a cultivation grade. **(b) framed.**
+
+**Ayurveda (SS).** Here the tradition assigns a genuine cultivation status. *Gokshura* ("cow's hoof," गोक्षुर) is classed among the *vṛṣya / vājīkaraṇa* (generative-vitality) and *rasāyana* (rejuvenative) dravyas of the classical corpus — an organ-specific tonic for the *śukravaha srotas* (reproductive channel) and *mutravaha srotas* (urinary channel) rather than a systemic one — with *madhura* rasa, *śīta vīrya*, and the actions *mutrala* (diuretic), *aśmarīghna* (anti-calculus) and *śukrala* (semen-promoting). This vṛṣya/vājīkaraṇa and rasāyana standing across the classical texts (Charaka Saṃhitā, Suśruta Saṃhitā) is documented by Purohit, Thummar, Sreebala & Patel (2024), *Journal of Drug Research in Ayurvedic Sciences* 9(Suppl 2):S175–S183, who count Gokshura among the single dravyas carried in dozens of rasāyana and vājīkaraṇa formulations. **(a) attested** — an organ-specific vājīkaraṇa/rasāyana dravya, not a systemic rejuvenative.
+
+**Tibetan (FMT).** The entry records no primary Sowa Rigpa role, only a marginal appearance in cross-regional compilations under an "Indian thorn-fruit" heading for reproductive support, and Tibetan medicine holds no formal "substances for subtle-body practice" category to invent one for it. No *bcud len* (essence-extraction) status and no placement against the three *nyes pa* is attested. The mention is peripheral and unsourced in the entry. **(c) absent** as to cultivation status.
+
+**Practitioner's note.** The one tradition that gives a cultivator a positive brief is Ayurveda: Gokshura is worked over a defined course as an organ-specific *vājīkaraṇa/rasāyana* for the urino-genital channel — the classical decoction, or the compounds Gokshuradi Guggulu and Chandraprabha Vati — most credibly where reproductive-urinary vitality is genuinely deficient. The modern androgenic reputation is evidence-stratified (benefit concentrates in men with low baseline testosterone; eugonadal young men do not respond) and belongs to sports pharmacology, not to any classical cultivation grade. The Greek and Unani registers use the same fruit for the same therapeutic end — stone and strangury — and confer no cultivation status.
+
+---
+
 ### Contraindications
 
 - **Prostate conditions (BPH and prostate cancer):** Androgen-sensitive prostate tissue may be adversely stimulated by testosterone elevation; contraindicated in documented prostate cancer; use with caution in BPH with elevated PSA; PSA monitoring recommended for men over 45 using Tribulus as an ongoing testosterone-support protocol.

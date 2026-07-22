@@ -57,6 +57,20 @@ Burdock's seed lignan arctigenin is the best-studied constituent, with a growing
 - **Ayurveda:** *Tikta* (bitter) rasa, *sheeta* (cold) virya, *katu* vipaka; *pitta*-pacifying, *rakta-shodhana* (blood-purifying) and *mutrala* (diuretic).
 - **Galenic / Unani:** Cold and dry; dissolving, deobstruent, and diaphoretic.
 
+### Cultivation Register
+
+**Greek — Dioscorides (DMM).** The large-leaved burrs of *Arktion* / *Personata* are given a therapeutic account — root and leaves for cleansing wounds, drawing heat, and treating swellings and skin complaints — and Dioscorides carries no subtle-body system to assign the plant a cultivation status. What the tradition offers a cultivator is his discipline of attention: recognising the burr-plant, distinguishing root from leaf, judging the cleansing preparation. That is provenance and correct working, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the *Qanun* stream burdock (*bardana*) sits among the cooling, dissolving, purifying drugs used for hot skin eruptions and abscesses and to clear morbid humours through urine and sweat. This is a deobstruent-therapeutic use; the tradition's actual cultivation idea — conservation of innate heat and radical moisture as a finite endowment — is a longevity frame of the whole regimen, not a status assigned to a cooling purgative herb, and none is claimed. **(b) framed:** attested and used within the humoral scheme, no cultivation status sourced.
+
+**Chinese — Bencao (SBJ).** Chinese practice uses two parts: the seed *Niu Bang Zi* (牛蒡子), an acrid-bitter, cold herb that disperses wind-heat, vents rashes and benefits the throat; and the root *Niu Bang* (gobō), eaten as a food. The seed's action is dispersing and short-course — a disease-treating (治病) function rather than the conservational project of *yang sheng* 養生 — and no *san pin* 三品 grade is recorded for this species in the sources retrieved; nor is the seed's earliest secure attestation the classical *Shennong Bencao Jing* stratum. It therefore carries a therapeutic, not a cultivation, status, and the root's standing is that of a food. **(b) framed**, with no grade asserted.
+
+**Ayurveda (SS).** The attestation here is by type rather than by a named classical dravya: the surgical tradition and later *nighantus* employ bitter-cooling, blood-purifying (*rakta-shodhana*) and diuretic roots of the burdock kind for pitta-driven skin disorders, but *Arctium lappa* itself is not a species of the classical Sushrutan corpus. *Rakta-shodhana* is in any case a therapeutic-purificatory action, not the formal rejuvenative disciplines (*rasayana* / *vajikarana*), and no such rejuvenative assignment is recorded for this plant. **(c) absent** as to cultivation status.
+
+**Practitioner's note.** A cultivator uses this one at the surface, to clear rather than to build. The root (gobō) is food-grade and can carry a sustained, gentle Purification-phase cleanse — a cooling, inulin-bearing broth or decoction — while the seed is reserved for the brief, acute job of venting heat from a sore throat or a hot rash, then stopped. Nothing across the four traditions makes it a longevity or vitality-building substance; the toxicology on high-dose isolated arctigenin reinforces the "whole-root, moderate, time-limited" reading.
+
+---
+
 ### Contraindications
 
 - **Asteraceae allergy:** May cross-react in people sensitive to ragweed, daisies, chrysanthemums; can cause contact dermatitis.

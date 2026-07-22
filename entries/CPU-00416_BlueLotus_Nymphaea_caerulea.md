@@ -59,6 +59,22 @@ Farrell et al. (2016), *PLoS ONE* — characterised nuciferine (an alkaloid of *
 - **Egyptian (EP):** solar rebirth emblem; calming, fragrant, ceremonial intoxicant steeped in wine.
 - **TCM (by analogy to *Nelumbo* lotus):** not this species — do not import *Nelumbo* attributions; kept separate here.
 
+---
+
+### Cultivation Register
+
+**Egyptian (EP).** The blue lily is one of the most richly attested sacred plants of dynastic Egypt — the flower that opens at dawn and closes into the water at dusk, an emblem of solar rebirth carried through funerary imagery and used in fragrant, calming, wine-steeped ceremonial preparations. Person, in this tradition, is plural — *ka*, *ba*, *akh*, *ib* — and *heka* would bind recitation and material into one intervention; but the attestation retrieved is the flower's standing as a rebirth-and-threshold emblem within mortuary religion and its use as a calming aromatic, not a documented *heka* operation worked on a living cultivator's vital constitution, and the medical corpus is indication-organised (what was done for agitation or heat, not what the flower does to the person's *ka*). No deity-specific ritual is asserted here without a source. **(b) framed:** a genuinely strong symbolic and ceremonial frame, but no operative cultivation status assigned to the person.
+
+**Assyrian (AT).** Water lilies of this type appear in Mesopotamian ornamental and medico-magical contexts as an emblem of fertility and cooling water, but the attestation is generic to the flower-type rather than secured to this species, and the standing blocking warning is in force for every Assyrian substance identification and its causal-agency framing. No cultivation status is claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *De Materia Medica* treats *nymphaia* as a cold, moist plant — root and seed used to temper heat, quiet fluxes and cool excessive desire — a squarely humoral therapeutic reading. Dioscorides carries no subtle-body system to which a cultivation status could attach; what his tradition offers a cultivator is his discipline of attention — the gathering of root and seed, the sensory assay of a cooling drug, the guard against substitution among look-alike water plants. That is a real practice of provenance and judgement, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** As *nilufar* the water lily is a standard cold-and-moist sedative-refrigerant, worked for hot headaches, fever, insomnia and agitation of a hot temperament. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture as a finite endowment that ageing depletes — is a frame of the whole regimen, not a status the tradition assigns to a cooling, calming flower, and no *mufarrih* or cardiac-*ruh* role is claimed for it here. **(b) framed:** attested as a sedative-refrigerant therapeutic, with no cultivation status sourced.
+
+**Practitioner's note.** A cultivator uses blue lotus, if at all, as a threshold aid at the close of active work — a cooling, calming infusion or steeped-flower preparation to down-regulate residual heat and agitation and soften the way into rest and reverie. It is worked for a state, not taken to build the person, and its reputation runs well ahead of its chemistry: authenticated and commercial extracts frequently carry little or no nuciferine or apomorphine, so no reliable cultivation effect can be assumed from any product. Across its four tagged traditions it is a cooling settler and a ritual emblem, not a substance graded for long-term vitality work.
+
+---
+
 ### Contraindications
 
 - Alkaloid content is **highly variable and often negligible**; do not assume a reliable dose or effect from any commercial product.

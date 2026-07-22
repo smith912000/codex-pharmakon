@@ -58,6 +58,20 @@ According to PubMed:
 - **TCM (related species):** the sister red-root *Lithospermum erythrorhizon* (zǐ cǎo, "purple grass") is the classical Chinese analogue — cools blood, resolves toxin, used topically for skin eruptions, burns and macular rashes. *A. tinctoria* is not itself a classical Chinese herb but shares the naphthoquinone chemistry.
 - **Ayurvedic (by analogy):** would read as a *tikta / kashaya* (bitter/astringent), cooling-to-neutral external agent for pitta-type skin inflammation; not a classical Ayurvedic dravya.
 
+### Cultivation Register
+
+**Egyptian (EP).** The Ebers attestation here is at the level of the red-root *class* — the *Alkanna / Anchusa* dye-roots folded into salves, oils, and unguents — rather than a secure species identification, and the Egyptian corpus is indication-organised: it records what a coloured salve was worked into for the skin, not what the root does to a person's *ka*, *ib*, or vital constitution. No *heka* recitation is attested for it in the retrieved sources, and no deity attribution can be made without one. Cultivation status: **(c) absent**.
+
+**Assyrian (AT).** The Mesopotamian record likewise reaches alkanet only as one of the red-dyeing roots worked into oils and fats, where the crimson itself signalled potency. Under the standing blocking warning in force for every Assyrian substance identification, tablet reference, and causal-agency framing, no cultivation status is claimed; the standing is that of a valued apothecary-dyer's article. Cultivation status: **(c) absent**.
+
+**Greek — Dioscorides (DMM).** Dioscorides gives the earliest systematic account of *ankhousa* in *De Materia Medica*: the root steeped in oil or wax yields a red colour and is applied to ulcers, burns, inflammations, erysipelas, and skin eruptions. Dioscorides carries no subtle-body system to assign the root a cultivation status. What the tradition offers a cultivator is instead his discipline of attention — the diagnostic test that the root bleeds crimson into oil or wax yet stays colourless in water, the assay of the colour as the sign of the working principle, and the guard against a mis-gathered or adulterated root. That is a real practice of provenance and sensory judgement, not a vital-body doctrine. Cultivation status: **(c) absent**.
+
+**Avicenna / Unani (CM).** The *Qānūn* tradition classes alkanet (*shanjar / abū khalsa* in the Arabic lineage) among the warming, drying, resolving roots, applied externally to ripen and cleanse corrupt matter while the astringency closes the tissue — a genuine therapeutic use. But the tradition's cultivation idea — the conservation of the *innate heat* and *radical moisture*, the finite vital endowment whose depletion *is* ageing — is a longevity frame of the whole regimen, not a status assigned to an external drying salve-root, and none is sourced for alkanet; no *mufarrih* cardiac-*ruh* role is claimed. Cultivation status: **(b) framed** — attested therapeutically, no cultivation status recorded.
+
+**Practitioner's note.** A cultivator does exactly one thing with alkanet: steeps the root in a warm oil until it bleeds deep red, then works that oil into a salve for the skin surface — burns, slow-healing ulcers, cracked and inflamed lesions. It is never swallowed: the Boraginaceae pyrrolizidine-alkaloid load removes internal use from the safe repertoire, so there is no ingestive cultivation practice to be had here in any of the four traditions. The colour is the medicine, the surface is the target, and the honest cultivation answer is a topical one.
+
+---
+
 ### Contraindications
 
 - **Pyrrolizidine-alkaloid hepatotoxicity — critical.** As a member of the Boraginaceae, *Alkanna tinctoria* can contain hepatotoxic (and potentially genotoxic/carcinogenic) pyrrolizidine alkaloids. **Do not take internally.** Chronic or repeated internal exposure to PA-containing Boraginaceae is associated with hepatic veno-occlusive disease (sinusoidal obstruction syndrome) and liver injury.

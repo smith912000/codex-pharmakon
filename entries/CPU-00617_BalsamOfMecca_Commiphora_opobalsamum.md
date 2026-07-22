@@ -56,6 +56,20 @@ According to PubMed:
 
 **Galenic/Unani (as attested):** Hot and dry, 2nd–3rd degree; resolvent (*muhallil*), desiccant, deobstruent, emmenagogue (Dioscorides, Avicenna). No canonical TCM or Ayurvedic classification is attested for this Levantine species; it is not claimed here.
 
+### Cultivation Register
+
+**Egyptian (EP).** Egyptian medicine prized aromatic Burseraceae gum-resins for wound dressings, fumigation and embalming, and balsam-type oleoresins appear among the fragrant *snTr* materials used to purify the body and the air. This is an indication- and ritual-use record — what the resin was worked to do for a wound or a fumigation — not an account of what it does to a person's *ka*, *ba* or *ib*, and the identification rests on the balsam class rather than *C. gileadensis* specifically. No *heka* recitation or deity attribution is sourced for this exudate. Cultivation status: **(c) absent.**
+
+**Assyrian (AT).** The cuneiform record places Levantine balsam among the precious tribute resins of the incense routes, used in salves and fumigants — an economic and therapeutic notice, not a vital-constitution one. Under the standing blocking warning for Assyrian substance identifications, tablet references and causal-agency attributions, no cultivation status is claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides gives *opobalsamon* the most valued rank among balsam products, above *xylobalsamon* and *carpobalsamon*, rating it warming, thinning, an emmenagogue and a wound-cleanser. He carries no subtle-body system to assign a cultivation status. What the tradition offers a cultivator is his discipline of attention — his insistence, dwelt on at length, that the genuine exudate be told from the many adulterations, a judgement of provenance and sensory assay. That is a real practice, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Avicenna classes *balasan* as hot and dry, a resolvent and desiccant used for cold catarrhs, to clear obstructions, dress wounds and strengthen the viscera, and — like Dioscorides — dwells on distinguishing true balsam from fakes. The strongest cultivation idea in the Unani corpus, conservation of innate heat and radical moisture across the regimen, is not a status this tradition assigns to this warming aromatic resolvent, and no *mufarrih* or cardiac-*ruh* role is claimed. It is a therapeutic hot-and-dry agent, not a longevity substance. **(b) framed:** attested therapeutically, no cultivation status sourced.
+
+**Practitioner's note.** A cultivator works this externally and aromatically, not as a vitality-building intake. Across the traditions balsam is a wound-cleanser, skin-barrier and antimicrobial dressing and an aromatic for clearing cold, damp congestion — the modern evidence sits with topical and extract use, and the historic internal uses are traditional, not validated. The one discipline the sources genuinely press, from Dioscorides to Avicenna, is authentication: source verified *C. gileadensis* and reject the adulterations both authors warned of. There is no attested longevity or vital-body use to take up.
+
+---
+
 ### Contraindications
 
 Aromatic resins can irritate skin and mucosa — patch-test before topical use. The warming/emmenagogue reputation and absence of safety data mean it should be avoided in pregnancy and lactation. No established safe internal human dose; do not ingest research-grade extracts. Burseraceae/resin sensitivity is possible in atopic individuals. Discontinue on any allergic reaction.

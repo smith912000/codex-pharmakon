@@ -60,6 +60,20 @@ According to PubMed, evidence for *Marrubium vulgare* is largely preclinical, wi
 - **TCM:** No classical Chinese materia medica placement (non-attested tradition; not tagged CM). By analogy to its actions it behaves as a bitter, cool-dispersing, phlegm-transforming herb, but this is interpretive, not canonical.
 - **Ayurvedic:** No classical Ayurvedic entry (not tagged SS). Functionally *tikta* (bitter) rasa with a phlegm-reducing (kapha-lowering), light/dry *guna* — interpretive only.
 
+### Cultivation Register
+
+**Egyptian (EP).** White horehound belongs among the bitter, aromatic chest-and-breath herbs of the Nile pharmacopoeia, and the surviving folk epithet "seed of Horus" is, as this entry's own record concedes, a symbolic attribution rather than a secured Ebers identification. The Egyptian corpus is indication-organised — it records what was given for thick phlegm or a troubled stomach, not what the plant does to a person's *ka*, *ib* or vital constitution — and in *heka*, where spell and drug form a single intervention, no operative recitation is attested for this herb in the retrieved sources; nor is any deity attribution securely sourced beyond the late folk name. There is therefore no cultivation status to state. **(c) absent.**
+
+**Assyrian (AT).** The cuneiform medical tablets prescribe bitter mint-family aromatics as honeyed decoctions and washes for cough and chest oppression, and horehound sits within that drying, phlegm-cutting current — but at the level of the class, and such drugs are classified by the causal agency they oppose rather than by any status they confer on the person. Under the standing blocking warning that governs every Assyrian substance identification and etiological claim, no cultivation status is asserted; the engagement is therapeutic. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Here the attestation is genuinely textual and species-level: Dioscorides names *prasion* explicitly, prescribing the boiled leaves and seed, or an electuary with honey, for the orthopnoeic, the phthisical and the cough-troubled, and noting its power to expel afterbirth and bring on menstruation. Yet *De Materia Medica* carries no subtle-body doctrine into which a cultivation status could be set; what it offers a cultivator is the discipline of attention — recognising true *prasion* by its bitterness, judging the honeyed electuary, gathering at the right season — a practice of assay rather than a vital-body teaching. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The Unani physicians class horehound (*farāsiyūn*) as hot in the first degree and dry in the second, a deobstruent and expectorant — *munaddij* and *muqaṭṭi'* — that ripens and cuts the cold, viscid humours of the lung. The corpus's strongest cultivation idea is the conservation of the *ruh* and of innate heat and radical moisture, the finite endowment whose depletion *is* ageing; but that governs the whole regimen of living, not this warming, drying bitter, and no gladdening cardiac (*mufarrih*) role is claimed for it. Its standing is a humoral-therapeutic placement, hot and dry, with no cultivation status recorded. **(b) framed.**
+
+**Practitioner's note.** A cultivator uses horehound as a mover, not a builder: a very bitter clearing-phase expectorant taken briefly — usually honeyed, to carry the bitterness — to open and drain a congested, cold-damp chest and to prime a sluggish gut before meals, then withdrawn once the phlegm is loosening in favour of tonifying agents. None of its traditions assign it a longevity or vital-nourishing status, and the honest instruction is the traditional one: use it to shift stuck cold matter, then stop.
+
+---
+
 ### Contraindications
 
 - **Pregnancy — avoid.** Dioscorides and the traditional record cite horehound to expel afterbirth and provoke menstruation (emmenagogue/uterine action). Its use in pregnancy is contraindicated on this traditional basis.

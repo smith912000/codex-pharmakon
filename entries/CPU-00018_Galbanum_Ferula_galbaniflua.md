@@ -55,6 +55,20 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Unani/Persian mapping:** *barzad* — hot-dry temperament; muhallil (resolvent), munzij/mukhrij (ripener/expeller), antispasmodic and deobstruent.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the warming, dispersing, phlegm-and-stagnation–resolving axis, kin to the whole *Ferula* gum-resin cluster.
 
+### Cultivation Register
+
+**Egyptian (EP).** The attestations gathered in this entry are biblical, Greek and Persian, not Egyptian: the profile carries galbanum's incense role from Exodus and its Dioscoridean and Unani therapeutics, but no Ebers preparation is cited for it here. Even setting that aside, the Egyptian medical corpus is indication-organised — it records what was done for a swelling or a congested chest, not what a gum-resin does to a person's *ka*, *ib* or *akh* — and no *heka*-bearing operative recitation is attested for galbanum in the retrieved sources. Cultivation status: **(c) absent** — no Egyptian vital-body framing is recorded, and the entry's own evidence base does not run through the Ebers material.
+
+**Assyrian (AT).** The *Ferula* gum-resins circulated across the ancient Near East, but this entry attests no specific cuneiform tablet for galbanum, and the standing blocking warning governs every Assyrian substance identification, deity/demon attribution and tablet reference. Illness in the *asû*/*āšipu* corpus is classified by causal agency — which divine hand, ghost or oath a remedy opposes — and none is sourced here for this resin. No cultivation status is claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *De Materia Medica* Book III gives galbanum a systematic therapeutic account as a warming, softening, resolving gum-resin — a discutient that ripens and disperses cold swellings, an expectorant, an emmenagogue and a plaster ingredient. Dioscorides carries no subtle-body system to assign it a cultivation status. What the tradition offers a cultivator instead is his discipline of attention: judging the raw tear by its green-balsamic and faintly fetid odour, holding the notorious identity-fluidity of the *Ferula* gum-resins (galbanum against asafoetida, ammoniacum, sagapenum, opopanax) under sensory scrutiny, and guarding against adulteration of one resin with another. That is a real practice of provenance and assay, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the Persian and Unani reckoning galbanum (*barzad*) is hot and dry in temperament, worked as *muhallil* (resolvent), *munzij*/*mukhrij* (ripener and expeller), antispasmodic and deobstruent for chest, "wind" and hard swellings. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture as a finite vital endowment — is a frame for the whole longevity regimen, not a status the tradition assigns to a warming, drying resolvent of this kind, and no *mufarrih* or cardiac-*ruh* role is claimed for it. **(b) framed:** attested therapeutically, with no cultivation status sourced.
+
+**Practitioner's note.** Galbanum is not a substance a cultivator takes to build vitality. Across every tradition here it is worked short-term and mostly externally — a warming plaster to ripen and disperse cold, hard swellings, an expectorant for a cold and phlegmy chest, an antispasmodic for wind and colic, and, in its most famous role, a bitter-green resin burned as one voice in a compound sacred incense. Use it for the defined resolvent or aromatic job, respect the pregnancy caution, and expect nothing from it as a daily tonic.
+
+---
+
 ### Contraindications
 
 - **Pregnancy — caution/avoid medicinal doses.** Emmenagogue reputation; medicinal internal use traditionally avoided in pregnancy. [USER: verify.]
