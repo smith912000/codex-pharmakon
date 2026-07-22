@@ -70,6 +70,24 @@ According to PubMed, the cough/soothing and wound doctrines have meaningful — 
 - **TCM:** *P. lanceolata* itself is **not** the classical Chinese drug — that is **Che Qian Zi / Che Qian Cao** from *Plantago asiatica* / *P. depressa* (sweet, cold; Bladder/Kidney/Liver/Lung; drains damp, clears heat, transforms phlegm, brightens eyes). *P. lanceolata* is a Western analogue and must **not** be conflated with Che Qian. (Distinction marked; congener attested.)
 - **Mesopotamian/Egyptian:** cooling astringent wound and inflammation herb. (Attested as regional tradition; ancient nomenclature [USER: verify].)
 
+---
+
+### Cultivation Register
+
+**Egyptian (EP).** In the Egyptian corpus a plantain-type astringent leaf belongs among the cooling wound-and-inflammation drugs, but the Ebers material is indication-organised: it records what was applied to a bleeding sore or an inflamed eye, not what the leaf does to a person's *ka*, *ba* or *ib*. No *heka* recitation is attested for it, and the species identification behind the Egyptian tag is itself unfixed — the profile marks the specific Ebers paragraph as unverified. Nothing here assigns the plant a cultivation status; the frame is complaint-and-remedy, not vital constitution. **(c) absent.**
+
+**Assyrian (AT).** *Plantago*-type astringents sit among the wound-and-flux drugs of the cuneiform materia medica, worked in poultices and washes for bleeding and inflamed tissue. Under the standing blocking warning for Assyrian substance identifications — the Akkadian designation for plantain is not securely established, and illness there is classified by causal agency (divine hand, ghost, oath) rather than by any vital-constitution status — no cultivation framing can be claimed. The attestation is therapeutic. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Arnoglosson* (plantain, "lamb's tongue") is given a systematic therapeutic account — the cooling, drying, astringent leaf for wounds, malignant ulcers, spitting of blood and bowel fluxes — and Dioscorides carries no subtle-body system to assign it a cultivation status. What the tradition offers a cultivator is his discipline of attention: distinguishing the greater from the lesser plantain, judging and gathering the fresh leaf, applying it well. That is a real practice of provenance and sensory assay, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** As *lisān al-ḥamal* (لسان الحمل) the leaf is a canonical *qābiḍ* (astringent) and *rādi'* (repellent), cold and dry, worked to stop haemorrhage and fluxes, consolidate ulcers, and quiet hot coughs. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture across the whole regimen — is not a status the tradition assigns to a cooling astringent of this kind, and no *mufarriḥ* or cardiac-*rūḥ* role is claimed for it. Attested in use, no cultivation status sourced. **(b) framed.**
+
+**Ayurveda (SS).** The *Plantago* group enters Āyurvedic practice as *kaṣāya* (astringent), *śīta*-vīrya, *pitta*-pacifying herbs for bleeding, wounds and inflamed mucosa — the demulcent seat being held by the seed of the relative *isabgol* (*P. ovata*), not the leaf. No *rasāyana* (rejuvenation) or *vājīkaraṇa* (generative) grade is recorded for *P. lanceolata*, and the species' own classical attestation is uncertain, so its standing is therapeutic and dietetic rather than a formal rejuvenative cultivation status. **(b) framed.**
+
+**Practitioner's note.** Ribwort plantain is a worked, short-course herb, not a substance a cultivator takes to build vitality. Across every tradition on its line the job is the same and local: crush the fresh leaf onto a cut, sting or thorn to staunch and calm it, or steep the leaf to coat and tone a raw, coughing throat. There is no longevity or rejuvenative status to draw on here in any of these traditions — the honest cultivation answer is to use the leaf for its defined wound-and-airway task and then stop.
+
+---
+
 ### Contraindications
 
 - **Aucubin / iridoid & rare allergy.** Contact dermatitis and rare hypersensitivity to *Plantago* leaf are reported; discontinue on rash. Plantain pollen is allergenic (hay-fever cross-reactivity).

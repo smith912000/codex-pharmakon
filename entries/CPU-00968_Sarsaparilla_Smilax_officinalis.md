@@ -71,6 +71,24 @@ According to PubMed, the modern evidence for *Smilax* is almost entirely **precl
 - **TCM (SBJ):** *tu fu ling* — sweet, bland, neutral; resolves toxicity, dispels dampness, unblocks joints (Stomach/Liver channels).
 - **Aztec / Badianus:** a skin-and-body remedy root; no formal humoral grade (non-humoral tradition).
 
+---
+
+### Cultivation Register
+
+**Greek — Dioscorides (DMM).** *De Materia Medica* describes the rough smilax (*Smilax aspera*, a Mediterranean congener, not the American vine) as a warming, protective root with a reputation as an antidote against poisons — the classical seed of the "protective/purifying root." Dioscorides carries no subtle-body system to assign it a cultivation status; what he offers a cultivator is his discipline of attention — the sensory assay of the root, its provenance, the guard against adulteration. The tagged American species is not his plant, and no vital-constitution doctrine attaches to either. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Adopted as *ushba*, sarsaparilla is a *muṣaffī-yi dam* (blood-purifier), hot and dry, diaphoretic and diuretic, worked for chronic skin eruptions, "corrupt humours," and joint and venereal complaints — the archetypal depurative slot (its adoption for the American species postdates Avicenna). The Unani tradition's strongest cultivation idea — conservation of innate heat and radical moisture across the whole regimen — is not a status it assigns to a hot, evacuant depurative of this kind, and no *mufarriḥ* or cardiac-*rūḥ* role is claimed. A cleansing, curative drug, not a conserving one. **(b) framed.**
+
+**Chinese (TCM).** The Chinese drug is *tu fu ling* (土茯苓, *Smilax glabra*), a congener — sweet, bland, neutral — that resolves toxicity, dispels dampness and unblocks the joints; it rose to prominence as a mainstay against *mei du* (梅毒, syphilis) largely through the late compilation of Li Shizhen's *Bencao Gangmu* (1596), not a classic. Its standing there is therapeutic and curative — a damp-heat and toxicity drug taken against a defined complaint — not a *yang sheng* 養生 nourishing-life status, and no *qing shen* 輕身 or long-term life-nourishing role is recorded. The tagged American *S. officinalis* is a New World analogue, not the Chinese drug itself. **(b) framed**, dated to the 1596 compilation.
+
+**Ayurveda (SS).** Indian medicine works the *Smilax*/*sarivā* material in the *raktaprasādana* / *raktaśodhana* (blood-clearing) alterative class — *kaṣāya* / *tikta* in *rasa*, *śīta* in *vīrya* — for *kuṣṭha* (skin disease), pruritus and "heated blood," the functional parallel being *sarivā* (*Hemidesmus indicus*), a distinct plant. No *rasāyana* (rejuvenation) or *vājīkaraṇa* (generative) grade is recorded for the American *Smilax*, whose classical identification is itself philologically loose. Its standing is therapeutic and dietetic, not a formal rejuvenative cultivation status. **(b) framed.**
+
+**Nahua — Badianus (BM).** The *Libellus de Medicinalibus Indorum Herbis* (the 1552 Badianus manuscript) records native Mesoamerican use of *zarzaparrilla* (*Smilax*) root among remedies for skin and bodily complaints. The manuscript is itself naturalistic and does not carry the *tonalli* / *teyolia* / *ihiyotl* model — that framework is reconstructed from later ethnohistory (López Austin), not read from Badianus — so no loss-of-*tonalli* or vital-soul cultivation status can be assigned to the root from this source. The testimony is a plain skin-and-body remedy. **(c) absent.**
+
+**Practitioner's note.** Sarsaparilla is a slow depurative, not a cultivation substance. What a cultivator actually does with it is narrow and defined: take the root as a weeks-long anti-inflammatory alterative for chronic inflamed skin and rheumatic "damp-heat" complaints, classically combined with the other depuratives of its tradition, then stop. Two famous uses must be refused outright — it does not cure syphilis (a bacterial infection needing antibiotics) and it is not a "natural anabolic steroid." No tradition on its line assigns it a longevity or vital-building status; the honest register is a bounded therapeutic course.
+
+---
+
 ### Contraindications
 
 - **Not a treatment for syphilis or any STI.** Presenting sarsaparilla as an anti-venereal cure is dangerous; bacterial STIs require antibiotic therapy. This is the single most important caution.

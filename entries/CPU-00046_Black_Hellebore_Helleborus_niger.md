@@ -66,6 +66,22 @@ The Codex policy here is explicit: **fewer real citations are preferred over inv
 - **Chinese Medicine mapping:** No orthodox CM equivalent; *H. niger* is not part of the classical Chinese materia medica. Within the Codex's cross-walk it is provisionally grouped with the **violently purgative / downward-draining (泻下)** category by analogy only, not by tradition.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — a gross, forceful mover of the body's evacuative function, acting on the physical–energetic substrate; with a secondary ☿ **Shen** ascription in the *Western* sense of "clearing the deranged mind," reflecting its Anticyra reputation rather than any subtle-body action.
 
+---
+
+### Cultivation Register
+
+**Egyptian (EP).** The entry records no Egyptian material for this plant, and there is no attested use of *Helleborus niger* in the Ebers corpus; the myth, the medicine and the harvesting lore of black hellebore are Greek. Nothing addresses the *ka*, the *ba*, or the *ib*, and no *heka*-bearing operation is recorded, because the Egyptian tradition supplies no text here to carry one. Cultivation status: **(c) absent** — and the EP tag itself has no attestation in this entry.
+
+**Assyrian (AT).** No Assyrian material is attested for black hellebore in this entry, and the standing blocking warning governs every Mesopotamian substance identification, deity or demon attribution and tablet reference regardless. Even where a purgative in the cuneiform corpus has been *proposed* as a hellebore, the identification is exactly the kind of reading the warning holds in suspension. No causal-agency framing — what divine hand, ghost or oath the drug opposes — is recorded for this plant. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** This is the tradition that owns the plant. Dioscorides treats black hellebore in *De Materia Medica* Book IV; the Hippocratic writers, Theophrastus and Galen reckon it a heroic drastic, hot and dry to the extreme (near-lethal) degree, draining "downward" as against white hellebore's "upward" emesis. But the classical stream carries no subtle-body doctrine into which a cultivation status could be set. What it offers a cultivator instead is a genuine discipline of attention: the careful separation of the two hellebores the ancients themselves kept confusing, the provenance-lore of Anticyra, the days of preparatory and recovery regimen around the purge, and the gathering rites Theophrastus records in the *Enquiry into Plants* (the circle drawn round the plant, the eastward face, the watch for an eagle) — precautions that encode a real and founded fear of a drug that killed. That is a practice of provenance, timing and restraint, not a vital-body cultivation. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Black hellebore is a genuine article of the Arabic-Unani materia medica as *kharbaq aswad* (خربق أسود), inherited through the humoral tradition as a drastic purge of black bile (*sawdā'*) — the melancholy-clearing indication passed east from the Greeks. The tradition's own cultivation idea, the conservation of innate heat and radical moisture over a lifetime, has nothing to do with a near-poisonous evacuant like this; if anything a violent drastic is the antithesis of a substance one takes to conserve the vital endowment, and no *mufarrih* or heart-strengthening *ruh* role is claimed for it. The entry supplies no Unani specifics of its own, so the frame is stated without invented *Canon* detail. **(b) framed:** claimed by the tradition as a purgative, no cultivation status assigned.
+
+**Practitioner's note.** A cultivator does nothing with black hellebore but study it and leave it alone. It is a cardiotoxic drastic — [SPECIALIST ONLY] in this Codex, never self-administered — and every tradition that used it hedged it with dread: the days of preparatory regimen, the eagle-watching harvest rites, the proverb *naviget Anticyram*. What survives for the cultivator is not a substance to take but a discipline of restraint around a real poison: know the plant, keep it distinct from its white counterpart, and do not ingest it. The only safe use is comparative pharmacology on the page.
+
+---
+
 ### Contraindications
 
 - **Cardiac disease — absolute.** As a cardiac glycoside source, contraindicated in any cardiac condition; can precipitate fatal arrhythmia and heart block.

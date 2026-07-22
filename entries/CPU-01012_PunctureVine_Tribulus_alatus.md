@@ -62,6 +62,24 @@ Filed under **Circulation / Waterworks**: a traditional urinary-tract flushing a
 
 *(Note the divergence: Chinese doctrine treats the caltrop primarily as a Liver-calming/eye-brightening herb, while Ayurvedic/Unani doctrine emphasises the urinary and aphrodisiac roles — the traditions do not agree on its core action.)*
 
+---
+
+### Cultivation Register
+
+**Egyptian (EP).** *Tribulus* species grow throughout Egypt and the caltrop sits within the Egyptian tradition of plant diuretics and urinary remedies, but the precise Ebers identification is debated and the entry marks it for verification; the Ebers corpus is indication-organised, recording what was done for a urinary complaint, not what a substance does to a person's *ka*, *ib* or vital constitution. No operative *heka* recitation and no deity attribution is sourced for the caltrop. Cultivation status: **(c) absent** — the attestation is genus-level and therapeutic, and species identity here is a modern hypothesis.
+
+**Assyrian (AT).** The spiny caltrop is native across Mesopotamia and plausibly sits in the Near-Eastern repertory for urinary complaint and "stone," but the specific cuneiform attribution is uncertain and the standing blocking warning for Assyrian substance identifications, deity attributions and tablet references is in force. Where illness is sorted by causal agency (divine hand, ghost, oath), no such role is sourced for this plant; the reading is therapeutic at most. No cultivation status is claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Tribolos* (τρίβολος), the land-caltrop, is given a therapeutic account — a cooling astringent decoction for the mouth, and taken internally against stone and urinary gravel — and Dioscorides carries no subtle-body system into which a cultivation status could be set. What the tradition offers a cultivator is his discipline of attention: recognising the caltrop by its spined fruit, preparing the decoction correctly, and judging the plant by provenance and season. That is a practice of assay, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The caltrop is carried as a warm, drying, dispersing diuretic (*mudirr al-bawl*) for gravel, dysuria and bladder complaint and — echoing the Ayurvedic reading — as a tonic to sexual function. The strongest cultivation idea in the Unani corpus, the conservation of innate heat and radical moisture (a finite endowment whose depletion is ageing, so longevity is conservation rather than acquisition), is a frame of the whole regimen and not a status the tradition assigns to this diuretic; the sexual-tonic strand is the over-sold one the entry deflates — a therapeutic tonic claim, not a sourced cultivation status — and no gladdening cardiac (*mufarrih*) role for the *ruh* is claimed. **(b) framed.**
+
+**Ayurveda (SS).** Ayurveda's *Gokshura* — classically *Tribulus terrestris*, not the winged *T. alatus* of this entry — is a principal *mutrala* (diuretic) and *ashmarihara* (stone-dissolving) dravya and carries a *vajikarana* (generative/aphrodisiac) and *rasayana* standing, a genuine formal cultivation status among the Sushrutan divisions. But that status is attested for *T. terrestris*; *T. alatus* enters only by botanical and chemical proximity, and no *rasayana* or *vajikarana* assignment is attested for the winged species itself in the sources retrieved. For this substance the standing is therefore therapeutic (urinary) by genus-proximity, with the rejuvenative status belonging to its relative. **(b) framed** for *T. alatus* — the *vajikarana/rasayana* grade attaches to *Gokshura* (*T. terrestris*), not to this species.
+
+**Practitioner's note.** A cultivator works the winged caltrop as a urinary-tract flushing and mild diuretic herb for gravel, dysuria and irritable bladder — the one strand that is plausibly grounded — and, cautiously and population-dependently, as a mild pro-libido tonic decoupled from any hormonal claim. It is explicitly not a testosterone builder: the marquee virilising claim fails in controlled men. The formal Ayurvedic rejuvenative (*vajikarana/rasayana*) status belongs to *Gokshura* (*T. terrestris*), not to *T. alatus*; a cultivator using the winged species should treat it as a urinary herb held by genus-proximity, not as a vitality tonic in its own right.
+
+---
+
 ### Contraindications
 
 - **The testosterone myth — flag explicitly.** Do not market or prescribe *Tribulus* as a testosterone booster or anabolic aid; controlled human evidence does not support raised testosterone in men. Athletes should note supplement products carry contamination/adulteration risk.

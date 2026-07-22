@@ -75,6 +75,24 @@ A note of scientific honesty on the joint result: all three pooled trials were *
 - **TCM:** *R. canina* itself not a classical Chinese drug — **not attested** (the Chinese materia medica uses *Rosa laevigata* hips, jin ying zi, a distinct species; do not conflate).
 - **Egyptian/Assyrian:** genus attested; exact *R. canina* identification tentative [USER: verify].
 
+---
+
+### Cultivation Register
+
+**Egyptian (EP).** Rose material is attested in the Egyptian materia medica, but the identification of wild *Rosa canina* hips to any exact Ebers entry is tentative — the entry flags it for verification — and the Ebers corpus is indication-organised: it records what was done for a complaint, not what a substance does to a person's *ka*, *ib* or vital constitution. No operative *heka* recitation and no deity attribution is sourced for the hip. Cultivation status: **(c) absent** — the genus-level attestation is therapeutic, and substance identity here is a modern hypothesis, not an Egyptian cultivation assignment.
+
+**Assyrian (AT).** Roses appear in the Mesopotamian materia medica, but under the standing blocking warning for Assyrian substance identifications — and with the species identification itself tentative in this entry — no cultivation status is claimed. Where illness is classified by causal agency (divine hand, ghost, oath), nothing in the retrieved sources assigns this fruit a role against such an agency; the attestation, at genus level, is therapeutic at most. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Kynosbatos*, the dog-rose, is given a therapeutic account — the hips astringent, worked against fluxes of the belly — and Dioscorides carries no subtle-body system into which a cultivation status could be set. What the tradition offers a cultivator is his discipline of attention: recognising the true dog-rose by its "dog-bramble" habit, judging the sour astringency of the ripe hip, and gathering it in its season. That is a real practice of provenance and sensory assay, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The hip is classed cold, dry and astringent (*qabid*), binding loose bowels, strengthening the stomach and stemming flux, with a gentle nutritive-tonic reputation. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture, ageing being their depletion, so longevity is conservation rather than acquisition — is a frame of the whole regimen, not a status the tradition assigns to this cooling astringent; no gladdening cardiac (*mufarrih*) role for the *ruh* is claimed. **(b) framed:** attested therapeutically, no cultivation status sourced.
+
+**Ayurveda (SS).** Rose enters the Indian corpus as *kashaya* (astringent) and cooling (*shita*), worked for bleeding disorders and digestive laxity, and the wild-*Rosa* hip is carried in by extension. Its "mild rejuvenative" reputation is loosely stated; no *rasayana* or *vajikarana* assignment is recorded for this species in the sources retrieved, so its standing is dietetic and therapeutic within *dravyaguna*, not a formal rejuvenative cultivation status — and any *sattva/rajas/tamas* reading would be a Samkhya overlay, not a *dravyaguna* attribute. **(b) framed.**
+
+**Practitioner's note.** The rose hip is worked as a restorative-astringent nutritive and, in standardised powder form, as a modest joint-pain adjunct — not as a longevity substance. Across all five traditions on this tag line it is taken for a defined job: to bind a loose bowel, to stem minor flux, to rebuild after depletion, to ease stiff joints. None assigns it a cultivation grade or vital-body status; the honest use is the practical one, prepared to fit the aim — sweetened syrup to soften its dryness for the debilitated, plain decoction to keep full binding power for acute flux — then stopped when the job is done.
+
+---
+
 ### Contraindications
 
 - **Seed-hair irritant:** the fine hairs surrounding the seeds are a mechanical irritant — the traditional "itching powder." Always strain syrups/infusions; avoid inhaling powdered raw hips.

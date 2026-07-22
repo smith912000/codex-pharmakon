@@ -54,6 +54,22 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 - **Folk-European mapping:** leaf the respiratory-astringent remedy; nut the binding nourishment; bark the tannin source.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — the leaf/bark on the astringent-consolidating axis, the nut on the nourishing-but-binding side; firmly in the "gather and hold / nourish" register.
 
+---
+
+### Cultivation Register
+
+**Assyrian (AT).** No Assyrian material is attested for the sweet chestnut in this entry, and none would be expected — *Castanea sativa* is a temperate European and Anatolian tree, not a plant of the Mesopotamian corpus. The standing blocking warning governs Assyrian substance identifications, and no illness-agency framing (what divine hand, ghost or oath a drug opposes) is recorded here. Cultivation status: **(c) absent** — the AT tag has no attestation in this entry.
+
+**Greek — Dioscorides (DMM).** This is the tradition that actually owns the plant. Dioscorides records the chestnut as the "Sardian acorn" (*Dios balanos*) in *De Materia Medica* Book I, observing the nut's nourishing but heavy, costive quality and the astringency of its parts. He carries no subtle-body system into which a cultivation status could be set. What the tradition offers a cultivator is his discipline of attention — the reading of the tree in two registers (the binding, nourishing nut against the drying, astringent leaf and bark), the judgement of quality and part, the honest note that the nut nourishes but constipates. That is a practice of discernment, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Chestnut is known to the Arabic–Persian materia medica as *shāh ballūt* (شاه بلوط, the "royal acorn"), a nourishing but binding, astringent nut carried within the humoral frame the tradition inherited from the Greeks. The tradition's own cultivation idea — the conservation of innate heat and radical moisture across a lifetime — is a frame of the whole regimen, not a status assigned to a food-nut and its astringent leaf, and no *mufarrih* or cardiac-*ruh* role is claimed for it. The entry itself supplies no Unani text, so the frame is given without invented *Canon* detail. **(b) framed:** claimed by the tradition, no cultivation status assigned.
+
+**Chinese — Shennong stratum (SBJ).** No SBJ attestation exists for *Castanea sativa*, and the tag appears to be a species conflation. The chestnut of the Chinese materia medica is the congener *Castanea mollissima* (栗, *lì zi*) — a distinct species whose Chinese dietary-medical standing cannot be read onto the European sweet chestnut of this entry. For *C. sativa* there is no *san pin* 三品 grade and no bencao entry in the retrieved sources; within *yang sheng* 養生 it carries no status at all here. **(c) absent** — and the SBJ tag is very likely inherited from the Chinese chestnut, not this species.
+
+**Practitioner's note.** Chestnut is food first and a gentle astringent second. A cultivator uses the flour-nut as hearty winter nourishment for the depleted — a staple, not a tonic in any subtle-body sense — and the leaf or bark decoction as a soothing astringent for a spasmodic cough, a flux, or a sore throat, then stops. No tradition on this entry's tag line assigns it a cultivation status, and the honest botanical caution is that the chestnut carrying a Chinese materia-medica reputation is a different species (*C. mollissima*, 栗) whose standing does not transfer here. Eat it, decoct the leaf for the defined complaint, and expect nourishment and astringency — not cultivation.
+
+---
+
 ### Contraindications
 
 - **Constipation / dryness.** The binding nut and astringent decoctions can aggravate constipation and dry conditions.

@@ -74,6 +74,24 @@ The *M. alba* / *M. nigra* distinction deserves a closing emphasis, because it i
 - **Dioscorides (Graeco-Roman):** morea/diamoron — boiled fruit juice for ulcerated mouth and throat.
 - **Assyrian:** genus plausibly attested; exact *M. nigra* binomial **not reliably attested** [USER: verify].
 
+---
+
+### Cultivation Register
+
+**Assyrian (AT).** Mulberry is plausibly present in the Mesopotamian record, but the exact *M. nigra* binomial is not reliably attested, and the standing blocking warning for Assyrian substance identifications, deity attributions and tablet references is in force. Where illness is sorted by causal agency, no such role is sourced for this fruit. No cultivation status is claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** The mulberry (*morea* / *sykaminos*) and the boiled-down fruit juice later Latinised as *diamoron* are given a therapeutic account — a gargle for ulcerated mouths, inflamed tonsils and aphthous sores — and Dioscorides carries no subtle-body system into which a cultivation status could be assigned. What the tradition offers a cultivator is his discipline of attention: distinguishing ripe from unripe fruit, reducing the juice correctly, and judging the preparation by taste and consistency. That is a practice of provenance and assay, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The fruit is read on a ripeness axis — ripe fruit cold and moist (a blood-cooler, soothing, gently laxative), unripe fruit cold and dry and sharply astringent (for lax, bleeding gums). The strongest cultivation idea in the Unani corpus, the conservation of innate heat and radical moisture — a finite vital endowment whose depletion is ageing, so that longevity practice is conservation rather than acquisition — is a frame of the whole regimen, not a status the tradition assigns to this cooling demulcent-astringent; no gladdening cardiac (*mufarrih*) role for the *ruh* is claimed for it here. **(b) framed:** attested therapeutically on the ripeness axis, no cultivation status sourced.
+
+**Chinese — Shennong / Bencao (SBJ).** The classical Chinese drug is *sang shen* 桑椹, the fruit-spike of *Morus alba* — not *Morus nigra*, which enters the Chinese frame only as a modern energetic analogue (the entry is explicit that the species attribution differs and the two must not be merged). Even the *sang shen* reading — sweet and cold, said to nourish yin and blood and moisten dryness — is largely a post-classical (TCM-stratum) systematisation rather than a Shennong-stratum grading, and no *san pin* 三品 grade is attested for the black mulberry itself in the sources retrieved. Its standing for this species is therefore not a graded cultivation status within *yang sheng* but, at most, an analogical therapeutic reading borrowed from a relative. **(c) absent** for *M. nigra* — the Chinese cultivation framing, such as it is, belongs to *sang shen* of *M. alba*, not to this fruit.
+
+**Ayurveda (SS).** Mulberry fruit (*Tuta*) enters the Indian tradition as sweet-sour (*madhura-amla*) and cooling (*shita*), a refrigerant and mild laxative for thirst, burning and throat soreness. No *rasayana* or *vajikarana* assignment is recorded for the fruit in the sources retrieved, so its standing is dietetic and therapeutic within *dravyaguna*, not a formal rejuvenative cultivation status; any *sattva/rajas/tamas* reading would be a Samkhya overlay rather than a *dravyaguna* attribute. **(b) framed.**
+
+**Practitioner's note.** A cultivator works the ripe-fruit syrup (*diamoron* / Shahtoot) as a topical throat-and-mouth gargle and a cooling, mildly laxative food, and reserves the unripe fruit as an astringent for lax, bleeding gums — a local and dietetic practice, sorted by ripeness. No tradition on this tag line assigns the black mulberry a cultivation grade or vital-body status, and the shared "nourishes the blood" language is signature-thinking on the fruit's blood-dark juice, not a warrant for taking it to build vitality. Use it locally and as food for the defined cooling job; nothing here supports it as a longevity substance.
+
+---
+
 ### Contraindications
 
 - **Do not overclaim antidiabetic action:** *M. nigra* fruit is not a substitute for the DNJ-bearing *M. alba* leaf; patients on hypoglycaemics should not treat black-mulberry fruit as blood-sugar therapy.

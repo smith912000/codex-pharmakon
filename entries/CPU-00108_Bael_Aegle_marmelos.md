@@ -53,6 +53,20 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Unani mapping:** astringent (unripe) / demulcent (ripe); anti-diarrhoeal and digestive.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the astringent, bowel-consolidating axis (unripe) with a cooling-demulcent nutritive aspect (ripe); a focused gut remedy.
 
+### Cultivation Register
+
+**Unani — Avicenna (CM).** In Unani the fruit follows the same ripeness-split the Indian sources record — the unripe fruit astringent and anti-diarrhoeal, the ripe fruit a cooling demulcent — a therapeutic profile of the bowel, not a longevity one. The tradition's strongest cultivation idea, the conservation of innate heat and radical moisture across a lifetime, is a frame of the whole regimen and is not assigned to this gut-astringent; no *mufarrih* cardiac-*ruh* role is claimed for it in the sources retrieved. **(b) framed:** attested therapeutically, no cultivation status sourced.
+
+**Chinese — Shennong stratum (SBJ).** Bael is a tree of the Indian subcontinent and Southeast Asia and is not a drug of the classical Chinese materia medica; it is absent from the Shennong stratum, and no *san pin* 三品 grade — upper, middle or lower — is recorded for it. The ◉ Qi tier and TCM channel language elsewhere in this entry are the Kenetica framework's own overlay, not an attested *bencao* classification, and *yang sheng* 養生 assigns this fruit nothing because the tradition does not carry it. **(c) absent.**
+
+**Ayurveda (SS).** Here the plant is genuinely at home: *Bilva*, one of the great drugs of the materia medica, the unripe fruit a premier *grahi* (bowel-binding, absorbent) remedy for *atisara* and *pravahika*, *kashaya-tikta* in *rasa* and *ushna* in *virya*. Its standing, however, is that of a therapeutic *grahi*/*deepana* drug; no *rasayana* (rejuvenation) or *vajikarana* (generative vitality) assignment is recorded for it in the sources retrieved. The bilva leaf's sanctity to Shiva is a religious offering, not a *dravyaguna* cultivation status, and must not be read as one. **(b) framed.**
+
+**Tibetan (FMT).** This entry records no Tibetan use, and no *bcud len* (essence-extraction) status is attested for the fruit in the sources retrieved. Even where an Indian-derived drug enters Sowa Rigpa, medicine there is the third of the four treatment branches — it supports practice, it does not reach the root, which lies in the three *nyes pa* (rlung, mkhris pa, bad kan) and the poisons beneath them; and the tradition carries no formal category of "substances for subtle-body practice" into which this fruit could be placed. **(c) absent.**
+
+**Practitioner's note.** A cultivator does one honest thing with bael: uses it as a gut remedy, ripeness-matched — the unripe fruit to bind a chronic loose or dysenteric bowel and restore it after infection, the ripe pulp as a cooling demulcent and mild laxative — and then stops. It is not a rejuvenative, not a longevity drug, and carries no cultivation grade in any tradition on its tag line; the deepest thing attached to it, the bilva leaf's place in Shiva worship, is devotional and belongs to the tree as sacred matter, not to the fruit as something taken to build the vital body. Grown, it is a spiny subtropical tree of the Indian plains, valued as much at the temple threshold as in the dispensary.
+
+---
+
 ### Contraindications
 
 - **Ripeness confusion.** Use the unripe fruit for diarrhoea and the ripe for constipation — the reverse aggravates.

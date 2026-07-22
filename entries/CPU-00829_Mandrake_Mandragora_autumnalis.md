@@ -74,6 +74,22 @@ Honest evidence-grade summary: the **anaesthetic/sedative/deliriant/lethal** axi
 - **TCM:** **not attested** — *Mandragora* is not a classical Chinese materia medica plant; no tag assigned.
 - **Assyro-Babylonian / Egyptian:** grouped with the strong soporific–narcotic drugs; specific humoral grading not preserved.
 
+### Cultivation Register
+
+**Egyptian (EP).** The Egyptian engagement with mandrake is iconographic and erotic: the golden "love-apple" fruit passed and smelled at New Kingdom banquets, an emblem of euphoria and desire in the love-poetry. That is a symbol worked in art, not a cultivation framing — the corpus is indication-organised, substance identity in it is a modern hypothesis, and no *heka* (operative recited power) or action on the person's *ka* and *ib* is attested for the fruit. The famous sword-and-circle harvesting ritual belongs to the Greek stream (Theophrastus), not to Egypt, and is not claimed here. **(c) absent.**
+
+**Assyrian (AT).** Mesopotamian medicine knew powerful Solanaceous narcotics, and mandrake sits with henbane in the sleep-bringing, pain-dulling and spirit-affecting class administered by the *asû* and *āšipu*. But the Akkadian binomial is philologically uncertain, and under the standing blocking warning no species-level identification or tablet reference is asserted; the corpus classes a drug by the agency it opposes and the effect it brings (soporific, analgesic), not by any cultivation status. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** This is mandrake's pharmacological peak, and it is entirely therapeutic-surgical: the root boiled in wine given to those "about to be cut or cauterised" so they do not feel the pain — a documented pre-modern anaesthetic, delivered with an explicit dose-warning. Dioscorides also *records* the Circe lore and the anthropomorphic root while keeping his distance; recording is not endorsing. He carries no subtle-body system into which a cultivation status could be placed, and what he offers a cultivator is a discipline of attention sharpened here to a matter of life and death — the discernment of a near-lethal narcotic's dose, season and part. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the Unani corpus mandrake (*yabruḥ*) is placed cold and dry in the third degree — a narcotic (*narkōtikon*) grouped with henbane, opium poppy and hemlock among the cold stupefacients. This is a therapeutic-toxic humoral placement of fearsome strength, not a cultivation status. The tradition's cultivation idea proper — conserving the innate heat and radical moisture that are a finite vital endowment — sits at the opposite pole from a near-lethal cold-dry narcotic, and no gladdening or vitality-strengthening role is claimed for it; it is worked, when at all, to stupefy and to still pain. **(b) framed:** used within the humoral frame, no cultivation status sourced.
+
+**Ayurveda (SS).** Where the Himalayan *Mandragora* is admitted to the Sanskrit stream it enters as a potent narcotic — *nidrājanana* (sleep-inducing) and *vedanāsthāpana* (analgesic) — sometimes grouped with the *lakṣmaṇā* / powerful-root complex, an identification that is contested and hedged in this entry. No *rasa/guṇa/vīrya/vipāka* grading is securely attested for the species and none is invented; above all, no *rasayana* (rejuvenation) or *vajikarana* (generative vitality) status is recorded — its role is a dangerous sedative-analgesic one, not a rejuvenative cultivation one. **(b) framed**, with the classical identification itself uncertain.
+
+**Practitioner's note.** A cultivator does nothing with mandrake but learn to recognise it and leave it alone. It is a Phase V lethal narcotic presented as a studied object, not a practice: across every tradition on this line it appears as a surgical stupefacient, a deliriant, a symbolic love-apple and a philological puzzle — never as a nourish-life or vitality substance, and no tradition here assigns it a cultivation status. The fertility and aphrodisiac reputation is doctrine-of-signatures and folklore, not pharmacology, and confers no cultivation standing. The only responsible engagement is intellectual and, at most, botanical — growing or identifying it in order to *avoid* poisoning. The honest answer is abstention.
+
+---
+
 ### Contraindications
 
 ☠️ **SEVERELY TOXIC — POTENTIALLY DEADLY. DO NOT INGEST.**

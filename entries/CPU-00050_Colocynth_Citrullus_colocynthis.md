@@ -58,6 +58,22 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 - **Unani/Arabic mapping:** *handhal* — hot-dry; a powerful mushil (purgative) for cold/phlegmatic and melancholic conditions; classically corrected (islah) with aromatics and gums to reduce griping.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — at the extreme of the downward-draining/eliminating axis (forcible evacuation), kin to the other cucurbitacin cathartics; a "force-out stagnation" agent of the harshest grade.
 
+---
+
+### Cultivation Register
+
+**Egyptian (EP).** The Egyptian tag is carried on this entry's tag line but is not developed in its record — the retained detailed sources name Greco-Roman, Hebrew/Biblical, Unani and Saharan-folk lines, not an Egyptian one. Even where the Egyptian corpus handles drastic evacuants, it is indication-organised: it records the purge sought for an obstructed bowel, not an action on the person's *ka* or *ib*, and no *heka* recitation or deity attribution is attested for this gourd in the retrieved sources. Cultivation status: **(c) absent**.
+
+**Assyrian (AT).** No Assyrian or Mesopotamian record is developed in the entry, and its retained tag line names none. Under the standing blocking warning for Assyrian substance identifications, no cultivation status is claimed here; illness in that tradition is classed by the bodily agency it is set against rather than by a vital-body grade, and this bitter desert gourd is not carried in the entry's sources under any such heading. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides places the wild bitter gourd among the violent cathartics of *De Materia Medica* (Book IV), and his tradition carries no subtle-body system into which a purgative could be given a cultivation status. What it offers a cultivator is instead a discipline of attention — recognising the true drug in the light, papery fruit and its intensely bitter pith, judging the ferocity of its action, and knowing it must be tempered in a compound rather than taken raw. That is a practice of provenance and sensory judgement, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the Unani corpus colocynth is *handhal*, a hot-and-dry *mushil* (purgative) corrected (*islah*) with aromatics and gums to restrain its griping. The tradition's strongest cultivation idea — the conservation of innate heat and radical moisture across a whole regimen — is a longevity frame of temperance and husbandry, and a drastic evacuant of this order sits outside that frame rather than serving it; no gladdening, heart-strengthening (*mufarrih*) role is claimed for so violent a drug. It is genuinely used, therefore, but carries a therapeutic standing only, not a cultivation status. **(b) framed.**
+
+**Practitioner's note.** A cultivator does nothing with colocynth. It builds nothing and conserves nothing; it is taken — if ever — only as a specialist's emergency evacuant, historically never given raw but compounded and tempered in the colocynth pill, for a defined obstruction and then stopped. Every tradition on this entry files it among the harshest drugs, and the Hebrew memory of "death in the pot" is the plainest warning the corpus gives. Its place is the specialist's shelf, not the cultivator's regimen.
+
+---
+
 ### Contraindications
 
 - **Pregnancy — absolute.** Drastic purgative and traditional abortifacient; serious harm; contraindicated.

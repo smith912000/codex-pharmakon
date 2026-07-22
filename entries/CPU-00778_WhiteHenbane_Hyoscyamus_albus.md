@@ -74,6 +74,22 @@ Honest evidence-grade summary: the **soporific, analgesic, antispasmodic and del
 - **TCM:** *Hyoscyamus* (*tian xian zi*, henbane seed) exists in the Chinese materia medica but is not part of the traditions attested for this *H. albus* entry (BM/SBJ/DMM/EP/SS); **not tagged CM here.**
 - **Assyro-Babylonian / Egyptian:** grouped with the strong soporific-analgesic drugs; specific humoral grading not securely preserved.
 
+### Cultivation Register
+
+**Egyptian (EP).** The Egyptian attestation for *Hyoscyamus albus* is itself uncertain — the entry flags the specific papyrus attribution as weaker than the Greek record — and even granting the Ebers-era class of strong Solanaceous sleep-and-pain drugs, that corpus is indication-organised: it records what was done for a sleepless night or a pain, not what the drug does to a person's *ka*, *ba*, *akh* or *ib* (the heart as seat of judgement). No operative *heka* recitation is attested for this plant in the retrieved sources, and without one no deity association can be assigned. Cultivation status: **(c) absent**.
+
+**Assyrian (AT).** In the Mesopotamian stream henbane-type Solanaceous narcotics belong to the *asû*/*āšipu* repertoire of strong soporifics, where illness is classified by causal agency — a divine hand, a ghost, an oath — and a drug is partly known by the agency it opposes. But the cuneiform identification is philologically uncertain (henbane is only one candidate for the "sleep" and "tooth-worm" plant entries), and under the standing blocking warning for Assyrian substance identifications and tablet references, no cultivation status is claimed. The role attested is analgesic-soporific, not vital. **(c) absent**.
+
+**Greek — Dioscorides (DMM).** Dioscorides gives the fullest classical account and, decisively, discriminates the three henbanes — preferring the white-seeded *leukos* (*H. albus*) as the least deadly for internal use and warning off the black. That discrimination *is* the discipline of attention this tradition offers a cultivator: correct identification of the species, and of the safe kind from the deadly, is here the whole of the practice, since the margin is a poisoning. Dioscorides carries no subtle-body system to assign a cultivation status; the *herba Apollinaris* and Pythia associations belong to later tradition and are recorded, not endorsed. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the Unani stream the drug is named *khurāsānī ajwāʾin*, graded cold and dry and classed *muḫaddir* (narcotic) and explicitly *sammī* (toxic). The tradition's strongest cultivation idea — the conservation of innate heat and radical moisture, that finite vital endowment whose depletion *is* ageing — assigns no standing to a cold-dry narcotic poison; if anything its logic runs the other way, such a drug damping the faculties rather than conserving them. No *mufarrih* (*ruh*-gladdening) role is claimed. The substance is used, but no cultivation status is recorded. **(b) framed**.
+
+**Ayurveda (SS).** The plant enters the later, Indo-Persian-influenced stream as *pārasīka yavānī* / *khurāsānī ajwāʾin* — the name ("Persian yavani") marking it as an import rather than a classical Sushrutan *dravya* — and is recorded *madakārī* (intoxicant), *nidrājanana* (sleep-inducing) and flagged *viṣa* (toxic). No *rasayana* or *vajikarana* assignment is recorded; a *viṣa*/*madakārī* drug is the opposite of a rejuvenative, and no *ojas*-building action is claimed for it. Used, with no cultivation status. **(b) framed**.
+
+**Practitioner's note.** A cultivator does nothing with white henbane but learn to recognise it. This is a Phase V deadly-threshold poison, studied and not taken, and across all five traditions the honest cultivation answer is the same nothing: no *rasayana*, no conservation of innate heat, no *heka*-bearing status. The single genuine cultivator's practice the material yields is Dioscorides' discrimination of the white henbane from the deadlier black — correct identification to avoid poisoning, not a protocol for building vitality. The traditions' own toxicity flags (*sammī*, *viṣa*) are the instruction.
+
+---
+
 ### Contraindications
 
 ☠️ **SEVERELY TOXIC — POTENTIALLY DEADLY. DO NOT INGEST.**

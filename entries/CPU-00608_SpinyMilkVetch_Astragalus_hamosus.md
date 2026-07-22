@@ -122,6 +122,22 @@ According to PubMed, the total *A. hamosus* literature is **16 papers**, of whic
 
 **Contrast — and hold this contrast firmly:** *A. membranaceus* (Huang Qi) is **sweet, slightly warm, tonifying, ascending, Qi-raising**. *A. hamosus* is **cool, moist, resolvent, relaxing**. On the energetics they are near-opposites. Substituting one for the other is not a species error only; it is a directional error, and it will make the wrong patient worse.
 
+### Cultivation Register
+
+**Egyptian (EP).** *Astragalus hamosus* is a Mediterranean and Irano-Turanian pasture legume, and no attestation for it has been retrieved in the Ebers material or any Egyptian medical corpus; this is simply not a plant the Egyptian pharmacopoeia records. There is accordingly no *heka* recitation to preserve, no placing of it against the person's *ka*, *ib* or *akh*, and no priestly handling to report. Cultivation status: **(c) absent** — the tradition does not attest this plant at all, let alone a cultivation framing for it.
+
+**Assyrian (AT).** No cuneiform tablet attestation for this species has been retrieved, and under the standing blocking warning that governs every Assyrian substance identification, deity attribution and tablet reference, none is asserted. The *asû*/*āšipu* corpus classes a drug partly by the causal agency it opposes — divine hand, ghost, oath — and this plant is nowhere placed within that scheme in the sources to hand. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides carries no subtle-body system into which a cultivation status could be assigned, so on the ladder this can only land low. The genus name *astragalos* is Greek, but the *astragalos* of *De Materia Medica* is an astringent-rooted plant of uncertain identity and is not securely *A. hamosus*; this species is not attested to Dioscorides in the sources retrieved. What the tradition offers a cultivator instead is his discipline of attention — verify the plant by its hooked, crown-like pod (the *hamosus* character), gather at pod maturity, and guard against the genus's toxic look-alikes. That is a real practice of provenance and sensory assay, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In Unani the plant is *Iklil al-malik*, the King's Crown, classed cold and moist in the first degree and worked as *mulayyin* (softening/emollient) and *muhallil-i-waram* (resolvent of swelling) — a therapeutic profile, applied to hot swellings and irritated membranes. The strongest cultivation idea in this corpus is the conservation of innate heat and radical moisture, ageing being their depletion; but that is a frame of the whole regimen, and no such conservational status, and no *mufarrih* cardiac-*ruh* role, is assigned to this cooling resolvent in the sources retrieved. The aphrodisiac note that clings to it is the standard tonic-legume accretion and carries no attestation. **(b) framed:** attested therapeutically, no cultivation status sourced.
+
+**Ayurveda (SS).** The plant enters Indian practice largely as a Unani import under the same name, worked as *shothahara* (anti-inflammatory) and *vedanasthapana* (analgesic); its classical Sanskrit *nighantu* attestation is itself doubtful and unverified. No *rasayana* (rejuvenation) or *vajikarana* (generative vitality) assignment is recorded, and no *shodhana* purification is called for, so its standing — where attested at all — is therapeutic, not a formal rejuvenative cultivation status. **(b) framed.**
+
+**Practitioner's note.** Nothing here is a substance a cultivator takes to build vitality. Across the traditions genuinely engaged — Unani above all — *Iklil al-malik* is a cooling resolvent for a defined job: a poultice on a hot swelling, a demulcent for irritated membranes, and, on the Iranian lead, a cooling agent for the inflamed aging mind. It is used for the complaint and then stopped. The longevity and Qi-tonic aura people try to attach to it belongs to a different plant entirely — *Astragalus membranaceus*, Huang Qi — and must not be imported here. As a plant to grow it is undemanding: an annual pasture legume that fixes its own nitrogen and germinates on the diurnal temperature swing of open ground, sown shallow and outdoors in spring.
+
+---
+
 ### Contraindications
 
 - **Do not substitute for or confuse with *Astragalus membranaceus* / Huang Qi.** Different chemistry, opposite energetics, non-transferable evidence. This is the primary contraindication of the entry.

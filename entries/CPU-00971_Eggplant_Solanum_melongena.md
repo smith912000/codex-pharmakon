@@ -71,6 +71,24 @@ On the **cholesterol** folk claim specifically: the mechanistic hint that surviv
 - **Galenic/Unani (Avicenna):** cold and dry (2nd degree); melancholic/black-bile-generating; windy; depurative when corrected with heating spices.
 - **Assyrian:** attested family-level; specific native binomial **not reliably attested** [USER: verify].
 
+---
+
+### Cultivation Register
+
+**Assyrian (AT).** The Solanaceae are attested at family level in the cuneiform materia medica of Nineveh, but the specific identification of *Solanum melongena* to an Akkadian plant-name is not reliably established, and illness in this tradition is classified by causal agency (divine hand, ghost, oath) rather than by any vital-constitution status. Under the standing blocking warning for Assyrian substance identifications and tablet references, no cultivation framing can be claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides carries no subtle-body system that could assign a cultivation status, and the eggplant reached the Mediterranean only after his time (an Arabic-mediated, medieval arrival), so *De Materia Medica* does not in fact treat *S. melongena* itself — it treats the *strychnos*-type nightshades the fruit resembles, with the standard caution the later folk-name *mala insana* ("mad apple") preserved. What survives for a cultivator is his discipline of attention toward the nightshade family — assay, provenance, suspicion of the bitter and the unripe — not a vital doctrine of the fruit. **(c) absent.**
+
+**Unani — Avicenna (CM).** As *bādinjān* the *Canon* tradition grades the fruit cold and dry, generative of *sauda* (black bile / melancholia) and of thick, windy vapours; in excess it was held to darken the complexion and disturb mood and sleep, and it was therefore never eaten plain but "corrected" with vinegar, salt and heating spices, whereupon it served as a depurative for the plethoric and sluggish. The tradition's strongest cultivation idea — conservation of innate heat and radical moisture — is a frame of the whole regimen, not a status assigned to this cold, melancholy-breeding food; if anything the doctrine casts eggplant as adverse to the *rūḥ*, and no *mufarriḥ* role is claimed. Used and graded, but with no cultivation status. **(b) framed.**
+
+**Chinese — Shennong (SBJ).** In Chinese dietetics *qie zi* (茄子) is cooling (*liang*), sweet, entering Spleen, Stomach and Large Intestine, worked to cool the blood, reduce swelling and ease intestinal-heat bleeding — but it is a food-therapy item that enters the materia medica in the later *bencao*, not one of the graded drugs of the Shennong classic, and no *san pin* 三品 grade is recorded for it. Its standing is dietetic and cooling — a food eaten against heat, not a *yang sheng* 養生 nourishing-life substance — and no *qing shen* 輕身 or long-term life-nourishing role attaches. **(b) framed.**
+
+**Ayurveda (SS).** The fruit's homeland corpus works *vartaka* (*vṛntaka*) in frankly ambivalent dietetic terms: *rasa* *katu*/*tikta* (pungent-bitter), *guṇa* *laghu*/*rūkṣa* (light, dry), *vīrya* *uṣṇa* (heating, in the classical reading), *vipāka* *katu* — kindling of *agni* in small quantity, but *vāta*-provoking and, in excess, a producer of unquiet sleep and a disturbed mind, with the small tender fruit and the cooked form preferred over the large seedy or raw. No *rasāyana* (rejuvenation) or *vājīkaraṇa* (generative) grade is recorded — the recorded caution runs the other way — so its standing is *pathya* (dietetic), not a rejuvenative cultivation status. **(b) framed.**
+
+**Practitioner's note.** Eggplant is a food-medicine, not a cultivation substance. What a cultivator actually does with it is eat it well: cooked rather than raw, peel retained for the dark nasunin pigment, corrected with oil, vinegar and warming spice in the old Unani manner, and never green, bitter or over-mature (that bitterness is the glycoalkaloid warning). It is a preventive dietary staple that "cools and clears," not a tonic — and, notably, more than one tradition on its line warns against excess rather than assigning any longevity or vital-building status. The honest register is a good vegetable, eaten with the traditions' own dose-limiting habits, and nothing more.
+
+---
+
 ### Contraindications
 
 - **Nightshade glycoalkaloids:** avoid green, unripe, over-mature seedy, or visibly sprouting/greened fruit — these carry the highest solasonine/solamargine load. Marked bitterness is a warning sign; discard.

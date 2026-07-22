@@ -55,6 +55,20 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 - **Unani mapping:** cold-moist; nutritive, mufattih (deobstruent/opening) of liver and spleen, mild aperient.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the cooling-moistening, opening/nutritive axis (nourish blood, open obstruction, support circulation), with the modern vascular (NO) action sitting naturally on this circulation-supporting register.
 
+### Cultivation Register
+
+**Egyptian (EP).** No Ebers or other Egyptian medical attestation for beet has been retrieved in this entry's sources; although sea beet grows on Mediterranean and North African coasts, the plant is not recorded in the Egyptian corpus here, and there is no *heka* recitation to preserve, no placing of it against the person's *ka*, *ib* or *akh*. Cultivation status: **(c) absent.**
+
+**Assyrian (AT).** No cuneiform tablet attestation is claimed, and under the standing blocking warning governing every Assyrian substance identification and tablet reference, none is asserted. The *asû*/*āšipu* corpus classes a drug partly by the causal agency it opposes; beet is nowhere placed within that scheme in the sources to hand. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides gives beet a real and specific account — in *De Materia Medica* Book II among the pot-herbs, distinguishing the white beet from the dark (red), the white reckoned the more cleansing and laxative — but he carries no subtle-body system into which a cultivation status could be assigned. What the tradition offers a cultivator is his discipline of attention: know which beet you hold (white or dark, leaf or root), judge it by kind and part, and use each for what it does. That is a practice of discrimination and provenance, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In Unani beet is cold and moist, nutritive, and *mufattih* — a deobstruent that "opens" the liver and spleen — with a mild aperient action; a therapeutic and dietetic profile. The corpus's central cultivation idea, the lifelong conservation of innate heat and radical moisture, is a frame of the whole regimen and is not a status assigned to this cooling pot-herb; no *mufarrih* cardiac-*ruh* role is claimed for it. **(b) framed:** attested therapeutically and as a food, no cultivation status sourced.
+
+**Practitioner's note.** Beet is food, and that is the honest whole of it: a cheap, sustaining, gently opening pot-herb — leaf and root — eaten to nourish and to loosen a sluggish gut, and, in the modern chapter, a nitrate-rich juice taken for circulation. No tradition on its tag line assigns it a cultivation grade; it builds no vital endowment and is taken for none. A cultivator grows it as one of the easiest biennial roots — sown direct in open ground, thinned, and lifted for the kitchen — and treats the crimson "blood" association as a signature and a food value, not a longevity claim.
+
+---
+
 ### Contraindications
 
 - **Oxalate / kidney stones.** Beet (especially leaves) is relatively high in oxalate; caution in calcium-oxalate stone formers.

@@ -176,6 +176,20 @@ The TCM listing of Hē Zǐ (*T. chebula*, not *T. bellirica*) acknowledges the T
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** Bibhitaki enters the Egyptian orbit only through the later myrobalan trade, and even that is inferential — the Ebers references "understood to include" *T. bellirica* are a modern reading, not a secure Egyptian naming of this fruit. The corpus in any case is indication-organised: it records what an astringent was done *for* — a wound dressing, a chest preparation — not what a substance does to the *ka*, the *ib* as seat of judgement, or the person's vital constitution. No *heka*-bearing operation, no recitation, and no deity attribution is recorded for this fruit in the retrieved sources. Cultivation status: **(c) absent** — and the underlying identification is itself provisional.
+
+**Unani — Avicenna (CM).** *Balīlaj* (بليلج), the belleric myrobalan, is a genuine article of the Unani materia medica, recorded as an astringent, lung-clearing and liver-protecting drug and expressly distinguished from *halīlaj*. The tradition's strongest cultivation idea — the conservation of innate heat and radical moisture across the whole regimen, ageing being their depletion, so that longevity is conservation rather than acquisition — is a frame of the person's lifelong economy, not a status the corpus pins to this purging astringent; and no cardiac-*ruh* (*mufarrih*) role is claimed for it. **(b) framed:** therapeutically attested, no cultivation status sourced.
+
+**Ayurveda (SS).** *Vibhītaka* is the astringent, Kapha-scraping second myrobalan — kaṣāya rasa, laghu and rūkṣa guṇa, uṣṇa vīrya, madhura vipāka — whose listed karma is clearing and reducing (Lekhanīya, Kaphahara, Kāsahara). It enters the rejuvenative literature only as one-third of *Triphala*, the three-myrobalan compound treated as a rasāyana in the classical rasāyana chapters (Charaka Saṃhitā, Cikitsāsthāna). The single fruit, however, is not given a solo rasāyana or vājīkaraṇa grade in the retrieved sources, and no ojas-building action is attested for the *dravya* on its own; its rejuvenative reputation is carried by the formula, not earned by the herb. Its standing alone is therapeutic and dietetic, not a formal cultivation grade. **(b) framed.**
+
+**Tibetan (FMT).** *Ba ru ra* (བ་རུ་ར) is the second of the three myrobalans of Sowa Rigpa, classed in the rGyud-bzhi as the *bad kan* (phlegm)-clearing member of the trio and prescribed for lung disorders and accumulation, most often as a formula component rather than a solo remedy. In this tradition medicine is the third of the four treatment branches — it supports practice rather than reaching the root, the three *nyes pa* deriving ultimately from the three poisons — and no *bcud len* (essence-extraction) role or subtle-body cultivation status is recorded for *ba ru ra*; the tradition carries no formal category of "substances for subtle-body practice" into which it could be placed. **(b) framed.**
+
+**Practitioner's note.** Bibhitaki is a clearing agent, not a tonic. A cultivator reaches for it to *scrape* — to move phlegm, lipid and the residue of a heavy cycle — and does so for a defined stretch (the entry's RESET / CYCLE-OFF window), then stops; its drying, astringent nature makes indefinite solo use a mistake in already-dry, Vata-excess constitutions. Whatever rejuvenative standing it carries is borrowed from *Triphala*, the three-myrobalan compound, not held by the single fruit. Taken alone, treat it as a job to finish, not a substance to live on.
+
+---
+
 ### Contraindications
 
 **Pregnancy:** The tannin-mediated uterotonic effect noted for harītakī applies to Bibhitaki at medicinal doses. Avoid medicinal preparations (>500mg) during pregnancy. Triphala at standard doses should be used with supervision during pregnancy.

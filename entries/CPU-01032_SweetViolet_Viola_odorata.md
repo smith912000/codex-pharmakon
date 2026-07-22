@@ -65,6 +65,22 @@ According to PubMed, the modern evidence is best for the **nervine/sleep** use o
 - **Āyurveda:** *Śīta* (cooling), *pittahara*; cough/fever/burning. Attested via later Unani–Ayurvedic *banafsha* usage; classical Sushruta identification uncertain — hedge.
 - **TCM:** *Viola odorata* is not the canonical Chinese *Viola* (that is *V. yedoensis*, 紫花地丁); do not transfer the Chinese indication to this species.
 
+### Cultivation Register
+
+**Egyptian (EP).** The Egyptian material is indication-organised — it records the cooling poultice laid on inflamed eyes or a hot head, not what a mucilaginous flower does to the *ka*, *ib* or vital constitution, and the *heka* (operative recited power) that would make a prescription whole is not attested here for the violet. In this entry the Egyptian claim is explicitly categorical: cooling, emollient flowers sit in the cooling-poultice class, but no secure Ebers identification of *Viola odorata* is established and no cultivation framing is recorded — substance identity in that corpus being a modern hypothesis. **(c) absent.**
+
+**Assyrian (AT).** Cooling flower-drugs for "heat of the head" and for the chest appear in the cuneiform *materia medica*, and a cooling floral demulcent fits that categorical placement. But under the standing blocking warning that governs every Assyrian binomial, tablet reference and identification, no species-level reading or cultivation status is claimed; the corpus classes illness by causal agency (divine hand, ghost, oath), and nothing there assigns the violet a cultivation role. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** The Greek *ion* is a cooling, moistening remedy: the flowers cool inflammatory heat, ease headache "from heat," soothe the throat and gently move the bowel — the demulcent-laxative doctrine in its purest classical form. Dioscorides carries no subtle-body system that could give the flower a cultivation status; what he offers a cultivator is instead a discipline of attention — recognising the true violet, its season of gathering and its cooling savour. That is a practice of provenance, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Here the violet reaches its fullest development as *Banafsha*, a cornerstone of the Unani respiratory and nervine repertoire: classed cold and moist, the syrup (*sharbat-e-banafsha*) is worked against hot, dry cough, sore throat, catarrh and fever, its coldness also enlisted for headache and sleep, its lubricating quality for a gentle laxative — a cold-moist drug correcting a hot-dry derangement of lung and head. But the tradition's cultivation idea proper — conserving the innate heat and radical moisture that form a finite vital endowment, so that longevity is conservation and not acquisition — is a frame of the whole regimen, not a status the corpus assigns to this demulcent, and no gladdening (cardiac, *ruh*-strengthening) role is claimed for it. **(b) framed:** richly used, no cultivation status sourced.
+
+**Ayurveda (SS).** The later Ayurvedic materia takes up *banafsha*-type violets — largely through the Unani–Ayurvedic exchange in the subcontinent — as a *śīta* (cooling), *pittahara* remedy for cough, fever and burning, congruent with the pan-classical cooling reading. No *rasayana* (rejuvenation) or *vajikarana* (generative vitality) assignment is recorded, so the violet carries no formal rejuvenative cultivation status here, only a cooling dietetic-therapeutic one; and the classical Sushrutan identification of this species is itself uncertain, the attestation belonging to the later stratum rather than to the *Suśruta-saṃhitā*. **(b) framed.**
+
+**Practitioner's note.** Nothing in the violet is a longevity substance. Across every tradition it is a low-force, high-safety cooling demulcent — a syrup or infusion for a hot dry cough and sore throat, an intranasal oil for headache and sleep, a mild bowel lubricant — taken up for the defined complaint and then set down. Its only "cultivation" discipline is the classical one of attention: gathering the true fragrant flower in season and using it gently. The cyclotides that make the plant biochemically remarkable are non-absorbed defence peptides at these doses — a research frontier, not something a cultivator works for vitality.
+
+---
+
 ### Contraindications
 
 - Generally very well tolerated at demulcent/culinary doses; classed as a gentle remedy.
