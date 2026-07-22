@@ -72,6 +72,24 @@ According to PubMed:
 - **Ayurveda (Sushruta lineage):** *rasa* (taste) — *madhura* (sweet), slightly *kashaya* (astringent); *guna* (quality) — *guru* (heavy), *snigdha* (unctuous/moist); *virya* (potency) — *sheeta* (cooling); *vipaka* (post-digestive) — *madhura* (sweet). Pacifies *pitta*, can aggravate *kapha* and burden weak *agni*.
 - **Galenic / Unani (Avicennan lineage):** Cold and Moist in the second-to-third degree; refrigerant, diuretic, demulcent; tempered in practice with warming correctives (e.g. cumin, mint) to offset its coldness on the stomach.
 
+---
+
+### Cultivation Register
+
+**Egyptian (EP).** Cucurbit gourds are referenced in the Egyptian agricultural and medical record among cultivated garden plants used as food and in cooling, moistening applications, but the corpus is indication-organised — it records what was done for a complaint or eaten as garden produce, not what the gourd does to a person's *ka*, *ib* or vital constitution — and the identification of a specific cucurbit species behind the Egyptian terms is itself a modern hypothesis. No *heka* recitation and no deity attribution is sourced for it. Cultivation status: **(c) absent**.
+
+**Assyrian (AT).** Cuneiform tablets place cucumber-type gourds (*qishshu*) among cultivated garden plants and cooling foods, grouped with the watery produce used to temper heat and fever. Under the standing blocking warning for Assyrian substance identifications and tablet references, and given that the Mesopotamian scheme classifies illness by causal agency rather than by a substance's action on a vital endowment, no cultivation status is claimed; the attestation is dietary-therapeutic at most. Cultivation status: **(c) absent**.
+
+**Greek — Dioscorides (DMM).** Dioscorides treats the cucumber (*sikuos*) in *De Materia Medica* as a cooling, diuretic food, noting the flesh's action on stomach and bladder and the seed as a gentle diuretic and demulcent for the urinary passages — a therapeutic account, and Dioscorides carries no subtle-body doctrine into which a cultivation status could be placed. What the tradition offers a cultivator is his discipline of attention: distinguishing the edible flesh from the "cold seed" fraction, judging the fruit, trimming the bitter stem-end. Cultivation status: **(c) absent**.
+
+**Unani — Avicenna (CM).** Cucumber (*khiyar*) is classed cold-and-moist and worked, with the other "cold seeds," as a refrigerant, demulcent and diuretic to cool a heated temperament and quench thirst — while the tradition explicitly cautions that its coldness burdens a weak or cold stomach. The Unani cultivation idea proper — conservation of the innate heat and radical moisture — is not assigned to it; if anything the corpus treats this refrigerant with caution rather than as a builder of vitality, and no *mufarrih* role is claimed. The standing is therapeutic-humoral, not a cultivation status. Cultivation status: **(b) framed** — used by the tradition, no cultivation status recorded.
+
+**Ayurveda (SS).** In the *dravyaguna* the cucumber (*trapusha* / *ervaru*) is a *sheeta*-*virya* (cooling), *madhura*-*vipaka* food that pacifies *pitta*, relieves thirst (*trishna*) and promotes urine (*mutrala*), while its heaviness (*guru*) and cold quality are flagged as burdening a weak *agni*. No *rasayana* (rejuvenation) or *vajikarana* (generative vitality) assignment is recorded for it, and nothing sourced supports an *ojas* claim; its standing is dietetic-therapeutic (*ahara*), not a rejuvenative cultivation status. Cultivation status: **(b) framed**.
+
+**Practitioner's note.** A cultivator uses cucumber as a subtractive, food-grade cooling corrective — eaten fresh or juiced, or laid on inflamed, sun-stressed skin — to draw an overheated, over-dry or over-driven system back toward its resting set-point and to rehydrate while clearing gently, "without depleting." That is the whole of it: none of the five tagged traditions assigns it a cultivation or longevity status. Its own composition and its classical reputation agree — this is water made edible, a leveller of excess, not a substance one takes to build a vital reserve. The honest cultivation answer here is that there is nothing to build; there is only heat to remove.
+
+---
+
 ### Contraindications
 
 - **Weak or cold digestion:** every tradition warns that cucumber's cold-moist nature can burden a weak digestive fire, causing bloating, indigestion, or chilling in susceptible individuals; pair with warming spices or reduce intake.

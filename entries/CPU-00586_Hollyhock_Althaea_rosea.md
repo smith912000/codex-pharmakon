@@ -63,6 +63,24 @@ Evidence grade: **preclinical.** The demulcent use is mechanistically shared wit
 - **Ayurveda (adopted framing):** Rasa *madhura-kashaya* (sweet-astringent), guna *snigdha-picchila* (unctuous, slimy), virya *shita* (cooling), vipaka *madhura*; pacifies *pitta* and *vata*, may increase *kapha*.
 - **Galenic/Unani:** Moist and cooling (first–second degree); emollient/demulcent (*mulaiyin*), soothing to chest and urinary passages.
 
+---
+
+### Cultivation Register
+
+**Assyrian (AT).** In the cuneiform medical tablets the mallow group is named among the soothing, poulticing plants, and hollyhock — a cultivated Malvaceae of the region — sits within that group-level attestation rather than as a securely identified single drug. Illness in this corpus is classified by causal agency (the hand of a god, a ghost, a broken oath), so a plant is known partly by what agency its application is set against; but the standing blocking warning on Assyrian substance identifications, deity attributions and tablet references means no such reading is asserted here. The attestation is therapeutic and at the group level only. Cultivation status: **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides treats the cultivated and wild mallows together as *malaktika*, softening emollient plants, and hollyhock belongs to that mallow family at the group level rather than as his own separately named drug. He carries no subtle-body system into which a cultivation status could be placed — the Galenic three spirits are later and post-Dioscoridean. What the tradition offers a cultivator is instead his discipline of attention: the distinction of cultivated from wild mallow, the season and the part gathered, the sensory assay of the mucilage. That is a real practice of provenance and judgement, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Hollyhock, a *khatmī* type, is used in Unani practice as a demulcent and emollient (*mulaiyin*) for cough, chest roughness and urinary irritation, classed cooling and moist. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture, ageing being the depletion of that finite endowment, so that longevity practice is conservation and not acquisition — is a frame of the whole regimen, not a status this cooling demulcent is individually assigned; no *mufarrih* or cardiac-*ruh* role is claimed for it, and no *Canon* chapter is cited. Attested therapeutically, with no cultivation status sourced: **(b) framed.**
+
+**Chinese — Shennong / Bencao (SBJ).** Hollyhock (*shǔ kuí* 蜀葵) is a recognised plant of the Chinese materia medica, its flowers, seeds and root worked to clear heat, promote urination and soothe the throat and intestines. No *san pin* 三品 grade is recorded for *shǔ kuí* in the sources retrieved, so within *yang sheng* 養生 — the conservational, not curative, project — it carries a therapeutic rather than a cultivation status; and a *qing shen* 輕身 or life-nourishing standing must not be silently borrowed from other, differently named mallow-family drugs of the Chinese corpus. **(b) framed.**
+
+**Ayurveda (SS).** Hollyhock enters Indian practice through the adopted, Unani-influenced *gul-khairū* demulcent category, given the *dravyaguna* reading *madhura-kashaya* rasa, *snigdha-picchila* guna and *shita* virya, pacifying *pitta*. No *rasayana* (rejuvenation) or *vajikarana* (generative vitality) assignment — the formal Sushrutan cultivation divisions — is recorded for it; its standing is therapeutic and dietetic, an adopted demulcent rather than a native rejuvenative *dravya*. **(b) framed.**
+
+**Practitioner's note.** Nothing here is a longevity substance. Across all five traditions hollyhock is worked as a gentle demulcent — a cooling flower infusion, a cold-macerated root or leaf gel, a soothing poultice — taken for a defined irritation of throat, gut or urinary passage and then set aside. Its one distinctive edge, the flower's documented effect on glucose handling, is a therapeutic and metabolic use, not a vital-constitution practice. A cultivator uses it to soothe and protect a surface, then stops; it builds nothing that must be conserved.
+
+---
+
 ### Contraindications
 
 - **Absorption interference:** as with all mucilaginous demulcents, hollyhock can slow or reduce absorption of oral drugs taken at the same time — separate by 1–2 hours.

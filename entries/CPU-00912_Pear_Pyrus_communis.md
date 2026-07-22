@@ -61,6 +61,24 @@ These confirm the pear's phenolic identity (chlorogenic acid, arbutin, quercetin
 - **TCM (Shennong lineage, as attested):** *lí* — sweet and slightly sour, **cool**; enters Lung and Stomach; moistens the Lung, transforms phlegm-heat, generates fluids, relieves thirst, clears heat. Classic for dry cough and dryness from heat.
 - **Ayurveda (analogical, not canonical):** would read as *madhura/kashaya* (sweet/astringent) *rasa*, cooling *shita virya*, moistening — but *P. communis* is not a classical Ayurvedic dravya, so this is a cross-mapping, marked as such.
 
+---
+
+### Cultivation Register
+
+**Egyptian (EP).** The Nile-valley dietary-medical tradition prized cooling, juicy fruits as foods that settle the heat of the belly and relieve thirst, and the pear belongs to that broad class of cooling, moistening food. But the Ebers corpus is indication-organised, and the pear enters it (if at all) by dietetic category rather than as a species-level entry: it records fruit-as-cooling-food for a hot, dry complaint, not what the pear does to a person's *ka*, *ib* or vital constitution, and no *heka* recitation is attested for it. Cultivation status: **(c) absent.**
+
+**Assyrian (AT).** Mesopotamian cuneiform sources list orchard fruits among nourishing, cooling foods, and the pear sits in the class of sweet, watery fruits given to relieve thirst, dryness and a hot stomach — attributed by dietetic category rather than a botanical species name. Under the standing blocking warning governing Assyrian substance identifications and their classification by causal agency, no vital or cultivation status is claimed here; the attestation is dietetic. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *De Materia Medica* discusses the pear (*apios*) as a food with a cooling and astringent, binding quality — the less-ripe fruit held to check the bowels and settle the stomach, the cooked fruit gentler and more nourishing. Dioscorides carries no subtle-body system that could assign it a cultivation status, and none is invented. What the tradition offers a cultivator is his discipline of attention — distinguishing ripe from unripe, raw from cooked, and judging the fruit by its own qualities and effect. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The pear is classed cool and moist with a binding (astringent) note — a moistening, thirst-quenching, stomach-settling fruit in the Unani dietetics. The tradition's strongest cultivation idea, the conservation of the innate heat and radical moisture that ageing spends down, is a frame of the whole regimen, not a status the corpus fixes on this cooling fruit; no gladdening (*mufarrih*) or *ruh*-strengthening role is claimed for it. Attested dietetically, with no cultivation status sourced. **(b) framed.**
+
+**Chinese — Bencao (SBJ).** The pear *lí* 梨 is entered as sweet and slightly sour, cool, coursing the Lung and Stomach, to moisten the Lung (*run fei* 潤肺), transform phlegm-heat, generate fluids (*sheng jin* 生津), relieve thirst and clear heat — a cooling dietary-therapeutic fruit worked against a dry, hot pattern rather than within the conservational *yang sheng* 養生 project, and no *san pin* 三品 grade is recorded for it in the sources retrieved. Its standing is dietary and therapeutic, not a cultivation grade. **(b) framed.**
+
+**Practitioner's note.** The pear is a food, not a cultivation substance, and what a cultivator does with it is simply eat it — fresh for the most cooling, laxative effect, or steamed for a gentler one — as daily nourishment for a hot, dry state: thirst, a dry unproductive cough, a parched throat, a sluggish dry bowel. Steamed pear with rock sugar for a dry cough is the one near-formal use, and it is a household dietary remedy, not a longevity or vital-building protocol. Across all five traditions the pear stays at the level of cooling-moistening food; the sorbitol/FODMAP caution is its only real limit.
+
+---
+
 ### Contraindications
 
 - ⚠️ **Sorbitol / FODMAP GI caution.** Pear is one of the highest-sorbitol common fruits. In sensitive individuals — especially those with irritable bowel syndrome (IBS), fructose malabsorption, or on a low-FODMAP protocol — pear (and particularly pear juice) can trigger bloating, cramping, flatulence, and osmotic diarrhoea. Introduce in small amounts and monitor; juice concentrates the effect.

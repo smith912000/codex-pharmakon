@@ -56,6 +56,24 @@ According to PubMed, the toxicology is well characterised. Jiao et al. review ho
 - **Galenic / Unani:** cold and dry; flatulent, hard to digest, "weakening to the nerves and legs" in the agronomic-medical tradition descending from Dioscorides.
 - **TCM:** not a classical Chinese materia medica item; no standing qi/flavour attribution.
 
+---
+
+### Cultivation Register
+
+**Egyptian (EP).** Grass pea is not identified in the Ebers Papyrus as a distinct substance; what the corpus carries is pulses of the broad *Lathyrus/Vicia* group entering the Egyptian dietary and pharmacopoeial material as heavy, cooling foods and poultice bases. That corpus is indication-organised — it records what was done for a complaint, not what a pulse does to the person's *ka*, *ib*, or vital constitution — and the species identity behind any given legume entry is a modern hypothesis, not a fixed reading. No *heka*-bearing operation and no assignment to the person's vitality is attested for this seed. Cultivation status: **(c) absent.**
+
+**Assyrian (AT).** A chickling-type pulse appears in cuneiform field records and later medical tablets among the legumes of the alluvial plains, but it sits in the survival economy — food first, medicine only by extension. Under the standing blocking warning governing every Assyrian substance identification and its causal-agency classification (illness read as the hand of a god, a ghost, or a broken oath), no cultivation status can be claimed, and the identification itself is provisional. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides places the cultivated vetch-peas of the *lathyros/aphake* cluster among nourishing but flatulent, hard-to-digest foods, to be cooked and softened before eating, and the agronomic tradition around him already suspected that heavy, prolonged reliance "weakened the legs." He carries no subtle-body doctrine that could give the seed a cultivation status; what the tradition offers a cultivator is his discipline of attention and preparation — recognising the pulse as heavy fare, softening it by cooking, and heeding the caution against monotonous reliance. That is a real practice of dietetic judgement, not a vital-body assignment. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the Galenic–Unani grading the seed is cold and dry in the second degree — flatulent, hard to digest, and reckoned weakening to the nerves and legs. The strongest cultivation idea in the Unani corpus is the conservation of innate heat and radical moisture across the whole regimen, a longevity frame; but a cold-dry, debilitating pulse is assigned no such conserving role, and no cardiac-*ruh* or gladdening standing belongs to it. It is claimed by the tradition as a humoral food, with no cultivation status attached. **(b) framed.**
+
+**Ayurveda (SS).** *Khesari* (triputa) is graded within *dravyaguna* as a heavy (*guru*), *vata*-aggravating pulse of astringent (*kashaya*) rasa and cooling *virya* — an inferior dhal, permitted as famine food but explicitly restricted, said to injure the channels and the lower limbs. This is a dietetic grading in the tradition's own terms, and its direction is the opposite of a *rasayana* or *vajikarana*: no rejuvenative or generative cultivation status is recorded for it, only a warning. The substance is claimed by the tradition; the cultivation status is absent by the tradition's own judgement. **(b) framed.**
+
+**Practitioner's note.** A cultivator does nothing constructive with grass pea. Across every tradition on this line it is heavy fare or famine ballast, never a substance taken to build vitality — and two of them actively grade it downward. The only disciplines that touch it are abstentive and preparative: soak-and-decant or choose a low-β-ODAP variety, keep it an occasional side dish inside a diverse, protein-adequate diet, and never let it become a staple. Here the honest cultivation answer is restraint, not use.
+
+---
+
 ### Contraindications
 
 ⚠️ **SEVERE, IRREVERSIBLE NEUROLOGICAL HAZARD — READ BEFORE ANY USE.**

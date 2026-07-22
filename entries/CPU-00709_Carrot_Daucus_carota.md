@@ -65,6 +65,24 @@ According to PubMed:
 - **Ayurveda (Sushruta lineage):** *rasa* — *madhura* (sweet), *tikta* (bitter), *kashaya* (astringent); *guna* — *laghu* (light), *ruksha* (dry, esp. seed); *virya* — *ushna* (heating); *vipaka* — *katu* (pungent). Root kindles *agni* and supports vision; seed is heating and *artava*-promoting (menstrual).
 - **Galenic / Unani (Avicennan lineage):** Warm and Dry (root first degree, seed second degree); the seed is diuretic, emmenagogue, deobstruent and stimulant.
 
+---
+
+### Cultivation Register
+
+**Assyrian (AT).** Cuneiform herbals record umbelliferous plants of the carrot/parsley kind among cultivated and gathered species, the aromatic "hot" seeds grouped with the warming, carminative and menstrual-regulating drugs. Under the standing blocking warning for Assyrian substance identifications and tablet references, and with Mesopotamian illness classified by causal agency rather than by a substance's action on a vital endowment, no cultivation status is claimed; the attestation is therapeutic. Cultivation status: **(c) absent**.
+
+**Greek — Dioscorides (DMM).** Dioscorides treats *daukos* — the wild carrot and its seed — in *De Materia Medica* as a warming, diuretic and emmenagogue drug, the seed taken to promote menstruation and urine and reputed to act on conception. He records that reproductive reputation without building any subtle-body doctrine around it; recording is not endorsing, and there is no vital-body system here into which a cultivation status could be set. What the tradition offers a cultivator is his discipline of attention: telling the hot, pungent wild seed from the milder cultivated root, and judging the drug by assay. Cultivation status: **(c) absent**.
+
+**Unani — Avicenna (CM).** Carrot (*jazar*) is classed warm, and the seed sits among the hot, diuretic, emmenagogue and stimulant drugs used to open obstructions and promote urine and menstruation — a deobstruent, mobilising therapeutic action, distinct from the milder root. The Unani cultivation idea proper — conservation of the innate heat and radical moisture — is not assigned to it, and no *mufarrih* role is claimed; a warming opener of this kind is worked for its therapeutic effect, not held as a status that conserves a vital endowment. Cultivation status: **(b) framed** — used by the tradition, no cultivation status recorded.
+
+**Chinese — Shennong stratum (SBJ).** Carrot is *hu luo bo* 胡蘿蔔 — the name ("foreign radish") marks it as a Silk-Road introduction, and it is not in the *Shennong Bencao Jing*: it enters Chinese materia medica only in the Yuan and Ming, discussed by Li Shizhen in the *Bencao Gangmu* (1596). No *san pin* 三品 grade — upper 上品, middle 中品 or lower 下品 — attaches to it in the classical Shennong stratum this tag names. Its recorded role is that of a warm, sweet spleen- and stomach-supporting food that brightens the eyes and moves stagnation — a dietetic-therapeutic standing within the later materia medica, not a *yang sheng* 養生 nourishing-life cultivation grade. Cultivation status: **(c) absent** in the Shennong stratum.
+
+**Ayurveda (SS).** In the *dravyaguna* carrot (*garjara*) is a warming (*ushna virya*), *deepana* (digestion-kindling) root that supports vision and is *madhura*–*tikta*–*kashaya* in *rasa*, with the pungent seed treated as heating and *artava*-promoting (menstrual). The "reproductive tonic" language sometimes attached to it is not a sourced *vajikarana* assignment, and no *rasayana* (rejuvenation) status is recorded for it; nothing sourced supports an *ojas* claim. Its standing is dietetic-therapeutic, not a formal rejuvenative cultivation status. Cultivation status: **(b) framed**.
+
+**Practitioner's note.** The carrot gives a cultivator two different things and no cultivation grade for either. The root is Foundation nourishment — eaten or juiced as a grounding, carotenoid- and fibre-rich food to build baseline resilience, vision and steady digestion; used at food level it is simply good nourishment, not a longevity tonic. The wild seed is a caution-gated drug — warming, drying, emmenagogue and reproductively active — to be handled only by non-pregnant practitioners who understand that action, never taken casually and never trusted as contraception (the anti-fertility reputation is traditional and unproven in humans). None of the five tagged traditions assigns carrot a formal cultivation status: the honest answer is eat the root as food and respect the seed as a drug.
+
+---
+
 ### Contraindications
 
 - **Pregnancy — wild-carrot seed is contraindicated.** Its traditional emmenagogue and anti-implantation reputation means the seed and its concentrated preparations must **not** be used in pregnancy or when pregnancy is possible/desired. This is the single most important caution in the entry.

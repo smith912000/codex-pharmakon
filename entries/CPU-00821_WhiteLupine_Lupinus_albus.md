@@ -61,6 +61,24 @@ According to PubMed, the toxic principle and its risk profile are well character
 - **Ayurveda (as a bitter pulse):** *Rasa* — bitter/astringent (*tikta-kashaya*); *Virya* — heating; *Vipaka* — pungent; anthelmintic (*krimighna*), skin-clearing (*kushtaghna*).
 - **Dioscoridean:** heating, cleansing, worm-expelling, wound- and skin-detergent.
 
+---
+
+### Cultivation Register
+
+**Egyptian (EP).** As *termis*, lupine is a well-attested Egyptian food-and-remedy — the debittered seed eaten, the bitter seed and its water applied to the skin and taken to expel intestinal worms. That corpus is indication-organised: it records what was done for a skin eruption or a worm, not what the seed does to the person's *ka*, *ba*, or *ib*, and no *heka* recitation is attested for it in the retrieved sources. The one real discipline here is the preparation itself — a bitter drug washed into food — but that is a food-safety craft, not a status assigned to the person's vitality. Cultivation status: **(c) absent.**
+
+**Assyrian (AT).** Lupin appears among the pulses and bitter drugs of the cuneiform Mesopotamian materia medica, used both as food and as a bitter drug. Under the standing blocking warning governing Assyrian substance identifications and their causal-agency classification, no cultivation status is claimed; the attestation is dietary and therapeutic. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides gives a secure, species-specific account of *thermos*: the bitter meal with honey or as a poultice expels worms, the decoction cleanses the skin and treats eruptions, ulcers, and scabby conditions, and the bitter seed reduces swellings. He carries no subtle-body doctrine that could give the seed a cultivation status; what the tradition offers a cultivator is his discipline of attention — the exact description of the bitter drug and, implicitly, the preparation that separates the incisive medicine from the food. That is a real practice of assay and provenance, not a vital-body assignment. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the Unani tradition *turmus* is classed hot and dry, a bitter deobstruent and detergent used to open obstructions of the liver and spleen, kill worms, and clear the skin. This is an incisive, cleansing drug, and the tradition's proper cultivation idea — conservation of innate heat and radical moisture across the whole regimen — is not assigned to it; nor is any cardiac or gladdening (*mufarrih*) role. It is claimed within the humoral scheme, with no cultivation status attached. **(b) framed.**
+
+**Ayurveda (SS).** The Indian tradition places lupine, with related bitter pulses, in the bitter–astringent (*tikta-kashaya*) cleansing category — heating (*virya*) in effect, worked as an anthelmintic (*krimighna*) and skin-clearer (*kushtaghna*). This is a *dravyaguna* placement by class rather than a species-specific classical *dravya* — *L. albus* is a Mediterranean legume — and its direction is cleansing and reducing, the opposite of a *rasayana* or *vajikarana*; no rejuvenative status and no action on *ojas*, *tejas*, or *prana* is recorded. Claimed by analogy within the substance-quality scheme, with no cultivation status: **(b) framed.**
+
+**Practitioner's note.** A cultivator's real work with lupine is the debittering, not any vital art: the multi-day soak with repeated water changes that turns a toxic, alkaloid-bitter seed into a dense protein food. In the food form it nourishes; in the bitter form every tradition on this line uses it to clear — worms, skin, obstructions — a short, incisive, sometimes toxic intervention, never a longevity substance. Bitterness is the safety index: if it still tastes bitter, it is not yet food. Wash it, eat it as a pulse, and treat the bitter drug with the caution the alkaloids demand.
+
+---
+
 ### Contraindications
 
 - **⚠️ HAZARD — quinolizidine alkaloids.** Bitter (undebittered) lupins contain **lupanine and sparteine**, which produce an **anticholinergic-type toxidrome**: dry mouth, dilated pupils, blurred vision, flushing, tachycardia, tremor, confusion, and — because sparteine affects cardiac conduction — potentially dangerous cardiac effects at higher exposures. Poisonings ("lupin bean poisoning") occur when the debittering step is skipped or incomplete. **The bitter taste is the warning sign: if the seed tastes bitter, it is not safely debittered — do not eat it.** Only fully debittered seed is food.

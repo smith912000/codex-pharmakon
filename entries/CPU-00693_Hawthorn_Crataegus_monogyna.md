@@ -65,6 +65,24 @@ According to PubMed, hawthorn leaf-and-flower extract has been evaluated for chr
 - **Ayurvedic (adopted, not classical):** Used in modern integrative practice as a *hridya* (cardiac tonic); tends to reduce Kapha stasis in the vessels; sour *rasa* mildly kindles *agni*.
 - **Galenic / Unani:** Cold and dry (1st degree), astringent; *muqawwi-i-qalb* (heart-strengthener) for palpitation of cold-damp origin.
 
+---
+
+### Cultivation Register
+
+**Unani — Avicenna (CM).** In the Greco-Arabic stream hawthorn is *Zu'rur*, worked as a heart-strengthener (*muqawwi-i-qalb*) and astringent for palpitation (*khafqan*) taken to be of a cold, damp humoral origin. The strongest cultivation idea the Unani corpus carries — the conservation of the innate heat and radical moisture, a finite vital endowment whose depletion *is* ageing, so that longevity practice is conservation rather than acquisition — is a frame of the whole regimen, not a status the tradition is sourced as assigning to this particular cooling astringent; no *mufarrih* or cardiac-*ruh* role is claimed here for it. The attestation is therapeutic: a drug for a heart weakened by cold humours, taken for the complaint. Cultivation status: **(b) framed** — used by the tradition, no cultivation status recorded in the sources retrieved.
+
+**Greek — Dioscorides (DMM).** Dioscorides describes a thorn he calls *oxyakantha* in *De Materia Medica*, astringent and binding, but the identification of that thorn with *Crataegus monogyna* is not secure — the name has also been read as a barberry — and in any case Dioscorides carries no subtle-body doctrine into which a cultivation status could be set. What the Greek tradition offers a cultivator is his discipline of attention: the part gathered, the season of gathering, the sensory assay of an astringent fruit, the guard against a substituted thorn — a real practice of provenance and judgement, not a vital-body teaching. Cultivation status: **(c) absent**.
+
+**Chinese — Shennong stratum (SBJ).** The Chinese hawthorn drug is *Shan Zha* 山楂, and two things must be said plainly. First, *Shan Zha* is not in the *Shennong Bencao Jing*: it enters the materia medica in the Tang and is elaborated only from the Yuan (Zhu Zhenheng) and Ming (Li Shizhen, *Bencao Gangmu*, 1596) onward, so no *san pin* 三品 grade — upper 上品, middle 中品 or lower 下品 — attaches to it in the classical Shennong stratum this tag names. Second, the Chinese drug is the fruit of *C. pinnatifida*, kin to but not the *C. monogyna* of this entry. Its recorded action is to disperse food stagnation (*xiao shi* 消食) and transform blood stasis (*hua yu* 化瘀) — a draining, dispersing function, the opposite pole from *yang sheng* 養生, the conservational nourishing of life. Cultivation status: **(c) absent** in the Shennong stratum.
+
+**Ayurveda (SS).** The entry's own Ayurvedic note is explicit that the *hridya* (cardiac-tonic) reading is *adopted, not classical* — *Crataegus* is a European hedgerow plant absent from the classical Sushrutan *dravya* list, and no *rasayana* (rejuvenation) or *vajikarana* (generative vitality) assignment is recorded for it in the classical corpus. Its standing here is a modern integrative overlay, not a Sushrutan cultivation status, and nothing sourced supports an *ojas* claim for it. Cultivation status: **(c) absent** (classically).
+
+**Tibetan (FMT).** The entry carries no *Sowa Rigpa* attestation for hawthorn — no *nyes pa* framing, no place in the treatment scheme, no *bcud len* (essence-extraction) role — and Tibetan medicine holds no formal "substances for subtle-body practice" category to invoke in any case. Cultivation status: **(c) absent**.
+
+**Practitioner's note.** A cultivator uses hawthorn as a slow, container-toning cardiac tonic — leaf-and-flower or haw taken over weeks to months as a consolidation-phase, elder-tonic remedy that restores tone to a frayed heart rather than driving it, with the *Shan Zha* face reserved for moving greasy food-stagnation after a heavy meal. But notice where that long-arc "tonic" reading actually lives: in European phytotherapy and the Eclectic trophorestorative tradition (Commission E's standardised leaf-and-flower extracts), which is not among this entry's five tagged traditions. None of the five — Unani, Greek, Shennong-Chinese, classical Ayurveda, Tibetan — assigns hawthorn a formal cultivation status. It is a therapeutic heart-and-digestion plant used for a defined job over a defined arc, and the honest cultivation answer across the tagged traditions is that there is none to claim.
+
+---
+
 ### Contraindications
 
 - Because it may potentiate cardiac glycosides and other cardioactive drugs, **use under supervision with digoxin, beta-blockers, nitrates, and antihypertensives** — additive effects on heart rate and blood pressure are plausible.

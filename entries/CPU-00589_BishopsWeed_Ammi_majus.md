@@ -60,6 +60,24 @@ According to PubMed: the folk-to-pharmacology lineage is directly documented —
 - **Galenic (DMM):** acrid, heating, provoking seed.
 - **TCM analogue:** no authentic classical Chinese entry; by attribute it maps to an acrid, warm, surface-dispersing dispersant — noted as analogue only, not as sourced Chinese materia medica.
 
+---
+
+### Cultivation Register
+
+**Egyptian (EP).** The best-anchored fact about *Ammi majus* is Egyptian: the crushed fruit paired with deliberate sun exposure to treat *baras*, the practice a Cairo pharmacology later refined into psoralen photochemotherapy (Bartnik et al., 2017, *Journal of Ethnopharmacology*). But this is a dermatological indication — what was done for depigmented skin — not a framing of the person as *ka*, *ba*, *akh* or *ib*, and no *heka* recitation is attested for the fruit in the retrieved sources; the Ebers-stratum corpus is indication-organised, recording the complaint answered rather than a status conferred on the vital constitution. The therapeutic lineage is among the clearest in the whole book; the cultivation status is a separate question, and it is not attested. **(c) absent** as to cultivation status.
+
+**Assyrian (AT).** No Assyrian or cuneiform attestation for this plant appears in the profile; the tag is not substantiated by the entry's own material. Under the standing blocking warning on Assyrian substance identifications and tablet references, nothing is claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides places *ammi* among the acrid, warming umbellifer seeds used to cleanse and to provoke, grouped with the carminative and emmenagogue seeds; he could observe the skin-darkening but not explain it, and he carries no subtle-body system into which a cultivation status could be set. What the tradition offers a cultivator is his discipline of attention — the identity of the seed, its provenance, and in particular the guard against its market confusion with *Ammi visnaga*. That is a real practice of assay, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** As *Aatrilal*, classed Hot and Dry in the third degree, the drug is a *muhallil* and pigment-restorative prescribed for *baras* and *bahaq*, understood empirically to require sunlight to "call back the colour" and warned against for the burning that followed overdose — a doctrinally coherent use of a photodynamic agent. The Unani cultivation idea, the conservation of innate heat and radical moisture, is not assigned to this strong third-degree provoking drug, which is worked for a defined dermatological task and then stopped; no *mufarrih* or cardiac-*ruh* role is claimed, and no *Canon* chapter is cited. Attested therapeutically, no cultivation status sourced: **(b) framed.**
+
+**Ayurveda (SS).** *Ammi majus* is not a classical Sushrutan *dravya*; it enters South Asian practice through Unani–Siddha transmission as *Aatrilal* for *safed daag*, retaining its sun-paired dermatological application, while the genuinely Ayurvedic psoralen leucoderma remedy is the separate plant *Psoralea corylifolia* (Bakuchi), cross-referenced below. No *rasayana* or *vajikarana* status — and indeed no native Sushrutan attestation — is recorded for this plant. **(c) absent** as to cultivation status. (The South Asian attestation the tag reaches for is Siddha via Unani transmission, not Sushrutan — see the attestation flag.)
+
+**Practitioner's note.** Bishop's Weed is not a cultivation substance in any tradition. It is a conditional dermatological agent — inert in darkness, violently active under ultraviolet — used for a single defined job, the summoning of pigment back to depigmented skin under graded sun, and then stopped. A cultivator does nothing constitutional with it; the honest lesson of this register is abstention, because the crude seed is a phototoxic, physician-territory agent with a narrow margin between sensitisation and injury, never a daily tonic. What every tradition that uses it shares is the same caution: the activation that restores can also burn.
+
+---
+
 ### Contraindications
 
 - **Phototoxic — flag.** Concurrent sun/UV exposure with the drug on board can cause severe phototoxic burns, blistering, and hyperpigmentation.

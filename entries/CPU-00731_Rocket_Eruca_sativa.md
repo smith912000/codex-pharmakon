@@ -67,6 +67,24 @@ According to PubMed:
 - **Ayurveda (Sushruta lineage):** *rasa* — *katu* (pungent), *tikta* (bitter); *guna* — *laghu* (light), *ruksha* (dry), *tikshna* (sharp/penetrating); *virya* — *ushna* (heating); *vipaka* — *katu* (pungent). *Deepana* (kindles digestion), *vrishya*-leaning (reproductive-tonic reputation), aggravates *pitta* in excess.
 - **Galenic / Unani (Avicennan lineage):** Hot and Dry, second-to-third degree; aphrodisiac, digestive stimulant, diuretic; tempered classically with cooling greens (e.g. lettuce, purslane) to blunt its heat and prevent headache.
 
+---
+
+### Cultivation Register
+
+**Egyptian (EP).** The Ebers material that touches rocket does so only at the level of the pungent garden greens — cress- and rocket-type crucifers grouped as warming, appetite-raising foods — and the corpus is indication-organised: it records what was done for a complaint, not what a plant does to the *ka*, *ba*, *ib* or *akh* of the person eating it. No *heka* recitation is attested for this green, and the species identity itself is a modern reading of a general category rather than a named Egyptian drug. There is accordingly no operative or vital framing to report. Cultivation status: **(c) absent.**
+
+**Assyrian (AT).** Cuneiform herbals list pungent cress/rocket-type garden greens among cultivated "hot" plants, but the specific compounding is not preserved, and under the standing blocking warning that governs every Assyrian substance identification, tablet reference and causal-agency attribution, no cultivation status is claimed. Illness in this tradition is classified partly by the agency it opposes; nothing in the retrieved material assigns rocket such a role. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Euzomon* is given a straightforwardly therapeutic account — a heating pot-herb that stirs sexual desire and acts as a mild diuretic and digestive, the seed used likewise — and Dioscorides carries no subtle-body doctrine into which such a plant could be graded. What the tradition offers a cultivator here is his discipline of attention: knowing the pungent green by its bite, gathering and using leaf and seed knowingly, distinguishing the true heating pot-herb from milder salad stuff. That is a real practice of provenance and sensory judgement, not a vital-body status. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** *Jirjir* is classed hot and dry and used as a warming aphrodisiac, digestive stimulant and diuretic, with the classical caution that excess heats the blood and brings on headache in hot temperaments. The tradition's own cultivation idea — the conservation of innate heat and radical moisture across a whole regimen — is a longevity frame of the constitution, not a status the tradition assigns to this heating, drying green; if anything a hot-dry drug taken to excess is read as spending heat rather than conserving it, and no *mufarrih* or cardiac role is claimed for it. **(b) framed:** attested and used therapeutically, with no cultivation status sourced.
+
+**Ayurveda (SS).** Rocket-type pungent crucifers are placed among *ushna* (heating) and *deepana* (digestive-kindling) foods, carrying a *vrishya*-leaning (aphrodisiac) reputation and a caution to aggravate *pitta* in excess. No formal *rasayana* (rejuvenation) or *vajikarana* (generative vitality) status is recorded for *Eruca sativa* in the sources retrieved — the *vrishya* note is a dietary-property reputation, not a sourced placement in the Sushrutan generative division — and no *ojas* claim is made here. Its standing is therefore dietetic and therapeutic, not a formal cultivation status. **(b) framed.**
+
+**Practitioner's note.** What a cultivator does with rocket is eat it — a peppery, glucosinolate-rich salad green taken at food levels to raise digestive fire, stimulate appetite and circulation, and, by an unusually stable cross-tradition reputation, to warm and stir libido. Nothing across these five traditions makes it a substance taken long-term to build the person's vitality: there is no grade, no rejuvenative status, no conservation role. It is a warming food used for its heat, and the one thing that gates it upward is thyroid load, not any cultivation doctrine. Use it as a kindling green, not as a tonic.
+
+---
+
 ### Contraindications
 
 - **Goitrogenic / thyroid caution:** as a glucosinolate-rich crucifer, high or sustained intake can interfere with iodine uptake and thyroid hormone synthesis, especially in iodine deficiency or existing hypothyroidism. Those with thyroid disease should keep intake moderate and ensure adequate iodine; this is the entry's key caution.

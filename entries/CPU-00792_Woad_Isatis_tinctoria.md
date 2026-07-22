@@ -55,6 +55,24 @@ According to PubMed, woad has a substantial modern evidence base. Speranza et al
 - **Ayurvedic:** Not a classical Ayurvedic dravya; no authentic *rasa/guna/virya/vipaka* assignment exists and none is asserted.
 - **Galenic / Unani:** Cold and dry; astringent and desiccant to hot swellings and ulcers.
 
+---
+
+### Cultivation Register
+
+**Assyrian (AT).** Blue-dyeing plants of the woad type belong to the ancient Near Eastern dye-and-remedy materials, where the indigo-bearing herb was valued for colouring cloth and for topical, cooling application to inflamed skin. This is a dye-and-therapeutic association recorded at the level of the plant-group, and under the standing blocking warning that governs every Assyrian substance identification, tablet reference and causal-agency attribution, no cultivation status is claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Isatis* is described in *De Materia Medica*, where Dioscorides expressly distinguishes the cultivated dyer's woad from a wild form and directs the leaves, externally, onto wounds, spreading sores and hot inflammations. He carries no subtle-body doctrine into which such a plant could be graded; what the tradition offers a cultivator is precisely that act of discrimination — cultivated from wild, sound leaf from spoiled — a discipline of provenance and sensory assay rather than a vital-body status. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Woad is treated as cold and dry, an astringent and desiccant laid on hot swellings, ulcers and haemorrhage, consistent with the Galenic reading carried through Arabic pharmacy. The tradition's central cultivation idea — the husbanding of innate heat and radical moisture, whose depletion is ageing itself — is a frame of the whole regimen and is not a status assigned to this cooling, drying simple; no *mufarrih* or cardiac-strengthening role is claimed for it. **(b) framed:** attested and used therapeutically, with no cultivation status sourced.
+
+**Chinese — Shennong / Bencao (SBJ).** The woad drugs — *Da Qing Ye* 大青葉 (leaf), *Ban Lan Gen* 板藍根 (root) and the processed pigment *Qing Dai* 青黛 — are classic *qing re jie du* 清熱解毒 ("clear heat and resolve toxicity") remedies, worked against febrile epidemic disease, sore throat and eruptive fever. That is a curative, disease-attacking function, the opposite pole from *yang sheng* 養生, the conservational nourishing of life. The medicinal 藍 (the indigo/blue-dye group) does first appear in the Shennong Bencao Jing, but that classical 藍 is polytypic — it covers both 蓼藍 (*Polygonum tinctorium*) and 菘藍 (*Isatis*) — so no *san pin* 三品 grade can be securely attached to woad in particular, and none is asserted here. Its Chinese standing is therapeutic. **(b) framed.**
+
+**Tibetan (FMT).** No Tibetan / Sowa Rigpa framing for woad is present in this entry or the retrieved sources: the substance is not placed against the three *nyes pa* (rlung / mkhris pa / bad kan), given no *bcud len* (essence-extraction) role, and — consistent with the tradition carrying no formal "substances for subtle-body practice" category to begin with — holds no cultivation status here. **(c) absent.**
+
+**Practitioner's note.** Woad is a cooling, heat-clearing simple, not a substance a cultivator takes to build the person. What one actually does with it is short and defined: decoct the root or leaf against an acute febrile, sore-throat or eruptive illness, or lay a leaf preparation on hot, irritated skin — then stop when the heat is resolved. Across every tradition here its character is curative and cooling; there is no grade, no rejuvenative division, no conservation role to invoke. Use it to quench a defined heat, not as a tonic to be taken long.
+
+---
+
 ### Contraindications
 
 - **Spleen/Stomach cold-deficiency (TCM):** As a strongly bitter-cold drug, Ban Lan Gen/Da Qing Ye can injure a cold, weak digestion — avoid or use cautiously with abdominal cold, loose stools, and no genuine heat signs.

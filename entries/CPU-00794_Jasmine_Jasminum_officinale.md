@@ -57,6 +57,24 @@ According to PubMed, controlled human data support jasmine oil as an **activatin
 - **Ayurvedic (Sushruta):** Jati/Chameli — **rasa** tikta-kashaya (bitter-astringent) with madhura notes; **guna** light; **virya** generally cooling in the classical reading (though the aromatic warms the mind); **vipaka** pungent; used for mouth ulcers, skin, eyes, and as a calming aromatic. [USER: verify exact classical assignment]
 - **Galenic / Unani:** Warm and dry; a nervine exhilarant and warming aromatic tonic.
 
+---
+
+### Cultivation Register
+
+**Assyrian (AT).** Jasmine belongs to the Persian–Mesopotamian world of aromatic flowers and perfumed oils, where fragrant flower-oils of this type were used for anointing, for perfuming and for their soothing, mood-lifting effect. That is an attestation of the plant-group as scented material, recorded here at the level of the aromatic category; under the standing blocking warning that governs every Assyrian substance identification, tablet reference and causal-agency attribution, no cultivation status is claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides knows jasmine only as a Persian scented oil — the "white oil" the Persians used at banquets — and he records it while distancing himself, warning that so warming and heady a perfume does not suit everyone. He carries no subtle-body doctrine into which the flower could be graded, and recording a foreign luxury is not endorsing it as a vital substance. What the tradition offers a cultivator is the character-assay itself: recognising the oil, judging its warming, over-stimulating tendency, and knowing for whom it is unfit. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** *Yāsamīn* is a defined simple classed warm and dry, its oil (*roghan-e-yāsamīn*) used as a warming nervine and exhilarant that lifts the spirits and is massaged for cold nervous conditions. The exhilarant, spirit-gladdening reading touches the tradition's cardiac-drug frame — the gladdening drugs that strengthen the *ruh*, which belong to the *Kitāb al-Adwiya al-Qalbiyya* rather than the *Canon* — but no formal classification or constituent list is asserted here, and the tradition's own cultivation idea, the conservation of innate heat and radical moisture, is a frame of the whole regimen, not a status assigned to this aromatic. **(b) framed:** used therapeutically, with no cultivation status sourced.
+
+**Chinese — Su Xin Hua (SBJ).** Jasmine enters Chinese materia medica as *Su Xin Hua* 素馨花, a warm, aromatic, acrid-sweet flower that moves stagnant Liver *qi* 氣, harmonises the Stomach and relieves constrained emotions and pain — a gentle *li qi* (qi-coursing) simple. This is a later, southern addition rather than a Shennong drug, and no *san pin* 三品 grade is recorded for it; its function is to course and unbind stagnation, a corrective act rather than the conservational nourishing of life named *yang sheng* 養生. Its Chinese standing is therapeutic. **(b) framed**, and dated to the post-classical stratum rather than the *Shennong Bencao Jing*.
+
+**Ayurveda (SS).** As *Jati* / *Chameli*, jasmine is worked chiefly for mouth ulcers and sore mouth, for skin and eye conditions, and as a fragrant, calming-yet-uplifting aromatic and devotional flower. Its recorded placement is therapeutic and aromatic; no formal *rasayana* (rejuvenation) or *vajikarana* (generative vitality) status is attested for it in the sources retrieved, and no *ojas* claim is made here. **(b) framed.**
+
+**Practitioner's note.** Jasmine is a substance that works through scent before it is ever swallowed — and, being an essential-oil aromatic, it generally is not swallowed at all. What a cultivator actually does is inhale the absolute or use it as a dilute massage oil to lift flat mood and unbind emotional constraint (the *Su Xin Hua* indication), reading it honestly as activating rather than sedative. Nothing across these traditions makes it a tonic taken long-term to build the person: there is no grade, no rejuvenative division, no innate-heat conservation role. Use it as an aromatic nervine for mood and constraint, applied or inhaled — not ingested, and with the pregnancy caution kept in view.
+
+---
+
 ### Contraindications
 
 - **Pregnancy:** Jasmine (flower and oil) is traditionally regarded as an emmenagogue/uterine aromatic and is used in some cultures around labour; **avoid therapeutic/high-dose use in pregnancy** unless supervised [USER: verify].

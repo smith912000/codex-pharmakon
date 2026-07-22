@@ -63,6 +63,24 @@ According to PubMed, alfalfa has a genuine — if double-edged — evidence base
 - **Ayurvedic (Sushruta lineage):** *Madhura* (sweet) rasa, cooling *virya*, *balya* (strengthening) and mildly *mutrala* (diuretic); kapha-neutral, pitta-pacifying green. (Attested at the food-tonic level.)
 - **Galenic / Unani:** Cool and moist; a nutritive, cooling legume-green. (Attested.)
 
+---
+
+### Cultivation Register
+
+**Assyrian (AT).** Alfalfa/lucerne was a staple fodder legume of Mesopotamian agriculture, and the Near-Eastern record treats it as a strengthening feed that fattened and sustained livestock. That attestation is agronomic and dietary, not a medical-cultivation status: under the standing blocking warning governing Assyrian substance identifications and their classification by causal agency — which divine hand, ghost or broken oath a drug is set against — no vital or cultivation status is claimed for it here. The engagement is real but belongs to the field, not to a doctrine of the person's vitality. Cultivation status: **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides describes *mēdikē*, the "Median herb" brought to Greece from Media, in *De Materia Medica* as a fodder legume and green forage. He carries no subtle-body system that could assign it a cultivation status, and none is manufactured here. What the tradition offers a cultivator instead is his discipline of attention — knowing the plant by its origin and season of cutting, and judging the green by its own sensible qualities rather than by a doctrine of vital effect. That is a genuine practice of provenance and assay, not a longevity frame. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the Greco-Arabic materia medica *al-faṣfaṣa* (lucerne) is placed among the cooling, moistening, nutritive legumes — a nourishing green rather than a potent drug. The tradition's strongest cultivation idea, the conservation of the innate heat and radical moisture that ageing slowly spends down, is a frame of the whole regimen and diet, not a status the corpus fixes on this particular cooling legume; no gladdening (*mufarrih*) or *ruh*-strengthening role is claimed for it. Attested as nutritive, with no cultivation status sourced. **(b) framed.**
+
+**Chinese — Bencao (SBJ).** Mùxu 苜蓿 entered the Chinese materia medica as a sweet, bland, cooling vegetable and mild diuretic used to clear damp-heat and benefit the bladder — a food-grade green introduced from the West rather than one of the original Shennong drugs, and no *san pin* 三品 grade is recorded for it in the sources retrieved. Within *yang sheng* 養生, which is conservational rather than curative, it therefore holds a dietary-therapeutic standing, not a cultivation grade. **(b) framed.**
+
+**Ayurveda (SS).** Lucerne is used as a cooling, *madhura* (sweet) green, described in dietetic terms as strengthening fodder-food and mildly *mutrala* (diuretic). No formal *rasayana* (rejuvenation) or *vajikarana* (generative-vitality) division records it, so its standing is dietetic and therapeutic rather than a formal rejuvenative status; no *ojas*-building claim is attested for it. **(b) framed.**
+
+**Practitioner's note.** In no tradition is alfalfa a longevity or rejuvenative substance carrying a formal cultivation grade — it is everywhere a nutritive green and fodder-food. What a cultivator actually does with it is narrow and hazard-bounded: take modest culinary amounts of the mineral- and vitamin-dense leaf as a restorative in depletion and convalescence, cook it rather than eat it raw, and hold to the governing flag — the canavanine/autoimmune hazard rules out anyone with lupus or autoimmune disease entirely. The value here is convalescent food, not vital cultivation.
+
+---
+
 ### Contraindications
 
 - **⚠️ SYSTEMIC LUPUS ERYTHEMATOSUS / AUTOIMMUNE DISEASE — DO NOT USE.** The non-protein amino acid **L-canavanine** (concentrated in seeds and sprouts) can **trigger a lupus-like (SLE) syndrome and reactivate existing lupus**. This is demonstrated in primates (Malinow 1982) and reviewed with human case reports (Akaogi 2006). Alfalfa seed, sprout and high-dose leaf products are contraindicated in anyone with SLE, a history of lupus, or other autoimmune disease. This is the governing hazard of the entry.

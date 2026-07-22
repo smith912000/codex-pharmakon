@@ -56,6 +56,24 @@ According to PubMed, Kim et al. showed that an aqueous extract of *Phragmitis rh
 - **Unani (Avicenna):** Cold and moist; diuretic, cooling, thirst-relieving; used against heat of stomach and bladder.
 - **Galenic (Dioscorides):** Reed root — emollient, drawing, soothing in poultice; cooling internally.
 
+---
+
+### Cultivation Register
+
+**Egyptian (EP).** Reed grew everywhere along the Nile and marsh plants appear among the Egyptian cooling, soothing and vehicle preparations, but the Ebers corpus is indication-organised: it records what was done for a fever or inflamed tissue, not what a reed does to a person's *ka*, *ib* or vital constitution. The botanical identity behind the marsh-plant entries is itself a modern hypothesis rather than a fixed *Phragmites* attestation, and no *heka* recitation is attested for it in the retrieved sources — dropping the spell would in any case lose half of any Egyptian intervention. Cultivation status: **(c) absent.**
+
+**Assyrian (AT).** The reed (Sumerian *gi*, Akkadian *qanû*) was so central to Mesopotamian life that it named the writing stylus, and the medical tablets list reed and reed-root among cooling, soothing agents for fevers and inflamed conditions. Under the standing blocking warning governing Assyrian substance identifications and their classification by causal agency — the hand, ghost or oath a drug is set against — no vital or cultivation status is claimed here; the attestation is therapeutic. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides describes *kalamos* (reed) in his first book, distinguishing its several practical kinds and noting the root's drawing and soothing poultice applications. He carries no subtle-body system that could assign it a cultivation status, and none is invented. What the tradition offers a cultivator is his discipline of attention — telling the grades of reed apart, knowing the root by its origin and working properties, and judging the material by assay rather than by a doctrine of vital effect. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The reed (*qasab*) is classed cold and moist and used as a cooling, diuretic drink to quench pathological thirst and relieve heat of the stomach and bladder. The tradition's strongest cultivation idea — conservation of the innate heat and radical moisture that ageing spends down — is a frame of the whole regimen, not a status the corpus fixes on this cooling, fluid-draining plant; no gladdening (*mufarrih*) or *ruh*-strengthening role is claimed for it. Attested therapeutically, with no cultivation status sourced. **(b) framed.**
+
+**Chinese — Bencao (SBJ).** Lu Gen 蘆根 is entered as sweet and cold, coursing the Lung and Stomach, to clear heat, generate fluids (*sheng jin* 生津), relieve irritability and thirst, stop vomiting and promote urination — a heat-clearing, fluid-restoring herb worked against a defined febrile-heat pattern (治病, treating disease) rather than within the conservational *yang sheng* 養生 project, and no *san pin* 三品 grade is recorded for it in the sources retrieved. Its standing is therapeutic, not a cultivation grade. **(b) framed.**
+
+**Practitioner's note.** Reed is a therapeutic cooling agent, not a cultivation substance in any of the five traditions. What a cultivator actually does with Lu Gen is bounded and short-arc: reach for it in a hot, dried-out, thirsty state — high fever with a parched mouth, heat-driven vomiting or hiccup, lung-heat cough — as a gentle, food-adjacent fluid-restorer, then stop once the heat has cleared. Nothing here elevates it to a longevity or vital-building grade; its whole work is to cool and refill, not to cultivate the person's vitality over time.
+
+---
+
 ### Contraindications
 
 - **Cold / deficiency-cold patterns:** As a cold, fluid-generating herb, Lu Gen is unsuitable for those with spleen-stomach deficiency-cold, watery diarrhoea, or cold-type vomiting without heat signs; it may aggravate a cold, weak digestion.
