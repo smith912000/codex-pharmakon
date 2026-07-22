@@ -12,10 +12,10 @@
 
 Few plants wear their doctrine so openly in their names. *Chanca piedra* — "stone-breaker" — and the English "stonebreaker" both encode a single claim: this small, weedy annual, with its row of tiny fruits hidden beneath the leaf-rib, dissolves or expels the stones of the urinary tract. A second, equally ancient reputation runs alongside the first — that of a premier **liver herb** for jaundice and hepatitis. Three traditions, on three continents, converged on the same two organs.
 
-**Chinese (CM) — Ye Xia Zhu 叶下珠** 
+**Chinese (SBJ) — Ye Xia Zhu 叶下珠** 
 In Chinese medicine the herb is *Ye Xia Zhu* (叶下珠, "pearl beneath the leaf"), named for the seed-capsules strung under the leaf midrib. It is classed among the cool, bitter, damp-heat-clearing herbs and is used to *clear heat and drain damp*, *promote urination*, and *benefit the liver and eyes* — given traditionally for jaundice, hepatitis, urinary strangury and stones, and hot, red eyes. The doctrine is one of draining damp-heat downward and outward through the urine, unburdening the liver.
 
-**South Asian / Ayurvedic (SBJ) — Bhumyamalaki (भूम्यामलकी)** 
+**South Asian / Ayurvedic (SS) — Bhumyamalaki (भूम्यामलकी)** 
 In Ayurveda the plant is *Bhumyamalaki* — "the amalaki of the earth," a ground-hugging echo of the great liver-fruit amalaki. It is a classic *yakrit* (liver) and *mutrala* (diuretic) herb, bitter and cooling, used to pacify aggravated *pitta* and *kapha*, and prescribed for *kamala* (jaundice) and liver disorders, as well as for urinary calculi and burning micturition. The doctrine: bitter-cool herbs drain the heat and damp that, in the Ayurvedic frame, underlie both jaundice and stone-forming urinary heat.
 
 **South American / Amazonian (SS) — Chanca Piedra** 

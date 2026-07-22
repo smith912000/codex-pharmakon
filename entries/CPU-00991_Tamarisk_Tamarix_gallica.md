@@ -22,7 +22,7 @@ Dioscorides treats tamarisk (*myrike*) in the *De Materia Medica* as a decoction
 
 Arabic practice (*tarfa* / *athl*) inherited the Galenic splenic indication and extended it, using decoctions as a mouthwash for lax and bleeding gums, as a wash for weeping skin, and internally for diarrhoea and for what the sources describe as jaundice and liver heat. The *manna* obtained from Near Eastern tamarisks was collected separately and treated as a gentle laxative and demulcent — a different drug entirely from the astringent bark, and worth keeping distinct.
 
-**Chinese Practice (CM)**
+**Chinese Practice (SBJ)**
 *Cheng liu* (檉柳), the tamarisk twig, is used in Chinese materia medica as an acrid, sweet, neutral-to-warm agent that **releases the exterior and vents rash** — the classical indication is measles that will not surface, where the eruption is stuck under the skin and the patient is not clearing. This is a genuinely different doctrine from the Mediterranean one: not binding but *dispersing*, not descending but *outward-moving*. Note that the species conventionally used in Chinese practice is *T. chinensis* Lour., not *T. gallica*; the two are congeners with substantially overlapping chemistry but they are not interchangeable, and the venting indication should not be transferred to *T. gallica* without evidence. **[USER: verify]** before any clinical substitution.
 
 **Biblical / Levantine Stratum (SBJ)**

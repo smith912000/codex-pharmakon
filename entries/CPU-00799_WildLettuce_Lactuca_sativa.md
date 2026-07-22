@@ -2,7 +2,8 @@
 
 ## *Lactuca sativa* L. (and *L. virosa* L.) | Family: Asteraceae (Compositae)
 
-**Tradition Tags:** AT, CM, DMM, EP, SS
+**Tradition Tags:** EP, AT, DMM, CM, TCM, SS
+**Tags (previous line, retained for reference):** AT, CM, DMM, EP, SS
 **Energetic Classification:** Cold and moist in the second degree (Galenic–Unani) — a refrigerant soporific and anaphrodisiac
 **Training Phase:** Phase IV — Sedation & Sleep (gentle soporifics and nervines)
 
@@ -66,11 +67,11 @@ According to PubMed, the evidence supports a **genuine but mild** sedative-analg
 
 ### Traditional Energetic Classification
 
-- **Galenic–Unani (AT):** *khass* — cold and moist (≈second degree); *munawwim* (soporific), refrigerant, and anaphrodisiac; the seed a cooling nervine.
+- **Galenic–Unani (CM):** *khass* — cold and moist (≈second degree); *munawwim* (soporific), refrigerant, and anaphrodisiac; the seed a cooling nervine.
 - **Ayurveda (SS):** cooling, *pitta*-pacifying pot-herb; seed calming and sleep-favouring. Formal *rasa* (likely *tikta/madhura*), *vīrya* (*śīta*, cooling), *vipāka* not securely classically fixed for the species [USER: verify].
 - **TCM (CM):** **not attested** as a major classical Chinese materia medica drug in the sedative role; no tag assigned (cultivated lettuce is used as food; *Lactuca* is not a canonical Chinese sedative herb).
 - **Egyptian (EP):** cooling/digestive remedy *and*, doctrinally, the aphrodisiac emblem of Min — the genus's great counter-tradition.
-- **Assyro-Babylonian (BM):** a cultivated cooling pot-herb; specific humoral grade not preserved [USER: verify].
+- **Assyro-Babylonian (AT):** a cultivated cooling pot-herb; specific humoral grade not preserved [USER: verify].
 
 ### Contraindications
 

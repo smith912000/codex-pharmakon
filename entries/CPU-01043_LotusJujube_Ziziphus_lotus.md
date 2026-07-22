@@ -15,7 +15,7 @@
 
 **Dioscoridean stratum (DMM).** Dioscorides' *De Materia Medica* treats the *lōtos* fruit as a nourishing, mildly binding aliment — good for the belly and for staunching loose bowels — the classic profile of an astringent, tannin-and-fibre-rich drupe. This is the sober medical counter-reading to the Homeric myth: to the physician the fruit is a gut-settling food, not a spell.
 
-**Assyrian / Mesopotamian stratum (BM).** The *sidr*/jujube group appears in the cuneiform materia medica as a food-tree and as a source of astringent, wound-cleansing plant matter; a specific *Z. lotus* binomial cannot be securely reconstructed from the Akkadian, so the identity here is by plant-group and habitat rather than by attested name. **[USER: verify the specific Assyrian lexical entry before printing any Akkadian term.]**
+**Assyrian / Mesopotamian stratum (AT).** The *sidr*/jujube group appears in the cuneiform materia medica as a food-tree and as a source of astringent, wound-cleansing plant matter; a specific *Z. lotus* binomial cannot be securely reconstructed from the Akkadian, so the identity here is by plant-group and habitat rather than by attested name. **[USER: verify the specific Assyrian lexical entry before printing any Akkadian term.]**
 
 **Ebers / Egyptian stratum (EP).** Egyptian practice used jujube (*nabq*) fruit and leaf as food and as a component of poultices and gut remedies; *Z. lotus* grows at the desert margins of Egypt and Libya and belongs to this same used-group, though the Ebers papyrus does not let us pin the exact species.
 

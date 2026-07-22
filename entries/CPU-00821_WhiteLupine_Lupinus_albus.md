@@ -12,7 +12,7 @@
 
 White lupine is one of the oldest cultivated legumes of the Mediterranean and Near East — a large, flat, cream-coloured seed eaten as the pickled snack *lupini* (Italy), *termis/tirmis* (Egypt and the Levant), and prized both as a protein pulse and, in the raw bitter state, as a frankly medicinal drug. Its defining trait is bitterness: the wild and unprocessed seed is loaded with bitter alkaloids that must be leached out by prolonged soaking before the seed becomes food. That single fact — *bitter poison made into food by washing* — organises its entire traditional use.
 
-**Assyrian / Mesopotamian (SBJ):** Lupin appears among the pulses and bitter drugs of the cuneiform Mesopotamian materia medica, used both as food and in the bitter-drug pharmacopoeia of the region.
+**Assyrian / Mesopotamian (AT):** Lupin appears among the pulses and bitter drugs of the cuneiform Mesopotamian materia medica, used both as food and in the bitter-drug pharmacopoeia of the region.
 
 **Ebers Papyrus / Egyptian (EP):** As *termis*, lupine is an ancient Egyptian staple and remedy; the debittered seed was food, while the bitter seed and its water were applied to the skin and taken to expel intestinal worms — a use that persisted in Egyptian folk medicine for millennia.
 

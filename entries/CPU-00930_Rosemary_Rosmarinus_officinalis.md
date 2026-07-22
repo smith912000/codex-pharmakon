@@ -86,9 +86,9 @@ The synthesis that survives scrutiny is narrower than the folklore but stronger 
 
 ### Traditional Energetic Classification
 
-- **Galenic / Unani (EP):** Hot and dry, **2nd degree**. *Muqawwī al-dimāgh* (brain tonic), *mufattiḥ* (deobstruent), *mulaṭṭif* (attenuant), *muḥallil* (resolvent), *mudirr al-ṭamth* (emmenagogue). Corrective: taken with cooling, moist vehicles (rose, violet) in hot temperaments. Indicated in *nisyān* (forgetfulness) understood as cold-moist affection of the brain.
+- **Galenic / Unani (CM):** Hot and dry, **2nd degree**. *Muqawwī al-dimāgh* (brain tonic), *mufattiḥ* (deobstruent), *mulaṭṭif* (attenuant), *muḥallil* (resolvent), *mudirr al-ṭamth* (emmenagogue). Corrective: taken with cooling, moist vehicles (rose, violet) in hot temperaments. Indicated in *nisyān* (forgetfulness) understood as cold-moist affection of the brain.
 - **Greek (DMM):** λιβανωτίς — warming, thinning; deobstruent; given in jaundice; cephalic by custom and garland-practice.
-- **TCM (CM):** 迷迭香 *mí dié xiāng*. Flavour **pungent (辛)**; nature **warm (温)**. Actions: **awakens the spirit and opens the orifices (醒神開竅)**, moves qi, dispels wind-damp. Channels: Heart, Lung, Spleen (per the aromatic class). Imported western aromatic in the Chinese record, not an indigenous *Bencao* staple.
+- **TCM (SBJ):** 迷迭香 *mí dié xiāng*. Flavour **pungent (辛)**; nature **warm (温)**. Actions: **awakens the spirit and opens the orifices (醒神開竅)**, moves qi, dispels wind-damp. Channels: Heart, Lung, Spleen (per the aromatic class). Imported western aromatic in the Chinese record, not an indigenous *Bencao* staple.
 - **Ayurvedic reception (SS):** **Rasa:** katu (pungent), tikta (bitter). **Guna:** laghu (light), ruksha (dry), tikshna (sharp). **Virya:** ushna (hot). **Vipaka:** katu. **Doshic action:** kapha–vata śāmaka; pitta-vardhaka (aggravating) in excess. **Karma:** *medhya* (intellect-promoting), *dīpana*, *vedanāsthāpana*. Flagged as **later Unani-mediated reception, not classical *Sushruta Samhita* origin.**
 
 ### Contraindications

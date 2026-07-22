@@ -13,7 +13,7 @@ Catechu — "cutch," or *khadira* — is not a whole herb but a **concentrated b
 **Ayurvedic Tradition (SS — Sushruta / Charaka):**
 *Khadira* is one of the most important skin and oral medicines of Ayurveda, the classical drug of choice for **kushtha** (the broad category of skin diseases) — so central that it heads the *Khadiradi* group of formulas, and the *Khadiradi vati* lozenge remains a standard remedy for mouth, throat, and gum complaints. Its actions are astringent (kashaya), cooling, and drying: it is prescribed for skin disorders, non-healing wounds and ulcers, oral and dental disease, cough and sore throat, diarrhoea, and as a blood-purifier (raktashodhaka).
 
-**Tibetan (FMT) and Chinese (Ér Chá) Traditions:**
+**Tibetan (SBJ) and Chinese (Ér Chá) Traditions:**
 As *seng-ldeng*, the heartwood/extract is used in Tibetan medicine among the astringent, heat-clearing, wound-healing agents. In Chinese medicine Ér Chá is a cool astringent that **clears heat, transforms phlegm, generates flesh and heals sores** — used topically for mouth and skin ulcers, bleeding, and non-healing wounds, and internally for damp-heat diarrhoea and cough.
 
 **Doctrinal & Symbolic Layer — the astringent that draws the surface closed:**

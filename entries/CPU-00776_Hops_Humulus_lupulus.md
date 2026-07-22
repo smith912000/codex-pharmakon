@@ -56,8 +56,8 @@ The mechanistic story (2-methyl-3-butene-2-ol as sedative; α-acids up-regulatin
 
 ### Traditional Energetic Classification
 
-- **Unani / Graeco-Arabic (AT):** cold and dry; bitter blood-cleanser, mild aperient, calmative for hot/restless temperaments.
-- **TCM (DMM):** *pi jiu hua* — bitter, cool; strengthens stomach and aids digestion, calms the spirit (*an shen*), settles insomnia and restlessness.
+- **Unani / Graeco-Arabic (CM):** cold and dry; bitter blood-cleanser, mild aperient, calmative for hot/restless temperaments.
+- **TCM (SBJ):** *pi jiu hua* — bitter, cool; strengthens stomach and aids digestion, calms the spirit (*an shen*), settles insomnia and restlessness.
 - **Western/Galenic (EP, SBJ):** cool-dry bitter; nervine relaxant, bitter tonic, mild anodyne and soporific.
 
 ### Contraindications

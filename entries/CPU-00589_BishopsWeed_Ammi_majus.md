@@ -56,7 +56,7 @@ According to PubMed: the folk-to-pharmacology lineage is directly documented —
 
 ### Traditional Energetic Classification
 
-- **Unani/Tibb (SBJ):** Hot & Dry, third degree; *muhallil* (resolvent) and pigment-restorative for *baras*/*bahaq*.
+- **Unani/Tibb (CM):** Hot & Dry, third degree; *muhallil* (resolvent) and pigment-restorative for *baras*/*bahaq*.
 - **Galenic (DMM):** acrid, heating, provoking seed.
 - **TCM analogue:** no authentic classical Chinese entry; by attribute it maps to an acrid, warm, surface-dispersing dispersant — noted as analogue only, not as sourced Chinese materia medica.
 

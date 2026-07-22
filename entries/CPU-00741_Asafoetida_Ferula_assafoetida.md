@@ -71,11 +71,11 @@ According to PubMed, the evidence is real but thin — a modest, honest signal f
 
 ### Traditional Energetic Classification
 
-- **Galenic–Unani (AT):** hot and dry in the third degree; a *muḥallil* (resolvent/deobstruent), *kāsir al-riyāḥ* (wind-breaker/carminative), antispasmodic and emmenagogue.
+- **Galenic–Unani (CM):** hot and dry in the third degree; a *muḥallil* (resolvent/deobstruent), *kāsir al-riyāḥ* (wind-breaker/carminative), antispasmodic and emmenagogue.
 - **Ayurveda (SS):** *rasa* — pungent (*kaṭu*); *guṇa* — light, unctuous (*laghu, snigdha*); *vīrya* — heating (*uṣṇa*); *vipāka* — pungent (*kaṭu*); action *dīpana-pācana* (digestive), *vātānulomana* (wind-normalising), *kṛmighna* (anthelmintic); balances Vāta and Kapha, can aggravate Pitta.
-- **TCM (CM):** Awei — pungent, bitter, warm; enters Spleen and Stomach; dissolves accumulations/masses, disperses food stagnation, kills parasites.
+- **TCM (SBJ):** Awei — pungent, bitter, warm; enters Spleen and Stomach; dissolves accumulations/masses, disperses food stagnation, kills parasites.
 - **Tibetan (FMT):** *shing kun* — warming, *rlung* (wind)-taming carminative and vermifuge.
-- **Assyro-Babylonian (BM):** grouped with pungent wind-expelling and vermifuge gum-resins; specific humoral grade not preserved [USER: verify].
+- **Assyro-Babylonian (AT):** grouped with pungent wind-expelling and vermifuge gum-resins; specific humoral grade not preserved [USER: verify].
 
 ### Contraindications
 

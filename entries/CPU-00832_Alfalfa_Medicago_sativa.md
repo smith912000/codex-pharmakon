@@ -14,7 +14,7 @@
 
 **Dioscorides — De Materia Medica (DMM):** Dioscorides describes *mēdikē* (the "Median herb," so named because it came to Greece from Media/Persia) as a fodder legume, noting its agricultural value and its use as a green forage and poultice herb. The classical placement is as a nourishing, cooling green rather than a potent drug.
 
-**Chinese Materia Medica (CM):** *Medicago sativa* (and the closely related *M. polymorpha*, mùxu / 苜蓿) entered the Chinese materia medica as a cooling, sweet-bland vegetable and mild diuretic used to clear damp-heat, benefit the bladder and drain the intestines — a food-grade tonic-and-drainer rather than a strong medicinal.
+**Chinese Materia Medica (SBJ):** *Medicago sativa* (and the closely related *M. polymorpha*, mùxu / 苜蓿) entered the Chinese materia medica as a cooling, sweet-bland vegetable and mild diuretic used to clear damp-heat, benefit the bladder and drain the intestines — a food-grade tonic-and-drainer rather than a strong medicinal.
 
 **Sushruta Samhita (SS):** In the Ayurvedic tradition, lucerne/alfalfa is used as a cooling, nourishing green — a *balya* (strength-giving) and mildly *mutrala* (diuretic) fodder-and-food herb, given for depletion and to support lactation and recovery.
 

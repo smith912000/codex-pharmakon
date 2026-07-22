@@ -55,7 +55,7 @@ The consistent finding — a cineole- and sesquiterpene-rich rhizome oil with an
 
 - **Ayurveda (SS):** *Rasa* — katu, tikta (pungent, bitter); *Guna* — laghu, ruksha, tikshna (light, dry, penetrating); *Virya* — ushna (heating); *Vipaka* — katu (pungent post-digestive); *Karma* — kaphavata-hara, dipana-pachana (kindles digestion), shvasahara/kasahara (anti-dyspnoeic, antitussive).
 - **TCM analogue (CM, by function not classical listing):** warm, acrid-aromatic rhizome that "transforms cold phlegm," warms the middle and moves stagnant qi — functionally kin to the acrid warming aromatics, though *Hedychium spicatum* is not a canonical Bencao entry.
-- **Unani / Graeco-Arabic (AT):** hot and dry in the 2nd degree; *muhallil* (resolvent), *mufarrih* (exhilarant), *kasir-e-riyah* (carminative), pectoral.
+- **Unani / Graeco-Arabic (CM):** hot and dry in the 2nd degree; *muhallil* (resolvent), *mufarrih* (exhilarant), *kasir-e-riyah* (carminative), pectoral.
 
 ### Contraindications
 

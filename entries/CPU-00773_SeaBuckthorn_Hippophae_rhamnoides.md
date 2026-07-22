@@ -58,10 +58,10 @@ The clinical signal is strongest for **local mucosal/epithelial application** (v
 
 ### Traditional Energetic Classification
 
-- **TCM (DMM):** *Sha ji* — sour, astringent, warm; enters Lung, Spleen, Stomach, Heart; resolves phlegm and stops cough, invigorates blood and resolves stasis, strengthens digestion.
+- **TCM (SBJ):** *Sha ji* — sour, astringent, warm; enters Lung, Spleen, Stomach, Heart; resolves phlegm and stops cough, invigorates blood and resolves stasis, strengthens digestion.
 - **Ayurveda (SS, regional):** sour-astringent, cooling-to-neutral, nourishing (*brimhana*), *rakta*-building and vulnerary; pacifies aggravated Pitta of the skin/mucosa while nutritively supporting Vata depletion.
-- **Tibetan / Sowa Rigpa (BM):** *star-bu* — used for phlegm (*bad-kan*) and blood disorders, lung and digestive complaints; a warming, opening, restorative berry.
-- **Unani (AT):** nutritive restorative and topical vulnerary; temperate-moist nourishing profile.
+- **Tibetan / Sowa Rigpa (FMT):** *star-bu* — used for phlegm (*bad-kan*) and blood disorders, lung and digestive complaints; a warming, opening, restorative berry.
+- **Unani (CM):** nutritive restorative and topical vulnerary; temperate-moist nourishing profile.
 
 ### Contraindications
 

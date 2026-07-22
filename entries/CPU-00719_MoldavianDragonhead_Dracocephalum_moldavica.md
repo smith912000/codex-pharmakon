@@ -16,7 +16,7 @@
 **Dioscorides & the Greek Aromatic Tradition (DMM).**
 The dragonheads belong to the broad Lamiate materia — the mints, balms, and hyssops — that the Greek herbal esteemed as warming-then-cooling aromatics for the head, heart, and stomach. *Dracocephalum* as a named genus is post-classical, but its placement among the cordial, carminative, nerve-settling mints is a direct inheritance of the Dioscoridean treatment of the aromatic Labiatae.
 
-**Chinese & Inner-Asian Use (CM).**
+**Chinese & Inner-Asian Use (SBJ).**
 Within Chinese and Inner-Asian (including Uyghur/Central-Asian) medicine, *Dracocephalum* species are used as cooling, aromatic herbs that clear heat, calm the spirit, and benefit the heart; *D. moldavica* in particular has a documented place in Uyghur medicine for cardiovascular complaints. The tag reflects this genuine Inner-Asian/CM usage rather than a specific *Shennong Bencao* monograph on the Moldavian species.
 
 **Doctrinal & Symbolic Layer.**

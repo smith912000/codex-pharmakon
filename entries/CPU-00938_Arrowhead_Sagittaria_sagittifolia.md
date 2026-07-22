@@ -75,8 +75,8 @@ Rank it accordingly: **a food with a credible and mechanistically coherent anti-
 
 ### Traditional Energetic Classification
 
-- **TCM (CM):** 慈姑 *cí gū*. **Flavour:** sweet (甘), slightly bitter (微苦). **Nature:** cold (寒). **Channels:** Lung, Liver, Spleen. **Actions:** clears heat and resolves toxicity (清熱解毒); moves blood and dissipates nodules (行血散結); frees painful urinary dribbling (通淋); moistens the Lung and stops cough. **Processing (炮製):** must be cooked; raw corm acrid. ⚠ **Not** 山慈姑 (*shān cí gū*, Orchidaceae) — different drug, do not substitute.
-- **Galenic / Unani (EP):** **Bārid raṭb** — cold and moist (2nd degree, by class). *Mubarrid* (refrigerant), *muraṭṭib* (moistening), *muḥallil* (resolvent, applied), and notably ***mughadhdhī*** (nourishing — its action *is* nutrition). Corrective: warming aromatics (ginger, cinnamon, pepper) counter its coldness in cold, phlegmatic temperaments.
+- **TCM (SBJ):** 慈姑 *cí gū*. **Flavour:** sweet (甘), slightly bitter (微苦). **Nature:** cold (寒). **Channels:** Lung, Liver, Spleen. **Actions:** clears heat and resolves toxicity (清熱解毒); moves blood and dissipates nodules (行血散結); frees painful urinary dribbling (通淋); moistens the Lung and stops cough. **Processing (炮製):** must be cooked; raw corm acrid. ⚠ **Not** 山慈姑 (*shān cí gū*, Orchidaceae) — different drug, do not substitute.
+- **Galenic / Unani (CM):** **Bārid raṭb** — cold and moist (2nd degree, by class). *Mubarrid* (refrigerant), *muraṭṭib* (moistening), *muḥallil* (resolvent, applied), and notably ***mughadhdhī*** (nourishing — its action *is* nutrition). Corrective: warming aromatics (ginger, cinnamon, pepper) counter its coldness in cold, phlegmatic temperaments.
 - **Greek (DMM):** ψυκτικόν / μαλακτικόν — refrigerant and emollient; cold-moist aquatic class; bruised topically on hot inflammations.
 - **Ayurveda:** **Not attested.** *Sagittaria sagittifolia* is not a classical *Sushruta*/*Charaka* dravya. No rasa/guna/virya/vipaka is assigned here, because assigning one would be fabrication.
 

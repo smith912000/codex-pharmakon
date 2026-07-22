@@ -14,7 +14,7 @@
 
 Almost every entry in this codex names a plant. This one names a *process*. The drug is not "tangerine peel"; it is **陈皮** — *chen pi*, literally **"aged peel."** The character 陈 does not describe the fruit, the tree, the region, or the part used. It describes time spent in storage. A fresh mandarin peel is not chen pi and the tradition will not accept it as such. This is one of the very few points in world materia medica where a doctrine of *deliberate ageing* is written into the drug's name — and therefore one of the very few places where a traditional claim is directly, cheaply, chemically testable.
 
-**Chinese Medicine (CM) — 陈皮 (chén pí); Guang Chen Pi 广陈皮**
+**Chinese Medicine (SBJ) — 陈皮 (chén pí); Guang Chen Pi 广陈皮**
 
 Chen pi is among the most-used single drugs in the Chinese pharmacopoeia. Its classical functions are stated in four movements: **理气 (lǐ qì)** regulate qi; **燥湿 (zào shī)** dry damp; **化痰 (huà tán)** transform phlegm; **和中 (hé zhōng)** harmonise the middle. The clinical picture that calls for it is a stagnant, waterlogged middle burner — epigastric and abdominal distension, fullness that worsens after eating, belching, poor appetite, nausea, loose stool, a thick greasy tongue coat — and the phlegm-damp cough that the same terrain produces higher up: productive, white, copious sputum, a sense of oppression in the chest.
 

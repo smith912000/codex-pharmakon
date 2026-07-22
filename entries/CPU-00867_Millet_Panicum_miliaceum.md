@@ -62,7 +62,7 @@ According to PubMed, research on proso millet focuses on its glycaemic behaviour
 
 ### Traditional Energetic Classification
 
-- **TCM (CM):** sweet (甘), slightly salty; cooling-to-neutral; enters Spleen, Stomach, Kidney; tonifies the middle, clears heat, harmonises the stomach, benefits essence.
+- **TCM (SBJ):** sweet (甘), slightly salty; cooling-to-neutral; enters Spleen, Stomach, Kidney; tonifies the middle, clears heat, harmonises the stomach, benefits essence.
 - **Ayurvedic (SS):** sweet *rasa*, light (*laghu*), cooling-to-neutral, drying; kapha-suitable in light forms.
 - **Galenic (DMM):** cool and dry; binding, gently nourishing.
 

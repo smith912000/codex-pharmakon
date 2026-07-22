@@ -16,7 +16,7 @@ Mountain lovage is a small, purple-flushed umbellifer of high alpine pastures â€
 
 **Dioscorides (DMM):** *De Materia Medica* treats the lovage/*ligustikon* group as warming, wind-dispelling roots and seeds that aid digestion, provoke urine, and warm a cold stomach. Mountain lovage is the alpine folk-heir of this Dioscoridean "ligustikon" reputation rather than a plant Dioscorides named individually.
 
-**rGyud-bzhi / Tibetan (BM):** Himalayan and Tibetan medicine makes heavy use of aromatic high-altitude *Ligusticum* and allied umbellifers as warming, blood-moving, digestive and headache remedies (paralleling the Chinese use of chuanxiong). *L. mutellina* is the European analogue within this same functional class.
+**rGyud-bzhi / Tibetan (FMT):** Himalayan and Tibetan medicine makes heavy use of aromatic high-altitude *Ligusticum* and allied umbellifers as warming, blood-moving, digestive and headache remedies (paralleling the Chinese use of chuanxiong). *L. mutellina* is the European analogue within this same functional class.
 
 **Doctrinal & Symbolic Layer:** Mountain lovage is the encyclopaedia's **pasture-aromatic** â€” the plant that thrives where the air is thin and cold, and whose warming pungency answers that same cold in the body. Its doctrinal role is small and honest: an aromatic kindling herb, the alpine cousin of grander *Ligusticum* medicines, valued for what the whole genus shares (phthalide-driven antispasmodic, carminative, mildly sedative action) rather than for any unique, documented virtue of its own.
 

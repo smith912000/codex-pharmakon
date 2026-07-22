@@ -12,7 +12,7 @@
 
 The goji or wolfberry is the small, bright-orange-red fruit of a thorny Solanaceous shrub native to China and the Himalayan belt. It is one of the most widely used tonic foods in Asia — eaten dried by the handful, decocted in soups and teas, and steeped in wine — and occupies a rare position as a food that is simultaneously a first-rank materia medica item.
 
-**Traditional Chinese Medicine (CM):** As *Gou Qi Zi* (枸杞子), goji is a classic **Liver- and Kidney-yin / blood tonic**. It is sweet and neutral, said to "nourish the Liver and Kidney, benefit the essence (*jing*), and brighten the eyes" — the eye connection being central: it is the go-to remedy for blurred or diminishing vision, dry eyes, dizziness, and the "consumptive" pattern of depleted essence. It is a component of foundational eye formulas (e.g. paired with chrysanthemum and rehmannia).
+**Traditional Chinese Medicine (SBJ):** As *Gou Qi Zi* (枸杞子), goji is a classic **Liver- and Kidney-yin / blood tonic**. It is sweet and neutral, said to "nourish the Liver and Kidney, benefit the essence (*jing*), and brighten the eyes" — the eye connection being central: it is the go-to remedy for blurred or diminishing vision, dry eyes, dizziness, and the "consumptive" pattern of depleted essence. It is a component of foundational eye formulas (e.g. paired with chrysanthemum and rehmannia).
 
 **Avicenna / Unani (AT-adjacent):** *Lycium* was known to the classical and Islamic materia medica; the boxthorn genus supplied a "lycium" extract used for the eyes and for inflamed, weeping lesions — an ophthalmic and astringent-tonic reputation that parallels the East Asian eye-brightening use.
 

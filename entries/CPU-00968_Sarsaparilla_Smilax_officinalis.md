@@ -66,9 +66,9 @@ According to PubMed, the modern evidence for *Smilax* is almost entirely **precl
 
 ### Traditional Energetic Classification
 
-- **Galenic–Unani (AT):** *ushba* — hot and dry (≈second degree); a *muṣaffī-yi dam* (blood-purifier), diaphoretic and diuretic alterative.
+- **Galenic–Unani (CM):** *ushba* — hot and dry (≈second degree); a *muṣaffī-yi dam* (blood-purifier), diaphoretic and diuretic alterative.
 - **Ayurveda (SS):** in the *raktaśodhana/raktaprasādana* (blood-cleansing) alterative class; for the parallel *sarivā*, *rasa* — sweet/bitter (*madhura, tikta*); *vīrya* — cooling (*śīta*); *vipāka* — sweet (*madhura*); precise grading for the American *Smilax* is not classically fixed [USER: verify].
-- **TCM (CM):** *tu fu ling* — sweet, bland, neutral; resolves toxicity, dispels dampness, unblocks joints (Stomach/Liver channels).
+- **TCM (SBJ):** *tu fu ling* — sweet, bland, neutral; resolves toxicity, dispels dampness, unblocks joints (Stomach/Liver channels).
 - **Aztec / Badianus:** a skin-and-body remedy root; no formal humoral grade (non-humoral tradition).
 
 ### Contraindications

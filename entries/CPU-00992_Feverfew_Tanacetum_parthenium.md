@@ -26,7 +26,7 @@ What can be stated with more confidence is the **later Western herbal** record, 
 
 The headache use is the thread that matters. Long before any trial, the Western herbal tradition applied feverfew to persistent, recurring, one-sided head pain — and the folk method was **prophylactic**, not abortive: a leaf or two eaten *daily*, typically in a sandwich to mask the extreme bitterness, taken continuously rather than at the moment of attack. This is the crucial detail. The tradition independently arrived at the correct *pharmacological strategy* — chronic daily dosing to prevent attacks, rather than acute dosing to treat one — which is exactly how modern migraine prophylaxis is conceived and exactly unlike how one would use a febrifuge. The folk practice was better than the folk theory.
 
-**Chinese Medicine (CM)**
+**Chinese Medicine**
 
 *T. parthenium* is not a classical Chinese drug and has no standing in the Chinese pharmacopoeial tradition. Its presence under this tag reflects the genus **Tanacetum** and the wider Asteraceae aromatic-bitter complex, and modern Chinese pharmacological interest in **parthenolide** — which has become a heavily investigated compound in Chinese cancer and inflammation research, largely disconnected from any traditional use. This is worth marking rather than padding: the tag records a *modern research* relationship, not an ethnobotanical one. Do not construct a Chinese classical lineage for this plant. [USER: verify whether related *Tanacetum* spp. carry a genuine CM classical indication before expanding this section.]
 

@@ -22,7 +22,7 @@ Manna's name and its shadow are biblical: the bread from heaven that fell on the
 
 Manna held pharmacopoeial status across Europe for centuries with an indication that barely varied: **a mild laxative, safe for children, the elderly, and pregnancy.** It is described in the modern literature in exactly those inherited terms — manna "owing its content in mannitol, is used in medicine as a mild laxative" (Restivo et al., *Molecules*, 2020), and "has long been known for its mild laxative and emollient properties" (Attanzio et al., *Antioxidants*, 2019). This is the entire classical claim. Not a purgative. Not a drastic. A *mild* laxative, and the mildness is the point — manna occupied the pharmacopoeial slot where nothing violent could be risked.
 
-**Chinese Medicine (CM)**
+**Chinese Medicine**
 
 *Fraxinus* enters the Chinese materia medica as **秦皮** (*Qín Pí*, ash bark) — bitter, astringent, cold, for damp-heat dysentery and red eyes. **This is a different drug from a different part of a different species and it does the opposite thing:** Qin Pi is astringent and *binds* the bowel; manna is osmotic and *loosens* it. The tag is retained here because the genus is shared and because the contrast is instructive — bark binds, sap looses. Do not let the shared Latin genus collapse them. [USER: verify — *Qin Pi* is sourced from *F. rhynchophylla* and related species, not *F. ornus*; confirm the species list before any cross-prescription reasoning.]
 

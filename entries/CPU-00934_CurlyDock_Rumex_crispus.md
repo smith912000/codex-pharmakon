@@ -18,7 +18,7 @@ Curly dock is a cosmopolitan Eurasian weed of the buckwheat family, now naturali
 
 **Avicenna (Canon of Medicine).** The Arabic physicians continue the Greek reading: *ḥummāḍ* (sorrels/docks) as cooling, bitter, mildly aperient plants used for the belly and for hot skin conditions, and the astringent parts for fluxes. The humoral logic is cool-dry bitterness clearing "hot, thick, corrupt" humours — the doctrinal ancestor of the later "blood cleanser / alterative" language.
 
-**Shennong / Chinese materia medica (CM).** *Yang Ti* (羊蹄, the root of *Rumex* species including *R. crispus*) is a recognised Chinese herb: bitter and cold, entering Heart, Liver and Large Intestine channels, used to cool the blood, stop bleeding, clear heat, kill parasites/relieve itch, and move the stool — for constipation, skin sores, ringworm and certain bleeding patterns. This maps closely onto the Western profile: a bitter, cold, descending root for the bowel and the skin.
+**Shennong / Chinese materia medica (SBJ).** *Yang Ti* (羊蹄, the root of *Rumex* species including *R. crispus*) is a recognised Chinese herb: bitter and cold, entering Heart, Liver and Large Intestine channels, used to cool the blood, stop bleeding, clear heat, kill parasites/relieve itch, and move the stool — for constipation, skin sores, ringworm and certain bleeding patterns. This maps closely onto the Western profile: a bitter, cold, descending root for the bowel and the skin.
 
 **Doctrinal & Symbolic Layer:** The shared cross-tradition doctrine is "a bitter, cooling, downward-moving root that clears corrupt humours through the bowel and the skin." Map this onto real pharmacology and **one half maps cleanly, the other does not.**
 

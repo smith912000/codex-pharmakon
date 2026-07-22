@@ -16,7 +16,7 @@ A philological warning must open this entry, because it governs everything that 
 
 **Avicenna (Canon of Medicine).** The Arabic physicians treat *lūbiyā* within the dietetics of pulses: nourishing but wind-producing, requiring correction with warming spices (cumin, pepper) to offset the cool-moist, flatulent quality. The humoral logic — that dense, cool, earthy foods breed *flatus* and phlegm unless "opened" — is the operative doctrine, and it transferred wholesale onto the New World bean when it arrived, because the sensory profile (dense, starchy, gas-producing) matched.
 
-**Shennong / Chinese materia medica (CM).** The Chinese pulse tradition (the *dòu* group) assigns beans to the Spleen and Stomach, as dampness-draining, diuretic, and Spleen-supporting foods. After introduction, *Phaseolus vulgaris* (Chinese: *cài dòu* / *sì jì dòu*) was absorbed into this existing framework — again a conceptual graft, the American species filling a slot defined by old-world legumes.
+**Shennong / Chinese materia medica (SBJ).** The Chinese pulse tradition (the *dòu* group) assigns beans to the Spleen and Stomach, as dampness-draining, diuretic, and Spleen-supporting foods. After introduction, *Phaseolus vulgaris* (Chinese: *cài dòu* / *sì jì dòu*) was absorbed into this existing framework — again a conceptual graft, the American species filling a slot defined by old-world legumes.
 
 **Badianus Manuscript (SBJ — the 1552 Aztec herbal).** Here, and only here, the attribution is philologically clean: the Badianus Codex is a post-Conquest Nahua document, so its *etl* (bean) genuinely is a *Phaseolus*. Mesoamerican use of bean plants — as staple sustenance and in compound remedies — is the one tradition in this entry naming the actual species.
 

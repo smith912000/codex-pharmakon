@@ -15,7 +15,7 @@ Water pepper is the biting herb of wet ground. Crush a fresh leaf on the tongue 
 **Greco-Roman (DMM) — Dioscorides' *hydropeper*** 
 The Greco-Roman materia medica knew a biting waterside herb, *hydropeper* ("water pepper"), described among the acrid plants used to raise heat on the skin, to disperse cold swellings, and applied to indolent sores. The doctrine is that of the *hot and dry* rubefacients: a plant whose burning bite, applied to the body, pulls stagnation and cold outward. Classical usage also leaned on its acridity as a counter-irritant.
 
-**Chinese (CM) — Shui Liao 水蓼** 
+**Chinese (SBJ) — Shui Liao 水蓼** 
 In Chinese materia medica the herb is *Shui Liao* (水蓼, "water smartweed"). It is classed among the acrid, warm, dispersing herbs and is used to *stop bleeding* and *resolve dampness* — given traditionally for bloody dysentery and diarrhoea, for abnormal uterine and other bleeding, and topically for sores, swelling, and snakebite. The doctrine unites two apparently opposite actions: the herb *moves* (its pungency disperses stagnant blood and damp) yet *staunches* (its astringency stops flux and bleeding). In the Chinese reading, controlled dispersal and astringent consolidation are two faces of restoring proper flow.
 
 **Japanese / Asian folk — *tade* 蓼 & *benitade*** 

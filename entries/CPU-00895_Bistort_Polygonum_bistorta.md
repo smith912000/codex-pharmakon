@@ -21,7 +21,7 @@ The classical and early-modern European materia medica placed bistort among the 
 
 Alongside this, and inseparable from the name, ran the **serpent doctrine**: the twisted root as a remedy against snakebite and against poison generally, on the reading that the plant's form declared its office. Bistort's names in half a dozen European languages encode this claim.
 
-**Traditional Chinese Medicine (CM)**
+**Traditional Chinese Medicine (SBJ)**
 **Quan Shen (拳参)** is a recognised item of the Chinese materia medica, classified among the herbs that **clear heat and resolve toxin (清热解毒)**. Its stated actions: clears heat and toxin, cools the blood, stops bleeding, calms wind, and dries dampness — given for dysentery with heat signs, for sores and abscesses, for bleeding, for mouth and throat ulceration, and for **snakebite**. Note the convergence: **two unconnected traditions, on two ends of Eurasia, independently gave this rhizome for dysentery, for bleeding, for mouth ulcers, and for snakebite.** The overlap of the astringent indications is strong evidence of a real observed effect. The overlap of the snakebite indication is a more interesting problem, addressed below. [USER: verify Chinese-language pharmacopoeial dosing and exact classical formulary placement before publication.]
 
 **Signature, Bath & Domestic Register (SBJ)**

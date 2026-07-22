@@ -16,11 +16,11 @@ Motherwort is the herb of the steadied heart. Its Latin epithet *cardiaca* — "
 
 **Dioscorides (DMM):** The Greco-Roman tradition knew *Leonurus*-type labiates as bitter cardiac and uterine herbs, used to quiet palpitation and "to bring on the courses" (promote menstruation) — the earliest Western statement of its dual heart-and-womb action.
 
-**Shennong / Chinese (CM):** Yì Mǔ Cǎo (*L. japonicus*) is a cornerstone gynaecological herb of the Chinese materia medica, classically used to "invigorate blood, regulate menstruation, reduce swelling," and to move the *blood* of the lower burner postpartum. Its very name marks it as the mother's herb.
+**Shennong / Chinese (SBJ):** Yì Mǔ Cǎo (*L. japonicus*) is a cornerstone gynaecological herb of the Chinese materia medica, classically used to "invigorate blood, regulate menstruation, reduce swelling," and to move the *blood* of the lower burner postpartum. Its very name marks it as the mother's herb.
 
 **Sushruta / Ayurvedic (SS):** *Leonurus* enters the wider Ayurvedic and folk pharmacopoeia of the subcontinent as a bitter *emmenagogue* and cardiac calmative, aligned with its Greek and Chinese uses.
 
-**rGyud-bzhi / Tibetan (BM):** The Four Tantras tradition employs bitter Lamiaceae herbs of this group as blood-moving and heart-settling agents, consistent with the cross-tradition consensus.
+**rGyud-bzhi / Tibetan (FMT):** The Four Tantras tradition employs bitter Lamiaceae herbs of this group as blood-moving and heart-settling agents, consistent with the cross-tradition consensus.
 
 **Doctrinal & Symbolic Layer:** Motherwort sits at the crossing of two "hollow, rhythmically contracting muscular organs" — the heart and the uterus. The tradition intuited a single herb for both; modern pharmacology finds a real thread, since its constituents act on smooth and cardiac muscle contractility and on autonomic tone. The symbol — the lion's calm, maternal steadiness — matches a mild negative-chronotropic, calcium-antagonist profile: an herb that slows and settles what is racing.
 

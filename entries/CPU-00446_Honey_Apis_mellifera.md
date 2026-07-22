@@ -27,7 +27,7 @@ Honey (*ʿasal*) holds an exalted place: the Qur'ān (16:68–69) describes the 
 **Ayurvedic Tradition (SS — Sushruta / Charaka):**
 *Mádhu* is one of the most important dravyas of Ayurveda and the archetypal **yogavāhī** — the "carrier" that penetrates deeply and conveys the properties of whatever it is combined with to the tissues (the anupāna par excellence). It is used for wounds and ulcers (vraṇa), cough and respiratory disease, eye disorders, as a scraping/reducing agent for Kapha and fat (an apparent paradox — sweet yet reducing), and as the vehicle for countless formulas. Ayurveda uniquely and emphatically warns that **honey must never be heated or given hot/with hot substances** — a classical prohibition (heated honey becomes "ama"/toxic) that resonates intriguingly with the modern finding that heating honey generates hydroxymethylfurfural.
 
-**Chinese (TCM) and Tibetan (FMT) Traditions:**
+**Chinese (TCM) and Tibetan (SBJ) Traditions:**
 Chinese medicine's **Fēng Mì** tonifies the Middle, moistens Dryness (Lung dry-cough, dry constipation), harmonises and moderates other herbs (it is used to prepare/temper harsh herbs, e.g. honey-fried herbs), and resolves toxicity. Tibetan medicine uses honey among the sweet, moistening, carrying agents and as a vehicle in precious pills.
 
 **Doctrinal & Symbolic Layer — incorruptible sweetness, the food of the beyond:**
