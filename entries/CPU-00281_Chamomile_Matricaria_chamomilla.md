@@ -104,6 +104,20 @@ Chamomile occupies a precise niche in the Kenetica pharmacological toolkit: the 
 
 ---
 
+### Cultivation Register
+
+**Assyrian (AT).** Absent, and under the standing blocking warning. The identification of *mattu* with chamomile rests on R. Campbell Thompson's early reading and is not secure; substance identifications, tablet references and divine-agency classifications in the cuneiform corpus require named Assyriological support before any status can be asserted. No cultivation framing is recorded — (c).
+
+**Egyptian (EP).** No cultivation framing is attested. The much-repeated claim that chamomile was dedicated to the sun-god Ra could not be traced to any named scholarship — it circulates only in wellness and gardening writing, which this register refuses as a source — so it cannot be treated as an Egyptian cultivation attestation and is set aside. The Ebers material is in any case indication-organised, and the botanical identity behind any Egyptian aromatic-flower use is a modern hypothesis. (c) absent.
+
+**Greek / Dioscorides (DMM).** Dioscorides carries no subtle-body system, so there is no cultivation status to report. In Book III (ch. 144) he gives *chamaimelon* a plain **therapeutic** profile — warming in the first degree, mildly drying, its decoction for kidney, bladder and uterine pains, resolving hardnesses externally — a humoral-medical role, not a cultivation one. What he offers a practitioner is a discipline of attention: distinguishing the white- and golden-centred varieties, gathering and assaying the flower correctly. (c) cultivation absent.
+
+**Unani / Avicenna (CM).** The tradition claims the plant fully — Ibn Sina treats *bābūnaj* at length in Book II of the Canon as warm and slightly drying, dissolving swellings, calming spasm and tremor, easing colic and uterine pain — but this is a therapeutic-humoral placement, not a cultivation grade. Its calming, nervine reputation invites a *mufarrih* (gladdening / *ruh*-strengthening) reading, but that category belongs to the *Kitāb al-Adwiya al-Qalbiyya*, not the Canon, and no *mufarrih* constituent claim will be published here. Unani cultivation proper is the conservation of innate heat and radical moisture; no vital-endowment status is attested for chamomile, so this is (b), framed as unattested.
+
+**Ayurveda (SS).** Chamomile is not native to the subcontinent and, as the entry notes, entered South Asian practice late through Unani transmission. It is placed in the **therapeutic** categories *Shothahara* (anti-inflammatory) and *Vedanasthapana* (analgesic), not in the *rasayana* (rejuvenation) or *vajikarana* (generative) disciplines; no rejuvenative status is attested for it and, as a post-medieval loan, none should be expected. (c) absent for cultivation, therapeutic classification only.
+
+**Practitioner's note.** For the cultivator chamomile's value is a settling ritual rather than a tonic. The honest practice is behavioural — the evening infusion that downshifts arousal and eases the transition to rest, a legitimate abstentive/recovery move. No tradition in the Codex assigns it a vital-substance-building or rejuvenative grade; its standing everywhere is that of a gentle therapeutic and calmative, taken for effect, not to nourish a vital endowment.
+
 ### Contraindications
 
 - **Asteraceae allergy** — chamomile shares sesquiterpene lactone allergens with ragweed (*Ambrosia*), chrysanthemum, and other Asteraceae; those with known ragweed allergy have ~5% cross-reactivity risk; test topically before internal use

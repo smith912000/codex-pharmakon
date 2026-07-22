@@ -77,6 +77,24 @@ The fava's neuro-active reputation is real and specific. Rabey et al. (1992, *Jo
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** No cultivation framing is attested for the fava in the Egyptian material, and the Ebers-era corpus is indication-organised — it records what was done for a complaint, not what a substance does to a person's vital constitution — so the honest status here is (c) absent. What the Egyptian record does preserve is an *abstention*: Herodotus reports that the priesthood would neither eat beans nor bear to look at them, a purity-taboo around the bean rather than a cultivation practice. That is recorded here historically, as a culture-taboo, and must not be read as the bean being assigned a place in a subtle-body scheme.
+
+**Assyrian (AT).** The bean (*ḫallūru*) is secure as a crop and food-medicine of the cuneiform record, but under the blocking warning in force for Mesopotamian substance identifications and etiologies, no cultivation status is claimed: (c) absent. Illness in this tradition is classified by causal agency, and nothing retrieved assigns the fava a role in the person's vital economy beyond its ordinary place as food.
+
+**Greek (DMM).** Dioscorides has no subtle-body system to place the bean within, so on cultivation the status is (c) absent. He records *kýamos* as nourishing, flatulent and "dulling to the senses," and what he offers a cultivator is not a vital doctrine but a discipline of attention to the food itself. The famous datum here belongs to philosophy, not medicine: the Pythagorean prohibition on beans — explained variously as ritual purity or as the belief that beans were vessels of transmigrating souls — is a genuine, celebrated *abstention* in Greek thought (Iamblichus, *On the Pythagorean Life*; Diogenes Laertius, *Lives*). It is logged as a philosophical/cultural taboo, exactly parallel to the pungent-root exclusions elsewhere in the Codex, and is distinct from any assignment of cultivation status.
+
+**Unani (CM).** Read within the frame of the *ruḥ* and the faculties, the fava is treated as cold and moist, nourishing but wind-producing — a dietetic and humoral placement, not a cultivation grade. The tradition's strongest cultivation idea, the conservation of innate heat and radical moisture across a finite vital endowment, is not attached to this bean in the sources retrieved; the fava is claimed by the materia medica but carries no attested cultivation status within it, only a nutritive-humoral one. Status: (b) framed.
+
+**Chinese (SBJ).** *Cán dòu* (蚕豆) is attested in the materia medica as a nourishing food-bean that strengthens the Spleen and promotes urination, but these are therapeutic actions, not a *san pin* 三品 placement; no upper/middle/lower grade is recorded for it in the sources retrieved, and *jing–qi–shen* language is not attached to it. It therefore carries a therapeutic status and no cultivation grade — (b) framed. Any *yang sheng* reading would be an overlay, and is not asserted.
+
+**Ayurvedic (SS).** In the pulse dietetics the bean reads as heavy (*guru*) and *vāta*-increasing — nourishing but hard to digest. No *rasayana* (rejuvenation) or *vajikarana* placement is attested for it, and *ojas* is not invoked; the fava sits inside *dravyaguna* as an ordinary heavy pulse, not inside the formal cultivation disciplines. Status: (c) absent for any cultivation claim.
+
+**Practitioner's note.** For the cultivator the fava's honest content is mostly abstention. It is a food, not a dosed cultivation agent, and across every tradition here its "vital" reputation is either silent or explicitly guarded — the Pythagorean and Egyptian bean-taboos are the loudest signal the substance sends. Over all of it stands the one non-negotiable gate: in G6PD deficiency the fava is absolutely contraindicated, and no supposed benefit is weighable against favism. The disciplined act here is the same one Dioscorides modelled — knowing exactly what the food is, and for whom it must never be eaten.
+
+---
+
 ### Contraindications
 
 - **G6PD deficiency / favism — ABSOLUTE:** do not eat (or expose to fava pollen) anyone with G6PD deficiency or unexplained prior haemolysis; favism can be severe or fatal, especially in children. If G6PD status is unknown in an at-risk population, caution is warranted.

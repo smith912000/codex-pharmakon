@@ -70,6 +70,22 @@ According to PubMed, a review of black radish (*Raphanus sativus* L. var. *niger
 - **Ayurvedic / Unani:** hot, pungent (*kaṭu*); *dīpana-pācana* (digestive-kindling) and *chedana* (scraping/cutting); *vata*- and *kapha*-reducing, *pitta*-increasing in excess.
 - **Galenic:** hot and dry in the second/third degree; attenuating, incising, diuretic, expectorant.
 
+### Cultivation Register
+
+**Chinese (SBJ).** 莱菔子 *lái fú zǐ* is a first-rank *dispersing* drug — it downbears qi, transforms phlegm and disperses food-stagnation — and the tradition's own famous caution, that it "breaks" the qi-tonifying action of ginseng, marks it as a mover, the categorical opposite of an upper-grade *yang sheng* tonic. No *san pin* upper grade or life-nourishing status attaches to it. **(c)** — and here the tradition's own warning is the marker: the radish is graded by what it *clears*, not by what it builds.
+
+**Unani / South Asian (CM).** As *fujl* and *mūlaka* the radish is a warming, pungent *dīpana* (digestive-kindling) and *chedana* (scraping/cutting) food-medicine — a reducing, dispersing drug. The retrieved sources give it a digestive and hepatobiliary therapeutic role; none assign it a role in the conservation of innate heat and radical moisture. **(c)** — a dispersing digestive drug, no cultivation status.
+
+**Ayurvedic (SS).** *Mūlaka* is *kaṭu* (pungent), *dīpana-pācana* and *chedana*, *vata*- and *kapha*-reducing and *pitta*-increasing in excess — again a reducing/dispersing register. No *rasāyana* or *vājīkaraṇa* cultivation status is attested for it. **(c)** absent.
+
+**Dioscoridean / Greek (DMM).** *Raphanís* is a fixed Dioscoridean drug — hot, pungent, attenuating, emetic, digestive, the seed sharper than the root — but a therapeutic one, with no subtle-body system behind it. The lineage's offering to a cultivator is its discipline of attention (grading root against the more active seed). **(c)** for cultivation status.
+
+**Egyptian (EP).** The famous claim that radishes (with onion and garlic) fed the pyramid workers descends from Herodotus (*Histories* 2.125) — a classical *Greek* report of Egyptian labour diet, not an Egyptian cultivation text. Presence in the ration is diet and provisioning, not a *heka* framing of the person's vital constitution. **(c)** absent — dietary presence is not cultivation status.
+
+**Assyrian (AT).** No secure Assyrian cultivation framing is retrievable, and the standing blocking warning applies to any substance identification and tablet reference. **(c)** absent.
+
+**Practitioner's note.** The radish is a mover, not a nourisher, and nothing in any tradition supports cultivation-through-tonification with it. What a cultivator actually does is use it to clear the food- and phlegm-stagnation that smothers the digestive fire — and the Chinese caution against pairing it with ginseng is the standing reminder to keep movers and holders apart.
+
 ### Contraindications
 
 - **Concurrent qi-tonics:** classically held to counteract ginseng and other qi-tonifying herbs — avoid combining `[USER: verify]`.

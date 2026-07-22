@@ -105,6 +105,22 @@ The liquid from cooking or canning chickpeas; contains significant saponin and p
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** Legume porridges appear in the Ebers-era record as strength-building, convalescent foods, but the corpus is indication-organised and the specific identification of chickpea within it is a modern reading; no framing of the substance's action on a person's vital constitution is attested. Status: (c) absent.
+
+**Assyrian (AT).** The chickpea (as a grain-legume ration) is secure in the cuneiform food-medicine record — the classic chickpea-and-emmer campaign ration — but under the blocking warning for Mesopotamian identifications and etiologies, no cultivation status is claimed. Its documented use is for fatigue, weakness and recovery: therapeutic and nutritive, not a placement in the person's vital economy. Status: (c) absent.
+
+**Greek (DMM).** Dioscorides treats *erebinthos* in Book II as nutritive, diuretic and reproductive-supportive, and discriminates the cultivated white from the wild black chickpea by potency — but he has no subtle-body system, so on cultivation the status is (c) absent. What he models for a cultivator is the discipline of attention: the careful separation of varieties by their sensible qualities and effects, a real assaying practice rather than a vital doctrine.
+
+**Unani (CM).** This is where the chickpea comes closest to a cultivation reading. In the humoral frame it is classed warm and moist and, unusually among pulses, nutritive-restorative — a food for convalescence, weakness and the rebuilding of a depleted constitution, and reputed to increase *shukr* (generative fluid). That restorative role sits naturally inside the tradition's central cultivation idea, the conservation of innate heat and radical moisture across a finite vital endowment. But this is a therapeutic-dietetic status, not a formal cultivation grade, and — per the standing caution against unreliable *Canon* chapter attributions — no chapter or grade is cited for it. Status: (b) framed: a restorative food read within the vital economy, not an attested cultivation assignment.
+
+**Ayurvedic (SS).** *Caṇaka* is classed in the dravyaguna as *balya* (strength-giving) and *shukrala* (improving reproductive fluid), cooling and astringent-sweet — and the roasted *sattu* preparation is a genuine strength food in living use. These are dietetic actions bordering the concern of *vajikarana* (generative vitality), but no formal *vajikarana* or *rasayana* placement is attested for the chickpea in the sources retrieved, and *ojas* is not named. Status: (b) framed: strengthening and generative dietetic actions, adjacent to the cultivation disciplines without a cited classical placement in them.
+
+**Practitioner's note.** Of the three pulses in this cluster the chickpea has the strongest and most cross-traditional building reputation — the convalescent's food, the soldier's ration, the *sattu* taken before labour. A cultivator uses it exactly as the traditions did: as a daily restorative eaten to rebuild a depleted constitution, conservational nourishment rather than a dosed agent. The honest ceiling on the claim is (b): the reputation is real and consistent, but no tradition here files it under a formal cultivation grade, and none is invented for it.
+
+---
+
 ### Contraindications
 
 - **IBS / SIBO / FODMAP sensitivity** — the stachyose and raffinose oligosaccharides are high-FODMAP fermentable carbohydrates; produce significant gas, bloating, and cramping in susceptible individuals; soaking + rinsing reduces oligosaccharide load 25–30% but does not eliminate it; begin with small quantities (30–50g cooked) and increase gradually; canned chickpeas (pre-soaked commercially) have lower FODMAP load than home-cooked from dry

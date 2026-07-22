@@ -76,6 +76,22 @@ According to PubMed, the modern evidence base treats cowpea primarily as a funct
 - **Ayurvedic (SS):** *Rasa* — *madhura* (sweet) with *kashaya* (astringent) anurasa; *guna* — *laghu* (light), *ruksha* (dry); *virya* — mildly warming; *vipaka* — pungent; *dosha* — *vata*-aggravating (dry), broadly *kapha*-pacifying; *balya* (strengthening) when well-prepared.
 - **TCM tier (no canonical *bencao* entry):** Not a classical Chinese materia medica substance; by analogy to the Chinese dietary-therapy treatment of related beans, it would read as a spleen-supporting, dampness-moderating grain-legume. Recorded here as *non-canonical / analogical only* — no fabricated *bencao* citation.
 
+### Cultivation Register
+
+**Egyptian (EP).** No cultivation framing is attested for the cowpea in the Egyptian record; that corpus is indication-organised and the identification of any specific Old-World *Vigna* within it is a modern hypothesis. Status: (c) absent.
+
+**Assyrian (AT).** Under the blocking warning for Mesopotamian identifications, no cultivation status is claimed for cowpea-type pulses; they belong to the grain-legume food economy, and nothing retrieved assigns them a role in the person's vital constitution. Status: (c) absent.
+
+**Greek (DMM).** The classical *dolichos/phaselos* pulse group is real, but which ancient bean is *Vigna unguiculata* is contested in the philological literature, and Dioscorides in any case has no subtle-body system into which a cultivation status could be placed. What the tradition offers is a discipline of attention to the pulse — its preparation and its binding, nourishing character — not a vital doctrine. Status: (c) absent.
+
+**Unani (CM).** Within the frame of the *ruḥ* and the innate-heat/radical-moisture economy, cowpea-type pulses are graded as nourishing but flatus-generating, to be corrected by cooking and warming aromatics — a humoral-dietetic placement. No cultivation status, and no conservation-of-vital-endowment role, is attested for the cowpea specifically; it is claimed by the dietetic tradition but only therapeutically. Status: (b) framed.
+
+**Chinese (SBJ).** Cowpea is not a classical *bencao* substance; the entry carries only an analogical, non-canonical reading by comparison with related beans. No *san pin* grade and no *jing–qi–shen* assignment exist for it, and none is fabricated here. Status: (c) absent.
+
+**Ayurvedic (SS).** In the pulse dietetics the cowpea (*chawli/lobia*) reads as sweet-astringent, light and drying, and is regarded as strengthening (*balya*) when properly prepared. But *balya* is a dietetic action, not a formal cultivation placement: no *rasayana* or *vajikarana* status is attested for it, and *ojas* is not invoked. It sits in *dravyaguna* as a strengthening staple pulse, not in the rejuvenative disciplines. Status: (b) framed.
+
+**Practitioner's note.** The cowpea is the archetypal base-load food: eaten to become durable, not to be moved. For the cultivator the honest answer is that its virtue is reliability — steady protein and fibre, the slow accretion of resilience across a lean season — not any attested action on the vital constitution. It is a substance you return to, prepared as every tradition here prepares dry pulses (soaked, cooked, corrected with carminatives), and that is the whole of the practice.
+
 ### Contraindications
 
 - **Favism risk is NOT applicable** in the classical sense — favism is specific to *Vicia faba* (broad bean); cowpea is not the fava bean. Do not conflate the two.

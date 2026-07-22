@@ -73,6 +73,22 @@ According to PubMed, the evidence supports a **genuine but mild** sedative-analg
 - **Egyptian (EP):** cooling/digestive remedy *and*, doctrinally, the aphrodisiac emblem of Min — the genus's great counter-tradition.
 - **Assyro-Babylonian (AT):** a cultivated cooling pot-herb; specific humoral grade not preserved [USER: verify].
 
+### Cultivation Register
+
+**Egyptian (EP).** Lettuce's Egyptian association with Min is genuine and, unusually for EP, sourceable to named scholarship — the Manchester re-examination *The Lettuce Connection* and the Springer study *Lettuce and the Sycomore* both treat the plant offered to Min, its erect latex-rich form read as a fertility signature. But this is temple-offering and fertility symbolism, not a *heka* framing of the consumer's own vital constitution, and the substance-identity in the Ebers-type corpus remains indication-organised. For the cultivation register the honest reading is **(c)**: the Min link is real but symbolic-religious, not a cultivation status one takes into oneself.
+
+**Assyro-Babylonian (AT).** Lettuce (*ḫassu*, reading to verify) appears as a cultivated cooling pot-herb, but no humoral grade is preserved and the standing blocking warning applies to the identification. **(c)** absent.
+
+**Dioscoridean / Greek (DMM).** Dioscorides distinguishes garden from wild lettuce and likens the wild latex to poppy; Galen recorded eating lettuce in old age for sleep. This is a real sedative observation — and it is precisely a *therapeutic/functional* one about the latex (lactucarium), to be kept distinct from any cultivation of the person, for which Dioscorides has no system. What the lineage offers a cultivator is its discipline of attention: telling the species apart, judging the latex, timing the gathering. **(c)** for cultivation status.
+
+**Unani / Avicennan (CM).** *Khass* is a cold-and-moist *munawwim* (sleep-bringer), refrigerant and anaphrodisiac, the seed a cooling nervine — a therapeutic identity. No conservation-of-innate-heat or radical-moisture cultivation status is attested for it specifically. **(b)** framed — claimed by the tradition, cultivation status unattested.
+
+**Chinese (TCM).** The recently corrected tag reflects genuine *wo ju* 莴苣 use, but in the retrieved sources this is a cooling food/vegetable-drug, not a graded *san pin* substance and carrying no *yang sheng* cultivation status; the entry's own energetic classification notes it was never a canonical Chinese sedative. **(b)** framed — attested in the corpus, no cultivation grade recorded.
+
+**Sushruta / Ayurveda (SS).** A minor and partly post-classical introduction to the Indian pharmacopeia: a cooling, *pitta*-pacifying pot-herb whose seed is calming, with *rasa*/*vīrya*/*vipāka* only loosely fixed for the species (flagged [USER: verify] above). No *rasāyana* or *vājīkaraṇa* cultivation status is attested. **(c)** — only a loosely-held cooling therapeutic status, no cultivation one.
+
+**Practitioner's note.** A cultivator uses lettuce as a mild evening wind-down — the gentlest tier of soporific — not as a tonic. The lactucarium sleep tradition is functional and therapeutic, and nothing across the traditions raises it to a cultivation practice: this is sleep hygiene, not cultivation of the vital constitution, and the Egyptian fertility symbolism, real as it is, does not change that.
+
 ### Contraindications
 
 - **Do not treat as an opioid or strong hypnotic.** Effects are mild; substituting lettuce/lactucarium for prescribed analgesia or sedation is unsafe and ineffective.

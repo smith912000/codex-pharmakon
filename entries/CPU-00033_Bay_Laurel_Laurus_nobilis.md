@@ -93,6 +93,20 @@ Warm bay berry oil (commercially available from Levantine producers) applied top
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** Bay reached Egypt only through Levantine and Greek trade, and its appearance in the aromatic-fumigation record is thin. The Egyptian corpus is indication-organised — it records what was compounded for a complaint, not what a substance does to the *ka*, *ba* or *ib*; and where *heka* operated, spell and drug were one intervention, so a bare botanical identity is already a modern hypothesis. **(c) — no cultivation framing attested.**
+
+**Assyrian (AT).** Laurel or related aromatic Lauraceae appear in the Nineveh tablets for digestive and topical use, but the standing blocking-warning on Assyrian substance identifications, agency attributions and tablet references is in force: the identification itself is insecure, and illness there is classified by causal agency, not by any vital-constitution grade a substance might hold. **(c) — default absence; no cultivation status recorded.**
+
+**Dioscorides / Greek (DMM).** Here the tradition's investment in the plant is enormous — but it must be read correctly. The laurel of Apollo and Daphne, the Pythia's chewed leaf at Delphi, and the victor's and poet's *corona* are **genuine Greek religious and civic culture**, and are recorded here as exactly that: cultural and cultic attestation, richly sourced in the classical record. They are **not** a subtle-body cultivation status. Dioscorides himself, who has no subtle-body system, gives only therapeutic *daphnē*: digestive, carminative, a warm poultice for joint pain, the berry oil (*oleum laurinum*) for earache and nerve pain — plus his discipline of attention (distinguishing true bay from toxic *Daphne agria*). **(b) — intensely claimed by the culture, but the claim is cultic/civic; Dioscorides assigns no cultivation grade, and the oracular symbolism is not converted into one.**
+
+**Unani / Avicenna (CM).** Ibn Sina classes *ghār* as warm in the third degree, dry in the second, and prizes the berry oil (*Duhn al-Ghār*) as a topical analgesic, with digestive, carminative and emmenagogue use. This is a therapeutic warming-drug profile; it can be sat inside the *innate heat and radical moisture* frame as a heating agent, but no source retrieved gives bay a substance-specific cultivation or vital-strengthening status. **(c) — therapeutic warming drug; no cultivation status attested.**
+
+**Ayurveda (SS).** Note first that the classical Indian "bay" (*tejpatta*, *tāmālapatra*) is properly *Cinnamomum tamala*; *L. nobilis* is aligned to it only by shared classification, so the attestation is by identity-transfer. On that footing bay is a digestive spice — *katu-tikta*, *uṣṇa vīrya*, *dīpana-pācana*, *śūla-praśamana* — a therapeutic culinary drug, not a named *rasayana*. **(b) — claimed, but as a digestive therapeutic and by substance-conflation; no *rasayana* status attested.**
+
+**Practitioner's note.** What a cultivator does with bay is cook with it daily and rub the warm berry oil into cold, aching joints — a modest, warming, everyday food-medicine. The one place it looks like a "cultivation" plant, the Greek laurel of oracle and victory, is culture and cult, not a vital-body grade; the honest reading keeps the wreath in the temple and the leaf in the pot.
+
 ### Contraindications
 
 - **Bay berry oil internal use** — the concentrated berry oil is for topical use only; internal use at therapeutic doses can cause toxicity; culinary leaf preparations are safe

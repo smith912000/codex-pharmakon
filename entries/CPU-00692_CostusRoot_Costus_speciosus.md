@@ -64,6 +64,22 @@ Based on articles retrieved from PubMed (all on *Costus speciosus* specifically)
 - **Galenic / Unani (for "costus"/*qust*):** hot and dry (2nd–3rd degree), deobstruent, carminative, emmenagogue, anthelmintic — a profile historically built on *Saussurea costus*.
 - **TCM:** "Mu Xiang" (warming, qi-regulating) is classically *Saussurea/Aucklandia*, **not** *C. speciosus* — noted for honesty.
 
+### Cultivation Register
+
+**Egyptian (EP).** The Egyptian "costus" of the Ebers material is the *Saussurea* trade root, not the Costaceae *C. speciosus* of this entry, so no cultivation framing attaches to this species from EP. Even for the trade root the Ebers corpus is indication-organised — it records what was done for a complaint, not what a substance does to the person's *ka*, *ba* or *ib* — and the operative *heka* belongs to the recitation, not to a botanical identity that is itself a modern hypothesis. Cultivation status for *C. speciosus*: (c), absent.
+
+**Assyrian (AT).** The Mesopotamian "costus-type" aromatics are again most securely *Saussurea*, and the identification of any Assyrian entry with *C. speciosus* is not textually secure. With the standing blocking warning on substance identifications, deity attributions and tablet references, the honest default holds: no cultivation status is attested for this species — (c), absent.
+
+**Greek — Dioscorides (DMM).** Dioscorides' *kostos* is the *Saussurea* root; *C. speciosus* only inherited the name in later South-Asian usage. Dioscorides offers no subtle-body system in any case, only the cultivator's discipline of provenance and assay. For the species of this entry there is no attested cultivation status — (c).
+
+**Unani — Avicennan (CM).** The *Qanun*'s *qust* — hot, dry, deobstruent, carminative — is built on the *Saussurea* root, not *C. speciosus*. It is a therapeutic corrective, and within the innate-heat/radical-moisture frame carries no conservational or longevity assignment even for the plant it does describe. For *C. speciosus* the attestation is name-level only; cultivation status (c), absent.
+
+**Chinese — Shennong Bencao Jing tradition (SBJ).** *Mu xiang* 木香 is classically *Saussurea/Aucklandia*, explicitly **not** *C. speciosus*; the SBJ tag rides on the shared "costus" name. No Chinese cultivation grade or *yang sheng* framing is attested for this species — (c), absent.
+
+**Ayurveda — Sushrutan tradition (SS).** This is the one tradition that pins to the plant: *kebuka/keukand* (*Costus speciosus*) is a recognised dravya, used for *prameha*, fevers, worms and skin disease as a heating deobstruent. That is a therapeutic *dravyaguna* placement; no *rasayana* or *vajikarana* cultivation status is attested for it in the sources retrieved. The honest register is (b) — genuinely attested for this species, but as a corrective, not a cultivation agent.
+
+**Practitioner's note.** A cultivator has almost nothing traditional to do with *this* plant: five of its six tradition tags are name-inheritances from the unrelated *Saussurea costus* and carry no attestation for the Costaceae species at all. Only Ayurveda actually names *kebuka*, and there it is a heating metabolic mover taken against *prameha* and stagnation — worked, not nourished with, and stopped when the load is cleared. The modern diosgenin/antidiabetic evidence is on this species; the ancient cultivation reputation is on the other one.
+
 ### Contraindications
 
 - **Pregnancy:** traditional emmenagogue/deobstruent "costus" roots are cautioned against in pregnancy; avoid *C. speciosus* medicinally in pregnancy absent safety data [USER: verify].

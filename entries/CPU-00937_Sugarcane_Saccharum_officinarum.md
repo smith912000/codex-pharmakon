@@ -72,6 +72,22 @@ Extending this to neurofunction, a study of sugarcane top extract (Iwata, Wu, Fe
 - **Ayurvedic / Siddha:** *ikṣu* — sweet (*madhura*), cooling (*śīta*), heavy, unctuous; *vata*- and *pitta*-pacifying; *balya*/*bṛṃhaṇa* (nourishing, tissue-building), *vājīkara* (aphrodisiac), *mūtrala* (diuretic).
 - **Galenic / Unani:** temperate to warm and moist; nourishing, demulcent, chest- and kidney-soothing; the base of the julep/syrup vehicle.
 
+### Cultivation Register
+
+**Ayurvedic (SS).** This is the one tradition that gives sugarcane a cultivation reach, and it is attested. In the classical *saṃhitā* literature *ikṣu* juice is classed *madhura* (sweet), *bṛṃhaṇa* (tissue-building) and *vṛṣya* (generative/aphrodisiac), and sugarcane — root and expressed juice — appears inside the *vājīkaraṇa* (generative-vitality) section of the *Charaka Saṃhitā*, one of the formal Sushrutan/Charakan cultivation disciplines. This is an **(a)** claim: a substance given a generative-vitality status by the tradition, dated to the classical samhitas rather than to a later compilation. Note the register precisely — it is a *bṛṃhaṇa*/*vājīkara* nourishing-generative status, not a *rasāyana* (longevity) grade, which the retrieved sources do not attest for it.
+
+**Chinese (SBJ).** 甘蔗 *gān zhè* is securely attested in the *bencao* as a sweet, cold, fluid-engendering food-medicine, but no *san pin* 三品 grade — no upper-grade *yang sheng* status — was found in the sources retrieved. It therefore carries a therapeutic and dietary identity, not a cultivation one: **(b)** framed, attested but ungraded.
+
+**Unani / Avicennan (CM).** As *qaṣab al-sukkar* the cane and its *sukkar* enter the Arabic-Unani corpus as temperate, nourishing and demulcent. The sources retrieved give it a therapeutic and vehicular role; none assign it a role in the conservation of innate heat and radical moisture, the tradition's true cultivation idea. **(b)** framed — claimed by the tradition, no cultivation status recorded.
+
+**Dioscoridean / Greek (DMM).** The Greeks knew sugarcane only as a rumour — "honey without bees" — and Dioscorides gives it no drug entry and no subtle-body framing (his corpus has none to give). What the Dioscoridean lineage offers a cultivator is its discipline of attention, later exercised by the Arabic pharmacists in grading fresh juice against jaggery against the refined isolate. **(c)** — no cultivation status; the practice is attentional, not constitutional.
+
+**Egyptian (EP).** Sugarcane reached the Mediterranean only in the Arab period, centuries after the pharaonic medical corpus had closed; it is not identifiable in the Egyptian materia medica, carries no *heka* framing and no cultivation status. **(c)** absent — here the absence is simply chronological.
+
+**Assyrian (AT).** Likewise post-dating the cuneiform medical corpus, sugarcane is not identifiable in the tablets. Under the standing blocking warning on Assyrian substance identifications, the honest reading is **(c)** absent.
+
+**Practitioner's note.** The single genuine cultivation use is the Ayurvedic one: fresh whole cane juice as a *bṛṃhaṇa*/*vājīkara* nourishment for the depleted, wasted and convalescent. Everywhere else the substance is a fluid-restorer and demulcent, not a tonic of the vital constitution. And the register only ever attaches to the *fresh whole juice* — the refined white isolate carries the plant's harms without any of this, a distinction the tradition itself insists on.
+
 ### Contraindications
 
 - **Diabetes / hyperglycaemia:** the high sugar content makes cane juice and jaggery unsuitable in uncontrolled diabetes and insulin resistance — `[USER: verify]` with a clinician.

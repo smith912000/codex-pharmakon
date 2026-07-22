@@ -63,6 +63,20 @@ According to PubMed:
 - **CM (by relation):** Within the *mu xiang* class of Qi-regulating aromatics — moves stagnant Qi of the Middle Burner, relieves distension, harmonises the stomach; warm and pungent.
 - **Kenetica tier:** ◉ Warming Qi-moving aromatic root — a primary, cross-traditionally stable member of the warm-aromatic family.
 
+### Cultivation Register
+
+**Greek — Dioscorides (DMM).** Dioscorides treats *kostos* as a warm, pungent aromatic root, grading it by colour and pungency and by trade provenance. This is a therapeutic and commercial reading, not a cultivation status: Dioscorides has no subtle-body system to assign the root to, so no vital-constitutional claim is attested here. What the tradition offers a cultivator is his discipline of attention — the assaying of a costly imported root by smell, colour and origin to tell true putchuk from adulterated. That is a real practice, and it is the whole of what DMM contributes on this substance.
+
+**Unani — Avicennan (CM).** In the Greco-Arabic materia medica *qust* is classed hot and dry and used as a deobstruent, carminative and warming corrective. Within the Unani frame of innate heat and radical moisture — where longevity is the conservation of a finite vital endowment — a hot, drying, dispersing drug of this kind is a corrective taken against a cold or obstructed state, not a conservational agent of the vital heat itself. No cultivation status (no longevity or *ruh*-strengthening assignment) is attested for costus in the sources retrieved; the claim here is therapeutic only.
+
+**Chinese — Shennong Bencao Jing tradition (SBJ).** Costus root enters the Chinese materia medica as *mu xiang* 木香, a warming mover of stagnant Qi of the Middle Burner. It is tempting to read an upper-grade (上品) cultivation status onto it, since a "mu xiang" stands in the classic — but textual research on the *Shennong Bencao Jing* finds the classical *mu xiang* cannot be securely identified with *Saussurea costus* (candidates include eaglewood and *Aucklandia*), so no *san pin* grade can honestly be assigned to this species. The attestation is therefore (b): a qi-moving therapeutic role is recorded; a cultivation grade and any *yang sheng* framing are not attested for the plant of this entry.
+
+**Ayurveda — Sushrutan tradition (SS).** As *kushtha* the root is a warming, *vata*- and *kapha*-reducing dravya for cold digestive, respiratory and skin complaints. This is a *dravyaguna* therapeutic placement; no *rasayana* (rejuvenative) or *vajikarana* (generative) status is attested for *kushtha* in the sources retrieved. It sits inside the materia medica as a corrective, not inside the formal cultivation disciplines — an honest (b).
+
+**Tibetan (FMT).** Costus is known in the Tibetan materia medica as *ru rta*, a warming aromatic used against cold and stagnation. No *bcud len* (essence-extraction) or subtle-body-practice assignment is attested for it, and per the tradition's own structure no formal "substances for subtle-body practice" category exists to place it in. Its cultivation status here is (c) — absent; the attestation is medical only.
+
+**Practitioner's note.** A cultivator does the same thing with this root in every tradition that actually names it: takes it, warm and drying, against a defined cold-and-stagnation complaint of the digestion or chest, then stops. Nothing in the retrieved sources supports long-term self-cultivation use, and the plant's CITES Appendix I status makes casual or prolonged use indefensible regardless. The honest cultivation reading is a short, purposeful, well-sourced course — and Dioscorides' assaying discipline as the transferable practice.
+
 ### Contraindications
 
 - **CITES Appendix I:** wild-collected material is prohibited in international trade; use only cultivated, documented sources.

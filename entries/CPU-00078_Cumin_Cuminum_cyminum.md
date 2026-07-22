@@ -102,6 +102,22 @@
 
 ---
 
+### Cultivation Register
+
+**Greek — Dioscorides (DMM).** Dioscorides treats *kyminon* in Book III as warming, drying, digestive, carminative and diuretic, distinguishing Ethiopian, Libyan and Cilician grades. This is a therapeutic and commercial reading; Dioscorides has no subtle-body system into which to place cumin, so no cultivation status is attested. What DMM offers a cultivator is the discipline of attention — the grading of the seed by origin and strength. Cultivation status: (c), absent.
+
+**Unani — Avicennan (CM).** Avicenna classes *kammūn* as hot in the third degree and dry in the second and uses it as a digestive stimulant, carminative and diuretic. Within the Unani frame of innate heat and radical moisture — where longevity is conservation of a finite endowment — a strongly heating, drying spice is a corrective for cold and stagnant digestion, not a conservational agent of the vital heat itself. No longevity or *ruh*-strengthening cultivation status is attested; the reading is therapeutic — (b), framed but unattested for cultivation.
+
+**Ayurveda — Sushrutan tradition (SS).** *Jīraka* is a leading *deepana-pachana* (digestive-fire-kindling) spice, *kaphavātahara*, *grāhī* and *vishaghna*, notable in postpartum use. These are *dravyaguna* therapeutic and *agni*-supporting categories; no *rasayana* (rejuvenative) or *vajikarana* (generative) cultivation status is attested for *jīraka* in the sources retrieved. It kindles the digestive fire day to day without carrying a formal cultivation assignment — an honest (b).
+
+**Egyptian (EP).** The Ebers Papyrus lists cumin in compound preparations for digestive and eye complaints — an indication-organised corpus that records what was done for a complaint, not what the seed does to the *ka*, *ib* or vital constitution, and whose operative *heka* belonged to the recitation accompanying the drug. No cultivation framing is attested — (c), absent.
+
+**Assyrian (AT).** *Kamūnu* is among the most common substances in the cuneiform medical corpus, used for bloating, digestive cold and urinary retention. With the standing blocking warning on substance identifications and tablet references, and the corpus being complaint-organised by causal agency rather than by any vital-constitutional scheme, no cultivation status is attested — (c), absent.
+
+**Practitioner's note.** The honest cultivation answer for cumin is "nothing special." Every tradition that names it uses it as a kitchen-and-clinic carminative — a warming spice that kindles digestive fire, taken with food, day in and day out — and none assigns it a cultivation grade, a rejuvenative status or a subtle-body role. A cultivator's use of cumin is dietary and habitual, not a discipline; its value is that it makes the daily digestion of everything else work better.
+
+---
+
 ### Contraindications
 
 - **Severe hyperacidity / active peptic ulcer disease:** Thermogenic and acid-stimulating properties may exacerbate gastric mucosal irritation; use with food or in ghee vehicle

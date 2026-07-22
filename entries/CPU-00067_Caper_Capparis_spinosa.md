@@ -55,6 +55,20 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 - **Unani/Arabic mapping:** *kabar* — hot-dry; muhallil/mufattit (resolvent of indurations), deobstruent of liver and spleen, digestive, anti-rheumatic.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the warming-drying, deobstruent/resolvent axis (resolving hard visceral obstruction), with a digestive-bitter aspect; a robust "open the obstruction" agent.
 
+### Cultivation Register
+
+**Egyptian (EP).** No cultivation framing is attested. The corpus is indication-organised, recording remedies against complaints rather than a substance's action on the person's vital constitution, and no *heka* operation or deity attachment can be claimed for the caper without a source that the material retrieved does not provide. (c) absent.
+
+**Assyrian (AT).** Absent, and under the standing blocking warning. Any cuneiform identification, tablet reference or divine-agency classification for the caper requires named Assyriological support not in hand, so no cultivation status is recorded here — (c).
+
+**Greek / Dioscorides (DMM).** Dioscorides carries no subtle-body system, so there is no cultivation status to give. In Book II he assigns the caper a firmly **therapeutic** identity — a bitter, warming, drying deobstruent of the hardened spleen and liver — which is a humoral-medical role, not a cultivation one. What he offers a practitioner instead is a discipline of attention: selecting and assaying the bitter root-bark, distinguishing the medicinal bark from the culinary bud, judging quality by taste and provenance. That is a genuine practice of discernment, not a nourishing assignment. (c) cultivation absent.
+
+**Unani / Avicenna (CM).** The tradition clearly claims the plant — *kabar*, a hot-dry *muhallil/mufattit* (resolvent of indurations) and deobstruent of liver and spleen — but this is a therapeutic humoral placement, not a cultivation grade. Unani cultivation proper concerns the conservation of innate heat and radical moisture across a lifetime; the caper appears as a resolvent drug and digestive within the medical register, and no vital-endowment or *ruh*-strengthening status is attested for it. It would be a fabrication to supply one, so this is (b), framed as unattested.
+
+**Ayurveda (SS).** Related *Capparis* species (e.g. the *Himsra* group) appear in South Asian pharmacy, but no *rasayana* or *vajikarana* status is attested for *Capparis spinosa* in the sources retrieved, and the tag rests on related-species and folk-Mediterranean usage rather than a secured Sushrutan assignment. No cultivation status may be claimed — (c) absent for cultivation, therapeutic only.
+
+**Practitioner's note.** The caper is food and medicine, not a cultivation substance. The nearest thing to a practice is dietary and behavioural: the sharp bitter bud taken before a meal to rouse appetite and digestion — a stomachic ritual, legitimate as an abstentive/behavioural move but not a vitality tonic. Its stronger identity, the root-bark deobstruent of the enlarged spleen, is a physician's remedy applied against a defined complaint and then stopped, with no tradition assigning it a life-nourishing grade.
+
 ### Contraindications
 
 - **Pregnancy — caution.** Emmenagogue/deobstruent reputation; medicinal bark doses traditionally avoided (pickled buds are ordinary food). [USER: verify.]

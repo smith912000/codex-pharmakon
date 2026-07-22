@@ -82,6 +82,24 @@ According to PubMed:
 
 ---
 
+### Cultivation Register
+
+**Assyrian (AT).** (c). The attestation is regional and category-level — the *isfanākh* group placed among the cooling cultivated greens of the Persian-Mesopotamian dietary because that is the plant's cradle, not because a cuneiform text assigns spinach a status. The blocking warning for Mesopotamian identifications applies, and spinach is in any case a comparatively late cultivar; no vital-constitution or agency-level cultivation claim can be responsibly made.
+
+**Unani (CM).** This is where spinach's written medical identity is genuinely strongest — but it remains a therapeutic/dietetic identity, not a cultivation grade. Ibn Sina and the Unani physicians class *isfanākh* as cold and moist: a cooling, moistening, demulcent, gently laxative and easily-digested green for hot, bilious and feverish states. Read against the tradition's cultivation idea — the conservation of radical moisture against the innate heat that consumes it — a cold-and-moist wholesome green is at least consonant with tempering and moistening a hot, dry constitution. But no substance-specific cultivation status is attested (no *mufarrih*/*ruh* assignment), so this is (b): a real and prominent dietetic frame, cultivation status unclaimed.
+
+**Greek (DMM).** (c). Classical Greek medicine predates spinach's westward spread; Dioscorides covered the Amaranthaceae pot-herbs (blite, orache) but not *S. oleracea* by name, and the entry rightly flags that any specific passage attribution needs verification. There is no subtle-body system here to invent. What the Dioscoridean framework offers a cultivator is its discipline of attention — the sensory assay and sorting of the cooling pot-herbs — into which spinach was later absorbed as a "cold and moist" green.
+
+**Egyptian (EP).** (c). Spinach is not an ancient Egyptian plant; its presence in this register is by the tradition's regional dietetic reach rather than any Ebers attestation. The indication-organised corpus assigns it no action on the *ka* or *ib*, and none is reconstructed. This is honestly absent.
+
+**Chinese (SBJ).** *Bōcài* 菠菜 is recorded as a western ("Persian") import arriving in the Tang, classed cool, sweet and moistening, entering Intestines and Stomach to nourish Blood and Yin, moisten dryness and lubricate the intestines. Nourishing Blood and Yin touches the vital substrate more than a mere fibre-food does — but it is recorded as a dietary tonic action, not as a graded cultivation status: no *san pin* 三品 grade and no *anshen* 安神 spirit-action is attested for spinach, and its late foreign-import status makes any *yang sheng* longevity framing an overlay rather than a source-claim. This reaches (b): an attested Blood-and-Yin-nourishing dietetic frame, cultivation grade absent.
+
+**Ayurveda (SS).** *Palak*/*palakya* is treated as *sheeta* (cooling) and *madhura* (sweet), moistening and mildly laxative, a *pitta*-pacifying blood-nourishing green — attested dravyaguna qualities and the honest ceiling. No *rasayana* or *vajikarana* discipline-assignment is attested, and the standard caution that leafy greens are *guru* and oxalate-bearing cuts against any rejuvenative reading. This is (b): a genuine cooling-nourishing quality-frame, no cultivation grade.
+
+**Practitioner's note.** Spinach is a cooling, moistening, blood-nourishing potherb whose written strength is in the Unani and Chinese dietetics, but which nowhere rises above a (b) dietetic frame into an attested cultivation status. A cultivator uses it as the clean cooling green for hot, dry, constipated, convalescent states — nourishing blood and yin while gently opening the bowel — always cooked and blanched to hold the oxalate down. There is no essence-building or longevity claim here to reach for; the honest use is nutritional and constitutional.
+
+---
+
 ### Contraindications
 
 - **Oxalate / kidney-stone risk** — high oxalate content; contraindicated in calcium-oxalate stone formers and hyperoxaluria; always cook/blanch and moderate quantity; do not consume large raw quantities

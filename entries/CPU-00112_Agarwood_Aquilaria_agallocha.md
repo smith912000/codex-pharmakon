@@ -53,6 +53,22 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Ayurvedic/Unani mapping:** Agaru/ud — warming, aromatic; *kapha-vata* reducing; digestive, nervine, cardiac, calming.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** for the warming, qi-descending/moving action, with a ☿ **Shen** ascription for the calming, centring effect of the fragrance — a precious aromatic that settles both the qi and the spirit.
 
+### Cultivation Register
+
+**Dioscorides / Greek (DMM).** Dioscorides records *agallochon* (ἀγάλλοχον) as an aromatic wood carried from India and Arabia — chewed for the breath, its decoction taken for the stomach and mouth. That is the whole of it: an imported aromatic with digestive indications. *De Materia Medica* carries no subtle-body system to graft onto it, and none should be manufactured here. What the Greek tradition genuinely offers a cultivator of this wood is a discipline of attention — the assay of a costly, heavily-adulterated material by scent, density and origin, exactly the connoisseurship the oud trade still demands. **(c) — no cultivation status is attested; the tradition supplies discernment, not a vital assignment.**
+
+**Unani / Avicenna (CM).** *Ud* is received in Unani practice as a warming cardiac and nervine aromatic, and the honest place to sit it is inside the doctrine of *innate heat and radical moisture* — the finite vital endowment whose depletion *is* ageing, so that a warming, gladdening aromatic is understood as conserving and steadying the vital faculty rather than adding to it. It is tempting to file *ud* among the *mufarrih* (gladdening/cardiac drugs said to strengthen the *ruh*), but that category belongs to the *Kitāb al-Adwiya al-Qalbiyya*, not the *Canon*, and no source retrieved attests agarwood specifically on that list — so no *mufarrih* assignment is published here. **(b) — claimed as a cardiac/nervine tonic within a real conservational frame, but no substance-specific cultivation status is sourced.**
+
+**Chinese (SBJ).** *Chen Xiang* 沉香 enters the Chinese materia medica late — first recorded in the *Mingyi Bielu* (Tao Hongjing, 420–589 CE) as the South Sea trade carried it inland — and so is **absent from the *Shennong Bencao Jing*, where the *san pin* 三品 grades that would confer a cultivation status are assigned.** It therefore carries no upper/middle/lower-grade *yang sheng* standing in the foundational classic. Its recorded role is therapeutic and directional: acrid, bitter, warm; moves and descends qi, warms the middle, aids the Kidney's grasping of qi. **(b) — attested in the materia medica but with no *san pin* grade recorded; a therapeutic, not a cultivation, status.**
+
+**Ayurveda (SS).** *Agaru* is documented as a warming, *kapha-vata*-reducing aromatic — digestive, nervine, and prized as incense. It is not attested in the sources retrieved as a named *rasayana* (rejuvenation) or *vajikarana* (generative) drug; its standing is that of a therapeutic and fragrant *dravya*, not a formal rejuvenative discipline. **(b) — claimed by the tradition, but framed as therapeutic/aromatic with no *rasayana* status attested.**
+
+**Tibetan (FMT).** Agarwood (*a-ga-ru*) is a valued constituent of Tibetan incense and compound formulas, reaching the plateau through Indian and Silk Road transmission. Its devotional and fumigatory use is real and historically attested; but the Four Tantras define **no formal "substances for subtle-body practice" category**, and none is asserted for it here. **(c) — ritual and compound use attested; no cultivation status.**
+
+**Ritual note (across traditions).** Agarwood's pre-eminence as Buddhist, Islamic and Hindu devotional incense is securely attested and recorded here as historical liturgical practice. That devotional standing is not the same as a subtle-body *cultivation* status, and it is not converted into one.
+
+**Practitioner's note.** What a cultivator actually does with agarwood is burn it and sit with it — a settling, centring aromatic for meditation and devotional attention, and internally a small warming dose to move and descend stuck, cold qi. No tradition surveyed grants it a long-life *cultivation grade*; the honest use is aromatic and conservational, and the first practical discipline it demands is the discernment of genuine resin-rich wood from the adulterated (and CITES-protected) trade.
+
 ### Contraindications
 
 - **Heat patterns / yin-deficiency with heat (CM).** A warming aromatic is contraindicated in heat/dryness-from-deficiency.

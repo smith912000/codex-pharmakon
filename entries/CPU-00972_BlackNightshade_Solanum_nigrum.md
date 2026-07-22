@@ -79,6 +79,22 @@ According to PubMed:
 - **Ayurvedic:** *Kakamachi* — tikta-katu rasa; tridosha-balancing in correct preparation; liver/spleen and skin herb, shotha-hara (anti-oedema)
 - **Galenic / Unani:** Cold and dry (second degree); cooling repellent (radd) against hot inflammatory fluxes; *ʿinab al-thaʿlab*
 
+### Cultivation Register
+
+**Egyptian (EP).** Nightshade-type cooling poultices belong to the Nile-Valley repertoire of cold external remedies, but the attestation is at genus/category level and the entry flags specific Ebers recipes for verification. The corpus is indication-organised and *heka*-completed in ways not recoverable for this plant; it records a cooling application, not any action on the *ka*, *ba* or *ib*. No cultivation framing — (c) absent.
+
+**Assyrian (AT).** *Solanum*-type cooling, swelling-reducing plants appear in the Mesopotamian tablets only at the category level, with identifications partly reconstructed and the standing blocking warning in force. No vital or spiritual status can be raised here — (c) absent.
+
+**Greek — Dioscorides (DMM).** Dioscorides' *strychnon kēpaion* is the founding text of this plant's entire discipline: he explicitly separates the safe, edible "garden nightshade" from the stupefying *hypnotikon* and *manikon* cousins. He has no subtle-body system; what he offers a cultivator is the discipline of attention in its sharpest form — a discrimination of species, part and ripeness on which safety literally depends. (c) absent as to cultivation status, with a real and load-bearing assay discipline in its place.
+
+**Unani — Ibn Sīnā (CM).** *ʿInab al-thaʿlab* is classed cold and dry, a cooling *radd* (repellent) driving back hot fluxes, with the Greek dose/ripeness caution preserved. This is a therapeutic humoral frame; no conservation of innate heat or radical moisture — the tradition's cultivation idea — is attested for it. Framed, status unattested — (b).
+
+**Ayurveda (SS).** *Kākamācī* is a well-attested *dravya* (tikta–kaṭu, a liver/spleen and skin herb, *śotha-hara*). The entry calls it "*rasāyana*-adjacent," but that is not a formal classification: no *rasāyana* or *vājīkaraṇa* cultivation status is attested for it in the sources retrieved, and the "adjacent" wording should not be read upward into one. Framed as therapeutic, no cultivation status — (b).
+
+**Chinese (SBJ).** *Lóng kuí* 龍葵 is bitter–slightly-sweet and cold, a *qing re jie du* 清熱解毒 (clear-heat, resolve-toxicity) drug — but it is documented in the later compilations (Li Shizhen's *Bencao Gangmu*, 1596) rather than the Han *Shennong Bencao Jing*, and no *san pin* 三品 grade is recorded for it. If anything its action is disease-attacking (*zhi bing* 治病), the opposite pole from conservational *yang sheng* 養生; it carries a therapeutic status only. Framed, no grade attested — (b).
+
+**Practitioner's note.** Black nightshade is a discrimination plant, and its cultivation lesson is craft, not vitality: in no tagged tradition is it a longevity or tonic drug. What a cultivator actually does with it is Dioscoridean — know the species, the part, the ripeness, the preparation — and abstain absolutely from the green berry and raw mature leaf. The register's honest verdict is attention plus abstention.
+
 ---
 
 ### Contraindications

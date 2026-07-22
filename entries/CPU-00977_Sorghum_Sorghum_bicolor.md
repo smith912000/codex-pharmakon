@@ -82,6 +82,24 @@ According to PubMed:
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** (c). *Durra* is an ancient Nile-and-Nubian granary staple, but the attestation is category-level — grain, gruel, bread of the arid south — and the entry itself already flags specific Ebers recipe claims as unverified. The indication-organised papyri record what was done for a complaint, not a doctrine of what sorghum does to the *ka* or *ib*. Any intervention using it would have carried its *heka* as an inseparable component; that does not convert the grain into a substance with a vital-constitution status. Famine-resistance and granary symbolism are culture, not cultivation.
+
+**Assyrian (AT).** (c), and rightly the default here. The "durra"-cognate grains sit in the cuneiform repertoire at the category level, as storable warming staples, and the blocking warning for Mesopotamian substance identifications, tablet references and agency-attributions applies with full force. Nothing in the sources retrieved supports a *ruh*- or agency-level cultivation status for sorghum.
+
+**Greek (DMM).** (c). The Greco-Roman dietetic literature knew the *milium*/sorghum panicle-grain group as warming, drying, astringent cereal-food — a humoral and dietetic reading, with no subtle-body system behind it and none to be invented. What the tradition offers a cultivator is, as with all its grains, a discipline of attention: distinguishing the binding pigmented grain from the moistening ones, judging its drying quality against the eater's constitution.
+
+**Unani (CM).** *Dhura* is classed as warming and drying with an astringent quality, nourishing and strengthening but binding in excess — a humoral reading that maps precisely onto sorghum's condensed-tannin load. Set against the tradition's cultivation idea (the conservation of innate heat and radical moisture), a warming, drying grain is if anything the opposite of a moisture-conserving longevity substance, and in any case no substance-specific cultivation status — no *mufarrih* or *ruh*-strengthening assignment — is attested for sorghum. This is (b): a real dietetic-humoral frame, with the cultivation status unclaimed and, on the drying reading, not to be assumed.
+
+**Ayurveda (SS).** *Jowar* is treated as *madhura-kashaya* (sweet-astringent) in *rasa*, *ruksha* (dry) and comparatively *laghu* — a *kapha*- and *medas*-reducing dryland dietetic grain. Those are attested dravyaguna qualities and the honest ceiling. No *rasayana* or *vajikarana* discipline-assignment is attested; a drying, reducing grain is a poor candidate for a bulk-building rejuvenative in any case. This reaches (b) — a genuine quality-frame, no cultivation grade.
+
+**Chinese (SBJ).** (c) for cultivation status. *Gāoliáng* 高粱 is attested as a warm, sweet-astringent grain entering Spleen and Stomach — strengthening the Spleen, harmonising the Stomach, checking diarrhoea, drying damp: a therapeutic and dietetic profile, not a cultivation one. No *anshen* 安神 spirit-action and no *san pin* 三品 grade are attested for it in the sources retrieved, so unlike its companion grain wheat it reaches no (a). Its historical role as the base grain of distilled *baijiu* is an industrial fact, not a *yang sheng* nourishing-life claim.
+
+**Practitioner's note.** Sorghum is a staple grain with, honestly, nothing above (b) in any tradition and (c) in most — the drought-belt cereal of survival, valued for enduring storage, a low-glycemic gluten-free carbohydrate base and an unusual antioxidant/tannin profile. A cultivator uses it as the warming, consolidating, damp-draining grain of the dry table; there is no cultivation status here to reach for, and the astringent-drying quality is itself the caution.
+
+---
+
 ### Contraindications
 
 - **High-tannin antinutrition** — heavy reliance on high-tannin sorghum without processing (soaking/fermentation) reduces protein and mineral (iron, zinc) bioavailability; a concern in monotonous diets and for those with marginal micronutrient status

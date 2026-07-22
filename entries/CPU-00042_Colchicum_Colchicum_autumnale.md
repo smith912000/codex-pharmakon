@@ -57,6 +57,20 @@ Codex policy: mechanism stated securely; named citations to be supplied and veri
 - **Byzantine/Arabic mapping:** *hermodactyl* — the gout remedy; the strand that preserved colchicum's therapeutic use through the medieval period.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** for its action on inflammatory "heat-and-swelling" stagnation (the gouty joint), with a ☿ **Shen** ascription reflecting its systemic, cell-level reach (mitotic arrest) and life-or-death margin — a substance that acts at the deepest regulatory level of the dividing cell.
 
+### Cultivation Register
+
+**Egyptian (EP).** No cultivation framing is attested. The Egyptian corpus is indication-organised — it records what was done for a complaint, not what a substance does to a person's vital constitution — and for colchicum even the botanical identification behind any purported Egyptian use is a modern hypothesis, not a secured reading of the papyri. No *heka* operation, deity attachment, or life-nourishing role can be claimed here; this is a plain (c) absent.
+
+**Assyrian (AT).** Absent, and under the standing blocking warning. Any substance identification, tablet reference or divine-agency attribution for colchicum in the cuneiform corpus would require named Assyriological support that the sources retrieved do not supply, so no cultivation status is recorded — (c).
+
+**Greek / Dioscorides (DMM).** Dioscorides carries no subtle-body system, so there is no cultivation status to report. What he does record is the opposite of a nourishing role: in Book IV he files *kolchikon* among the **poisons** and warns of its lethality. The discipline he offers a practitioner is therefore one of attention and discrimination — telling this leafless autumn flower and its corm apart from edible saffron and wild garlic, a distinction whose failure is still a recurrent cause of fatal poisoning. That is a real practice of assay and provenance, not a cultivation assignment. (c) cultivation absent.
+
+**Unani / Avicenna (CM).** The plant is claimed by the tradition — as *hermodactyl*, the cautiously-used remedy for the acute gouty attack preserved through the Arabic physicians — but that is a **therapeutic** identity, not a cultivation one, and no *san*-style vital grade attaches to it. Unani longevity practice is the conservation of the finite endowment of innate heat and radical moisture; a narrow-margin corm poison sits outside that project as a physician's intervention, not a substance for nourishing the *ruh*. No cultivation status is attested for it — (b), framed as unattested.
+
+**Ayurveda (SS).** *Colchicum autumnale* is a European plant with no secure place in the classical Sushrutan materia medica; no *rasayana* (rejuvenative) or *vajikarana* (generative) status is attested for it in the sources retrieved, and none may be asserted. Whatever later appearance the genus has in South Asian pharmacy is medicinal, not a cultivation assignment. (c) absent.
+
+**Practitioner's note.** For the cultivator the honest answer is *nothing*. This is a metaphase poison with a razor-thin margin and no antidote; not one of the five traditions assigns it a life-nourishing or vitality-building role, and the traditions that engage it at all do so as poison (Dioscorides) or as a supervised therapeutic (the hermodactyl gout strand and its modern colchicine descendant). It belongs to the physician and the laboratory, never to a personal cultivation practice.
+
 ### Contraindications
 
 - **Narrow therapeutic index — absolute.** Toxic dose near therapeutic dose; overdose frequently fatal; no antidote.

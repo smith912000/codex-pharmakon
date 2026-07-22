@@ -105,6 +105,22 @@ Moussaieff A, Rimmerman N, Bregman T, Straiker A, Felder CC, Shoham S, Kashman Y
 
 ---
 
+### Cultivation Register
+
+*Only the five tagged traditions (CM, DMM, SBJ, SS, FMT) are registered below. The EP and AT material in Origin & Tradition concerns the Arabian/Somali resins (*B. sacra* / *B. carterii*, entries I_013 / I_300) and is not carried into this Indian-frankincense register.*
+
+**Unani / Avicenna (CM).** *Kundur* is received in Unani practice as a warming, astringent resin with cardiac and cognitive repute, best sat inside the doctrine of *innate heat and radical moisture* — the finite vital endowment whose conservation, not augmentation, is the whole of longevity work. The familiar claim that frankincense "strengthens memory and intellect" could not be verified to a *Canon* chapter in the sources retrieved, and per house policy no *Canon* chapter reference is published (the standard English is an unreliable adaptation); nor is a *mufarrih* assignment made. Note too that the Unani resin is properly the Arabian *B. sacra*, so any status is transferred to Indian *B. serrata* only by conflation. **(b) — claimed within a real conservational frame, but no substance-specific cultivation status is sourced.**
+
+**Dioscorides / Greek (DMM).** Dioscorides treats *libanos* at length as warming and astringent — filling ulcers, staunching flux, for eyes, gums and broken bones. This is a therapeutic profile only; *De Materia Medica* holds no subtle-body system, and the *libanos* he means is the Arabian resin, not Indian *B. serrata*. What the Greek line offers a cultivator is its discipline of attention: provenance, grade and sensory assay of the tears. **(c) — no cultivation status attested; the tradition gives therapeutic indication and connoisseurship, not a vital assignment.**
+
+**Chinese (SBJ).** The entry's *Rǔ Xiāng* 乳香 material is drawn from Li Shizhen's *Bencao Gangmu* (1596) — a late compilation. Frankincense is **not in the *Shennong Bencao Jing***; it entered Chinese practice through Tang–Song maritime trade, so it carries no *san pin* 三品 grade from the foundational classic. Its recorded action is therapeutic and moving — acrid, warm; activates blood, dissipates stasis, alleviates pain, regenerates tissue. **(b) — attested in the materia medica (and dated to a 1596 compilation), with no *san pin* cultivation grade recorded; a therapeutic, not a cultivation, status.**
+
+**Ayurveda (SS).** *Shallaki* is documented in the *Charaka* and *Sushruta Samhita* squarely as an anti-inflammatory / anti-rheumatic drug — for *vātarakta*, *āmavāta* and *śotha*, and in surgical wound and fracture care. That is a *therapeutic* standing (*shothahara*, *vedanāsthāpana*), **not** a *rasayana* (rejuvenation) or *vajikarana* one; no source retrieved assigns it a rejuvenative-discipline status. **(b) — strongly claimed, but as therapeutic; no *rasayana* cultivation status attested.**
+
+**Tibetan (FMT).** Boswellia reached Tibetan compounding via Indian and Chinese transmission and appears in warming resin formulas for bone, joint and ceremonial-purification use. Its ritual and compound use is attested; but the Four Tantras define **no formal "substances for subtle-body practice" category**, and none is asserted for it. **(c) — compound and ceremonial use attested; no cultivation status.**
+
+**Practitioner's note.** A cultivator's honest use of Indian frankincense is therapeutic: a lipophilic anti-inflammatory resin taken with fat, in a defined course, to hold connective tissue and joints through hard training — not a long-life essence-builder. Its devotional standing as incense is real and historical, but it belongs to the Arabian resins; the standardized *B. serrata* extract on the bench is a medicine, and its own traditions grade it as one.
+
 ### Contraindications
 
 - **Pregnancy (particularly first trimester):** Historical emmenagogue use documented in multiple traditions; boswellic acids may stimulate uterine contractility at high doses; contraindicated as a supplement during pregnancy; traditional healing use in some cultures for post-term delivery stimulation underscores the uterotonic potential; culinary/incense ceremonial levels are likely without clinical risk but therapeutic oral supplementation should be avoided.
