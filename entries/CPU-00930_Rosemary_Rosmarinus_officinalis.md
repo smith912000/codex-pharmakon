@@ -2,7 +2,8 @@
 
 ## *Salvia rosmarinus* Spenn. (syn. *Rosmarinus officinalis* L.) | Family: Lamiaceae
 
-**Tradition Tags:** AT, CM, DMM, SBJ, SS
+**Tradition Tags:** AT, DMM, CM, SBJ, SS, EF
+**Tags (previous line, retained for reference):** AT, CM, DMM, SBJ, SS
 **Energetic Classification:** Hot and dry in the second degree (Galenic/Unani); attenuant, cephalic, resolvent, emmenagogue
 **Training Phase:** Phase III — Consolidation & Recall (the memory-fixing agent of the Codex; also a Phase I circulatory opener)
 
@@ -102,6 +103,8 @@ The synthesis that survives scrutiny is narrower than the folklore but stronger 
 **Chinese — Bencao (SBJ).** As **迷迭香 *mí dié xiāng*** rosemary enters the Chinese record as an imported western aromatic — pungent (辛) and warm (温), an aromatic that awakens the spirit and opens the orifices (**醒神開竅**) and moves qi, occupying the clinical ground of a clouded *shen* 神 and blocked orifices. But it is a late import and "not an indigenous *Bencao* staple," and so it stands outside the classical Shennong *san pin* 三品 grading — no upper, middle or lower grade (上品／中品／下品) is recorded for it in the sources retrieved. Within *yang sheng* 養生, which is conservational rather than curative, it therefore carries a therapeutic action, not a cultivation grade. **(b) framed.**
 
 **Ayurveda (SS).** Rosemary is not a classical Sushrutan *dravya*; it enters the Indian system by later Unani-mediated reception and is handled there as a *katu-tikta*, *ushna-virya* aromatic, *kapha-vata* reducing and ***medhya*** (intellect-supporting) in effect, acting on *prana vayu* seated in the head. That *medhya* designation is a reception classification, not a formal Sushrutan status: no *rasayana* (rejuvenation) or *vajikarana* (generative vitality) assignment is recorded for it, and it is not one of the classical *medhya rasayana* *dravyas*. Reception, not origin. **(b) framed.**
+
+**European folk / phytotherapy (EF).** In the Western herbal tradition — the medieval herbals running through the Eclectic and Physiomedical writers to the modern phytotherapeutic reception and Commission E — rosemary carries a dense cultural and therapeutic charge: the scholar's and student's garland worn for memory, the sprig carried by mourners so that the dead are *not forgotten*, its shared place in funeral and wedding rites, and the plain restorative, carminative and circulatory uses of the leaf and its infusion. This is a genuine strand of folk symbolism and materia medica, but European herbalism holds no formal doctrine of a vital substrate or subtle body against which a cultivation status could be assigned — there is no Western "vital body" grade to confer, and the Codex will not manufacture one. What the tradition actually offers a cultivator is the recorded practice itself: rosemary kept and worn as an aid to memory and enacted as a rite of remembrance — a symbolic-and-sensory folk use, held as recorded custom, not a proven mnemonic-cultivation claim and not a vitality grade. **(c) absent** as to cultivation status.
 
 **Practitioner's note.** Across all five traditions rosemary is worked as a head aromatic, and the cultivator's discipline here is *dose*, not accumulation. The effective act is the small, repeated, aromatic exposure at the moment of encoding and recall — the garland, the infusion, the low powder dose — never the megadose, which the traditions marked as a second-degree drug that turns on you and which the modern data confirm as an inverted-U. Nothing here is a substance taken long-term to build vitality: it is a precise, short-range tool for the head, and the whole lesson is restraint.
 

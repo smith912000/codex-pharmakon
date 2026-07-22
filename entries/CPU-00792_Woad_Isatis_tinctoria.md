@@ -2,7 +2,8 @@
 
 ## *Isatis tinctoria* L. | Family: Brassicaceae
 
-**Tradition Tags:** AT, CM, DMM, SBJ, FMT
+**Tradition Tags:** AT, DMM, CM, SBJ
+**Tags (previous line, retained for reference):** AT, CM, DMM, SBJ, FMT
 
 **Energetic Classification:** Cold and dry (Galenic); bitter-cold, heat-clearing and toxin-resolving (TCM)
 
@@ -66,8 +67,6 @@ According to PubMed, woad has a substantial modern evidence base. Speranza et al
 **Unani — Avicenna (CM).** Woad is treated as cold and dry, an astringent and desiccant laid on hot swellings, ulcers and haemorrhage, consistent with the Galenic reading carried through Arabic pharmacy. The tradition's central cultivation idea — the husbanding of innate heat and radical moisture, whose depletion is ageing itself — is a frame of the whole regimen and is not a status assigned to this cooling, drying simple; no *mufarrih* or cardiac-strengthening role is claimed for it. **(b) framed:** attested and used therapeutically, with no cultivation status sourced.
 
 **Chinese — Shennong / Bencao (SBJ).** The woad drugs — *Da Qing Ye* 大青葉 (leaf), *Ban Lan Gen* 板藍根 (root) and the processed pigment *Qing Dai* 青黛 — are classic *qing re jie du* 清熱解毒 ("clear heat and resolve toxicity") remedies, worked against febrile epidemic disease, sore throat and eruptive fever. That is a curative, disease-attacking function, the opposite pole from *yang sheng* 養生, the conservational nourishing of life. The medicinal 藍 (the indigo/blue-dye group) does first appear in the Shennong Bencao Jing, but that classical 藍 is polytypic — it covers both 蓼藍 (*Polygonum tinctorium*) and 菘藍 (*Isatis*) — so no *san pin* 三品 grade can be securely attached to woad in particular, and none is asserted here. Its Chinese standing is therapeutic. **(b) framed.**
-
-**Tibetan (FMT).** No Tibetan / Sowa Rigpa framing for woad is present in this entry or the retrieved sources: the substance is not placed against the three *nyes pa* (rlung / mkhris pa / bad kan), given no *bcud len* (essence-extraction) role, and — consistent with the tradition carrying no formal "substances for subtle-body practice" category to begin with — holds no cultivation status here. **(c) absent.**
 
 **Practitioner's note.** Woad is a cooling, heat-clearing simple, not a substance a cultivator takes to build the person. What one actually does with it is short and defined: decoct the root or leaf against an acute febrile, sore-throat or eruptive illness, or lay a leaf preparation on hot, irritated skin — then stop when the heat is resolved. Across every tradition here its character is curative and cooling; there is no grade, no rejuvenative division, no conservation role to invoke. Use it to quench a defined heat, not as a tonic to be taken long.
 

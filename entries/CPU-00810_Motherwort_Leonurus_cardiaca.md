@@ -2,7 +2,8 @@
 
 ## *Leonurus cardiaca* L. | Family: Lamiaceae (Labiatae)
 
-**Tradition Tags:** CM, DMM, SBJ, SS, FMT
+**Tradition Tags:** CM, SBJ, SS, FMT, EF
+**Tags (previous line, retained for reference):** CM, DMM, SBJ, SS, FMT
 **Energetic Classification:** Cold and dry (Galenic); bitter, moving-and-settling to the heart
 **Training Phase:** Settling / Heart-Steadying (Kenetica) — calms an over-driven system
 
@@ -60,8 +61,6 @@ According to PubMed, there is genuine mechanistic support for the traditional ca
 
 ### Cultivation Register
 
-**Greek — Dioscorides (DMM).** The Greco-Roman material knows only *Leonurus*-type labiates in a loose, group-level way — bitter herbs used to quiet palpitation and "bring on the courses" — and the securely-Dioscoridean identity of this specific European plant is doubtful. Dioscorides carries no subtle-body doctrine that could give the herb a cultivation status; what the tradition offers a cultivator is his discipline of attention — the sensory assay of a bitter cardiac-and-uterine herb, and the guard against misidentification within a crowded labiate genus. That is a practice of provenance and judgement, not a vital-body assignment. **(c) absent** as to cultivation status.
-
 **Unani — Avicenna (CM).** The herb carries a Galenic–Unani humoral grading — cold and dry, a bitter cardiac and uterine deobstruent said to "gladden the heart" while promoting the menses. That "gladdening" gestures toward the *mufarrih* cardiac-drug idea, but that category belongs to the *Kitāb al-Adwiya al-Qalbiyya*, not the *Canon*, and no sourced attestation places this European plant there; no constituent list is offered. The tradition's proper cultivation idea — conservation of innate heat and radical moisture across the regimen — is not assigned to a cold-dry deobstruent. Claimed humorally, with no cultivation status sourced: **(b) framed.**
 
 **Chinese — Bencao (SBJ).** The classical Chinese attestation is not for this plant. The Chinese "mother's herb," Yì Mǔ Cǎo 益母草, is *Leonurus japonicus* — a botanically distinct species whose monograph, as the entry's own nomenclature warning states, is not interchangeable with *L. cardiaca*. For that sibling species the tradition's use is 活血調經 (invigorate blood, regulate menstruation), a blood-moving therapeutic function of the lower burner, not a *yang sheng* 養生 or *san pin* 三品 cultivation status. None of it transfers to this entry's Western species, which the classical Chinese materia medica does not treat. **(c) absent** for the tagged species.
@@ -69,6 +68,8 @@ According to PubMed, there is genuine mechanistic support for the traditional ca
 **Ayurveda (SS).** *Leonurus* enters the wider Ayurvedic and folk pharmacopoeia of the subcontinent as a bitter (*tikta*) herb of cooling (*virya*), *pitta*-neutral and *kapha*-reducing, worked as an emmenagogue and cardiac calmative. This is a *dravyaguna* profile — a therapeutic and dietetic placement — and no *rasayana* (rejuvenation) or *vajikarana* (generative vitality) status is recorded for it; nor is any action on *ojas*, *tejas*, or *prana* attested. Claimed within the tradition's substance-quality scheme, with no rejuvenative cultivation status: **(b) framed.**
 
 **Tibetan (FMT).** The entry's Four Tantras attribution is group-level and inferential — "bitter Lamiaceae herbs of this group... consistent with the cross-tradition consensus" — rather than a species-specific *rGyud-bzhi* attestation of this plant. Sowa Rigpa carries no formal "substances for subtle-body practice" category to assign in any case; medicine there is the third of the four treatment branches, supporting practice rather than reaching the root of the three *nyes pa*. No cultivation status is attested. **(c) absent.**
+
+**European folk / phytotherapy (EF).** This plant's documented Western medicinal record is post-classical. The genus name *Leonurus* and the epithet *cardiaca* are botanical Latin coined after antiquity, and the species enters the European pharmacopoeia not through any securely-attested classical source but through the sixteenth-century herbals — Fuchs (1543) and Bock (1577) — from which the living tradition descends: Culpeper, the nineteenth-century Eclectics, and, in the present, the EMA HMPC monograph (2010). Across that lineage "motherwort" / *Herba Cardiaca* is worked as a cardiac-nervine and uterine herb — a bitter, cold-and-dry deobstruent taken to steady the racing, anxious heart and to promote the menses, folk-glossed as "gladdening the heart." European folk medicine and phytotherapy carry no formal subtle-anatomy or vital-substrate doctrine, so there is no European vital-cultivation status to assign; what the tradition records is a therapeutic and restorative placement, not a vital-body one (Adams et al. 2012, *J. Ethnopharmacol.*; Wojtyniak et al. 2013, *Phytother. Res.*). Claimed within a therapeutic-humoral scheme, with no European cultivation doctrine to invoke: **(b) framed.**
 
 **Practitioner's note.** A cultivator uses motherwort as a settling herb, not a building one: it is taken in short, defined courses to lower the gain on a racing, anxious heart — an infusion or tincture of the bitter aerial parts — and, in supervised traditional practice, as a postpartum blood-mover. It is withheld in pregnancy and around anticoagulants. Nothing across these traditions marks it as a longevity or rejuvenative substance; its work is to calm and to move, then to stop.
 

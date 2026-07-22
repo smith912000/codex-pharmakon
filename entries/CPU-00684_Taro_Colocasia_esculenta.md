@@ -2,7 +2,8 @@
 
 ## *Colocasia esculenta* (L.) Schott | Family: Araceae
 
-**Tradition Tags:** DMM, CM, SBJ, SS, BM
+**Tradition Tags:** DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** DMM, CM, SBJ, SS, BM
 
 **Energetic Classification:** Cooling–neutral, Moist (raw: acrid/irritant); Sweet, moistening when cooked
 
@@ -68,8 +69,6 @@ According to PubMed:
 **Chinese — Shennong stratum (SBJ).** Taro (*yu tou* 芋頭 / *yu nai*) is a sweet, acrid, neutral-to-cooling food that supplements the Spleen and Stomach (補脾胃), moistens, and dissipates nodules and swellings — a canonical example of medicine-food homology (*yao shi tong yuan* 藥食同源), eaten as food and used gently as medicine. That supplementing-and-moistening standing is dietetic and therapeutic; no *san pin* 三品 grade is recorded for it in the sources retrieved, and its place is not within *yang sheng* 養生, the conservational nourishing-of-life project, but at the everyday table. It carries a medicine-food, not a cultivation, status. **(b) framed.**
 
 **Ayurveda (SS).** Taro is *kachu* / *alukam*, a heavy (*guru*), moist, *kapha*-increasing tuber, dietetically *brimhana* (nourishing, bulk-building) but hard to digest and *vata*-aggravating if poorly cooked. *Brimhana* is a nourishing dietetic-therapeutic action, not one of the formal Sushrutan rejuvenative divisions; no *rasayana* or *vajikarana* assignment is recorded for it in the sources retrieved, and no *ojas*-building action is claimed here. Its standing is in *dravyaguna* as a strength-giving food, not as a cultivation substance. **(b) framed.**
-
-**Nahua — Badianus (BM).** *Colocasia esculenta* is an Old World plant; its presence in the Aztec-Nahua record is best read at the level of the aroid/tuberous-demulcent food class rather than as a pinned pre-Columbian identification of this species, and the entry itself frames it that way. Two cautions therefore hold: there is no secure Badianus attestation of taro specifically, and the Badianus manuscript (*Libellus de Medicinalibus Indorum Herbis*, 1552) is in any case itself naturalistic — the *tonalli* / *teyolia* / *ihiyotl* model of the person is reconstructed from later ethnohistory (López Austin), not stated in the herbal. No cultivation status can be assigned to taro on this basis. **(c) absent.**
 
 **Practitioner's note.** A cultivator treats taro as earned nourishment: a Foundation-phase dietetic staple eaten well-cooked, as a bland moistening demulcent that rebuilds a depleted or irritated system while heavier agents do their work. The real practice here is preparation, not dosing — the corm must be thoroughly cooked to break down its calcium-oxalate raphides before it will feed rather than burn, and it is never eaten raw. No tradition on this tag line assigns it a cultivation or rejuvenative status; its honest standing everywhere is that of a nourishing food that rewards correct process.
 

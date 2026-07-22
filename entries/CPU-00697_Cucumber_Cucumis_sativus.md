@@ -2,7 +2,8 @@
 
 ## *Cucumis sativus* L. | Family: Cucurbitaceae
 
-**Tradition Tags:** EP (Ebers) · AT (Assyrian) · DMM (Dioscorides) · CM (Avicenna) · SS (Sushruta)
+**Tradition Tags:** EP, AT, DMM, CM, TCM, SS
+**Tags (previous line, retained for reference):** EP (Ebers) · AT (Assyrian) · DMM (Dioscorides) · CM (Avicenna) · SS (Sushruta)
 
 **Energetic Classification:** Cold and Moist (Galenic, second/third degree) — a paradigmatic refrigerant and moistener
 
@@ -83,6 +84,8 @@ According to PubMed:
 **Greek — Dioscorides (DMM).** Dioscorides treats the cucumber (*sikuos*) in *De Materia Medica* as a cooling, diuretic food, noting the flesh's action on stomach and bladder and the seed as a gentle diuretic and demulcent for the urinary passages — a therapeutic account, and Dioscorides carries no subtle-body doctrine into which a cultivation status could be placed. What the tradition offers a cultivator is his discipline of attention: distinguishing the edible flesh from the "cold seed" fraction, judging the fruit, trimming the bitter stem-end. Cultivation status: **(c) absent**.
 
 **Unani — Avicenna (CM).** Cucumber (*khiyar*) is classed cold-and-moist and worked, with the other "cold seeds," as a refrigerant, demulcent and diuretic to cool a heated temperament and quench thirst — while the tradition explicitly cautions that its coldness burdens a weak or cold stomach. The Unani cultivation idea proper — conservation of the innate heat and radical moisture — is not assigned to it; if anything the corpus treats this refrigerant with caution rather than as a builder of vitality, and no *mufarrih* role is claimed. The standing is therapeutic-humoral, not a cultivation status. Cultivation status: **(b) framed** — used by the tradition, no cultivation status recorded.
+
+**Chinese medicine (TCM).** Cucumber (胡瓜 / 黄瓜, *hu gua* / *huang gua*) is recorded in the Chinese materia medica as a cool-to-cold, sweet dietetic that clears heat (清熱), generates fluids and relieves thirst, and promotes urination — a summer-heat and damp-heat food, cautioned against in excess for cold or deficient spleen patterns. But it enters the corpus late: it is documented as a dietetic in Li Shizhen's *Bencao Gangmu* (1596), not in the Shennong stratum, so it carries no *san pin* 三品 grade and no *yang sheng* 養生 (nourishing-life) cultivation standing in the sources. The status is a food-dose cooling dietetic, therapeutic and not cultivational — nothing here places it among the substances taken long-term to nourish life. Cultivation status: **(b) framed** — attested as a dietetic-therapeutic food, no *san pin* grade or cultivation standing recorded.
 
 **Ayurveda (SS).** In the *dravyaguna* the cucumber (*trapusha* / *ervaru*) is a *sheeta*-*virya* (cooling), *madhura*-*vipaka* food that pacifies *pitta*, relieves thirst (*trishna*) and promotes urine (*mutrala*), while its heaviness (*guru*) and cold quality are flagged as burdening a weak *agni*. No *rasayana* (rejuvenation) or *vajikarana* (generative vitality) assignment is recorded for it, and nothing sourced supports an *ojas* claim; its standing is dietetic-therapeutic (*ahara*), not a rejuvenative cultivation status. Cultivation status: **(b) framed**.
 

@@ -2,7 +2,8 @@
 
 ## *Amomum subulatum* Roxb. | Family: Zingiberaceae
 
-**Tradition Tags:** DMM, CM, SBJ, SS, FMT
+**Tradition Tags:** DMM, CM, TCM, SS, FMT
+**Tags (previous line, retained for reference):** DMM, CM, SBJ, SS, FMT
 
 **Energetic Classification:** Warming, Dry — aromatic, carminative, qi/vata-moving
 
@@ -65,7 +66,7 @@ According to PubMed:
 
 **Unani — Avicenna (CM).** Greater cardamom (*heel*) is a warm-dry aromatic worked as *muqawwi-e-meda* (stomach-strengthening), *kasir-e-riyah* (wind-breaking), and *muqawwi-e-qalb* (heart-strengthening) for a cold, heavy stomach and nausea. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture, that finite vital endowment whose depletion is ageing — is a frame of the whole regimen, not a status the tradition assigns to this warming stomachic. Its cardiotonic standing sits near the gladdening cardiac-drug idea, but no *mufarrih* role in the *Kitāb al-Adwiya al-Qalbiyya* is attested for it in the sources retrieved, and none is asserted here. **(b) framed:** attested therapeutically, no cultivation status sourced.
 
-**Chinese — Shennong stratum (SBJ).** In the Chinese warming-digestive lineage, black cardamom is read through the *sha ren* / *cao guo* group of aromatic damp-transforming drugs — acrid and warm, entering Spleen and Stomach, warming the middle (溫中), transforming damp (化濕), moving stagnant qi and stopping nausea. Two things keep this framed rather than attested: the attribution to *Amomum subulatum* specifically is by family analogue, not a named classical entry, and these aromatic damp-transformers are curative, middle-warming drugs — the treating-illness (治病) work — with no *san pin* 三品 grade recorded for this species and no standing within *yang sheng* 養生, the conservational nourishing-of-life project. It carries a therapeutic, not a cultivation, status. **(b) framed.**
+**Chinese medicine — post-classical (TCM).** In the Chinese warming-digestive lineage, black cardamom is read through the *sha ren* / *cao guo* group of aromatic damp-transforming drugs — acrid and warm, entering Spleen and Stomach, warming the middle (溫中), transforming damp (化濕), moving stagnant qi and stopping nausea. Two things keep this framed rather than attested: the attribution to *Amomum subulatum* specifically is by family analogue, not a named classical entry, and these aromatic damp-transformers are curative, middle-warming drugs — the treating-illness (治病) work — with no *san pin* 三品 grade recorded for this species and no standing within *yang sheng* 養生, the conservational nourishing-of-life project. It carries a therapeutic, not a cultivation, status. **(b) framed.**
 
 **Ayurveda (SS).** Greater cardamom is *bhadra* / *sthula-ela*, placed in the *dipana-pachana* (kindling–digestive) group with *ushna virya*, worked as *hridya* (cardiac-aromatic) and *shwasahara* for *kapha-vata* patterns, cough and poor appetite. This is a therapeutic and dietetic standing; no *rasayana* (rejuvenation) or *vajikarana* (generative vitality) assignment is recorded for it in the sources retrieved, and no *ojas*-building action is claimed here. Its place is in *dravyaguna* as a digestive-aromatic, not among the formal Sushrutan rejuvenative divisions. **(b) framed.**
 

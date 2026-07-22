@@ -4,7 +4,8 @@
 
 > **⚠️⚠️ POISON — DEADLY. This plant contains COLCHICINE, a potent antimitotic alkaloid with a NARROW THERAPEUTIC INDEX and NO SPECIFIC ANTIDOTE. Ingestion of plant material has caused fatal multi-organ failure. It is not a home remedy, not a food, and not a safe herb. This entry is documentary. Do not prepare, dose, or self-administer. All legitimate use is via pharmaceutical colchicine under medical supervision.** ⚠️⚠️
 
-**Tradition Tags:** EP, AT, DMM, CM, SS
+**Tradition Tags:** EP, AT, DMM, CM
+**Tags (previous line, retained for reference):** EP, AT, DMM, CM, SS
 **Tags (previous line, retained for reference):** DMM, CM (genus-level; see note)
 
 **Energetic Classification:** Cold, Dry (toxic/deobstruent in the old sense) — a "sharp" evacuant-antiphlogistic poison
@@ -65,8 +66,6 @@ According to PubMed:
 **Greek — Dioscorides (DMM).** This is the tradition's strongest engagement with the plant, but it runs in exactly the opposite direction from cultivation. *De Materia Medica* (Book IV) describes *kolchikon* / *ephemeron*, the autumn crocus, as a poisonous bulb that resembles an edible one and kills by choking, and records milk as a remedy against poisoning by it — one of the clearest toxicological warnings in the Greek corpus. Dioscorides carries no subtle-body doctrine that could assign the plant a vital status in any case; what he offers a cultivator here is his discipline of attention at its most literal and life-saving — the identification of a lethal corm against the edible bulbs it mimics, a matter of provenance and sensory assay rather than of vitality. **(c) absent** as to cultivation status; the attestation is a warning, not a status.
 
 **Unani — Avicenna (CM).** The autumn-crocus corm (*surinjan*, a name covering related colchicaceous drugs) was known as a potent, hazardous drug — classed as *sam* (poison) requiring correction and processing — used cautiously for joint pain and gout. The conservation of innate heat and radical moisture, the corpus's central longevity idea, is a frame of regimen and belongs nowhere near this sharp evacuant poison; no cultivation status is assigned to it, only a dangerous therapeutic one hedged by explicit awareness of its toxicity. **(b) framed:** attested therapeutically and toxicologically, no cultivation status sourced.
-
-**Ayurveda (SS).** *Colchicum turcicum* itself has no canonical place in the Ayurvedic materia medica; the *upavisha* (potent-poison) standing and the demand for rigorous *shodhana* purification are attested for the related Colchicaceae plant *Gloriosa superba* (*langali*/*kalihari*) — a different species, not this one. For the autumn crocus proper, no *rasayana* or *vajikarana* assignment and no *ojas*-related action are recorded, and none is imported here from its poisonous cousin. **(c) absent** for this substance; the purification logic that exists belongs to a related plant, not to it.
 
 **Practitioner's note.** A cultivator does nothing with this plant — that is the whole and honest answer. No tradition on this tag line assigns *Colchicum* a cultivation status; the tradition that engages it most directly, the Greek, records it precisely as a poison to be identified and avoided. Its only legitimate use is purified pharmaceutical colchicine under a physician, never plant material, and its place in the curriculum is as the boundary marker where a plant's power becomes lethal. The correct cultivation practice is total abstention.
 
