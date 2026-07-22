@@ -86,6 +86,22 @@ Mastic's oleanolic/ursolic acid triterpenoid complex provides hepatoprotective a
 
 ---
 
+### Cultivation Register
+
+**Ancient Egyptian (EP).** Mastic (or the related *Pistacia* terebinth resin) is recorded in the Ebers material for wound and dental preparations and among aromatic antiseptics in embalming — an indication-and-craft use, not a claim on the vital constitution. No cultivation framing is attested: **(c) absent**. The embalming and wound uses are practical and ritual respectively; neither grades the resin as something that cultivates the person.
+
+**Assyrian / Mesopotamian (AT).** *Pistacia*-family resins can be located in the Aegean-Levant aromatic trade supplying Mesopotamian wound and gastrointestinal formulae, but with the blocking warning in force for Assyrian substance identifications this stays **(c) absent** — no cultivation grade or vital-force role is securely attributable here.
+
+**Dioscorides / Greco-Roman (DMM).** Dioscorides treats *mastichē* in Book I as warming, drying, good for the stomach, breath-freshening when chewed and useful in compound bases — a therapeutic account with no subtle-body system behind it: **(c) absent** as to cultivation status. What the tradition offers a cultivator is the discipline of attention — and mastic is a textbook case, its identity bound to a single provenance (Chios *mastiha*) that assay and sourcing must protect.
+
+**Unani / Avicenna (CM).** Ibn Sina classes mastic as warm in the second degree, dry in the first, and a gastric and dental tonic and *Theriac* vehicle — a qualitative therapeutic assignment, so **(b) framed**. "Strengthens the stomach" is a faculty-directed therapeutic claim, not a cultivation grade in the tradition's conservation-of-innate-heat sense; no such status is attested, and no *mufarrih* / cardiac-drug constituent claim is made (that material belongs to the *Kitāb al-Adwiya al-Qalbiyya*, not the *Canon*).
+
+**Sushruta / Ayurveda (SS).** Mastic is a Mediterranean import, not a plant of the classical Sushrutan corpus; it enters only later, imported-aromatic compilations. The entry's own "resin Rasayana for gastric conditions" is therefore **not carried as attested** — no classical source grading mastic as *rasayana* is retrievable, and per the anti-fabrication discipline a *rasayana* status may not be asserted without a source for that substance. It is dropped to **(b) framed**: attested as an imported aromatic resin with a *katu-tikta / ushna* qualitative profile, but with no cultivation (rejuvenative) status attested.
+
+**Practitioner's note.** What a cultivator actually does with mastic is chew or dose it, for a defined purpose over a defined course — oral antimicrobial hygiene, a two-week gastric/*H. pylori* protocol, resin in a compound base. Every tradition here treats it as a worked therapeutic and craft resin, not as something graded for nourishing life; the one place a rejuvenative grade is asserted (the imported Ayurvedic *rasayana* label) is exactly the unsourced claim to set aside.
+
+---
+
 ### Contraindications
 
 - **Mastic allergy** — contact allergy and occupational sensitization documented in workers handling raw mastic; IgE-mediated reaction; test sensitivity

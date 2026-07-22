@@ -70,6 +70,20 @@ Evidence grade: **preclinical**. The antidiabetic/antihyperlipidaemic and vasoac
 - **Ayurveda:** Rasa *tikta-kashaya* (bitter-astringent), guna *laghu-snigdha* (light, unctuous in the rhizome), virya *shita* (cooling), vipaka *madhura* (sweet post-digestive); pacifies *pitta* and *rakta*, mildly *kapha*-neutral.
 - **Galenic/Unani:** Cold in the second degree, moist in the first; refrigerant cardiac and cerebral tonic (*muqavvī-e-qalb*, *muqavvī-e-dimāgh*).
 
+### Cultivation Register
+
+**Unani / Avicenna (CM).** *Nīlūfar* is firmly attested — cold and moist, the flower syrup (*sharbat-e-nīlūfar*) a cooling cardiac and cerebral tonic (*muqavvī-e-qalb / muqavvī-e-dimāgh*), still a living Unani preparation. This is a therapeutic-temperamental classification, not a cultivation status: the corpus's conservation-of-innate-heat idea is not assigned to nīlūfar in the sources retrieved. Richly claimed in frame; cultivation status unattested (b).
+
+**Greek / Dioscorides (DMM).** Dioscorides records *nymphaia* (root and seed, cooling and astringent, quieting sexual heat), but the species he handled were the European white and yellow lilies; the blue lily joins the textual family by analogy. He offers no subtle-body system, so the honest cultivation content is his assay discipline, not a status. No status attested.
+
+**Egyptian (EP).** The ritual layer is real and should be recorded as ritual: the blue lily (*Nymphaea*, not *Nelumbo*) is among the most-depicted plants in funerary art, steeped in wine for a gentle euphoric calm and read as an emblem of solar rebirth. This is iconographic and funerary use, explicitly **not** a cultivation status — the indication-organised corpus gives the flower no vital-constitution assignment. (c) for cultivation status, ritual noted.
+
+**Chinese (SBJ).** Nymphaeaceae enter the Chinese materia medica as southern cooling, heart-calming (*an shen* 安神), essence-consolidating agents (seeds and rhizomes). But the entry itself attributes this to *related* Nymphaeaceae rather than to *N. stellata* specifically, so any *an shen* reading is a family-level frame, species-level unattested (b).
+
+**Ayurveda (SS).** *Utpala / nīlotpala* is a classical *pitta*- and *rakta*-cooling drug — the Sushrutan *Utpalādi* group, *hridya* (cardiotonic), *stambhana* (checking), rasa *tikta-kashaya*, virya *shita* — and this therapeutic attestation is solid. A *rasayana / ayushya* mention for the petals surfaces in later nighantu/compilation material, but I could not confirm it in named primary scholarship, so the *rasayana* (rejuvenation) status stays (b), framed and not asserted. The sacred nīlotpala iconography (the blue flower of Hindu/Buddhist devotional imagery) is ritual/symbolic and must not be read as a cultivation status; and no *Nelumbo* (sacred lotus) material transfers here — the genera are distinct.
+
+**Practitioner's note.** The cultivator uses utpala as an evening refrigerant — flower syrup to cool an over-heated, sleepless, sympathetically-driven state, and seed/rhizome as a longer astringent-consolidating tonic. Its honest cultivation logic is the checking of loss (consolidating essence) rather than sedation; the sacred and funerary associations are symbolic, not instructions, and the documented glucose-lowering activity makes it a monitored drug, not a casual daily one.
+
 ### Contraindications
 
 - **Hypoglycaemia risk:** given the documented glucose-lowering activity, use with caution alongside antidiabetic drugs (sulphonylureas, insulin) — additive hypoglycaemia is plausible. Monitor.

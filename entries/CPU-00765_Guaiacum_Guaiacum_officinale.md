@@ -2,7 +2,8 @@
 
 ## *Guaiacum officinale* L. | Family: Zygophyllaceae
 
-**Tradition Tags:** CM, BM, DMM
+**Tradition Tags:** CM, BM, EF
+**Tags (previous line, retained for reference):** CM, BM, EF
 **Energetic Classification:** Hot and dry (Galenic: hot in the second-to-third degree, dry in the second) — a resinous, warming, drying agent read as an attenuator of thick cold humours and a promoter of sweat.
 **Training Phase:** Purgation / Mobilisation — a heating, diaphoretic, alterative substance deployed to move stagnation and "cook" a cold, damp, chronic condition, not a gentle daily tonic.
 

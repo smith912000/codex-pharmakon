@@ -1,6 +1,7 @@
 # Juniper — شاه لی (Shāo Lì) / Arduj (عرعر)
 ## *Juniperus communis* L. | Family: Cupressaceae | Cross-reference: *J. recurva* Buch.-Ham. ex D.Don (Himalayan juniper, FMT / Tibetan *Shukpa*); *J. phoenicea* L. (Phoenician juniper, AT / EP)
-**Tradition Tags:** DMM, CM, EP, AT, FMT
+**Tradition Tags:** EP, AT, DMM, CM, FMT, EF
+**Tags (previous line, retained for reference):** DMM, CM, EP, AT, FMT
 **Energetic Classification:** ◉ Qi Primary — Kidney Yang, Diuretic Clearing, Warming Joint Circulation / ☿ Shen Secondary — Sacred Smoke, Spirit Protection, Ritual Fumigation
 **Training Phase:** `[RESET]` `[CYCLE-OFF]`
 
@@ -122,6 +123,22 @@ The pharmaceutical-to-culinary trajectory of juniper in European medicine illust
 *Juniperus communis* does not appear prominently in the classical Ayurvedic texts (the Himalayan *J. recurva* appears in later Tibetan-influenced Indian texts), but the TCM/FMT functional equivalent for juniper's kidney-Yang warming and diuretic-clearing action is most closely approximated by **Gokshura** (*Tribulus terrestris*) in the Mutrala (diuretic) class and **Punarnava** (*Boerhavia diffusa*) for combined kidney and joint support — plants that operate on the Mutra Vaha Srotas (urinary system channels) via analogous mechanisms of renal tubular stimulation and anti-inflammatory joint support.
 
 ---
+
+### Cultivation Register
+
+**Ancient Egyptian (EP).** The Ebers material is indication-organised: it records juniper (*jnpj*) as a diuretic and a fumigant burned in temple and sickroom, not as something that acts on the person's vital constitution. No cultivation status is attested — **(c) absent**. The purification-smoke use is real but it is a *ritual* act (smoke as component of an intervention alongside *heka*, the operative recitation), not a claim that the drug cultivates *ka*, *ba* or *ib*. The substance-identity behind *jnpj* is itself a modern Egyptological hypothesis; nothing here is a subtle-body assignment.
+
+**Assyrian / Mesopotamian (AT).** *Burāšu* is recorded on the Nineveh tablets for kidney and urinary complaints and as a fumigation before and after ritual. The Codex blocking warning is in force for every Assyrian substance identification and tablet reference, so this stays at **(c) absent**: illness in this corpus is classified by causal agency (divine hand, ghost, oath), and juniper is documented as a therapeutic and purificatory agent, not as a substance carrying a cultivation grade.
+
+**Dioscorides / Greco-Roman (DMM).** Dioscorides has no subtle-body system, and none is manufactured here — **(c) absent** as to any cultivation status. What *arkeuthos* actually offers a cultivator is the Dioscoridean discipline of attention: distinguishing berry from wood, judging warming/diuretic quality, choosing sound material. He *records* the fumigatory and pest-driving uses without making them a doctrine of vital force. That discipline of provenance and assay is the real practice on offer, not a consolation.
+
+**Unani / Avicenna (CM).** Ibn Sina places juniper in the degrees of Heat and Dryness and prescribes it for kidney-cold, urinary difficulty and cold-damp joint pain — a *therapeutic* qualitative assignment, not a cultivation status: **(b) framed**. The tradition's genuine cultivation idea is the conservation of innate heat and radical moisture (the finite vital endowment whose depletion *is* ageing); the sources retrieved attest juniper's warming-diuretic action but do **not** assign it a role in that conservation, so no such status is claimed for it here.
+
+**Tibetan / Sowa Rigpa (FMT).** *Shukpa* (*Juniperus recurva*) is the pre-eminent *bsang* — the incense-medicine (*bdug-pa*) class that works through smoke and atmosphere — and within the Four Tantras medicine is the *third* of four treatment branches: it supports practice, it does not reach the root, which is spiritual (the three *nyes pa* deriving from the three poisons). This gives juniper a real, framed place — **(b)** — as a purification and cold-*rlung* smoke that accompanies practice. But no formal "substances for subtle-body practice" category exists in this system, so juniper is not assigned a cultivation *grade*; its status is that of the supporting branch.
+
+**[PROPOSE: add European folk / phytotherapy (EF) — the medieval-to-modern Western herbal stratum (Commission E 1988; ESCOP 2009; the apothecary-to-*genever* lineage) is a distinct era from Dioscorides (DMM) and is heavily attested for juniper in this entry.]** European folk (EF). In this later Western stratum juniper is a diuretic, gout and urinary remedy and a fumigant burned against miasma — an indication-and-craft tradition with no subtle-body doctrine, so as to any cultivation status it is **(c) absent**. Its purification-by-smoke use is ritual/hygienic, not a claim on a vital constitution.
+
+**Practitioner's note.** Across every tradition here the honest reading is the same: juniper is a *worked* plant — diuretic, antimicrobial, cleanly aromatic smoke — not a substance any of these traditions grade for nourishing life. What a cultivator actually does with it is bounded and time-limited: short courses for urinary clearance, topical or inhaled use for joints and autonomic downregulation, and fumigation of a space. The recurring cross-cultural act is *purification of environment and body*, which is ritual and hygienic rather than constitutional — and juniper's own contraindications (nephritis, pregnancy, no prolonged high-dose use) are the tradition's built-in warning against treating it as something taken long-term to build the person.
 
 ### Contraindications
 

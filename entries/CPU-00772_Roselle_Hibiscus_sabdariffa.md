@@ -2,8 +2,8 @@
 
 ## *Hibiscus sabdariffa* L. | Family: Malvaceae
 
-**Tradition Tags:** DMM, CM, TCM, SS
-**Tags (previous line, retained for reference):** EP (European Phytotherapy) · AT (Ayurveda / Traditional Indian) · DMM (Graeco-Arabic / Unani materia medica) · CM (Chinese Medicine, adopted) · SBJ (Sub-Saharan / West African ethnobotany) · SS (Siddha) · FMT (Folk domestic medicine) · BM (Biomedical / Clinical)
+**Tradition Tags:** CM, TCM, SS, EF
+**Tags (previous line, retained for reference):** CM, TCM, SS, EF
 
 **Energetic Classification:** TCM — cool, sour, Heat-clearing, fluid-generating; Galenic/Unani — cold & dry (grade II), refrigerant
 

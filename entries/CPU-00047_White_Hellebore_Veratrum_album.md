@@ -66,6 +66,20 @@ Codex policy: secure mechanism over invented specifics. The sodium-channel and B
 - **Chinese Medicine mapping:** *Veratrum* is represented in the Chinese materia medica by the related species *Veratrum nigrum* (黎芦 / Lí Lú), classically used as an emetic and externally for parasites and skin disease, and famously listed among the "eighteen incompatibilities" (十八反) — it must not be combined with several other herbs (notably the ginsengs and others). *V. album* is the Western congener of this drug; the Codex cross-walk maps it to the Lí Lú category by genus, with the caution that species and processing differ.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — a gross, forceful expeller acting on the physical–energetic body (emesis, reflex cardiovascular collapse). No genuine ☿ Shen ascription beyond the Western "clearing of madness" reputation it shared with black hellebore.
 
+### Cultivation Register
+
+**Egyptian (EP).** No cultivation framing is attested for white hellebore in the Egyptian material. The corpus is indication-organised — it records what was done for a complaint, not what a substance does to the person's *ka*, *ba* or *ib*; and the identification of any specific *Veratrum* in the Egyptian drug names is itself a modern hypothesis, not a secure assignment. The honest status here is **(c) absent**.
+
+**Assyrian (AT).** No cultivation status is attested, and the standing blocking-warning on substance identification, tablet reference and demonic attribution applies in full. Where cuneiform medicine classifies by the causal agency a drug opposes, nothing in the retrieved sources ties this plant to such a scheme. **(c) absent.**
+
+**Greek / Dioscorides (DMM).** Dioscorides has no subtle-body or cultivation system, and none may be manufactured for him. What the Greek record actually offers is, first, a **discipline of attention** — the cardinal *ano/kato* (upward-emetic vs downward-purgative) distinction between white and black hellebore, the selection of patient and season, the warning that the strong are purged and the weak spared. Second, it carries a genuine mythico-medical story recorded here **as culture, not as a cultivation status**: the seer-healer Melampus curing the madness of the daughters of Proetus with hellebore (*melampode*), the ancient charter-myth for the drug's use against mania and melancholia. That is a narrative about what the purge was believed to clear, not a claim about a vital constitution. Cultivation status: **(c) absent.**
+
+**Unani / Avicenna (CM).** The Unani frame rates *Veratrum* as a violent evacuant hot and dry in the extreme degree — a therapeutic classification, not a cultivation one. The tradition's real cultivation idea, the conservation of innate heat and radical moisture, runs the opposite way: it counsels *against* drastic evacuants, which spend the vital endowment rather than husband it. No cultivation status is attested for this substance; the frame it sits in actively disfavours it. **(b) framed / (c) absent.**
+
+**Ayurveda (SS).** *Veratrum album* is not an Indian drug of the classical *nighantu* stratum, and no *rasayana* or *vajikarana* (rejuvenative or generative) status is attested for it — those are precisely the categories a rejuvenation-seeking cultivator would look to, and this poison does not appear in them. Any *shodhana* (purification) reasoning one might import is unattested for this plant. **(c) absent.**
+
+**Practitioner's note.** ⚠️ There is nothing here to cultivate with. *Veratrum album* is a steroidal-alkaloid cardiotoxin with a lethal, unpredictable margin; every tradition that names it treats it as a heroic evacuant or an outright poison, and two of its cultivation-bearing traditions (Unani, Ayurveda) point away from it. The correct cultivator's action is abstention and identification — knowing the plant well enough never to ingest it and never to confuse it with gentian or ramsons. The *melampode* story is history to be read, not a practice to be revived.
+
 ### Contraindications
 
 - **Cardiac disease — absolute.** Reflex bradycardia, hypotension and conduction disturbance; can be fatal.

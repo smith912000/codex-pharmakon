@@ -1,6 +1,7 @@
 # Olive — زيتون (Zaytūn) / Ἐλαία (Elaia) / जैतून (Jaitūn) / 油橄榄 (Yóu Gǎnlǎn)
 ## *Olea europaea L. — Olive; European Olive*
-**Tradition Tags:** AT, CM, DMM, EP, SBJ
+**Tradition Tags:** EP, AT, DMM, CM, HEB
+**Tags (previous line, retained for reference):** AT, CM, DMM, EP, SBJ
 **Energetic Classification (TCM):** ◉ Qi
 **Training Phase:** `[RESET]` `[CYCLE-OFF]`
 
@@ -95,6 +96,24 @@ Warm extra-virgin olive oil applied directly to skin, wounds, and joints — the
 **Organ-Channel Map:** Heart and vessels (oleocanthal and hydroxytyrosol cardiovascular action); Liver (squalene; lipid regulation); Stomach-Intestines (emollient mucosal protection; gentle laxative); Skin-surface (topical emollient; wound healing)
 **Energetic Action:** Moistens and cools — quintessentially emollient, lubricating, and anti-inflammatory at the level of membranes, mucosae, joints, and vessels simultaneously; reduces systemic Heat and Stagnation at the Qi level without depleting constitutional Jing; the oil that does not force but nourishes
 **Ayurvedic:** Snigdha (unctuous); Madhura (sweet); Shita virya (cooling); Vata-Pitta shamaka; Bringhana (tissue-nourishing); Tvak-prasadana (skin-clarifying); the Western equivalent of the sesame-oil (Tila Taila) function in Ayurvedic medicine
+
+---
+
+### Cultivation Register
+
+**Egyptian (EP).** Olive oil is the most ubiquitous excipient and emollient of the Egyptian corpus, but that corpus is indication- and preparation-organised: it records what oil was compounded into and what complaint it dressed, not what the oil does to a person's constitution. No *heka* recitation or *ka/ba/ib* assignment is attested for olive in the sources retrieved, and none should be manufactured. Cultivation framing here is **(c) absent** — the honest reading of a vehicle-substance in an indication-organised pharmacopoeia.
+
+**Assyrian (AT).** "Oil of the olive tree" (*šaman šēlibī*) is the single most frequent pharmaceutical carrier in the Nineveh tablets, yet frequency of use is not a cultivation status. Illness in the Assyrian frame is classified by causal agency (divine hand, ghost, oath), and no source retrieved assigns olive oil a role against a named agency in any cultivational sense. Under the standing blocking warning for Assyrian substance and tablet claims, this register defaults to **(c) absent**.
+
+**Greek / Dioscorides (DMM).** Dioscorides has no subtle-body system, and none is invented here. What his olive material offers a cultivator is a **discipline of attention**: his grading of *omphakion* (green, unripe, most astringent) against ripe and aged oil, keyed to harvest season and to the sensory assay of bitterness and throat-sting, is a real practice of provenance and quality-judgement — one that modern analytical chemistry has since vindicated for polyphenol content. This is **(b) framed**: an attention-discipline, not a vital-cultivation grade. The olive's Greek religious standing (Athena's sacred tree, the sacred groves) is civic and devotional, and must not be read as a Dioscoridean cultivation status.
+
+**Avicenna / Unani (CM).** The strongest cultivation idea in the Unani corpus is the conservation of **innate heat and radical moisture** — a finite vital endowment whose depletion *is* ageing, so that longevity practice is conservation rather than acquisition. Ibn Sina classes olive oil as moderately warm and moist, emollient, "the best of all oils," and a nutrient of convalescence — a profile that sits naturally inside that conservational frame. But no source retrieved assigns olive oil a specific role in preserving innate heat or radical moisture, so no such claim is asserted: this register is **(b) framed**, giving the conservational frame the substance sits within while recording that its cultivation status is unattested. The Qur'anic "blessed tree" (*shajaratun mubārakah*, Q 24:35) is devotional attestation, not a medical-cultivation grade.
+
+*(No Chinese paragraph: the classical Chinese "olive" of the *bencao* is *Canarium album* (青果), a botanically distinct fruit; *Olea europaea* is a modern introduction with no *san pin* grade. The SBJ tag was removed 2026-07-18 as a cross-species mis-tag — any upper-grade claim in circulation attaches to *Canarium*, not this plant.)*
+
+**[PROPOSE: add Hebrew/Jewish (HEB) to spine — attested by Exodus 30:22–33; Exodus 27:20 / Leviticus 24:2; Genesis 8:11; Zechariah 4.]** Olive oil is load-bearing in the Hebrew ritual economy: the pressed "pure oil of beaten olives" feeds the Tabernacle *menorah* (Exodus 27:20; Leviticus 24:2); olive oil is the base of the holy anointing oil *shemen ha-mishḥah* that consecrates priest and vessel (Exodus 30:22–33); the dove returns to Noah with an olive leaf (Genesis 8:11); and Zechariah's vision sets two olive trees flanking the lampstand (Zechariah 4). This is **(a) attested** as sacred and covenantal use — but it must be read as *ritual consecration*, not personal vital cultivation: the oil sanctifies persons, spaces and objects by anointing and illumination, and no source frames it as a substance taken to refine the practitioner's own vitality. Distinguish sacred status from cultivation status.
+
+**Practitioner's note.** A cultivator's honest use of the olive is dietary and topical, not initiatory: high-polyphenol early-harvest oil selected exactly as Dioscorides taught — green-gold, bitter, peppery in the throat — as a daily anti-inflammatory and cardiovascular food-medicine. No tradition in this entry grants olive a long-life cultivation grade; the one genuine "register" it carries is the discipline of *choosing the oil well*, and the anointing and menorah uses belong to ritual consecration, not to self-cultivation. Where the sources are silent, this entry leaves them silent.
 
 ---
 

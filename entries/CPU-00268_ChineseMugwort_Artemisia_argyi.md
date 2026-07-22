@@ -54,6 +54,20 @@ Attribution: findings from PubMed.
 - **Tibetan (rGyud-bzhi context):** *Artemisia* species used as warming/aromatic herbs; `[USER: verify]` species-exact indication.
 - **Dantian:** lower dantian — warming of cold uterus/abdomen; moxa delivers heat to channel points broadly.
 
+### Cultivation Register
+
+**Egyptian (EP).** No cultivation framing is attested. *Artemisia argyi* is an East Asian plant outside the Ebers horizon; the Egyptian corpus records no *heka*-and-drug intervention for it, and its indication-organised material gives no vital-constitution assignment. This is an honest (c) absence.
+
+**Greek / Dioscorides (DMM).** Dioscorides handles *artemisia* species as warming, emmenagogue therapeutic herbs, not within any subtle-body scheme — he has none. The specific East-Asian species he did not handle. What the Greek line genuinely offers a cultivator here is his discipline of attention — provenance, season of gathering, sensory assay — not a cultivation status. No status attested.
+
+**Unani / Avicenna (CM).** *Artemisia* enters Unani among the warming (*hārr*) aromatics. The strongest cultivation idea in this corpus — conservation of the finite innate heat and radical moisture — is a general doctrine, and the sources retrieved do not assign it to this species specifically. Attested as a warming drug in frame; cultivation status unattested for the species (b).
+
+**Chinese (SBJ).** The substance lives here, but the register must separate three things. (1) *Grade*: *ài yè*'s systematic materia-medica record appears in the later *Ming Yi Bie Lu* (Tao Hongjing, c. 500 CE) rather than securely in the original *Shennong Bencao Jing*, so no *san pin* 三品 grade can be read off the classic — cultivation status is therefore (b), framed and dated to a later compilation, not asserted. (2) *Technique*: moxibustion (*jiǔ* 灸) — compressed *ài róng* (moxa floss) burned over points to drive warmth into the channels — is a genuine, practice-level use, but it is a heat-delivery technique, not a grade or a nourishing-life status. (3) *Ritual*: the Duanwu (Dragon Boat) festival hanging of mugwort at doorways is apotropaic/protective custom, again distinct from any cultivation status. None of the three should be collapsed into the others.
+
+**Tibetan (FMT).** *Artemisia* species are used in Sowa Rigpa as warming/aromatic herbs and in external moxa-like heat therapy, but the entry's own species-exact indication is flagged unverified, and no formal "substance for subtle-body practice" category exists to file this under. No cultivation status attested (c).
+
+**Practitioner's note.** In practice this is a warmth-delivery plant: the real cultivator's use is external — moxa driving controlled heat into cold, stagnant channels — with a supervised internal warming-hemostatic and gynaecological use alongside. None of that is a longevity or nourishing-life grade; the festival and doorway uses are protective ritual, and the essential oil's flagged toxicity means internal self-dosing is not a cultivation practice.
+
 ### Contraindications
 
 - **Yin-deficiency / heat patterns** — warming, drying nature aggravates heat and dryness.

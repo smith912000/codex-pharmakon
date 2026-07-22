@@ -55,6 +55,20 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Unani/folk mapping:** pine kernels nutritive and aphrodisiac (*muqawwi*); resin warming-antiseptic.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — the kernel on the nourishing-moistening side (building, demulcent), the resin on the warming-dispersing-antiseptic side; a good illustration of part-dependent classification within one plant.
 
+### Cultivation Register
+
+**Egyptian (EP).** No cultivation framing is attested. The Egyptian corpus is indication-organised and records no vital-constitution action for the pine or its kernel — no *heka* operation, no assignment to the *ka*/*ba*/*ib*. Honest (c) absent.
+
+**Assyrian (AT).** No cultivation status is attested, and the standing blocking warning on Mesopotamian identifications applies; the coniferous products appear as remedies classified by complaint, not as cultivator's substances. Default (c) absent.
+
+**Dioscorides / Greco-Roman (DMM).** Framed, not cultivational — Dioscorides has no subtle-body system to place the pine in. He gives the kernels a nourishing, chest-soothing therapeutic placement and the resin/pitch a warming-antiseptic one; that is materia medica, not a doctrine of vital refinement. The Roman religious layer — the pine sacred to Cybele and Attis, the cone crowning the Dionysian thyrsus — is cultural and cultic iconography, not a cultivation status the tradition assigns to the drug; recording such associations is not the same as a vital doctrine. What DMM genuinely offers a cultivator is the discipline of attention: distinguishing kernel from resin from pitch, each with its own quality and use. (c), with the sacred associations noted as culture.
+
+**Unani / Avicenna (CM).** Framed as a dietetic tonic, not graded. The pine kernel is attested as a nutritive, strengthening (*muqawwī*) and convalescent-aphrodisiac aliment, often compounded with honey — a real placement within humoral dietetics, where nourishing food conserves the innate heat and radical moisture of the depleted. But no formal graded cultivation status, and no *mufarriḥ*/cardiac-*ruh* attribution, is recorded for it in the sources retrieved. Its status is that of a restorative nourishing food. (b), inside the genuine Unani conservation frame rather than a formal grade.
+
+**Ayurveda (SS).** Framed as unattested. The stone pine is a Mediterranean tree outside the classical Sushrutan materia medica; the convalescent-aphrodisiac reputation might tempt a *vājīkaraṇa* reading, but no such assignment, and no *rasāyana* or *ojas* claim, is attested for this nut in the sources. It should be recorded as a nourishing food, not imported as a generative tonic. (b)/(c).
+
+**Practitioner's note.** The pine nut is a nutritive, convalescent food — the honest cultivation use is to eat it, as concentrated nourishment for the worn and recovering, classically with honey. Every tradition that names it grades it as food or humoral aliment, not as a cultivation drug; the Roman sacredness of the tree and the aphrodisiac reputation are culture and therapeutics respectively, and neither should be inflated into a vital-refinement status the sources do not give.
+
 ### Contraindications
 
 - **Nut allergy.** Pine-nut allergy occurs; avoid in known sensitivity.

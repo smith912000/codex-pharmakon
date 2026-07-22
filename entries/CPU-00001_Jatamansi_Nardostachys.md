@@ -1,6 +1,7 @@
 # Jatamansi — जटामांसी (Jatamansi) / Spikenard
 ## *Nardostachys jatamansi* (D.Don) DC. | Family: Caprifoliaceae (formerly Valerianaceae)
-**Tradition Tags:** SS, CM, FMT, EP, DMM
+**Tradition Tags:** EP, DMM, CM, SS, FMT, HEB
+**Tags (previous line, retained for reference):** SS, CM, FMT, EP, DMM
 **Energetic Classification:** ☿ Shen Primary — Shen Stabilization, Manovaha Srotas, Nervous System Deep Tonic / ◈ Jing Secondary — Nervous System Root Restoration
 **Training Phase:** `[RESET]` `[CYCLE-OFF]`
 
@@ -136,6 +137,24 @@ The mood stabilization function is equally significant. Post-competition dysphor
 
 **The ☿ Shen Primary / ◈ Jing Secondary designation:**
 The Shen Primary assignment reflects jatamansi's predominant pharmacological action on the nervous system regulation, mood, sleep, and emotional stability dimensions of the Shen system — the most immediate and clinically prominent effects. The Jing Secondary designation acknowledges the Medhya Rasayana classification in Ayurveda — the deep, constitutional, regenerative action on nervous tissue (majja dhatu, one of the primary Jing-analogue tissues in the Ayurvedic structural pharmacology mapping). This is not a superficial Shen-calming herb. At depth, through the neuroprotective (BDNF), AChE-inhibitory, and nervous tissue nourishing dimensions, jatamansi works on Jing-level restoration of the foundational nervous system substrate — the distinction that separates a true Rasayana from a simple sedative.
+
+---
+
+### Cultivation Register
+
+**Ayurveda (SS).** ⚠️ The important correction first: jatamansi is *medhya* — acting on the mind and the *manovaha srotas*, as its very name (*jaṭā* + *māṃsī*, "the matted-haired one that acts on the mind") encodes — and it is used for *unmāda* (psychosis) and *apasmāra* (epilepsy). But it is **not** among Caraka's canonical four *medhya rasāyanas* (*maṇḍūkaparṇī*, *yaṣṭimadhu*, *guḍūcī*, *śaṅkhapuṣpī*; Cikitsāsthāna 1.3). Jatamansi's *medhya* standing is recorded in the wider classical and *nighaṇṭu* literature as a secondary intellect-herb, not in the founding rasāyana quartet. So the cultivation-relevant claim drops a rung: attested as *medhya* (mind-acting, nervine) — genuinely so (a) — but its status as a formal *medhya rasāyana* is framed, not canonical (b). Do not carry the entry's "one of the most important Medhya Rasayanas" wording as an attested rank.
+
+**Unani (CM).** Ibn Sīnā's *sunbul al-ṭīb* is a warm-dry cardiac and nerve strengthener (*muqawwī al-qalb wa-l-dimāgh*) — closer than most to the tradition's innate-heat frame, but recorded as a faculty-strengthening treatment, not as a conservation-of-vitality cultivation grade. Framed (b).
+
+**Tibetan (FMT).** *spang spos* is an aromatic stabiliser for *rlung* (Wind), especially the *srog rlung* of the heart-mind, and a constituent of the precious pills (*rin chen ril bu*). This is a placement within the humoral and formulary system; no distinct subtle-body cultivation category is attested for it (b).
+
+**Greek (DMM).** Dioscorides has no subtle-body system to assign; what he offers a cultivator is his discipline of attention — he grades *nardos* into Indian, Syrian and false nard and teaches the sensory assay that separates them. The cultivation content is that connoisseurship of provenance and adulteration, not a vital-action claim (c, with the Dioscoridean discipline noted).
+
+**Egyptian (EP).** Nard as an imported aromatic is plausibly present in New Kingdom trade, but the substance identity in the Ebers material is a modern hypothesis and no cultivation framing attaches. Absence (c).
+
+**[PROPOSE: add Hebrew/Jewish (HEB) to spine — *nērd*, Song of Songs 4:13–14 (also 1:12).]** The Hebrew *nērd* (נֵרְדְּ) is spikenard; Zohary identifies the biblical plant with *Nardostachys jatamansi*, though Hepper proposes camel-grass (*Cymbopogon schoenanthus*) and the Indian identification is firmest if Song of Songs is late-dated. In the Hebrew / Jewish register nard is a precious anointing aromatic, not a cultivation tonic — a genuine naming attestation with cultivation status absent (c). Propose HEB with the identification debate noted. (The Gospel *nardos pistikē* anointing shares the identification but is a Christian-era text, outside the coded traditions.)
+
+**Practitioner's note.** A cultivator uses jatamansi to *stabilise* — sleep architecture, autonomic settling, the heart-mind — in the reset between efforts; across Ayurveda, Unani and Tibetan medicine the convergent role is calming and nervine, not vitality-building. Read it as *medhya* / stabilising, not as a top-rank rejuvenative. ⚠️ Sourcing is an ethical part of the practice: *N. jatamansi* is IUCN-Vulnerable and listed on CITES Appendix II — use only cultivated-origin, chain-of-custody material.
 
 ---
 

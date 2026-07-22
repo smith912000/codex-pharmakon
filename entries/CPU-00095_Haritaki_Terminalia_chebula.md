@@ -1,6 +1,7 @@
 # Haritaki — हरीतकी (Harītakī) / Abhayā / Pathyā
 ## *Terminalia chebula* Retz. | Family: Combretaceae
-**Tradition Tags:** SS, FMT, CM, EP, SBJ
+**Tradition Tags:** EP, CM, TCM, SS, FMT
+**Tags (previous line, retained for reference):** SS, FMT, CM, EP, SBJ
 **Energetic Classification (TCM):** ◉ Qi primary — Tridoshic balancer / purgative-tonic (dose-dependent) / ◈ Jing secondary — Rasayana / constitutional restoration
 **Training Phase:** `[RESET]` `[CYCLE-OFF]` `[BUILD]`
 
@@ -169,6 +170,22 @@ Mandal AK et al. (2017): Incubation of *T. chebula* tannin extract with human co
 - Karma: Anulomana (downward-moving/regulating); Rasāyana; Medhya; Chakshushya (eye-beneficial, directly relevant given the aldose reductase / retinopathy mechanism); Kāsahara (cough-relieving)
 
 **Dantian Affiliation:** Primarily Middle Dantian (digestive fire, metabolic regulation, liver); secondarily Lower Dantian (Jing preservation via neuroprotection and anti-aging mechanisms)
+
+---
+
+### Cultivation Register
+
+**Ayurveda (SS).** Harītakī carries a genuine cultivation status, not merely a therapeutic one. The opening chapter of the *Cikitsāsthāna* of the *Caraka Saṃhitā* — the section on *rasāyana* (rejuvenation) — is the *Abhaya-Āmalakīya Rasāyana Pāda*, named for *abhayā* (harītakī) itself, and it begins the whole therapeutics of long life with harītakī preparations. It is therefore an attested *rasāyana* in the oldest stratum, taken over long courses to nourish life rather than to attack a single complaint (a) [Caraka Saṃhitā, Cikitsāsthāna 1.1]. The tradition's own qualifiers matter: its *vīrya* is warming (*uṣṇa*) and its action *anulomana* (downward-regulating), so the rejuvenative grade sits inside a purgative-astringent, Vata-directed frame — it rejuvenates by clearing and regulating, not by supplementation. The texts assign it the *rasāyana* grade without making it a *bṛṃhaṇa* (bulk-building) tonic; do not read *ojas*-building into it.
+
+**Tibetan / Sowa Rigpa (FMT).** In the *rGyud-bzhi* harītakī is *a ru ra*, named the king of medicines (*sman gyi rgyal po*), and it is the fruit the Medicine Buddha (Sangyé Menla) holds — the most exalted rank any substance receives in the tradition (Gerke; *Bodies in Balance*, Rubin Museum of Himalayan Art) (a). That supremacy is of therapeutic and symbolic rank. A distinct *bcud len* (essence-extraction) cultivation assignment specific to *a ru ra* is not attested in the sources retrieved; its cultivation weight rests on its standing as the universal remedy, not on a documented subtle-body practice, so that narrower claim stays framed and unproven (b).
+
+**Unani (CM).** Ibn Sīnā records *halīlaj* in the *Canon* as a warming purgative for the liver, cough, and weakness of the eyes — an indication set, not a cultivation status. No claim about innate heat or radical moisture is attached to it in the material retrieved, so here it carries a therapeutic role only (b).
+
+**Egyptian (EP).** Myrobalan appears as an imported Indian astringent in the Ebers material, but that corpus is indication-organised and the identification of a specific *Terminalia* is a modern reading. No cultivation framing is attested; the honest register is absence (c).
+
+**Chinese (SBJ).** ⚠️ The tag places harītakī in the classical Shennong stratum, but *hē zǐ* (訶子) is not native to China and enters the materia medica only along the Tang trade routes (618–907 CE) — after the *Shennong Bencao Jing*. It therefore carries no *san pin* 三品 grade in the classical layer; its status is the later astringent Lung / Large-Intestine therapeutic role, not an upper-grade "nourishes life" assignment (b, absent in the classic). [Note for the spine: this SBJ tag likely belongs under **TCM** (later Chinese stratum), not the Shennong classic.]
+
+**Practitioner's note.** Harītakī is a genuine long-course cultivation tonic in the Ayurvedic and Tibetan senses — remarkably so for a fruit that is also a purgative. But its cultivation works by *clearing and regulating*, and the same texts that grade it *rasāyana* keep the purgative dose (3–5 g) to short courses. The tonic dose is the cultivation dose; the high dose is medicine, and the tradition's own dosing is the guide.
 
 ---
 

@@ -2,8 +2,8 @@
 
 ## *Allium porrum* L. (*Allium ampeloprasum* Porrum group) — the mild pungent allium, expectorant and cleanser of the chest
 
-**Tradition Tags:** EP, AT, DMM, CM, SS
-**Tags (previous line, retained for reference):** DMM (Dioscorides, *De Materia Medica* Book II) · Greco-Roman · Egyptian · Folk-European (esp. Welsh) · Unani
+**Tradition Tags:** EP, AT, DMM, CM, SS, BDM
+**Tags (previous line, retained for reference):** EP, AT, DMM, CM, SS
 **Energetic Classification (TCM):** ◉ Qi (warming, dispersing, expectorant)
 **Training Phase:** [GENERAL]
 
@@ -54,6 +54,20 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 - **DMM / Galenic humoral degree:** Hot and Dry (commonly hot in the second/third degree, milder than garlic and onion) — a warming, attenuating, expectorant pot-herb; said also to "thicken" or trouble the blood/eyes if eaten to excess (the classical caution against over-eating the alliums).
 - **Unani mapping:** hot-dry; mukhrij-e-balgham (expels phlegm), deobstruent, diuretic; a milder allium.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the warming, dispersing, phlegm-clearing axis; the gentle member of the allium dispersing-and-cleansing group, with a nutritive-prebiotic aspect.
+
+### Cultivation Register
+
+**Egyptian (EP).** No cultivation framing is attested. The leek's Egyptian presence is dietary and cultural — a field-grown ration food that appears among the provisions of the workforce and in tomb offerings — not a *heka* operation or an assignment to the *ka*/*ba*/*ib*. The Egyptian corpus is indication- and offering-organised; it records the leek as food, and being a national or ration emblem (as in Wales later) is cultural memory, not a claim about the plant's action on the person's vital constitution. Honest (c).
+
+**Assyrian (AT).** No cultivation status is attested, and the standing blocking warning on Mesopotamian substance identifications applies. The alliums appear as foods and remedies classified by the complaint or agency they address, not by any cultivation of life; default (c) absent.
+
+**Dioscorides / Greco-Roman (DMM).** Framed as therapeutic, not cultivational — and no subtle-body system exists in Dioscorides to place it in. The leek's classical fame as the singer's and orator's herb (Nero *Porrophagus*) is a therapeutic voice-clearing and expectorant reputation, not a doctrine of vital refinement. What DMM offers a cultivator is the discipline of attention: knowing the mild allium from the fierce, its humoral degree, and the classical caution against over-eating it. (c).
+
+**Unani / Avicenna (CM).** Framed, not graded. The leek sits as a hot-dry, phlegm-expelling deobstruent and mild diuretic — a humoral therapeutic placement — with no attribution to the *ruh* or to the conservation of innate heat and radical moisture in the sources retrieved. It carries a therapeutic status only. As a warming attenuant it belongs to treatment, not to the Unani longevity project of conserving the innate endowment.
+
+**Ayurveda (SS).** Framed as unattested at the cultivation level. No *rasayana* or *vajikarana* assignment is attested for the leek. The one cultivation-relevant datum is abstentive and must be labelled precisely: the pungent alliums fall on the later *rajasic*/*tamasic* dietary lists that ascetic and yogic practice restricts — but those lists trace to the Bhagavad Gita and post-classical material, **not to Sushruta**, and *sattva/rajas/tamas* are Samkhya categories used alongside *dravyaguna*, not members of it. So the exclusion is real in later practice but is not a Sushrutan pharmacological grade. (b).
+
+**Practitioner's note.** The leek's one genuine cultivation signal is an *exclusion*, and it comes from traditions not on this entry's tag line: in Buddhist and Daoist ascetic practice the pungent alliums are the *wǔ xīn* 五辛, the five acrid roots barred from the cultivation diet as stimulants of the passions and cloudiers of clarity. So the honest instruction to a cultivator is abstentive: as food and expectorant the leek is wholesome and useful, but the contemplative diets that most explicitly pursue vital refinement set it aside rather than take it up — the opposite of a tonic. [PROPOSE: add Buddho-Daoist monastic dietary tradition (BDM) — the *wǔ xīn* / five-pungent-roots exclusion (Śūraṅgama Sūtra and Daoist ascetic diet) is a distinct, cultivation-defining tradition with no existing code; it governs alliums (garlic, onion, leek/chives, scallion, asafoetida) as abstention rather than materia medica, so it does not belong under SBJ/TCM.]
 
 ### Contraindications
 

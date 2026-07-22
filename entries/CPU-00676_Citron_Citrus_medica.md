@@ -2,7 +2,8 @@
 
 ## *Citrus medica* L. | Family: Rutaceae
 
-**Tradition Tags:** AT, CM, DMM, EP, SBJ, SS
+**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS, HEB
+**Tags (previous line, retained for reference):** EP, AT, DMM, CM, SBJ, SS, HEB
 **Energetic Classification:** Warm and dry in the first degree (peel); the pulp cool and moist — a Galenic "temperate" fruit whose fragrance "gladdens the heart"
 **Training Phase:** Phase II — Clarification & Digestive Kindling (the aromatic carminatives)
 
@@ -82,7 +83,7 @@ Honest evidence-grade summary: the digestive/carminative and aromatic doctrines 
 
 **Ayurveda (SS).** *Bījapūra* / *mātuluṅga* is richly characterised in *dravyaguṇa* terms — *dīpana–pācana* (kindling and cooking the digestive fire), *hṛdya*, *rucya* — but these are therapeutic actions. No *rasāyana* (rejuvenation) or *vājīkaraṇa* (generative vitality) status is attested for the citron in the sources retrieved, and *hṛdya* is not to be read upward into a vitality tonic. Framed, no cultivation status — (b).
 
-**Jewish ritual — the etrog (not a Codex tradition tag).** Distinct from every framing above is a genuine *horticultural* cultivation fact: *Citrus medica* has been grown as the unblemished *etrog* of the Sukkot Four Species for over two millennia, a purpose that preserved it as a distinct pomological lineage. This is sourceable to named scholarship — Erich Isaac on religion and the spread of citrus (*Science*, 1959) and Dafna Langgut's citron-pollen evidence from a Persian-period palace near Jerusalem (2017). It is recorded here as ritual and cultivation *history*, not as a vital-constitution cultivation status, and it is not the Chinese (SBJ) tradition under which the entry mistakenly files it.
+**Hebrew / Jewish (HEB).** Distinct from every framing above is a genuine *horticultural* cultivation fact: *Citrus medica* has been grown as the unblemished *etrog* of the Sukkot Four Species for over two millennia, a purpose that preserved it as a distinct pomological lineage. This is sourceable to named scholarship — Erich Isaac on religion and the spread of citrus (*Science*, 1959) and Dafna Langgut's citron-pollen evidence from a Persian-period palace near Jerusalem (2017). It is recorded here as ritual and cultivation *history*, not as a vital-constitution cultivation status. (The Hebrew/Jewish tradition now has its own Codex code, **HEB**, added 2026-07-18; this material was previously mis-filed under the Chinese SBJ tag.)
 
 **Practitioner's note.** Across all six tagged traditions the citron lands at (b) or (c): everywhere a real drug, nowhere assigned a cultivation status in its own tradition's terms. What a cultivator actually does with it is Dioscoridean — carry it, smell it, candy the peel, use the fragrance as an olfactory practice and the sourness as an appetite-cue — a discipline of attention, food-grade and low-stakes. The one non-therapeutic cultivation that is real is horticultural, not spiritual: the growing of a perfect etrog.
 

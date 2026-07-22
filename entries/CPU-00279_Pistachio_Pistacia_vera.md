@@ -53,6 +53,20 @@ Attribution: findings from PubMed.
 - **TCM (food-therapy):** warm, sweet; broadly Kidney/Spleen-nourishing register (no sharp classical drug entry for the imported nut).
 - **Dantian:** lower/middle — nutritive tonification.
 
+### Cultivation Register
+
+**Egyptian (EP).** No cultivation framing is attested. The *Pistacia* trace in the Egyptian record is the traded resin (terebinth) handled as a commodity, and the corpus is indication- and offering-organised — it records use, not any action of the nut on the *ka*/*ba*/*ib*. For the edible nut there is no *heka* operation and no vital assignment. Honest (c) absent.
+
+**Assyrian (AT).** No cultivation status is attested, and the standing blocking warning on Mesopotamian identifications applies. Even though the tree is native to this region, the sources place it as food and remedy classified by complaint, not as a cultivator's substance; default (c) absent.
+
+**Dioscorides / Greco-Roman (DMM).** Framed, not cultivational — and Dioscorides has no subtle-body system in which to place it. *Pistákion* enters as a nutritive nut with mild therapeutic notes (the genus's terebinth also as resin); this is a dietary and therapeutic record, not a doctrine of vital refinement. What DMM offers a cultivator is the discipline of attention — sound identification of the nut, its quality, its adulteration. (c).
+
+**Unani / Avicenna (CM).** Framed as a dietetic tonic, not graded. The *fustuq* is attested as a warming, nourishing, strengthening (*muqawwī*) aliment that benefits the liver and stomach and restores vigour — a real placement within Unani dietetics, where good aliment conserves the innate heat and radical moisture. But no specific graded cultivation status, and no *mufarriḥ*/cardiac-*ruh* attribution, is recorded for it in the sources retrieved; its status is that of a nutritive strengthening food within the humoral scheme. (b), sitting inside the genuine Unani conservation frame rather than asserting a formal grade.
+
+**Ayurveda (SS).** Framed as unattested. The pistachio is a Persian/Central-Asian import outside the classical Sushrutan materia medica; where such nuts appear in later Indian dietetics they are treated as nutritive/*balya* foods, but no *rasayana* or *vajikarana* assignment and no *ojas* claim is attested for this nut. (b)/(c): a nourishing food, not a rejuvenative drug.
+
+**Practitioner's note.** Pistachio is a nutritive substrate, and every tradition that names it treats it as food or nourishing aliment rather than as a graded cultivation drug. The most a cultivator honestly does with it is eat it — as a fat- and protein-dense aliment taken over time within a whole diet. The nearest thing to a vital framing is the Unani reading of a strengthening food that conserves the constitution by good nourishment; that is dietetics, not a tonic grade, and it should not be inflated into one.
+
 ### Contraindications
 
 - **Tree-nut allergy** — pistachio is a tree nut; anaphylaxis risk in sensitised individuals. *Pistacia* (Anacardiaceae) shares family with cashew/mango — cross-reactivity possible.

@@ -69,7 +69,7 @@ According to PubMed, the evidence supports a **genuine but mild** sedative-analg
 
 - **Galenic–Unani (CM):** *khass* — cold and moist (≈second degree); *munawwim* (soporific), refrigerant, and anaphrodisiac; the seed a cooling nervine.
 - **Ayurveda (SS):** cooling, *pitta*-pacifying pot-herb; seed calming and sleep-favouring. Formal *rasa* (likely *tikta/madhura*), *vīrya* (*śīta*, cooling), *vipāka* not securely classically fixed for the species [USER: verify].
-- **TCM (CM):** **not attested** as a major classical Chinese materia medica drug in the sedative role; no tag assigned (cultivated lettuce is used as food; *Lactuca* is not a canonical Chinese sedative herb).
+- **TCM (SBJ):** **not attested** as a major classical Chinese materia medica drug in the sedative role; no tag assigned (cultivated lettuce is used as food; *Lactuca* is not a canonical Chinese sedative herb).
 - **Egyptian (EP):** cooling/digestive remedy *and*, doctrinally, the aphrodisiac emblem of Min — the genus's great counter-tradition.
 - **Assyro-Babylonian (AT):** a cultivated cooling pot-herb; specific humoral grade not preserved [USER: verify].
 

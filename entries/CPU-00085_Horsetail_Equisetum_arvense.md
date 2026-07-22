@@ -1,6 +1,7 @@
 # Horsetail — ذَنَب الفَرَس (Dhanab al-Faras) / Ἱππούρις (Hippouris) / अश्वपुच्छ (Aśvapuccha) / 问荆 (Wènjīng)
 ## *Equisetum arvense L. — Field Horsetail; E. hyemale L. — Scouring Rush*
-**Tradition Tags:** AT · DMM · CM · SS · SBJ
+**Tradition Tags:** AT, DMM, CM, SBJ, SS, EF
+**Tags (previous line, retained for reference):** AT · DMM · CM · SS · SBJ
 **Energetic Classification (TCM):** ◉ Qi
 **Training Phase:** `[REFINE]` `[RESET]`
 
@@ -93,6 +94,22 @@ Fresh or dried powdered horsetail applied directly to wound for hemostasis. Trad
 **TCM Organ-Channel Map:** Lung (Wind-Heat clearing); Liver (eye conditions; Liver-fire); Kidney (diuretic; bone support via Kidney-governs-bone doctrine)
 **Energetic Action:** Consolidates the body's structural matrix (bone-sinew-skin); drains Damp from Lower Burner; clears superficial Wind-Heat; hemostatic
 **Ayurvedic:** Shita virya cooling; Sandhaniya (tissue-bonding connective tissue repair); Pitta-Kapha shamaka; the silicon mineral medicine
+
+---
+
+### Cultivation Register
+
+**Assyrian (AT).** No cultivation framing is attested. The Mesopotamian material identifies horsetail-type preparations by what complaint they were directed at — diuresis, staunching a wound — not by any action on the person's vital constitution, and the standing blocking warning on Assyrian substance identifications applies here too. This is an honest (c): the corpus classifies by causal agency and indication, and records nothing about cultivating life through this plant.
+
+**Dioscorides / Greco-Roman (DMM).** No subtle-body status is attested, and none should be manufactured — Dioscorides has no such system. What Book IV offers a cultivator is not a vital claim about *Hippouris* but a discipline of attention: correct identification of the plant, its astringent-hemostatic assay, and the sensory tests that separate it from adulterants. That is the (c)-level truth here — the practice is one of accurate gathering and use, not of nourishing a vital substrate.
+
+**Unani / Avicenna (CM).** Framed, not graded. Ibn Sina places horsetail as cold and dry and directs it to diuresis, hematuria, and weakness of the kidneys — a therapeutic humoral placement, with no attribution to the *ruh* or to the conservation of innate heat and radical moisture recorded in the sources retrieved. It therefore carries a therapeutic status only, not a cultivation one. A cold-dry drying agent sits, if anything, opposite the Unani longevity project (which conserves innate moisture), so no long-life claim is available for it.
+
+**Ayurveda (SS).** Framed as unattested. The Ayurvedic use runs through Himalayan *Equisetum* species classed by *rasa* (kashaya), *virya* (shita) and dosha action (Pitta-Kapha shamaka) — a *dravyaguna* therapeutic placement. No *rasayana* or *vajikarana* assignment is attested for this plant, and no *ojas* claim is made; the sources give a regional therapeutic drug, not a rejuvenative. (b).
+
+**Shennong / Chinese (SBJ).** Framed, not graded. 问荆 (wènjīng) appears as a heat-clearing, eye-brightening, hemostatic drug entering Lung–Liver–Gallbladder; it is a later therapeutic entrant rather than one of the classic upper-grade *yang sheng* substances, and no *san pin* 三品 grade is recorded for it in the sources retrieved. It therefore carries a therapeutic status only, no cultivation grade. [PROPOSE: add European folk / phytotherapy (EF) — Equisetum arvense herb is a monographed drug of modern Western phytotherapy (German Commission E approval for post-traumatic/static oedema and irrigation therapy), a genuinely distinct later-European attestation from Dioscorides' DMM.]
+
+**Practitioner's note.** Across every tradition that names it, horsetail is a therapeutic drug — diuretic, astringent, styptic — with no cultivation grade attached in any of them. A cultivator uses it for a defined job (drainage, stopping bleeding, connective-tissue support over a long course) and expects nothing more from it; the appealing "silica strengthens the tissue therefore it builds the constitution" reasoning is a modern inference the traditions do not make, and it should not be dressed up as a vital doctrine here.
 
 ---
 

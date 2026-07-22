@@ -53,6 +53,20 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 - **Tibetan/Unani mapping:** bitter-cold purgative and blood/liver remedy.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the cold, draining-downward, heat-purging and blood-moving axis; the great heat-clearing purgative, a more versatile and dose-modulated counterpart to senna.
 
+### Cultivation Register
+
+**Egyptian (EP).** No cultivation framing is attested. Medicinal rhubarb reaches the Egyptian record, if at all, as a traded purgative; the corpus is indication-organised and assigns it no status relative to a vital constitution. **(c) absent.**
+
+**Greek / Dioscorides (DMM).** The Greek and later Western reception knows rhubarb (*rha*, "Turkey" / "China" rhubarb) as a prized article of the drug trade, not through a subtle-body system — Dioscorides offers none and none is to be invented. What it offers a cultivator is the **discipline of attention**: provenance, grade and adulteration mattered enormously to a root shipped across continents and commanding high prices. Cultivation status: **(c) absent.**
+
+**Unani / Avicenna (CM).** Unani places rhubarb as a bitter-cold purgative and liver/blood remedy — a therapeutic classification. The tradition's cultivation idea, the conservation of innate heat and radical moisture, gives it no status; a strong evacuant is not a longevity drug. **(b) framed / (c) absent.**
+
+**Classical Chinese (SBJ).** Da Huang (大黃) is classed in the **lower grade (下品, *xia pin*)** of the *Shennong Bencao Jing*'s three-grade (*san pin*) hierarchy — the register of disease-attacking drugs, mostly toxic, taken for a defined course and then stopped, expressly *not* for long-term nourishing of life. This is an **(a) attested** cultivation status: the lower grade is the deliberate opposite pole to the upper-grade (上品) life-nourishing drugs, and Da Huang's assignment there is the tradition's own warning built into its taxonomy. [Source: *Shennong Bencao Jing*, lower-class listing of Da Huang among the *xia pin*; standard English translation Yang Shou-zhong, *The Divine Farmer's Materia Medica* (Blue Poppy, 1998); on the toxicity-and-course logic of the *san pin* grades see Unschuld, *Medicine in China: A History of Pharmaceutics*. The disease-attacking *xia* character is the *Bencao*'s classical stratum, not merely a later gloss.]
+
+**Tibetan (FMT).** Sowa Rigpa uses rhubarb as a bitter-cold purgative and liver remedy within its therapeutic pharmacology; no formal "substance for subtle-body practice" category exists in the tradition and none is asserted here, nor is *bcud len* (essence-extraction) attested for it. **(c) absent.**
+
+**Practitioner's note.** A cultivator reads Da Huang's own tradition as the instruction: a **lower-grade, disease-attacking drug** — taken for a specific excess-heat or accumulation pattern, in the right dose and preparation, and then stopped. Its power is precisely why it is not a daily tonic: the *xia pin* grading, the pregnancy and deficiency-cold contraindications, and the ban on prolonged anthraquinone use all say the same thing. The therapeutic purge is real and useful; it is not a cultivation practice, and the tradition's grading is the honest signpost.
+
 ### Contraindications
 
 - **Pregnancy, breastfeeding and menstruation — avoid.** Strong downward-draining and blood-moving action; uterine-stimulant; passes into breast milk. [USER: verify.]

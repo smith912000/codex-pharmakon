@@ -77,6 +77,20 @@ The emmenagogue application for delayed menses is documented in all five traditi
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** No cultivation framing is attested. The Egyptian record places pennyroyal in indication-organised digestive and gynaecological preparations — it says what the plant was given *for*, not what it does to the person's vital constitution — and the species identification behind the drug names is a modern reconstruction. **(c) absent.**
+
+**Assyrian (AT).** *Mentha*-type aromatics appear in the Nineveh material for digestive and reproductive complaints, but no cultivation status is attested, and the standing blocking-warning on identification and tablet reference applies. **(c) absent.**
+
+**Greek / Dioscorides (DMM).** Dioscorides supplies no subtle-body system, and none is to be invented. What is real is a **discipline of attention**: he distinguishes the wet (aquatic) from the dry (mountain) *glechon* as differing in potency — a provenance-and-assay judgement a careful practitioner still makes. Recorded here **as culture, not as a cultivation status**: pennyroyal (*glechon*) is named as the herb stirred into the *kykeon* of barley and water in the Homeric Hymn to Demeter, and so is bound into the Eleusinian ritual meal. [USER: verify the *kykeon*/*glechon* identification against Richardson's commentary on the Hymn before relying on it; the entheogenic-*kykeon* theories are contested and must not be stated as fact.] This is ritual and literary history, not a claim about the plant's action on a vital body. Cultivation status: **(c) absent.**
+
+**Unani / Avicenna (CM).** Ibn Sina rates *fūtanj* warm in the third degree and dry and gives it emmenagogue, carminative and respiratory uses — a therapeutic classification, not a cultivation one. The Unani cultivation idea proper, the conservation of innate heat and radical moisture, assigns this substance no status; a warming aromatic drug taken for a complaint is not a longevity practice. **(b) framed / (c) absent.**
+
+**Ayurveda (SS).** Pennyroyal enters later Ayurvedic texts as an imported *Mentha* (Katu rasa, Ushna virya, Vata-Kapha shamaka) — a *dravyaguna* (pharmacological) placement. No *rasayana* or *vajikarana* status is attested; those rejuvenative categories do not claim it. **(c) absent.**
+
+**Practitioner's note.** ⚠️ Nothing here is a cultivation drug. The one recurring "constitutional" reputation — the emmenagogue/abortifacient action attested across the traditions — is inseparable from lethal toxicity: concentrated pennyroyal oil is hepatotoxic and has killed. A cultivator's honest use of this plant is the culinary-dose carminative and the topical repellent, and otherwise abstention; the reproductive reputation is a documented hazard, not a practice, and carries its own contraindication in full force.
+
 ### Contraindications
 
 - **Pregnancy — ABSOLUTE CONTRAINDICATION** — pennyroyal is a documented abortifacient and has caused maternal death; never use in pregnancy in any preparation

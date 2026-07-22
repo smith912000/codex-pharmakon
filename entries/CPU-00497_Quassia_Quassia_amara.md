@@ -2,8 +2,8 @@
 
 ## *Quassia amara* L. | Family: Simaroubaceae
 
-**Tradition Tags:** DMM, CM, SS, BM, SA
-**Tags (previous line, retained for reference):** DMM · CM · SS · BM · (S. America — Indigenous Guianan/Surinamese)
+**Tradition Tags:** CM, SS, BM, SA, EF
+**Tags (previous line, retained for reference):** CM, SS, BM, SA, EF
 
 **Energetic Classification:** Cooling, Drying (bitter tonic — cold and dry, Galenic reading)
 

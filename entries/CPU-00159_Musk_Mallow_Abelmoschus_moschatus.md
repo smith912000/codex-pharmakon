@@ -2,8 +2,8 @@
 
 ## *Abelmoschus moschatus* Medik. — the musk-scented seed, aromatic nervine and cooling antispasmodic of the Asian hibiscus kin
 
-**Tradition Tags:** DMM, CM, SBJ, SS, FMT
-**Tags (previous line, retained for reference):** Ayurveda (*Lata Kasturi* / Kasturi-bheda) · Unani (*Mushkdana*) · Southeast Asian folk medicine · Perfumery/aromatic trade (DMM-adjacent)
+**Tradition Tags:** CM, SBJ, SS, FMT, EF
+**Tags (previous line, retained for reference):** DMM, CM, SBJ, SS, FMT
 **Energetic Classification (TCM):** ◉ Qi (aromatic, carminative) / ☿ Shen (nervine, calming)
 **Training Phase:** [GENERAL]
 
@@ -60,6 +60,20 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Ayurvedic mapping:** *Lata Kasturi* — fragrant, *tikta-katu* (bitter-pungent) with cooling-to-temperate *virya*; *tridosha*-balancing, *medhya/nervine*, *deepana-pachana* (digestive/carminative), *hridya* (cardiac), and reputed *vajikarana* (aphrodisiac).
 - **Unani mapping:** *Mushkdana* — temperate-to-warm aromatic; cardiac and nervine tonic, stomachic, carminative.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** for the aromatic carminative/circulatory action, with a ☿ **Shen** ascription for the calming, nerve-settling musk note — an aromatic that eases both the digestion and the mind.
+
+### Cultivation Register
+
+**European folk / phytotherapy (EF).** No cultivation framing is attested. *Abelmoschus moschatus* is a tropical-Asian plant outside the Dioscoridean horizon; its European footprint is the later perfumery (ambrette) trade, not a classical Greco-Roman materia medica status — which is why the tag was reclassified DMM→EF (2026-07-18). Honest **(c) absent**: a fragrance/fixative in European aromatic practice, with no vital-constitution cultivation status.
+
+**Unani / Avicenna (CM).** *Mushkdana* is a temperate-to-warm aromatic nervine and cardiac/stomachic tonic — a genuine Unani classification. Any "gladdening/cardiac" (*mufarrih*) reading belongs to the *Kitāb al-Adwiya al-Qalbiyya* tradition, not the *Canon*, and no constituent list is asserted. The conservation-of-innate-heat cultivation idea is not assigned to the seed in the sources retrieved. Therapeutic frame attested; cultivation status not (b).
+
+**Chinese (SBJ).** On the tag line, but the entry carries no Chinese substance-specific content and no *san pin* grade or *bencao* action for this southern/Southeast-Asian aromatic appears in the sources retrieved. No cultivation status attested (c).
+
+**Ayurveda (SS).** *Lata Kasturi / Kasturikā-bheda* is classed as *hridya* (cardiac), *medhya*/nervine, *deepana-pachana* (digestive/carminative), tridosha-balancing with a cooling-to-temperate *virya*, and reputed *vajikarana*. *Vajikarana* (generative vitality) is a formal Sushrutan discipline, so this is the frame the seed sits inside — but I could not confirm latakasturi's placement in a classical primary text through named scholarship (the plant's Sanskrit nomenclature is relatively late and the retrieved attestations are compilation/secondary), so the *vajikarana* status stays (b), framed and dated to later material, not asserted as classical.
+
+**Tibetan (FMT).** On the tag line, but no Tibetan substance-specific content is attested; no *bcud len* or Sowa Rigpa assignment appears in the sources retrieved, and no subtle-body-practice category exists to invent one. No cultivation status attested (c).
+
+**Practitioner's note.** In practice the seed is a mild aromatic — a carminative taken after meals and a gentle evening nerve-settle (the musk note) — with a reputed aphrodisiac and cardiac-tonic role in the Asian traditions. Its cultivation weight is light: an aromatic that eases digestion and mind, not a graded longevity or rejuvenation drug, and the essential oil is for supervised, diluted use rather than internal cultivation dosing.
 
 ### Contraindications
 

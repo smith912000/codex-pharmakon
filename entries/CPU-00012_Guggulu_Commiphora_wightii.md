@@ -1,6 +1,7 @@
 # Guggulu — गुग्गुलु / Indian Bdellium / Gur gum / Mukul Myrrh
 ## *Commiphora wightii* (Arnott) Bhandari | Family: Burseraceae
-**Tradition Tags:** AT, CM, DMM, SS, FMT
+**Tradition Tags:** AT, DMM, CM, SS, FMT, HEB
+**Tags (previous line, retained for reference):** AT, CM, DMM, SS, FMT
 **Energetic Classification (TCM):** ◉ Qi primary — Lekhaniya / scraping-clearing / lipid-dissolving / anti-inflammatory / ◈ Jing secondary — structural restoration, joint preservation
 **Training Phase:** `[RESET]` `[CYCLE-OFF]` `[BUILD]`
 
@@ -128,6 +129,22 @@ Urizar NL et al. (2002, *Science* — the landmark mechanistic paper): Guggulste
 **Dantian Affiliation:** Middle Dantian (metabolic center; Spleen-Stomach digestive fire; lipid metabolism); minimal Lower Dantian (secondary Jing preservation via joint protection)
 
 **System Domain:** Lipid Metabolism Optimization · Metabolic Reset · Systemic Anti-inflammation · Joint Preservation · Thyroid Support
+
+---
+
+### Cultivation Register
+
+**Assyrian (AT).** A blocking warning is in force for Mesopotamian substance identifications. A *budulḫu*-type gum resin appears in the cuneiform materia medica, but neither the species nor a cultivation status can be secured, and the tradition classifies substances by the causal agency they oppose rather than by vital-constitutional action. The default here is absence (c).
+
+**Unani / Greek (CM / DMM).** Dioscorides describes *bdellion*, and the Arab physicians a joint-moving, lipid-clearing resin that scholars have *proposed* corresponds to guggulu entering the western pharmacopoeia by Indian Ocean trade. The identification is explicitly contested (the entry says so), and even where accepted the frame is therapeutic — a resin for stagnation and swelling — with no cultivation status recorded. Framed and unproven (b).
+
+**Ayurveda (SS).** Guggulu's cultivation register is the most instructive in this entry, because it is honest cultivation-by-subtraction. The *Suśruta Saṃhitā* classes it *lekhanīya* — "that which scrapes away accumulations" — and it is also *medohara* (fat-clearing); these are attested classical assignments (a). It is additionally called *yogavāhī*, a carrier that drives other substances deeper. It is described as *rasāyana* in the broader classical and later *nighaṇṭu* corpus, but the cultivation truth is the reverse of a bulk tonic: guggulu clears, and its dispersing action, used without cycling, is held to *deplete ojas* rather than build it. Record the rejuvenative reading as attested-but-conditional and date the strongest "*rasāyana*" wording to the later compilations; the Sushrutan bedrock is the *lekhanīya* / *medohara* clearing role (a for *lekhanīya*; b for the *ojas*-building reading).
+
+**Tibetan (FMT).** *Gugul* is deployed for wind-type (*rlung*) joint disease and lipid stagnation — a therapeutic use inside the humoral system, not a documented cultivation grade (b).
+
+**[PROPOSE: add Hebrew/Jewish (HEB) to spine — Genesis 2:12 *bedolach*.]** The biblical *bedolach* (בְּדֹלַח; Gen 2:12, Num 11:7) is rendered "bdellium," a *Commiphora* oleo-gum resin — which would place a guggulu-adjacent substance in the Hebrew corpus. ⚠️ The identification is doubly contested: the Septuagint and Rashi read *bedolach* as a precious stone / crystal, others as pearl, and even the resin reading points to *C. africana* as readily as *C. wightii*. No Hebrew cultivation framing attaches in any case — it is a naming / trade attestation only. Propose the tag with the species-ID debate flagged; cultivation status absent (c).
+
+**Practitioner's note.** Guggulu is a clearing agent a cultivator reaches for at the *start* of a cycle, not to build. Its own tradition frames it as scraping *āma* and *meda* and warns that unchecked use erodes the *ojas* it is meant to make room for — hence the classical pairing with rebuilding tonics and the mandatory cycling-off. Cultivation here means preparing the ground, not tonifying it.
 
 ---
 

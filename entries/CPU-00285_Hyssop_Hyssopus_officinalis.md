@@ -1,6 +1,7 @@
 # Hyssop — زوفا (Zūfā) / Ὕσσωπος (Hyssōpos) / जुफा (Jūfā) / 牛膝草 (Niúxīcǎo)
 ## *Hyssopus officinalis L. — Hyssop*
-**Tradition Tags:** AT · EP · DMM · CM · SS
+**Tradition Tags:** EP, AT, DMM, CM, SS, HEB
+**Tags (previous line, retained for reference):** AT · EP · DMM · CM · SS
 **Energetic Classification (TCM):** ◉ Qi
 **Training Phase:** `[RESET]` `[PRIME]`
 
@@ -85,6 +86,24 @@ Fresh hyssop sprigs in apple cider vinegar; macerate 2 weeks; 1 tsp in water bef
 **Organ-Channel Map:** Lung (expectorant; antimicrobial); Spleen-Stomach (bitter digestive tonic)
 **Energetic Action:** Warms and disperses Cold-Phlegm from the Lung; resolves respiratory Qi obstruction; tonifies Spleen-Stomach digestive Qi
 **Ayurvedic:** Katu-Tikta; Vata-Kapha shamaka; Ushna virya; Kapha-respiratory clearing
+
+---
+
+### Cultivation Register
+
+**Assyrian (AT).** Aromatic Lamiaceae of the bitter-camphoraceous profile appear in Assyrian fumigation and respiratory/skin preparations (Thompson 1924), but the identification of any specific tablet plant with *Hyssopus officinalis* is not secure. Under the standing blocking warning for Assyrian identifications, and with no vital-refinement scheme attested for such an aromatic, this register is **(c) absent**.
+
+**Egyptian (EP).** The Egyptian evidence is explicitly contextual: hyssop-related aromatics sit among antimicrobial preparations, and the connection is inferential rather than a documented substance-identity. No cultivation status or *heka* assignment is attested. **(c) absent**.
+
+**Greek / Dioscorides (DMM).** Dioscorides gives hyssop a detailed therapeutic account (Book III) — the boiled compound with figs, honey, rue and cumin for the chest, decoctions for pleurisy, topical use for bruises — but no subtle-body system, and none is supplied here. The cultivator's inheritance is again the **attention-discipline** of the compound and its preparation, so this register reads **(b) framed**, with no cultivation grade attested.
+
+**Avicenna / Unani (CM).** Ibn Sina classes hyssop as warm in the third degree and dry in the second — strongly heating and drying, directed at phlegmatic-damp respiratory states. Within the Unani conservation-of-innate-heat frame a strongly warming, drying dispersant reads as a corrective for a cold-damp *dyscrasia* rather than as a conservational tonic; but no source retrieved assigns hyssop a role in preserving innate heat or radical moisture, so the frame is offered without the claim: **(b) framed**, cultivation status unattested.
+
+**Ayurveda (SS).** Hyssop is documented as an imported Mediterranean aromatic; its *Katu–Tikta rasa, Uṣṇa vīrya, Vāta-Kapha śāmaka* placement is a **classificatory analogy** to indigenous Kapha-clearing respiratory herbs, not an attested placement within *rasāyana* or *vājīkaraṇa*. No rejuvenative status for hyssop is attested. **(b) framed** for the classificatory slot; **(c)** for any *rasāyana* claim.
+
+**[PROPOSE: add Hebrew/Jewish (HEB) to spine — attested by Exodus 12:22; Leviticus 14:4–6, 49–52; Numbers 19:6, 18; Psalm 51:9 (MT 51:7) — WITH SPECIES CAVEAT.]** ⚠️ The identification problem must lead. Biblical *ezov* is almost certainly **not** *Hyssopus officinalis*, which is native to southern Europe and does not grow wild in Palestine; the plant described as common, local and easily bound into a bunch is most probably *Origanum syriacum* (Syrian oregano / za'atar) — an identification already made by medieval Jewish authorities (Maimonides; Saadia Gaon) and endorsed by modern botanists. With that caveat foregrounded, the *culturally continuous purification use* is genuinely attested and belongs under HEB: *ezov* marks the Passover lintels with blood (Exodus 12:22), cleanses the leper and the leprous house (Leviticus 14), is burnt with the red heifer and used in the waters of purification (Numbers 19:6, 18), and gives Psalm 51 its plea, "purge me with *ezov* and I shall be clean." This is **(a) attested** as a ritual purification agent — but note it is *applied* (sprinkling, marking, cleansing), an instrument of ritual purity, not a substance ingested for personal vital cultivation; sacred-purificatory status is not a cultivation grade, and the botanical referent is probably a different genus from the entry's plant.
+
+**Practitioner's note.** For a cultivator, *Hyssopus officinalis* is a respiratory and bitter-digestive working herb hedged by a real safety limit — pinocamphone is a convulsant, so this is emphatically not a long-term tonic in any tradition here, and none grades it as one. Its towering cultural "register" is purificatory and liturgical, but that register most likely attaches to *ezov* = *Origanum syriacum*, not to this species: the honest cultivator holds the scriptural resonance and the botanical caution in the same hand, and does not import a purity-rite meaning into a plant the rite probably never named.
 
 ---
 

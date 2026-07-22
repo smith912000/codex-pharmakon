@@ -1,6 +1,7 @@
 # Myrtle — مورد (Mūrd) / Μύρτος (Myrtos) / मुरपुष्पा (Murapuṣpā) / 香桃木 (Xiāngtáomù)
 ## *Myrtus communis L. — Common Myrtle*
-**Tradition Tags:** EP · AT · DMM · CM · SS
+**Tradition Tags:** EP, AT, DMM, CM, SS, HEB
+**Tags (previous line, retained for reference):** EP · AT · DMM · CM · SS
 **Energetic Classification (TCM):** ◉ Qi
 **Training Phase:** `[RESET]` `[REFINE]`
 
@@ -93,6 +94,24 @@ Strong decoction of myrtle leaves (20g in 500mL water); cool and strain; use as 
 **Organ-Channel Map:** Lung (antimicrobial, expectorant); Large Intestine (astringent, antidiarrheal); Kidney (antiperspirant — seals Wei Qi)
 **Energetic Action:** Consolidates Lung Qi; clears Wind-Heat from the respiratory tract; astringes intestines; seals surface (antiperspirant, stops abnormal sweating)
 **Ayurvedic:** Kashaya-Tikta; Pitta-Kapha shamaka; Shita virya; antimicrobial Deepana
+
+---
+
+### Cultivation Register
+
+**Egyptian (EP).** Myrtle appears in the Egyptian corpus as an aromatic antiseptic, a wound-dressing component, a maceration vehicle (myrtle wine), and among the aromatic preservatives of embalming. All of these are preparation- and indication-organised uses; none is a cultivation status, and no *heka* recitation or personal-constitution assignment is attested for myrtle in the sources retrieved. Cultivation framing here is **(c) absent** — the ceremonial fragrance is real, but the corpus does not tell us what the plant does to the person.
+
+**Assyrian (AT).** Myrtle (*aslu*) is recorded in Assyrian aromatic preparations for skin conditions and in fumigation and ceremonial compounds (Thompson 1924). Under the standing blocking warning for Assyrian substance identifications and tablet references, and with illness classified by causal agency rather than by any vital-refinement scheme, no cultivation status can be asserted: **(c) absent**.
+
+**Greek / Dioscorides (DMM).** Dioscorides distinguishes cultivated from wild myrtle and grades leaf, berry and their decoctions by use — a **discipline of provenance and attention**, not a subtle-body doctrine, of which he has none. That distinction of varieties and parts is the cultivator's real inheritance here, so this register reads **(b) framed**. Myrtle's powerful Greek religious identity — sacred to Aphrodite, woven into wedding and funerary rite — is devotional and civic and must not be converted into a Dioscoridean cultivation grade.
+
+**Avicenna / Unani (CM).** Ibn Sina classes myrtle as cold in the second degree and dry in the second — cooling, astringent, sealing (it "closes the pores" against excess sweat, stems flux and haemorrhage). Within the Unani cultivation idea proper — the conservation of innate heat and radical moisture — an astringent, sealing, cooling agent has an intelligible place as something that *retains* rather than *disperses*. But no source retrieved assigns myrtle a specific role in that conservation, so the frame is given without the claim: **(b) framed**, cultivation status unattested.
+
+**Ayurveda (SS).** Myrtle enters the Indian record as an imported Western-trade aromatic; the *Kashaya–Tikta rasa, Shita vīrya, Pitta-Kapha śāmaka* profile carried in this entry is a **classificatory analogy** to comparable indigenous astringent-cooling herbs, not an attested placement of myrtle itself within *rasāyana* (rejuvenation) or *vājīkaraṇa* (generative vitality). No *rasāyana* status for myrtle is attested in the sources retrieved. Cultivation framing is therefore **(b) framed** at most — the classificatory slot exists, the cultivation grade does not — sliding to **(c)** for any rejuvenative claim.
+
+**[PROPOSE: add Hebrew/Jewish (HEB) to spine — attested by Leviticus 23:40 (rabbinic identification, 1st c. CE); Nehemiah 8:15; Isaiah 55:13; Zechariah 1:8.]** Myrtle (*hadas*) is one of the Four Species of Sukkot: the "boughs of leafy trees" of Leviticus 23:40, identified as myrtle in first-century-CE rabbinic reading and fixed there ever since, bound with palm, willow and citron (*etrog*) and waved in the festival rite. Myrtle also furnishes the booths of Nehemiah 8:15, stands as a sign of restoration in Isaiah 55:13, and anchors Zechariah's night vision (1:8); the name survives personified as Hadassah (Esther). This is **(a) attested** ritual and covenantal use. It must be read as *communal festal ritual* — the plant is taken up and rejoiced with before God — not as a substance ingested to refine the individual practitioner's vitality; sacred status is not cultivation status.
+
+**Practitioner's note.** For a cultivator myrtle is an aromatic working herb — respiratory steam, astringent decoction, scalp rinse — not a longevity tonic, and none of the traditions in this entry grades it as one. Its deepest "register" is liturgical rather than pharmacological: in the Hebrew rite it is held and waved, not consumed. Where a rejuvenative or subtle-body role is absent from the sources, this entry records the absence rather than filling it.
 
 ---
 
