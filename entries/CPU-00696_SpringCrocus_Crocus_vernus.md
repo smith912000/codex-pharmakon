@@ -2,6 +2,8 @@
 
 ## *Crocus vernus (L.) Hill* | Family: Iridaceae
 
+> ⚠️ **DUPLICATE / SPURIOUS ENTRY — see Saffron (I_208, CPU-00063).** *Crocus vernus* is an ornamental spring crocus with **no independent materia-medica attestation**. A source-level attestation audit (2026-07) found that every tradition tagged here documents **saffron — *Crocus sativus*** instead: Dioscorides' *krokos*, Avicenna's *za'faran*, the Akkadian *azupiranu*, and the Ebers saffron-aromatic. Saffron has its own entry (**I_208**). This page is retained only as a cross-reference pending merge; its tags and Cultivation Register below are **saffron-inherited and are not attestations of *C. vernus***.
+
 **Tradition Tags:** AT, CM, DMM, EP
 
 **Energetic Classification:** Cold and moist in the second degree (Galenic reading of the fresh corm and leaf); the dried corm mildly warming and drying.
