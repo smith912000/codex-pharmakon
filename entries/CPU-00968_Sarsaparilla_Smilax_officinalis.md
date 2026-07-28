@@ -2,7 +2,8 @@
 
 ## *Smilax officinalis* Kunth | Family: Smilacaceae
 
-**Tradition Tags:** DMM (Dioscorides), CM (Avicenna), TCM (Chinese medicine), SS (Sushruta), BM (Badianus)
+**Tradition Tags:** DMM, CM, TCM, BM
+**Tags (previous line, retained for reference):** DMM (Dioscorides), CM (Avicenna), TCM (Chinese medicine), SS (Sushruta), BM (Badianus)
 **Energetic Classification:** Hot and dry in the second degree (Galenic–Unani) — a warming, sudorific *depurative* / alterative "sweetener of the blood"
 **Training Phase:** Phase III — Depuration & the Blood (alteratives, diaphoretics, and "cleansers")
 
@@ -80,8 +81,6 @@ According to PubMed, the modern evidence for *Smilax* is almost entirely **precl
 **Unani — Avicenna (CM).** Adopted as *ushba*, sarsaparilla is a *muṣaffī-yi dam* (blood-purifier), hot and dry, diaphoretic and diuretic, worked for chronic skin eruptions, "corrupt humours," and joint and venereal complaints — the archetypal depurative slot (its adoption for the American species postdates Avicenna). The Unani tradition's strongest cultivation idea — conservation of innate heat and radical moisture across the whole regimen — is not a status it assigns to a hot, evacuant depurative of this kind, and no *mufarriḥ* or cardiac-*rūḥ* role is claimed. A cleansing, curative drug, not a conserving one. **(b) framed.**
 
 **Chinese (TCM).** The Chinese drug is *tu fu ling* (土茯苓, *Smilax glabra*), a congener — sweet, bland, neutral — that resolves toxicity, dispels dampness and unblocks the joints; it rose to prominence as a mainstay against *mei du* (梅毒, syphilis) largely through the late compilation of Li Shizhen's *Bencao Gangmu* (1596), not a classic. Its standing there is therapeutic and curative — a damp-heat and toxicity drug taken against a defined complaint — not a *yang sheng* 養生 nourishing-life status, and no *qing shen* 輕身 or long-term life-nourishing role is recorded. The tagged American *S. officinalis* is a New World analogue, not the Chinese drug itself. **(b) framed**, dated to the 1596 compilation.
-
-**Ayurveda (SS).** Indian medicine works the *Smilax*/*sarivā* material in the *raktaprasādana* / *raktaśodhana* (blood-clearing) alterative class — *kaṣāya* / *tikta* in *rasa*, *śīta* in *vīrya* — for *kuṣṭha* (skin disease), pruritus and "heated blood," the functional parallel being *sarivā* (*Hemidesmus indicus*), a distinct plant. No *rasāyana* (rejuvenation) or *vājīkaraṇa* (generative) grade is recorded for the American *Smilax*, whose classical identification is itself philologically loose. Its standing is therapeutic and dietetic, not a formal rejuvenative cultivation status. **(b) framed.**
 
 **Nahua — Badianus (BM).** The *Libellus de Medicinalibus Indorum Herbis* (the 1552 Badianus manuscript) records native Mesoamerican use of *zarzaparrilla* (*Smilax*) root among remedies for skin and bodily complaints. The manuscript is itself naturalistic and does not carry the *tonalli* / *teyolia* / *ihiyotl* model — that framework is reconstructed from later ethnohistory (López Austin), not read from Badianus — so no loss-of-*tonalli* or vital-soul cultivation status can be assigned to the root from this source. The testimony is a plain skin-and-body remedy. **(c) absent.**
 

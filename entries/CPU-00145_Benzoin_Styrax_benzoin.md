@@ -1,6 +1,6 @@
 # Benzoin (Gum Benjamin) — Ān Xī Xiāng (安息香) / Lubān Jāwī
 ## *Styrax benzoin* Dryand. | Family: Styracaceae
-**Tradition Tags:** DMM, CM, SBJ, FMT, EF
+**Tradition Tags:** CM, SBJ, FMT, EF
 **Tags (previous line, retained for reference):** CM, DMM, SBJ, FMT  *(rGyud-bzhi; canonical index attests FMT — also Chinese An Xi Xiang and Unani lubān jāwī, historically documented)*
 **Energetic Classification (TCM):** ◉ Qi — aromatic orifice-opening resuscitative (Kāi Qiào) / Qi-and-Blood mover; ⊕ Shen — calming aromatic (the "peaceful-rest fragrance")
 **Training Phase:** `[RESET]` `[SLEEP]`
@@ -76,8 +76,6 @@ The best-established modern fact about benzoin is its **officinal status**: Comp
 ---
 
 ### Cultivation Register
-
-**Greek — Dioscorides (DMM).** Dioscorides describes στύραξ (*styrax*) in *De Materia Medica* — the fragrant balsamic resin of the Mediterranean *Styrax officinalis* — but *Styrax benzoin*, the Sumatran tree tapped for this resin, was unknown to the classical Greco-Roman world; benzoin reached Europe only in the late medieval period through Arab traders (the name itself is a corruption of *lubān jāwī*). Dioscorides therefore assigns no status to this species, and in any case carries no subtle-body system to which such a status could attach. What his tradition offers a cultivator here is his discipline of attention — provenance, the assay of a resin by odour and fracture, the guard against adulteration of aromatic gums — applied to a resin he never saw. Cultivation status: **(c) absent**, and the classical attestation belongs to Mediterranean storax, not to Sumatra benzoin.
 
 **Unani — Avicenna (CM).** As *lubān jāwī* benzoin was received into Unani practice as a warming, drying, resolvent balsam for the chest and skin. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture as a finite vital endowment — is a frame of the whole regimen, not a status the tradition assigns to a warming resolvent resin, and no *mufarrih* (gladdening, *ruh*-strengthening) role is claimed for it here. **(b) framed:** attested as a balsamic therapeutic, with no cultivation status sourced.
 

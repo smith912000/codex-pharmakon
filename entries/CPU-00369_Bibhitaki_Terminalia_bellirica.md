@@ -1,6 +1,7 @@
 # Bibhitaki — विभीतक (Vibhītaka) / Bāhera / Kaliyuga Tree
 ## *Terminalia bellirica* (Gaertn.) Roxb. | Family: Combretaceae
-**Tradition Tags:** SS, FMT, CM, EP
+**Tradition Tags:** CM, SS, FMT
+**Tags (previous line, retained for reference):** SS, FMT, CM, EP
 **Energetic Classification (TCM):** ◉ Qi primary — Kapha-clearing / respiratory astringent / lipid-regulating / ◈ Jing secondary — Rasāyana / structural tissue support
 **Training Phase:** `[RESET]` `[CYCLE-OFF]`
 
@@ -177,8 +178,6 @@ The TCM listing of Hē Zǐ (*T. chebula*, not *T. bellirica*) acknowledges the T
 ---
 
 ### Cultivation Register
-
-**Egyptian (EP).** Bibhitaki enters the Egyptian orbit only through the later myrobalan trade, and even that is inferential — the Ebers references "understood to include" *T. bellirica* are a modern reading, not a secure Egyptian naming of this fruit. The corpus in any case is indication-organised: it records what an astringent was done *for* — a wound dressing, a chest preparation — not what a substance does to the *ka*, the *ib* as seat of judgement, or the person's vital constitution. No *heka*-bearing operation, no recitation, and no deity attribution is recorded for this fruit in the retrieved sources. Cultivation status: **(c) absent** — and the underlying identification is itself provisional.
 
 **Unani — Avicenna (CM).** *Balīlaj* (بليلج), the belleric myrobalan, is a genuine article of the Unani materia medica, recorded as an astringent, lung-clearing and liver-protecting drug and expressly distinguished from *halīlaj*. The tradition's strongest cultivation idea — the conservation of innate heat and radical moisture across the whole regimen, ageing being their depletion, so that longevity is conservation rather than acquisition — is a frame of the person's lifelong economy, not a status the corpus pins to this purging astringent; and no cardiac-*ruh* (*mufarrih*) role is claimed for it. **(b) framed:** therapeutically attested, no cultivation status sourced.
 

@@ -2,7 +2,7 @@
 
 ## *Phyllanthus emblica* L. (syn. *Emblica officinalis* Gaertn.) | Family: Phyllanthaceae
 
-**Tradition Tags:** DMM, CM, TCM, SS
+**Tradition Tags:** CM, TCM, SS
 **Tags (previous line, retained for reference):** CM, DMM, SBJ, SS
 **Energetic Classification:** Cooling yet balancing — sour-astringent, drying; a rare tridoshic "cooling tonic" in the Galenic-Unani frame.
 **Training Phase:** Rejuvenation / Rasayana (deep tonification and antioxidant consolidation)
@@ -60,8 +60,6 @@ According to PubMed, amla has a **stronger human clinical evidence base than mos
 - **Galenic / Unani (*Amlaj*):** Cold and dry; astringent tonic — cardiac, cerebral, digestive, and hair/scalp tonic.
 
 ### Cultivation Register
-
-**Greek — Dioscorides (DMM).** The emblic myrobalan is not a native Greek drug and does not appear in *De Materia Medica*; it entered the Greco-Arabic-European stream later through the myrobalan trade, as the entry itself records — so the tag marks an eastward-sourced absorption into the Dioscoretic-Galenic pharmacy, not a Dioscoridean entry. Dioscorides carries no subtle-body system in any case; the tradition offers a cultivator only its discipline of attention — the sourcing and assay of an imported astringent fruit. **(c) absent** as to cultivation status.
 
 **Unani — Avicenna (CM).** As *Amlaj*, amla is a well-established Unani drug: a cold, dry astringent tonic (*muqawwi*) of the heart, brain, viscera and scalp that checks excessive discharge. The strongest cultivation idea in the Unani corpus, the conservation of innate heat and radical moisture across the whole regimen, is a frame of the constitution and is not the same as this substance's recorded tonic indications; no cultivation status is sourced beyond that therapeutic tonic role, and no *mufarrih* constituent claim is made. **(b) framed:** attested as a Unani tonic, no cultivation status sourced.
 

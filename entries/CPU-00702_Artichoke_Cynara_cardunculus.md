@@ -2,7 +2,8 @@
 
 ## *Cynara cardunculus* L. (incl. *C. cardunculus* var. *scolymus*, the globe artichoke) | Family: Asteraceae (Compositae)
 
-**Tradition Tags:** CM (Avicenna), DMM (Dioscorides), EP (Ebers), SS (Sushruta)
+**Tradition Tags:** EP, DMM, CM
+**Tags (previous line, retained for reference):** CM (Avicenna), DMM (Dioscorides), EP (Ebers), SS (Sushruta)
 **Energetic Classification:** Warm and dry in the first degree (Galenic); bitter, incisive, deobstruent (aperient of the liver)
 **Training Phase:** Purification
 
@@ -65,8 +66,6 @@ According to PubMed:
 **Greek — Dioscorides (DMM).** Dioscorides describes the cultivated *kinara* directly — the fleshy receptacle, the root, the bitter decoction taken to sweeten rank sweat and move the urine — but he carries no subtle-body system that could assign it a cultivation status. What his tradition offers a cultivator is his discipline of attention: distinguishing the cultivated plant from the wild cardoon ancestor, judging the plant by its bitterness, gathering and preparing it well. That is a real practice of provenance and sensory assay, not a vital-body doctrine. **(c) absent** as to cultivation status.
 
 **Unani — Avicenna (CM).** In the *Qanun* the artichoke (*harshaf*) is a warming, drying simple that opens obstructions of the liver and spleen — a bitter that cuts and thins thick, stagnant humours. This is a genuine therapeutic attestation, but it is a deobstruent role, not a cultivation status: the corpus's strongest cultivation idea, the conservation of innate heat and radical moisture as a finite endowment, is a frame of the whole longevity regimen and is not assigned to an incisive, humour-thinning bitter, and no *mufarrih* or cardiac-*ruh* role is claimed for it. **(b) framed:** attested therapeutically, no cultivation status sourced.
-
-**Ayurveda (SS).** The artichoke is not a classical Sushrutan drug; it was assimilated into the bitter (*tikta*) liver-directed category as Persian and Arab materia medica travelled east, read as a *tikta-rasa* deobstruent that kindles *agni* without over-heating. No *rasayana* or *vajikarana* assignment is recorded for it in the sources retrieved — its standing is therapeutic and dietetic, sitting in a borrowed *tikta* role rather than a formal rejuvenative one. **(b) framed**, with the caveat that the attestation is by later assimilation, not classical citation.
 
 **Practitioner's note.** A cultivator reaches for the leaf, not the edible heart, and uses it as a bitter taken before meals — an infusion, tincture or standardised extract — where digestion is sluggish and congested rather than deficient, to provoke bile and ease upper-abdominal heaviness. The bitterness is the working signal, not a flaw to mask. It is a Purification-phase deobstruent taken for a defined job of un-obstructing the liver and then eased off, not a substance any of these traditions grade for long-term life-nourishment; the culinary heart is food, gentle and inulin-rich, but not a therapeutic dose of the leaf's actives.
 

@@ -2,7 +2,8 @@
 
 ## *Dioscorea polystachya* Turcz. (syn. *D. opposita* Thunb., *D. oppositifolia* auct.) | Family: Dioscoreaceae
 
-**Tradition Tags:** SBJ, SS, CM, DMM
+**Tradition Tags:** CM, SBJ, SS
+**Tags (previous line, retained for reference):** SBJ, SS, CM, DMM
 
 **Energetic Classification:** Neutral–slightly warm, sweet; a moistening restorative tonic
 
@@ -65,8 +66,6 @@ Modern work concentrates on the **mucilage polysaccharides**, which carry much o
 - **Galenic / Unani (Avicenna):** cool-moist to neutral, nutritive and demulcent; a substance-building convalescent food.
 
 ### Cultivation Register
-
-**Greek — Dioscorides (DMM).** The genus *Dioscorea* bears Dioscorides' name, but *De Materia Medica* did not describe this East-Asian species — the entry itself concedes it "was not the one he handled directly," so the tag rests on the eponym and on the continuity of the demulcent-root doctrine, not on a named Dioscoridean entry for *D. polystachya*. Dioscorides in any case carries no subtle-body system into which a cultivation status could be set; what the tradition offers a cultivator is his discipline of attention — the recognition and assay of slippery, nutritive roots. **(c) absent** as to cultivation status.
 
 **Unani — Avicenna (CM).** The Galenic-Unani frame treats starchy, mucilaginous roots as demulcent and nutritive — moistening the chest, soothing the gut, and building substance in the wasted or convalescent body — and Chinese yam is placed here by analogy to that class rather than by a *Qānūn* entry naming this species. The strongest cultivation idea in the Unani corpus, the conservation of innate heat and radical moisture across the whole regimen, is a frame of the constitution and is not a status assigned to this particular nutritive root; no *mufarrih* or cardiac-*ruh* role is recorded. **(b) framed:** placed within the nutritive/demulcent frame, no cultivation status sourced.
 

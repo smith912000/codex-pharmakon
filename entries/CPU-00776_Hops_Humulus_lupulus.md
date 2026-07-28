@@ -2,7 +2,7 @@
 
 ## *Humulus lupulus* L. | Family: Cannabaceae
 
-**Tradition Tags:** AT, DMM, CM, TCM
+**Tradition Tags:** AT, CM, TCM
 **Tags (previous line, retained for reference):** AT, CM, DMM, SBJ
 **Energetic Classification:** Cool & Dry — bitter, sedative, relaxant
 **Training Phase:** Settling Night (nervous quieting & sleep onset)
@@ -64,8 +64,6 @@ The mechanistic story (2-methyl-3-butene-2-ol as sedative; α-acids up-regulatin
 ### Cultivation Register
 
 **Assyrian (AT).** Under the standing blocking warning for Mesopotamian substance identifications, no cultivation status is claimed — and here even the therapeutic attestation should be held with caution: hops as a brewing and medicinal herb is a medieval European development (hopped ale post-dates the cuneiform corpus by millennia), and its presence in the Assyrian materia medica is not securely established. The Mesopotamian frame classifies a substance partly by the causal agency it opposes, but no such classification is sourced for this plant. **(c) absent.**
-
-**Greek — Dioscorides (DMM).** The classical name usually cited — *lupus / lupulus salictarius* — is Pliny's, describing an edible wild shoot, not a Dioscoridean materia medica entry, and hops as a medicine is largely post-classical. Dioscorides in any case carries no subtle-body system that could assign a cultivation status. What the tradition offers a cultivator is his discipline of attention — provenance, the season for gathering the cones, the sensory assay of a bitter that changes on storage. That is a real practice, not a vital-body doctrine. **(c) absent** as to cultivation status, and the classical therapeutic attestation itself is thin.
 
 **Unani — Avicenna (CM).** In the Graeco-Arabic stream hops is read as a cool-dry bitter: a blood-cleanser, mild aperient and calmative for a hot, restless disposition. The strongest cultivation idea in the Unani corpus is the conservation of innate heat and radical moisture; a cooling-drying sedative bitter is a corrective for a "hot" state, not a substance assigned a status for conserving that vital endowment, and no *mufarrih* or *ruh*-role is claimed for it (hops quiets rather than gladdens). Its standing is therapeutic. **(b) framed:** used in the tradition, no cultivation status sourced.
 
