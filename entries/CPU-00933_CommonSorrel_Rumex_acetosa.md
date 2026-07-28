@@ -80,6 +80,20 @@ The **oxalate hazard** — the necessary deflation — is well grounded. Mitchel
 
 ---
 
+### Cultivation Register
+
+**Assyrian / Mesopotamian (AT).** The cuneiform corpus records sour and dock-type cooling pot-herbs, and *Rumex* grew across the region as an edible weed, but the surviving lexical material does not allow *R. acetosa* to be securely fixed to any Akkadian plant name, and no tablet reference or causal-agency classification can be asserted for this species. Under the standing blocking warning for Assyrian substance identifications — where illness is classified by the agency it opposes (divine hand, ghost, oath) and even the *asû*/*āšipu* division is contested — nothing rises to a cultivation status here. Cultivation status: **(c) absent.**
+
+**Dioscorides / Greco-Roman (DMM).** Dioscorides places the sour docks (*oxalís* / *oxylápathon*) in the *lápathon* group as cooling, appetite-restoring, mildly astringent pot-herbs, their decoction turned against hot stomach complaints, dysentery, and bilious excess — cool the heat, tighten the flux. He carries no subtle-body doctrine into which a cultivation status could be entered. What the tradition hands a cultivator is his discipline of attention: recognising the true sour dock, judging it by its lemony bite, distinguishing the cultivated from the wild sorrel and both from the blunter docks. That is a real practice of sensory assay and provenance, not a vital-body assignment. **(c) absent.**
+
+**Avicenna / Unani (CM).** In the Unani reading *ḥummāḍ* is Cold & Dry in the second degree, a refrigerant-astringent directed at hot bilious (*ṣafrāwī*) states — bilious fever, thirst, hot palpitation, jaundice-type heat — with the sour taste read as the marker of its cold, incisive quality and the seeds noted as more binding. The one genuine cultivation idea in the Unani corpus is the conservation of innate heat and radical moisture as a finite vital endowment, a longevity frame governing the whole regimen; it does not descend into a cultivation status for this cooling corrective, and no *mufarrih* (cardiac-*ruh*) role is claimed for it. The standing is squarely therapeutic — a refrigerant that cuts and settles hot bile — with no cultivation status sourced. **(b) framed.**
+
+**Shennong / Chinese (SBJ).** Chinese materia medica knows *suān mó* (酸模) as a cool (*liáng*), sour–bitter (*suān kǔ*) herb that clears heat, cools the blood, promotes urination, and mildly moves the bowel — its energetic slot *qīng rè liáng xuè* (clear heat, cool the blood). That slot is by character a disease-clearing, heat-draining action rather than a life-nourishing one, and the *san pin* 三品 hierarchy runs the other way — the upper grade (上品) is for substances taken long-term to nourish life within *yang sheng* 養生, which is conservational, not curative. But the sources retrieved record no explicit *san pin* grade for this species, and no grade is manufactured here; its standing is a heat-clearing therapeutic use, with the cultivation status unattested. **(b) framed.**
+
+**Practitioner's note.** A cultivator does very little with sorrel, and that is the honest instruction: it belongs in the kitchen, not the dispensary. Eaten modestly as a cool-season, vitamin-C-bearing green it is a genuine refrigerant and antiscorbutic food; but the same oxalic acid that carries its celebrated sour "coolness" is a nephrotoxic, calcium-binding load, so it is the rare Codex plant where scaling it into juices, extracts, or a dosed remedy is exactly the wrong move. No tradition assigns it a longevity or vitality-building status. Take it as a modest food with an oxalate ceiling, and leave the concentrated forms alone.
+
+---
+
 ### Contraindications
 
 - **CRITICAL — oxalate load: kidney stones, gout, and renal impairment.** *R. acetosa* is a high-oxalate plant. Contraindicated (or strictly limited to small culinary amounts) in anyone with a history of calcium-oxalate kidney stones, hyperoxaluria, gout/hyperuricaemia, or chronic kidney disease. Avoid concentrated juices/extracts entirely. Maintain hydration and pair with dietary calcium to bind oxalate.

@@ -64,6 +64,20 @@ Mallow's physical demulcent mechanism is on secure ground; its *biochemical* ant
 - **Avicenna / Unani mapping:** *khubbazi* — cold-moist; mulattif (attenuant/soother) and mulayyin (gentle laxative), demulcent to chest, gut and urinary tract.
 - **Kenetica Yin tier:** ◉ **Yin** — on the cooling-moistening, softening/lubricating axis; the archetypal demulcent, physical soother of dry and irritated tissue.
 
+### Cultivation Register
+
+**Egyptian (EP).** Mallow belongs to the Egyptian repertory of cooling, moistening plant-foods and emollient poultices — a soft mucilaginous leaf eaten to soothe the belly or worked into a dressing for inflamed skin. But the Ebers corpus is indication-organised: it records what was done for a complaint, not what a demulcent does to the *ka*, *ba* or *ib*, and specific naming of *Malva neglecta* is uncertain. No *heka* recitation is preserved attached to it, and substance identity here is a modern hypothesis. There is no cultivation framing to report — only a soothing potherb and skin-emollient. **(c) absent.**
+
+**Assyrian (AT).** The Mesopotamian materia medica used softening, moistening poultices ("to make soft," "to soothe the sore"), and a mallow-type emollient plausibly belongs among them, but the standing blocking warning governs every Assyrian substance identification and tablet reference. The cuneiform names are not securely fixed to binomials, illness is classified by causal agency rather than by a substance's action on a vital body, and nothing in the retrieved record assigns this softening herb a status in that scheme. No cultivation framing can be claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides treats *malache* as emollient and relaxing — the cooked leaf and root to loosen the belly and soothe the gut and urinary passages, the leaves as a poultice for stings, swellings and hardened tissue, the decoction as a gentle laxative and gargle. The very name was understood in antiquity from *malassein*, to soften, so the plant is named for a physical action, not a vital-body virtue. Dioscorides carries no subtle-body system into which a cultivation status could be entered; what he offers a cultivator is a discipline of attention — recognising the true mucilaginous mallow, gathering and cooking it to preserve the slippery principle, and reading its softening effect honestly. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the Arabic-Persian synthesis *khubbazi* (mallow) is cool and moist, *mulattif* and *mulayyin* — an emollient, relaxant and gentle laxative, demulcent to throat, chest, gut and urinary tract, softening indurations and easing dry cough. The strongest cultivation idea in the Unani corpus — conservation of innate heat and radical moisture as a finite vital endowment — is a longevity frame of the whole regimen, not a status the tradition assigns to this cooling, moistening softener; no *mufarrih* or cardiac-*ruh* role is claimed for it, and no *Canon* chapter reference is offered (the standard English adaptation being unreliable). The plant is attested therapeutically with no cultivation status sourced. **(b) framed.**
+
+**Practitioner's note.** Mallow is a soother, not a substance a cultivator takes to build or conserve vitality. Its whole reputation across the four traditions is a single physical action — the mucilage coats, moistens, lubricates and loosens — and, as the Scientific Correlation makes plain, that action is mechanical rather than a biochemical strengthening of the constitution; the isolated mucilage was even pro-inflammatory in one assay, and mallow is not shown to accelerate wound repair. So the honest cultivator's use is modest and situational: a cooling, moistening demulcent for a dry cough, a raw throat, an irritated gut or a hot skin, and a gentle nutritive potherb. Claim the coating; do not overclaim a cure, and expect nothing here for longevity.
+
+---
+
 ### Contraindications
 
 - **Mineral/drug absorption timing.** As with any bulk mucilage, large medicinal doses may slow absorption of concurrently taken oral drugs; separate dosing.

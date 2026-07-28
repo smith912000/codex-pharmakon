@@ -72,6 +72,20 @@ There is **no Kenetica self-administration register** for this plant.
 
 Cold and dry in the extreme (Avicenna's "cold in the highest degree"); a *mukhaddir*/narcotic-anodyne of the stupefying class. Greek doctrine: madness-and-heavy-sleep. Egyptian/Arabic: *sakran*, the intoxicant. All streams converge on: powerful, cold, mind-stealing, pain-abolishing, and dangerous.
 
+### Cultivation Register
+
+**Egyptian (EP).** Henbane-type narcotics sit in the Egyptian anodyne and sleep-bringing pharmacopoeia, but the Ebers corpus is indication-organised — it records what was done to dull a pain or quiet the restless, not what a drug does to a person's *ka*, *ib* or vital constitution — and the fine identification of *H. muticus* as distinct from other narcotics is itself unverified for the pharaonic stratum. No operative *heka* recitation is attested for this species in the retrieved sources, and no deity attribution is claimed without one. The plant carries no cultivation framing here. **(c) absent.**
+
+**Assyrian (AT).** The cuneiform henbane-type materia (the *šakirû* group) was used for pain and for "hand of a ghost" afflictions — that is, classified partly by the causal agency it opposes rather than by any action on a vital substrate. Under the standing blocking warning for Assyrian substance identifications, deity/demon attributions and tablet references, and with the equation of the cuneiform henbane to *H. muticus* explicitly unverified, no cultivation status is claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides gives *hyoskyamos* a systematic anodyne account, distinguishing the kinds — the dark-seeded sort that "causes madness and heavy sleep" from the milder white-seeded sort reserved for medicine — and carries no subtle-body system through which to assign a cultivation status. What the tradition offers a cultivator is exactly that discipline of discrimination: telling the deadly kind from the usable one, judging the drug by its seed and provenance. That is a practice of assay and caution, not a vital-body doctrine. **(c) absent.**
+
+**Unani — Avicenna (CM).** In the *Canon*, *banj* is classed cold and dry in the extreme and used as a powerful *mukhaddir* (narcotic/anaesthetic) and hypnotic, with emphatic warnings about its toxicity and its power to derange the mind. The tradition's cultivation idea — conservation of innate heat and radical moisture — is a frame for longevity through the whole regimen, and a drug called cold in the highest degree is a corrective and a peril within that scheme, not a substance the tradition assigns any life-nourishing status. It is claimed and classed therapeutically; no cultivation status is sourced. **(b) framed.**
+
+**Practitioner's note.** A cultivator does nothing with this plant but leave it in the poison cabinet. There is no self-administration register in any of the four traditions and none in Kenetica: every stream marks it cold, mind-stealing and dangerous, and its only legitimate modern role is as an industrial feedstock for purified, dose-standardised tropanes made under regulated manufacture — never the crude herb. The honest cultivation answer is abstention.
+
+---
+
 ### Contraindications
 
 **⚠️ Category: DEADLY — anticholinergic deliriant. Not for any self-use.**

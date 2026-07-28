@@ -69,6 +69,20 @@ Traditional internal/aphrodisiac ("gladdening") use is retained as classical con
 
 Classically split: the **oil/scent** is warming, gladdening, aphrodisiac (Greek–Unani *mufarriḥ*), yet sleep-inducing and "head-oppressing" at strength — a biphasic nervine. The **fresh flower topically** is cooling, drying, astringent (the lactation-suppressing face). Kenetica records both poles rather than forcing one temperament.
 
+### Cultivation Register
+
+**Greek — Dioscorides (DMM).** Dioscorides records the Persian perfumed oil (*oleum jasminum* / the warming aromatic unguent) as a relaxant whose heavy sweetness "oppresses the head" — an early note of a sedative *scent*. He carries no subtle-body system through which to assign jasmine a cultivation status; *pneuma* here is context, and the Galenic three spirits are later than his text. What the tradition offers a cultivator is his discipline of attention — knowing the oil's provenance, judging the sedative heaviness of the odour by the nose, and guarding against the species blur (the *J. sambac* / *J. officinale* confusion that dogs "jasmine oil" to this day). That is a real practice of assay, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the *Canon*, *yāsamīn* is classed warming, its oil *duhn al-yāsamīn* used to relax the nerves, relieve cold headaches, and act as an aphrodisiac and gladdening agent — the tradition's *mufarriḥ* (exhilarant) idea of a drug that strengthens the *rūḥ*. That gladdening/cardiac-drug notion is the nearest thing here to a cultivation frame, but it belongs to the *Kitāb al-Adwiya al-Qalbiyya* literature rather than the *Canon* proper, and no sourced *mufarriḥ* status for *J. sambac* specifically is retrieved; the deeper Unani cultivation idea — conservation of innate heat and radical moisture — is a longevity frame of the whole regimen, not a status the tradition assigns to this perfumed oil. **(b) framed:** claimed and used, no cultivation status sourced.
+
+**Chinese — Bencao (SBJ).** Jasmine enters the Chinese materia medica as *mo li hua* 茉莉花, an Asian ornamental absorbed into the *bencao* well after the classical Shennong stratum, worked as a warming aromatic that moves and regulates *qi* 氣 and scents tea. No *san pin* 三品 grade — upper 上品, the grade of substances taken long-term to nourish life — is recorded for it in the sources retrieved, and the earliest Shennong stratum does not carry the plant at all. Within *yang sheng* 養生 it therefore holds an aromatic/therapeutic, not a cultivation, status. **(b) framed.**
+
+**Ayurveda (SS).** As *mallikā*, jasmine's flowers are used aromatically and topically within the tradition, but no *rasāyana* (rejuvenation) or *vājīkaraṇa* (generative vitality) assignment for *Jasminum sambac* is recorded in the sources retrieved — those are formal Sushrutan divisions and are not to be asserted for a species without attestation. Its standing here is therapeutic and dietetic, not a formal rejuvenative cultivation status. **(b) framed.**
+
+**Practitioner's note.** Nothing in these four traditions makes jasmine a substance a cultivator takes to build vitality from within. It is worked as *scent* — an olfactory calmative inhaled at low, pleasant intensity, where heavy dosing reverses into the head-oppressing effect the classical authors already named — and as a cooling, drying topical flower for suppressing lactation. The "cultivation" jasmine offers is therefore behavioural and abstentive: keep the dose light, keep the flower external for the drying job, and do not mistake a gladdening perfume for a longevity tonic. No sourced long-term internal use supports otherwise.
+
+---
+
 ### Contraindications
 
 - **Lactation:** the topical flower *suppresses* milk — do **not** use on a breastfeeding mother who intends to continue nursing. Correspondingly useful, and correspondingly hazardous if misapplied.

@@ -56,6 +56,20 @@ According to PubMed: Gill et al. (2007, *American Journal of Clinical Nutrition*
 - **Ayurvedic (by analogy):** *katu* (pungent) rasa, *ushna* (heating) virya, *laghu/tikshna* (light, penetrating) guna — Kapha-reducing, digestion-kindling; used cautiously in high Pitta.
 - **TCM (analogy only):** a warm, pungent, moving green that disperses stagnation and drains damp-heat downward; not a classical Bencao species under this name.
 
+### Cultivation Register
+
+**Assyrian (AT).** Watercress enters the Mesopotamian layer only as a representative of the pungent, "opening" water-herbs; the cuneiform plant lists do not yield a secure single-species identification for it, and illness in this corpus is classified by causal agency (a divine hand, a ghost, an oath) rather than by any effect on a person's vital constitution. Under the standing blocking warning for Assyrian substance identifications and tablet attributions, no cultivation status is claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides files cress (*kardamon*) among the hot, penetrating potherbs — pungent, stimulant, diuretic, and with a recurring aphrodisiac or "sharpener of a dull constitution" note that he records. Recording an aphrodisiac reputation is not the same as assigning a cultivation status, and Dioscorides carries no subtle-body system into which such a status could be placed; what the tradition offers a cultivator is his discipline of attention — the sharp mustard bite as the sensory assay of a genuine specimen. (The classical *kardamon* is in any case an imperfect match for *Nasturtium officinale*, the pungent-crucifer identity being shared across several species.) **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** As *jarjīr al-mā'* watercress is hot and dry, a deobstruent blood-cleanser and diuretic prescribed *against* cold-phlegmatic stagnation, with a note that it stimulates appetite and vigour. The tradition's central cultivation idea — conservation of the finite innate heat and radical moisture — is a longevity frame of the whole regimen, not a status assigned to this heating corrective; the "vigour" here is the stirring of a sluggish field, a therapeutic action, not a recorded rejuvenative standing. Attested in the materia medica with no cultivation status sourced. **(b) framed.**
+
+**Ayurveda (SS).** The entry itself treats watercress as an analogue member of the pungent-green (*katu*, heating, *deepana/pachana*) class rather than a securely identified classical *dravya* — no canonical Sanskrit name is confirmed for the species. There is accordingly no *rasayana* (rejuvenation) or *vajikarana* (generative vitality) assignment to report, and even the therapeutic reading is functional-by-analogy rather than textual. No cultivation framing is attested for this species. **(c) absent.**
+
+**Practitioner's note.** A cultivator uses watercress as food-as-medicine: a generous portion of the raw leaf, chewed so myrosinase meets gluconasturtiin and yields PEITC, taken to open a cold, damp, stagnant field and to support the body's own phase-II detoxification. No tradition on the tag line assigns it a longevity or vital-constitution status; the nearest thing — the classical aphrodisiac note — is a stimulant reputation, not a conservational one. The honest cultivation use is dietary and depurative, eaten raw and fresh, not concentrated and not long-term as a tonic.
+
+---
+
 ### Contraindications
 
 - **⚠️ Wild-gathered fascioliasis (liver-fluke) risk.** Watercress harvested from wild waterways grazed by sheep or cattle can carry the encysted metacercariae of *Fasciola hepatica* (liver fluke). **Only eat commercially/hydroponically grown or reliably clean-source watercress; do not eat wild watercress raw** from pasture-fed catchments. This is the single most important practical hazard of the plant.

@@ -60,6 +60,20 @@ According to PubMed:
 - **TCM:** Not attested for *Z. lotus* specifically (the TCM *da zao* is *Z. jujuba*; do not transfer its profile).
 - **Ayurveda:** Not attested for *Z. lotus* specifically.
 
+### Cultivation Register
+
+**Egyptian (EP).** Jujube (*nabq*) fruit and leaf are used in the Egyptian corpus as food and as poultice and gut components, but the identification of *Z. lotus* specifically is a modern by-group hypothesis, and the Ebers material is indication-organised — it records what was done for a loose gut or an inflamed skin, not what the drupe does to a person's *ka*, *ib* or vital constitution. No operative *heka* recitation and no deity attribution is claimed for it in the retrieved sources. Cultivation status: **(c) absent** — the fruit is recorded as an aliment and a remedy, not as a substance worked for the person's vitality.
+
+**Assyrian (AT).** The *sidr*/jujube group appears in the cuneiform materia medica as a food-tree and an astringent wound-cleansing plant, but a secure *Z. lotus* binomial cannot be reconstructed from the Akkadian, and illness there is classified by causal agency (divine hand, ghost, oath). Under the standing blocking warning for Assyrian substance identifications, tablet references and any causal-agency framing, no cultivation status is claimed; the attestation is at the level of plant-group and habitat. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides treats the *lōtos* fruit as a nourishing, mildly binding aliment — good for the belly, staunching loose bowels — and he carries no subtle-body system by which to assign it a cultivation status. The famous Homeric narcotic reputation (blissful forgetfulness, loss of the will to leave) is *literary* and pre-Dioscoridean; the physician's own reading deflates it to a gut-settling food. What the tradition offers a cultivator is his discipline of attention — the sober sensory assay of a sweet astringent drupe against the myth attached to it, and the geographers' care (Herodotus, Polybius, who ate it in Libya) in describing the real fruit. That is a practice of provenance and judgement, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The *sidr* group is classed cold and dry in the second degree, astringent and nutritive; *Z. lotus* inherits this at group level (the exact degree for the species is not independently attested). The strongest cultivation idea in the Unani corpus — conservation of innate heat and radical moisture, ageing as their depletion — is a longevity frame of the whole regimen, not a status the tradition assigns to this cooling astringent food, and no *mufarrih* or cardiac-*ruh* role is claimed for it. **(b) framed:** attested humorally and dietetically, with no cultivation status sourced.
+
+**Practitioner's note.** A cultivator uses this as a grounding food, not a longevity agent or a psychoactive one. The honest lesson of the *lōtos* is that a sweet, filling, satiety-inducing desert fruit can *imitate* enchantment — the drowsy contentment Homer dramatised is caloric security, not neuropharmacology. Eat the drupe to settle and restore after depletion; use the astringent leaf/bark decoction topically and short-term. There is no attested vital-body practice here to observe, and the tradition's own physicians (Dioscorides) already did the work of deflating the myth — copy that discipline.
+
+---
+
 ### Contraindications
 
 - The **fruit is a food**, generally safe; no narcotic or sedative pharmacology to fear, and correspondingly none to rely on.

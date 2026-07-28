@@ -81,6 +81,20 @@ The synthesis is therefore a genuine and rather beautiful case of doctrine-meeti
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** The Egyptian corpus treats convulsive and "trembling/falling" conditions with a broad amulet-and-root apparatus, but — as the entry states — *Paeonia mascula* cannot be securely identified in the Egyptian materia medica, the genus being Mediterranean-Balkan rather than Nilotic. There is no *heka*-bearing role, no *ka*/*ib*/*akh* framing, and no vital-constitution status recorded for this species; what survives is the general antiquity of amulet therapy for seizure, not a peony monograph. Cultivation status: **(c) absent.**
+
+**Assyrian (AT).** Mesopotamian medicine handled the "falling" diseases (*bennu*, *AN.TA.ŠUB.BA*) within a largely incantatory and amulet-based frame, classifying such illness by the agency that seizes the patient. Root-and-stone seizure amulets belong to that world, but the standing blocking warning is in force for every Assyrian substance identification, and no secure cuneiform attestation of *Paeonia* is established. Nothing assigns this plant a status with respect to a person's vital constitution rather than the seizing agency it was thought to oppose. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides gives *paiōnía* a systematic therapeutic account, distinguishing *árrēn* (male, *P. mascula*, undivided leaves) from *thḗleia* (female, divided leaves) and directing the root for uterine complaints, jaundice and renal pain. He also *records* the worn-root amulet against childhood epilepsy and nightmares — but recording an amuletic use is not endorsing it, and Dioscorides carries no subtle-body system in which a cultivation status could sit. What the tradition genuinely offers a cultivator is his discipline of attention: telling male from female peony by the leaf, knowing the root is the worked part. That is a practice of botanical discrimination and provenance, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Avicenna classes *fāwāniyā* as warm and dry, attenuating and opening (*mufattiḥ*), antispasmodic and emmenagogue, and — like Dioscorides — records the apotropaic amulet against *ṣar'* (the falling sickness). This is a genuine humoral-therapeutic grading joined to a recorded apotropaic use, but neither is a cultivation status: the strongest cultivation idea in the Unani corpus, conservation of the innate heat and radical moisture that make up the finite vital endowment, is a frame of the whole regimen and is not a role the tradition assigns to this opening root, and no *mufarrih* (cardiac, *ruh*-strengthening) standing is claimed for it. **(b) framed:** attested therapeutically (and apotropaically), with no cultivation status sourced.
+
+**Practitioner's note.** The peony is the West's emblem of medicine — named for the gods' own physician — yet a cultivator builds nothing with wild *P. mascula*. Its historically loudest use, the worn anti-epilepsy amulet, is pharmacologically inert, and it must never be used to treat or self-manage seizures. Where the genus's antispasmodic, neuro-quieting rationale is actually wanted, the Codex directs the practitioner to the far better-characterised, standardised *P. lactiflora* (Bái Sháo, I_026), not to wild-collected male peony. This is a symbolic anchor and a short-course therapeutic root, not a substance one takes to accumulate vitality.
+
+---
+
 ### Contraindications
 
 - **NOT a treatment for epilepsy or seizures.** Under no circumstances substitute peony for prescribed antiepileptic medication or use it to self-treat a seizure disorder; the anticonvulsant data are preclinical and compound-level only. Abrupt reliance on an unproven herbal in place of medication risks status epilepticus.

@@ -87,6 +87,20 @@ Trials generally ran 12 weeks and found the standardised extract **short-term sa
 
 ---
 
+### Cultivation Register
+
+**Assyrian / Mesopotamian (AT).** As the entry above states, no *Trifolium pratense* medicinal entry can be securely identified in the cuneiform record; meadow legumes and clovers are known as fodder and poultice matter, but the Akkadian plant names cannot be forced onto this binomial. The Assyrian corpus classes illness by causal agency (divine hand, ghost, oath) and a substance partly by what agency it opposes, but there is no attested identification here to carry even that framing. Under the standing blocking warning in force for every Assyrian substance identification, and with the attribution itself tentative, no cultivation status can be claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides describes *triphyllon* and the *lotos agria* / trefoil types in *De Materia Medica*, but these entries are a cluster spanning several *Trifolium* and *Melilotus*-type plants, so the mapping to *T. pratense* specifically is approximate. Dioscorides carries no subtle-body system into which a cultivation status could be assigned; what the tradition offers a cultivator is his discipline of attention — distinguishing the several trefoils, judging the poultice-herb by provenance and season, guarding against the wrong species being gathered under one common name. That is a real practice of discrimination, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** *Shabdar* / *nafal* name the clovers in the Unani tradition, read as cool, moist, mildly cleansing herbs and worked as resolvent (*muhallil*) poultices and gentle depuratives — soft, cool blood-correctives rather than the hot aromatic drugs. The strongest cultivation idea in the Unani corpus is conservation of the innate heat and radical moisture across the whole regimen, an idea of ageing-as-depletion; but that is a frame for the regimen, not a status this cooling resolvent is assigned, and no *mufarrih* or cardiac-*ruh* role is claimed for it. **(b) framed:** attested therapeutically within Unani humoral categories, with no cultivation status sourced.
+
+**Ayurveda (SS).** *Trifolium pratense* is not an indigenous Indian classical drug; it enters Ayurvedic and Indian-integrative practice through the modern global herb trade, not through the *Sushruta Samhita*. Any *madhura-tikta* / cooling *rasa* reading is a modern back-formation, and the entry flags the SS tag as thin and non-classical. There is accordingly no *rasayana* (rejuvenation) or *vajikarana* (generative vitality) assignment for this species in the Sushrutan or Charakan corpus to attest — the categories are real, but this plant is not placed in them by any classical source. **(c) absent.**
+
+**Practitioner's note.** No tradition on the tag line hands a cultivator a longevity or vital-building status for red clover. Where the plant's reputation genuinely rests — the 19th-century Anglo-American "alterative" / blood-purifier and the demulcent cough herb — it belongs to European folk and Eclectic practice (EF), a depurative and soothing use, not a substance taken to build the person's constitution. What a cultivator actually does with it is bounded: a gentle food-tea depurative in a RESET protocol, or a standardised isoflavone extract tried for menopausal flushes knowing the best-controlled evidence is largely null. Restraint is the honest instruction — a plant to use for a defined job at food-level doses, with the endocrine caution kept in view, not a tonic to take long-term for vitality.
+
+---
+
 ### Contraindications
 
 **Oestrogen-sensitive conditions (primary concern).** Because the isoflavones are ER-active phytoestrogens, red clover extracts are **contraindicated or used only with specialist oversight** in women with a history of **oestrogen-receptor-positive breast cancer**, and cautioned in endometrial cancer and other hormone-sensitive conditions. The menopause trials generally **excluded** women with breast cancer, so safety in that group is essentially untested. Do not assume "natural" means safe here.

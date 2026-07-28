@@ -64,6 +64,20 @@ The controlling honesty of this entry: the pharmacology is *sativa*-heavy, *arve
 - **Avicenna / Unani mapping:** *shuniz* — hot-dry; kasir-e-riyah (carminative), mudirr-e-hayd (emmenagogue), deobstruent and anthelmintic.
 - **Kenetica Qi tier:** ◉ **Qi** — on the warming-drying, moving/dispersing axis; a "wind-mover" and opener, with the emmenagogue caution built in.
 
+### Cultivation Register
+
+**Egyptian (EP).** Aromatic black nigella seed sits in the Egyptian kitchen-and-pharmacy overlap as a warming, pungent carminative for the belly and the "wind," but the Ebers corpus is indication-organised: it records what was done for a complaint, not what a seed does to the *ka*, *ba* or *ib*. As the Origin section states, whether an Ebers prescription naming nigella means the cultivated or the wild seed cannot be resolved, and no *heka* recitation is preserved attached to this field weed. Substance identity is itself a modern hypothesis here, and no vital-constitution or cultivation framing can be reported. **(c) absent.**
+
+**Assyrian (AT).** The cuneiform plant lists carry pungent aromatic seeds used as carminatives and for gynaecological "opening," and a nigella-type seed plausibly belongs among them, but the standing blocking warning governs every Assyrian substance identification and tablet reference. The Akkadian names resist confident binomial fixing, illness is sorted by causal agency rather than by a substance's action on a vital body, and nothing in the retrieved record assigns this seed a status in that scheme. No cultivation framing can be claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides describes *melanthion* — the black pungent seed — as a carminative, diuretic, emmenagogue and anthelmintic, a resolvent for catarrh and skin complaints, with the explicit warning that the seed in quantity is dangerous. He carries no subtle-body system into which a cultivation status could be entered; the Galenic three spirits are later. What his account gives a cultivator is a discipline of attention — the sharp assay of the crushed seed's odour, the honest preservation of the quantity-warning, and the refusal to collapse the wild field seed into the cultivated one. That is a real practice of judgement, not a vital-body grade. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the Arabic-Persian tradition *shuniz* (kalonji) is hot and dry, a powerful deobstruent, carminative, emmenagogue and anthelmintic that opens obstructions of the liver and spleen and expels wind and worms. The strongest cultivation idea in the Unani corpus — conservation of innate heat and radical moisture as a finite vital endowment — is a longevity frame of the whole regimen, not a status the tradition assigns to this hot, dispersing seed; no *mufarrih* or cardiac-*ruh* role is claimed for it, and no *Canon* chapter reference is offered (the standard English adaptation being unreliable). The seed is attested therapeutically with no cultivation status sourced, and even that doctrine is inherited from cultivated *shuniz* rather than measured in the wild plant. **(b) framed.**
+
+**Practitioner's note.** This is a mover, not a builder. Across all four traditions the wild nigella is worked to disperse and expel — wind from the gut, worms from the bowel, mucus from a cold catarrh, and (with the pregnancy caution its own emmenagogue reputation demands) the menses. Nothing here supports it as a substance taken long-term to nourish the constitution, and the controlling honesty of the whole entry applies to cultivation too: what a cultivator "knows" about nigella is mostly *Nigella sativa*, and must not be transferred wholesale to this field weed. Use the seed as a warming carminative in modest, food-adjacent amounts, keep clear of it in pregnancy, and do not import the cultivated seed's dose or virtue as if validated for the wild one.
+
+---
+
 ### Contraindications
 
 - **⚠️ Pregnancy — avoid.** Emmenagogue reputation across the genus; nigella seed is traditionally contraindicated in pregnancy. Do not use medicinally while pregnant. [USER: verify.]

@@ -61,6 +61,20 @@ According to PubMed:
 - **Ayurveda:** *Rasa* madhura (sweet) + slight kaṣāya (astringent); *guṇa* laghu (light), rūkṣa (dry); *vīrya* śīta (cooling); *vipāka* madhura (sweet). Reduces kapha and pitta; the lightest pulse for vāta tolerance. Attested.
 - **Unani/Galenic:** Not attested for mung specifically in this codex's Galenic sources — do not transfer.
 
+### Cultivation Register
+
+**Unani — Avicenna (CM).** No Unani/Galenic attestation for mung is carried in this codex's sources — the Traditional Energetic Classification above records it as absent and warns against transferring another pulse's humoral profile onto it. With no attestation of use, there is a fortiori no conservation-of-innate-heat framing, no *mufarrih* role, and no cultivation status to state. **(c) absent.** (This code appears on the tag line but the entry does not attest it — see the accompanying attestation flag.)
+
+**Chinese — Bencao (SBJ).** *Lǜ dòu* 綠豆 is worked in Chinese materia medica for *qīng rè jiě dú* 清熱解毒 — clearing heat and relieving toxicity, the archetypal summer-heat food-remedy. But this is a therapeutic function, not a cultivation grade: mung is a food-legume that enters the bencao late (it is not one of the Han *Shénnóng Běncǎo Jīng* drug-entries), and no *san pin* 三品 grade is recorded for it in the sources retrieved. Within *yang sheng* 養生 — conservational, not curative — it therefore carries a therapeutic and dietetic standing only. **(b) framed:** attested and used, no *san pin* cultivation grade sourced.
+
+**Ayurveda (SS).** *Mudga* is praised as the lightest and most digestible of the pulses — *laghu* and *śīta*, the convalescent's protein, the base of *kitchari* and *yūṣa*. This is a dietetic/therapeutic classification within *dravyaguna*, not a formal rejuvenative status: no *rasayana* or *vajikarana* assignment is recorded for mung in the sources retrieved. Its virtue is that it nourishes the depleted without loading them, which is a matter of digestibility, not a subtle-body cultivation claim. **(b) framed.**
+
+**Tibetan — Sowa Rigpa (FMT).** Drawing on the shared Indian pulse-taxonomy, the Tibetan tradition ranks mung among the light, cooling, easily-digested grains suitable for heat conditions and the depleted; the identity here is by shared pulse-doctrine, not a distinct Tibetan monograph. Sowa Rigpa carries no formal "substances for subtle-body practice" category to invoke, and medicine is the third of its four treatment branches — it supports practice, it does not reach the root, which is a spiritual condition of the three *nyes pa*. Mung is thus a dietary support, with no cultivation status assigned. **(b) framed.**
+
+**Practitioner's note.** A cultivator uses mung to de-escalate without depleting — cooling an inflamed, over-fired, or convalescent system while still feeding it. It is not a longevity substance in any of these traditions and not, despite the folk reputation, a proven antidote to real poisons: "relieving toxicity" meant heat-toxicity, and the antioxidant chemistry (vitexin/isovitexin concentrated in the hull) is a partial molecular echo of that, not a detoxicant licence. Keep the green seed-coat — folk instruction and the HPLC map agree that the potency is in the hull. Eat the broth to bring a hot system back to baseline; do not lean on it in an emergency.
+
+---
+
 ### Contraindications
 
 - **Sprout safety — Salmonella / E. coli risk.** Raw mung-bean sprouts are a well-documented vehicle for *Salmonella* and enterohaemorrhagic *E. coli* outbreaks: the warm, humid sprouting environment favours pathogen growth. Immunocompromised people, pregnant women, young children and the elderly should **cook sprouts thoroughly** rather than eat them raw.

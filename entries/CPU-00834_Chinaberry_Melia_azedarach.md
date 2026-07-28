@@ -52,6 +52,20 @@ According to PubMed: a systematic review of *Melia* limonoids (Fan et al., *Fron
 - **Ayurveda (as mahānimba):** *rasa* — bitter (*tikta*); *guṇa* — light, dry, sharp; *vīrya* — cold (*śīta*); *vipāka* — pungent (*kaṭu*). Kapha–pitta reducing; sharp and potentially aggravating in excess.
 - **Galenic/Unani:** cold and dry in the third degree; purgative, deobstruent, vermifuge — corrected before internal use.
 
+### Cultivation Register
+
+**Greek — Dioscorides (DMM).** Dioscorides carries no subtle-body system into which a substance could be assigned a cultivation status, so even where the bead tree is used the tradition offers only its discipline of attention — provenance, the assay of a genuinely bitter kernel, the guard against mistaking an ornamental poison for a benign bead. In this case even the therapeutic attestation is thin: *Melia azedarach* is an Asian tree whose Mediterranean spread is late, and the external antiparasitic decoctions attached to it belong to Byzantine and later practice rather than to *De Materia Medica* itself. No cultivation framing is attested. **(c) absent.**
+
+**Unani — Avicenna (CM).** As *āzād-dirakht* the bitter bark and fruit are classed cold and dry, purgative and vermifuge, and — tellingly — always *corrected* with milder aromatics before internal use because the drug bites hard. The strongest cultivation idea in the Unani corpus is the conservation of innate heat and radical moisture, a longevity frame of the whole regimen; a cold-dry downward-draining poison is the opposite of a substance one takes to conserve that finite endowment, and no such conservational or *mufarrih* role is assigned to it. It is attested in the materia medica with a therapeutic, corrected-purgative standing only. **(b) framed:** attested, no cultivation status recorded.
+
+**Chinese — Shennong / Bencao (SBJ).** Here there is a genuine cultivation status, and it is a warning one. The fruit, under its original name *lian shi* 楝實 (later *Chuan Lian Zi* 川楝子), is recorded in the *Shennong Bencao Jing* (Divine Farmer's Classic) in the **lower grade**, 下品 — the grade of drugs that attack disease and are taken for a defined short course, explicitly *not* the upper-grade substances taken long-term to nourish life (養命). Its toxic listing (*you du* 有毒) in the later pharmacopoeia is consistent with that placement. Within *yang sheng* 養生, which is conservational rather than curative, a 下品 drug sits outside the cultivation project by the tradition's own hand. (Species note: the modern official *Chuan Lian Zi* is *Melia toosendan*, while *M. azedarach* supplies *Ku Lian Pi* 苦楝皮; the classical 楝實 grade covered the *Melia* group and applies to this plant historically.) **(a) attested** — lower grade, *Shennong Bencao Jing*.
+
+**Ayurveda (SS).** As *mahānimba*, the "great neem," the drug is a bitter (*tikta*), cold, sharp antiparasitic and skin remedy, held sharper and more hazardous than true *nimba* and used sparingly, chiefly externally. No *rasayana* (rejuvenation) or *vajikarana* (generative vitality) assignment is recorded for it in the sources retrieved; its standing is therapeutic and cautionary, not a formal rejuvenative cultivation status. **(b) framed.**
+
+**Practitioner's note.** A cultivator does nothing with this that resembles building or conserving vitality. Chinaberry is filed as a custodial poison — retained for boundary-knowledge, for recognising a childhood-poisoning hazard, and as an anchor to the Meliaceae limonoid family. The one tradition that assigns it a cultivation status, the Chinese, places it in the lower grade: taken by a trained hand against a defined complaint and then stopped, never long-term, never self-directed. The grading is the lesson.
+
+---
+
 ### Contraindications
 
 ⚠️ **SEVERE HAZARD — POTENTIALLY LETHAL PLANT. FLAG IN FULL.**

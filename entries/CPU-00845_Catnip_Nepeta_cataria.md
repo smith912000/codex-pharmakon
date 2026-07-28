@@ -53,6 +53,20 @@ According to PubMed, the best-evidenced pharmacology of *N. cataria* is arthropo
 - **TCM (by functional analogy to *jing jie*):** Acrid, slightly warm; enters Lung and Liver; releases the exterior, disperses wind.
 - **Ayurvedic (attributed by energetics, not classical text):** *rasa* pungent/bitter; *virya* heating (ushna); *vipaka* pungent; kapha- and vata-settling in small warm doses, potentially vata-aggravating if over-dried.
 
+### Cultivation Register
+
+**Assyrian (AT).** Catmint stands in the Mesopotamian layer only as a genus-level member of the aromatic Lamiaceae used to "cool the belly and quiet the head," and the entry is explicit that tablet-to-species identification is approximate rather than a pinned botanical claim. Illness in the cuneiform corpus is classified by causal agency — a divine hand, a ghost, an oath — not by any action on a person's vital constitution, and under the standing blocking warning for Assyrian substance identifications and tablet attributions no cultivation status can be claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides files the *kalaminthe*/*nepeta* types among the heating herbs that expel wind, provoke sweat and bring on the menses; that emmenagogue-diaphoretic reputation is a therapeutic record, not a cultivation status, and Dioscorides carries no subtle-body system into which such a status could be placed. What the tradition offers a cultivator is his discipline of attention — the warm aromatic bite and the covered-steep handling of a heat-labile volatile as the sensory assay of a genuine specimen. No cultivation framing is attested. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** As a warm-dry aromatic mint of the *faranjmushk*/*nammam* group, catmint is classed to disperse cold flatulence, provoke sweat in fevers, promote menstruation and settle the stomach — a dispersing, drying corrective against cold-damp stagnation. The central cultivation idea of the Unani corpus, the conservation of the finite innate heat and radical moisture, is a longevity frame of the whole regimen and is not a status assigned to this dispersing carminative; no conservational or *mufarrih* cardiac-*ruh* role is recorded for it. Attested in the materia medica with a therapeutic standing only, no cultivation status sourced. **(b) framed.**
+
+**Chinese — Shennong / Bencao (SBJ).** The Chinese material in this entry attaches not to *Nepeta cataria* but to *jing jie* 荊芥 (schizonepeta), a closely allied but distinct Lamiaceae, and the entry states plainly that the parallel is "functional and cross-traditional rather than a claim of identical species." Catmint itself is not a classical *Bencao* drug and carries no *san pin* 三品 grade in the *Shennong Bencao Jing* under its own identity; the surface-releasing diaphoretic logic borrowed here belongs to *jing jie*, whose grade cannot be transferred to a different species. For *N. cataria* proper, no cultivation status is recorded. **(c) absent.**
+
+**Practitioner's note.** A cultivator uses catnip as a low-intensity settling herb — a covered warm evening infusion to loosen the digestive-nervous axis and encourage a light diaphoresis before deeper somatic or contemplative work — and for nothing resembling the building or conservation of vitality. No tradition on the tag line assigns it a longevity or vital-constitution status: the Assyrian and Greek records are therapeutic-and-blocked or discipline-of-attention only, the Unani reading is a dispersing corrective rather than a conservational tonic, and the Chinese cultivation logic belongs to a different species (*jing jie*), not to *N. cataria*. The honest use is short, warm and functional — settle the field, then move on.
+
+---
+
 ### Contraindications
 
 - **Pregnancy — caution/avoid.** Catnip carries a documented emmenagogue and traditional uterine-stimulant reputation across the Dioscoridean and Unani traditions; it should be avoided in pregnancy as a precaution.

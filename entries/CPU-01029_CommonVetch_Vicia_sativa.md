@@ -61,6 +61,20 @@ According to PubMed:
 - **TCM:** Not attested for *Vicia sativa*.
 - **Ayurveda:** Not attested for *Vicia sativa* specifically.
 
+### Cultivation Register
+
+**Egyptian (EP).** Egyptian agrarian practice used vetch and related pulses as fodder and famine food, and ground legume meals sit in the poultice/emollient register of the remedy tradition — but the exact species behind the generic "pulse" cannot be fixed from the papyri, and the Ebers corpus is indication-organised: it records what was done for a complaint, not what the seed does to a person's *ka*, *ib* or vital constitution. No *heka* recitation or deity attribution is claimed here. Cultivation status: **(c) absent.**
+
+**Assyrian (AT).** Vetch belongs to the Mesopotamian fodder-and-famine legume complex, but a secure Akkadian binomial for *V. sativa* cannot be reconstructed, and illness in that tradition is classified by causal agency. Under the standing blocking warning for Assyrian substance identifications, tablet references and causal-agency framing, no cultivation status is claimed; the identity is by crop-group and habitat only. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** The classical materia medica does attest this group: the ground vetch/ers seed-meal is described as a drying, cleansing, emollient poultice for the skin, with the flour as a coarse astringent aliment. But Dioscorides carries no subtle-body system by which to assign a cultivation status, and the centre of gravity is external and therapeutic. What the tradition offers a cultivator is precisely his discipline of attention — provenance, assay, and the guard against adulteration, which this seed makes urgent: it is a documented look-alike that has been passed off as red lentil. That vigilance is the real practice on offer. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The vetch/ers group is placed cool and dry, astringent-emollient, for external seed-meal use; *V. sativa* inherits this at group level (the precise degree for the species is not independently fixed). The strongest cultivation idea in the Unani corpus — conservation of innate heat and radical moisture — is a longevity frame of the whole regimen, not a status assigned to a coarse, cooling, external emollient, and no *mufarrih* or cardiac-*ruh* role is claimed. **(b) framed:** attested humorally for external use, with no cultivation status sourced.
+
+**Practitioner's note.** A cultivator's honest use of this seed is *refusal* of the internal route. Externally it is a minor emollient poultice on intact skin — and even there it is outclassed by cleaner mucilage sources (linseed, fenugreek, oat) that carry no neurotoxin. Its true place is didactic: the seed holds β-cyano-L-alanine plus vicine and convicine, and every tradition that ate it ranked it last and ate it only under duress. That folk hierarchy was doing real toxicological work with the only instruments it had — taste, texture, and memory of harm. The cultivation lesson here is the discipline of provenance: know what is in the sack before it enters the body.
+
+---
+
 ### Contraindications
 
 - **⚠ NEUROTOXIC / CYANOGENIC SEED — do not eat.** The seed contains **β-cyano-L-alanine**, a neurotoxic non-protein amino acid capable of producing lathyrism-like neurological damage, plus **vicine and convicine** which both potentiate that neurotoxicity and can trigger favism-type haemolysis in G6PD-deficient individuals. Human consumption is a famine practice, not a safe one.

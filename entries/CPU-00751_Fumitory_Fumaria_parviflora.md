@@ -67,6 +67,20 @@ It is an **alterative taken in courses**, not an acute drug, and its alkaloid co
 
 Cold and dry; a bitter *muṣaffī-i-dam* (blood-purifier) and *muftaḥ-i-sudad* (deobstruent) of Unani doctrine; the Greek *kapnos*, bile-purging bitter. A depurative alterative acting on liver, bile and skin — cooling, drying, opening.
 
+### Cultivation Register
+
+**Assyrian (AT).** A bitter "field-smoke" depurative fits the Mesopotamian class of skin-directed and evacuant plant drugs, but the entry itself flags the equation of any cuneiform herb with *F. parviflora* as unverified, and no Akkadian name is asserted. Under the standing blocking warning for Assyrian substance identifications and tablet references — where illness is classified by causal agency and the etiological picture is actively debated — no cultivation status is claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides gives *kapnos* ("smoke") a plain therapeutic account: a sharp bitter whose juice sharpens the sight and makes the eyes run as smoke does, and which "purges by urine the bilious humour." He carries no subtle-body system through which to assign a cultivation status; what he offers a cultivator is the discipline of attention — recognising the herb by its acrid smoke-like sap and its bile-clearing bitterness, and gathering it true to kind. That is assay and provenance, not a vital-body doctrine. **(c) absent.**
+
+**Unani — Avicenna (CM).** *Shāhtaraj* is a cornerstone Unani depurative — cold and dry, a *muṣaffī-i-dam* (blood-purifier), a *muftaḥ-i-sudad* (deobstruent, opener of hepatic obstruction), and a corrector of *ṣafrā* and *sauda*. This is a humoral-therapeutic classification, not a cultivation one: the tradition's life-nourishing idea is the conservation of innate heat and radical moisture across the whole regimen, whereas a cooling, drying, evacuant bitter is a corrective taken in depurative courses. Fully claimed and classed, with no cultivation status sourced. **(b) framed.**
+
+**Ayurveda (SS).** *Fumaria* is known to the *dravyaguna* tradition as a cooling bitter of the *parpaṭa* type, worked against *pitta* and heat of the blood — but this entry's own text carries no Ayurvedic stream, and no *rasāyana* (rejuvenation) or *vājīkaraṇa* (generative vitality) assignment for *F. parviflora* is recorded in the sources retrieved. Those are formal Sushrutan divisions and must not be asserted for a species without attestation. What stands is, at most, a therapeutic bitter frame; no cultivation status is sourced. **(b) framed.**
+
+**Practitioner's note.** Fumitory is an alterative taken in courses, not a tonic taken to build vitality — a bitter reached for when the skin is erupting and the liver feels congested, then left off once the course is done. Across the traditions its "cultivation" work is depurative and self-limiting: it opens and clears rather than nourishes or stores, and its alkaloid load (protopine and kin) makes prolonged or heroic dosing a hazard, not a discipline. A cultivator uses it as a seasonal clearing bitter and stops.
+
+---
+
 ### Contraindications
 
 - **Alkaloid load / overdose caution:** fumitory is an isoquinoline-alkaloid-bearing herb (protopine et al.); large or prolonged doses may cause drowsiness, GI upset, or (with protopine) cardiovascular/CNS effects. Keep to conservative traditional doses; avoid heroic dosing.
