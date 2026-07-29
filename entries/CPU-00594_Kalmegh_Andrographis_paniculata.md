@@ -54,6 +54,18 @@ According to PubMed, *Andrographis paniculata* has relatively strong clinical ev
 - **Ayurvedic:** *rasa* — tikta (bitter); *guna* — laghu (light), ruksha (dry); *virya* — shita (cooling); *vipaka* — katu (pungent). Pitta- and kapha-reducing; a *dipana/pachana* (kindling/digestive) and *yakrit-uttejaka* (hepatic-stimulant) bitter.
 - **Galenic/Unani:** Cold and dry; bitter febrifuge and deobstruent of the liver.
 
+### Cultivation Register
+
+**Avicenna / Unani (CM).** The eastern bitter drugs of the chiretta type reached Unani practice as cold, dry febrifuges and hepatic deobstruents — drugs that "cut" a hot fever and open obstructions of the liver, in the Galenic reading of intense bitterness as cooling and drying. The strongest cultivation idea in the Unani corpus is the conservation of innate heat and radical moisture, the finite vital endowment whose depletion is ageing; but that is a frame belonging to the whole regimen, not a status the tradition assigns to a cooling deobstruent bitter, and no *mufarrih* or cardiac-*ruh* role is claimed for this herb in the sources retrieved. Attested therapeutically as a bitter tonic; no cultivation status sourced. **(b) framed.**
+
+**Shennong — Bencao (SBJ).** The herb enters Chinese materia medica as *chuān xīn lián* 穿心蓮, classed among the drugs that clear heat and resolve toxicity (*qīng rè jiě dú* 清熱解毒), directed at damp-heat and heat-toxin patterns. It is, however, a late entrant: it postdates the Han-era Shennong stratum and was absorbed into the heat-clearing lineage the *Bencao* founded rather than graded within the original *san pin* 三品 hierarchy, and no upper/middle/lower grade is recorded for it in the sources retrieved. Within *yang sheng* 養生 — conservational rather than curative — a cold, draining, toxin-resolving drug of this kind is a corrective taken in a defined course, not a substance taken long-term to nourish life. Attested therapeutically in the later materia medica; no cultivation grade sourced. **(b) framed.**
+
+**Ayurveda (SS).** In the Ayurvedic corpus kalmegh is *bhūnimba* — "neem of the ground" — a supreme *tikta* (bitter) of *shīta vīrya* (cooling potency), worked to clear *pitta*, kindle a weak digestive fire (*dīpana/pācana*) and act on the liver (*yakṛt-uttejaka*), and deployed against jaundice, fevers, worms and skin disease. It is a classical bitter of the cleansing and heat-clearing class, but no *rasāyana* (rejuvenation) or *vājīkaraṇa* (generative-vitality) assignment is recorded for it in the sources retrieved; its standing is therapeutic and dietetic, not a formal rejuvenative cultivation status. **(b) framed.**
+
+**Practitioner's note.** Nothing here is a longevity substance in any of the three traditions. Across Unani, Chinese and Ayurvedic readings kalmegh is one thing — an intense cooling bitter, taken in short defined courses to clear heat, resolve toxicity and wake a sluggish liver and gut, and then stopped. The Purification-phase role in Kenetica matches that grading exactly: a reset drug for the febrile, damp-heat interruptions of training, not a daily tonic. Its own bitterness and every tradition's short-course handling are the instruction.
+
+---
+
 ### Contraindications
 
 - **Pregnancy** — avoid; traditional caution regarding reproductive/uterine effects and insufficient safety data.

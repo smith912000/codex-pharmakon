@@ -82,6 +82,18 @@ The Shennong Bencao Jing classified Epimedium as a medium-grade herb (*zhong pin
 
 ---
 
+### Cultivation Register
+
+**Unani — Avicenna (CM).** Epimedium is an East Asian woodland herb (Yín Yáng Huò); it is not part of the classical Greco-Arabic materia medica, and no chapter of the Avicennian tradition assigns it a temperament, a *ruh*-strengthening role, or a place among the cardiac/*mufarrih* drugs. The strongest cultivation idea the Unani corpus carries — the conservation of innate heat and radical moisture as a finite vital endowment, so that longevity practice is conservation rather than acquisition — is a frame for the whole regimen and is not attached to this herb by any source retrieved. Whatever warming, kidney-supporting use later Unani-style practitioners may make of it, no Avicennian cultivation status is attested. **(c) absent** — and the CM tag itself is doubtful for a herb standing outside the classical Canon (see attestation note).
+
+**Chinese — Shennong (SBJ).** Yín Yáng Huò 淫羊藿 is one of the herbs first recorded in the *Shennong Bencao Jing* (the Han-era Divine Farmer's classic, extant only through later reconstruction), where it is placed in the **middle grade** (中品 *zhong pin*) — the *san pin* rank of drugs with real therapeutic force, distinct from the upper-grade substances "taken long-term to nourish life." That middle-grade placement is itself a cultivation status: within *yang sheng* 養生, which is conservational rather than curative, it marks the herb as a potent tonic to be used with guidance, not a benign daily longevity food. Its classical charge — warming Kidney-Yang, consolidating Jing and marrow, strengthening sinew and bone — sits inside the kidney-tonifying stratum where *jing* 精 survives as 填精 without a formal chapter of its own; the tradition names the Jing action but does not over-formalise it, and this register does not either. **(a) attested** — middle grade (中品), sourced to the *Shennong Bencao Jing* primary text; the fuller endorsements (honey-frying *mì zhì*, expanded indications) belong to Li Shizhen's *Bencao Gangmu* (1596), a late compilation, and are dated as such.
+
+**Tibetan (FMT).** Sowa Rigpa treats cold Kidney patterns (*mkhal-ma grang-ba*) with yang-warming, "seed-building" (*khu-ba*) herbs compounded with warming spices, and medicine there is the third of the four treatment branches — a support to practice, not a route to its root, the three *nyes pa* being at bottom a spiritual condition arising from the three poisons. But the identification of Epimedium specifically within the *rGyud bzhi* is uncertain in the sources retrieved — the profile itself speaks only of a herb "that appears to be" Epimedium — and Tibetan medicine carries no formal category of "substances for subtle-body practice" to which it could be assigned. No cultivation status for this herb is therefore attested. **(c) absent.**
+
+**Practitioner's note.** A cultivator works this as a middle-grade Chinese tonic and nothing loftier: a warming Kidney-Yang and sinew-bone builder taken in defined BUILD/PRIME/CYCLE-OFF windows for androgen-pathway and bone support, then cycled off. The *zhong pin* rank is itself the instruction — force enough to respect, not a daily longevity herb. There is no Unani or Tibetan cultivation status to draw on; the East Asian pharmacology is the whole of it. Honour the middle grade, mind the PDE5 interaction, use it for the defined job, and stop.
+
+---
+
 ### Contraindications
 
 **CLINICAL PRIORITY — PDE5 INHIBITOR INTERACTION:**

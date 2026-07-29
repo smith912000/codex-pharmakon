@@ -50,6 +50,20 @@ Direct clinical evidence for *Athamanta macedonica* is essentially absent, and t
 - **TCM (by analogy):** Warm, acrid, aromatic — a "regulate qi / disperse cold" and "transform damp" seed-drug in character, though it is not a classical Chinese materia medica item.
 - **Ayurvedic (by analogy):** *Rasa* pungent (katu); *virya* heating (ushna); *vipaka* pungent; reduces Kapha and Vata-stagnation, may aggravate Pitta in excess.
 
+---
+
+### Cultivation Register
+
+**Assyrian (AT).** In the cuneiform medical corpus the warming, dispersing Apiaceae seed-drugs belong to the *šammu* worked against "wind" in the belly, colic, and stoppage of urine — a substance classified in part by the bodily disorder and causal agency it opposes rather than by any status it confers on the person's vitality. The entry itself concedes that no Akkadian plant-name can be fixed to *Athamanta macedonica* with confidence, so even the therapeutic attestation is a family-level inference. Under the standing blocking warning for Assyrian substance identifications, deity/demon attributions and tablet references, no cultivation status is claimed. Cultivation status: **(c) absent** — the material sits inside an etiological, complaint-organised frame, not a doctrine of vital cultivation.
+
+**Greek — Dioscorides (DMM).** Dioscorides places the hartwort and stone-parsley umbellifers among seeds that "provoke urine and the menses" and "break wind" — a therapeutic account of a sharp aromatic that moves stagnant fluid and warms a cold stomach. Dioscorides carries no subtle-body system into which such a seed could be assigned a cultivation status, and none is manufactured here. What the tradition offers a cultivator is his discipline of attention: the recognition of the ripe pungent fruit, the assay of its warming character, the reading of its dry-rock habitat as a lithontriptic signature — a practice of provenance and sensory judgement, not a vital-body doctrine. Cultivation status: **(c) absent**.
+
+**Unani — Avicenna (CM).** The *Qanun* tradition classes a seed of this character as hot and dry in a high degree, a *mudirr* (diuretic/emmenagogue) and *muhallil* (resolvent) that thins thick humours, opens obstruction of the liver and spleen, and expels flatus. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture as a finite vital endowment — is a frame of the whole longevity regimen, not a status the tradition assigns to a heating carminative seed, and no *mufarrih* or cardiac-*ruh* role is claimed for it. The attestation is therapeutic, and no cultivation status is recorded in the sources retrieved. Cultivation status: **(b) framed**.
+
+**Practitioner's note.** Nothing here is a substance a cultivator takes to build vitality. Across all three traditions Macedonian parsley is a minor, adjunctive seed-drug of dispersal — a pinch of aromatic fruit to settle a distended, cold, damp gut and support the diuretic thrust of a purification protocol, then discontinued. The myristicin content and the near-total absence of species-specific evidence reinforce the point: use it at culinary scale for the defined carminative job, not as a concentrated extract and not as a long-term tonic. Its own tradition grades it as a corrective, not a cultivator's staple.
+
+---
+
 ### Contraindications
 
 - **Myristicin content:** the active oil is myristicin-rich; concentrated seed extracts or the essential oil carry a narrow safety margin and are not for internal use. Culinary-scale seed use only.

@@ -53,6 +53,20 @@ Separately, according to PubMed, Ragucci et al. (2025), *International Journal o
 - **TCM (by analogy):** Cool, sweet, moistening — a "clear heat / moisten dryness / lubricate the intestines" leaf-food in character, not a classical Chinese herb.
 - **Ayurvedic (by analogy):** *Rasa* sweet (madhura) with astringent note; *virya* cooling (shita); *vipaka* sweet; pacifies Pitta, moistens Vata dryness, may increase Kapha and — via oxalate — is used cautiously.
 
+---
+
+### Cultivation Register
+
+**Assyrian (AT).** In the Mesopotamian record the mild, moistening goosefoot potherbs sit among the food-drugs applied as soft, cooling poultice material and eaten to soften the stool — a substance classified by the hot, dry, or bound condition it corrects rather than by any status conferred on the person's vitality. As the entry states, no tablet plant-name can be fixed to *Atriplex hortensis* with confidence, so the attestation is a family-level placement within the broad Assyrian potherb tradition. Under the standing blocking warning for Assyrian substance identifications, deity/demon attributions and tablet references, no cultivation status is claimed. Cultivation status: **(c) absent** — the frame is dietetic and complaint-organised, not a doctrine of vital cultivation.
+
+**Greek — Dioscorides (DMM).** Dioscorides gives *atraphaxis* as an edible garden herb, emollient and loosening to the belly and applied externally to hot swellings — the founding Western statement of orache's gentle laxative-emollient character. Dioscorides carries no subtle-body system into which such a pot-herb could be assigned a cultivation status, and none is invented here. What the tradition offers a cultivator is his discipline of attention: the recognition of the soft, water-laden leaf, the reading of that yielding, cooling habit as its virtue, the distinction of the pigmented "rubra" form. That is a practice of provenance and sensory judgement over a food-herb, not a vital-body doctrine. Cultivation status: **(c) absent**.
+
+**Unani — Avicenna (CM).** The *Qanun* tradition classes orache (*qataf*) as cold and moist, a *mulattif*/emollient and mild laxative food-drug that cools hot temperaments, moistens dryness, eases constipation, and softens indurations as a poultice. Its standing is explicitly that of a food-medicine — nourishing and gently corrective rather than potent. The strongest cultivation idea in the Unani corpus, the conservation of innate heat and radical moisture, is a frame of the whole longevity regimen and not a status the tradition assigns to a cooling dietary green; no *mufarrih* or cardiac-*ruh* role is claimed. The attestation is dietetic and therapeutic, with no cultivation status recorded in the sources retrieved. Cultivation status: **(b) framed**.
+
+**Practitioner's note.** Orache is a base-layer food, not a cultivator's active. A cultivator uses it exactly as the traditions do — a cooling, moistening pot-herb cooked like spinach to soften a bound bowel, calm a hot dry constitution, and supply betalain pigment and fibre as ordinary nourishment in the Foundation phase. The real disciplines it demands are dietetic: cook and discard the water to cut oxalate, keep raw intake modest, and confine use to the leaf rather than the ribosome-inactivating seed. Nothing here supports it as a concentrated tonic; its value is nutritional and gently emollient, and that is where its use should stop.
+
+---
+
 ### Contraindications
 
 - **Oxalate content:** as a goosefoot-family green, orache accumulates oxalates. This is the primary caution — avoid large or raw quantities in anyone with a history of **calcium-oxalate kidney stones, hyperoxaluria, gout, or impaired renal function**. Cooking and discarding the water reduces oxalate load; keep raw intake modest.

@@ -54,6 +54,18 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 - **Unani/Persian mapping:** *sarv* — cold-dry temperament; qabid (astringent), habis (styptic/anti-flux); used for fluxes, bleeding and relaxed tissues.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — squarely on the astringent/consolidating axis (the "gather and hold" function), the archetypal tissue-binding tree of the volume.
 
+### Cultivation Register
+
+**Assyrian (AT).** No Mesopotamian cultivation framing for cypress is attested in this entry or in the sources retrieved; the Origin & Tradition section records only the Greco-Roman, Persian and folk-Mediterranean streams. Even where a cypress-like tree (Akkadian *šurmēnu*, an identification that is itself debated) appears in cuneiform materia medica, the standing blocking warning for Assyrian substance identifications, deity/demon attributions and tablet references holds: illness is classified by causal agency, not by a substance's action on a vital constitution, so no cultivation status can be responsibly claimed here. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Cypress is given a systematic astringent account in *De Materia Medica* Book I — the cones (*galbuli*) and leaves as powerful binding agents that draw tissues together and stem fluxes. Dioscorides carries no subtle-body or vital-cultivation system into which such a status could be assigned; his materia medica is a discipline of provenance, gathering, sensory assay and the guarding against adulteration, and that discipline of attention is what the tradition offers a cultivator, not a doctrine of the plant's action on vitality. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** As *sarv* the cypress is classed cold and dry, *qabid* (astringent) and *habis* (styptic / anti-flux), worked for haemorrhoids, varicosities, excessive menstruation, night sweats and loose bowels. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture as a finite vital endowment — is a longevity frame of the whole regimen, not a status the tradition assigns to this cooling, drying astringent, and no *mufarrih* or cardiac-*ruh* role is claimed. What is recorded is therapeutic, not a cultivation grade. **(b) framed:** attested therapeutically, no cultivation status sourced.
+
+**Practitioner's note.** Cypress is a consolidating astringent, not a substance a cultivator takes to build or refine vitality. Its work is to gather and hold — to tighten relaxed tissue, tone slack veins, check a flux — for a defined complaint over a defined course, then stop. The tree's heavy cultural charge (the funeral cypress, the *sempervirens* "ever-living," the Persian emblem of upright endurance) is symbolic and horticultural and does not transfer to the cones and oil as a vital-refinement action; the drying astringency is the honest limit of what any of these traditions asks of it.
+
+---
+
 ### Contraindications
 
 - **Pregnancy — caution.** Astringent-aromatic medicinal use and the essential oil are traditionally avoided in pregnancy. [USER: verify.]

@@ -52,6 +52,18 @@ According to PubMed, the pharmacology of *Apium nodiflorum* has been studied mai
 - **Ayurvedic (by analogy, not classical attribution):** *rasa* — katu (pungent), tikta (bitter); *virya* — ushna (warming); *vipaka* — katu. Kapha-reducing, mildly *mutrala* (diuretic).
 - **TCM:** No classical Chinese usage; nearest analogical fit is the aromatic, damp-draining, water-regulating category.
 
+### Cultivation Register
+
+**Assyrian (AT).** The cuneiform herbals catalogue water-margin and marsh herbs among the diuretic and "opening" drugs for retention of urine and for stone, and a celery-scented streamside umbellifer of this kind would sit within that group — named by habitat and scent, not by binomial. Illness in this tradition is classified partly by the causal agency a drug opposes, but under the standing blocking warning in force for every Assyrian substance identification, no secure identification of *this* species and no cultivation status can be asserted; the attestation, such as it is, is therapeutic and generic. **(c) absent.**
+
+**Dioscorides (DMM).** Dioscorides describes *sion*, a marsh/water herb of wet places, among the diuretic and stone-expelling drugs and as a warming digestive potherb, and the classical *sion* is generally identified with the water-celery umbellifers. Dioscorides carries no subtle-body system to assign the plant a cultivation status. What the tradition offers a cultivator here is precisely his discipline of attention — provenance from clean water, the celery scent as the honest sensory marker, and the guard against the lethal lookalike; for a plant whose very name records a fatal identification error, that assaying discipline is the real practice, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Avicenna / Unani (CM).** In the Unani grouping the water-celery and marsh-parsley herbs belong to the warm, aromatic diuretics of the second degree of heat — deobstruents opening the kidney and bladder, provoking urine and menstruation, kindling a cold sluggish stomach. The corpus's strongest cultivation idea, conservation of innate heat and radical moisture, is a longevity frame of the whole regimen and not a status assigned to a warming deobstruent diuretic; no *mufarrih* or cardiac-*ruh* role is claimed. Attested therapeutically within the aromatic-diuretic class; no cultivation status sourced. **(b) framed.**
+
+**Practitioner's note.** A cultivator does very little with this plant beyond eat a little of it, and does the greater work *before* eating — verifying identity and water source. Its place in Kenetica is as a teacher of discernment: the canonical lookalike whose safe use depends entirely on correct identification against hemlock water-dropwort and clean-water sourcing. There is no longevity or tonic use to claim in any of the three traditions; the whole cultivation content is the discipline of the gather.
+
+---
+
 ### Contraindications
 
 - **Misidentification hazard — the paramount caution.** *Apium nodiflorum* grows intermixed with **hemlock water-dropwort (*Oenanthe crocata*)**, a lethally toxic Apiaceae, and with true watercress. Never gather from the wild without expert botanical identification. Fatal poisonings occur from lookalike confusion.

@@ -54,6 +54,18 @@ According to PubMed, the respiratory tradition has real preclinical support, and
 - **Karma (actions):** Jvaraghna (antipyretic), Kṛmighna (anthelmintic), Kāsahara / Śvāsahara (antitussive / antiasthmatic), Kuṣṭhaghna (dermatoses), Stanyajanana (galactagogue), Dīpana-Pācana (digestive-kindling).
 - **Gaṇa membership:** Grouped in the Sanskrit corpus among bitter, kṛmighna and tvak-doṣa (skin-disorder) drugs; a standing component of jvara and kuṣṭha formulations.
 
+### Cultivation Register
+
+**Unani — Avicenna (CM).** *Alstonia scholaris* is a South- and Southeast-Asian tree of the Apocynaceae; it stands outside the classical Greco-Arabic materia medica and has no place in the Avicennian *Canon*. Its bark entered regional Unani-Tibb practice in India (as *dita* / *chhatim* bark, an antiperiodic febrifuge) only in the colonial and modern era, and even there its role is therapeutic — a bitter fever-drug — not one of the corpus's cultivation ideas. No conservation-of-innate-heat-and-radical-moisture frame, and no *mufarrih* or *ruh*-strengthening role, is attested for it, and none is invented here. **(c) absent** — and the CM tag is doubtful for a tree the classical Canon never knew (see attestation note).
+
+**Chinese — Shennong (SBJ).** There is no classical *Bencao* attestation for this tree. *A. scholaris* is not a herb of the *Shennong Bencao Jing* or the Han–Tang classical stratum; the Chinese use is Dai (Yunnan) ethnomedicine — the southern minority tradition that independently took the leaf for chronic cough, tracheitis and cold — later developed into a modern, regulated leaf-extract respiratory formulation. That is folk and modern-pharmaceutical attestation, not the classical *san pin* system: no upper/middle/lower grade is recorded and no *yang sheng* 養生 cultivation status attaches to it. **(c) absent** — and the SBJ tag misfiles a Dai/Yunnan folk drug under the classical Bencao stratum (see attestation and proposal notes).
+
+**Ayurveda (SS).** Saptaparṇa (सप्तपर्ण) is genuinely attested in the *Suśruta* and *Caraka Saṃhitā*, where its bark is worked as a bitter febrifuge (*jvaraghna*), anthelmintic (*kṛmighna*) and skin-disorder drug (*kuṣṭhaghna*), grouped among the bitter *kṛmighna* and *tvak-doṣa* drugs with Tikta–Kaṣāya rasa and Uṣṇa vīrya. But this is a therapeutic and dietetic standing, not a formal cultivation status: no *rasayana* (rejuvenation) or *vajikarana* (generative-vitality) assignment is recorded for it in the sources retrieved, and no *ojas*-building action is claimed. The seven-leaved-whorl symbolism (the seven *dhātus* and *cakras*) that this entry develops is a Kenetica reading, not an attested Sushrutan assignment, and is not counted here as a cultivation status. **(b) framed** — attested in the classical Ayurvedic corpus, with no rejuvenative cultivation status recorded.
+
+**Practitioner's note.** A cultivator uses Saptaparṇa as a corrective, not a cultivation substance: a heating bitter for a defined feverish, congested or worm-burdened episode — a purification and airway-clearing course — then stopped. Its own "Devil's Tree" reputation and its potent indole alkaloids are the caution; none of the three tagged traditions raises it to a rejuvenative or longevity status, and its symbolic role in Kenetica (pruning a scattered practice back to one root) is a discipline of attention, not a claim on the body's vitality. Clear what festers, then leave the tree at the crossroads.
+
+---
+
 ### Contraindications
 
 - Heating potency: caution in Pitta excess, hyperacidity, and inflammatory-heat conditions.

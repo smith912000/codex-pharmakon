@@ -55,6 +55,18 @@ Direct pharmacological study of *Aquilegia vulgaris* itself is sparse; most data
 - **Ayurveda:** Not a classical Ayurvedic dravya; by analogy its bitter-astringent profile would read as *tikta/kashaya rasa*, *sheeta virya* (cooling potency), *katu vipaka* — offered only as a cross-system mapping, not an attested Ayurvedic use.
 - **TCM:** No standard Zhong Yao identity; not to be confused with any Chinese official drug.
 
+### Cultivation Register
+
+**Assyrian (AT).** The cuneiform pharmacopoeia catalogues a large flora of the Mesopotamian and Zagros foothills where wild *Aquilegia* grows, but the record is fragmentary and identifications are frequently uncertain; the entry itself notes that no specific claim should be built on the Assyrian layer alone. Under the standing blocking warning in force for every Assyrian substance identification, columbine cannot be assigned a secure single-drug identity here, let alone a cultivation status; it stands only as a regional plant of the "cooling, cleansing" class. **(c) absent.**
+
+**Dioscorides (DMM).** The plant's fixed place in the European written record comes through the medieval and Renaissance herbals — Hildegard of Bingen, later Gerard and Culpeper — that transmitted Dioscoridean doctrine, not through a secure chapter of *De Materia Medica* itself, and *A. vulgaris* is a European species not clearly attested by Dioscorides. Dioscorides in any case carries no subtle-body system to assign a cultivation status. What the classical stream offers a cultivator is a discipline of attention — sensory assay, provenance, and above all the recognition that a beautiful cooling-cleansing herb conceals a cyanogenic poison in its seed and root. **(c) absent** as to cultivation status. *(See attestation flag: the operative transmission here is later European herbal, properly EF, not Dioscorides proper.)*
+
+**Avicenna / Unani (CM).** The *Qanun* stream places herbs of this cold-dry, cleansing, mildly astringent character in the management of hot inflammatory swellings and eruptive fevers, and columbine is grouped there by its Galenic classification rather than by a distinct named attestation. The corpus's strongest cultivation idea, the conservation of innate heat and radical moisture, is a longevity frame of the whole regimen and is not a status assigned to a cooling-drying antiphlogistic; no *mufarrih* or cardiac-*ruh* role is claimed. Placed by humoral classification within the cooling-drying class; no cultivation status sourced. **(b) framed.**
+
+**Practitioner's note.** A cultivator ingests nothing here. Columbine's whole role in Kenetica is as a guarded study specimen — the dove-and-cup flower whose surface beauty masks cyanogenic and irritant chemistry — used to teach recognition of toxic flora and the humoral logic of cold-dry cleansers. There is no longevity, tonic or internal cultivation use to claim in any of the three traditions; the lesson is the guarding itself, that not every offered draught is safe to drink.
+
+---
+
 ### Contraindications
 
 ⚠️ **TOXIC PLANT — SERIOUS HAZARD. This entry documents a historically poisonous herb; it is NOT a recommendation to ingest.**
