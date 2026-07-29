@@ -55,6 +55,18 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Unani/Persian mapping:** hot-dry; carminative (kasir-e-riyah), deobstruent, antispasmodic, emmenagogue.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — squarely on the warming, descending, qi-and-wind-moving axis; the premier carminative-antispasmodic of the volume.
 
+### Cultivation Register
+
+**Assyrian (AT).** Illness in the cuneiform corpus is classified in part by causal agency — a divine hand, a ghost, an oath — so a substance's standing is bound up with what agency it is set against. The retrieved profile carries no secure Assyrian tablet reference for *Ferula assa-foetida* itself; the tradition's presence on the tag line rests on the wider Near Eastern trade and use of the fetid *Ferula* gums rather than a sourced identification of this species in a named tablet. Under the standing blocking warning that governs every Assyrian substance identification, deity attribution and tablet reference, no cultivation status is asserted here. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides treats the *laser*/*Ferula* resins in the context of the prized Cyrenean silphium and its more pungent Persian-Median successor, giving a therapeutic and culinary account — a warming, attenuating deobstruent for the gut and chest. He carries no subtle-body system into which a cultivation status could be assigned, and none should be manufactured for him. What the tradition offers a cultivator is instead his discipline of attention: distinguishing the true resin from the adulterated, judging the gum by its smell and its behaviour in water, tracing provenance from Media or Syria. That is a real practice of assay and provenance, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The Persian and Unani traditions class asafoetida as hot and dry — a carminative (*kasir-e-riyah*), deobstruent and antispasmodic for wind, cold stagnation and spasmodic complaints. The strongest cultivation idea in the Unani corpus is the conservation of the innate heat and radical moisture, the finite vital endowment whose depletion is ageing; but that is a frame for the whole regimen, and no source retrieved assigns this hot, dispersing resin a role within it, nor any *mufarrih* (gladdening/cardiac) standing strengthening the *ruh*. Its attested standing is therapeutic — a warming remedy for a cold, windy, obstructed body — not a longevity status. **(b) framed:** claimed by the tradition, no cultivation status sourced.
+
+**Practitioner's note.** A cultivator does not take asafoetida to build anything. Across all three traditions it is a corrective, worked against a defined condition — a cold and windy gut, a spasm, a stagnant digestion — and then set aside; in the kitchen it is a pinch bloomed in hot fat to make heavy food digestible. There is no attested regimen of long-term use for vitality here, and its own hot, dispersing, *pitta*-raising character argues against one. Use it for the job, then stop.
+
+---
+
 ### Contraindications
 
 - **Pregnancy — caution/avoid medicinal doses.** Emmenagogue reputation; culinary pinches are ordinary food but medicinal resin doses are traditionally avoided in pregnancy. [USER: verify.]

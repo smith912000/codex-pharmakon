@@ -54,6 +54,18 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Unani/Persian mapping:** *oshaq* — hot-dry temperament; muhallil (resolvent), munzij/mukhrij-e-balgham (ripener/expeller of phlegm), deobstruent of liver and spleen.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — warming, dispersing, resolving stagnation and phlegm; close kin to galbanum and the rest of the *Ferula*-type cluster, with a particular emphasis on hard swellings and the chronic chest.
 
+### Cultivation Register
+
+**Assyrian (AT).** The entry carries an AT tag but presents no Assyrian material: no cuneiform name, no tablet reference, no *asû*/*āšipu* indication for this resin appears in the profile. Mesopotamian pharmacy classified illness by causal agency — the hand of a god, a ghost, an oath — so a drug is partly defined by which agency it opposes, but nothing of the kind is attested here for gum ammoniac. Under the standing blocking warning in force for every Assyrian substance identification and tablet reference, no status of any kind is claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides gives ammoniacum a systematic account among the gum-resins in Book III, valuing it as a warming softener and resolvent that ripens and disperses cold hard swellings and clears the chest of thick phlegm; he carries no subtle-body system that could assign it a cultivation status. What the tradition offers a cultivator is his discipline of attention — judging the resin as clean "tears" against adulterated lumps, reading its pale-to-amber colour and faintly fetid-aromatic odour, placing it correctly within the umbelliferous gum-resin family beside galbanum, sagapenum and opopanax. That is a real practice of provenance and sensory assay, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the Unani and Persian tradition ammoniacum (*oshaq*) is a hot-dry deobstruent and resolvent — *muhallil*, *munzij* and *mukhrij-e-balgham*, a ripener and expeller of cold phlegm and a deobstruent of liver and spleen. The strongest cultivation idea in the Unani corpus is the conservation of innate heat and radical moisture, a finite vital endowment whose depletion is ageing; but that is a longevity frame for the whole regimen, and it is not a status the tradition assigns to this warming resin, nor is any *mufarrih* cardiac-*ruh* role claimed for it. Its standing is deobstruent and therapeutic, not a cultivation status. **(b) framed:** attested therapeutically, no cultivation status sourced.
+
+**Practitioner's note.** Gum ammoniac is a working therapeutic resin, not a substance a cultivator takes to build or conserve vitality. Across its three tags it is applied to a defined job — loosening thick cold bronchial phlegm as the old "milk of ammoniac" expectorant, or softening hard glandular and splenic swellings in a resolvent plaster — and then stopped. There is no longevity use, no rejuvenative or vital-endowment status in any of the traditions here; the honest discipline it transmits is Dioscorides's, of telling a clean resin from an adulterated one. Use it warm, for cold phlegmatic obstruction, in modest amount, with the pregnancy caution observed — and expect nothing of it beyond that.
+
+---
+
 ### Contraindications
 
 - **Pregnancy — caution/avoid medicinal doses.** Emmenagogue reputation; internal medicinal use traditionally avoided in pregnancy. [USER: verify.]

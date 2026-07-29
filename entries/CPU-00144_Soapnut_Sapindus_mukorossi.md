@@ -63,6 +63,18 @@ Codex policy: chemical class (triterpenoid saponins) and the surfactant/expector
 - **Ayurvedic mapping:** **arishtaka (reetha)** — *katu/tikta* (pungent/bitter) in taste, *ushna* (warm) in potency, with cleansing (*lekhana*-like, scraping) and *kapha*-reducing action; used to clear the scalp, expel phlegm and, in larger dose, to provoke emesis.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — a cleansing, dispersing, mucus-moving surfactant agent on the Qi axis; gentle and [GENERAL] externally, modestly active internally as an expectorant.
 
+### Cultivation Register
+
+**Chinese — Shennong / Bencao (SBJ).** The soapberry enters Chinese materia medica as *wu huan zi* 無患子 (also *mu huan zi*), the "no-worry seed," a cleansing and dispersing fruit associated in later bencao literature with washing and with apotropaic bead-strings rather than with a vitality regimen. No *san pin* 三品 grade — upper 上品 (long-term, nourishing life), middle 中品 or lower 下品 — is recorded for *Sapindus mukorossi* in the sources retrieved, and I can attach no named scholarship (Unschuld, Needham, Stanley-Baker) to a classical Shennong-stratum grade for this species; the *wu huan zi* attestation belongs to later compilations, not the Han classic. Within *yang sheng* 養生, which is conservational and not curative, the fruit therefore carries a therapeutic and household-cleansing standing, not a cultivation status. Cultivation status: **(b) framed** — attested in the Chinese materia medica, no *san pin* grade sourced.
+
+**Ayurveda (SS).** *Arishtaka* (reetha) is a well-attested dravya of the classical materia medica, worked as a *lekhana* (scraping/cleansing) and *kapha*-reducing agent, as a scalp and hair cleanser, and — in larger internal dose — as an emetic within *shodhana*-style purificatory practice, where the vomiting is the therapeutic clearance itself. That is a treatment procedure, not a rejuvenative assignment: no *rasayana* (rejuvenation) or *vajikarana* (generative vitality) standing is recorded for arishtaka in the sources retrieved, and none can be attributed to Charaka, Sushruta or a scholar such as Meulenbeld for this species. Its constitution-level standing is *tridosha*-therapeutic and dietetic, not a formal cultivation grade. Cultivation status: **(b) framed** — claimed by the tradition, no *rasayana*/*vajikarana* status sourced.
+
+**Tibetan (FMT).** No cultivation framing is attested for the soapberry in the Tibetan sources retrieved. Tibetan medicine locates its pathology in the three *nyes pa* (rlung, mkhris pa, bad kan) rooted in the three poisons, and medicine is the third of the four treatment branches — but the tradition carries no formal "substances for subtle-body practice" category to which this fruit could be assigned, and *bcud len* (essence-extraction) is not attested for it here. Cultivation status: **(c) absent.**
+
+**Practitioner's note.** Nothing here is a substance a cultivator takes to build vitality. Across the traditions that touch it, the soapnut is a surfactant — a hair and cloth wash, a scalp cleanser, a mild expectorant that loosens mucus, and, in quantity, a deliberate emetic whose whole action is to clear and expel, not to nourish. Even its cleansing register is external and short-term; the internal uses are subtractive (expel phlegm, provoke vomiting) and self-limiting by their irritancy. Use it as a cleanser, and let the emetic dose be a defined procedure, not a practice.
+
+---
+
 ### Contraindications
 
 - **Eye contact.** The lather stings; keep soapnut wash out of the eyes and rinse thoroughly if exposed.

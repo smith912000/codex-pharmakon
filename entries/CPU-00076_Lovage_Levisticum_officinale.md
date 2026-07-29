@@ -55,6 +55,18 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 - **Unani mapping:** hot-dry; carminative (kasir-e-riyah), diuretic (mudirr-e-baul), emmenagogue, deobstruent.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the warming, qi-and-wind-moving, fluid-opening axis; an aromatic-umbellifer carminative-diuretic kin to angelica, celery and Chuan Xiong (via shared ligustilide).
 
+### Cultivation Register
+
+**Assyrian (AT).** The entry carries an AT tag but presents no Assyrian material; lovage is a European and Near-Eastern garden umbellifer whose documented history runs through Greco-Roman and later European sources, not the cuneiform corpus. Under the standing blocking warning in force for every Assyrian substance identification, no *asû*/*āšipu* framing, no causal-agency classification and no tablet reference can be asserted here — and none is invented. Cultivation status: **(c) absent**; the tag is unsupported in this entry and flagged below.
+
+**Greek — Dioscorides (DMM).** Lovage descends from the classical *ligustikon* (the "Ligurian herb," *De Materia Medica* Book III), a warming, digestive and diuretic aromatic. Dioscorides carries no subtle-body doctrine into which such a herb could be given a cultivation status, and none should be manufactured for it. What the tradition genuinely offers a cultivator is his discipline of attention — the identification of the true Ligurian plant, the assay of the aromatic root and seed by their pungent celery-scent, the guard against substitution by the other umbellifers it resembles. That is a real practice of provenance and sensory judgement, not a vital-body category. Cultivation status: **(c) absent** as to any cultivation standing.
+
+**Avicenna / Unani (CM).** In the Unani register lovage is hot-and-dry, a carminative (*kasīr-e-riyāḥ*), diuretic (*mudirr-e-baul*), emmenagogue and deobstruent — a therapeutic profile on the warming, wind-moving, fluid-opening axis. The Unani corpus's real cultivation idea is the conservation of innate heat and radical moisture across the whole regimen; a warming carminative root is not assigned a status within that economy in the sources, and no *mufarrih* or cardiac-*ruh* role is claimed for it. Cultivation status: **(b) framed** — attested therapeutically, no cultivation status sourced.
+
+**Practitioner's note.** Lovage is worked, not cultivated: a warming aromatic taken for a defined job — dispelling digestive wind and colic, opening the urinary passages, easing a cold catarrhal chest — and it is as much food as medicine, the leaf, stalk, seed and root all savoury. Its own cautions (the umbellifer pregnancy/emmenagogue caution, furanocoumarin phototoxicity, the diuretic caution in kidney impairment) mark it as a bounded corrective, not a long-term nourisher of vitality. Its deepest cultural roots are in fact the European monastic physic garden — Walahfrid Strabo's *Hortulus*, the St Gall plan, Charlemagne's capitulary — a folk/monastic tradition (EF) not represented on this entry's tag line and proposed for addition below.
+
+---
+
 ### Contraindications
 
 - **Pregnancy — caution/avoid medicinal doses.** Emmenagogue reputation and furanocoumarins; culinary amounts are food but medicinal preparations are traditionally avoided in pregnancy. [USER: verify.]

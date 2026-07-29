@@ -60,6 +60,18 @@ In applied Kenetica it belongs to the wind-down / recovery block — as an aroma
 - **TCM:** Not classically used — omit.
 - **Ayurvedic:** Not a classical Sanskrit dravya — omit.
 
+### Cultivation Register
+
+**Assyrian (AT).** The entry carries an AT tag, but no Assyrian attestation appears in the profile, and *Lavandula stoechas* is a Western-Mediterranean plant (named for the Stoichades Islands off Provence) whose presence in the Mesopotamian cuneiform materia medica is not evidenced here. Under the standing blocking warning for Assyrian substance identifications, tablet references and causal-agency framings, no cultivation status — and indeed no secure identification — is claimed. Cultivation status: **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides described *stoichas* (στοιχάς) as a warming, bitterish aromatic given in decoction for chest complaints and folded into compound antidotes and theriacs. The classical tradition assigns it no subtle-body role, so there is no cultivation status to record; what it offers a cultivator is the Dioscoridean discipline of attention — the island provenance, the aromatic assay that distinguishes true *stoichas*, and the caution against substitution — a practice of sourcing and sensory judgement rather than a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** *Ustukhuddūs* (أُسْطُوخُودُس) is a celebrated drug of the Unani corpus, classed hot and dry and used as a brain-and-nerve tonic (*muqawwī-e-dimāgh*) and deobstruent (*mufattiḥ*) that "sweeps" thick, cold, melancholic humours from the head. That tonic-and-clearing role is a therapeutic action on a faculty, not the corpus's proper cultivation idea, which is the conservation of innate heat and radical moisture across the whole regimen rather than a status conferred on a single warming aromatic. No *mufarrih* constituent list and no *Canon* chapter is cited. Attested as materia medica with a strong nervine-tonic frame but no recorded conservational cultivation status. **(b) framed.**
+
+**Practitioner's note.** A cultivator uses this as a clearing, settling aromatic at the close of a heavy block — infused, or the oil used by scent rather than swallowed, since the camphor/fenchone-rich *stoechas* oil is not the low-camphor *L. angustifolia* of the oral anxiety trials. The honest cultivation reading is the Unani one: a warm broom for a congested, heavy head, easing the turn toward rest. It is a functional nervine, not a longevity substance, and its status stops there.
+
+---
+
 ### Contraindications
 
 - **Camphor/fenchone content** — *L. stoechas* oil is comparatively high in camphor; **camphor-rich essential oils should not be taken internally casually, and should be kept away from the faces/nostrils of infants and young children** (risk of laryngospasm/CNS effects). This is a real distinction from low-camphor *L. angustifolia*.

@@ -96,6 +96,18 @@ Codonopsis 15 g + Poria cocos (Fu Ling) 9 g + Atractylodes macrocephala (Bai Zhu
 
 ---
 
+### Cultivation Register
+
+**Unani — Avicenna (CM).** The entry's own *Origin & Tradition* section concedes that Codonopsis "was not within Ibn Sina's materia medica," which drew on Mediterranean, Persian and Central Asian flora. The CM tag therefore rests on a functional analogy to the Galenic "tonics of vital spirit," not on any attestation of this species in the *Canon* or the wider Unani corpus. The genuine Unani cultivation idea — conservation of innate heat and radical moisture as a finite vital endowment — is never applied to this root by any Unani source. There is no substance-specific cultivation status to record. **(c) absent** — the plant is outside this tradition.
+
+**Chinese — Shennong through Bencao (SBJ).** Dǎng Shēn (党参) is a genuine and heavily used Chinese tonic, but as a *distinct* drug it is a late arrival: the entry itself notes that Li Shizhen's *Bencao Gangmu* (1596) carries no dedicated entry under this name, and that Codonopsis was systematically codified only in the Qing *Bencao Congxin* (1757, Wu Yiluo), having long been conflated with or substituted for Panax ginseng. It sits in the "supplement the middle, augment Qi" (補中益氣) tonic class and is a cornerstone of the *Sì Jūn Zǐ Tāng* family, so it belongs squarely within *yang sheng* 養生, the conservational nourishing-of-life project, and is used as a long-course tonic rather than a short curative. But because the drug postdates the classical *Shennong* stratum by well over a millennium, it carries **no *san pin* 三品 grade** — the three-grade hierarchy was fixed for the classical corpus, not the Qing additions, and none is asserted for it here. **(b) framed**, dated to the 1757 codification rather than any classic.
+
+**Tibetan — rGyud-bzhi (FMT).** The entry places Codonopsis in the Four Tantras under a "supplement-root" category and identifies it with Tibetan *wang lag* — but *dbang lag* (*wang lag*) in Sowa Rigpa standardly denotes the salep orchid (*Dactylorhiza hatagirea*), a different plant, so this identification is doubtful and no secure attestation of *Codonopsis pilosula* in the *rGyud-bzhi* could be confirmed. Even granting a generic tonic-root use, Tibetan medicine holds no formal "substances for subtle-body practice" category, and medicine is the third of the four treatment branches — it supports practice, it does not reach the root, which is a spiritual condition of the three poisons. No cultivation status attaches to this substance. **(c) absent.**
+
+**Practitioner's note.** A cultivator treats Dǎng Shēn as a slow, gentle rebuilder — the Chinese tradition's own use is the guide: a long-course Spleen-and-Lung Qi tonic taken over weeks to restore what illness, overtraining or depletion has drained, held back only during an acute external invasion. That conservational Chinese framing is the single real cultivation logic on the tag line; the Unani and Tibetan tags describe, respectively, a plant Ibn Sina never had and an identification that most likely points to a different species. Build with it patiently or not at all — there is nothing here to take by the dose for an acute effect.
+
+---
+
 ### Contraindications
 
 - **Excess Heat patterns (TCM):** Codonopsis is a warming tonic; it is contraindicated in conditions of excess Heat, high fever, or Yin deficiency with vigorous Fire — use may exacerbate heat signs, irritability, or hypertension in these constitutions

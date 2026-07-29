@@ -51,6 +51,18 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Unani mapping:** cold-dry; astringent, anti-dysenteric, antiparasitic.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the astringent, bitter-cooling, bowel-consolidating and anti-infective axis; a focused anti-dysenteric bark.
 
+### Cultivation Register
+
+**Avicenna / Unani (CM).** Kurchi is attested in the Unani register as a cold-dry, astringent, anti-dysenteric and antiparasitic bark — a therapeutic identity, not a cultivation one. The strongest cultivation idea in the Unani corpus is the conservation of innate heat and radical moisture, a whole-regimen longevity frame; nothing in the sources assigns this cooling astringent a role in that economy, and no *mufarrih* or cardiac-*ruh* standing is claimed or may be. Cultivation status: **(b) framed** — attested therapeutically, no cultivation status sourced.
+
+**Ayurveda (SS).** Kutaja (bark) and its seed Indrayava are firmly placed in the Ayurvedic materia medica as *tikta-kāṣāya* (bitter-astringent), *śīta* (cooling), *kapha-pitta* reducing, and above all *grāhī* — the absorbent, bowel-binding action that makes it the classic *atisāra* and *pravāhikā* (diarrhoea/dysentery) remedy. This is squarely a therapeutic and *doṣa*-balancing standing. No *rasāyana* (rejuvenative) or *vājīkaraṇa* (generative) assignment is recorded for Kutaja in the sources retrieved — it is a corrective bowel drug, not a substance of the two formal Ayurvedic cultivation disciplines. Cultivation status: **(b) framed** — a well-attested therapeutic dravya with no formal cultivation category recorded.
+
+**Tibetan — Sowa Rigpa (FMT).** The entry carries an FMT tag but presents no Tibetan account of this substance; the profile's evidence is Indian and Unani. Even where Sowa Rigpa employs anti-dysenteric barks and Holarrhena seed within its materia medica, medicine is the third of the four treatment branches — it supports practice, it does not reach the root of the three *nyes pa*, and there is no formal "substance for subtle-body practice" category into which such a bowel drug would enter. No *bcud len* (essence-extraction) or cultivation status is attested for Kurchi in the retrieved sources, and none is invented here. Cultivation status: **(c) absent**; the tag is under-supported in this entry and flagged below.
+
+**Practitioner's note.** There is nothing to cultivate with here. Across all three registers Kurchi is a bounded corrective — a bitter-astringent, cooling, antiprotozoal bark taken for a defined bout of dysentery, loose or bleeding bowel, or intestinal parasites, and then stopped. Its own astringency is the warning: it over-binds a dry bowel and has no long-term nourishing, rejuvenative or generative role in any of the traditions that use it. A cultivator reaches for it to correct a specific gut condition, not to build vitality.
+
+---
+
 ### Contraindications
 
 - **Constipation / very dry bowel.** The astringent action can over-bind; inappropriate in constipation.

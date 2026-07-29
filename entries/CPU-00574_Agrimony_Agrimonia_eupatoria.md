@@ -51,6 +51,18 @@ According to PubMed, agrimony's traditional profile is supported by a growing ph
 - **Ayurveda (by analogy):** predominant *kashaya* (astringent) rasa; *virya* mildly warming; *vipaka* pungent; pacifies *kapha* and controls *pitta*-type oozing/laxity — mapped by property, not from a classical entry.
 - **Galenic / Unani (attested):** warm and dry, astringent and mildly bitter; a liver deobstruent and tissue-binder.
 
+### Cultivation Register
+
+**Assyrian (AT).** The Mesopotamian remedies record astringent, wound-closing field herbs of the rose and steeple-flowered groups for "flowing" complaints — open sores, loose bowels, bleeding — with the tall yellow spikes among the drying, binding plants used for external dressing and mouth-and-throat washes. This is a therapeutic, agency-facing use, not a cultivation status: the binomial identification of Assyrian plant names is insecure, the standing blocking warning applies to every such identification, and no framing of the herb's action on a vital constitution is attested. **(c) absent.**
+
+**Dioscorides (DMM).** *De Materia Medica* describes *eupatorion* — pounded leaves for wounds, the decoction for liver complaints and dysentery — and the epithet *eupatoria* preserves that lineage, though the exact identity of Dioscorides' *eupatorion* is itself debated among scholars and cannot be pinned to modern *Agrimonia eupatoria* with certainty. Either way Dioscorides carries no subtle-body doctrine into which a cultivation status could be placed; what the tradition gives a cultivator is his discipline of attention — the assay of a genuine astringent, the distinction of the true herb from look-alikes, the judgement of provenance and preparation. That is a real practice, not a vital-body status. **(c) absent** as to cultivation status.
+
+**Avicenna / Unani (CM).** In the Galenic-Islamic corpus agrimony (*ghāfith*, a name long tied to hepatic herbs) was esteemed as a liver medicine and astringent tonic — warm and dry, mildly bitter, a deobstruent that "opens the liver" while binding slack, weepy tissue. This is a humoral-therapeutic classification: the herb is worked against hepatic obstruction, jaundice and loose humours. The Unani cultivation idea proper — conservation of innate heat and radical moisture across the whole regimen — is not a status the tradition assigns to this drying deobstruent, and no *mufarriḥ* or gladdening-of-the-*rūḥ* role is claimed for it. The attestation is real but therapeutic. **(b) framed** — attested as liver-tonic and astringent, no cultivation status sourced.
+
+**Practitioner's note.** A cultivator uses agrimony as a Foundation astringent: a gargle for a hoarse or sore throat, a wash for a graze or weeping skin, a gentle drying binder for a slack gut — the archetype of "tone without force," steadying and closing rather than purging or stimulating. It is mild and broadly tolerated, well suited to the everyday maintenance work of the early phases, but it is not a longevity or rejuvenative substance in any of the three traditions and none assigns it a cultivation status. The honest practice is to reach for it to firm lax tissue for a defined stretch, keep the strong internal course short because the tannins are hard on iron and the gut, and expect tone, not transformation.
+
+---
+
 ### Contraindications
 
 - Generally well tolerated in traditional food-herb amounts. Its high **tannin** content means strong or prolonged internal use may cause gastric irritation and can **reduce absorption of dietary iron and of some medicines** — separate dosing from iron supplements and oral drugs by ~2 hours.

@@ -101,6 +101,18 @@ Polysaccharide fractions from *Eupatorium* species have been investigated for im
 
 ---
 
+### Cultivation Register
+
+**Assyrian (AT).** No cultivation status is attested for hemp agrimony in the Mesopotamian material, and nothing in this profile carries an Assyrian identification. *Eupatorium cannabinum* is a European–North-African–temperate-Asian riverbank plant, and under the standing blocking warning in force for every Assyrian substance identification, no cuneiform attestation, causal-agency classification, or cultivation status is claimed for it here. Cultivation status: **(c) absent.**
+
+**Greek — Dioscorides (DMM).** The classical *eupatorion* of Dioscorides is most reliably identified with *Agrimonia* (true agrimony), not with this plant; the attachment of the *Eupatorium* name to *E. cannabinum* is a documented case of later nomenclatural drift, so the Greek tradition did not describe this species and assigns it no status. Dioscorides in any case carries no subtle-body system into which a cultivation grade could be placed; what his tradition offers a cultivator is a discipline of attention — correct identification, provenance and the guarding against exactly this kind of name-transfer — which here counsels caution rather than use. Cultivation status: **(c) absent**, and the species identification itself is unsettled.
+
+**Unani — Avicenna (CM).** No cultivation status is attested for *E. cannabinum* in the Unani corpus in the sources retrieved. The genus name preserves a classical honorific (Mithridates VI Eupator) but that is antiquarian, not a Graeco-Arabic materia-medica assignment; the Unani conservation-of-innate-heat frame is a whole-regimen longevity idea, not a status the tradition attaches to this plant, and no *mufarrih* or cardiac-*ruh* role is claimed. Cultivation status: **(c) absent.**
+
+**Practitioner's note.** A cultivator does nothing with this plant. Its securely attested standing is a later European one — a hot diaphoretic to drive a fever through its sweating phase and a hepatic bitter — and even that is an acute, surface, subtractive action, never a substance taken over time to build vitality. The overriding fact is the pyrrolizidine-alkaloid hepatotoxicity: cumulative internal exposure damages the very organ any restorative framing would claim to nourish. Where the febrile-immune action is genuinely wanted, a cultivator reaches for a PA-free diaphoretic (elder, echinacea) and leaves hemp agrimony as a reference entry. The honest cultivation answer is abstention.
+
+---
+
 ### Contraindications
 
 **⛔ Pyrrolizidine-alkaloid hepatotoxicity (overriding contraindication):** *Eupatorium cannabinum* contains 1,2-unsaturated pyrrolizidine alkaloids that are hepatotoxic, genotoxic, and carcinogenic. Internal use carries a risk of hepatic veno-occlusive disease on cumulative or high-dose exposure. Internal use is **contraindicated** as a routine practice and is restricted or prohibited for sale in several regulated markets. This contraindication overrides all traditional indications.

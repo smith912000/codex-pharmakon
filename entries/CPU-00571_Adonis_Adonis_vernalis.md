@@ -50,6 +50,18 @@ According to PubMed, the cardenolides characteristic of *Adonis* are pharmacolog
 - **Ayurveda (by analogy):** *virya* heating (ushna); *vipaka* pungent; strongly *tikshna* (sharp/piercing) — a *visha* (poison) class botanical requiring *shodhana* (purification) and expert hand.
 - **Galenic / Unani (attested):** hot and dry, penetrating; a heart-strengthener whose sharpness borders on poison.
 
+### Cultivation Register
+
+**Assyrian (AT).** The Nineveh material records "eye-of-the-field" steppe buttercups gathered for dropsical swelling and "water of the heart," and the entry notes a folk association of the red-centred blooms with the pulse and the seat of vitality. That association cannot be raised to a cultivation status: the binomial identification of Assyrian plant names is itself contested, the standing blocking warning is in force for every Assyrian substance identification, and Mesopotamian pathology classifies illness by causal agency (divine hand, ghost, oath) rather than by a substance's action on a vital constitution. No cultivation status is claimed. **(c) absent.**
+
+**Dioscorides (DMM).** *De Materia Medica* describes acrid Ranunculaceae (*batrachion*) whose caustic, heating juice blistered the skin externally and disordered the heart and breathing if taken internally in excess — a description at the level of the buttercup group, not of *Adonis vernalis* specifically. Dioscorides carries no subtle-body system into which a cultivation status could be set; what he offers a cultivator is his discipline of attention — the recognition, precise for a cardioactive plant, of the narrow line between remedy and poison, and the sensory assay of an acrid juice. That is a real practice of judgement, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Avicenna / Unani (CM).** In the Galenic-Islamic tradition buttercup-family cardiotonics were classed among the hot, penetrating heart-strengtheners (*muqawwī al-qalb*) used sparingly for weakness of the pulse and watery accumulation, with explicit warning that the dose separating benefit from poison is small. This is a therapeutic classification of a hot-and-dry moving agent, not a cultivation status: the conservation of innate heat and radical moisture — the tradition's genuine longevity idea — is a frame of the whole regimen, and a penetrating, near-toxic cardiac stimulant is the opposite of a substance taken to husband a finite vital endowment. No gladdening/*mufarriḥ* role or constituent list is asserted, and the attestation here is at the level of the cardiotonic buttercups rather than this species named in the *Canon*. **(b) framed** — attested therapeutically, no cultivation status sourced.
+
+**Practitioner's note.** A cultivator does nothing with this plant except study it. It is Kenetica's teaching-case for restraint: a cardenolide-bearing botanical with a narrow therapeutic index, mechanistically identical to digitalis, that is documented for the medicine chest of no one. Across all three traditions the consistent signal is caution — temple physicians reserved it, Dioscorides marked the line to poison, Unani physicians warned that benefit and death are a small dose apart. There is no vitality to build here; the only cultivation practice the plant supports is the discipline of not taking it, and of respecting the narrow window in every cardioactive herb it stands emblem for.
+
+---
+
 ### Contraindications
 
 **⚠️ SEVERE HAZARD — POTENTIALLY FATAL. This plant contains cardiac glycosides (cardenolides) with a narrow therapeutic index, mechanistically identical to digitalis/digoxin.**

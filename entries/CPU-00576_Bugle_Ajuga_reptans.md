@@ -56,6 +56,18 @@ According to PubMed:
 - **TCM (by analogy, not classical):** would map to a cooling, astringent, blood-stanching herb clearing damp-heat from the surface; not a canonical Chinese materia medica plant.
 - **Ayurvedic (by analogy):** *rasa* — tikta (bitter) and kashaya (astringent); *virya* — shita (cooling); *vipaka* — katu (pungent); pacifying to pitta and kapha in excess-moisture, bleeding presentations. Not a classical Ayurvedic dravya.
 
+### Cultivation Register
+
+**Assyrian (AT).** The creeping wound-herbs of damp meadow and woodland margin were gathered by the *asû* and pounded fresh onto bleeding cuts and ulcerating sores, a class of stem-the-blood, close-the-flesh plants read within an aetiology of causal agency — illness placed by the hand behind it (god, ghost, oath) and a drug placed partly by the agency it opposes. The specific identification of *Ajuga reptans* within the cuneiform materia medica is an inference from habitat and habit, not a secure reading, and the standing blocking warning is in force for every Assyrian substance identification and tablet reference. No cultivation status can honestly be asserted; the attestation, such as it is, is a wound-dressing use. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides places the bugle / *bugula* grouping among the astringent consolidators — herbs that check haemorrhage, draw the lips of a wound together, and are laid fresh on the injury or applied to inflamed, ulcerated mouth and throat. This is a therapeutic account, and he carries no subtle-body doctrine into which a cultivation status could be set; the Galenic three spirits are later and post-Dioscoridean. What the tradition hands a cultivator is his discipline of attention — recognising the true consolidating herb by its low, self-suturing, mat-forming habit, gathering it fresh, and reserving it for the clean, minor wound. That is a practice of assay and provenance, not a vital-body status. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The *Qānūn* tradition classes such creeping astringents as cold and dry and "retentive" — cooling heat, drying excess moisture, binding relaxed tissue and arresting fluxes of blood — and bugle's use as a wound-consolidator and mouthwash for slack, bleeding gums sits directly inside that humoral logic. The tradition's strongest cultivation idea, conservation of the finite innate heat and radical moisture whose depletion is ageing, is a frame of the whole regimen and not a status assigned to this cooling retentive; no *mufarrih* / cardiac-*ruh* role is recorded for it in the retrieved sources. The attestation is therapeutic. **(b) framed:** claimed by the tradition, no cultivation status sourced.
+
+**Practitioner's note.** Bugle is a closing herb, not a building one. In all three source traditions it is worked to seal a surface — a fresh poultice on a minor cut, an astringent gargle for spongy bleeding gums, a mild internal bitter-astringent for loose, weeping tissue — and its signature is containment, drawing shut and holding what the body is losing. Nothing here is a substance a cultivator takes over time to accrue vitality; the "self-suturing" symbolism and the phytoecdysteroid chemistry are apt Kenetica readings, not a cultivation status any of the three traditions confers. Reach for it to finish and seal, on a short course, and keep internal use adjunctive.
+
+---
+
 ### Contraindications
 
 - Internal medicinal use is poorly standardised; keep to short courses and traditional doses. Uncertain material — [USER: verify] any internal protocol.

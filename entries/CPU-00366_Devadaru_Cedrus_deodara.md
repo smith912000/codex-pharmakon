@@ -69,6 +69,18 @@ Evidence grade: **preclinical (in vivo rodent anti-inflammatory/analgesic models
 - **Srotas / dhātu:** acts on māṃsa, asthi/sandhi (flesh, joints), mūtravaha and praṇavaha (urinary, respiratory) srotas; anti-āma
 - **Gaṇa / formulary:** classical Vātahara/śothahara wood group; head of *Devadārvādi* formulations
 
+### Cultivation Register
+
+**Avicenna — Unani (CM).** Under the Unani tag deodar wood would present as a warm, dry, aromatic resinous drug — a mobiliser apt for cold, phlegmatic, stagnant swellings — but the retrieved sources carry no actual Unani material for this species. Unani's governing cultivation idea, the lifelong conservation of innate heat (*ḥarārat gharīziyya*) and radical moisture (*ruṭūbat aṣliyya*) as a finite endowment, is a longevity frame of the whole regimen, not a status the tradition assigns to a warming anti-stagnation wood; no *mufarrih* or *ruh*-strengthening role and no *Canon* attribution is recorded or claimed. Cultivation status: **(c) absent.**
+
+**Ayurveda — Suśruta (SS).** Devadāru is "timber of the gods" (*deva* + *dāru*), and that sacred name is real — but it is the standing of the cedar as sacred *material* (temple wood, the tree under which sages dwell, ritual fumigation), not a cultivation grade the tradition assigns to the drug worked for a person's vitality. Pharmacologically Suśruta files it among the warming, drying Vātahara/śothahara woods — *śothahara*, *vedanāsthāpana*, *lekhana*, *dīpana–pācana* — an active mobiliser against stasis, and no *rasāyana* or *vājīkaraṇa* assignment for *C. deodara* is traceable to Caraka, Suśruta or Meulenbeld in the sources retrieved, nor any *ojas*-building action. Its standing is therapeutic and deobstruent, not rejuvenative. **(b) framed:** heavily claimed and sacred as timber, but with no sourced cultivation grade for the drug. (*Note: the sattva/rajas/tamas triad is Sāṃkhya and is not invoked here.*)
+
+**Tibetan — rGyud-bzhi (FMT).** Aromatic Himalayan cedar/juniper woods have a place in Sowa Rigpa's warming, aromatic and fumigatory repertoire, but in the Four Tantras' scheme medicine is only the third of four treatment branches and does not reach the root of the three *nyes pa*, which trace to the three poisons and are at root a spiritual condition. No *bcud len* (essence-extraction) role is attributed to this species in the retrieved sources, and Tibetan medicine holds no formal category of "substances for subtle-body practice" under which to grade it. Cultivation status: **(c) absent.**
+
+**Practitioner's note.** Devadāru is a warm, active mobiliser, not a substance a cultivator takes to build or preserve vitality. Its work is against stasis — heating, drying, scraping clear the cold, congealed accumulation of the joints and channels so that circulation and transformation resume — given for a defined unblocking window and then eased off, with caution in hot, dry or Pitta-excess constitutions. The "divinity" in its name belongs to the cedar as sacred timber, not to any longevity grade of the drug; the honest cultivational role is preparatory clearance, not tonification.
+
+---
+
 ### Contraindications
 
 - **Pitta excess / inflammatory heat states of the hot type:** the uṣṇa (heating) potency can aggravate Pitta, bleeding-heat, hyperacidity, and hot inflammatory conditions.

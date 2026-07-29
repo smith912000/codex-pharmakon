@@ -164,6 +164,20 @@ The bulk of modern *P. rhoeas* research is **agronomic**: it is Europe's most da
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** The Ebers corpus is indication-organised: it records what was done for a complaint — a crying child quieted, a cough soothed — not what a substance does to the *ka*, *ba*, *akh* or the *ib* as seat of judgement, and it assigns no vital-constitutional status to any poppy. Even the poppy identification here is a modern hypothesis over an unrecoverable species, and the operative *heka* — the recitation that would have accompanied any genuine prescription — is not attached to *P. hybridum* by any text. There is no cultivation framing to report, and it would be doubly invented: once for the tradition, once for a species Egypt never named. **(c) absent.**
+
+**Assyrian (AT).** The Nineveh pharmacy classified illness by causal agency — the hand of a god, a ghost, a broken oath — so a drug is partly defined by which agency it opposes; but the poppy the *asû* and *āšipu* knew is *ḫul gil*, the opium poppy, and no surviving name marks *P. hybridum* out from that category. Under the standing blocking warning in force for every Assyrian substance identification, deity attribution and tablet reference, no status of any kind is claimed for this species. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides treats *mēkōn rhoias*, the wild or erratic poppy, as a mild soporific for sleep, cough and hoarseness, conventionally read as *P. rhoeas*; he carries no subtle-body system that could assign a cultivation status, and there is no reason to think he had *hybridum* in view as a distinct drug at all. What the tradition offers a cultivator is his discipline of attention — distinguishing the field poppies by capsule and habit, judging the wild from the cultivated by observed effect rather than lore. That is a real practice of discrimination, and it is exactly the practice this entry is built around; it is not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Avicenna places the wild poppy (*khashkhāsh barrī*) cold and soporific, well below the cultivated black poppy on the four-degree scale, safe enough for domestic use in catarrh, cough and heat of the head. The strongest cultivation idea in the Unani corpus is the conservation of innate heat and radical moisture — a finite vital endowment whose depletion *is* ageing — but that is a longevity frame for the whole regimen, and it is not a status the tradition assigns to a cooling narcotic; no *mufarrih* or cardiac-*ruh* role is claimed, and even the therapeutic classification is inherited by the field-poppy category rather than established for this species. **(b) framed:** attested therapeutically at category level, no cultivation status sourced.
+
+**Practitioner's note.** Nothing here is a substance a cultivator takes to build or conserve anything. Across all four tags *P. hybridum* is not even worked as a drug — it is a category member that inherited a doctrine built on its dangerous cousin and was never separately tested against it. The one honest practice the traditions transmit is Dioscorides's: learn to tell the four red field poppies apart by their seed-heads, and do not mistake a bristly ball of a capsule for opium. That is discrimination, not cultivation. There is no longevity use, no vitalising use, and no defined therapeutic course to take and then stop — because there is no species-specific ground to stand one on.
+
+---
+
 ### Contraindications
 
 **General:** *P. hybridum* is **not recommended for internal use in any person**, on the grounds of absent data rather than demonstrated harm. The distinction matters: this is not a poison. It is an unknown.

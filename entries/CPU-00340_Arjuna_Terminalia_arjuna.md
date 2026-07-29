@@ -57,6 +57,18 @@ The honest synthesis: Arjuna has a strong traditional cardiac reputation and a p
 - **Srotas:** Rasavaha & Raktavaha (circulatory — primary), Māṃsavaha, Medovaha
 - **Prabhāva:** The specific cardiotonic effect on the heart muscle — the *hṛdya* prabhāva that sets Arjuna apart from other Combretaceae astringents (compare Dhava, same family)
 
+### Cultivation Register
+
+**Unani — Avicenna (CM).** Where Unani physicians take up Arjuna (*Arjun kī chhāl*) it is as a *muqawwī-i-qalb* — a strengthener of the heart, cold-and-dry and astringent, steadying the cardiac faculty rather than heating it. This touches the Unani cardiac-*ruh* theme, but the corpus's actual cultivation idea is the conservation of *ḥarārat gharīzīya* (innate heat) and *raṭūbat aṣlīya* (radical moisture) across the whole regimen, and no *Canon* chapter assigns this bark a longevity status; nor is a *mufarriḥ* constituent role something the sources warrant publishing. Its standing here is therapeutic-cardiac, not a cultivation grade. **(b) framed:** used as a cardiac strengthener, no cultivation status sourced.
+
+**Chinese — Bencao (SBJ).** No Chinese cultivation status can be assigned to *Terminalia arjuna*. The entry carries no Chinese attestation, and the classical Chinese *Terminalia* of the *bencao* is *T. chebula* (訶子, *hē zǐ*), a different species; *T. arjuna* is a South-Asian tree without a place in the Shennong stratum. No *san pin* 三品 grade is recorded — indeed none can be, because the plant is not attested in the Chinese corpus in the retrieved sources. Within *yang sheng* 養生 it has no standing at all. **(c) absent** — and the SBJ tag itself appears unsupported for this species (see attestation flag).
+
+**Ayurveda (SS).** Arjuna's fixed classical identity, crystallised by Vāgbhaṭa in the *Aṣṭāṅga Hṛdaya*, is *hṛdya* — beneficial and pleasing to the heart — a cardiac-therapeutic epithet worked for *hṛdroga*. This is a *karma* (action) category, not the formal *rasāyana* (rejuvenation) or *vājīkaraṇa* divisions of Suśruta: no classical *rasāyana* assignment for Arjuna is recorded in the sources retrieved, and the popular modern label "cardiac rasāyana" is later framing, not a Suśrutan or Cārakan cultivation status. Its standing is a specific *hṛdya prabhāva* on the heart-muscle, therapeutic rather than a formal life-nourishing grade. **(b) framed:** claimed and prized by the tradition, no *rasāyana* cultivation status attested.
+
+**Practitioner's note.** What a cultivator does with Arjuna is conditioning, not tonifying in any subtle-body sense the sources warrant: the bark is taken — classically in milk (*Arjuna-kṣīra-pāka*) to buffer its dryness — to firm and steady the heart-wall and vasculature under load, the *hṛdya* action Āyurveda names. It is an adjunct to be used under supervision for cardiac indications, never a longevity substance and never a substitute for cardiac care. Across the other tagged traditions there is nothing to cultivate with: the Chinese tag is unsupported, and the Unani use is therapeutic.
+
+---
+
 ### Contraindications
 
 - Drying/astringent — caution in Vāta constitutions, dryness, constipation; classically buffered with milk/ghee.

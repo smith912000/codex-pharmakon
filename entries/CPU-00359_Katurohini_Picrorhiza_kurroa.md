@@ -65,6 +65,18 @@ According to PubMed:
 - **Doṣa action:** *Kapha-Pitta-śāmaka* — pacifies Kapha and Pitta; being light, dry, and cold it can aggravate Vāta if overused or given to a depleted, dry constitution.
 - **Karma (actions):** *Dīpana* (kindles digestion), *pācana* (digests āma), *bhedana* (deobstruent/purgative-leaning), *rocana* (restores appetite), *yakṛt-uttejaka* (liver-stimulant, in the classical reading).
 
+### Cultivation Register
+
+**Avicenna — Unani (CM).** Under the Unani tag Kutki would read as an intensely bitter, cold-dry deobstruent apt for a hot, bilious (*ṣafrāwī*) liver — the kind of cooling bitter a physician reaches for to drain excess heat. The retrieved sources, however, carry no actual Unani material for this species. Unani's governing cultivation idea — the conservation of innate heat (*ḥarārat gharīziyya*) and radical moisture (*ruṭūbat aṣliyya*) as a finite endowment spent over a lifetime — is a longevity frame of the whole regimen, and a cold, drying, subtractive bitter would if anything be a corrective within that regimen, not a substance the tradition grades for building or preserving vitality. No *mufarrih* or *ruh*-strengthening role and no *Canon* attribution is recorded or claimed. Cultivation status: **(c) absent.**
+
+**Ayurveda — Suśruta (SS).** Kaṭurohiṇī stands among the pre-eminent *tikta* drugs of the classical corpus, worked as *dīpana–pācana*, *bhedana* and *yakṛt-uttejaka* to scrape *āma*, drain Pitta and open obstructed hepatobiliary channels in *jvara*, *kāmalā*, *kuṣṭha* and *prameha*. This is an explicitly *subtractive* drug — one that undoes accretion — and no *rasāyana* or *vājīkaraṇa* assignment for *P. kurroa* is traceable to Caraka, Suśruta or Meulenbeld in the sources retrieved; no *ojas*-building action is claimed for it, and the tradition itself files it as a phase-opener taken before restorative work, not as a rejuvenative. Its standing is therefore therapeutic and deobstruent, not a cultivation grade. **(b) framed:** claimed and heavily used, but carrying no sourced rejuvenative status. (*Note: the sattva/rajas/tamas triad is Sāṃkhya and is not invoked here.*)
+
+**Tibetan — rGyud-bzhi (FMT).** Within Sowa Rigpa a bitter cooling root of this kind belongs to the fever- and bile- (*mkhris pa*-) clearing repertoire, but in the Four Tantras' scheme medicine is only the third of four treatment branches and does not reach the root of the three *nyes pa*, which trace to the three poisons and are at root a spiritual condition. No *bcud len* (essence-extraction) role is attributed to this species in the retrieved sources, and Tibetan medicine holds no formal category of "substances for subtle-body practice" under which to grade it. Cultivation status: **(c) absent.**
+
+**Practitioner's note.** Kutki is the clearest possible case of a substance a cultivator takes *to subtract, not to add*. It opens the clearing phase — draining a hot, congested liver-and-gut axis so that whatever restorative practice follows lands on clean ground — and is then stopped; it is bitter, cold, drying and unsuited to a depleted constitution, and none of the three tagged traditions grades it as a longevity or vitality substance. The honest cultivational role here is preparatory: strip the residue that blocks elimination and perception, then move on.
+
+---
+
 ### Contraindications
 
 - **Conservation flag — endangered/threatened species.** *Picrorhiza kurroa* is a slow-growing, over-harvested Himalayan endemic under serious wild-collection pressure. Prefer cultivated, tissue-cultured, or certified-sustainable sources; avoid wild-harvested material. `[USER: verify current CITES/IUCN status]`

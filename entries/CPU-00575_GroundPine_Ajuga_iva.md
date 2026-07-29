@@ -50,6 +50,18 @@ According to PubMed, the antidiabetic reputation of *Ajuga iva* has repeated exp
 - **Ayurveda (by analogy):** predominant *tikta* (bitter) rasa; *virya* warming; *vipaka* pungent; reduces *kapha* and *meda* (fat tissue) — consistent with its lipid- and glucose-lowering use; mapped by property.
 - **Galenic / Unani (attested):** hot and dry, bitter, deobstruent; opener of cold obstructions of liver and joints (the *chamaepitys* class).
 
+### Cultivation Register
+
+**Assyrian (AT).** The pine-scented resolving bitters of the Mesopotamian hills were gathered by the *asû* and read within an aetiology of causal agency — illness classed by the hand that sent it (god, ghost, sworn oath) as much as by humour — so a drug is placed partly by what agency it opposes rather than by any action on a vital constitution. For *Ajuga iva* specifically the identification is not secure, and the standing blocking warning is in force for every Assyrian substance identification and tablet reference; no cultivation status can honestly be asserted. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides gives *chamaepitys* — the ground-pine named for its resinous scent — a straightforward therapeutic account: the decoction in wine for the liver and kidneys, for jaundice, for the expulsion of retained fluids, taken over days for sciatica and chronic ache. He carries no subtle-body system into which a cultivation status could be set; *pneuma* and the Galenic three spirits are later and post-Dioscoridean. What the tradition offers a cultivator here is a discipline of attention — recognising the true ground-pine by its pine scent and low habit, judging the season and provenance of the aerial parts, and guarding against the several plants that share the *chamaepitys* name. That is a real practice of assay, not a vital doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the Galenic-Islamic corpus the ground-pine group (*kamāfītūs*) is classed hot and dry, a deobstruent bitter that cuts thick cold humour and opens the blocked passages of liver and joints. The strongest cultivation idea available in Unani is the conservation of innate heat and radical moisture — the finite vital endowment whose depletion *is* ageing, so that longevity is conservation rather than acquisition — but that is a frame of the whole regimen, not a status the tradition assigns to this warming resolvent, and no *mufarrih* / cardiac-*ruh* role is recorded for it in the retrieved sources. The attestation is therapeutic. **(b) framed:** claimed by the tradition, no cultivation status sourced.
+
+**Practitioner's note.** Nothing here is a substance a cultivator takes to build vitality. Across all three traditions *Ajuga iva* is a bitter, drying, deobstruent worked to cut sluggish cold humour, open obstruction and steady metabolic terrain — the North African *chendgoura* infusion for "sugar," lipids and blood pressure. Its phytoecdysteroid "moulting-hormone" chemistry makes the Purification theme of shedding and renewal an apt symbolic reading, but that is a Kenetica gloss, not a status any of the three source traditions assigns. Use it as a clearing bitter for a defined metabolic job, over a course, and then stop — and never in place of prescribed diabetes therapy.
+
+---
+
 ### Contraindications
 
 - **Diabetes interaction — important:** *Ajuga iva* has demonstrated **hypoglycaemic activity**. Anyone taking insulin or oral hypoglycaemics who uses it risks **additive hypoglycaemia**; blood glucose must be monitored and medical advice sought. Do not replace prescribed diabetes treatment with the herb.

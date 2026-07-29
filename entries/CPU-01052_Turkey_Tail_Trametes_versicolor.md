@@ -102,6 +102,18 @@ The cultural resonance of *Trametes versicolor* extends beyond oncological immun
 
 ---
 
+### Cultivation Register
+
+**Unani — Avicenna (CM).** *Trametes* is claimed here only through the collective Unani class of *fuṭr al-khasab* ("wood mushrooms"), a broad cooling-and-drying category — and the identification of this specific Chinese cloud-fungus with any Unani entry is a modern mapping, not a named classical assignment. The strongest cultivation idea in the corpus, the conservation of innate heat and radical moisture, is a longevity frame of the whole regimen and is not a status the tradition assigns to a wood-mushroom, and no *mufarriḥ* or cardiac-*ruh* role is claimed for it. Where the class is used it is a therapeutic drying/draining agent, not a substance taken to nourish the vital endowment. **(b) framed:** attested only at the class level, species identity modern, no cultivation status sourced.
+
+**Chinese — Bencao (SBJ).** *Yún Zhī* 雲芝 enters the Chinese materia medica prominently through Li Shizhen's *Bencao Gangmu* (1596), a late Ming compilation, where it is read as a *fú zhèng* 扶正 medicine — supporting the correct Qi and dispersing accumulations (*huà jī* 化積). That *fú zhèng* placement is the tradition's own cultivation-adjacent frame, conservational rather than curative in spirit, but it is a functional description, not a *san pin* 三品 grade: no upper/middle/lower-grade classification is recorded for *this* species in the sources retrieved, and while the ancient *zhi* 芝 fungi were broadly esteemed, *Yún Zhī* cannot be securely mapped onto that classical upper-grade set without a named source for the species. Dating the wording to the 1596 compilation, the classic assigns it no grade. **(b) framed**, dated to *Bencao Gangmu* (1596); *fú zhèng* frame stated, no *san pin* grade sourced.
+
+**Tibetan (FMT).** In the Tibetan record the fungus falls under *shing sha* (tree mushrooms), read as cool and slightly bitter and used as *rten 'brel* constitutional support for patients under harsh treatment. But Sowa Rigpa medicine is the third of the four treatment branches — it supports practice and does not reach the root, which is a spiritual condition of the three poisons — and the tradition holds no formal category of "substances for subtle-body practice" into which a cultivation status could be assigned. The *rten 'brel* use is therapeutic and constitutional, not a subtle-body cultivation doctrine. Cultivation status: **(c) absent** — the tradition frames the fungus therapeutically and carries no substance-level cultivation category to place it in.
+
+**Practitioner's note.** For a cultivator this is a *fú zhèng* immune-support fungus, not a longevity elixir: it is worked as a hot-water polysaccharide extract to hold immune resilience through hard training blocks and to rebuild function after illness or antibiotics, then eased off. None of the three traditions assigns it a graded cultivation status — the honest reading across all of them is constitutional support taken for a defined purpose. Note also that this is a bracket fungus misfiled in the plant volume (see attestation flag); its register is written on its own fungal terms.
+
+---
+
 ### Contraindications
 
 - **Immunosuppressant therapy:** The primary absolute contraindication; PSK and PSP are potent immunostimulants that will antagonise therapeutic immunosuppression in organ transplant recipients (tacrolimus, cyclosporin, azathioprine) and in autoimmune diseases managed with immunosuppressants (methotrexate, mycophenolate); strict avoidance without specialist oncology or immunology supervision

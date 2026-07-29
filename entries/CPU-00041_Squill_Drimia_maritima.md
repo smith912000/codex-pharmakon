@@ -58,6 +58,18 @@ Codex policy: mechanism stated securely; named citations to be supplied and veri
 - **Folk-Mediterranean mapping:** the dropsy and chest remedy par excellence; also apotropaic (door-charm).
 - **Kenetica Qi/Shen tier:** ◉ **Qi** for the forceful expectorant/diuretic "moving water and phlegm" action, with a ☿ **Shen** ascription for the direct, life-or-death action on the heartbeat — squill reaches into the cardiac/vital register, which is why it is specialist.
 
+### Cultivation Register
+
+**Egyptian (EP).** Squill sits in the Egyptian material as a chest-and-water remedy, and the Ebers corpus is indication-organised — it records what was given for a complaint, not what the bulb does to a person's *ka*, *ib* or vital constitution. No operative *heka* recitation is attested for squill in the retrieved sources, and its identity within the Egyptian plant-names is itself a modern hypothesis rather than a secured reading. There is therefore no cultivation status to state here: the tradition offers a therapeutic use, not a doctrine of what the bulb builds in the person. Cultivation status: **(c) absent**.
+
+**Greek — Dioscorides (DMM).** *De Materia Medica* Book II gives squill a full therapeutic account — expectorant, diuretic, "incising" of viscid humours — and lays great weight on preparation: roasting the acrid bulb, drying it, compounding it as oxymel and vinegar of squill to temper its strength and standardise a small dose. Dioscorides carries no subtle-body system into which a cultivation status could be assigned; what he offers a cultivator is exactly this discipline of attention — the assay of a dangerous plant, the tempering of its acridity, the judgement of dose. The Pythagorean door-charm and apotropaic reputation he and others record is a use noted at arm's length, not a vital-body doctrine assigned to the drug. **(c) absent** as to cultivation status; the real inheritance is the craft of preparation.
+
+**Unani — Avicenna (CM).** Squill (*isqīl* / *'unṣul*) is treated as a hot and dry, forceful acrid drug — an expectorant, diuretic and deobstruent that cuts thick humours. The strongest cultivation idea in the Unani corpus, the conservation of innate heat and radical moisture, is a longevity frame of the whole regimen and is not a status the tradition assigns to a sharp evacuant of this kind; no *mufarrih* or cardiac-*ruh* role is claimed for it in the retrieved sources. Its standing here is therapeutic, and pointedly a drug to be used sparingly and stopped, not a substance taken to nourish the vital endowment. **(b) framed:** attested therapeutically, no cultivation status sourced.
+
+**Practitioner's note.** Nothing here is a substance a cultivator takes to build vitality — and the traditions themselves say as much by hedging it with preparation and warning. Squill is specialist cardiac-glycoside material with a narrow margin: across the Egyptian, Greek and Unani records it is a forceful expectorant and diuretic for defined, serious complaints, carefully tempered before use and never taken long. The cultivator's discipline with squill is Dioscorides' discipline of attention — knowing what the bulb is, respecting the poison in the medicine, and leaving the dose to a qualified hand.
+
+---
+
 ### Contraindications
 
 - **Cardiac glycoside toxicity — absolute caution.** Narrow margin; arrhythmogenic in excess; contraindicated alongside digitalis/other cardiac glycosides and where their toxicity is a risk (e.g. hypokalaemia, which potentiates glycoside toxicity).

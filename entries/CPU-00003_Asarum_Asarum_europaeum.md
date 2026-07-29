@@ -63,6 +63,18 @@ Given the species' obscurity and the danger of overstating efficacy, this sectio
 - **CM (by analogy):** Compares to the strongly dispersing, orifice-opening aromatics; an extreme ascending/dispersing action. (*Asarum* species are used in Chinese medicine — *xi xin*, *Asarum heterotropoides/sieboldii* — but those are different species with their own strict dose limits; do not conflate with *A. europaeum*.)
 - **Kenetica tier:** ◉ Extreme dispersing aromatic — restricted. Marks the toxic outer boundary of the nard family.
 
+### Cultivation Register
+
+**Assyrian (AT).** The retrieved profile carries no Assyrian material for *Asarum europaeum* — no tablet reference, no identification in the cuneiform corpus, no causal-agency classification. The tradition's place on the tag line is not borne out by any sourced Assyrian use of this species here. Under the standing blocking warning that governs Assyrian substance identifications, and with nothing to frame in the first place, no cultivation status is asserted. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides places *asaron* in Book I among the aromatic roots near the nards, describing its creeping habit and jointed, intensely aromatic rootstock, and the classical pharmacy worked it as a drastic evacuant — an emetic taken in, a sternutatory errhine snuffed to "purge the head," a diuretic and emmenagogue in the hot-and-dry Galenic frame. None of this is a subtle-body doctrine; Dioscorides has no such system and one must not be manufactured for him. What the tradition offers a cultivator is his discipline of attention — placing this small ground-nard correctly among the aromatic roots, judging the rhizome by its peppery, camphoraceous pungency, guarding against the adulteration for which asarum itself was later notorious. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Asarabacca enters the Unani frame as a hot-and-dry dispersing aromatic — an evacuant and deobstruent of the head and kidneys — though the profile marks the classification as reached partly by analogy to the strongly orifice-opening aromatics rather than by a sourced *Canon* passage for this species. The corpus's central cultivation idea, the conservation of innate heat and radical moisture, is a frame for the whole regimen and is not extended to this drastic, dispersing evacuant; no *mufarrih* or vital-strengthening standing is claimed, and given the plant's genotoxic asarone content none would be appropriate. Its attested standing is therapeutic and evacuant, not a longevity status. **(b) framed:** claimed by the tradition, no cultivation status sourced.
+
+**Practitioner's note.** A cultivator does nothing with this plant. It is filed as a documented historical aromatic and a cautionary entry, not a remedy: its active principle, β-asarone, is genotoxic and hepatocarcinogenic in animal studies, and Kenetica assigns it no recommended internal dose. Where its traditional errhine and emetic actions were once "cultivational" in the loose sense of clearing and unloading the head, that role is obsolete and superseded by safer plants. The honest instruction is abstention.
+
+---
+
 ### Contraindications
 
 - **Genotoxic / carcinogenic constituent:** β-asarone is genotoxic and hepatocarcinogenic in animal studies — this alone restricts internal use. **[SPECIALIST ONLY]**

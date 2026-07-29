@@ -89,6 +89,18 @@ Standardised extract per manufacturer guidance, typically equivalent to several 
 
 ---
 
+### Cultivation Register
+
+**Unani — Avicenna (CM).** No cultivation status is attested for *Asparagus cochinchinensis* in the Unani corpus in the sources retrieved. The Unani drug *halyūn* is the garden asparagus, *Asparagus officinalis* (Codex I_019), a Mediterranean and West-Asian species; this East-Asian tuber is a distinct plant that the Graeco-Arabic tradition did not know as such, so the innate-heat / radical-moisture conservation frame that is Unani's strongest cultivation idea cannot be attached to it here, and no *mufarrih* or cardiac-*ruh* role is claimed. Cultivation status: **(c) absent** — the CM tag appears to have travelled from the culinary *halyūn*, a different species.
+
+**Chinese — Shennong / Bencao (SBJ).** Tian Men Dong 天門冬 is placed in the upper grade (上品, *shang pin*) of the *Shennong Bencao Jing*, the grade of substances taken long-term to nourish life rather than to attack disease. The classic credits it, with sustained use, with "lightening the body" (輕身, *qing shen* — an effect-category of the cultivation register, not a pharmacological or weight-loss claim) and benefiting the *qi* 氣, alongside dispelling wind-damp obstruction. This is a genuine *san pin* cultivation status, sourced to the Han primary text itself and consistent across the later record (Li Shizhen's *Bencao Gangmu*, 1596, retains the sweet-bitter-very-cold, Lung-Kidney-moistening account but the grade belongs to the earlier classic). Within *yang sheng* 養生 — conservational, not curative — it is a fluid-restoring tonic of the upper grade. Cultivation status: **(a) attested**, cited to the *Shennong Bencao Jing* upper class (上品).
+
+**Ayurveda (SS).** No *rasayana* or *vajikarana* status can be attested for *Asparagus cochinchinensis* itself in the sources retrieved. The great Ayurvedic *rasayana* of this genus is *shatavari*, *Asparagus racemosus* — a distinct species with its own classical standing in Charaka and Sushruta — and its rejuvenative grade may not be transferred across to this Chinese tuber, which the Sanskrit materia medica does not name. The functional parallel noted in the profile is a resemblance of action, not a shared cultivation assignment. Cultivation status: **(c) absent** for this species — the *rasayana* standing belongs to *A. racemosus*, not to *A. cochinchinensis*.
+
+**Practitioner's note.** In the Chinese register this is a true cultivation substance: an upper-grade Yin-fluid tonic taken over sustained courses to restore the dried, overheated, low-recovery constitution — the parched throat, the dry unproductive cough, the night sweats and thirst of chronic depletion. That standing is Chinese and species-specific; it does not carry into Unani (which knew a different asparagus) or into Ayurveda (whose rejuvenator is shatavari, another species). A cultivator uses Tian Men Dong as the classic intends — a slow, moistening, conservational tonic — and does not borrow the reputations of its cousins.
+
+---
+
 ### Contraindications
 
 - **Spleen/Stomach cold-deficiency with diarrhoea:** as a cold, moistening herb, it can worsen loose stools, poor appetite, and cold-type digestive weakness; combine with warming, drying herbs or avoid in these patterns

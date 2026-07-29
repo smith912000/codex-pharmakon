@@ -126,6 +126,18 @@ One application that Kenetica specifically does NOT include: use during active p
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** The entry's own Origin section is explicit that the Egyptian corpus does not use *Hypericum perforatum* — the plant's range is temperate Europe and Western Asia, and the EP tag stands only for a methodological analogy (the sun-macerated *oleum* process resembling Egyptian solar oil-making), not for any documented Egyptian use of this species. With no attestation there is no *heka*, no *ka/ib* framing and no cultivation status to record: the connection is a modern structural comparison, not an Egyptian assignment. Cultivation status: **(c) absent** (and the tag itself is a symbolic, not an attested, one — see the attestation flag).
+
+**Greek — Dioscorides (DMM).** *De Materia Medica* gives *hyperikon* a therapeutic account — bile-expelling, diuretic, and a topical wound herb — and Dioscorides carries no subtle-body system into which a cultivation status could be set. The plant's famous name (*hyper-eikon*, hung "above the icon") and its apotropaic, demon-averting reputation are uses recorded in and around the classical tradition rather than a vital-body doctrine assigned to the drug; recording an amuletic use is not endorsing a cultivation status. What the tradition offers a cultivator is the discipline of attention — the midsummer gathering at peak flower, the assay of the red oil as it bleeds under the sun, the judgement of a good preparation. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** *Hypericum* (*hayūfārīqūn* / the *Hadariq* group) is treated as warm and dry, a nervine used for nerve pain (*waja' al-a'ṣāb*) and for dispelling melancholy — a therapeutic, humoral placement. The strongest cultivation idea in the Unani corpus, the conservation of innate heat and radical moisture, is a longevity frame of the whole regimen and is not a status the tradition assigns to this drug; and while a melancholy-dispelling, spirit-brightening action sits close to the gladdening (*mufarriḥ*) drugs, that category belongs to the *Kitāb al-Adwiya al-Qalbiyya*, not the *Canon*, and no sourced *mufarriḥ* status for this plant is asserted here. Its standing is therapeutic. **(b) framed:** attested for nerve and melancholy indications, no cultivation status sourced.
+
+**Practitioner's note.** For a cultivator this is a nervine worked in defined phases — a mood-and-nerve restorative taken as a course and then stopped, not a longevity substance built into a daily regimen. The traditions frame it as a remedy for melancholy, nerve pain and wounds, and the Codex uses it the same way, in `[RESET]` and `[CYCLE-OFF]` windows. The one hard discipline the plant demands is pharmacological, not spiritual: its hyperforin is the most significant CYP3A4/Pgp inducer in herbal medicine, so the honest cultivator's rule is to keep it well away from any active drug stack.
+
+---
+
 ### Contraindications
 
 **THE CRITICAL DRUG INTERACTION — CYP3A4 and P-glycoprotein induction (absolute contraindication with numerous pharmaceuticals):**

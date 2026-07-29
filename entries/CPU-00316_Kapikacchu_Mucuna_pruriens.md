@@ -96,6 +96,18 @@ Govindaiah HP, Seethalakshmi S, Rao BS (2002) "Effect of Mucuna pruriens on some
 
 ---
 
+### Cultivation Register
+
+**Avicenna / Unani (CM).** The entry carries a CM tag, but no Unani account of this substance is present or retrievable. *Mucuna pruriens* is a tropical Indian, African and East Asian legume outside the Greco-Arabic materia medica; Ibn Sina's corpus does not treat it, and the "CM preparation" note attached to the decoction in this profile refers loosely to Chinese practice rather than to any Unani source. There is therefore no *ruh*, no innate-heat or radical-moisture framing, and no *mufarrih* standing to report — and none may be invented. Cultivation status: **(c) absent**; the tag itself appears unattested and is flagged below.
+
+**Chinese — Bencao (SBJ).** *Lí Dòu* 黧豆, the "dark bean," is used in the Chinese materia medica as a warming agent entering the Kidney (*Shen* 腎) and Liver (*Gan* 肝) channels, worked for Kidney-*yang* insufficiency, cold lumbar weakness and trembling disorders. It is not a substance of the classical *Shennong Bencao Jing* stratum, and no *san pin* 三品 grade — upper, middle or lower — is recorded for *Lí Dòu* in the sources retrieved; it survives as a folk and later-materia-medica item rather than a graded one. Within *yang sheng* 養生, the conservational project of nourishing life, it therefore carries a therapeutic Kidney-tonifying role but no sourced cultivation grade. **(b) framed:** attested in use, no *san pin* status attested.
+
+**Ayurveda (SS).** Here the tradition does assign a formal cultivation status. Kapikacchu (Sanskrit *Ātmaguptā* / *Kapikacchū*) is classed among the *vājīkaraṇa* substances — the Sushrutan division governing generative vitality — and specifically as *śukrala* / *vṛṣya*, a seminal-tissue and *śukra-dhātu* tonic, in the classical nibandhas: the *Suśruta Saṃhitā* treats it within its *vājīkaraṇa* material (Bhishagratna trans.) and the *Caraka Saṃhitā* lists it among the *bṛṃhaṇīya* (bulk-building) and *śukrala* dravyas. This is one of Sushrutan Ayurveda's two formal cultivation disciplines (*rasāyana* and *vājīkaraṇa*), and the seed sits inside it by named attestation, not by extrapolation. It is not, however, a *rasāyana* (rejuvenative) substance in these sources — its formal standing is specifically generative/*vājīkaraṇa*, worked on the *śukra*, *māṃsa* and *majjā dhātus*. Cultivation status: **(a) attested** — a formal *vājīkaraṇa*/*śukrala* dravya of the classical Ayurvedic corpus.
+
+**Practitioner's note.** In the tradition that actually cultivates it, Kapikacchu is a generative tonic, not a longevity or *rasāyana* daily-nourisher: the classical use is a defined *vājīkaraṇa* course — roasted seed with a lipid carrier (milk, ghee), often alongside Ashwagandha — taken during a period of reproductive and anabolic building, then stopped. The Chinese use points the same way (Kidney-*yang*, generative insufficiency) but assigns no grade, and there is nothing in the Unani register to work with at all. A cultivator treats this as a *build-phase* generative agent on a bounded cycle, respecting the receptor-downregulation and dopaminergic cautions in the dosing section — not as a substance taken indefinitely to nourish life.
+
+---
+
 ### Contraindications
 
 - **Dopaminergic medication interactions (critical):** Direct pharmacological conflict with antipsychotic medications that block dopamine receptors (haloperidol, risperidone, clozapine); Mucuna will partially counteract their therapeutic effect; co-administration with pharmaceutical levodopa requires dose adjustment with neurologist guidance to avoid dopaminergic excess (nausea, dyskinesia, psychosis risk)

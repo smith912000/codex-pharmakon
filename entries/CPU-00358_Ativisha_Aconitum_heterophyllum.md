@@ -60,6 +60,18 @@ According to PubMed, the evidence is **preclinical/review-level and consistent w
 - **Karma (actions):** Dīpana (digestive kindling), Pācana (digests āma), Grāhī/Saṃgrāhī (absorbent, antidiarrhoeal), Jvaraghna (antipyretic), Kṛmighna (anthelmintic), Kaphaghna (expectorant), Balya/Rasāyana (restorative in convalescence)
 - **Gaṇa membership (Suśruta):** grouped with dīpana/grāhī antidiarrhoeal and antipyretic drugs; central to paediatric (bāla) formulations
 
+### Cultivation Register
+
+**Avicenna — Unani (CM).** Under the Unani tag Ativiṣā (Atees) would present as a bitter, warming digestive and antipyretic astringent — a corrective for a cold, flux-prone stomach — but the retrieved sources carry no actual Unani material for this species. Unani's strongest cultivation idea, the lifelong conservation of innate heat (*ḥarārat gharīziyya*) and radical moisture (*ruṭūbat aṣliyya*) — a finite vital endowment whose depletion *is* ageing — is a frame of the whole regimen, not a status the tradition assigns to this drug; no *mufarrih* or cardiac-*ruh*-strengthening role is recorded for it, and no *Canon* chapter attribution is available or claimed. Cultivation status: **(c) absent.**
+
+**Ayurveda — Suśruta (SS).** Ativiṣā sits in the dīpana–pācana–grāhī class, worked to kindle digestion, digest *āma* and check *atisāra* while remaining gentle enough for the fragile paediatric constitution. It carries a *balya* (strengthening) and convalescent-restorative reputation, and this entry lists "Balya/Rasāyana" among its *karma* — but no formal *rasāyana* or *vājīkaraṇa* assignment for *A. heterophyllum* is traceable to Caraka, Suśruta or Meulenbeld in the sources retrieved, and no specific *ojas*-building action is attested for it. Its classical standing is therapeutic, digestive and paediatric — a recovery-phase corrective — not a formal rejuvenative cultivation status. **(b) framed:** claimed and used, but with no sourced *rasāyana* grade. (*Note: rasa/rajas/tamas are Sāṃkhya categories and are not invoked here.*)
+
+**Tibetan — rGyud-bzhi (FMT).** The FMT tag places the white-aconite material within Sowa Rigpa's fever-and-digestive repertoire, but medicine is only the third of the four branches of treatment: it supports practice and does not reach the root of the three *nyes pa* (rlung / mkhris pa / bad kan), which are themselves derived from the three poisons and are at root a spiritual condition. No *bcud len* (essence-extraction) role is attributed to this species in the retrieved sources, and Tibetan medicine carries no formal category of "substances for subtle-body practice" under which to file it. Cultivation status: **(c) absent.**
+
+**Practitioner's note.** Nothing here is a longevity or subtle-body substance. Across all three tagged traditions Ativiṣā is worked as a recovery-phase digestive astringent — kindling a depleted gut, checking flux, settling fever — taken for a defined convalescent course and then stopped. The one genuinely cultivational lesson it carries is *viveka*, discrimination: the whole of the art is identifying that this single non-toxic member sits inside a lethal genus and not mistaking it for its poisonous look-alikes. That is a discipline of attention exercised before use, not a vitality a cultivator takes the plant to acquire.
+
+---
+
 ### Contraindications
 
 - **⚠️ Misidentification is the primary hazard:** toxic aconites (*A. napellus*, *A. ferox*/Vatsanābha) are potentially lethal. Use only verified, correctly identified *A. heterophyllum* from a reputable source. When in doubt, do not use.

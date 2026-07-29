@@ -54,6 +54,18 @@ According to PubMed, amarogentin — Chirata's marker glycoside — has a genuin
 - **Karma (actions):** Jvaraghna (antipyretic), Dīpana-Pācana (kindles digestion, digests āma), Yakṛt-uttejaka (hepatostimulant), Raktaśodhaka (blood-purifying), Kuṣṭhaghna (dermatoses), Kṛmighna (anthelmintic), Pramehaghna (anti-prameha), Tṛṣṇāhara (relieves thirst/burning), Dāhapraśamana (relieves burning-heat).
 - **Gaṇa membership:** A cornerstone of the classical *tikta-skandha* (bitter group) and the jvaraghna drugs; standard in fever, kāmalā, and pitta-rakta formulations across Suśruta and Caraka.
 
+### Cultivation Register
+
+**Unani — Avicenna (CM).** Chirata enters the Unani materia medica as an intensely bitter, cooling febrifuge — cold and dry in temperament, a *muhallil* and *musaffī-i-dam* (blood-cleanser) worked against bilious fevers and hepatic heat. The corpus's genuine cultivation idea is the conservation of *ḥarārat gharīzīya* (innate heat) and *raṭūbat aṣlīya* (radical moisture) across the regimen — a frame of the whole life-course, not a status the tradition pins to this drug. Chirata carries no *mufarriḥ* (gladdening / cardiac-*ruh*-strengthening) role in the retrieved sources, and no *Canon* chapter assigns it a longevity standing. Its place is therapeutic — a bitter to clear heat and open the liver — not conservational. **(b) framed:** attested and used, no cultivation status sourced.
+
+**Ayurveda (SS).** Kirātatikta is a paradigm *śodhana* / *laṅghana* (purifying, reducing) drug: a *tikta-rasa*, *śīta-vīrya* bitter whose whole action is *apatarpaṇa* — depleting excess, burning *āma*, cooling *pitta*. This places it at the opposite pole from the *bṛṃhaṇa* (building) drugs, and no *rasāyana* (rejuvenation) or *vājīkaraṇa* (generative-vitality) assignment is recorded for it in the sources retrieved; the *Suśruta* and *Caraka* file it among the *jvaraghna* and *tikta-skandha*, a therapeutic and dietetic standing, not a formal cultivation category that builds *ojas*. If anything the tradition's own logic marks it as a drug that reduces rather than nourishes the *dhātus*, to be used in course and then withdrawn. **(b) framed:** claimed by the tradition, no *rasāyana* cultivation status attested.
+
+**Tibetan (FMT).** As *tig-ta*, chirata is a well-known bitter of Sowa Rigpa, deployed against *tsha ba* (heat) disorders and *mkhris pa* (bile) — bitterness that cools and drains. Tibetan medicine is the third of the four treatment branches and supports, rather than reaches, the spiritual root of the three *nyes pa*; and it maintains no formal category of "substances for subtle-body practice" into which a bitter febrifuge could be placed. No *bcud len* (essence-extraction) role is attested for *tig-ta* in the retrieved sources. Its standing here is therapeutic — a heat-clearing bitter — with no cultivation status recorded. **(b) framed.**
+
+**Practitioner's note.** A cultivator does not take chirata to build anything. In every tradition that carries it — Unani, Ayurveda, Tibetan — it is a reducing, heat-clearing, *āma*-burning bitter, taken as a defined crisis course against fever, foulness and hepatic heat, then stopped. Its intensity and cold potency are the warning: this is the fast, not the daily diet. The honest cultivation answer is abstentive — you reach for it to clear, and you put it down once cleared.
+
+---
+
 ### Contraindications
 
 - Cooling, light, dry qualities: caution in Vāta-predominant constitutions and dryness disorders; may aggravate Vāta if overused.

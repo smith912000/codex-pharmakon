@@ -111,6 +111,18 @@ Wang BQ (2010) "Salvia miltiorrhiza: Chemical and pharmacological review of a me
 
 ---
 
+### Cultivation Register
+
+**Avicenna / Unani (CM).** *Salvia miltiorrhiza* is an East Asian root that does not enter the Unani materia medica: it is absent from the *Canon* and the Arabic-Persian pharmacological corpus, so no *mizaj* (temperament in degrees), no role among the *mufarrih* cardiac-*ruh* gladdeners, and no place within the conservation of innate heat and radical moisture can be attested for it. (The extensive Chinese material recorded above under a "CM" heading is Classical Chinese Medicine, not Avicennian medicine — a coding slip flagged separately; on the canonical registry CM is Unani, and for Unani this substance is simply unknown.) Cultivation status: **(c) absent.**
+
+**Shennong / classical Chinese (SBJ).** Here the tradition does assign a cultivation status. Dān Shēn (丹参) is recorded in the *Shennong Bencao Jing* (神農本草經, Eastern Han) in the **upper grade — 上品 (*shàng pǐn*)** — the grade of drugs held to be without toxicity and therefore suitable for prolonged use to nourish life (*yang ming* 養命), the top of the classic's three-tier hierarchy (上/中/下). That is a genuine *san pin* cultivation status for this species, not merely a therapeutic indication. The later elaboration — Li Shizhen's *Bencao Gangmu* (1596) verdict "一味丹参，功同四物" (one Dān Shēn equals the Four-Substance Decoction) and his tally of heart disorders — is a Ming-dynasty commentary layered on top of the classic and is dated as such; the upper-grade assignment itself belongs to the Han classic. Cultivation status: **(a) attested** — upper grade (上品), *Shennong Bencao Jing*.
+
+**Tibetan / Sowa Rigpa (FMT).** The herb is claimed within Tibetan practice as a cooling, blood-purifying medicine for *khrag nad* (blood disorders) and *snying nad* (heart disease), subsumed under the *gNyer-pa* heat-clearing class and referenced in the *Vaidūrya sNgon-po* (1688) tradition of red-rooted sage-type plants. But Sowa Rigpa records no formal "substances for subtle-body cultivation" category — medicine is the third of the four treatment branches, supporting practice rather than reaching the root of the three poisons — and the Tibetan sources identify the plant only at the loose "red-rooted sage-type" level, not securely this species. It therefore carries a therapeutic frame with no cultivation status recorded. Cultivation status: **(b) framed.**
+
+**Practitioner's note.** The Chinese classic grades Dān Shēn an upper-grade, long-life drug, and that is the one real cultivation warrant here — but it is a warrant to be read carefully, not casually. In Kenetica the root is worked as a targeted blood-mover, cardioprotectant and CYCLE-OFF hepatoprotectant across defined phases, not sipped daily as a longevity tonic; its potent antiplatelet action and CYP/P-glycoprotein drug interactions make unsupervised long-term self-dosing unwise despite the 上品 label. Take it for the phase and the job the protocol names, respect the interaction profile, and do not treat the classical grade as a licence for indefinite use.
+
+---
+
 ### Contraindications
 
 - **MAJOR — Anticoagulants and antiplatelets:** DSS's TXA₂/PGI₂ mechanism combined with salvianolic acid antiplatelet activity produces additive anticoagulant effect with warfarin, heparin, rivaroxaban, apixaban, clopidogrel, and aspirin. Clinical case reports document INR elevation to 3× therapeutic range in patients initiating Dān Shēn on stable warfarin. Absolute contraindication without specialist supervision and serial INR monitoring.

@@ -53,6 +53,18 @@ Attribution: findings from PubMed.
 - **Dantian correspondence:** Middle Dantian — Stomach/Lung fluids.
 - **Ayurvedic/Tibetan:** not reliably attested for this species — `[USER: verify]` before cross-tradition claims.
 
+### Cultivation Register
+
+**Greek — Dioscorides (DMM).** The plant answering to Dioscorides' *polygonaton* is handled as plain therapeutic matter, and the classical tradition carries no subtle-body doctrine into which a cultivation status for this jointed rhizome could be set. What it offers a cultivator is the Dioscoridean discipline of attention — correct identification of the joint-marked rhizome, the season of gathering, and the guard against substitution with neighbouring species — a genuine practice of provenance and sensory assay rather than a vital-body teaching. Cultivation status: **(c) absent**; the identification with *P. odoratum* is itself the modern hypothesis, not a status the text assigns.
+
+**Unani — Avicenna (CM).** Worked as a moistening, cooling material within the humoral scheme, the rhizome sits inside the Unani frame of regimen (*tadbīr*) and the conservation of innate heat and radical moisture — the corpus's strongest longevity idea, but one that governs the whole way of living, not a status the tradition confers on this single drug. No *mufarrih* or cardiac-*ruh* role is claimed for it, and no *Canon* chapter is cited. Attested as materia medica without a recorded cultivation status. **(b) framed.**
+
+**Chinese — Shennong / Bencao (SBJ).** *Yù Zhú* 玉竹 (older names *Wěi Ruí* 葳蕤 / *Wēi Ruí*, and the contested *Nǚwēi* 女萎) is a canonical fluid-generating, Yin-moistening tonic, rated "medicinal and edible" and taken over long courses — the profile of a conserving *yang sheng* 養生 substance rather than a disease-attacking one. A top-grade (上品) placement is often reported for the genus, but for this species the *Shennong Bencao Jing* record stands under the name *Nüwei*, which textual scholarship on the classical nomenclature ties variously to *Clematis apiifolia* rather than cleanly to *Polygonatum odoratum*; because the grade cannot be fixed to this species without inheriting that unstable identification, no *san pin* 三品 grade is asserted here. Its standing is therefore a conserving Yin-tonic frame, sourced as therapeutic and dietetic rather than a graded cultivation status. **(b) framed.**
+
+**Practitioner's note.** This is a moistening, conserving herb, not a heroic longevity drug: a cultivator uses it food-grade and over time to keep Lung and Stomach tissues supple under heat and heavy output — the "jade bamboo" reading of supple endurance. That long-course, edible character is the real cultivation signal, and it does its work quietly. Do not confuse it with *Huáng Jīng* (*P. sibiricum*), the genus's more famous longevity rhizome carrying a stronger tonic reputation.
+
+---
+
 ### Contraindications
 
 - **Damp/phlegm and Spleen-deficiency with loose stools:** the moistening, sweet, cloying tendency is inappropriate where there is internal dampness or weak digestion with diarrhoea.
