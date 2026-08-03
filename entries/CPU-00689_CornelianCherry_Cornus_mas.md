@@ -56,6 +56,18 @@ Based on articles retrieved from PubMed:
 - **Galenic / Unani:** Cold and dry (2nd degree); astringent (*qabid*), styptic; stomach-strengthening, bowel-binding, cooling in hot dyscrasias.
 - **Ayurvedic analogue (not a classical Ayurvedic drug):** by *rasa* would read as *amla–kashaya* (sour–astringent), *shita virya* (cooling potency) — used here descriptively, not as an attested Ayurvedic citation.
 
+### Cultivation Register
+
+**Assyrian (AT).** The cornel belongs to the tree-and-fruit vocabulary of the cuneiform materia medica, where intensely sour, tannin-rich, drying fruits were catalogued for "loosening of the bowels" and for fluxes — the drupe fitting the class of bowel-binding fruits prescribed against diarrhoeal and haemorrhagic complaints in a system that read such illness by its causal agency and treated it by drying and binding. But the standing blocking warning is in force for every Assyrian substance identification and tablet reference, and the attestation here is one of therapeutic use for a flux, not a status assigned to the fruit for tending a person's vitality. No cultivation status is claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides treats the cornel (*kraneia*) among the astringent, wound-drying plants, the fruit and its decoction held to "bind the belly" — the classic Greek indication for an astringent — with the exceptionally dense, close-grained wood read as a further signature of a drying, consolidating nature. He carries no subtle-body doctrine into which a cultivation status could be set; what the tradition offers a cultivator is his discipline of attention — reading the plant's signatures (the extreme sourness, the tannin pucker, the hardest wood of any European tree) as one coherent message, and gathering and assaying the fruit at its true ripeness. That is a practice of provenance and sensory judgement, not a doctrine of the vital body. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the *Qanun* tradition cornelian cherry sits among the cold, dry, astringent (*qabid*) fruits used to strengthen a weak or over-relaxed stomach, check diarrhoea and bilious flux, and temper hot dyscrasias — the dried fruit and its *sharbat* still carried as a stomachic and cooling antidiarrhoeal. The corpus's strongest cultivation idea is the conservation of innate heat and radical moisture, the finite vital endowment whose depletion *is* ageing; but that is a longevity frame of the whole regimen, not a status the tradition assigns to a cooling astringent fruit, and no *mufarrih* (gladdening, *ruh*-strengthening) role is claimed for it. "Strengthening the stomach" here names a digestive, humoral action on an organ, not a cultivation of the vital substrate. The fruit is attested therapeutically with no cultivation status recorded. **(b) framed.**
+
+**Practitioner's note.** A cultivator uses cornelian cherry to consolidate, not to build — a cooling, sour, drying corrective taken as syrup, decoction, or dried fruit to tighten a loosened gut, steady a relaxed stomach, and (on the measured pharmacology) blunt a post-prandial glucose surge alongside a heavy meal. It is not a longevity substance in any of the three traditions; its standing everywhere is that of a binding therapeutic reached for when the system needs steadying and set down once it is steadied. Watch the astringency in the constipated and the glucose-lowering action alongside antidiabetic drugs, and keep it to the job it does well.
+
+---
+
 ### Contraindications
 
 - **Constipation / atonic bowel:** the astringent, binding action can aggravate a sluggish or dry constipated state.

@@ -55,6 +55,18 @@ According to PubMed, the modern research literature on *Cyperus papyrus* is over
 - **Ayurveda (peripheral):** related sedges (*musta*, *C. rotundus*) are classical; *C. papyrus* itself is not a defined Ayurvedic dravya.
 - **Galenic/Unani:** cool and drying by inference from related reeds; charred material regarded as absorbent and mildly astringent for surface use.
 
+### Cultivation Register
+
+**Egyptian (EP).** Papyrus is a genuine and central Egyptian material — but its standing is that of substrate and symbol, not of a drug worked on the person's vital constitution. The Ebers corpus is indication-organised: it records what was done for a complaint, and here the reed's medical role is largely displaced by its role as the sheet the corpus is written upon. The upward-fanning umbel was a hieroglyph of Lower Egypt and of thriving itself (*wadj*, "to be green, to flourish"), and the plant carries real cultural and emblematic weight; but that is the standing of the reed as sacred/symbolic matter, not a *heka*-bearing cultivation status assigned to the pith, ash or rhizome as something ingested to build the *ka*, *ib* or vital endowment. No operative recitation and no deity attribution for the drug is attested in the retrieved sources. **(c) absent** — the symbolic weight is real, but it belongs to the reed-as-material and to writing, not to a cultivation status for a taken substance.
+
+**Assyrian (AT).** The Mesopotamian repertory used reeds and sedges (*Cyperus* and allies) broadly as drying, absorbent materials in dressings and in ritual, but the association for papyrus sits at the level of the reed/sedge material class, not a securely isolated monograph, and the standing blocking warning applies to every Assyrian substance identification and tablet reference. No cultivation status can be asserted. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *De Materia Medica* discusses *papyros* chiefly as papermaking material and records only modest surface uses — the charred paper as a mild, drying, astringent dressing to check spreading sores, its ash valued for absorbency. Dioscorides carries no subtle-body system into which a cultivation status could be entered; what the tradition offers a cultivator is his discipline of attention — the manufacture and quality of the sheet, the assay of the ash, the drying "staying" action judged by the senses. That is a practice of material judgement, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Practitioner's note.** There is nothing here to take for vitality. Across all three traditions papyrus is worked externally and materially — a charred, absorbent, mildly astringent ash for surface sores; a starchy pith food; above all the substrate on which the written pharmacopoeia survives. Its true "medicine," in the Codex's own reading, is preservation: it is the reed that carried the record of every other plant. A cultivator uses better-evidenced drying agents for an actual wound and keeps papyrus for what it genuinely is — the material foundation of the tradition, not a substance ingested to build the person.
+
+---
+
 ### Contraindications
 
 - **General caution:** No established internal medicinal use and therefore no established safety profile for therapeutic doses. Do not ingest as a remedy.

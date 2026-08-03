@@ -57,6 +57,18 @@ According to PubMed, direct clinical pharmacology of *Cynoglossum officinale* it
 - **Ayurveda (peripheral):** cooling, binding, mucilaginous surface remedy; no established classical *rasa/virya* profile — assimilation is marginal.
 - **Galenic/Unani (Avicenna):** cold and dry in the second degree; astringent, emollient, mildly narcotic.
 
+### Cultivation Register
+
+**Assyrian (AT).** In the cuneiform medical corpus the *asû* and *āšipu* worked a large repertory of downy, mucilaginous wound-herbs as poultices and dressings, and illness was classified in part by causal agency — the hand of a god, a ghost, a broken oath — so that a material was reckoned partly by what agency it was set against. Hound's-tongue-type Boraginaceae belong to this general topical-emollient class, but the identification here is at the level of plant-class, not a single securely read line, and the standing blocking warning is in force for every Assyrian substance identification, deity attribution and tablet reference. No cultivation status can be responsibly asserted. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *De Materia Medica* records *kynoglosson* as a topical emollient — the bruised leaf and root for burns, ulcers and inflammations, with a reputation for soothing coughs and fluxes. Dioscorides carries no subtle-body or vital-constitution system into which such a status could be entered; what the tradition offers a cultivator is instead his discipline of attention — the tongue-shaped downy leaf as the identifying mark, the saliva-like mucilage of the crushed leaf as sensory assay, the guard against confusing it with kin. That is a real practice of recognition and provenance, not a cultivation doctrine, and it is sharpened rather than softened here by the plant's hidden hepatotoxicity — the demulcent surface that assay cannot reveal to be poison. **(c) absent** as to cultivation status.
+
+**Unani / Avicenna (CM).** In the *Qānūn*, *lisān al-kalb* is placed among the cooling, mucilaginous simples, cold and dry in the second degree, used externally against hot swellings and ulcers and (in the pre-modern manner) internally as an astringent for fluxes and a mild sedative. The tradition's central cultivation idea — the conservation of innate heat and radical moisture as a finite vital endowment — is a longevity frame of the whole regimen, not a status the corpus assigns to this binding, quieting surface remedy, and no *mufarrih* or cardiac-*rūḥ* role is recorded for it. Its standing is therapeutic, not cultivational. **(b) framed** — and the pre-modern internal use is now known to have carried grave, unrecognised hepatotoxic risk.
+
+**Practitioner's note.** There is nothing here for a cultivator to take. Hound's tongue is a teaching-only, internally-prohibited entry: its pyrrolizidine alkaloids are hepatotoxic, genotoxic and carcinogenic, and no tradition on the tag line assigns it a cultivation status — the Assyrian attribution is class-level and blocked, Dioscorides offers only the discipline of correct identification, and the Unani reputation is therapeutic. What the cultivator does with this plant is learn from it: that a soft, comforting, demulcent surface is no proof of safety, and that the liver pays the hidden cost. For an actual demulcent wound-herb the curriculum redirects to the PA-free substitutes.
+
+---
+
 ### Contraindications
 
 **ABSOLUTE CONTRAINDICATION — DO NOT INGEST.**
