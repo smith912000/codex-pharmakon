@@ -54,6 +54,18 @@ According to PubMed, *Fucus vesiculosus* accumulates iodine from seawater follow
 - **TCM (by analogy):** aligns with the salty, cold seaweed materia medica (*kun bu / hai zao* class) used to "soften hardness and dissipate nodules" (goitre, phlegm-nodules) — a genuine parallel, though *F. vesiculosus* is not the classical Chinese species.
 - **Ayurveda (by analogy):** *lavana* (salty) rasa, cooling-to-neutral *virya*; resolves *kapha*-type stagnation and induration; not a classical dravya.
 
+### Cultivation Register
+
+**Assyrian (AT).** *Fucus vesiculosus* is a North Atlantic and North Sea brown macroalga, wholly outside the flora available to the Mesopotamian cuneiform tradition, and there is no secure identification of it in the *asû* / *āšipu* corpus. The standing blocking warning for Assyrian identifications applies with full force, and the illness-by-causal-agency framing (divine hand, ghost, oath) offers nothing to assign here without invention. No cultivation status is possible, and the tag is anachronistic for this species. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides does describe sea-wracks generically — *phykos thalassion* — as cooling, moistening marine simples for inflammations and hard swellings, so the tradition genuinely treats seaweed of this broad kind; but the identification of that material with the specific North Atlantic *F. vesiculosus* is a modern reading, not his. More decisively, Dioscorides carries no subtle-body system into which any cultivation status could be set, and the later Galenic spirits are post-Dioscoridean. What the tradition offers a cultivator is his discipline of attention — knowing sea-wrack when one sees it, judging its condition, and not confusing marine simples — a real practice of assay, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Salty, dispersing marine drugs occupy a genuine doctrinal slot in the Unani synthesis as *muḥallil* — agents that soften and resolve indurations — and bladderwrack fits that slot so well that its later iodine-driven action on goitre reads as a vindication of it. But the placement of this particular North Atlantic species into the *muḥallil* category is a retrospective fit rather than a *Qanun* attestation of *F. vesiculosus* by name. The corpus's central cultivation idea — conserving innate heat and radical moisture as a finite endowment — is a frame of the whole regimen and is not assigned to this cooling, dispersing evacuant, for which no *mufarrih* or cardiac-*ruh* role is recorded. Its standing is therapeutic, not a cultivation grade. **(b) framed:** used at the level of the salty-dispersing drug class, no cultivation status sourced for the species.
+
+**Practitioner's note.** A cultivator does almost nothing with this as a vitality substance — it is a caution-gated, working drug, not a tonic. Its one defensible role is iodine repletion in genuine deficiency and the old "resolving" of soft swellings, and even that must be gated behind standardised, iodine-quantified, low-metal preparations because the raw thallus carries an unknowable iodine dose and bioaccumulated arsenic. The honest cultivation answer is abstention in most cases: no long-term "metabolism booster" use is supported, and the tradition's own dispersing-not-nourishing placement is itself the warning.
+
+---
+
 ### Contraindications
 
 **This is a high-caution entry — read before any use.**

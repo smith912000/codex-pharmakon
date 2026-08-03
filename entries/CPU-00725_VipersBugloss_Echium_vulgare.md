@@ -54,6 +54,20 @@ According to PubMed, the modern literature on *Echium vulgare* is dominated by *
 - **Ayurveda:** Not a classical dravya; no authentic rasa/guna assignment.
 - **Galenic / Unani:** Warm and moist; *mufarrih* (exhilarant) cordial and demulcent, grouped with the borage/bugloss family. This classification is preserved for historical completeness only and does not endorse use.
 
+---
+
+### Cultivation Register
+
+**Assyrian (AT).** The Mesopotamian corpus records bristly, tongue-shaped and "serpent" herbs used in poultices for bite and sting, but the entry itself concedes that binomial identification of *Echium vulgare* in the tablets is not secure — the Akkadian plant names rarely map onto Linnaean species. Under the standing blocking warning that governs every Assyrian substance identification, tablet reference and causal-agency attribution, no cultivation status is claimed here, and even the therapeutic tag reflects only the general use of snake-associated Boraginaceae-type wound herbs rather than a verified attestation for this plant. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides described *echion* — root and seed taken in wine against snakebite and serpent-pain — and the plant's whole reputation descends from that text, but the claim is doctrine-of-signatures reading (the viper-head seed, the speckled snakeskin stem) rather than a vital-body doctrine, and Dioscorides carries no subtle-body system into which a cultivation status could be entered. He records the antidotal use; recording is not endorsing, and it is not a cultivation assignment. What the tradition offers a cultivator is his discipline of attention — provenance, correct identification, sensory assay — which here delivers the sharpest lesson in the corpus: the signature was legible and the reading was exactly inverted, since the "antidote" carries its own hepatotoxic pyrrolizidine load. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the Arabic-Persian materia medica the borage/bugloss group (*lisan al-thawr*) is classed warm-moist and treated as *mufarrih* — gladdening cordials thought to strengthen the heart and vital spirit and correct melancholic humour. That frame is genuinely cultivation-relevant, being the tradition's language for fortifying the *ruh*, but *Echium* is drawn into it only by family resemblance, not by a specific assignment to this species; no *Canon* chapter is cited (the standard English adaptation being unreliable), and no *mufarrih* constituent list is reproduced here. The conservation of innate heat and radical moisture — the corpus's strongest cultivation idea — is a frame of the whole regimen, not a status sourced for this plant. Attested in the tradition by assimilation, with the strengthening-of-*ruh* status not securely assigned to *Echium* itself: **(b) framed.**
+
+**Practitioner's note.** A cultivator does nothing with this plant internally. It is retained as a cautionary specimen — the case where symbolic reasoning pointed precisely the wrong way, naming a hepatotoxin a snakebite cure. The one legitimate cultivation act here is abstention: every historical indication the traditions record (demulcent for the chest, a soothing wound herb, a cordial to lift low mood) is met safely by non-PA herbs such as marshmallow, mullein and oat straw, and those replace it with no loss. The register's honest verdict is the same as the toxicology's: leave it alone.
+
+---
+
 ### Contraindications
 
 **⚠️ MAJOR HAZARD — PYRROLIZIDINE ALKALOID HEPATOTOXICITY. READ IN FULL.**

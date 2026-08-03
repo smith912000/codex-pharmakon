@@ -57,6 +57,20 @@ According to PubMed, the modern evidence base for *E. grijisii* is **preclinical
 - **Ayurveda:** Not a classical Ayurvedic dravya; no authentic rasa/guna assignment. (Omitted rather than invented.)
 - **Galenic / Unani:** Cold and dry; *muhallil* (resolvent) and *mufattit* (deobstruent) — used to resolve hot swellings and open obstruction.
 
+---
+
+### Cultivation Register
+
+**Greek — Dioscorides (DMM).** Dioscorides described globe-thistle and thistle-like Asteraceae — under names such as *akanthion* and *skolymos* — as diuretic and depurative roots for draining ulcerating sores, but he carries no subtle-body system into which a cultivation status could be entered, and *Echinops grijisii* is an East Asian species he never handled. The DMM tag here records genus-level Mediterranean use of globe thistles, not a Dioscoridean treatment of this plant; the entry's own text concedes that attributing *E. grijisii* to Dioscorides would be anachronistic. What the tradition genuinely offers a cultivator is his discipline of attention — naming the root correctly, judging it by taste and form, guarding against adulteration and substitution. That is a real practice of provenance, not a vital-body doctrine. Cultivation status: **(c) absent** (and even the therapeutic tag holds only at genus level).
+
+**Unani — Avicenna (CM).** Bitter thistle roots enter the Unani repertoire as *muhallil* (resolvent) and *mufattit* (deobstruent) — cold, dry drugs that break down morbid swellings, cool inflamed "hot" abscesses, and open obstructions of the viscera. The strongest cultivation idea in the Unani corpus is the conservation of innate heat and radical moisture across the whole regimen, but that is a longevity frame of the regimen, not a status the tradition assigns to a cooling depurative worked to drain hot swellings; no *mufarrih* or cardiac-*ruh* role is claimed for it. Attested therapeutically, with no cultivation status sourced: **(b) framed.**
+
+**Chinese — Shennong / Bencao (SBJ).** Within the *Yu Zhou Lou Lu* (禹州漏芦) stream, *Echinops* root is a bitter-cold draining drug for clearing heat and toxin, reducing abscess and unblocking lactation — the profile of a depurative, not a *yang sheng* 養生 substance. The classical *Bencao* stratum does grade *Lou Lu* (漏芦) within its *san pin* 三品 scheme, but the identity of the classical *Lou Lu* is precisely what this entry flags as unresolved: the graded classical drug is most often read as *Rhaponticum uniflorum*, not *Echinops*, and the two have been substituted for one another for centuries. Attaching the classical *san pin* grade to *E. grijisii* would fabricate a clean lineage across a known synonymy break. No *san pin* grade can therefore be safely assigned to this species from the sources retrieved; its standing here is therapeutic and draining, not a cultivation grade. **(b) framed** — the classical grading exists but attaches to a disputed identity, not securely to this plant.
+
+**Practitioner's note.** Nothing here is a substance to take for building. Across all three traditions globe thistle root is a corrective — a cold, bitter drainer worked in short, targeted courses against abscess, suppuration, parasitic burden and obstructed swelling, then stopped. A cultivator uses it, if at all, to clear hot obstructed ground before the building phases, and the tradition's own cold-draining classification is the warning against habitual use. The single most useful cultivation act around this plant is Dioscorides' discipline of attention: confirm the root is genuinely *Echinops* and not *Rhaponticum* before anything else follows.
+
+---
+
 ### Contraindications
 
 - Cold, bitter, draining character makes it **inappropriate in cold/deficient patterns**, in pregnancy (traditional caution for strong depurative/lactation-affecting roots), and for prolonged tonic-style use.

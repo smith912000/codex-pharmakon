@@ -49,6 +49,20 @@ Beech phytochemistry is reasonably characterised, though clinical data are spars
 - **TCM (by analogy, not a classical Chinese herb):** would read as astringent/consolidating, "securing and binding" leakage; not a materia medica entry in the Chinese canon.
 - **Ayurveda (by analogy):** *kashaya* (astringent) rasa, cooling *virya*, drying to *kapha*-type damp discharge; not a classical dravya.
 
+---
+
+### Cultivation Register
+
+**Assyrian (AT).** This tag sits uneasily on the beech. *Fagus sylvatica* is a temperate Central- and Western-European tree that does not grow in Mesopotamia, and the entry's "Assyrian-adjacent folk stream" is on inspection not a cuneiform attestation at all but Northern-European folk material — the "book tree" (*bōc*), bark incised for runes, and the later beechwood-tar creosote of early-industrial Western pharmacy. No Assyrian tablet reference is offered, and under the standing blocking warning that governs every Assyrian identification none could be claimed securely here in any case. There is no cultivation framing to state. **(c) absent** — and the tag itself is flagged below as most likely European-folk material mislabelled.
+
+**Greek — Dioscorides (DMM).** In the classical stream the beech is chiefly a food and timber tree whose bark and leaf carry a binding, astringent virtue, worked as a wash for slack, weeping tissue in the same manner as the rest of the tannin-bearing Fagaceae. Dioscorides carries no subtle-body system that could assign it a cultivation status, and the Greek naming is itself a lesson in his discipline of attention — *phēgos* first denoted an edible-acorn oak and was only later transferred to the beech, exactly the kind of provenance-and-identity confusion his method exists to catch. That discipline — correct naming, sensory assay of the astringent bark, guarding the mast against the raw-nut principle — is the real practice on offer, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the humoral synthesis the drying, binding barks of this class are classed cool and dry (second degree) and *qābiḍ* (astringent) — restringent correctives that draw lax tissue together and check fluxes such as diarrhoea, discharge and bleeding gums. The strongest cultivation idea in the corpus, the conservation of innate heat and radical moisture, is a longevity frame of the whole regimen and is not a status the tradition assigns to an earthy astringent wood; no *mufarrih* or cardiac-*ruh* role is claimed, and no *Canon* chapter is cited. Attested therapeutically, with no cultivation status sourced: **(b) framed.**
+
+**Practitioner's note.** The cultivator's use of the beech is external and consolidating — an astringent bark-and-leaf wash or gargle to tighten slack, weeping or bleeding tissue, and a roasted mast eaten as grounding food once its raw irritant principle is cooked off. Nothing here is taken long-term to build vitality; the tradition's own cool-dry-astringent classification marks it as a corrective for a defined leak, used short and topically, then stopped. Beechwood creosote is a separate, sharply bounded antiseptic preparation and no cultivator's tonic. The honest cultivation act is the discipline of attention the classical stream models: know which tree, which part, and which preparation you actually hold.
+
+---
+
 ### Contraindications
 
 - **Raw beechnut toxicity:** raw beechnuts contain the bitter principle *fagin*, oxalate and tannins; eating them raw in quantity causes nausea, vomiting and gastrointestinal upset. Roast before eating and keep portions small. Keep away from children and pets, who may consume fallen mast.

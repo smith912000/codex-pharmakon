@@ -49,6 +49,18 @@ The strongest human-relevant signal for *F. excelsior* comes from its role in a 
 - **TCM (by analogy, not a classical Chinese herb):** would read as a damp-draining, channel-freeing agent for painful obstruction (*bi*) patterns; not in the Chinese canon.
 - **Ayurveda (by analogy):** *tikta/kashaya* (bitter/astringent) leaf, *madhura* (sweet) manna; cooling-to-neutral *virya*; pacifies *kapha*-damp accumulation and eases *vata*-type joint stiffness; not a classical dravya.
 
+### Cultivation Register
+
+**Assyrian (AT).** *Fraxinus excelsior* is a temperate and northern European tree outside the flora of the Mesopotamian cuneiform corpus, and no secure identification of it appears in the Nineveh medical material. Under the standing blocking warning for Assyrian substance identifications — where the *asû* / *āšipu* texts classify a remedy partly by the causal agency (divine hand, ghost, oath) it opposes — no such framing can be assigned here without manufacturing it. There is accordingly no cultivation status, and the tag itself is doubtful for this species. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides gives the ash (*melia*) a therapeutic account for the drying, binding virtue of its leaves, with the well-known note that the leaves and juice were reckoned effective against serpents. He carries no subtle-body doctrine into which a cultivation status could be set — the Galenic three spirits are a later, post-Dioscoridean development — so the tradition assigns none. What it does offer a cultivator is his discipline of attention: correct identification of the tree, the season and part gathered, the sensory assay of leaf and exudate, and the guard against confusing the northern hard-yielding *excelsior* with the sweet manna-ash *F. ornus*. That is a real practice of provenance and judgement, not a vital-body claim. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the *Qanun* stream ash-manna is treated as a gentle, safe *mulayyin* (softening laxative) fit for the delicate, the elderly and the feverish, working by osmotic softening rather than harsh purgation, while the leaf and bark sit among the warm-dry opening and diuretic drugs for "obstructions" and gouty complaints. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture as a finite vital endowment, so that longevity is a matter of husbanding what one has — is a frame of the whole regimen, not a status this evacuant, fluid-moving drug is given; no *mufarrih* or cardiac-*ruh* role is recorded for it. Its standing here is therapeutic, not a cultivation grade. **(b) framed:** attested and used, no cultivation status sourced.
+
+**Practitioner's note.** Nothing in these traditions makes ash a substance a cultivator takes to build or conserve vitality. It is a clearing-phase, working herb across the board — a leaf infusion to move fluid and ease gouty stiffness, a bitter bark decoction as febrifuge, and the genus's manna as a soft osmotic laxative. The great cosmological weight of the ash as the Northern world-tree is cultural symbolism and does not transfer to the drug as a vital action. Use it for the defined drainage job over a short course, then stop.
+
+---
+
 ### Contraindications
 
 - **Diuretic caution:** avoid or supervise in dehydration, significant renal impairment, or alongside prescription diuretics (additive fluid/electrolyte loss).
