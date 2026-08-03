@@ -57,6 +57,20 @@ According to PubMed:
 - **Ayurveda (by analogy — fungi are not classical dravya):** *rasa* madhura (sweet); *guna* guru (heavy), snigdha (unctuous); *virya* shita (cooling); *vipaka* madhura (sweet) — kapha-increasing, vata-pacifying.
 - **Galenic / Unani:** Cold and moist, 2nd degree; phlegmatic; corrected with warming aromatics (Avicenna).
 
+### Cultivation Register
+
+**Greek — Dioscorides (DMM).** Dioscorides handles the fungi (*mykes*) as food, not as remedy, and divides them into the wholesome and the strangling — the firm-fleshed boletes standing as the archetype of the wholesome kind, classed cold, heavy and slow to digest. He carries no subtle-body doctrine into which a cultivation status could be set, so what the tradition offers a cultivator here is his discipline of attention rather than a vital-body grade: the substrate warning that fungi taken near rusted iron, rotting cloth or serpents' holes turn poisonous (an early reading of the substrate-uptake problem now measured as heavy-metal bioaccumulation), and the sensory judgement that separates an edible bolete from a lethal look-alike. That is a real and, for a forager, a life-or-death practice of assay and provenance — but it is not a longevity status. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the humoral frame the bolete is cold and moist in the second degree, phlegm-forming, and prone to obstruct the stomach unless corrected with warming, drying condiments — pepper, garlic, salt, vinegar. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture across a whole regimen — is a longevity frame for the manner of living, not a status the tradition assigns to this dense cooling food, and no *mufarrih* or cardiac-*ruh* role is attested for it. Its standing is dietetic and corrective: a heavy food to be digestively managed, not a substance worked to build the vital endowment. **(b) framed:** claimed in the materia medica as a food-medicine, no cultivation status sourced.
+
+**Chinese — Bencao (SBJ).** *Niu gan jun* 牛肝菌, the "ox-liver mushroom," is read within the broad Chinese category of fungi as *bu* 補 (tonifying) foods that supplement *qi* 氣 and strengthen the spleen-stomach — an everyday food-tonic rather than a canonical drug on the order of *ling zhi*. It carries no *san pin* 三品 grade in the sources retrieved (it is not a Shennong-stratum entry with an assigned upper/middle/lower rank for this species), and no *jing*-building action is claimed. Within *yang sheng* 養生 — conservational, not curative — it therefore sits as a nourishing food read through the *bu* frame, not as a graded cultivation substance. **(b) framed:** food-tonic frame present, no *san pin* grade attested for this species.
+
+**Practitioner's note.** A cultivator treats the porcino as ballast, not as an active agent. Across the three traditions it is eaten as food, at food quantities — a dense, cooling, low-glycaemic, fibre-and-mineral-rich nourishment for a depleted system being rebuilt, valued for holding ground rather than moving it. Nothing here is a graded longevity drug: the Chinese *bu* reading is the closest to a cultivation frame and even that carries no *san pin* rank for this species. The one non-negotiable discipline it demands is Dioscorides': clean, uncontaminated ground and certain identification, because the same flesh that takes up minerals takes up cadmium and the same genus hides lethal look-alikes.
+
+*Structural note (misfiling): *Boletus edulis* is a **fungus**, not a plant, and is filed in the Plant-Based volume by culinary and pharmacopoeial convention only — the entry itself flags this at the head of Origin & Tradition. The register above is written honestly for a fungus read through plant-oriented materia medica.*
+
+---
+
 ### Contraindications
 
 - **Heavy-metal accumulation:** wild boletes concentrate cadmium, lead and nickel from soil; avoid specimens from roadsides, industrial or polluted ground, and do not consume large quantities habitually (Sotek et al. 2025).

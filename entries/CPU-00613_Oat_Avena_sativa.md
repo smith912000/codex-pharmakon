@@ -53,6 +53,18 @@ For the avenanthramide fraction, the evidence is preclinical. According to PubMe
 - **TCM:** Sweet, neutral; tonifies spleen and qi, moistens, used for depletion and spontaneous sweating.
 - **Ayurvedic (by analogy):** *Rasa* sweet (madhura); *virya* cooling-to-neutral; *vipaka* sweet; nourishing and grounding, pacifies Vata and Pitta, building for the depleted (may increase Kapha in excess).
 
+### Cultivation Register
+
+**Greek — Dioscorides (DMM).** Oat (*bromos*) is entered in *De Materia Medica* as a nourishing gruel and a soothing, moistening application for coughs and the belly — a bland emollient food-drug. Dioscorides carries no subtle-body doctrine into which such a grain could be given a cultivation status; what the tradition offers a cultivator is instead his discipline of attention — knowing the milky unripe seed from the ripe groat, judging the meal by its quality, gathering in season. That is a real practice of provenance and sensory assay, not a vital-body assignment. Cultivation status: **(c) absent.**
+
+**Unani — Avicenna (CM).** Following the *Qanun*, Unani classes oat as a temperate-to-cool, moist, nutritive grain — oat gruel and oat-water as standard convalescent foods that nourish the weak, soothe the chest and gently loosen the bowel. The strongest cultivation idea in the Unani corpus, the conservation of innate heat and radical moisture across the whole regimen, is a longevity frame of dietetics generally and not a status the tradition assigns to this particular restorative grain; no *mufarrih* or cardiac-*ruh* role is claimed for it. It is attested as a nutritive-medicinal food with no cultivation status recorded in the sources retrieved. **(b) framed.**
+
+**Chinese — Shennong stratum (SBJ).** Oat (*yan mai*) sits in the Chinese dietary and grain materia medica as a sweet, neutral, strengthening grain said to tonify the spleen and qi, moisten, and settle spontaneous sweating. But *Avena* is not among the classical Shennong *Bencao Jing* drugs — it enters the later Chinese grain literature — and no *san pin* 三品 grade (上品/中品/下品) is recorded for this species in the sources retrieved. Within *yang sheng* 養生, the conservational nourishing-of-life project, it therefore carries a dietetic/tonifying standing rather than a formal cultivation grade. **(b) framed** — attested in the Chinese grain materia medica, but with no *san pin* grade sourced for this species and no classical Shennong entry.
+
+**Practitioner's note.** Oat is a foundation food, not a longevity substance — and unusually for this book it is worked at food scale rather than as a dose. A cultivator uses it exactly as all three traditions do: as a soothing, moistening, restorative staple for the depleted, the irritated gut, and the convalescent, plus the milky-oat/oatstraw infusion for the frayed. Nothing in the sourced record marks it as a graded or rejuvenative substance; its value is the daily nourishing base you build on, taken as food and continued as food.
+
+---
+
 ### Contraindications
 
 - **Coeliac disease / gluten cross-contamination:** oat is intrinsically gluten-free, but commercial oats are very commonly cross-contaminated with wheat, barley, or rye during growing, milling, and processing. Coeliac and non-coeliac gluten-sensitive individuals must use **certified gluten-free oats** only. A minority of coeliacs also react to oat avenins themselves — introduce cautiously and under guidance.

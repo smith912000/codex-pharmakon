@@ -55,6 +55,18 @@ Yasawardene et al. (2020), *Toxicon* — a mechanistic mini-review — attribute
 - **Ayurveda:** *Rasa* — amla (sour), kashaya (astringent), ripe fruit adding madhura (sweet); *Guna* — guru (heavy); *Virya* — shita (cooling); *Vipaka* — amla (sour post-digestive). Aggravates in excess; noted as heavy on the kidneys.
 - **Galenic / Unani:** Cold and moist; refrigerant (*mubarrid*), thirst-quenching, corrector of bilious heat.
 
+### Cultivation Register
+
+**Unani — Avicenna (CM).** In the humoral frame the fruit is a cold-and-moist *mubarrid* (refrigerant), classed with the sour refrigerant fruits used to quench pathological heat, settle bilious (choleric) fevers, and check excessive thirst — a corrector of a hot temperament rather than a daily food. The strongest cultivation idea in the Unani corpus, the conservation of innate heat and radical moisture across the whole regimen, is a longevity frame of dietetics generally and is not a status the tradition assigns to this particular sour fruit; no *mufarrih* or cardiac-*ruh* role is claimed for it, and none should be, given that a cold-moist refrigerant is the opposite of a heat-strengthening cardiac drug. It is attested as a corrective refrigerant with no cultivation status recorded in the sources retrieved. **(b) framed.**
+
+**Chinese — Shennong stratum and later materia medica (SBJ).** The fruit (*yang tao* / *wu lian zi*) sits in southern Chinese folk and later herbal practice as sweet-sour and cooling, said to clear heat, generate fluids, ease sore throat, and move water — a diuretic, heat-clearing fruit. But *Averrhoa carambola* is not among the classical Shennong *Bencao Jing* drugs; it enters the later, largely southern folk and materia medica record, and no *san pin* 三品 grade (上品/中品/下品) is recorded for this species in the sources retrieved. Within *yang sheng* 養生, the conservational nourishing-of-life project, it therefore carries a heat-clearing dietetic standing, not a formal cultivation grade — and its documented nephro- and neurotoxicity would in any case sit against, not with, long-term *yang sheng* use. **(b) framed** — attested in the later Chinese record, no *san pin* grade sourced for this species, no classical Shennong entry.
+
+**Ayurveda (SS).** As *kamrakh* the fruit is read *amla-kashaya* (sour-astringent) when unripe and sweeter (*madhura*) when ripe, with *shita virya* (cooling potency), *guru* (heavy) *guna*, and *amla vipaka* — thirst-relieving and a mild digestive in small quantity, while classical usage itself notes that heavy sour intake aggravates and that the fruit is heavy on the kidneys. No *rasayana* (rejuvenation) or *vajikarana* (generative-vitality) assignment is recorded for this species in the sources retrieved, so its standing is dietetic-therapeutic — a cooling, thirst-relieving fruit taken in restraint — not a formal rejuvenative cultivation status. **(b) framed.**
+
+**Practitioner's note.** Nothing here is a longevity substance, and this is the rare entry where the traditions' own cautions and the modern toxicology point the same way. All three read it as a cooling, thirst-quenching, mildly water-moving fruit taken sparingly and never in excess; Ayurveda already flags it as heavy on the kidneys. A cultivator uses it, if at all, exactly as the Purification framing states — ripe, occasional, with food, never as concentrated juice, and removed entirely for anyone with the least renal question — and takes from it the discipline that a "cooling and cleansing" reputation is not a licence for use. There is no graded or rejuvenative role to build on.
+
+---
+
 ### Contraindications
 
 ⚠️ **HAZARD — HIGH PRIORITY.**

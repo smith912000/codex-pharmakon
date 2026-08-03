@@ -54,6 +54,18 @@ Nusier et al. (2007), *Neuroendocrinology Letters* — an albino-rat study of a 
 - **Dioscoridean / Greek:** Foetid, "rejecting"; expellent and topical for bites.
 - *(No canonical TCM or Ayurvedic classification — this is a European/Near-Eastern herb; energetics are given in the Galenic-Unani and Greek frames as attested.)*
 
+### Cultivation Register
+
+**Assyrian / Mesopotamian (AT).** Black horehound reaches this entry as a member of the Near-Eastern class of foetid aromatic bitters rather than through a secured cuneiform identification of *Ballota nigra* itself. The Mesopotamian corpus classifies a remedy partly by the causal agency it opposes — divine hand, ghost, oath — but under the standing blocking warning on Assyrian plant identifications and their etiological framing, no such agency-role and no cultivation status can be assigned to this species from a named tablet. The attestation, such as it is, is generic and therapeutic. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides gives *ballote* a genuine account in *De Materia Medica* — a rank, "rejecting" herb whose bruised leaves with salt were laid on dog-bites and which was worked against gripes. Dioscorides carries no subtle-body doctrine into which a cultivation status could be placed, so what the tradition offers a cultivator here is not a vital-body grade but his discipline of attention: recognising the plant by its repellent odour, distinguishing it from white horehound, judging the fresh bruised leaf. That is a real practice of sensory assay and identification, not a longevity claim. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the humoral frame black horehound is a warm, dry, bitter resolvent and deobstruent, worked to disperse cold-phlegmatic stagnation and to quiet nervous and bilious nausea. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture across a whole regimen — is a longevity frame for the manner of living, not a status the tradition assigns to this particular cooling-by-drying bitter, and no *mufarrih* or cardiac-*ruh* role is attested for it. Its standing is therapeutic, not a cultivation grade. **(b) framed:** claimed in the materia medica, no cultivation status sourced.
+
+**Practitioner's note.** Nothing here is a substance a cultivator takes to build vitality. Across all three traditions black horehound is a short-course corrective — a bitter infusion to settle nausea and nervous agitation, taken for the defined job and then stopped. Its intense foetid bitterness is self-limiting and, in the Tempering phase, is left deliberately un-masked as part of the discipline rather than sweetened away. There is no long-term or rejuvenative use to support.
+
+---
+
 ### Contraindications
 
 - **Pregnancy and lactation:** avoid — insufficient safety data and traditional emmenagogue/uterine cautions for bitter Lamiaceae.
