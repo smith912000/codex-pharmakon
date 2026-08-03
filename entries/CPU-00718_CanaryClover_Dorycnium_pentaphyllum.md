@@ -60,6 +60,18 @@ The modern literature on *Dorycnium pentaphyllum* is **genuinely sparse** and mo
 - **Dioscoridean (classical):** a *styptic*/binding herb of the *dorycnion* group, used to draw wounds together and check discharge (with classical caution as a suspect plant).
 - No attested TCM (Shennong) or Ayurvedic (Sushruta) classification for this Mediterranean species; by cross-tradition analogy only, its tannin profile would read as *kashaya* (astringent) rasa — offered as analogy, not as a Sushruta citation.
 
+### Cultivation Register
+
+**Assyrian (AT).** Tannin-bearing wound-drying plants belong to the broad Mesopotamian repertoire of astringent poultices and washes recorded on the cuneiform tablets — preparations to staunch bleeding, tighten flesh, and dry weeping sores. A binding Mediterranean shrub of this class is worked topically as a drying agent, and in the Assyrian frame such a substance is understood partly by the surface condition it corrects rather than by any status it confers on the vital constitution. Under the standing blocking warning that governs Assyrian substance identifications and tablet references — and given that the attestation is to a class of binding herbs rather than to *Dorycnium pentaphyllum* secured by name — no cultivation status is assigned. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides has no subtle-body system into which an astringent could be graded, so there is no vital-cultivation status to state; what the tradition offers a cultivator is his discipline of attention — recognising a true *styptic* herb, gathering the tannin-rich tops, and judging by the tightening, protein-precipitating action on the tongue and skin. A caution belongs here on the attestation itself: the classical *dorycnion* Dioscorides describes was discussed among suspect and poisonous plants, and the name was only *later* fastened onto this genus, so the DMM tag rests on a botanical eponym rather than on a secure classical identification of this species. Even setting the identity question aside, no cultivation status exists to claim. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Cool-and-dry astringents are read in the Galenic-Unani system as *qabid* — binding tools for excess flux, weeping wounds, lax tissue, and bleeding. The strongest cultivation idea in the Unani corpus, the conservation of innate heat and radical moisture as a finite vital endowment, is a frame belonging to the whole regimen of life; a drying, tightening topical of this kind is assigned no such conservational role and no gladdening *ruh*-strengthening standing. It is attested therapeutically as a *qabid* astringent, with no cultivation status recorded. **(b) framed.**
+
+**Practitioner's note.** A cultivator reaches for canary clover to dry and close a leaking or over-moist surface condition — a wash, compress, or poultice for weeping sores and lax, bleeding tissue — and then stops. It is deliberately not an internal tonic: the cyanogenic trace and the classical association with suspect plants keep it in the topical, short-course, corrective niche. There is nothing here a cultivator takes to build or conserve vitality; its whole standing is that of a Purification-phase drying agent worked at the boundary of the body.
+
+---
+
 ### Contraindications
 
 - **Cyanogenic-glucoside trace:** the plant contains a cyanogenic glucoside; internal use is not advised without expert supervision, and raw/large quantities are potentially unsafe.

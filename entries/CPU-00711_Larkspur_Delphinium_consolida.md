@@ -50,6 +50,18 @@ According to PubMed: Wang et al. (2025), *Toxins*, reviewed the **insecticidal a
 - **Ayurveda (by analogy):** *rasa* — katu (pungent), tikta (bitter); *guna* — tikshna (sharp), ruksha (dry); *virya* — ushna (heating); *vipaka* — katu. A *visha* (poison) class agent, external use only.
 - **Galenic/Unani:** Hot and Dry, 3rd degree; sharp, biting, vermin-killing — external application, contraindicated internally.
 
+### Cultivation Register
+
+**Assyrian (AT).** Larkspur-type acrid seeds fall within the Mesopotamian class of vermin- and pest-clearing simples pounded into washes for the head and skin. Illness in the Assyrian frame is classified by causal agency — divine hand, ghost, oath — and a purifying agent is understood partly by what agency it drives off; but the *asû*/*āšipu* record here is a surface therapeutic and apotropaic one, not the assignment of a vital status to the person's constitution. Under the standing blocking warning that governs every Assyrian substance identification and tablet reference — and given that the attestation rests on a seed-type class rather than a secured identification of *Consolida regalis* itself — no cultivation status is claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** The larkspurs (*delphinion* / *consolida* group) are recorded in *De Materia Medica* chiefly for the seed, applied externally as a pediculicide. Dioscorides carries no subtle-body system into which such a substance could be graded, so there is no vital-cultivation status to state. What the tradition offers a cultivator is instead his discipline of attention: recognising the spurred "dolphin" bud, gathering and assaying the alkaloid-rich seed, and — the governing point for this plant — knowing that its action is surface-acting and antiparasitic and belongs on the skin, never taken inward. That is a real practice of provenance and sensory judgement, not a doctrine of the vital body. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The *Qānūn* carries larkspur seed as a Hot-and-Dry-to-a-high-degree acrid — a sharp, drying external application against lice, skin vermin, and certain swellings. The strongest cultivation idea in the Unani corpus is the conservation of innate heat (*ḥarārat gharīziyya*) and radical moisture as a finite vital endowment whose depletion is ageing; but that is a frame belonging to the whole regimen of life, and this corrosive, heating surface-drug is assigned no such conservational role, no *mufarrih* or cardiac-*ruh* standing. It is attested therapeutically, with no cultivation status recorded. **(b) framed.**
+
+**Practitioner's note.** Nothing here is a substance a cultivator takes to build or conserve vitality. Across all three traditions larkspur seed is a poison harnessed at the boundary of the body — pounded into a wash to kill lice and nits, rinsed off, and never ingested. Its whole traditional identity points outward, away from the person's interior; the norditerpenoid alkaloids that make it an effective pediculicide are the same ones that make internal use lethal. The correct cultivation posture toward it is abstention from all internal work and strict external containment.
+
+---
+
 ### Contraindications
 
 **⚠️ TOXIC — NEUROMUSCULAR AND CARDIAC POISON. EXTERNAL, LIMITED USE ONLY.**

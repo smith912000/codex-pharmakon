@@ -58,6 +58,18 @@ Based on articles retrieved from PubMed, the cardiovascular and antioxidant rati
 - **CM / Inner-Asian:** Aromatic, cooling; clears heat, calms the spirit (*shen*), benefits the heart.
 - **Ayurvedic (analogical):** *tikta*/*madhura* leaning, *shita* (cooling) virya, pacifying to *pitta* and *vata* of the heart-mind. (Analogical — not a classical dravya.)
 
+### Cultivation Register
+
+**Greek — Dioscorides (DMM).** *Dracocephalum* is a post-classical genus name; Dioscorides never handled the Moldavian dragonhead, and the tag marks only the family-level inheritance by which the cordial, carminative Labiatae — the mints, balms and hyssops he did treat — passed into later herbalism. He carries no subtle-body doctrine to assign the plant a cultivation status. What the Greek tradition genuinely offers a cultivator of an aromatic like this is the discipline of attention: judging the lemon-citral scent, the season and part gathered, the freshness of the volatile oil, the guard against a look-alike mint. That is a real assay practice, not a vital-body teaching. Cultivation status: **(c) absent**, and the species attestation to Dioscorides is family-level only.
+
+**Unani — Avicenna (CM).** Here the attestation is functionally genuine: in the Persian and Central-Asian Unani sphere *D. moldavica* is worked as a cooling aromatic cordial — an infusion to comfort the heart, settle the nerves and ease the stomach, placed with balm (*Melissa*) among the cheering, cardiotonic aromatics. But this is a humoral-therapeutic placement, given generally rather than in a named *Qanun* chapter, and it is not a cultivation status. The Unani conservation idea — innate heat and radical moisture husbanded across the whole regimen — is not assigned to this herb, and no *mufarrih* or cardiac-*ruh* constituent role is sourced for it. **(b) framed:** a real cordial/calmative placement, no cultivation status recorded.
+
+**Chinese — Shennong (SBJ).** The entry is explicit that this tag reflects Inner-Asian usage — *Dracocephalum* species used as cooling, spirit-calming, heart-benefiting aromatics, with *D. moldavica* holding a documented place specifically in **Uyghur** medicine for cardiovascular complaints — and *not* a *Shennong Bencao Jing* monograph on the Moldavian species. There is therefore no *san pin* 三品 grade to record for this plant in the classical Chinese stratum: the herb is not in that canon. Its standing is a genuine regional-therapeutic one, not a cultivation grade. **(c) absent** — no *san pin* status; the tag carries Uyghur/Inner-Asian use, which is not the classical Chinese bencao.
+
+**Practitioner's note.** A cultivator uses Moldavian dragonhead to settle, not to build — a lemon-scented aromatic infusion for the agitated, heat-flushed heart-mind: nervous tension, palpitation, restlessness and the digestive unease that rides with them. Its defensible standing across the traditions is cordial and calmative, and the preclinical work (tilianin against ischaemia-reperfusion, rosmarinic-type phenolics) supports a cardioprotective role rather than a longevity one. None of the three tagged traditions assigns it a cultivation status; taken as a gentle daily calmative tea it does the settling job and no more.
+
+---
+
 ### Contraindications
 
 - **Pregnancy and lactation:** insufficient safety data for the concentrated herb or oil — avoid medicinal doses.

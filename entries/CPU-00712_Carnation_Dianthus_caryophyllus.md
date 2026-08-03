@@ -61,6 +61,18 @@ Direct clinical pharmacology on *Dianthus caryophyllus* itself is **sparse** —
 - **Ayurvedic (by analogy, not classically attested for this species):** would read as *katu/tikta* (pungent-bitter) rasa, *ushna* (heating) virya — offered only as a cross-tradition analogy, not as a Sushruta citation.
 - No attested Chinese (Shennong) classification for *D. caryophyllus* itself; the TCM "Qumai" drug is the related *D. superbus/chinensis*, not the carnation.
 
+### Cultivation Register
+
+**Assyrian (AT).** Fragrant flowers steeped in wine and oil belong to the broad Mesopotamian repertoire of aromatic heart-strengthening and fever-easing preparations recorded on the cuneiform medical tablets, and the carnation's later standing as a "wine flower" sits in that lineage of scented cordials. In the Assyrian frame illness is classified by causal agency, and a sweet aromatic is worked as much for its power to steady and comfort as for any humoral action; but under the standing blocking warning that governs Assyrian substance identifications and tablet references — and given that the attestation here is to aromatic pinks as a class rather than to *Dianthus caryophyllus* secured by name — no cultivation status is assigned to the person's constitution. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** The pinks (*Dios anthos*, "flower of Zeus," the source of *Dianthus*) sit among the fragrant garden flowers of the classical materia medica used to make perfumed oils and scented, cheering wines. Dioscorides has no subtle-body system into which a "gladdening" flower could be graded, so there is no vital-cultivation status to state. What the tradition offers a cultivator is his discipline of attention — recognising the true clove-scented flower, judging its aromatic quality by nose, and preparing it as a scented oil or wine that comforts a faint or oppressed heart. That is a real craft of provenance and sensory assay, not a doctrine of the vital body. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Warm-and-dry aromatics of this cordial kind are read in the Galenic-Unani system as gladdeners of the heart that strengthen the *ruh* — the *mufarrih* idea, which properly belongs to the tradition of cardiac drugs (*Kitāb al-Adwiya al-Qalbiyya*) rather than to the *Canon*, and for which no constituent list is published here. This connects to the strongest cultivation idea in the Unani corpus: the conservation of innate heat and radical moisture as a finite vital endowment, with a warming cordial understood to comfort and steady the vital faculty. But the cordial standing of *Dianthus caryophyllus* specifically rests on later European pharmacy (the *syrupus caryophyllorum* of post-medieval pharmacopoeias), not on a sourced Avicennan assignment to this species; it is therefore given as a frame the substance sits inside, with no cultivation status attested. **(b) framed.**
+
+**Practitioner's note.** A cultivator uses carnation as a cordial — a scented syrup, conserve, or petal-wine taken at the close of a cycle to gladden and steady the heart after harder work, not as a driver or a purge. The honest cultivation reading is the Unani one of a warm aromatic that comforts the vital faculty, but that frame is not sourced for this species, and its real value is as much the ritual of the fragrant draught as any pharmacological push. Keep to culinary, cordial amounts; this is an emblematic gentle tonic, not a heroic one.
+
+---
+
 ### Contraindications
 
 - Pregnancy and lactation: avoid medicinal/concentrated preparations — saponin-bearing *Dianthus* species (e.g. Qumai) are traditionally regarded as emmenagogue/uterine-active and are contraindicated in pregnancy; extend the same caution to carnation.
