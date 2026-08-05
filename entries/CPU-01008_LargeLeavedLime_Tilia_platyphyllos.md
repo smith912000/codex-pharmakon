@@ -59,6 +59,18 @@ Honest summary: the *calming* and *anti-inflammatory/demulcent* doctrines have r
 
 Warm and moist in the first degree (some sources: temperate, tending cool-relaxant). Qualities: relaxing, opening, demulcent, mildly diaphoretic and sedative. Humourally, it *loosens* constriction and heat rather than heating or drying — the profile of a "sweet-soft" nervine. Organ affinities: heart (palpitation, "heat of the heart"), nerves, lungs and throat (demulcent), skin (diaphoresis).
 
+### Cultivation Register
+
+**Assyrian (AT).** No secure identification of *Tilia* exists in the cuneiform materia medica — the tree's range only clips the northern edge of the Assyrian world, and the entry's own attribution is flagged as provisional. Under the standing blocking warning that governs Assyrian substance identifications, tablet references and causal-agency framing (illness classed by the agency it opposes — divine hand, ghost, oath), no cultivation status can be claimed, and here not even a secure therapeutic one. There is nothing to place on the ladder. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** The lime is Dioscorides' *philyra* (φιλύρα); *De Materia Medica* records the tree, its fibrous inner bark used for cordage and writing tablets, and mild cooling uses of the leaves and bark, with the flowering-bract febrifuge tea being a medieval-and-later European elaboration rather than a classical one. Dioscorides carries no subtle-body doctrine into which a cultivation status could be assigned; what the tradition offers a cultivator is instead his discipline of attention — correct identification of the tree, the season and part gathered (bark and leaf, not yet the modern flower), and sensory judgement of the drug. That is a genuine practice of provenance, not a vital-body category. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Linden is a northern temperate tree at the very edge of the Arabic materia medica and is not a canonical *Canon* simple in the way thyme or germander are; where Persianate and later Unani compilers treat it, the flower is placed among the *muraṭṭib* / *musakkin* (moistening, sedating) remedies for palpitation, heat of the heart and wakefulness. The strongest cultivation idea in the Unani corpus is the conservation of innate heat and radical moisture — the finite vital endowment whose depletion *is* ageing, so that longevity practice is conservation, not acquisition — but that is a frame governing the whole regimen, not a status this tradition assigns to a marginal cooling-moistening sedative. No *mufarrih* or cardiac-*ruh* role is attributed here, and no *Canon* chapter is cited. The plant is claimed therapeutically at the corpus's edge with no cultivation status recorded. **(b) framed.**
+
+**Practitioner's note.** This is not a longevity substance in any of its three traditions. Across all of them large-leaved lime is worked as a mild, gentle infusion — a bedtime *tilleul*, a hot diaphoretic tea to help an early fever break, a demulcent for a raw throat. Its whole value is softness and safety rather than potency, which is exactly why no tradition files it as something a cultivator takes to build or conserve vitality. The honest cultivator's use is behavioural: brew it hot and covered, drink it in the evening or at the onset of a feverish cold, and treat its calming as cumulative ritual, not as a drug status.
+
+---
+
 ### Contraindications
 
 - Generally very safe; suitable for children and the elderly at food-like doses.

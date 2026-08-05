@@ -56,6 +56,18 @@ Net: the astringent doctrine is one of the better-corroborated traditional doctr
 
 Cold and dry (Galenic); cooling, drying, and strongly astringent (Western energetic). Planetary attribution: Venus (Culpeper). Kenetica reads it as a contractile, boundary-sealing, centripetal agent — the functional opposite of a relaxant or a demulcent.
 
+### Cultivation Register
+
+**Assyrian / Mesopotamian (AT).** The cuneiform corpus records thorn-plant (*amurdinnu*-type) astringents worked against "flowing" complaints — diarrhoeal and discharge conditions — classified, as Assyrian materia medica generally is, by the complaint and the causal agency it opposes rather than by any effect on the person's vital constitution. Under the standing blocking warning that governs every Assyrian substance identification and the instability of mapping Akkadian plant names onto *Rubus*, no cultivation status can be claimed here; the attestation, such as it is, is therapeutic and inferential. Cultivation status: **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Batos* (βάτος) receives a precise therapeutic account in *De Materia Medica* Book IV — leaves and shoots that bind the belly and the menstrual flux, strengthen the gums and heal mouth ulcers, the unripe fruit and root more binding still. Dioscorides carries no subtle-body doctrine into which a cultivation status could be filed; what the tradition offers a cultivator is his discipline of attention — distinguishing the strongly binding root and unripe pod from the mild nutritive ripe berry, judging the decoction by its astringency, gathering at the right stage. That is a real practice of provenance and sensory assay, not a vital-body classification. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Read in Unani terms the bramble is a cold, dry, astringent (*qābiḍ*) drug — a stopper of fluxes and a strengthener of slack, weeping tissue. The strongest cultivation idea the tradition carries, the conservation of innate heat (*ḥarārat gharīziyya*) and radical moisture as a finite vital endowment, is a frame of the whole regimen and of the temperamentally balanced restoratives, not a status assigned to a cooling contractile astringent of this kind; no *mufarrih* or cardiac-*ruh* role is attested for it, and none is invented here. The substance sits inside the materia medica as a therapeutic astringent with no cultivation grade recorded. **(b) framed.**
+
+**Practitioner's note.** Nothing here is a substance a cultivator takes to build vitality. Across all three traditions the bramble is worked as a short-course astringent — a gargle for raw or ulcerated mucosa, a leaf or root-bark decoction for simple loose stool, a wash for weeping surfaces — recruiting one mechanism, protein cross-linking at a wet surface. The ripe fruit is a nutritive antioxidant food, a different register entirely. Use the astringent for its defined job and stop; the traditions record what it does to a flux, not what it does to the person.
+
+---
+
 ### Contraindications
 
 - **Iron-deficiency anaemia / low iron status:** tannin astringents inhibit non-heme iron absorption; separate from iron-rich meals and supplements, and avoid habitual high-dose use (evidence above).

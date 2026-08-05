@@ -57,6 +57,18 @@ According to PubMed:
 
 Cooling and drying; bitter; downward-purging at dose, astringent-toning at low dose (Galenic dual action). Kenetica adds a modern axis: **endocrine-modulating (ERβ-selective estrogenic)** for the stilbene fraction — a property with no traditional-energetic equivalent.
 
+### Cultivation Register
+
+**Assyrian / Mesopotamian (AT).** Bitter downward-acting *Rheum*/*Rumex* purgative roots plausibly sit within the Mesopotamian bowel-remedy repertoire, but no secure identification of *R. rhaponticum* in the cuneiform materia medica can be sourced, and the standing blocking warning governs every such identification and its causal-agency framing. Where the tradition classifies a substance partly by the agency it opposes rather than by any action on the person's vital constitution, no cultivation status can be entered here; the attestation is at best therapeutic and inferential. Cultivation status: **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Rha* (ῥᾶ), the root carried from beyond the Bosphorus from the region of the Rha river, receives a therapeutic account as a warming, astringent-yet-purging bitter for stomach weakness, gripings, fluxes and liver and spleen complaints. Dioscorides holds no subtle-body doctrine into which a cultivation status could be filed; what the tradition gives a cultivator is his discipline of attention — the provenance of an imported root, the assay of a bitter that both binds at low measure and purges at high, the guard against a weaker or adulterated article. That is a genuine practice of judgement, not a vital-constitution classification. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Rhubarb (*rāwand*) is a genuine drug of the Unani materia medica — a bitter, downward-purging root that clears choler and moves the bowel, with the same dual behaviour the Galenic writers noted (binding at small dose, loosening at large). The tradition's strongest cultivation idea, the conservation of innate heat (*ḥarārat gharīziyya*) and radical moisture as a finite endowment, is a frame of the balanced longevity regimen, not a status assigned to an evacuant purgative, and the imported *rāwand* of the corpus is in any case the eastern medicinal rhubarb rather than this milder rhapontic species; no gladdening or *ruh*-strengthening role is attested for it. It stands as a therapeutic evacuant with no cultivation grade recorded. **(b) framed.**
+
+**Practitioner's note.** Nothing traditional here is a substance a cultivator takes to build vitality; the historical rhapontic root is the mild end of the anthraquinone purgative shelf — a short-course bitter mover, small doses toning, larger doses purging, used sparingly and then stopped, exactly as any stimulant laxative. The modern standardised extract ERr 731 is a separate, receptor-defined medicine (an ERβ-selective phytoestrogen for menopausal symptoms) with its own controlled-trial evidence and estrogenic-caution set; it is not a cultivation status, must never be equated with the purgative decoction, and cannot be back-projected onto any of the three traditions above. Use the root for a defined evacuant job, keep the extract to its supervised endocrine indication, and hold the two apart.
+
+---
+
 ### Contraindications
 
 - **Estrogen-sensitive conditions (ERr 731 / stilbene fraction):** caution or avoidance in estrogen-dependent cancers (breast, endometrial), history thereof, and undiagnosed vaginal bleeding — an estrogenic (even ERβ-selective) agent. Use under clinical supervision; not a self-directed hormone substitute.

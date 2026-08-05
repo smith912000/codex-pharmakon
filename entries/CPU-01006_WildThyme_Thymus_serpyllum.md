@@ -61,6 +61,18 @@ Honest summary: the antiseptic and antispasmodic-expectorant doctrines are well 
 
 Hot and dry in the third degree. Qualities: incisive/thinning (cuts thick phlegm), aromatic, antiseptic, carminative, diaphoretic, emmenagogue, drying. Organ affinities: lungs and chest (expectorant), stomach and intestine (carminative, antispasmodic), and the surface/flesh (antiseptic wash). A quintessential "hot, sharp cleanser."
 
+### Cultivation Register
+
+**Assyrian (AT).** Mesopotamian medical texts prescribe many aromatic herbs for cough, "the sick chest" and internal vermin, and a thyme-type aromatic is plausible among them, but a secure cuneiform identification with *T. serpyllum* specifically is not established, and the entry's own attribution is flagged provisional. Under the standing blocking warning governing Assyrian substance identifications, tablet references and their causal-agency framing — where illness is classed by the agency it opposes (divine hand, ghost, oath) — no cultivation status can be asserted, and the identification itself is too insecure to carry even a firm therapeutic one. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *De Materia Medica* gives *herpyllos* (creeping thyme) a clear therapeutic account: a hot, sharp herb that in drink moves the menses and urine, eases gripings, assists the chest and expels intestinal worms, with the bruised herb applied for bites and inflammations. Dioscorides has no subtle-body system into which such a herb could receive a cultivation status; what he offers a cultivator instead is his discipline of attention — the sharp, hot taste as a sensory assay of the herb's strength, correct identification of the creeping wild plant against related aromatics, and judgement of a gathering's potency. That is a genuine practice of provenance and assay, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Wild thyme corresponds in the Arabic tradition to *nammām* (نمّام), distinguished from cultivated *ḥāshā* and classed hot and dry, used to cut and expel thick phlegm from the chest, warm a cold stomach, dispel wind, promote urine and menses, and expel worms — a *muṣaffī* / *muḥallil* (cleansing, resolving) aromatic. The tradition's governing cultivation idea, the conservation of innate heat and radical moisture as a finite vital endowment whose depletion is ageing, frames the whole regimen and would place a fiercely hot-dry, drying resolvent among the agents that *spend* rather than conserve — but no formal cultivation status is assigned to this simple in the corpus, and no *mufarrih* or cardiac-*ruh* role and no *Canon* chapter is cited for it. It is claimed as a therapeutic cleanser with no cultivation status recorded. **(b) framed.**
+
+**Practitioner's note.** Nothing here is a substance a cultivator takes to build or preserve vitality; wild thyme is a clearing agent, worked hot and short to move stuck phlegm, disinfect, and settle a cramping gut, then handed off to gentler remedies for recovery. Its cultivator's discipline is the old one Dioscorides implies — judge it by pungency, because a bland, low-phenol gathering is weak medicine — and respect its heat: it is used to spend and expel, not to nourish, and its own hot-dry grading is the warning against habitual long-term use.
+
+---
+
 ### Contraindications
 
 - **Thymol/carvacrol mucosal irritation:** the essential oil and strong preparations irritate skin and mucous membranes; never apply the oil neat, and avoid high-dose internal oil. Overdose of thymol can cause nausea, gastric irritation, and (in extremes) systemic toxicity.

@@ -73,6 +73,18 @@ Topical use is conventionally limited to short courses over small skin areas and
 - **Action:** moistening, emollient, tissue-consolidating ("uniting"); cold-and-moist in the Yūnānī frame.
 - **Organ affinity:** skin and soft tissue (external); traditionally "bone and sinew," understood here as topical support only.
 
+### Cultivation Register
+
+**Assyrian / Mesopotamian (AT).** Cuneiform medical tablets record many poultice and plaster drugs for wounds, swellings and broken limbs, but the identification of any specific Akkadian plant name with *Symphytum tuberosum* is not secure, and under the standing blocking warning in force for Assyrian substance identifications, deity/demon attributions and tablet references, no cultivation framing is asserted here. Where illness is classified by causal agency, a knitbone-type drug would be read for what agency it opposes rather than for any status it confers on the person's vital constitution; that reading cannot be pinned to this species from the sources. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** The *symphyton* of *De Materia Medica* — the root that "glues" fresh wounds and fractures and gives the genus its *symphyō* ("grow together") name — is identified with *S. officinale* and near relatives, with *tuberosum* falling under the same classical heading as a regional variant. Dioscorides carries no subtle-body system by which to assign this drug a cultivation status; what the tradition offers a cultivator instead is his discipline of attention — the correct root, the season and manner of gathering, the honest identification of a plant that visibly "sets" like glue. That is a real practice of provenance and sensory judgement, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The Arabic-Persian canon carried the Greek *symphyton* forward among the consolidating, wound-agglutinating drugs — cold-and-moist agents that "join" torn flesh and settle inflamed swellings — with the attestation resting at the level of the genus/drug rather than *tuberosum* by botanical name. The tradition's governing cultivation idea, the conservation of the innate heat and radical moisture as a finite vital endowment, is a frame for the whole longevity regimen and is not a status assigned to a cold-moist external vulnerary; no gladdening (*mufarrih*) or *ruh*-strengthening role is claimed for it. Attested therapeutically, no cultivation status recorded. **(b) framed.**
+
+**Practitioner's note.** A cultivator does nothing internal with this plant — the pyrrolizidine-alkaloid hepatotoxicity forecloses that, and none of the three traditions grants it a longevity or vital-building status. What remains is a strictly external Repair-phase craft: a fresh-root poultice or PA-reduced ointment laid on intact, closing skin to re-surface and strengthen it, then removed. The traditions' whole contribution here is honest attention — knowing the right root, gathering it well, and reading its visible "setting" action for what it is (a splinting, epithelialising topical) rather than for the swallowed bone-cure the "knitbone" name wrongly tempts.
+
+---
+
 ### Contraindications
 
 - **⚠️ HEPATOTOXICITY — pyrrolizidine alkaloids:** **Never take internally.** PAs cause dose-dependent liver injury (including veno-occlusive disease) and are genotoxic/carcinogenic. This is the defining safety fact of the genus.

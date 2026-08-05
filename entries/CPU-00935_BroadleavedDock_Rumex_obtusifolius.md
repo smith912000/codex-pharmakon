@@ -59,6 +59,18 @@ According to PubMed:
 
 Cooling and drying overall; root bitter and downward-draining (purgative), leaf cooling and mildly mucilaginous. Planetary attribution: Jupiter (Culpeper). Kenetica reads the root as a centrifugal/downward eliminative and the leaf as a cooling topical — two vectors in one plant.
 
+### Cultivation Register
+
+**Greek — Dioscorides (DMM).** *Lapathon* (the docks and sorrels) receives a functional therapeutic account in *De Materia Medica* Book II — boiled leaves that loosen the belly, roots more strongly active, decoctions turned onto itching and scaly skin. Dioscorides carries no subtle-body system into which a cultivation status could be entered; what the tradition gives a cultivator is his discipline of attention — separating the more active root from the milder leaf, distinguishing one dock from another within a genus he already found hard to fix, judging the decoction by its bitterness and drawing action. That is a real practice of provenance and assay, not a vital-constitution doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In Unani terms the dock (*ḥummāḍ* type) is a cold, dry drug — the root bitter and downward-draining, the leaf cooling and softening — worked to clear eruptive skin and move a sluggish bowel. The tradition's principal cultivation idea, the conservation of innate heat (*ḥarārat gharīziyya*) and radical moisture as a finite endowment depleted with age, is a frame of the balanced restorative regimen, not a status the corpus assigns to a cooling eliminative purgative of this kind; no gladdening or *ruh*-strengthening role is attested and none is supplied. It sits in the materia medica as a therapeutic drainage agent with no cultivation grade recorded. **(b) framed.**
+
+**Chinese — Shennong / Bencao (SBJ).** Chinese materia medica knows the genus as *yáng tí* 羊蹄 (*Rumex* root), a bitter, cold drug used to clear heat, cool blood and move the stool — but the classical *yáng tí* is an East-Asian *Rumex* (e.g. *R. japonicus*/*crispus*), not this European *R. obtusifolius*, and no *san pin* 三品 grade for this species is recorded in any source retrieved. Within *yang sheng* 養生 — the conservational, nourishing-life project — a cold downward-draining drainage drug of this profile would in any case sit as a therapeutic, not a cultivation, agent. Attested by genus-analogy only, with no cultivation status sourced for this species. **(b) framed.**
+
+**Practitioner's note.** A cultivator does not take dock to build anything. The root is the mild end of the anthraquinone purgative shelf — a short-course downward mover, used sparingly exactly as any stimulant laxative, then stopped. The leaf is a cooling topical comfort (the nettle-sting use taught as cooling and placebo, not chemistry) and a bitter field green to be cooked and its water discarded for oxalate. Across all three traditions the plant is worked to clear and to drain, never to nourish life; the honest cultivation reading is that its own grading and its oxalate load are the warnings, not invitations to habitual use.
+
+---
+
 ### Contraindications
 
 - **Oxalate load (leaves):** *R. obtusifolius* leaves contain soluble oxalates; avoid large or raw quantities. Contraindicated in oxalate kidney-stone formers and in renal impairment; large ingestions of oxalate-rich *Rumex* foliage can be toxic.

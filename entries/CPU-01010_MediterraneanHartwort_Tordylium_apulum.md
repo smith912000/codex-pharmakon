@@ -79,6 +79,18 @@ Because clinical dosing data do not exist for this species, the table below refl
 
 ---
 
+### Cultivation Register
+
+**Assyrian / Mesopotamian (AT).** The cuneiform materia medica names many aromatic umbelliferous seeds worked by the *asû* as diuretics and "openers" of the urinary tract, but no cuneiform entry can be mapped onto *Tordylium apulum* with confidence, and Mesopotamian illness is classified by causal agency (divine hand, ghost, oath) rather than by any doctrine of what a substance does to a person's vital constitution. Under the standing blocking warning for Assyrian substance identifications, no cultivation status is claimed here; the association is genus/family-level and therapeutic at most. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Tordylion* enters *De Materia Medica* as a warming, drying umbellifer seed — a diuretic that moves the urine, an emmenagogue, an expectorant — and Dioscorides carries no subtle-body system that could assign it a cultivation status. What the tradition offers a cultivator is instead his discipline of attention: the seed as the true medicinal organ, the aroma and pungency read as the sign of the drug's temperament, and — pointedly for this plant — the honesty that the name *tordylion* covered a cluster of related umbellifers, so that provenance and positive identification are the real practice. That is a discipline of assay, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The Greek umbelliferous seed drugs passed wholesale into the Arabic pharmacopoeia as warm-and-dry *mudirr al-bawl* (diuretic) and *muhallil* (resolvent) agents, and *tordylion* belongs to that functional class by its Galenic temperament rather than by a monograph of its own. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture as a finite vital endowment — is a longevity frame of the whole regimen, not a status assigned to a draining, drying diuretic seed, and no *mufarrih* or cardiac-*ruh* role is claimed for it. Its standing here is therapeutic and class-derived, not cultivational. **(b) framed:** attested by class, no cultivation status sourced.
+
+**Practitioner's note.** Nothing here is a longevity substance in any of the three traditions. What a cultivator actually does with *Tordylium apulum* is the thing the living Mediterranean tradition supports and the classical texts never framed as cultivation: gather the correctly identified spring green and eat it in quantity as a bitter-aromatic depurative food, taking the antioxidant and digestive-stimulant benefit that the modern record does support. The classical diuretic and expectorant reputation is carried forward as traditional and unproven, not as a vital-body action — and the photoactive coumarin chemistry argues for the food, not concentrated "medicinal" doses. The first discipline is Dioscorides' own: identify the plant before eating it.
+
+---
+
 ### Contraindications
 
 **Furanocoumarin photosensitisation (primary safety concern).** As an Apiaceae carrying coumarins — a class that in this family very often includes phototoxic furanocoumarins (psoralens) — *Tordylium apulum* should be assumed capable of causing **phytophotodermatitis**: contact with the sap or plant, followed by UV/sunlight exposure, can produce burning, blistering and long-lasting hyperpigmentation. Foragers handling large quantities of the fresh plant in sun are at particular risk. Internal photosensitisation is also theoretically possible. Avoid strong sun exposure after heavy handling or ingestion.

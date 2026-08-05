@@ -84,6 +84,18 @@ According to PubMed:
 
 ---
 
+### Cultivation Register
+
+**Assyrian (AT).** The cuneiform *materia medica* worked woolly aromatic hill-country simples as belly-warming, wind-dispersing drugs ground into beer or honey for *libbu* complaints, but a secure identification of *Teucrium polium* in the Assyrian corpus does not exist — the grey Lamiaceae are readily confused in translation. Under the standing blocking warning for Assyrian substance identifications and their causal-agency framing, and with even the plant's presence unverified, no cultivation status can be claimed; whatever attestation may exist is therapeutic, aimed at a named belly complaint rather than at the constitution of the person. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Polion* is given a systematic account in Book III as a slender, whitish, strong-smelling bitter of stony ground that "warms and thins," taken in wine for indigestion, visceral obstruction, dropsy, and as an emmenagogue and wound-herb. Dioscorides carries no subtle-body doctrine into which such a herb could be assigned a cultivation status; what he offers a cultivator instead is his discipline of attention — the sensory assay of a genuinely bitter, aromatic, felty herb of dry limestone, the season and stony habitat of gathering, and the guard against the confusable grey mints substituted for it. That discipline is the real practice here, and in this species it is also the first line of safety, since the bitterness he trusted as the mark of virtue is the sensory signature of the very diterpenes that injure the liver. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** *Ja'deh* is classed hot and dry in the second degree, a bitter *muqawwī* (tonic) for the stomach and liver, *mufattiḥ* (deobstruent), *kāsir-e-riyāḥ* (carminative) and *mudirr* (emmenagogue/diuretic) — a hot bitter opener of cold, blocked viscera. The strongest cultivation idea in the Unani corpus, the conservation of innate heat (*ḥarārat gharīziyya*) and radical moisture (*ruṭūbat aṣliyya*) across a lifetime, is a longevity frame of the whole regimen, not a status the tradition assigns to this particular drug; *ja'deh* is a *muqawwī* directed at a weak organ, and no *mufarrih* or cardiac-*ruh* role is recorded for it. Its standing is therapeutic, and the tradition's own logic — a "liver-opener" whose modern chemistry shows it is a liver-toxin bio-activated by that same organ — argues against, not for, any conservational use. **(b) framed:** attested therapeutically, no cultivation status sourced.
+
+**Practitioner's note.** Nothing here is a longevity substance, and this is the entry where that verdict carries a hazard warning rather than a shrug. Across all three traditions *T. polium* is a hot bitter worked for a sluggish, cold, obstructed stomach — an occasional digestive priming bitter at culinary strength and nothing more. The folk extension into daily antidiabetic tea is exactly the exposure pattern that has produced documented human hepatitis, so a cultivator does not run this plant as a standing tonic; the tradition's ubiquity is not evidence of safety, and the bitterness is as much a warning as a virtue.
+
+---
+
 ### Contraindications
 
 - **Any pre-existing liver disease, or concurrent hepatotoxic drugs/alcohol:** absolute contraindication — documented human hepatitis, occasionally fulminant.

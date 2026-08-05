@@ -71,6 +71,18 @@ Doses are traditional-scale and not standardised in modern clinical practice; tr
 - **Action:** drying, resolvent/discutient, alterative-depurative, blood-cooling; cold-and-dry in the Yūnānī frame; "clears heat, cools blood, dissipates nodules" in the shared Xuan Shen idiom.
 - **Organ affinity:** skin, lymphatics/glands, blood; lower bowel (piles).
 
+### Cultivation Register
+
+**Assyrian / Mesopotamian (AT).** Cuneiform therapeutic texts carry many plaster and poultice drugs for swellings and lumps, and a figwort-type resolvent could plausibly sit among them, but no specific Akkadian plant name can be tied to *S. nodosa* without a philological source. Under the standing blocking warning in force for Assyrian substance identifications and their causal-agency framing — where a drug is classified partly by which agency (divine hand, ghost, oath) it opposes — no cultivation status is claimed for this species. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** The bitter, ill-scented *Scrophularia*/galion group was used as a cooling, drying resolvent for hard swellings, glandular enlargements and skin disease, with *nodosa* sitting under a genus-level classical heading rather than a single unambiguous Dioscoridean chapter. Dioscorides holds no subtle-body system by which to grant this drug a cultivation status; what the tradition gives a cultivator instead is his discipline of attention — the correct identification of an acrid, foul-smelling herb, the season and part gathered, the honest separation of a plant's resolvent action from the resemblance-magic later hung upon it. That discipline is a real practice, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The Arabic-Persian canon carried figwort-type herbs among the *muhallil* (resolvent/discutient) and depurative drugs — cold-and-dry agents to "dissolve hard tumours" of the glands and cleanse the blood in chronic skin eruptions — with the attestation at the level of the genus/drug rather than *nodosa* by botanical name. The tradition's governing cultivation idea, conservation of the innate heat and radical moisture as a finite vital endowment, is a frame for the longevity regimen as a whole and is not a status assigned to a cold-dry alterative; no gladdening (*mufarrih*) or *ruh*-strengthening role is claimed for it. Attested therapeutically, no cultivation status recorded. **(b) framed.**
+
+**Practitioner's note.** No tradition here treats figwort as a substance for building vitality; it is a Clearing-phase alterative, worked for hot, stagnant, eruptive tissue — chronic dermatoses, minor benign glandular swelling, piles — internally in short bitter courses or externally as a wash or ointment, with a cardiac caution on internal use. The one cultivation-relevant act the traditions' signature doctrine actively *discouraged* is the one a practitioner must keep: name and image any persistent neck lump before reaching for the herb. What a cultivator does with figwort is modest and time-limited; what it is not is a daily tonic.
+
+---
+
 ### Contraindications
 
 - **Cardiac caution:** *Scrophularia* contains cardioactive constituents — **avoid in patients with heart conditions or on cardiac glycoside therapy** (e.g. digoxin). This is the principal internal-use warning.

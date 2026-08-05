@@ -84,6 +84,18 @@ According to PubMed:
 
 ---
 
+### Cultivation Register
+
+**Assyrian (AT).** The Mesopotamian herbal worked pungent *ṣa'tar*-type hill aromatics for stomach wind, worms, and as preservatives and fumigants, but the thyme/savory/oregano cluster is philologically tangled and a species-level identification of *Satureja montana* in the tablets cannot be asserted. Under the standing blocking warning for Assyrian identifications and the tradition's classification of illness by causal agency, and with the plant's presence in the corpus itself unverified, no cultivation status is claimed; any attestation would be therapeutic and preservative — directed at a griping belly or spoiling food, not at the vital constitution of the person. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Thymbra*, the savory group, is treated as a hot, sharp, thinning herb — carminative for the belly, diuretic, emmenagogue, and a digestive aid — grouped with the acrid culinary aromatics. Dioscorides carries no subtle-body system into which savory could receive a cultivation status; what the tradition offers a cultivator is his discipline of attention, the sensory assay of a genuinely pungent, carvacrol-hot herb of sun-baked karst, and the care to hold winter savory (*S. montana*) distinct from the milder summer savory (*S. hortensis*) that shares its name but not its potency. That discriminating attention to identity and strength is the real practice. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** *Ṣa'tar jabalī* is classed hot and dry in the third degree — strongly heating — and worked as *hāḍim* (digestive), *kāsir-e-riyāḥ* (carminative), *mufattiḥ* (deobstruent), anthelmintic, and expectorant for cold, phlegmy chests. The tradition's deepest longevity idea, the lifelong conservation of innate heat and radical moisture, is a frame of the whole regimen rather than a status assigned to this strongly hot-dry drug; *ṣa'tar jabalī* is directed at cold, windy, phlegmatic viscera, and no *mufarrih* or cardiac-*ruh* role is recorded for it. Its standing is therapeutic and dietetic, not a formal cultivation status. **(b) framed:** attested therapeutically, no cultivation status sourced.
+
+**Practitioner's note.** A cultivator uses winter savory as a kitchen herb, not a tonic — a culinary-dose antiseptic-carminative scattered over fatty, fermentable, spoilage-prone meals, or a mild short-course infusion for post-prandial wind. The concentrated essential oil is a mucosal irritant and out of scope for casual internal use. The satyr-aphrodisiac reputation is a pun on the genus name with no chemical substrate; it earns nothing from a cultivator. Season the meal, ease the gut, and expect no more than that. **(c) absent** overall as a cultivation substance.
+
+---
+
 ### Contraindications
 
 - **Pregnancy and lactation:** contraindicated — traditional emmenagogue; carvacrol/thymol-class phenols and possible uterine-stimulant activity make concentrated exposure inadvisable in pregnancy; keep to trace culinary amounts if at all.

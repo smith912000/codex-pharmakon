@@ -63,6 +63,18 @@ Handled scrupulously: **quality-of-life and fatigue signals are real but modest 
 - **TCM:** Chinese medicine uses a *different* mistletoe — *sāng jì shēng* (桑寄生, *Taxillus/Loranthus*) — to tonify liver/kidney and calm the fetus; this is **not** *Viscum album* and its indications must not be transferred here.
 - **Āyurveda:** Not classically attested for *V. album*; do not invent a rasa/vīrya profile.
 
+### Cultivation Register
+
+**Assyrian (AT).** Aerial and parasitic plants carried omen and remedy weight in Mesopotamian practice, and illness there is classified by causal agency — the hand of a god, a ghost, a broken oath — so a substance is partly known by the agency it is set against. But a firm *Viscum album* identification cannot be drawn from the cuneiform herbals; the attribution in this entry is categorical, not lexical. Under the standing blocking warning in force for every Assyrian substance identification, deity attribution and tablet reference, no cultivation status is claimed and none can be. Cultivation status: **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Ixos*, the mistletoe/bird-lime, is given a therapeutic account for its sticky viscin as a resolvent and emollient that softens indurations and swellings, and Dioscorides carries no subtle-body doctrine into which a cultivation status could be set. What the tradition offers a cultivator is instead his discipline of attention — knowing which host and season yield the true glue, assaying the viscin by hand, guarding against adulteration. That is a real practice of provenance and sensory judgement, not a vital-body teaching. The mythic "all-healing" *omnia sanantem* of the oak-mistletoe belongs to Pliny's report of the Druids, not to Dioscorides, and is a cultural sacred-standing of the plant rather than a cultivation status he assigns. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Viscum is classed warm and dry, a resolvent and maturant that ripens and disperses cold, hard swellings, with a folk internal extension for the falling sickness and later for vertigo and high blood. The strongest cultivation idea in the Unani corpus is the conservation of innate heat and radical moisture — the finite vital endowment whose depletion *is* ageing — but that is a frame of the whole regimen, not a status the tradition assigns to this warming resolvent, and no *mufarrih* or cardiac-*ruh* role is attested for it. Attested therapeutically; no cultivation status sourced. **(b) framed.**
+
+**Practitioner's note.** Nothing in the three tagged traditions makes mistletoe a substance a cultivator takes to build or conserve vitality. In all three it is worked as a resolvent for hard swellings, or its identity cannot even be fixed. The plant's later cultivation-sounding reputation is two distinct overlays that post-date these traditions and must not be read back into them: the Druidic "golden bough" sacred standing reported by Pliny, and Rudolf Steiner's 1920 anthroposophic doctrine that turned symbolic analogy into injectable cancer extracts. A cultivator's honest use here is candour and restraint — the raw plant and berries are toxic, and the injectable extracts are a supervised, contested oncology adjunct, not a longevity practice.
+
+---
+
 ### Contraindications
 
 - **Toxicity:** raw plant and berries are toxic (RIP lectins + viscotoxins) — ingestion can cause gastrointestinal and, in serious exposures, systemic toxicity; **never** self-administer orally.

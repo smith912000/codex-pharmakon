@@ -73,6 +73,18 @@ Oral therapeutic dosing for *T. catappa* leaf is not standardised in the clinica
 - **Action:** drying, contracting, blood- and liver-cooling; *pitta*-pacifying in Āyurvedic terms; cold-and-dry in the Yūnānī frame.
 - **Organ affinity:** liver, skin, gut mucosa, blood.
 
+### Cultivation Register
+
+**Unani — Avicenna (CM).** Within the Yūnānī frame the working myrobalans — *halīlaj* (*chebula*) and *balīlaj* (*bellirica*) — are cold-and-dry correctives (*muṣliḥ*) that "strengthen the stomach and liver" and settle bilious excess; *T. catappa* enters only as a later-recognised congener carried on that astringent-hepatic doctrine, not as a species the tradition named directly. The corpus's deepest cultivation idea is the conservation of the **innate heat and radical moisture** — the finite vital endowment whose slow depletion *is* ageing, so that longevity practice is conservation rather than acquisition — but that is a frame governing the whole regimen, not a status the tradition assigns to a single cooling astringent, and no gladdening (*mufarrih*) or *ruh*-strengthening role is claimed for this drug. Attested therapeutically only by genus inheritance; no cultivation status is recorded. **(b) framed.**
+
+**Chinese — Shennong stratum (SBJ).** *T. catappa* is a pantropical strand tree lying outside the flora of the classical *Bencao*; the myrobalan that actually entered Chinese materia medica is its cousin *T. chebula* (诃子, *hēzi*), and no *san pin* 三品 grade — neither the upper 上品 (substances taken long-term to nourish life), the middle 中品, nor the lower 下品 — is recorded for *catappa* in the sources retrieved. It therefore sits inside no *yang sheng* 養生 project and carries no *qing shen* 輕身 claim; the Shennong tag reflects genus proximity rather than any classical listing of this species. **(c) absent.**
+
+**Sushruta — Āyurveda (SS).** *Terminalia* is central to the tradition — the genus supplies two-thirds of *Triphala* — and its drugs are worked as *kaṣāya* (astringent) *rasa*, *ruksha* (drying), *tridoṣa*-balancing with special action on *pitta* and *rakta*. But the formal rejuvenative disciplines, *rasayana* and *vajikarana*, attach in the classical *nighaṇṭus* to Harītakī (*T. chebula*) and Bibhītakī (*T. bellirica*), not to *catappa*, which the Sanskrit sources name far more sparingly and disputably. No *rasayana* or *vajikarana* status is recorded for *T. catappa* itself; its standing is therapeutic and dietetic — an astringent *pitta*-pacifier — not a formal rejuvenative grade. To transfer *chebula*'s *rasayana* rank to *catappa* would be a species error the tradition does not license. **(b) framed.**
+
+**Practitioner's note.** Nothing here is a longevity substance in any of the three traditions. Across all of them *T. catappa* rides on the astringent-hepatic doctrine of its more famous cousins rather than holding a cultivation grade of its own: it is a Consolidation-phase sealing drug, worked topically on clean, granulating wounds and taken in short oral courses for fluxes and folk-hepatic support, then stopped. A cultivator takes it for a defined tissue-toning job on a short course, not as a daily substance to build vitality — and the tannin cautions are themselves the argument against long-term use.
+
+---
+
 ### Contraindications
 
 - **Tannin load:** high-tannin decoctions can cause nausea, gastric irritation and constipation; prolonged oral use may impair non-heme **iron absorption** and, in excess, burden the liver rather than support it. Keep oral courses short.

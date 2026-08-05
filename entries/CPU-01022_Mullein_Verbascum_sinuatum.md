@@ -56,6 +56,18 @@ The anti-inflammatory half of the demulcent doctrine is the best-supported. Acco
 - **TCM:** Not a classical Chinese materia medica item — **not attested** (do not assign a channel/flavour profile).
 - **Ayurveda:** Not classically attested for *V. sinuatum* — **not attested**.
 
+### Cultivation Register
+
+**Assyrian / Mesopotamian (AT).** Woolly mullein-type plants sit within the broad Near-Eastern repertoire of poultice and respiratory materials worked by the *asû*, but the specific cuneiform identification cannot be fixed to *Verbascum sinuatum* without inventing an Akkadian name, and Mesopotamian nosology classifies illness by causal agency (divine hand, ghost, oath) rather than by any account of what a substance does to the vital constitution. Under the standing blocking warning for Assyrian identifications, no cultivation status is claimed; the association is group-level and, at most, therapeutic. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Phlomos* is given a therapeutic account among the remedies for cough, hoarseness and inflamed passages, with the leaves in poultice for eye and skin irritation, and Dioscorides carries no subtle-body system that could assign the plant a cultivation status. What the tradition offers a cultivator is his discipline of attention — the demulcent leaf and flower as the medicinal organs, the recording of the seed's fish-stupefying use with the sober recognition that the same plant is soothing at one dose and destructive at another. That is a practice of assay and dosage judgement, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The Persianate physicians classed the mullein leaf and flower as a cooling, moistening, softening (*mulattif/muraḫḫī*) drug for cough, chest roughness and earache — a cold-and-moist humoral placement opposing a hot, dry, barking cough. The strongest cultivation idea in the Unani corpus, the conservation of innate heat and radical moisture as a finite vital endowment, is a longevity frame of the whole regimen and not a status the tradition assigns to a symptomatic demulcent; no *mufarrih* or cardiac-*ruh* role is claimed for it. Its standing here is therapeutic, not cultivational. **(b) framed:** attested therapeutically, no cultivation status sourced.
+
+**Practitioner's note.** Nothing across the three traditions treats mullein as a substance taken to build or conserve vitality; it is a symptomatic soother. What a cultivator does with *Verbascum sinuatum* is narrow and honest: strain the leaf-and-flower infusion through fine cloth (the hairs themselves irritate) and drink it to coat and calm a dry, raw, irritable cough, or warm the flower-infused oil into an intact ear for earache. The two-target reading — mucilage blanketing the membrane while verbascoside and the iridoids turn down the inflammation beneath — is the real teaching. The seed and any concentrated saponin fraction are excluded, not dosed: that is the piscicidal, membrane-dissolving side of the same plant.
+
+---
+
 ### Contraindications
 
 - **Fine leaf hairs are throat-irritant** — always strain infusions through fine cloth; the unstrained "hairy" tea can worsen the very cough it is meant to soothe.

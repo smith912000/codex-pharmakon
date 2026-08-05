@@ -61,6 +61,18 @@ There is a coherent, if indirect, chain from doctrine to molecule: coumarins and
 - **TCM:** Not classically attested (*V. opulus* is not a canonical Chinese materia medica species). Do not assign a category.
 - **Ayurveda (rasa/guṇa/vīrya/vipāka):** Not attested for this species; no authentic Sushruta identification. Do not invent one.
 
+### Cultivation Register
+
+**Assyrian / Mesopotamian (AT).** The Nineveh tablets list many astringent barks and *šassūru* ("womb") remedies given by the *asû* for gynaecological gripping and retained menses, but no single Akkadian plant-name can be fixed to *Viburnum opulus* with confidence, and Mesopotamian illness is classified by causal agency (divine hand, ghost, oath) rather than by any doctrine of what a substance does to a person's vital constitution. Under the standing blocking warning for Assyrian identifications, no cultivation status is claimed; the association is a tradition-category claim, therapeutic at most. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** The astringent bark and fruit of *Viburnum* were placed among the *styptika*, the binding, drawing remedies used to check fluxes and haemorrhage, and Dioscorides carries no subtle-body system that could assign the plant a cultivation status. What the tradition offers a cultivator is his discipline of attention — the bark and fruit as the medicinal organs, the astringency read directly from the drawing, tissue-tightening sensory effect, the drug located by its binding action rather than by any vital-constitutional role. That is a practice of assay, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The Galenic-Unani frame places a cold, dry, astringent bark as the corrective for a hot, turbulent, spasmodic motion of the lower organs, cramp bark sitting on the fault-line between *qābiḍ* (astringent, binding) and *murakhī* (relaxant, opening) — a genuine humoral placement. The strongest cultivation idea in the Unani corpus, the conservation of innate heat and radical moisture as a finite vital endowment, is a longevity frame of the whole regimen and not a status the tradition assigns to a symptomatic spasmolytic; no *mufarrih* or cardiac-*ruh* role is claimed. Its standing here is therapeutic, not cultivational. **(b) framed:** attested therapeutically, no cultivation status sourced.
+
+**Practitioner's note.** None of the three traditions treats cramp bark as a substance taken to build or conserve vitality; it is a corrective, given *into* an acute cramping event or cyclically in the days of expected pain and then withdrawn — the opposite of a long-term cultivation drug. What a cultivator does with *Viburnum opulus* is use the bark decoction or tincture for dysmenorrhoeic cramping and after-pains, understanding that the confident name outruns the trial evidence, and cook the fruit before any culinary use because raw berries are emetic. The astringent-relaxant paradox Dioscorides and Avicenna read off the bark is real chemistry, but it is a therapy for spasm, not a nourishing of the person.
+
+---
+
 ### Contraindications
 
 - **Raw berries are mildly toxic and emetic** — they contain irritant principles and must be cooked before any culinary use; raw ingestion can cause nausea, vomiting, and cramping (the ironic opposite of the intended effect).

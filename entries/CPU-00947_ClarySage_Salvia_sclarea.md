@@ -86,6 +86,18 @@ According to PubMed:
 
 ---
 
+### Cultivation Register
+
+**Assyrian (AT).** Mesopotamian ophthalmic practice used mucilaginous seeds and plant gums on the eye to lift specks and soothe inflammation, and aromatic sages as fumigants and women's remedies — but a secure species-level identification of *Salvia sclarea* in the tablets cannot be asserted. Under the standing blocking warning for Assyrian identifications and the tradition's classification of illness by causal agency, and with the plant's presence in the corpus unverified, no cultivation status is claimed; any attestation would be therapeutic and mechanical — a seed to draw grit from the eye, a warming womb-aromatic — not a status conferred on the person's vital constitution. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Horminon*, the clary/wild-sage type, is treated among the warming, drying, aromatic sages, noted specifically for its sticky mucilaginous seed used to draw foreign bodies and films from the eye, and for the sages' emmenagogue, womb-warming action. Dioscorides carries no subtle-body doctrine into which this could become a cultivation status; what he offers a cultivator is his discipline of attention — recognising the resin-sticky biennial sage, holding it distinct from the thujone-bearing common sage that shares the name, and understanding the seed as a soft-matter tool whose action is hydrogel physics, not pharmacology. That discrimination is the real practice. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Clary, a *qurrat al-'ayn* ("coolness of the eye") type, is classed a warm, dry aromatic sage: the mucilaginous seed *jālī* (cleansing) to the eye, the herb *muḥallil* (resolvent), a nervine/calmative and an emmenagogue/uterine aromatic. The tradition's deepest longevity idea, the lifelong conservation of innate heat and radical moisture, frames the whole regimen rather than assigning this mild warm-dry aromatic a status; clary is directed at the eye, the nerves, and the womb, and while its calmative aromatic action is the nearest thing here to a *ruh*-gladdening role, no *mufarrih* status is recorded for it in the sources. Its standing is therapeutic and dietetic, not a formal cultivation status. **(b) framed:** attested therapeutically, no cultivation status sourced.
+
+**Practitioner's note.** A cultivator's use of clary sage is narrow and route-restricted: the flower oil (linalyl acetate + linalool) inhaled or diffused as a calmative wind-down on high-stress RESET evenings, and — traditionally, aromatherapy-framed — for menstrual comfort. The oil is markedly sedating, is not for ingestion, and is cautioned against in pregnancy. The historic clear-eye seed technique is documented physics but not practised, given infection risk and modern eye care. None of this is a longevity tonic; it is targeted, occasional, symptomatic support. **(b) framed** overall, resting on the calmative aromatic strand rather than any conservational status.
+
+---
+
 ### Contraindications
 
 - **Pregnancy (until term):** avoid — traditional emmenagogue and uterine aromatic; do not use for calming or menstrual purposes while pregnant.
