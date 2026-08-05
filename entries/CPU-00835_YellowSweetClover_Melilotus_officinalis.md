@@ -52,6 +52,18 @@ According to PubMed: an experimental study of *Melilotus* extract on high-protei
 - **Dioscoridean/Greek:** emollient, resolving; for inflammations and gatherings via cataplasm.
 - (No canonical TCM channel-entry or Ayurvedic rasa attribution is asserted here — the plant's documented tradition in this Codex is Assyrian–Unani–Greek.)
 
+### Cultivation Register
+
+**Assyrian (AT).** Aromatic meadow clovers sit within the oldest Near-Eastern stratum of softening, resolving external applications — poultices and fomentations laid over congested or painful tissue. But the identification of *Melilotus officinalis* specifically within the cuneiform record is a modern botanical hypothesis over generic sweet-smelling-herb terms, and the standing blocking warning is in force for every Assyrian substance identification and tablet reference. The Mesopotamian corpus, moreover, classifies illness by causal agency — divine hand, ghost, oath — rather than by what a drug does to a person's vital constitution, so no cultivation status could be read off it even were the identification secure. Nothing here assigns melilot a status in a vital-body scheme; the attestation, such as it is, is external and therapeutic. Cultivation status: **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Melilōtos* is genuinely and systematically attested in *De Materia Medica*: Dioscorides describes its emollient cataplasms for inflammations and gatherings of the stomach, eyes and other soft-tissue swellings, typically worked up with wine or other bases. This is a secure therapeutic attestation — but Dioscorides carries no subtle-body doctrine into which a cultivation status could be assigned, and none should be manufactured for him. What the tradition actually offers a cultivator of this plant is his discipline of attention: the correct emollient base, the identification of the true resolving herb, the judgement of when a softening cataplasm is called for over an astringent one. That is a real practice of provenance and sensory assay, not a vital-body classification. As to cultivation status proper: **(c) absent.**
+
+**Unani — Avicenna (CM).** Under the name *iklīl al-malik* ("the king's crown/garland") melilot is a well-defined drug of the *Qanun* lineage, classed warm and dry, mollient and discutient, applied to disperse hard swellings, soothe inflamed eyes, ease headache and relax spasm. This is a fully articulated therapeutic identity. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture, the finite vital endowment whose depletion *is* ageing — is a frame of the whole regimen, not a status the tradition assigns to this particular warm, resolving external drug; and no *mufarrih* (cardiac-*ruh*, gladdening) role is recorded for it in the sources retrieved, which would in any case belong to the *Kitāb al-Adwiya al-Qalbiyya* and not the *Canon*. Melilot is therefore attested here as a therapeutic drug with no cultivation status sourced. **(b) framed:** claimed by the tradition, no vital-conservation status recorded.
+
+**Practitioner's note.** A cultivator does nothing long-term with this plant. Across all three lineages melilot is an external and short-course resolving drug — a poultice or compress for a bruise, a hard swelling, a congested oedema; taken internally only as a dose-defined venotonic under the standing bleeding caution. Its coumarin is precisely what makes it both the remedy and, once the herb moulds into dicoumarol, the poison; that alone rules it out of any regimen of daily vital nourishment. Use sound, well-dried material for the defined job, then stop.
+
+---
+
 ### Contraindications
 
 ⚠️ **BLEEDING HAZARD — FLAG IN FULL.**

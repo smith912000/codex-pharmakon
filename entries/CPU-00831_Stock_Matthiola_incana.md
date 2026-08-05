@@ -55,6 +55,18 @@ According to PubMed, *Matthiola incana* has been studied almost entirely as a **
 - **TCM:** No classical Chinese placement (not tagged CM).
 - **Ayurvedic:** No classical Ayurvedic placement (not tagged SS). Functionally a fragrant, *sattvic*-leaning aromatic by analogy only — interpretive, not canonical.
 
+### Cultivation Register
+
+**Assyrian (AT).** The Mesopotamian record gathers fragrant garden flowers for aromatic waters, unguents and fumigations meant to gladden the heart and sweeten the sickroom, and illness is classified there by causal agency — a substance is read partly by what agency it opposes. But under the standing blocking warning that governs every Assyrian substance identification and tablet reference, and given that *Matthiola incana* is a Mediterranean crucifer whose presence in Assyrian gardens is not securely established, no cultivation status is claimed here. The attribution is at the level of a general class of scent-remedies, not a sourced identification of this species. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides treats the *leucoion* — the white-violet / stock-gillyflower group of fragrant crucifers — as a mild aromatic and external remedy, the flowers steeped in oil for warming applications and used as a gentle emmenagogue. The account is at group level; he does not distinguish the modern *Matthiola incana* from allied fragrant crucifers. Dioscorides carries no subtle-body system to which a cultivation status could be assigned, so what the tradition offers a cultivator is instead his discipline of attention — provenance, the season of gathering, the sensory assay of a fragrant oil, the guard against adulteration. That is a real practice of judgement, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the Perso-Arabic and later Greco-Arabic stream the gillyflower (*khīrī*) is classed warm and dry, its fragrant oil counted among the gentle warming aromatics and its conserves among the cordials said to comfort the heart. This places it near the tradition's *mufarrih* (gladdening) drugs that are held to strengthen the *ruḥ* — but that class belongs to the *Kitāb al-Adwiya al-Qalbiyya*, not the *Canon*, and no cardiac-*ruḥ* constituent status is published here for it. The one true cultivation idea of the corpus — conservation of innate heat and radical moisture — is a longevity frame of the whole regimen, not a status assigned to a minor fragrant cordial. The species is attested in use as a warm aromatic; no cultivation grade is recorded. **(b) framed.**
+
+**Practitioner's note.** A cultivator does almost nothing internal with this plant. Its entire working identity is fragrance and beauty — an aromatic water, a scented oil, a flower conserve used to lift low mood and sweeten convalescence, the *experience* of the flower being the medicine. Across all three traditions it is a Settling-phase cordial of scent, not a substance taken to build or conserve vitality, and the genus-level cardiac-glycoside caution is reason enough to keep any internal use to the culinary-cordial margin. The honest cultivation answer for stock is: enjoy the scent, and do not dose it.
+
+---
+
 ### Contraindications
 
 - **Cardiac caution:** Because some *Matthiola* species have been reported to contain cardiac-glycoside-like (cardenolide) compounds, internal infusions or extracts should be avoided by anyone with heart disease, arrhythmia, or taking digoxin/other cardiac glycosides, and should not be self-dosed by anyone. External and aromatic (scent) use carries no such concern.

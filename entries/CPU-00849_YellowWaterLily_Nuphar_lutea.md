@@ -52,6 +52,18 @@ According to PubMed, *Nuphar lutea* extracts and their nupharidine alkaloids sho
 - **TCM (by functional analogy):** cooling, astringent; would be read as clearing heat and consolidating — no canonical classical entry is claimed.
 - **Ayurvedic (attributed by energetics):** *rasa* astringent/bitter; *virya* cooling (shita); *vipaka* pungent; pitta-pacifying, potentially vata-aggravating and kapha-neutral in the cold-dry direction.
 
+### Cultivation Register
+
+**Assyrian (AT).** Water-lily and marsh-plant rhizomes appear in the Mesopotamian pharmacy as cooling, binding remedies for fluxes and inflammations, worked as poultices and washes. Species-level identification from the tablets is approximate, and under the standing blocking warning in force for Assyrian substance identifications, deity/demon attributions and tablet references, no cultivation status is claimed here; illness in this corpus is classified by causal agency, and nothing assigns *Nuphar* a standing in a vital economy. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Nymphaia* is recorded with a strongly astringent root for fluxes and dysentery, and reputed — taken in wine — to cool sexual appetite. Dioscorides carries no subtle-body system to which such a status could attach; the anaphrodisiac note is a reputation he transmits, not a doctrine of the vital constitution. What the tradition offers a cultivator is instead his discipline of attention — the astringency assayed by taste, the root gathered and identified, the reputed use recorded while held at arm's length. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** *Nūfar* (nenuphar) is a named cooling agent classed cold-moist to cold-dry, used to quiet heat, temper excess sexual heat, calm palpitations of "hot" origin and check fluxes. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture, ageing being their depletion — is a frame of the whole regimen of temperance, not a status the tradition assigns to this particular refrigerant; the anaphrodisiac cooling is a corrective of humoral excess, and no *mufarrih* or cardiac-*ruh* strengthening role is claimed for it (the *mufarrih* materials belong to the *Kitāb al-Adwiya al-Qalbiyya*, not to a cooling astringent of this kind). **(b) framed** — attested therapeutically, with no cultivation status sourced.
+
+**Practitioner's note.** A cultivator reaches for this plant as a corrective, not a tonic, and by strong preference not internally. Its defensible job is astringent and topical — a rhizome wash or compress for inflamed, weeping or lax tissue in a hot, over-excited state — used briefly and then stopped. The famous anaphrodisiac use is a doctrinally-driven cooling of "hot" desire with no controlled human evidence behind it, and the sesquiterpene thioalkaloids make casual internal dosing genuinely hazardous. Nothing here is taken to build vitality; the whole direction of the plant is subtraction — cooling and binding an excess — which in the Unani reading is temperance, not accumulation.
+
+---
+
 ### Contraindications
 
 - **⚠️ Alkaloid toxicity.** The sesquiterpene thioalkaloids are bioactive at low doses; internal use carries a real risk of **cardiovascular and neurological toxicity** and must not be self-administered. Prefer external preparations; keep internal use expert-supervised or avoid entirely.

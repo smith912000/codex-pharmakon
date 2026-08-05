@@ -53,6 +53,18 @@ For the antiviral use: lemon balm essential oil showed potent in-vitro inhibitio
 - **Dioscoridean/Greek:** stomachic and calming; poultice for stings and bites.
 - (No canonical TCM channel-entry or Ayurvedic rasa attribution is asserted here — this Codex documents balm's Assyrian–Unani–Greek lineage.)
 
+### Cultivation Register
+
+**Assyrian (AT).** Fragrant mints belong to the deepest Mesopotamian layer of leaf-drugs worked into infusions and fomentations to settle the stomach and lift the spirits, and lemon balm is placed in that current here. But the specific identification of *Melissa officinalis* within the cuneiform record rests on generic aromatic-herb terms, not a secure botanical match, and the standing blocking warning governs every Assyrian substance identification and tablet reference. The corpus classifies illness by causal agency rather than by a drug's action on a person's vital constitution, so no cultivation status could be lifted from it even were the plant securely identified. The attestation is at best therapeutic and provisional. Cultivation status: **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Melissophyllon* ("bee-leaf") is securely attested in *De Materia Medica* — Dioscorides notes the plant's draw to bees and its use in wine or as a poultice for stings and bites and to settle the stomach and womb. This is a real therapeutic attestation, but Dioscorides operates no subtle-body doctrine into which a cultivation status could be entered, and none should be invented for him. What his tradition gives a cultivator of balm is a discipline of attention — recognising the true lemon-scented leaf, gathering it sound, judging the fresh aromatic material against the spent. That is a genuine practice of assay, not a vital-body classification. As to cultivation status: **(c) absent.**
+
+**Unani — Avicenna (CM).** Under *bādranjbūyah* / *turunjān*, lemon balm is a celebrated exhilarant and "heart-gladdener," classed warm and dry in the first degree and given to dispel melancholy and palpitation and to sharpen the mind. This gladdening-of-the-heart role is exactly the *mufarrih* (cardiac-*ruh*-strengthening) territory — but that category belongs to the *Kitāb al-Adwiya al-Qalbiyya* and not to the *Canon*, and this register will not publish a *mufarrih* constituent list or reconstruct such an assignment beyond what the tradition plainly states. The corpus's strongest cultivation idea proper — conservation of the finite innate heat and radical moisture whose depletion *is* ageing — is a frame of the whole regimen, not a longevity status assigned to this warm, gladdening drug. Balm is therefore attested as a therapeutic exhilarant and cardiotonic, with no vital-conservation cultivation status recorded. **(b) framed.**
+
+**Practitioner's note.** What a cultivator does with balm is behavioural and immediate: an evening infusion to steady a restless mind and ease sleep-onset, a carminative for a nervous stomach, a topical extract at the first tingle of a cold sore. Its widest traditional claim — that it "maketh the heart merry" — is a mood-lifting therapeutic action, not a doctrine of building or storing vitality, and it should be worked as the gentle entry-level nervine it is rather than pressed into a longevity role no source grants it.
+
+---
+
 ### Contraindications
 
 ⚠️ **Generally very well tolerated. Note the following cautions.**

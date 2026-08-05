@@ -55,6 +55,18 @@ According to PubMed, the traditional hepatoprotective reputation is supported by
 - **Ayurveda:** *Rasa* (taste) — bitter (*katu/tikta*) in the medicinal form, sweet in the edible cultivar; *Guna* (quality) — light, dry-clearing; *Virya* (potency) — cooling (*shita*); *Vipaka* (post-digestive) — pungent. *Pitta*-pacifying; reduces *kapha*; the bitter form is *shodhana* (cleansing).
 - **Galenic / Unani:** cold and moist; detergent (cleansing) and mildly aperient.
 
+### Cultivation Register
+
+**Unani — Avicenna (CM).** In the Perso-Arabic tradition as practised on the subcontinent the ridge gourd (*turai*) is classed cold and moist, a detergent, mildly aperient cooling vegetable worked to temper hot, bilious states. The one genuine cultivation idea in the Unani corpus is the conservation of innate heat (*ḥarārat gharīziyya*) and radical moisture — but that is a longevity frame belonging to the whole regimen, not a status the tradition assigns to a cooling kitchen cucurbit, and no cardiac-*ruh* (*mufarrih*) role is claimed for it. Its standing here is therapeutic and dietetic, not a cultivation grade. **(b) framed:** attested in use, no cultivation status sourced.
+
+**Chinese — Bencao (SBJ).** *Si Gua* 丝瓜 is not a plant of the classical Shennong stratum: the sponge gourd is a South-Asian cucurbit that reached China comparatively late, and its materia-medica account — the fruit, and the fibrous *Si Gua Luo* 丝瓜络 used to clear heat, cool the blood and unblock the collaterals — is elaborated in Li Shizhen's *Bencao Gangmu* (1596), a late compilation, not in the *Shennong Bencaojing*. No *san pin* 三品 grade is recorded for it in the sources retrieved. Within *yang sheng* 養生, which is conservational rather than curative, it therefore carries a therapeutic and channel-opening status only, not a cultivation one. **(b) framed**, and dated to the 1596 compilation rather than the classic the tag names.
+
+**Ayurveda (SS).** *Koshataki* — the bitter cultivar *Katu Koshataki* — sits among the cooling, *pitta*-pacifying cucurbits, its emetic and purgative bitterness worked inside *shodhana* (cleansing) therapeutics to evacuate excess *pitta* and *kapha* before restorative treatment. *Shodhana* is a real and even measurable Ayurvedic discipline, but it is a preparatory purification, not a rejuvenative cultivation category: no *rasayana* (rejuvenation) or *vajikarana* (generative vitality) assignment is recorded for this drug in the sources retrieved. Its standing is therapeutic and depurative. **(b) framed.**
+
+**Practitioner's note.** Nothing here is a substance a cultivator takes to build vitality. Across all three traditions ridge gourd is a clearer, not a tonic — the cooked sweet fruit lightens summer heat, the bitter juice moves bile on a short course, the dried *Si Gua Luo* fibre opens stagnation in the channels. The loofah is its own emblem: it scours rather than nourishes. In Kenetica's own scheme it is Phase II preparation — used to lower internal heat before deeper building work, then stopped. The bitter and seed/leaf forms are frank evacuants and belong to supervised short-course use, never to a daily longevity regimen.
+
+---
+
 ### Contraindications
 
 - **⚠️ Bitter cultivars / cucurbitacin toxicity.** Wild or accidentally over-bitter ridge gourd concentrates **cucurbitacins**, which cause severe, sometimes violent gastrointestinal toxicity — cramping abdominal pain, profuse vomiting and diarrhoea, and dehydration. Any ridge/sponge gourd that tastes markedly bitter should be discarded, not eaten. Do a small taste-test of an unfamiliar fruit before cooking; if it is strongly bitter, do not consume.
