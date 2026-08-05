@@ -70,6 +70,18 @@ The honest position: **there are essentially no human clinical data on *Reseda l
 - **TCM:** Not attested. *Reseda lutea* has no place in the Chinese materia medica; the Codex does not manufacture one.
 - **Ayurveda:** Not attested. No rasa/guna/virya/vipaka assignment is offered, because no genuine Ayurvedic tradition of this plant exists to draw from.
 
+### Cultivation Register
+
+**Assyrian (AT).** The Resedaceae enter this tradition at the level of plant-family and use-category — the porous class of dye-plants and "yellowing" herbs that stained cloth and were also laid on as salves and plasters — and the entry is explicit that no securely identified tablet names *R. lutea* itself, since the matching of Akkadian plant-names to modern binomials is contested. Illness in the cuneiform corpus is sorted by causal agency rather than by a substance's action on a vital endowment, and under the standing blocking warning in force for every Assyrian identification and tablet reference, nothing here can be raised to a substance-specific cultivation status. The "drawing and staining" intuition is a real folk-observation of the plant's chemistry, not a doctrine of the person's vitality. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *De Materia Medica* places the reseda-type herbs among the wayside pot-herbs and minor discutients (διαφορητικά) — bruised green and laid on hard swellings to disperse them — and builds no systemic pharmacology around the group. Dioscorides carries no subtle-body system in which a cultivation status could be lodged; recording that a bruised herb warms and opens the pores is a therapeutic observation, not a vital-body doctrine. What the tradition offers a cultivator is his discipline of attention: gathering the herb green, recognising that bruising is what activates its sharpness, distinguishing the true drawing plant from the inert. That is a genuine practice of assay, not a cultivation frame. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the Arabic-Persian scheme plants of this kind are read as hot and dry, attenuating (*mulaṭṭif*) and resolvent (*muḥallil*), weakly diuretic (*mudirr al-bawl*) — sharp, mustard-adjacent simples that "cut thick humours," valued far more as a dye (*ṣibgh*) and external resolvent than as an internal drug. It is therefore genuinely attested and used within the tradition, but as a minor attenuant external, with no cultivation standing assigned to it. The tradition's strongest cultivation idea — conservation of innate heat and radical moisture across the whole regimen — is a longevity frame that has nothing to confer on a sharp discutient, and no *mufarrih* or cardiac-*ruh* role is claimed. **(b) framed:** attested therapeutically, no cultivation status recorded.
+
+**Practitioner's note.** A cultivator takes nothing internal from this plant to build vitality — the traditions never made it a champion and the modern data give no reason to. Its honest use is external and narrow: a bruised-herb drawing poultice on a cold, hard, stagnant swelling, removed at the first sting. Its real value in a cultivator's training is as a teaching plant — the clearest simple example of the bruise-to-activate principle, an inert glycoside and a latent enzyme joined only by damage. Learn the principle from it; do not lean on it as a remedy.
+
+---
+
 ### Contraindications
 
 - **Skin.** Isothiocyanate-releasing plants are rubefacient and can blister. Do not apply to broken skin or leave a poultice in place beyond the point of stinging. Patch-test first.

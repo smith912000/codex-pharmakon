@@ -104,6 +104,18 @@ The Kenetica indication follows the Chinese one, restated in modern terms:
 
 **Unani:** the Arabic tradition inherits the Galenic reading (*bārid yābis*) essentially unchanged; no independent doctrine is recorded here.
 
+### Cultivation Register
+
+**Greek — Dioscorides (DMM).** In the *De Materia Medica* the millets (*kenchros*, *elymos*) are grains of the poor and the northern barbarian, read on the humoral grid as cold and dry, astringent and drying to the belly, useful in fluxes, with the heated grain applied in a bag as a dry fomentation. Dioscorides carries no subtle-body doctrine into which a grain could be given a cultivation status; what he offers the cultivator instead is his discipline of attention — the sober assay of a grain's nourishing power against wheat, the recognition that its *lightness* is a deficiency in the feeding of the body. That is a practice of judgement, not a vital-body assignment. **(c) absent** as to cultivation status.
+
+**Chinese — Shennong / Bencao (SBJ).** Millet is admitted to the Chinese materia medica under Su (粟) and Liang (粱) and worked as *xiao mi zhou* congee, read as sweet and slightly salty, cool-to-neutral, entering Spleen, Stomach and Kidney, and given to *harmonise the middle* (和中), supplement Qi (益氣/補虛) and generate fluids (生津). These are the actions of a food deliberately made a drug. But no *san pin* 三品 grade — upper, middle or lower — is attested for *Setaria italica* in any named scholarly translation retrieved here; the grading found in wellness and clinical-TCM web sources is not a sufficient source under the project's rule. Within *yang sheng* 養生, nourishing life through conservation, millet therefore sits as a therapeutic and convalescent food, not a graded cultivation substance. **(b) framed:** attested in the materia medica, no cultivation grade sourced.
+
+**Ayurveda (SS).** Foxtail millet is a *kudhanya*, one of the lesser grains, classed *laghu* (light), *ruksha* (dry) and *sheeta* (cooling), kapha- and pitta-pacifying but vata-aggravating unless drowned in ghee, buttermilk or water. No *rasayana* (rejuvenation) or *vajikarana* (generative-vitality) assignment is recorded for it in the sources retrieved — and the entry itself flags that even the species-level Sanskrit synonymy (*priyangu*) is contested, so no Sushrutan chapter can be pinned to it. Its standing is dietetic, not a formal rejuvenative cultivation status. **(b) framed.**
+
+**Practitioner's note.** A cultivator uses foxtail millet as a base, not as a longevity agent: the warm thin congee to carry water, magnesium and slow carbohydrate into a body too weak to be fed otherwise — the convalescent, the post-fever, the post-partum — and the whole cooked grain, not the gruel, when the aim is a gentler glucose curve than rice. No tradition here assigns it a cultivation grade or a rejuvenative status, and the honest reading is that none is needed: it is the substrate other agents are given on, worked for the defined job and then unremarkable.
+
+---
+
 ### Contraindications
 
 - **This is a food, and its safety profile is the safety profile of a food.** There is no toxicity, no dose ceiling, and no known interaction. The contraindications below are about *misuse of a health claim*, not about harm from the grain.

@@ -56,6 +56,18 @@ According to PubMed, guava has some of the better clinical support among traditi
 - **Ayurveda (post-Columbian):** *Kashaya* (astringent) rasa, *shita* (cooling) virya, *katu* vipaka; *grahi* (binding), kapha- and pitta-influencing; the leaf pacifies loose *apana*.
 - **Galenic / Unani:** Cold and dry, astringent and repercussive — matched to hot, loose, "flowing" states of the gut.
 
+### Cultivation Register
+
+**Chinese folk / later medicine (TCM).** Guava enters Chinese practice as *fan shi liu* 番石榴, "foreign pomegranate" — the *fan* 番 prefix itself dating the plant as a post-Columbian import that never touched the classical *Bencao* stratum and so was never eligible for a *san pin* 三品 grade. It is worked in southern Chinese and East Asian folk medicine as an astringent leaf for diarrhoea and enteritis and as a diabetes adjunct; that is a therapeutic, damp-heat-binding use, not a *yang sheng* 養生 project of nourishing life, and no *qing shen* 輕身 or long-term life-nourishing status is recorded or even possible for a plant unknown to the tradition's founding materia medica. Attested in use, without any cultivation status. **(b) framed** — and the "foreign" name is itself the honest flag that this is an adopted, not a classical, drug.
+
+**Ayurveda (SS).** In post-Columbian Indian practice guava (*amrood*, *peru*) leaf and unripe fruit are *grahi* (binding) agents of *kashaya* (astringent) rasa and *shita* virya, folded into folk management of loose *apana* and, later, *madhumeha* (diabetes). This adoption is real but modern: the plant post-dates the classical *Samhitas* by more than a millennium, so no *rasayana* (rejuvenation) or *vajikarana* (generative vitality) placement exists for it in the classical rejuvenative literature, and none should be manufactured. Its standing is therapeutic and dietetic, not a formal cultivation status. **(b) framed.**
+
+**Badianus / Nahua (BM).** Guava is a genuinely Mesoamerican plant, of the same botanical world as the cultures that produced the 1552 Badianus herbal, and its leaf is the single most consistent diarrhoea remedy across Mesoamerican folk medicine. But the Badianus manuscript is itself a naturalistic remedy-list and does **not** contain the *tonalli* / *teyolia* / *ihiyotl* model of the vital person — that scheme is reconstructed from later ethnohistory (López Austin), not read off the herbal — so no subtle-body or cultivation status for guava can be sourced from it, and to assign one would be reconstruction dressed as attestation. The plant is a naturalistic astringent gut remedy in the record we actually have. **(c) absent.**
+
+**Practitioner's note.** Across all three living traditions a cultivator uses guava for one plain job: to firm what is loose. Leaf decoction binds a leaking gut; the tannin-and-quercetin astringency is read the same way in Guangzhou, Gujarat and Mesoamerica. There is no longevity or vital-cultivation instruction here in any of the three — two of them adopted the plant only after 1500, and the one whose soil it is native to left a naturalistic record with no cultivation frame attached. Take it for loose bowels or as a cautious glycaemic adjunct, then stop; nothing in these traditions supports it as a substance taken to build the person.
+
+---
+
 ### Contraindications
 
 - **Constipation:** the astringent action can worsen it; avoid in sluggish bowels.

@@ -72,6 +72,18 @@ According to PubMed, the modern literature on *Stachys officinalis* specifically
 - **TCM:** not attested. Betony does not enter the Chinese materia medica; no *xing/wei* assignment exists and none is invented here.
 - **Ayurvedic (rasa / guṇa / vīrya / vipāka):** not attested. Betony is not a classical Ayurvedic dravya; assigning it a rasa would be fabrication.
 
+### Cultivation Register
+
+**Assyrian (AT).** Betony sits under the standing blocking warning for Assyrian substance identifications, and this entry has a sharper problem than most: no secure Akkadian name for *Stachys officinalis* is established, and the Mesopotamian tag is, as the entry itself states, *claimed* by later herbal compilers rather than demonstrated. The cuneiform corpus classifies illness by causal agency — divine hand, ghost, oath — so a drug is partly defined by what agency it opposes, but nothing of the kind can be pinned to this plant without a name to pin it to. No cultivation status is claimed, and none could honestly be. **(c) absent** — and the underlying identification is itself unattested (see flag).
+
+**Greek — Dioscorides (DMM).** *Kestron* is given a broad internal-remedy account in the *De Materia Medica* — venom, liver and kidney complaints, ruptures, cramps, cough — but the very breadth of that list is a panacea profile, not a cultivation status, and Dioscorides carries no subtle-body doctrine into which such a status could be assigned. What the tradition offers a cultivator is his discipline of attention: the sober weighing of a much-praised herb's actual effect, the recognition that an unbounded indication list is a fact about transmission rather than about the plant. That critical assay is the real practice here. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Betony enters the Arabic-Persian corpus through the Greek transmission as a warm-dry *mufattiḥ* (deobstruent), held to open obstruction (*sudda*) of the liver and spleen and to strengthen the head against cold-moist flux. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture, ageing read as their depletion — is a frame of the whole regimen, not a status the tradition assigns to this drying astringent; no *mufarrih* or cardiac-*ruh* role is claimed for it, and no *Canon* chapter is cited. Its standing is therapeutic-deobstruent, not a cultivation status. **(b) framed:** attested therapeutically, no cultivation status sourced.
+
+**Practitioner's note.** A cultivator does very little with betony, and that is the entry's point. At most it is a bitter, mildly astringent, ritualised pre-sleep cup during nervine grounding — a settling by way of bitterness and habit, not a hypnotic and never sold as one. No tradition here grants it a cultivation or longevity status; its towering medieval reputation is a fact about how availability, safety, perceptibility and amulet-logic inflate a herb, not about what the plant builds in the body. Work it small, or as a teaching case, and expect nothing more.
+
+---
+
 ### Contraindications
 
 - **Pregnancy:** traditionally regarded as a uterine stimulant and avoided. On precaution, **do not use in pregnancy.**

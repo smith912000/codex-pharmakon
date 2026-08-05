@@ -63,6 +63,18 @@ According to PubMed:
 - **TCM:** not attested for *Tanacetum vulgare* specifically (do not conflate with *Tanacetum/Chrysanthemum* relatives used in TCM). Marked **not attested**.
 - **Ayurveda (rasa/guṇa/vīrya/vipāka):** not attested as a classical dravya. Marked **not attested** rather than invented.
 
+### Cultivation Register
+
+**Assyrian / Mesopotamian (AT).** The cuneiform corpus classes illness partly by causal agency and works its bitter, aromatic "worm drugs" through the *asû*'s dispensary, but no tablet-name can be securely tied to *Tanacetum vulgare* rather than another bitter composite, and the standing blocking warning is in force for every Assyrian substance identification. There is in any case no cultivation status to assign: the frame here is expulsion of an intruding agent from the body, not the tending of a vital constitution over time. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides carries no subtle-body system into which a substance could be graded, so tansy has no cultivation status to receive; and the very identity of *T. vulgare* with any classical Greek herb is a modern hypothesis, the name *athanasia* ("deathlessness") pointing at the plant's power to keep dead flesh incorrupt rather than at any doctrine of living vitality. What the tradition genuinely offers a cultivator is its discipline of attention — chemotype is everything here, and the Dioscoridean habits of provenance, season of gathering and sensory assay are exactly what would distinguish a hazardous thujone-dominant population from a milder camphor one, though the ancient assay could never have seen that distinction. A real practice of judgement, not a vital-body claim. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Tansy-type bitter aromatics are classed hot and dry in the third degree and worked as *ṭārid al-dūd* (worm-expellers) and *mudirr al-ṭamth* (emmenagogues) — heating, drying, expulsive drugs the tradition itself dosed with open caution. The strongest cultivation idea in the Unani corpus is the conservation of innate heat and radical moisture across a whole regimen, longevity as husbandry of a finite endowment; a violently heating third-degree purgative sits at the opposite pole from that conservational project and is assigned no such role. No cultivation status is recorded for this drug, only a therapeutic and frankly hazardous one. **(b) framed:** attested and used, no cultivation status sourced.
+
+**Practitioner's note.** A cultivator does nothing internal with tansy. Every tradition that touches it treats it as an expellant — a thing driven through the body to void worms or retained menses and then done with — and the Codex files it as studied-not-administered precisely because its therapeutic and lethal doses nearly touch. The only defensible living use is external: a strewing and insect-repellent herb, the *athanasia* function of keeping the worm off flesh, which is where its chemistry actually earns its name. Learn the mechanism; leave the internal dose alone.
+
+---
+
 ### Contraindications
 
 **⚠️ DEADLY-MARGIN / DO NOT SELF-ADMINISTER INTERNALLY.**

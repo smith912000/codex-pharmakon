@@ -62,6 +62,18 @@ The chemistry underlying the traditional "sharp, scouring" doctrine is well esta
 - **Ayurvedic (rasa/guna/virya/vipaka):** *not attested* as a classical Ayurvedic dravya — do not assign invented rasa values.
 - **Galenic/Unani (Avicenna):** hot & dry ~2nd degree; attenuant (*mulaṭṭif*), deobstruent (*mufattiḥ*), diuretic, emmenagogue.
 
+### Cultivation Register
+
+**Assyrian (AT).** The cuneiform corpus catalogues many acrid *Brassica*-type "sharp" and "bitter" seeds among the drugs that burn and scour, used in poultices for swellings and in purgative draughts. As the entry itself records, no secure Akkadian binomial can be fixed to pennycress, and any native name is conjectural. Illness in this tradition is classified by causal agency (divine hand, ghost, oath), placing a drug partly by what it is set against; no such placement is attested for this seed. Under the standing blocking warning for Assyrian substance identifications, no cultivation status is claimed and the identification is provisional. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides describes *thlaspi* explicitly by its flattened, notched pod and biting seed, and gives it a sharp, heating therapeutic account: taken in quantity it purges bile and phlegm, provokes urine and menses, and crushed is laid on sciatica and inflammatory swellings. Dioscorides carries no subtle-body system in which a cultivation status could be lodged. What the tradition offers a cultivator is his discipline of attention — the etymology *thlaein*, "to crush," is itself the sensory assay: the burn released on crushing the seed is the drug proving itself on the tongue. That is a real practice of recognition and provenance, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the Arabic-Galenic synthesis the *thlaspi*-type cresses are classed *ḥārr yābis* — hot and dry in the second degree — attenuating (*mulaṭṭif*) and deobstruent (*mufattiḥ*), held to thin thick humours, open blockages of the liver and spleen, provoke urine, and resolve cold inflammatory masses by penetrating heat. The strongest cultivation idea in the Unani corpus, the conservation of innate heat and radical moisture, is a longevity frame of the whole regimen rather than a status this tradition assigns to a sharp, drying depurative; no *mufarrih* or cardiac-*ruh* role is attested. Its standing is therapeutic and depurative, not a cultivation grade. **(b) framed:** attested therapeutically, no cultivation status sourced.
+
+**Practitioner's note.** Pennycress is a scouring agent, not a tonic — a sharp seed worked short-term to cut phlegm, open obstruction, and provoke urine, with a topical counter-irritant use for swellings. Across the three tagged traditions it carries no status a cultivator takes to build or conserve vitality, and its cautions (mucosal irritation, heavy-metal accumulation from contaminated ground) reinforce short, defined use over habitual intake. Kenetica keeps it as a didactic glucosinolate-signature plant: learn the crush-to-activate chemistry from it, do not adopt it as a long-term substance.
+
+---
+
 ### Contraindications
 
 Pregnancy (traditional emmenagogue action; isothiocyanate/uterine-stimulant caution) — avoid. Not for prolonged or high-dose internal use: AITC is a mucosal and skin irritant, and large seed quantities may cause gastric burning. Topical poultices can blister sensitive skin (intended counter-irritant effect — limit contact time). **Do not harvest from contaminated ground:** *Thlaspi* is a known heavy-metal hyperaccumulator. The seed oil is erucic-acid-rich and unsuitable as a food oil unless specifically low-erucic cultivars. Seek professional guidance before internal use; doses above are unverified.

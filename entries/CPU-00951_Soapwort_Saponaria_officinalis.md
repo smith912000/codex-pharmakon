@@ -73,6 +73,18 @@ It is **not** a tonic, not a nervine, not a daily herb, and has no place in the 
 - **TCM:** **Not attested.** *Saponaria officinalis* is not a Chinese materia medica item; do not assign a TCM temperature or channel.
 - **Ayurvedic (rasa / guṇa / vīrya / vipāka):** **Not attested.** Not a classical Ayurvedic dravya. No rasa or vīrya is assigned here; any that circulate online are modern back-formations.
 
+### Cultivation Register
+
+**Assyrian (AT).** Soapwort sits here only as a candidate member of the region's washing-and-lathering plant group, used both to launder textiles and in purification rites, on the structural Mesopotamian fact that physical washing and ritual purification were not separated categories. The specific Akkadian name is not securely reconstructed and this Codex asserts none; the standing blocking warning on Assyrian substance identifications and their ritual-causal framing is in force. A substance is classed there by the defilement or agency it removes, not by any vital status it confers on the person, and no cultivation framing is available for this species. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Strouthion*, the fuller's soap-root, is given a straight detergent-incisive account — a scouring drug on the loom and on the body, expectorant, diuretic, emmenagogue, a wash for skin and wounds — and its identification with *Saponaria officinalis* is itself uncertain (several authorities read Dioscorides' struthion as *Gypsophila struthium*). Dioscorides carries no subtle-body doctrine into which a soap-root could be graded, so there is no cultivation status to report. What the tradition offers a cultivator is his discipline of attention: the recognition of a cleansing root by the lather it throws and the grease it lifts, and the honest matching of that observed action to a task. That is a real practice of assay, not a vital-body scheme. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Soapwort is inherited under the *ghāsūl* / *kundus* washing-drugs and filed as *jālī* (abstergent, "the scourer") and *muqaṭṭiʿ* / *mulaṭṭif* (attenuant), hot and dry — the entry notes Avicenna is tagged here for the doctrinal *class* of abstergent soap-root rather than a one-to-one botanical identity. These are drugs used in short courses to remove thick adherent matter, not in long courses to nourish. The strongest cultivation idea in the Unani corpus, the conservation of innate heat and radical moisture across a regimen of living, does not attach to a strong cleansing agent, and no gladdening or cardiac-*ruh* role is claimed. Its standing is therapeutic and abstergent, not a status that builds or guards vitality. **(b) framed:** attested therapeutically within the abstergent class, no cultivation status sourced.
+
+**Practitioner's note.** A cultivator builds nothing with soapwort and takes none of it inwardly. In Kenetica it is a Clearing-phase *external* wash for greasy, scaling or crusted skin, and — as much as anything — a teaching specimen: the practitioner who has watched the root lather understands amphiphile pharmacology directly, and understands too why the humoral logic that pushed this plant *inward* as a "blood-cleanser" is exactly the reasoning error the method exists to correct. The same membrane chemistry that makes the abstergent doctrine intelligible makes internal use hazardous. The honest use is a short external application; the honest internal answer is nothing.
+
+---
+
 ### Contraindications
 
 **Soapwort is a toxic plant. Treat every internal use as a supervised-only intervention.**

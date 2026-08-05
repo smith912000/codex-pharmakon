@@ -77,6 +77,18 @@ Retrieved from PubMed this run:
 - **TCM:** not attested — *S. ebulus* is not a *Bencao* drug. No Chinese energetic assignment offered.
 - **Ayurveda:** not attested for this species. No rasa/guna/virya/vipaka assigned.
 
+### Cultivation Register
+
+**Assyrian (AT).** Dwarf elder sits here only as a candidate member of the region's resolvent-and-drawing poultice class for *maškadu*-type stiff, swollen-limb complaints, bound onto the part with fat, beer-mash or flour. Species-level reading of the Akkadian plant names is contested, and the standing blocking warning on Assyrian substance identifications, deity/demon attributions and tablet references is in force. Mesopotamian therapeutics classes a drug by the swelling or agency it opposes, not by any vital status it confers on the person. No cultivation framing is available for this species. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Chamaiaktē*, the low herbaceous elder, is given a straight therapeutic account in *De materia medica* — purgative of phlegm, stronger than true elder, poulticed for hot swellings, burns, gout and bites, its root worked for dropsy. Dioscorides carries no subtle-body doctrine into which such a plant could be graded, so there is no cultivation status to report. What the tradition offers a cultivator is his discipline of attention: he distinguishes the herbaceous kind from the woody, ranks their relative strength, and marks the internal use as violently evacuant — a warning delivered as careful description. That is a real practice of discrimination and provenance, not a vital-body scheme. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the Arabic-Persian tradition dwarf elder is classed hot and dry, *muḥallil*, *jālī*, and a powerful *mus·hil li'l-balgham* requiring *iṣlāḥ* — a sharp drug the tradition itself hedges. The strongest cultivation idea in the Unani corpus is the conservation of innate heat and radical moisture, the finite vital endowment whose depletion is ageing; but that is a frame for the whole regimen of living, and nothing attaches it to this caustic evacuant. No cardiac-*ruh* or gladdening role is claimed, and no *Canon* placement is asserted. The plant is held for what it resolves and purges externally, a therapeutic standing, not a status that builds or guards vitality. **(b) framed:** attested therapeutically, no cultivation status sourced.
+
+**Practitioner's note.** Nothing here is cultivated for. Across all three traditions dwarf elder is a resolvent poultice and a violent purge — worked on the outside of the body against a defined swelling, then left alone. Its evacuant reputation is reclassified in Kenetica as enterotoxicity, not therapy, and its blood-and-burial folk signature reads as a genuine toxicological warning rather than a spiritual endowment. A cultivator takes no dwarf elder inwardly and builds nothing with it; the honest use is a short external application by someone who already knows how dangerous it is.
+
+---
+
 ### Contraindications
 
 # ⛔ HAZARD CLASS — DWARF ELDER IS A POISONOUS PLANT

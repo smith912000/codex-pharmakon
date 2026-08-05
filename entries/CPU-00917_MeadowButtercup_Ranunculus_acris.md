@@ -63,6 +63,18 @@ The literature converges on a single practical message: this is a **toxic, blist
 - **Galenic / Unani (as attested):** hot and dry in the fourth (burning) degree — caustic, escharotic, acrid; a counterirritant, never a nourishing or moistening simple.
 - **TCM / Ayurveda:** *Ranunculus acris* is a European/temperate meadow plant outside the classical Chinese and Ayurvedic materia medica; no authentic TCM channel-entry or Ayurvedic *rasa/guna/virya/vipaka* attribution exists. Any acrid-hot cross-mapping would be analogical only and is not asserted as traditional.
 
+### Cultivation Register
+
+**Assyrian (AT).** The plant enters this tradition only by therapeutic category — the ancient Near-Eastern class of caustic counterirritants and blistering rubefacients applied over joint pain to "draw out" disease — and the entry itself grades the attribution as *traditional* rather than tied to a named tablet or *materia*. Illness in the cuneiform corpus is classified by causal agency (a divine hand, a ghost, an oath), so a caustic is understood partly by the agency its burning is meant to oppose; but no such assignment is sourced for *Ranunculus acris* specifically. Under the standing blocking warning in force for every Assyrian substance identification and tablet reference, and given that the attribution here is categorical rather than species-attested, no cultivation status is claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *De Materia Medica* does treat the *batrachion* (crowfoot/buttercup) group directly, describing it as acrid and blistering, used to burn away warts, corns and hardened growths and as a caustic counterirritant, with an explicit warning of its ulcerating sharpness. But Dioscorides carries no subtle-body system into which a cultivation status could be set — recording a caustic's action on the skin is not a doctrine of the vital body. What the tradition offers a cultivator is his discipline of attention: the identification of the acrid *batrachion*, the recognition that its sharpness is real and dangerous, the distinction of the potent fresh plant from inert material. That is a genuine practice of assay and provenance, not a cultivation frame. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the Galenic-Persian synthesis the buttercup falls among the intensely hot and dry "burning" simples of the fourth degree — an escharotic and rubefacient reddening or blistering the skin over rheumatic pain, applied briefly and locally with clear recognition of its corrosive danger. It is therefore attested and used within the tradition, but as a caustic external agent, not as a substance carrying a cultivation standing. The tradition's strongest cultivation idea — the conservation of innate heat and radical moisture across a whole regimen — is a longevity frame that has nothing to assign to a fourth-degree corrosive, and no *mufarrih* or cardiac-*ruh* role is claimed for it. **(b) framed:** attested therapeutically, no cultivation status recorded.
+
+**Practitioner's note.** A cultivator does nothing internal with this plant — there is no vitality to build here and no tradition assigns it one. Its whole documented life is as an external caustic: fresh and brief, to redden skin over an aching joint, on the pre-modern theory of revulsion. Even that use is superseded and hazard-flagged, the margin between reddening and chemical burn being small and unreliable. The one honest "cultivation" lesson the plant teaches is the tradition's own encoded safety limit — fresh blisters, aged material is inert — which is a warning, not a practice.
+
+---
+
 ### Contraindications
 
 ⚠️⚠️ **PROTOANEMONIN VESICANT HAZARD — READ IN FULL.**

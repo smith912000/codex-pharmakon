@@ -70,6 +70,18 @@ According to PubMed:
 - **TCM:** *Taxus* spp. are not a classical Chinese materia medica staple in this role; modern Chinese use is of isolated taxanes as chemotherapy, not traditional. Marked **not attested** as a classical drug.
 - **Ayurveda:** *Taxus wallichiana* (Himalayan yew, "sthauneya/talispatra"-associated) has some regional use, but *T. baccata* as such is **not a classical dravya** — marked **not attested** rather than invented; do not conflate the species.
 
+### Cultivation Register
+
+**Assyrian / Mesopotamian (AT).** The yew is not native to Mesopotamia and no secure cuneiform identification of *Taxus* should be assumed; the standing blocking warning applies to every Assyrian substance identification and deity/agency attribution. The tablet corpus does recognise a class of trees whose substance kills, handled with ritual caution, but that is a category of dangerous agency to be guarded against, not a cultivation status a substance receives within the tending of a vital constitution. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides is unusually blunt: the yew (*smilax*, the tree of Narbonne) is deadly, and he warns that those who sleep or eat beneath it sicken or die. This is a genuine and specific attestation — but of a poison, not of a cultivation status, and Dioscorides carries no subtle-body system into which any substance could be graded for the tending of vitality. What the tradition offers a cultivator is its discipline of attention and its plain warning: know the tree, know that every part but the aril flesh kills, and keep away. The graveyard and underworld associations are cultural symbolism, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** In the Galenic-Unani framework the yew is not a graded therapeutic drug at all but a lethal cold poison (one of the *sumūm*) — classed cold and dry in the extreme, a substance that extinguishes the innate heat and stops the pulse. The tradition's strongest cultivation idea is the conservation of that innate heat and radical moisture as a finite vital endowment; the yew is its precise antithesis, the thing that snuffs the endowment out, and it is assigned no cultivation role whatever. It carries a toxicological status, guarded against and antidoted, not a therapeutic-conservational one. **(b) framed:** attested as a poison, no cultivation status sourced.
+
+**Practitioner's note.** There is nothing here a cultivator takes. The yew is a Threshold entry — studied for what its lethality teaches and for the isolated, dose-controlled taxanes (paclitaxel, docetaxel) that modern oncology severs from the whole-plant poison. Those are pharmaceuticals administered under supervision, not anything derivable from the tree by hand; "yew tea" and folk anticancer preparations are potentially fatal fabrications. The honest cultivator's relation to the yew is distance and respect: learn the poison-into-cure lesson, plant it in the churchyard, and never ingest it.
+
+---
+
 ### Contraindications
 
 **☠️ DEADLY — NO SELF-USE OF ANY KIND.**

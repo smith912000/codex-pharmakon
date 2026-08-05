@@ -74,6 +74,18 @@ Retrieved from PubMed this run:
 - **Greek (Dioscoridean):** στυπτικόν — styptic, contracting; checks fluxes, closes wounds, staunches haemorrhage, binds the bowel.
 - **Ayurveda:** not attested for this species in the classical Sanskrit corpus. No rasa/guna/virya/vipaka is assigned here. (The functional analogue class is *rakta-stambhana* / *kashaya rasa* astringents — noted as a structural parallel only, **not** as an attestation.)
 
+### Cultivation Register
+
+**Greek — Dioscorides (DMM).** The burnet-type styptics (στυπτικά) are given a purely mechanical account: drugs that draw together, close wounds, check fluxes and staunch haemorrhage. Dioscorides carries no subtle-body doctrine, so there is no vital status to assign — the drug *tightens*, and that is the whole of the claim. What the tradition offers a cultivator is his discipline of attention: the recognition of an astringent by its contracting action on the tissues and the tongue, and the matching of that action to a fluxive complaint. That is a real practice of sensory assay, not a doctrine of the vital body. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Burnet falls among the *qābiḍ* (astringent, contracting) drugs, cold and dry, indicated as *ḥābis li'l-dam* — a stancher of blood — and for *isḥāl*, with topical wound-closing use. The strongest cultivation idea in the Unani corpus is the conservation of innate heat and radical moisture across a whole regimen of living; a cold, drying, contracting styptic is not a bearer of that endowment, and no gladdening or cardiac-*ruh* role is claimed for it. Its standing is therapeutic — the natural antagonist of hot, escaping blood — not a status that builds or guards vitality. **(b) framed:** attested therapeutically, no cultivation status sourced.
+
+**Chinese — Shennong stratum (SBJ).** Di Yu (地榆) enters the tradition from the *Shennong Bencao Jing* stratum and is standardised through the later *bencao*, with a precise and non-interchangeable doctrinal category: 凉血止血 (cool the blood and stop bleeding) and 解毒斂瘡 (resolve toxin, astringe sores), reserved for *hot* bleeding of the lower burner and for burns. Within *yang sheng* 養生 — nourishing life, conservational rather than curative — this is a drug of closure taken against a defined haemorrhagic complaint, not a substance taken long-term to nourish the person. A *san pin* 三品 grade could not be confirmed for this species against named scholarship (Unschuld; the Yang Shou-zhong translation) in the sources retrieved this run, so no upper/middle/lower cultivation grade is asserted here; the standing recorded is therapeutic. **(b) framed:** attested in the Shennong stratum, *san pin* grade unverified against a named source.
+
+**Practitioner's note.** A cultivator builds nothing with Di Yu. Across the three literate traditions it is one thing — the blood-absorber, a drug of contraction and closure deployed where the system is losing blood or fluid through a hot, raw surface, then stopped once the loss is checked. It is explicitly a containment agent, not a tonic: even the Chinese record, which comes closest to a nourishing claim in "cool and tonify the blood," ties it to an inflammatory-haemorrhagic presentation and warns it off cold-deficiency patterns. The honest use is short, targeted, and abstentive the rest of the time.
+
+---
+
 ### Contraindications
 
 - **Contraindicated in cold-type / deficiency-type bleeding (TCM).** Di Yu is a *cold* drug for *hot* bleeding. In spleen-yang deficiency, cold-pattern diarrhoea, or bleeding from deficiency-cold, the tradition explicitly warns against it — and that warning is doctrinally load-bearing, not decorative.
