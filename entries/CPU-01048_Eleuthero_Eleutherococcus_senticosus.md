@@ -1,7 +1,8 @@
 # Eleuthero / Siberian Ginseng — الجنسنغ السيبيري / Ἐλευθεροκόκκος / Cī Wǔ Jiā Gēn / 刺五加
 ## *Eleutherococcus senticosus (Rupr. & Maxim.) Maxim.* — Cì Wǔ Jiā, Thorny Five Additions, Devil's Shrub, Touch-Me-Not
 
-**Tradition Tags:** CM · SBJ · FMT
+**Tradition Tags:** TCM, FMT
+**Tags (previous line, retained for reference):** CM · SBJ · FMT
 
 **Energetic Classification (TCM):** ⊕ Yuan / ◉ Qi / ◈ Jing
 
@@ -109,9 +110,7 @@ The result was an extraordinary body of observational data from the Soviet milit
 
 ### Cultivation Register
 
-**Unani — Avicenna (CM).** *Eleutherococcus senticosus* is absent from the classical *Qānūn* corpus — a Manchurian and Russian Far Eastern shrub outside Ibn Sina's geographic and textual sphere, as the entry's own Origin section concedes. The broader Unani category of *muqawwī kullī* (universal strengthening) substances would be its natural home were it encountered, but assigning it to that class, or claiming a status for it, requires an attestation the classical tradition does not provide; the "Russian thorn root" documented at the Mughal and Safavid courts is asserted in the body without a citable source and is not carried into this register. The strongest genuine cultivation idea in the corpus — conservation of innate heat and radical moisture — is a whole-regimen longevity frame, not a status the tradition confers on this plant. **(c) absent.**
-
-**Chinese — Bencao (SBJ).** The *san pin* 三品 grading is a real cultivation hierarchy (上品/中品/下品, tracking 養命/養性/治病), but no such grade can be responsibly assigned to *E. senticosus*: the modern drug *cì wǔ jiā* 刺五加 was incorporated into Chinese materia medica only around the mid-twentieth century, and the *wǔ jiā* 五加 of the classical Shennong stratum is a related but botanically distinct plant. The *Bencao Gangmu* is in any case a late compilation (1596), not a Shennong-era classic, so any wording drawn from it cannot stand as a classical grade — and no *san pin* grade for this species is recorded in the sources retrieved. The famous adage praising *wǔ jiā* over a cart of gold attaches to that older, different drug, not to *E. senticosus*. Within *yang sheng* 養生 — conservational, not curative — this plant therefore carries a therapeutic and constitutional-tonic standing, not a sourced cultivation grade. **(b) framed:** attested in later/modern Chinese materia medica, no *san pin* grade sourced for this species.
+**Chinese medicine — post-classical (TCM).** The *san pin* 三品 grading is a real cultivation hierarchy (上品/中品/下品, tracking 養命/養性/治病), but no such grade can be responsibly assigned to *E. senticosus*: the modern drug *cì wǔ jiā* 刺五加 was incorporated into Chinese materia medica only around the mid-twentieth century, and the *wǔ jiā* 五加 of the classical Shennong stratum is a related but botanically distinct plant. The *Bencao Gangmu* is in any case a late compilation (1596), not a Shennong-era classic, so any wording drawn from it cannot stand as a classical grade — and no *san pin* grade for this species is recorded in the sources retrieved. The famous adage praising *wǔ jiā* over a cart of gold attaches to that older, different drug, not to *E. senticosus*. Within *yang sheng* 養生 — conservational, not curative — this plant therefore carries a therapeutic and constitutional-tonic standing, not a sourced cultivation grade. **(b) framed:** attested in later/modern Chinese materia medica, no *san pin* grade sourced for this species.
 
 **Tibetan (FMT).** No cultivation status for *E. senticosus* is attested in a citable Tibetan source. The *sle tres* group and the specific *srog rlung*-stabilising role described in the body are not tied to a verifiable passage of the Four Tantras for this species, and the Codex discipline forbids asserting a Tibetan attestation on that basis. Structurally, Tibetan medicine holds no formal "substances for subtle-body practice" category to grade it into: medicine is the third of four treatment branches, supporting practice rather than reaching the spiritual root of the three *nyes pa*. **(c) absent.**
 

@@ -2,7 +2,8 @@
 
 ## *Garcinia gummi-gutta* (syn. *Garcinia cambogia*) | Family: Clusiaceae (Guttiferae)
 
-**Tradition Tags:** CM, SBJ, SS
+**Tradition Tags:** CM, SS
+**Tags (previous line, retained for reference):** CM, SBJ, SS
 **Energetic Classification:** Cool and dry (third degree drying) — a sharp astringent-sour that binds and scrapes
 **Training Phase:** Refinement / Descent — a corrective agent for surplus, never a foundational tonic
 
@@ -58,8 +59,6 @@ According to PubMed, the clinical weight-loss evidence for *Garcinia*/HCA is **m
 ### Cultivation Register
 
 **Unani — Avicenna (CM).** Sour, cold-dry astringent fruits occupy a genuine slot in the Unani framework among the correctives of repletion — tools of *tanqiya* (corrective cleansing) that sharpen appetite by their acidity and bind loose bowels, to be used briefly and with judgement rather than as daily nourishment. But *Garcinia gummi-gutta* is a South Indian and Southeast Asian plant, and its placement into that slot is a class-level fit by flavour and quality, not an attestation of this species by name in the *Qanun* stream. The corpus's central cultivation idea — the conservation of innate heat and radical moisture as a finite endowment, so that longevity is husbandry — is a frame of the whole regimen and is not a status assigned to a cooling, scraping corrective like this; no *mufarrih* or cardiac-*ruh* role is recorded for it. Its standing is therapeutic and brief, not a cultivation grade. **(b) framed:** used at the level of the sour-corrective class, no cultivation status sourced for the species.
-
-**Chinese — Shennong (SBJ).** *Garcinia gummi-gutta* is not a plant of the Chinese classical materia medica: it is native to South India and Southeast Asia and does not appear in the *Shennong Bencao Jing* or its *san pin* 三品 grading of upper, middle and lower drugs. The alignment of the rind with the "gathering-inward, restraining" logic of sour-astringent correspondences is a modern reading applied by analogy, not an attested Chinese use, so no upper/middle/lower cultivation grade — and no *yang sheng* 養生 standing — can be claimed for it. The SBJ tag is anachronistic for this species. **(c) absent** — and flagged.
 
 **Ayurveda (SS).** The fruit rind — *vrikshamla*, "tree-sour" — is worked as a *dipana* (kindler of digestive fire), *pachana* (digestant) and *lekhana* (scraping/reducing) agent, sour and drying, used to cut the heaviness (*guru*) and oiliness (*snigdha*) of rich food. This is a therapeutic and dietetic role in the *dravyaguna* frame; no *rasayana* (rejuvenation) or *vajikarana* (generative vitality) assignment — the formal Sushrutan cultivation divisions — is recorded for it in the sources retrieved. Its standing is corrective, not rejuvenative. **(b) framed:** attested and used, no *rasayana*/*vajikarana* cultivation status sourced.
 

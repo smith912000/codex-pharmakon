@@ -2,7 +2,8 @@
 
 ## *Echinops grijisii* Hance | Family: Asteraceae (Compositae)
 
-**Tradition Tags:** CM, DMM, SBJ
+**Tradition Tags:** CM, SBJ
+**Tags (previous line, retained for reference):** CM, DMM, SBJ
 **Energetic Classification:** Cold, dry — a bitter, heat-clearing purgative in the Galenic-Unani reading; cold and bitter in the Chinese scheme.
 **Training Phase:** Clearing / Purgation (early depurative phase)
 
@@ -60,8 +61,6 @@ According to PubMed, the modern evidence base for *E. grijisii* is **preclinical
 ---
 
 ### Cultivation Register
-
-**Greek — Dioscorides (DMM).** Dioscorides described globe-thistle and thistle-like Asteraceae — under names such as *akanthion* and *skolymos* — as diuretic and depurative roots for draining ulcerating sores, but he carries no subtle-body system into which a cultivation status could be entered, and *Echinops grijisii* is an East Asian species he never handled. The DMM tag here records genus-level Mediterranean use of globe thistles, not a Dioscoridean treatment of this plant; the entry's own text concedes that attributing *E. grijisii* to Dioscorides would be anachronistic. What the tradition genuinely offers a cultivator is his discipline of attention — naming the root correctly, judging it by taste and form, guarding against adulteration and substitution. That is a real practice of provenance, not a vital-body doctrine. Cultivation status: **(c) absent** (and even the therapeutic tag holds only at genus level).
 
 **Unani — Avicenna (CM).** Bitter thistle roots enter the Unani repertoire as *muhallil* (resolvent) and *mufattit* (deobstruent) — cold, dry drugs that break down morbid swellings, cool inflamed "hot" abscesses, and open obstructions of the viscera. The strongest cultivation idea in the Unani corpus is the conservation of innate heat and radical moisture across the whole regimen, but that is a longevity frame of the regimen, not a status the tradition assigns to a cooling depurative worked to drain hot swellings; no *mufarrih* or cardiac-*ruh* role is claimed for it. Attested therapeutically, with no cultivation status sourced: **(b) framed.**
 

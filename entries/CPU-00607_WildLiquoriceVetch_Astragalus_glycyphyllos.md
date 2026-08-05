@@ -1,7 +1,8 @@
 # Wild Liquorice — Milk-vetch, Liquorice Milk-vetch, Sweet-leaved Vetch (Eng.)
 ## *Astragalus glycyphyllos* L. | Family: Fabaceae (Leguminosae)
 
-**Tradition Tags:** AT, DMM, CM
+**Tradition Tags:** AT, CM
+**Tags (previous line, retained for reference):** AT, DMM, CM
 **Energetic Classification:** Warm and Moist (temperate, gently tonic) — a mild, nourishing, restorative drug in the Galenic reading, without the acrid heat of true liquorice.
 **Training Phase:** Foundation (a gentle building tonic; safe entry-level restorative)
 
@@ -58,8 +59,6 @@ Earlier, Shkondrov et al. (2018), *Natural Product Research*, characterised a ne
 ### Cultivation Register
 
 **Assyrian (AT).** In the Mesopotamian material the sweet-leaved fodder legumes sit among nourishing and strengthening simples, given in decoction to convalescents and nursing mothers — a therapeutic, dietetic role rather than any graded standing. Assyrian medicine classifies a substance partly by the causal agency it opposes (a divine hand, a ghost, a broken oath), but no such etiological role is recorded here for this vetch. Under the standing blocking warning in force for every Assyrian substance identification and tablet reference, no cultivation status is asserted; the attestation is that of a gentle building simple only. Cultivation status: **(c) absent**.
-
-**Greek — Dioscorides (DMM).** Dioscorides describes *astragalos*, an astringent leguminous root taken in decoction for loose bowels and to support recovery, and the genus name descends from that usage — but the identification of his *astragalos* with this exact species is not secure, and in any case Dioscorides carries no subtle-body doctrine into which a cultivation status could be assigned. What the tradition offers a cultivator is his discipline of attention: the correct root, gathered and dried, assayed by taste and astringency, guarded against confusion with the many other leguminous roots that share the name. That is a real practice of provenance and sensory judgement, not a vital-body category. Cultivation status: **(c) absent**.
 
 **Unani — Avicenna (CM).** The sweet vetches are read as temperate, warm-and-moist, gently moistening and restorative, suited to depletion, dryness and weakness — an agent that "thickens" and rebuilds rather than attenuates. The strongest cultivation idea in the Unani corpus is the conservation of innate heat and radical moisture, the finite vital endowment whose depletion *is* ageing; but that is a longevity frame of the whole regimen, not a status the tradition assigns to this particular nourishing legume, and no *mufarrih* or cardiac-*ruh* role is claimed for it. Attested as a temperate restorative, with no cultivation grade sourced for this species: **(b) framed**.
 

@@ -2,7 +2,8 @@
 
 ## *Bacopa monnieri* (L.) Wettst. | Family: Plantaginaceae
 
-**Tradition Tags:** SS (Ayurveda / Sushruta lineage), CM (Unani / Avicenna-era humoral practice), SBJ (Shennong lineage / later Chinese herbal use)
+**Tradition Tags:** CM, SS
+**Tags (previous line, retained for reference):** SS (Ayurveda / Sushruta lineage), CM (Unani / Avicenna-era humoral practice), SBJ (Shennong lineage / later Chinese herbal use)
 **Energetic Classification:** Cold and Dry-to-Moist (Galenic — cooling, clarifying); bitter-astringent, brain-tonic
 **Training Phase:** Integration (cognitive consolidation and steadying of the trained mind)
 
@@ -59,8 +60,6 @@ Verma et al. (2025), *Journal of Ayurveda and Integrative Medicine* — a double
 ### Cultivation Register
 
 **Unani — Avicenna (CM).** In the humoral frame the herb is read as a cooling, bitter nervine used to temper the heat and dryness that disturb the *ruh* and the faculties of the brain — calming agitation while clearing the sensorium in hot, restless mental states. The strongest cultivation idea in the Unani corpus, the conservation of innate heat and radical moisture across the whole regimen, is a longevity frame of dietetics and living generally and is not a status the tradition assigns to this particular nervine; no *mufarrih* or cardiac-*ruh* constituent role is claimed for it here. It is attested as a corrective cooling nervine of the brain with no cultivation status recorded in the sources retrieved. **(b) framed.**
-
-**Chinese — Shennong stratum and later herbal use (SBJ).** *Bacopa monnieri* is not a plant of the classical Chinese materia medica: it is not among the Shennong *Bencao Jing* drugs, and the entry's own account places it only in an adjacent niche — a semi-aquatic bitter folded into folk use alongside the cooling, spirit-quieting (*an shen* 安神) herbs. No *san pin* 三品 grade (上品/中品/下品) is recorded for this species in the sources retrieved, and within *yang sheng* 養生, the conservational nourishing-of-life project, no cultivation grade attaches to it. **(b) framed** — and the Chinese attestation itself is adjacent/folk rather than classical (see attestation flag).
 
 **Ayurveda (SS).** Here the register must be handled with unusual care. *Medhya rasāyana* — the class of intellect-rejuvenators (sharpening *smṛti*, *dhī*, *dhṛti*) — is a genuine, formal Ayurvedic cultivation category, and "Brahmi" is traditionally spoken of within it. But the botanical identity of "Brahmi" is contested: the name is shared between *Bacopa monnieri* and *Centella asiatica* (Gotu Kola / Maṇḍūkaparṇī), and Charaka's classic four *medhya rasāyana* (Cikitsāsthāna) are usually identified with Maṇḍūkaparṇī, Yaṣṭīmadhu, Guḍūcī and Śaṅkhapuṣpī — not unambiguously with *Bacopa*. Because I cannot cite named scholarship (Meulenbeld, Sharma, or a scholarly translation of Charaka/Sushruta) pinning the formal *rasāyana* grade to *this species* rather than to *Centella*, I decline to assert an attested cultivation status and record instead the frame: *Bacopa* is worked as a bitter-astringent (*tikta-kaṣāya*), *śīta-vīrya*, tridoṣa-balancing nervine traditionally placed in the *medhya* current, with the species identity unresolved in the sources retrieved. **(b) framed** — a visible frame is chosen over an (a)-claim the species conflation will not support.
 

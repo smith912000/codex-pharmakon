@@ -1,6 +1,6 @@
 # Cacao — Xocolātl / Kakaw / Food of the Gods
 ## *Theobroma cacao* L. | Family: Malvaceae (formerly Sterculiaceae)
-**Tradition Tags:** CM, BM, SA
+**Tradition Tags:** BM, SA
 **Tags (previous line, retained for reference):** BM (Mesoamerican primary), CM (Arabic secondary)
 **Energetic Classification:** ◉ Qi / ☿ Shen — Heart Qi, Mood Elevation, Sustained Energy
 **Training Phase:** `[PRIME]` `[BUILD]`
@@ -161,8 +161,6 @@ For Kenetica application, the specifications are:
 ---
 
 ### Cultivation Register
-
-**Unani — Avicenna (CM).** Cacao was unknown to the classical *Canon* tradition: it is a New World plant that entered Arabic-language pharmacology only through European colonial channels from the 17th century, categorised under a Galenic-Unani frame as warm and moist, strengthening the heart and aiding the digestion. The strongest cultivation idea available to this tradition — the conservation of innate heat and radical moisture as a finite vital endowment whose depletion is ageing — is a longevity frame of the whole regimen, not a status the corpus assigns to this late-received substance, and no *mufarrih* or cardiac-*ruh* role is claimed for it in the sources retrieved. What is recorded is a therapeutic classification, not a cultivation grade. **(b) framed:** attested in the late Unani reception, no cultivation status sourced.
 
 **Nahua — Badianus (BM).** In the *Libellus de Medicinalibus Indorum Herbis* (1552) cacao (*cacauatl*) appears naturalistically — worked for fatigue and as a fatty vehicle carrying other medicines, and in topical preparations — with no vital-substance status attached. This is the honest limit of the manuscript: the Badianus text is itself naturalistic and does **not** contain the *tonalli* / *teyolia* / *ihiyotl* model of the person; that model is reconstructed from later ethnohistory (López Austin, *The Human Body and Ideology*, 1988), and it assigns no cultivation grade to cacao specifically. The sacred and cosmological weight cacao carried in Mesoamerica is real but belongs to Maya cosmogony and Aztec ritual practice, not to a cultivation status the Nahua materia medica confers on the bean. **(b) framed:** attested medicinally, no cultivation status in the source, and none supplied by the later ethnohistory for this substance.
 

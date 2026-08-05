@@ -1,6 +1,7 @@
 # St. John's Wort — Hypericum
 ## *Hypericum perforatum* L. | Family: Hypericaceae
-**Tradition Tags:** DMM, CM, EP
+**Tradition Tags:** DMM, CM
+**Tags (previous line, retained for reference):** DMM, CM, EP
 **Energetic Classification:** ☿ Shen Primary — Shen Brightening, Mood Elevation, Melancholy Clearing / ◉ Qi Secondary — Wound Healing, Anti-Viral, Nerve Repair
 **Training Phase:** `[RESET]` `[CYCLE-OFF]`
 
@@ -127,8 +128,6 @@ One application that Kenetica specifically does NOT include: use during active p
 ---
 
 ### Cultivation Register
-
-**Egyptian (EP).** The entry's own Origin section is explicit that the Egyptian corpus does not use *Hypericum perforatum* — the plant's range is temperate Europe and Western Asia, and the EP tag stands only for a methodological analogy (the sun-macerated *oleum* process resembling Egyptian solar oil-making), not for any documented Egyptian use of this species. With no attestation there is no *heka*, no *ka/ib* framing and no cultivation status to record: the connection is a modern structural comparison, not an Egyptian assignment. Cultivation status: **(c) absent** (and the tag itself is a symbolic, not an attested, one — see the attestation flag).
 
 **Greek — Dioscorides (DMM).** *De Materia Medica* gives *hyperikon* a therapeutic account — bile-expelling, diuretic, and a topical wound herb — and Dioscorides carries no subtle-body system into which a cultivation status could be set. The plant's famous name (*hyper-eikon*, hung "above the icon") and its apotropaic, demon-averting reputation are uses recorded in and around the classical tradition rather than a vital-body doctrine assigned to the drug; recording an amuletic use is not endorsing a cultivation status. What the tradition offers a cultivator is the discipline of attention — the midsummer gathering at peak flower, the assay of the red oil as it bleeds under the sun, the judgement of a good preparation. **(c) absent** as to cultivation status.
 

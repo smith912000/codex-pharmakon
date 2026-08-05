@@ -1,6 +1,7 @@
 # Epimedium / Yin Yang Huo — إينيانغهو / Ἐπιμήδιον / Vrishya-parna / 淫羊藿
 ## *Epimedium brevicornu Maxim. / Epimedium sagittatum (Siebold & Zucc.) Maxim. — horny goat weed, barrenwort, bishop's hat, fairy wings*
-**Tradition Tags:** CM · SBJ · FMT
+**Tradition Tags:** SBJ, FMT
+**Tags (previous line, retained for reference):** CM · SBJ · FMT
 **Energetic Classification (TCM):** ◈ Jing · ⊕ Yuan · ◉ Qi (secondary)
 **Training Phase:** `BUILD` `REFINE` `PRIME` `CYCLE-OFF`
 
@@ -83,8 +84,6 @@ The Shennong Bencao Jing classified Epimedium as a medium-grade herb (*zhong pin
 ---
 
 ### Cultivation Register
-
-**Unani — Avicenna (CM).** Epimedium is an East Asian woodland herb (Yín Yáng Huò); it is not part of the classical Greco-Arabic materia medica, and no chapter of the Avicennian tradition assigns it a temperament, a *ruh*-strengthening role, or a place among the cardiac/*mufarrih* drugs. The strongest cultivation idea the Unani corpus carries — the conservation of innate heat and radical moisture as a finite vital endowment, so that longevity practice is conservation rather than acquisition — is a frame for the whole regimen and is not attached to this herb by any source retrieved. Whatever warming, kidney-supporting use later Unani-style practitioners may make of it, no Avicennian cultivation status is attested. **(c) absent** — and the CM tag itself is doubtful for a herb standing outside the classical Canon (see attestation note).
 
 **Chinese — Shennong (SBJ).** Yín Yáng Huò 淫羊藿 is one of the herbs first recorded in the *Shennong Bencao Jing* (the Han-era Divine Farmer's classic, extant only through later reconstruction), where it is placed in the **middle grade** (中品 *zhong pin*) — the *san pin* rank of drugs with real therapeutic force, distinct from the upper-grade substances "taken long-term to nourish life." That middle-grade placement is itself a cultivation status: within *yang sheng* 養生, which is conservational rather than curative, it marks the herb as a potent tonic to be used with guidance, not a benign daily longevity food. Its classical charge — warming Kidney-Yang, consolidating Jing and marrow, strengthening sinew and bone — sits inside the kidney-tonifying stratum where *jing* 精 survives as 填精 without a formal chapter of its own; the tradition names the Jing action but does not over-formalise it, and this register does not either. **(a) attested** — middle grade (中品), sourced to the *Shennong Bencao Jing* primary text; the fuller endorsements (honey-frying *mì zhì*, expanded indications) belong to Li Shizhen's *Bencao Gangmu* (1596), a late compilation, and are dated as such.
 

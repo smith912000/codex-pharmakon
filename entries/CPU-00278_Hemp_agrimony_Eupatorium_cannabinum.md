@@ -2,7 +2,8 @@
 
 ## *Eupatorium cannabinum* L. — the riverbank immune-fire that must be handled with care
 
-**Tradition Tags:** AT, CM, DMM
+**Tradition Tags:** AT, CM, EF
+**Tags (previous line, retained for reference):** AT, CM, DMM
 
 **Energetic Classification (TCM):** ◉ Qi — surface-releasing diaphoretic that moves Wei Qi and resolves Damp-stagnation; ☿ Shen secondary only insofar as the febrile-clearing action settles the disturbed spirit of fever
 
@@ -105,9 +106,9 @@ Polysaccharide fractions from *Eupatorium* species have been investigated for im
 
 **Assyrian (AT).** No cultivation status is attested for hemp agrimony in the Mesopotamian material, and nothing in this profile carries an Assyrian identification. *Eupatorium cannabinum* is a European–North-African–temperate-Asian riverbank plant, and under the standing blocking warning in force for every Assyrian substance identification, no cuneiform attestation, causal-agency classification, or cultivation status is claimed for it here. Cultivation status: **(c) absent.**
 
-**Greek — Dioscorides (DMM).** The classical *eupatorion* of Dioscorides is most reliably identified with *Agrimonia* (true agrimony), not with this plant; the attachment of the *Eupatorium* name to *E. cannabinum* is a documented case of later nomenclatural drift, so the Greek tradition did not describe this species and assigns it no status. Dioscorides in any case carries no subtle-body system into which a cultivation grade could be placed; what his tradition offers a cultivator is a discipline of attention — correct identification, provenance and the guarding against exactly this kind of name-transfer — which here counsels caution rather than use. Cultivation status: **(c) absent**, and the species identification itself is unsettled.
-
 **Unani — Avicenna (CM).** No cultivation status is attested for *E. cannabinum* in the Unani corpus in the sources retrieved. The genus name preserves a classical honorific (Mithridates VI Eupator) but that is antiquarian, not a Graeco-Arabic materia-medica assignment; the Unani conservation-of-innate-heat frame is a whole-regimen longevity idea, not a status the tradition attaches to this plant, and no *mufarrih* or cardiac-*ruh* role is claimed. Cultivation status: **(c) absent.**
+
+**European folk / phytotherapy (EF).** No classical Greek engagement of *this* species can be claimed: Dioscorides' *eupatorion* (*De Materia Medica* IV.41) is most reliably *Agrimonia eupatoria* — a different genus — and the *Eupatorium* name was fastened onto *E. cannabinum* only by later, Linnaean-era nomenclatural drift, so any Dioscoridean pedigree for hemp agrimony is spurious. What *is* genuinely and continuously attested is the later European herbal tradition, in which *E. cannabinum* has a settled therapeutic reputation as a warming diaphoretic used hot to drive a fever through its sweating phase, as a hepatic bitter and cholagogue for sluggish liver and digestion, and externally as a wound vulnerary on slow-healing ulcers. European folk medicine, like the Dioscoridean tradition it descends from, carries no vital-body or subtle-anatomy scheme into which a cultivation grade could be placed; it records what the plant was *done with* for a complaint, not what it does to the person's constitution over time. The tradition therefore claims the substance but attaches to it a therapeutic standing only, with no cultivation status. Cultivation status: **(b) framed** — attested European folk use, no vital-body grade recorded. (Src: Beck (trans.), Dioscorides, *De Materia Medica* IV.41, where *eupatorion* = *Agrimonia*; Riddle, *Dioscorides on Pharmacy and Medicine*.)
 
 **Practitioner's note.** A cultivator does nothing with this plant. Its securely attested standing is a later European one — a hot diaphoretic to drive a fever through its sweating phase and a hepatic bitter — and even that is an acute, surface, subtractive action, never a substance taken over time to build vitality. The overriding fact is the pyrrolizidine-alkaloid hepatotoxicity: cumulative internal exposure damages the very organ any restorative framing would claim to nourish. Where the febrile-immune action is genuinely wanted, a cultivator reaches for a PA-free diaphoretic (elder, echinacea) and leaves hemp agrimony as a reference entry. The honest cultivation answer is abstention.
 

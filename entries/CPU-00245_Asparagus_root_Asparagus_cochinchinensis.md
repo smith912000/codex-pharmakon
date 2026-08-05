@@ -2,7 +2,7 @@
 
 ## *Asparagus cochinchinensis* (Lour.) Merr. — "Heavenly Gate Winter," the yin-moistening tuber of the dry lung
 
-**Tradition Tags:** CM, SBJ, SS
+**Tradition Tags:** SBJ, SS
 **Tags (previous line, retained for reference):** CM · SBJ · FMT (functional class)
 
 **Energetic Classification (TCM):** ◈ Jing / ◉ Qi (Yin-fluid)
@@ -90,8 +90,6 @@ Standardised extract per manufacturer guidance, typically equivalent to several 
 ---
 
 ### Cultivation Register
-
-**Unani — Avicenna (CM).** No cultivation status is attested for *Asparagus cochinchinensis* in the Unani corpus in the sources retrieved. The Unani drug *halyūn* is the garden asparagus, *Asparagus officinalis* (Codex I_019), a Mediterranean and West-Asian species; this East-Asian tuber is a distinct plant that the Graeco-Arabic tradition did not know as such, so the innate-heat / radical-moisture conservation frame that is Unani's strongest cultivation idea cannot be attached to it here, and no *mufarrih* or cardiac-*ruh* role is claimed. Cultivation status: **(c) absent** — the CM tag appears to have travelled from the culinary *halyūn*, a different species.
 
 **Chinese — Shennong / Bencao (SBJ).** Tian Men Dong 天門冬 is placed in the upper grade (上品, *shang pin*) of the *Shennong Bencao Jing*, the grade of substances taken long-term to nourish life rather than to attack disease. The classic credits it, with sustained use, with "lightening the body" (輕身, *qing shen* — an effect-category of the cultivation register, not a pharmacological or weight-loss claim) and benefiting the *qi* 氣, alongside dispelling wind-damp obstruction. This is a genuine *san pin* cultivation status, sourced to the Han primary text itself and consistent across the later record (Li Shizhen's *Bencao Gangmu*, 1596, retains the sweet-bitter-very-cold, Lung-Kidney-moistening account but the grade belongs to the earlier classic). Within *yang sheng* 養生 — conservational, not curative — it is a fluid-restoring tonic of the upper grade. Cultivation status: **(a) attested**, cited to the *Shennong Bencao Jing* upper class (上品).
 

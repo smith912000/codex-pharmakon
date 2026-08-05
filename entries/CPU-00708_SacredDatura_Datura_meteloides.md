@@ -2,7 +2,8 @@
 
 ## *Datura wrightii* (syn. *D. meteloides*) | Family: Solanaceae
 
-**Tradition Tags:** AT (Assyrian), BM (Badianus), SS (Sushruta)
+**Tradition Tags:** SS, BM
+**Tags (previous line, retained for reference):** AT (Assyrian), BM (Badianus), SS (Sushruta)
 
 **Energetic Classification:** Cold and Dry in the extreme (Galenic 4th degree) — a narcotic-stupefacient "cold" poison whose heat-mimicking surface signs (flushed skin, fever) mask a deeply sedating, deliriant core.
 
@@ -51,8 +52,6 @@ According to PubMed: Aćimović (2025), *Planta Medica*, reviewed 114 reports an
 - **Galenic/Unani:** Cold and Dry, 4th degree — a *muxaddir* (narcotic-stupefacient) poison requiring correctives and never given without expert judgement.
 
 ### Cultivation Register
-
-**Assyrian (AT).** The Nineveh medical tablets of the āšipu (exorcist-physician) do handle sleep-bringing, pain-dulling solanaceous stupefacients, and the tradition classifies illness by causal agency — the hand of a god, a ghost, a broken oath — so that a drug is partly known by *what agency it opposes* rather than by any vital-cultivation status. But the genus *Datura* is native to the Americas and was unknown to Mesopotamia: the "Datura-type nightshades" of the cuneiform corpus are Old-World relatives — henbane (*Hyoscyamus*), mandrake (*Mandragora*) — not this North American species. Assigning *D. wrightii* (*meteloides*) an Assyrian standing is therefore anachronistic on its face. And under the standing blocking warning that governs every Assyrian substance identification, deity/demon attribution and tablet reference, no cultivation status is asserted here in any case. **(c) absent** — and flagged as an anachronistic tag for a New-World plant.
 
 **Nahua — Badianus (BM).** This is the one tradition to which the plant genuinely belongs: *Datura* is a New-World genus, and *toloatzin* / *toloache* is securely attested in Nahua practice, the 1552 Badianus manuscript (*Libellus de Medicinalibus Indorum Herbis*) recording topical and ceremonial applications for pain, swellings and afflictions understood as at once physical and spiritual. But the Badianus is itself a naturalistic herbal and does **not** contain the *tonalli* / *teyolia* / *ihiyotl* model of the person; that animic framework — illness as the loss, displacement or imbalance of those entities — is reconstructed from later ethnohistory (López Austin, *The Human Body and Ideology*), not from the manuscript. So while the ritual and anesthetic use by Nahua specialists is real and native, the source itself assigns *toloache* no *tonalli*-bearing or animic cultivation status. **(b) framed** — genuinely attested and used, cultivation status not recorded in the naturalistic manuscript.
 
