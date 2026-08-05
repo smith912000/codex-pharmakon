@@ -58,6 +58,18 @@ According to PubMed, the traditional cardiotonic and astringent uses are documen
 - **TCM analogue (by function only):** would sit with astringent/"stabilise and bind" (*gu se*) agents and, loosely, the bitter tonify-and-clear class. *Onopordum* is not a classical Chinese materia medica plant.
 - **Ayurvedic analogue (by function only):** *stambhana* (astringent/binding) action; provisional *rasa* kashaya-tikta (astringent–bitter), *vīrya* by report cooling, *vipāka* katu. Not an attested classical Ayurvedic dravya.
 
+### Cultivation Register
+
+**Assyrian (AT).** In the Nineveh scheme a substance is placed by the complaint it checks and the agency it opposes; the wool-clad, purple-headed field thistles sit in the class of "binding" plants gathered to stem fluxes and steady a failing constitution. That is an indication and a use, not a status the plant holds over a person's vital endowment, and the corpus records no cultivation framing for it. The standing blocking warning covers the very identification of these thistles in the tablets and any agency-attribution, so nothing further is pinned here. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides places *onopordon* among the astringent, wound-binding thistles, the root and leaf taken to steady a spreading complaint and firm the flesh. He carries no subtle-body doctrine that could grant the thistle a cultivation status; the later heart-fortifying reading is a Galenic-and-after overlay, not his. What his tradition offers a cultivator is the discipline of attention — the right part, the recognition of the armed, tomentose plant, the astringent assay — a practice of provenance and preparation rather than a vital grade. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna's successors (CM).** The Unani inheritance classed the woolly thistle *qabid* (astringent, binding), cool and dry, and gave it a *muqawwi al-qalb* (heart-strengthening) role that carried into European folk practice for a weak or palpitating heart. This is a therapeutic status within the humoral scheme. The corpus does carry a genuine cultivation idea — the conservation of innate heat and radical moisture, with cardiac "gladdening" drugs strengthening the *ruh* — but that gladdening-drug material belongs to the *Kitāb al-Adwiya al-Qalbiyya* rather than the *Canon*, and no source retrieved assigns *Onopordum acanthium* specifically to it or records a longevity/conservation status for this species; the modern literature itself grades the cardiotonic claim as thin and traditional. So the honest reading is a therapeutic cardiotonic-astringent standing, with no cultivation status attested for this plant. **(b) framed.**
+
+**Practitioner's note.** In the Kenetica frame cotton thistle is a Consolidating-Phase agent — the astringent, tone-restoring work that binds and steadies *after* clearing, never a substance taken to build or extend life. A cultivator uses it where tissue is lax and fluxes need checking, at low dose and provisionally, since no established pharmacopoeial dose exists. The traditional "strengthens the heart" language must not be read as either a cardiac medicine or a longevity tonic: it is a gentle folk astringent with a bitter digestive edge, and its own thin evidence is the caution. Use it to bind and firm, then stop.
+
+---
+
 ### Contraindications
 
 - **Asteraceae (Compositae) cross-sensitivity.** Sesquiterpene lactones such as onopordopicrin are recognised contact allergens; avoid in anyone allergic to daisies, ragweed, chamomile, or related composites.

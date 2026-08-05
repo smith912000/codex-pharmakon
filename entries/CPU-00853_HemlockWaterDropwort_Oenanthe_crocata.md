@@ -52,6 +52,18 @@ According to PubMed, the toxicology is well characterised even though therapeuti
 - **Galenic / Unani:** Cold and moist to a "malignant" degree; classed as a poison (*samm*), outside the therapeutic humoral scheme.
 - **TCM / Ayurvedic:** No legitimate classical therapeutic classification is claimed; the plant is a recognised poison, not a graded medicine. Any *rasa/guna/virya* attribution would be fabrication and is deliberately withheld.
 
+### Cultivation Register
+
+**Assyrian (AT).** In the Mesopotamian scheme illness is classified by causal agency — the hand of a god, a ghost, a broken oath — and a substance is known partly by what agency it is set against. A violently poisonous marsh umbellifer of this kind sits with the *asû*'s recognised poisons and, at most, external caustics for hard swellings; it is a thing handled with dread, not a substance taken into the body to shape a person's condition. The standing blocking warning applies to the very identification of the species in the tablets and to any demon- or hand-attribution, so no causal-agency framing is pinned here. No cultivation status is or could be claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides sets the deadly water-umbellifers among the plants that kill, describing convulsant death and warning against internal use; where he mentions handling at all it is topical, for hard tumours, under his candour about a plant of cold, wet, corrupt ground. He carries no subtle-body doctrine that could assign this root a vital status, and what his tradition offers a cultivator here is not a cultivation status but a discipline of attention — the trained eye that tells a sweet, celery-scented, edible-looking tuber from an edible parsnip, and the sensory assay that refuses the resemblance. That is the whole of the practice: recognition and avoidance. **(c) absent.**
+
+**Unani — Avicenna (CM).** The Perso-Arabic tradition files lethal plants explicitly as poisons (*sumūm*), to be recognised, avoided and antidoted rather than prescribed; a cold-and-moist "malignant" umbellifer of standing water belongs squarely in that poison category, its only sanctioned handling strictly external and physician-controlled. The strongest cultivation idea in the corpus — the conservation of innate heat and radical moisture, ageing understood as their depletion — is a frame for regimen and longevity, and it has nothing to grant a poison whose action is to extinguish life, not conserve it. No *mufarrih* or cardiac-*ruh* role is claimed, and none exists. This substance sits outside the therapeutic humoral scheme by the tradition's own reckoning. **(c) absent.**
+
+**Practitioner's note.** A cultivator does exactly one thing with *Oenanthe crocata*: learns its face and never touches it. There is no phase of any path this root belongs to. Its danger is that it looks and smells edible, so the only cultivation-relevant skill it demands is the discipline of correct identification — the same trained attention Dioscorides prized, turned entirely toward avoidance. Nothing here is taken, built, tonified or refined. The honest answer across all three traditions is the same: this is a poison, and the practice is to know it well enough to leave it alone.
+
+---
+
 ### Contraindications
 
 - **☠️ DEADLY — ABSOLUTELY CONTRAINDICATED BY EVERY ROUTE.** Ingestion of even a small amount of root causes rapid onset of nausea, salivation, violent tonic-clonic seizures, the sardonic grin (*risus sardonicus*), respiratory failure and death, often within hours. There is no antidote beyond intensive supportive care.

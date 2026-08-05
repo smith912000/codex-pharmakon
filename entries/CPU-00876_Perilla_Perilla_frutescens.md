@@ -52,6 +52,18 @@ According to PubMed, the anti-allergic reputation of Perilla leaf is supported b
 - **Ayurveda:** *Rasa* — pungent (katu); *Guna* — light, dry, mobile; *Virya* — heating (ushna); *Vipaka* — pungent. *Vata*- and *kapha*-pacifying, *pitta*-provoking in excess.
 - **Galenic / Unani:** Warm and dry (approx. 2nd degree); attenuating, carminative, resolvent.
 
+### Cultivation Register
+
+**Chinese — Bencao (SBJ).** Perilla is worked as two settled drugs of the materia medica — *Zi Su Ye* 紫蘇葉 among the pungent-warm exterior-releasers and *Zi Su Zi* 紫蘇子 among the descending, qi-directing cough herbs — squarely inside the therapeutic corpus rather than the *yang sheng* 養生 project of nourishing life. No *san pin* 三品 grade (上品/中品/下品) is attributable to this plant from a named scholarly source (Unschuld, Stanley-Baker, or a scholarly Bencao translation) in the material retrieved, and a grade taken from wellness or general-TCM web sources would not meet the standard for an attested cultivation status. The action is dispersing and course-limited — release the exterior, move qi, direct it downward — which is curative work, not the conservational long-term nourishing that a cultivation grade would mark. **(b) framed:** attested in the materia medica, no *san pin* grade sourced.
+
+**Ayurveda (SS).** Perilla enters the Indian materia medica as an aromatic *dipana-pachana* (digestive-kindling) leaf and seed, katu in *rasa* and *ushna* in *virya*, reducing *vata* and *kapha* — a therapeutic and dietetic placement by class among the pungent Lamiaceae carminatives. No *rasayana* (rejuvenation) or *vajikarana* (generative-vitality) assignment is recorded for it in the sources retrieved, so it carries no formal rejuvenative cultivation status; it is worked for digestion and for cold-damp respiratory complaints. **(b) framed** — and note this is a later East-Asian assimilation into the dravyaguna scheme, not a substance of the classical Sushruta Samhita.
+
+**Tibetan — rGyud-bzhi (FMT).** In the Tibetan and wider Himalayan stream Perilla seed is chiefly an oil-pressing crop, taken as a warming, phlegm-dispersing digestive consistent with the cold-disorder corrective logic of the Four Tantras. Tibetan medicine recognises no formal "substances for subtle-body practice" category — disorder is rooted in the three *nyes pa* arising from the three poisons, and medicine is the supporting treatment branch, not the practice that reaches the root. No cultivation status attaches to this seed. **(c) absent.**
+
+**Practitioner's note.** Perilla is a food-grade daily herb, not a cultivation substance in any of the three traditions. A cultivator uses the leaf at the first chilled, congested, or food-unsettled turn and the seed for a dry rebelling cough with constipation — dispersing and descending work, taken for the occasion and then eased off. Its convergent warming-carminative reading across China and India is real, but none of it amounts to an attested longevity or rejuvenative grade; treat it as a gentle kitchen medicine, not a tonic to be built on.
+
+---
+
 ### Contraindications
 
 - **Perilla ketone / isoegomaketone toxicity:** The furan-ketone chemotypes are established **pulmonary toxicants in grazing livestock** (acute bovine pulmonary oedema / "perilla ketone lung"). Culinary and medicinal human use of leaf and seed is regarded as safe, but concentrated essential-oil preparations of ketone-rich chemotypes should be avoided, and Perilla is not for internal use as an undiluted essential oil.

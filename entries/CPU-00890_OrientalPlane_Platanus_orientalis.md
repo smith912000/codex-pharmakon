@@ -53,6 +53,18 @@ According to PubMed, the modern evidence for *Platanus orientalis* is real but l
 - **Assyrian / Near-Eastern:** Grouped with drying, flux-checking astringent barks; also a sacred shade-tree of watercourses.
 - **(No formal TCM or Ayurvedic rasa/guna classification is attested for this species; it sits outside the classical Chinese and Indian pharmacopoeias.)**
 
+### Cultivation Register
+
+**Assyrian (AT).** The plane belongs to the Near-Eastern repertoire of drying, flux-checking astringent barks and stood as a sacred shade-tree along the watercourses and temple avenues. Under the standing blocking warning that governs every Assyrian substance identification, tablet reference and causal-agency attribution, no cultivation status is claimed here: illness in this corpus is classified partly by the agency it opposes, and nothing in the retrieved material assigns the plane a place in a vital-constitution scheme rather than the practical work of binding a wound or drying a weeping lesion. The civic and sacred standing is the standing of the tree as sacred matter, not a cultivation status worked on the person. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides gives the plane (πλάτανος) a coherent astringent-vulnerary account — bark boiled in vinegar for the gums and toothache, leaves and bark to wounds and inflammations — and even records the accurate warning that the down of the leaves and fruit-balls harms the ears and eyes. He carries no subtle-body doctrine into which a cultivation status could be placed. What the tradition offers a cultivator is his discipline of attention: the sensory assay of a genuinely astringent bark, the recognition of the irritant hairs, the judgement of what to gather and what to guard against. Recording the plane's hazards is observation, not a vital-body assignment. **(c) absent.**
+
+**Unani — Avicenna (CM).** The Unani stream inherited the Dioscoridean plane as a cold, dry, astringent (*qabid*) simple for external wounds, burns and inflammatory swellings, repeating the warning about the irritant hairs. The strongest cultivation idea in the corpus — the conservation of innate heat and radical moisture across a whole regimen — is a longevity frame of the person, not a status the tradition assigns to a cooling drying astringent, and no *mufarrih* or cardiac-*ruh* role is claimed for this tree. The attestation is humoral and therapeutic. **(b) framed** — placed in the humoral scheme, no cultivation status recorded.
+
+**Practitioner's note.** The Oriental Plane is a topical astringent and nothing a cultivator takes to build vitality. Across all three traditions it dries and binds — a wound poultice, a gum rinse, a drying agent for weeping lesions — and its most robust attested property is a hazard, the mechanically irritant leaf and seed-ball hairs to keep away from the face and eyes. The tree's fame as the Hippocratic plane of Kos is emblematic of the teaching lineage, not a cultivation status of the drug. Use the bark externally for the defined job; handle the shedding foliage with respect.
+
+---
+
 ### Contraindications
 
 ⚠️ **Trichome (leaf-hair) irritation — the primary documented hazard.**
