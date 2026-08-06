@@ -2,7 +2,8 @@
 
 ## *Platycodon grandiflorus* (Jacq.) A.DC. | Family: Campanulaceae
 
-**Tradition Tags:** CM, SBJ, FMT
+**Tradition Tags:** SBJ, FMT
+**Tags (previous line, retained for reference):** CM, SBJ, FMT
 **Energetic Classification:** Neutral-to-slightly-warm, drying (Galenic-analogue); ascending, throat-opening, phlegm-resolving
 **Training Phase:** Clearing & Airway-Opening (upper-respiratory support)
 
@@ -53,8 +54,6 @@ According to PubMed, balloon-flower root has a coherent, if still largely precli
 - **Galenic / Unani:** Warming-drying, phlegm-cutting expectorant; thins viscous humours of the chest and eases their expulsion.
 
 ### Cultivation Register
-
-**Avicenna / Unani (CM).** The Unani frame for a lung simple is humoral and faculty-based: a warming, drying, phlegm-cutting root is read as thinning the cold-wet superfluities of the chest so the *quwwa* (faculties) governing respiration are unburdened, and the general longevity logic of the tradition is conservational — innate heat (*al-harara al-ghariziyya*) and radical moisture (*al-rutuba al-asliyya*) are a finite endowment that practice husbands rather than acquires. But that is the frame for the *class* of drying pectoral drugs, not a documented status for this plant. *Platycodon grandiflorus* is an East Asian root; it does not appear as a named simple in the *Canon* tradition, and no Unani source assigns it any cultivation rank, *mufarrih* role, or place among the drugs that strengthen the *ruh*. The Codex tag here rests on a class-analogy — "bellflower-type expectorant" — rather than on an attested Avicennan entry. No cultivation status is recorded. **(c) absent.**
 
 **Shennong / later Chinese materia medica (SBJ).** Jie Geng 桔梗 is a genuinely old entry in the Chinese materia medica and is named in the *Shennong Bencao Jing* stratum, so it sits squarely inside the tradition's cultivation vocabulary of *san pin* 三品 grading and the *yang sheng* 養生 project of nourishing life. Its recorded actions, however, are curative rather than conservational: it disperses lung *qi* 氣, resolves phlegm, benefits the throat and discharges pus — the work of a drug taken for a complaint, not a substance taken long-term to nourish life, and nothing in the sources attributes to it any action on *jing* 精 or *shen* 神. As for its *san pin* grade, the accessible sources actively disagree — some popular TCM references place it in the middle grade (中品), others in the lower grade (下品) — and both are wellness/pharmacopoeia web pages, not a named scholarly translation (Unschuld; Yang Shou-zhong) verified for this species. Per the sourcing rule a grade attested only in such sources cannot carry an (a); the honest position is that Jie Geng is firmly attested in the materia medica but no reliable *san pin* status can be fixed to it here. **(b) framed** — claimed by the tradition, cultivation grade unverified.
 

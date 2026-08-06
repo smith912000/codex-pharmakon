@@ -2,7 +2,8 @@
 
 ## *Reseda luteola* L. | Family: Resedaceae
 
-**Tradition Tags:** AT, DMM, CM
+**Tradition Tags:** AT, DMM, EF
+**Tags (previous line, retained for reference):** AT, DMM, CM
 **Energetic Classification:** Cool · Dry · Astringent-Bitter (light)
 **Training Phase:** Phase II — Clarification (the yellow-fixing / signal-brightening substances)
 
@@ -88,7 +89,7 @@ Cool and dry, with a light astringent-bitter edge. Read as a **resolvent and cla
 
 **Greek — Dioscorides (DMM).** Dioscorides carries no subtle-body doctrine into which a substance could be graded, so there is no cultivation status to assign in the first place. The complication here is prior: the classical *reseda* is Pliny's calming poultice-herb of Ariminum, spoken over with the charm *resedare*, and whether that plant is our *R. luteola* is genuinely unresolved. What the Greek tradition offers a cultivator is not a vital-body category but its discipline of attention — harvest at bloom when the flavone load is highest, judge the herb by its true clear yellow, and hold the species attribution open rather than forcing Pliny's name onto the dyer's weed. Recording an amuletic charm is not endorsing one. **(c) absent** as to cultivation status.
 
-**Unani — Avicenna (CM).** Weld is a Neolithic-to-medieval European dye crop, and the firm pre-modern medical attestation the entry carries is Culpeper and the Northern-European herbal — sympathetic "it draws and fixes" reasoning — not the Perso-Arabic *Canon* or the cardiac *Kitāb al-Adwiya al-Qalbiyya*. No genuine Avicennan classing by degree, no *ruh*-strengthening or innate-heat-and-radical-moisture conservation role for this species survives in the sources retrieved; the strongest Unani cultivation idea simply is not attached to this plant. The CM tag appears to carry European-folk content under the wrong letter. **(c) absent** (and see the attestation flag: this reads as EF, not CM).
+**European folk / phytotherapy (EF).** Weld's only firm pre-modern medical record is European and vernacular: Culpeper and the Northern-European herbal lineage that carried "Dyer's Weed" as a dye crop with a marginal folk use as a mild diaphoretic and a wash for skin complaints. The reasoning is sympathetic Doctrine-of-Signatures — a plant whose whole virtue is to *draw out and fix* colour is read as a plant that *draws*, sweat to the surface and heat out of inflamed skin — recorded here as a historically held belief, not endorsed. There is no Perso-Arabic *Canon* attestation for this species and, being a European folk tradition, no formal subtle-anatomy or vital-body doctrine into which the herb could be graded; the "draws and fixes" idea is therapeutic-symbolic, not a cultivation status. What the tradition genuinely fixes to the plant is craft knowledge — harvest at bloom for the fastest yellow — rather than any regimen of vitality. **(c) absent** as to cultivation status.
 
 **Practitioner's note.** A cultivator does effectively nothing internal with Weld. It is a dye plant first and a remedy a distant second, its therapeutic record thin and its active flavone, luteolin, poorly bioavailable by mouth. Its honest use in the training sequence is didactic — the "mother-yellow" that teaches that pigment and pharmacology are one molecule — and, at most, a plain aqueous surface wash for irritated skin. Nothing across the three tagged traditions marks it as a substance taken to build or conserve vitality; the discipline it rewards is the dyer's and the classicist's attention, not any regimen of longevity.
 

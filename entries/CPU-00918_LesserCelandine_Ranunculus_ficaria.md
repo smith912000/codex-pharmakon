@@ -2,7 +2,8 @@
 
 ## *Ranunculus ficaria* L. (syn. *Ficaria verna* Huds.) | Family: Ranunculaceae
 
-**Tradition Tags:** AT, DMM, CM
+**Tradition Tags:** AT, DMM, EF
+**Tags (previous line, retained for reference):** AT, DMM, CM
 **Energetic Classification:** Cool · Dry · Astringent (external)
 
 **Training Phase:** Phase II — Clarification / Sealing (the astringent, tissue-tightening substances)
@@ -100,7 +101,7 @@ Cool and dry, astringent (external) — a **sealing / tightening** agent in the 
 
 **Greek — Dioscorides (DMM).** Dioscorides genuinely distinguishes the lesser celandine (χελιδόνιον τὸ μικρόν) and records its acrid, biting quality — used caustically to raise blisters and clean foul skin. That is a therapeutic and, notably, a *toxicological* observation, not a cultivation status, and Dioscorides carries no subtle-body system into which such a status could be graded. What the tradition offers a cultivator is precisely his discipline of attention: he foregrounds the sharp vesicant quality (which we now read as protoanemonin) rather than the later signature-driven piles use, and the sound tradition's insistence on the *dried* plant is exactly the provenance-and-processing judgement his method trains. **(c) absent** as to cultivation status.
 
-**Unani — Avicenna (CM).** The firm, specific medical attestation this entry carries is Culpeper and the Northern-European herbal — "pilewort," the Doctrine-of-Signatures anti-haemorrhoidal astringent — which is European-folk morphological reasoning, not the Perso-Arabic *Canon*. No Avicennan classing of this species by degree, and no innate-heat-and-radical-moisture conservation or *ruh*-strengthening role, survives in the sources retrieved; the Unani longevity idea is nowhere attached to this cool astringent buttercup. **(c) absent** (and see the attestation flag: the entry's CM content reads as EF).
+**European folk / phytotherapy (EF).** The firm, specific medical identity of this plant is European and vernacular: "pilewort," the Culpeper and Northern-European herbal reading in which the fig-like clustered root tubers were taken as a Doctrine-of-Signatures mark for haemorrhoids, and the dried plant used as a topical anti-haemorrhoidal astringent. That signature — a tuber that *looks like* piles must *treat* piles — is recorded here as a historically held belief, not endorsed; its morphological reasoning is invalid even though the action-class it selected (astringency) is class-appropriate. This is European folk tradition, which carries no formal subtle-anatomy or vital-body doctrine into which the herb could be graded, so the standing is therapeutic-symbolic, not a cultivation status; there is no Perso-Arabic *Canon* attestation for this species. **(c) absent** as to cultivation status.
 
 **Practitioner's note.** A cultivator does nothing internal or vitality-building with Lesser Celandine. Its only defensible use is narrow and external — a dried-plant astringent ointment or fomentation for haemorrhoids — and its real value in the training sequence is as a double teaching case: how a morphological signature can select a class-appropriate action (astringency) for an indefensible reason, and how traditional drying is a genuine, chemically-grounded detoxification step that converts the vesicant protoanemonin to far milder products. The fresh plant is a blistering toxin; nothing across the three tagged traditions grades this as a substance taken to nourish or conserve the constitution. Dry it, use it externally, and never take it fresh.
 

@@ -2,7 +2,7 @@
 
 ## *Guaiacum officinale* L. | Family: Zygophyllaceae
 
-**Tradition Tags:** CM, BM, EF
+**Tradition Tags:** BM, EF
 **Tags (previous line, retained for reference):** CM, BM, EF
 **Energetic Classification:** Hot and dry (Galenic: hot in the second-to-third degree, dry in the second) — a resinous, warming, drying agent read as an attenuator of thick cold humours and a promoter of sweat.
 **Training Phase:** Purgation / Mobilisation — a heating, diaphoretic, alterative substance deployed to move stagnation and "cook" a cold, damp, chronic condition, not a gentle daily tonic.
@@ -59,8 +59,6 @@ According to PubMed, direct clinical evidence for therapeutic guaiacum is sparse
 - (No classical TCM or Ayurvedic rasa/guna assignment — guaiacum is not attested in those traditions; stated to avoid fabrication.)
 
 ### Cultivation Register
-
-**Unani — Avicenna (CM).** It must be said plainly that Avicenna never knew this wood: *Guaiacum officinale* is a New World tree that reached the Old World only after 1492, half a millennium after the *Canon* was written, so the tag naming Avicenna is anachronistic for the species. What actually happened is a post-Columbian reception — later Unani and Arabic-influenced European *hikmat* slotted the imported wood into the humoral grid as *hār-yābis* (hot and dry), an opener of obstructions, a resolver of cold phlegmatic swellings and a diaphoretic. The corpus's cultivation idea, the conservation of innate heat and radical moisture, is a regimen-level longevity frame and is not assigned to this heating alterative; no *mufarrih* or conservational status is recorded. Used in the tradition (post-classically), but with no cultivation status and no genuine claim on Avicenna himself. **(b) framed** — and flagged as anachronistic to the *Canon*.
 
 **Nahua — Badianus (BM).** The *Badianus Manuscript* (*Libellus de Medicinalibus Indorum Herbis*, 1552) is itself a naturalistic herbal: it records what a heartwood was used for — eruptions, ulcers, the "pox" — and does **not** contain the *tonalli* / *teyolia* / *ihiyotl* model of the person at all. That subtle-body scheme is reconstructed from later ethnohistory (López Austin), not read off the manuscript, and must be named as such every time. Even taken at its strongest, the Indigenous American use of *lignum sanctum* is a therapeutic one for cutaneous and venereal complaints — and the wood's densest ethnographic association is in fact Caribbean/Taíno rather than central-Mexican Nahua. No cultivation status in the tradition's own terms is attested. **(c) absent.**
 

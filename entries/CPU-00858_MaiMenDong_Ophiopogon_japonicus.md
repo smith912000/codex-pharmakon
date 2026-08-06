@@ -2,7 +2,8 @@
 
 ## *Ophiopogon japonicus* (Thunb.) Ker Gawl. | Family: Asparagaceae
 
-**Tradition Tags:** CM, SBJ, SS
+**Tradition Tags:** SBJ, SS
+**Tags (previous line, retained for reference):** CM, SBJ, SS
 **Energetic Classification:** Cold and moist (2nd degree) — a moistening refrigerant that replenishes depleted humours
 **Training Phase:** Restoration / Yin-Consolidation (the rehydrating, tissue-rebuilding phase after depletion or febrile burn-out)
 
@@ -55,8 +56,6 @@ According to PubMed, the chemistry and pharmacology of *Ophiopogon japonicus* su
 - **Greco-Arabic / Unani (Avicennan frame):** Cold and moist temperament, indicated against hot-dry distempers of the chest and the hectic dryness of wasting.
 
 ### Cultivation Register
-
-**Unani — Avicenna (CM).** *Ophiopogon japonicus* is an East-Asian plant and is not a simple of the Mediterranean or Perso-Arabic pharmacopoeia; it does not appear in the *Canon* corpus, and its use under a Greco-Arabic reading is a doctrinal mapping of a cold-and-moist tuber onto the treatment of *su'āl yābis* (dry cough) rather than an attested Unani drug. The tradition's strongest cultivation idea — the conservation of innate heat and radical moisture as a finite vital endowment, so that longevity is a matter of husbanding fluids rather than acquiring them — is a frame of the whole regimen and is not a status this tradition assigns to this species. No *mufarrih* or cardiac-*ruh* role is claimed. **(c) absent** as to any Unani cultivation status.
 
 **Chinese — Bencao (SBJ).** Mai Men Dong 麥門冬 is one of the herbs of the earliest classical stratum, classed in the **upper grade** (上品) of the *Shennong Bencao Jing* — the grade of substances taken over long periods to nourish life (養生) rather than to attack disease, tied to "quieting the centre" and lightening the body (輕身) with prolonged use (Yang Shou-zhong, trans., *The Divine Farmer's Materia Medica / Shen Nong Ben Cao Jing*, Blue Poppy Press, 1998, lists 麥門冬 among the upper-class drugs). The upper-grade placement is itself the cultivation verdict: a conservational, long-term tonic within *yang sheng* 養生, not a short-course corrective. Note that the specifically *yin*-fluid-generating language (滋陰, 生津) belongs to the later, post-classical elaboration of the herb rather than to the terse *Bencao* stratum; the classical claim recorded here is the grade. **(a) attested** — upper grade 上品, per the named translation of the classic.
 

@@ -2,7 +2,8 @@
 
 ## *Lycium barbarum L.* | Family: Solanaceae
 
-**Tradition Tags:** CM, SBJ, FMT
+**Tradition Tags:** SBJ, FMT
+**Tags (previous line, retained for reference):** CM, SBJ, FMT
 **Energetic Classification:** Neutral–slightly warm, moistening — a sweet, nourishing yin/blood tonic in the humoral scheme.
 **Training Phase:** Building / Tonification (Phase III — deep restorative nourishment of blood, essence, and the eyes)
 
@@ -55,8 +56,6 @@ The safety-relevant interaction is also documented in the clinical literature. C
 - **Tibetan (rGyud-bzhi):** nourishing, blood-building, sight- and vitality-supporting.
 
 ### Cultivation Register
-
-**Unani — Avicenna (CM).** The classical and Islamic materia medica does carry a drug called *lykion* / *lycium* — but that name is a botanical false friend. The Greco-Roman and Perso-Arabic "lycium" was an astringent ophthalmic extract identified with thorny *Berberis* or *Rhamnus* species of the Old World, not the East-Asian fruit *Lycium barbarum*, which was unknown to Avicenna. The shared genus name is a nineteenth-century Linnaean coincidence, not a line of transmission. On the species this entry actually concerns, therefore, the *Canon* tradition attests nothing, and the Unani conservation-of-innate-heat longevity frame cannot be attached to it. **(c) absent** for goji as such; the apparent attestation is a name-collision, flagged below.
 
 **Chinese — Bencao (SBJ).** Here the cultivation status is real and old. *Gou Qi* 枸杞 is listed in the upper class (上品) of the *Shennong Bencaojing*, the grade of substances held to be non-toxic and taken long-term to nourish life (養命) — the reading of the *san pin* 三品 grading as a genuine cultivation hierarchy, tracking 養命/養性/治病, follows Stanley-Baker. The fruit's classic actions — nourishing Liver and Kidney, benefiting essence (*jing* 精) and brightening the eyes — sit squarely inside *yang sheng* 養生 as conservational, sustained-use nourishment rather than a short curative course. This is precisely the upper-grade, long-term-tonic profile the grade names. **(a) attested:** upper grade (上品), *Shennong Bencaojing*.
 

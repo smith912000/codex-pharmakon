@@ -2,7 +2,7 @@
 
 ## *Ipomoea purga* (Wender.) Lindl. | Family: Convolvulaceae
 
-**Tradition Tags:** CM, BM, EF
+**Tradition Tags:** BM, EF
 **Tags (previous line, retained for reference):** CM, BM, EF
 
 **Energetic Classification:** Hot and dry in the third degree (Galenic-Unani); a violently expulsive, downward-driving simple
@@ -55,8 +55,6 @@ According to PubMed, the chemistry of *I. purga* resin glycosides is well charac
 - **TCM / Ayurvedic:** Not a classical constituent of either system; no authentic *rasa/guna/virya/vipaka* assignment exists, and none should be invented.
 
 ### Cultivation Register
-
-**Unani — Avicenna (CM).** The Avicennan classification of jalap — hot and dry in the third degree, a *mus'hil* driving cold, phlegmatic and watery humours downward — is an anachronism that must be stated plainly: jalap is a Mexican convolvulus that reached the Old World only through the sixteenth-century Columbian exchange, centuries after Ibn Sina (d. 1037), and it appears nowhere in the *Qanun*. The humoral reading is a back-projection by later Unani-influenced European commentators assimilating a post-Columbian drug into the Avicennan grammar of catharsis. Even setting the anachronism aside, the whole standing assigned to it is that of a violent purgative; nothing in the tradition's own cultivation idea — the conservation of finite innate heat and radical moisture — attaches to a drastic that overrules the body rather than sustaining it. No cultivation status is or could be authentically attested here. **(c) absent**, and the CM tag is flagged below as anachronistic to the classical Canon.
 
 **Nahua — Badianus (BM).** The plant's true home tradition is Mesoamerican: Nahua herbalism worked a complex of drastic purgative morning-glory tubers (the *Ipomoea* and *Operculina* group), and the Badianus Manuscript (Codex de la Cruz-Badiano, 1552) records indigenous use of such root purgatives at the genus level. This is attested use, not a cultivation status. It must be said every time that the Badianus itself is naturalistic and does **not** contain the Nahua vital-entity model — *tonalli*, *teyolia*, *ihiyotl* — which is reconstructed from later ethnohistory (López Austin), not read off the manuscript; so no *tonalli*-bearing or vital-constitutional framing for this root can be drawn from the source. The recorded standing is a powerful expulsive within the indigenous purgative complex. **(b) framed:** the substance is claimed and used, with no cultivation status recorded and none available from the naturalistic source.
 
