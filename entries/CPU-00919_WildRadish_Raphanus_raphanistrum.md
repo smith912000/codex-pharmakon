@@ -83,6 +83,18 @@ Hot and dry, pungent and dispersive — a "plant of Mars" in the herbal reading.
 
 ---
 
+### Cultivation Register
+
+**Assyrian / Mesopotamian (AT).** The cuneiform tradition classes a substance partly by the causal agency it opposes — a sharp, opening root would be read as one that drives out an intruding cold or damp affliction. The radish is genuinely ancient in Mesopotamia, but a tablet-level identification of the wild *Raphanus raphanistrum* (as distinct from cultivated *R. sativus*) is not verifiable from a retrieved source, and the standing blocking warning governs every Assyrian substance identification and tablet reference. No cultivation status can honestly be assigned. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides gives *raphanís* (ῥαφανίς) a firm therapeutic account in *De Materia Medica* — warming, carminative, diuretic, wind-moving, the seed an expellant and emetic aid — but that is a therapeutic profile, not a cultivation status, because Dioscorides carries no subtle-body system into which such a status could be graded. Two honest caveats compound this: his referent is the cultivated radish, so the wild-species link is inferential; and the standing does not become a longevity or vital-endowment claim by being pungent. What the tradition offers a cultivator is the Dioscoridean discipline of attention — recognising that potency here is generated on injury, that the fresh sharp part is the true bearer of the virtue, and that the cultivated and wild forms must not be silently equated. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Radish (*fujl*) has a genuine place in the Perso-Arabic materia medica as a hot, pungent, opening drug, but the firm medical attestation this entry actually carries is Culpeper and the Northern-European herbal — the hot-dry "plant of Mars" that opens liver and spleen obstructions and raises phlegm — which is European-folk reasoning, not the *Canon*. No Avicennan classing of *this wild species* by degree, and no innate-heat-and-radical-moisture conservation or *ruh*-strengthening role, survives in the sources retrieved; the Unani longevity idea (conserving a finite vital endowment) is nowhere attached to this sharp dispersive weed. **(c) absent** (and see the attestation flag: the entry's CM content reads as EF).
+
+**Practitioner's note.** A cultivator treats Wild Radish as food and lesson, not as a vitality substance. Its honest, best-supported use is culinary — a pungent antiscorbutic spring green and mild digestive stimulant in ordinary quantities — and its didactic value is to show that some plant medicines are not pre-formed but generated on injury, so that how you crush, chew and wait governs potency more than any dose figure. Nothing across the three tagged traditions grades it as a substance taken long-term to build or conserve the vital constitution; the classical specific cures it inherits (breaking gravel, curing coughs) are unproven at the species level, and the seed and pod carry a real toxicity ceiling. Use it fresh, in food amounts, then stop.
+
+---
+
 ### Contraindications
 
 - **Livestock and seed/pod toxicity.** *Raphanus raphanistrum* is a recognised agricultural weed whose **seeds and pods can be toxic to livestock** when consumed in quantity — avoid concentrated seed preparations and do not use as fodder.

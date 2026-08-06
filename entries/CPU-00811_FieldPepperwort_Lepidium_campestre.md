@@ -88,6 +88,18 @@ According to PubMed:
 
 ---
 
+### Cultivation Register
+
+**Assyrian (AT).** The Nineveh medical tablets deploy a *saḫlû*-class cress as a heating, dispersing, and cleansing agent — a substance classified, in the Mesopotamian way, largely by the complaint it opposes and the agency behind that complaint rather than by any action on a vital constitution. But the identification of *Lepidium campestre* specifically behind any tablet line is genus-level at best and inferential from the logograms; and under the standing blocking warning in force for every Assyrian substance identification, deity/demon attribution and tablet reference, no cultivation status is claimed here. The tradition's cress is a therapeutic and apotropaic tool, not a substance worked to build a person's vitality. Cultivation status: **(c) absent.**
+
+**Greek — Dioscorides (DMM).** *Lepídion* is given as an acrid, heating (*thermantikón*) rubefacient pot-herb — reddening the skin, drawing to the surface over spleen and gouty joint, warming the digestion. Dioscorides carries no subtle-body doctrine into which such a status could be entered; what he offers a cultivator instead is his discipline of attention — the recognition of the true sharp cress by its bite, the season and freshness of the green (the pungent principle being fugitive, lost to boiling and to storage), the honest sensory assay of a rubefacient that must be felt to be dosed. That is a real practice of provenance and judgement, not a vital-body classification. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Ibn Sina, following the Greek humoral frame, classes the cresses (*ḥurf* / *ḥabb al-rashād*) as hot and dry in roughly the third degree — a sharply heating pot-herb that kindles a cold, weak stomach, expels wind, thins cold phlegm, and reddens the skin as a poultice. The strongest cultivation idea in the Unani corpus is the conservation of innate heat and radical moisture — that finite vital endowment whose depletion *is* ageing — but that is a frame for the whole regimen of temperance, not a status the tradition assigns to this sharp, drying, heat-adding cress; if anything the corpus flags its heat as a hazard in the hot-tempered and in pregnancy. No *mufarrih* / cardiac-*ruh* role and no rejuvenative standing is attested for it. **(b) framed:** attested therapeutically by humoral degree, with no cultivation status recorded.
+
+**Practitioner's note.** A cultivator does almost nothing contemplative with field pepperwort. It is a short-acting tool: a sharp raw green to kindle a cold digestion before a heavy meal, or a bruised-seed poultice held on an aching joint for a minute or two and then removed before it blisters. Nothing in any of the three traditions frames it as a substance taken over time to build the person; two of the three assign it no cultivation status at all, and the third (Unani) treats its heat as something to spend carefully, not accumulate. Use it for the defined, brief job — then stop.
+
+---
+
 ### Contraindications
 
 - **⚠️ Goitrogen / thyroid caution:** as a glucosinolate-bearing Brassica, heavy or sustained intake can inhibit thyroid iodine uptake. Avoid medicinal-scale use in hypothyroidism, goitre, or iodine deficiency; use caution with thyroid medication. (Small culinary amounts of the raw green are not a concern for euthyroid people.)

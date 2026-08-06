@@ -64,6 +64,18 @@ Attribution: the following is based on articles retrieved from PubMed.
 - **Doctrine of signatures:** solar (yellow flowers), sacrificial (red bleeding oil) — light over darkness.
 - **Kenetica axis:** Cool-Neutral / Drying / light-bearing; Phase III nervine with vulnerary sub-note.
 
+### Cultivation Register
+
+**Assyrian (AT).** No Mesopotamian or cuneiform attestation for *Hypericum tetrapterum* appears in the retrieved profile — the sources are Greek, European-folk and Chinese, none Assyrian. Under the standing blocking warning for Assyrian substance identifications, tablet references and causal-agency attributions, no status is claimed; illness in that system is classified by the agency a substance is set against, and nothing here assigns this wild St John's-wort such a role. **(c) absent** — and the AT tag is unsupported by any attestation in the entry.
+
+**Greek — Dioscorides (DMM).** *Hyperikon* (ὑπέρικον) enters the written record in *De Materia Medica* as a bitter, warming herb — the seed taken in wine for sciatic and burning complaints, the herb applied to draw together wounds and burns. Dioscorides carries no subtle-body system, so there is no cultivation status to assign; and the attestation attaches to the genus-category rather than specifically to the four-winged *H. tetrapterum*. What the tradition genuinely offers a cultivator is his discipline of attention — recognition of the true plant, the season and manner of gathering, the sensory assay of the bitter herb and its red-glanded tops. The later "against melancholy" nervine reading is medieval European folk material, not Dioscorides, and must not be read back into him. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The profile contains no Avicennan or Unani material for this plant; the content sitting under the CM tag is in fact Chinese (贯叶连翘 *guàn yè lián qiáo*, a *Hypericum*-group heat-clearing, blood-cooling herb) and is properly TCM, not Perso-Arabic. On Unani's own terms — the *ruh*, the natural/vital/animal faculties, and the conservation of innate heat and radical moisture — no source assigns this species any status, and no *mufarrih* or cardiac role is attested. **(c) absent** — with the CM tag flagged as a probable mislabel for the Chinese (TCM) stratum present.
+
+**Practitioner's note.** Across the traditions actually on the tag line there is nothing to cultivate with. The honest cultivation content of this plant sits elsewhere entirely: the European folk *oleum hyperici* — the sun-macerated red wound-oil gathered around the summer solstice — is a real practice, but it is European-folk (EF) material, topical and vulnerary, not a longevity or vital-constitution regimen; and the mood-lifting reputation belongs to the validated sibling *H. perforatum*, not to this wild congener. A cultivator uses *H. tetrapterum* as a topical red-oil for cuts and burns and treats any internal "nervine" expectation as unproven for the species, mindful too of the genus-level photosensitising and CYP/P-gp interaction cautions. Nothing here is taken long-term to build the person.
+
+---
+
 ### Contraindications
 
 - **Photosensitisation (hypericin).** The naphthodianthrones are phototoxic; internal use with UV/strong-sun exposure risks phototoxic skin reactions, especially in fair-skinned users. Counsel sun-avoidance during internal use.

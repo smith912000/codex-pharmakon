@@ -85,6 +85,18 @@ According to PubMed:
 
 ---
 
+### Cultivation Register
+
+**Assyrian (AT).** Mesopotamian dietetics treated the pulses as nourishing, "thickening," strengthening foods, and a tuber-bearing vetchling fits that nutritive-pulse slot — a substance placed by its dietary quality and the strength it was thought to build, not by any working on a vital constitution. But *Lathyrus tuberosus* cannot be identified in the tablets; the better-attested Near-Eastern *Lathyrus* is the chickling vetch *L. sativus*, and the attribution here is genus / food-class only. Under the standing blocking warning in force for every Assyrian substance identification and tablet reference, no cultivation status is claimed. Cultivation status: **(c) absent.**
+
+**Greek — Dioscorides (DMM).** The Greek dietetic writers place the cultivated pulses — the *láthyros* group alongside chickpea and lentil — as foods carrying humoral qualities: nourishing but thick, windy, some binding, some heavy to concoct. This is dietetics, not the acute-drug materia medica, and Dioscorides carries no subtle-body doctrine into which a cultivation status could be entered; the plant is described as food with qualities, not as a substance worked on the person's vitality. (The *lathyris* of his drug-lists is *Euphorbia lathyris*, caper spurge — a different, purgative plant, not this pulse, and the two must not be conflated.) What the tradition offers a cultivator is his discipline of attention — the correct identification of the pulse against dangerous look-alikes, the judgement of a food heavy on a weak digestion. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Unani dietetics classes the chickling vetches (*julubbān*) among the nourishing but "thick, windy, and slow-to-digest" pulses — foods that build flesh and strength yet burden a weak digestion and breed crude humour if over-eaten, to be balanced with warming carminative correctives such as cumin. This is a genuine humoral-dietetic placement of the food, and the tuberous root falls into that nourishing-pulse slot. But it is a dietetic quality, not a cultivation status: the tradition's strongest cultivation idea, the conservation of innate heat and radical moisture across the temperate regimen, is not assigned to this pulse, and no rejuvenative or *mufarrih* standing is attested for the species. **(b) framed:** attested as a humorally-classed nutritive food, with no cultivation status recorded.
+
+**Practitioner's note.** What a cultivator does with the tuberous pea is eat the cooked **tuber** as ordinary grounding, sweet-starchy nourishment — a foraged root-vegetable in the earthy restorative register, not a dosed medicine and not a longevity substance. No tradition frames it as rejuvenative; two assign it no cultivation status at all, and the third treats it as a strengthening but burdensome food to be corrected, not accumulated. The one non-negotiable discipline is genus safety: never let the **seeds** of any *Lathyrus* become a large, sustained fraction of the diet — that famine-monodiet pattern is what causes irreversible neurolathyrism. Eat the root as food; leave the seed alone.
+
+---
+
 ### Contraindications
 
 - **⚠️⚠️ Neurolathyrism / seed hazard (the defining warning):** as a *Lathyrus*, the plant belongs to the genus that causes neurolathyrism — an **irreversible spastic paralysis of the legs** — when its **seeds** are eaten as a large, sustained, near-sole part of the diet (the classic famine-monodiet pattern). **Do not adopt the seeds as a staple food.** The **tubers** are the safer organ and the only part Kenetica endorses as food, but never let any *Lathyrus* seed dominate the diet. Assay species-specific β-ODAP before considering seed use. `[USER: verify]`

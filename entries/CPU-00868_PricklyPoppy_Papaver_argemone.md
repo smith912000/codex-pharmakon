@@ -78,6 +78,18 @@ Prickly poppy is a **minor, mild `[RESET]` simple** — a gentle sedative-demulc
 
 ---
 
+### Cultivation Register
+
+**Assyrian (AT).** Mesopotamian medical tablets reference poppy-type simples among the sedative and pain-easing plants, but whether any specific tablet denotes *Papaver argemone* rather than *P. rhoeas*, *P. somniferum*, or a generic red field poppy is not securely established, and the identification is actively contested in Assyriology. The tradition classified illness partly by the causal agency a remedy opposed, not by a substance's action on a vital constitution, and the standing blocking warning applies to every Assyrian substance identification and tablet reference. No cultivation status can be claimed on this footing. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides treats *argemōnē* and the wild field poppies as mild, cooling, surface-and-eye remedies, kept carefully distinct from his *mēkōn* / opium entries — a therapeutic account, and one delivered without any subtle-body system that could carry a cultivation status in the first place. What the tradition offers a cultivator is his discipline of attention: the separation of the gentle field poppy from the dangerous opium poppy by observed effect, the assay of the plant, the guard against the name-confusion that the very epithet *argemone* invites. That is a real practice of discrimination and provenance, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** This is the substantive attestation of the three: Ibn Sina graded the poppies by potency, placing the wild red field poppy (*Papaver erraticum*) far below the opium latex — cooling, mildly calming, a gentle promoter of sleep and easer of cough, without the stupefying fourth-degree cold of true opium. That grading is a genuine Canonical placement of *this* class of poppy, in the tradition's own humoral terms. But it is a therapeutic-humoral status, not a cultivation one: the strongest cultivation idea in Unani — the conservation of innate heat and radical moisture across a lifetime — is a frame of the whole regimen, and no *mufarrih* / cardiac-*ruh*-strengthening role is assigned to the field poppy, nor is any longevity standing recorded for it. Attested and humorally graded, but with no cultivation status sourced: **(b) framed.**
+
+**Practitioner's note.** A cultivator does very little with prickly poppy and should want to. It is a barely-active evening calmative and a demulcent cough simple, worked from the petals only, at the lowest tier of the *Shen*-touching botanicals — and the entry exists chiefly to mark a boundary: it is *not* opium, carries no morphinan payload, and must never be graded or concentrated as though it were. Its one real discipline is the Dioscoridean one of not confusing it with its dangerous namesakes (the opium poppy, and the genuinely toxic New-World *Argemone*). Use the petal tea for what it is, expect little, and keep the species straight.
+
+---
+
 ### Contraindications
 
 - **⚠️ Do NOT treat as opium / do not concentrate for narcotic effect** — no morphinan payload exists; attempts to extract one deliver only the minor alkaloids and are pointless and mildly hazardous.

@@ -83,6 +83,18 @@ Lima bean enters Kenetica as a **food-tier Jing/Qi builder**, not a therapeutic 
 
 ---
 
+### Cultivation Register
+
+**Greek — Dioscorides (DMM).** Dioscorides catalogued the Old-World pulses under *phasēlos*, *dolichos* and *kyamos* as nutritive, mildly windy, emollient foods, and he had no subtle-body doctrine to which any bean's cultivation status could be assigned in the first place. Decisively, he never saw *Phaseolus lunatus*: it is a New World domesticate that reached the Mediterranean only after the Columbian exchange, so nothing in *De Materia Medica* is an attestation *of this species* — the lima bean was retrofitted into the Greek bean-concept by later European herbalists inheriting his categories. What the tradition genuinely offers a cultivator here is his discipline of attention — the sorting of one pulse from another, the assay of the seed, the judgement of soundness — not a vital-body status. On both grounds (no subtle-body system, and anachronistic identification) cultivation status is **(c) absent**.
+
+**Chinese medicine (TCM).** The classical Chinese bean of the materia medica — *biǎndòu* 藊豆 — is *Lablab purpureus*, the hyacinth bean, given a Spleen-strengthening, damp-transforming, harmonising role within the food-grade tonification of the middle burner. *Phaseolus lunatus* is not that plant; arriving late by trade, it was absorbed into the same 豆 *dòu* bean-doctrine by assimilation, not by original entry into the *Bencao*. No *san pin* 三品 grade is recorded for the lima bean in any classical source — none could be, since the species was unknown to the compilers — and its Spleen-nourishing standing is therapeutic-dietetic at most, borrowed by concept. Within *yang sheng* 養生 it carries no attested cultivation grade for this species: **(c) absent**, and flagged as an anachronistic graft.
+
+**Nahua — Badianus (BM).** The Badianus manuscript (*Libellus de Medicinalibus Indorum Herbis*, 1552) is the one authority here describing a *Phaseolus* the compilers actually grew and ate — Mesoamerican cultivated beans (*etl* / *ayecohtli*) as a nutritive food-medicine and a base for restorative and poultice preparations. This is a clean New-World attestation of the bean as strengthening food, but it is a naturalistic, food-medicine record: the manuscript is itself naturalistic and does **not** contain the *tonalli* / *teyolia* / *ihiyotl* model of the person. That vital-soul framework is reconstructed from later ethnohistory (López Austin), not from the Badianus text, and no such standing is assigned to the bean in the source. The attestation is therefore dietetic-therapeutic, with no cultivation status recorded: **(c) absent**.
+
+**Practitioner's note.** A cultivator does nothing esoteric with the lima bean — it is a boiled staple, a Jing/Spleen-Qi food eaten for its protein and slow starch during build and recovery blocks, and its one non-negotiable discipline is toxicological, not spiritual: the hard boil with the water discarded, which removes cyanide and destroys the lectin. No tradition on the tag line assigns it a cultivation status, and two of the three (Greek, Chinese) could not have, since they never saw the plant. Treat it as food, prepare it correctly, and expect nothing more from it.
+
+---
+
 ### Contraindications
 
 - **⚠️ CYANOGENIC TOXICITY — never eat raw or undercooked.** Raw, sprouted, or low-temperature-cooked lima beans (especially coloured/heirloom/wild cultivars) can liberate hydrogen cyanide. Symptoms of cyanide exposure: headache, dizziness, rapid breathing, nausea, collapse. **Always boil hard and discard the water.** Regulatory HCN limits exist for a reason.

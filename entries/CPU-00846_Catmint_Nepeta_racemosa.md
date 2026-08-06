@@ -81,6 +81,18 @@ Catmint is a gentle aromatic `[RESET]` herb — carminative, diaphoretic, faintl
 
 ---
 
+### Cultivation Register
+
+**Assyrian (AT).** Mesopotamian medical tablets list many aromatic pot-herbs and mints among the carminative and fumigant simples, but no secure identification of *Nepeta racemosa* — or even the *Nepeta* genus — is established in the cuneiform corpus, and the native name given for this entry is a flagged placeholder rather than a confirmed reading. Under the standing blocking warning for Assyrian substance identifications and tablet references, and with the tradition's classification of illness by causal agency rather than by a substance's action on a vital constitution, no cultivation status can be claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Dioscorides treats the *kalaminthē* group as warming, drying, pungent mints — carminative, diaphoretic, emmenagogue, vermifuge — a therapeutic account of a loose mint-concept, and one he delivers with no subtle-body system that could assign a cultivation status to any member of it. What the tradition offers a cultivator is his discipline of attention: the sensory assay of a pungent aromatic, the recognition of the warming-mint quality, the awareness (which the modern chemotype data vindicate) that "mint" is not one fixed thing. That is a real practice of provenance and sensory judgement, not a vital-body doctrine, and it lands on the mint-concept rather than on *N. racemosa* specifically. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** The Arabic tradition knew a *naʿnāʿ al-hirr*, a "cat's mint," and placed it among the warm, dry mints used to settle the stomach, expel wind, promote sweat and menstruation, and mildly soothe — a genuine humoral placement of the aromatic mint in the tradition's own terms. But this is a therapeutic-humoral status, not a cultivation one: the strongest cultivation idea in Unani, the lifelong conservation of innate heat and radical moisture, is a frame of the whole regimen, and no *mufarrih* or *ruh*-strengthening role, nor any longevity standing, is assigned to this warming carminative mint. Attested and humorally graded, with no cultivation status sourced: **(b) framed.**
+
+**Practitioner's note.** A cultivator uses catmint for small, honest jobs: a covered aromatic infusion to settle a nervous or windy gut, a warm cup to coax a sweat at the first chill, a faint edge-off-restlessness before sleep — and, best-evidenced of all, a topical nepetalactone repellent for the training environment, which is the strongest thing the plant reliably does. None of the three traditions on the tag line assign it a cultivation status, and the calmative action is mild enough that it should never be positioned as a hypnotic. Grow it, cover the cup to keep the volatile oil, mind the chemotype, and keep expectations modest.
+
+---
+
 ### Contraindications
 
 - **⚠️ Pregnancy — avoid.** The aromatic Lamiaceae emmenagogue tradition (Dioscorides, Ibn Sina) plus the volatile-oil uterine-stimulant caution shared by the catmints make internal use inadvisable in pregnancy; avoid emmenagogue doses. Caution in lactation. `[USER: verify]`

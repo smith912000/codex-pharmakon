@@ -64,6 +64,18 @@ Attribution: the following is based on articles retrieved from PubMed.
 - **TCM (tu mu xiang):** warm; pungent, bitter; Liver/Spleen/Stomach; moves qi, relieves pain.
 - **Kenetica axis:** Warm / Drying / Downward-outward, chest-opening; Phase II consolidator.
 
+### Cultivation Register
+
+**Unani — Avicenna (CM).** The retrieved profile carries no Avicennan or Unani material for *Inula racemosa* at all; the "Chinese materia medica (土木香 *tǔ mù xiāng*)" section it does carry is Chinese, not Perso-Arabic, and cannot be read under the CM letter without repeating the cross-tradition drift the registry forbids. On Unani's own terms — the *ruh* and the natural, vital and animal faculties, and above all the finite endowment of innate heat and radical moisture whose conservation is the tradition's one genuine longevity idea — no source assigns this Himalayan root any status, no *mufarrih* or cardiac-*ruh* role is attested for it, and the warming-drying description present belongs to other traditions' humoral language rather than to a sourced Unani classification. Cultivation status: **(c) absent** — and the CM tag itself reads as a mislabel for the Chinese (TCM) content actually in the entry.
+
+**Ayurveda (SS).** *Puṣkaramūla* is a securely attested classical *dravya* — the named root for *hṛdroga* (हृद्रोग), *pārśvaśūla*, *śvāsa* and *kāsa*, classed *uṣṇa* in *vīrya*, *tikta-kaṭu* in *rasa*, *kaṭu* in *vipāka*, and *kapha-vāta-hara*, worked to melt cold obstruction from the *hṛdaya srotas*. Its recorded *karma* is *hṛdya* (cardiotonic) — a therapeutic, channel-clearing action, not a *rasāyana* or *vājīkaraṇa* assignment. No Sushrutan or Caraka rejuvenative/generative status for this species is recorded in the retrieved sources, so its standing is therapeutic and dietetic rather than a formal cultivation grade; it moves and warms rather than building *ojas*. **(b) framed** — richly attested in the materia medica, no *rasāyana* cultivation status sourced.
+
+**Tibetan — Sowa Rigpa (FMT).** The same and allied *Inula* roots (the *ru rta* / *manu* group) enter Tibetan formularies as warming, channel-opening agents that disperse cold *rlung*-and-phlegm stagnation in the trunk. This is a therapeutic deployment against a *nyes pa* imbalance, not an assignment to *bcud len* (essence-extraction) or to any formal subtle-body-substance category — of which Sowa Rigpa has none. Medicine here is the supporting branch, not the root-level practice, and nothing in the retrieved material links this root to essence-cultivation. **(b) framed** — used, with no cultivation status recorded.
+
+**Practitioner's note.** Nothing here is a longevity or essence-building substance in any of the three traditions actually in play. Pushkarmool is a warm, resinous, downward-moving chest root: Ayurveda works it against cold *kapha-vāta* obstruction of the heart-and-lung channels, Sowa Rigpa against cold *rlung*-phlegm stagnation, and the Chinese *tu mu xiang* stratum to move stalled qi in the epigastrium and chest. A cultivator uses it for a defined obstruction pattern — the tight, cold, gripping chest — as an adjunct, then stops; it is explicitly not a tonic taken long to build the constitution, and the reactive sesquiterpene-lactone chemistry (contact allergy, mucosal irritation) is itself the argument against casual long-term use.
+
+---
+
 ### Contraindications
 
 - **Sesquiterpene-lactone contact allergy.** Alantolactone/isoalantolactone are classic Asteraceae contact sensitisers; cross-reactivity within the Compositae is common. Avoid in anyone with known Asteraceae/parthenium dermatitis.
