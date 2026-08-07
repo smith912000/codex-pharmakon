@@ -164,6 +164,18 @@ Juglanin and (−)-loliolide from *P. aviculare* reduce SA-β-gal activity, p21 
 
 ---
 
+### Cultivation Register
+
+**Greek — Dioscorides (DMM).** *Polygonon* is given a therapeutic account — an astringent-haemostatic for fluxes, dysentery, haemorrhage and discharges, with a secondary diuretic note — and Dioscorides carries no subtle-body system to which a cultivation status could attach; the Galenic three-spirits scheme is later than his text. What the tradition offers a cultivator is his discipline of attention: the "many-kneed" morphology as an identification, the astringent pucker as a sensory assay of the drug's binding action, the guard against confusing it with the acrid *Persicaria* or the twisted-rhizome bistort. That is a real practice of provenance and sensory judgement, not a doctrine of vital constitution. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Working the Greek material through the four-degree system, the tradition places knotgrass as cold and dry in a low degree — an everyday astringent for fluxes, haemorrhage, hot swellings and burning urine, treated as unrestricted precisely because it is mild. This is a therapeutic classification, not a cultivation status. The strongest cultivation idea in the Unani corpus — the husbandry of a finite innate heat and radical moisture, longevity as conservation rather than acquisition — is a frame for the whole regimen and is not invoked for this minor cooling drying herb; no *mufarrih* or cardiac-*ruh* role is claimed, and no *Canon* chapter reference is offered (the standard English *Canon* is an unreliable adaptation). The Arabic name and degree are not securely verified here. **(b) framed:** attested therapeutically, no cultivation status recorded.
+
+**Chinese — Bencao (SBJ).** *Bian Xu* 萹蓄 stands in the *Shennong Bencao Jing* lineage and continues in the present pharmacopoeia, but its doctrine lives entirely in its functions — 利尿通淋 (promote urination, free strangury), 清熱利濕 (clear heat, drain damp), 杀虫止痒 (kill parasites, stop itch) — every one of them curative (治病) rather than conservational. It is a formula herb of 八正散, deployed acutely against damp-heat strangury and stone, not a substance taken long-term to nourish life. No *san pin* 三品 grade is recorded for it in the sources retrieved, and none is asserted here without a named scholarly translation of the *Shennong Bencao Jing*. Within *yang sheng* 養生 — which is conservational, not curative — it therefore carries a therapeutic, not a cultivation, standing; its own draining, downward-directing nature (and the tradition's withholding of it in pregnancy) points away from any nourishing-life role. **(b) framed:** attested in the materia medica, no cultivation grade sourced.
+
+**Practitioner's note.** A cultivator uses this as the traditions used it: acutely and briefly, inside a formula, for burning scanty urination or a mild flux, or as a topical wash — then stops. Nothing here is a tonic. Both the Chinese and the Greco-Arabic records treat it as a short-course working drug, and its tannin-and-oxalate profile is a good reason not to invent a long-term cultivation use the sources never gave it.
+
+---
+
 ### Contraindications
 
 **General:** a mild herb with real but bounded cautions. None of the following are theoretical hedges — each attaches to a specific constituent class.

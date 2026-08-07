@@ -61,6 +61,16 @@ Cat's Claw represents the Amazon's contribution to the Codex — the forest's im
 **Dantian Affiliation:** Triple Warmer (the entire torso's lymphatic-fascial network)
 **System Domain:** Lymphatic Clearance · Immune Recalibration · DNA Repair · Anti-Viral Defense
 
+### Cultivation Register
+
+**Nahua — Badianus (BM).** The Nahua person is composed of *tonalli*, *teyolia* and *ihiyotl*, with illness read as their loss, displacement or imbalance — but this model is reconstructed from later ethnohistory (López Austin), not from the *Libellus de Medicinalibus Indorum Herbis* (the 1552 Badianus manuscript) itself, which is naturalistic and organises remedies by complaint. More to the point, *Uncaria tomentosa* is an Amazonian canopy vine growing outside the central-Mexican range of the Badianus herbal, and no entry for it survives in that source; the plant belongs to lowland South American ethnobotany, not to the Nahua materia medica. There is therefore no *tonalli*/*teyolia* cultivation framing to record, and none can honestly be manufactured for a plant the tradition did not know. Cultivation status: **(c) absent** — and the BM tag itself appears to be a misattribution (see note below).
+
+**South American indigenous (SA).** Among Amazonian peoples the inner bark of *uña de gato* is a valued medicine, and the ethnographic record ties it to named groups of the Peruvian Amazon — Asháninka, Shipibo, Awajún — for inflammation, wounds and what would later be read as immune conditions. Attestation here is ethnographic, not textual, so it is properly attributed to those peoples rather than to any pan-Amazonian system, and there is no single South American subtle-anatomy scheme into which it could be placed. Whether it carries a formal *dieta* or stands among the *plantas maestras* (teacher plants, where the plant is an agent and not a tool) is not established in a named scholarly source retrieved here; the sources document it as a therapeutic bark, not as a plant one diets with under a specialist's direction. Its standing is therefore medicinal and ethnographically attested, with no cultivation status sourced. **(b) framed.**
+
+**Practitioner's note.** A cultivator uses cat's claw as a corrective, not a longevity substance: an immune recalibrator and anti-inflammatory taken in defined 8–12 week cycles with breaks, then stopped. Nothing in the sourced record makes it a plant one diets with in the Amazonian sense, and nothing ties it to the Nahua vital-body scheme at all. Work it for the defined job — clearing inflammatory and lymphatic load from hard training — and respect the cycling that its own use pattern already implies.
+
+---
+
 ### Contraindications
 
 - **Autoimmune conditions on immunosuppressant therapy** — immune stimulation may worsen or interact

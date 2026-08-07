@@ -158,6 +158,18 @@ So the ancients correctly identified a plant that evacuates the gut with great f
 
 ---
 
+### Cultivation Register
+
+**Assyrian (AT).** No Mesopotamian cuneiform attestation for *Helleborus viridis* is presented in this entry; the "AT / DMM" label carried by the origin section attaches the Anticyra doctrine — a Greco-Roman melancholy-purge tradition — to the Assyrian code, which is a misassignment rather than a cuneiform citation. Assyrian medicine classified drugs by the causal agency they opposed (a divine hand, a ghost, an oath), not by any effect on the person's vital constitution, and under the standing blocking warning in force for every Assyrian substance identification, deity attribution and tablet reference, no identification and no cultivation status can be claimed here on the strength of what is shown. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Black hellebore (*helléboros mélas*) is given a systematic account in *De Materia Medica* (Book IV), where Dioscorides sets out its use as a drastic downward purge for the melancholic and the mad and warns explicitly about its danger and its dosing; *H. viridis* belongs to the black-hellebore (*Helleborus*, Ranunculaceae) group that stands behind that testimony, though the classical record cannot be pinned to this species and is further corrupted by the perennial confusion with white hellebore (*Veratrum album*). Dioscorides carries no subtle-body doctrine and assigns the plant no status touching the practitioner's own vitality; what the tradition offers a cultivator is his discipline of attention — the season and manner of gathering the root, the sensory assay of its acridity, the guard against a substitute — which for a plant this lethal is a discipline of avoidance, not of use. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Hellebore (*kharbaq aswad*, black hellebore) is carried in the Unani materia medica as a hot, drastic evacuant purge worked against melancholic and phlegmatic surplus, the humoral cousin of the Greek indication. The strongest cultivation idea in the Unani corpus — the conservation of the innate heat and radical moisture that ageing depletes, a longevity practice of husbanding a finite endowment — is a frame of the whole regimen and is not a status the tradition assigns to a violent cardiotoxic evacuant, which spends the body rather than conserves it; no *mufarrih* or cardiac-*ruh* role is claimed for it, and none would be coherent. The substance is attested therapeutically with no cultivation status recorded. **(b) framed.**
+
+**Practitioner's note.** There is nothing here for a cultivator to take, in any tradition. Across the Greek and Unani records this is a drastic, dangerous evacuant given for a defined crisis and then stopped, and this entry's own governing judgement is that no defined crisis justifies it now — the plant is documented and buried, not used. The one transferable practice is Dioscorides' discipline of attention turned to its proper end here: the ability to identify the plant, distinguish it from *Veratrum*, and refuse it. Cultivation, for green hellebore, is the trained refusal.
+
+---
+
 ### Contraindications
 
 # ☠️ ABSOLUTE — THIS PLANT IS NOT USED. THERE ARE NO RELATIVE CONTRAINDICATIONS BECAUSE THERE IS NO PERMITTED USE.

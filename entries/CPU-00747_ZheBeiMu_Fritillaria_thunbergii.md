@@ -120,6 +120,20 @@ According to PubMed:
 | Toxicity | Not classed as 有毒 in the classical record — but constrained by the 十八反 |
 | Pattern | **Excess-heat-phlegm.** Never deficiency. |
 
+---
+
+### Cultivation Register
+
+**Unani — Avicenna (CM).** The "CM" heading in the origin section is used there to mean "Chinese Medicine," but the registry code CM belongs to Avicenna and the Unani corpus — and *Fritillaria thunbergii*, an eastern-Chinese lowland cultivated bulb, is not a Perso-Arabic materia medica drug; it does not appear in the Unani tradition at all. The Unani cultivation idea, the husbanding of innate heat and radical moisture, therefore has nothing here to act on. This is a code misassignment rather than an attestation. **(c) absent.**
+
+**Chinese — Shennong / *Bencao* (SBJ).** Read the code by its registry meaning — SBJ is the Shennong classical *Bencao* stratum, not the "Sacred / Bodily Jurisprudence" gloss the body uses. *Bèi mǔ* is genuinely a classical Chinese materia medica drug, its heat-clearing, phlegm-transforming and nodule-dissipating functions traced by recent work to the *Shennong Bencao Jing* and the *Bencao Zheng* (Zhu et al., *J Ethnopharmacol*, 2025); the *Zhe Bei Mu* / *Chuan Bei Mu* species split, and the 十八反 (*shí bā fǎn*) aconite prohibition that governs it, are later post-classical (TCM-stratum) refinements of that classical drug. Its recorded character is a treat-disease one — 清热化痰, 開鬱散結, clearing heat and draining phlegm from an excess pattern — the curative pole, not the conservational *yang sheng* 養生 nourishing of life; and no *san pin* 三品 grade is recorded for *F. thunbergii* specifically in the sources retrieved (the classical *beimu* predates the species differentiation). It is attested with no cultivation status sourced for this species. **(b) framed.**
+
+**Tibetan — Sowa Rigpa (FMT).** The registry code FMT is rGyud-bzhi / Tibetan medicine, not the "Formulary & Materia Media Taxonomy" the body invents; the section tagged FMT is in fact the Chinese *Chuan*/*Zhe* clinical distinction, a Han-Chinese taxonomy point, not a Tibetan one. The fritillary that enters Sowa Rigpa is the Himalayan *Fritillaria cirrhosa* (the *Chuan Bei Mu* type), not this eastern-lowland cultivated *F. thunbergii*, and no Tibetan attestation for this species is presented; the Four Tantras carry no formal category of substances-for-subtle-body-practice in any case. **(c) absent** for this species.
+
+**Practitioner's note.** In the one tradition that genuinely holds it — Chinese materia medica — Zhe Bei Mu is a drug of clinical differentiation, not of cultivation: it is taken for a defined excess-heat-phlegm cough and stopped, never as something a well person builds vitality on, and its bitter cold draining action would harm the depleted patient it is wrongly given to. The most durable knowledge the tradition attaches to it is prohibitive — the millennium-old refusal to combine it with aconite, now with a plausible P-glycoprotein mechanism (Liu et al., 2021). For a cultivator that is the whole lesson: this is a bulb you learn to place precisely and to keep apart, not one you take to nourish life.
+
+---
+
 ### Contraindications
 
 ⚠️ **ABSOLUTE — the Eighteen Antagonisms:** **Never combine with aconite** — *Wu Tou* (乌头), *Fu Zi* (附子), *Cao Wu* (草乌), or any aconite-containing formula. Classical prohibition; plausible P-gp-mediated mechanism (Liu et al., 2021). This is not negotiable and not a "relative" caution.

@@ -96,6 +96,16 @@ Rou Cong Rong 12 g + Yin Yang Huo (Epimedium) 9 g + Ba Ji Tian (Morinda) 9 g + D
 
 ---
 
+### Cultivation Register
+
+**Chinese — Bencao (SBJ).** Ròu Cōng Róng 肉苁蓉 is one of the more securely graded substances in the whole Chinese materia medica: it is recorded in the *Shennong Bencao Jing* 神農本草經 (c. 100 CE, the oldest surviving *bencao* stratum) and classed in the **upper grade, *shang pin* 上品** — the grade of substances taken long-term to nourish life rather than to attack disease, tracking 養命 over 治病. This upper-grade classification for this exact species is confirmed in named peer-reviewed scholarship (Fu Z-J et al., "Herba Cistanche (Rou Cong-Rong): One of the Best Pharmaceutical Gifts of Traditional Chinese Medicine," *Evidence-Based Complementary and Alternative Medicine*, 2016, PMC4771771; and the classical-literature review "Update classical literature research on Cistanches Herba," *Zhongguo Zhong Yao Za Zhi*, 2022, PubMed 36471985). Note that the profile above attributes the *shang pin* grade to Li Shizhen's *Bencao Gangmu* (1596) — but the grade is far older than that late compilation; it belongs to the *Shennong Bencao Jing* itself, and the *Bencao Gangmu* merely carries it forward. Within *yang sheng* 養生 — conservational, nourishing life — this is a genuine cultivation status, not merely a therapeutic one. Cultivation status: **(a) attested** — upper grade, *Shennong Bencao Jing*.
+
+**Tibetan (FMT).** Tibetan medicine reads pathology through the three *nyes pa* (rlung / mkhris pa / bad kan) rooted in the three poisons, and treats it as the third of four branches — medicine supports practice rather than reaching the root. The profile above places Cistanche among warming, *rlung*-pacifying tonics entering Tibetan practice through Central Asian and Chinese trade, but this is a generic categorical framing, not an attestation tied to a named passage of the *rGyud-bzhi* or to *bcud len* (essence-extraction) scholarship (Gerke). Crucially, Tibetan medicine has no formal "substances for subtle-body practice" category, so no such cultivation status can be assigned even in principle, and none is sourced here for this substance specifically. It sits, at most, inside a warming-tonic frame with no recorded cultivation grade. **(b) framed** — used within a warming-tonic category, no *bcud len* or subtle-body cultivation status attested.
+
+**Practitioner's note.** In its own tradition this is a true cultivation substance: an upper-grade *Shennong* tonic worked slowly and over long courses — the *rou congrong zhou* congee for the depleted and elderly, wine-processed slices in Kidney-Yang and Jing formulas — to warm and supplement the Ming Men while moistening the Intestines, without the drying harshness of stronger Yang tonics. A cultivator uses it as a foundational, conservational tonic across 8–12 week off-cycle blocks, not as an acute stimulant, and respects its Yin-deficiency-with-Heat and loose-stool cautions. The Tibetan record adds nothing to that beyond a general warming-tonic placement.
+
+---
+
 ### Contraindications
 
 - **Yin deficiency with Heat:** Warming Yang action may exacerbate Heat signs (night sweats, red tongue, rapid pulse) in constitutions with insufficient Yin to balance Yang augmentation

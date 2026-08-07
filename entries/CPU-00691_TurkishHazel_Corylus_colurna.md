@@ -96,6 +96,18 @@ Underneath sits a surprise: beyond the expected tannins, the Hungarian *Corylus*
 | Humoral (Graeco-Roman) | Nourishing, temperate, fattening | Astringent, drying, styptic |
 | Kenetica axis | **Building** — a Foundation-phase nutritive | **Consolidating** — reference only |
 
+### Cultivation Register
+
+**Assyrian (AT).** No Assyrian attestation for Turkish hazel is present in this entry, and none was retrieved. The cuneiform materia medica of the Mesopotamian *asû* and *āšipu* classifies a substance partly by the causal agency (divine hand, ghost, oath) it is set against, but *Corylus colurna* — a Balkan-to-Caucasus tree outside the core Mesopotamian flora — is not identified in the tablet record available here. Under the standing blocking warning that governs every Assyrian substance identification and tablet reference, no cultivation status is claimed. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** The hazel enters the classical record on two tracks: the edible "Pontic nut" / "nut of Heraclea" (a fat source of the dried-fruit trade) and the astringent bark and leaf worked for fluxes, weeping skin and — most persistently — the veins (varices, phlebitis, haemorrhoids). Species-level attribution to *C. colurna* against *C. avellana* is not recoverable from the classical sources, as the entry states. Dioscorides carries no subtle-body system into which a cultivation status could be assigned; what the tradition offers a cultivator is his discipline of attention — provenance (the southern Black Sea range behind the "Pontic" and "Heraclea" names), the astringent assay of bark and leaf, the guard against confusing one *Corylus* for another. That is a real practice of judgement, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** No Unani attestation for this species is present in the entry, and the material filed here under the CM code is not Avicennan at all: it is Chinese — *Zhen Zi* 榛子, the kernel read as a Spleen-and-Stomach qi-tonic food. That is a code misapplication (see the attestation flag below), not an *Ibn Sīnā* / Unani source. The strongest cultivation idea in the Unani corpus — conservation of the finite innate heat and radical moisture, longevity as non-depletion — is nowhere assigned to Turkish hazel in any Unani text retrieved, and no *mufarrih* or cardiac-*ruh* role is claimed. On the Unani reading proper, therefore: **(c) absent.**
+
+**Practitioner's note.** Nothing here is a cultivation substance. The kernel is a dense monounsaturated-fat-and-tocopherol food, admitted at food's standard of evidence and carrying food's gravest risk — tree-nut anaphylaxis; the bark and leaf are an astringent-vulnerary the codex refuses to promote to a protocol on DPPH data alone. A cultivator eats the nut as a shelf-stable caloric asset where no nut allergy is in play, and does nothing ceremonial with the bark. The one genuine cultivation-adjacent discipline attaching to this plant is provenance and species discernment — knowing that orchard "hazel" is usually *C. avellana* scion grafted onto *C. colurna* root, so a given bark may be either species. That is Dioscorides' attention-practice, not a vital-body operation.
+
+---
+
 ### Contraindications
 
 **⚠️⚠️ TREE-NUT ALLERGY — ANAPHYLAXIS RISK. This is the single most important line in the entry.**

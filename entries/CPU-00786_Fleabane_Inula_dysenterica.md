@@ -114,6 +114,18 @@ This must be stated plainly. **A targeted search returned zero studies of *Pulic
 
 ---
 
+### Cultivation Register
+
+**Assyrian (AT).** The Mesopotamian tablets record aromatic fumigation against household vermin and hold a substantial anti-diarrhoeal materia medica, and Inuleae-type composites grow across the region — but the entry itself is explicit that no securely identified Akkadian plant name attaches to *Pulicaria dysenterica*, and the Assyrian botanical vocabulary is poorly resolved. Under the standing blocking warning that governs every Assyrian substance identification, no claim of any kind is made for this species here — neither the causal-agency framing by which a drug is classed against a divine hand, ghost or oath, nor any cultivation status. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** The plant enters the Western record under *Inula*/*Conyza*-adjacent names as a cold, dry, astringent binder for the flux, and the tradition carries no subtle-body system that could assign it a vital or cultivational status. What Dioscorides offers a cultivator instead is a discipline of attention: correct identification of the yellow-rayed composite against its Inuleae neighbours, the season and part gathered, and a sensory assay of astringency and aromatic pungency — the same doubled sensory reading the plant's two doctrines depend on. The amuletic or fumigatory uses the tradition records are recorded, not thereby endowed with a doctrine of the vital body. The standing is therapeutic and, in the burned-herb branch, hygienic. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Read through the humoral frame the tag invokes, fleabane is a cold, dry, astringent and drying drug — a binder for a hot, wet, loose bowel — which places it among the contracting remedies, not among the gladdening cardiac drugs that strengthen the *ruh*. The one genuine cultivation idea the Unani corpus carries, the husbanding of innate heat and radical moisture as a finite endowment whose depletion is ageing itself, is a frame of the whole regimen and is not a status any source retrieved assigns to this cooling astringent; no *mufarrih* role is claimed. It should be noted that the entry body documents the Greco-Roman and European-folk strata directly but carries no explicit Avicennan or Unani citation for this species, so the CM attestation rests on the humoral classification rather than on a located *Canon*-tradition passage. **(b) framed:** used as an astringent within the humoral scheme, no cultivation status sourced.
+
+**Practitioner's note.** A cultivator does nothing tonic with this plant. Fleabane is a Consolidation-phase binder for transient looseness and, in its second and untested branch, a strewing and fumigant herb for a verminous bed — both of them acts of expulsion, not of nourishment. There is no register in any of the three traditions in which it is taken over time to build the person; its own directional logic warns against that, since a binder given to an already-bound or dry gut is a mistake by the tradition's own reasoning. The honest cultivational lesson here is the one the entry's whole structure teaches: a single name can fuse two uses served by two unrelated chemistries, and attention — not doctrine — is what keeps them apart.
+
+---
+
 ### Contraindications
 
 - **⚠️ Asteraceae allergy — absolute caution.** Anyone sensitised to Compositae (ragweed, chamomile, arnica, feverfew, chrysanthemum) should not use this plant internally or topically. Cross-reactivity within the family is well established.

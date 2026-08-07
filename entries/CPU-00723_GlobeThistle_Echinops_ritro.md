@@ -98,6 +98,18 @@ The substance is retained for three purposes.
 | Humoral (Graeco-Roman) | Attenuating, incisive, discutient; provoking urine |
 | Kenetica axis | **Unblocking** — addressed to accumulation, not to depletion |
 
+### Cultivation Register
+
+**Assyrian (AT).** The entry documents no Assyrian source; its attested traditions are Graeco-Roman, European folk, and Chinese, and nothing from the cuneiform medical corpus of the *asû* and *āšipu* is cited for this plant. Under the standing blocking warning for Assyrian substance identifications nothing is asserted, and no cultivation framing is available to assert in any case. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** The classical herbal tradition places a spiny globe-thistle in the diuretic and discutient class — root and seed to provoke urine, break up hard swellings, and bring on milk — but the mapping of that drug onto modern *Echinops ritro* is a later botanical identification, not a claim the source itself makes, and the codex marks it as reconstruction. Dioscorides carries no subtle-body system to which a cultivation status could attach. What his tradition offers a cultivator is a discipline of attention: reading the plant by its signature — the hedgehog-head, hard and spined, set against hard swellings in the flesh — and by sensory assay of the root, and holding it apart from the many easily confused *Echinops* species. No cultivation status. **(c) absent.**
+
+**Unani — Avicenna (CM).** The content under this tag is Chinese, not Unani: *Lou Lu* 漏芦, sourced from *Echinops grijisii* — a different species — which clears heat, resolves toxicity, disperses nodules and breast-abscess, and unblocks the milk ducts, cited here expressly for contrast and explicitly *not* as a substitute for *E. ritro*. No Unani source is documented, and no cultivation status attaches: the Unani longevity frame of conserving innate heat and radical moisture is a whole-regimen idea, not a standing the tradition assigns to a cool, draining, unblocking discutient. No cultivation framing is attested for this species. **(c) absent.**
+
+**Practitioner's note.** A cultivator does nothing internal with this plant — no dose is issued, and every traditional indication that might tempt one, diuretic and lactagogue alike, grades NULL in the retrieved record. It is addressed to accumulation, not to depletion: an unblocking, dispersing agent, the opposite pole from a tonic. The one place doctrine and data genuinely touch is topical and antimicrobial — the root's thiophenes are real broad-spectrum biocides — but that is a reason for caution about ingestion, since their headline potency is against invertebrate membranes, not a cultivation use. The discipline this entry teaches is restraint: striking chemistry and a beautiful cross-cultural convergence are not clinical warrant, and the honest response to interesting chemistry with no human data is to say so and stop.
+
+---
+
 ### Contraindications
 
 **⚠️ Asteraceae (Compositae) allergy — the principal risk.** *Echinops* is a Compositae genus and carries the family's sesquiterpene-lactone chemistry. Anyone reactive to ragweed, chamomile, feverfew, arnica, chrysanthemum, mugwort, artichoke or yarrow must avoid it. Reactions range from contact dermatitis to systemic hypersensitivity. **Patch-test before any topical application, without exception.**

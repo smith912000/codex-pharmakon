@@ -94,6 +94,20 @@ According to PubMed, the caged-xanthone chemistry is genuinely active and mechan
 | Channel entry | Spleen, Stomach, Large Intestine [USER: verify channel attributions against a primary bencao text — sources vary] |
 | Signature | Yellow → yellow (bile). **Held to be false.** |
 
+---
+
+### Cultivation Register
+
+**Greek — Dioscorides (DMM).** *Garcinia hanburyi* is a Southeast Asian tree whose resin reached Western pharmacy only through the seventeenth-century Siam and Cambodia trade; it was wholly unknown to Dioscorides, who could not have described a commodity that arrived in Europe a millennium and a half after him. The material filed under "DMM" in this entry is in fact the record of the London, Edinburgh and United States pharmacopoeias — later European and pharmacopoeial practice, not the classical Greco-Roman corpus — where Gambogia was carried as a hydragogue cathartic hedged inside compound pills. Dioscorides assigns this substance nothing, because he never saw it, and the tradition carries no subtle-body doctrine to assign in any case. **(c) absent.**
+
+**Unani — Avicenna (CM).** The same anachronism governs here: a maritime Southeast-Asian import that post-dates Avicenna by centuries does not appear in the Perso-Arabic materia medica, and the "CM" heading in the origin section is in fact attached to the Chinese *Teng Huang* material — a misassignment of the code rather than a genuine Unani attestation. The strongest Unani cultivation idea, the conservation of innate heat and radical moisture across a finite vital endowment, has nothing to act on because the tradition does not attest the substance at all. No status, no attestation. **(c) absent.**
+
+**Chinese — Shennong / *Bencao* (SBJ).** Read the code by its registry meaning — SBJ is the Shennong classical *Bencao* stratum, not the "Sacred / Bodily Jurisprudence" gloss the body uses. Gamboge (藤黄, *Téng Huáng*, "vine yellow") is genuinely attested in Chinese materia medica, but as a later import worked for roughly five hundred years (Zhou et al., *Front Pharmacol*, 2025) — that is, at the post-classical stratum, not in the Han Shennong classic itself. The record is explicit and consistent: *Teng Huang* is acrid, sour, cold and 有大毒 (*yǒu dà dú*, greatly toxic), classed among the drastic external-use and toxin-attacking (*gōng dú* 攻毒) drugs rather than the tonics — the opposite pole from *yang sheng* 養生, the conservational nourishing of life. No *san pin* 三品 grade is recorded for this species in the sources retrieved, so its standing is a toxic-attack therapeutic one, not a cultivation status. **(b) framed** — and attested at the later (TCM) stratum, not the classical Shennong one the code names.
+
+**Practitioner's note.** Nothing here is cultivated with; everything here is defended against. The one tradition that genuinely attests gamboge — Chinese materia medica — files it under its most emphatic toxicity marker and among the attack-drugs a cultivator is explicitly steered away from, while the two Western codes on the tag line never met the plant at all. A cultivator's whole relationship to this resin is the codex's: study the false "yellow-treats-yellow" signature, understand how a real cytotoxin bought five centuries of credibility by doing something dramatic every time, and administer none of it.
+
+---
+
 ### Contraindications
 
 ⚠️ **GAMBOGE IS NOT A MEDICINE. IT IS A HISTORICAL POISON WITH A LIVING RESEARCH AFTERLIFE.**

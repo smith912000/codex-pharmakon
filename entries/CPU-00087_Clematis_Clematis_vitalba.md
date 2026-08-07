@@ -59,6 +59,16 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 - **Folk-European mapping:** "traveller's joy / old man's beard" — the counter-irritant vesicant and "beggar's herb."
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — at the acrid, caustic, surface-drawing end of the axis (raise a blister, draw out deep pain, burn off growths); used at the skin, kin by chemistry to the buttercups and hellebores.
 
+### Cultivation Register
+
+**Greek — Dioscorides (DMM).** *Klematis* is recorded in *De Materia Medica* Book IV among the acrid, biting plants, noted for raising blisters and clearing the skin. Dioscorides carries no subtle-body doctrine that could assign this vine a cultivation status; what he offers the cultivator instead is his discipline of attention — the recognition of the acrid quality by taste and touch, the placing of the plant among the caustic herbs, the caution that its bite is a hazard as much as a tool. That is a practice of assay and correct classification, not a vital-body teaching. He records the blistering and the "drawing" use without any doctrine of what the plant does to the person's constitution. Cultivation status: **(c) absent** — a caustic external agent, not a substance worked for vitality.
+
+**Unani — Avicenna (CM).** The entry supplies no Unani material specific to *Clematis vitalba*, and its energetic reading is given as a Galenic humoral degree (Hot and Dry, high degree) rather than from any *Canon* chapter. *C. vitalba* is a European hedgerow vine of the acrid Ranunculaceae, and its "CM" standing here appears to rest on the general Galenic-humoral and later European folk handling of the plant rather than on an attested Avicennian entry for this species. No cultivation status is claimed: the strongest Unani cultivation idea — conservation of innate heat and radical moisture — is a longevity frame of the whole regimen and has no bearing on a vesicant applied to raise a blister, and no *mufarrih* or cardiac-*ruh* role is attested or plausible for a caustic toxin taken externally only. Cultivation status: **(c) absent**, and the CM tag itself is flagged as possibly belonging to European folk phytotherapy (EF) rather than to Unani.
+
+**Practitioner's note.** Nothing here is cultivated. *Clematis vitalba* is a specialist external caustic — fresh bruised leaf to raise a counter-irritant blister over a painful joint, or to burn off a wart, and otherwise avoided; internally it is acrid and toxic and has no place. The active vesicant, protoanemonin, dies on drying, so even the external use is a fresh-plant, short-contact intervention, not something laid down or taken over time. A cultivator's honest use of this plant is knowing to leave it alone, and to keep it sharply distinct from the prepared Chinese *Wei Ling Xian* (*Clematis chinensis*) it is so often confused with.
+
+---
+
 ### Contraindications
 
 - **Internal use — avoid.** Acrid, toxic protoanemonin; severe mucosal/GI irritation; not for ingestion.

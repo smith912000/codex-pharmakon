@@ -107,6 +107,18 @@ Kenetica flags *why* this null was predictable, because the reason is the entry'
 | Tissue affinity | Mucous membranes — mouth, throat, gut; skin surfaces; blood vessels at the surface |
 | Kenetica axis | **Binding-contracting** — the reference position on this axis |
 
+### Cultivation Register
+
+**Greek — Dioscorides (DMM).** Bistort is read here as a first-rank binder, and the tradition it actually belongs to offers a cultivator no subtle-body doctrine to assign it a vital status — only a discipline of attention. What that discipline gives is precise: identify the twice-twisted, red-fleshed rhizome correctly against the genus-tangle of Polygonaceae, gather and dry it, and judge its strength by the pucker on the tongue, the drug announcing its own dose. That sensory assay is the real practice, and it is exactly what keeps a tannin at a working strength rather than a cytotoxic one. No cultivation framing attaches to the root; the astringent office is therapeutic and surface-acting. A caution on the label itself: the "Dioscoridean" heading here carries the classical *and* early-modern European binder doctrine together, and bistort as a named northern-meadow drug sits mainly in the later European herbal stratum rather than securely in Dioscorides' own Mediterranean corpus. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** As a cold, dry, strongly astringent and styptic root, bistort sits among the binding and drying drugs, not among the gladdening cardiac remedies. The strongest cultivation idea the Unani corpus carries — the conservation of innate heat and radical moisture as a finite vital endowment, so that longevity is a matter of husbanding what one has rather than acquiring more — is a frame of the whole regimen, and no source retrieved assigns this cooling astringent a role within it. No *mufarrih* or *ruh*-strengthening office is claimed, and no such constituent list is published here. The attestation, where it holds, is therapeutic. **(b) framed:** used as an astringent, no cultivation status sourced.
+
+**Chinese — Bencao (SBJ).** *Quan Shen* 拳参, the "fist root," is a recognised item of the Chinese materia medica placed among the herbs that clear heat and resolve toxin (清热解毒) — cooling the blood, stopping bleeding, drying damp. That is functionally a *zhi bing* 治病 role, the work of treating a defined excess and then stopping, which is the opposite pole from *yang sheng* 養生, the conservational nourishing of life. But a formal *san pin* 三品 grade for this species was not located in any source retrieved, and none may be asserted from its therapeutic profile alone. It therefore carries a therapeutic, not a cultivation, standing in this tradition. **(b) framed:** attested in the materia medica, no *san pin* grade sourced for this species.
+
+**Practitioner's note.** Nothing here is a substance a cultivator takes to build vitality. Across all three registers bistort is a short-course, surface-acting binder — a mouth gargle, a wound wash, a brief decoction against acute looseness — and the governing instruction in every tradition is the same: use it for the defined job, at a strength the tongue confirms, and stop. Its own grading logic is the warning: a heat-clearing toxin-resolver and a protein-precipitating tannin are both tools for an excess, not tonics for a course of years. The one genuinely cultivational thing bistort offers is Dioscorides' lesson in attention — that the drug that puckers your own mouth is teaching you its dose before you ever give it to another.
+
+---
+
 ### Contraindications
 
 ⚠️ **TANNIN LOAD — the governing caution. Bistort is among the most tannin-dense drugs in the European materia medica, and the tannin is the drug.**

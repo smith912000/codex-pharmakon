@@ -93,6 +93,18 @@ Practitioner-facing use is limited to: recognising sympathomimetic load in a per
 | Humoral (Graeco-Roman) | Hot and dry; attenuating, incisive, astringent |
 | Kenetica axis | **Arousal-forcing** — borrows tomorrow's sympathetic reserve at interest |
 
+### Cultivation Register
+
+**Assyrian (AT).** No Assyrian cuneiform attestation exists for this plant; the material carried under this tag is in fact Zoroastrian and Avestan — the *haoma* of the Yasna, pressed and strained and praised as strength-giving, wakefulness-giving, and death-averting. That doctrine is the nearest thing to a vitality frame in the entry, but two things bar it from an attested cultivation status here: the identification of *haoma* with Ephedra is a live philological debate rather than a settled fact (*Peganum harmala* and various fungi remain candidates), and the Zoroastrian tradition is not the Assyrian one under whose code it has been filed. Under the standing blocking warning for Assyrian substance identifications, and absent a secure botanical identity, nothing is assigned. **(c) absent.**
+
+**Greek — Dioscorides (DMM).** Classical materia medica records a jointed, leafless shrub used as an astringent and for cough and chest flux, but the identification of that drug with modern *Ephedra distachya* is a reconstruction by later botanists rather than a claim the ancient text itself makes — the entry marks it as such. Dioscorides carries no subtle-body system to which a cultivation status could attach. What his tradition offers a cultivator is a discipline of attention — the drying, binding, chest-clearing action judged by sensory assay, and the guard against a substituted species whose alkaloid load is provenance-dependent (pseudoephedrine-dominant in sampled *distachya*, ephedrine-bearing elsewhere). No cultivation status. **(c) absent.**
+
+**Unani — Avicenna (CM).** The content under this tag is Chinese, not Unani: *Ma Huang* 麻黄 (*Ephedra sinica*), an acrid-warm exterior-releasing herb of the *Bencao*, cited here expressly *for contrast* — *E. distachya* is not given its indications, and the classical Chinese tradition itself hedges Ma Huang with deficiency and spontaneous-sweating contraindications rather than any life-nourishing use. No Unani source is documented. The Unani longevity idea — conservation of innate heat and radical moisture — would in any case reckon a hot, dispersing sympathomimetic a spender of that finite endowment, not a builder of it. No cultivation framing is attested for this species. **(c) absent.**
+
+**Practitioner's note.** A cultivator does nothing with this plant; Kenetica issues no protocol, and the register only sharpens why. The one cultivation-shaped claim in its dossier — the haoma doctrine of wakefulness and death-averting — is both botanically unproven for Ephedra and, where the pharmacology is real, a description of borrowed sympathetic arousal: tomorrow's reserve spent at interest, not vitality accrued. Everything a longevity frame would want — conservation, nourishment, a wide denominator of safe long use — this plant is the opposite of. Its only use to a practitioner is diagnostic: recognising hidden sympathomimetic load in a person's stack, and reading the haoma literature as evidence that ritual arousal traditions were often pharmacological rather than visionary.
+
+---
+
 ### Contraindications
 
 **⚠️ HIGH-RISK SUBSTANCE. Kenetica issues no protocol for this plant.**
