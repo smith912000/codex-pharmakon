@@ -53,6 +53,16 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Unani mapping:** *khiyar shambar* — temperate/cooling; gentle laxative.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the cooling, gently downward-draining (mild purgative) axis; the gentle counterpoint to the drastic cathartics of the volume.
 
+### Cultivation Register
+
+**Ayurveda (SS).** Aragvadha ("disease-killer") is a firmly attested *dravya*, classed *madhura* (sweet) in rasa and *shita* (cooling) in virya, *pitta-kapha* reducing, and worked as *mridu virechana* — a mild purgative — alongside its use as a skin remedy. This is an eliminative, cleansing identity, the gentle counterpart to the drastic cathartics, and it carries no *rasayana* (rejuvenation) or *vajikarana* (generative vitality) status: none is recorded for *Cassia fistula* in the sources retrieved, and none can be attributed to a named Sushrutan or Charakan division for this species. Its standing is therapeutic and dietetic — a soft downward-draining, heat-cooling drug — not a substance the tradition assigns to build *ojas* or the vital distillate. If anything its action is the reverse of a tonic's: it clears and unburdens rather than nourishes and consolidates. **(b) framed:** attested therapeutically, no cultivation status sourced.
+
+**Tibetan (FMT).** Sowa Rigpa uses the Aragvadha pod within its inherited Indic pharmacology as a mild, cooling purgative and heat-clearing agent; in the Tibetan system medicine is the third of the four treatment branches and works on obstruction and imbalance of the three *nyes pa*, not on the spiritual root. No *bcud len* (essence-extraction) role or formal subtle-body-substance status is recorded for this pod in the sources retrieved, and the tradition holds no formal "substances for subtle-body practice" category into which a gentle purgative could be placed. Its attestation is a therapeutic, evacuant and cooling one. **(b) framed.**
+
+**Practitioner's note.** This is an eliminative, not a cultivation, substance. A cultivator uses it exactly as the traditions do — an occasional, gentle purge to relieve constipation and clear "heat," mild enough for the young, the old and the delicate, and useful for softening the action of harsher cathartics. It is worked short-term and as needed; the anthraquinone laxatives are explicitly not for prolonged habitual use, so nothing here supports daily intake, and the honest cultivation move is to take it when clearing is called for and then stop. Its value to the practitioner is preparatory and correctional — an unburdening — never a building of vitality.
+
+---
+
 ### Contraindications
 
 - **Intestinal obstruction / inflammatory bowel disease / undiagnosed abdominal pain.** As with all stimulant laxatives.

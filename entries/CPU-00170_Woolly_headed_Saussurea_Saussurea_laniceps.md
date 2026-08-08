@@ -85,6 +85,16 @@ The plant occupies a near-mythic register in the high-altitude pharmacopoeia: a 
 
 ---
 
+### Cultivation Register
+
+**Ayurveda (SS).** The Ayurvedic materia medica does carry a *Saussurea* — *kushtha* (*Saussurea costus*, formerly *S. lappa*), a named classical drug of the *dravyaguna* worked for its own rasa and virya — but that is a different species from the high-alpine *S. laniceps* profiled here, and nothing in the sources retrieved places *S. laniceps* itself within the Sushrutan corpus. No rasa, virya or vipaka is recorded for this species, still less any *rasayana* (rejuvenative) or *vajikarana* (generative) standing that would make it a formal cultivation substance in this tradition; nor is there an *ojas*-building claim to attest. The SS tag appears inherited from the genus rather than attested for the species. Cultivation status: **(c) absent.**
+
+**Tibetan (FMT).** Snow lotus is a securely attested Tibetan drug — *gangs thig pa* / *gangs lha me tog* — classed among *grang ba* (cold) remedies for cold settling in the joints, the channels (*rtsa*), the kidneys and the womb, and named a restorer of bodily strength (*lus stobs*) in those depleted by altitude and toil. Within the rGyud bzhi framework, medicine is the third of the four treatment branches: it supports the body, it does not reach the root, which is a matter of the three *nyes pa* (rlung / mkhris pa / bad kan) and, beneath them, the three poisons. Tibetan medicine holds no formal category of "substances for subtle-body practice," and although *bcud len* (essence-extraction) exists within the Four Tantras, no source retrieved places *S. laniceps* inside a *bcud len* regimen. Its standing here is that of a warming therapeutic drug, not an assigned cultivation status. **(b) framed:** attested and used, no cultivation grade recorded.
+
+**Practitioner's note.** A cultivator does little with this that a clinician would not: it is a warming, cold-dispersing drug for a specific cold-damp *bi* (painful-obstruction) presentation, taken in small measured doses or as a spirit infusion and then stopped — not a substance held long-term to build the person. Two constraints dominate any use: the threatened conservation status of *S. laniceps* (harvest-driven dwarfing is documented, Law & Salick 2005, *PNAS* 102:10218–10220) and the pervasive species substitution in the "snow lotus" trade. The honest cultivator's first act is correct, ethical, legal sourcing; the second is restraint.
+
+---
+
 ### Contraindications
 
 - **Conservation / legal status:** *S. laniceps* is threatened by overharvesting; use only verified, ethically and legally sourced material — this is a contraindication of conscience as much as of safety

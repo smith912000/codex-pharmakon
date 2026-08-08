@@ -54,6 +54,16 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 - **Unani mapping:** *jauz buwa* — hot-dry; carminative, astringent, nervine.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** for the warming, carminative and bowel-binding actions, with a ☿ **Shen** ascription reflecting its sedative effect in small doses and its deliriant action in overdose — a spice that touches the mind at both ends of the dose curve.
 
+### Cultivation Register
+
+**Unani — Avicenna (CM).** Nutmeg is *jauz buwa* (also *jawz al-ṭīb*), classed hot and dry and worked as a warming carminative, gut-astringent and aromatic nervine. The strongest cultivation idea in the Unani corpus — the conservation of *innate heat* and *radical moisture*, the finite vital endowment whose depletion is ageing — is a frame of the whole regimen, not a status the tradition assigns to this heating spice; and while nutmeg has a folk reputation as a gladdening/cardiac aromatic, no *mufarrih* attribution from the *Kitāb al-Adwiya al-Qalbiyya* is cited in the sources retrieved, and no such constituent list is published here. Its standing is therapeutic — a warming stomachic and astringent — not a recorded cultivation status. **(b) framed:** attested in the materia medica, no cultivation status sourced.
+
+**Tibetan — rGyud-bzhi (FMT).** In Sowa Rigpa nutmeg (*dza ti*) is a well-attested medicinal, valued as a warming "heart" substance and used within compound formulas against *rlung* (wind) disorders — the *nyes pa* derived from attachment among the three poisons. But medicine in the Tibetan scheme is the third of the four treatment branches; it supports practice rather than reaching the spiritual root, and no formal "substances for subtle-body practice" category exists to grade nutmeg. No *bcud len* (essence-extraction) status for this species is attested in the sources retrieved. Its place is therapeutic — a wind-settling, heart-warming ingredient — not a recorded cultivation status. **(b) framed:** attested in the materia medica, no cultivation status sourced.
+
+**Practitioner's note.** Nutmeg is a spice and a medicine, not a longevity substance, and its most important fact runs the other way: past a culinary pinch it becomes a dangerous myristicin deliriant, so any notion of "taking it long-term to nourish life" is actively contraindicated by the plant itself. Across both tagged traditions it is worked short and small — a warming carminative, a bowel-binder, a wind-settling aromatic — and then stopped. The cultivator's discipline here is restraint of dose, not accumulation.
+
+---
+
 ### Contraindications
 
 - **Overdose — dangerous.** Doses around a tablespoon/one or more whole nuts cause delayed myristicin delirium, tachycardia and toxicity; never use as an intoxicant.

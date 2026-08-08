@@ -103,6 +103,16 @@ Wǔ Wèi Zǐ (五味子, "Five Flavor Fruit") is unique in the entire materia me
 
 ---
 
+### Cultivation Register
+
+**Chinese — Shennong / Bencao (SBJ).** Wǔ Wèi Zǐ (五味子) is a genuine substance of the classical Shennong stratum, and here the tradition does assign a cultivation status: it is placed in the **upper grade (上品)** of the *Shennong Bencao Jing* — the *san pin* 三品 class of substances taken long-term to nourish life (養命), not the lower-grade drugs that attack disease and are stopped (Yang Shou-zhong's translation of the *Divine Farmer's Materia Medica* lists wu wei zi in the superior class; the upper-grade placement is corroborated in the modern review literature, e.g. *Frontiers in Pharmacology* 2022). This is a true (a): the upper grade is exactly the *yang sheng* 養生 register — conservational, taken to build and preserve rather than to purge. The entry's fuller five-flavour / five-Zang wording is Li Shizhen's later restatement in the *Bencao Gangmu* (1596) and should be dated as such, but the grade itself descends from the classic. Its recorded conserving actions — securing essence (*bǔ shèn gù jīng*), astringing sweat and fluids (*liǎn hàn shēng jīn*), quieting the spirit (*níng xīn ān shén*) — sit coherently inside that upper-grade, life-nourishing identity. Cultivation status: **(a) attested** — upper grade 上品, *Shennong Bencao Jing*.
+
+**Tibetan (FMT).** Schisandra is used in Sowa Rigpa: this entry places it among nectar-generating and *rlung*-harmonising medicines and reports its multi-taste (*ro lnga*) profile as a recognised special class. That is a real therapeutic placement within the *nyes pa* framework. The entry further attaches it to *bcud len* (essence-extraction) longevity preparations and to preventing *bcud zad* (essence depletion) in retreatants — but no named scholarship retrieved attests wu wei zi *specifically* as a *bcud len* substance, and per the spec Tibetan medicine has no formal "substances for subtle-body practice" category to be asserted. The therapeutic use is well founded; the cultivation status is not independently sourced for this species. **(b) framed.**
+
+**Practitioner's note.** Of the two attested traditions, the Chinese one carries real cultivation weight: an upper-grade, long-course herb — the *bǎi rì* (100-day) course noted under dosing is the classical expression of that status, and the pairing logic (a tonic fills the reservoir, Schisandra's *liǎn* seals it) is genuine cultivation reasoning, not a modern gloss. A cultivator takes it in sustained courses to conserve essence, sweat, and Shen, not as a short strike against a complaint. The Tibetan longevity framing is plausible and in-tradition but should be held as frame, not as a sourced grade.
+
+---
+
 ### Contraindications
 
 - **CYP3A4 drug interactions (significant):** Gomisin A and schisandrin B are moderate to potent CYP3A4 inhibitors; clinically significant interaction potential with cyclosporine (nephrotoxicity risk), tacrolimus, statins (simvastatin, atorvastatin — myopathy risk), benzodiazepines (elevated sedation), calcium channel blockers, protease inhibitors, and many chemotherapy agents; medical supervision required with CYP3A4-dependent medications

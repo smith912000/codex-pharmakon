@@ -52,6 +52,16 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Unani mapping:** *baobarang* — hot-dry; anthelmintic, digestive.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the warming, pungent-bitter, parasite-expelling and digestive axis; the foremost antiparasitic of the volume's Ayurvedic register.
 
+### Cultivation Register
+
+**Ayurveda (SS).** Vidanga is a firmly attested *dravya* of the materia medica, classed *katu-tikta* in rasa, *ushna* in virya, and worked as *krimighna* (worm-destroying), *dipana/pachana* (digestive kindling) and *lekhana* (scraping). Its defining identity is therapeutic and specific — the foremost anthelmintic of the corpus — not a rejuvenative one. It appears as an ingredient inside some compound formulations that carry metabolic and *lekhana* aims, but no formal *rasayana* (rejuvenation) or *vajikarana* (generative vitality) status is recorded for *Embelia ribes* itself in the sources retrieved, and none can be attributed to a named Sushrutan or Charakan division for this species. Its standing is therefore that of a corrective, cleansing drug — the *lekhana*/*krimighna* register that clears *ama* and parasites so that the *dhatus* are unburdened — rather than a substance the tradition assigns to build *ojas* or the depletable vital distillate directly. **(b) framed:** attested therapeutically, no cultivation status sourced.
+
+**Tibetan (FMT).** Sowa Rigpa uses vidanga chiefly as an anthelmintic and digestive-warming agent, consistent with the shared Indic pharmacology it inherits, and in the Tibetan system medicine is the third of the four treatment branches — it supports practice and clears obstruction, it does not reach the spiritual root of the three *nyes pa*. No *bcud len* (essence-extraction) role or any formal subtle-body-substance status is recorded for this berry in the sources retrieved, and the tradition holds no formal "substances for subtle-body practice" category into which it could be placed. Its attestation here is a therapeutic, worm-expelling and digestive one. **(b) framed.**
+
+**Practitioner's note.** Vidanga is a corrective, not a tonic. A cultivator uses it the way the traditions do — a short, defined course to expel worms and clear stagnation (*ama*), classically taken with honey or buttermilk and followed by a purgative to carry the dislodged parasites out — and then stops. Nothing in either register supports taking it long-term to build vitality; its warming, scraping, pungent-bitter action is the opposite of a nourishing one, and embelin's documented antifertility activity is an active reason not to treat it as a daily supplement. The honest cultivation move is preparatory: clear the field, then nourish with something else.
+
+---
+
 ### Contraindications
 
 - **Conception / pregnancy — avoid.** Embelin has documented antifertility activity; avoid when trying to conceive and in pregnancy. [USER: verify.]

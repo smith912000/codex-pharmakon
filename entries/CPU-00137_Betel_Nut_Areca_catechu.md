@@ -65,6 +65,16 @@ Codex policy: the Group 1 carcinogen status and arecoline's cholinergic mechanis
 - **Unani mapping:** Fufal/Supari — astringent, cold and dry in tendency; stomachic and astringent for the gums. [USER: verify the precise Galenic degree.]
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — a strongly downward-draining, parasite-clearing, qi-moving agent of the digestive/eliminative axis. Its place in the volume is as the cautionary archetype of a genuinely active drug whose everyday social over-use is itself the toxicology lesson.
 
+### Cultivation Register
+
+**Ayurveda (SS).** In Ayurveda the seed is *Puga* (or *Kramuka*), and its home is the *tambula* — the post-meal betel quid — where it functions as an astringent (*kashaya*) for the mouth and gums, a digestive and breath-sweetener, and a *krimighna* (vermifuge). This is dietetic and therapeutic placement, worked on the *dhatus* through the mouth and gut, not a rejuvenative one: no *rasayana* (rejuvenation) or *vajikarana* (generative vitality) assignment for *Areca catechu* is recorded in the sources retrieved, and none should be inferred from its everyday domestic ubiquity — *tambula* is a custom of the household and the guest-offering, not a discipline for building *ojas*. Its standing is therefore that of a daily astringent-dietetic and an anthelmintic, with a real toxicity that the classical astringent framing does not register. Cultivation status: **(b) framed** — claimed by the tradition, no rejuvenative status attested.
+
+**Tibetan (FMT).** The entry carries no Tibetan (Sowa Rigpa) attestation for this seed, and Tibetan medicine in any case has no formal category of "substances for subtle-body practice" to assign it — medicine is the third of the four treatment branches, supporting practice without reaching the root of the three *nyes pa*, which are themselves the three poisons (attachment, aversion, delusion). Absent a sourced *rGyud-bzhi* placement or a *bcud len* (essence-extraction) role for areca in the retrieved material, no cultivation status can be claimed, and the seed's IARC Group 1 carcinogen standing in habitual use argues against reading any life-nourishing frame into it. Cultivation status: **(c) absent.**
+
+**Practitioner's note.** A cultivator does effectively nothing constructive with this seed. In Ayurveda it is a household astringent and a vermifuge taken for a defined job; there is no rejuvenative use to reach for. In the Tibetan frame there is no attested cultivation role at all. The dominant, verified fact — areca nut is a Group 1 human carcinogen in habitual chewing, causally tied to oral submucous fibrosis and oral cancer — overrides any romance about its ancient ubiquity. Use, if at all, is specialist and short: the anthelmintic action belongs in qualified hands, and the chew belongs nowhere in a longevity practice.
+
+---
+
 ### Contraindications
 
 - **Habitual chewing — strongly discouraged.** A Group-1 human carcinogen in chewed form; causes oral submucous fibrosis, oral and upper-digestive cancers, and dependence. This is the headline contraindication.

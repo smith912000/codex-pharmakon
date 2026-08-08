@@ -62,6 +62,16 @@ Shatavari is the primary Yin-restoration herb for the practitioner whose connect
 **Dantian Affiliation:** Lower Dantian — Yin-Jing reservoir (the cooling, receptive pole of the sacral center)
 **System Domain:** Yin Restoration · Connective Tissue Hydration · Hormonal Balance · Gut Mucosal Repair
 
+### Cultivation Register
+
+**Unani — Avicenna (CM).** Asparagus root enters the Unani corpus as *halyūn*, classed among the warming, moistening tonics with diuretic and aphrodisiac repute; the South Asian *Asparagus racemosus* (*shatāvar*) was absorbed into the subcontinental Unani materia medica later, chiefly as a *muqawwī-i bāh* (strengthener of generative power) and a demulcent. The tradition's strongest cultivation idea — the conservation of innate heat and radical moisture as a finite vital endowment — is a frame of the whole longevity regimen and is not assigned to this root as a discrete status in the sources retrieved; no *Canon* chapter is cited and no *mufarrih* cardiac role is claimed. It carries a therapeutic and generative-tonic standing here, not a sourced cultivation grade. **(b) framed.**
+
+**Ayurveda (SS).** *Śatāvarī* is one of the tradition's securely attested cultivation substances. It is enumerated among the *rasāyana* (rejuvenative) and *vājīkaraṇa* (generative-vitality) *dravyas* and is worked as *balya* (strength-giving), *śukrala* (promoting generative essence) and a builder of *ojas* — the depletable final distillate of the *dhātus*; it appears in the *Vidārigandhādi* and *Kaṇṭaka-pañcamūla* groups of the *Suśruta Saṃhitā* (Sūtrasthāna) and in the rejuvenative and generative sections of the *Caraka Saṃhitā*, with its rasāyana standing documented in Meulenbeld's *A History of Indian Medical Literature*. This is a formal, cool, moistening rejuvenative status assigned to the species itself, not merely a therapeutic use. **(a) attested** — Suśruta Saṃhitā (trans. Bhishagratna) and Caraka Saṃhitā, per Meulenbeld, HIML.
+
+**Practitioner's note.** In its own tradition this is a genuine cultivation herb, not a symptomatic remedy: a *rasāyana*/*vājīkaraṇa* root taken as a sustained course — classically the milk decoction (*kṣīrapāka*) with ghee — to rebuild *ojas*, generative essence and the moist, cooling substrate depleted by heat and overwork. The cultivator's use is conservational and long-arc: cycle it across weeks in a recovery or off-phase window, in a fat-and-milk vehicle for saponin uptake, and treat it as a builder of reserve rather than a fix for an acute complaint. The Unani reading converges on the generative-tonic use but stops short of a sourced longevity status.
+
+---
+
 ### Contraindications
 
 - **Estrogen-dependent conditions** (estrogen receptor-positive cancers) — phytoestrogen activity warrants caution

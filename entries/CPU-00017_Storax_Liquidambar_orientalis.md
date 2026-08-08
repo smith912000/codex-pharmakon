@@ -94,6 +94,16 @@ The peer-reviewed literature on *Liquidambar orientalis* covers its essential-oi
 
 ---
 
+### Cultivation Register
+
+**Greek — Dioscorides (DMM).** *Styrax* is treated in *De Materia Medica* Book I among the aromatic gums as a warming, softening, expectorant and emmenagogue balsam and a base for incense — but the classical *styrax* is properly the scant exudate of *Styrax officinalis*, whereas the commercial "storax" of this entry, *Liquidambar orientalis*, is a medieval-and-later substitution under the inherited name; Dioscorides did not describe the sweetgum balsam as such. Either way Dioscorides carries no subtle-body system to assign a cultivation status. What the tradition offers a cultivator is his discipline of attention — the very identity confusion around this resin (true styrax vs. liquid *Liquidambar* vs. benzoin vs. American sweetgum) is exactly the provenance-and-adulteration problem his method exists to discipline: know the source tree, assay the balsam, distrust the trade name. **(c) absent** as to cultivation status.
+
+**Unani — Avicenna (CM).** Storax (*mī'a* / *lubnā*) is carried in the Arabic-Galenic materia medica as a hot, dry, warming and dispersing aromatic balsam, worked for cold catarrh, cough and the womb and compounded into incenses and the great polypharmaceutical theriacs. The tradition's strongest cultivation idea — the conservation of innate heat and radical moisture as a finite endowment — is a frame of the whole regimen and is not assigned to this balsam as a discrete status; no *Canon* chapter is cited and no *mufarrih* cardiac-*ruh* role is claimed for it here. Its standing is therapeutic and aromatic, not a sourced cultivation grade. **(b) framed.**
+
+**Practitioner's note.** Nothing in either tradition makes storax a substance a cultivator takes to build vitality. It is worked warm and short-term and mostly externally — a warming expectorant for cold, damp chest states, an antiseptic film in the compound-benzoin lineage, and above all a sweet, tenacious fixative and temple incense sitting between labdanum's leathery amber and frankincense's brighter resin. In a scent or fumigation protocol it supplies balsamic warmth; internally it belongs in compounded, low-dose forms, not as a daily tonic. The one real discipline it demands is Dioscoridean: verify which tree the "storax" in hand actually came from.
+
+---
+
 ### Contraindications
 
 - **Skin sensitisation / fragrance allergy:** Storax and compound-benzoin preparations are recognised contact sensitisers in susceptible individuals (balsam-of-Peru-type cross-reactivity); patch-test before topical use.

@@ -57,6 +57,16 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 - **Ayurvedic mapping:** Jayapala — intensely heating, drastic purgative; requires shodhana.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — at the extreme hot, drastic, forcible-eliminating pole (the warm counterpart to the cold drastics colocynth/scammony, this volume); kin chemically to the caustic spurges.
 
+### Cultivation Register
+
+**Chinese — Shennong (SBJ).** Ba Dou (巴豆) is a classical *Bencao*-stratum drug, and its cultivation status is explicit and negative: it is placed in the **lower grade** (下品, *xia pin*) of the *Shennong Bencao Jing* — the class of potent, toxic substances that **attack disease** in a short, controlled course, expressly **not** taken long-term to nourish life (Yang Shou-zhong trans., *The Divine Farmer's Materia Medica*, Blue Poppy Press, 1998; the received tripartite grading places the 125 inferior drugs, Ba Dou among them, opposite the life-nourishing upper grade). Within *yang sheng* 養生 — which is conservational, not forcible — a *xia pin* drastic sits at the far pole from the cultivation project: it is the tradition's own grading that marks it as a weapon, not a tonic. **(a) attested:** lower-grade (下品) in the *Shennong Bencao Jing*.
+
+**Tibetan — rGyud-bzhi (FMT).** Croton seed is carried in Sowa Rigpa as a drastic purgative, used — processed and in minute amount within compounds — to forcibly clear obstruction. But medicine in the Tibetan scheme is the third of the four treatment branches, supporting practice rather than reaching the spiritual root of the three *nyes pa*, and no formal "substances for subtle-body practice" category exists to grade it. No *bcud len* (essence-extraction) status for this species is attested in the sources retrieved — and a violent, toxic purge is the antithesis of an essence-extraction substance in any case. Its standing is therapeutic, not a cultivation status. **(b) framed:** attested as a drastic medicinal, no cultivation status sourced.
+
+**Practitioner's note.** A cultivator does nothing with croton but keep well clear of it. In the one tradition here that grades it, the grading is the whole message — a lower-grade (下品) drug is by definition not a substance you take to build vitality, and croton is the extreme case: violently cathartic, toxic, and its phorbol esters are the standard tumour promoters of cancer research. There is no long-term, life-nourishing use to be had; the register's honest content is the warning.
+
+---
+
 ### Contraindications
 
 - **Pregnancy — absolute.** Violent drastic and toxic; contraindicated.

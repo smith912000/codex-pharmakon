@@ -81,6 +81,16 @@ Codex policy: polysaccharide-led tonic and metabolic chemistry is securely state
 
 ---
 
+### Cultivation Register
+
+**Chinese — Bencao and Daoist longevity (SBJ).** Huáng Jīng (黄精) carries an explicit, substance-specific cultivation status, but not one drawn from the Shennong-classical *san pin* 三品 grading: the rhizome enters the record in the later materia medica (post-Shennong stratum) and above all in the Daoist longevity literature, where it is a named *bigu* (辟穀, grain-avoidance) and life-prolonging herb — a food-tonic the adept took to go without grain, "lighten the body" (*qing shen* 輕身, recorded here in its own idiom and not translated into any pharmacological effect), and sustain a fasting or austere practice. This *yang sheng* 養生 standing — conservational and taken over years, not curative — is attested for *Polygonatum* in Ge Hong's *Baopuzi* (抱朴子, c. 320 CE), which discusses huangjing among the *bigu* and lifespan-nourishing materials, and is documented in modern scholarship (*Botany, Traditional Uses, and Pharmacology of Polygonati Rhizoma*, Chinese Medicine and Culture). No *san pin* upper-grade classification is claimed here — that belongs to the Shennong stratum this herb postdates, and the Neidan/alchemical "grow feathers and ascend" idiom is an overlay the tradition brings, not a bencao category. Cultivation status: **(a) attested** — a Daoist *bigu*/longevity food-tonic, sourced to the *Baopuzi* and reviewed in the modern literature.
+
+**Tibetan (FMT).** No Tibetan (Sowa Rigpa) attestation for *Polygonatum sibiricum* appears in the entry, and the retained tag reads "FMT (East-Asian)" — which points to an East-Asian mislabel rather than a genuine *rGyud-bzhi* placement, since Huáng Jīng is a Chinese/Daoist herb, not a documented Tibetan one here. Even had it a Tibetan use, Sowa Rigpa carries no formal category of "substances for subtle-body practice" to grade it, and no *bcud len* (essence-extraction) role is sourced for it. Cultivation status: **(c) absent.**
+
+**Practitioner's note.** This is one of the few entries where the longevity claim is real and sourced rather than romantic. A cultivator uses steamed (九蒸九晒) Huáng Jīng exactly as the Daoist tradition did — as a gentle, food-like tonic taken as congee or soup over months and years, to rebuild depleted reserve during austere or high-load periods, not as an acute corrective. The one discipline the tradition insists on is processing: the raw rhizome is throat-irritating and is not the cultivation material; the repeatedly steamed, sweetened form is. Nothing on the Tibetan side adds to this.
+
+---
+
 ### Contraindications
 
 - **Damp/phlegm stagnation and poor digestion:** Huáng Jīng is sweet, rich and moistening; in patients with marked dampness, phlegm, a thick greasy tongue coat, abdominal fullness or loose stools from Spleen-damp, it can aggravate the dampness and should be avoided or combined with dampness-transforming herbs.

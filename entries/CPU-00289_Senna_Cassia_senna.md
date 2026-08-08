@@ -83,6 +83,16 @@ Senna combined with *haritaki* (Terminalia chebula) and *trivrit* (Operculina tu
 
 ---
 
+### Cultivation Register
+
+**Unani — Avicenna (CM).** *Sanā* is strongly and specifically attested: the tradition classes it hot in the first degree and dry in the second, distinguishes *Sanā Makkī* from *Sanā Hindī*, and prescribes it to purge phlegm and bile from the intestines, compounded with ginger and mastic to prevent griping. But this is humoral evacuation, not cultivation. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture, with longevity understood as husbanding a finite vital endowment — is precisely what an evacuant does *not* serve: senna spends and clears, it does not conserve. No *mufarrih* (cardiac/*ruh*-gladdening) role is claimed for it, and none should be. The substance is claimed by the tradition, but the frame it sits in is therapeutic purgation, and no cultivation status attaches. **(b) framed.**
+
+**Assyrian (AT).** Senna appears in the Assyrian material as an imported southern cathartic — Thompson (1924) records it among the purging preparations — used for intestinal "opening" and cleansing. Under the standing blocking warning in force for every Assyrian substance identification and tablet reference (the cuneiform plant-identification itself is not secure, and illness is classified by causal agency rather than by any vital-cultivation scheme), no cultivation status is claimed here. The attestation is therapeutic and its species-identity provisional. **(c) absent.**
+
+**Practitioner's note.** There is nothing here to cultivate. Senna is a purgative in every tradition that records it — taken once, for a defined evacuation, then stopped; the entry's own contraindications (habituation, hypokalaemia, melanosis coli on chronic use) are the tradition-independent warning against treating it as anything taken long-term. The honest cultivation answer is abstentive: a cultivator uses it as a reset agent at the threshold of a recovery phase and does not return to it. Note also that this entry attests Ayurvedic (*Svarṇapatrī*, *Virechana*) and later Chinese (*Fānxièyè*) use that are not on the tag line — see propose flags.
+
+---
+
 ### Contraindications
 
 - **Chronic/daily use** — the most important contraindication: habituation, electrolyte imbalance (hypokalaemia), melanosis coli, potential laxative dependency; use for maximum 5–7 consecutive days only

@@ -52,6 +52,16 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Chinese Medicine mapping:** **Shi Hu** — sweet, slightly cold; Stomach, Kidney (Lung); nourishes yin, generates fluids, clears deficiency heat, brightens eyes.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the cooling-moistening, yin/fluid-nourishing axis; a gentle building tonic for the dry, depleted, mildly overheated constitution.
 
+### Cultivation Register
+
+**Chinese — Bencao (SBJ).** Shi Hu 石斛 is a long-standing yin- and fluid-nourishing tonic of the Chinese materia medica, sweet and slightly cold, worked to nourish stomach yin, generate fluids (*sheng jin* 生津), clear deficiency heat and "brighten the eyes." Its standing is conservational and food-like — cooked into restorative soups and teas for the dry, depleted, mildly overheated constitution — which places it squarely within *yang sheng* 養生, nourishing life, rather than the short curative course of a disease-attacking drug. The entry reports a reputation "reaching back to the earliest materia medica" where it was "counted among the superior longevity tonics," which would point toward an upper grade 上品; but no *san pin* 三品 grade is cited here to a named scholarly translation of the Shennong stratum for this species, and that reputational claim is uncited at classical-text level. The status is therefore left **(b) framed:** a genuine yin-nourishing *yang sheng* tonic with a strong longevity reputation, but with no verified classical *san pin* grade recorded here to a named source.
+
+**Tibetan — Sowa Rigpa (FMT).** No Tibetan cultivation framing is attested for this substance. The entry carries no rGyud-bzhi (Four Tantras) material, no *nyes pa* (rlung / mkhris pa / bad kan) account and no *bcud len* (essence-extraction) use for Shi Hu; every substance-level statement in the profile is Chinese (Shi Hu) or generic East-Asian. The FMT tag appears to derive from the retained previous heading "Folk-East Asian," which is not Sowa Rigpa. Even where Tibetan medicine is genuinely present, the tradition recognises no formal "substances for subtle-body practice" category to assign. Cultivation status: **(c) absent** — and the FMT tag is unsupported for this entry (see flag).
+
+**Practitioner's note.** What a cultivator does with Shi Hu is gentle and constitutional: take it, food-like, for the dry, thirsty, yin-depleted picture — the aftermath of fever, dry mouth and low-grade deficiency heat — to restore fluids and quiet the dryness, typically as a slow-cooked tonic soup or long decoction over a sustained period. It is not a herb for a damp or cold-damp constitution, nor to be taken while an exterior pathogen is unresolved, where a moistening tonic can trap what should be cleared. It offers nothing to a Tibetan cultivation practice, for which it is neither attested nor categorised.
+
+---
+
 ### Contraindications
 
 - **Damp / unresolved exterior pathogen (CM).** A moistening tonic is contraindicated where there is damp accumulation or an unresolved exterior condition (risk of retaining the pathogen/damp).

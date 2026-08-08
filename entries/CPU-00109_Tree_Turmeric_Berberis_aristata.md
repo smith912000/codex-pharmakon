@@ -53,6 +53,16 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 - **Unani mapping:** bitter, drying; antimicrobial, deobstruent, hepatic.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the bitter-cooling, drying, antimicrobial axis (clear damp-heat/infection); the Indian berberine bitter, kin to barberry and goldthread.
 
+### Cultivation Register
+
+**Ayurveda (SS).** *Dāruharidrā* sits firmly on the therapeutic side of the *dravyaguṇa*: *tikta-kaṣāya* (bitter-astringent) in rasa, *uṣṇa* (heating) in vīrya, *kapha-pitta*-reducing, and *lekhana* (scraping) — worked against damp, hot and infective conditions and, as *rasāñjana*, as a classic eye medicine. It is a purgative-cleansing, *śodhana*-adjacent bitter, not a *rasāyana* or *vājīkaraṇa* drug: no rejuvenative or generative cultivation status is recorded for it in the sources retrieved, and it builds neither *ojas* nor generative essence. Its standing is corrective and therapeutic — the opposite pole from the tonic rasāyanas. **(b) framed.**
+
+**Tibetan — Sowa Rigpa (FMT).** Barberry (*skyer pa*) is a genuine drug of the Tibetan materia medica, its bark and its boiled-down extract (*skyer pa'i khanda*) used for the same berberine-driven span — damp-heat, *tsha ba* (hot) disorders, eye complaints, wounds and gut infection. Within the Four Tantras medicine is the third of the four treatment branches, supporting rather than reaching the spiritual root, and there is no formal "substance for subtle-body practice" category into which this cooling bitter could be placed; none is claimed. It is used, with no cultivation status assigned. **(b) framed.**
+
+**Practitioner's note.** This is a corrective, not a cultivator's tonic. In both traditions it is a bitter-cooling, drying, antimicrobial drug taken for a defined damp-heat or infective complaint — an eye wash, a gut antimicrobial, a skin decoction — and then stopped. Nothing here supports long-term self-administration to build vitality; a drying bitter over-taken depletes rather than nourishes, and the tradition's own cool-drying reading is the caution. Use it to clear a condition, then return to actual tonics for the rebuilding.
+
+---
+
 ### Contraindications
 
 - **Pregnancy and breastfeeding — avoid.** Berberine is contraindicated in pregnancy (uterine-stimulant; can cause/aggravate neonatal jaundice — displaces bilirubin) and in nursing/newborns. [USER: verify.]

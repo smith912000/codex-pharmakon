@@ -104,6 +104,16 @@ Hóng Jǐng Tiān (紅景天, "Red Stalk Heaven Plant") is a succulent perennial
 
 ---
 
+### Cultivation Register
+
+**Chinese — Shennong / Bencao (SBJ).** Hóng Jǐng Tiān (紅景天) is **not** a substance of the classical Shennong stratum. It is absent from the *Shennong Bencao Jing*, and — as this entry's own Origin section records — it enters Chinese botanical literature only late, through Li Shizhen's *Bencao Gangmu* (1596) and Qing-dynasty supplements to it. The classical *san pin* 三品 grading (upper 上品 / middle 中品 / lower 下品), which is the tradition's actual cultivation hierarchy tracking 養命 / 養性 / 治病, was fixed centuries before this plant was catalogued, so no upper-grade "nourishes life" status is or could be assigned to it in the *Bencao Jing*. In the later materia medica the recorded actions are therapeutic — invigorating blood and dispelling stasis (*huó xuè huà yū*), relieving cough, tonifying Qi and clearing heat — a *zhì bìng* 治病 profile, not a *yang sheng* 養生 one, and no source retrieved assigns it a formal grade. Cultivation status: **(c) absent**, with the SBJ tag itself noted as anachronistic (see attestation flag).
+
+**Tibetan (FMT).** Rhodiola is genuinely native to the plateau and genuinely attested in Sowa Rigpa: the *rGyud-bzhi* (Gyushi) tradition works *sro lo dmar po* / *btsod* for *rlung* disorders — nervous exhaustion, cognitive impairment, altitude illness — and for *rlung–mkhris* combined presentations, as this entry records. That is a therapeutic placement within the *nyes pa* framework (the three *nyes pa* deriving from the three poisons), not a cultivation grade. Tibetan medicine has *bcud len* (essence extraction) as its cultivation-adjacent discipline, located inside the Four Tantras (Gerke), and the entry gestures at "retreat *bcud len* longevity support" — but no named scholarship retrieved attests *sro lo dmar po* specifically as a *bcud len* substance, and the spec is explicit that no formal "substances for subtle-body practice" category exists to be asserted. The claim therefore stays at the frame: attested in the tradition, no sourced cultivation status. **(b) framed.**
+
+**Practitioner's note.** A cultivator uses Rhodiola for exactly what the sports-science and Tibetan altitude records converge on — acute work capacity, hypoxic tolerance, resistance to fatigue and central catecholamine depletion under load. It is taken in defined courses (the 4–6 week cycling above exists precisely to prevent tachyphylaxis), pre-training or pre-altitude, then rested. Neither Chinese classical grading nor a sourced Tibetan *bcud len* status underwrites treating it as a lifelong longevity tonic; the honest cultivation frame is a periodised performance adaptogen, not a *yang sheng* or rejuvenation substance.
+
+---
+
 ### Contraindications
 
 - **Bipolar disorder and manic-depressive conditions:** MAO inhibitory and dopaminergic effects may precipitate or exacerbate hypomanic or manic episodes; contraindicated in bipolar disorder without psychiatric supervision

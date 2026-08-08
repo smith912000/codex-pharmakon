@@ -86,6 +86,16 @@ Bā Jǐ Tiān 15 g + Yin Yang Huo (Epimedium) 15 g + Rou Cong Rong (Cistanche) 1
 
 ---
 
+### Cultivation Register
+
+**Unani — Avicenna (CM).** The substance is not attested in the Unani corpus, so no cultivation status can be assigned. The entry states the position plainly: Morinda officinalis "was not within Ibn Sina's direct pharmacopoeia," and the alignment drawn to the *Canon*'s warming kidney-fortifying agents (*mufaḥḥim al-kullā*) is a modern functional comparison between two systems, not a record of any Unani physician handling this Chinese root. The tradition's real cultivation idea — the lifelong conservation of innate heat and radical moisture, with ageing understood as their depletion — is a frame governing the whole regimen and cannot be pinned to a plant the tradition never used without inventing an attestation. Cultivation status: **(c) absent** — the CM tag is anachronistic for this species (see flag).
+
+**Chinese — Bencao (SBJ).** Bā Jǐ Tiān 巴戟天 is a genuine and long-standing item of the Chinese materia medica, ranked among the premier Kidney-Yang tonics and worked to restore *Ming Men* 命門 fire — the constitutional warmth governing reproduction, skeletal integrity and endurance. Li Shizhen's *Bencao Gangmu* (1596), a late compilation, gives it a detailed entry under warming tonics of the Kidney and Liver channels, describing wine-processing (*jiu zhi* 酒炙) and its affinity for strengthening the sinews and bones. Its profile sits squarely inside *yang sheng* 養生, nourishing life — a sustained, conservational tonification rather than a short curative course, and one classically taken over months. However, no *san pin* 三品 grade is cited here to a named scholarly translation of the Shennong stratum for this species; the sourced attestation in this entry is Li Shizhen (1596), which records therapeutic and tonic use but is not the classical grading text. Accordingly the cultivation status is left **(b) framed:** a deep Kidney-Yang / Jing tonic with a real *yang sheng* standing, but with no verified classical *san pin* grade recorded here, and its documented account dated to the 1596 compilation.
+
+**Practitioner's note.** This is one of the traditions' true cultivation tonics — a warming, deep-acting Kidney-Yang and Jing restorative taken over long courses to rebuild constitutional warmth, sinew and reproductive vitality, not a herb dropped in against an acute complaint and stopped. A cultivator uses it constitutionally, typically wine-processed and inside a formula (the classical *Zan Yu Dan* pairing with Epimedium, Cistanche and Rehmannia), matched to a genuine cold, Yang-deficient presentation. It is the wrong herb for a Yin-deficient, heat-signed constitution, where it aggravates rather than nourishes; the tradition's warning is that a Yang tonic answers a cold pattern and nothing else.
+
+---
+
 ### Contraindications
 
 - **Yin deficiency with Heat (TCM):** Morinda's Yang-warming nature is contraindicated when there is insufficient Yin to balance Yang augmentation; presents as night sweats, afternoon fever, dry throat, red tongue with scanty coat — exacerbation of these signs indicates inappropriate use

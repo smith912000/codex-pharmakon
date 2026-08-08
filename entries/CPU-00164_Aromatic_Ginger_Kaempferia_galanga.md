@@ -81,6 +81,16 @@ Because both actions are warming and dispersing, Aromatic Ginger is suited to co
 
 ---
 
+### Cultivation Register
+
+**South American (SA).** *Kaempferia galanga* is an Old-World rhizome of tropical and subtropical Asia; it has no place in the South American ethnobotanical record, no *dieta* built around it, and no standing as a *planta maestra* or teacher plant among any named Amazonian or Andean people. The SA tag on this entry is anachronistic — a New-World label on a plant that reached the Americas, where it grows at all, only through the colonial spice trade — and no South American cultivation framing can honestly be written for it. Cultivation status: **(c) absent** (and the tag itself is flagged below as misattributed).
+
+**Tibetan (FMT).** The code FMT denotes Tibetan Sowa Rigpa, but the material this entry files under "FMT" is in fact Southeast Asian — the Javanese/Indonesian *jamu* use of *kencur* as a warming digestive, carminative and topical poultice. That is a genuine living tradition, but it is *Jamu* (properly the JAM code), not Tibetan medicine, and no *rGyud-bzhi* placement, *bcud len* (essence-extraction) role, or any Tibetan attestation for this rhizome appears in the entry. Sowa Rigpa in any case carries no formal "substances for subtle-body practice" category to grade it. Read strictly as the Tibetan tag it is, the cultivation status is **(c) absent** — the underlying jamu tradition is real but belongs under a different code (see the proposed reassignment below), and jamu itself frames kencur as a warming household remedy, not a cultivation substance.
+
+**Practitioner's note.** A cultivator does nothing constructive with this rhizome beyond the symptomatic job it is good at: a short-course warming carminative for cold-and-damp digestive obstruction, and a topical counter-irritant (via ethyl-*p*-methoxycinnamate) over sore muscles and aching joints. It is discontinued once the cold/damp picture and the local soreness resolve. Neither tag-line tradition supplies a longevity or vital-cultivation frame here — one is anachronistic, the other is a miscoded jamu attestation — so there is no cultivation practice to carry out.
+
+---
+
 ### Contraindications
 
 - **Heat and Yin-deficiency patterns:** Contraindicated where there are heat signs or Yin-deficient heat (dry mouth, night sweats, red tongue with scant coat); a warm, aromatic, drying herb aggravates these.
