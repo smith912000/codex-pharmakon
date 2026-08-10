@@ -4,6 +4,8 @@
 **Energetic Classification (TCM):** ☿ Shen · ◉ Qi · ◈ Jing (secondary)
 **Training Phase:** `BUILD` `REFINE` `SLEEP` `RESET`
 
+> **A fungus, framed honestly.** Fu Ling is **not** a plant. It is the dried **sclerotium** — a dense underground survival mass of fungal hyphae — of a wood-rotting bracket fungus that grows on the roots of pine (*Pinus*) species. It is classed with the plant-based materia medica by tradition and trade, but it belongs to the fungi; this entry treats it as such. *(Merged 2026-08-10 from the former duplicate entry I_626 / CPU-00899, which described the same organism under the synonym* Wolfiporia cocos *(F.A. Wolf) Ryvarden & Gilb.; Family Polyporaceae.)*
+
 ---
 
 ### Origin & Tradition
