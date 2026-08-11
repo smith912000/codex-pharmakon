@@ -1,6 +1,7 @@
 # Rehmannia / Di Huang — ديهوانغ / Ῥεμάννια / Rakta-pushpi / 地黃
 ## *Rehmannia glutinosa (Gaertn.) DC. — Chinese foxglove, earth yellow, glutinous rehmannia*
-**Tradition Tags:** SBJ, FMT
+**Tradition Tags:** SBJ
+**Tags (previous line, retained for reference):** SBJ, FMT
 **Energetic Classification (TCM):** ◈ Jing · ☿ Shen (secondary) · ◉ Qi (secondary)
 **Training Phase:** `BUILD` `REFINE` `RESET` `SLEEP` `CYCLE-OFF`
 
@@ -83,8 +84,6 @@ Unusually among major Chinese herbs, *Rehmannia glutinosa* presents two pharmaco
 ### Cultivation Register
 
 **Chinese — Shennong (SBJ).** Dì Huáng (地黃) carries an explicit and positive cultivation status in the classical stratum: dried rehmannia (*gan di huang* 干地黃) is placed in the **upper grade** (上品, *shang pin*) of the *Shennong Bencao Jing* — the 120 non-toxic medicinals that "may be taken long-term without harm," the grade whose defining project is to lighten the body (*qing shen* 輕身, recorded here in its own terms, not translated into any pharmacological effect), boost the *qi* 氣, and prolong life. The received text assigns it the work of replenishing the marrow (*bǔ suǐ*) and the *Shennong* upper-grade rationale is precisely the *yang sheng* 養生, nourishing-life, conservational project, not disease-attack. This is a substance-specific status, not an overlay. **(a) attested:** upper grade (上品) in the *Shennong Bencao Jing*. (Note that the later *tian jing bu sui* "fills the Essence and Marrow" language cited elsewhere in this entry belongs to the processed *Shú Dì Huáng* of post-classical practice and Li Shizhen's 1596 *Bencao Gangmu*; the *jing* 填精 action survives only inside kidney-tonifying and is not asserted here as a classical *san pin* claim.)
-
-**Tibetan — rGyud-bzhi (FMT).** No cultivation status is claimed here, and the underlying attestation is itself doubtful. *Rehmannia glutinosa* is a north-Chinese plant outside the classical Tibetan plateau flora, and the *ma-nu* category invoked in this entry's Origin section refers in Sowa Rigpa to *Inula racemosa* (*ma nu*), not to rehmannia — so the equation of Di Huang with a Tibetan *ma-nu* tonic is unsupported and probably anachronistic. Even were imported Di Huang used therapeutically at the Chinese-Tibetan interface, medicine is the third of the four Tibetan treatment branches and no formal subtle-body-substance category exists to grade it, and no *bcud len* status for this species is attested in any source retrieved. **(c) absent** — and the FMT tag itself is flagged as questionable (see attestation flag).
 
 **Practitioner's note.** In the one tradition that genuinely grades it, rehmannia is a cultivation substance in the fullest sense: an upper-grade drug taken over long courses to build the deep reserve — the prepared *Shú Dì Huáng* is the anchoring Yin-and-Essence tonic of the great restorative formulas (Liù Wèi Dì Huáng Wán and its kin), used precisely in RESET and CYCLE-OFF phases to rebuild what sustained training depletes. Its own tradition warns of the price: the heavy, cloying (*nì*) quality burdens a weak Spleen, so the cultivator pairs it with a moving, drying herb (Fú Líng, Shā Rén). This is nourishing-life material, taken slow and long — the opposite pole from the drastics.
 

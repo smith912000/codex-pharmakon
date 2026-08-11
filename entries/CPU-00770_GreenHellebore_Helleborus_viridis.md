@@ -2,7 +2,8 @@
 
 ## *Helleborus viridis* L. | Family: Ranunculaceae
 
-**Tradition Tags:** AT, DMM, CM
+**Tradition Tags:** DMM, CM
+**Tags (previous line, retained for reference):** AT, DMM, CM
 
 **Energetic Classification:** Cold–Dry; violently downward-purging, with a hot local counter-irritant surface action
 
@@ -159,8 +160,6 @@ So the ancients correctly identified a plant that evacuates the gut with great f
 ---
 
 ### Cultivation Register
-
-**Assyrian (AT).** No Mesopotamian cuneiform attestation for *Helleborus viridis* is presented in this entry; the "AT / DMM" label carried by the origin section attaches the Anticyra doctrine — a Greco-Roman melancholy-purge tradition — to the Assyrian code, which is a misassignment rather than a cuneiform citation. Assyrian medicine classified drugs by the causal agency they opposed (a divine hand, a ghost, an oath), not by any effect on the person's vital constitution, and under the standing blocking warning in force for every Assyrian substance identification, deity attribution and tablet reference, no identification and no cultivation status can be claimed here on the strength of what is shown. **(c) absent.**
 
 **Greek — Dioscorides (DMM).** Black hellebore (*helléboros mélas*) is given a systematic account in *De Materia Medica* (Book IV), where Dioscorides sets out its use as a drastic downward purge for the melancholic and the mad and warns explicitly about its danger and its dosing; *H. viridis* belongs to the black-hellebore (*Helleborus*, Ranunculaceae) group that stands behind that testimony, though the classical record cannot be pinned to this species and is further corrupted by the perennial confusion with white hellebore (*Veratrum album*). Dioscorides carries no subtle-body doctrine and assigns the plant no status touching the practitioner's own vitality; what the tradition offers a cultivator is his discipline of attention — the season and manner of gathering the root, the sensory assay of its acridity, the guard against a substitute — which for a plant this lethal is a discipline of avoidance, not of use. **(c) absent** as to cultivation status.
 

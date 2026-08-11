@@ -2,7 +2,8 @@
 
 ## *Kaempferia galanga* L. — the fragrant rhizome of the warm south
 
-**Tradition Tags:** SA, FMT
+**Tradition Tags:** JAM
+**Tags (previous line, retained for reference):** SA, FMT
 
 **Energetic Classification (TCM):** ◉ Qi Primary — Middle Burner Warming / Aromatic Carminative
 
@@ -83,9 +84,7 @@ Because both actions are warming and dispersing, Aromatic Ginger is suited to co
 
 ### Cultivation Register
 
-**South American (SA).** *Kaempferia galanga* is an Old-World rhizome of tropical and subtropical Asia; it has no place in the South American ethnobotanical record, no *dieta* built around it, and no standing as a *planta maestra* or teacher plant among any named Amazonian or Andean people. The SA tag on this entry is anachronistic — a New-World label on a plant that reached the Americas, where it grows at all, only through the colonial spice trade — and no South American cultivation framing can honestly be written for it. Cultivation status: **(c) absent** (and the tag itself is flagged below as misattributed).
-
-**Tibetan (FMT).** The code FMT denotes Tibetan Sowa Rigpa, but the material this entry files under "FMT" is in fact Southeast Asian — the Javanese/Indonesian *jamu* use of *kencur* as a warming digestive, carminative and topical poultice. That is a genuine living tradition, but it is *Jamu* (properly the JAM code), not Tibetan medicine, and no *rGyud-bzhi* placement, *bcud len* (essence-extraction) role, or any Tibetan attestation for this rhizome appears in the entry. Sowa Rigpa in any case carries no formal "substances for subtle-body practice" category to grade it. Read strictly as the Tibetan tag it is, the cultivation status is **(c) absent** — the underlying jamu tradition is real but belongs under a different code (see the proposed reassignment below), and jamu itself frames kencur as a warming household remedy, not a cultivation substance.
+**Javanese / Indonesian *Jamu* (JAM).** *Kaempferia galanga* is *kencur* (Javanese/Indonesian; *cekur* in Malay), and this is where the plant's living attestation actually sits. It is a household staple of *jamu* — the rhizome pounded into warming tonic drinks, most familiarly *beras kencur* (rice-and-kencur), taken for fatigue, poor appetite and general debility, and applied as a warming poultice over aching muscles and a cold, sluggish abdomen. This material was previously filed in this entry under the Tibetan code; the 2026-08-10 audit found every sentence beneath that heading to be Southeast Asian in substance, and relabelled it to JAM, which is the tradition that actually holds it. On cultivation specifically, restraint is required: *jamu* is a living, largely household and *jamu gendong* practice with a strong tonic-and-maintenance orientation, but it does not operate a formal graded hierarchy of substances of the kind the Chinese *san pin* or the Ayurvedic *rasāyana* divisions provide, and no such scheme should be imported to give this plant a rank it was never assigned. Cultivation status: **(b) framed** — securely attested as a daily-use restorative within a living tradition, with no formal cultivation grade recorded, because the tradition does not assign them. (Src: Sabernig et al., "Dataset of materia medica in Sowa Rigpa", *Data in Brief* 2020, PMID 33294505 — consulted for the negative Tibetan finding; Wang et al., "*Kaempferia galanga* L.", 2021, for the Southeast Asian ethnobotany.)
 
 **Practitioner's note.** A cultivator does nothing constructive with this rhizome beyond the symptomatic job it is good at: a short-course warming carminative for cold-and-damp digestive obstruction, and a topical counter-irritant (via ethyl-*p*-methoxycinnamate) over sore muscles and aching joints. It is discontinued once the cold/damp picture and the local soreness resolve. Neither tag-line tradition supplies a longevity or vital-cultivation frame here — one is anachronistic, the other is a miscoded jamu attestation — so there is no cultivation practice to carry out.
 

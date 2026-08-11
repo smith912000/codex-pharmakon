@@ -2,7 +2,8 @@
 
 ## *Citrus sinensis* (L.) Osbeck | Family: Rutaceae
 
-**Tradition Tags:** CM, SBJ, SS
+**Tradition Tags:** SBJ, SS
+**Tags (previous line, retained for reference):** CM, SBJ, SS
 
 **Energetic Classification:** Fruit — Cool, Sweet-Sour, Moistening, Downbearing. Dried peel — Warm, Acrid-Bitter, Drying, Mobilising.
 
@@ -146,8 +147,6 @@ The internal tension — one plant, two opposite temperaments — is not a flaw 
 ---
 
 ### Cultivation Register
-
-**Unani — Avicenna (CM).** No Unani attestation for the sweet orange is present in the entry, and none can be, on chronology. *Citrus sinensis* is a post-classical cultivated hybrid: it reached the Mediterranean world only around 1500, roughly five centuries after Ibn Sīnā (d. 1037), so it cannot carry an Avicennan or classical Unani status in its own right. What Ibn Sīnā knew was the earlier sour/bitter citron-and-orange stock, not this fruit. The strongest cultivation idea in the Unani corpus — conservation of the finite innate heat and radical moisture — is nowhere assigned to sweet orange in any Unani text, and no *mufarrih* or cardiac-*ruh* role is claimed for it. The CM tag on this entry is anachronistic (see attestation flag). **(c) absent.**
 
 **Chinese — Bencao (SBJ).** The sweet orange enters Chinese materia medica on two footings: the fruit (*chéng* 橙) as a cooling, fluid-generating food, and the peel worked as a *chén pí* 陳皮-type qi-regulating, damp-drying, phlegm-transforming drug. Both belong to the later, post-classical stratum, not the Shennong classical layer: sweet orange is a late cultivar, and — as the entry itself states — it is *not* the orthodox *chén pí* source (pharmacopoeial *chén pí* is *Citrus reticulata* pericarp). No *san pin* 三品 grade is recorded for sweet orange in the sources retrieved; the JEP review cited in the entry characterises the *Citri Reticulatae Pericarpium* category pharmacologically but assigns no cultivation grade. Within *yang sheng* 養生 — conservational, not curative — the fruit is a nutritive-corrective food and the peel a middle-burner corrective, both therapeutic/dietetic rather than a cultivation status. **(b) framed:** attested in the Chinese materia medica, no *san pin* grade sourced, and post-classical rather than Shennong-classical.
 
