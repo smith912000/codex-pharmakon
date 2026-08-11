@@ -1,6 +1,7 @@
-# Morinda / Ba Ji Tian — 巴戟天 (Bā Jǐ Tiān) / [no established Arabic name] / [no Greek equivalent] / Indianmulberry Root
+# Morinda / Ba Ji Tian — 巴戟天 (Bā Jǐ Tiān) / [no established Arabic name] / [no Greek equivalent]
 
-## *Morinda officinalis — "Eight-Fold Heaven Root," Indian Mulberry Root, Morinda Root*
+## *Morinda officinalis* — Ba Ji Tian, Morinda Root
+> **Naming note.** This entry is *Morinda officinalis*. **"Indian Mulberry" is not this plant** — that vernacular belongs to *Morinda citrifolia* (noni), a different species; it appeared in an earlier version of this title and has been removed.
 
 **Tradition Tags:** SBJ, TCM
 **Tags (previous line, retained for reference):** CM · SBJ
@@ -13,7 +14,7 @@
 
 ### Origin & Tradition
 
-Morinda officinalis is a woody vine of the Rubiaceae family, native to the subtropical forests of southern China (Guangdong, Fujian, Guangxi provinces) and cultivated extensively in Vietnam. Its distinctive root is segmented like a string of beads, traditionally harvested at 5–7 years of age when the central woody core is removed to yield the fleshy cortex — the medicinal portion. The name Bā Jǐ Tiān translates as "Eight-Fold Heaven Root," a poetic reference to its tonifying reach across multiple physiological domains and its status among the premier Kidney Yang tonics in Chinese medicine. It addresses what classical physicians described as "Ming Men fire declining" — the fundamental constitutional warmth that drives reproductive function, skeletal integrity, libido, and endurance at cold temperatures. Unlike the fierce, stimulating Yang of Ephedra or the acute warmth of Aconite, Morinda provides a sustained, deep-acting replenishment of Yang Essence that does not exhaust what it ignites.
+Morinda officinalis is a woody vine of the Rubiaceae family, native to the subtropical forests of southern China (Guangdong, Fujian, Guangxi provinces) and cultivated extensively in Vietnam. Its distinctive root is segmented like a string of beads, traditionally harvested at 5–7 years of age when the central woody core is removed to yield the fleshy cortex — the medicinal portion. The name Bā Jǐ Tiān 巴戟天 is **not** reliably translatable as "Eight-Fold Heaven Root" — an earlier version of this entry gave that gloss, but it rests on confusing 巴 (*bā*, a graph associated with the Ba region of Sichuan) with 八 (*bā*, "eight"), which is a different character. The genuine etymology of the name is not settled in the sources retrieved, and no gloss is asserted here. [USER: a philological source would be needed to state one.] It addresses what classical physicians described as "Ming Men fire declining" — the fundamental constitutional warmth that drives reproductive function, skeletal integrity, libido, and endurance at cold temperatures. Unlike the fierce, stimulating Yang of Ephedra or the acute warmth of Aconite, Morinda provides a sustained, deep-acting replenishment of Yang Essence that does not exhaust what it ignites.
 
 **Canon of Medicine (Ibn Sina / CM):** While Morinda officinalis specifically was not within Ibn Sina's direct pharmacopoeia, the functional category of roots that "warm the kidneys, strengthen the loins, and restore the generative faculty" is well-represented in the Canon. Ibn Sina's second book describes warming kidney tonics using heating-degree taxonomy, and Morinda's profile — sweet, acrid, warming, directed at restoring sexual function and skeletal warming in those with cold-type Kidney deficiency — aligns precisely with what the Canon terms *mufaḥḥim al-kullā* (kidney-fortifying agents). The trade routes connecting China and the Islamic world meant that functionally analogous herbs were documented even when direct botanical identification was absent.
 

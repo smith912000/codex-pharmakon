@@ -14,7 +14,7 @@
 
 Two bulbs sit in every Chinese pharmacy under names that differ by one syllable, and the difference between them is the whole entry.
 
-**Chinese Medicine (CM) — 浙贝母, *Zhè Bèi Mǔ* ("Zhejiang Mother-of-Shellfish")**
+**Chinese Medicine (CM) — 浙贝母, *Zhè Bèi Mǔ* ("Zhejiang Mother-of-Shellfish")** *(⚠️ code-gloss correction 2026-08-10: in this project **CM denotes Avicenna / Unani**, not "Chinese Medicine" — the label below is legacy drift from an old scheme in which CM meant "Chinese Materia Medica". The Chinese content here is genuine; whether the **CM tag itself** belongs on this entry is under audit and has NOT been ruled.)*
 
 *Bèi mǔ* (贝母) means, literally, "shellfish mother" — the scale-leaves of the bulb overlap like the valves of a bivalve, and the name is a morphological description that predates any pharmacology. The genus name *Fritillaria* runs the same trick in Latin: *fritillus*, a dice-cup, for the chequered tessellation of the flower. Both naming traditions saw a container and named the plant for it. Chinese doctrine then read that container as a *store* — and what the lung stores, pathologically, is phlegm.
 
@@ -34,7 +34,7 @@ The classical function statement for Zhe Bei Mu is precise and three-limbed: **�
 
 The mnemonic: **Chuan moistens a dry cough; Zhe attacks a hot one.** Give Zhe Bei Mu to a chronic dry deficient cough and you drain a patient who needed moistening. This is not a nuance. It is the difference between the drug working and the drug harming.
 
-**Sacred / Bodily Jurisprudence (SBJ) — the eighteen incompatibles**
+**Sacred / Bodily Jurisprudence (SBJ) — the eighteen incompatibles** *(⚠️ code-gloss correction 2026-08-10: **SBJ denotes the Chinese *Shennong Bencao Jing* stratum**, not "Sacred / Bodily Jurisprudence" — legacy drift.)*
 
 Zhe Bei Mu is named in the **十八反** (*shí bā fǎn*, "Eighteen Antagonisms") — the oldest formal drug-interaction table in continuous clinical use anywhere. The rule: *Bei Mu* must not be combined with **aconite** (乌头/附子, *Wū Tóu* / *Fù Zǐ*). This is not a vague caution. It is a hard prohibition inside a named, memorised, versified jurisprudence, and it has survived for roughly a millennium on clinical observation alone.
 

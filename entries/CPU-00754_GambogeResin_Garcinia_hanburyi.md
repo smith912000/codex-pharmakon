@@ -15,17 +15,17 @@
 
 Gamboge is not a leaf, a root, or a bark. It is a wound. When the trunk of *Garcinia hanburyi* is spirally incised, a latex bleeds into a hollow bamboo tube, hardens over weeks, and is knocked out as a cylindrical stick of brittle, orange-brown resin. Scrape it and the powder is a violent, saturated yellow. Grind it with water and it emulsifies into a paint. Swallow it and it may kill you. Few substances in the codex hold the aesthetic and the lethal so tightly in one body.
 
-**Chinese Medicine (CM) — 藤黄, *Téng Huáng* ("Vine Yellow")**
+**Later Chinese materia medica (TCM) — 藤黄, *Téng Huáng* ("Vine Yellow")**
 
 Classical Chinese materia medica records *Teng Huang* as acrid, sour, cold, and — explicitly, unambiguously — **有大毒** (*yǒu dà dú*, "greatly toxic"). It is classed among the external-use and drastic-attack drugs rather than the tonics. Attested classical indications cluster around: carbuncles and furuncles (癰疽, *yōng jū*), scrofula (瘰癧, *luǒ lì* — chronic cervical lymphadenopathy), stubborn ringworm and tinea, parasitic worms, and — the indication that anchors this entry — **jaundice**. A 2025 review of the antitumour pharmacology of gamboge opens by noting the resin's use "for over 500 years… to treat scrofula, carbuncle, jaundice, furuncle, and other chronic and stubborn diseases" (Zhou et al., *Front Pharmacol*, 2025). The doctrinal logic is *gōng dú* — attacking toxin with toxin. Gamboge does not nourish. It besieges.
 
-**Dravyaguna / Materia Medica of the Colonial Pharmacopoeias (DMM) — Gambogia, "Rattan Jaundice"**
+**European pharmacy — Gambogia, "Rattan Jaundice"** *(not a tradition code: an earlier version headed this "(DMM)", which denotes Dioscorides/classical Greco-Roman. Gamboge was unknown to Dioscorides — it reached Europe through the 17th-century Siam trade. This is later European pharmacopoeial material and is an* **EF** *candidate pending the add pass; it is deliberately not written as a tagged register tradition yet.)*
 
 Gamboge entered European pharmacy through the Siam and Cambodia trade and was carried in the London, Edinburgh, and United States pharmacopoeias for well over a century as **Gambogia** — a hydragogue cathartic and anthelmintic, almost never given alone. It appears as the drastic component of compound pills (the classical partner being aloes and, in some formulations, scammony and jalap), where the polypharmacy served to distribute and blunt an effect that in isolation was uncontrollable. The vernacular trade name "rattan jaundice" preserves the vine-like habit of the climbing trees from which the tubes were tapped and, simultaneously, the disease the yellow drug was thought to answer.
 
 The same resin, in the same century, sat on the palette. Gamboge yellow is a documented artists' pigment used in illumination and in oil and watercolour practice — Rembrandt among the historical users. A physician's cathartic and a painter's lake were the same commodity, from the same tube, sold in the same warehouses. This is not a curiosity. It is the entire doctrinal engine of the entry.
 
-**Sacred / Bodily Jurisprudence (SBJ)**
+**Southeast Asian Buddhist monastic context** *(not a tradition code: an earlier version headed this "(SBJ)", which denotes the Chinese* Shennong Bencao Jing *stratum. Nothing in this section is Chinese or classical; the mis-lettering is legacy drift.)*
 
 The gamboge tapping tradition sits inside Southeast Asian Buddhist monastic economies; the resin's saffron-adjacent colour and its use in dyeing cloth ties it, materially, to the visual identity of renunciation. The theological reading available here is a *purgation* reading: the substance that colours the robe is the substance that empties the body. [USER: verify — the specific monastic dye attestations for *G. hanburyi* versus other Garcinia species need a primary-source check before this claim is stated as fact rather than as an association.]
 

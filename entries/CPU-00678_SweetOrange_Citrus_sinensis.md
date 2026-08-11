@@ -27,7 +27,7 @@ Sweet orange peel is not the orthodox *chén pí* source — pharmacopoeial *ch�
 
 In the Indian traditions the orange is a *phala* — a fruit-food with formal properties — rather than a classical single-drug *dravya* of the Caraka/Suśruta core. Its attributed qualities are *madhura-amla* (sweet-sour) *rasa*, *śīta* (cooling) *vīrya*, and a *pitta*-pacifying, thirst-quenching, appetite-restoring action, used in convalescence and in heat conditions. The peel, dried and powdered, is used as a *dīpana-pācana* (appetite-kindling, digestive) agent in the same functional slot Chinese medicine assigns it. The convergence is notable: two traditions with no shared theoretical apparatus independently classify the flesh as cooling-nutritive and the peel as warming-digestive. [USER: verify the specific Sanskrit/Tamil source text before treating nāraṅgī attributions as classical rather than later-medieval — the sweet orange is a relatively late arrival in the subcontinent's written materia medica.]
 
-**Ship's Stores / maritime medicine (SS) — the antiscorbutic thread**
+**Maritime medicine — the antiscorbutic thread** *(not a tradition code: this is 18th-century British naval medicine. An earlier version headed this section "(SS)", colliding with the Sushruta/Ayurveda code; the genuine SS material is the* nāraṅgī *content above.)*
 
 The orange's most consequential historical role has nothing to do with qi or *pitta*. It is the substance at the centre of one of the founding events of clinical medicine. Scurvy — a disease of collagen failure producing gingival haemorrhage, perifollicular bleeding, haematoma, fatigue and, untreated, death — devastated long-voyage crews. James Lind's shipboard comparison of dietary treatments identified citrus as curative. According to PubMed, the modern clinical literature still frames the disease this way: scurvy "was originally described in the 18th century by James Lind and associated with long sea voyages and insufficient citrus consumption," and it remains a live diagnosis, with a documented modern case in a young woman whose diet had collapsed to tea and carbohydrates, resolving on vitamin C repletion ([DOI: 10.1136/bcr-2017-223686](https://doi.org/10.1136/bcr-2017-223686)).
 
@@ -138,7 +138,7 @@ The venotonic literature attaches to micronised purified flavonoid fraction (a d
 | Framework | Fruit / juice | Aged peel |
 |---|---|---|
 | Chinese Medicine | Sweet-sour, cool; generates fluids, quenches thirst, harmonises Stomach, settles counterflow | Acrid-bitter, warm; enters Spleen & Lung; regulates qi, dries damp, transforms phlegm |
-| Indian (SBJ) | *Madhura-amla rasa*, *śīta vīrya*; *pitta*-pacifying, thirst-relieving, restorative | *Dīpana-pācana* — appetite-kindling, digestive, mildly warming |
+| Indian (SS) | *Madhura-amla rasa*, *śīta vīrya*; *pitta*-pacifying, thirst-relieving, restorative | *Dīpana-pācana* — appetite-kindling, digestive, mildly warming |
 | Kenetica synthesis | Cool / Moist / Downbearing — a nutritive baseline | Warm / Dry / Mobilising — a middle-burner corrective |
 | Modern reading | Hydration + ascorbate + flavanone + sugar | Volatile monoterpene carminative + non-volatile flavonoid residue |
 
