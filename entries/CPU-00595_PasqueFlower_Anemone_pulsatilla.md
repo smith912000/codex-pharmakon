@@ -2,7 +2,8 @@
 
 ## *Pulsatilla vulgaris* Mill. (syn. *Anemone pulsatilla* L.) | Family: Ranunculaceae
 
-**Tradition Tags:** DMM, CM
+**Tradition Tags:** EF
+**Tags (previous line, retained for reference):** DMM, CM
 
 **Energetic Classification:** Cool, dry, dispersing; sedative-relaxant with a corrosive fresh aspect that the drying process removes
 

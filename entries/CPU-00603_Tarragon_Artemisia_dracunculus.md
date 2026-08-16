@@ -2,7 +2,8 @@
 
 ## *Artemisia dracunculus* L. | Family: Asteraceae
 
-**Tradition Tags:** DMM, CM
+**Tradition Tags:** CM, EF
+**Tags (previous line, retained for reference):** DMM, CM
 
 **Energetic Classification:** Warm, dry, aromatic; carminative and mildly stimulant to digestion — a low-toxicity kitchen herb with one flagged constituent
 
