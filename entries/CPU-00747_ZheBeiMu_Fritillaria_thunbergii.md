@@ -15,13 +15,13 @@
 
 Two bulbs sit in every Chinese pharmacy under names that differ by one syllable, and the difference between them is the whole entry.
 
-**Chinese Medicine (CM) — 浙贝母, *Zhè Bèi Mǔ* ("Zhejiang Mother-of-Shellfish")** *(⚠️ code-gloss correction 2026-08-10: in this project **CM denotes Avicenna / Unani**, not "Chinese Medicine" — the label below is legacy drift from an old scheme in which CM meant "Chinese Materia Medica". The Chinese content here is genuine; whether the **CM tag itself** belongs on this entry is under audit and has NOT been ruled.)*
+**Later Chinese materia medica (TCM) — 浙贝母, *Zhè Bèi Mǔ* ("Zhejiang Mother-of-Shellfish")** *(⚠️ code corrected 2026-08-10: this block was lettered **(CM)**; that code denotes a different tradition in `TRADITION_CODES.md`. The content is genuine and belongs under **TCM**.)*
 
 *Bèi mǔ* (贝母) means, literally, "shellfish mother" — the scale-leaves of the bulb overlap like the valves of a bivalve, and the name is a morphological description that predates any pharmacology. The genus name *Fritillaria* runs the same trick in Latin: *fritillus*, a dice-cup, for the chequered tessellation of the flower. Both naming traditions saw a container and named the plant for it. Chinese doctrine then read that container as a *store* — and what the lung stores, pathologically, is phlegm.
 
 The classical function statement for Zhe Bei Mu is precise and three-limbed: **清热化痰** (*qīng rè huà tán*) — clears heat, transforms phlegm; **開鬱散結** (*kāi yù sàn jié*) — opens constraint, dissipates nodules. A 2025 study, citing the *Shennong Bencao Jing* and the *Bencao Zheng*, summarises it as "clearing heat, resolving phlegm, suppressing cough, detoxifying, dissipating nodules, and resolving abscesses" (Zhu et al., *J Ethnopharmacol*, 2025). Attested indications: acute cough with thick yellow sputum; wind-heat and phlegm-heat patterns; and the nodule cluster — 瘰癧 (*luǒ lì*, scrofula), 癭瘤 (*yǐng liú*, goitre and neck masses), and 乳癰 (*rǔ yōng*, breast abscess/mastitis).
 
-**The Chuan/Zhe distinction (FMT — Formulary & Materia Media Taxonomy)**
+**The Chuan/Zhe distinction** *(⚠️ de-coded 2026-08-10: this block was lettered **(FMT — "Formulary & Materia Media Taxonomy")**. No such expansion exists — **FMT denotes rGyud-bzhi / Tibetan (Sowa Rigpa)**. The content is a Han-Chinese clinical differentiation table, and the FMT tag was removed from this entry in the audit-5 ruling.)*
 
 *Chuan Bei Mu* (川贝母, *Fritillaria cirrhosa* D. Don — see its own entry) and *Zhe Bei Mu* are not interchangeable, and the entire clinical skill of this drug is knowing why:
 
