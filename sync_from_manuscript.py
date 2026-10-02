@@ -11,8 +11,8 @@ Source of truth: the manuscript canonical_index.csv.
 """
 import csv, json, os, shutil, re
 
-MSRC = r"G:/My Drive/Book Of Substances/Volume_I_Plant_Based/entries"
-CSV  = r"G:/My Drive/Book Of Substances/canonical_index.csv"
+MSRC = r"G:/My Drive/Claude Control/Book Of Substances/Volume_I_Plant_Based/entries"
+CSV  = r"G:/My Drive/Claude Control/Book Of Substances/canonical_index.csv"
 IDX  = "codex_index.json"
 
 def main():
