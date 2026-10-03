@@ -60,6 +60,14 @@ For the classical diuretic/anti-urolithic claim, an *in vitro* study (Yasir & Wa
 - **Srotas (channels):** primarily *mūtravaha* (urinary) and *udakavaha* (water-carrying) srotas; secondarily *raktavaha* and *annavaha*.
 - **Gaṇa membership:** classically grouped among the *śothahara* and *kāsahara* dravyas of the Caraka/Suśruta corpus.
 
+### Cultivation Register
+
+**Unani / Avicenna (CM).** Not named in the sources retrieved for this tradition. No Unani cultivation framing is therefore attested for this substance, and the entry itself carries no sourced Unani content. Nothing is written about ruh, innate heat or radical moisture for it. The tag is unconfirmed.
+
+**Sushruta / Ayurveda (SS).** Punarnava is attested therapeutically in the Sushruta Samhita, not as a cultivation drug. It is listed in the Vidarigandhadi group (Sushruta Samhita, Sutra ch. 38, Bhishagratna tr., Vol. I). It is named among the vata-soothing drugs (Sutra ch. 39) and the bitter group (Sutra ch. 42). The synonym Varshabhu appears in a spice-and-herb list (Sutra ch. 46). In the passages read, no rasayana or vajikarana assignment is made for it. Its status here is therapeutic only, with no recorded cultivation status. The entry's phrase "rasayana-like renewal" is not supported by the loci read.
+
+**Practitioner's note.** Nothing to cultivate with this herb on the sources checked. It is a diuretic and anti-oedema remedy in the Sushruta lists, and its "renewal" is a name-based reading, not a recorded rasayana.
+
 ### Contraindications
 
 - Use the correct variety: red-flowered (*B. diffusa*) for renewal; the white-flowered substitute is more sharply purgative.

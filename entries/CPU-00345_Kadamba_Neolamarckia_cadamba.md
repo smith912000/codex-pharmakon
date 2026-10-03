@@ -52,6 +52,14 @@ According to PubMed:
 - **Karma (actions):** Stambhaka / Grāhī (binding, anti-diarrhoeal), Śothahara (anti-oedema), Mūtrala (diuretic, per tradition), Prameha-hara (per tradition), Vraṇaropaṇa (wound-healing, external), Dāha-praśamana (relieves burning)
 - **Srotas:** Purīṣavaha, Mūtravaha; Raktavaha (external)
 
+### Cultivation Register
+
+**Avicenna / Unani (CM).** No cultivation framing is attested, and the CM tag is unconfirmed. The entry carries no Unani-sourced content, and the Canon could not be searched (scanned PDF, no text layer). Unani frames vitality as innate heat and radical moisture, a finite endowment that is conserved, but nothing connects that frame to this substance. No scholarly Unani attestation of *Neolamarckia cadamba* was established.
+
+**Sushruta / Ayurveda (SS).** Framed, status unattested (b). In the Sutrasthana, Kadamba (*Kadamva*) is a member of the Rodhradi and Nyagrodhadi groups, described in the Bhishagratna translation as astringent and as acting on uterine and vaginal disorders, ulcers and burning, with haemoptysis also named for the latter. It is also named among trees flowering at the start of the rains. These are therapeutic and seasonal mentions only. No rasayana or vajikarana assignment for this substance was found, so it carries no cultivation status here. The Krishna symbolism in this entry is devotional, not Sushrutan.
+
+**Practitioner's note.** Nothing to cultivate with it. Its attested place is therapeutic, and no rejuvenative status is recorded in the sources read.
+
 ### Contraindications
 - Astringent-dry character can **aggravate Vāta**, constipation, and dryness — combine with appropriate anupāna in Vāta constitutions.
 - The **antidiabetic use is not scientifically validated** here; anyone using it for glycaemic control must not substitute it for prescribed treatment and must monitor with a clinician — `[USER: verify with clinician]`.

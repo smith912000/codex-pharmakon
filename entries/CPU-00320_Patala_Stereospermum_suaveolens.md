@@ -61,6 +61,14 @@ Together these give a mechanistic (anti-inflammatory, antioxidant, neuroprotecti
 - **Karma (actions):** Vāta-śamana/Balya (grounding-strengthening), Jvarahara (antipyretic), Śvāsa-kāsahara (anti-asthmatic/anti-cough), Śothahara (anti-inflammatory), Dāhaprāśamana (relieving burning), Raktapitta-hara, Hikkā-hara (anti-hiccough), Dīpana (kindling), Śukrala (in some texts).
 - **Suśruta gaṇa membership:** One of the **Bṛhat Pañcamūla** (five great roots) constituting, with the lesser five, the **Daśamūla** — its cardinal classificatory home in the Suśruta and wider Ayurvedic corpus.
 
+### Cultivation Register
+
+**Unani / Avicenna (CM).** Not named in the sources retrieved for this tradition. No Unani cultivation framing is therefore attested for this substance, and the entry itself carries no sourced Unani content. Nothing is written about ruh, innate heat or radical moisture for it. The tag is unconfirmed.
+
+**Sushruta / Ayurveda (SS).** Patala is attested therapeutically in the Sushruta Samhita, not as a cultivation drug. It is one of the five roots of the Mahat-Pancha-Mula, which combines with the lesser five as the Dashamula (Sushruta Samhita, Sutra ch. 38, Bhishagratna tr., Vol. I). That text describes the Dashamula as destroying deranged vata, pitta and kapha, and as beneficial in asthma. Patala is also in the Aragvadhadi group (Sutra ch. 38), among woods burnt for alkali (Sutra ch. 11), and in an ear-lobe plaster (Sutra ch. 16). No rasayana or vajikarana assignment was found for it. Its status is therapeutic only, with no recorded cultivation status.
+
+**Practitioner's note.** Nothing to cultivate with this bark or root on the sources checked. Its use is as one part of the Dashamula decoction for a defined disorder, not as a long-term vitality drug.
+
 ### Contraindications
 
 Generally well-tolerated and mild (its Daśamūla membership reflects a broad safety profile), but: pregnancy and lactation — use only within recognised classical formulae under supervision. Naphthoquinone (lapachol-type) content warrants caution in high/prolonged single-drug doses and possibly in pregnancy and with anticoagulants (quinone chemistry) — `[USER: verify]`. Not primarily indicated for high-Pitta acute inflammatory heat as a solo heating drug; its balance is best expressed in compound. As with all Daśamūla work, match to a genuinely depleted/vāta-disordered picture, not to robust excess states.

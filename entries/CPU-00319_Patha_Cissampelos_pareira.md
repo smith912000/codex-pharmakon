@@ -61,6 +61,14 @@ This review directly corroborates the three headline traditional uses (anti-diar
 - **Karma (actions):** Saṅgrāhaṇa/Stambhana (binding, anti-diarrhoeal), Dīpana–Pācana, Āmapācana, Jvarahara (antipyretic), Krimighna, Viṣaghna (anti-poison), Vraṇaśodhana (wound-cleansing), Garbhāśaya-śodhana (uterine-corrective), Kaṇḍūghna (anti-pruritic).
 - **Suśruta gaṇa membership:** Ambaṣṭhā (the Pāṭhā-group root) is enumerated in Suśruta's **Ambaṣṭhādi gaṇa** and the *sandhānīya/saṅgrāhaṇīya* groupings — its signature classificatory home as a binding, wound-uniting drug. Caraka lists Pāṭhā among *saṅgrāhaṇīya* and febrifuge drugs.
 
+### Cultivation Register
+
+**Unani / Avicenna (CM).** Not named in the sources retrieved for this tradition. No Unani cultivation framing is therefore attested for this substance, and the entry itself carries no sourced Unani content. Nothing is written about ruh, innate heat or radical moisture for it. The tag is unconfirmed.
+
+**Sushruta / Ayurveda (SS).** Patha is attested therapeutically in the Sushruta Samhita, not as a cultivation drug. It is listed in the Aragvadhadi group (Sushruta Samhita, Sutra ch. 38, Bhishagratna tr., Vol. I). It appears in a blood-letting plaster (Sutra ch. 14) and in ear-lobe remedies (Sutra ch. 16). No rasayana or vajikarana assignment was found for it in the passages read. Its status is therapeutic only, with no recorded cultivation status.
+
+**Practitioner's note.** Nothing to cultivate with this root. It is a binding and wound-cleansing remedy with curare-kin alkaloids, so it is not a long-term or casual substance.
+
 ### Contraindications
 
 Pregnancy — **contraindicated / use only under expert supervision** (uterine-acting, classical use to expel placenta and induce labour; antifertility activity documented in the genus). Neuromuscular caution: curare-kin alkaloid chemistry — avoid combining with neuromuscular blockers or in myasthenia/anaesthetic settings without medical oversight. High Vāta, constipation, dryness — the binding/drying action can aggravate. Not for the depleted or dehydrated in excess. Alkaloid overdose risk — respect the low therapeutic window; not a casual daily herb.

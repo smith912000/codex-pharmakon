@@ -73,6 +73,14 @@ According to PubMed, *Gymnema sylvestre* has the strongest evidence base of this
 - **Prabhāva (specific effect):** *Madhunāśana* — the specific, non-taste-based abolition of sweet perception; this taste-suppressing action is a classic textbook example of *prabhāva* (an effect not predictable from rasa-vīrya-vipāka alone).
 - **Dhātu/Srotas:** acts on *medovaha* and *mūtravaha* srotas; corrects *kleda* (excess bodily moisture) and *meda* (fat).
 
+### Cultivation Register
+
+**Avicenna / Unani (CM).** No cultivation framing is attested here. The Canon text could not be searched (the available copy is a scan with no text layer), and the entry itself carries no sourced Unani content. Innate heat and radical moisture, and the ruh, are therefore not assigned to this substance. Status: absent from the sources retrieved; the CM tag is unconfirmed.
+
+**Sushruta Samhita (SS).** Sushruta Samhita, Sutra ch. 38 (Bhishagratna tr., Vol. I) lists Meshashringi as a member of the Salasaradi group, described as acting on deranged fat and Kapha and on urethral discharges (meha); Sutra ch. 39 lists it among the errhines (bark used); Chikitsa ch. 2 (Vol. II) names its bark in a wound-healing oil. These are therapeutic attestations only. No rasayana or vajikarana assignment for this substance was read, so no cultivation status is attested. The entry's wording that Sushruta places it in prameha treatment is a group-level reading, not a named remedy in the loci read.
+
+**Practitioner's note.** Nothing to cultivate with this: in the sources retrieved it is a therapeutic drug only, and the craving-regulation role in the entry is the entry's own framing, not a tradition's cultivation status.
+
 ### Contraindications
 
 - **Concurrent antidiabetic drugs / insulin:** major caution — additive blood-sugar lowering can cause **hypoglycaemia**. Use only with medical supervision and glucose monitoring.

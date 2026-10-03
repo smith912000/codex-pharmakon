@@ -57,6 +57,14 @@ According to PubMed, the pharmacology of Citraka is dominated by **plumbagin**, 
 - **Doṣa action:** Kapha–Vāta śāmaka; Pitta-vardhaka (aggravates Pitta)
 - **Karma (actions):** Dīpana (appetiser), pācana (digestive of āma), lekhana (scraping/anti-obesity), kṛmighna (anthelmintic), śothahara (anti-oedema), used in grahaṇī, arśas, agnimāndya
 
+### Cultivation Register
+
+**Avicenna / Unani (CM).** No cultivation framing is attested here. The Canon text could not be searched (the available copy is a scan with no text layer), the entry itself carries no sourced Unani content, and the only Unani material found is modern journal literature on the drug under the name Sheetraj, which is not a classical attestation. Innate heat and radical moisture, and the ruh, are therefore not assigned to this substance. Status: absent from the sources retrieved.
+
+**Sushruta Samhita (SS).** Sushruta Samhita, Sutra ch. 39 (Bhishagratna tr., Vol. I) lists Chitraka among the purgative (virechana) drugs, with the roots to be used, and a bare "Chitra" appears in the emetic list; whether that is the same plant is not stated. This is a therapeutic attestation only. No rasayana or vajikarana assignment for this substance was read in the text, so no cultivation status is attested. The Ayurvedic fire/agni framing in the entry above is drawn from later glosses, not from the locus read, and is not dated to Sushruta here.
+
+**Practitioner's note.** Nothing to cultivate with this: a short-course, purified, acrid drug in the sources retrieved, with no long-term or rejuvenative status attested in either tradition.
+
 ### Contraindications
 
 Pitta-predominant constitutions and Pitta disorders; pregnancy (traditional abortifacient — **absolutely contraindicated**); lactation; bleeding disorders and active peptic ulcer/gastritis. Overdose causes burning, vomiting, diarrhoea and skin/mucosal irritation; the raw root is a vesicant poison. Not for self-medication; use only śodhita material under qualified supervision.

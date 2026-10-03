@@ -70,6 +70,14 @@ Tigernut's standing rests on its **nutritional composition** — an oil-rich (ol
 
 ---
 
+### Cultivation Register
+
+**Ebers Papyrus / Egyptian (EP).** The entry and the secondary literature consulted place tigernut among the ingredients of Egyptian remedies, so the frame is therapeutic and food-offering use, not a cultivation status. The ancient name is debated among Egyptologists, so the identification is a modern hypothesis. The corpus is indication-organised, recording what was done for a complaint rather than what a substance does to the person's vital constitution (ka, ba, akh, ib). No heka recitation or cultivation role for this tuber is attested in anything retrieved. Status: framed, cultivation status unattested.
+
+**Assyrian / Mesopotamian (AT).** No cultivation framing is attested. The entry itself names only the Cyperus group generally, with no tablet, text or identification for tigernut. Any identification of this species in cuneiform is unverified and treated as absent here. No agency (divine hand, ghost, oath) is attached to it.
+
+**Practitioner's note.** Nothing beyond food: eaten as a tuber or tuber-milk, with no cultivation practice supported by the sources here.
+
 ### Contraindications
 
 - **Generally very safe (a food):** tigernut is a well-tolerated food; the main cautions are ordinary food ones.

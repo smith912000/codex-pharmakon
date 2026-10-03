@@ -61,6 +61,14 @@ The heartwood-water and DPP-4/GLP-1 findings give an unusually coherent modern r
 - **Srotas:** Mūtravaha (urinary), Medovaha (fat), Rasavaha, Raktavaha
 - **Prabhāva:** The specific anti-prameha effect of the heartwood-steeped water — the drug's signature, doctrinally the "vessel that corrects the water"
 
+### Cultivation Register
+
+**Avicenna / Unani (CM).** No cultivation framing is attested here. The Canon text could not be searched (the available copy is a scan with no text layer), and the entry itself carries no sourced Unani content. Innate heat and radical moisture, and the ruh, are therefore not assigned to this substance. Status: absent from the sources retrieved; the CM tag is unconfirmed.
+
+**Sushruta Samhita (SS).** Sushruta Samhita, Sutra ch. 38 (Bhishagratna tr., Vol. I) lists Asana in the Salasaradi group, which the text describes as destroying the germ of kushtha, absorbing deranged fat and Kapha, and helping in urethral discharges (meha) and pandu. That is a group membership, hence a therapeutic attestation only. No rasayana or vajikarana assignment was read, so no cultivation status is attested.
+
+**Practitioner's note.** Nothing to cultivate with this: a therapeutic heartwood drug in the sources retrieved. The vessel-water practice and its doctrinal reading in the entry are not shown in the loci read.
+
 ### Contraindications
 
 - Drying and cooling: use cautiously in Vāta constitutions, dryness, constipation, and depletion.

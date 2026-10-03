@@ -62,6 +62,14 @@ The pharmacology of the active alkaloid is well established: **nicotine is a nic
 
 ---
 
+### Cultivation Register
+
+**Badianus / Nahua (BM).** The Badianus Manuscript (1552) is itself naturalistic and does not contain the tonalli / teyolia / ihiyotl model; that framework is reconstructed from later ethnohistory (Lopez Austin) and is not attested for this plant in the manuscript. Picietl is framed here only as a remedy and ritual substance, per the entry's own account, with no cultivation status recorded. The entry's Sahagun-based statements about priestly rubbing for strength and against fear were not checked against the Florentine Codex, and no hot/cold assignment is resolved. Status: framed, cultivation status unattested.
+
+**South American (SA).** Attestation is ethnographic, not textual, and the entry generalises across Amazonian shamanic practice without naming a people, so no single group can be cited. The entry describes mapacho as a governing "master plant" used within apprenticeship and the dieta, where restriction is itself the practice. This is described, not a graded status, and no subtle-anatomy model is claimed. Status: framed, cultivation status unattested.
+
+**Practitioner's note.** Nothing to self-administer: this is an extremely toxic plant whose traditional use sits inside apprenticeship, and no sourced cultivation practice here is safe or appropriate outside it.
+
 ### Contraindications
 
 - **Toxicity / lethality — absolute:** *N. rustica* is extremely toxic; ingestion of concentrated preparations can be fatal, and nicotine is absorbed through skin. No casual, self-directed, or recreational use of concentrated forms is safe.

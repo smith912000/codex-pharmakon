@@ -53,6 +53,14 @@ According to PubMed:
 - **Karma (actions):** Raktastambhaka / raktapradara-hara (haemostatic in uterine bleeding), Śothahara (anti-oedema), Dāha-praśamana (relieves burning), Stri-roga-hara (gynaecological corrective), Vraṇa-śodhana (wound-cleansing, external)
 - **Srotas:** primarily Ārtavavaha (menstrual channel); Raktavaha
 
+### Cultivation Register
+
+**Avicenna / Unani (CM).** No cultivation framing is attested, and the CM tag itself is unconfirmed. The entry carries no Unani-sourced content, and a scholarly search found no attestation of *Saraca asoca* in a classical Unani text. Unani frames vitality as innate heat and radical moisture, a finite endowment conserved rather than acquired, but nothing links that frame to this substance.
+
+**Sushruta / Ayurveda (SS).** Framed, status unattested (b). In the Sutrasthana, Ashoka appears as a member of the Rodhradi group, described as astringent and removing vaginal and uterine disorders, and the Bhishagratna translation also lists it among spring trees in flower. These are therapeutic and seasonal mentions only. No rasayana or vajikarana assignment for this substance was found in the loci read, so it carries no cultivation status in the Sushrutan sources retrieved. The "sorrow-less" symbolism in this entry is literary and iconographic, not a Sushrutan classification.
+
+**Practitioner's note.** Nothing to cultivate with it: its attested place is therapeutic, in gynaecological practice, and no rasayana status is recorded. Verified *S. asoca* bark is hard to source and often substituted.
+
 ### Contraindications
 - Given the phytoestrogenic signal, use caution in **hormone-sensitive conditions** (estrogen-dependent tumours, etc.) and avoid casual self-medication in such contexts — `[USER: verify with clinician]`.
 - **Pregnancy:** not for self-directed use; classical use is peri-menstrual/uterine, and safety in pregnancy is not established from the evidence here.
