@@ -151,6 +151,14 @@ The Mesoamerican classification is the one worth sitting with: a cosmology that 
 
 ---
 
+### Cultivation Register
+
+**Chinese medicine (TCM).** Maize is a post-Columbian arrival in China, so it has no place in the classical *Shennong* stratum and no *san pin* grade. *Yù mǐ xū* (corn silk) is framed in the later materia medica as a bland, draining drug for urinary and damp complaints, which is a therapeutic frame only. No scholarly source for a cultivation status, *yang sheng* use, or *jing*, *qi* or *shen* assignment was retrieved. The status is unattested, and no cultivation role is claimed for either silk or grain.
+
+**Nahua / Badianus (BM).** No cultivation framing is attested in the Badianus, which is itself naturalistic. The *tonalli* / *teyolia* / *ihiyotl* model is reconstructed from later ethnohistory (López Austin), not from that manuscript. The entry's own note says maize processing is better attested in Sahagún than in the Badianus. The nixtamalization material is foodway, not a cultivation status, and no Badianus folio for maize has been confirmed.
+
+**Practitioner's note.** Nothing for cultivation. The grain is food and the silk a mild urinary remedy, with no cultivation role in the sources read.
+
 ### Contraindications
 
 **Corn silk:**

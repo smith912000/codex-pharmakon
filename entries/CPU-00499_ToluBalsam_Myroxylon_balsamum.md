@@ -67,6 +67,14 @@ Tolu balsam is a well-characterised **balsamic oleoresin** whose aromatic esters
 
 ---
 
+### Cultivation Register
+
+**South American (SA).** No cultivation framing is attested for tolu balsam in any source retrieved. The entry's own account of South American use (wound dressing, chest remedy, incense) is unsourced and generalises across peoples; no named people, *dieta* or specialist practice is recorded for this resin. The substance is framed here only as a therapeutic and aromatic resin, and no status in a *dieta* or teacher-plant sense is claimed.
+
+**Nahua / Badianus (BM).** No cultivation framing is attested. The Badianus manuscript is itself naturalistic and does not contain the *tonalli* / *teyolia* / *ihiyotl* model, which is reconstructed from later ethnohistory (López Austin). No identification of this *Myroxylon* resin in the Badianus has been confirmed, and the entry's Mesoamerican claim is unsourced.
+
+**Practitioner's note.** Nothing for cultivation. Tolu is a pharmacopoeial balsam used for cough and minor skin protection, and it is a recognised contact allergen.
+
 ### Contraindications
 
 - **Contact allergy — significant:** *Myroxylon* balsams (balsam of Peru/Tolu) are **major contact allergens** and a standard patch-test screening substance; topical use can sensitise, and balsam-allergic individuals may also react to related fragrance/flavour and food cross-reactants. Patch-test before broad skin use.

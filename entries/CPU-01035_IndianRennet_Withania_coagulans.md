@@ -121,6 +121,14 @@ Beating dexamethasone on safety in a rodent model is a meaningful preclinical re
 | Unani — Action | *Muhallil* (resolvent), *Musakkin* (sedative), digestive |
 | Siddha — Suvai | *Kaippu* (bitter) |
 
+### Cultivation Register
+
+**Avicenna / Unani (CM).** Framed, status unattested. The entry gives the Unani account of *panir-band* as a hot and dry drug (*muhallil*, *musakkin*, digestive), which is a therapeutic and temperamental assignment only. No Canon text could be read for this register, and no claim about innate heat, radical moisture or the *ruh* is attested for this fruit. It carries no cultivation status in this tradition as retrieved.
+
+**Sushruta / Ayurveda (SS).** Framed, status unattested. The entry's Ayurvedic account (*rishyagandha*) frames the fruit as a drug for *prameha* and digestion. The Sushruta Samhita passages that name *ashvagandha* (Sutra chs. 15, 36, 46) concern a drug the entry itself separates from this species, so they are not cited for it. No *rasayana* or *vajikarana* assignment is attested for *W. coagulans*; the *rasayana* reputation belongs to *W. somnifera*.
+
+**Practitioner's note.** Nothing for a cultivator. This is a fruit used for milk-setting and, in folk practice, for sugar. Do not borrow Ashwagandha's rejuvenative standing for it.
+
 ### Contraindications
 
 - **Hypoglycaemia with antidiabetic drugs — the principal risk.** The whole point of this plant's folk use is glucose-lowering, and rodent data show substantial FBG reductions. Anyone taking insulin, sulfonylureas, meglitinides, metformin or any glucose-lowering agent who also drinks paneer dodi water risks **additive hypoglycaemia**. This is not a theoretical interaction — it is the plant doing exactly what it is taken to do, twice. Blood glucose must be monitored; do not stack an unquantified folk preparation on a titrated drug.

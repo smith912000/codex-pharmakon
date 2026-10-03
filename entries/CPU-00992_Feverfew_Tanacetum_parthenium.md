@@ -140,6 +140,14 @@ Goodyear-Smith, *J Prim Health Care* 2010 ([PMID 21125077](https://pubmed.ncbi.n
 | Actions (traditional) | Febrifuge (**unsupported**); cephalic/anti-headache (**supported, modest**); emmenagogue (**untested, and the basis of the pregnancy contraindication**) |
 | Contraindicated pattern | Pregnancy; Asteraceae sensitivity; anticoagulated states |
 
+### Cultivation Register
+
+**Greek / Dioscorides (DMM).** No cultivation framing is attested. The *parthenion* chapter (3-155) is glossed in the Osbaldeston & Wood (2000) edition as mayweed (*Anthemis cotula*), not feverfew, and *Matricaria parthenium* appears only as one suggested gloss under *artemisia* (3-127). Either way the uses recorded are gynaecological and urinary, not cultivation. Dioscorides offers no subtle-body system. The identification with *Tanacetum parthenium* is unconfirmed, and the DMM tag stays unconfirmed.
+
+**Avicenna / Unani (CM).** No cultivation framing is attested. The entry carries no Unani or Avicennan content for feverfew, and no Canon text could be read for this register. The innate heat and radical moisture frame is not applied. The CM tag is unconfirmed.
+
+**Practitioner's note.** Nothing for a cultivator. Feverfew is used here as a long-course migraine prophylactic with a defined diary and review window, which is a therapeutic discipline and not a cultivation status in any tradition retrieved.
+
 ### Contraindications
 
 - **⚠️ PREGNANCY — ABSOLUTE.** Feverfew is a traditional **emmenagogue** with historical use as an **abortifacient**. This is the single most serious item in the plant's file. The traditional indication is itself the contraindication: an agent used to bring on delayed menses is an agent that acts on the gravid uterus. Do not use in pregnancy, in those attempting conception, or where pregnancy is possible and unexcluded. Lactation: no adequate data; avoid. This warning does not depend on the emmenagogue action being *proven* — it depends on it being *claimed and plausibly mechanistic*, which is a sufficient standard for a reproductive contraindication.

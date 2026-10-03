@@ -63,6 +63,14 @@ According to PubMed, the evidence base is **largely preclinical and traditional*
 - **Karma (actions):** Dīpana (digestive kindling), Grāhī/Stambhana (checking flux — antidiarrhoeal), Balya (strengthening), Stanyajanana (galactagogue), Vraṇaropaṇa (wound-healing), Jvaraghna (antipyretic), Rasāyana (rejuvenative, in support role)
 - **Gaṇa membership (Suśruta):** Bṛhat Pañcamūla → Daśamūla
 
+### Cultivation Register
+
+**Avicenna / Unani (CM).** No cultivation framing is attested. The entry has no Unani prose beyond the tag, and no Unani source naming *Gmelina arborea* has been retrieved. The Unani frame of *ruh*, innate heat and radical moisture is therefore not applied to this substance, and the tag is unconfirmed in any text read.
+
+**Sushruta / Ayurveda (SS).** *Kashmari* is named in the Sushruta Samhita as a member of the greater group of five roots (*Mahat-Pancha-Mula*) and of the ten-root group, with *Kashmari phala* in the *Sarivadi* group, Sutrasthana ch. 38 (Bhishagratna tr., Vol. I). It also appears in a threatened-miscarriage recipe, Sarirasthana ch. 10 (Vol. II), and as *Sriparni* flowers in an eye collyrium, Uttaratantra ch. 12 (Vol. III). These are therapeutic group-membership and remedy attestations. No *rasayana* or *vajikarana* assignment was found in the passages read, so no cultivation status is attested.
+
+**Practitioner's note.** Nothing for cultivation. The Sushruta passages read frame it only as a remedy ingredient. The entry's "rasayana support" and "fruit as aphrodisiac" wording is not borne out by them.
+
 ### Contraindications
 
 - No serious human toxicity is documented, but the absence of clinical safety data means **pregnancy** (beyond traditional galactagogue folk use), **lactation** and **paediatric** use should follow qualified Ayurvedic supervision, not self-administration.

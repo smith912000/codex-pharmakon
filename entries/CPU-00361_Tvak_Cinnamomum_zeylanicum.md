@@ -67,6 +67,14 @@ According to PubMed:
 - **Doṣa action:** *Kapha-Vāta-śāmaka* (pacifies cold-damp Kapha and cold-erratic Vāta); **increases Pitta** — its heat is contraindicated where heat already dominates.
 - **Karma (actions):** *Dīpana-pācana* (kindles and completes digestion), *hṛdya* (cardiotonic/circulatory), *kaphaghna* (anti-Kapha, expectorant), *vātānulomana* (regulates Vāta), *yogavāhī*-like carrier action potentiating co-administered drugs.
 
+### Cultivation Register
+
+**Greco-Roman / Dioscorides (DMM).** Dioscorides has no subtle-body system, and none is claimed here. *Kinamomon* appears in *De materia medica* 1-13 and the compound ointment *kinnamominon* in 1-74 (Osbaldeston & Wood 2000). What the text offers is a discipline of attention: kinds are ranked by colour, knots, smell and taste, a test on a single shoot is described, and inferior "bastard" cinnamon is distinguished. The uses given are therapeutic (warming, diuretic, antidotal, emmenagogue). The translators' identification with *C. zeylanicum* is a suggestion, and ancient cinnamon's botanical identity is uncertain. No cultivation status is attested.
+
+**Sushruta / Ayurveda (SS).** *Tvak* is named among the ingredients of purgative electuaries, together with *Patra*, *Ela* and *Trivrit*, in Sushruta Samhita, Sutrasthana ch. 44 (Bhishagratna tr., Vol. I). This is a therapeutic attestation only. No *rasayana* or *vajikarana* assignment for *Tvak* was found in the passages read, and the entry's "triad" framing is not confirmed there.
+
+**Practitioner's note.** Nothing for cultivation beyond Dioscorides' habit of careful sourcing and assay of the bark. Neither text assigns it a vital or rejuvenative role.
+
 ### Contraindications
 
 - **Warming — aggravates Pitta.** Avoid or reduce in heat conditions, hyperacidity, ulcers, bleeding tendencies, and Pitta-dominant states.

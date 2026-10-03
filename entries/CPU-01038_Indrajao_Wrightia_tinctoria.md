@@ -112,6 +112,14 @@ Seed extract lowered arterial pressure in anaesthetised rats (1–10 mg/kg) via 
 | Siddha — Veeryam | Cooling (*thatpam*) |
 | Siddha — Action | *Padai* (scaling dermatosis) remedy; wound-sealing latex |
 
+### Cultivation Register
+
+**Avicenna / Unani (CM).** No cultivation framing is attested. The entry carries no Unani or Avicennan content for *Wrightia tinctoria*: its tradition account is Ayurvedic and Siddha only, and no Canon text for this species could be read for this register. The innate heat and radical moisture frame (ageing as depletion of a finite endowment) is therefore not applied to this substance. The CM tag is unconfirmed.
+
+**Sushruta / Ayurveda (SS).** Framed, status unattested. The entry's Ayurvedic account places this tree in the *kuṣṭha* (skin disease) frame as a bitter, astringent, cooling drug, with the seed (*indrayava*) used for loose bowels. That is a therapeutic assignment. It is not traced here to a Sushruta Samhita passage for this species, and no *rasayana* or *vajikarana* assignment, no *ojas* or *tejas* claim, has been retrieved for it. It carries no cultivation status in the sources checked.
+
+**Practitioner's note.** Nothing for a cultivator. This is a skin remedy used against a defined complaint, and the name *indrajao* is shared with a different drug (*Holarrhena*), so no regimen should be inferred.
+
 ### Contraindications
 
 - **Apocynaceae latex caution — primary.** *W. tinctoria* is a copiously lactiferous member of a family notorious for cardiotoxic glycosides (*Nerium*, *Thevetia*, *Cerbera*). *W. tinctoria* is not among the family's classical cardiotoxins, and no cardiac glycoside toxicity was retrieved for it in this search — but **absence of retrieved evidence is not evidence of safety**, and the family-level prior is adverse. Neat latex should not be regarded as benign.

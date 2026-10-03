@@ -123,6 +123,14 @@ Follow-up work compared preparation types on primary human T lymphocytes and mac
 | Doctrine of Signatures | Three-coloured face (*Herb Trinity*); heart-shaped petal reading — **retrospective, non-predictive** |
 | Anthroposophic | Component of compounded skin preparations |
 
+### Cultivation Register
+
+**Greek / Dioscorides (DMM).** No cultivation framing is attested, and the species is not attested. *Viola tricolor* is not named in Dioscorides, *De materia medica* (Osbaldeston & Wood 2000). The nearest entries, *ion* (4-122, glossed there as sweet violet, *V. odorata*) and *leukoion* (3-138, wallflower or dame's violet), are other plants. Dioscorides offers no subtle-body system, and nothing for a cultivator beyond his discipline of identification and provenance, which here warns against assuming a congener is the species. The DMM tag is unconfirmed.
+
+**Avicenna / Unani (CM).** No cultivation framing is attested. The entry carries no Unani or Avicennan content for this species, and no Canon text could be read for this register. The innate heat and radical moisture frame is not applied. The CM tag is unconfirmed.
+
+**Practitioner's note.** Nothing for a cultivator. The entry's own sourced content is a European folk and pharmacopoeial skin and cough herb, with the "heartsease" name a folk signature, not a cultivation status.
+
 ### Contraindications
 
 - **Salicylate sensitivity — the principal caution.** The herb bears salicylate derivatives. Individuals with aspirin/NSAID hypersensitivity, salicylate intolerance, or aspirin-exacerbated respiratory disease (Samter's triad) should avoid it, topically and internally. Cross-reactivity within the salicylate class is the mechanism.

@@ -153,6 +153,14 @@ The energetic classification is retained only for structural completeness. **A t
 
 ---
 
+### Cultivation Register
+
+**Greek / Dioscorides (DMM).** No cultivation framing is attested, and the plant itself is not attested. *Zantedeschia* is not named in Dioscorides, *De materia medica* (Osbaldeston & Wood 2000); it is a southern African species outside the author's world. The Dioscoridean *aron* belongs to Old-World *Arum*, as this entry itself argues. Dioscorides offers no subtle-body system. What he does offer, a discipline of provenance and sensory assay, applies here only as a warning.
+
+**Avicenna / Unani (CM).** No cultivation framing is attested. *Zantedeschia aethiopica* is a southern African plant that reached Europe after the medieval period, so it cannot appear in Avicenna's own materia medica. The innate heat and radical moisture frame (conservation of a finite vital endowment) has no purchase on a non-therapeutic, toxic substance. Any classical "arum" lineage claimed for this species is a naming artefact.
+
+**Practitioner's note.** Nothing. This is an identification and toxicology entry; there is no cultivation use, and no tradition retrieved supports one.
+
 ### Contraindications
 
 ⚠️ **The entire plant is contraindicated for internal use in all persons, at all ages, in all conditions, in all phases. There are no exceptions and no protocol.**

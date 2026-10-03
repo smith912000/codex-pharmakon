@@ -55,6 +55,14 @@ According to PubMed, the evidence base for *Premna integrifolia* is **preclinica
 - **Karma (actions):** Dīpana (kindles digestive fire), Pācana (metabolises āma), Śothahara (anti-oedema), Mūtrala (diuretic), Balya (strengthening, in the Daśamūla context)
 - **Gaṇa membership:** Bṛhat-pañcamūla → Daśamūla (Suśruta); śothahara-varga
 
+### Cultivation Register
+
+**Avicenna / Unani (CM).** No cultivation framing is attested. The entry carries no Unani prose beyond the tag, and no Unani source naming *Premna integrifolia* has been retrieved. The Unani frame of *ruh*, innate heat and radical moisture (a finite vital endowment, where longevity practice is conservation) is therefore not applied to this substance, and the tag is unconfirmed in any text read.
+
+**Sushruta / Ayurveda (SS).** *Agnimantha* is named in the Sushruta Samhita in the list of woods, leaves, roots and fruits burnt to ash for the preparation of caustic alkali (*kshara*), Sushruta Samhita, Sutrasthana ch. 11 (Bhishagratna tr., Vol. I). That is a therapeutic and procedural attestation, not a cultivation status. No *rasayana* or *vajikarana* assignment for this substance was found in the passages read, so the status is unattested here and the Daśamūla placement stated in the entry is not confirmed by them.
+
+**Practitioner's note.** Nothing for cultivation. In the passages read it is a therapeutic and surgical-pharmacy ingredient with no rejuvenative standing.
+
 ### Contraindications
 
 Uṣṇa-vīrya and pungent–bitter–astringent — potentially aggravating in high Pitta states, active inflammation with heat, or Pitta-predominant constitutions. Dryness (rūkṣa guṇa) may not suit already-depleted, dry, or Vāta-vitiated tissue if used unbalanced. Pregnancy, lactation, and paediatric use: defer to a qualified practitioner — no clinical safety data cited. As with all Daśamūla members, intended for combined/formulaic use rather than high-dose single-herb use.
