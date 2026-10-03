@@ -55,6 +55,14 @@ In applied Kenetica it belongs to a decongesting/reset block: a low-intensity cl
 - **TCM:** Not classically used — omit (distinct from the *Drynaria*/"gu-sui-bu" ferns of the Chinese materia medica).
 - **Ayurvedic:** Not a classical Sanskrit dravya — omit.
 
+### Cultivation Register
+
+**Unani / Avicennan (CM).** Polypody (*bisfāyij*) is attested in this tradition as a therapeutic drug: a mild evacuant of the melancholic and phlegmatic humours, classed hot and dry. The Unani frame of innate heat (*al-ḥarāra al-gharīziyya*) and radical moisture, a finite vital endowment whose depletion is ageing, is the tradition's own cultivation idea. No source retrieved for this entry assigns polypody a role in conserving it, or in strengthening the *ruh*. The substance therefore carries a therapeutic status only; a cultivation status is unattested. (Frame level (b).)
+
+**Greco-Roman / Dioscoridean (DMM).** Dioscorides records *polypodion* as a gentle purge of belly, phlegm and bile. His text has no subtle-body system and none is supplied here. What it offers a cultivator is a discipline of attention: recognising the rock- and oak-growing fern by its creeping, many-footed rhizome, gathering and cleaning the rhizome with care, and keeping it distinct from other ferns. No cultivation status is attested. (Level (c).)
+
+**Practitioner's note.** Nothing in the attested traditions presents polypody as a long-term vital or life-nourishing substance. A cultivator's use is limited to a mild, short, traditional laxative course, if at all, with the identification care noted under Contraindications. The "oak fern" and rootedness imagery in the Doctrinal layer above comes from older European herbal lore rather than from the Avicennan or Dioscoridean sources cited, and carries no cultivation claim.
+
 ### Contraindications
 
 - **Laxative cautions** — as a purgative it should be avoided in bowel obstruction, acute abdominal pain of unknown cause, and inflammatory bowel disease; avoid prolonged/habitual use.

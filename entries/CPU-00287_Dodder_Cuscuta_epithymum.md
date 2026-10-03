@@ -58,6 +58,14 @@ In applied Kenetica it sits as a **potent traditional clearing/evacuant herb** f
 - **TCM:** *C. epithymum* is **not** the classical Chinese dodder — the Chinese tonic *tu-si-zi* is *C. chinensis*/*C. reflexa* seed (warming kidney/liver tonic), a different species and near-opposite use. Do not merge.
 - **Ayurvedic:** *Cuscuta* (*amarbel* / *ākāśavallī*) appears in folk use, but the *epithymum*-specific melancholy-purge indication is Greco-Arab; keep attribution to Unani/Dioscoridean.
 
+### Cultivation Register
+
+**Unani / Avicennan (CM).** *Aftimūn* is attested in this tradition as a melancholic purgative (*mus·hil-e-saudā*), classed hot and dry, within a humoral scheme that treats black-bile disorders by ripening and then evacuating the humour. The Unani cultivation idea of innate heat and radical moisture, a finite vital endowment conserved rather than acquired, is not attached to this substance in any source retrieved here. No strengthening of the *ruh* or longevity role is recorded for *aftimūn*; its status is therapeutic only, and cultivation status is unattested. (Frame level (b).)
+
+**Greco-Roman / Dioscoridean (DMM).** Dioscorides' *epithymon* is a purge for black bile and phlegm, taken with honey or salt. His text has no subtle-body system and none is supplied here. The usable practice is attentive identification: a leafless, rootless thread twining over thyme, with its host noted, since the parasite's character varies with the plant it feeds on. No cultivation status is attested. (Level (c).)
+
+**Practitioner's note.** There is nothing to cultivate with this herb. It is a potent traditional purge used in compounded, bounded courses against a defined humoral complaint, and the primary review cited above records inadequate toxicology. It is not a tonic and carries no long-term or life-nourishing status in either tradition retrieved. Any grade or tonic reputation belonging to another *Cuscuta* species in another tradition does not transfer to *C. epithymum*. The names "hellweed" and "devil's-thread" and the thyme-virtue idea are folk and later herbal lore, not Avicennan or Dioscoridean cultivation claims.
+
 ### Contraindications
 
 - **Purgative strength** — avoid in bowel obstruction, acute undiagnosed abdominal pain, IBD, dehydration and debility; risk of cramping, fluid/electrolyte loss with over-use.

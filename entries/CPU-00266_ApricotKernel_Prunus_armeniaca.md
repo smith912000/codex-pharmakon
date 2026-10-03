@@ -56,6 +56,14 @@ Attribution: findings from PubMed.
 - **Tibetan (rGyud-bzhi context):** apricot kernels used regionally as an oil-bearing, descending seed drug; `[USER: verify]` exact Tibetan indication.
 - **Dantian:** upper-dantian respiratory descent, mediated by downward-moving Lung qi.
 
+### Cultivation Register
+
+**Assyrian (AT).** No cultivation framing is attested. Assyrian medicine classes illness by causal agency (divine hand, ghost, oath) and was practised by both the *asû* and the *āšipu*, and no source retrieved connects an apricot-type kernel to any such framing. The substance identification is itself uncertain (see the Origin section) and a blocking warning is in force for Assyrian identifications, tablet references and agency attributions, so none is made here.
+
+**Chinese, Shennong stratum (SBJ).** *Xìng rén* 杏仁 is claimed by the *bencao* tradition for cough, wheeze and constipation. No *san pin* 三品 grade for this species is recorded in the sources retrieved, so it carries no cultivation status in this tradition, only a therapeutic one. The entry itself marks it as slightly toxic (小毒), a note on a hazard, not a grade. No *yang sheng* 養生 use and no action on *jing*, *qi* or *shen* is attested here. Any grade should be checked against a named scholarly translation before it is written in (to confirm).
+
+**Practitioner's note.** Nothing here supports long-term or nourishing use. Bitter kernel contains a cyanogenic glycoside and is a short-course, processed, practitioner-supervised remedy at most, and raw kernels are not a cultivation food. For a cultivator the answer is to leave it alone outside that supervised use.
+
 ### Contraindications
 
 - **Cyanide toxicity — primary hazard.** Raw bitter kernels can be lethal; poisoning is documented (Sauer 2015, above). Never self-dose raw kernels; never treat "vitamin B17" as safe.

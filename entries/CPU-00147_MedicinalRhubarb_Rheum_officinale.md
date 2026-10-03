@@ -70,6 +70,14 @@ The purgative action is pharmacologically well established: sennoside/anthraquin
 
 ---
 
+### Cultivation Register
+
+**Greco-Roman / Dioscorides (DMM).** Absent. No Dioscoridean attestation for *Rheum officinale* is given in the entry body, and none was retrieved for this pass; whether the classical Greek rhubarb drug corresponds to this Chinese species is an open identification question and is not asserted. Dioscorides has no subtle-body system to supply a cultivation framing, and none is manufactured. What the tradition offers a cultivator in general is a discipline of attention (provenance, season of gathering, sensory assay, adulteration), which applies to a traded root of this kind but is not a substance-specific claim.
+
+**Tibetan Medicine (FMT).** Framed, not attested as a cultivation substance. In the rGyud-bzhi the three *nyes pa* derive from the three poisons, so pathology is at root a spiritual condition, and medicine is the third of four treatment branches that supports practice without reaching the root. The entry's body places *chu-rtsa* in this frame only as a purgative and heat-clearing agent for hot digestive disorders. No *bcud len* use or practice role is attested in the sources retrieved; its status is therapeutic only.
+
+**Practitioner's note.** A forceful, short-course purgative; there is no cultivation use to describe, and the honest answer is to take nothing from it for long-term practice. The entry's body asserts a Chinese lower-grade (下品) status for Dà Huáng, but Chinese is not on this entry's tag line and no scholarly source for the grade was retrieved for this species; it is therefore not restated here as a cultivation claim (see flags).
+
 ### Contraindications
 
 - **Pregnancy, lactation, menstruation:** contraindicated — strong purgative + Blood-moving/uterine action (anthraquinones also pass into breast milk).

@@ -60,6 +60,14 @@ A follow-up randomised controlled trial (Govindan et al., *Phytotherapy Research
 - **Srotas (channels):** primarily *prāṇavaha* (respiratory); secondarily *annavaha*.
 - **Gaṇa membership:** one of the two *kṣudra-mūla* (lesser roots) of the **Daśamūla**; classed among Caraka's kāsahara and śvāsahara dravyas.
 
+### Cultivation Register
+
+**Avicenna / Unani (CM).** No cultivation framing is attested in this entry. The tag line lists CM, but the entry body contains no Avicennan or Unani material for this species: no temperament, no degree, no statement about innate heat, radical moisture or the *ruh*. No cultivation status is written for a tradition whose content is not on the page. The CM tag is flagged for review against its source. The entry's prose describes Siddha practice (*kaṇṭaṅkattiri*), and Siddha has its own code, SID, which is not on the tag line; that is flagged, not corrected here.
+
+**Ayurveda (SS).** The substance is attested in Sushruta, and the attestation is therapeutic, not a cultivation status. Evidence row SS-S36-018 (*Sushruta Saṃhitā*, Sūtra 36, p. 332, Bhishagratna 1907, Vol. I) names Kaṇṭakārī (as Kantakari) among the ingredients of a medicated oil used to purify the interior of an ulcer. Row SS-S38-001 (Sūtra 38, p. 342) lists Kantakari, as *Kaṇṭakārī*, within the Vidārigandhādi group, said to subdue deranged Vāyu and Pitta and to benefit phthisis, *gulma*, aching of the limbs, *ūrdhva-śvāsa* and cough. Neither row assigns *rasāyana* or *vājīkaraṇa* status, or any *ojas* action, to this species. No such status is recorded for it in the sources retrieved. It is framed here as a therapeutic dravya with respiratory and wound uses only. Per the specification, *sattva/rajas/tamas* are Samkhya categories and are not applied here.
+
+**Practitioner's note.** Nothing here supports long-term use for cultivation. Kaṇṭakārī is a sharp, heating drug taken for a defined respiratory complaint and then stopped. The entry's own contraindications (solanaceous steroidal alkaloids, overdose risk) are the tradition-neutral warning. A cultivator does not take it as a tonic, and does not treat the trial data as evidence of a vital-constitution effect.
+
 ### Contraindications
 
 - Heating and sharp — use with caution in Pitta-predominant states, hyperacidity, and active inflammation of the GI tract.

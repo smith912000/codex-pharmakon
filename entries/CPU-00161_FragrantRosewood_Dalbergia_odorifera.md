@@ -71,6 +71,14 @@ A comprehensive review (Zhao et al., 2019, *Journal of Ethnopharmacology*) docum
 
 ---
 
+### Cultivation Register
+
+**Chinese (SBJ).** Framed, grade unattested. Jiàng Xiāng is claimed by the Chinese materia medica as a Blood-and-Qi mover (see the entry body), but no *san pin* grade (上品/中品/下品) for *Dalbergia odorifera* is recorded in the sources retrieved for this pass, and no named scholarly source (Unschuld, Stanley-Baker, Yang Shou-zhong) was consulted for this species. It therefore carries a therapeutic status only, not a cultivation status. No *jing*, *qi* or *shen* assignment is asserted, and no *yang sheng* use is attested. Any neidan or incense-practice use is an overlay cultivators bring, not a *bencao* category. Whether this wood belongs to the Shennong (*Bencao*) stratum at all is doubtful and is flagged for recoding review (SBJ vs TCM).
+
+**Tibetan Medicine (FMT).** Absent. The tag line records that the canonical index attests the rGyud-bzhi, but no Tibetan source text for this species was retrieved, and the entry body states only that fragrant *Dalbergia* heartwoods are used among aromatic Blood-moving woods in a "broader Himalayan-Chinese materia medica". The rGyud-bzhi frame (three *nyes pa* rooted in the three poisons; medicine as a supporting branch) is context only. No *bcud len* use and no subtle-body practice role is attested for this species.
+
+**Practitioner's note.** There is no attested cultivation use. A cultivator's real engagement with this wood is attentive sourcing: *D. odorifera* is a protected, heavily traded timber species, so provenance and legality are the practical questions, ahead of any use as medicine or incense. Nothing here supports regular or long-term use for practice.
+
 ### Contraindications
 
 - **Bleeding without stasis; Yin-deficiency bleeding:** the "stop bleeding by moving Blood" action applies to *stasis-type* bleeding — it is inappropriate (and potentially worsening) for heat- or deficiency-type haemorrhage, where it may increase bleeding.

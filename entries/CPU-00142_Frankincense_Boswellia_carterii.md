@@ -111,6 +111,14 @@ Moussaieff et al. (2008, *FASEB Journal*) demonstrated that incensole acetate, a
 
 ---
 
+### Cultivation Register
+
+**Greco-Roman / Dioscorides (DMM).** Dioscorides is not attested here as assigning frankincense any cultivation status, and his text has no subtle-body or vital-constitution system to assign one from; none is manufactured. The tradition's frame for this substance is therapeutic and observational (resin, soot and bark graded by provenance and quality, with a recorded dose caution), which is a discipline of attention to provenance, grade and adulteration rather than a doctrine of cultivation. The sources retrieved for this pass did not include the primary text; the entry's own Origin section is the only record of what Dioscorides says, and it states no cultivation claim.
+
+**Tibetan Medicine (FMT).** Framed, not attested. In the rGyud-bzhi the three *nyes pa* (*rlung*, *mkhris pa*, *bad kan*) are rooted in the three poisons, so pathology is at root a spiritual condition, and medicine is the third of four treatment branches that supports practice without reaching its root. The entry's body places *spos dkar* inside this frame (smoke-offering, *bsang*, and cooling compounds). No *bcud len* (essence-extraction) use and no subtle-body practice role for this species is attested in the sources retrieved, and the Tibetan tradition has no formal category of "substances for subtle-body practice"; it therefore carries a therapeutic and ritual-smoke status only, not a cultivation status.
+
+**Practitioner's note.** Nothing in the two tagged traditions makes frankincense a long-term cultivation substance. What a cultivator can honestly do is source it with attention (species, provenance, grade, adulteration) and use it as the entry's own sections describe, as a medicine or as ritual smoke in ventilated space. The Egyptian, Assyrian, Hebrew, Unani and Chinese material in the body is not on this entry's tag line and is deliberately not given a cultivation paragraph here.
+
 ### Contraindications
 
 - **Pregnancy:** traditional sources class frankincense as emmenagogue/uterine-stimulant in quantity; therapeutic-dose supplementation is best avoided in pregnancy absent supervision. Ritual ambient fumigation is a separate, low-exposure matter but pregnant practitioners with respiratory sensitivity should ensure ventilation.

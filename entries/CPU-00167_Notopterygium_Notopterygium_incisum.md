@@ -61,6 +61,14 @@ Evidence grade: **preclinical.** The anti-inflammatory mechanism is well charact
 - **Dantian affiliation:** **upper** — directional affinity for the upper body and channels of the head, neck and shoulders.
 - **Kenetica Qi/Shen tier:** ⊕ **Yang** — on the warming, dispersing, exterior-opening, channel-unblocking axis.
 
+### Cultivation Register
+
+**Chinese, Shennong stratum (SBJ).** No *san pin* 三品 grade (upper 上品, middle 中品 or lower 下品) is recorded for *Notopterygium incisum* in the sources retrieved for this entry, so it carries no cultivation status in this tradition, only a therapeutic one: a warming, exterior-releasing, anti-*bi* 痺 root. No *yang sheng* 養生 (nourishing-life) use, and no action on *jing*, *qi* or *shen*, is attested for it here. The entry's own description of Qiāng Huó (the *tai-yang* channel, the upper-body direction, the pairing with Du Huo) reads as a later, post-classical account, not the earliest *bencao* stratum (see flag).
+
+**Tibetan (FMT).** In the Tibetan frame, illness is rooted in the three poisons through the three *nyes pa*, and medicine is the third of four treatment branches: it supports practice and does not reach the root. *Notopterygium incisum* is framed here only as a warming plateau anti-obstruction herb. No *bcud len* (essence-extraction) use and no substance-for-practice status is attested for it in the sources retrieved, and the tradition has no formal category of substances for subtle-body practice.
+
+**Practitioner's note.** Nothing in the retrieved sources makes this a cultivation substance in either tradition. A cultivator uses it, if at all, as a short-course, practitioner-guided remedy for cold-damp stiffness of the neck and shoulders, then stops. There is no long-term or nourishing-life use to build on.
+
 ### Contraindications
 
 - **Yin deficiency / blood deficiency with heat (CM).** An acrid-warm, drying, dispersing herb is inappropriate where there is heat or dryness from deficiency; it can aggravate.

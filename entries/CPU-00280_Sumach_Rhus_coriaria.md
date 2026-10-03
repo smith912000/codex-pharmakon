@@ -60,6 +60,14 @@ The genuinely modern layer is glycaemic and lipid support: pooled trial evidence
 - **TCM:** Not classically used — omit.
 - **Ayurvedic:** Not a classical dravya of the Sanskrit materia medica — omit.
 
+### Cultivation Register
+
+**Unani / Avicenna (CM).** The tradition's central cultivation idea is the finite endowment of innate heat (*al-ḥarāra al-gharīziyya*) and radical moisture (*al-raṭūba al-aṣliyya*), where ageing is their depletion and longevity practice is conservation, not acquisition. This entry attests *summāq* as cold and dry in the second degree and a strong astringent (*qābiḍ*), used for flux, bleeding and relaxed gums. No source retrieved assigns it a role in conserving innate heat or radical moisture, or in strengthening the *ruh*, so it carries no cultivation status in this tradition, only a therapeutic one. No *mufarrih* classification is made, since that belongs to the cardiac-drugs treatise and not to the *Canon*.
+
+**Greek, Dioscorides (DMM).** Dioscorides offers no subtle-body system and none is supplied here. What *rhous* offers a cultivator is his discipline of attention: separating the culinary sumach from the tanner's, and judging the substance by provenance and sensory assay. He records astringent uses (flux, bleeding, sores, mouth wash), which are therapeutic and carry no cultivation status.
+
+**Practitioner's note.** There is nothing to cultivate with this in the subtle sense. It is a food seasoning and an astringent, taken in culinary amounts, and the attentive practice is correct identification and sourcing (not poison sumac).
+
 ### Contraindications
 
 - **Anacardiaceae family** — related to poison ivy/oak/sumac (*Toxicodendron*) and to cashew/mango; *R. coriaria* is the edible, non-urushiol culinary sumach, but genuine tree-nut/Anacardiaceae-sensitive individuals should approach with caution. (Do **not** confuse with toxic North American *Toxicodendron vernix*, "poison sumac.")

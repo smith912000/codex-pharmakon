@@ -68,6 +68,14 @@ Attribution: findings from PubMed.
 
 **Gaṇa membership (Sushruta):** Head of **Vidārigandhādi gaṇa**; component of **Laghupañcamūla** → **Daśamūla**.
 
+### Cultivation Register
+
+**Avicenna / Unani (CM).** No cultivation framing is attested in this entry. The tag line lists CM, but the entry body contains no Avicennan or Unani material for this species: no temperament, no degree, no statement about innate heat, radical moisture or the *ruh*. A cultivation status cannot be written for a tradition whose content is not on the page, and none is supplied here. The CM tag is flagged for review against its source.
+
+**Ayurveda (SS).** The substance is attested in Sushruta, and the attestation is therapeutic, not a cultivation status. The evidence row SS-S38-001 (*Sushruta Saṃhitā*, Sūtra 38, p. 342, Bhishagratna 1907, Vol. I) lists Vidārigandhā at the head of the Vidārigandhādi group, which is said to subdue deranged Vāyu and Pitta and to benefit phthisis, *gulma*, aching of the limbs, *ūrdhva-śvāsa* and cough. That is a group classification by indication. The row assigns no *rasāyana* or *vājīkaraṇa* status, and no *ojas* action, to this species. The entry's own *rasāyana* label (see Traditional Energetic Classification) rests on no named source for this species in the sources retrieved (Sushruta, Charaka, Meulenbeld), so it is carried here as unattested. Whether *Desmodium gangeticum* is formally a *rasāyana* drug is therefore an open question, not a finding. Per the specification, *sattva/rajas/tamas* are Samkhya categories and are not applied here.
+
+**Practitioner's note.** Nothing in the retrieved sources supports treating this root as a rejuvenative to be taken for cultivation. What is attested is a place in a Vāta-Pitta-pacifying group of drugs and in the *Daśamūla* family of formulae, used for stated complaints under qualified guidance. A cultivator's practical answer is to use it, if at all, as a therapeutic root for a defined complaint, and to leave out any long-term "building" claim until a named source for this species is found.
+
 ### Contraindications
 
 - Generally well-tolerated in classical doses. As a heavy, sweet, unctuous, building root, use cautiously in significant Kapha excess, marked *āma* (undigested metabolic toxin) / low agni, or where a strongly cleansing rather than nourishing action is required.
