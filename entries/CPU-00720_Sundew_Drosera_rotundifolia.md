@@ -2,7 +2,8 @@
 
 ## *Drosera rotundifolia* L. | Family: Droseraceae
 
-**Tradition Tags:** DMM, CM
+**Tradition Tags:** CM, EF
+**Tags (previous line, retained for reference):** DMM, CM
 
 **Energetic Classification:** Cool and moist by habitat, warm and dispersing by action — a plant of the wettest ground used against the wettest complaint. Acrid; the fresh plant is a vesicant.
 

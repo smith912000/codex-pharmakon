@@ -2,7 +2,8 @@
 
 ## *Teucrium fruticans* L. | Family: Lamiaceae
 
-**Tradition Tags:** AT, DMM, CM
+**Tradition Tags:** DMM, CM
+**Tags (previous line, retained for reference):** AT, DMM, CM
 
 **Energetic Classification:** Bitter, dry, cooling-to-neutral; downward and clearing in action, with a drying astringency in the leaf
 
@@ -79,8 +80,6 @@ The Consolidation placement reflects the phase where practitioners have enough d
 | Kenetica axis | Bitter-clearing, with a **hepatic red line** overriding the axis |
 
 ### Cultivation Register
-
-**Assyrian (AT).** *Teucrium fruticans* is a shrub of the western Mediterranean — Iberia, southern France, Italy, Sicily, North Africa — outside the geographic and textual reach of the Mesopotamian cuneiform materia medica, and no *asû* or *āšipu* prescription can be tied to this species. Illness in the Assyrian corpus is classified by causal agency (divine hand, ghost, oath), and a substance is partly defined by which agency it opposes; nothing of the sort is recorded for this plant. Under the standing blocking warning in force for every Assyrian substance identification and tablet reference, no cultivation status is claimed. **(c) absent.** (See attestation flag: the "AT" tag on this entry is used in the local sense "Applied Tradition / modern ethnobotanical," not the canonical Assyrian code, and the modern ornamental-aromatic material carries no cultivation framing either.)
 
 **Greek — Dioscorides (DMM).** The germanders reach the Greek herbal as *khamaidrys* (χαμαίδρυς, "ground-oak"), read as a bitter of incision that cuts and thins stagnant humours of the belly and liver-region; *T. fruticans* is carried along only as a regional shrubby substitute where it grows, its doctrine borrowed wholesale from the genus rather than attested for the species. Dioscorides assigns no subtle-body system that could give any germander a cultivation status — *pneuma* is context, and the Galenic three spirits are later and post-Dioscoridean. What the tradition genuinely offers a cultivator here is his discipline of attention: correct gathering of the aromatic aerial parts, sensory assay of the bitterness, and guarding against the substitution of one *Teucrium* for another — a real practice of provenance and judgement, sharpened in this case by the genus's hepatic hazard. **(c) absent** as to cultivation status.
 

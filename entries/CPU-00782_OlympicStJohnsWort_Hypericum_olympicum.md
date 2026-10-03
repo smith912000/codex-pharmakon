@@ -2,7 +2,8 @@
 
 ## *Hypericum olympicum* L. | Family: Hypericaceae
 
-**Tradition Tags:** DMM, CM
+**Tradition Tags:** DMM, EF
+**Tags (previous line, retained for reference):** DMM, CM
 
 **Energetic Classification:** Bitter, resinous-aromatic, faintly astringent; cool-drying. A mountain Hypericum carrying the genus wound/light/nervine doctrine — but standing on its own genuine claim: it is the source plant of a notable anti-MRSA phloroglucinol.
 

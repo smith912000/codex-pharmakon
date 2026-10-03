@@ -2,7 +2,8 @@
 
 ## *Clinopodium alpinum* (L.) Kuntze (syn. *Acinos alpinus* (L.) Moench) | Family: Lamiaceae
 
-**Tradition Tags:** DMM (Dioscoridean/Mediterranean Materia Medica), CM (Continental/Central European Mountain folk practice)
+**Tradition Tags:** DMM, EF
+**Tags (previous line, retained for reference):** DMM (Dioscoridean/Mediterranean Materia Medica), CM (Continental/Central European Mountain folk practice)
 
 **Energetic Classification:** Warm, dry, aromatic-dispersing — but see Scientific Correlation: the degree of warmth conventionally assigned to this plant rests on a chemical assumption that the retrieved data does not support.
 
@@ -100,7 +101,7 @@ Filed energetically alongside thyme rather than alongside pennyroyal. The reclas
 
 **Greek / Dioscorides (DMM).** No cultivation framing is attested, and the species itself is not named. Dioscorides has no subtle-body system. His *akinos* (3-50) and *okimoeides* (4-28) (Osbaldeston & Wood 2000) are matched by the translators to *Acinos* only at genus level, and the recorded uses are therapeutic: a drink to stop intestinal and menstrual discharges, applications for skin and eye conditions, a seed decoction for snakebite. Applying them to *Acinos alpinus* is a congener inference, not an attestation. His real offering to a cultivator is a discipline of attention to provenance and identification.
 
-**Avicenna / Unani (CM).** No cultivation framing is attested. The entry glosses this tag as Central European mountain folk practice, which is not the Unani / Avicenna tradition the code denotes, and no Avicennan text naming this plant was available to check. Neither Avicennan nor Unani material is claimed here. The entry's own regional content is a modest digestive tea, which is therapeutic only.
+**European folk / phytotherapy (EF).** The species' own attestation is regional and modest: a mountain herb tea gathered in the Alps, Carpathians, Dinarides and Anatolian highlands, drunk after heavy food as a carminative and stomachic, occasionally as a mild expectorant and throat rinse, and used as a domestic aromatic and strewing herb. The folk record is oral and poorly documented, and the entry treats it as a pleasant digestive tea with no evidence of therapeutic potency. The material is therapeutic only, so the claim sits at (b): no cultivation status is attested in these sources.
 
 **Practitioner's note.** Nothing. It is a pleasant aromatic tea with no cultivation status, and the entry's own caution about thin data applies.
 

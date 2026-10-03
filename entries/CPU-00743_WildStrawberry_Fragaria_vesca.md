@@ -2,7 +2,8 @@
 
 ## *Fragaria vesca* L. | Family: Rosaceae
 
-**Tradition Tags:** DMM, CM
+**Tradition Tags:** CM, EF
+**Tags (previous line, retained for reference):** DMM, CM
 
 **Energetic Classification:** Leaf/root — cool, dry, astringent (binding). Fruit — cool, moist, sweet-acid, nutritive.
 

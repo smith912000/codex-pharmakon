@@ -2,7 +2,8 @@
 
 ## *Vigna unguiculata* (L.) Walp. | Family: Fabaceae (Leguminosae)
 
-**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tradition Tags:** DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** EP, AT, DMM, CM, SBJ, SS
 **Tags (previous line, retained for reference):** FMT (West African foodways · canonical) · SS (Ayurvedic pulse category) · AT (Unani grain-legume dietetics) · EP (Greco-Roman *dolichos*/*phaselos* legume group) · DMM (Dioscoridean pulse chapter, genus-level) · BM (Biblical/Levantine pulse tradition)
 
 **Energetic Classification:** Galenic — warming-to-neutral, drying in the second degree (dry pulse; the fresh pod cooler and moister). Ayurvedic — *madhura/kashaya* (sweet-astringent), *laghu* (light), mildly *vata*-provoking when dry, *kapha*-neutral.
@@ -77,10 +78,6 @@ According to PubMed, the modern evidence base treats cowpea primarily as a funct
 - **TCM tier (no canonical *bencao* entry):** Not a classical Chinese materia medica substance; by analogy to the Chinese dietary-therapy treatment of related beans, it would read as a spleen-supporting, dampness-moderating grain-legume. Recorded here as *non-canonical / analogical only* — no fabricated *bencao* citation.
 
 ### Cultivation Register
-
-**Egyptian (EP).** No cultivation framing is attested for the cowpea in the Egyptian record; that corpus is indication-organised and the identification of any specific Old-World *Vigna* within it is a modern hypothesis. Status: (c) absent.
-
-**Assyrian (AT).** Under the blocking warning for Mesopotamian identifications, no cultivation status is claimed for cowpea-type pulses; they belong to the grain-legume food economy, and nothing retrieved assigns them a role in the person's vital constitution. Status: (c) absent.
 
 **Greek (DMM).** The classical *dolichos/phaselos* pulse group is real, but which ancient bean is *Vigna unguiculata* is contested in the philological literature, and Dioscorides in any case has no subtle-body system into which a cultivation status could be placed. What the tradition offers is a discipline of attention to the pulse — its preparation and its binding, nourishing character — not a vital doctrine. Status: (c) absent.
 

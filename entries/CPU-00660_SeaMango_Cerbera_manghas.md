@@ -2,7 +2,8 @@
 
 ## *Cerbera manghas* L. | Family: Apocynaceae
 
-**Tradition Tags:** CM, SS
+**Tradition Tags:** CM
+**Tags (previous line, retained for reference):** CM, SS
 **Energetic Classification:** Cold, sinking, killing — a *toxic descending* agent; not a therapeutic category
 **Training Phase:** ⛔ **NONE — Excluded from all phases. Reference and identification entry only.**
 

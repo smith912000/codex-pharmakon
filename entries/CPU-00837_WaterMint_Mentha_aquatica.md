@@ -1,7 +1,8 @@
 # Water Mint — Menta Acquatica / Marsh Mint / Wild Water Mint
 ## *Mentha aquatica* L. — Water Mint, Marsh Mint, Hairy Mint; native names: Latin *mentha aquatica*, Greek *hēdýosmos* (of the *mínthē* group), Arabic *na'na' mā'ī* ("water mint"), Italian *menta acquatica* | Family: Lamiaceae
 
-**Tradition Tags:** EP, AT, DMM, CM
+**Tradition Tags:** EP, DMM, CM
+**Tags (previous line, retained for reference):** EP, AT, DMM, CM
 
 **Energetic Classification (Galenic/Unani):** Warm in the second degree, Dry in the second-to-third degree (*ḥārr yābis*) — a warming, opening carminative whose cool sensation on the tongue belies a heating digestive action
 
@@ -82,8 +83,6 @@ Synthesis: the warming–cooling paradox is vindicated at the receptor level (TR
 ### Cultivation Register
 
 **Egyptian (EP).** Egyptian medicine used aromatic mints for settling the belly, for carminative purposes and in fragrant compounds, but the corpus is indication-organised and — as the entry states — *M. aquatica* cannot be assigned from the papyri, so the tag denotes a genus-level digestive/aromatic tradition rather than a water-mint monograph. No *heka* recitation, no *ka*/*ib* framing, and no vital-constitution status is recorded for this species. Cultivation status: **(c) absent.**
-
-**Assyrian (AT).** Aromatic mints figured in the Mesopotamian pharmacological and culinary world as stomachic and strewing herbs, and several aromatic-herb entries occupy this functional space in the cuneiform lists. But the standing blocking warning is in force for every Assyrian substance identification, no secure species-level attestation of *Mentha aquatica* exists, and nothing assigns the plant a status touching a person's vital constitution as opposed to a digestive complaint. **(c) absent.**
 
 **Greek — Dioscorides (DMM).** Dioscorides treats the mints (*hēdýosmos* / *mínthē*) as warming, drying aromatics that strengthen the stomach, stop hiccough and vomiting, dispel flatulence and stir the appetite — a clear therapeutic account, and one carrying no subtle-body system into which a cultivation status could be placed. What the tradition offers a cultivator is his discipline of attention: recognising the aromatic mint by scent and habit and knowing the warming, drying character behind its deceptively cool taste. That is sensory assay and provenance, not a vital-body doctrine. **(c) absent** as to cultivation status.
 

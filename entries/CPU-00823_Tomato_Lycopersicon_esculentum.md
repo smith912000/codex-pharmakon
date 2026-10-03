@@ -2,7 +2,8 @@
 
 ## *Solanum lycopersicum* L. (= *Lycopersicon esculentum* Mill.) | Family: Solanaceae
 
-**Tradition Tags:** SBJ, BM
+**Tradition Tags:** BM
+**Tags (previous line, retained for reference):** SBJ, BM
 **Energetic Classification:** Cooling, moistening, sweet-sour; blood-thinning and gently cleansing
 **Training Phase:** Foundation (nourishing, everyday substance; not an operative agent)
 

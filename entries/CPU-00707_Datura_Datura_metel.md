@@ -4,7 +4,8 @@
 
 > ⚠️ **CLASS: DELIRIANT POISON — NOT FOR SELF-ADMINISTRATION.** *Datura metel* contains potent tropane alkaloids (scopolamine, atropine, hyoscyamine). All parts are toxic. Ingestion causes anticholinergic delirium, hyperthermia, seizures, and death. **This entry is documentary and doctrinal only. The Codex prescribes NO internal-use protocol. Do not prepare, dose, or ingest.**
 
-**Tradition Tags:** AT, CM, DMM, SA, SBJ, SS
+**Tradition Tags:** AT, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** AT, CM, DMM, SA, SBJ, SS
 **Energetic Classification:** Galenic — hot and dry in the third-to-fourth degree (a poison-grade drug); Unani *har-yabis* (extreme); TCM warm, acrid, **toxic** (*du*), lung/liver channels
 **Training Phase:** Restricted / Doctrinal — no practitioner-use phase assigned
 
@@ -73,8 +74,6 @@ According to PubMed:
 **Greek (DMM).** Dioscorides has no subtle-body system to assign, and *Datura metel* is not securely his plant — the Mediterranean deliriant Solanaceae he described (henbane, mandrake, *strychnos*) are analogues, not this species. What his tradition offers a cultivator is a discipline of attention: provenance, sensory assay, the recording of a poison's action while distancing from its use. For dhattura that discipline resolves into caution alone. (c) absent for any cultivation framing.
 
 **Assyrian (AT).** Under the standing blocking warning in force for every Mesopotamian substance identification, deity attribution and tablet reference, no secure cuneiform identification of *Datura metel* can be asserted — and no cultivation status can be built on an unsecured identity. (c) absent.
-
-**South American (SA).** ⚠️ This tag appears to be a mis-tag. *Datura metel* is an Old-World species; the New-World *dieta* and teacher-plant tradition attaches to the American daturas (*D. stramonium*, *D. innoxia*, *D. wrightii*) and to *Brugmansia*, not to *D. metel*. No South American cultivation framing is attested for this species, and the SA tag should be removed or reassigned to the New-World datura entries. (c) absent — flagged mis-tag.
 
 **Practitioner's note.** Nothing here is cultivated with. Across every tradition that genuinely holds it, *Datura metel* is a bounded poison: the Ayurvedic answer is *shodhana* under specialist control, the Chinese and Unani answer is minimal, dose-restricted or external therapeutic use, and the cultivator's answer is abstention. The plant teaches containment — the sacred gate that is not opened. Do not prepare, dose, or ingest by any route.
 

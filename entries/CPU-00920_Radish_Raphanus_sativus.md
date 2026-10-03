@@ -2,7 +2,8 @@
 
 ## *Raphanus sativus* L. | Family: Brassicaceae
 
-**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tradition Tags:** AT, DMM, CM, SBJ, SS, EF
+**Tags (previous line, retained for reference):** EP, AT, DMM, CM, SBJ, SS
 **Tags (previous line, retained for reference):** EP (European Phytotherapy) · DMM (Dioscoridean Materia Medica) · CM (Chinese Materia Medica) · SS (South Asian / Unani-Ayurvedic) · FMT (Folk & Culinary Traditions) · BM (Biomedical)
 
 **Energetic Classification:** Galenic — hot and dry in the second/third degree (pungent, cutting, attenuating); TCM — the seed (莱菔子 *lái fú zǐ*) acrid, sweet and neutral, entering Lung, Spleen and Stomach, downbearing qi and dissolving accumulation.
@@ -80,9 +81,9 @@ According to PubMed, a review of black radish (*Raphanus sativus* L. var. *niger
 
 **Dioscoridean / Greek (DMM).** *Raphanís* is a fixed Dioscoridean drug — hot, pungent, attenuating, emetic, digestive, the seed sharper than the root — but a therapeutic one, with no subtle-body system behind it. The lineage's offering to a cultivator is its discipline of attention (grading root against the more active seed). **(c)** for cultivation status.
 
-**Egyptian (EP).** The famous claim that radishes (with onion and garlic) fed the pyramid workers descends from Herodotus (*Histories* 2.125) — a classical *Greek* report of Egyptian labour diet, not an Egyptian cultivation text. Presence in the ration is diet and provisioning, not a *heka* framing of the person's vital constitution. **(c)** absent — dietary presence is not cultivation status.
-
 **Assyrian (AT).** No secure Assyrian cultivation framing is retrievable, and the standing blocking warning applies to any substance identification and tablet reference. **(c)** absent.
+
+**European folk / phytotherapy (EF).** European herbalism received the radish through the Dioscoridean account: a pungent digestive, expectorant, diuretic and antiscorbutic, with black-radish juice a folk staple for the liver, gallbladder and cough, and radish-and-honey syrup still a household cough remedy. The root is also the appetiser eaten before or with a meal to open the digestion. These are therapeutic and dietary uses, so the claim sits at (b): the entry's European material records what was done with the plant and attests no cultivation status for it, and none is asserted here.
 
 **Practitioner's note.** The radish is a mover, not a nourisher, and nothing in any tradition supports cultivation-through-tonification with it. What a cultivator actually does is use it to clear the food- and phlegm-stagnation that smothers the digestive fire — and the Chinese caution against pairing it with ginseng is the standing reminder to keep movers and holders apart.
 

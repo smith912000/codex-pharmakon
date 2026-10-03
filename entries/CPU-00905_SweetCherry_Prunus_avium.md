@@ -2,7 +2,8 @@
 
 ## *Prunus avium* (L.) L. | Family: Rosaceae
 
-**Tradition Tags:** DMM, CM, SBJ
+**Tradition Tags:** DMM, CM, EF
+**Tags (previous line, retained for reference):** DMM, CM, SBJ
 
 **Energetic Classification:** Fruit — sweet, cool, moist, nutritive and gently descending. Stalk (peduncle) — bland-astringent, cool, dry, downward and draining through the water passages.
 
@@ -105,7 +106,7 @@ Adequate fluid intake must accompany any diuretic-intent tea.
 
 **Unani — Avicenna (CM).** In the Greco-Arabic humoral continuum the sweet cherry is a cold-and-moist nutritive fruit of the summer table, a cooling dietetic item rather than a drug of the *Canon*; the transmission that actually reaches this entry is Galenic and European-folk, and no distinctly Avicennan cultivation account of *P. avium* was retrieved. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture as a finite vital endowment — is a longevity frame of the whole regimen, not a status assigned to a cooling seasonal fruit, and no *mufarrih* or cardiac-*ruh* role is claimed. Used dietetically, no cultivation status recorded. **(b) framed.** (See attestation flag: the CM tag on this species may be better coded EF, European folk.)
 
-**Chinese — Shennong / Bencao (SBJ).** *Prunus avium* is the European wild gean; the cherries of the classical Chinese materia medica are other *Prunus* species (the Chinese cherry, *P. pseudocerasus*, and relatives), and no *Bencao* attestation of this European species was retrieved. It therefore has no *san pin* 三品 grade — upper 上品, middle 中品 or lower 下品 — recorded in the Chinese sources, and nothing within *yang sheng* 養生 attaches to it. **(c) absent.** (See attestation flag: the "SBJ" heading in this entry is used in the local sense "Signature, Bath & Domestic Register" — a European domestic-register frame, likely EF — not the canonical Shennong/Bencao code, and that European folk material carries no cultivation status either.)
+**European folk / phytotherapy (EF).** The European and Anatolian material records two uses. The fruit is a cooling summer food. The discarded stalk is brewed as a bland, faintly astringent tea, sold dried in herb shops across France, Iberia, Italy, the Balkans and Turkey, for increasing urine flow, water retention, gravel and cystitis, taken as a household remedy for a short course in summer. These are therapeutic and domestic uses, so the claim sits at (b): no cultivation status is attested, and the diuretic claim itself remains undemonstrated.
 
 **Practitioner's note.** The honest cultivation answer is behavioural and dietetic, not vital. Across the traditions tagged, a cultivator eats the fresh fruit as a cooling summer food and, in the European and Anatolian domestic register, brews the discarded stalk as a bland drying uroflow tea through a short course of days — neither of which is a longevity or vital-building practice, and the diuretic claim itself is ethnobotanically ubiquitous but pharmacologically undemonstrated. Eat the fruit, brew the stalk, discard the kernel; expect a food and a mild habitual tea, not a cultivation substance.
 

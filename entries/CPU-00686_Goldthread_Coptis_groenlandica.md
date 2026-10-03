@@ -2,7 +2,8 @@
 
 ## *Coptis trifolia* (L.) Salisb. (syn. *C. groenlandica* (Oeder) Fernald) | Family: Ranunculaceae
 
-**Tradition Tags:** SBJ ⚠️, BM
+**Tradition Tags:** SBJ, EF
+**Tags (previous line, retained for reference):** SBJ ⚠️, BM
 
 **Energetic Classification:** Cold, dry, bitter — a cooling bitter of the mouth and stomach; "drying" in the folk-Galenic register
 

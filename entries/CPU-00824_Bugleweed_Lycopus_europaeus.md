@@ -2,7 +2,8 @@
 
 ## *Lycopus europaeus* L. | Family: Lamiaceae
 
-**Tradition Tags:** DMM, CM
+**Tradition Tags:** EF
+**Tags (previous line, retained for reference):** DMM, CM
 **Energetic Classification:** Cooling, drying, bitter-astringent; sedative and "quieting to the heart"
 **Training Phase:** Operative (a genuine endocrine-active herb — used deliberately, not casually)
 

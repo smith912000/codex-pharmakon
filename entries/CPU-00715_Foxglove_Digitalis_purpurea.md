@@ -2,7 +2,8 @@
 
 ## *Digitalis purpurea* L. | Family: Plantaginaceae
 
-**Tradition Tags:** DMM, CM [USER: verify — both attestations are doubtful; see Origin & Tradition]
+**Tradition Tags:** DMM
+**Tags (previous line, retained for reference):** DMM, CM [USER: verify — both attestations are doubtful; see Origin & Tradition]
 **Energetic Classification:** Cold, Dry — slowing, contracting, water-moving (Northern European folk framing). No defensible classical humoral assignment.
 **Training Phase:** Study Only — Phase Ø. Never used in Kenetica practice. Included because this plant is the origin story of the method this codex is written in.
 

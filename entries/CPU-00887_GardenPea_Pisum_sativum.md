@@ -2,7 +2,8 @@
 
 ## *Pisum sativum* L. | Family: Fabaceae
 
-**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tradition Tags:** AT, DMM, CM, SBJ, TCM, SS, EF
+**Tags (previous line, retained for reference):** EP, AT, DMM, CM, SBJ, SS
 **Tags (previous line, retained for reference):** EP (European Phytotherapy) · DMM (Dioscoridean Materia Medica) · CM (Chinese Materia Medica) · SS (South Asian / Siddha-Ayurvedic food-medicine) · FMT (Folk & Monastic Traditions) · BM (Biomedical)
 
 **Energetic Classification:** Galenic — cool and moist in the first degree, nourishing and mildly demulcent; TCM — sweet (甘) and neutral, entering Spleen and Stomach, harmonising the Middle Burner.
@@ -80,8 +81,6 @@ According to PubMed, a review of the health benefits of peas (Dahl, Foster & Tyl
 
 ### Cultivation Register
 
-**Egyptian / European tag (EP).** This entry glosses EP as European phytotherapy, while the Codex codebook reads EP as Egyptian; under either reading no cultivation status attaches to the pea. The European material is dietary *culture* — Lenten and monastic pease-pottage, the physic-garden bed, the cloister as its emblematic setting — not a subtle-body or longevity assignment. The Egyptian corpus, indication-organised and framed by *heka*, does not carry the pea with any vital-constitution status at all. (c) absent either way.
-
 **Assyrian (AT).** Under the blocking warning in force for cuneiform substance identifications, no cultivation status can be assigned to the pea. Mesopotamian medicine framed a plant by the causal agency it opposed rather than by any action on a vital constitution, and no such framing for the pea is securely attested. (c) absent.
 
 **Greek / Dioscorides (DMM).** Peas sit within the classical family of *legumina*, valued as a temperate, easily digested pulse appropriate for the sick — a temperament-and-indication reading. Dioscorides' system holds no subtle-body scheme from which a cultivation status could be drawn, so none exists to assign. What the Greek stream offers a cultivator is the discipline of attention: sound provenance, proper cooking, honest judgement of the pulse. (c) for cultivation status.
@@ -91,6 +90,8 @@ According to PubMed, a review of the health benefits of peas (Dahl, Foster & Tyl
 **Chinese (TCM).** The pea (*wān dòu* 豌豆) is a recognised dietary food-medicine — sweet, neutral, entering Spleen and Stomach, harmonising the Middle Burner and fortifying the acquired constitution (後天). This is a *yang sheng*–adjacent, conservational register, but no *san pin* 三品 grade is recorded for it in the sources retrieved; it therefore carries a dietary/therapeutic status, not an attested cultivation grade. (b) framed.
 
 **Ayurveda (SS).** In the dietary corpus the pea is cooling, drying and astringent (*kashaya*), and *balya* — strength-giving — when well-cooked with fats and warming spice. *Balya* is a food quality, not a *rasayana* (rejuvenation) or *vajikarana* status, and no such cultivation assignment is attested for the pea; the sattvic/rajasic food lists are post-Sushrutan and are not imported. (b) framed.
+
+**European folk / phytotherapy (EF).** The entry records dried peas as the backbone of the medieval and early-modern Lenten and monastic table, regarded by herbalists and household physicians as a gently cooling, moistening nourishment for the thin, the feverish and the convalescent, and pease-flour poultices as a domestic emollient for inflamed skin and swellings. That is a dietary and therapeutic framing. No cultivation status is attested for the pea in this tradition in the sources retrieved; the monastic table and the physic-garden bed are context, not a grade. Cultivation status: **absent**.
 
 **Practitioner's note.** The pea is eaten, not cultivated-with: a Foundation-phase food for rebuilding the depleted and steadying the Middle. Its nearest cultivation-adjacent notes — the Chinese fortifying of the acquired constitution, the Ayurvedic *balya* quality — are dietary strengthening, not a longevity grade or a subtle-body practice, and are honestly left at that level.
 

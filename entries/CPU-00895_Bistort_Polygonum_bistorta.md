@@ -2,7 +2,8 @@
 
 ## *Polygonum bistorta* L. (*Bistorta officinalis* Delarbre) | Family: Polygonaceae
 
-**Tradition Tags:** DMM, CM, SBJ
+**Tradition Tags:** DMM, CM, TCM
+**Tags (previous line, retained for reference):** DMM, CM, SBJ
 
 **Energetic Classification:** Strongly astringent, cool, dry; binding and contracting, downward and inward — the archetypal European binder
 

@@ -2,7 +2,8 @@
 
 ## *Panicum miliaceum* L. | Family: Poaceae
 
-**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tradition Tags:** EP, AT, DMM, SBJ, TCM, SS
+**Tags (previous line, retained for reference):** EP, AT, DMM, CM, SBJ, SS
 **Tags (previous line, retained for reference):** CM (Chinese materia medica — Shu Mi / grain-medicine) · SS (Ayurvedic grain dietetics) · DMM (Graeco-Roman *milium*) · EP (ancient Near-Eastern staple) · FMT (Folk European/Slavic) · BM (Biomedical)
 
 **Energetic Classification:** TCM — sweet (甘) and slightly salty, cooling to neutral (traditionally cooling when unhusked, warming when cooked/aged); enters Spleen, Stomach and Kidney. Ayurvedic — sweet *rasa*, cooling-to-neutral, kapha-increasing when heavy, but light varieties astringent and drying.
@@ -73,8 +74,6 @@ According to PubMed, research on proso millet focuses on its glycaemic behaviour
 **Ayurveda (SS).** Millet is placed in the *dravyaguna* of grains as *laghu* (light), drying and astringent-sweet — a general grain-category placement, not a substance-specific cultivation assignment. No *rasayana* (rejuvenation) or *vajikarana* status is attested for *Panicum miliaceum* in the sources retrieved; it carries a dietetic identity, not a cultivation one. (b).
 
 **Graeco-Roman / Dioscoridean (DMM).** Dioscorides has no subtle-body system, and none is manufactured here. What the tradition offers a cultivator is a discipline of attention: *milium* (κέγχρος) is assayed as a cool, dry, binding grain, dry-roasted as a warming poultice and eaten as a gentle convalescent porridge. That is a therapeutic and dietetic reading, not a cultivation status — (c), absent by the tradition's own design.
-
-**Unani / Avicennan (CM).** No cultivation status is attested for millet in this register in the sources retrieved. The Unani frame in which such a status would sit — the conservation of innate heat and radical moisture as a finite vital endowment — is not invoked for this grain here, and it would be fabrication to assert it. (c).
 
 **Egyptian (EP).** No cultivation framing is attested. The Egyptian and Near-Eastern record places millet as an ancient staple and famine-grain within the grain economy, not within any account of what the grain does to the person's vital constitution; the corpus is indication- and provision-organised. There is no *heka* attribution for it. (c).
 

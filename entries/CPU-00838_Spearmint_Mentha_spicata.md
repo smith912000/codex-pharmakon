@@ -2,7 +2,8 @@
 
 ## *Mentha spicata* L. | Family: Lamiaceae
 
-**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tradition Tags:** EP, DMM, CM, TCM, SS
+**Tags (previous line, retained for reference):** EP, AT, DMM, CM, SBJ, SS
 **Tags (previous line, retained for reference):** DMM (Dioscoridean/Graeco-Roman) · SBJ (Unani/Tibb) · AT (Ayurveda) · CM (Chinese Materia Medica, allied mint) · FMT (Folk & Magico-Traditional) · BM (Biomedicine)
 **Energetic Classification:** Galenic/Unani — warm and dry in the second degree; aromatic, carminative, stomachic. TCM (allied *bò he*) — acrisweet, cool, aromatic; Lung/Liver (surface-releasing, qi-moving).
 **Training Phase:** Digestive-clearing · Cooling-aromatic · Hormonal-balancing
@@ -63,8 +64,6 @@ According to PubMed, Grant (2010, *Phytotherapy Research*) conducted a 30-day, t
 ### Cultivation Register
 
 **Egyptian (EP).** Spearmint is tagged but the Egyptian corpus is indication-organised, and pinning a specific mint to a pharaonic prescription is a modern hypothesis, not a secure reading. No cultivation framing is attested, and no *heka* operation binds this herb to a named intervention in the sources retrieved. **(c) absent.**
-
-**Assyrian (AT).** The blocking warning on substance identification and tablet reference is in force. Nothing in the retrieved cuneiform material assigns spearmint a role — neither an agency it opposes nor a status touching the person's vitality. **(c) absent.**
 
 **Greek / Dioscoridean (DMM).** Dioscorides has no subtle-body system, and none is to be invented for garden mint. What he offers a cultivator is a *discipline of attention*: recognising *hedyosmon* "the sweet-smelling" by its fragrance, judging warming from cooling by aroma and taste. He also *records* the old reputation that mint is "contrary to generation" — but recording is not endorsing, and it is a note on effect, not a cultivation regimen. **(b) framed — a therapeutic and dietetic status, no cultivation status.**
 

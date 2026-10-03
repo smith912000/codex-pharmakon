@@ -2,7 +2,8 @@
 
 ## *Bellis perennis* L. | Family: Asteraceae (Compositae)
 
-**Tradition Tags:** DMM, CM
+**Tradition Tags:** EF
+**Tags (previous line, retained for reference):** DMM, CM
 
 **Energetic Classification:** Cool / Dry — bitter-astringent, resolving, consolidating; a surface and interstitium herb, not a depth herb
 

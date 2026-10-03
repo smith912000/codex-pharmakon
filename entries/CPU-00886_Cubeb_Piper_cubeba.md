@@ -2,7 +2,8 @@
 
 ## *Piper cubeba* L.f. | Family: Piperaceae
 
-**Tradition Tags:** AT, DMM, CM, SBJ, SS, FMT
+**Tradition Tags:** AT, DMM, CM, SBJ, SS, EF
+**Tags (previous line, retained for reference):** AT, DMM, CM, SBJ, SS, FMT
 **Tags (previous line, retained for reference):** CM-analogue (Unani/Tibb — *Kabāb Chīnī*) · SS (Ayurvedic *Kankola*) · DMM (medieval Graeco-Arabic materia medica) · FMT (Folk European/Arab) · SBJ (Southeast-Asian/Javanese origin) · BM (Biomedical)
 
 **Energetic Classification:** Unani/Galenic — hot and dry, second degree (a warming, drying aromatic). Ayurvedic — pungent (*katu*) and bitter, heating (*ushna*), pungent post-digestive; kapha- and vata-pacifying.
@@ -74,7 +75,7 @@ According to PubMed, the modern evidence for cubeb is **constituent-level and pr
 
 **Ayurveda (SS).** Cubeb appears in Ayurveda as *kankola* (*sheetalchini*), a pungent-bitter heating aromatic (*katu/tikta rasa*, *ushna virya*, *katu vipaka*) for the mouth, throat, cough and urinary complaints — a therapeutic *dravyaguna* placement. No *rasayana* or *vajikarana* standing is attested for it in the sources retrieved; the aphrodisiac reputation that clings to cubeb belongs to the medieval European trade, not to an Ayurvedic *vajikarana* classification, and the two must not be run together. Its cultivation status here is unattested.
 
-**Tibetan (FMT).** In the Tibetan system medicine is the third of four treatment branches — it supports practice but does not reach the root, which is spiritual (the three *nyes pa* deriving from the three poisons). There is no formal category of "substances for subtle-body practice", and no *bcud len* (essence-extraction) role is attested for cubeb in the sources retrieved. Absent.
+**European folk / phytotherapy (EF).** The entry records cubeb reaching medieval Europe through Arab trade and entering the pharmacopoeia as a costly aromatic for urinary and respiratory complaints, with a reputation as an aphrodisiac and breath-sweetener, and remaining an official drug into the early modern pharmacopoeias. That is a therapeutic and commercial history. No cultivation status is attested: the European tradition gives cubeb no role in conserving or refining the person's vitality, and the aphrodisiac reputation is a remedy claim, not a cultivation one.
 
 **Practitioner's note.** A cultivator uses cubeb to clear, not to cultivate. It is a warming, drying aromatic taken in a short course to open cold-damp airways and waterways and to freshen the breath — a therapeutic clearing, stopped once the passage is open. No tradition in this entry grants it a vital-cultivation grade, and its own drying, penetrating character argues against continuous use.
 

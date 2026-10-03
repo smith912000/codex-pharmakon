@@ -2,7 +2,8 @@
 
 ## *Agastache foeniculum* (Pursh) Kuntze | Family: Lamiaceae
 
-**Tradition Tags:** SBJ (Sun-Belt / Great Plains Indigenous), BM (Botanical Medicine, modern Euro-American)
+**Tradition Tags:** EF
+**Tags (previous line, retained for reference):** SBJ (Sun-Belt / Great Plains Indigenous), BM (Botanical Medicine, modern Euro-American)
 
 **Energetic Classification:** Warm, dry, sweet-aromatic, gently dispersing and relaxing — a sweet warmth rather than a pungent one.
 
@@ -103,9 +104,7 @@ Filed energetically alongside tarragon and sweet basil — its actual phenylprop
 
 ### Cultivation Register
 
-**Shennong / classical Chinese (SBJ).** No cultivation framing is attested, and no attestation is possible. *Agastache foeniculum* is a North American prairie plant, so it cannot appear in the Shennong Bencao Jing (c. 200 BCE), and there is no *san pin* grade for it. The tag as written ("Sun-Belt / Great Plains Indigenous") describes North American Indigenous ethnobotany, not the Chinese classic the code denotes. The Chinese drug *huo xiang* belongs to a different species, *Agastache rugosa*, and none of its material is imported here. The Plains Indigenous uses in the entry (sweetener, tea, cough and fever remedy) are therapeutic and culinary, not cultivation categories.
-
-**Aztec / Nahua (BM).** No cultivation framing is attested. The Badianus manuscript is itself naturalistic and does not contain the tonalli / teyolia / ihiyotl model, which is reconstructed from later ethnohistory (López Austin); no Nahua source names this plant. The tag as written ("Botanical Medicine, modern Euro-American") describes a modern derivative practice that the entry itself says is not independent attestation, and it is not the Badianus tradition. Left at (c).
+**European folk / phytotherapy (EF).** Anise hyssop entered Western herbal practice late and largely through horticulture, as a garden and pollinator plant first and a medicine second. Modern use repeats the Indigenous indications, namely cough, cold, a digestive tea and a culinary aromatic, with a topical wound-healing use that has some animal evidence. The entry treats this as a derivative tradition, not an independent attestation. No European cultivation status is attested, so the claim sits at (c): nothing is attested beyond borrowed therapeutic use.
 
 **Practitioner's note.** Nothing. It is a sweet, aromatic tea and sweetener, with no cultivation status in either tradition as tagged.
 

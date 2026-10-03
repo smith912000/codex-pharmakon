@@ -2,7 +2,8 @@
 
 ## *Centaurea cyanus* L. | Family: Asteraceae
 
-**Tradition Tags:** DMM, CM
+**Tradition Tags:** DMM, EF
+**Tags (previous line, retained for reference):** DMM, CM
 
 **Energetic Classification:** Mildly bitter, cooling, gently astringent, drying; light and superficial in action. A weak agent by any honest reading.
 

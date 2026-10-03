@@ -2,7 +2,8 @@
 
 ## *Hypericum androsaemum* L. | Family: Hypericaceae
 
-**Tradition Tags:** AT, DMM, CM
+**Tradition Tags:** DMM, CM
+**Tags (previous line, retained for reference):** AT, DMM, CM
 
 **Energetic Classification:** Cool–Dry; astringent-vulnerary, with a downward hepatobiliary and diuretic drainage
 
@@ -128,8 +129,6 @@ The entire clinical literature on *Hypericum* for depression belongs to ***H. pe
 ---
 
 ### Cultivation Register
-
-**Assyrian (AT).** The entry files its earliest layer under a combined "Greco-Roman and Classical" heading, but *Hypericum androsaemum* is a Mediterranean-to-Atlantic plant whose earliest secure name is the Greek *androsaemum*, and no attestation under a securely identified Akkadian plant name is offered or retrieved here. Under the standing blocking warning that governs every Assyrian substance identification, deity or demon attribution and tablet reference, no claim of any kind — therapeutic or cultivational — is made for this species. **(c) absent.**
 
 **Greek — Dioscorides (DMM).** *Androsaemum* — *andros haima*, "man's blood," for the red juice of the crushed berry — enters the classical botanical vocabulary as a blood-signature wound plant, and the tradition carries no subtle-body system that could assign it a vital or cultivational status. What it offers a cultivator is a discipline of attention, and this plant is an unusually sharp lesson in it: the signature correctly flagged a chemically unusual, red-pigmented species and then attributed the virtue to the wrong molecule, so the cultivator's real task is exactly Dioscorides' — provenance, correct identification against the far more famous *H. perforatum*, the season and part gathered, sensory assay — rather than trust in the doctrine of like-to-like the red juice invites. It should be flagged that the plant's documented centre of gravity as *toute-saine*/tutsan/Sweet-Amber lies in the mediaeval and early-modern European herbal (an EF stratum) rather than securely in Dioscorides' own text; the classical warrant is the name, the vulnerary practice is later. **(c) absent** as to cultivation status.
 

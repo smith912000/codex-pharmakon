@@ -2,7 +2,8 @@
 
 ## *Phaseolus vulgaris* L. | Family: Fabaceae
 
-**Tradition Tags:** DMM (Dioscorides), CM (Avicenna), TCM (Chinese medicine), BM (Badianus)
+**Tradition Tags:** CM, TCM, BM
+**Tags (previous line, retained for reference):** DMM (Dioscorides), CM (Avicenna), TCM (Chinese medicine), BM (Badianus)
 **Energetic Classification:** Cool and dry in the first degree; the pod-decoction drying and diuretic (Galenic reading, applied to the old-world "bean" concept — see philological note)
 **Training Phase:** Grounding / Metabolic Regulation
 
@@ -60,8 +61,6 @@ According to PubMed, the modern "starch-blocker" claim rests on genuine but mode
 - **Galenic / Unani:** *lūbiyā* — cool and moist, flatulent, nourishing; corrected with warming carminatives. (Attaches to old-world legume concept.)
 
 ### Cultivation Register
-
-**Greek — Dioscorides (DMM).** Two disqualifications stack here. First, Dioscorides carries no subtle-body system to assign any substance a cultivation status — his *phaselos* is described as flatulent, of moderate nourishment and mildly diuretic, which is a dietetic-therapeutic account, not a doctrine of what the pulse does to a person's vital constitution. Second, the *phaselos* he names is almost certainly an old-world legume (a *Vigna* or relative), not the American *Phaseolus vulgaris* this entry is filed under; the classical attribution reaches this species only by the philological graft flagged at the head of the entry. What the tradition genuinely offers a cultivator is the Dioscoridean discipline of attention — judging a pulse by preparation, knowing that the broth loosens or binds the belly according to how it is cooked — a practice of provenance and sensory assay rather than a vital-body claim. Cultivation status: **(c) absent.**
 
 **Unani — Avicenna (CM).** The Arabic physicians place *lūbiyā* squarely within the dietetics of pulses: nourishing but wind-producing, cool and moist, requiring correction with warming carminatives (cumin, pepper) to "open" the *flatus* and phlegm that dense earthy foods breed. This is a real humoral frame, and the Unani corpus does hold the strongest cultivation idea in the whole book — the conservation of innate heat and radical moisture across a lifetime — but that is a longevity principle of the whole regimen, not a status the tradition assigns to this particular cool-moist pulse, and no *mufarrih* or cardiac-*ruh* role is recorded for it. The frame is dietetic, and it attaches to the old-world legume concept, inherited by the American bean only by the same graft. **(b) framed:** a humoral-dietetic status is attested, but no cultivation status is sourced.
 

@@ -2,7 +2,8 @@
 
 ## *Brucea javanica* (L.) Merr. | Family: Simaroubaceae
 
-**Tradition Tags:** SBJ, SS
+**Tradition Tags:** SBJ
+**Tags (previous line, retained for reference):** SBJ, SS
 
 **Energetic Classification:** Cold / Extremely Bitter — draining, purging heat and toxin; **toxic (有小毒 / 有毒)** by the tradition's own classification
 

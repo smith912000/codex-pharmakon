@@ -1,6 +1,7 @@
 # Milk Thistle — Silybum / Mary's Thistle
 ## *Silybum marianum* (L.) Gaertn. | Family: Asteraceae
-**Tradition Tags:** EP, AT, DMM, CM, EF
+**Tradition Tags:** EP, DMM, CM, EF
+**Tags (previous line, retained for reference):** EP, AT, DMM, CM, EF
 **Tags (previous line, retained for reference):** DMM, CM, EP, AT
 **Energetic Classification:** ◉ Qi Primary — Liver Qi Protection, Hepatic Detox Qi, Phase I/II Enzyme Regulation
 **Training Phase:** `[CYCLE-OFF]` `[RESET]`
@@ -133,8 +134,6 @@ The Codex also notes silymarin's documented role as the sole evidence-based anti
 ### Cultivation Register
 
 **Egyptian (EP).** Thistle-family preparations for hepatobiliary complaints appear in the Ebers Papyrus, but the corpus is indication-organised and the species identification is uncertain — *Silybum marianum* was one of several thistles in an ecosystem the Egyptian nomenclature does not resolve to a single modern taxon. The record is of what was done for a yellowed, bilious patient, not of what the plant does to the person's *ka*, *ib* or vital constitution, and no *heka* recitation or deity attribution is sourced for this plant. **(c) absent.**
-
-**Assyrian (AT).** The profile carries no genuine Mesopotamian cuneiform attestation for milk thistle; the material tagged "(AT)" in the entry is in fact European folk usage (the *Mariendistel* liver-herb and spring tonic), not an *asû*/*āšipu* source, and under the standing blocking warning for Assyrian substance identifications no tablet is actually cited. On the evidence in the profile, no secure Assyrian attestation — and therefore no cultivation status — can be claimed here. **(c) absent.**
 
 **Greek — Dioscorides (DMM).** *Akantha leuke* carries one of the most explicit hepatological notices in *De Materia Medica* — the seed decoction "good for those afflicted with jaundice," promoting the flow of bile — and the genus name *Silybum* descends from his *silybon*. Yet Dioscorides holds no subtle-body doctrine that could assign the plant a cultivation status; what the tradition offers a cultivator is his discipline of attention — identifying the true white thistle, assaying the seed, judging the season and provenance of gathering. That is a real practice of judgement, not a vital-body assignment. **(c) absent** as to cultivation status.
 

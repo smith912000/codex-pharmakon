@@ -2,7 +2,8 @@
 
 ## *Arisaema erubescens* (Wall.) Schott | Family: Araceae
 
-**Tradition Tags:** SBJ, FMT
+**Tradition Tags:** SBJ, TCM
+**Tags (previous line, retained for reference):** SBJ, FMT
 
 **Energetic Classification:** Warm, dry, acrid, dispersing; drying to Damp, transforming to Phlegm — **toxic (有毒) in the raw state by the tradition's own classification**
 

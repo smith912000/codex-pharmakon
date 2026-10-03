@@ -2,7 +2,8 @@
 
 ## *Viola tricolor* L. | Family: Violaceae
 
-**Tradition Tags:** DMM, CM
+**Tradition Tags:** EF
+**Tags (previous line, retained for reference):** DMM, CM
 
 **Energetic Classification:** Sweet–mucilaginous with a bitter edge; cool and moist; demulcent-relaxant
 
@@ -125,9 +126,7 @@ Follow-up work compared preparation types on primary human T lymphocytes and mac
 
 ### Cultivation Register
 
-**Greek / Dioscorides (DMM).** No cultivation framing is attested, and the species is not attested. *Viola tricolor* is not named in Dioscorides, *De materia medica* (Osbaldeston & Wood 2000). The nearest entries, *ion* (4-122, glossed there as sweet violet, *V. odorata*) and *leukoion* (3-138, wallflower or dame's violet), are other plants. Dioscorides offers no subtle-body system, and nothing for a cultivator beyond his discipline of identification and provenance, which here warns against assuming a congener is the species. The DMM tag is unconfirmed.
-
-**Avicenna / Unani (CM).** No cultivation framing is attested. The entry carries no Unani or Avicennan content for this species, and no Canon text could be read for this register. The innate heat and radical moisture frame is not applied. The CM tag is unconfirmed.
+**European folk / phytotherapy (EF).** The European material divides in two. In the pharmacopoeial thread, *Herba Violae tricoloris* is a mild, mucilaginous herb given internally and topically for scaling skin, cradle cap, mild eczema and cough, gentle enough for infants and still stocked in Europe. The love-charm thread, heartsease and love-in-idleness, is a name from signatures and sympathies, not a pharmacological observation. Neither assigns the plant a cultivation status, so the claim sits at (b): the record is therapeutic and cultural, and nothing in the sourced material frames it as a longevity or vital-building plant.
 
 **Practitioner's note.** Nothing for a cultivator. The entry's own sourced content is a European folk and pharmacopoeial skin and cough herb, with the "heartsease" name a folk signature, not a cultivation status.
 

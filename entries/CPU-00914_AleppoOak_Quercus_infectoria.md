@@ -2,7 +2,8 @@
 
 ## *Quercus infectoria* Olivier | Family: Fagaceae
 
-**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tradition Tags:** AT, DMM, CM, SBJ, SS, EF
+**Tags (previous line, retained for reference):** EP, AT, DMM, CM, SBJ, SS
 **Tags (previous line, retained for reference):** EP (European Phytotherapy) · DMM (Dioscoridean Materia Medica) · CM (Chinese Materia Medica, by gallotannin kinship) · SS (South Asian / Unani-Ayurvedic) · FMT (Folk & Ritual Traditions) · BM (Biomedical)
 
 **Energetic Classification:** Galenic — cold and dry in the third degree, powerfully astringent (styptic-desiccant); TCM — sour and astringent, cool, entering Lung, Large Intestine and Kidney (by kinship with the gallotannin drug 五倍子 *wŭ bèi zĭ*), securing and binding.
@@ -83,9 +84,9 @@ Supporting the broader gallotannin-astringent wound rationale (in the kindred oa
 
 **Chinese materia medica (TCM).** *Quercus infectoria* is not itself a Chinese drug — the tag is held by gallotannin kinship with 五倍子 *wŭ bèi zĭ*, the *Rhus* gall, which is the actual materia medica entry. For this substance, then, Chinese cultivation status is unattested. Even in its twin the action — securing and astringing chronic leakage, sweating and bleeding — is a treat-disease function with no *san pin* nourishing-life grade recorded. (c) for this substance; the kinship is analogical, not an attestation.
 
-**Egyptian (EP).** No cultivation framing is attested for the oak gall in this register; no *heka* or constitutional account is recorded in the sources retrieved. (c).
-
 **Assyrian (AT).** No cultivation status is attested, and the blocking warning on Assyrian substance-identification and tablet reference is in force. That galls and iron-gall ink circulated in the ancient Near East is commerce, not an attested cultivation status. (c).
+
+**European folk / phytotherapy (EF).** The entry records that in Europe the oak gall served medicine, ink and dye in a single object: medicinally the styptic and anti-diarrhoeal of choice, as powdered galls for lax gums, bleeding and fluxes, while its tannin, reacting with iron salts, gave the black iron-gall ink of scribes and the fixative of tanners and dyers. It describes an almost sacral standing for a substance that heals, records and preserves. That is a therapeutic and craft framing; no cultivation status is attested for the gall in this tradition in the sources retrieved. Cultivation status: **absent**.
 
 **Practitioner's note.** A cultivator treats the oak gall as a third-degree astringent tool — dilute, short-term, external by preference — for what will not stop flowing. There is no cultivation status to invoke; the one transferable practice is Dioscorides' discipline of attention, the blue-versus-white gall judgement at gathering. Therapeutic power here is not a vital-cultivation claim, and the tannin load is the standing warning against treating it as anything taken long-term.
 

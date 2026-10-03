@@ -2,7 +2,8 @@
 
 ## *Fraxinus ornus* L. | Family: Oleaceae
 
-**Tradition Tags:** AT, DMM
+**Tradition Tags:** EF
+**Tags (previous line, retained for reference):** AT, DMM
 **Tags (previous line, retained for reference):** AT, DMM, CM
 
 **Energetic Classification:** Cool · Sweet · Moistening · Gently Descending
@@ -115,9 +116,7 @@ According to PubMed:
 
 ### Cultivation Register
 
-**Assyrian (AT).** The tag places manna in an ancient Near-Eastern frame, but the material attested here is a Sicilian ash exudate whose "ancient" resonance is biblical and Levantine — the wilderness bread of Exodus — not the cuneiform medical corpus of the *asû* and *āšipu*. No Nineveh tablet identification for *Fraxinus* manna is claimed, and under the standing blocking warning for Assyrian substance identifications nothing is asserted here. Even were an attestation secure, that corpus classifies a substance partly by the causal agency it opposes (divine hand, ghost, oath), not by a vital-cultivation status. No cultivation framing is attested. **(c) absent.**
-
-**Greek — Dioscorides (DMM).** Dioscorides' *manna* (μάννα) in *De Materia Medica* denotes the granular siftings of frankincense — *manna thuris* — not the sweet exudate of the flowering ash; ash-manna as a mild laxative enters the European pharmacopoeias later, by way of the Arabic-into-medieval materia medica. Dioscorides in any case carries no subtle-body system to which a cultivation status could attach. What his tradition offers a cultivator is a discipline of attention — grading the tears (*cannoli* whole on the incision versus *manna in sorte* fallen and pooled), assaying purity, guarding against adulteration and the substituted species. That is a real practice of provenance and sensory judgement, not a vital-body doctrine. No cultivation status. **(c) absent.**
+**European folk / phytotherapy (EF).** Manna held pharmacopoeial status across Europe for centuries with one steady indication: a mild laxative, safe for children, the elderly and pregnancy, filling the place where nothing violent could be risked. The Sicilian tapping craft survives as a living but endangered agricultural tradition. The record is therapeutic only, so the claim sits at (b): the entry records what was done with manna and attests no cultivation status for it, and no tonic, longevity or vital-building use is recorded.
 
 **Practitioner's note.** Nothing here is a cultivation substance. Across all three tags manna is one thing — a force-free osmotic laxative for the narrow case where straining is the danger — taken for a defined complaint and then stopped. There is no longevity, tonic, or vital-building use to build a practice around. The discipline manna teaches a cultivator is diagnostic rather than tonic: that gentleness is a mechanism (osmosis, mannitol holding water in the lumen) and not a virtue or a mood, and that a clean doctrine-to-molecule fit — sweet and moistening answering to mannitol — is a thing to verify, not to venerate.
 

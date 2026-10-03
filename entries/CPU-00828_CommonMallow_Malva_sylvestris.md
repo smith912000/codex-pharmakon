@@ -2,7 +2,8 @@
 
 ## *Malva sylvestris* L. | Family: Malvaceae
 
-**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tradition Tags:** EP, DMM, CM, TCM, SS
+**Tags (previous line, retained for reference):** EP, AT, DMM, CM, SBJ, SS
 **Tags (previous line, retained for reference):** DMM (Dioscoridean/Graeco-Roman) · SBJ (Unani/Tibb) · AT (Ayurveda, adopted/folk) · CM (Chinese Materia Medica, allied *Malva*) · FMT (Folk & Magico-Traditional) · BM (Biomedicine)
 **Energetic Classification:** Galenic/Unani — cold and moist in the first degree; supremely emollient and demulcent. TCM (allied *Malva* spp.) — sweet, cool, slippery; Large Intestine / Small Intestine / Bladder.
 **Training Phase:** Cooling · Softening · Demulcent-restoration
@@ -73,8 +74,6 @@ A cautionary counterpoint: Kovalik and colleagues (2014, *Journal of Medicinal F
 **Ayurveda (SS).** Adopted through Unani-influenced folk practice as *khubbazi*, mallow is used as a cooling, *pitta*-pacifying demulcent. This is a therapeutic reading; **no *rasayana* or *vajikarana* status is attested**. No *ojas* claim is recorded and none should be supplied.
 
 **Egyptian (EP).** No Egyptian attestation for *M. sylvestris* appears in the profile; the indication-organised Nile corpus records complaints treated, not constitutions altered. No cultivation framing is attested, and no *heka* datum specific to this plant survives.
-
-**Assyrian (AT).** Under the standing identification block, no secure substance identity, causal-agency classification, or cultivation framing can be assigned.
 
 **Practitioner's note.** What a cultivator does with mallow is soften — coat a raw throat, ease a dry gut, calm scalded urine. That is a therapeutic act, not a cultivation one; no tradition records mallow as a longevity or subtle-body plant. The one thing rising above the therapeutic is cultural, not pharmacological: the Greek esteem for the plant of softness, which a practitioner may honour as heritage while claiming nothing medical from it.
 

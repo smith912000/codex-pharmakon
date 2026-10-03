@@ -2,7 +2,8 @@
 
 ## *Digitalis lanata* Ehrh. | Family: Plantaginaceae
 
-**Tradition Tags:** DMM, CM [USER: verify — see Origin & Tradition; both attestations are doubtful]
+**Tradition Tags:** DMM
+**Tags (previous line, retained for reference):** DMM, CM [USER: verify — see Origin & Tradition; both attestations are doubtful]
 **Energetic Classification:** Cold, Dry — a contracting, slowing, water-moving agent (Northern European folk framing); no reliable classical humoral assignment exists for this species
 **Training Phase:** Study Only — Phase Ø. This plant is not used at any phase of Kenetica practice. It is included as a teaching substance and a cultivator's hazard.
 

@@ -2,7 +2,8 @@
 
 ## *Plantago major* L. | Family: Plantaginaceae
 
-**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tradition Tags:** AT, DMM, CM, SBJ, SS, EF
+**Tags (previous line, retained for reference):** EP, AT, DMM, CM, SBJ, SS
 **Tags (previous line, retained for reference):** EP (European Phytotherapy) · DMM (Dioscoridean Materia Medica) · CM (Chinese Materia Medica) · SS (South Asian / Unani-Ayurvedic) · FMT (Folk & Monastic Traditions) · BM (Biomedical)
 
 **Energetic Classification:** Galenic — cool and dry in the second degree, drawing and binding (astringent-vulnerary); TCM — sweet and cold, entering (by kinship with *Plantago asiatica*) the Kidney, Bladder, Liver and Lung, clearing heat and draining damp.
@@ -75,7 +76,7 @@ According to PubMed, an in vitro study of *Plantago major* and its two principal
 
 ### Cultivation Register
 
-**European phytotherapy.** Plantain's one genuinely non-therapeutic datum in this tradition is a **magico-medical** one: as *wegbrade* it is invoked in the Anglo-Saxon *Nine Herbs Charm* (Lacnunga, British Library Harley MS 585, tenth century), addressed as "mother of worts... mighty within" — a recited charm in which spell and herb form one intervention (M. L. Cameron, *Anglo-Saxon Medicine*, Cambridge 1993). This is recorded **historically, as an attested charm context** — *heka*-adjacent but European — and is explicitly **not** a cultivation status: it frames the plant's power, it does not grade the plant's action on the practitioner's vital constitution.
+**European folk / phytotherapy (EF).** The entry records waybread among the most esteemed northern healing herbs from the Anglo-Saxon *Lacnunga* and Old English Herbarium onward: the fresh bruised leaf as a first-aid poultice for cuts, stings and nettle-burns, the juice for inflamed eyes and mouth ulcers, and internal preparations for coughs, diarrhoea and urinary complaints, with the seed mucilage used to soothe and regulate the bowel. These are therapeutic uses, framed as wound-herb and household first aid. No cultivation or constitutional status is attested in this tradition in the sources retrieved. Cultivation status: **absent**. Plantain's one genuinely non-therapeutic datum in this tradition is a **magico-medical** one: as *wegbrade* it is invoked in the Anglo-Saxon *Nine Herbs Charm* (Lacnunga, British Library Harley MS 585, tenth century), addressed as "mother of worts... mighty within" — a recited charm in which spell and herb form one intervention (M. L. Cameron, *Anglo-Saxon Medicine*, Cambridge 1993). This is recorded **historically, as an attested charm context** — *heka*-adjacent but European — and is explicitly **not** a cultivation status: it frames the plant's power, it does not grade the plant's action on the practitioner's vital constitution.
 
 **Greek / Dioscoridean (DMM).** Dioscorides classes *arnoglosson* among the cool, dry, astringent wound-herbs. He supplies **no subtle-body or cultivation system**. What the tradition offers a cultivator is the *discipline of attention* — leaf-recognition, the drawing-binding assay of astringency on the tongue — not a doctrine of vital refinement.
 

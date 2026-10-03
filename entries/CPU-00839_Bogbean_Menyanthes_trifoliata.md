@@ -2,7 +2,8 @@
 
 ## *Menyanthes trifoliata* L. | Family: Menyanthaceae
 
-**Tradition Tags:** DMM, CM
+**Tradition Tags:** EF
+**Tags (previous line, retained for reference):** DMM, CM
 **Energetic Classification:** Cooling, drying, intensely bitter; digestive-stimulant and cleansing
 **Training Phase:** Operative (a working bitter tonic — used before food to move digestion)
 

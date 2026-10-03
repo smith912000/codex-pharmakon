@@ -2,7 +2,8 @@
 
 ## *Saccharum officinarum* L. | Family: Poaceae
 
-**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tradition Tags:** AT, DMM, CM, SBJ, TCM, SS, EF
+**Tags (previous line, retained for reference):** EP, AT, DMM, CM, SBJ, SS
 **Tags (previous line, retained for reference):** EP (European Phytotherapy, via the Arabic transmission) · DMM (post-Dioscoridean Greco-Arabic materia medica) · CM (Chinese Materia Medica) · SS (South Asian / Ayurvedic-Siddha-Unani) · FMT (Folk & Ritual Traditions) · BM (Biomedical)
 
 **Energetic Classification:** Galenic — temperate to warm and moist, nourishing and demulcent; TCM — the cane (甘蔗 *gān zhè*) sweet and cold, entering Lung and Stomach, engendering fluid and clearing heat.
@@ -82,9 +83,9 @@ Extending this to neurofunction, a study of sugarcane top extract (Iwata, Wu, Fe
 
 **Dioscoridean / Greek (DMM).** The Greeks knew sugarcane only as a rumour — "honey without bees" — and Dioscorides gives it no drug entry and no subtle-body framing (his corpus has none to give). What the Dioscoridean lineage offers a cultivator is its discipline of attention, later exercised by the Arabic pharmacists in grading fresh juice against jaggery against the refined isolate. **(c)** — no cultivation status; the practice is attentional, not constitutional.
 
-**Egyptian (EP).** Sugarcane reached the Mediterranean only in the Arab period, centuries after the pharaonic medical corpus had closed; it is not identifiable in the Egyptian materia medica, carries no *heka* framing and no cultivation status. **(c)** absent — here the absence is simply chronological.
-
 **Assyrian (AT).** Likewise post-dating the cuneiform medical corpus, sugarcane is not identifiable in the tablets. Under the standing blocking warning on Assyrian substance identifications, the honest reading is **(c)** absent.
+
+**European folk / phytotherapy (EF).** Sugar reached European medicine through the Arabic-Unani corpus and its medieval Latin translations, where it served as a nourishing demulcent for chest, throat and cough and as a vehicle and corrective for other drugs, as in syrups and juleps. The species epithet *officinarum*, "of the apothecaries", records that standing. This is a therapeutic and pharmaceutical role, so the claim sits at (b): the entry attests no European cultivation status for sugarcane, and nothing in the sources retrieved frames it there as a longevity or vital-building substance.
 
 **Practitioner's note.** The single genuine cultivation use is the Ayurvedic one: fresh whole cane juice as a *bṛṃhaṇa*/*vājīkara* nourishment for the depleted, wasted and convalescent. Everywhere else the substance is a fluid-restorer and demulcent, not a tonic of the vital constitution. And the register only ever attaches to the *fresh whole juice* — the refined white isolate carries the plant's harms without any of this, a distinction the tradition itself insists on.
 

@@ -1,7 +1,8 @@
 # Corn Poppy — Field Poppy / Flanders Poppy / Coquelicot / Red Poppy
 ## *Papaver rhoeas* L. — Corn Rose, Flanders Poppy, Coquelicot, Corn Poppy; native names: Arabic *ḫashḫāsh aḥmar* / *shaqā'iq al-nu'mān* (the "anemone-poppy" of Nu'mān), Greek *mḗkōn rhoiás* (the "flowing" or "falling" poppy), Latin *papaver erraticum* / *papaver rhoeas* | Family: Papaveraceae
 
-**Tradition Tags:** EP, AT, DMM, CM
+**Tradition Tags:** EP, DMM, CM
+**Tags (previous line, retained for reference):** EP, AT, DMM, CM
 
 **Energetic Classification (Galenic/Unani):** Cold in the first degree, Moist in the first-to-second degree (*bārid raṭb*) — a gentle refrigerant-relaxant, distinct from the opium poppy's far colder, narcotic action
 
@@ -80,8 +81,6 @@ This is a near-ideal result for the Codex's purposes: it *confirms* the ancient 
 ### Cultivation Register
 
 **Egyptian (EP).** The Egyptian medical corpus records poppy-group preparations (the debated *špnn*) for calming and for quieting restless, crying children, but the material is indication-organised: it registers what was done for a complaint, not what the plant does to a person's *ka*, *ib* or *akh*. No operative *heka* recitation is attested for the field poppy specifically, and — as the entry itself states — the field poppy cannot be securely separated from the opium poppy in the orthography, so any subtle-body or vitalising role assigned to *P. rhoeas* here would be a modern hypothesis dressed as attestation. There is no seat-of-the-heart doctrine or vital-endowment framing recorded for this species. Cultivation status: **(c) absent** — a cooling, calming plant of the poppy group, no cultivation framing attested.
-
-**Assyrian (AT).** The Mesopotamian materia medica recognises a poppy-group of "quieting" plants, prescribed for pain, sleeplessness and restless wakefulness, and illness in this tradition is classified partly by the causal agency a substance opposes. But the standing blocking warning is in force for every Assyrian substance identification and tablet reference, and — as the entry notes — no secure Akkadian binomial for the field poppy can be asserted from the surviving lexical lists. Nothing in the retrieved record assigns *P. rhoeas* a status with respect to the person's vital constitution rather than a presenting complaint. **(c) absent.**
 
 **Greek — Dioscorides (DMM).** Dioscorides gives *mḗkōn rhoiás* a precise therapeutic account — the "flowing" poppy of the readily shed scarlet petals, its petal decoction or syrup a mild hypnotic and demulcent, expressly graded far below the opium-yielding *mḗkōn hēmeros*. Dioscorides carries no subtle-body system into which a cultivation status could be assigned. What the tradition offers a cultivator is his discipline of attention: distinguishing this poppy from its narcotic cousin by petal and habit, knowing which part (petal, not latex or capsule) carries the food-safe gentle action, assaying the syrup. That graded discrimination is a real practice of provenance and sensory judgement, not a vital-body doctrine. **(c) absent** as to cultivation status.
 

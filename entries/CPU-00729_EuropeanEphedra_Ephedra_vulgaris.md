@@ -2,7 +2,8 @@
 
 ## *Ephedra distachya* L. (syn. *E. vulgaris* Rich.) | Family: Ephedraceae
 
-**Tradition Tags:** AT, DMM, CM
+**Tradition Tags:** DMM, CM
+**Tags (previous line, retained for reference):** AT, DMM, CM
 
 **Energetic Classification:** Acrid, slightly bitter; warm to hot; dispersing and ascending. A wind-opening, surface-releasing agent whose action is centrifugal — it drives from the core toward the skin and the airway.
 
@@ -94,8 +95,6 @@ Practitioner-facing use is limited to: recognising sympathomimetic load in a per
 | Kenetica axis | **Arousal-forcing** — borrows tomorrow's sympathetic reserve at interest |
 
 ### Cultivation Register
-
-**Assyrian (AT).** No Assyrian cuneiform attestation exists for this plant; the material carried under this tag is in fact Zoroastrian and Avestan — the *haoma* of the Yasna, pressed and strained and praised as strength-giving, wakefulness-giving, and death-averting. That doctrine is the nearest thing to a vitality frame in the entry, but two things bar it from an attested cultivation status here: the identification of *haoma* with Ephedra is a live philological debate rather than a settled fact (*Peganum harmala* and various fungi remain candidates), and the Zoroastrian tradition is not the Assyrian one under whose code it has been filed. Under the standing blocking warning for Assyrian substance identifications, and absent a secure botanical identity, nothing is assigned. **(c) absent.**
 
 **Greek — Dioscorides (DMM).** Classical materia medica records a jointed, leafless shrub used as an astringent and for cough and chest flux, but the identification of that drug with modern *Ephedra distachya* is a reconstruction by later botanists rather than a claim the ancient text itself makes — the entry marks it as such. Dioscorides carries no subtle-body system to which a cultivation status could attach. What his tradition offers a cultivator is a discipline of attention — the drying, binding, chest-clearing action judged by sensory assay, and the guard against a substituted species whose alkaloid load is provenance-dependent (pseudoephedrine-dominant in sampled *distachya*, ephedrine-bearing elsewhere). No cultivation status. **(c) absent.**
 

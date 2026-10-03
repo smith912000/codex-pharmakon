@@ -2,7 +2,8 @@
 
 ## *Citrus limon* (L.) Osbeck | Family: Rutaceae
 
-**Tradition Tags:** AT · CM · DMM · EP · SBJ · SS
+**Tradition Tags:** EP, DMM, CM, SBJ, SS
+**Tags (previous line, retained for reference):** AT · CM · DMM · EP · SBJ · SS
 **Energetic Classification:** Sour, Cool (peel warm-aromatic); Galenic — cold & dry in the pulp/juice, the peel warm; TCM tier — Sour-Sweet, Cool, liver/stomach/lung
 **Training Phase:** Cooling & Fluid-Generating · Aromatic Qi-Moving (peel) · Antiscorbutic Restoration
 
@@ -69,8 +70,6 @@ According to PubMed, Wang et al. (2021), *Critical Reviews in Food Science and N
 ### Cultivation Register
 
 _The botanical here is the true lemon (*Citrus limon*); the *etrog* material belongs to the citron (*Citrus medica*) and is kept out of this register._
-
-**Assyrian (AT).** True lemon is a medieval hybrid that post-dates the cuneiform corpus, and no secure Assyrian attestation exists for it; the standing blocking warning applies to any Mesopotamian identification. Cultivation status: absent (c).
 
 **Unani / Avicenna (CM).** *Utrujj* / *līmū* is a major drug, its fruit precisely divided into cooling pulp/juice and warming peel, its juice used as a *muqawwī-e-qalb* — a cardiac strengthener. That cardiac register is the one place lemon brushes against a cultivation-adjacent idea: the strengthening of the heart and the *ruh*. But the drugs-of-the-heart doctrine belongs to the *Kitāb al-Adwiya al-Qalbiyya*, not the *Canon*; no *mufarrih* status is recorded for lemon specifically, and no constituent list may be published for it. It remains a cooling cardiac therapeutic. Cultivation status: framed but unattested (b).
 

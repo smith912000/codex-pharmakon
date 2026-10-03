@@ -2,7 +2,8 @@
 
 ## *Tamarix gallica* L. | Family: Tamaricaceae
 
-**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tradition Tags:** EP, AT, DMM, CM, TCM, SS
+**Tags (previous line, retained for reference):** EP, AT, DMM, CM, SBJ, SS
 
 **Energetic Classification:** Cool, Dry (Second Degree) — Astringent, Binding, Descending
 

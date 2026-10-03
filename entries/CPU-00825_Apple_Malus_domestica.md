@@ -2,7 +2,8 @@
 
 ## *Malus domestica* Borkh. | Family: Rosaceae
 
-**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tradition Tags:** EP, DMM, CM, TCM, SS
+**Tags (previous line, retained for reference):** EP, AT, DMM, CM, SBJ, SS
 **Tags (previous line, retained for reference):** DMM (Dioscoridean/Graeco-Roman) · SBJ (Unani/Tibb) · AT (Ayurveda) · CM (Chinese Materia Medica) · FMT (Folk & Magico-Traditional) · BM (Biomedicine)
 **Energetic Classification:** Galenic/Unani — variable by cultivar: sweet apples warm and moist, sour apples cold and dry (a rare "temperament-tunable" fruit). TCM — cool to neutral, sweet-sour; Spleen/Stomach/Lung.
 **Training Phase:** Restoration · Grounding · Integration
@@ -64,8 +65,6 @@ Berni and colleagues (2019, *Medicines*) quantified antioxidants, total polyphen
 ### Cultivation Register
 
 **Egyptian (EP).** The apple is tagged here, but the Egyptian corpus is indication-organised and the very identification of a fruit as "apple" in the pharaonic sources is a modern botanical hypothesis rather than a secure reading. No cultivation framing is attested. Even where a plant enters a prescription, the operative act was *heka* — the recitation and the drug forming one intervention — and no such operation is tied to this fruit in the sources retrieved. Honest outcome: **(c) absent**.
-
-**Assyrian (AT).** The standing blocking warning applies to every substance identification, deity attribution, and tablet reference in the cuneiform medical corpus, and it is in force here. Illness in that system is classified partly by the causal agency a substance opposes (divine hand, ghost, oath), but nothing in the retrieved material assigns the apple such a role, still less a status for nourishing the person's vitality. **(c) absent.**
 
 **Greek / Dioscoridean (DMM).** Dioscorides carries no subtle-body system, and none may be manufactured for the apple. What the tradition genuinely offers a cultivator is a *discipline of attention*: the sweet/sour cultivar distinction is a call to assay the individual fruit — its ripeness, its astringency, the temperament it suits — and to match the specimen to the person rather than treating "apple" as one thing. That is a real practice of discernment, not a cultivation status. The mythic freight (the golden apples, the star in the core) is culture, not a claim the materia medica makes. **(b) framed — no cultivation status attested, only a therapeutic and dietetic one.**
 

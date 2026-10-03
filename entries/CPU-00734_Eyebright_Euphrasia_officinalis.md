@@ -2,7 +2,8 @@
 
 ## *Euphrasia officinalis* L. agg. | Family: Orobanchaceae
 
-**Tradition Tags:** DMM, CM
+**Tradition Tags:** EF
+**Tags (previous line, retained for reference):** DMM, CM
 **Energetic Classification:** Cool, dry, astringent-condensing; clarifying at the surface of the eye
 **Training Phase:** Preparation — a clearing agent for the sense-gate, not a substance of passage
 

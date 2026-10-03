@@ -2,7 +2,8 @@
 
 ## *Cnicus benedictus* L. (= *Carduus benedictus*; syn. *Centaurea benedicta*) | Family: Asteraceae
 
-**Tradition Tags:** DMM, CM
+**Tradition Tags:** DMM, EF
+**Tags (previous line, retained for reference):** DMM, CM
 
 **Energetic Classification:** Intensely bitter, dry, cooling to neutral; downward-and-outward moving. A secretory-stimulant bitter, not a heating stimulant.
 

@@ -2,7 +2,8 @@
 
 ## *Lagenaria siceraria* (Molina) Standl. | Family: Cucurbitaceae
 
-**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tradition Tags:** EP, DMM, CM, TCM, SS
+**Tags (previous line, retained for reference):** EP, AT, DMM, CM, SBJ, SS
 **Tags (previous line, retained for reference):** AT (Ayurveda) · CM (Chinese Materia Medica) · SBJ (Unani/Tibb) · DMM (Dioscoridean/Graeco-Roman) · FMT (Folk & Magico-Traditional) · BM (Biomedicine)
 **Energetic Classification:** TCM — cool, sweet, slightly bland; channels Lung, Stomach, Small Intestine (fluid-draining, damp-clearing). Galenic/Unani — cold and moist in the second degree.
 **Training Phase:** Cooling · Purification · Fluid-regulation
@@ -74,8 +75,6 @@ Saurabh, Ghosh and Sanyal (2022, *Journal of Food Science and Technology*) devel
 **Graeco-Roman / Dioscoridean (DMM).** Dioscorides reads the edible gourd (*kolokyntha*) as a cold, moist, watery food — cooling much, nourishing little. There is no subtle-body claim; what the tradition offers is the discipline of attention, sharpened here to a single readable sign: the bitter gourd is poison, the sweet is food, discernible only at the tongue. That is assay, not cultivation status — (c).
 
 **Egyptian (EP).** No cultivation framing is attested for the bottle gourd in this register; no *heka* or constitutional account is recorded in the sources retrieved. (c).
-
-**Assyrian (AT).** No cultivation status is attested, and the blocking warning on Assyrian substance-identification is in force. (c).
 
 **Practitioner's note.** A cultivator uses non-bitter bottle gourd as a cooling, hydrating, mildly draining food during heat and fluid-regulation phases — and, more importantly in this volume, as the designated teacher of discernment: the substance one never takes on reputation but must taste-test at the point of use. Its cultivation "status" is really a cultivation *discipline* — read the bitter signal every time. The immortality-gourd is a symbol to admire, not a status the drug confers.
 

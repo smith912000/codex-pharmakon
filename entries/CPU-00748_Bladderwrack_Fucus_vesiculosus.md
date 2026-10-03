@@ -6,7 +6,8 @@
 
 ## | Family: Fucaceae
 
-**Tradition Tags:** AT, CM, DMM
+**Tradition Tags:** DMM, CM
+**Tags (previous line, retained for reference):** AT, CM, DMM
 **Energetic Classification:** Cool, moist, salty and dispersing in the Galenic-Unani frame; softening and resolving to hard swellings (the classical rationale for goitre/scrofula use).
 **Training Phase:** Metabolic / Resolving (thyroid-metabolic and swelling-resolving phase — a caution-gated entry)
 
@@ -55,8 +56,6 @@ According to PubMed, *Fucus vesiculosus* accumulates iodine from seawater follow
 - **Ayurveda (by analogy):** *lavana* (salty) rasa, cooling-to-neutral *virya*; resolves *kapha*-type stagnation and induration; not a classical dravya.
 
 ### Cultivation Register
-
-**Assyrian (AT).** *Fucus vesiculosus* is a North Atlantic and North Sea brown macroalga, wholly outside the flora available to the Mesopotamian cuneiform tradition, and there is no secure identification of it in the *asû* / *āšipu* corpus. The standing blocking warning for Assyrian identifications applies with full force, and the illness-by-causal-agency framing (divine hand, ghost, oath) offers nothing to assign here without invention. No cultivation status is possible, and the tag is anachronistic for this species. **(c) absent.**
 
 **Greek — Dioscorides (DMM).** Dioscorides does describe sea-wracks generically — *phykos thalassion* — as cooling, moistening marine simples for inflammations and hard swellings, so the tradition genuinely treats seaweed of this broad kind; but the identification of that material with the specific North Atlantic *F. vesiculosus* is a modern reading, not his. More decisively, Dioscorides carries no subtle-body system into which any cultivation status could be set, and the later Galenic spirits are post-Dioscoridean. What the tradition offers a cultivator is his discipline of attention — knowing sea-wrack when one sees it, judging its condition, and not confusing marine simples — a real practice of assay, not a vital-body doctrine. **(c) absent** as to cultivation status.
 

@@ -2,7 +2,8 @@
 
 ## *Inula helenium* L. | Family: Asteraceae (Compositae)
 
-**Tradition Tags:** AT, DMM, CM, SBJ
+**Tradition Tags:** DMM, CM, SBJ, TCM
+**Tags (previous line, retained for reference):** AT, DMM, CM, SBJ
 **Tags (previous line, retained for reference):** DMM (Dioscoridean / Graeco-Roman materia medica) · EP (European Phytotherapy) · CM (Chinese Medicine) · AT (Ayurveda / Unani-adopted) · SBJ (— limited; N. African/Maghreb Unani use) · FMT (Folk domestic & veterinary medicine) · SS (— via Unani-Siddha overlap) · BM (Biomedical / Isolate)
 
 **Energetic Classification:** TCM (*tu-mu-xiang*) — warm, acrid & bitter, Qi-moving & Damp-transforming; Galenic — warm & dry (grade II–III)
@@ -72,8 +73,6 @@ According to PubMed, the traditional respiratory and metabolic uses map onto rea
 ### Cultivation Register
 
 **Dioscorides / Greek (DMM).** Dioscorides has **no subtle-body system**, and none is manufactured here; *pneuma* is context only, and the Galenic three spirits are later and post-Dioscoridean. No cultivation status for *helenion* is attested, because the text does not deal in such statuses. What the tradition does offer a cultivator is real and substantial: a **discipline of attention** — provenance, the season of gathering, sensory assay of the root, and the detection of adulteration. For a root as widely traded, substituted and candied as this one, that discipline is the practice, not a consolation for the absence of a doctrine.
-
-**Assyrian / Mesopotamian (AT).** No cultivation framing is attested for this substance. The **blocking warning** in force for the cuneiform corpus applies in full here: substance identifications, deity and demon attributions and tablet references all require positive evidence, and none was retrieved for *Inula helenium*. Illness in this tradition is classified by causal agency — divine hand, ghost, oath — so a cultivation reading would have to say *what agency this root opposes*, and nothing in the sources retrieved licenses such a statement. Recorded as absent.
 
 **Avicenna / Unani (CM).** The attestation retrieved for this species is the Unani one — *Rasan*, warm and dry in grade II–III, used for cough, cold "phlegmatic" chest conditions, weak digestion and joint pains. That is a humoral-therapeutic placement. The tradition's real cultivation idea is the conservation of **innate heat and radical moisture** — a finite vital endowment whose depletion is ageing, so that longevity practice here is conservation and not acquisition — and nothing in the sources retrieved attributes any conservational role to elecampane, nor any action on the *ruh*. No *mufarrih* status is claimed, and none is sought: that category belongs to the *Kitāb al-Adwiya al-Qalbiyya*, not the *Canon*. The status is unattested; the frame is humoral-therapeutic.
 

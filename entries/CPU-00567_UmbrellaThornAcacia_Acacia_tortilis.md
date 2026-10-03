@@ -2,7 +2,8 @@
 
 ## *Vachellia tortilis* (Forssk.) Galasso & Banfi (syn. *Acacia tortilis* (Forssk.) Hayne) | Family: Fabaceae (Mimosoideae)
 
-**Tradition Tags:** EP (Egyptian/Pharaonic), AT (African Traditional)
+**Tradition Tags:** EP, WA
+**Tags (previous line, retained for reference):** EP (Egyptian/Pharaonic), AT (African Traditional)
 
 **Energetic Classification:** Cool, dry, astringent; contracting and consolidating. A binding agent in the classical sense — it draws tissue together rather than moving it.
 
@@ -85,7 +86,7 @@ Cool and dry in the humoral scheme, second degree; strongly astringent (*qābi�
 
 **Egyptian (EP).** No cultivation framing is attested for this species. The entry itself records that the genus is attested in dynastic Egypt but the species is not: the Egyptian term *šndt* is usually identified with another acacia, and Egyptian plant terms are cover-terms, so any identification with *Acacia tortilis* is a modern hypothesis. The Egyptian corpus is indication-organised, and its spell-plus-drug (*heka*) unit is not documented for this tree. Nothing here concerns the *ka*, *ba*, *akh* or *ib*. Left at (c).
 
-**Assyrian (AT).** No cultivation framing is attested. No cuneiform text, tablet or causal-agency classification is cited for this species, and identifications in Mesopotamian sources carry a blocking warning. The entry's own "AT" content is African ethnobotany (Sahel, Horn, East and Southern Africa), which is a different tradition from the Assyrian one and is not described here.
+**West African / Sub-Saharan (WA).** Across the Sahel, the Horn, and East and Southern Africa the tree is used for astringent-antiseptic ends: bark decoction as a wash and gargle for sore throat, mouth ulcers and gums; bark or root decoction for diarrhoea and dysentery; powdered bark or gum on wounds and burns; and wood smoke to fumigate wounds and containers. Pods and leaves are dry-season browse, and the pods a famine food for people. These are therapeutic and nutritional uses, so the claim sits at (b): no cultivation status is attested for the tree in these traditions. Vernacular names such as *samar* and *seyal* are applied loosely and need regional verification.
 
 **Practitioner's note.** Nothing. The astringent bark and soothing gum are practical remedies, with no cultivation status in either tradition as tagged.
 

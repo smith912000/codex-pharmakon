@@ -2,7 +2,8 @@
 
 ## *Hypericum calycinum* L. | Family: Hypericaceae
 
-**Tradition Tags:** DMM, CM
+**Tradition Tags:** DMM, EF
+**Tags (previous line, retained for reference):** DMM, CM
 
 **Energetic Classification:** Bitter, faintly astringent, resinous-aromatic; cool-to-neutral, drying. A "genus-doctrine" wound and nervine plant — carrying the family signature far more strongly than any proven medicinal action of its own.
 

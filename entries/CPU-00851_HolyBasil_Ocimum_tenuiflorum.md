@@ -2,7 +2,8 @@
 
 ## *Ocimum tenuiflorum* L. (≡ *O. sanctum* L.) | Family: Lamiaceae
 
-**Tradition Tags:** EP, AT, DMM, CM, SBJ, SS
+**Tradition Tags:** EP, AT, DMM, CM, TCM, SS, JAM
+**Tags (previous line, retained for reference):** EP, AT, DMM, CM, SBJ, SS
 **Tags (previous line, retained for reference):** SS (Sushruta/Ayurveda) · DMM (Dioscoridean/Graeco-materia medica lineage) · CM (Chinese materia medica, minor) · SBJ (Southeast-Asian/Jamu) · FMT (Folk Mediterranean/Near-Eastern) · BM (Biomedical)
 
 **Energetic Classification:** Ayurvedic — *katu* (pungent) and *tikta* (bitter) *rasa*, *ushna* (heating) *virya*, *katu vipaka*; kapha- and vata-pacifying, mildly pitta-aggravating in excess. Galenic analogue — warm and dry, second to third degree.
@@ -77,6 +78,8 @@ According to PubMed, small human studies support tulsi's traditional profile as 
 **Chinese / TCM (TCM).** Basil enters the Chinese materia medica as *luo le* 羅勒, an acrid, warm, qi-moving herb, but it carries no *san pin* 三品 grade in the sources retrieved; it is a later, largely culinary entrant rather than an upper-grade (上品) *yang sheng* 養生 drug taken long-term to nourish life. It therefore holds a therapeutic status only, not a cultivation one. (b) framed.
 
 **Ayurveda (SS).** Two statuses must be kept apart. The *ritual* status is genuine and among the best-documented living plant cults: tulsi is worshipped as the goddess Tulasī, kept on the raised *tulsi vrindavan*, and its leaf is obligatory in Vaishnava worship of Vishnu and Krishna. But that is a devotional cultivation status, not a *dravyaguna* one. On the dravyaguna side, tulsi is firmly attested in the Samhita materia medica as a pungent-bitter, heating aromatic — yet its classification as a formal *rasayana* (a Sushrutan rejuvenation discipline bearing on *ojas*) could not be confirmed in named classical scholarship in this pass; the popular "adaptogen/rasayana" reading appears to lean on modern reviews rather than the classics. (b) framed for the dravyaguna cultivation grade; the ritual status is real but must not be glossed into a dravyaguna one, and *ojas* is never to be translated into another tradition's substrate.
+
+**Javanese / Indonesian Jamu (JAM).** The entry records that across Thailand, Indonesia and the Malay world sacred and related basils appear both in cuisine (Thai *kaprao*) and in folk remedy for wind, cough and skin complaints. That is a culinary and therapeutic placement. The entry attests no Javanese jamu text or formula for holy basil specifically, and no cultivation status, so none is stated: nothing is attested for this tradition beyond those uses. Cultivation status: **absent**.
 
 **Practitioner's note.** What a cultivator actually does here is keep tulsi as a standing daily discipline — the household plant taken as a morning infusion or a chewed leaf to hold baseline composure under chronic low-grade load. The one unambiguous cultivation status it carries is devotional, not pharmacological. Its heating, drying nature makes it a stabiliser, not a rejuvenative to be loaded for "building *ojas*" — a claim that remains unverified. Honour the ritual; do not inflate the dravyaguna.
 

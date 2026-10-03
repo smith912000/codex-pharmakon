@@ -1,7 +1,8 @@
 # Wild Peony — Male Peony / Paeonia / The Physician's Flower
 ## *Paeonia mascula* (L.) Mill. — Wild Peony, Male Peony, Balkan Peony; native names: Greek *paiōnía árrēn* ("male peony"), Latin *paeonia mas*, Arabic *fāwāniyā* / *'ūd al-ṣalīb* ("cross-wood," from the crucifix-shaped root beads), Italian *peonia selvatica* | Family: Paeoniaceae
 
-**Tradition Tags:** EP, AT, DMM, CM
+**Tradition Tags:** EP, DMM, CM
+**Tags (previous line, retained for reference):** EP, AT, DMM, CM
 
 **Energetic Classification (Galenic/Unani):** Warm in the first-to-second degree, Dry in the second degree (*ḥārr yābis*) — an attenuating, opening, antispasmodic root, distinct from the cooling *Paeonia lactiflora* (Bái Sháo) of the Chinese tradition
 
@@ -84,8 +85,6 @@ The synthesis is therefore a genuine and rather beautiful case of doctrine-meeti
 ### Cultivation Register
 
 **Egyptian (EP).** The Egyptian corpus treats convulsive and "trembling/falling" conditions with a broad amulet-and-root apparatus, but — as the entry states — *Paeonia mascula* cannot be securely identified in the Egyptian materia medica, the genus being Mediterranean-Balkan rather than Nilotic. There is no *heka*-bearing role, no *ka*/*ib*/*akh* framing, and no vital-constitution status recorded for this species; what survives is the general antiquity of amulet therapy for seizure, not a peony monograph. Cultivation status: **(c) absent.**
-
-**Assyrian (AT).** Mesopotamian medicine handled the "falling" diseases (*bennu*, *AN.TA.ŠUB.BA*) within a largely incantatory and amulet-based frame, classifying such illness by the agency that seizes the patient. Root-and-stone seizure amulets belong to that world, but the standing blocking warning is in force for every Assyrian substance identification, and no secure cuneiform attestation of *Paeonia* is established. Nothing assigns this plant a status with respect to a person's vital constitution rather than the seizing agency it was thought to oppose. **(c) absent.**
 
 **Greek — Dioscorides (DMM).** Dioscorides gives *paiōnía* a systematic therapeutic account, distinguishing *árrēn* (male, *P. mascula*, undivided leaves) from *thḗleia* (female, divided leaves) and directing the root for uterine complaints, jaundice and renal pain. He also *records* the worn-root amulet against childhood epilepsy and nightmares — but recording an amuletic use is not endorsing it, and Dioscorides carries no subtle-body system in which a cultivation status could sit. What the tradition genuinely offers a cultivator is his discipline of attention: telling male from female peony by the leaf, knowing the root is the worked part. That is a practice of botanical discrimination and provenance, not a vital-body doctrine. **(c) absent** as to cultivation status.
 

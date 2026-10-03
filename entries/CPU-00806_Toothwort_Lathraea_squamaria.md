@@ -2,7 +2,8 @@
 
 ## *Lathraea squamaria* L. | Family: Orobanchaceae
 
-**Tradition Tags:** DMM, CM
+**Tradition Tags:** CM, EF
+**Tags (previous line, retained for reference):** DMM, CM
 
 **Energetic Classification:** Cold, damp, hidden (traditional signature attribution only — not chemically grounded)
 

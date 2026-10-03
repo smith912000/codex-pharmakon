@@ -2,7 +2,8 @@
 
 ## *Filipendula ulmaria* (L.) Maxim. | Family: Rosaceae
 
-**Tradition Tags:** DMM, CM
+**Tradition Tags:** EF
+**Tags (previous line, retained for reference):** DMM, CM
 **Energetic Classification:** Cool, dry, astringent-and-relaxing; descending; anti-febrile at the surface, binding in the gut
 **Training Phase:** Consolidation — a settling and cooling agent; the herb you take to come down, not to go up
 

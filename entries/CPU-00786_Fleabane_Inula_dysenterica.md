@@ -2,7 +2,8 @@
 
 ## *Pulicaria dysenterica* (L.) Bernh. (syn. *Inula dysenterica* L.) | Family: Asteraceae
 
-**Tradition Tags:** AT, DMM, CM
+**Tradition Tags:** DMM, CM
+**Tags (previous line, retained for reference):** AT, DMM, CM
 
 **Energetic Classification:** Cool–Dry; astringent-binding, aromatic-dispersive at the surface
 
@@ -115,8 +116,6 @@ This must be stated plainly. **A targeted search returned zero studies of *Pulic
 ---
 
 ### Cultivation Register
-
-**Assyrian (AT).** The Mesopotamian tablets record aromatic fumigation against household vermin and hold a substantial anti-diarrhoeal materia medica, and Inuleae-type composites grow across the region — but the entry itself is explicit that no securely identified Akkadian plant name attaches to *Pulicaria dysenterica*, and the Assyrian botanical vocabulary is poorly resolved. Under the standing blocking warning that governs every Assyrian substance identification, no claim of any kind is made for this species here — neither the causal-agency framing by which a drug is classed against a divine hand, ghost or oath, nor any cultivation status. **(c) absent.**
 
 **Greek — Dioscorides (DMM).** The plant enters the Western record under *Inula*/*Conyza*-adjacent names as a cold, dry, astringent binder for the flux, and the tradition carries no subtle-body system that could assign it a vital or cultivational status. What Dioscorides offers a cultivator instead is a discipline of attention: correct identification of the yellow-rayed composite against its Inuleae neighbours, the season and part gathered, and a sensory assay of astringency and aromatic pungency — the same doubled sensory reading the plant's two doctrines depend on. The amuletic or fumigatory uses the tradition records are recorded, not thereby endowed with a doctrine of the vital body. The standing is therapeutic and, in the burned-herb branch, hygienic. **(c) absent** as to cultivation status.
 

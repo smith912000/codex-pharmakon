@@ -4,7 +4,8 @@
 
 **Also known as:** Soldanella, Sea Bells, Seashore Bindweed, Beach Morning Glory, Sea Rocket (erroneously), Scottish Bindweed, 갯메꽃 (*gaenmaekkot*, Korean), ハマヒルガオ (*hamahirugao*, Japanese)
 
-**Tradition Tags:** DMM, TCM
+**Tradition Tags:** TCM, EF
+**Tags (previous line, retained for reference):** DMM, TCM
 **Tags (previous line, retained for reference):** DMM, CM
 
 **Energetic Classification:** Cold, Dry, Downward-Moving, Draining, Salt-Tempered (per the classical drastic-purgative reading — see *Traditional Energetic Classification*)
