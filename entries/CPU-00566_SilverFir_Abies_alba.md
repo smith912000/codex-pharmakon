@@ -124,6 +124,14 @@ Warm and dry, second degree. Balsamic, resinous, pungent-sweet. Attributed in th
 
 Direction: upward and outward — to the surface and to the breath. Tissue state addressed: cold damp stagnation in the chest; laxity and infection at the skin. The tradition treats fir as a **resolvent**: it does not nourish and it does not sedate, it disperses. That reading matches the pharmacology closely, so long as one understands "dispersal" as membrane disruption and volatilisation rather than as any subtler process.
 
+### Cultivation Register
+
+**Greek / Dioscorides (DMM).** No cultivation framing is attested. Dioscorides has no subtle-body system. His fir-related material is indexed under cedar (*De materia medica* 1-105, Osbaldeston & Wood 2000) and the resin wines (5-43, 5-47), where "fir" appears only in the translators' suggested identifications; none of it names *Abies alba*. What he records is therapeutic: resin for chest and urinary complaints. The cultivator's takeaway is his discipline of attention to provenance and adulteration, which this entry's German and Alsatian strands do not draw from him.
+
+**Avicenna / Unani (CM).** No cultivation framing is attested. The only Canon text available to check was an unreadable scan, and a scholarly lookup found no attestation of *Abies alba* in the Canon. The entry itself gives no Avicennan content for it, so nothing is claimed about innate heat, radical moisture or *ruh*.
+
+**Practitioner's note.** Nothing. This is a topical and inhalant resin remedy from European folk practice, not a cultivation substance in either tagged tradition.
+
 ### Contraindications
 
 - **Infants and young children — do not use camphoraceous or monoterpene inhalants. This is the most important line in this entry.** Application of camphoraceous/menthol-type volatile preparations near the face or nostrils of infants and small children is associated with reflex apnoea, bronchospasm, and **laryngospasm**. The TRPM8 cold-sensation mechanism that makes these preparations *feel* decongestant to an adult can, in a small airway with brisk reflexes, produce the opposite of a patent airway. Do not apply fir oil to an infant's chest, do not put it near the face, and do not steam-inhale a child over a bowl. [USER: verify — the laryngospasm/reflex-apnoea contraindication for camphoraceous inhalants in infants is standard paediatric and regulatory guidance, but no retrieved study this run tested *Abies alba* specifically; source a current paediatric reference before printing.]

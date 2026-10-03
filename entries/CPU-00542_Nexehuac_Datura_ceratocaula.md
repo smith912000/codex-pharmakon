@@ -150,6 +150,14 @@ González et al., IC₅₀ 2.8–21.5 µM ([DOI](https://doi.org/10.1016/j.fitot
 
 ---
 
+### Cultivation Register
+
+**Nahua, Badianus (BM).** No cultivation framing is attested for this species. The entry itself holds that the Badianus (Martin de la Cruz and Juan Badiano, 1552) attests a tlapatl-type Datura at genus level at best, so species-level attestation is unconfirmed. The Badianus is itself naturalistic: the tonalli, teyolia and ihiyotl model of illness as loss, displacement or imbalance of vital entities is reconstructed from later ethnohistory (Lopez Austin) and is not in the manuscript, so it is not applied here. The hot/cold overlay is left unresolved.
+
+**South American (SA).** No cultivation framing is attested. The material under this tag is a colonial Mexican record (the "sister of ololiuhqui" and torna-loco labels), not South American ethnography, and the entry marks both attributions as unverified for this species rather than for Datura generally. No dieta, teacher-plant status or named people is documented, and no subtle-anatomy scheme exists to import.
+
+**Practitioner's note.** Nothing. The entry classes this as a deliriant poison, and no cultivation use is supported.
+
 ### Contraindications
 
 ☠️ **ABSOLUTE — USE IS PROHIBITED IN ALL PERSONS, BY ALL ROUTES, AT ALL DOSES, IN ALL PREPARATIONS. THERE ARE NO EXCEPTIONS AND NO QUALIFYING CONDITIONS.**

@@ -96,6 +96,14 @@ Kenetica **revises this downward**. The classical assignment presumes a pulegone
 
 Filed energetically alongside thyme rather than alongside pennyroyal. The reclassification is the entry's substantive contribution.
 
+### Cultivation Register
+
+**Greek / Dioscorides (DMM).** No cultivation framing is attested, and the species itself is not named. Dioscorides has no subtle-body system. His *akinos* (3-50) and *okimoeides* (4-28) (Osbaldeston & Wood 2000) are matched by the translators to *Acinos* only at genus level, and the recorded uses are therapeutic: a drink to stop intestinal and menstrual discharges, applications for skin and eye conditions, a seed decoction for snakebite. Applying them to *Acinos alpinus* is a congener inference, not an attestation. His real offering to a cultivator is a discipline of attention to provenance and identification.
+
+**Avicenna / Unani (CM).** No cultivation framing is attested. The entry glosses this tag as Central European mountain folk practice, which is not the Unani / Avicenna tradition the code denotes, and no Avicennan text naming this plant was available to check. Neither Avicennan nor Unani material is claimed here. The entry's own regional content is a modest digestive tea, which is therapeutic only.
+
+**Practitioner's note.** Nothing. It is a pleasant aromatic tea with no cultivation status, and the entry's own caution about thin data applies.
+
 ### Contraindications
 
 Stated with the honesty the evidence demands: **there is no toxicological literature for this species. Every item below is precautionary reasoning, not established risk.** The absence of documented harm reflects the absence of study, not the presence of safety.

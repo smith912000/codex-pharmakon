@@ -146,6 +146,14 @@ Carob pod is food. It has calories and sugar. **That is a nutritional fact, not 
 
 ---
 
+### Cultivation Register
+
+**Egyptian (EP).** No cultivation framing is attested. The Egyptian medical corpus is indication-organised: it records what was done for a complaint, not what a substance does to the person's constituents (ka, ba, akh, ib). The entry's own Egyptian paragraph is therapeutic and dietary only, and it flags its Ebers paragraph numbers as unverified. The identification of the pod with carob is a modern hypothesis, not a settled reading. No heka (spell and recitation) pairing is recorded in the entry for this substance, so none is stated.
+
+**Dioscorides (DMM).** Carob is attested as keratia, De materia medica 1-158 (Osbaldeston & Wood 2000): pods taken fresh are bad for the stomach and loosen the intestines, dried they stop discharges of the bowels, and they are also better for the stomach and diuretic. This is a therapeutic attestation with no cultivation status. Dioscorides has no subtle-body system. What the passage does offer a practitioner is a discipline of attention: the effect depends on the state of the pod, fresh or dried.
+
+**Practitioner's note.** Nothing for cultivation. The only practice the sources support is attention to preparation: fresh and dried pod are different drugs in Dioscorides.
+
 ### Contraindications
 
 **General:** a food-grade drug with a narrow but sharp set of real cautions. None of these are theoretical.

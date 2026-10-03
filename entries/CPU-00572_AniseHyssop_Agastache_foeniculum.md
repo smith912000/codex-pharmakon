@@ -101,6 +101,14 @@ In the Plains reading, its energetic signature is *hospitality* — the sweet th
 
 Filed energetically alongside tarragon and sweet basil — its actual phenylpropanoid kin — and explicitly **not** alongside *Hyssopus officinalis*, with which it shares only a misleading name.
 
+### Cultivation Register
+
+**Shennong / classical Chinese (SBJ).** No cultivation framing is attested, and no attestation is possible. *Agastache foeniculum* is a North American prairie plant, so it cannot appear in the Shennong Bencao Jing (c. 200 BCE), and there is no *san pin* grade for it. The tag as written ("Sun-Belt / Great Plains Indigenous") describes North American Indigenous ethnobotany, not the Chinese classic the code denotes. The Chinese drug *huo xiang* belongs to a different species, *Agastache rugosa*, and none of its material is imported here. The Plains Indigenous uses in the entry (sweetener, tea, cough and fever remedy) are therapeutic and culinary, not cultivation categories.
+
+**Aztec / Nahua (BM).** No cultivation framing is attested. The Badianus manuscript is itself naturalistic and does not contain the tonalli / teyolia / ihiyotl model, which is reconstructed from later ethnohistory (López Austin); no Nahua source names this plant. The tag as written ("Botanical Medicine, modern Euro-American") describes a modern derivative practice that the entry itself says is not independent attestation, and it is not the Badianus tradition. Left at (c).
+
+**Practitioner's note.** Nothing. It is a sweet, aromatic tea and sweetener, with no cultivation status in either tradition as tagged.
+
 ### Contraindications
 
 - **⚠️ ESSENTIAL OIL, INTERNAL USE — ABSOLUTELY CONTRAINDICATED.** At 88–95% estragole ([DOI](https://doi.org/10.3390/plants10061061), [DOI](https://doi.org/10.3390/ijms24010828)), internal use of this oil is functionally the ingestion of near-neat estragole, a genotoxic hepatocarcinogen requiring only CYP-mediated hydroxylation and sulfation to form hepatic DNA adducts ([DOI](https://doi.org/10.1016/j.tox.2020.152566)). There is no dose of this oil the codex will offer for internal use.

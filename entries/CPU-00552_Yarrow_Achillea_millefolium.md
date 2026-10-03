@@ -106,6 +106,14 @@ Graded honestly. Yarrow is a plant with a large traditional reputation and a sma
 
 Cool and dry. Bitter, pungent, astringent. Assigned in Western humoral practice to Venus and, in some sources, to Mars — a split that mirrors the plant's double action: Venusian in its soft feathered leaf and its use for the menses, Martial in its blood and its battlefield. Directionally: centripetal in poultice (draws in, binds), centrifugal in hot infusion (drives out, opens). The tradition's insistence that these are one action is doctrine, not chemistry.
 
+### Cultivation Register
+
+**Dioscorides (DMM).** Yarrow is attested as stratiotes chiliophyllos, De materia medica 4-103 (Osbaldeston & Wood 2000): a small shrub of rough fields and roadsides, with leaves like a young bird's feathers and small white flowers, described as excellent for excessive discharge of blood and for old and new ulcers and fistulas. This is a therapeutic attestation with no cultivation status. Dioscorides has no subtle-body system. What the passage offers a cultivator is a discipline of attention: a field description for identifying the plant by leaf, flower and habitat. The passage does not mention Achilles, so the "herb of Achilles" framing in the entry is not from this chapter.
+
+**Nahua, Badianus (BM).** No cultivation framing is attested. The entry's Nahua paragraph rests on colonial-era herbal identifications of tlalquequetzal and marks them as disputed, and it does not cite the Badianus itself; the attestation was not confirmed here. The plant is not an anachronism, since yarrow is native to North America. The Badianus is naturalistic; the tonalli, teyolia and ihiyotl model comes from later ethnohistory (Lopez Austin) and is not in the manuscript.
+
+**Practitioner's note.** Nothing for cultivation. In Dioscorides, yarrow is a wound and blood-flow herb, and learning to recognise it in the field is the practice.
+
 ### Contraindications
 
 - **Asteraceae sensitisation.** Yarrow is a well-recognised cause of allergic contact dermatitis, driven by its sesquiterpene lactones. Anyone reactive to chamomile, feverfew, ragweed, arnica, or chrysanthemum should treat yarrow as suspect. Patch-test before repeated topical use. This is the most common real-world adverse event with this plant.

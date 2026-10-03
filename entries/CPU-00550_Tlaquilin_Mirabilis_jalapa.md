@@ -128,6 +128,14 @@ According to PubMed, the *M. jalapa* literature is **substantial but almost enti
 
 The traditions agree, which is unusual and here unhelpful — they agree because they were all describing the same violent observable effect, and none of them knew what was producing it.
 
+### Cultivation Register
+
+**Chinese classical, Shennong stratum (SBJ).** Anachronism: this tag cannot be correct. Mirabilis jalapa is a New World plant, and the entry itself states that Chinese use cannot predate roughly 1500 CE, so it cannot occur in the Shennong Bencao Jing (c. 200 CE). It is not found in the sections of Yang Shou-zhong's 1998 translation consulted either. No san pin grade and no cultivation status exist, and none is stated. The Chinese use the entry records (zi moli gen, damp-heat, swellings) is a later folk adoption, which at most belongs to a later Chinese stratum, not to this one.
+
+**Nahua, Badianus (BM).** No cultivation framing is attested. The entry reports tlaquilin in the Badianus (Martin de la Cruz and Juan Badiano, 1552), but marks the folio and wording as unverified, and that attestation was not confirmed here. The Badianus is itself naturalistic; the tonalli, teyolia and ihiyotl model comes from later ethnohistory (Lopez Austin) and is not in the manuscript. The therapeutic frame the entry gives is purgative and skin use only.
+
+**Practitioner's note.** Nothing for cultivation. The root is a violent purge, and the entry restricts it, endorsing topical use only.
+
 ### Contraindications
 
 **⚠️ CLASS WARNING: This plant contains a type 1 ribosome-inactivating protein in the structural family of ricin and abrin. Handle every recommendation below as governing, not advisory.**

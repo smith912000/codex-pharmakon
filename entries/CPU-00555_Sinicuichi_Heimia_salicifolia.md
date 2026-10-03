@@ -128,6 +128,14 @@ The tradition assigns it to the sun — *tonatiuh yxiuh*, *abre-o-sol*. The phar
 
 Taste: bitter, slightly astringent. Direction: downward and inward. Tissue state addressed: heat and irritation. Where the folk tradition and the alkaloid chemistry agree, they agree that this plant *cools*.
 
+### Cultivation Register
+
+**Aztec / Nahua (BM).** No cultivation framing is attested for this substance. The Badianus manuscript is itself naturalistic and does not contain the tonalli / teyolia / ihiyotl model; that model is reconstructed from later ethnohistory (López Austin), and nothing retrieved ties it to this plant. The Nahuatl name *tonatiuh yxiuh* and its attachment to *Heimia salicifolia* rest on an unverified chain through secondary literature, so even the therapeutic or divinatory claim stays unconfirmed here. Scholarly lookups found no firm primary-source attestation, so this stays at (c).
+
+**South American (SA).** Framed, status unattested (b). The attestation is folk-medicinal and ethnographic, not textual, and the sources retrieved generalise across the plant's range instead of naming a specific people; the Argentine folk-pharmacopoeia use and the Brazilian name *abre-o-sol* are therapeutic (febrifuge, diuretic, wound wash). No *dieta*, teacher-plant status or other cultivation framing is recorded for this species. No subtle anatomy is implied.
+
+**Practitioner's note.** Nothing. The reputation as a memory or divination plant is poorly substantiated, and the documented use is a plain cooling folk remedy, not a discipline.
+
 ### Contraindications
 
 - **Pregnancy and breastfeeding — avoid absolutely.** Quinolizidine alkaloids as a class carry teratogenic concern, and *H. salicifolia* has folk gynaecological use, which is itself a warning flag. There is no safety data. Do not use.

@@ -81,6 +81,14 @@ Graded honestly. This is a well-studied *tree* and a poorly studied *medicine*.
 
 Cool and dry in the humoral scheme, second degree; strongly astringent (*qābiḍ* in the Arabic materia medica sense — a binder). Contracting rather than dispersing. The tree's own physiology is the doctrine written large: a plant that survives by refusing to lose water yields a drug that acts by refusing to let tissue lose fluid. Kenetica classifies it as a **grounding, terminal material** — it ends a process, it does not start one. Its gum, by contrast, is cool and *moist*, and belongs to the opposite pole of the same tree.
 
+### Cultivation Register
+
+**Egyptian (EP).** No cultivation framing is attested for this species. The entry itself records that the genus is attested in dynastic Egypt but the species is not: the Egyptian term *šndt* is usually identified with another acacia, and Egyptian plant terms are cover-terms, so any identification with *Acacia tortilis* is a modern hypothesis. The Egyptian corpus is indication-organised, and its spell-plus-drug (*heka*) unit is not documented for this tree. Nothing here concerns the *ka*, *ba*, *akh* or *ib*. Left at (c).
+
+**Assyrian (AT).** No cultivation framing is attested. No cuneiform text, tablet or causal-agency classification is cited for this species, and identifications in Mesopotamian sources carry a blocking warning. The entry's own "AT" content is African ethnobotany (Sahel, Horn, East and Southern Africa), which is a different tradition from the Assyrian one and is not described here.
+
+**Practitioner's note.** Nothing. The astringent bark and soothing gum are practical remedies, with no cultivation status in either tradition as tagged.
+
 ### Contraindications
 
 - **Constipation, atonic bowel, diverticular disease** — the astringent action worsens all three.
