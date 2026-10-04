@@ -2,7 +2,8 @@
 
 ## *Urtica laetevirens* Maxim. — the stinging mountain herb, nutritive blood-builder and anti-rheumatic of the high Asian forests
 
-**Tradition Tags:** SBJ, SS
+**Tradition Tags:** TCM, SS
+**Tags (previous line, retained for reference):** SBJ, SS
 **Tags (previous line, retained for reference):** Tibetan / Four Medical Tantras (FMT-adjacent, *Urtica* genus) · Himalayan & Chinese folk medicine · Ayurveda (genus-adjacent, *Vrishchikali/Bichhu-buti*) · Sowa Rigpa
 **Energetic Classification (TCM):** ◉ Qi (nutritive, circulation-stimulating) / ◈ Jing (blood/mineral nourishment)
 **Training Phase:** [GENERAL]
@@ -64,7 +65,7 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 ### Cultivation Register
 
-**Chinese (SBJ).** Local *Urtica* including this species appear in Chinese and Himalayan **folk** use for rheumatic pain and as a blood-tonic diuretic; this is folk practice, not a *bencao san pin* placement. No upper/middle/lower grade is recorded and no *yang sheng* framing attaches — attested in use, no cultivation grade: (b).
+**Later Chinese medicine (TCM).** Local *Urtica* including this species appear in Chinese and Himalayan **folk** use for rheumatic pain and as a blood-tonic diuretic; this is folk practice, not a *bencao san pin* placement. No upper/middle/lower grade is recorded and no *yang sheng* framing attaches — attested in use, no cultivation grade: (b).
 
 **Ayurvedic (SS).** The entry's Ayurvedic link is explicitly genus-adjacent — *Vrishchikali / Bichhu-buti*, the "scorpion plant" — not *U. laetevirens* itself. No *rasayana* or *vajikarana* status is attested for this plant, and its pungent-warming anti-rheumatic reputation is a *dravyaguna* therapeutic note, not a vitality assignment. (b)/(c).
 
