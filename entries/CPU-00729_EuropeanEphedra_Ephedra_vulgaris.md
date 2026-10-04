@@ -2,7 +2,8 @@
 
 ## *Ephedra distachya* L. (syn. *E. vulgaris* Rich.) | Family: Ephedraceae
 
-**Tradition Tags:** DMM, CM
+**Tradition Tags:** DMM, CM, ZOR
+**Tags (previous line, retained for reference):** DMM, CM
 **Tags (previous line, retained for reference):** AT, DMM, CM
 
 **Energetic Classification:** Acrid, slightly bitter; warm to hot; dispersing and ascending. A wind-opening, surface-releasing agent whose action is centrifugal — it drives from the core toward the skin and the airway.
@@ -99,6 +100,8 @@ Practitioner-facing use is limited to: recognising sympathomimetic load in a per
 **Greek — Dioscorides (DMM).** Classical materia medica records a jointed, leafless shrub used as an astringent and for cough and chest flux, but the identification of that drug with modern *Ephedra distachya* is a reconstruction by later botanists rather than a claim the ancient text itself makes — the entry marks it as such. Dioscorides carries no subtle-body system to which a cultivation status could attach. What his tradition offers a cultivator is a discipline of attention — the drying, binding, chest-clearing action judged by sensory assay, and the guard against a substituted species whose alkaloid load is provenance-dependent (pseudoephedrine-dominant in sampled *distachya*, ephedrine-bearing elsewhere). No cultivation status. **(c) absent.**
 
 **Unani — Avicenna (CM).** The content under this tag is Chinese, not Unani: *Ma Huang* 麻黄 (*Ephedra sinica*), an acrid-warm exterior-releasing herb of the *Bencao*, cited here expressly *for contrast* — *E. distachya* is not given its indications, and the classical Chinese tradition itself hedges Ma Huang with deficiency and spontaneous-sweating contraindications rather than any life-nourishing use. No Unani source is documented. The Unani longevity idea — conservation of innate heat and radical moisture — would in any case reckon a hot, dispersing sympathomimetic a spender of that finite endowment, not a builder of it. No cultivation framing is attested for this species. **(c) absent.**
+
+**Zoroastrian / Avestan (ZOR).** In the *Yasna* liturgy *haoma* is pressed, strained and drunk, and praised as strength-giving, wakefulness-giving and death-averting. Those praises belong to *haoma*, and which plant *haoma* originally denoted is an open question in Iranian philology: Ephedra is a leading candidate, supported by the *hōm* twigs of living Zoroastrian and Parsi practice, but *Peganum harmala* and fungi have their advocates. The identification is therefore a scholarly hypothesis, not an attestation, and the liturgical praises are not transferred to *Ephedra vulgaris* here.
 
 **Practitioner's note.** A cultivator does nothing with this plant; Kenetica issues no protocol, and the register only sharpens why. The one cultivation-shaped claim in its dossier — the haoma doctrine of wakefulness and death-averting — is both botanically unproven for Ephedra and, where the pharmacology is real, a description of borrowed sympathetic arousal: tomorrow's reserve spent at interest, not vitality accrued. Everything a longevity frame would want — conservation, nourishment, a wide denominator of safe long use — this plant is the opposite of. Its only use to a practitioner is diagnostic: recognising hidden sympathomimetic load in a person's stack, and reading the haoma literature as evidence that ritual arousal traditions were often pharmacological rather than visionary.
 

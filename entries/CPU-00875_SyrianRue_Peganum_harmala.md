@@ -2,7 +2,8 @@
 
 ## *Peganum harmala* L. | Family: Nitrariaceae (formerly Zygophyllaceae)
 
-**Tradition Tags:** AT, DMM, CM, SS, SA
+**Tradition Tags:** AT, DMM, CM, SS, SA, PRF
+**Tags (previous line, retained for reference):** AT, DMM, CM, SS, SA
 **Tags (previous line, retained for reference):** EP, AT, DMM, CM, SS, SA
 **Tags (previous line, retained for reference):** DMM (Dioscoridean/Graeco *pēganon agrion*) · EP (ancient Near-Eastern/Persian ritual) · CM-analogue (Unani/Tibb — *ḥarmal*) · FMT (Folk Persian/Anatolian/North-African) · SBJ (minor) · BM (Biomedical)
 

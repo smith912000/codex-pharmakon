@@ -1,6 +1,7 @@
 # Chaga — Chaga Conk / Tschaga / Birch Bracket
 ## *Inonotus obliquus* (Ach. ex Pers.) Pilát | Family: Hymenochaetaceae
-**Tradition Tags:** SBJ
+**Tradition Tags:** SBJ, SIB
+**Tags (previous line, retained for reference):** SBJ
 **Tags (previous line, retained for reference):** SBJ (secondary — black conks in *jie* category), AT (Siberian/Scythian-adjacent tradition)
 **Energetic Classification:** ◉ Qi Primary — Immune Qi, Antioxidant Shield / ⊕ Yuan Secondary — Anti-Aging, Telomere-Adjacent Longevity Qi
 **Training Phase:** `[BUILD]` `[PRIME]` (immune support during high-load phases) / `[CYCLE-OFF]` (antioxidant and anti-cancer support)
@@ -135,6 +136,8 @@ The Mumijo/Shilajit (II_101) cross-reference demands elaboration. These two subs
 *(Note: this entry is filed in the plant volume, but* Inonotus obliquus *is a fungus — a sterile sclerotial conk of a Hymenochaetales basidiomycete, not a plant. Its register is written honestly on that basis; the misfiling is flagged.)*
 
 **Chinese — Bencao (SBJ).** The *san pin* 三品 grading of the *Shennong Bencao Jing* — upper 上品 for substances taken long-term to nourish life, middle, and lower — is the tradition's cultivation hierarchy, but it can only be assigned to a substance the classical *bencao* actually catalogues. By the entry's own admission the *Shennong Bencao Jing* does not catalogue *Inonotus obliquus*; the SBJ tag rests on the general presence of bracket-fungus (*jie*) references and on a northern Manchurian/Korean folk use of the birch conk (*bái huà róng*), which is a regional stratum distinct from the Han classical *bencao*, not the Shennong layer. No *san pin* grade is recorded for this species in any named classical source, so none may be assigned; the later *Fu Zheng* 扶正 and *Jie Du* 解毒 mappings in the profile above are modern interpretive overlays, not a classical cultivation status. Cultivation status: **(c) absent** for the Shennong stratum — the classical *bencao* does not know this fungus, and its actual East-Asian home is a Manchurian/Korean folk tradition that carries no code here.
+
+**Siberian / boreal folk (SIB).** The entry places chaga's primary traditional use among the indigenous peoples of western Siberia, above all the Khanty (Ostyak) of the Ob region: the conk simmered for hours into a dark tea drunk daily as a general tonic and restorative, with the name *tschaga* taken into Russian from the Khanty term. That is a documented folk practice of habitual, food-like use, recorded largely through Russian ethnography. No cultivation doctrine is attested: the sources give no account of what the tea does to the person's vital constitution beyond restoring strength, and none should be supplied.
 
 **Practitioner's note.** In the tradition that actually uses it, chaga is a ground-level tonic — the Khanty "strengthening medicine" and Russian folk *befungin*, simmered as a daily dark tea for the ill, the elderly and the healthy alike, and taken over long stretches against weakness, gastric complaint and hardened wasting disease. That long-duration, low-key, conservational use is a real cultivation pattern in its own boreal terms, even though neither the Chinese *bencao* nor the Assyrian corpus supplies a status for it. A cultivator treats it accordingly: a daily restorative and immune tonic taken in cycles, decocted in hot water (below a boil) for the polysaccharides and melanin, dual-extracted if the triterpenes are wanted — and kept away from anyone with an oxalate/kidney-stone history, whatever tradition is invoked.
 

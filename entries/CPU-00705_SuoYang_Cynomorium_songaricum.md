@@ -2,7 +2,8 @@
 
 ## *Cynomorium songaricum* Rupr. | Family: Cynomoriaceae
 
-**Tradition Tags:** SBJ
+**Tradition Tags:** SBJ, MON
+**Tags (previous line, retained for reference):** SBJ
 **Tags (previous line, retained for reference):** SBJ, FMT
 
 **Energetic Classification:** Warm; sweet; entering Kidney and Large Intestine channels. Tonifying and moistening — an unusual pairing that the tradition itself flags as the drug's signature.

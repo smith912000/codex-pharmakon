@@ -2,7 +2,8 @@
 
 ## *Taraxacum mongolicum* Hand.-Mazz. — the bitter rosette that clears the fire of swelling and toxin
 
-**Tradition Tags:** SBJ, FMT
+**Tradition Tags:** SBJ, FMT, MON
+**Tags (previous line, retained for reference):** SBJ, FMT
 
 **Energetic Classification (TCM):** ◉ Qi
 
@@ -91,6 +92,8 @@ Where the European tradition prized dandelion chiefly as a bitter hepatic and di
 **Chinese — Bencao (SBJ).** *Pú gōng yīng* is recorded as bitter, sweet and cold, entering the Liver and Stomach channels, and worked to clear heat and resolve fire-toxin (*qīng rè jiě dú*), reduce swelling and dissipate nodules (*xiāo zhǒng sàn jié*) — above all for *rǔ yōng* (mastitis). This is a draining, dispersing action: the herb attacks a hot excess and is, in the tradition's own terms, no deep tonic — it drains rather than builds. That places it at the opposite pole from *yang sheng* 養生, the conservational nourishing of life, and no *san pin* 三品 grade (upper 上品 / middle 中品 / lower 下品) is recorded for this species in the sources retrieved, so no cultivation grade can be assigned to it. Its standing is therapeutic, not a cultivation status. **(b) framed:** attested in the materia medica, no *san pin* grade sourced.
 
 **Tibetan (FMT).** The entry body records no Tibetan attestation for *T. mongolicum* — its traditional account is Chinese, with a Western-bitter correlate and a steppe folk note — and the FMT tag is not substantiated by any Tibetan source here. Tibetan medicine in any case holds no formal category of substances for subtle-body cultivation, so even were a dandelion drug granted a therapeutic place in Sowa Rigpa, it would carry no cultivation grade. No cultivation framing is attested. **(c) absent** — and the FMT tag itself is flagged below as unsupported by the entry.
+
+**Mongolian / steppe folk (MON).** The entry records the dandelion as a familiar steppe folk bitter: eaten as a spring potherb and used for hot, inflamed complaints and sluggish digestion. No source is named for this, and it is not distinguished from the Chinese *pú gōng yīng* account or from Mongolian medicine's Tibetan-derived materia medica. It is therefore framed as therapeutic and dietary folk use only; no cultivation status is attested in this tradition.
 
 **Practitioner's note.** A cultivator uses dandelion as a corrective, not a cultivator's tonic: a bitter-cold drain for a hot, swollen, damp-heat excess — mastitis, hot sores, a congested liver, sluggish bile — taken while the heat pattern is present and stopped once it clears. The gentlest register, the young spring leaf as a bitter potherb, is the only form fit for indefinite use, and even that builds nothing; it prompts digestion and passes. In a cold, deficient constitution it is the wrong herb entirely.
 

@@ -2,7 +2,8 @@
 
 ## *Agastache foeniculum* (Pursh) Kuntze | Family: Lamiaceae
 
-**Tradition Tags:** EF
+**Tradition Tags:** EF, NAI
+**Tags (previous line, retained for reference):** EF
 **Tags (previous line, retained for reference):** SBJ (Sun-Belt / Great Plains Indigenous), BM (Botanical Medicine, modern Euro-American)
 
 **Energetic Classification:** Warm, dry, sweet-aromatic, gently dispersing and relaxing — a sweet warmth rather than a pungent one.
@@ -105,6 +106,8 @@ Filed energetically alongside tarragon and sweet basil — its actual phenylprop
 ### Cultivation Register
 
 **European folk / phytotherapy (EF).** Anise hyssop entered Western herbal practice late and largely through horticulture, as a garden and pollinator plant first and a medicine second. Modern use repeats the Indigenous indications, namely cough, cold, a digestive tea and a culinary aromatic, with a topical wound-healing use that has some animal evidence. The entry treats this as a derivative tradition, not an independent attestation. No European cultivation status is attested, so the claim sits at (c): nothing is attested beyond borrowed therapeutic use.
+
+**North American Indigenous (NAI).** This is the plant's primary tradition. The ethnobotanical record cited in the entry names the Cree, Chippewa/Ojibwe and Lakota among the Plains and prairie nations who used anise hyssop as a sweetener for foods and harsher medicines, as a beverage tea, and for cough, chest complaints and fever, the tea also given to bring on a sweat; some sources add burning as an incense or smudge. These are food, medicinal and possibly ceremonial uses, attested ethnographically. No account of the plant's action on the person's vitality is attested, and none is supplied here.
 
 **Practitioner's note.** Nothing. It is a sweet, aromatic tea and sweetener, with no cultivation status in either tradition as tagged.
 

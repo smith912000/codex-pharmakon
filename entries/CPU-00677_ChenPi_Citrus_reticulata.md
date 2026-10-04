@@ -2,7 +2,8 @@
 
 ## *Citrus reticulata* Blanco | Family: Rutaceae
 
-**Tradition Tags:** CM, SBJ
+**Tradition Tags:** CM, SBJ, KAM
+**Tags (previous line, retained for reference):** CM, SBJ
 **Tags (previous line, retained for reference):** CM, SBJ, SS
 
 **Energetic Classification:** Warm, acrid-bitter, aromatic; descending-and-dispersing. Enters Spleen, Stomach, Lung.
@@ -122,6 +123,8 @@ Hesperidin's human clinical base is thinner than its ubiquity in supplement mark
 **Unani — Avicenna (CM).** No Unani attestation for mandarin peel is present in the entry, and the CM tag does not fit the plant: *Citrus reticulata* is an East Asian citrus, not part of the classical Perso-Arabic materia medica, and the body carries no *Ibn Sīnā* or Unani content whatsoever. The Unani corpus's strongest cultivation idea — conservation of the finite innate heat and radical moisture — is nowhere assigned to this drug, and no *mufarrih* or cardiac-*ruh* role is claimed. The tag is a code misapplication (see attestation flag). **(c) absent.**
 
 **Chinese — Bencao (SBJ).** Here the tradition assigns a genuine cultivation status. The citrus that yields this peel — 橘柚 (*jú yòu*) — is entered in the **upper grade (上品)** of the *Shennong Bencao Jing*, the classical grade of substances "harmless to humans" taken long-term to nourish life (養命), as rendered in Yang Shou-zhong's translation *The Divine Farmer's Materia Medica* (Blue Poppy Press, 1998; 橘 being the mandarin, *C. reticulata*). This is a true *san pin* 三品 placement from the foundational Chinese classic, not a late compilation, so it grades **(a) attested** — an upper-grade drug within *yang sheng* 養生, the conservational, non-curative project. Two honest qualifications belong to the record: the classical *shang pin* status attaches to the citrus/peel as such, while the drug's defining refinement — the *aged* peel 陳皮, the graded Guang Chen Pi vintage doctrine, and the *qing pi* 青皮 / *ju hong* 橘紅 anatomical splits — is a post-classical (TCM-stratum) elaboration layered on top; and the upper-grade placement is a longevity-class *grade*, not a claim that ageing tonifies *jing* — the materia medica records no *jing* action here, and none is asserted. **(a) attested** for the *shang pin* grade; the ageing doctrine itself remains processing-craft, not a separate cultivation status.
+
+**Kampo (KAM).** The entry records *chinpi* (陳皮) as a crude drug of the Japanese Kampo repertoire, retaining its qi-regulating role inside the standard formulas inherited from Chinese sources, and notes that Kampo specifies it as a defined drug without the Guangdong trade's age-grading. That is a formula-medicine placement: therapeutic, standardised, and carrying no cultivation status in this tradition. The entry marks its specific Kampo formula references for verification.
 
 **Practitioner's note.** Chen pi carries a real cultivation credential and a real limit, and the two must be held together. The credential: the citrus sits in the *Shennong* upper grade, the longevity-class of drugs taken over time — consistent with chen pi's actual use as a mild, daily-scale digestive regulator and as the *de-cloying* adjunct that keeps sweet tonics from generating the very damp stagnation they would otherwise cause. The limit: "upper grade" is a conservational grading, not a licence for the vintage-market inference that a fifteen-year peel out-treats a five-year one — the chemistry changes with age but "better in a patient" is unproven, and one measured fraction (the polysaccharides) is destroyed by fifteen years. A cultivator uses aged peel (three to five years is defensible) as a long-tolerable middle-burner regulator, and pays for provenance beyond that as culture, not pharmacology.
 

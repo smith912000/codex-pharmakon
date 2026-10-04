@@ -2,7 +2,7 @@
 
 ## *Erigeron canadensis* L. (= *Conyza canadensis* (L.) Cronquist) | Family: Asteraceae
 
-**Tradition Tags:** none coded (North American Indigenous use; a code for it is pending a ruling, ATTESTATION_QUEUE §MM)
+**Tradition Tags:** NAI
 **Tags (previous line, retained for reference):** SBJ, BM
 **Energetic Classification:** Dry, cooling-astringent, dispersive at the surface; binding in the interior
 **Training Phase:** Consolidation — a minor astringent-and-repellent herb, not an initiatory agent

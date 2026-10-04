@@ -2,7 +2,8 @@
 
 ## *Gnaphalium uliginosum* L. | Family: Asteraceae
 
-**Tradition Tags:** CM
+**Tradition Tags:** CM, RUS
+**Tags (previous line, retained for reference):** CM
 **Tags (previous line, retained for reference):** DMM, CM
 **Energetic Classification:** Astringent, slightly bitter, cool; drying; settling/lowering
 **Training Phase:** Stabilisation / Sealing (a mild binding and settling corrective, most distinctively used to lower and to heal weeping tissue)

@@ -2,7 +2,8 @@
 
 ## *Uncaria rhynchophylla* (Miq.) Miq. ex Havil. | Family: Rubiaceae
 
-**Tradition Tags:** SBJ
+**Tradition Tags:** SBJ, KAM
+**Tags (previous line, retained for reference):** SBJ
 **Tags (previous line, retained for reference):** SBJ, FMT
 
 **Energetic Classification:** Sweet, cool; descending and settling. Enters Liver, Pericardium.
@@ -180,6 +181,8 @@ Kushida, Matsumoto & Ikarashi, *Frontiers in Pharmacology* 2021 ([DOI](https://d
 ### Cultivation Register
 
 **Chinese classical, Shennong stratum (SBJ).** No cultivation status is attested for Gou Teng 钩藤. The drug is not found in the sections of the Shennong Bencao Jing consulted (Yang Shou-zhong 1998), and the review the entry itself relies on (Cao et al. 2024, [DOI](https://doi.org/10.1016/j.jep.2024.117848)) places its first compilation in the later Mingyi Bielu, attributed to Tao Hongjing. It therefore carries no san pin 三品 grade in this stratum. What the entry documents is therapeutic: 平肝熄风, extinguishing liver wind and subduing ascendant yang. That is a medicinal frame, not a yang sheng 養生 one.
+
+**Kampo (KAM).** As *chōtōkō* (釣藤鈎), Gou Teng is a component of standard Kampo formulas, among them *yokukansan* (抑肝散) and *chōtōsan* (釣藤散), and the entry notes that its modern study is largely Kampo-driven because the formulas are manufactured to a standard. Its role is defined by its place in those formulas, a therapeutic one. No cultivation status is attested, and the Chinese *san pin* grading is not carried over into Kampo practice.
 
 **Practitioner's note.** Nothing for long-term cultivation. In the sources the entry cites, Gou Teng is a drug for a defined pattern (liver wind, ascendant yang), added late in the decoction, and used with Tian Ma.
 
