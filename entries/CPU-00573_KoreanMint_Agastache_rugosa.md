@@ -110,6 +110,14 @@ Graded honestly. **This is a data-sparse species clinically. There is no retriev
 | Western herbal | No independent tradition; adopted as a hardy ornamental mint and pollinator plant |
 | Kenetica | **Drying, ascending-then-settling, middle-warming.** A stabiliser of the digestive axis under heat load. Explicitly *not* a state-changing herb |
 
+### Cultivation Register
+
+**Shennong Bencao Jing / classical Chinese (SBJ).** The entry's sourced material treats *huo xiang* (藿香) as a damp-transforming herb in the Chinese materia medica, but it records no *san pin* 三品 grade for *Agastache rugosa* from the Shennong stratum, and I retrieved no scholarly source (Unschuld, Stanley-Baker, Yang Shou-zhong) placing it there. It therefore carries a therapeutic status only (b): transforming damp and harmonising the middle. No cultivation status (upper-grade, life-nourishing) is attested for this plant. The 藿香 name also covers *Pogostemon cablin*, so any classical attestation would first need its plant identity settled.
+
+**Tibetan medicine (FMT).** No cultivation framing is attested (c). The entry gives no Tibetan content for this plant: its Korean section describes food and incense use, and its classification table states that the medical reading there is imported from the Chinese frame. Nothing from the Root or Explanatory Tantras was retrieved, so none is claimed, and no *bcud len* or other practice category is asserted.
+
+**Practitioner's note.** Nothing beyond the digestive use the entry already describes: an aromatic leaf added late and decocted briefly against summer nausea and queasiness. No long-term or life-nourishing use is supported by any tradition cited here.
+
 ### Contraindications
 
 - **⚠️ ESTRAGOLE AND METHYLEUGENOL.** Estragole can constitute the overwhelming majority of the oil (up to ~89.5%; Hong et al., 2022) and methyleugenol up to ~50% in other chemotypes (Li et al., 2013). Both are phenylpropanoids of established genotoxic/carcinogenic concern in rodent models and subject to adverse regulatory opinion. **Do not use the concentrated essential oil internally. Do not use any form chronically at dose. Do not use in pregnancy, lactation, or in children.**

@@ -121,6 +121,14 @@ In colorectal cancer, a network meta-analysis of **50 RCTs across 8 TCM injectio
 
 ---
 
+### Cultivation Register
+
+**Shennong / classical Chinese (SBJ).** Ya Dan Zi is framed here as a toxic drug (*you du*) used for dysentery, malaria and, topically, warts and corns. No *san pin* grade is attested for it, and the name was not found in the readable part of the Shennong text consulted (Yang 1998), so the tag is unconfirmed for the Shennong stratum; the drug's classical record is likely later materia medica. A toxic, short-course, purgative-corrosive drug is the opposite of a nourishing-life drug in any case. Status (b): therapeutic frame only, no cultivation status.
+
+**Southeast Asian traditional medicine (SEA).** The entry reports a regionally broad antidysenteric and antiparasitic use but records no named people, text or source-level attestation, and flags that itself. No cultivation framing is attested: no tonic, vital or ritual role is documented. The claim generalises across the region, and where a specific Javanese source exists the code JAM would be preferable. Status (b): therapeutic, unsourced in detail.
+
+**Practitioner's note.** Nothing. This is a toxic drug with no cultivation use, and the entry's own contraindications forbid self-administration.
+
 ### Contraindications
 
 ⚠️⚠️ **This plant is toxic. The following is not boilerplate.**

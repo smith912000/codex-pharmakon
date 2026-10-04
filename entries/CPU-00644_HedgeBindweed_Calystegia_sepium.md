@@ -122,6 +122,14 @@ Graded honestly, including the nulls. The nulls here are the most informative pa
 
 ---
 
+### Cultivation Register
+
+**Dioscorides / classical Greco-Roman (DMM).** Dioscorides has no subtle-body system, and none is claimed. The only locus read is *smilax leia*, De materia medica 4-145 (Osbaldeston & Wood 2000), which the translation's suggested identifications link to *Calystegia sepium* through later herbalists (Brunfels, Linnaeus); the equation is a later hypothesis, not Dioscorides's own. The chapter describes a twining plant without prickles, and says thirty grains of its seed drunk with dorycnium cause many troublesome dreams. It records an effect and gives no purgative use, grade or cultivation status. Status (b): framed as a recorded effect, status unattested. What it offers a practitioner is the discipline of identification and assay.
+
+**Avicenna / Unani (CM).** No cultivation framing is attested. The entry's own sourced content supplies no Unani drug name or locus for hedge bindweed, and no scholarly source was retrieved placing it in Unani practice. Unani cultivation ideas (innate heat, radical moisture, the *ruh*) are not applied to a plant with no attestation. The tag is unconfirmed.
+
+**Practitioner's note.** Nothing. The entry is a non-training, doctrinal-lineage record, and the plant is a drastic purgative the entry advises against using.
+
 ### Contraindications
 
 ⚠️ **The Codex does not recommend internal use of *Calystegia sepium* under any circumstance, at any dose, for any indication.**

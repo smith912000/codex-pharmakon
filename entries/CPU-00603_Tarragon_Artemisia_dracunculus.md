@@ -128,6 +128,14 @@ Unlike Pasque Flower and Tian Nan Xing, tarragon's energetics require **no proce
 
 ---
 
+### Cultivation Register
+
+**Avicenna / Unani (CM).** No cultivation framing is attested (c). The entry's only "CM" block was relabelled by the entry itself as de-coded, and it describes Chinese regional usage, not Avicennan or Unani material; the entry calls the tag doubtful. I retrieved no scholarly source naming *Artemisia dracunculus* in Unani medicine, and nothing about innate heat, radical moisture or *ruh* is claimed. No Canon chapter reference is offered. The tag is unconfirmed.
+
+**European folk / phytotherapy (EF).** The entry describes a carminative, appetite-stimulating and digestive herb in European herbal literature, with recorded toothache, mild sedative and emmenagogue uses, and a mediaeval serpent-bite reputation that the entry rejects as unsupported. That is a therapeutic and culinary frame with no cultivation status (b). No vital-substrate doctrine is attested for tarragon in the entry's sources, and the dragon name is etymology, not mechanism.
+
+**Practitioner's note.** Nothing beyond the kitchen. Tarragon is a culinary digestive herb, and the one practical point the entry stresses is to use the vegetatively propagated French cultivar, not seed-grown Russian tarragon.
+
 ### Contraindications
 
 ⚠️ **ESTRAGOLE — FLAGGED CONSTITUENT.**

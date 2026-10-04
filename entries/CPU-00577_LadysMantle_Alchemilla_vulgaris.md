@@ -122,6 +122,14 @@ Graded honestly. **There is no retrieved human clinical trial of *Alchemilla vul
 | Physiomedical / Anglo-American | Astringent, styptic, vulnerary, anti-diarrhoeal; classed with the tannin herbs |
 | Kenetica | **Sealing, contracting, interface-acting.** Operates at the boundary between inside and outside — mucosa, wound bed, endometrium. Structural, not experiential. Zero psychoactivity claimed or expected |
 
+### Cultivation Register
+
+**Dioscorides / classical Greco-Roman (DMM).** No cultivation framing is attested (c). The genus *Alchemilla* is not named in Dioscorides, *De materia medica* (Osbaldeston & Wood 2000), so the tag is unconfirmed in that text. The entry's own content places the plant in mediaeval to early modern alchemy and European folk herbalism, which are later and are not Dioscoridean. Dioscorides offers no subtle-body system in any case; the most a cultivator could take from him is his discipline of provenance and sensory assay, and that is not tied to this plant.
+
+**Avicenna / Unani (CM).** No cultivation framing is attested (c). The entry contains no Avicennan or Unani material for this plant, and I retrieved no scholarly source naming *Alchemilla vulgaris* in that tradition. Nothing about innate heat, radical moisture or *ruh* is claimed for it. No Canon chapter reference is offered.
+
+**Practitioner's note.** Nothing in the tagged traditions. The entry's own use is local astringency and wound care in European folk practice, and its alchemical "celestial water" link is symbolic, not therapeutic.
+
 ### Contraindications
 
 - **No human clinical safety data exist for this plant at any dose.** All safety statements below are inference from tannin chemistry and general herbal practice, not from trials.

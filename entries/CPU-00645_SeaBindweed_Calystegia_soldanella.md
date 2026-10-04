@@ -146,6 +146,14 @@ Graded honestly, including the nulls and the gaps.
 
 ---
 
+### Cultivation Register
+
+**Later Chinese medicine (TCM).** No cultivation framing is attested. The entry's own sourced content shows the East Asian record for this species is thin: the Korean research group it cites describes only limited medicinal use, and the documented indications belong to a different species, *Calystegia hederacea*, which are not transferred here. No drug name, grade or tonic or longevity status for *C. soldanella* is attested in the Chinese materia medica, and no *yang sheng* use is recorded. Status (c): absent. The tag is unconfirmed on the evidence in the entry.
+
+**European folk / phytotherapy (EF).** The tradition claims the plant therapeutically: *soldanella* was an officinal drastic purgative given for dropsy, on the doctrine that a plant of salt shores governs water. This is a therapeutic frame only, and the entry itself marks the pharmacopoeial citations as unverified. No cultivation status is attested, and no scholarly source retrieved gives one. Status (b). The doctrine of signatures is a folk reading, not a cultivation category.
+
+**Practitioner's note.** Nothing. A drastic purgative with no cultivation use, filed as a reference entry only.
+
 ### Contraindications
 
 ⚠️ **The Codex does not recommend internal use of *Calystegia soldanella* under any circumstance, at any dose, for any indication.**

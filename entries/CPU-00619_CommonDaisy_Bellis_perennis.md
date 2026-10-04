@@ -133,6 +133,14 @@ Graded honestly, and the headline finding is a gap.
 
 ---
 
+### Cultivation Register
+
+**European folk / phytotherapy (EF).** The tradition claims the daisy therapeutically and in a narrow way: as bruisewort, a poultice or oil for bruises, sprains and contusions, with a weaker folk use of the flowers as an infusion for coughs. That is a (b) framing. No cultivation status is attested: no scholarly source retrieved assigns it a place in any longevity, tonic or vital-constitution scheme, and the "spring tonic" use is thinly sourced even as folk practice. Its status here is therapeutic and domestic only.
+
+**Homeopathy (HOM).** In homeopathic doctrine *Bellis perennis* is a trauma remedy, indicated for deep soft-tissue injury and post-surgical bruising, and set as a successor to arnica. This is the remedy picture of a nineteenth-century system with its own provings and is recorded as doctrine, not as pharmacological evidence; at homeopathic dilution the preparation holds no plant material. No cultivation status is attested. The status is (b).
+
+**Practitioner's note.** Nothing cultivational. It is a topical remedy for bruises, and a patch test on intact skin comes first because of Asteraceae sensitisation.
+
 ### Contraindications
 
 - ⚠️ **Asteraceae contact dermatitis — the primary risk, and it is the risk that matters most because the primary use is topical.** The Compositae are among the most significant causes of plant contact allergy, and sensitisation is typically cross-reactive across the family — a person reactive to arnica, chamomile, feverfew, yarrow, ragweed, chrysanthemum, tansy or *Tanacetum* should be assumed reactive to *Bellis perennis* until proven otherwise. Sesquiterpene lactones are the classic culprit class and **polyacetylenes are also implicated in Asteraceae sensitisation**. This is not a theoretical hazard: the tradition's own method — crushed fresh plant, bound onto damaged skin, left in prolonged occlusive contact — is close to the optimal protocol for inducing contact sensitisation. **Patch-test on intact skin before any use on a bruise, and never on broken skin first.**

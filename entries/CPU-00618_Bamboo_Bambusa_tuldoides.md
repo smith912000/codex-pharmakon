@@ -123,6 +123,14 @@ Graded honestly. **This is a data-sparse entry, and the sparsity is concentrated
 
 ---
 
+### Cultivation Register
+
+**Shennong / classical Chinese (SBJ).** No *san pin* grade (upper, middle or lower) is attested here for Zhu Li or Zhu Ru, and no scholarly source retrieved assigns either drug a place in the nourishing-life stratum. The drugs are framed only therapeutically in this entry: clearing heat, transforming phlegm and, for Zhu Ru, stopping vomiting, with *Wen Dan Tang* as its vehicle. That formula and the two-drug split belong to later materia medica and formula literature, not to the Shennong stratum. The status is therefore (b): a therapeutic frame with no cultivation status attested. *Qing shen* (lightening the body) is not claimed.
+
+**Tibetan medicine (FMT).** No cultivation framing is attested. The entry's sourced content contains no Tibetan material for bamboo, and no Tibetan name, rGyud-bzhi locus or *bcud len* use was retrieved. Tibetan medicine locates root pathology in the three poisons and treats medicine as the third of four branches, so nothing about bamboo can be inferred from the frame. The tag is unconfirmed and no paragraph of attested content can honestly be written.
+
+**Practitioner's note.** Nothing cultivational. Zhu Ru is a short-course drug for a defined heat-and-phlegm complaint, used within a formula and then stopped; Zhu Li is an acute-crisis drug that this book does not recommend.
+
 ### Contraindications
 
 - **Cold-deficiency patterns.** Both drugs are cold. In a person with a cold, weak stomach — loose stools, aversion to cold, poor appetite, pale tongue — Zhu Ru will worsen the picture and Zhu Li markedly so. This is the tradition's own stated caution and it is the reason ginger-processed Zhu Ru exists.

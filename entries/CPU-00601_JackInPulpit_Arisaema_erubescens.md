@@ -121,6 +121,14 @@ The two forms are the same plant and, energetically, opposite drugs. This is the
 
 ---
 
+### Cultivation Register
+
+**Shennong Bencao Jing / classical Chinese (SBJ).** No *san pin* 三品 grade is attested here for *Arisaema erubescens* (b). The entry's own content says its SBJ tag reflects the drug's place in the wind, fright and spirit-disorder field, not a documented ritual or cultivation use, and that the tag may be better dropped. I retrieved no scholarly source (Unschuld, Stanley-Baker, Yang Shou-zhong) placing *tian nan xing* 天南星 in the Shennong stratum, so the tag is unconfirmed. The drug is marked toxic (有毒) and is processed before use; nothing in the entry supports a life-nourishing role.
+
+**Later Chinese medicine (TCM).** *Tian nan xing* is a long-attested therapeutic drug, classed acrid, bitter, warm and toxic, for drying damp, transforming phlegm, dispelling wind and stopping spasm; the prepared forms *zhi nan xing* and *dan nan xing* carry different function statements. This is a therapeutic frame only (b). No *jing*, *qi* or *shen* action and no long-term use is attested for this species in the entry's sources.
+
+**Practitioner's note.** Nothing here for cultivation practice. The raw tuber is a poison and is used only in its processed forms, for a defined complaint under a competent practitioner.
+
 ### Contraindications
 
 ⚠️ **RAW TUBER — SEVERELY TOXIC. ORAL AND PHARYNGEAL INJURY RISK.**

@@ -151,6 +151,14 @@ This is where *A. moly* is actually worth your time. It is one of the easiest bu
 | Western folk (genus-level) | Apotropaic, protective, threshold-guarding — attested for **garlic**, extended to the genus by association, **not attested for this species** |
 | Kenetica | **Unclassified — insufficient data.** Presumed acrid/warm/dispersing by genus inference only. Filed as an **epistemological specimen**: the name-bearing plant, the cautionary case, the reminder that a binomial is not a datum |
 
+### Cultivation Register
+
+**Assyrian / Mesopotamian (AT).** No cultivation framing is attested (c). The entry itself gives no Assyrian material for this plant. Any Mesopotamian attestation would depend on a plant identification, and a tablet reference, neither of which I can supply; the identification of *Allium moly* with a cuneiform drug name is not established here and none is claimed. The tag is unconfirmed.
+
+**Dioscorides / classical Greco-Roman (DMM).** Dioscorides, *De materia medica* 3-54 (Osbaldeston & Wood 2000), describes *molu*, which the translation's editorial note suggests may be *Allium moly*. He gives a therapeutic use, a pessary for openings of the womb, and an amuletic one: the herb cut up by the root and carried on the body is good against poisoning and bewitching. He records the amulet without comment. This is a therapeutic and apotropaic attestation (b), with no cultivation status. Dioscorides has no subtle-body framework, and the modern identification of his *molu* with this species remains a suggestion.
+
+**Practitioner's note.** Nothing to cultivate. The only practice the text offers is Dioscorides' attention to the plant's description and gathering; the carried-root amulet is recorded history, not a recommendation.
+
 ### Contraindications
 
 - **⚠️ THE PRINCIPAL CONTRAINDICATION IS THE NAME.** Do not use this plant for anything Homer's moly did. It is not an antidote. It is not protective. It does not preserve the mind under drugging. It has no anticholinergic antagonism. Anyone who tells you otherwise — including this book, if you read it carelessly — is telling you a story.
