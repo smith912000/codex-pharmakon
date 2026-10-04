@@ -13,7 +13,7 @@
 
 Bugleweed is a modest, square-stemmed mint of European wetlands — ditches, marsh edges, riverbanks — with small white flowers and no scent to speak of. Nothing about the plant announces that it is one of the very few Western herbs with a *real, mechanistically demonstrated* endocrine action. That gap between its plain appearance and its specific pharmacology is the whole interest of the entry.
 
-**European folk / domestic medicine (DMM — attested).** In European domestic herbalism *Lycopus europaeus* (and its American sister *L. virginicus*) was the classic quieting herb "for the heart" — for palpitations, nervous tachycardia, a racing or fluttering pulse, and the restless, over-driven states that accompany them. It was given as a mild sedative and "cardiac calmative." Alongside this it carried a second, humbler folk identity encoded in its most common name: **Gypsywort**. The name records a use that has nothing to do with medicine — the plant yields a dark dye, and it was reputedly used to stain skin and cloth. The two names hold the two traditions: *Bugleweed / Water Horehound* the sedative drug, *Gypsywort* the dye-plant.
+**European folk / domestic medicine (EF — attested).** In European domestic herbalism *Lycopus europaeus* (and its American sister *L. virginicus*) was the classic quieting herb "for the heart" — for palpitations, nervous tachycardia, a racing or fluttering pulse, and the restless, over-driven states that accompany them. It was given as a mild sedative and "cardiac calmative." Alongside this it carried a second, humbler folk identity encoded in its most common name: **Gypsywort**. The name records a use that has nothing to do with medicine — the plant yields a dark dye, and it was reputedly used to stain skin and cloth. The two names hold the two traditions: *Bugleweed / Water Horehound* the sedative drug, *Gypsywort* the dye-plant.
 
 **Clinical / phytotherapeutic (CM — attested and, unusually, live).** What lifts bugleweed out of ordinary folk sedatives is that European phytotherapy — chiefly German — took the "calms palpitation" doctrine into the clinic and found a real endocrine mechanism underneath it. *Lycopus* preparations are used in **mild hyperthyroidism and the milder end of Graves' disease**, and in the autonomic/cardiac symptoms of an overactive thyroid. This is a rare thing: a traditional indication that, when investigated, turned out to point at genuine pharmacology rather than at nothing.
 
@@ -52,7 +52,7 @@ Graded honestly, this is a **genuine but stratified win**: strong mechanism, rea
 
 ### Traditional Energetic Classification
 
-- **European folk (DMM):** cooling, quieting, "for the heart" — a sedative astringent.
+- **European folk (EF):** cooling, quieting, "for the heart" — a sedative astringent.
 - **Phytotherapeutic (CM):** anti-thyrotropic / thyroid-damping; used for mild hyperthyroid and autonomic cardiac symptoms.
 - **Kenetica synthesis:** Cooling, drying, bitter-astringent; sedative to an over-fired metabolic/cardiac engine — an operative endocrine cooler.
 

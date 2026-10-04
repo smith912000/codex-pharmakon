@@ -73,7 +73,7 @@ According to PubMed, the modern evidence base treats cowpea primarily as a funct
 
 ### Traditional Energetic Classification
 
-- **Galenic / Humoral (EP · AT):** Dry pulse — warming-to-neutral, drying (~2nd degree); tends to generate wind and "thick" humour unless corrected by cooking and warming aromatics. Fresh pod cooler and moister.
+- **Galenic / Humoral (DMM · AT):** Dry pulse — warming-to-neutral, drying (~2nd degree); tends to generate wind and "thick" humour unless corrected by cooking and warming aromatics. Fresh pod cooler and moister.
 - **Ayurvedic (SS):** *Rasa* — *madhura* (sweet) with *kashaya* (astringent) anurasa; *guna* — *laghu* (light), *ruksha* (dry); *virya* — mildly warming; *vipaka* — pungent; *dosha* — *vata*-aggravating (dry), broadly *kapha*-pacifying; *balya* (strengthening) when well-prepared.
 - **TCM tier (no canonical *bencao* entry):** Not a classical Chinese materia medica substance; by analogy to the Chinese dietary-therapy treatment of related beans, it would read as a spleen-supporting, dampness-moderating grain-legume. Recorded here as *non-canonical / analogical only* — no fabricated *bencao* citation.
 

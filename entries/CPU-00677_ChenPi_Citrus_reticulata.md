@@ -24,7 +24,7 @@ It is a *regulating* drug rather than a forcing one. Chen pi appears in Er Chen 
 
 The ageing doctrine is explicit and graded. Peel stored one year is ordinary; three years is the minimum threshold for the protected designation; and the finest grade — **广陈皮 (Guang Chen Pi)**, from the Chachi (茶枝柑) cultivar grown around Xinhui in Guangdong — is aged for years to decades, priced accordingly, and traded much as vintage wine or pu-erh tea is traded. The stated rationale is that ageing "removes the fire-dryness" (去燥性) of the fresh peel: fresh peel is held to be too acrid, too scattering, too aggressive — it disperses qi rather than regulating it. Time is said to soften the acridity while the qi-regulating and phlegm-transforming actions mature and deepen. The tradition summarises this as **"陈久者良"** — *the long-aged is superior*.
 
-**Sun Bin Jing / Sino-Japanese Kampo lineage (SBJ)**
+**Sun Bin Jing / Sino-Japanese Kampo lineage (KAM)**
 
 Transmitted into the Japanese Kampo repertoire as **陳皮 (chinpi)**, where it retains its role as a *rigi* (理気) qi-regulating drug and appears in the standard formulas inherited from Chinese sources. Kampo practice is generally more standardised and more sceptical of vintage grading than the Guangdong trade: chinpi is specified as a defined crude drug, and the elaborate age-hierarchy of Guang Chen Pi is not a governing feature of Kampo prescribing. The distinction matters — the same drug, in a closely related tradition, without the ageing doctrine attached. [USER: verify specific Kampo formula list and any JP-pharmacopoeia storage-age specification before citing particulars.]
 

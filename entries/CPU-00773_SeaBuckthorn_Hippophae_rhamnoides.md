@@ -11,7 +11,7 @@
 
 ### Origin & Tradition
 
-**Tibetan / Sowa Rigpa (BM — rGyud-bzhi lineage):** No tradition holds sea buckthorn closer than Tibetan medicine, where the thorny high-altitude shrub is *star-bu* — one of the most frequently cited plants in the rGyud-bzhi (Four Tantras). The orange berry is prescribed for *bad-kan* (phlegm) and blood disorders, for cough and lung complaints, for stagnant digestion, and to "clear and open the channels." It is a staple of Tibetan lung, blood and digestive formulas, valued precisely for the qualities a modern chemist would call anti-inflammatory and mucosa-nourishing.
+**Tibetan / Sowa Rigpa (FMT — rGyud-bzhi lineage):** No tradition holds sea buckthorn closer than Tibetan medicine, where the thorny high-altitude shrub is *star-bu* — one of the most frequently cited plants in the rGyud-bzhi (Four Tantras). The orange berry is prescribed for *bad-kan* (phlegm) and blood disorders, for cough and lung complaints, for stagnant digestion, and to "clear and open the channels." It is a staple of Tibetan lung, blood and digestive formulas, valued precisely for the qualities a modern chemist would call anti-inflammatory and mucosa-nourishing.
 
 **Chinese / Shennong lineage (TCM):** As *sha ji* (沙棘), sea buckthorn is a recognised drug of Chinese and Mongolian medicine, later formalised in the Chinese Pharmacopoeia. It is used to resolve phlegm and stop cough, to relieve chest congestion, to invigorate the blood and resolve stasis, and to strengthen a weak spleen/stomach and improve digestion — the sour, warming berry acting on Lung, Spleen and Stomach.
 

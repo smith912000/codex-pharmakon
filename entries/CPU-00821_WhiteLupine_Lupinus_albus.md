@@ -19,7 +19,7 @@ White lupine is one of the oldest cultivated legumes of the Mediterranean and Ne
 
 **Dioscorides / *De Materia Medica* (DMM):** Dioscorides describes *thermos* (lupine) explicitly: the bitter meal, taken with honey or applied as a poultice, expels worms and "brings down" parasites; the decoction cleanses the skin, treats eruptions, ulcers, and scabby conditions, and the bitter seed reduces swellings. This is the canonical classical source for lupine as vermifuge and skin-cleanser.
 
-**Avicenna / *Qanun* (AT-adjacent Unani):** In the Unani tradition lupine (*turmus*) is classed as hot and dry, deobstruent and detergent — used to open obstructions of the liver and spleen, kill worms, and clear the skin, echoing Dioscorides.
+**Avicenna / *Qanun* (CM-adjacent Unani):** In the Unani tradition lupine (*turmus*) is classed as hot and dry, deobstruent and detergent — used to open obstructions of the liver and spleen, kill worms, and clear the skin, echoing Dioscorides.
 
 **Sushruta / Ayurveda (SS):** The Indian tradition uses lupine and related bitter pulses within the bitter/astringent (*tikta-kashaya*) cleansing category — anthelmintic and skin-clearing, consistent with the bitter-alkaloid pharmacology.
 

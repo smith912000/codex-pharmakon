@@ -20,7 +20,7 @@ Holy basil occupies a rare position in the Codex: it is simultaneously a househo
 
 **Graeco-Islamic and Dioscoridean lineage (DMM / FMT).** Basil (*ōkimon*) is discussed by Dioscorides in *De Materia Medica*, and the wider *Ocimum* genus travelled westward along trade routes into the Greek, Roman, and later Unani-Tibb materia medica, where basils were treated as warming, carminative aromatics with contested reputations — some ancient authors warned against them, others prized them. The Codex attributes to this lineage only the general category of basil-as-warm-aromatic; the specific identity of the plant Dioscorides handled is not securely *O. tenuiflorum*, so no sacred-basil-specific claim is made for the Greek sources.
 
-**Chinese materia medica (CM, minor).** Basil enters the Chinese tradition as *luo le* (羅勒), a warming, acrid herb used to move qi, disperse cold-damp, and settle the stomach. Its role is peripheral compared with its Indian centrality, and Chinese sources generally handle culinary basils rather than the sacred species specifically; the Codex therefore grades the CM attestation as real but minor.
+**Chinese materia medica (SBJ, minor).** Basil enters the Chinese tradition as *luo le* (羅勒), a warming, acrid herb used to move qi, disperse cold-damp, and settle the stomach. Its role is peripheral compared with its Indian centrality, and Chinese sources generally handle culinary basils rather than the sacred species specifically; the Codex therefore grades the CM attestation as real but minor.
 
 **Southeast-Asian / Jamu and folk lineages (SBJ / FMT).** Across Thailand, Indonesia, and the Malay world, sacred and related basils appear both in cuisine (Thai *kaprao*) and in folk remedy for wind, cough, and skin complaints. In the broader Near-Eastern folk sphere, fragrant basils (*rayhān*) carry protective and purifying associations that parallel, without deriving from, the Indian devotional cult.
 
@@ -62,7 +62,7 @@ According to PubMed, small human studies support tulsi's traditional profile as 
 ### Traditional Energetic Classification
 
 - **Ayurvedic (SS):** *katu*/*tikta rasa*; *ushna virya*; *katu vipaka*; kapha–vata pacifying, pitta-provoking in excess.
-- **TCM (CM, minor):** *luo le* — acrid, warm; moves qi, disperses cold-damp, harmonises the stomach.
+- **TCM (SBJ, minor):** *luo le* — acrid, warm; moves qi, disperses cold-damp, harmonises the stomach.
 - **Galenic / Unani (DMM / FMT):** warm and dry aromatic (≈ second–third degree); carminative, resolvent.
 
 ### Cultivation Register

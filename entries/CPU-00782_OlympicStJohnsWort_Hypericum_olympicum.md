@@ -73,7 +73,7 @@ Graded honestly, including nulls:
 ### Traditional Energetic Classification
 
 - **Genus doctrine (DMM):** solar, montane wound-and-light herb; nervine/guardian by inheritance — attribution by genus, deflated above.
-- **Folk (CM):** bitter, cool-drying; minor regional "St John's wort" use, poorly attested for this species.
+- **Folk (EF):** bitter, cool-drying; minor regional "St John's wort" use, poorly attested for this species.
 - **Kenetica synthesis:** a signature-bearing mountain wort whose real gift is chemical, not devotional — cool, drying, antibacterial in its gland resin, phototoxic at the pigment.
 
 ### Contraindications

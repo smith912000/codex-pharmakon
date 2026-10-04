@@ -26,7 +26,7 @@ The classical indications split cleanly into two, and both are still live.
 
 *Topical — for 赘疣, 鸡眼 (warts, corns, calluses).* The crushed seed or its oil is applied directly to the lesion, and *only* to the lesion. The traditional technique involves protecting the surrounding skin — plaster with a hole cut in it, or petroleum jelly ringed around the target. Again, the method encodes the hazard: this is a caustic, and the tradition treated it as one.
 
-**Southeast Asian Systems (SS)**
+**Southeast Asian Systems (SEA)**
 
 *B. javanica* is native across Southeast Asia, southern China, and northern Australia, and the antiparasitic and antidysenteric use is broadly distributed across the region rather than being a Chinese peculiarity — the plant is bitter everywhere it grows and was recognised as an amoebicide and febrifuge across its range. [USER: verify specific regional attestations — the codex is confident in the general Southeast Asian antiparasitic use and the Chinese Ya Dan Zi tradition, but did not retrieve source-level documentation of individual national systems' indications in this run.]
 

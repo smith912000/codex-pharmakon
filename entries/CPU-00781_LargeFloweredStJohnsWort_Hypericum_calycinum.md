@@ -69,7 +69,7 @@ Graded honestly, including nulls:
 ### Traditional Energetic Classification
 
 - **Genus doctrine (DMM):** solar, wound-and-light herb; nervine and spirit-guarding by inheritance — an *attribution by genus*, deflated above for this species.
-- **Folk (CM):** bitter, cool-drying; minor, poorly-attested local use.
+- **Folk (EF):** bitter, cool-drying; minor, poorly-attested local use.
 - **Kenetica synthesis:** a signature without a proven medicine; catalogued as a boundary case, cool and drying, with a real phototoxic edge.
 
 ### Contraindications

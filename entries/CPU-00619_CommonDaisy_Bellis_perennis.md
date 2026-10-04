@@ -22,7 +22,7 @@ The two names carry the entire tradition between them.
 
 **"Bruisewort."** This is the medicine. The English folk name is blunt and specific: this is the herb you put on a bruise. Not a fever, not a cough — a **contusion**.
 
-**European Domestic Materia Medica (DMM)**
+**European Domestic Materia Medica (EF)**
 
 The attested folk use is remarkably narrow and remarkably consistent across the European record: **bruises, sprains, contusions, blows, and slow-healing wounds.** The classical English name *bruisewort* is shared with comfrey and soapwort — all three are consolidating, tissue-knitting herbs in the folk mind, and the shared name is itself an argument about what the folk tradition thought was happening.
 
@@ -30,7 +30,7 @@ The preparation is domestic in the truest sense: the whole fresh flowering plant
 
 A secondary and weaker DMM attestation covers **infusion of flowers for coughs and as a mild spring tonic / "blood purifier,"** and the young leaves are eaten in salads. [USER: verify the internal-use attestations — they are thinly and inconsistently sourced compared to the wound tradition, and the codex has lower confidence in them.]
 
-**Contemporary / Homeopathic Materia Medica (CM)**
+**Contemporary / Homeopathic Materia Medica (HOM)**
 
 *Bellis perennis* has a substantial life in homeopathic practice, where it is a **major trauma remedy** — specifically indicated for deep tissue injury, post-surgical bruising, and injury to "muscles and deep tissue," positioned as arnica's successor when arnica's picture is exhausted. It is worth stating precisely what this does and does not mean for this codex.
 

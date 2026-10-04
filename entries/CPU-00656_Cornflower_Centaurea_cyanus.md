@@ -19,7 +19,7 @@ That relationship has now reversed with some force. Herbicides, seed-cleaning, a
 
 **European folk / domestic medicine — the eye remedy.** The dominant traditional use is ophthalmic. Cornflower flower-water — French **"eau de casse-lunettes"**, literally *spectacle-breaker water*, on the promise that it would make your glasses unnecessary — was applied as a wash or compress for tired, strained, irritated, or inflamed eyes and for conjunctivitis. The preparation persisted for centuries and survives commercially in eye lotions and cosmetics today. The name is the tell: the claim was never modest.
 
-**European herbal (CM) — the bitter.** A secondary and much quieter tradition uses the flowers as a mild bitter tonic and appetite stimulant, and occasionally as a mild diuretic. This is the *Centaurea*-genus family resemblance asserting itself: a diluted version of what its relatives do properly. The flowers also served — and still serve — as a decorative colourant in tea blends, potpourri and cosmetics, which is arguably the largest honest use of the plant.
+**European herbal (EF) — the bitter.** A secondary and much quieter tradition uses the flowers as a mild bitter tonic and appetite stimulant, and occasionally as a mild diuretic. This is the *Centaurea*-genus family resemblance asserting itself: a diluted version of what its relatives do properly. The flowers also served — and still serve — as a decorative colourant in tea blends, potpourri and cosmetics, which is arguably the largest honest use of the plant.
 
 **Doctrinal & Symbolic Layer.**
 

@@ -32,7 +32,7 @@ Reports of internal or near-internal use exist and are the part of the record th
 
 The provenance discipline this codex applies to Chinese and Indian sources should be applied here with more force, not less. Southern African ethnobotanical attributions for *Zantedeschia* are thinly sourced, frequently repeated between compilations without returning to a primary field record, and prone to genus-level blurring across *Zantedeschia* species. [USER: verify any specific southern African use claim against a primary ethnobotanical field source — Watt & Breyer-Brandwijk or a named regional survey — before treating it as attested. This entry deliberately does not name a specific people, region, or indication, because doing so from secondary compilations would be exactly the fabrication this codex forbids.]
 
-**The classical "aron / arum" attributions (CM — Classical Mediterranean) — and why they are probably not this plant**
+**The classical "aron / arum" attributions (DMM — Classical Mediterranean) — and why they are probably not this plant**
 
 This is the most important paragraph in the entry.
 

@@ -19,7 +19,7 @@ The droplets are of course mucilage, not water — a sticky glue that the plant 
 
 But the alchemists did not know that. They saw only the impossibility.
 
-**Alchemical and Renaissance Europe (DMM).** *Ros solis* was read as condensed solar dew — a celestial water, caught and held by the plant against the sun's own power to dissipate it. A substance that defies the sun must contain something of the sun. Within the alchemical frame this made sundew a candidate *aqua vitae* material, and it entered the literature as an ingredient in cordials and restorative waters, credited with prolonging life and restoring vigour to the wasted. The liqueur **Rosolio / Rossoli** carries the name into the present, long after any sundew left the recipe.
+**Alchemical and Renaissance Europe (EF).** *Ros solis* was read as condensed solar dew — a celestial water, caught and held by the plant against the sun's own power to dissipate it. A substance that defies the sun must contain something of the sun. Within the alchemical frame this made sundew a candidate *aqua vitae* material, and it entered the literature as an ingredient in cordials and restorative waters, credited with prolonging life and restoring vigour to the wasted. The liqueur **Rosolio / Rossoli** carries the name into the present, long after any sundew left the recipe.
 
 **Doctrinal & Symbolic Layer.**
 

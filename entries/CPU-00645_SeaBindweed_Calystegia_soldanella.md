@@ -22,7 +22,7 @@ Its ecology is well characterised and matters for the cultivator. It is a **clon
 
 **A statement on the evidence, up front.** This entry is **data-sparse on the ethnomedical side and data-rich on the chemical side** — an unusual and instructive combination, and the reverse of what the practitioner might expect. Sea Bindweed has a genuine, named place in the old European pharmacopoeias as *soldanella*, which is more than *C. sepium* ever achieved. But the *content* of that place is thin and formulaic, while the modern phytochemistry — driven almost entirely by Japanese and Korean groups working on halophyte resources — is detailed, sustained and species-specific. The Codex reports both honestly.
 
-**European Domestic Materia Medica (DMM) — "Soldanella", "Brassica marina", "Sea Colewort"**
+**European Domestic Materia Medica (EF) — "Soldanella", "Brassica marina", "Sea Colewort"**
 
 Here the attestation is real. **Soldanella** was a named drug of the old European pharmacopoeias — not a folk gloss but an officinal entry, gathered from coastal sand and traded regionally. It was classed among the **drastic hydragogue purgatives**, and its indication was almost entirely singular: **dropsy** (oedema/ascites). The doctrinal logic was direct — a plant that draws water violently from the bowel was the instrument for a disease understood as water improperly retained in the body. Secondary indications reported in the same frame include costiveness and "obstruction". [USER: verify] the specific pharmacopoeial citations, degree-of-quality assignment, and any secondary indications against a primary source (Dioscorides via the Renaissance commentators, Matthiolus, Gerard, or a regional coastal folk-botany survey) rather than a modern compilation.
 

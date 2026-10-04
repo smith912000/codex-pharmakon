@@ -59,7 +59,7 @@ Gou Teng's specific classical indications:
 
 Gou Teng is nearly always compounded, principally with **Gastrodia elata (Tian Ma 天麻)** — the pairing so standard it is effectively a single unit in prescribing.
 
-**Formulaic / Kampo transmission (FMT) — 釣藤鈎 (chōtōkō)**
+**Formulaic / Kampo transmission (KAM) — 釣藤鈎 (chōtōkō)**
 
 Gou Teng entered Japanese Kampo as **chōtōkō** and became a component of several standard formulas — **yokukansan (抑肝散)**, **yokukansankachimpihange**, and **chōtōsan (釣藤散)** among them (Kushida et al. 2021, [DOI](https://doi.org/10.3389/fphar.2021.688670), PMID 34335255). Yokukansan's name means "restrain the liver powder" — the liver-calming doctrine transmitted intact into Japanese practice. Its modern Japanese use is notable: yokukansan is prescribed for the **behavioural and psychological symptoms of dementia** — agitation, aggression, hallucination — which is a recognisably direct descendant of "restrain the liver," applied to a condition the classical authors never described.
 

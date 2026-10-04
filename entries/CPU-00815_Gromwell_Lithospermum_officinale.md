@@ -14,7 +14,7 @@
 
 **Dioscorides & the Greek Materia Medica (DMM).** Dioscorides describes *lithospermon* with unusual admiration, marvelling at seeds "like little pearls" or stones, hard and white — and prescribes them, drunk in white wine, to break the stone (*calculus*) and provoke urine. The very name he coins, *lithos* (stone) + *sperma* (seed), fixes the plant's identity for two millennia. Pliny repeats the account almost verbatim, calling it among the most miraculous-looking of herbs.
 
-**Avicenna & the Unani synthesis (EP as received through the Canon).** The *Qanun* carries the stoneseed forward among the *lithontriptics* — cold, dry, drying agents given for urinary gravel, dysuria and "the stone." The therapeutic logic is inseparable from the plant's appearance.
+**Avicenna & the Unani synthesis (CM as received through the Canon).** The *Qanun* carries the stoneseed forward among the *lithontriptics* — cold, dry, drying agents given for urinary gravel, dysuria and "the stone." The therapeutic logic is inseparable from the plant's appearance.
 
 **Doctrinal & Symbolic Layer.** Gromwell is the textbook case of the **doctrine of signatures**: a plant whose seed is literally a tiny stone was read as heaven's signature that it treats stones in the body. The white, pearl-hard nutlets — a real botanical feature, silicified and calcified in the pericarp — made the doctrine almost irresistible to ancient and medieval physicians. The symbolism is elegant and the observation genuine; the pharmacology, as it turns out, does not follow the signature. What modern work has actually found in the genus is something quite different — an effect on hormones, not on stones.
 

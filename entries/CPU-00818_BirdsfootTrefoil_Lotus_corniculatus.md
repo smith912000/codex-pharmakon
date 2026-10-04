@@ -14,7 +14,7 @@
 
 **Dioscorides & the Greek Materia Medica (DMM).** The Greek herbal tradition records *lotos* among the meadow legumes used as poultice and wash for wounds and for cooling inflamed tissue, and mild infusions taken to settle the nerves and encourage sleep. The name *lotos* was applied to several unrelated plants in antiquity, so the specific identity here is the pasture bird's-foot trefoil of the legume flora rather than the lotus of the Nile.
 
-**Avicenna & the Unani synthesis (EP as received through the Canon).** The *Qanun*'s treatment of the mild meadow legumes classes such herbs as cooling, gently astringent and calming — vulnerary washes for sores, and soothing infusions. Bird's-foot trefoil sits within this class of gentle, cooling, settling plants.
+**Avicenna & the Unani synthesis (CM as received through the Canon).** The *Qanun*'s treatment of the mild meadow legumes classes such herbs as cooling, gently astringent and calming — vulnerary washes for sores, and soothing infusions. Bird's-foot trefoil sits within this class of gentle, cooling, settling plants.
 
 **Doctrinal & Symbolic Layer.** The plant's folk names tell its double nature. "Eggs-and-bacon" and "granny's toenails" mark the cheerful yellow-and-orange flowers of the meadow; "bird's-foot" and "cat's claws" mark the clawed seed pods — and, read another way, the hidden hazard, for those same green parts hold cyanide-yielding glycosides. The symbolism of the calming meadow flower is genuine to its traditional sedative use, but the claw in the name is a fair warning: the raw foliage is not innocent.
 
