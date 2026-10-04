@@ -106,27 +106,6 @@ The galactagogue function — while outside the standard athletic performance ap
 
 ---
 
-### Contraindications & Safety
-
-**Absolute Contraindications:**
-- **Pregnancy (high-dose / therapeutic-dose):** Fenugreek has been used historically as an emmenagogue and labor-induction agent across Arabic, Indian, and North African traditional medicine. The uterine-stimulating action (attributed to the alkaloid fraction and possibly diosgenin) at therapeutic doses (above 5–10g seed powder equivalent) constitutes a documented risk of premature uterine contractions. Culinary doses (seeds used as cooking spice — typically <2g/day integrated into meals) are considered safe by most traditional authorities; therapeutic supplemental doses are contraindicated. This distinction mirrors the aloe gel/latex clinical split: the dose makes the toxicant.
-- **Peanut or chickpea allergy (Fabaceae cross-reactivity):** Fenugreek is in the Fabaceae (legume) family and shares cross-reactive proteins with peanuts, chickpeas, and other Fabaceae members. Documented cases of anaphylaxis to fenugreek exist in individuals with known peanut allergy; this cross-reactivity risk is among the most clinically significant safety issues with fenugreek and is insufficiently known in the sports supplement community, where fenugreek is increasingly included in testosterone and pre-workout formulas without allergen disclosure.
-
-**Relative Contraindications / Cautions:**
-- **Diabetes medications (insulin, sulfonylureas, SGLT2 inhibitors, GLP-1 agonists):** The three-pathway anti-diabetic action of fenugreek seed is pharmacologically significant enough to reduce fasting blood glucose meaningfully (Neelakantan et al. 2014 meta-analysis: significant FBG reduction across 10 RCTs); concurrent use with pharmaceutical hypoglycemics requires blood glucose monitoring and possible dose adjustment to prevent hypoglycemia.
-- **Thyroid medications:** As noted under stacking interactions; bioavailability reduction of levothyroxine documented with concurrent high-fiber meals; therapeutic fenugreek doses represent a meaningful fiber load that requires temporal separation from thyroid hormone administration.
-- **Anticoagulant medications:** Additive platelet inhibition; see stacking section.
-- **Hormone-sensitive conditions (estrogen-receptor-positive breast cancer, uterine cancer, endometriosis, uterine fibroids):** Diosgenin's ER-β agonism and the phytoestrogenic profile of the saponin fraction, while generally mild compared to endogenous estrogen, may be relevant in estrogen-sensitive pathology; physician supervision required for therapeutic use in these conditions.
-
-**Tolerability:**
-- GI side effects (bloating, flatulence, loose stools) are the most common adverse effects and are dose-dependent and largely attributable to colonic fermentation of galactomannans; onset within the first 1–2 weeks of use; typically resolve with continued use as microbiome composition adapts to the new fiber substrate; minimized by gradual dose escalation starting at 2–3g/day.
-- The sotolon-mediated maple-syrup body odor is universal at therapeutic doses, affects sweat and urine, is harmless, and resolves completely within 24–48 hours of stopping fenugreek; it must be disclosed proactively as a compliance management issue.
-- Hypoglycemia in non-diabetic individuals at standard doses (5–15g/day seed powder) is not a documented clinical concern because 4-hydroxyisoleucine's insulin secretion stimulation is glucose-dependent; however, in conjunction with extended fasting, extreme caloric restriction, or concurrent hypoglycemic medications, monitoring is appropriate.
-
-**Pediatric and neonatal consideration:** Fenugreek tea consumed by lactating mothers is secreted into breast milk; there are isolated case reports of maple-syrup-like body odor in neonates consuming fenugreek-supplemented breast milk (due to sotolon transfer), which has led to misdiagnosis of maple syrup urine disease (MSUD) — a serious metabolic disorder. The sotolon-in-breast-milk phenomenon is harmless but can trigger unnecessary and distressing diagnostic workup; mothers using fenugreek should disclose this to their pediatrician.
-
----
-
 ### Traditional Energetic Classification
 
 **Ayurvedic Framework (Primary):**
@@ -164,6 +143,25 @@ The galactagogue function — while outside the standard athletic performance ap
 **Tibetan (FMT).** No Tibetan cultivation framing is attested. Nothing retrieved places fenugreek inside *bcud len* (essence extraction) or inside any *nyes pa*-specific regimen in the Four Tantras. It should also be remembered that in this system medicine is the third of four treatment branches — it supports practice and does not reach the root, which is the three poisons. Even a well-attested Tibetan drug would not, on that account, be a cultivation substance. **(c) absent.**
 
 **Practitioner's note.** Fenugreek is a food that works. Across seven traditions it is claimed hard and claimed consistently — warming, digestive, galactagogue, resolving — and in not one of them, on the evidence retrieved here, is it given a status in that tradition's own vital or spiritual scheme. What a cultivator does with fenugreek is therefore ordinary and daily: eat it, at culinary or low therapeutic dose, as the South Asian tradition has done continuously for millennia, and take the results as metabolic rather than constitutional. Do not carry it as a longevity drug; nothing in any of these seven systems asks you to.
+
+### Contraindications & Safety
+
+**Absolute Contraindications:**
+- **Pregnancy (high-dose / therapeutic-dose):** Fenugreek has been used historically as an emmenagogue and labor-induction agent across Arabic, Indian, and North African traditional medicine. The uterine-stimulating action (attributed to the alkaloid fraction and possibly diosgenin) at therapeutic doses (above 5–10g seed powder equivalent) constitutes a documented risk of premature uterine contractions. Culinary doses (seeds used as cooking spice — typically <2g/day integrated into meals) are considered safe by most traditional authorities; therapeutic supplemental doses are contraindicated. This distinction mirrors the aloe gel/latex clinical split: the dose makes the toxicant.
+- **Peanut or chickpea allergy (Fabaceae cross-reactivity):** Fenugreek is in the Fabaceae (legume) family and shares cross-reactive proteins with peanuts, chickpeas, and other Fabaceae members. Documented cases of anaphylaxis to fenugreek exist in individuals with known peanut allergy; this cross-reactivity risk is among the most clinically significant safety issues with fenugreek and is insufficiently known in the sports supplement community, where fenugreek is increasingly included in testosterone and pre-workout formulas without allergen disclosure.
+
+**Relative Contraindications / Cautions:**
+- **Diabetes medications (insulin, sulfonylureas, SGLT2 inhibitors, GLP-1 agonists):** The three-pathway anti-diabetic action of fenugreek seed is pharmacologically significant enough to reduce fasting blood glucose meaningfully (Neelakantan et al. 2014 meta-analysis: significant FBG reduction across 10 RCTs); concurrent use with pharmaceutical hypoglycemics requires blood glucose monitoring and possible dose adjustment to prevent hypoglycemia.
+- **Thyroid medications:** As noted under stacking interactions; bioavailability reduction of levothyroxine documented with concurrent high-fiber meals; therapeutic fenugreek doses represent a meaningful fiber load that requires temporal separation from thyroid hormone administration.
+- **Anticoagulant medications:** Additive platelet inhibition; see stacking section.
+- **Hormone-sensitive conditions (estrogen-receptor-positive breast cancer, uterine cancer, endometriosis, uterine fibroids):** Diosgenin's ER-β agonism and the phytoestrogenic profile of the saponin fraction, while generally mild compared to endogenous estrogen, may be relevant in estrogen-sensitive pathology; physician supervision required for therapeutic use in these conditions.
+
+**Tolerability:**
+- GI side effects (bloating, flatulence, loose stools) are the most common adverse effects and are dose-dependent and largely attributable to colonic fermentation of galactomannans; onset within the first 1–2 weeks of use; typically resolve with continued use as microbiome composition adapts to the new fiber substrate; minimized by gradual dose escalation starting at 2–3g/day.
+- The sotolon-mediated maple-syrup body odor is universal at therapeutic doses, affects sweat and urine, is harmless, and resolves completely within 24–48 hours of stopping fenugreek; it must be disclosed proactively as a compliance management issue.
+- Hypoglycemia in non-diabetic individuals at standard doses (5–15g/day seed powder) is not a documented clinical concern because 4-hydroxyisoleucine's insulin secretion stimulation is glucose-dependent; however, in conjunction with extended fasting, extreme caloric restriction, or concurrent hypoglycemic medications, monitoring is appropriate.
+
+**Pediatric and neonatal consideration:** Fenugreek tea consumed by lactating mothers is secreted into breast milk; there are isolated case reports of maple-syrup-like body odor in neonates consuming fenugreek-supplemented breast milk (due to sotolon transfer), which has led to misdiagnosis of maple syrup urine disease (MSUD) — a serious metabolic disorder. The sotolon-in-breast-milk phenomenon is harmless but can trigger unnecessary and distressing diagnostic workup; mothers using fenugreek should disclose this to their pediatrician.
 
 ---
 

@@ -109,6 +109,8 @@ Fresh or dried powdered horsetail applied directly to wound for hemostasis. Trad
 
 **Shennong / Chinese (SBJ).** Framed, not graded. 问荆 (wènjīng) appears as a heat-clearing, eye-brightening, hemostatic drug entering Lung–Liver–Gallbladder; it is a later therapeutic entrant rather than one of the classic upper-grade *yang sheng* substances, and no *san pin* 三品 grade is recorded for it in the sources retrieved. It therefore carries a therapeutic status only, no cultivation grade. [PROPOSE: add European folk / phytotherapy (EF) — Equisetum arvense herb is a monographed drug of modern Western phytotherapy (German Commission E approval for post-traumatic/static oedema and irrigation therapy), a genuinely distinct later-European attestation from Dioscorides' DMM.]
 
+**European folk / phytotherapy (EF).** The entry places horsetail in the long line of classical and later European herbal use, but it records no sourced European folk or phytotherapeutic account of what the plant was given for, and no cultivation framing. No cultivation status is attested in this tradition; its European role, as far as this entry sources it, is therapeutic only.
+
 **Practitioner's note.** Across every tradition that names it, horsetail is a therapeutic drug — diuretic, astringent, styptic — with no cultivation grade attached in any of them. A cultivator uses it for a defined job (drainage, stopping bleeding, connective-tissue support over a long course) and expects nothing more from it; the appealing "silica strengthens the tissue therefore it builds the constitution" reasoning is a modern inference the traditions do not make, and it should not be dressed up as a vital doctrine here.
 
 ---

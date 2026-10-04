@@ -77,6 +77,8 @@ According to PubMed, the modern evidence for cubeb is **constituent-level and pr
 
 **European folk / phytotherapy (EF).** The entry records cubeb reaching medieval Europe through Arab trade and entering the pharmacopoeia as a costly aromatic for urinary and respiratory complaints, with a reputation as an aphrodisiac and breath-sweetener, and remaining an official drug into the early modern pharmacopoeias. That is a therapeutic and commercial history. No cultivation status is attested: the European tradition gives cubeb no role in conserving or refining the person's vitality, and the aphrodisiac reputation is a remedy claim, not a cultivation one.
 
+**Chinese, Shennong stratum (SBJ).** No Shennong-stratum attestation is recorded. Cubeb is a Javanese vine that reached China, as it reached the Arab and European worlds, through the spice trade, and the entry gives no *Bencao Jing* lemma or *san pin* grade for it. It therefore carries no cultivation status in this stratum.
+
 **Practitioner's note.** A cultivator uses cubeb to clear, not to cultivate. It is a warming, drying aromatic taken in a short course to open cold-damp airways and waterways and to freshen the breath — a therapeutic clearing, stopped once the passage is open. No tradition in this entry grants it a vital-cultivation grade, and its own drying, penetrating character argues against continuous use.
 
 ### Contraindications

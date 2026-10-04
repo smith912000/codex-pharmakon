@@ -63,6 +63,7 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Kenetica Qi/Jing tier:** ◉ **Qi** for the warming, circulation-stimulating and counter-irritant action, with a strong ◈ **Jing** ascription for the mineral/blood-nourishing food value — a stinging herb that both rouses and rebuilds.
 
 ### Cultivation Register
+
 **Chinese (SBJ).** Local *Urtica* including this species appear in Chinese and Himalayan **folk** use for rheumatic pain and as a blood-tonic diuretic; this is folk practice, not a *bencao san pin* placement. No upper/middle/lower grade is recorded and no *yang sheng* framing attaches — attested in use, no cultivation grade: (b).
 
 **Ayurvedic (SS).** The entry's Ayurvedic link is explicitly genus-adjacent — *Vrishchikali / Bichhu-buti*, the "scorpion plant" — not *U. laetevirens* itself. No *rasayana* or *vajikarana* status is attested for this plant, and its pungent-warming anti-rheumatic reputation is a *dravyaguna* therapeutic note, not a vitality assignment. (b)/(c).

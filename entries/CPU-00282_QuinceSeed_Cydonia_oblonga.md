@@ -64,6 +64,7 @@ In applied Kenetica, quince-seed mucilage is a gentle recovery/wind-down aid for
 - **Ayurvedic:** Not a classical Sanskrit dravya — omit.
 
 ### Cultivation Register
+
 **Greek / Dioscoridean (DMM).** Dioscorides describes the quince — the "Cydonian apple" (*kydōnion mēlon*) — as an astringent stomachic good in fluxes. That is a therapeutic characterisation, not a subtle-body one, and Dioscorides carries no vital-constitutional system to build one from. What the entry inherits from him is a discipline of attention: the careful separation of the binding fruit-flesh from the very different soaked seed. Attested substance, no cultivation status — (b), on the discipline-of-attention frame.
 
 **Unani / Avicennan (CM).** Here care is needed. The Unani *safarjal* is a noted cardiac and *mufarrih* (gladdening)-adjacent **fruit**, and *mufarrih* drugs are held to strengthen the *ruh* — but that doctrine belongs to Ibn Sina's *Kitāb al-Adwiya al-Qalbiyya*, not the *Canon*, and no constituent list from it may be published. Two further limits: this entry is the **seed** (*bizr al-safarjal*), a cool-moist demulcent mucilage, not the cardiac fruit; and no source assigns the seed a cultivation status within the innate-heat / radical-moisture economy. The gladdening-cardiac frame is real but attaches to the fruit, not this seed — (b), framed and bounded.
