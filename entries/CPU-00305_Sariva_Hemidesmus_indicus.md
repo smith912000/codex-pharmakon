@@ -57,6 +57,12 @@ According to PubMed:
 - **Karma (actions):** Raktaśodhana/raktaprasādana, dāhapraśamana (anti-burning), kaṇḍūghna (anti-itch), jvaraghna (antipyretic), mūtrala (diuretic), stanyaśodhana (milk-purifying), varṇya (complexion-enhancing), rasāyana (rejuvenative)
 - **Gaṇa:** *Sārivādi gaṇa* (Suśruta) — eponymous head
 
+### Cultivation Register
+
+**Ayurveda (SS).** Framed, not graded. *Sariva* is named in the Sushruta Samhita as a member of the Vidari-gandhadi group and as the head of the Sarivadi group, which allays thirst, cures haemoptysis and bilious fever, and relieves burning of the body (Sutrasthana ch. 38, Bhishagratna tr., Vol. I). It is also listed among the creeper drugs of a further group in the same chapter. These are therapeutic group attestations. No rasayana or vajikarana assignment for Sariva was read in the Sushruta text, so it carries no cultivation status in this tradition. The entry's statement that Caraka lists it among restorative rasayana decoctions is not checked here.
+
+**Practitioner's note.** Nothing specific. It is a cooling root for heat and blood complaints and a base for summer syrups; the Sushrutan sources read offer no longevity or vitality practice for it.
+
 ### Contraindications
 Cooling and heavy; may aggravate Kapha-cold conditions, sluggish digestion (*mandāgni*), or Vāta-cold complaints if used long-term without warming adjuvants. Not established as safe in pregnancy/lactation at therapeutic doses `[USER: verify]`. Human safety data are limited. Ensure correct botanical identity — *Hemidesmus indicus* (Śveta/white Sāriva) is distinct from the "black Sāriva" (*Cryptolepis buchanani*) with which it is traditionally paired and sometimes substituted.
 

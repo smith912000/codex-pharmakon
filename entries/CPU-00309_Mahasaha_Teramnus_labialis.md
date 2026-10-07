@@ -52,6 +52,12 @@ According to PubMed:
 - **Karma (actions):** Balya (strengthening), vātahara (Vāta-pacifying), bṛṃhaṇa (nourishing), stanya (galactagogue), rasāyana (restorative, mild), vṛṣya (reproductive-supportive, per pair-context)
 - **Gaṇa / group:** Classically paired as *Mahāsahā* with *Sahā/Alpasahā*; associated with the *parṇī* (leguminous tonic) group
 
+### Cultivation Register
+
+**Ayurveda (SS).** Framed, not graded. *Mahasaha* is named in the Sushruta Samhita only as a member of the Vidari-gandhadi group, alongside Kshudra-saha (Sutrasthana ch. 38, Bhishagratna tr., Vol. I); the group is said there to subdue deranged Vayu and Pitta. That is a group-level therapeutic attestation. No rasayana or vajikarana assignment for Mahasaha was read, so it carries no cultivation status in this tradition. *Mashaparni*, listed separately in the Kakolyadi group, is a different name and is not attributed to this entry. The entry's description of a "Saha pair" and its identification as *Teramnus labialis* were not confirmed in the Sushruta text read.
+
+**Practitioner's note.** Nothing. It is a minor component of compound formulas, with no stand-alone cultivation practice attested.
+
 ### Contraindications
 Heavy, unctuous, nourishing — may aggravate Kapha, weak digestion (*mandāgni*), and *āma* states if over-used. As a legume, ordinary pulse cautions apply (gas/bloating in weak agni; standard legume anti-nutrient handling — cook seeds). Safety in pregnancy at therapeutic (non-food) doses not established `[USER: verify]`. Human clinical safety data absent. Confirm botanical identity given the classical ambiguity around Mahāsahā/Sahā.
 

@@ -65,6 +65,12 @@ Attribution: findings from PubMed. (The published pharmacological literature on 
 
 **Gaṇa membership (Sushruta):** Component of **Laghupañcamūla** → **Daśamūla**; paired with Śālaparṇī (*Desmodium gangeticum*).
 
+### Cultivation Register
+
+**Ayurveda (SS).** Framed, not graded. *Prithakparni* is named in the Sushruta Samhita in group lists: the Vidari-gandhadi group and the minor five-root group (Svalpa-pancha-mula), whose compound is described as a tonic and aphrodisiac that subdues Vayu and soothes Pitta, and it also belongs to the ten-root group (Sutrasthana ch. 38, Bhishagratna tr., Vol. I). That description is given for the group as a whole, not for this root alone, so it is a therapeutic attestation and not a rasayana or vajikarana assignment for Prithakparni. No individual rejuvenative recipe for it was read; it carries no cultivation status in this tradition.
+
+**Practitioner's note.** Nothing specific. It is a component root in compound formulas; a cultivator has no separate practice for it. The Caraka and rasayana-literature claims in the tag line were not checked here.
+
 ### Contraindications
 
 - Generally well-tolerated in classical doses and within compound formulae. Its astringent (*grāhī*) action means caution in constipation-predominant states or where reduced gut motility is undesirable.

@@ -105,6 +105,14 @@ The honest use case is narrow: it is a plant a cultivator in the tropics can gro
 | Thai | Anti-inflammatory, joint-directed; grilled-leaf preparation specified | Good — consistent and documented |
 | Kenetica | Cooling in *effect on the target tissue*, dispersing in *action*, applied warm. Surface-acting. Not a tonic. | Working classification — the "cooling" label is inference, not consensus |
 
+### Cultivation Register
+
+**Shennong / classical Chinese (SBJ).** No cultivation framing is attested. The entry's own Chinese material places the plant (*wen zhu lan*) in southern coastal folk and later materia medica, not in the Shennong Bencao Jing, and describes it as toxic and external-use. It carries no *san pin* grade and no yang sheng role in the sources read. The sections of the classic consulted do not name it, so a Shennong attestation remains unconfirmed.
+
+**Ayurveda (SS).** No cultivation framing is attested. The names given in the entry (*Sudarshan*, *Nagadamani*) were not found in the Bhishagratna translation of the Sushruta Samhita, and the entry itself marks its classical citation for verification. The plant is a topical poultice and a deliberate emetic in the entry's account, a poison-class substance; no rasayana or vajikarana assignment exists for it.
+
+**Practitioner's note.** Nothing. This is an external poultice plant and a poison; there is no vitality or longevity use to cultivate, and the bulb should not be taken internally.
+
 ### Contraindications
 
 **⚠️ TOXIC PLANT. EXTERNAL USE ONLY. THE BULB IS GENUINELY POISONOUS.**

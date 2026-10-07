@@ -64,6 +64,12 @@ Attribution: findings from PubMed.
 - **Doṣa action:** *Vāta-śāmaka* and *Pitta-śāmaka* (primary — sweet, cooling, demulcent); mildly Kapha-increasing in excess owing to sweet/unctuous mucilage
 - **Karma (actions):** *Balya* (strengthening), *raktavardhaka*-adjacent (blood-building / anti-anaemia — traditional), *grāhī* (astringent, antidiarrhoeal), *snigdha/ślaiṣmika* demulcent (soothes irritated mucosa), *kāsahara/śvāsahara*-adjacent (respiratory-soothing), *yakṛt-uttejaka*-counter (hepatoprotective, per data), *antispasmodic* (per data)
 
+### Cultivation Register
+
+**Ayurveda (SS).** Framed, not graded. *Sahadeva* is named in the Sushruta Samhita in two places: as one of the drugs of the Vidari-gandhadi group (Sutrasthana ch. 38, Bhishagratna tr., Vol. I), and in a plaster and medicated oil with Vishvadeva and rock salt for an itching ear-lobe (Sutrasthana ch. 16, Vol. I). Both are therapeutic attestations. No rasayana or vajikarana assignment for Sahadeva was read, so it carries no cultivation status in this tradition. The Sushrutan *Sahadeva* is not shown to be *Grewia tenax*; the entry itself notes the name is shared with *Vernonia cinerea*, and the identification is unconfirmed.
+
+**Practitioner's note.** Nothing. As a food-medicine the fruit is a regional dietary matter, not a rasayana practice. Do not credit any Sushrutan rejuvenative standing to this species.
+
 ### Contraindications
 
 - Generally regarded as safe (widely eaten as food). Being sweet, unctuous, and mucilaginous, use cautiously in marked Kapha excess, sluggish digestion, or heavy congestion.

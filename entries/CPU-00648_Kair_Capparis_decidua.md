@@ -88,6 +88,14 @@ Graded honestly. This is a preclinical literature. There are no human trials of 
 | Unani | *Har* and *yabis* (hot and dry) — degree [USER: verify]; used for *waja-ul-mafasil*, *nafkh*, cough |
 | Kenetica | Dispersing / drying. Terrain-class, not state-class. Food-first delivery. |
 
+### Cultivation Register
+
+**Unani (CM).** No cultivation framing is attested for this plant. The entry's Unani paragraph (hot and dry, used for joint pain, sciatica, flatulence and cough) is itself unsourced and marked for verification, so it cannot be taken as an attested therapeutic frame either. Nothing here places the plant within the Unani ideas of innate heat, radical moisture or the *ruh*; those would have to be sourced for this species before being claimed.
+
+**Ayurveda (SS).** Karira is named in the Sushruta Samhita, but only as a food and drug in group lists and property descriptions: among the bitter-group drugs (Sutrasthana ch. 42, Bhishagratna tr., Vol. I); among the heat-making, sweet-bitter-pungent fruits that subdue Vayu and Kapha (Sutrasthana ch. 46, Vol. I); and in a list of foods that become harmful in incompatible combinations (Sutrasthana ch. 20, Vol. I). These are therapeutic and dietary attestations. No rasayana or vajikarana assignment for Karira was read; it carries no cultivation status in this tradition.
+
+**Practitioner's note.** Nothing to cultivate in the sense of rejuvenation or vitality practice. It is a desert food and a drying, heating drug for cold, damp conditions, and the tradition's own caution is that it is not to be eaten raw.
+
 ### Contraindications
 
 - **Pregnancy — avoid medicinal doses.** No safety data located. Culinary pickle is traditional food; root-bark decoctions are not to be used in pregnancy without qualified supervision.

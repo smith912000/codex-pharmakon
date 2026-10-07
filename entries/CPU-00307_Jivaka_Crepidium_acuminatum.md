@@ -54,6 +54,12 @@ According to PubMed:
 - **Karma (actions):** Jīvanīya (life-promoting), bṛṃhaṇa (nourishing/bulk-building), rasāyana (rejuvenative), balya (strength-giving), vṛṣya/śukrala (reproductive-tonic), dāhapraśamana, ojovardhaka (ojas-building)
 - **Gaṇa / group:** *Aṣṭavarga* octad (paired with Ṛṣabhaka)
 
+### Cultivation Register
+
+**Ayurveda (SS).** Framed, not graded. *Jivaka* is named in the Sushruta Samhita as a member of the Vidari-gandhadi group and of the Kakolyadi group (Sutrasthana ch. 38, Bhishagratna tr., Vol. I). The text says of the Kakolyadi group as a whole that it subdues Pitta, blood and Vayu, increases breast milk, and is a restorative and an elixir that augments virile potency. That is a group-level statement, not an assignment to Jivaka alone, so it is a therapeutic frame and not a rasayana or vajikarana status for this plant. The entry's claims about the Ashtavarga set and about *chyavanaprasha* were not found in the passages read and are not attributed to Sushruta here. The identification with *Crepidium acuminatum* is the entry's own.
+
+**Practitioner's note.** Nothing to do with the plant itself: it is a scarce, threatened orchid whose identity in trade is uncertain. In the tradition it is a component of compound restoratives, not a stand-alone cultivation practice.
+
 ### Contraindications
 Heavy, sweet, unctuous — may aggravate Kapha, low digestive fire (*mandāgni*), *āma* (undigested-toxin) states, obesity, and diabetes/metabolic sluggishness; not for congested or high-Kapha conditions without processing. Safety in pregnancy/lactation not established `[USER: verify]`. **Overriding caution: conservation status** — genuine *Crepidium acuminatum* is a threatened wild orchid; use only sustainably/legally sourced material or classically-sanctioned substitutes, and beware widespread commercial adulteration.
 

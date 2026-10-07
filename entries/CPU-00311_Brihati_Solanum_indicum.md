@@ -60,6 +60,12 @@ A separate study on the closely related *S. indicum* ssp. *distichum* (Bahgat et
 - **Srotas (channels):** *prāṇavaha* (respiratory) and *annavaha* (digestive); secondarily *raktavaha*.
 - **Gaṇa membership:** the greater of the two *kṣudra-mūla* (lesser roots) of the **Daśamūla**; classed among Caraka's kāsahara, śvāsahara and dīpanīya dravyas.
 
+### Cultivation Register
+
+**Ayurveda (SS).** Framed, not graded. *Vrihati* (Brihati) appears in the Sushruta Samhita in group lists: the Vidari-gandhadi group and the minor five-root group, where "the two species of Vrihati" are named and the group compound is described as a tonic and aphrodisiac that subdues Vayu (Sutrasthana ch. 38, Bhishagratna tr., Vol. I), and among the bitter-group drugs with Kantakari (Sutrasthana ch. 42, Vol. I). The tonic and aphrodisiac wording belongs to the five-root group as a whole and is not a rasayana or vajikarana assignment for this plant. No individual rejuvenative recipe for it was read; it carries no cultivation status. The Bhishagratna rendering "two species of Vrihati" does not by itself fix the identification with *Solanum indicum*.
+
+**Practitioner's note.** Nothing specific. It is a root used in compound formulas such as the Dashamula; a cultivator has no separate practice for it.
+
 ### Contraindications
 
 - Heating, sharp and kindling — caution in Pitta excess, hyperacidity, peptic ulceration and active GI inflammation.

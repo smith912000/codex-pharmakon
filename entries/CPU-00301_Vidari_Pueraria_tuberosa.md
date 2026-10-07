@@ -65,6 +65,12 @@ Attribution: findings from PubMed. (The pharmacology below is largely establishe
 
 **Gaṇa membership:** Reference drug of the sweet-nutritive **Vidāryādi** group; source of the "Vidārī scent" that names *Vidārigandhā* (Śālaparṇī).
 
+### Cultivation Register
+
+**Ayurveda (SS).** Attested as a rasayana. In the chapter on elixirs and rejuvenators (Sushruta Samhita, Chikitsasthana ch. 27, Bhishagratna tr., Vol. II), the Vala-kalpa is followed by a statement that Ati-bala, Naga-bala, Vidari and Shatavari may be taken in the same way and for the same purposes, the Vidari and Shatavari powders with milk, under the same regimen of diet and conduct. The text ties this course to arresting premature old age, to strength, and to bleeding disorders. Vidari also appears among sweet drugs in Sutrasthana ch. 15 (Vol. I), which is a therapeutic mention. The identification of Sushruta's Vidari with *Pueraria tuberosa* is the entry's own and is not tested here.
+
+**Practitioner's note.** The tradition's own use is a defined rasayana course: powdered root in milk, with the prescribed regimen, taken under a physician after cleansing. The vajikarana framing in the tag line was not confirmed in the passages read. Do not extend the elixir claims beyond that course.
+
 ### Contraindications
 
 - **Kapha-aggravating:** being heavy, sweet, and unctuous, it can worsen Kapha excess, obesity, sluggish digestion (low agni), significant *āma*, or oedema/congestion. Use cautiously or avoid in these states.

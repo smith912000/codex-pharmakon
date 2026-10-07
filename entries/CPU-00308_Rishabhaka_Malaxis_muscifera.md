@@ -54,6 +54,12 @@ According to PubMed:
 - **Karma (actions):** Jīvanīya, bṛṃhaṇa, vṛṣya (reproductive tonic), balya (strengthening), rasāyana, śukrala (semen-promoting), dāhapraśamana, ojovardhaka
 - **Gaṇa / group:** *Aṣṭavarga* octad (paired with Jīvaka)
 
+### Cultivation Register
+
+**Ayurveda (SS).** Framed, not graded. *Rishabhaka* is named in the Sushruta Samhita as a member of the Vidari-gandhadi group and of the Kakolyadi group (Sutrasthana ch. 38, Bhishagratna tr., Vol. I). Of the Kakolyadi group as a whole the text says it subdues Pitta, blood and Vayu, increases breast milk, and is a restorative and an elixir augmenting virile potency; this is a group statement, not an assignment to this plant alone. It also appears as an ingredient in a medicated ghee for eye injury (Chikitsasthana ch. 2, Vol. II) and in a medicated oil used as an enema for Vayu disorders and weakness (Chikitsasthana ch. 37, Vol. II). All of this is therapeutic. No rasayana or vajikarana assignment for Rishabhaka alone was read. The entry's Ashtavarga and *chyavanaprasha* claims are not found in these passages.
+
+**Practitioner's note.** Nothing specific to the plant. It is a threatened, often substituted orchid and a component of compound restoratives; no stand-alone cultivation practice is attested.
+
 ### Contraindications
 Heavy, sweet, unctuous — aggravates Kapha, *mandāgni* (weak digestion), *āma*, obesity, and diabetic/metabolic sluggishness; avoid in congested high-Kapha states without processing. Safety in pregnancy/lactation not established `[USER: verify]`. **Overriding caution: conservation status** — genuine *Malaxis muscifera* is an endangered wild Himalayan orchid; use only sustainably/legally sourced material or classically-sanctioned substitutes, and expect heavy commercial adulteration.
 
