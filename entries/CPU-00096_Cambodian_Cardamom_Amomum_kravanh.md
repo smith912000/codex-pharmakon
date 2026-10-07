@@ -2,7 +2,8 @@
 
 ## *Amomum kravanh* Pierre ex Gagnep. — the warming aromatic seed that wakes the damp, cold middle
 
-**Tradition Tags:** FMT
+**Tradition Tags:** SEA
+**Tags (previous line, retained for reference):** FMT
 **Tags (previous line, retained for reference):** Chinese Medicine (Bai Dou Kou) · Ayurveda-adjacent · Unani · Folk-Southeast Asian
 **Energetic Classification (TCM):** ◉ Qi (warming, aromatic, dampness-transforming)
 **Training Phase:** [GENERAL]

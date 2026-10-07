@@ -2,7 +2,8 @@
 
 ## *Cynoglossum cheirifolium* L. | Family: Boraginaceae
 
-**Tradition Tags:** DMM, CM
+**Tradition Tags:** DMM
+**Tags (previous line, retained for reference):** DMM, CM
 
 **Energetic Classification:** Cooling, moist, demulcent-astringent — by genus-level inference and doctrine of signatures, **not** by attested classification for this species.
 

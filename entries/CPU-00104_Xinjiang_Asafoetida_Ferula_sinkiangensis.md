@@ -2,7 +2,8 @@
 
 ## *Ferula sinkiangensis* K.M.Shen — the Xinjiang giant-fennel resin, carminative and antiparasitic of the cold gut
 
-**Tradition Tags:** FMT
+**Tradition Tags:** UIG
+**Tags (previous line, retained for reference):** FMT
 **Tags (previous line, retained for reference):** Chinese Medicine (A Wei) · Unani/Persian-adjacent · Folk-Central Asian
 **Energetic Classification (TCM):** ◉ Qi (warming, descending, mass-and-wind dispersing)
 **Training Phase:** [GENERAL]

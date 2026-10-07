@@ -2,7 +2,8 @@
 
 ## *Gnaphalium uliginosum* L. | Family: Asteraceae
 
-**Tradition Tags:** CM, RUS
+**Tradition Tags:** RUS
+**Tags (previous line, retained for reference):** CM, RUS
 **Tags (previous line, retained for reference):** CM
 **Tags (previous line, retained for reference):** DMM, CM
 **Energetic Classification:** Astringent, slightly bitter, cool; drying; settling/lowering

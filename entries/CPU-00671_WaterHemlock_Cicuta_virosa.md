@@ -2,7 +2,8 @@
 
 ## *Cicuta virosa* L. | Family: Apiaceae (Umbelliferae)
 
-**Tradition Tags:** DMM, CM
+**Tradition Tags:** DMM, EF
+**Tags (previous line, retained for reference):** DMM, CM
 
 **Energetic Classification:** Cold, damp, violently acrid — a marsh poison of the "convulsive" class, not the "narcotic" class
 

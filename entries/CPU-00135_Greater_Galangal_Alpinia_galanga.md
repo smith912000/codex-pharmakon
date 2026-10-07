@@ -2,7 +2,8 @@
 
 ## *Alpinia galanga* (L.) Willd. — the pungent kitchen-and-clinic rhizome that wakes the cold stomach
 
-**Tradition Tags:** FMT
+**Tradition Tags:** SEA
+**Tags (previous line, retained for reference):** FMT
 **Tags (previous line, retained for reference):** SS (Ayurveda — Kulanjana) · SBJ (Chinese Medicine — Da Gao Liang Jiang / related *Alpinia*) · CM (Unani — Khulanjan) · DMM/Medieval-European (galingale of the medieval pharmacopoeia) · Folk-Southeast-Asian
 **Energetic Classification (TCM):** ◉ Qi — a warming, qi-and-digestion-moving aromatic of the middle burner
 **Training Phase:** [GENERAL]

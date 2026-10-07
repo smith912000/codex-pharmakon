@@ -2,7 +2,8 @@
 
 ## *Cerastium arvense* L. | Family: Caryophyllaceae
 
-**Tradition Tags:** DMM, CM
+**Tradition Tags:** DMM, EF
+**Tags (previous line, retained for reference):** DMM, CM
 **Energetic Classification:** Cool, moist, softening — a *relaxing/demulcent* profile by traditional attribution [USER: verify]
 **Training Phase:** Foundation — Restoration & Tissue Repair (topical / low-stakes internal)
 

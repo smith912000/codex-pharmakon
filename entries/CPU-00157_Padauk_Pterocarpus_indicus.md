@@ -2,7 +2,8 @@
 
 ## *Pterocarpus indicus* Willd. — the bleeding red heartwood and its kino, astringent haemostat of the tropical Asian forest
 
-**Tradition Tags:** FMT
+**Tradition Tags:** SEA
+**Tags (previous line, retained for reference):** FMT
 **Tags (previous line, retained for reference):** Ayurveda (adjacent — *Pterocarpus* lineage) · Southeast Asian folk medicine · Chinese Medicine (adjacent, *jiang xiang* relatives) · Traditional Pacific/Malay (SBJ-adjacent ethnobotany)
 **Energetic Classification (TCM):** ◉ Qi (blood-cooling, astringent, stasis-resolving) / ◈ Jing (secondary — connective/tissue)
 **Training Phase:** [SPECIALIST ONLY]
