@@ -2,7 +2,8 @@
 
 ## *Polygonum capitatum* Buch.-Ham. ex D.Don — the damp-heat-clearing knotweed of the urinary tract
 
-**Tradition Tags:** FMT
+**Tradition Tags:** TCM
+**Tags (previous line, retained for reference):** FMT
 **Tags (previous line, retained for reference):** Chinese Medicine / Miao ethnomedicine (Tou Hua Liao) · Folk-Himalayan/Southwest-Chinese
 **Energetic Classification (TCM):** ◉ Qi (bitter-cooling, damp-heat clearing, diuretic)
 **Training Phase:** [GENERAL]

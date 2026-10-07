@@ -2,7 +2,8 @@
 
 ## *Symplocos caudata* Wall. (*Symplocos racemosa* group) — the astringent-cooling bark for menorrhagia, leucorrhoea and lax tissue
 
-**Tradition Tags:** FMT
+**Tradition Tags:** SS
+**Tags (previous line, retained for reference):** FMT
 **Tags (previous line, retained for reference):** Ayurveda (Lodhra) · Chinese Medicine-adjacent · Folk-Himalayan
 **Energetic Classification (TCM):** ◉ Qi (astringent, cooling, blood-staunching)
 **Training Phase:** [GENERAL]

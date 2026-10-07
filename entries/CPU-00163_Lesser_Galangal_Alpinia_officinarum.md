@@ -2,7 +2,8 @@
 
 ## *Alpinia officinarum* Hance — the warming root of the southern stomach
 
-**Tradition Tags:** FMT
+**Tradition Tags:** TCM
+**Tags (previous line, retained for reference):** FMT
 
 **Energetic Classification (TCM):** ◉ Qi Primary — Middle Burner Warming / Stomach-Cold Disperser
 
