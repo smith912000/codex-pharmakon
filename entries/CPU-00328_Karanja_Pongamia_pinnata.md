@@ -55,6 +55,12 @@ According to PubMed, the evidence for Karañja is chiefly **phytochemical and pr
 - **Doṣa action:** Kapha–Vāta śāmaka (pacifies Kapha and Vāta)
 - **Karma (actions):** Kuṣṭhaghna (anti-dermatosis), kaṇḍūghna (anti-pruritic), kṛmighna (anthelmintic), vraṇaśodhana-ropana (wound cleansing and healing), krimidanta (dental/gum use of twigs), Aragvadhādi gaṇa member
 
+### Cultivation Register
+
+**Suśruta Saṃhitā (SS).** Two kinds of karañja are named in the Arkādi group, which the text says acts against kapha, fat and poison, as a vermifuge and aseptic agent for ulcers, and is curative in skin disease. The same two karañjas are listed in the Āragvadhādi group (Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I). These are therapeutic group memberships, and the text does not say which species the two karañjas are. No rasāyana or vājīkaraṇa assignment is attested, so no cultivation status.
+
+**Practitioner's note.** Nothing. The record is of a group-listed drug for skin and ulcer conditions.
+
 ### Contraindications
 
 Internal use of seed/oil requires supervision — the seed is bitter and can be an irritant/emetic in quantity. Patch-test the oil before wide topical use; discontinue on irritation. Pregnancy and lactation: internal use best avoided without qualified guidance. Not to be confused with edible oils.

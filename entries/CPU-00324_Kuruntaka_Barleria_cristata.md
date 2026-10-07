@@ -52,6 +52,12 @@ According to PubMed, the evidence for *B. cristata* is **review-level and precli
 - **Karma (actions):** Vāta-hara (Vāta-pacifying), Śothahara (anti-inflammatory), Kāsa-Śvāsahara (respiratory support), Vedanāsthāpana (analgesic, esp. dental), Vraṇaropaṇa (wound-supportive), Balya (mildly strengthening).
 - **Gaṇa membership:** Belongs to the classical **Sahacara / Koraṇṭaka** group; enumerated among Vāta-vyādhi and respiratory drugs in the nighaṇṭu literature.
 
+### Cultivation Register
+
+**Suśruta Saṃhitā (SS).** Kuruntaka is listed in two of Suśruta's drug groups: the Āragvadhādi group (against kapha and poison, helpful in meha, kushtha, fever and ulcers) and the Viratarvādi group, described as subduing vāta disorders and helping in stone, gravel and urinary retention (Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I). Both are therapeutic group memberships. No rasāyana or vājīkaraṇa assignment for this plant was found in the text, so no cultivation status is attested in Suśruta.
+
+**Practitioner's note.** Nothing. It is a group-listed drug for urinary and kapha complaints, not a rejuvenative.
+
 ### Contraindications
 
 - Heating potency (Uṣṇa vīrya): caution in Pitta excess and inflammatory-heat states.

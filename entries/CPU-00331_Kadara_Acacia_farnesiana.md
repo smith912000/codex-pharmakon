@@ -54,6 +54,12 @@ According to PubMed, the modern evidence is **preclinical (in-vitro / phytochemi
 - **Doṣa action:** Kapha–Pitta śāmaka (pacifies Kapha and Pitta)
 - **Karma (actions):** Grāhī/stambhana (astringent, anti-diarrhoeal), vraṇaropana-śodhana (wound cleansing/healing), kuṣṭhaghna (anti-dermatosis), dantya (dental/gum care), krimighna/antibacterial (traditional), raktaprasādana (blood-cleansing, group action)
 
+### Cultivation Register
+
+**Suśruta Saṃhitā (SS).** Kadara is named in the Sālasārādi group (against kushtha, fat and kapha; helpful in meha and pandu) in Sushruta Samhita, Sutrasthana ch. 38 (Bhishagratna tr., Vol. I). It also appears with khadira and kramuka in a decoction for kshaudra-meha (Chikitsasthana ch. 11, Vol. II). Both are therapeutic attestations, and the translation gives no botanical identification. No rasāyana or vājīkaraṇa assignment is attested, so no cultivation status.
+
+**Practitioner's note.** Nothing. Its recorded use is clinical.
+
 ### Contraindications
 
 High tannin content: constipation and gastric irritation on prolonged/high internal use; avoid in constipation-predominant Vāta states. Pregnancy/lactation: internal use best avoided without qualified guidance. Cassie absolute/essential material is for external aromatic use only, not ingestion; patch-test for skin sensitivity. Botanical-identity caution: "Kadara/Ari-mēda" covers several thorny *Acacia*/*Vachellia* species — confirm the species before sourcing.

@@ -56,6 +56,12 @@ According to PubMed, the modern evidence base concerns *Marsdenia tenacissima* p
 - **Karma (actions):** Dīpana (kindling), Chedana / Lekhana (scraping, reducing), Jvaraghna (antipyretic), Pramehaghna (anti-prameha), Kṛmighna and Viṣaghna in some sources.
 - **Gaṇa membership:** Classically enumerated among bitter/deobstruent and prameha-relevant groupings in the Sanskrit corpus; exact *gaṇa* placement varies by recension and, as with all Mūrvā data, is entangled with the source-plant question.
 
+### Cultivation Register
+
+**Suśruta Saṃhitā (SS).** Mūrvā appears in the Āragvadhādi group (Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I), whose metrical summary lists action against kapha and poison and benefit in meha, kushtha, fever and ulcers. It is also named in a burn plaster with beeswax, madhuka, sarja-resin, manjishtha and red sandal (Sutrasthana ch. 12, Vol. I), among fibres for suturing ulcers (Sutrasthana ch. 25, Vol. I), and in a decoction for hasti-meha (Chikitsasthana ch. 11, Vol. II). These are therapeutic and surgical-craft attestations. No rasāyana or vājīkaraṇa assignment is attested, so no cultivation status.
+
+**Practitioner's note.** Nothing. Its recorded uses are external and clinical.
+
 ### Contraindications
 
 - Source-plant identity uncertain — do not dose without confirming the actual botanical supplied.

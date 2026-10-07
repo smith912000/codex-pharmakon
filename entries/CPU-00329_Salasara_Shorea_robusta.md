@@ -55,6 +55,12 @@ According to PubMed, the modern evidence is **preclinical (animal)** and centres
 - **Doṣa action:** Kapha–Pitta śāmaka (resin); heartwood is kapha-medohara
 - **Karma (actions):** Vraṇaropana-śodhana (wound cleansing/healing), kuṣṭhaghna (anti-dermatosis), grāhī/stambhana (astringent, anti-diarrhoeal), śothahara (anti-inflammatory), medohara/lekhana (heartwood), dhūpana (fumigation)
 
+### Cultivation Register
+
+**Suśruta Saṃhitā (SS).** Sālasāra heads the Sālasārādi group of Suśruta's drug classification, which the text says destroys the germ of kushtha, absorbs deranged fat and kapha, and helps in meha and pandu (Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I). The group is also counted in the pungent group of the tastes chapter (Sutrasthana ch. 42, Vol. I). This is a therapeutic attestation only. No rasāyana or vājīkaraṇa assignment for this plant was found, so no cultivation status is attested in Suśruta.
+
+**Practitioner's note.** Nothing. It is a group-listed drug against kushtha, kapha and meha, with no rejuvenative use recorded.
+
 ### Contraindications
 
 Resin dressings: patch-test; discontinue on irritation. Incense/dhūpa smoke — avoid in asthma and respiratory sensitivity. Internal use of heartwood/bark decoctions only under qualified supervision; high tannin content can cause constipation and gastric upset. Pregnancy/lactation: internal use best avoided without guidance.

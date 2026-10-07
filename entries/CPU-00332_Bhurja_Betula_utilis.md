@@ -81,6 +81,12 @@ Full Āyurvedic energetic block for *Betula utilis* bark:
 
 *Note: some of the above (Guṇa, precise Vipāka) reflect general astringent-bitter bark energetics and the dravyaguṇa consensus for Bhūrja; where classical sources are terse these are the standard attributions. Verify against a primary nighaṇṭu for formal clinical use.*
 
+### Cultivation Register
+
+**Suśruta Saṃhitā (SS).** Bhūrja is a member of the Sālasārādi group (against kushtha, fat and kapha; helpful in meha and pandu) in Sushruta Samhita, Sutrasthana ch. 38 (Bhishagratna tr., Vol. I). In the snake-bite chapter a decoction or powder of the "Charma-vriksha", glossed in the translation as bhurja patra, is applied to scalp incisions (Kalpasthana ch. 5, Bhishagratna tr., Vol. II). Both are therapeutic attestations. No rasāyana or vājīkaraṇa assignment is attested, so no cultivation status.
+
+**Practitioner's note.** Nothing. The bark and leaf appear only as clinical applications.
+
 ### Contraindications
 
 - **Vāta-predominant constitutions / conditions:** the cooling, drying, astringent profile can aggravate Vāta; use cautiously or with anupāna that offsets dryness.

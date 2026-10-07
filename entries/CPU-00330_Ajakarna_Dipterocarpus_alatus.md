@@ -53,6 +53,12 @@ According to PubMed, the modern evidence is **preclinical (in-vitro)** and centr
 - **Doṣa action:** Kapha śāmaka; heartwood kapha-medohara
 - **Karma (actions):** Vraṇaropana-śodhana (wound cleansing/healing), kuṣṭhaghna (anti-dermatosis), grāhī/stambhana (astringent), medohara/lekhana (heartwood), regional mūtra/mucous-membrane use of the balsam
 
+### Cultivation Register
+
+**Suśruta Saṃhitā (SS).** Ajakarṇa is a member of the Sālasārādi group of Suśruta's drug classification, which the text says destroys the germ of kushtha, absorbs deranged fat and kapha, and helps in meha and pandu (Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I). The group is also counted among the pungent group in the tastes chapter (Sutrasthana ch. 42, Vol. I). This is a therapeutic attestation only; the text gives no botanical identification. No rasāyana or vājīkaraṇa assignment is attested, so no cultivation status.
+
+**Practitioner's note.** Nothing. No rejuvenative use is recorded.
+
 ### Contraindications
 
 Balsam dressings: patch-test; discontinue on irritation. Internal (copaiba-style) use of the oleoresin only under qualified supervision — can irritate the GI and urinary tract in quantity. Pregnancy/lactation: internal use best avoided without guidance. Botanical-identity caution: "Aśvakarṇa/Sarja" is applied to several Dipterocarps — confirm the species before sourcing.

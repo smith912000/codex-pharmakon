@@ -61,6 +61,12 @@ These support the traditional anti-inflammatory/anti-rheumatic and CNS-modulatin
 - **Karma (actions):** Vamana (emetic), Dīpana–Pācana (kindling–digestive), Krimighna (anthelmintic), Vātānulomana, Ārtavajanana (emmenagogue), Kāsahara/Śvāsahara (anti-cough/anti-asthmatic), Śothahara (anti-swelling).
 - **Suśruta gaṇa membership:** Aligned with the *tīkṣṇa/vamana* purification drugs of the Suśruta corpus rather than a named nutritive gaṇa; grouped with the sharp channel-openers.
 
+### Cultivation Register
+
+**Suśruta Saṃhitā (SS).** Vṛścikālī is named in the Sutrasthāna's classification of drugs into groups (gaṇas), as a member of the Arkādi group, which the text describes as acting against deranged kapha, fat and poison, as a vermifuge and aseptic agent for ulcers, and as curative in skin disease (Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I). Group membership and a remedy use are therapeutic attestations only. The passages read assign it no rasāyana or vājīkaraṇa role, so no cultivation status is attested for it in Suśruta; its place is therapeutic, not one of ojas-building or rejuvenation.
+
+**Practitioner's note.** Nothing. Suśruta frames this as a drug of a disease-oriented group, with no long-term or rejuvenative use recorded.
+
 ### Contraindications
 
 Pregnancy — **absolute contraindication** (uterotonic/emmenagogue, documented folk abortifacient use). Cardenolide content: caution with any cardiac-glycoside therapy (digoxin), in cardiac disease, and in electrolyte disturbance. Not for high pitta, ulcer, hyperacidity, or inflammatory GI states (heating, sharp). Not for children, the debilitated, or the dehydrated except under expert supervision. Overdose risk: vomiting, purging, cardiac effects. Lactation — folk lactagogue use notwithstanding, avoid without supervision.

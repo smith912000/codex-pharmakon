@@ -58,6 +58,12 @@ This corroborates the traditional "anti-diabetic / metabolic" reputation at the 
 - **Karma (actions):** Dīpana–Pācana (kindling–digestive), Āmapācana, Krimighna (anthelmintic), Jvarahara (antipyretic), Kuṣṭhaghna (anti-skin-disease), Pramehaghna (anti-diabetic/urinary), Śothahara (external), Raktaprasādana ("blood-purifying").
 - **Suśruta gaṇa membership:** Grouped with the bitter, kindling *śāka/tikta* dietetic-medicinal cucurbits of the nighaṇṭu tradition rather than a single named Suśruta nutritive gaṇa; classed among *pathya* dīpana herbs.
 
+### Cultivation Register
+
+**Suśruta Saṃhitā (SS).** Gopaghoṇṭā is listed in the Āragvadhādi group of Suśruta's drug classification; the text says the group acts against deranged kapha and poison and helps in meha, kushtha, fever, vomiting and itching, and purifies ulcers (Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I). Members of that group are also counted in the bitter group of the tastes chapter (Sutrasthana ch. 42, Vol. I). This is a therapeutic attestation only. No rasāyana or vājīkaraṇa assignment for this plant was found in the passages read, so no cultivation status is attested in Suśruta.
+
+**Practitioner's note.** Nothing. In Suśruta this is a group-listed bitter drug against kapha and skin conditions, not a rejuvenative.
+
 ### Contraindications
 
 Pregnancy — avoid the concentrated root/medicinal preparations (tīkṣṇa; family emetic/purgative kinship); fruit-as-food generally tolerated but use caution. Diabetics on hypoglycaemic drugs — additive blood-sugar lowering: monitor to avoid hypoglycaemia. High Vāta / depletion / emaciation — the drying, bitter, heating profile can aggravate; not a building agent. Root in excess may cause GI irritation, nausea, purging. Not for hyperacidity if it aggravates. Introduce dietary use seasonally and moderately.

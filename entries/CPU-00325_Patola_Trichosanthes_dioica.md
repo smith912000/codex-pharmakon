@@ -53,6 +53,12 @@ According to PubMed, the evidence for *T. dioica* is **preclinical (animal) and 
 - **Karma (actions):** Jvaraghna (antipyretic), Dīpana-Pācana (digestive-kindling), Yakṛt-uttejaka / Kāmalāghna (hepatic-stimulant, anti-jaundice), Mūtrala (diuretic), Kṛmighna (anthelmintic), Rakta-śodhaka (blood-purifying), Hṛdya (cardiotonic, per classical claim).
 - **Gaṇa membership:** Enumerated in Suśruta's esteemed therapeutic groupings among the bitter, febrifuge and blood-purifying drugs; a standard component of jvara, kāmalā (jaundice) and tvak-doṣa formulations.
 
+### Cultivation Register
+
+**Suśruta Saṃhitā (SS).** Paṭola is a member of the Āragvadhādi group (against kapha and poison; helpful in meha, kushtha, fever, vomiting and itching; purifies ulcers) in Sushruta Samhita, Sutrasthana ch. 38 (Bhishagratna tr., Vol. I). It is also named among the potherbs (leafy vegetables) described as light and palatable and curative in haemoptysis, kushtha, meha, fever, dyspnoea and cough (Sutrasthana ch. 46, Vol. I). These are therapeutic and dietary attestations. No rasāyana or vājīkaraṇa assignment is attested for it, so no cultivation status.
+
+**Practitioner's note.** Nothing beyond its ordinary place as a bitter vegetable and group drug; the text records no rejuvenative use.
+
 ### Contraindications
 
 - Heating potency (Uṣṇa vīrya): moderate caution in high Pitta / hyperacidity despite its general Pitta-clearing use — leaf preparations are stronger than the fruit.
