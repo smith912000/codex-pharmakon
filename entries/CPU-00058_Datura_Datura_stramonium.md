@@ -2,7 +2,8 @@
 
 ## *Datura stramonium* L. — the tropane-bearing weed of delirium, antispasmodic and poison
 
-**Tradition Tags:** EP, AT, DMM, CM, SS, FMT, BM
+**Tradition Tags:** EP, AT, CM, SS, FMT, BM
+**Tags (previous line, retained for reference):** EP, AT, DMM, CM, SS, FMT, BM
 **Tags (previous line, retained for reference):** DMM-adjacent (Solanaceae nightshades of the classical/medieval pharmacy) · Ayurveda (Dhattura, related *Datura* spp.) · Folk-global · Western pharmacy (asthma "cigarettes")
 **Energetic Classification (TCM):** ◉ Qi / ☿ Shen (anticholinergic CNS action)
 **Training Phase:** [SPECIALIST ONLY] — potent deliriant/toxin; narrow margin, frequent fatal poisoning
@@ -63,8 +64,6 @@ Codex policy: mechanism stated securely; named citations to be supplied and veri
 **Ancient Egyptian (EP).** No cultivation framing is attested, and the tag itself is doubtful: *Datura stramonium* is a New-World species with no secure presence in the pharaonic record, so any Egyptian identification is a modern back-projection rather than an attested assignment. The Ebers-type corpus is indication-organised in any case — it records what was done for a complaint, not what a substance does to the *ka*/*ba*/*ib*. Absent.
 
 **Assyrian (AT).** Absent, and under the standing blocking warning for all Mesopotamian substance identifications. The Old-World *banj* narcotic complex of the Nineveh tablets covers henbane and mandrake; extending it to a New-World *Datura* is a species transfer, not an attestation. No causal-agency classification survives that can be tied to this plant.
-
-**Greek / Dioscorides (DMM).** Dioscorides has no subtle-body system to draw on, and his *strykhnos*-group nightshades are debated Old-World Solanaceae rather than New-World *D. stramonium*. What the tradition genuinely offers a cultivator here is his discipline of attention — provenance, assay, and the emphatic recording of lethal danger. No cultivation status; the honest register is his warning.
 
 **Unani / Avicenna (CM).** Attested only through the Old-World *banj* category, not for this species; no *mufarrih* or innate-heat framing is recorded for it. Because the Avicennan cultivation idea is conservation of a finite innate heat, a deliriant poison sits outside it entirely — it depletes, it does not conserve. Framed, status absent.
 

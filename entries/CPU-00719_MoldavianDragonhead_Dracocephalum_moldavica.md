@@ -2,7 +2,8 @@
 
 ## *Dracocephalum moldavica* L. | Family: Lamiaceae
 
-**Tradition Tags:** DMM, CM, UIG
+**Tradition Tags:** CM, UIG
+**Tags (previous line, retained for reference):** DMM, CM, UIG
 **Tags (previous line, retained for reference):** CM, DMM, SBJ
 **Energetic Classification:** Cool and dry, aromatic (Galenic); pungent-sweet, dispersing and calming
 **Training Phase:** Settling / Calm (the phase that quiets an agitated heart-mind and disperses stagnant heat upward and out)
@@ -60,8 +61,6 @@ Based on articles retrieved from PubMed, the cardiovascular and antioxidant rati
 - **Ayurvedic (analogical):** *tikta*/*madhura* leaning, *shita* (cooling) virya, pacifying to *pitta* and *vata* of the heart-mind. (Analogical — not a classical dravya.)
 
 ### Cultivation Register
-
-**Greek — Dioscorides (DMM).** *Dracocephalum* is a post-classical genus name; Dioscorides never handled the Moldavian dragonhead, and the tag marks only the family-level inheritance by which the cordial, carminative Labiatae — the mints, balms and hyssops he did treat — passed into later herbalism. He carries no subtle-body doctrine to assign the plant a cultivation status. What the Greek tradition genuinely offers a cultivator of an aromatic like this is the discipline of attention: judging the lemon-citral scent, the season and part gathered, the freshness of the volatile oil, the guard against a look-alike mint. That is a real assay practice, not a vital-body teaching. Cultivation status: **(c) absent**, and the species attestation to Dioscorides is family-level only.
 
 **Unani — Avicenna (CM).** Here the attestation is functionally genuine: in the Persian and Central-Asian Unani sphere *D. moldavica* is worked as a cooling aromatic cordial — an infusion to comfort the heart, settle the nerves and ease the stomach, placed with balm (*Melissa*) among the cheering, cardiotonic aromatics. But this is a humoral-therapeutic placement, given generally rather than in a named *Qanun* chapter, and it is not a cultivation status. The Unani conservation idea — innate heat and radical moisture husbanded across the whole regimen — is not assigned to this herb, and no *mufarrih* or cardiac-*ruh* constituent role is sourced for it. **(b) framed:** a real cordial/calmative placement, no cultivation status recorded.
 

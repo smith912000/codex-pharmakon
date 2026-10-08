@@ -2,7 +2,8 @@
 
 ## *Calotropis procera* (Aiton) Dryand. | Family: Apocynaceae (subfamily Asclepiadoideae)
 
-**Tradition Tags:** DMM, CM, SS
+**Tradition Tags:** CM, SS
+**Tags (previous line, retained for reference):** DMM, CM, SS
 **Tags (previous line, retained for reference):** Suśruta Saṃhitā (**head of the Arkādi gaṇa** — the caustic/kaphaghna, kṛmighna, kuṣṭhaghna group; a foremost **viṣaghna** and śodhana drug); Caraka Saṃhitā (bhedana/recanā/vamana adjunct; kuṣṭhaghna); Bhāvaprakāśa Nighaṇṭu; solar/ritual traditions; folk medicine across arid South Asia, the Middle East and Africa
 **Energetic Classification (Ayurvedic):** Kaṭu-Tikta rasa · Laghu-Rūkṣa-Tīkṣṇa guṇa · **Uṣṇa vīrya** · Kaṭu vipāka → **Kapha-Vāta-śāmaka**, strongly Pitta-vardhaka
 **Training Phase:** `[RESET]`
@@ -66,8 +67,6 @@ According to PubMed, *C. procera* has a **preclinical** pharmacology base — st
 - **Gaṇa membership:** **Head of the Arkādi gaṇa** (Suśruta)
 
 ### Cultivation Register
-
-**Greek — Dioscorides (DMM).** No cultivation status can be assigned. Dioscorides carries no subtle-body system into which a plant could be graded, so what the tradition would offer a cultivator is only its discipline of attention — provenance, the assay of an acrid milky latex, the guarding against a dangerous adulterant. Beyond that, the entry itself records no Greek attestation for this plant (the "Apple of Sodom" belongs more to Josephus and Pliny than to any secure *De Materia Medica* chapter in the retrieved sources), so even the therapeutic claim is thin here. **(c) absent** as to cultivation status — see attestation flag on the DMM tag.
 
 **Unani — Avicenna (CM).** Where Unani takes up Arka (*ʿushar* / *madār*) it is as a hot, sharp, caustic drug for skin disease, obstruction and topical work — consonant with its heating temperament. The corpus's genuine cultivation idea, the conservation of *ḥarārat gharīzīya* (innate heat) and *raṭūbat aṣlīya* (radical moisture), is a frame of the whole regimen, and a violently heating, desiccating caustic is if anything a spender of that endowment, not a conserver of it; no *Canon* chapter and no *mufarriḥ* role assigns it a longevity standing. Its use is therapeutic and external. **(b) framed:** used, no cultivation status sourced.
 

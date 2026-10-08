@@ -2,7 +2,8 @@
 
 ## *Reseda lutea* L. | Family: Resedaceae
 
-**Tradition Tags:** AT, CM, DMM
+**Tradition Tags:** AT, CM
+**Tags (previous line, retained for reference):** AT, CM, DMM
 **Energetic Classification:** Hot and dry in the first degree (Galenic reading, by analogy with the pungent/mustard-adjacent group); drying, attenuating, discutient
 **Training Phase:** Phase II — Purification / Clearing (topical drawing and light diuretic support; never a central agent)
 
@@ -73,8 +74,6 @@ The honest position: **there are essentially no human clinical data on *Reseda l
 ### Cultivation Register
 
 **Assyrian (AT).** The Resedaceae enter this tradition at the level of plant-family and use-category — the porous class of dye-plants and "yellowing" herbs that stained cloth and were also laid on as salves and plasters — and the entry is explicit that no securely identified tablet names *R. lutea* itself, since the matching of Akkadian plant-names to modern binomials is contested. Illness in the cuneiform corpus is sorted by causal agency rather than by a substance's action on a vital endowment, and under the standing blocking warning in force for every Assyrian identification and tablet reference, nothing here can be raised to a substance-specific cultivation status. The "drawing and staining" intuition is a real folk-observation of the plant's chemistry, not a doctrine of the person's vitality. **(c) absent.**
-
-**Greek — Dioscorides (DMM).** *De Materia Medica* places the reseda-type herbs among the wayside pot-herbs and minor discutients (διαφορητικά) — bruised green and laid on hard swellings to disperse them — and builds no systemic pharmacology around the group. Dioscorides carries no subtle-body system in which a cultivation status could be lodged; recording that a bruised herb warms and opens the pores is a therapeutic observation, not a vital-body doctrine. What the tradition offers a cultivator is his discipline of attention: gathering the herb green, recognising that bruising is what activates its sharpness, distinguishing the true drawing plant from the inert. That is a genuine practice of assay, not a cultivation frame. **(c) absent** as to cultivation status.
 
 **Unani — Avicenna (CM).** In the Arabic-Persian scheme plants of this kind are read as hot and dry, attenuating (*mulaṭṭif*) and resolvent (*muḥallil*), weakly diuretic (*mudirr al-bawl*) — sharp, mustard-adjacent simples that "cut thick humours," valued far more as a dye (*ṣibgh*) and external resolvent than as an internal drug. It is therefore genuinely attested and used within the tradition, but as a minor attenuant external, with no cultivation standing assigned to it. The tradition's strongest cultivation idea — conservation of innate heat and radical moisture across the whole regimen — is a longevity frame that has nothing to confer on a sharp discutient, and no *mufarrih* or cardiac-*ruh* role is claimed. **(b) framed:** attested therapeutically, no cultivation status recorded.
 

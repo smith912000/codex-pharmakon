@@ -2,7 +2,8 @@
 
 ## *Alnus glutinosa* (L.) Gaertn. | Family: Betulaceae
 
-**Tradition Tags:** AT (Assyrian), CM (Avicenna), DMM (Dioscorides)
+**Tradition Tags:** AT, CM
+**Tags (previous line, retained for reference):** AT (Assyrian), CM (Avicenna), DMM (Dioscorides)
 **Energetic Classification:** Cold and Dry (second degree) — a drying, binding, astringent agent in the Galenic-Unani scheme
 **Training Phase:** Tempering
 
@@ -62,8 +63,6 @@ According to PubMed:
 ### Cultivation Register
 
 **Assyrian (AT).** Tannin-rich riverine barks of this class appear in the cuneiform pharmacy as drying, binding washes and anti-flux decoctions — remedies aimed at a bodily complaint (loose bowels, weeping sores) rather than at any vital endowment of the person. Mesopotamian medicine classes illness substantially by causal agency (the hand of a god, a ghost, a broken oath), so a drug is understood partly by what agency it opposes; but no such agency-status is securely attested for alder specifically, and the standing blocking warning applies to every Assyrian substance identification and tablet reference. No cultivation status is claimed. **(c) absent.**
-
-**Greek — Dioscorides (DMM).** *De Materia Medica* treats astringent barks systematically for their power to "contract and dry," and alder rides into the tradition on that bark-astringent current, taken up in force by later herbalists rather than given a standalone Dioscoridean chapter. Dioscorides carries no subtle-body doctrine that could assign a substance a cultivation status; what the tradition offers a cultivator is instead his discipline of attention — right season of stripping, the assay of a genuinely binding bark against a slack adulterated one, judgement of provenance. That is a real practice of the senses, not a vital-body scheme. **(c) absent** as to cultivation status.
 
 **Unani — Avicenna (CM).** Astringent (*qabid*) barks are classed cold and dry, worked to arrest flux, tighten relaxed tissue and cool hot weeping surfaces, and alder bark sits precisely in that cooling-contracting category. The strongest cultivation idea in the Unani corpus — the conservation of innate heat and radical moisture, that finite vital endowment whose slow depletion *is* ageing — is a longevity frame of the whole regimen, not a status the tradition assigns to a drying astringent, and no *mufarrih* or cardiac-*ruh* role is attested for it. Its standing here is therapeutic, not a cultivation grade. **(b) framed:** claimed in the materia medica, no cultivation status sourced.
 
