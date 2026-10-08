@@ -2,7 +2,7 @@
 
 ## *Ferula sinkiangensis* K.M.Shen — the Xinjiang giant-fennel resin, carminative and antiparasitic of the cold gut
 
-**Tradition Tags:** UIG
+**Tradition Tags:** UIG, TCM
 **Tags (previous line, retained for reference):** FMT
 **Tags (previous line, retained for reference):** Chinese Medicine (A Wei) · Unani/Persian-adjacent · Folk-Central Asian
 **Energetic Classification (TCM):** ◉ Qi (warming, descending, mass-and-wind dispersing)
@@ -56,6 +56,8 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 ### Cultivation Register
 
 **Uyghur medicine (UIG).** No cultivation framing is attested. The entry's own account of the drug is Chinese: A Wei (阿魏) as a warm, acrid, fetid agent against food stagnation, abdominal masses and parasites, entering the Chinese materia medica along the Silk Road. It records no Uyghur-specific use of this species. No Uyghur medical source or scholarly ethnobotany for *Ferula sinkiangensis* could be read in preparing this entry, so no Uyghur therapeutic or cultivation status is asserted. Graded (c).
+
+**Later Chinese medicine (TCM).** No cultivation framing is attested. The entry's own account of A Wei (阿魏) in later Chinese medicine is therapeutic: a warm, acrid, bitter, fetid gum-resin used against food stagnation, abdominal masses and cold abdominal pain, and as an antiparasitic, having entered the Chinese pharmacy along the Silk Road. No named materia medica, grade or cultivation status for Ferula sinkiangensis in particular was read in preparing the entry, so none is asserted. Graded (c).
 
 **Practitioner's note.** Nothing. A pungent, fetid resin used for defined digestive and antiparasitic complaints, with no cultivation practice recorded in the sources available.
 

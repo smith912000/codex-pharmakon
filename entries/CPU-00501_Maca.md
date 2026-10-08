@@ -10,7 +10,7 @@
 
 Maca grows exclusively in the Peruvian Andes at altitudes of 4000–4500 meters — one of the few crops that survives and thrives in the extreme cold, intense UV radiation, and thin air of the high puna grasslands. This extremophile adaptation, identical to what we observe in Rhodiola, is the pharmacological signature: its chemistry is shaped by the same forces it will help the human body resist.
 
-The *Badianus Manuscript* (Aztec herbal codex, 1552 CE) and pre-Columbian Andean oral records document Maca's use as a primary warrior and agricultural laborer tonic: it was distributed to Incan warriors before campaigns to increase strength and stamina. Conquistadors documented that Spanish horses grazed on Maca root became extraordinarily vital compared to those that did not.
+Andean oral tradition as reported by colonial chroniclers **[USER: verify — the earlier text here wrongly cited the Badianus Manuscript, a Nahua codex of 1552 that cannot document an Andean crop; corrected 2026-10-08, ATTESTATION_QUEUE §QQQ]** describes Maca's use as a primary warrior and agricultural laborer tonic: it was distributed to Incan warriors before campaigns to increase strength and stamina. Conquistadors documented that Spanish horses grazed on Maca root became extraordinarily vital compared to those that did not.
 
 Within the integrated pharmacological context of this Codex, Maca represents the Andean branch of the universal "altitude Jing tonic" archetype — an herb that concentrates the elemental force of high-altitude survival into a form the body can assimilate. It is one of the most complete single-food sources of the Jing-Qi spectrum, containing the full range of essential amino acids, fatty acids, and endocrine-active compounds.
 

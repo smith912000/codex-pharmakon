@@ -1,6 +1,7 @@
 # Sichuan Pepper — Huā Jiāo (花椒)
 ## *Zanthoxylum bungeanum* Maxim. | Family: Rutaceae
-**Tradition Tags:** FMT  *(Shén Nóng Běncǎo Jīng lineage; rGyud-bzhi — canonical index attests rGyud-bzhi)*
+**Tradition Tags:** FMT, TCM
+**Tags (previous line, retained for reference):** FMT  *(Shén Nóng Běncǎo Jīng lineage; rGyud-bzhi — canonical index attests rGyud-bzhi)*
 **Energetic Classification (TCM):** ⊕ Yang — warming interior-cold disperser and pain-reliever; anthelmintic (Wēn Zhōng Zhǐ Tòng / Shā Chóng)
 **Training Phase:** `[RESET]` `[BUILD]`
 
@@ -76,6 +77,8 @@ The distinctive *má* numbing is not folklore but a defined neuropharmacological
 ### Cultivation Register
 
 **Tibetan medicine (FMT).** No cultivation framing is attested, and the species is not named. The rGyud-bzhi material read mentions *Zanthoxylum* only at genus level, with no species given: as a dietary spice that "opens the mouths of the channels" and increases phlegm and wind (Explanatory Tantra ch. 16) and in a list of anthelmintic remedies (Explanatory Tantra ch. 21; Clark tr. 1995). That is at most a genus-level therapeutic and dietary mention, not a status for *Z. bungeanum*, and no *bcud len* or rejuvenation use is recorded.
+
+**Later Chinese medicine (TCM).** No cultivation framing is attested. The entry's own account of Hua Jiao (花椒) in later Chinese medicine is therapeutic: a pungent, warm pericarp that warms the middle burner, disperses cold, relieves pain and kills parasites, with the pericarp husk, not the black seed, as the officinal part. The numbing tingle (ma) is described there as the sign of its action, which is a sensory description and not a cultivation status. No named materia medica or grade specific to Zanthoxylum bungeanum was read, so none is asserted. Graded (c).
 
 **Practitioner's note.** Nothing to cultivate: a culinary and anthelmintic spice, with no practice role in the Tibetan source read.
 

@@ -2,7 +2,7 @@
 
 ## *Scopolia carniolica* Jacq. | Family: Solanaceae
 
-**Tradition Tags:** CM, DMM *(see attestation caution — likely a tropane-cluster inheritance, not a species attestation)*
+**Tradition Tags:** CM, EF *(see attestation caution — likely a tropane-cluster inheritance, not a species attestation)*
 **Energetic Classification:** Not classically assigned to this species; by tropane-cluster analogy to belladonna the stream would read "cold/dry, narcotic" — **inferred, not attested.**
 **Training Phase:** Foundation — Signature Study
 
@@ -76,7 +76,7 @@ No reliable classical energetic assignment exists for *S. carniolica* specifical
 
 **Unani / Avicenna (CM).** No scholarly source was found tying *Scopolia carniolica* to the Unani or Avicennan materia medica. The plant is a Carpathian, Alpine and Balkan woodland species, and the sources that turned up on it (a biographical entry on Scopoli and herbal-history notes) place its scientific naming in the eighteenth century. The entry itself warns that the CM tag is a tropane-cluster inheritance and not a species attestation. The CM tag is unconfirmed and likely anachronistic for this species; no *ruh*, innate-heat or radical-moisture framing is attested. Grade (c).
 
-**Greek / Dioscorides (DMM).** *Scopolia* is not named in Dioscorides, *De materia medica* (Osbaldeston & Wood tr. 2000); a search of the full English text for the genus and species found nothing. The narcotic nightshades he does describe are other plants (such as mandrake and henbane), and nothing in his text can be attributed to this species. The tag is unconfirmed and anachronistic: a central-European plant named for an eighteenth-century naturalist. Grade (c).
+**European folk / phytotherapy (EF).** The entry describes a Central and south-eastern European folk use of *Scopolia carniolica* as a cheaper local source of tropane alkaloids, an anticholinergic sedative and analgesic, and a "witch's herb" of the belladonna, henbane and mandrake class; it records that this use is now essentially obsolete and that the plant survives chiefly as raw material for pharmaceutical alkaloids. No named herbal, pharmacopoeial text or regulatory monograph was retrieved to attest those folk uses, and no cultivation or vital-constitution status is recorded in the sources consulted. This is a deadly plant, not a practice plant. Graded (c): absent.
 
 **Practitioner's note.** Nothing. A toxic tropane-alkaloid plant with no attested cultivation role in either tradition; it is not a practice plant.
 

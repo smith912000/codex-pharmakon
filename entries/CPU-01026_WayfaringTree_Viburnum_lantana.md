@@ -2,7 +2,7 @@
 
 ## *Viburnum lantana* L. | Family: Adoxaceae (formerly Caprifoliaceae)
 
-**Tradition Tags:** CM, DMM
+**Tradition Tags:** CM, EF
 **Energetic Classification:** Cooling / astringent (traditional attribution; inferred from astringent use — see note)
 **Training Phase:** Foundation — Signature Study
 
@@ -79,7 +79,7 @@ European folk practice treats the Wayfaring Tree as **cooling and astringent** �
 
 **Avicenna / Unani (CM).** (c) Absent. No scholarly Unani source naming *Viburnum lantana* could be found; the Canon was not available to consult directly, and two searches of the scholarship on Ibn al-Baytar-era and Persian materia medica returned nothing that identifies this shrub. The entry's own "CM" material is a classical *viburnum* of uncertain identity and later European folk astringent use, not a Unani attestation. The tradition's frame of innate heat and radical moisture as a finite endowment is therefore not applied to this plant.
 
-**Greek / Dioscorides (DMM).** (c) Absent. *Viburnum lantana* is not described in Dioscorides, De materia medica (Osbaldeston & Wood tr. 2000). The one place the name "Viburnum gallorum" turns up is as an old synonym attached to the climber *ampelos melaina* (4-185), which the translators identify as *Clematis vitalba*, a different, poisonous plant; that chapter is not cited as evidence for this shrub. Dioscorides' real offer to a cultivator is a discipline of attention (provenance, gathering season, sensory assay), and he gives none for this species.
+**European folk / phytotherapy (EF).** The entry describes the bark and leaves of the wayfaring tree as a minor astringent in European folk herbalism, used as a gargle or mouthwash and as a styptic. A search for a named herbal or monograph returned only general tree, nature and retail pages, so no scholarly work was seen to attest that use. The antispasmodic and uterine reputation belongs to the congeners *Viburnum opulus* (cramp bark) and *V. prunifolium* (black haw) and is not carried over to this shrub. No cultivation or vital-constitution status is attested. Graded (c): absent.
 
 **Practitioner's note.** Nothing. Neither stream gives this shrub a cultivation role; it is a hedgerow astringent of European folk use at most.
 

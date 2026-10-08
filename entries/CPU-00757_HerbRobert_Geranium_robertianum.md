@@ -2,7 +2,7 @@
 
 ## *Geranium robertianum* L. | Family: Geraniaceae
 
-**Tradition Tags:** DMM, CM
+**Tradition Tags:** DMM, EF
 **Energetic Classification:** Astringent, bitter, cool-neutral; drying; tightening/binding
 **Training Phase:** Stabilisation / Sealing (a binding, tissue-tightening corrective — used to stop leakage, not to open or move)
 
@@ -71,7 +71,7 @@ The chemistry underwriting astringency is **well-supported**; the broader medici
 
 **Greek / Dioscoridean (DMM).** Dioscorides' *geranion* (De materia medica 3.131, Osbaldeston & Wood tr. 2000) is glossed by the translators, following Fuchs and Linnaeus, as *Geranium robertianum*; that is a Renaissance identification, not a secure one. The text describes a jagged, anemone-like leaf, a round root sweet when eaten, mallow-like leaves and beaked tops like crane heads or dog's teeth. A decoction of the root in wine is given for swellings of the vulva, and the text adds that there is no use for the beaked growths in medicine. It records no astringent or vulnerary use and no cultivation status (b); the frame is a single therapeutic remark.
 
-**Unani / Avicenna (CM).** No scholarly source tying *Geranium robertianum* to the Unani or Avicennan materia medica was found in the sources consulted. The entry's own "CM" paragraph describes Dioscoridean-derived European herbals and early-modern herbalists, which is European folk herbalism (EF), not Unani. The CM tag is unconfirmed; no cultivation framing is claimed (c).
+**European folk / phytotherapy (EF).** No cultivation framing is attested. The entry's own account of herb Robert belongs to the Dioscoridean-derived European herbals and the early-modern herbalists, where the cranesbills are astringent wound and mouth herbs; it names no herbal by edition and cites no scholarly work for this species, so nothing can be quoted. The tradition carries no subtle-body or vital-status doctrine for the plant, and none is supplied. Graded (c): European folk use is the right file for this material, but it is unattested here beyond the entry's unsourced summary.
 
 **Practitioner's note.** Nothing. Its recorded role is a short-course local astringent and wound herb; grown or gathered from contaminated ground it can accumulate metals, as the entry's cultivator's note warns.
 

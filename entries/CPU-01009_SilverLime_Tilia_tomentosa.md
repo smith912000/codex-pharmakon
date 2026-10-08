@@ -2,7 +2,7 @@
 
 ## *Tilia tomentosa* Moench | Family: Malvaceae (formerly Tiliaceae)
 
-**Tradition Tags:** CM, DMM
+**Tradition Tags:** CM, EF
 **Energetic Classification:** Cool–Moist, relaxing/diaphoretic — *genus-level attribution (tilleul);* not independently graded for *T. tomentosa*
 **Training Phase:** Foundation — Signature Study
 
@@ -76,7 +76,7 @@ The Cool–Moist, relaxing and diaphoretic reading in the header is the standard
 
 **Avicenna / Unani (CM).** (c) Absent. No scholarly Unani source naming *Tilia tomentosa* could be found; the Canon was not available to consult directly, and the limited searches made of Persian and Arabic materia medica scholarship returned nothing for lime or linden. The entry's own CM text is a genus-level cooling, sweat-promoting reading that matches later European tilleul practice rather than a Unani attestation. The Unani frame of innate heat and radical moisture is not applied to this plant.
 
-**Greek / Dioscorides (DMM).** (c) Absent. The lime or linden is not named in Dioscorides, De materia medica (Osbaldeston & Wood tr. 2000); a search of the full text for the genus and its common names finds nothing, including the *philyra* the entry's Origin section attributes to him. A plant unknown to Dioscorides but used in modern European phytotherapy belongs under EF, not DMM.
+**European folk / phytotherapy (EF).** The European *tilleul* tradition of lime-flower tisane, taken for colds, feverish chills, restlessness and mild nervous tension, belongs to the genus. The EMA community herbal monograph on lime flower (Tiliae flos), seen as a title in a search, is written for *Tilia cordata*, *T. platyphyllos* and *T. x vulgaris*, not for *T. tomentosa*, and the entry itself treats silver lime as sharing the genus-level use rather than carrying a species record. No named herbal or monograph seen here attests a use specific to silver lime, and no cultivation or vital-constitution status is attested. Graded (c): absent.
 
 **Practitioner's note.** Nothing. No cultivation role is attested in either stream for silver lime.
 

@@ -2,7 +2,7 @@
 
 ## *Lathraea squamaria* L. | Family: Orobanchaceae
 
-**Tradition Tags:** CM, EF
+**Tradition Tags:** EF
 **Tags (previous line, retained for reference):** DMM, CM
 
 **Energetic Classification:** Cold, damp, hidden (traditional signature attribution only — not chemically grounded)
@@ -64,8 +64,6 @@ The honest conclusion: the traditional uses are signature-generated fictions. Th
 Assigned by signature as **cold, damp, and hidden** — reading the pallor, the underground habit, and the early-spring emergence into a melancholic, subterranean temperament. This classification is a description of the plant's *appearance and habit*, offered as historical record, and carries **no** validated physiological meaning.
 
 ### Cultivation Register
-
-**Unani / Avicenna (CM).** No cultivation framing is attested, and no Unani placement of this species is shown. The entry itself records that no supporting materia medica place was found for the CM tag (its text mislabels the gap as Chinese) and calls the tag doubtful. No scholarly source seen ties *Lathraea squamaria* to the Unani materia medica. The CM tag is unconfirmed; the entry's content is a European signature reading of the plant, which belongs under EF if anywhere.
 
 **European folk / phytotherapy (EF).** No cultivation framing is attested. The entry describes toothache use from the toothlike rhizome scales and a melancholy or epilepsy association from the plant's pallid, hidden habit, but names no herbal or scholarly work for these, and none was confirmed for this species. They are signature readings of appearance, with no record of the plant being used to nourish or conserve vitality. The entry itself finds no pharmacological basis for any use. The plant is also an obligate parasite on tree roots and cannot be cultivated in the ordinary sense.
 

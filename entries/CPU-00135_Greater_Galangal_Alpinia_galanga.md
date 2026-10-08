@@ -2,7 +2,7 @@
 
 ## *Alpinia galanga* (L.) Willd. — the pungent kitchen-and-clinic rhizome that wakes the cold stomach
 
-**Tradition Tags:** SEA
+**Tradition Tags:** SEA, TCM
 **Tags (previous line, retained for reference):** FMT
 **Tags (previous line, retained for reference):** SS (Ayurveda — Kulanjana) · SBJ (Chinese Medicine — Da Gao Liang Jiang / related *Alpinia*) · CM (Unani — Khulanjan) · DMM/Medieval-European (galingale of the medieval pharmacopoeia) · Folk-Southeast-Asian
 **Energetic Classification (TCM):** ◉ Qi — a warming, qi-and-digestion-moving aromatic of the middle burner
@@ -69,6 +69,8 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 ### Cultivation Register
 
 **Southeast Asian traditional medicine (SEA).** No cultivation framing is attested. The entry's own account of the region is culinary: greater galangal (*kha*, *laos*) as a foundational aromatic of Thai, Indonesian and wider Southeast Asian cookery. The therapeutic uses described in the entry (stomachic, carminative, anti-nausea) are drawn from the Unani, Ayurvedic, Chinese and medieval European framings, not from a Southeast Asian source. No Thai, Malay, Khmer or Javanese medical text or ethnobotanical account was read in preparing this entry, so no regional status is asserted. Graded (c).
+
+**Later Chinese medicine (TCM).** No cultivation framing is attested. The entry's own account places the Chinese material mainly with the allied lesser galangal, Gao Liang Jiang (高良薑), a warming herb for cold stomach pain, vomiting and hiccup; greater galangal is said only to share its warming, stomach-settling character, and the entry itself leaves the nomenclature mapping for Alpinia galanga (Da Gao Liang Jiang, Hong Dou Kou) unverified. No named materia medica, grade or cultivation status for this species was read, so none is asserted. Graded (c).
 
 **Practitioner's note.** Nothing beyond culinary use. No regional cultivation practice is recorded in the sources available.
 

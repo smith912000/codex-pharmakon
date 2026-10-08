@@ -2,7 +2,7 @@
 
 ## *Salvia divinorum* Epling & Játiva | Family: Lamiaceae
 
-**Tradition Tags:** BM, SA
+**Tradition Tags:** BM
 **Energetic Classification:** Not applicable — a Mesoamerican ritual plant standing outside the classical humoral systems; any hot/cold or moist/dry assignment here is inferred and non-canonical (NA).
 **Training Phase:** Reference — Entheogen / Restricted Study
 
@@ -56,8 +56,6 @@ On the **risk** side, the clinical literature is cautionary. According to PubMed
 ### Cultivation Register
 
 **Nahua / Badianus (BM).** The Badianus manuscript (1552) is a naturalistic herbal, and the *tonalli*, *teyolia* and *ihiyotl* model comes from later ethnohistory (López Austin), not from the Badianus, so it is not applied. *Salvia divinorum* is not securely identified in the Badianus; a scholarly study of its plant names (de Ávila Blomberg 2012) does not mention the species or the name *pipiltzintzintli*. No cultivation framing is attested, and the BM tag is unconfirmed.
-
-**South American indigenous ethnobotany (SA).** No South American attestation is found. The plant's documented use is Mazatec (Oaxaca, Mexico), as divinatory and healing ritual led by a curandero, which is Mesoamerican, not South American. No *dieta* or regimen is recorded here, and the SA tag appears to be a misfiling.
 
 **Practitioner's note.** Nothing. No cultivation role is attested under either tag; the Mazatec curandero practice sits outside both codes.
 

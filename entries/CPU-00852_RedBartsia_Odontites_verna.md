@@ -2,7 +2,7 @@
 
 ## *Odontites vernus* (Bellardi) Dumort. (syn. *O. verna*) | Family: Orobanchaceae
 
-**Tradition Tags:** DMM, CM
+**Tradition Tags:** EF
 **Energetic Classification:** Cooling / Drying (attributed; see note)
 **Training Phase:** Foundation — Signature Study
 
@@ -83,9 +83,7 @@ Cooling, drying, mildly astringent — the standard energetic reading for a tann
 
 ### Cultivation Register
 
-**Greek / Dioscoridean (DMM).** *Odontites* is not named in Dioscorides, De materia medica (Osbaldeston & Wood tr. 2000); a search of the full English text for the genus name and for red bartsia found nothing. The entry's "odontitis" attribution rests on Pliny and a loose Dioscoridean stream, which cannot be confirmed in the text. No cultivation framing is attested (c); the DMM tag is unconfirmed in that text.
-
-**Unani / Avicenna (CM).** No scholarly source tying *Odontites verna* to the Unani or Avicennan materia medica was found in the sources consulted (a search for scholarly attestation returned only general botanical pages). The entry glosses its "CM" tag as "Culinary/Common-use or secondary Materia", which is not the Unani tradition, and cites no Unani source. The CM tag is unconfirmed; no cultivation framing is claimed (c).
+**European folk / phytotherapy (EF).** The entry records only a loosely reported folk reading of red bartsia as a cooling, astringent herb for toothache, sore mouths and gums, resting on a nominal signature (the genus name *Odontites*, from the Greek for tooth). No named herbal, pharmacopoeial text or regulatory monograph was retrieved to attest a European herbal use of *Odontites verna*, and no cultivation or vital-constitution status is recorded in the sources consulted. It is a teaching case in how a name can generate a use. Graded (c): absent.
 
 **Practitioner's note.** Nothing. This is a teaching specimen of the doctrine of signatures and carries no cultivation role in either tradition read here.
 

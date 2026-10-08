@@ -2,7 +2,7 @@
 
 ## *Crataegus pinnatifida* Bunge | Family: Rosaceae
 
-**Tradition Tags:** SBJ, FMT
+**Tradition Tags:** TCM, FMT
 
 **Energetic Classification:** Sour and sweet, slightly warm — descending, dispersing, stagnation-breaking; enters Spleen, Stomach, Liver
 
@@ -113,7 +113,7 @@ Graded honestly. Almost all of this is rodent work; the one human study is not a
 
 ### Cultivation Register
 
-**Shennong / classical Chinese (SBJ).** No *san pin* grade is attested for *Crataegus pinnatifida* (*shan zha*). It is not found in the readable herb half of the Shennong Bencao Jing (Yang tr. 1998), and the woods and fruits pages are not readable, so that absence is not proof. The entry's own sources place its first description in the Tang-dynasty Xinxiu Bencao, after the Shennong text, so the Chinese use recorded is post-classical and belongs to later Chinese medicine, not to the Shennong stratum. It carries no upper-grade, nourishing-life status; the use is digestive (*xiao shi*).
+**Later Chinese medicine (TCM).** No *san pin* grade is attested for *Crataegus pinnatifida* (*shan zha*). It is not found in the readable herb half of the Shennong Bencao Jing (Yang tr. 1998), and the woods and fruits pages are not readable, so that absence is not proof. The entry's own sources place its first description in the Tang-dynasty Xinxiu Bencao, after the Shennong text, so the Chinese use recorded is post-classical and belongs to later Chinese medicine, not to the Shennong stratum. It carries no upper-grade, nourishing-life status; the use is digestive (*xiao shi*).
 
 **Tibetan medicine (FMT).** No cultivation framing is attested, and the substance is not named. Hawthorn (*Crataegus*) does not appear in the rGyud-bzhi as rendered by Clark (1995) or Men-Tsee-Khang (2011), so the tag is unconfirmed in the texts read. There is no *bcud len* or rejuvenation use to report.
 

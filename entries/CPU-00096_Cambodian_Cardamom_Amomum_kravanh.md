@@ -2,7 +2,7 @@
 
 ## *Amomum kravanh* Pierre ex Gagnep. — the warming aromatic seed that wakes the damp, cold middle
 
-**Tradition Tags:** SEA
+**Tradition Tags:** SEA, TCM
 **Tags (previous line, retained for reference):** FMT
 **Tags (previous line, retained for reference):** Chinese Medicine (Bai Dou Kou) · Ayurveda-adjacent · Unani · Folk-Southeast Asian
 **Energetic Classification (TCM):** ◉ Qi (warming, aromatic, dampness-transforming)
@@ -57,6 +57,8 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 ### Cultivation Register
 
 **Southeast Asian traditional medicine (SEA).** No cultivation framing is attested. The entry's own sourced material places the drug in two registers: the Chinese materia medica (as Bai Dou Kou, whose framing is given under the Chinese heading and not repeated here) and the regional spice trade and cookery of Southeast Asia, where it is a culinary aromatic. No specific Khmer, Thai, Malay or other Southeast Asian therapeutic or cultivation tradition for this fruit was read in preparing this entry, so none is described and no regional status is asserted. Graded (c).
+
+**Later Chinese medicine (TCM).** No cultivation framing is attested. The entry's own account of Bai Dou Kou (白豆蔻) in later Chinese medicine is therapeutic: a warm, acrid, aromatic herb that transforms damp, warms the middle burner, moves qi and stops vomiting, added late to a decoction to keep the volatile oil. No named materia medica, grade or cultivation status for this species was read in preparing the entry, so none is asserted and the later Chinese tradition's cultivation status for it is left unrecorded. Graded (c).
 
 **Practitioner's note.** Nothing beyond ordinary culinary use. No regional cultivation practice is recorded in the sources available.
 

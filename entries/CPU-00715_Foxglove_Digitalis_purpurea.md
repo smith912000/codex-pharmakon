@@ -2,7 +2,7 @@
 
 ## *Digitalis purpurea* L. | Family: Plantaginaceae
 
-**Tradition Tags:** DMM
+**Tradition Tags:** EF
 **Tags (previous line, retained for reference):** DMM, CM [USER: verify — both attestations are doubtful; see Origin & Tradition]
 **Energetic Classification:** Cold, Dry — slowing, contracting, water-moving (Northern European folk framing). No defensible classical humoral assignment.
 **Training Phase:** Study Only — Phase Ø. Never used in Kenetica practice. Included because this plant is the origin story of the method this codex is written in.
@@ -124,7 +124,7 @@ This is, unusually, a serviceable *phenomenology* wrapped around a false *mechan
 
 ### Cultivation Register
 
-**Dioscorides / classical Greco-Roman (DMM).** Not named in Dioscorides, De materia medica (Osbaldeston & Wood tr. 2000): a search of the translation for *Digitalis* and for foxglove finds neither, and no chapter describes a plant that can honestly be identified with *Digitalis purpurea*. No cultivation framing is therefore attested, and the DMM tag is not confirmed by this text. Graded (c): absent.
+**European folk / phytotherapy (EF).** In British and Irish folk practice foxglove was a hedge-healer's plant, applied externally to ulcers and sores and given internally for dropsy; the vernacular names (dead man's bells, witches' gloves) carry the warning. Withering's *An Account of the Foxglove and Some of its Medical Uses* (1785), cited in this entry, records learning of the plant from a Shropshire lay healer's herb recipe and reports 163 dropsy patients, separating responders from non-responders. That is a therapeutic claim framed within the herbal tradition. No cultivation or vital-constitution status is attested for it, and no dose is endorsed. Graded (b): framed, therapeutic only.
 
 **Practitioner's note.** Nothing from this tradition. The plant lies outside the Dioscoridean record.
 

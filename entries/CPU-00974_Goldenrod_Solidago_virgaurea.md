@@ -2,7 +2,7 @@
 
 ## *Solidago virgaurea* L. | Family: Asteraceae
 
-**Tradition Tags:** CM, DMM
+**Tradition Tags:** CM, EF
 **Energetic Classification:** Traditionally rendered "warming and drying," astringent-diuretic (inferred from its aquaretic/vulnerary use-pattern; not a securely attributed classical grading — see note)
 **Training Phase:** Foundation — Signature Study
 
@@ -74,7 +74,7 @@ Folk and early-modern European sources treat goldenrod as a **warming, drying, a
 
 **Unani / Avicenna (CM).** No scholarly source was found tying European goldenrod (*Solidago virgaurea*) to the Unani or Avicennan materia medica; the search returned a modern phytotherapy review, encyclopaedia and retail pages, none naming this species in an Arabic-tradition text. The entry itself treats CM as a herbal-lineage tag and dates the plant's rise as a urological "woundwort" to mediaeval and early-modern Europe. The CM tag is unconfirmed, and the entry's content is European folk and phytotherapy practice (EF), not Unani. No *ruh*, innate-heat or radical-moisture framing is attested. Grade (c).
 
-**Greek / Dioscorides (DMM).** No chapter of Dioscorides, *De materia medica* (Osbaldeston & Wood tr. 2000), describes goldenrod. The word *solidago* occurs only as the Roman name for the second symphytum, a comfrey (4.10), which is a different plant and is not cited as an attestation. The tag is unconfirmed in this text, and the urological use in the entry is post-classical. Grade (c).
+**European folk / phytotherapy (EF).** European goldenrod sits in Western herbalism as a vulnerary, the folk name woundwort recording its use on wounds and ulcers, and above all as an irrigation (aquaretic) herb of the urinary tract, used in mild lower-urinary-tract complaints and against kidney gravel. The EMA has published a community herbal monograph and an assessment report for *Solidago virgaurea* L. herba, titles seen in a search, and the entry also names Commission E and ESCOP. These attest a therapeutic place for the herb in modern European phytotherapy; the monograph text itself was not read. No cultivation or vital-constitution status is attested. Graded (b): framed, therapeutic only.
 
 **Practitioner's note.** Nothing. Goldenrod's attested role is a modern European irrigation-therapy herb; neither tradition supplies a cultivation use.
 

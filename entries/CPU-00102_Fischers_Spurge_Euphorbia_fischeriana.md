@@ -2,7 +2,7 @@
 
 ## *Euphorbia fischeriana* Steud. — the caustic-latex root of the cold-phlegm purge and the anticancer diterpenes
 
-**Tradition Tags:** FMT
+**Tradition Tags:** FMT, TCM
 **Tags (previous line, retained for reference):** Chinese Medicine (Lang Du) · Folk-Northeast Asian
 **Energetic Classification (TCM):** ◉ Qi (caustic, drastic, phlegm-and-mass dispersing)
 **Training Phase:** [SPECIALIST ONLY] — toxic caustic root; processed/specialist use only
@@ -58,6 +58,8 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 ### Cultivation Register
 
 **Tibetan medicine (FMT).** Euphorbia fischeriana appears in the rGyud-bzhi only as one of several modern Linnaean identifications offered for the drug dur.byid, listed alongside Jatropha glandulifera, Baliospermum montanum, Iris dichotoma and Euphorbia adenochlora (rGyud-bzhi, Explanatory Tantra ch. 20, "Powers of Medicines", Clark tr. 1995). The text describes the plant's habit and, with the neighbouring thar.nu entry, says that Jatropha and Euphorbia purge hot and cold disorders. That is a therapeutic framing within the tradition's drug classification; no bcud-len or rejuvenation status is attested for it (the rejuvenation chapter, Explanatory Tantra ch. 23, does not name it). Matching dur.byid to this species is a modern, disputed identification. Grade (b).
+
+**Later Chinese medicine (TCM).** No cultivation framing is attested. The entry's own account of Lang Du (狼毒) in later Chinese medicine is therapeutic and cautionary: a toxic, caustic, drastic root used in small, processed amounts within compound formulae against cold-phlegm, hard masses, skin lesions and parasites. The name has historically been shared by more than one toxic root, and no named materia medica, grade or cultivation status specific to Euphorbia fischeriana was read in preparing the entry, so none is asserted. Graded (c).
 
 **Practitioner's note.** A drastic purgative handled only by a trained Tibetan physician in prepared form. There is no self-directed cultivation use and nothing here supports home preparation; the plant is toxic and caustic.
 

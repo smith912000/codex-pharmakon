@@ -2,7 +2,7 @@
 
 ## *Solanum tuberosum* L. | Family: Solanaceae
 
-**Tradition Tags:** BM, TCM
+**Tradition Tags:** TCM
 **Energetic Classification:** No securely sourced classical energetic assignment. Later Chinese materia medica descriptions of the tuber as sweet, neutral and spleen/stomach-supplementing are **post-Columbian and inferred** into the existing category system. **[USER: verify against a named Chinese source text and edition.]**
 **Training Phase:** Foundation — Signature Study
 
@@ -103,8 +103,6 @@ The European folk reading is simpler and consistent with the topical use: the **
 Kenetica's own classification: **Nutritive Base — Partitioned.** The defining trait is that nourishment and toxicity occupy different tissues of one organism, and the practitioner's skill is the partition, not the plant.
 
 ### Cultivation Register
-
-**Badianus / Aztec-Nahua (BM).** No cultivation framing is attested. The potato is Andean, and no Badianus entry for *Solanum tuberosum* has been substantiated; the tag is geographically improbable and unconfirmed. The Badianus manuscript (1552) is in any case naturalistic, and *tonalli*, *teyolia* and *ihiyotl* are reconstructed from later ethnohistory (López Austin), not found in the codex; none is applied here.
 
 **Later Chinese medicine (TCM).** Framed, status unattested. The potato reached China only after the Columbian exchange, so it lies outside the classical Bencao stratum and its *san pin* grading. The entry reports a later reading of the tuber as sweet, neutral and spleen- and stomach-supplementing, fitted into the existing category system after arrival, but no named Bencao text or edition for this reading was located. It is a therapeutic and dietary frame only; no cultivation status is recorded.
 

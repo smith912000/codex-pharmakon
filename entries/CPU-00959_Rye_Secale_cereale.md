@@ -2,7 +2,7 @@
 
 ## *Secale cereale* L. | Family: Poaceae (Gramineae)
 
-**Tradition Tags:** CM, DMM *(see attestation note — the cereal grain vs. the ergot problem)*
+**Tradition Tags:** CM, EF *(see attestation note — the cereal grain vs. the ergot problem)*
 **Energetic Classification:** As a temperate bread-grain, humoral streams treat rye as broadly cool/dry and nourishing but "coarser" than wheat — **inferred from the general grain-humoral scheme, not a firm species citation.**
 **Training Phase:** Foundation — Signature Study
 
@@ -84,7 +84,7 @@ No firm classical species-level energetic citation is established here. Within t
 
 **Unani / Avicenna (CM).** No scholarly source was found tying rye (*Secale cereale*) or ergot to the Unani or Avicennan materia medica; the search returned only nineteenth-century ergot literature and museum and library pages. The entry itself says that a specific CM citation is not substantiated and that the CM tag is a cereal-group placement, with the ergot history being medieval and early-modern European. The CM tag is unconfirmed, and the entry's content is European folk and obstetric history (EF) rather than Unani. No *ruh*, innate-heat or radical-moisture framing is attested. Grade (c).
 
-**Greek / Dioscorides (DMM).** Rye is not named in Dioscorides, *De materia medica* (Osbaldeston & Wood tr. 2000); a search of the full English text for *Secale* and for rye found nothing. His cereal chapters treat barley, wheat, zea (emmer and spelt), olyra and related grains, and none of those chapters describes rye. The tag is unconfirmed in this text, and ergot as a drug is entirely post-classical. Grade (c).
+**European folk / phytotherapy (EF).** In northern and eastern European tradition rye is first of all the bread-grain, a food and not a herbal remedy. The medical weight of the plant in Europe lies in ergot, the fungal sclerotium of *Claviceps purpurea* that infects the ear: the cause of the medieval epidemics of ergotism ("St Anthony's Fire", reviewed in Haarmann et al. 2009, a work this entry cites) and later the source of purified uterotonic and migraine drugs. Ergot is a contaminant of the grain, not a constituent of rye. No European herbal cultivation or vital-constitution status is attested for the grain. Graded (c): absent.
 
 **Practitioner's note.** Nothing. Rye as bread grain is food, and ergot-contaminated grain is a poison; neither tradition offers a cultivation use.
 

@@ -2,7 +2,7 @@
 
 ## *Lamium album* L. | Family: Lamiaceae
 
-**Tradition Tags:** DMM, CM
+**Tradition Tags:** EF
 
 **Energetic Classification:** Cool, drying, astringent (mild); moistening-resolving at the mucosa
 
@@ -67,9 +67,7 @@ Cool and drying, with a mild astringent-resolving quality. It answers *lax, over
 
 ### Cultivation Register
 
-**Greek / Dioscoridean (DMM).** *Lamium album* is not named in Dioscorides, De materia medica (Osbaldeston & Wood tr. 2000). The only *Lamium* in the translation's glosses is Bauhin's *Lamium montanum melissae folio*, given for *melissophyllum* (3.118), which the translators identify as *Melittis* or *Melissa*, other plants; the stinging nettle *akaluphe* (4.94) is likewise not this plant. No cultivation framing is attested (c); the DMM tag is unconfirmed in that text.
-
-**Unani / Avicenna (CM).** No scholarly source tying *Lamium album* to the Unani or Avicennan materia medica was found in the sources consulted. The entry's "CM" paragraph is in fact about Chinese medicine (iridoid kinship with *Lamiophlomis* and *Phlomis*) and itself flags that no classical attestation is known, so it is not Unani content. The CM tag is unconfirmed; no cultivation framing is claimed (c).
+**European folk / phytotherapy (EF).** In Central and Eastern European domestic practice the white flowers (*flores lamii albi*) were used as a mild astringent wash or poultice for wounds, a gargle for the mouth and throat, a tea for catarrh, and for leucorrhoea, the last read through a like-for-like colour signature. These are therapeutic uses of a household herb. No named herbal, pharmacopoeial text or regulatory monograph was retrieved here to attest them, and no cultivation or vital-constitution status is recorded in the sources consulted. Graded (c): absent.
 
 **Practitioner's note.** Nothing. It is a domestic astringent and mucosal wash in European folk practice; neither tradition read here gives it a cultivation role.
 

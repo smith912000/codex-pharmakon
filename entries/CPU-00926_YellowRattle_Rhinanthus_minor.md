@@ -2,7 +2,7 @@
 
 ## *Rhinanthus minor* L. | Family: Orobanchaceae
 
-**Tradition Tags:** CM, DMM
+**Tradition Tags:** CM, EF
 **Energetic Classification:** Cold & Dry (inferred by analogy to bitter meadow herbs; **[USER: verify]** — no classical source directly assigns a temperament to this plant)
 **Training Phase:** Foundation — Signature Study
 
@@ -79,7 +79,7 @@ No temperament can be sourced to a named classical authority for this species (s
 
 **Unani / Avicenna (CM).** No scholarly source was found placing yellow rattle (*Rhinanthus minor*) in the Unani or Avicennan materia medica. The one lookup made returned only botanical and general reference pages. The entry itself says that no substantiable Unani indication has been located, and the plant is a temperate European meadow species with no evident presence in the Arabic-language pharmacopoeia. The CM tag is unconfirmed, and appears to be an inherited label rather than an attestation. No *ruh*, innate-heat or radical-moisture framing is possible. Grade (c).
 
-**Greek / Dioscorides (DMM).** *Rhinanthus* is not named in Dioscorides, *De materia medica* (Osbaldeston & Wood tr. 2000); a search of the full English text for the genus and for the old herbal name used for it found nothing that describes this plant. The entry's own DMM note concedes that the classical referent is uncertain. No therapeutic or cultivation attestation exists in this text. Grade (c).
+**European folk / phytotherapy (EF).** No European herbal or phytotherapeutic use of *Rhinanthus minor* is attested in the sources consulted. The entry's own treatment is ecological: a facultative root hemiparasite and "meadow maker", sown in grassland restoration, whose rattling seed capsules traditionally told meadow-workers the hay was ready to cut. That is agricultural lore, not a therapeutic or cultivation claim, and no named herbal, pharmacopoeial text or regulatory monograph was retrieved for it. Because its tissue is partly host-derived, any medicinal claim would also be unreliable. Graded (c): absent.
 
 **Practitioner's note.** Nothing. Neither tradition attests this plant; its teaching value is ecological (a root hemiparasite and meadow-management plant), not medicinal.
 

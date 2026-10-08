@@ -2,7 +2,8 @@
 
 ## *Gentiana straminea* Maxim. | Family: Gentianaceae (gentian family)
 
-**Tradition Tags:** FMT (rGyud-bzhi / Tibetan; Ji-ma) · Chinese Medicine (Qín Jiāo 秦艽)
+**Tradition Tags:** FMT, TCM
+**Tags (previous line, retained for reference):** FMT (rGyud-bzhi / Tibetan; Ji-ma) · Chinese Medicine (Qín Jiāo 秦艽)
 **Energetic Classification (TCM):** ◐ Yin-cool — bitter, acrid, neutral-to-cool; clears wind-damp heat, relaxes sinews
 **Training Phase:** `[RESET]` (relieving damp-heat joint obstruction; cooling anti-inflammatory)
 
@@ -52,6 +53,8 @@ Evidence grade: **preclinical.** The neutrophil/anti-inflammatory data give a me
 ### Cultivation Register
 
 **Tibetan medicine (FMT).** *Gentiana straminea* is named in the rGyud-bzhi, glossed by Clark under the Tibetan drug *kyi.lche*. It is listed among bitter-tasting medicines (Explanatory Tantra ch. 19), described as bitter with coarse power curing vessel-organ fever and bile fever (*mkhris-pa*), and placed in the class of medicines for bile disorders (Explanatory Tantra ch. 20 and 21; Clark tr. 1995). This is a therapeutic and materia-medica attestation, framed within the three *nyes pa*, with no *bcud len* or rejuvenation status recorded, so it carries no cultivation status in this tradition.
+
+**Later Chinese medicine (TCM).** No cultivation framing is attested. The entry's own account of Qin Jiao (秦艽) in later Chinese medicine is therapeutic: Gentiana straminea is one of several accepted source plants of the drug, a bitter, acrid, neutral-to-cool root that dispels wind-damp, clears heat, relaxes the sinews and treats damp-heat jaundice. No named materia medica, grade or cultivation status specific to this species was read, so none is asserted. Graded (c).
 
 **Practitioner's note.** Nothing to cultivate; a bitter cooling remedy for bile heat, used for a defined disorder.
 

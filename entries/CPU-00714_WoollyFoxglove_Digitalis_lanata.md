@@ -2,7 +2,7 @@
 
 ## *Digitalis lanata* Ehrh. | Family: Plantaginaceae
 
-**Tradition Tags:** DMM
+**Tradition Tags:** EF
 **Tags (previous line, retained for reference):** DMM, CM [USER: verify — see Origin & Tradition; both attestations are doubtful]
 **Energetic Classification:** Cold, Dry — a contracting, slowing, water-moving agent (Northern European folk framing); no reliable classical humoral assignment exists for this species
 **Training Phase:** Study Only — Phase Ø. This plant is not used at any phase of Kenetica practice. It is included as a teaching substance and a cultivator's hazard.
@@ -104,7 +104,7 @@ The energetic reading is, unusually, a decent *phenomenological* description and
 
 ### Cultivation Register
 
-**Dioscorides / classical Greco-Roman (DMM).** Not named in Dioscorides, De materia medica (Osbaldeston & Wood tr. 2000): a search of the translation for *Digitalis* and for woolly foxglove finds neither, and no chapter describes a plant that can honestly be identified with *Digitalis lanata*. No cultivation framing is therefore attested, and the DMM tag is not confirmed by this text. Graded (c): absent.
+**European folk / phytotherapy (EF).** No cultivation framing is attested for *Digitalis lanata* in European folk or herbal practice. The entry's own account is that this species has almost no folk tradition: its medical reputation is a twentieth-century pharmacopoeial artefact, built on chemistry and on industrial cultivation for cardiac glycosides, and any older folk use reported for it is probably back-formed from the purple foxglove (*D. purpurea*). The lay-healer record of dropsy belongs to that sister species and is not carried over here. Graded (c): absent.
 
 **Practitioner's note.** Nothing from this tradition. The plant is a modern pharmacopoeial and garden species, not part of the Dioscoridean record.
 

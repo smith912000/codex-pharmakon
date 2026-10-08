@@ -2,7 +2,8 @@
 
 ## *Alpinia katsumadai* Hayata | Family: Zingiberaceae (ginger family)
 
-**Tradition Tags:** FMT (rGyud-bzhi / Tibetan) · Chinese Medicine (Cǎo Dòu Kòu 草豆蔻)
+**Tradition Tags:** FMT, TCM
+**Tags (previous line, retained for reference):** FMT (rGyud-bzhi / Tibetan) · Chinese Medicine (Cǎo Dòu Kòu 草豆蔻)
 **Energetic Classification (TCM):** ◉ Qi — acrid, warm, aromatic; dries damp, warms the middle
 **Training Phase:** `[RESET]` (digestive reset; damp-cold middle-burner)
 
@@ -64,6 +65,8 @@ Evidence grade: **preclinical.** These support the traditional anti-inflammatory
 ### Cultivation Register
 
 **Tibetan medicine (FMT).** No cultivation framing is attested, and the substance is not named. *Alpinia katsumadai* (or *cao dou kou*) does not appear in the rGyud-bzhi as rendered by Clark (1995) or Men-Tsee-Khang (2011); the cardamoms that are named there are *sug.smel* (*Elettaria cardamomum*) and *ka.ko.la* (*Amomum subulatum*), different plants (rGyud-bzhi, Explanatory Tantra ch. 20, Clark tr. 1995). The tag is therefore unconfirmed in the texts read, and no *bcud len* or rejuvenation status can be given.
+
+**Later Chinese medicine (TCM).** No cultivation framing is attested. The entry's own account of Cao Dou Kou (草豆蔻) in later Chinese medicine is therapeutic: an acrid, warm, aromatic seed mass that dries damp, warms the middle burner, disperses cold, moves qi and stops vomiting, added late to a decoction to keep the volatile oil. No named materia medica, grade or cultivation status for Alpinia katsumadai was read in preparing the entry, so none is asserted. Graded (c).
 
 **Practitioner's note.** Nothing: no practice role is attested in the Tibetan source.
 

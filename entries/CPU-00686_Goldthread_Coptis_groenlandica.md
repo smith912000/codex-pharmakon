@@ -2,7 +2,7 @@
 
 ## *Coptis trifolia* (L.) Salisb. (syn. *C. groenlandica* (Oeder) Fernald) | Family: Ranunculaceae
 
-**Tradition Tags:** SBJ, EF
+**Tradition Tags:** EF
 **Tags (previous line, retained for reference):** SBJ ⚠️, BM
 
 **Energetic Classification:** Cold, dry, bitter — a cooling bitter of the mouth and stomach; "drying" in the folk-Galenic register
@@ -167,8 +167,6 @@ Graded honestly. **The headline is a data gap.** PubMed searching this run retur
 ---
 
 ### Cultivation Register
-
-**Shennong Bencao Jing (SBJ).** No cultivation framing is attested, and this species is not in that text. The Bencaojing drug is *Huang Lian* (*Coptis chinensis*), which has its own entry; *Coptis trifolia* (syn. *C. groenlandica*) is a boreal North American plant that no Han-era Chinese source could name. At most the genus is shared, and a congener's *san pin* grade cannot be carried across to this species. The entry's own warning calls the SBJ tag an error. The SBJ tag is not confirmed for this species, and no part of the Chinese materia medica applies to it.
 
 **European folk / phytotherapy (EF).** No cultivation framing is attested. The entry describes settler and nineteenth-century Eclectic use as a mouth-wash for canker sores, a simple bitter in convalescence and a bitter said to blunt alcohol craving. It names no herbal or dispensatory for these, and none was read for this account, so they are recorded only as the entry's claims. The entry itself finds no clinical evidence for any of them, and none is a vitality or long-term tonic use. The mouth-medicine use is inherited from Indigenous North American practice, which is not a code on this tag line.
 

@@ -2,7 +2,8 @@
 
 ## *Gentiana crassicaulis* Duthie ex Burk. | Family: Gentianaceae (gentian family)
 
-**Tradition Tags:** FMT (rGyud-bzhi / Tibetan) · Chinese Medicine (Qín Jiāo 秦艽)
+**Tradition Tags:** FMT, TCM
+**Tags (previous line, retained for reference):** FMT (rGyud-bzhi / Tibetan) · Chinese Medicine (Qín Jiāo 秦艽)
 **Energetic Classification (TCM):** ◐ Yin-cool — bitter, acrid, neutral-to-cool; clears wind-damp heat, relaxes sinews
 **Training Phase:** `[RESET]` (relieving damp-heat joint obstruction; cooling anti-inflammatory)
 
@@ -63,6 +64,8 @@ Evidence grade: **preclinical.** The cooling anti-inflammatory / anti-arthritic 
 ### Cultivation Register
 
 **Tibetan medicine (FMT).** No cultivation framing is attested for *Gentiana crassicaulis*, and the species is not named. The rGyud-bzhi material read names a different gentian, *Gentiana straminea* (*kyi.lche*), a bitter drug for bile disorders and vessel-organ fever, and gives a bare *Gentiana* sp. (*zangs.tig*) for infectious fevers (rGyud-bzhi, Explanatory Tantra ch. 20 and 21, Clark tr. 1995). Those are congeners and therapeutic only, so any link for *G. crassicaulis* rests on them. No *bcud len* or rejuvenation assignment is recorded.
+
+**Later Chinese medicine (TCM).** No cultivation framing is attested. The entry's own account of Qin Jiao (秦艽) in later Chinese medicine is therapeutic: Gentiana crassicaulis is one of several accepted source plants of the drug, a bitter, acrid, neutral-to-cool root that dispels wind-damp, clears heat, relaxes the sinews and treats damp-heat jaundice. No named materia medica, grade or cultivation status specific to this species was read, so none is asserted. Graded (c).
 
 **Practitioner's note.** Nothing to cultivate; a bitter, cooling plateau root with no practice role in the source read.
 

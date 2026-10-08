@@ -2,7 +2,7 @@
 
 ## *Pedicularis sylvatica* L. | Family: Orobanchaceae
 
-**Tradition Tags:** CM, DMM
+**Tradition Tags:** CM, EF
 **Energetic Classification:** No securely attributed classical energetic assignment for this species. Any "cooling / drying" reading circulating in later herbals appears **inferred** from genus-level and name-based association rather than from a primary text naming *P. sylvatica*. **[USER: verify]**
 **Training Phase:** Foundation — Signature Study
 
@@ -86,7 +86,7 @@ Within Kenetica's own frame the plant is classified functionally: **Dependent / 
 
 **Avicenna / Unani (CM).** (c) Absent. No scholarly Unani source naming *Pedicularis sylvatica* could be found; the Canon was not available to consult directly, and the limited searches made of Ibn al-Baytar-era and Persian materia medica scholarship returned nothing for this northern hemiparasite. The entry itself records the classical attestation as unsubstantiated. The Unani frame of innate heat and radical moisture is not applied to this plant.
 
-**Greek / Dioscorides (DMM).** (c) Absent. *Pedicularis sylvatica* is not described in Dioscorides, De materia medica (Osbaldeston & Wood tr. 2000). The only lousewort in the text is a translators' suggestion of *Pedicularis palustris* alongside stavesacre (*Delphinium staphisagria*) at 4-156, *staphisagria*, whose description and uses are those of stavesacre, a poisonous emetic; the Latin name *herba pedicularis* there is Roman and refers to lice. That chapter does not describe this plant and is not cited as evidence for it.
+**European folk / phytotherapy (EF).** No European herbal or phytotherapeutic use of *Pedicularis sylvatica* is attested in the sources consulted, and the entry records no pharmacopoeial monograph, standardised extract or human dosing literature. What survives is a name: "lousewort" and *Pedicularis* (from *pediculus*, little louse) record an old stock-keepers' belief that this heath plant bred lice in grazing animals. The entry treats that as a folk aetiology, an ecological correlation with poor wet pasture, and not as an indication for use. No cultivation or vital-constitution status is attested. Graded (c): absent.
 
 **Practitioner's note.** Nothing. Neither stream attests a cultivation role for this species.
 
