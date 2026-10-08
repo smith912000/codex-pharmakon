@@ -66,6 +66,8 @@ Germinated barley (barley malt) is rich in diastases, amylases, and proteases �
 **Malted barley extract (*Mài Yá*):**
 9–15g dried malted barley in decoction; or 3–6g malted barley extract; before meals for digestive enzyme supplementation; the TCM preparation for food stagnation and digestive weakness.
 
+**Beer (*sikaru*, Assyrian):** a fermented barley beverage, listed in the Assyrian materia medica list on disk as a medicinal solvent (`_sources/assyrian.csv` line 59; that list cites "Assyrian tablets (Nineveh)" and secondary web summaries, not a tablet edition) — formerly its own spine row CPU-00534, now held here as a preparation of barley (ATTESTATION_QUEUE §WWW-3) and routed to Volume V, V_03 Fermentation (`_nonplant/preparations.csv` line 112); no dose is given in the source. [USER: verify against a tablet edition.]
+
 ---
 
 ### Scientific Correlation

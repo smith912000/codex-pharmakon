@@ -1,5 +1,5 @@
 # Donkey-Hide Gelatin — Ē Jiāo (阿胶)
-## *Equus asinus* L. — Colla corii asini (gelatin from processed donkey hide) | *(Volume II — Animal)*
+## *Equus asinus* L. — Colla corii asini (gelatin from processed donkey hide) | *(Volume III — Animal)*
 **Tradition Tags:** FMT, EP  *(canonical index attests rGyud-bzhi + Ebers; Chinese Ē Jiāo is the classic form)*
 **Energetic Classification (TCM):** ⊕ Blood/Yin — the supreme Blood tonic and Yin-nourishing, bleeding-stopping gelatin (Bǔ Xuè / Zī Yīn / Zhǐ Xuè / Rùn Zào)
 **Training Phase:** `[BUILD]` `[RESET]`
@@ -80,4 +80,4 @@ A review of Colla corii asini (Zhang et al., 2025, *Animal Models and Experiment
 ---
 
 *Cross-references: I_340 (Deer Antler Velvet) — the Yang/Essence pole to Ē Jiāo's Blood/Yin pole; the Blood-tonic herbs (dang gui, prepared rehmannia, white peony, longan) with which Ē Jiāo is the apex animal tonic; ginseng and deer antler — the "three treasures" of Chinese tonic tradition.*
-*Filed under: Codex Pharmakon Universalis — Volume II (Animal) | Entry I_341 (number provisional pending alphabetical renumber) | Equus asinus (Colla corii asini) | Canonical ID CPU-00190*
+*Filed under: Codex Pharmakon Universalis — Volume III (Animal) | Entry I_341 (number provisional pending alphabetical renumber) | Equus asinus (Colla corii asini) | Canonical ID CPU-00190*

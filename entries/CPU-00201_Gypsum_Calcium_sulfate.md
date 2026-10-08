@@ -1,6 +1,7 @@
 # Gypsum (Fibrous / Selenite) — Shí Gāo (石膏) / Gser-rdo (bod)
-## Calcium sulfate dihydrate (CaSO₄·2H₂O) — mineral gypsum | *(Volume III — Mineral)*
-**Tradition Tags:** SBJ, FMT *(Chinese Shí Gāo; rGyud-bzhi — canonical index attests both)*
+## Calcium sulfate dihydrate (CaSO₄·2H₂O) — mineral gypsum | *(Volume II — Mineral)*
+**Tradition Tags:** AT, DMM, CM, SBJ, SS, FMT
+**Tags (previous line, retained for reference):** SBJ, FMT *(Chinese Shí Gāo; rGyud-bzhi — canonical index attests both)*
 **Energetic Classification (TCM):** ◉ Heat — the supreme acrid-sweet, very-cold Qì-level fire-drainer; clears blazing heat from the Lung and Stomach (Qīng Rè Xiè Huǒ)
 **Training Phase:** `[RESET]`
 
@@ -66,6 +67,22 @@ Gypsum's chemistry is unambiguous (hydrated calcium sulfate; calcination drives 
 
 ---
 
+### Cultivation Register
+
+**Assyrian (AT).** *(c) Absent, and the attestation itself is unverified.* No cultivation framing is attested and no Assyrian locus for gypsum was found. The tag rests only on the merged spine row CPU-00230 "Gypsum (Shi Gao)" (sources_attested Assyrian;Avicenna;Dioscorides;Shennong;Sushruta;rGyud-bzhi, note "low"; `_nonplant/retired_stage3.csv`). `_sources/assyrian.csv` has no gypsum row, and a text search of the only Assyrian text on disk (Thompson 1923, *Assyrian Medical Texts*, an OCR file of about 173 KB) for gypsum, alabaster, lime and chalk returned nothing, which is weak evidence given the file's size. The blocking warning for Assyrian identifications, tablet numbers and deity attributions is in force and none is offered. [USER: verify]
+
+**Greek / Dioscorides (DMM).** *(b) Framed.* Dioscorides has no subtle-body system and none is supplied here. *De Materia Medica* 5-134 *Gupsos*, glossed "Gypsum — Plaster of Paris" in the 2000 English edition, reads in full: "Gypsum is astringent, closes pores, and restrains bleeding and sweating. Taken in a drink it chokes by constriction" (`Sources/DMM_DioscoRides/text/Dioscorides_De_Materia_Medica_2000_English.txt` lines 10533-10535; `extract/names.csv` line 907). The chapter gives no provenance, assay or adulteration test, so the discipline-of-attention frame has little to hold here beyond the warning itself. The same work records the hazard from the other side: the lye of fig-tree ash (1-186, line 4891) is "taken as an antidote in a drink for those who have swallowed gypsum". Recording a poisoning is not endorsing a use; no cultivation status attaches.
+
+**Unani / Avicenna (CM).** *(c) Absent, and the attestation is unverified.* `_sources/avicenna.csv` has no gypsum row, and no Avicenna text on disk names the substance. The tag rests only on the merged spine row CPU-00230. No *Canon* chapter reference is given because none is available (the standard English is an unreliable adaptation). Innate heat and radical moisture cannot be tied to gypsum without a source and are not tied to it here. [USER: verify]
+
+**Divine Farmer's Classic (SBJ).** *(a) Attested, with a naming limit.* In Yang 1998 (`Sources/SBJ_Shennong/text/Shennong_Yang_1998.txt`) Shí Gāo (Gypsum) stands under "Jades and Stones: Inferior Class" (p.32, lines 1241-1247): acrid and slightly cold, mainly treating wind stroke cold and heat, counterflow qi below the heart, panting, dry mouth and abdominal hardness and pain; it also "eliminates evil ghosts, promotes lactation, [heals] incised wounds". The preface defines the inferior class (下品) as drugs that "mainly treat disease", usually toxic and not to be taken for a long time (Yang, preface). So by grade this is a drug for a defined course against a defined complaint, not one that nourishes life. The limit is Yang's note 64 (lines 1255-1259): in ancient times "Gypsum Fibrosum", now called Shí Gāo, was called Lì Shí, while the ancient Shí Gāo is the present Yìng Shí Gāo ("Hard Gypsum"). The fibrous gypsum this entry describes would therefore correspond to Lì Shí, which Yang places under "Jades and Stones: Middle Class" (p.30, lines 1181-1186) with the actions "disinhibits the stomach, resolves vexation, boosts the essence, brightens the eyes". Both gradings are read; which applies to the entry's material depends on that note, and the "boosts the essence" wording is Yang's English, with no claim here about a *jing* action. The "clear heat, drain fire" action in the Origin section belongs to later materia medica and carries no grade here.
+
+**Ayurveda / Sushruta (SS).** *(c) Absent, and the attestation is unverified.* The project's own Sushruta gap file records CPU-00230 as "ss_attested_no_evidence ... not in chapters extracted so far" (`Sources/SS_Sushruta/views/gaps.csv` line 3714), and a search of the Bhishagratna volumes for gypsum and selenite returned nothing. Nothing is read that touches *rasayana*, *vajikarana*, *ojas* or *tejas* for this stone. [USER: verify]
+
+**Tibetan / rGyud-bzhi (FMT).** *(c) Absent, and the attestation rests on a list row.* The only locus is `_sources/rgyud-bzhi.csv` line 119, "Gypsum (fibrous), CaSO4.2H2O", with no chapter reference. A search of Clark 1995 (Explanatory Tantra ch.20) and the Men-Tsee-Khang 2011 text for gypsum and selenite returned nothing, so no Tibetan name, property or cultivation use could be read. The Tibetan statements in this entry's Origin and Classification sections (a cooling stone medicine for hot disorders; calcined bone use) were not confirmed by any passage I found. No formal category of substances for subtle-body practice exists in this tradition, and none is asserted. [USER: verify]
+
+**Practitioner's note.** In the one tradition with a read locus this is a lower-grade stone, or a middle-grade one if the fibrous kind is the classic's Lì Shí: taken for a defined course against a defined heat complaint and then stopped. Dioscorides' only advice is a warning that it chokes when drunk. Nothing here supports taking gypsum for cultivation, and the other four tags are unverified. The practical answer is abstention, and the tradition's own grading is the caution. No dose is given in the sources retrieved. [USER: verify]
+
 ### Contraindications
 
 - **Cold / deficiency patterns; Stomach cold; no genuine heat:** contraindicated — gypsum is very cold and only for true excess-heat; misuse injures Stomach/Spleen yang.
@@ -77,4 +94,4 @@ Gypsum's chemistry is unambiguous (hydrated calcium sulfate; calcination drives 
 ---
 
 *Cross-references: I_302 (Chinese Goldthread) — the bitter-cold herb frequently paired with gypsum's acrid-sweet cold; I_342 (Calcite) and I_344 (Calamine) — the neighbouring cooling calcium/zinc stone-medicines; Anemarrhena (Zhī Mǔ) and rice-licorice — the Bái Hǔ Tāng partners that temper and complete gypsum's action.*
-*Filed under: Codex Pharmakon Universalis — Volume III (Mineral) | Entry I_343 (number provisional pending alphabetical renumber) | Calcium sulfate dihydrate | Canonical ID CPU-00201*
+*Filed under: Codex Pharmakon Universalis — Volume II (Mineral) | Entry I_343 (number provisional pending alphabetical renumber) | Calcium sulfate dihydrate | Canonical ID CPU-00201*

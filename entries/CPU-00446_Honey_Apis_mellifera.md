@@ -1,5 +1,5 @@
 # Honey — Bjt (Ebers) / Mádhu (मधु) / ʿAsal (عسل) / Méli (μέλι) / Fēng Mì (蜂蜜)
-## *Apis mellifera* L. (honeybee product) | Family: Apidae *(Volume II — Animal)*
+## *Apis mellifera* L. (honeybee product) | Family: Apidae *(Volume III — Animal)*
 **Tradition Tags:** EP, AT, DMM, CM, SBJ, SS, FMT
 **Energetic Classification (TCM):** ◉ Qi/Yin — tonifying, moistening, harmonising, and detoxifying (Bǔ Zhōng / Rùn Zào / Jiě Dú); the great *yogavāhī* carrier
 **Training Phase:** `[BUILD]` `[RESET]` `[SLEEP]`
@@ -96,7 +96,7 @@ A Cochrane review of **6 RCTs (899 children)** (Oduwole et al., 2018) found **mo
 
 ### Cultivation Register
 
-*Filing note: this is an animal product (*Apis mellifera*) shelved in Volume I and footed to Volume II — a codex artefact of honey's near-universal presence in the plant-dominated corpora, not a botanical claim. The register below reads honey as the traditions themselves file it.*
+*Filing note: this is an animal product (*Apis mellifera*) shelved in Volume I and footed to Volume III — a codex artefact of honey's near-universal presence in the plant-dominated corpora, not a botanical claim. The register below reads honey as the traditions themselves file it.*
 
 **Chinese (TCM).** This is the one tradition that assigns honey an explicit cultivation status, and it is the highest one available. In the received *Shennong Bencaojing*, 石蜜 (*shi mi*, "stone honey") stands in the **upper grade (上品)** of the insect-and-animal section, with the entry line 久服強志輕身，不饑不老 — long-term consumption "strengthens the resolve, lightens the body, [brings] neither hunger nor ageing" — and 和百藥, "harmonises the hundred drugs" (text as transmitted, Chinese Text Project). Three things follow, and no more. First, the *san pin* grade is a genuine cultivation hierarchy, not a potency scale: upper-grade substances are the ones taken over years to nourish life, and honey's placement there is an assignment to *yang sheng* 養生 — the conservational project — rather than to the treatment of disease. Second, **輕身 *qing shen*, "lighten the body," has no pharmacological equivalent and must not be given one**; it is not weight reduction, and the Codex does not translate it. Third, 和百藥 is the classical Chinese statement of the harmonising-vehicle role, and it is a *bencao* action, distinct from the Ayurvedic vehicle doctrine below — the two must not be merged. **Date caveat:** the *Shennong Bencaojing*'s original is lost; the received text is a later reconstruction assembled from Tao Hongjing's quotations, so the grade is attested for the transmitted classic rather than verified for a Han-period autograph.
 
@@ -130,4 +130,4 @@ A Cochrane review of **6 RCTs (899 children)** (Oduwole et al., 2018) found **mo
 ---
 
 *Cross-references: the manuka honey / propolis / royal jelly and beeswax entries — the other bee-derived materia; the wound-and-resin partners of Egyptian and Greek practice (frankincense I_300, myrrh); the bitter and harsh herbs for which honey is the classical anupāna and honey-frying medium (e.g. honey-prepared licorice, ma huang).*
-*Filed under: Codex Pharmakon Universalis — Volume II (Animal) | Entry I_338 (number provisional pending alphabetical renumber) | Apis mellifera (honey) | Canonical ID CPU-00446*
+*Filed under: Codex Pharmakon Universalis — Volume III (Animal) | Entry I_338 (number provisional pending alphabetical renumber) | Apis mellifera (honey) | Canonical ID CPU-00446*

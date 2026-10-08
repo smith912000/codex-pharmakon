@@ -1,5 +1,5 @@
 # Calamine — Lú Gān Shí (炉甘石) / Cadmia (Dioscorides' pompholyx/spodos kin)
-## Zinc carbonate (ZnCO₃, smithsonite; hist. also zinc silicate/hemimorphite) | *(Volume III — Mineral)*
+## Zinc carbonate (ZnCO₃, smithsonite; hist. also zinc silicate/hemimorphite) | *(Volume II — Mineral)*
 **Tradition Tags:** FMT, EP *(canonical index attests rGyud-bzhi + Ebers; the zinc-ore "cadmia/tutty" is also documented in Greco-Roman and later pharmacy)*
 **Energetic Classification (TCM):** ◉ Damp/Surface — the great topical astringent-cooling stone; dries damp, brightens the eye, heals sores (Shōu Shī Shēng Jī / Míng Mù)
 **Training Phase:** `[RESET]` *(topical)*
@@ -80,4 +80,4 @@ The active principle is **zinc** (as carbonate/oxide), a mildly astringent, prot
 ---
 
 *Cross-references: I_342 (Calcite), I_343 (Gypsum), I_345 (Salt) — the neighbouring Volume III stone/mineral medicines; zinc oxide and the cadmia/tutty/pompholyx tradition — the shared zinc-ore lineage from antiquity to the modern medicine cabinet; coptis (I_302) — the berberine herb used to quench/process Lú Gān Shí.*
-*Filed under: Codex Pharmakon Universalis — Volume III (Mineral) | Entry I_344 (number provisional pending alphabetical renumber) | Zinc carbonate (calamine) | Canonical ID CPU-00203*
+*Filed under: Codex Pharmakon Universalis — Volume II (Mineral) | Entry I_344 (number provisional pending alphabetical renumber) | Zinc carbonate (calamine) | Canonical ID CPU-00203*

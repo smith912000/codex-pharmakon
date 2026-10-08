@@ -1,5 +1,5 @@
 # Ox Gallstone (Bezoar) — Niú Huáng (牛黄) / Go-rochana / Gi-wang (bod)
-## *Calculus bovis* — the gallstone/biliary concretion of *Bos taurus* | *(Volume II — Animal)*
+## *Calculus bovis* — the gallstone/biliary concretion of *Bos taurus* | *(Volume III — Animal)*
 **Tradition Tags:** FMT, EP  *(canonical index attests rGyud-bzhi + Ebers; Chinese Niú Huáng and Ayurvedic Gorochana are documented)*
 **Energetic Classification (TCM):** ◉ Heat/Shen — cool, clears heat and toxin, opens the orifices, extinguishes wind, and resolves phlegm (Qīng Xīn / Kāi Qiào / Xī Fēng / Huà Tán)
 **Training Phase:** `[RESET]` *(acute/specialist only)*
@@ -83,4 +83,4 @@ A comprehensive review of *Calculus bovis* (Yu et al., 2020, *Journal of Ethnoph
 ---
 
 *Cross-references: I_337 (Musk) — the warm orifice-opener paired opposite Niú Huáng's cool opening in the resuscitative method; the An Gong Niu Huang Wan co-ingredients (coptis I_302, gardenia, rhinoceros-horn substitute/buffalo horn, cinnabar) — the cool-opening emergency formula; pearl and agarwood (I_307) — the other "treasures born of pathology."*
-*Filed under: Codex Pharmakon Universalis — Volume II (Animal) | Entry I_339 (number provisional pending alphabetical renumber) | Calculus bovis | Canonical ID CPU-00179*
+*Filed under: Codex Pharmakon Universalis — Volume III (Animal) | Entry I_339 (number provisional pending alphabetical renumber) | Calculus bovis | Canonical ID CPU-00179*

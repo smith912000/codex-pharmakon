@@ -1,5 +1,5 @@
 # Musk — Shè Xiāng (麝香) / Misk (مسك) / Kastūrī (कस्तूरी) / Gla-rtsi (bod)
-## *Moschus moschiferus* Linnaeus (glandular secretion, male musk deer) | Family: Moschidae *(Volume II — Animal)*
+## *Moschus moschiferus* Linnaeus (glandular secretion, male musk deer) | Family: Moschidae *(Volume III — Animal)*
 **Tradition Tags:** FMT, CM  *(Chinese Shè Xiāng; Avicenna's misk; rGyud-bzhi; Ayurvedic kastūrī — canonical index attests rGyud-bzhi + Avicenna; the wider attestation is historically documented)*
 **Energetic Classification (TCM):** ◉ Qi/Shen — the supreme aromatic orifice-opening resuscitative (Kāi Qiào Xǐng Shén); ◉ Blood — Blood-mover and pain-reliever
 **Training Phase:** `[RESET]` *(acute/specialist only)*
@@ -92,4 +92,4 @@ Consistent with the traditional "orifice-opening" (brain-reaching) action, musco
 ---
 
 *Cross-references: I_303 (Benzoin) and the storax/camphor entries — the gentler aromatic orifice-opening resuscitatives of which musk is the apex; I_307 (Agarwood) — the grounding aromatic (musk pierces/ascends where agarwood sinks/anchors); the Shèxiāng Bǎoxīn / An Gong Niu Huang formula constituents (Blood-movers and heat-clearers) with which musk is combined; civet and ambergris — the other great animal aromatic fixatives of the perfumer's and physician's art.*
-*Filed under: Codex Pharmakon Universalis — Volume II (Animal) | Entry I_337 (number provisional pending alphabetical renumber) | Moschus moschiferus | Canonical ID CPU-00177*
+*Filed under: Codex Pharmakon Universalis — Volume III (Animal) | Entry I_337 (number provisional pending alphabetical renumber) | Moschus moschiferus | Canonical ID CPU-00177*

@@ -11,7 +11,10 @@ Source of truth: the manuscript canonical_index.csv.
 """
 import csv, json, os, shutil, re
 
-MSRC = r"G:/My Drive/Claude Control/Book Of Substances/Volume_I_Plant_Based/entries"
+BOS = r"G:/My Drive/Claude Control/Book Of Substances"
+# entries live in three volume folders (plant/fungal-algal I, mineral II, animal III)
+MSRCS = [BOS + "/Volume_I_Plant_Based/entries", BOS + "/Volume_II_Mineral_Alchemical/entries",
+         BOS + "/Volume_III_Animal_Derived/entries"]
 CSV  = r"G:/My Drive/Claude Control/Book Of Substances/canonical_index.csv"
 IDX  = "codex_index.json"
 
@@ -22,8 +25,9 @@ def main():
         done = r["status"].strip().lower() == "done" and r["entry_file"].strip()
         entry = None
         if done:
-            src = os.path.join(MSRC, r["entry_file"].strip())
-            slug = re.sub(r"^I_\d+_", "", r["entry_file"].strip())
+            src = next((os.path.join(d, r["entry_file"].strip()) for d in MSRCS
+                        if os.path.exists(os.path.join(d, r["entry_file"].strip()))), "")
+            slug = re.sub(r"^(?:I|II|III)_\d+_", "", r["entry_file"].strip())
             dest = f"entries/{r['id']}_{slug}"
             if os.path.exists(src):
                 shutil.copyfile(src, dest); entry = dest; synced += 1
