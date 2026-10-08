@@ -57,6 +57,14 @@ According to PubMed:
 
 Cold and dry in the humoral schema — the archetypal astringent: binding, drying, tone-restoring, reached for wherever tissue is lax, weeping or in flux. The blood-red cut surface was read as a signature of its governance over haemorrhage and dysenteric flux. (Energetic attribution inferred from the Greco-Unani astringent class; not lifted verbatim from a single primary source.)
 
+### Cultivation Register
+
+**Unani / Avicenna (CM).** No attestation was found tying tormentil (*Potentilla erecta*) to the Unani or Avicennan materia medica: a search of scholarly and pharmacological literature turned up only modern European drug monographs and phytochemical reviews, and no Arabic-tradition source for this species. The entry's own CM statement is a general class argument (cold-dry astringent roots) marked for verification, not a citation. No framing in terms of *ruh*, innate heat or radical moisture is attested, so none is given. Grade (c).
+
+**Greek / Dioscorides (DMM).** Dioscorides describes pentaphyllon at *De materia medica* 4.42 (Osbaldeston & Wood tr. 2000), a five-leaved plant with a long reddish root, flower "pale, white, or yellowish", growing in moist places. The translators' identification points to a *Potentilla* congener (*P. alba* and others), not *P. erecta*, so this is a genus-level match. The root is used as a mouthwash and gargle and as a drink for flowing bowels and dysentery, and a bracketed passage in the translation records an amuletic use, with gathering timed to the waxing moon; recording that is not endorsing it. No cultivation status is given: therapeutic attestation only. Grade (b). What the chapter does offer is attention to habitat, root colour and gathering.
+
+**Practitioner's note.** Nothing cultivation-specific is attested for either tradition. The practical use is as a short-course astringent for a defined complaint, not a long-term tonic.
+
 ### Contraindications
 
 - **High tannin load:** GI irritation and nausea if taken on an empty stomach; take with or after food.

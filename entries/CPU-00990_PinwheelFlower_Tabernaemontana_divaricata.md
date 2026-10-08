@@ -74,6 +74,14 @@ According to PubMed:
 
 Ayurvedic and Unani sources place the pinwheel shrub among **cooling, bitter-astringent** plants suited to inflammatory heat conditions of the skin and eyes, and to "rejuvenation" (rasayana-adjacent) memory use. The cooling/bitter attribution here is **inferred from the pattern of traditional indications** (skin inflammation, eye complaints, latex used topically) rather than quoted verbatim from a classical text — treat it as a working classification, not a sourced doctrine, until the classical citation is confirmed **[USER: verify]**.
 
+### Cultivation Register
+
+**Unani / Avicenna (CM).** No cultivation framing is attested, and no Unani placement of this species is shown. The entry itself says it cannot pin any Canon attribution and the Canon was not available to read; no scholarly source seen ties *Tabernaemontana divaricata* to the Unani materia medica. The CM tag is unconfirmed. The memory and rejuvenation use the entry cites is a Thai folk-medicine report (Nakdook et al. 2010), not a Unani source, and nothing in it uses innate heat, radical moisture or *ruh*.
+
+**Sushruta / Ayurveda (SS).** No cultivation framing is attested. The entry names the plant by *Tagar* and *Nandivardhana*, but no passage of the Sushruta Samhita (Bhishagratna tr.) was found that names this species under either name. *Tagara* occurs in the *Eladi* group (Sutrasthana ch. 38, Vol. I), and the entry itself reads *Tagara* as valerian, so it is not this plant. *Nandi-vriksha* appears in the *Nyagrodhadi* group (Sutrasthana ch. 38, Vol. I), but that name is a different one from *Nandivardhana*, and group membership alone would not identify the species or give it a *rasayana* status. The entry's "rasayana-adjacent" wording is unsourced.
+
+**Practitioner's note.** Nothing. The plant is an ornamental and a study source of alkaloids; no tradition cited here supports taking it, and its names are easily confused with valerian.
+
 ### Contraindications
 
 - **Not for self-medication.** All therapeutic activity is preclinical; no human dose or safety margin exists.

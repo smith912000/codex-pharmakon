@@ -53,6 +53,12 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Unani mapping:** *chirayata* — cold-dry; febrifuge, bitter tonic, hepatic, deobstruent.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the bitter-cooling, heat-and-damp-clearing, digestive-hepatic axis; the supreme bitter tonic of the volume's Himalayan register, kin to gentian.
 
+### Cultivation Register
+
+**Tibetan medicine (FMT).** (b) Framed, status unattested. Chirata is attested only as a bitter remedy in the rGyud-bzhi. *tig.ta* (Clark: chiretta, *Swertia chirata*) "cures all types of bile fever" (*mkhris pa* heat), in three kinds including a Nepalese and a Tibetan type (Explanatory Tantra ch. 20, Clark tr. 1995). It is named among decoctions that pacify bile disorders (Root Tantra ch. 5) and among the class of medicines curing bile disorders (Explanatory Tantra ch. 21, Clark tr. 1995). No *bcud len* or rejuvenation assignment is attested for it in the Root or Explanatory Tantras. The identification is modern and loose: the same chapter lists other *Swertia* species under different Tibetan names.
+
+**Practitioner's note.** Nothing beyond a bitter for bile-heat disorders under a physician; the tradition gives no cultivation role.
+
 ### Contraindications
 
 - **Pregnancy — caution/avoid.** Bitter, uterine-reputation; medicinal use cautioned. [USER: verify.]

@@ -107,6 +107,14 @@ The Kenetica classification must therefore be written in two registers, because 
 
 The Australian pastoral doctrine is the only tradition on record that captured the depth register, and it captured it by accident, by naming the plant twice and refusing to reconcile the names. That refusal was epistemically correct. **Filed under a permanent classification of *Latent Toxin*:** substances whose energetic surface and metabolic depth are decoupled, where the surface reading is not merely incomplete but actively misleading, and where the tradition's confidence is inversely related to its safety.
 
+### Cultivation Register
+
+**Greek / Dioscoridean (DMM).** Dioscorides describes a plant he calls *echion* (De materia medica 4.27, Osbaldeston & Wood tr. 2000): a rough, prickly-leaved herb with purple flowers whose seed resembles a viper's head, its root decocted in wine as a remedy for snakebite and as a prophylactic, and the leaf or seed taken in wine for pain of the loins. The translation's gloss lists *Echium plantagineum* only as an "other usage" identification, so this is a genus-level (congener) match, not a species attestation. No cultivation status is recorded; the frame is therapeutic and antidotal (b). What the text does give a cultivator is a discipline of attention: leaf, flower, seed and root are described so that the plant can be recognised.
+
+**Unani / Avicenna (CM).** No attestation tying *Echium plantagineum* to the Unani or Avicennan materia medica was found in the scholarly sources consulted (an ethnomedicinal review of the genus *Echium* in Antioxidants, 2020, and the wider scholarly literature on the genus). The review records only Turkish and Spanish folk uses for this species and does not mention Avicenna or Unani medicine. No cultivation framing (innate heat, radical moisture, *ruh*) is therefore claimed (c); the CM tag is unconfirmed.
+
+**Practitioner's note.** Nothing. The plant is a hepatotoxic hazard-literacy entry; neither tradition read here supports ingestion or cultivation.
+
 ### Contraindications
 
 **ABSOLUTE — all persons, all routes, all doses.** *Echium plantagineum* aerial parts, root, flower and preparations thereof are not to be ingested, infused, tinctured, smoked, or applied topically.

@@ -114,6 +114,12 @@ Map that onto this plant. *C. cheirifolium* carries **lycopsamine-type monoester
 
 The empty cells are the finding. A responsible codex prints the gaps.
 
+### Cultivation Register
+
+**Dioscorides / classical Greco-Roman (DMM).** Dioscorides does not describe *Cynoglossum cheirifolium*. His *kunoglosson* (4.129) is a plant with downy leaves like a narrow broad-leaved plantain, scattered on the ground and growing in sandy places; its leaves pounded with old swine grease are applied to dog bites, hair loss and burns, and a boiled drink soothes the bowels. The translators' gloss is *Cynoglossum officinale*, so any link to this species is at genus level only, as a congener, and the classical identification itself is uncertain. No cultivation status is stated. Graded (b), genus-level only (Dioscorides, De materia medica 4.129, Osbaldeston & Wood tr. 2000).
+
+**Practitioner's note.** Nothing. No cultivation or vital use is attested for hound's tongue here, and nothing in the text supports internal use of this species.
+
 ### Contraindications
 
 **⚠️ CONTAINS PYRROLIZIDINE ALKALOIDS — CONFIRMED IN THIS SPECIES, INCLUDING AN OPEN-CHAIN DIESTER (HELIOSUPINE). HEPATOTOXIC AND GENOTOXIC CLASS. INTERNAL USE IS UNSAFE.**

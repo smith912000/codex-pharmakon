@@ -110,6 +110,15 @@ Graded honestly. Almost all of this is rodent work; the one human study is not a
 | European phytotherapy | **Not applicable to this species.** The European cardiac hawthorn doctrine belongs to *C. monogyna* / *C. laevigata*, leaf-and-flower. Do not transfer. |
 | Kenetica | Sour, descending, dispersing. Post-prandial corrective. Food-class delivery. Digestive slot, not cardiac slot. |
 
+
+### Cultivation Register
+
+**Shennong / classical Chinese (SBJ).** No *san pin* grade is attested for *Crataegus pinnatifida* (*shan zha*). It is not found in the readable herb half of the Shennong Bencao Jing (Yang tr. 1998), and the woods and fruits pages are not readable, so that absence is not proof. The entry's own sources place its first description in the Tang-dynasty Xinxiu Bencao, after the Shennong text, so the Chinese use recorded is post-classical and belongs to later Chinese medicine, not to the Shennong stratum. It carries no upper-grade, nourishing-life status; the use is digestive (*xiao shi*).
+
+**Tibetan medicine (FMT).** No cultivation framing is attested, and the substance is not named. Hawthorn (*Crataegus*) does not appear in the rGyud-bzhi as rendered by Clark (1995) or Men-Tsee-Khang (2011), so the tag is unconfirmed in the texts read. There is no *bcud len* or rejuvenation use to report.
+
+**Practitioner's note.** Nothing to cultivate: a digestive fruit taken with or after a heavy meal, with no cultivation status in either tradition.
+
 ### Contraindications
 
 - **GI acidity and reflux — the primary caution.** This is a sour, organic-acid-rich fruit whose entire doctrine is built on that sourness. **Anyone with GERD, reflux, active gastritis, or peptic ulcer should avoid it**, and anyone taking it on an empty stomach should expect trouble. The classical instruction — with or after food — is also the safety instruction.

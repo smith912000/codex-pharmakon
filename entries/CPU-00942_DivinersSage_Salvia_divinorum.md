@@ -53,6 +53,14 @@ On the **risk** side, the clinical literature is cautionary. According to PubMed
 
 *Not classifiable within the Galenic/humoral or Ayurvedic dosha frameworks.* As a Mesoamerican ritual plant, *Salvia divinorum* was never assigned a hot/cold or wet/dry quality in the Old World humoral traditions, and imposing one would be a fabrication. Its indigenous framing is **oracular and divinatory** — an intermediary consulted for insight and diagnosis under a curandero's guidance — rather than an energetic-temperature agent. Classification here is therefore recorded as **NA (inferred / non-canonical)**.
 
+### Cultivation Register
+
+**Nahua / Badianus (BM).** The Badianus manuscript (1552) is a naturalistic herbal, and the *tonalli*, *teyolia* and *ihiyotl* model comes from later ethnohistory (López Austin), not from the Badianus, so it is not applied. *Salvia divinorum* is not securely identified in the Badianus; a scholarly study of its plant names (de Ávila Blomberg 2012) does not mention the species or the name *pipiltzintzintli*. No cultivation framing is attested, and the BM tag is unconfirmed.
+
+**South American indigenous ethnobotany (SA).** No South American attestation is found. The plant's documented use is Mazatec (Oaxaca, Mexico), as divinatory and healing ritual led by a curandero, which is Mesoamerican, not South American. No *dieta* or regimen is recorded here, and the SA tag appears to be a misfiling.
+
+**Practitioner's note.** Nothing. No cultivation role is attested under either tag; the Mazatec curandero practice sits outside both codes.
+
 ### Contraindications
 
 - **Legal status — restrictive and patchwork.** The plant and/or salvinorin A are **scheduled, banned, or otherwise controlled in many U.S. states, in Australia, and in several European countries**, while remaining unscheduled or legal elsewhere. Status changes and varies sharply by jurisdiction; possession or supply may be a criminal offence where you are. Verify current local law before any handling. (No jurisdiction-by-jurisdiction "where it's legal" list is provided by design.)

@@ -50,6 +50,13 @@ Identical to Medicinal Rhubarb (I_304): bitter, cold, sinking; Stomach/Large Int
 
 ---
 
+
+### Cultivation Register
+
+**Tibetan medicine (FMT).** No cultivation framing is attested for *Rheum tanguticum*. The rGyud-bzhi material read names rhubarb under *chu rtsa* (glossed in Clark's translation as *Rheum spiciforme* / *R. officinale*) and *lcum rtsa* (*R. emodi*), as a purgative and phlegm-disorder drug, but does not name *R. tanguticum* itself, so any link rests on a congener and is at most a therapeutic one (rGyud-bzhi, Explanatory Tantra ch. 20 and 21, Clark tr. 1995). No *bcud len* or rejuvenation assignment is recorded for any of these rhubarbs.
+
+**Practitioner's note.** Nothing to cultivate here; the source frames no rhubarb as a practice substance, and this species is not named in it.
+
 ### Contraindications
 
 Identical to I_304 in full: contraindicated in **pregnancy, lactation, menstruation**, in **deficiency/cold patterns** and the frail, and in **bowel obstruction**; not for **chronic/habitual use** (anthraquinone dependence, hypokalaemia, melanosis coli, hepato-/nephrotoxicity on high-dose long-term exposure); interacts with **digoxin, diuretics, and other laxatives** via hypokalaemia. See I_304 for the complete safety discussion.

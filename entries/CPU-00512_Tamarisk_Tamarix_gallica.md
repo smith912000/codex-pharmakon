@@ -84,6 +84,12 @@ Finely ground tamarisk bark applied dry to clean wounds as a styptic powder; pro
 
 ---
 
+### Cultivation Register
+
+**Assyrian (AT).** No cultivation framing is attested here. Assyrian medicine classified illness by causal agency, so a drug was partly placed by what agency it opposed; it was not graded by what it did to a person's vital constitution. No primary or scholarly text on the Assyrian treatment of tamarisk was read in preparing this entry, so no identification of the plant with any Akkadian name, no ritual role and no tablet is asserted in this register. The statements in the Origin section about the Assyrian tamarisk are the entry's own and remain unverified against a text seen here. Graded (c).
+
+**Practitioner's note.** Nothing. No cultivation practice with tamarisk can be recorded from the sources available.
+
 ### Contraindications
 
 - **Constipation** — the very high tannin content will worsen constipation; use only in diarrhea/excessive bowel looseness, never as a daily supplement in those prone to constipation

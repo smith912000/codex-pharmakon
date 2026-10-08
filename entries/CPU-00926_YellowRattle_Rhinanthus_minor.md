@@ -75,6 +75,14 @@ Note on aucubin: reviews report broad in-vitro/in-vivo activity (anti-inflammato
 
 No temperament can be sourced to a named classical authority for this species (see **[USER: verify]** flags above). If a placeholder is wanted for teaching, the bitterness and dryness of the rattling seed-head suggest a **Cold & Dry** reading by analogy to other bitter meadow herbs — but this is an *inference for signature study*, not an attested DMM/CM classification, and should be labelled as such wherever it is used.
 
+### Cultivation Register
+
+**Unani / Avicenna (CM).** No scholarly source was found placing yellow rattle (*Rhinanthus minor*) in the Unani or Avicennan materia medica. The one lookup made returned only botanical and general reference pages. The entry itself says that no substantiable Unani indication has been located, and the plant is a temperate European meadow species with no evident presence in the Arabic-language pharmacopoeia. The CM tag is unconfirmed, and appears to be an inherited label rather than an attestation. No *ruh*, innate-heat or radical-moisture framing is possible. Grade (c).
+
+**Greek / Dioscorides (DMM).** *Rhinanthus* is not named in Dioscorides, *De materia medica* (Osbaldeston & Wood tr. 2000); a search of the full English text for the genus and for the old herbal name used for it found nothing that describes this plant. The entry's own DMM note concedes that the classical referent is uncertain. No therapeutic or cultivation attestation exists in this text. Grade (c).
+
+**Practitioner's note.** Nothing. Neither tradition attests this plant; its teaching value is ecological (a root hemiparasite and meadow-management plant), not medicinal.
+
 ### Contraindications
 
 - **Do not use internally.** There is no human safety data for *Rhinanthus minor*.

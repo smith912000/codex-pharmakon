@@ -100,6 +100,12 @@ Where 18th- and 19th-century European pharmacy classed vanilla as warming, stimu
 
 The honest energetic observation is organoleptic: the cured pod is sweet-aromatic, warm-smelling, resinous and faintly balsamic — and the association between that sensory register and "warming" is the whole basis of the European classification. That is a real perceptual fact about the material and a poor basis for a therapeutic doctrine.
 
+### Cultivation Register
+
+**Badianus / Aztec-Nahua (BM).** No cultivation framing is attested for tlilxochitl. The Badianus manuscript (1552) is itself a naturalistic herbal; the model of *tonalli*, *teyolia* and *ihiyotl* is reconstructed from later ethnohistory (López Austin) and is not found in the codex, so it cannot be applied to this plant from that source. What this entry can support is narrower: a Nahuatl name, use as a flavouring of the elite cacao drink, and no verified Badianus prescription. The identification of any codex entry with *Vanilla planifolia* is contested among commentators. No cultivation status, therapeutic or otherwise, is therefore recorded.
+
+**Practitioner's note.** Nothing. Vanilla is a food and aromatic here; the tradition's own record offers no practice to follow.
+
 ### Contraindications
 
 **Vanilla is a food, and at culinary exposures it carries no meaningful toxicological concern.** The cautions below are correspondingly minor and are recorded for completeness rather than because vanilla is hazardous.

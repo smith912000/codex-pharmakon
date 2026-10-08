@@ -72,6 +72,13 @@ The distinctive *má* numbing is not folklore but a defined neuropharmacological
 
 ---
 
+
+### Cultivation Register
+
+**Tibetan medicine (FMT).** No cultivation framing is attested, and the species is not named. The rGyud-bzhi material read mentions *Zanthoxylum* only at genus level, with no species given: as a dietary spice that "opens the mouths of the channels" and increases phlegm and wind (Explanatory Tantra ch. 16) and in a list of anthelmintic remedies (Explanatory Tantra ch. 21; Clark tr. 1995). That is at most a genus-level therapeutic and dietary mention, not a status for *Z. bungeanum*, and no *bcud len* or rejuvenation use is recorded.
+
+**Practitioner's note.** Nothing to cultivate: a culinary and anthelmintic spice, with no practice role in the Tibetan source read.
+
 ### Contraindications
 
 - **Yin-deficiency / Heat patterns:** contraindicated — the warming, drying, pungent action aggravates heat and dryness.

@@ -83,6 +83,12 @@ Preparation note grounded in the drying data: shade-dry for nutritional content,
 
 Doum is not natively a humoral substance and this entry declines to invent a Galenic assignment for it. Ancient Egyptian pharmacy classified by preparation, deity association and indication, not by hot/cold/wet/dry degrees. Where later Arabic-Egyptian folk practice does frame it, the framing is **cooling and drying** — the beverage is drunk cold in heat, and the tannin load gives a pronounced astringent, tissue-tightening mouthfeel that fits a drying signature. Read that as an inferred, secondary attribution and flag it as such wherever it is repeated. The sacred and funerary associations of the tree in Egyptian religious life are documented in the archaeological record and are cultural, not energetic, classifications.
 
+### Cultivation Register
+
+**Ancient Egyptian (EP).** No cultivation framing is attested. The Ebers material, in the English of Bryan (1930), names "Fruit-of-the-Dompalm" among the ingredients of several indication-organised remedies: a remedy headed "To drive away tremblings in all the limbs of a person" (with Garlic and Honey among its components), an eye remedy headed "Another to drive out blood in the eyes", and a rubbing of the powdered fruit in Honey to "strengthen" the teeth. These are therapeutic attestations only; nothing seen records a status for the fruit in relation to the person's vital constitution. The identification of the Dompalm with *Hyphaene thebaica* is the translator's, a modern hypothesis rather than something the papyrus states. Graded (b) at best, framed as therapeutic and unattested as cultivation.
+
+**Practitioner's note.** Nothing. The papyrus offers a few external and local uses for the fruit, none of them a long-term practice, and the identity of the plant is itself an inference.
+
 ### Contraindications
 
 - **Antihypertensive medication.** If the vasorelaxant activity is real — and the ex vivo aortic data suggest it may be — habitual heavy consumption alongside prescribed antihypertensives risks additive hypotension. Anyone on BP medication who begins drinking doum regularly should monitor their blood pressure and tell their prescriber. This is the single most practically important flag in the entry.

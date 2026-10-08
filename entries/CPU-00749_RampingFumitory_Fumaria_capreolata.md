@@ -141,6 +141,14 @@ The Galenic reading is internally consistent and externally false. Its coherence
 
 ---
 
+### Cultivation Register
+
+**Greek / Dioscoridean (DMM).** Dioscorides' *kapnos* (De materia medica 4.110, Osbaldeston & Wood tr. 2000) is glossed by the translators as *Fumaria officinalis*, so this is a genus-level (congener) match; *F. capreolata* is not named. The text describes a tender, ash-coloured herb with a purple flower and a sharp juice that brings tears and sharpens the sight, used to stop regrowth of plucked eyebrow hairs, and eaten to expel bilious urine. No cultivation status is recorded (b): the frame is purely therapeutic. For a cultivator the text offers recognition criteria (leaf, colour, flower, taste of the juice) and nothing about growing or gathering.
+
+**Unani / Avicenna (CM).** The genus is attested in the Arabic-Persian materia medica: the Encyclopaedia Iranica article "Fumitory" (Frey and Bokhari, 2000) records it as *shahtaraj* and identifies it with Dioscorides' *kapnos*, citing al-Biruni's *Kitab al-saydana*. That is genus-level, not *F. capreolata*, and not the Canon. No Unani cultivation framing (innate heat, radical moisture, *ruh*) was found (b); the species-level CM tag is unconfirmed.
+
+**Practitioner's note.** Nothing specific. The traditions read here use fumitory for a defined complaint, not for long-term practice; the entry's own alkaloid caution applies.
+
 ### Contraindications
 
 - **This is an alkaloid plant. Treat it as one.** *F. capreolata* carries protoberberine, benzophenanthridine (including dihydrosanguinarine) and protopine-type isoquinoline alkaloids. These are not gentle constituents, and the plant's status as a common weed should not be mistaken for a safety profile. **Overdose caution is the primary warning of this entry.**

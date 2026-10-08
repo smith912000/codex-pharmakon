@@ -53,6 +53,12 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Unani/Tibetan mapping:** astringent, drying; respiratory and digestive regulator.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the astringent-drying, balancing/regulating axis; a tonic-astringent fruit of the myrobalan triad.
 
+### Cultivation Register
+
+**Tibetan medicine (FMT).** (b) Framed, with a compound-level rejuvenation note. In the rGyud-bzhi, *ba.ru.ra* (rendered beleric myrobalan, *Terminalia belerica*, in Clark's identification) is a materia medica item that "cures phlegm and bile disorders, lymph disorders and wind imbalances" (rGyud-bzhi, Explanatory Tantra ch. 20, Clark tr. 1995). It is listed among the astringent-taste medicines (Explanatory Tantra ch. 19) and as an example of medicine for *bad kan* (phlegm) disorders (Root Tantra ch. 5, Clark tr. 1995). The rejuvenation chapter does name it: the medicinal butter of the "three fruits" (*a.ru.ra*, *ba.ru.ra*, *skyu.ru.ra*) "clears the sense organs, increases strength and rejuvenates" (rGyud-bzhi, Explanatory Tantra ch. 23, Men-Tsee-Khang tr. 2011; Clark tr. 1995), and the three fruits are also ingredients of the cleansing purgative that must precede rejuvenation. That attaches to the triad as a compound, not to this fruit alone, and the Tibetan linking of *ba.ru.ra* with *Terminalia belerica* is a modern identification.
+
+**Practitioner's note.** Taken singly, nothing beyond a therapeutic astringent. A cultivator's use in this tradition is as one of the three fruits in the rejuvenation preliminaries and butter, under a physician and after the cleansing the chapter requires.
+
 ### Contraindications
 
 - **Pregnancy — caution.** Traditionally used cautiously; [USER: verify].

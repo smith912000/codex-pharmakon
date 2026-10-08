@@ -59,6 +59,12 @@ According to PubMed, evidence for *Piper retrofractum* (≡ *P. chaba*) is **pre
 - **Karma (actions):** Dīpana (agni-kindling), Pācana (digests toxin), Vāta-anulomana (relieves flatulence/downward flow), Kṛmighna (anthelmintic), Kaphahara (expectorant/decongestant), Rucya (appetiser)
 - **Gaṇa membership (Suśruta):** Pippalyādi gaṇa; associated with the Pancakola / Panca-sugandhaka warming groups
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** Cavya (Chavya in the Bhishagratna translation) is attested in the Suśruta Saṃhitā as a therapeutic drug. It is a member of the Pippalyādi gaṇa, described as an appetiser that absorbs intestinal mucus and unassimilated chyle and is applied in catarrh, deranged Kapha and Vāta, loss of appetite, abdominal glands, colic and gastralgia (Sutrasthana ch. 38). It is also a component of a purgative compound for persons of dry temperament (ch. 44; Bhishagratna tr., Vol. I) and of a paste of Trikatu, Chavya and Vidaṅga with honey and ghee licked in phthisis (Uttaratantra ch. 41, Vol. III). No rasāyana or vājīkaraṇa assignment was read, so the grade is (b): a therapeutic frame, with cultivation status unattested. The translation does not identify the species of Chavya.
+
+**Practitioner's note.** Nothing. Cavya is a pungent digestive stimulant in the Suśruta text, used in compounds for a defined complaint, and carries no long-term or rejuvenative status there.
+
 ### Contraindications
 
 - **Pitta excess / hyperacidity:** the pungent-heating profile can aggravate acid reflux, gastritis, peptic ulcer and inflammatory heat states.

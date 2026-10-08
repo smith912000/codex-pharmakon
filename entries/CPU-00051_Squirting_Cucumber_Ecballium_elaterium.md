@@ -84,6 +84,12 @@ Attard E, Cuschieri A (2004) "Cytotoxicity of cucurbitacin E extracted from *Ecb
 
 ---
 
+### Cultivation Register
+
+**Dioscorides / classical Greco-Roman (DMM).** Dioscorides separates the wild cucumber (*sikus agrios*, marked poisonous) from the cultivated *sikus* by its much smaller fruit, and notes it grows in house rubbish and sandy places; this is the only wild-or-cultivated remark, and it is not a cultivation status. The dried juice of the fruit, *elaterion*, gets a full assay discipline: how it is pressed, washed and tabletted; the best is pale, light, smooth, very bitter and quickly kindled at a flame, while heavy, foul material cut with ashes or starch is rejected; it improves with age; the dose is five to ten grains and more is dangerous. The match to *Ecballium elaterium* is the translators' modern gloss. Graded (b) (Dioscorides, De materia medica 4.154 and 4.155, Osbaldeston & Wood tr. 2000).
+
+**Practitioner's note.** Nothing. This is a violent purgative the text itself warns against over-dosing; its lesson for a cultivator is assay and adulteration detection, not use.
+
 ### Contraindications
 
 - **Narrow therapeutic-to-toxic margin (major — potentially fatal):** the quantity that purges and the quantity that poisons are dangerously close; fatal cardiac and renal failure is documented after ingestion; there is no margin for casual or self-directed use

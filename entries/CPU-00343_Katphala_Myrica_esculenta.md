@@ -50,6 +50,12 @@ According to PubMed:
 - **Karma (actions):** Kaphahara / Śvāsahara (relieves cough/dyspnoea), Kaṇṭhya (throat-benefiting), Svarya (voice-improving in the congestive sense), Dīpana-Pācana (digestive-kindling), Śothahara (anti-inflammatory), Nāsā-vairecana (nasal decongestant/purge)
 - **Srotas:** primarily Prāṇavaha (respiratory) and the head/throat srotas; also Annavaha
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** Katphala (Myrica esculenta; the Bhishagratna glossary renders the drug as Myrica sapida) is attested in the Suśruta Saṃhitā as a therapeutic drug. It is listed in the Rodhrādi gaṇa, whose drugs are described as astringent, antidotal to deranged Kapha and fat, and useful in vaginal and uterine disorders and in ulcers; it also appears in the Surasādi gaṇa (Kapha-subduing, vermifuge, catarrh, cough, asthma), the Parūṣakādi gaṇa and the Lākṣādi gaṇa (Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I). A powdered snuff of Katphala is prescribed in a head-disease regimen in the Uttaratantra (Vol. III). No rasāyana or vājīkaraṇa assignment for it was found, so the grade is (b): a therapeutic frame, with cultivation status unattested.
+
+**Practitioner's note.** Nothing here supports a cultivation use. In the Suśruta text Katphala is a bark drug for Kapha-type complaints of the head, chest and wounds, taken for a defined course.
+
 ### Contraindications
 - **Uṣṇa-tīkṣṇa nature:** contraindicated or used cautiously in Pitta-predominant states, hyperacidity, bleeding disorders driven by heat, and inflammatory GI conditions.
 - Not for prolonged high-dose use — the sharpness can irritate mucosa and aggravate Pitta over time.

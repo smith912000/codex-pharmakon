@@ -87,6 +87,12 @@ Graded honestly, including the nulls.
 
 The two directions are not a contradiction — they are two different chemistries in one plant. The oil disperses; the tannin binds.
 
+### Cultivation Register
+
+**North American Indigenous (NAI).** Framed, status unattested. The entry's own account places the plant's attested use in its North American home range: burned or strewn against fleas, and taken as an astringent infusion for flux (dysentery, diarrhoea). That account generalises across the continent and names no nation, and it flags the wider ethnobotanical record for this species as often repeated third-hand. No nation-specific source was read in preparing this entry, so none is named here. These are therapeutic and practical uses only; no cultivation, dietary-discipline or vital-constitution status is recorded. Attestation is ethnographic, not textual, and no pan-Indigenous subtle-anatomy model is implied. Graded (b).
+
+**Practitioner's note.** Nothing. The record supports a field-weed's practical and astringent uses, not a cultivation practice; the uterine indication is deflated in the entry itself.
+
 ### Contraindications
 
 - **Asteraceae sensitivity.** Cross-reactive contact dermatitis and allergy are a real risk across this family. Anyone reactive to ragweed, chamomile, or feverfew should avoid it.

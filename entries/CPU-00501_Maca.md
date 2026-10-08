@@ -68,6 +68,12 @@ Maca operates as a food-grade Jing tonic — its safety profile allows doses tha
 **Dantian Affiliation:** Lower Dantian (base Jing reservoir) — sustained, slow fill
 **System Domain:** Endocrine · Altitude Adaptation · Reproductive Vitality · Nutritional Jing
 
+### Cultivation Register
+
+**South American indigenous ethnobotany (SA).** No cultivation or regimen status is attested for maca in any scholarly ethnography consulted for this entry, so none is recorded. Maca (*Lepidium meyenii*) is an Andean highland root crop of the Peruvian puna; this paragraph generalises across Andean farming communities rather than naming a single people, and it carries no *dieta*, teacher-plant or specialist-role framing. The fertility and stamina uses named in the entry are not sourced to a named ethnography here. Any such attribution therefore remains unattested, a food and therapeutic claim at most.
+
+**Practitioner's note.** Nothing cultivation-specific can be taken from the sources read: maca is treated here as a highland food crop, and its use as a daily food is not a practice with an attested regimen.
+
 ### Contraindications
 
 - **Thyroid disorders** — glucosinolates are goitrogenic at very high doses; limit to moderate amounts with hypothyroidism

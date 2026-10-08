@@ -166,6 +166,14 @@ Graded honestly. **The headline is a data gap.** PubMed searching this run retur
 
 ---
 
+### Cultivation Register
+
+**Shennong Bencao Jing (SBJ).** No cultivation framing is attested, and this species is not in that text. The Bencaojing drug is *Huang Lian* (*Coptis chinensis*), which has its own entry; *Coptis trifolia* (syn. *C. groenlandica*) is a boreal North American plant that no Han-era Chinese source could name. At most the genus is shared, and a congener's *san pin* grade cannot be carried across to this species. The entry's own warning calls the SBJ tag an error. The SBJ tag is not confirmed for this species, and no part of the Chinese materia medica applies to it.
+
+**European folk / phytotherapy (EF).** No cultivation framing is attested. The entry describes settler and nineteenth-century Eclectic use as a mouth-wash for canker sores, a simple bitter in convalescence and a bitter said to blunt alcohol craving. It names no herbal or dispensatory for these, and none was read for this account, so they are recorded only as the entry's claims. The entry itself finds no clinical evidence for any of them, and none is a vitality or long-term tonic use. The mouth-medicine use is inherited from Indigenous North American practice, which is not a code on this tag line.
+
+**Practitioner's note.** Nothing for cultivation. It is a short-course mouth rinse or tasted bitter at most, and the plant is a slow-growing bog species that should be grown, not wild-collected.
+
 ### Contraindications
 
 **General caution: this species has no human safety data whatsoever.** Nothing was retrieved this run on *C. trifolia*'s toxicology, pharmacokinetics, or long-term use. Cautions below are drawn from **protoberberine alkaloid class behaviour and congener precaution** — that is an inference, and it is named as such. **Conservatism is warranted precisely because the data are absent.**

@@ -64,6 +64,14 @@ Therapeutic internal dosing is **not** standardised in reliable modern sources r
 
 Acrid and bitter in flavour; warming and drying in nature; acting to disperse, open the upper passages (nose, chest, throat), move phlegm, and — in its purgative guise — to drain downward. The aromatic, "opening/clearing" character fits an irritant volatile-rich root. As with many strongly aromatic errhines, the traditional energetics and the modern irritancy data point the same direction: this is a stimulating, dispersing material, not a gentle one.
 
+### Cultivation Register
+
+**Greek / Dioscoridean (DMM).** Dioscorides' *iris* (De materia medica 1.1, Osbaldeston & Wood tr. 2000) is glossed by the translators as *Iris germanica*, of which *I. florentina* is held to be a variety; this is a congener-level match, and *I. florentina* is not named. The text prescribes drying the cut roots in the shade, stringing them on linen thread, and judging quality by source (Illyria and Macedonia best, Libya second), colour, hardness, scent and bitterness; it adds that old roots become worm-eaten "yet then they smell even sweeter." Uses are warming and expectorant, with purge, sleep, emmenagogue and wound applications. No cultivation status is recorded (b); the text's gift is a discipline of provenance and assay. The oil of 1.66 (*irinon*) is a preparation, not the root.
+
+**Unani / Avicenna (CM).** No scholarly source tying *Iris florentina* to the Unani or Avicennan materia medica was found in the sources consulted (searches for Arabic and Unani orris returned no scholarly attestation). The CM tag is unconfirmed; no cultivation framing is claimed (c).
+
+**Practitioner's note.** The practice on record is craft, not regimen: lift, peel, dry in shade and wait years for the scent to develop. Nothing here supports taking orris for long-term vital benefit; the root is an irritant.
+
 ### Contraindications
 
 - **Contact and respiratory allergen:** orris is a recognised fragrance/cosmetic allergen; contact dermatitis and respiratory sensitisation (historically "orris sneeze" in powder handlers) are documented occupational/cosmetic risks. Patch-test before topical use; avoid inhaled powder in sensitised individuals. [USER: verify against current allergen sources.]

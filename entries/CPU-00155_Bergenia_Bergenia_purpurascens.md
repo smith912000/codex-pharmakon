@@ -66,6 +66,13 @@ The plant's most-studied constituent, **bergenin**, is reviewed comprehensively 
 
 ---
 
+
+### Cultivation Register
+
+**Tibetan medicine (FMT).** No cultivation framing is attested for *Bergenia purpurascens*, and the species is not named. The rGyud-bzhi drug *ga.dur* is glossed by Clark to several plants, among them *Bergenia crassifolia*, and by Men-Tsee-Khang (2011) to *Bergenia stracheyi*; *brag.lcham* is glossed *B. ciliata* and used to heal wounds (rGyud-bzhi, Explanatory Tantra ch. 20, Clark tr. 1995). These are congeners, and the use recorded is therapeutic (fevers, lung disorders, swellings). No *bcud len* or rejuvenation assignment is recorded for any of them.
+
+**Practitioner's note.** Nothing to cultivate; the stone-breaker reading in this entry belongs to the Himalayan Ayurvedic name, not to the Tibetan text read.
+
 ### Contraindications
 
 - **Constipation / cold-dry patterns:** the strong astringency can aggravate constipation and dryness; not for cold-deficient bowel patterns.

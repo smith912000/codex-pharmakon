@@ -55,6 +55,12 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Chinese Medicine mapping:** **Yu Zhu** — sweet, slightly cold; Lung, Stomach; nourishes yin, moistens dryness, generates fluids. **Huang Jing** — sweet, neutral; Spleen, Lung, Kidney; tonifies qi and yin, a longevity tonic.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the cooling-moistening, yin-nourishing, tissue-consolidating axis (moisten dryness, knit tissue); a gentle building/restorative rhizome.
 
+### Cultivation Register
+
+**Dioscorides / classical Greco-Roman (DMM).** Dioscorides describes *polugonaton* as a shrub of the hills, taller than a foot, with laurel-like leaves, an astringent quince-or-pomegranate taste, many white flowers and a long, white, thick-jointed, strongly scented root a finger thick. The root is good applied to wounds and to remove spots on the face. This is a habitat and appearance remark only; it records no cultivation status and no vital or restorative role. Matching *polugonaton* to *Polygonatum multiflorum* is a modern, debated identification, and Dioscorides names no use of the root as food or tonic. Graded (b): therapeutic framing, status unattested (Dioscorides, De materia medica 4.6, Osbaldeston & Wood tr. 2000).
+
+**Practitioner's note.** Nothing. At most, an external wound or complexion poultice in Dioscorides' own terms; no long-term or tonic use is attested in this text.
+
 ### Contraindications
 
 - **Berries — toxic.** Do not eat; keep from children; distinguish from edible look-alikes and from toxic false Solomon's seals/lily-of-the-valley.

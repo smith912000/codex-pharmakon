@@ -69,6 +69,12 @@ Honest summary: the galls have a genuine, isolable flavonoid/tannin pharmacology
 - **Dhātu:** rasa (respiratory/digestive mucosa)
 - **Srotas:** prāṇavaha (respiratory), annavaha (digestive)
 
+### Cultivation Register
+
+**Ayurveda (SS).** Karkaṭa-śṛṅgī is named in Suśruta's Kākolyādi gaṇa (Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I), which is described as subduing deranged pitta, blood and vāyu, increasing milk, and as "a restorative and an elixir" augmenting virile potency; that is a description of the group, not of this drug. The drug is also listed among those that "allay cough" for medicated smoke (Cikitsasthana ch. 40, Vol. II), and appears in oils and compounds in the Uttaratantra (ch. 21 and ch. 51, Vol. III). These are therapeutic attestations only. No rasāyana or vājīkaraṇa assignment to this drug was found, so the status is framed (b). The text gives the name; its identification with the *Pistacia* gall is later.
+
+**Practitioner's note.** Nothing to cultivate in the Sushrutan sense: a short-course cough and paediatric respiratory drug, attested in the classic only as an ingredient in remedies and one group.
+
 ### Contraindications
 
 - **Pitta excess / heat states:** its uṣṇa (warming), rūkṣa (drying) nature can aggravate high Pitta, dryness, and inflamed/bleeding conditions; use cautiously in hot, dry constitutions.

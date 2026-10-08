@@ -57,6 +57,13 @@ Evidence grade: **toxicological, not therapeutic.** There is no clinical evidenc
 - **Chinese Medicine:** not a mainstream TCM staple.
 - **Kenetica tier:** **Hazard / documentary** — no energetic training assignment; listed for identification and avoidance.
 
+
+### Cultivation Register
+
+**Tibetan medicine (FMT).** No cultivation framing is attested, and the plant is not named. *Abrus precatorius* (*gunja*, jequirity, rosary pea) does not appear in the rGyud-bzhi as rendered by Clark (1995) or Men-Tsee-Khang (2011), whether in the materia medica (Explanatory Tantra ch. 20) or the compounding lists. The tag is therefore unconfirmed in the texts read, and there is no *bcud len*, rejuvenation or other practice use to report.
+
+**Practitioner's note.** Nothing: a lethal-toxin seed with no cultivation role in any source read here, and not a substance to take.
+
 ### Contraindications
 
 - **Absolute contraindication to internal self-use of the seed.** Abrin poisoning causes severe gastroenteritis, haemorrhage, multi-organ failure and death; there is no specific antidote — treatment is supportive/decontamination only. A single well-chewed seed can be lethal.

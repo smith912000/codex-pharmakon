@@ -71,6 +71,12 @@ According to PubMed, banyan's traditional antidiabetic reputation has attracted 
 - **Gaṇa membership:** **Head of the Nyagrodhādi gaṇa**; member of **Panchavalkala** (five astringent barks) and the **Kṣīrī-vṛkṣa** (milk-tree) group
 - **Prabhāva:** Its pre-eminent wound-consolidating and astringent-metabolic action
 
+### Cultivation Register
+
+**Ayurveda (SS).** Nyagrodha heads the Nyagrodhādi gaṇa (Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I), which the translation describes as beneficial in ulcers and disorders of the uterus and vagina, astringent, favouring union of fractures, curative in haemoptysis, "an anti-fat" and allaying burning. Under its name Vata it is listed among the milk-exuding trees (kṣīrivṛkṣa) whose cooling, astringent infusions and bark extracts are used to heal ulcers (Sutrasthana ch. 36), and its bark is used in splints for fractures (Cikitsasthana ch. 3, Vol. II). These are wound-healing and astringent attestations. The group description contains no rasāyana or vājīkaraṇa language, and none is assigned to Nyagrodha, so the status is (b). Bhishagratna's text gives the Sanskrit names; the equation with *Ficus benghalensis* is the translator's and modern botany's.
+
+**Practitioner's note.** Nothing to cultivate: in the classic it is an astringent, cooling wound and fracture drug. Its place in the Sushrutan frame is surgical and therapeutic, not rejuvenative.
+
 ### Contraindications
 
 - **Vāta aggravation / constipation:** its dry, astringent, binding nature can worsen constipation, bloating, and Vāta-dryness — combine with unctuous adjuvants and avoid in Vāta-predominant dryness.

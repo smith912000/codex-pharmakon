@@ -97,6 +97,12 @@ The trial dosage above describes what practitioners prescribed in an uncontrolle
 
 The traditional reading is coherent with the chemistry insofar as astringency *is* a condensing, edge-defining action. The tradition's error was not the energetic; it was the epistemology.
 
+### Cultivation Register
+
+**European folk / phytotherapy (EF).** Framed, status unattested. The entry's sourced content documents eyebright as an ophthalmic herb, *Augentrost*, used as an eyewash for conjunctivitis, blepharitis and sore eyes. Walter Bailey's *A Briefe Treatise Touching the Preseruation of the Eie Sight* (1580s), as reported by Leffler et al. 2014, recommends it with fennel and a moderate lifestyle to preserve eyesight, which is a regimen for preserving a faculty but is not a cultivation status. A British Columbia ethnoveterinary survey (Lans et al. 2007) records it for eye problems in ruminants. Milton's *Paradise Lost* uses euphrasy as a literary image. No named herbal retrieved gives it a tonic or alterative course or a vital-constitution role.
+
+**Practitioner's note.** Nothing beyond the local eye use. The tradition is organ-specific and short-course, and the eyewash must be sterile.
+
 ### Contraindications
 
 - **⚠️ THE TRADITIONAL PREPARATION IS THE PRINCIPAL HAZARD.** This is the crucial safety statement of the entry. A **home-made, unsterile eyewash** — a strained infusion of a wild-collected field plant, bathed directly onto an inflamed eye — is an **infection risk**, and the risk is not theoretical. Plant material carries environmental bacteria and fungi; a domestic infusion is not sterile; the vessel or eyecup is not sterile; and the target is a compromised ocular surface with impaired defences. The classic serious outcome of introducing plant matter or field organisms to a damaged eye is **fungal or bacterial keratitis** — a corneal infection that can scar and blind. Note the specific compounding facts established above: the eyebright essential oil **failed against *Pseudomonas aeruginosa***, one of the fastest and most destructive causes of bacterial keratitis, so the herb offers no protection against the organism most likely to punish this route. **Use a manufactured sterile single-dose ophthalmic preparation or do not use it in the eye at all.** The tradition is not a defence; a practice being old does not sterilise it.

@@ -49,6 +49,12 @@ According to PubMed, *Nymphaea lotus* has a small but real experimental literatu
 - **Karma (actions):** hṛdya (cardiac-soothing), dāhapraśamana (relieves burning), raktapittahara (checks bleeding/heat in blood), balya & rasāyana (restorative), tṛṣṇānigrahaṇa (relieves thirst), medhya-adjacent / calming (nervine), stanya/śukra-supportive (nutritive-reproductive)
 - **Srotas / systems:** raktavaha (blood), rasavaha (plasma), manovaha (mind), reproductive (śukravaha)
 
+### Cultivation Register
+
+**Ayurveda (SS).** Prapauṇḍarīka is a member of the Kākolyādi gaṇa (Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I), described as a group that subdues pitta, blood and vāyu, increases milk, and is "a restorative and an elixir" augmenting virile potency. Individually it appears as an ingredient in plasters, oils and ghee for ulcers and ear-lobe conditions, and in pastes after urinary-calculus surgery (Cikitsasthana ch. 3, 7 and 16, Vol. II; Uttaratantra, Vol. III). These are therapeutic attestations. No rasāyana or vājīkaraṇa assignment to this drug alone was found, so the status is (b). Suśruta lists Prapauṇḍarīka separately from Puṇḍarīka (Utpalādi gaṇa); the equation with *Nymphaea lotus* is a later identification.
+
+**Practitioner's note.** Nothing to cultivate: a cooling topical and ingredient drug in the classic. The elixir wording belongs to the Kākolyādi group as a whole.
+
 ### Contraindications
 
 Somewhat heavy and demulcent — caution in high-Kapha, congestive, and low-agni (weak digestion) states, and where mucus/sluggishness predominate. Sedative/nervine reputation warrants caution when combined with CNS depressants or benzodiazepines (the flumazenil-reversible mechanism suggests genuine GABAergic overlap). Correct species identification is essential. Pregnancy/lactation and paediatric use: `[USER: verify with practitioner]`. Not a treatment for epilepsy, anxiety disorder or bleeding disease without medical oversight.

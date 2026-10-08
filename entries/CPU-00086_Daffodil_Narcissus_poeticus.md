@@ -58,6 +58,12 @@ Codex policy: mechanism stated securely; named citations to be supplied and veri
 - **Folk-European mapping:** the toxic emetic bulb and drawing wound-plaster; the flower of myth.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** for the forceful emetic/drawing action, with a ☿ **Shen** ascription reflecting both the ancient *narke*/numbness association and the modern galantamine action on cholinergic signalling in the brain — a plant family that genuinely reaches the mind.
 
+### Cultivation Register
+
+**Dioscorides (DMM).** Dioscorides' narkissos (De materia medica 4.161, Osbaldeston & Wood tr. 2000) is identified in the translation with Narcissus pseudonarcissus and N. sylvestris as well as N. poeticus, so any match to N. poeticus specifically is a modern one and the text may concern a congener. He says "the best grows in hilly places and has a good scent", the rest being leek-smelling; the root induces vomiting and, with honey, is laid on burns, sinew cuts, dislocations, joint pains and ulcers. A narcissus-flower oil (narcissinum, 1.63) is also described, said to cause headaches. These are habitat, sensory and therapeutic remarks. No cultivation status is attested.
+
+**Practitioner's note.** The practice Dioscorides gives is selection by habitat and smell, and caution: the bulb is an emetic and the oil can bring on headache. Nothing supports a regimen of cultivation or long-term use.
+
 ### Contraindications
 
 - **Internal use — avoid.** Toxic emetic; serious poisoning risk; no casual use.

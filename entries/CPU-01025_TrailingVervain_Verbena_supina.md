@@ -68,6 +68,14 @@ Claims graded:
 
 The Cool–Dry, astringent and mildly nervine reading in the header is the standard humoral/Western-herbal characterisation of **common vervain (*V. officinalis*)** — cooling, drying, astringent, wound-consolidating and calming to the nerves. It is applied to *V. supina* only by genus membership and shared name; **no distinct classical energetic grading of *V. supina* survives.** Recorded as genus-level, inherited.
 
+### Cultivation Register
+
+**Avicenna / Unani (CM).** (c) Absent. No scholarly Unani source naming *Verbena supina* could be found; the Canon was not available to consult directly, and the limited searches made of Ibn al-Baytar-era and Persian materia medica scholarship returned nothing for this species. The entry's own CM text describes the common medicinal vervain by name inheritance and itself says no basis exists for reading *V. supina* into Avicenna. The Unani frame of innate heat and radical moisture is not applied to this plant.
+
+**Greek / Dioscorides (DMM).** (b) Framed, status unattested, and only by congener. Dioscorides, De materia medica 4-61 (Osbaldeston & Wood tr. 2000), *peristereon hyptios* or *hierabotane*, lists *Verbena supina* only among the translators' Renaissance suggestions (the Linnaean match given is *V. officinalis*), so the identification is not secure. The chapter is therapeutic (snakebite, jaundice, tonsils, ulcers, and a feast infusion said to make guests merrier). It also records that the herb was called "sacred" ("they call it") because it is suited to amulets in purification; he records the name and use without developing it. No cultivation status is given.
+
+**Practitioner's note.** Nothing. Neither stream grades this prostrate vervain as a cultivation substance; the only ritual note belongs to the erect vervain of the Greek herbal.
+
 ### Contraindications
 
 - **Pregnancy — AVOID (precautionary, congener-derived):** common vervain (*V. officinalis*) carries a traditional **uterine-stimulant / emmenagogue** reputation and is customarily avoided in pregnancy. Whether *V. supina* shares this activity is **unverified**, but the prudent course under the shared name is to **apply the same precaution: avoid in pregnancy.** Stated explicitly as a congener-derived caution, not a measured *V. supina* effect.

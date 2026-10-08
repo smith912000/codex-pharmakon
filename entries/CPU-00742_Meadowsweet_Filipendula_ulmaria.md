@@ -114,6 +114,12 @@ And know your organ. The plant is not chemically uniform: **flowers and upper le
 
 The energetic reading is coherent: astringency and cooling are exactly what tannin and salicylate respectively deliver. The tradition described the chemistry accurately in the only vocabulary it had.
 
+### Cultivation Register
+
+**European folk / phytotherapy (EF).** Framed, status unattested. The entry's sourced content records meadowsweet as a strewing herb and mead flavouring (hence its names), and as a northern and central European folk remedy for fever, pain, rheumatism and stomach complaints including heartburn and ulcer. It also survives as a daily floral tea, compared across *Filipendula* species by Olennikov et al. 2016. These are therapeutic and culinary attestations. I could not read a named herbal page for this entry, so none is cited, and no tonic or alterative course or vital-constitution status is recorded for it. The daily tea is a beverage custom, not a graded regimen.
+
+**Practitioner's note.** Nothing in the cultivation sense. It is a salicylate-bearing herb used for a complaint and then stopped; the daily-tea custom is no warrant for long-term use, especially given the salicylate caution in the entry.
+
 ### Contraindications
 
 **⚠️ This is a salicylate plant. Every salicylate caution applies, and they are not theoretical.**

@@ -77,6 +77,14 @@ According to PubMed:
 
 Across the Greek (DMM) and Arabic/Unani (CM) streams the sorb is read as **cold, dry and astringent (*styptic* / *qābiḍ*)** — a binding fruit that "gathers and holds," used to check fluxes and firm a relaxed stomach. In Kenetica's grid this maps to a **cooling, drying, contracting** signature. The energetic is *inferred from the fruit's manifest astringency and its consistent placement among the binding pomes*, not deduced from a single verified passage — hence the caution flags above on the exact Dioscorides/Avicenna loci.
 
+### Cultivation Register
+
+**Unani / Avicenna (CM).** No scholarly source was found for the service tree (*Sorbus domestica*) in the Unani or Avicennan materia medica; the search for the Arabic name given in the entry returned only botanical, dictionary and encyclopaedia pages. The entry's own CM paragraph asserts an Arabic name and an astringent placement but says the passage is not substantiated and carries a verification flag, so it cannot be relied on. The CM tag is unconfirmed; the content is an inference from the Greek stream and plain European fruit-remedy practice (EF). No *ruh*, innate-heat or radical-moisture framing is attested. Grade (c).
+
+**Greek / Dioscorides (DMM).** Dioscorides, *De materia medica* 1.173 (Osbaldeston & Wood tr. 2000), describes oua, which the translators identify as *Sorbus domestica*. The yellowish, unripe fruit, cut and dried in the sun, is astringent for the bowels; ground to a meal it is eaten instead of polenta, and a decoction taken as a drink does the same. The recorded use is therapeutic and dietary, with no cultivation status. Grade (b). The text's attention goes to ripeness and preparation (unripe, cut, sun-dried); the entry's bletting is a later practice and is not in this chapter.
+
+**Practitioner's note.** Nothing cultivation-specific is attested. The practice is knowing when to use the fruit: unripe and dried as a binding remedy for flux, bletted as food.
+
 ### Contraindications
 
 - **Do not eat raw, un-bletted fruit as food:** intensely astringent and GI-irritating; can cause nausea and gut upset.

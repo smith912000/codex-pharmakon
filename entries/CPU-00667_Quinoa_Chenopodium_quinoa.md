@@ -97,6 +97,14 @@ Graded honestly, and the honest grade is unusual for this codex: **the nutrition
 | TCM | **No classical classification exists.** Post-Columbian introduction (~1980s–90s Chinese cultivation); absent from the *Shennong Bencao Jing* and all classical materia medica. Any assigned classical nature/flavour is fabricated. Modern Chinese dietary use treats it as a neutral, sweet, spleen-supporting grain — a **modern** assignment. [USER: verify whether any published modern Chinese source formally assigns it a nature/flavour; do not present as classical either way.] |
 | Kenetica | Neutral-warm, sweet, building. Substrate class. Processing-dependent. |
 
+### Cultivation Register
+
+**Later Chinese medicine (TCM).** No cultivation framing is attested. Quinoa (*límài*) entered Chinese cultivation only in recent decades, is absent from the classical Bencao stratum and from any Bencao located here, and carries no *san pin* grade. The name borrows from the older *lí* (*Chenopodium album*) without inheriting its record. Any modern dietary nature or flavour assigned to it is a modern assignment, not a Bencao attestation, and is not treated as a cultivation status.
+
+**Badianus / Aztec-Nahua (BM).** No cultivation framing is attested, and no Badianus attestation for quinoa is established in this entry. Quinoa is an Andean crop; this entry's sourced material places it with the Quechua and Aymara, for whom it is a staple and a "mother grain" (*chisiya mama*), nutritive and not a remedy class. The Badianus manuscript (1552) is itself naturalistic, and *tonalli*, *teyolia* and *ihiyotl* are reconstructed from later ethnohistory (López Austin); none is applied here.
+
+**Practitioner's note.** Nothing beyond the food. Wash the grain as the entry directs; neither tradition tagged here supplies a cultivation practice for it.
+
 ### Contraindications
 
 - **Never eat unwashed.** Saponins are seed-coat-localised, bitter, and characterised in the literature as anti-nutritional with "potential toxicity" (Villagomez et al., 2025, [DOI](https://doi.org/10.1021/acsomega.5c01812)). Wash until the foam stops. This applies to grain sold as "pre-rinsed" — verify with your own water.

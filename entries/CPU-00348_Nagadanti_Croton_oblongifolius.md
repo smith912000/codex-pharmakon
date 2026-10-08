@@ -55,6 +55,12 @@ According to PubMed, the documented pharmacology of *Croton oblongifolius* is at
 - **Karma (actions):** Bhedana (breaks obstruction), Virecana (purgation), Krimighna (anthelmintic), Kaphaghna (Kapha-dissolving)
 - **Gaṇa / group:** Among the *tīkṣṇa virecana* (drastic purgative) drugs of the surgical tradition; cognate in action with the *danti* (Baliospermum) group
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** Nāgadantī occurs once in the Bhishagratna translation of the Suśruta Saṃhitā, in the Arkādi gaṇa of Sutrasthana ch. 38 (Vol. I), alongside Arka, Alarka, Karañja, Rasna and others. The group is described as destroying Kapha, fat and the effects of poison, acting as a vermifuge and a specific aseptic agent for ulcers, and curing skin disease. That is a therapeutic attestation only. No rasāyana or vājīkaraṇa assignment for the drug was found, so the grade is (b): framed by the gaṇa, with cultivation status unattested. The botanical identity of the Sanskrit name is a modern attribution, and the gaṇa list does not itself fix the species.
+
+**Practitioner's note.** Nothing. The Suśruta text gives only a group membership for the drug, and the group is a purgative, anti-Kapha and skin set, not a nourishing one.
+
 ### Contraindications
 
 - **Absolute practitioner supervision** — a drastic cathartic of a toxic plant family; not for self-administration.

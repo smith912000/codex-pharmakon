@@ -66,6 +66,14 @@ According to PubMed:
 
 Ayurveda classifies Bala as **sweet (madhura) in taste, cooling (sheeta) in potency, sweet in post-digestive effect**, and as **balya (strengthening), brimhana (nourishing/anabolic) and vata-shamaka (vata-pacifying)**. This cooling-sweet-nourishing profile is *doctrinally coherent* with a restorative tonic — and is precisely why the hidden ephedrine is worth flagging, since a naive reading of the energetic would suggest a calming herb, whereas the alkaloid pharmacology is activating. The Kenetica note: honour the *sheeta/balya* tradition, but never let it license unmonitored internal stimulant exposure.
 
+### Cultivation Register
+
+**Avicenna / Unani (CM).** No cultivation framing is attested. The entry carries no Unani material, and a search for a scholarly Unani source for *Sida cordifolia* returned only modern ethnobotanical reviews and ayurvedic-journal items, none verified as quoting a classical Unani text. The Canon's simples book is not available to check. Innate heat, radical moisture and *ruh* therefore cannot be applied here, and the tag is unconfirmed.
+
+**Ayurveda (SS).** Bala, which Bhishagratna's glossary identifies with *Sida cordifolia*, is named in the Sushruta Samhita only as an ingredient in compound recipes. The two kinds of Bala are cooked into an oil in the Uttara-tantra (ch. XXIV, Bhishagratna tr., Vol. III); Bala also occurs in a gruel for diarrhoea (Uttara-tantra ch. XL, Vol. III), in a medicated fat for a respiratory disorder (Uttara-tantra ch. LIX, Vol. III), and with Ati-bala in an antidote for insect poison (Kalpa sthana ch. VIII, Vol. II). This is therapeutic attestation only (b). In the passages read, no *rasayana* or *vajikarana* assignment is made for Bala, so the entry's description of it as a *rasayana* rests on later Ayurvedic usage not read here. The name's literal sense, "strength", is not a Sushrutan grade.
+
+**Practitioner's note.** Nothing cultivation-specific should be inferred from the name. Bala contains ephedrine-type alkaloids according to the entry's own sourced content, so its traditional "strengthening" label is no warrant for habitual use.
+
 ### Contraindications
 
 - **Cardiovascular disease** (hypertension, ischaemic heart disease, arrhythmia, heart failure): contraindicated — ephedrine/pseudoephedrine raise blood pressure and heart rate.

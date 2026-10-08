@@ -69,6 +69,12 @@ Evidence grade: **preclinical (in vitro antimicrobial; ex vivo vascular pharmaco
 - **Srotas / dhātu:** rakta and rasa primarily; used in raktavaha and udakavaha (fluid) srotas; supports twak (skin)
 - **Gaṇa / formulary:** ingredient of *ṣaḍaṅga-pānīya*, *Uśīrādi*, and cooling Pittahara compounds
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** No rasayana or vajikarana assignment for ushira was found in the Sushruta Samhita. Ushira is named in the Eladi group and in the Sarivadi group (Sutrasthana ch. 38, Bhishagratna tr., Vol. I); the Sarivadi group is described as allaying thirst and curing haemoptysis and bilious fever. It is also listed among the drugs that soothe deranged Pitta (Sutrasthana ch. 39, Vol. I), where Hrivera is named alongside it. All of this is therapeutic attestation, so the status is (b): framed by gana and varga membership, cultivation status unattested.
+
+**Practitioner's note.** Nothing beyond its classical cooling, thirst-relieving use for a defined complaint; the text assigns it no cultivation or rejuvenative role.
+
 ### Contraindications
 
 - **Cold / Vāta-predominant constitutions and conditions:** the strong cooling-drying nature can aggravate cold, dryness, and Vāta symptoms; avoid or balance with warming, unctuous anupāna.

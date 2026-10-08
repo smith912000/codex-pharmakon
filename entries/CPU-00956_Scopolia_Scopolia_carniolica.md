@@ -72,6 +72,14 @@ According to PubMed:
 
 No reliable classical energetic assignment exists for *S. carniolica* specifically. By analogy within the narcotic-nightshade cluster the humoral streams class such plants as **cold and dry, strongly narcotic/soporific and dangerous** — but this is an **inferred** cluster reading, not an attested classification of this species. Presented as inference only.
 
+### Cultivation Register
+
+**Unani / Avicenna (CM).** No scholarly source was found tying *Scopolia carniolica* to the Unani or Avicennan materia medica. The plant is a Carpathian, Alpine and Balkan woodland species, and the sources that turned up on it (a biographical entry on Scopoli and herbal-history notes) place its scientific naming in the eighteenth century. The entry itself warns that the CM tag is a tropane-cluster inheritance and not a species attestation. The CM tag is unconfirmed and likely anachronistic for this species; no *ruh*, innate-heat or radical-moisture framing is attested. Grade (c).
+
+**Greek / Dioscorides (DMM).** *Scopolia* is not named in Dioscorides, *De materia medica* (Osbaldeston & Wood tr. 2000); a search of the full English text for the genus and species found nothing. The narcotic nightshades he does describe are other plants (such as mandrake and henbane), and nothing in his text can be attributed to this species. The tag is unconfirmed and anachronistic: a central-European plant named for an eighteenth-century naturalist. Grade (c).
+
+**Practitioner's note.** Nothing. A toxic tropane-alkaloid plant with no attested cultivation role in either tradition; it is not a practice plant.
+
 ### Contraindications
 
 - ⚠️ **DEADLY POISON — no home, folk, or self-administered use of any part of the plant.** Contains atropine/hyoscyamine and scopolamine at variable, uncontrollable concentrations.

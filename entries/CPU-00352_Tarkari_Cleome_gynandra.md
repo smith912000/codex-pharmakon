@@ -58,6 +58,12 @@ According to PubMed, *C. gynandra* has a **modest, mostly nutritional and ethnob
 - **Karma (actions):** Dīpana-Pācana (digestive-kindling), Rocana (appetising), Kṛmighna (anthelmintic), Śothahara (anti-inflammatory), Kaphaghna (Kapha-reducing), Vraṇaropaṇa (wound-supportive, folk), Jvaraghna (febrifuge, folk)
 - **Gaṇa/varga membership:** Śāka-varga pungent pot-herbs; grouped near the Varuṇādi-type pungent-warming greens
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** The name Tarkārī occurs in the Suśruta Saṃhitā in the Varuṇādi gaṇa (Kapha- and fat-reducing; Sutrasthana ch. 38) and among the leaf potherbs that are heat-making in potency and pacify deranged Vāyu (ch. 46; Bhishagratna tr., Vol. I). The related names Suvarcalā and Ajagandhā appear in wound-cleansing washes, plugs and potherb lists (ch. 5, 36, 46). Which of these names belongs to Cleome gynandra is a later identification, and the translation does not settle it. Suvarcalā and Brahma-suvarcalā are also listed in the Chikitsasthana chapter on all-healing Soma-like drugs (ch. 30, Vol. II), but the plants described there are ritual drugs taken after a prescribed chamber rite, not a pot-herb. That chapter is therefore not attributed to this species. The grade is (b): a therapeutic and dietary frame, with cultivation status unattested.
+
+**Practitioner's note.** Nothing. In the Suśruta text the name belongs to a heating potherb and a Kapha-reducing drug, and no rasāyana or vājīkaraṇa assignment could be tied to this species.
+
 ### Contraindications
 
 - **Pitta excess / heat & acidity:** pungent-hot nature aggravates Pitta, gastritis and bleeding tendencies — moderate in high-Pitta states.

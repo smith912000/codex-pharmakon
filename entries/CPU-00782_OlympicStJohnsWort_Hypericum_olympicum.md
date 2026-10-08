@@ -76,6 +76,14 @@ Graded honestly, including nulls:
 - **Folk (EF):** bitter, cool-drying; minor regional "St John's wort" use, poorly attested for this species.
 - **Kenetica synthesis:** a signature-bearing mountain wort whose real gift is chemical, not devotional — cool, drying, antibacterial in its gland resin, phototoxic at the pigment.
 
+### Cultivation Register
+
+**Greek / Dioscorides (DMM).** No cultivation framing is attested for this species, which is not named in Dioscorides, De materia medica (Osbaldeston & Wood tr. 2000). The nearest chapters are congeners only: *hyperikon* (3.171, translators' suggestion *H. perforatum*), *askuron* (3.172) and *androsaimon* (3.173), recorded for sciatica, fevers, bilious purging and burns. These are therapeutic notes on other *Hypericum* species. The tag is unconfirmed for *H. olympicum*, and the "genus doctrine" in the entry is a later overlay, not Dioscorides.
+
+**European folk / phytotherapy (EF).** No cultivation framing is attested. The entry's own sourced content describes a Balkan and Anatolian montane rock-garden plant, locally swept into a genus-wide "St John's wort" tea reputation (Greek vernacular names, per Pyrka et al. 2021), with species-specific indications sparse and poorly documented. It is mainly a modern ornamental and phytochemical subject, with no named herbal record of its own and no tonic or long-term regimen.
+
+**Practitioner's note.** Nothing. It is a garden and laboratory plant here; use *H. perforatum* where a St John's wort is wanted.
+
 ### Contraindications
 
 - ⚠️ **Photosensitisation (class caution).** As a hypericin-bearing species, *H. olympicum* can act as a photosensitiser; avoid pairing internal use with strong sun/UV, and treat fair-skinned or photosensitive individuals with care.

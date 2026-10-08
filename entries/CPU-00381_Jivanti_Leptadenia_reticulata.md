@@ -74,6 +74,12 @@ According to PubMed, the modern evidence base is real but early-stage and domina
 - **Gaṇa membership:** Head of the **Jīvanīya gaṇa** (life-promoting group); member of the sweet **Kākolyādi** grouping
 - **Prabhāva (special effect):** Its named vitalising/*jīvana* action — the reason it lends its name to an entire therapeutic class
 
+### Cultivation Register
+
+**Ayurveda (SS).** Jīvantī appears in Suśruta as a pot-herb (śāka) prescribed in the diet of an ulcer patient and among the vegetables conducive to health (Sushruta Samhita, Sutrasthana ch. 19 and ch. 20, Bhishagratna tr., Vol. I; again in the haemorrhoid diet, Cikitsasthana ch. 6, Vol. II). It is placed in the astringent-taste class of foods (Sutrasthana ch. 42), and is a member of the Kākolyādi gaṇa (Sutrasthana ch. 38), a group the translation calls "a restorative and an elixir" augmenting virile potency. It is also an ingredient in medicated Vasti oils for deranged vāyu (Cikitsasthana ch. 37, Vol. II). These are dietary and therapeutic attestations. No rasāyana or vājīkaraṇa assignment to Jīvantī alone was found, so the status is (b). Suśruta gives the name only; the identification with *Leptadenia reticulata* is a later one.
+
+**Practitioner's note.** In the classic it is mainly a food herb and a group ingredient, not a stand-alone elixir. Any long-term tonic use rests on later texts and was not confirmed here.
+
 ### Contraindications
 
 - **Kapha excess / āma (undigested toxin) states:** its heavy, sweet, unctuous nature can aggravate Kapha, congestion, and sluggish digestion — use cautiously in obesity, oedema, and low agni.

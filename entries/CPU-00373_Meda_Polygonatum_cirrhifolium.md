@@ -70,6 +70,12 @@ The honest summary: robust genus tonic pharmacology and genomic authentication t
 - **Dhātu:** all seven, with emphasis on medas, māṃsa, śukra
 - **Srotas:** rasavaha, medovaha, śukravaha
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** Meda is named in the Kakolyadi group (Sutrasthana ch. 38, Bhishagratna tr., Vol. I), together with Mahameda. The text describes that group as a whole as subduing Pitta, blood and Vayu, as a galactagogue, as "a restorative and an elixir" and as augmenting virile potency; it does not single out Meda. Meda is also an ingredient of medicated oils for the Anuvasana enema (Chikitsasthana ch. 37, Vol. II). The Bhishagratna text read does not use the terms Ashtavarga or Vayahsthapana. No rasayana or vajikarana assignment for the plant itself was found: status (b). The identification of Meda with Polygonatum cirrhifolium is a later one, made because the classical drug is not securely identified.
+
+**Practitioner's note.** Nothing: no regimen for the individual substance is recorded, and the group description cannot be transferred to this species.
+
 ### Contraindications
 
 - **Āma, low Agni, high Kapha:** heavy, unctuous, cooling — can worsen congestion, obesity, metabolic sluggishness and *āma*. Avoid in these states.

@@ -109,6 +109,12 @@ Cho MJ, Kim BY, Park JH, Choi JS, Kim JK, Hamb SS, Lee HJ (2008) "Inhibitory eff
 
 ---
 
+### Cultivation Register
+
+**Shennong / classical Chinese (SBJ).** The Shennong Bencao Jing lists shao yao (Radix Paeoniae Lactiflorae) in the middle class (中品): bitter, mainly treating evil qi and abdominal pain, eliminating blood impediment, breaking hard gatherings, relieving pain, disinhibiting urination and boosting the qi (Shennong Bencao Jing, middle class, Shao Yao, Yang Shou-zhong tr. 1998). No statement about long-term taking, lightening the body or prolonging life is recorded for it. In Yang's preface the middle class is the grade that cultivates temperament and may be toxic, so it carries no nourishing-life status; the register is therapeutic only. The classic names a single shao yao; the white/red split appears only in Yang's commentary, and the match to Paeonia lactiflora is a modern identification.
+
+**Practitioner's note.** A middle-grade drug in the Chinese scheme: used for a defined complaint with judgement, not as a long-term life-nourishing tonic. Nothing in the classic supports a daily cultivation routine.
+
 ### Contraindications
 
 - **Excess Cold in the Middle Jiao (Spleen/Stomach Yang deficiency):** Bái Sháo is slightly cold and sour-astringent; in individuals with digestive weakness dominated by cold (poor appetite, bloating, loose stools, cold extremities, tongue pale and swollen with tooth marks), it can aggravate digestive stagnation and cold accumulation. Classical TCM: counteract by combining with Gān Jiāng (dried ginger) or by reducing dose.

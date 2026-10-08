@@ -53,6 +53,12 @@ According to PubMed:
 - **Karma (actions):** Śothahara (anti-inflammatory), Śūlaghna (analgesic/antispasmodic), Āmavātaghna (anti-rheumatic), Vātānulomana (regulates downward Vāta flow), Dīpana (mild digestive)
 - **Primary indications (roga):** Āmavāta (rheumatoid-type arthritis), Sandhivāta (osteoarthritis), Vātavyādhi (Vāta disorders generally), Śotha (inflammatory swelling)
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** Rāsnā is attested in the Suśruta Saṃhitā in therapeutic roles only. It is an ingredient of a plaster for a swelling due to deranged Vāyu (Sutrasthana ch. 36), a member of the Arkādi gaṇa (anti-Kapha and anti-fat, vermifuge, aseptic for ulcers, skin disease; ch. 38) and one of the drugs listed as restoring deranged Śleṣman (Kapha) to its natural state (ch. 39; Bhishagratna tr., Vol. I). No rasāyana or vājīkaraṇa assignment was read for it, so the grade is (b): a therapeutic frame, with cultivation status unattested. The translation does not state a botanical identity for Rasna, and linking the name to Pluchea lanceolata is a later identification.
+
+**Practitioner's note.** Nothing. In the Suśruta text Rasna is a short-course remedy for Vāta and Kapha swellings, and the tradition does not grade it for long-term use.
+
 ### Contraindications
 
 - **Identity first:** confirm the product is genuinely *Pluchea lanceolata* and not an unspecified "Rāsnā" (*Alpinia galanga*, *Vanda*, etc.) — the substitution changes the pharmacology.

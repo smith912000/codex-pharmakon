@@ -59,6 +59,13 @@ Evidence grade: **preclinical.** The cooling anti-inflammatory / anti-arthritic 
 - **Dantian affiliation:** **middle** (Liver/Gallbladder-associated bitter) with channel action across the joints/sinews.
 - **Kenetica Qi/Shen tier:** ◐ **Yin-cool** — on the cooling, bitter, heat-clearing, damp-resolving axis.
 
+
+### Cultivation Register
+
+**Tibetan medicine (FMT).** No cultivation framing is attested for *Gentiana crassicaulis*, and the species is not named. The rGyud-bzhi material read names a different gentian, *Gentiana straminea* (*kyi.lche*), a bitter drug for bile disorders and vessel-organ fever, and gives a bare *Gentiana* sp. (*zangs.tig*) for infectious fevers (rGyud-bzhi, Explanatory Tantra ch. 20 and 21, Clark tr. 1995). Those are congeners and therapeutic only, so any link for *G. crassicaulis* rests on them. No *bcud len* or rejuvenation assignment is recorded.
+
+**Practitioner's note.** Nothing to cultivate; a bitter, cooling plateau root with no practice role in the source read.
+
 ### Contraindications
 
 - **Cold-type / deficiency-cold patterns (CM).** A cooling, bitter herb is inappropriate in cold-damp *bi* without heat, or in Spleen/Stomach deficiency-cold with loose stools; it can aggravate.

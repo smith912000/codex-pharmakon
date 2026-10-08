@@ -56,6 +56,12 @@ The nephroprotective and antioxidant/anti-inflammatory findings map onto the cla
 - **Srotas:** Raktavaha (blood), Mūtravaha (urinary), Māṃsavaha (muscle/wound), Purīṣavaha (colon)
 - **Prabhāva:** The tanning-astringent contraction of raw and leaking tissue — consolidation of the breach
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** Sushruta lists *Dhava* in the Salasaradi group (which "destroys the germ of Kushtha" and absorbs deranged fat and Kapha) and in the Mushkakadi group, whose virtue is destroying fat and deranged Kapha (Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I). Dhava bark also enters wound-healing powders (Sutrasthana ch. 36, Vol. I). These are therapeutic attestations. No *rasayana* or *vajikarana* assignment was read, so no cultivation status is attested: grade (b). The equation with *Anogeissus latifolia* is the standard later identification, not given in the translation.
+
+**Practitioner's note.** Nothing. A wound-astringent and fat-reducing group-drug used for defined complaints; Sushruta gives it no long-term or vitality-building role.
+
 ### Contraindications
 
 - Strongly drying/astringent — caution in Vāta constitutions, constipation, dryness, and depletion.

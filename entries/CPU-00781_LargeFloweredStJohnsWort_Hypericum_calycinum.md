@@ -72,6 +72,14 @@ Graded honestly, including nulls:
 - **Folk (EF):** bitter, cool-drying; minor, poorly-attested local use.
 - **Kenetica synthesis:** a signature without a proven medicine; catalogued as a boundary case, cool and drying, with a real phototoxic edge.
 
+### Cultivation Register
+
+**Greek / Dioscorides (DMM).** No cultivation framing is attested for this species, which is not named in Dioscorides, De materia medica (Osbaldeston & Wood tr. 2000). Only congeners appear: *hyperikon* (3.171, translators' suggestion *H. perforatum*), *askuron* (3.172) and *androsaimon* (3.173), used as diuretic, for sciatica, fevers and burns. Those are genus-level therapeutic notes on other species and are not transferable to *H. calycinum*. The tag is unconfirmed for this plant; the "genus doctrine" described in the entry is not Dioscorides' text.
+
+**European folk / phytotherapy (EF).** No cultivation framing is attested. The entry's own sourced content describes *H. calycinum* as a south-eastern European ornamental and bank-stabiliser, whose history is horticultural, with at most a trade-label overlap with "St John's wort". It is a modern garden ornamental with no herbal record of its own that I could name, and no tonic or long-term role is recorded.
+
+**Practitioner's note.** Nothing. Grow it as ground cover if you like, but do not use it in place of *H. perforatum*; whatever is claimed for that species does not transfer.
+
 ### Contraindications
 
 - ⚠️ **Photosensitisation (class caution).** As a hypericin-bearing species, *H. calycinum* can act as a photosensitiser; avoid combining internal use with strong sun/UV exposure, and treat fair-skinned or already photosensitive individuals with particular care. This is documented phototoxicity, not a theoretical worry.

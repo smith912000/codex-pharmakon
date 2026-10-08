@@ -84,6 +84,12 @@ The peer-reviewed literature on labdanum/*Cistus* is modest compared with franki
 
 ---
 
+### Cultivation Register
+
+**Dioscorides / classical Greco-Roman (DMM).** Dioscorides gives ladanum no cultivation status and no subtle-body framing; the chapter offers a discipline of attention. Ladanum (*ladanon*) is the greasy matter combed from the beards and thighs of goats that browse a cistus-like shrub he calls *ledum*, or drawn off cords stretched across the bushes, then shaped into small balls. The best is sweet-smelling, somewhat green, soft, fatty and free of sand; Cyprian material is faulted as foul and resinous, and the Arabian and Libyan as of less worth. The link from that shrub to *Cistus creticus* is a modern editorial identification. Graded (b): therapeutic and provenance-assay attestation only (Dioscorides, De materia medica 1.128, Osbaldeston & Wood tr. 2000).
+
+**Practitioner's note.** Nothing here asks a cultivator to grow or take the resin for vitality. What the text teaches is assay: judge the gum by smell, colour, softness and absence of sand, and distrust its stated origin.
+
 ### Contraindications
 
 - **Skin sensitisation (fragrance allergy):** Labdanum absolute and cistus oil are recognised fragrance materials with potential for contact sensitisation in susceptible individuals; patch-test before topical use; observe IFRA dermal limits. **[USER: verify current IFRA status.]**

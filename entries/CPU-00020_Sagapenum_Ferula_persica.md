@@ -66,6 +66,12 @@ The umbelliferone / coumarin calcium-channel-modulating smooth-muscle mechanism 
 
 **Kenetica tier:** ◉ Qi primary — moving and dispersing cold stagnation of the Middle Burner; ☿ Shen secondary — the antispasmodic/nervine action on convulsion and spasm noted by the classical authors. **Dantian:** Middle Dantian.
 
+### Cultivation Register
+
+**Dioscorides / classical Greco-Roman (DMM).** Dioscorides frames sagapenum (*sagapenon*) as a drug, not a cultivated crop, and gives it no vital or cultivation status. He calls it the liquid of a ferula-like herb growing in Media, and teaches the assay: the best is transparent, yellow outside and white within, smells between silphium and galbanum, and is sharp to the taste. Uses are pain, venomous bites, uterine suffocation inhaled with vinegar, and clouding of the eyes, and it is an abortifacient. The equation of *sagapenon* with *Ferula persica* is a modern identification and the botanical source has long been debated. Graded (b): therapeutic and sensory-assay attestation, status unattested (Dioscorides, De materia medica 3.95, Osbaldeston & Wood tr. 2000).
+
+**Practitioner's note.** Nothing for a cultivator to do. The only usable discipline is the sensory test for colour, smell and sharpness, and the caution that the resin's botanical source is not secure.
+
 ### Contraindications
 
 - **ABSOLUTE — Pregnancy:** classically an emmenagogue/deobstruent acting on retained menses; the Ferula gums as a class carry uterine-stimulant warnings. Contraindicated in pregnancy.

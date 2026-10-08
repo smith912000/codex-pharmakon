@@ -99,6 +99,14 @@ Cooling, mildly bitter, gently astringent, drying; light, superficial, and dispe
 
 Its energetic weakness is not a defect to be talked around. It is the accurate classification of a plant with a modest sesquiterpene lactone load. The tradition's own instinct — using it topically and gently rather than internally and seriously — was better calibrated than the *casse-lunettes* name suggests.
 
+### Cultivation Register
+
+**Greek / Dioscorides (DMM).** Framed, status unattested. The only candidate is Dioscorides, De materia medica 3.8, *kentaurion makron* (Osbaldeston & Wood tr. 2000), a plant with a thick, juicy root two feet long taken in wine for hernia, convulsions, pleurisy, difficult breathing and old coughs, and applied to expel the menses. The translators list *Centaurea cyanus* only among Renaissance suggestions (Fuchs, Bauhin, Linnaeus), and the description of a large root does not fit an annual cornfield weed, so the identification is doubtful. Nothing in the chapter is a cultivation status.
+
+**European folk / phytotherapy (EF).** Framed, status unattested. The entry's own sourced material records a domestic eye remedy (French *eau de casse-lunettes*, flower-water as a wash or compress) and a quieter use of the flowers as a mild bitter and appetite stimulant. Cornflower is also an archaeophyte of cereal fields now threatened in the wild. These are folk uses and a conservation fact; no named herbal retrieved gives it a long-term tonic role or any vital-constitution status.
+
+**Practitioner's note.** Nothing to cultivate in the inner sense. Grow it rather than wild-harvest, and treat the eye water as a sterility hazard, not a discipline.
+
 ### Contraindications
 
 - **Asteraceae allergy.** The standing family contraindication. Sesquiterpene lactones are contact sensitisers; anyone reactive to ragweed, chamomile, feverfew, arnica, echinacea, marigold or chrysanthemum should avoid cornflower — including topically, and **especially** near the eye, where a contact-allergic reaction is considerably worse than the complaint being treated.

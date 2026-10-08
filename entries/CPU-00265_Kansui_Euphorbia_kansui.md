@@ -60,6 +60,12 @@ There are **no credible modern human efficacy trials** supporting self-use; the 
 - **Tibetan / Badianus:** Not attested.
 - **Dantian correspondence:** Not applicable — this is an acute attacking agent, not an energy-cultivation herb.
 
+### Cultivation Register
+
+**Shennong / classical Chinese (SBJ).** Classed in the lower grade (下品), the grade of drugs that specifically treat disease, are toxic, and are not for long-term taking. Gan sui (Radix Euphorbiae Kansui) is bitter, cold and toxic; it mainly treats enlarged abdomen, mounting conglomeration, abdominal fullness, puffy swelling of the face and eyes, and lodged rheum and abiding food, and breaks concretions and hardness (Shennong Bencao Jing, lower class, Gan Sui, Yang Shou-zhong tr. 1998). It has no long-term-taking statement and no nourishing role. The grade is attested for this drug, but it is a warning rather than a cultivation status. The match to Euphorbia kansui is a modern identification.
+
+**Practitioner's note.** Nothing. This is a toxic, lower-grade drug of the tradition's own attacking category, and the grading itself is the caution.
+
 ### Contraindications
 
 **This is the load-bearing section for this substance.**

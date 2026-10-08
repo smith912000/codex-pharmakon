@@ -59,6 +59,12 @@ Scutellaria baicalensis has an unusually **rich preclinical and mechanistic lite
 - **Tibetan / Badianus:** Not attested.
 - **Dantian correspondence:** Middle–Lower drain — moves heat and damp downward and out; a subtractive, cooling agent rather than a tonic.
 
+### Cultivation Register
+
+**Shennong / classical Chinese (SBJ).** Huang qin (Radix Scutellariae Baicalensis) is listed in the middle class (中品). The monograph is purely therapeutic: bitter and balanced, it mainly treats various kinds of heat, jaundice, intestinal afflux, diarrhoea and dysentery, expels water, frees blood block, and treats malign sores, flat abscesses, erosion of flesh and burns (Shennong Bencao Jing, middle class, Huang Qin, Yang Shou-zhong tr. 1998). There is no long-term-taking or life-nourishing statement, so the status is therapeutic only. The heat-clearing, damp-drying category is a later systematisation, and the identification with Scutellaria baicalensis is modern.
+
+**Practitioner's note.** A middle-grade, heat-clearing drug taken for a defined complaint and then stopped. The classic gives a cultivator nothing to use here.
+
 ### Contraindications
 
 - **Cold/deficiency patterns:** Being bitter and cold, it is classically contraindicated in Spleen/Stomach cold-deficiency (loose stools, poor appetite, cold limbs) and can worsen these — a core caution.

@@ -74,6 +74,14 @@ According to PubMed:
 
 Warm and dry, aromatic — the standard humoral reading for a cultivated sage of the *horminum* type, entering the digestion and "clearing." The classification is inherited from the classical *horminum* concept and from the plant's aromatic character; treat as coherent-but-inferred, and note the species-conflation caveat above.
 
+### Cultivation Register
+
+**Unani / Avicenna (CM).** No scholarly source was found tying annual clary (*Salvia horminum*, now *S. viridis*) to the Unani or Avicennan materia medica; the lookup returned only botanical and library catalogue pages, none naming this plant in an Arabic-tradition text. The entry's own CM statement (a warm aromatic digestive and seed-mucilage eye remedy) is an inference from the classical *horminum* label and is marked for verification, with no work cited. The CM tag is unconfirmed, and the content reads as inherited Mediterranean-herbal and European folk lore rather than a documented Unani attestation. Grade (c).
+
+**Greek / Dioscorides (DMM).** Dioscorides, *De materia medica* 3.145 (Osbaldeston & Wood tr. 2000), describes cultivated horminum; the translators' headnote lists *Salvia horminum* among several suggested identities, alongside *S. sclarea* and *S. pratensis*, so the match is uncertain. The text says a decoction in wine is held to be an aphrodisiac; with honey it cleans white spots on the cornea; smeared on with water it dissolves oedema and draws out splinters; the wild form is stronger. The seed-mucilage eyelid remedy and the digestive use in the entry are not in this chapter. Therapeutic only; no cultivation status. Grade (b).
+
+**Practitioner's note.** Nothing cultivation-specific is attested. A garden ornamental with a loosely pinned classical identity; do not treat it as a sage substitute.
+
 ### Contraindications
 
 - **Do not apply seeds or plant material to the eye.** The historic eye-cleansing use risks corneal abrasion and microbial keratitis; genuine eye complaints need sterile irrigation and clinical care.

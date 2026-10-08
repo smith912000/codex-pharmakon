@@ -74,6 +74,14 @@ According to PubMed:
 
 In the Western herbal tradition the leaf reads as **cool, dry and astringent** — the temperament of a tannin-bearing Rosaceae leaf that tightens and gathers relaxed tissue. A leaf-specific temperament assigned to a named classical authority (Dioscorides/Avicenna) for the *labour-preparation* use is **[USER: verify]**; the general astringent character is well supported by the plant's chemistry.
 
+### Cultivation Register
+
+**Unani / Avicenna (CM).** No scholarly source was found tying red raspberry (*Rubus idaeus*) to the Unani or Avicennan materia medica; the search returned only general herb-society, Eclectic-era and thesis pages, none of them an Arabic-tradition source. The entry's own CM statement is a generic claim about *Rubus* astringents, with the labour-preparation doctrine explicitly marked unverified as a classical claim. The CM tag is unconfirmed, and the entry's content reads as European folk and midwifery practice (EF) rather than Unani. No *ruh*, innate-heat or radical-moisture framing is attested. Grade (c).
+
+**Greek / Dioscorides (DMM).** Dioscorides, *De materia medica* 4.38 (Osbaldeston & Wood tr. 2000), describes batos idaia, which the translators identify as *Rubus idaeus*: more tender than the bramble of 4.37, with small prickles. It does the same things as the bramble, which binds and dries and stops flows of the bowels, and the flower, pounded with honey, helps eye inflammation and erysipelas; taken in water it is given for gastritis. The recorded uses are therapeutic only; no use of the leaf in pregnancy or labour appears, and no cultivation status is given. Grade (b).
+
+**Practitioner's note.** Nothing cultivation-specific is attested. The "partus preparator" role is a later European midwifery tradition and should not be read back into either text.
+
 ### Contraindications
 
 - **Pregnancy is a clinician-supervised decision.** Do not self-prescribe timing or dose. First-trimester use is traditionally avoided. Because in-vitro data show the leaf can affect uterine/smooth-muscle activity in *either* direction, and a possible negative effect on cervical ripening has been raised, use in pregnancy must be discussed with a midwife/obstetrician.

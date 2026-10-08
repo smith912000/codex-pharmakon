@@ -54,6 +54,12 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Unani/folk mapping:** hot-dry; carminative, stomachic, aromatic digestive.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the warming, aromatic, dampness-transforming and qi-moving axis; a fragrant "wake the damp middle" digestive of the *Amomum* group.
 
+### Cultivation Register
+
+**Southeast Asian traditional medicine (SEA).** No cultivation framing is attested. The entry's own sourced material places the drug in two registers: the Chinese materia medica (as Bai Dou Kou, whose framing is given under the Chinese heading and not repeated here) and the regional spice trade and cookery of Southeast Asia, where it is a culinary aromatic. No specific Khmer, Thai, Malay or other Southeast Asian therapeutic or cultivation tradition for this fruit was read in preparing this entry, so none is described and no regional status is asserted. Graded (c).
+
+**Practitioner's note.** Nothing beyond ordinary culinary use. No regional cultivation practice is recorded in the sources available.
+
 ### Contraindications
 
 - **Heat patterns / yin-deficiency with dryness (CM).** A warm, drying aromatic is contraindicated where there is heat or dryness from yin deficiency.

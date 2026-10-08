@@ -48,6 +48,13 @@ Evidence grade: **preclinical.** The neutrophil/anti-inflammatory data give a me
 - **Dantian affiliation:** **middle** (Liver/Gallbladder bitter) with joint/sinew channel action.
 - **Kenetica Qi/Shen tier:** ◐ **Yin-cool** — cooling, bitter, heat-clearing, damp-resolving.
 
+
+### Cultivation Register
+
+**Tibetan medicine (FMT).** *Gentiana straminea* is named in the rGyud-bzhi, glossed by Clark under the Tibetan drug *kyi.lche*. It is listed among bitter-tasting medicines (Explanatory Tantra ch. 19), described as bitter with coarse power curing vessel-organ fever and bile fever (*mkhris-pa*), and placed in the class of medicines for bile disorders (Explanatory Tantra ch. 20 and 21; Clark tr. 1995). This is a therapeutic and materia-medica attestation, framed within the three *nyes pa*, with no *bcud len* or rejuvenation status recorded, so it carries no cultivation status in this tradition.
+
+**Practitioner's note.** Nothing to cultivate; a bitter cooling remedy for bile heat, used for a defined disorder.
+
 ### Contraindications
 
 As for Qín Jiāo (see I_315): avoid in cold-type / deficiency-cold *bi* without heat and in Spleen/Stomach deficiency-cold with loose stools; caution with marked qi/blood deficiency and in pregnancy [USER: verify]. Isolated secoiridoids are experimental constituents with no established standalone human safety profile.

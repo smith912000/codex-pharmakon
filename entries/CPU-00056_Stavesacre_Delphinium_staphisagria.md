@@ -57,6 +57,12 @@ Codex policy: mechanism stated generally; named citations to be supplied and ver
 - **Folk-European mapping:** "lousewort/lice-bane" — the household and institutional pediculicide; drastic emetic/purgative in older internal use.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the acrid, irritant, "expel the parasite / force out" axis; used at the skin rather than internally, kin by alkaloid chemistry to aconite (I_004).
 
+### Cultivation Register
+
+**Dioscorides / classical Greco-Roman (DMM).** Dioscorides describes *staphis agria* (marked poisonous) by its jagged, dark leaves like the wild vine, a flower like woad, and triangular tawny-yellow and black seeds in small pods, white and sharp within. No habitat, cultivation or vital status is stated. Ten or fifteen grains pounded in honey and water purge thick matter by vomiting, with a warning of choking and burning of the jaws and an instruction to keep walking; bruised and rubbed on with oil it is used for *pthiriases* (rendered 'psoriasis' by the translators). The identification with *Delphinium staphisagria* is the translators' gloss. Graded (b): therapeutic, status unattested (Dioscorides, De materia medica 4.156, Osbaldeston & Wood tr. 2000).
+
+**Practitioner's note.** Nothing to take for vitality. The text's own use is a dangerous emetic and a topical; the transferable discipline is identification by seed and flower, and respect for dose.
+
 ### Contraindications
 
 - **Internal use — avoid.** Toxic aconite-type alkaloids; obsolete and dangerous internally; no antidote in the field.

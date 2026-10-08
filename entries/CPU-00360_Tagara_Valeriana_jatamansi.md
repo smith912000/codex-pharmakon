@@ -63,6 +63,12 @@ According to PubMed:
 - **Doṣa action:** Primarily *Vāta-Kapha-śāmaka* (calms Vāta and Kapha); described as broadly *tridoṣa*-balancing in its nervine role. Its warmth means excess can aggravate Pitta.
 - **Karma (actions):** *Medhya* (mind-supporting), *nidrā-janana* (sleep-promoting), *vāta-anulomana* (regulates Vāta's downward flow), *śūla-praśamana* (antispasmodic/pain-settling), *dīpana* (mildly kindling digestion).
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** Tagara is named in the Sushruta Samhita only as a therapeutic ingredient, and no rasayana or vajikarana assignment was found for it. It appears among the drugs of the Eladi group in the chapter on the classification of drugs by therapeutic property (Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I). It also appears in a plaster for bloodletting wounds (Sutrasthana ch. 14, Vol. I), in an infant ghee preparation said to improve the child's health, strength, intellect and longevity (Sharirasthana ch. 10, Vol. II), and in the Gandha-taila for fractures (Chikitsasthana ch. 3, Vol. II). Its status is therefore (b): framed within remedies and a gana, cultivation status unattested. Terms such as ojas are not asserted for it.
+
+**Practitioner's note.** Nothing specific: tagara is a remedy used for a defined complaint, and the classical text records no long-term or rejuvenative regimen for it.
+
 ### Contraindications
 
 - Warming potency may **aggravate Pitta** / heat conditions if overused.

@@ -122,6 +122,14 @@ Finger millet is not an intervention. It is a **dietary substrate**, and it belo
 
 Kenetica classifies *Eleusine coracana* as a **Substrate Staple**: a food whose effects are cumulative, dietary, and invisible on any single exposure; whose virtue is measured in decades and famines rather than in doses; and whose active principle is inseparable from its anti-principle. **Filed additionally under *Processing-Dependent Substances*:** materials whose traditional preparation is not a delivery convenience but a chemical necessity, and whose modern convenience forms silently discard the very step that made the tradition work.
 
+### Cultivation Register
+
+**Avicenna / Unani (CM).** No cultivation framing is attested. No scholarly source naming finger millet in the Canon or in an Indian Unani-Tibb work was found, and the Canon's simples book is not available to check. Ragi is an African-origin crop carried to India, so a classical Perso-Arabic attestation would be surprising. The entry itself carries no Unani material. The Unani vocabulary of innate heat, radical moisture and *ruh* therefore cannot be applied, and the tag is unconfirmed.
+
+**Ayurveda (SS).** The Sushruta Samhita as rendered by Bhishagratna does not name finger millet or *Eleusine*. The nearest candidate is Madhulika, listed among the *kudhanya* (lesser grains) as "sweet, cool and demulcent" (Sushruta Samhita, Sutra sthana ch. XLVI, Bhishagratna tr., Vol. I). The translator glosses a wine made from Madhulika as "a kind of small barley" (Sutra ch. XLV, Vol. I) and renders the same name as Guduchi in other recipes, so the identification with ragi is later and unsettled. Even if accepted it would be a dietary classification only, with no *rasayana* or *vajikarana* assignment read. No cultivation status is attested.
+
+**Practitioner's note.** Nothing cultivation-specific. Ragi is a staple, weaning and convalescent grain; neither tradition read here assigns it a vitality or longevity role.
+
 ### Contraindications
 
 Finger millet is a food with a multi-millennial safety record and there is no toxicity to report. The cautions below are nutritional and practical, not toxicological.

@@ -56,6 +56,12 @@ The neuropharmacology of magnolol and honokiol is **well developed preclinically
 - **Tibetan / Badianus:** Not attested.
 - **Dantian correspondence:** Middle–Lower descending — moves and lowers stuck Qi through the middle burner; an un-blocking, releasing agent.
 
+### Cultivation Register
+
+**Shennong / classical Chinese (SBJ).** The Shennong Bencao Jing monograph for hou po could not be read: the woods section of the Yang Shou-zhong translation (1998) is not legible in the copy available, and no scholarly source stating its san pin grade or any long-term-taking wording was found in a limited search. Its grade and any cultivation status are therefore unattested here. The tag stands only as a therapeutic framing, and the equation of the classical drug name with Magnolia officinalis is a modern identification (the Japanese Kampo name koboku belongs to a separate tradition and is not used here).
+
+**Practitioner's note.** Nothing can be said about a classical cultivation status for magnolia bark. It is a drug of the later qi-moving, damp-transforming category, and its grade in the classic remains to be verified.
+
 ### Contraindications
 
 - **Qi/Yin deficiency without stagnation:** As a warm, drying, Qi-moving herb, it can further deplete in true deficiency states or dryness — classically contraindicated where there is no real stagnation to move.

@@ -82,6 +82,12 @@ Codex policy: monoterpene-rich aromatic carminative chemistry is securely stated
 
 ---
 
+### Cultivation Register
+
+**Tibetan medicine (FMT).** Amomum tsaoko is not named in either translation of the rGyud-bzhi checked (Clark 1995; Men-Tsee-Khang 2011). The only large cardamom in the materia medica is ka.ko.la, glossed as Greater Cardamom, Amomum subulatum (rGyud-bzhi, Explanatory Tantra ch. 20, Clark tr. 1995), which the Men-Tsee-Khang translation says cures cold disorders of the stomach and spleen ("Kakola", Explanatory Tantra ch. 20). That is a different species, and a "black cardamom" label in a glossary does not make it this one, so nothing is transferred. No bcud-len or rejuvenation status is attested. Grade (c).
+
+**Practitioner's note.** Nothing is attested for this species in the Tibetan texts; it is a culinary spice with no cultivation use in this tradition.
+
 ### Contraindications
 
 - **Yin deficiency / heat patterns:** tsao-ko's warm, drying, aromatic nature is contraindicated where there is dryness, thirst, red tongue without coat, night sweats or interior heat — it will aggravate Yin depletion.

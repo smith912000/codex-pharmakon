@@ -60,6 +60,12 @@ According to PubMed, there is **very little pharmacological literature specific 
 - **Srotas (channels):** primarily *annavaha* (digestive) and *rasavaha* (nutrient-fluid); secondarily *raktavaha*.
 - **Gaṇa membership:** grouped with the *śimbī-dhānya* (pulses) and the *Mudgaparṇī*-type wild-gram dravyas; not a member of the Daśamūla or the sharp therapeutic gaṇas.
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** The Sushruta Samhita names *Kshudra-Saha* as a member of the Vidarigandhadi group, whose stated uses are against deranged Vayu and Pitta, phthisis (*shosha*), gulma, aching limbs, upward-breathing and cough (Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I). This is a therapeutic group membership only. The translation gives no botanical identification, and the species equation with *Phaseolus trilobus* is a later identification. No *rasayana* or *vajikarana* assignment was read, so no cultivation status is attested: grade (b).
+
+**Practitioner's note.** Nothing. It is a group-listed drug with an unsettled identity; the tradition's text records no long-term or vitality-building role for it.
+
 ### Contraindications
 
 - Being cooling, light and Vāta-tending-dry, it is less suited to cold, low-agni, heavily Vāta-aggravated states unless well-cooked with warming, unctuous adjuncts.

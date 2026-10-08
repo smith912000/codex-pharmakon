@@ -70,6 +70,14 @@ According to PubMed:
 
 Chinese materia medica: **acrid (pungent), slightly warm; Lung and Liver channels.** Category: exterior-releasing, acrid-warm, with a wind-dispersing and rash-venting emphasis; the charred form is re-categorised toward the blood/haemostatic function. Energetics stated per that tradition's own framework; not an independent physical measurement.
 
+### Cultivation Register
+
+**Shennong / classical Chinese (SBJ).** The herb appears in the classic under the older name Jia Su, which the translator identifies as *Herba Schizonepetae Tenuifoliae*, "the current name of this medicinal" being Jing Jie. It is listed as acrid and warm in the middle class, treating cold and heat, mouse fistulas, scrofulas and sores, breaking bound qi, precipitating blood stasis and eliminating damp impediment (Shennong Bencao Jing, middle class, Jia Su, Yang Shou-zhong tr. 1998). There is no "protracted taking" statement and no body-lightening or life-lengthening claim, so the status is therapeutic only: the drug is framed as a remedy, not a nourisher of life. The exterior-releasing and rash-venting doctrine of Jing Jie in the entry is not in this text and belongs to later practice.
+
+**Tibetan medicine (FMT).** Japanese catnip (*Schizonepeta*, or *Nepeta* as a near relative) is not named in the rGyud-bzhi as rendered by Clark (1995) or in the Men-Tsee-Khang (2011) Root and Explanatory Tantras. No cultivation framing is attested.
+
+**Practitioner's note.** Nothing. A middle-class, short-course drug for wind and skin complaints; the classic gives no basis for long-term use.
+
 ### Contraindications
 
 - **Pregnancy — caution/avoid.** The oil contains **pulegone**, an established abortifacient-associated and hepatotoxic monoterpene in the pennyroyal literature; concentrated oil is contraindicated in pregnancy and the herb should be used in pregnancy only under qualified supervision.

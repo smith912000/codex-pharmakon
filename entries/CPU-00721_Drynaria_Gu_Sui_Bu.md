@@ -132,6 +132,14 @@ Net: a fern whose name is a clinical claim, with a consistent multi-model precli
 
 [USER: verify] channel attribution and action-category wording against your reference pharmacopoeia edition before print.
 
+### Cultivation Register
+
+**Shennong / classical Chinese (SBJ).** Gu sui bu is not found in the readable herb monographs of the Yang Shou-zhong translation (1998), and the woods and fruit sections could not be read, so absence is not proof. No scholarly source was found giving it a san pin grade or a long-term-taking statement. No cultivation framing is attested here; the SBJ tag is unconfirmed, and the drug's Chinese use as a bone-mending, kidney-tonifying agent is described in the entry as a later, therapeutic register.
+
+**Tibetan medicine (FMT).** Not named in the rGyud-bzhi as Drynaria fortunei or Drynariae rhizoma. The only Drynaria in the Clark translation is Drynaria propinqua, glossed under the fern ldum.bu.re.ral, a different species, and nothing was found in the Men-Tsee-Khang Root and Explanatory Tantra (2011). No cultivation framing is attested, and the tag is unconfirmed (rGyud-bzhi, Root/Explanatory Tantra; Clark tr. 1995).
+
+**Practitioner's note.** Nothing. Neither tradition records a cultivation role for this rhizome.
+
 ### Contraindications
 
 - **⚠️ PREGNANCY — avoid.** Gu Sui Bu is a **blood-invigorating** (活血) drug, a class traditionally contraindicated in pregnancy, *and* it is demonstrably ER-active. No pregnancy safety data was retrieved. Avoid in pregnancy and lactation.

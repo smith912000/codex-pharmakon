@@ -85,6 +85,14 @@ Sweet, cooling-to-neutral, moist, nutritive; classified with the juicy fruit-veg
 
 The pungent-cultivar classification — acrid, hot, dispersing, entering Spleen and Stomach, expelling cold-damp — is recorded here **only to be excluded**. It is not this substance's energetics. It is a different chemotype's energetics wearing the same binomial. This entry's classification is, unusually, defined as much by what has been bred out as by what remains — which is itself the doctrine worth keeping.
 
+### Cultivation Register
+
+**Later Chinese medicine (TCM).** No cultivation framing is attested. *Capsicum* reached China only after the Columbian exchange, so it has no place in the classical Bencao stratum or its *san pin* grading. Where later Chinese sources treat *là jiāo* as a drug, that doctrine belongs to the pungent cultivars; the sweet pepper (*tián jiāo*) is, on this entry's account, a kitchen vegetable without drug indications. No Bencao passage for this cultivar group was located, so no grade is recorded.
+
+**Badianus / Aztec-Nahua (BM).** The tradition is claimed at the level of chilli generally, as a culinary-medicinal item, not for the sweet bell pepper, which is a later selection; attributing Badianus use to it would be anachronistic. No cultivation status is attested. The Badianus manuscript (1552) is itself naturalistic; *tonalli*, *teyolia* and *ihiyotl* are reconstructed from later ethnohistory (López Austin), not found in the codex. Which codex recipes name chilli is unverified here.
+
+**Practitioner's note.** Nothing. Bell pepper is a food in both frames; the cultivation-relevant record belongs to pungent chilli, not this cultivar group.
+
 ### Contraindications
 
 - **Nightshade sensitivity.** A subset of individuals report symptom aggravation (joint pain, GI upset, skin reactivity) with Solanaceae. The mechanism is not established and controlled evidence is thin — the Codex neither endorses the nightshade-elimination doctrine nor dismisses the reports. Where a person consistently reproduces symptoms on exposure, that is their data and should be respected without being generalised.

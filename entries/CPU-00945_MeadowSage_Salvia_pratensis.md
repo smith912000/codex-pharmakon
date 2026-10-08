@@ -75,6 +75,14 @@ Claims graded for *S. pratensis* specifically:
 
 The Warm–Dry classification carried in the header is an **inference by genus analogy** to *S. officinalis*, whose Unani/Greek reading as warming, drying, nervine and styptic is well attested. No independent classical energetic grading of *S. pratensis* as a distinct drug survives; the meadow species was not the sage the humoral authors were describing. Recorded here as inferred, not attested.
 
+### Cultivation Register
+
+**Avicenna / Unani (CM).** (c) Absent. No scholarly Unani source naming *Salvia pratensis* could be found; the Canon was not available to consult directly, and the limited searches made of Ibn al-Baytar-era identification scholarship returned nothing for this species. The entry's own CM text concerns the aromatic Mediterranean sage and says no basis exists for reading the meadow species into it. The Unani frame of innate heat and radical moisture as a finite endowment is not applied to this plant.
+
+**Greek / Dioscorides (DMM).** (b) Framed, status unattested, and only by congener. Dioscorides, De materia medica 3-145 (Osbaldeston & Wood tr. 2000), *orminon emeron*, describes a cultivated horminum (identified by the translators as *Salvia sclarea*) and adds that "the wild one is stronger", used in compound ointments. The translators list *S. pratensis* only as a Renaissance (Fuchs/Linnaeus) suggestion for that wild kind, so the match is not secure. The attested uses are therapeutic (an aphrodisiac wine decoction, eye spots, splinters); no cultivation status is recorded.
+
+**Practitioner's note.** Nothing. Neither stream supports a cultivation use of meadow sage; the Greek chapter is a therapeutic note on a different, cultivated sage.
+
 ### Contraindications
 
 - **Thujone (genus/precautionary note, not measured for this species):** high-thujone sage essential oils are neurotoxic and abortifacient in excess and are restricted in food use. *S. pratensis* oil is reported as linalool-dominant and its thujone level is **not assumed**; nonetheless, until species-specific quantification is confirmed, avoid concentrated essential-oil ingestion and prolonged high-dose use, especially in pregnancy and epilepsy — the standard precaution applied across aromatic *Salvia*.

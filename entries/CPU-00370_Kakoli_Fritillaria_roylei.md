@@ -69,6 +69,12 @@ Evidence grade: **preclinical (in vitro enzyme inhibition and antiplasmodial ass
 - **Srotas / dhātu:** nourishes rasa, rakta, māṃsa, śukra, and stanya; a builder of ojas; acts across the nutritive srotas
 - **Gaṇa / group:** **Aṣṭavarga** ("group of eight"); *Jīvanīya* and *Bṛṃhaṇīya* classical groups; core of Cyavanaprāśa-type rasāyanas
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** Kakoli is named in the Kakolyadi group (Sutrasthana ch. 38, Bhishagratna tr., Vol. I). The text describes the group, not Kakoli singly, as subduing Pitta, blood and Vayu, as a galactagogue, as "a restorative and an elixir", and as augmenting virile potency. Kakoli also appears as a listed ingredient in poultices and medicated oils (Chikitsasthana ch. 5 and ch. 37, Vol. II). No rasayana or vajikarana assignment was found for Kakoli itself, so this is (b): a group-level, therapeutic framing with the species' own cultivation status unattested. The Bhishagratna text does not use the term Ashtavarga, and the identification of Kakoli with Fritillaria roylei is a later one, made because the classical drug is not securely identified.
+
+**Practitioner's note.** Nothing: no regimen for the individual substance is recorded, and the group description cannot be transferred to this species.
+
 ### Contraindications
 
 - **Kapha excess / āma / obesity / sluggish digestion:** the heavy, sweet, unctuous, cooling nature can aggravate Kapha, mucus, and undigested-toxin states; use with dīpana support or avoid.

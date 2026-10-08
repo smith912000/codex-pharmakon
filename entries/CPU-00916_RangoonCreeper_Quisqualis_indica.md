@@ -75,6 +75,14 @@ According to PubMed:
 
 Sweet and warm, entering the Spleen and Stomach channels in the Chinese scheme — the "gentle-on-children" profile that made it the paediatric worm remedy of choice. The energetic reading is coherent with the tradition; the sweetness is a genuine sensory trait of the roasted seed, not merely a doctrinal assignment.
 
+### Cultivation Register
+
+**Shennong / classical Chinese (SBJ).** Shi Jun Zi is not found in the legible herb section of the Yang Shou-zhong translation (1998). The drug is generally held to enter the Chinese materia medica well after the Shennong stratum, and no scholarly source retrieved places it in the classic or gives it a *san pin* grade. No cultivation status is attested. Its role as a paediatric anthelmintic is later practice, and the tag may belong under TCM rather than SBJ.
+
+**Ayurveda (SS).** *Quisqualis indica* (now *Combretum indicum*) is not named in the Sushruta Samhita as rendered by Bhishagratna: neither the Latin name nor any Sanskrit equivalent appears in the translation or its glossary. The entry itself concedes that its Sushruta attribution rests on later Ayurvedic practice. No therapeutic, *rasayana* or *vajikarana* assignment is attested in this text, and no cultivation framing is available.
+
+**Practitioner's note.** Nothing. A seed given in a limited count for worms, with no long-term or cultivation use in either tradition read.
+
 ### Contraindications
 
 - **Dose ceiling is the governing safety fact.** Do not exceed the small traditional seed count. Overconsumption is associated with hiccups, dizziness, vomiting and — given the excitotoxic quisqualic acid content — a real neurotoxic risk.

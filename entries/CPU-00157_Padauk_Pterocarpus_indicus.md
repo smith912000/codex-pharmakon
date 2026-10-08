@@ -69,6 +69,12 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Ayurvedic mapping (genus-adjacent):** *rakta-prasadana* (blood-clearing) and astringent (*kashaya rasa*), *pitta-* and *kapha-*reducing; the genus's *vijayasar* member is a classical *prameha* (diabetes/metabolic) drug.
 - **Kenetica Qi/Jing tier:** ◉ **Qi** for the blood-cooling, astringent, stasis-resolving action, with a secondary ◈ **Jing** ascription for connective-tissue and glycaemic-metabolic support.
 
+### Cultivation Register
+
+**Southeast Asian traditional medicine (SEA).** No cultivation framing is attested. The entry places the tree in Southeast Asian folk medicine and describes its red heartwood and kino as astringent and blood-cooling, but it does so through a genus-level mapping across *Pterocarpus*, not through a specific Philippine, Malay, Indonesian or Burmese source for this species. No such regional text or ethnobotanical account was read in preparing this entry, so no regional therapeutic or cultivation status is asserted. Graded (c).
+
+**Practitioner's note.** Nothing. The entry itself marks this a specialist-only material, and no regional practice of cultivation is recorded in the sources available.
+
 ### Contraindications
 
 - **Cold-deficiency / dryness patterns:** a cooling astringent can aggravate cold, dry, or atrophic presentations; not a tonic for the depleted-and-cold athlete.

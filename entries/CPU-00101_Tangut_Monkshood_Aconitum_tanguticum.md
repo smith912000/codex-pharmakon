@@ -52,6 +52,12 @@ Codex policy: mechanism stated securely; named citations to be supplied and veri
 - **Tibetan mapping:** *bong-nga/bong-dkar* — a potent processed drug used (in the relevant species/form) for "hot" disorders — fever, inflammation, infection; handled as a poison requiring detoxification.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** for the action on febrile/inflammatory "hot" disorders, with a ☿ **Shen** ascription reflecting its life-or-death margin and deep systemic (cardiac/neural) reach — kin to the other aconites.
 
+### Cultivation Register
+
+**Tibetan medicine (FMT).** Aconitum tanguticum is not named in either translation of the rGyud-bzhi checked (Clark 1995; Men-Tsee-Khang 2011). The Explanatory Tantra's materia medica (ch. 20) treats aconites under the bong.nga drugs, glossed there as other species (Aconitum naviculare, A. sinense, A. heterophyllum, A. autumnale, A. ferrox), and gives no identification with this species. Matching Tibetan aconite names to Linnaean species is modern and disputed, so no attribution to A. tanguticum is made. No bcud-len or rejuvenation status is recorded for it. Grade (c).
+
+**Practitioner's note.** Nothing. This is a highly toxic root; where the tradition uses aconites it is as physician-prepared medicine, and there is no self-directed cultivation use.
+
 ### Contraindications
 
 - **Raw/unprocessed material — absolute prohibition.** Lethal; small margin.

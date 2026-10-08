@@ -55,6 +55,12 @@ Attribution: findings from PubMed.
 - **Tibetan (rGyud-bzhi context):** peach kernels used regionally as oil-bearing seeds; `[USER: verify]` specific indication.
 - **Dantian:** lower/middle — blood-level de-stagnation and bowel descent.
 
+### Cultivation Register
+
+**Shennong / classical Chinese (SBJ).** The Shennong Bencao Jing monograph for tao he ren (the peach kernel) could not be read: the fruit section of the Yang Shou-zhong translation (1998) is not legible in the copy available, and no scholarly source stating its san pin grade or any long-term-taking wording was found in a limited search. Its grade and any cultivation status are therefore unattested here. The tag is a therapeutic framing only (blood stasis, bowel), and the identification of the classical drug with Prunus persica is modern.
+
+**Practitioner's note.** Nothing can be said about a classical cultivation status for peach kernel. It is a blood-moving drug of the therapeutic register, and its grade in the classic remains to be verified.
+
 ### Contraindications
 
 - **Pregnancy — contraindicated.** Blood-breaking action can threaten pregnancy; classical caution.

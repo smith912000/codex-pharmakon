@@ -71,6 +71,12 @@ According to PubMed, *Ficus racemosa* has the most consolidated modern review ev
 - **Gaṇa membership:** **Panchavalkala** (five astringent barks) and **Kṣīrī-vṛkṣa** (milk-trees); allied to the Nyagrodhādi gaṇa
 - **Prabhāva:** Its β-sitosterol-linked antidiabetic action and its ritual/"ever-fruiting" identity
 
+### Cultivation Register
+
+**Ayurveda (SS).** Audumvara (Udumbara) is named in the Nyagrodhādi gaṇa (Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I), described as beneficial in ulcers and disorders of the uterus and vagina, astringent, favouring union of fractures and curative in haemoptysis. It is listed among the milk-exuding trees used to heal ulcers (Sutrasthana ch. 36), its fruit decoction is given in a cake for a threatened pregnancy (Sarirasthana ch. 10, Vol. II), and its bark serves as splints for fractures (Cikitsasthana ch. 3). Twigs of "Oudumvara" are also named among the sacrificial woods for the homa at a pupil's initiation (Sutrasthana ch. 2), a ritual use unrelated to dosing. These are therapeutic and ritual attestations; no rasāyana or vājīkaraṇa assignment was found, so the status is (b). The equation with *Ficus racemosa* is the translator's and modern botany's.
+
+**Practitioner's note.** Nothing to cultivate: in the classic it is an astringent wound, fracture and obstetric drug, and a ritual wood. No rejuvenative status is attested for it.
+
 ### Contraindications
 
 - **Vāta aggravation / constipation:** the dry, astringent, binding quality can worsen Vāta-dryness and constipation — pair with unctuous adjuvants.

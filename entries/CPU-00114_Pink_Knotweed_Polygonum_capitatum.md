@@ -53,6 +53,12 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Chinese Medicine / Miao mapping:** **Tou Hua Liao** — bitter, (sour), cool; Kidney, Bladder; clears heat, drains damp-heat, promotes urination, resolves stones, cools blood, resolves toxicity.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the bitter-cooling, damp-heat-clearing, diuretic axis; a focused urinary-tract herb.
 
+### Cultivation Register
+
+**Later Chinese medicine (TCM).** Framed, status unattested. The entry places Pink Knotweed (*tóu huā liào*) in southwest-Chinese and Miao ethnomedicine and in Himalayan folk use, as a bitter, cooling herb that clears damp-heat from the urinary tract. That is a therapeutic frame. No named Bencao passage for this herb was located, so no *san pin* grade is recorded, and the entry's own sourced content assigns it no cultivation status, only a therapeutic one. The Miao and Himalayan strands are regional ethnomedicine and are not to be read as the Bencao tradition.
+
+**Practitioner's note.** Nothing. This is a short-course herb for a defined urinary complaint, not a substance for long-term cultivation.
+
 ### Contraindications
 
 - **Cold / deficiency urinary patterns.** A cooling, draining herb is contraindicated where dysuria is from cold or deficiency rather than damp-heat.

@@ -104,6 +104,12 @@ No indigenous South American energetic classification is available to this entry
 
 The one traditional read that is both indigenous and defensible is non-energetic and functional: annatto is a **surface** plant. Its uses cluster on the skin and on the outside of things — paint, sun and insect barrier, skin complaints, and the colouring of food rather than its nourishment. That the modern evidence base is also strongest at the surface (pigment chemistry, topical/cosmetic, contact and ingestion hypersensitivity) and weakest in the interior (no human therapeutic efficacy anywhere) is a coincidence worth noticing without over-reading.
 
+### Cultivation Register
+
+**South American indigenous ethnobotany (SA).** The entry reports annatto aril paste as body and face paint across Amazonian peoples, with the Tsáchila of Ecuador named as closely identified with it, used in ceremonial, cosmetic and protective contexts, and as a skin remedy, with a separate leaf decoction use. No named scholarly ethnography was consulted for this entry, so these are framed uses with no cultivation status, *dieta* or specialist role attested. Painting is a ritual and cosmetic practice, not a regimen. The entry itself treats the "cooling" quality as a later creole humoral overlay, and it is not applied here.
+
+**Practitioner's note.** Nothing cultivation-specific beyond the Tsáchila and Amazonian body-paint custom as reported; no regimen is attested.
+
 ### Contraindications
 
 - **Hypersensitivity — the principal real risk.** Annatto is a documented cause of IgE-mediated food-colour hypersensitivity, with urticaria, angioedema and at least one case of anaphylaxis with severe hypotension. Confirmed by placebo-controlled oral challenge. Anyone with a known annatto reaction must avoid it — and must be warned that avoidance is difficult, because E160b is pervasive in cheese, butter, margarine, smoked fish, cereals and snack foods and is not always conspicuous on labels.

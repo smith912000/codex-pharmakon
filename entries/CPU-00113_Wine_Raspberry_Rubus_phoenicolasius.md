@@ -53,6 +53,12 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Chinese Medicine mapping:** **Fu Pen Zi** (group) — sweet, sour, slightly warm; Kidney, Liver; tonifies/secures kidney essence, restrains urine, assists yang, brightens eyes.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the astringent, warming, kidney-consolidating ("stabilise and bind") axis; a gentle tonic-astringent berry.
 
+### Cultivation Register
+
+**Later Chinese medicine (TCM).** Framed, status unattested. This species is not the official Fu Pen Zi (usually *Rubus chingii*); the entry places it with the Fu Pen Zi group by shared character, so any claim here is by group membership, not a Bencao entry under this name. The group is described as a kidney-tonifying astringent used for failure of consolidation (emission, frequent urination, enuresis). That is a therapeutic frame. No named Bencao passage or *san pin* grade for this species was located, and none is asserted for the group; the entry's own sourced content records no cultivation status.
+
+**Practitioner's note.** Nothing. It is a fruit used for defined complaints; the tradition as recorded here supplies no long-term cultivation practice for this species.
+
 ### Contraindications
 
 - **Heat with scanty/painful or difficult urination (CM).** The astringent action can aggravate; contraindicated in damp-heat urinary patterns.

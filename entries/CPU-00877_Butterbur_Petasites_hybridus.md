@@ -79,6 +79,14 @@ Honest deflation, stated plainly: the crude plant and any home preparation (tea,
 
 Read as **warm and dry, resolvent/discutient** — a corrector of cold, damp, boggy stagnation, mirroring its wet habitat and broad dispersing leaf. This reading is inferred from the external wound/swelling use and the plant's signature; it is not a securely codified Hot/Cold degree in the surviving DMM or CM text, so it is offered as interpretation, not attribution.
 
+### Cultivation Register
+
+**Unani / Avicenna (CM).** No scholarly source tying *Petasites hybridus* to the Unani or Avicennan materia medica was found in the sources consulted; searches for Arabic or Unani butterbur returned only general botanical and herbal pages. The entry's own "CM" paragraph cites no Unani work and says the attribution is unconfirmed, and its warm-dry "discutient" reading is an inference from habitat and signature. The CM tag is unconfirmed; no cultivation framing (innate heat, radical moisture, *ruh*) is claimed (c).
+
+**Greek / Dioscoridean (DMM).** Dioscorides' *petasites* (De materia medica 4.108, Osbaldeston & Wood tr. 2000) is glossed by the translators as *Petasites hybridus*, with *P. fragrans* and *P. albus* as other usages. The text describes a stalk over a foot high with one large hat-like leaf "like a mushroom," pounded and applied to malignancies and eating ulcers. No cultivation status is recorded (b): only an external therapeutic use, and a description that serves recognition.
+
+**Practitioner's note.** Nothing. The only attested use is a crude leaf applied externally; neither tradition read here supports long-term or internal use, and the modern extract is a different substance.
+
 ### Contraindications
 
 - **Raw plant, tea, and any non-PA-certified preparation: do not ingest.** Unsaturated pyrrolizidine alkaloids are hepatotoxic and carcinogenic; hepatic veno-occlusive disease and liver cancer are the class risks.

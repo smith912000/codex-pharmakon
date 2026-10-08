@@ -55,6 +55,12 @@ Varuṇa has, uniquely in this batch, **human clinical evidence**. According to 
 - **Gaṇa membership:** Head of the **Varuṇādi gaṇa** (Suśruta) — the drug-group led by Varuṇa for kapha-medo obstruction, gulma, abscess and calculus
 - **Primary indications (roga):** Aśmarī (urolithiasis), Mūtrakṛcchra (dysuria), Medoroga, Gulma, Antarvidradhi (internal abscess)
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** Varuṇa is attested in the Suśruta Saṃhitā as a therapeutic and dietary drug. It heads the Varuṇādi gaṇa, described as reducing deranged Kapha and fat and effective in headache, Gulma and internal abscesses (Sutrasthana ch. 38), and it is named in the Vāta-śamana list (ch. 39) and in the bitter group of drugs by taste (ch. 42). In the chapter on food and drink its leaves are classed among the potherbs that pacify Vāyu and, in the case of Varuṇa and Prapunnāḍa, Kapha (Bhishagratna tr., Vol. I). No rasāyana or vājīkaraṇa assignment was read, so the grade is (b): a therapeutic and dietary frame, with cultivation status unattested.
+
+**Practitioner's note.** Nothing. The Suśruta text uses Varuṇa as a Kapha-reducing drug and a cooked leaf vegetable, and records no vital-constitution role for it.
+
 ### Contraindications
 
 - Not a substitute for urological assessment of obstructing stones, infection, or impaired renal function — seek conventional care for large/obstructing calculi and acute symptoms.

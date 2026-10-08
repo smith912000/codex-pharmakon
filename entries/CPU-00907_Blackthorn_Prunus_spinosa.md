@@ -57,6 +57,14 @@ According to PubMed:
 
 Fruit: cool and dry — sour, binding, tone-restoring astringent. Flowers: gently cooling and opening, read in folk practice as a mild spring mover/cleanser. (Energetic attribution inferred from the Greco-Unani astringent/altative classes; not lifted verbatim from a single primary source.)
 
+### Cultivation Register
+
+**Unani / Avicenna (CM).** No scholarly source was found tying blackthorn (*Prunus spinosa*) to the Unani or Avicennan materia medica; a search on the Arabic materia medica and Ibn al-Baytar returned only general reference pages, nothing naming this species. The entry's own CM statement (cooling astringent wild-plum fruit, gently opening blossoms) is marked for verification and cites no work. Nothing is attested in terms of *ruh*, innate heat or radical moisture, so none is offered. Grade (c).
+
+**Greek / Dioscorides (DMM).** Dioscorides, *De materia medica* 1.174 (Osbaldeston & Wood tr. 2000), treats the plum (kokkumelia); the translators' headnote lists *Prunus spinosa* only as a suggested identity of the "wild plum" mentioned there, so this is an editorial and genus-level match, not a certain one. The text says dried wild plum fruit, like the dried cultivated fruit, is good for the stomach and the bowels, and a decoction of the leaves in wine, gargled, checks discharge at the uvula, gums and tonsils. Therapeutic use only; no cultivation status is recorded. Grade (b). His discipline here is the distinction between fresh, dried and boiled fruit.
+
+**Practitioner's note.** Nothing cultivation-specific is attested in either tradition. Sloe is a seasonal astringent food and gargle; the entry's own flower "blood-cleanser" reputation belongs to European folk practice.
+
 ### Contraindications
 
 - **⚠️ Cyanogenic kernels — do NOT ingest seeds/kernels; avoid crushing sloe stones.** Amygdalin/prunasin release hydrogen cyanide on hydrolysis; this is the genus-wide *Prunus* hazard. Leaves and bark carry lower cyanogenic loads and should not be eaten.

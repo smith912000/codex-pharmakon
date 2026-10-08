@@ -87,6 +87,12 @@ Ayurvedic attribution. The drug is classed among the *kashaya* (astringent) grou
 
 The Kenetica energetic reading places Dhataki at the *lower* pole of the transformative axis: it does not move, heat or disperse. It closes and it begins. In the fermentation vessel it is the silent condition of change rather than the agent of it, and the tradition's willingness to make so central a pharmaceutical role out of so passive an action is itself the doctrinal teaching here.
 
+### Cultivation Register
+
+**Sushruta Samhita (SS).** Dhataki is framed therapeutically and no cultivation status is attested for it. In the Sushruta Samhita it is a named member of the Priyangvadi gana, and its flowers head the Amvashthadi group (Sutra-sthana ch. 38, Bhishagratna tr., Vol. I). Its flowers are also an ingredient of the fermented drinks described in the chapter on liquids: Guda Sidhu (boiled sugar-cane juice with Dhataki flowers) and Jambava Sidhu (Sutra-sthana ch. 45, Vol. I), each described by its therapeutic effects (the first as an appetiser and digestant). No rasayana or vajikarana assignment was found for the plant, and the text says nothing of ojas for it. Its fermentation role is pharmaceutical and dietary, not a regimen of cultivation.
+
+**Practitioner's note.** Nothing here supports a cultivation practice. Dhataki's attested place is as an astringent gana member and a fermentation ingredient in medicinal drinks; use it as such, within the tradition's own therapeutic frame.
+
 ### Contraindications
 
 - **High tannin load.** Sustained or high-dose use of tannin-rich astringents can irritate the gastric mucosa and impair absorption of dietary iron and of protein-containing or alkaloidal co-administered drugs. Separate from iron supplementation and from other oral medicines.

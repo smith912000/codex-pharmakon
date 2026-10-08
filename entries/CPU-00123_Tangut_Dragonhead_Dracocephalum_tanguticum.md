@@ -52,6 +52,12 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Tibetan mapping:** a cooling, aromatic herb for liver/stomach "heat" and inflammatory disorders; aromatic digestive and respiratory remedy.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the cooling-aromatic, liver-and-stomach-soothing, carminative axis; an aromatic Lamiaceae of the plateau (kin in family to betony, this volume, and the mints).
 
+### Cultivation Register
+
+**Tibetan medicine (FMT).** The rGyud-bzhi materia medica gives the drug pri.yang.ku with two alternative modern identifications, Callicarpa macrophylla or Dracocephalum tanguticum. It is described as bitter-sweet, haemostatic, wound-healing, drying lymph accumulations and curing liver and stomach fevers (rGyud-bzhi, Explanatory Tantra ch. 20, Clark tr. 1995). The Men-Tsee-Khang translation of the same chapter has "Tiyangku cures hot disorder of the stomach and liver" (rGyud-bzhi, Explanatory Tantra ch. 20, Men-Tsee-Khang tr. 2011). This is a therapeutic attestation within the tradition's drug classification, grade (b): no bcud-len or rejuvenation assignment is recorded for it, and the species identification is modern and uncertain.
+
+**Practitioner's note.** Nothing cultivation-specific. In the tradition it is a remedy for hot liver and stomach disorders, prescribed by a physician; the sources give no long-term or rejuvenative use.
+
 ### Contraindications
 
 - **Pregnancy.** Aromatic medicinal use [USER: verify].

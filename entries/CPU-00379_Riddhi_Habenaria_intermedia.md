@@ -51,6 +51,12 @@ According to PubMed, direct science on Ṛddhi as such is **very thin** — a se
 - **Karma (actions):** jīvanīya (life-promoting), bṛṃhaṇa (anabolic/tissue-building), balya (strengthening), rasāyana (rejuvenative), śukrala/vājīkara-supportive (reproductive), vayaḥsthāpana (age-sustaining), immunomodulatory (classical bala/ojas), raktapittahara
 - **Srotas / systems:** rasavaha & raktavaha (plasma/blood), śukravaha (reproductive), ojas/immunity, mucosa
 
+### Cultivation Register
+
+**Ayurveda (SS).** Ṛddhi is named in the Kākolyādi gaṇa, listed as "Riddhi, Vriddhi, Mridvika, Jivanti and Madhuka" (Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I). The group is described as subduing pitta, blood and vāyu, increasing breast milk, and as "a restorative and an elixir" augmenting virile potency. Bhishagratna glosses the "Jīvanīya group" as the Kākolyādi group (Uttaratantra ch. 42 and ch. 48, Vol. III), and Suśruta uses Jīvanīya drugs in milk and ghee (for example Śārīrasthāna ch. 10 and Cikitsasthana ch. 5, Vol. II). Those are group-level therapeutic uses. No rasāyana or vājīkaraṇa assignment to Ṛddhi alone was found in the text, so the status is (b). Suśruta gives only the name; the orchid identification is a later one.
+
+**Practitioner's note.** Nothing to cultivate from the classic: Ṛddhi is a named member of a restorative, milk-promoting group. The entry's rare, substituted material means a cultivator cannot assume the plant in hand is the one the text names.
+
 ### Contraindications
 
 Heavy, sweet, unctuous and Kapha-increasing — contraindicated or used with care in obesity, diabetes/āma-medas conditions, congestion, high Kapha, and weak digestion (mandāgni) where it can cause heaviness and sluggishness. Not for acute infection or high-āma states. Because authentic material is rare, **adulteration and misidentification are the primary practical hazard** — an incorrectly substituted "Riddhi" carries unknown effects. Conservation: wild sourcing is discouraged/regulated. Pregnancy/lactation and paediatric use: `[USER: verify with practitioner]`.

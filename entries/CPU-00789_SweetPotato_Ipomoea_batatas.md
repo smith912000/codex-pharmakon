@@ -62,6 +62,14 @@ The overarching Kenetica framing: this is a cultivator's staple crop first. A pr
 
 Sweet in flavour; neutral tending warm in thermal nature; acts on the spleen/stomach and (in Chinese folk dietetics) the large intestine. Functions ascribed: tonify/strengthen the spleen, boost qi, moisten the intestines and ease the bowels. In Mesoamerican terms: a warming, strength-restoring staple for convalescence and depletion. The energetic picture is coherent with the chemistry — a dense, sweet, sustaining food — and here the traditional and biochemical accounts genuinely converge rather than conflict.
 
+### Cultivation Register
+
+**Shennong Bencao Jing (SBJ).** No cultivation framing is attested, and none is possible. *Ipomoea batatas* is a New World crop that reached China only after the Columbian exchange, so it cannot be named in the Bencaojing or any Han-era text, as the entry itself states. The spleen-strengthening and *qi*-boosting wording belongs to later Chinese folk dietetics and carries no *san pin* grade. The SBJ tag is an anachronism for this species.
+
+**Badianus / Nahua (BM).** No cultivation framing is attested. The *camote* is a staple food of Mesoamerican peoples, but no scholarly source seen places sweet potato in the 1552 Badianus manuscript, so the entry's food-medicine account stands as general Mesoamerican dietary use and not as a codex attestation. The Badianus is a naturalistic herbal; the *tonalli*, *teyolia* and *ihiyotl* model comes from later ethnohistory (López Austin), not from the manuscript, and it is not applied to this root here.
+
+**Practitioner's note.** Nothing beyond growing and eating it: it is a staple for calories and, in orange-fleshed cultivars, provitamin A. No tradition cited here gives it a cultivation role.
+
 ### Contraindications
 
 - **Oxalates:** sweet potato contains oxalates; relevant caution for individuals with a history of calcium-oxalate kidney stones — moderate intake.

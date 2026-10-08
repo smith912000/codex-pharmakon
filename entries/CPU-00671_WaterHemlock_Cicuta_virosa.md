@@ -141,6 +141,14 @@ Graded honestly. This is a **toxicological** evidence base, not a therapeutic on
 
 ---
 
+### Cultivation Register
+
+**Greek / Dioscorides (DMM).** No cultivation framing is attested. Dioscorides, De materia medica 4.79, *koneion* (Osbaldeston & Wood tr. 2000), describes poison hemlock, *Conium*, with a hollow, shallow root and a cold, killing juice. The translators mention *Cicuta virosa* only as an "other usage" name for the same entry, so no chapter describes water hemlock as such. The tag is unconfirmed in that text, and the chapter's pharmacy (eye salves, external applications) belongs to *Conium*.
+
+**European folk / phytotherapy (EF).** No cultivation framing is attested; the record is a warning tradition. The entry's sourced content gives the vernacular names (cowbane, *Wasserschierling*, *sprängört*), a farm lore of livestock deaths on spring marsh margins, and an occasional external vesicant poultice. I retrieved no named herbal or phytotherapeutic monograph that prescribes it for internal or long-term use.
+
+**Practitioner's note.** Nothing. This is a plant to identify and avoid, not to take or cultivate. The only discipline it supports is accurate identification, because it is repeatedly mistaken for edible wetland umbellifers.
+
 ### Contraindications
 
 **☠️ ABSOLUTE — THERE IS NO CONDITIONAL LIST.**

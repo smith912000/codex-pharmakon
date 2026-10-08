@@ -70,6 +70,14 @@ According to PubMed:
 
 Folk and early-modern European sources treat goldenrod as a **warming, drying, astringent-diuretic** herb — coherent with both its "woundwort" astringency and its water-clearing urological action. This grading is **inferred and low-confidence** (a reconstruction from use-pattern, not a secured Dioscoridean/Avicennan temperament — see the **[USER: verify]** flag under Origin). The Kenetica reading foregrounds the *directional* signature: an upright golden rod that acts by *draining downward and outward* through the water-passages — flushing, not dissolving.
 
+### Cultivation Register
+
+**Unani / Avicenna (CM).** No scholarly source was found tying European goldenrod (*Solidago virgaurea*) to the Unani or Avicennan materia medica; the search returned a modern phytotherapy review, encyclopaedia and retail pages, none naming this species in an Arabic-tradition text. The entry itself treats CM as a herbal-lineage tag and dates the plant's rise as a urological "woundwort" to mediaeval and early-modern Europe. The CM tag is unconfirmed, and the entry's content is European folk and phytotherapy practice (EF), not Unani. No *ruh*, innate-heat or radical-moisture framing is attested. Grade (c).
+
+**Greek / Dioscorides (DMM).** No chapter of Dioscorides, *De materia medica* (Osbaldeston & Wood tr. 2000), describes goldenrod. The word *solidago* occurs only as the Roman name for the second symphytum, a comfrey (4.10), which is a different plant and is not cited as an attestation. The tag is unconfirmed in this text, and the urological use in the entry is post-classical. Grade (c).
+
+**Practitioner's note.** Nothing. Goldenrod's attested role is a modern European irrigation-therapy herb; neither tradition supplies a cultivation use.
+
 ### Contraindications
 
 - **Irrigation-therapy prerequisite:** requires **adequate fluid intake**. Do **not** use as irrigation therapy where increased fluid load is unsafe — i.e. **oedema due to cardiac or renal insufficiency**; contraindicated in that setting.

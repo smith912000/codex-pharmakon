@@ -60,6 +60,13 @@ Evidence grade: **preclinical.** These support the traditional anti-inflammatory
 - **Dantian affiliation:** **lower/middle** — a middle-burner warming aromatic acting on the digestive centre.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the warming, dampness-drying, qi-moving axis.
 
+
+### Cultivation Register
+
+**Tibetan medicine (FMT).** No cultivation framing is attested, and the substance is not named. *Alpinia katsumadai* (or *cao dou kou*) does not appear in the rGyud-bzhi as rendered by Clark (1995) or Men-Tsee-Khang (2011); the cardamoms that are named there are *sug.smel* (*Elettaria cardamomum*) and *ka.ko.la* (*Amomum subulatum*), different plants (rGyud-bzhi, Explanatory Tantra ch. 20, Clark tr. 1995). The tag is therefore unconfirmed in the texts read, and no *bcud len* or rejuvenation status can be given.
+
+**Practitioner's note.** Nothing: no practice role is attested in the Tibetan source.
+
 ### Contraindications
 
 - **Heat patterns / yin deficiency with dryness (CM).** A warm, drying aromatic is contraindicated where there is heat, or dryness from yin/blood deficiency, without damp to transform.

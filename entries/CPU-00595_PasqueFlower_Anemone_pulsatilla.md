@@ -103,6 +103,12 @@ Cool and dry. Dispersing rather than tonifying — the old readings place it as 
 
 ---
 
+### Cultivation Register
+
+**European folk / phytotherapy (EF).** Framed, status unattested. The entry's sourced content places *Pulsatilla* in the nineteenth- and early-twentieth-century Anglo-American dispensatory and materia medica tradition, as the dried flowering herb given in small doses for eye complaints, nervous and depressive states and menstrual disorders, with near-unanimous instruction never to use the fresh plant. These are therapeutic indications and a preparation rule. I could not read a named dispensatory page for this entry, so none is cited, and no long-term tonic course or vital-constitution status is recorded for it. The homeopathic "constitutional picture" in the entry is a separate doctrine and not part of this tradition.
+
+**Practitioner's note.** Nothing to cultivate in the inner sense. The lasting discipline is preparative: the dried herb only, in small doses, never the fresh plant, and not as a course taken for its own sake.
+
 ### Contraindications
 
 ⚠️ **TOXIC FRESH — PROTOANEMONIN VESICANT.**

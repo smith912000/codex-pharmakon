@@ -57,6 +57,12 @@ The saponin-driven emetic mechanism (local gastric irritation triggering reflex 
 - **Karma (actions):** Vamana (emesis — chief), Śodhana (purification), Lekhana (scraping), Kaphaghna, Viṣaghna (anti-toxic), Krimighna, Vraṇaśodhana (wound-cleansing), Śvāsa-kāsahara.
 - **Suśruta / Caraka gaṇa membership:** **Head of the Vamana-gaṇa** (emetic group) in Caraka; the reference *vamana-dravya* of the Suśruta corpus. This is Madana's signature classificatory position.
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** Sushruta names *Madana* among the Aragvadhadi group (Sutrasthana ch. 38) and declares the Madana fruit-seed "the best (most active)" of emetic fruits, giving procedures for administering it in powder, potion and gruel (Sushruta Samhita, Sutrasthana ch. 43, Bhishagratna tr., Vol. I). The attestation is of *vamana* (emesis), a cleansing-therapy (*shodhana*) use. It is a therapeutic and procedural status, not a *rasayana* or *vajikarana* one, and none was read for Madana. The species equation with *Randia dumetorum* is the standard later identification, not stated in the translation: grade (b).
+
+**Practitioner's note.** Nothing for self-directed practice. Emesis here is a physician-supervised, staged procedure with a defined course; the text records no long-term or vitality-building use.
+
 ### Contraindications
 
 Pregnancy and lactation — contraindicated. Not for Vāta-predominant depletion, the emaciated, the very young or very old, cardiac disease, hypertension, active ulcer, or any state where vomiting is hazardous (recent surgery, hernia, retinal fragility, severe debility). Emesis is a strong intervention: risk of aspiration, electrolyte disturbance, Mallory-Weiss-type injury with excessive/improper *vega*. Must never be self-administered; requires trained supervision, pre-oleation/sudation and graded re-feeding. High Pitta/inflammatory states: use cautiously (heating).

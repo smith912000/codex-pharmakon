@@ -137,6 +137,14 @@ Unlike the humoral classifications elsewhere in this volume, this one is **not**
 
 ---
 
+### Cultivation Register
+
+**Greek / Dioscoridean (DMM).** Dioscorides' *galiopsis* (De materia medica 4.95, Osbaldeston & Wood tr. 2000) is a nettle-like shrub with smoother, strong-smelling leaves and nearly purple flowers, growing in hedges and byways; poulticed warm, it is used on hard lumps, tumours, parotid inflammation and rotten ulcers. The translation glosses it first as *Scrophularia aquatica* and only secondly (an "other usage") as *Galeopsis tetrahit*; *G. segetum* is not named, so any match is doubtful and at best genus-level. No cultivation status is recorded (b). The text's pulmonary "silica" doctrine of this entry is not Dioscoridean.
+
+**Unani / Avicenna (CM).** No attestation tying *Galeopsis segetum* to the Unani or Avicennan materia medica was found in the sources consulted (scholarly literature on the Canon's simples, and herbal monographs on *Galeopsis*, which trace the drug to German-language pharmacy). The CM tag is unconfirmed; no cultivation framing is claimed (c).
+
+**Practitioner's note.** Nothing. The plant's recorded use is a convalescent chest tea in European folk practice; neither tradition read here gives it a cultivation role.
+
 ### Contraindications
 
 - **Do not use for tuberculosis, suspected tuberculosis, or any serious respiratory illness.** This is the entry's principal warning and it is a warning about *omission*, not toxicity. TB is communicable, curable, and fatal untreated. Persistent cough, haemoptysis, night sweats, weight loss, or fever require **urgent medical assessment**. The historical indication of this plant is the single most dangerous thing about it.

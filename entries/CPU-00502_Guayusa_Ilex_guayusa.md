@@ -96,6 +96,12 @@ Guayusa sits **outside the humoral systems** the codex normally maps against. Th
 
 What can be said honestly: guayusa's traditional classification is **temporal and social**. It is the plant of the hour before dawn, of the household gathered, of the dream told and read. Its "energetics," in the only sense the tradition supports, are those of *assembly and attention*. Any Western herbal source assigning it "warm, dry, stimulant" is applying an external schema by analogy with its xanthine content; that gloss is **inferred**, and this entry declines to launder it as traditional.
 
+### Cultivation Register
+
+**South American indigenous ethnobotany (SA).** Guayusa is a domesticate kept in Kichwa dooryard gardens (*chakras*) in Napo and Pastaza, Ecuador. The entry, drawing on a review it cites (Noriega et al., 2025), describes a pre-dawn communal infusion among the Kichwa (Napo Runa), with related use among Shuar, Achuar and Zápara, during which dreams are recounted and interpreted by elders and the day's work is shaped by them. A journal study titled "Ritualistic use of the holly *Ilex guayusa* by Amazonian Jívaro Indians" (*Journal of Ethnopharmacology*, 1991) is also on record; its text was not read, so it is not relied on. The status is a documented daily drinking ritual with no *dieta* or specialist role confirmed, and the entry finds no dream-altering pharmacology.
+
+**Practitioner's note.** The documented practice is behavioural: rising early and drinking the infusion communally to stay awake and recount dreams. The sources read support no further regimen.
+
 ### Contraindications
 
 - **Caffeine, in ordinary quantity.** Every caffeine contraindication applies fully. Guayusa is not a caffeine-free or caffeine-light plant: 2.27% of raw leaf by weight.

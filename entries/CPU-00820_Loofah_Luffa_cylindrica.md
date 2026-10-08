@@ -57,6 +57,14 @@ Internal doses are **traditional**, not trial-established. **[USER: verify]** th
 
 Cool and unblocking; entering (per TCM) the Lung, Stomach and Liver channels; action to open channels and collaterals, dispel wind-damp, and move stagnation in the network vessels. A moving/dispersing drug rather than a tonic — appropriate to excess/obstruction patterns, not to depletion.
 
+### Cultivation Register
+
+**Shennong / classical Chinese (SBJ).** *Luffa* (Si Gua, Si Gua Luo) is not found in the legible herb section of the Yang Shou-zhong translation (1998), and the sponge-gourd is generally held to be a later arrival in the Chinese materia medica than the Shennong stratum. No scholarly source retrieved places it in the classic or gives it a *san pin* grade. No cultivation status is attested. The channel-opening doctrine of Si Gua Luo in the entry belongs to later practice.
+
+**Ayurveda (SS).** The Sushruta Samhita names several drugs called Koshataki, which later commentary and Bhishagratna's glossary connect with *Luffa* species: a juice of it is listed among emetic and purgative drugs (Sushruta Samhita, Sutra sthana ch. XXXIX, Vol. I), it appears in a list of edible potherbs (Sutra ch. XLVI, Vol. I), among plants burnt for alkali (Sutra ch. XI, Vol. I), and in an antidote gruel for plant poisoning (Kalpa sthana ch. II, Vol. II). The glossary equates a distinct name, Raja-koshataki, with *Luffa cylindrica*, but I found that name nowhere in the body of the translation, so the translation does not fix *L. cylindrica* itself in any of these passages. No *rasayana* or *vajikarana* assignment is read for it. No cultivation status is attested for this species.
+
+**Practitioner's note.** Nothing. The fibre is a bathing and external article and the Chinese drug a short-course channel opener; neither tradition read here assigns it a role in long-term practice.
+
 ### Contraindications
 
 The **medicinal dried fibre** (Si Gua Luo) is low-risk at traditional doses. The main safety issue is with the **raw immature fruit and seeds**: like other Cucurbitaceae, *Luffa* can contain bitter **cucurbitacins**, which are toxic and gastro-irritant — intensely bitter fruit should **not** be eaten (bitterness signals high cucurbitacin content and potential toxicity; loofah seeds test distinctly bitter). Purgative/irritant effects are possible from bitter raw material. As a moving/dispersing remedy, use caution in **pregnancy** and in depletion/deficiency patterns. Seek professional diagnosis for joint disease, chest pain, or lactation problems rather than self-treating. **[USER: verify]** cucurbitacin toxicity thresholds and any documented allergen/RIP (luffin) sensitivities.

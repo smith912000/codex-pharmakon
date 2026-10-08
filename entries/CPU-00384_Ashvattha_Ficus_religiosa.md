@@ -71,6 +71,12 @@ According to PubMed, a comprehensive review of *Ficus religiosa* collates its bo
 - **Gaṇa membership:** **Panchavalkala** (five astringent barks) and **Kṣīrī-vṛkṣa** (milk-trees); allied to the Nyagrodhādi gaṇa
 - **Prabhāva:** Its sacred status and traditionally-reported broad-spectrum action, including the contemplative/nervine accent
 
+### Cultivation Register
+
+**Sushruta Samhita (SS).** Ashvattha carries a vajikarana (generative-vitality) use in the text. Sushruta Samhita, Chikitsa-sthana ch. 26 (Bhishagratna tr., Vol. II), the chapter on vajikarana for the weakened, directs that milk boiled with the sprouts, bark, roots and fruit of the As'vattha tree be sweetened with sugar and honey and taken, so that a man may enjoy sexual pleasures "like a sparrow". That is an explicit vajikarana assignment for this tree, and the only one read. No rasayana assignment and no statement about ojas was found for it. Elsewhere it is a therapeutic and group member: named among the Nyagrodhadi gana, and among the milk-exuding trees used in cold infusions and extracts for ulcers (Sutra-sthana chs. 36 and 38, Vol. I). Its sacred standing in the entry is not a Sushrutan cultivation status.
+
+**Practitioner's note.** The only cultivation-relevant use the text gives is the milk preparation in the vajikarana chapter, taken as a defined recipe. Beyond that, nothing: the tree's astringent, wound-closing use is therapeutic, not a regimen for long-term nourishment.
+
 ### Contraindications
 
 - **Vāta aggravation / constipation:** dry, astringent, binding — can worsen Vāta-dryness and constipation; pair with unctuous adjuvants.

@@ -81,6 +81,14 @@ According to PubMed:
 
 Cooling, drying, mildly astringent — the standard energetic reading for a tannin-bearing iridoid meadow herb. **This classification is inferred from the plant's family character and its astringent-wash folk use, not from any energetic system that names *O. vernus* by that binomial.** In Kenetica's four-humour cross-map it sits provisionally with the cool-dry astringents; treat as **[USER: verify]** rather than fixed.
 
+### Cultivation Register
+
+**Greek / Dioscoridean (DMM).** *Odontites* is not named in Dioscorides, De materia medica (Osbaldeston & Wood tr. 2000); a search of the full English text for the genus name and for red bartsia found nothing. The entry's "odontitis" attribution rests on Pliny and a loose Dioscoridean stream, which cannot be confirmed in the text. No cultivation framing is attested (c); the DMM tag is unconfirmed in that text.
+
+**Unani / Avicenna (CM).** No scholarly source tying *Odontites verna* to the Unani or Avicennan materia medica was found in the sources consulted (a search for scholarly attestation returned only general botanical pages). The entry glosses its "CM" tag as "Culinary/Common-use or secondary Materia", which is not the Unani tradition, and cites no Unani source. The CM tag is unconfirmed; no cultivation framing is claimed (c).
+
+**Practitioner's note.** Nothing. This is a teaching specimen of the doctrine of signatures and carries no cultivation role in either tradition read here.
+
 ### Contraindications
 
 - **Not a substitute for dental care.** Toothache indicates infection or structural damage; direct to a dentist.

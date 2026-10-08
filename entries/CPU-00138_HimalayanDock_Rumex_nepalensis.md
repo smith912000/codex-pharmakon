@@ -78,6 +78,12 @@ A 2024 phytochemical study (Li et al., *Phytochemistry*) confirmed that *R. nepa
 
 ---
 
+### Cultivation Register
+
+**Tibetan medicine (FMT).** The drug sho.mang is glossed as dockleaf, Rumex hepaticus, Rumex nepalensis or Rumex acetosa, said to have sweet and bitter tastes and to cure wound fevers and help in infectious fevers (rGyud-bzhi, Explanatory Tantra ch. 20, Clark tr. 1995); the Men-Tsee-Khang glossary gives "Shomang" as Rumex nepalensis ("field sorrel", Men-Tsee-Khang tr. 2011). R. nepalensis is therefore one of several modern identifications for the name, not a settled one. This is a therapeutic attestation, grade (b): no bcud-len or rejuvenation status is recorded for it, and the rejuvenation chapter (Explanatory Tantra ch. 23) does not name it. The related hill dock ri.sho is a separate entry.
+
+**Practitioner's note.** Nothing cultivation-specific. In the tradition it is a physician's remedy for wound and infectious fevers; no long-term or rejuvenative use is attested.
+
 ### Contraindications
 
 - **Pregnancy and lactation:** anthraquinone stimulant-laxatives are contraindicated in pregnancy (uterine-stimulant/reflex risk) and pass into breast milk; avoid.

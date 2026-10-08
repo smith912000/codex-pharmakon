@@ -55,6 +55,12 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Folk/Anglo-Saxon mapping:** the supreme protective/amuletic herb of the head and spirit; vulnerary and nervine.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** for the warming-drying, astringent-aromatic and digestive actions, with a ☿ **Shen** ascription for its head-and-nerve, anxiety- and dream-affecting register — a substance reaching from the gut to the head and the spirit.
 
+### Cultivation Register
+
+**Dioscorides (DMM).** The plant Dioscorides calls kestron (De materia medica 4.1, Osbaldeston & Wood tr. 2000) is identified with Betonica officinalis only by a later, debated convention. He says the leaves should be dried after gathering, since "there is the most use of these", and gives emetic, antivenom, womb and lung uses; it is called psychotrophon "because it is found in the coldest places". Betony wine is made from the herb "full of ripe seed" (5.54). A separate chapter headed bettonike (4.2) says it grows in meadows and clean hilly places, "preserves both the souls and bodies of men" and helps against "night-walking"; the translation lists other suggested identifications there (Dianthus), so it cannot be assumed to concern this species. These are habitat, gathering and protective remarks. No cultivation status is attested.
+
+**Practitioner's note.** The practice Dioscorides gives is attentive gathering: take the leaves at the right time and dry them before storing in a jar. Nothing here supports a regimen of long-term use.
+
 ### Contraindications
 
 - **Pregnancy — caution/avoid.** Traditionally regarded as a uterine stimulant/emmenagogue; medicinal use avoided in pregnancy. [USER: verify.]

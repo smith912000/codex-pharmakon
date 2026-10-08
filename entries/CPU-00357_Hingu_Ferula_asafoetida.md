@@ -60,6 +60,12 @@ According to PubMed, asafoetida has **documented preclinical antispasmodic and h
 - **Karma (actions):** Dīpana (agni-kindling), Pācana (digests āma), Vāta-anulomana (relieves wind/downward-moves Vāta), Śūlaghna (antispasmodic/anticolic), Krimighna (anthelmintic), Kaphaghna/Śvāsahara (expectorant, anti-asthmatic), Hṛdya (heart-favourable in tradition), Medhya/nervine-settling (traditional)
 - **Gaṇa membership (Suśruta/Caraka):** dīpanīya and vāta-anulomana groups; keystone of Hiṅgvaṣṭaka
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** Hiṅgu is attested in the Suśruta Saṃhitā as a therapeutic, culinary and technical substance. It belongs to the Pippalyādi gaṇa (appetiser, anti-Kapha, colic and gastralgia; Sutrasthana ch. 38) and to the Uṣakādi gaṇa (anti-Kapha, fat-reducing, curative of urinary stone and Gulma). Its gum-resin (niryāsa) is listed among the errhines (ch. 39) and is added to the strong alkali preparation (ch. 11). In the chapter on food and drink it is described as light, heat-making, digestive and appetising, subduing Vāyu and Kapha and relieving colic and constipation; asafoetida also appears as a seasoning for cooked meats (ch. 46; Bhishagratna tr., Vol. I). No rasāyana or vājīkaraṇa assignment was read, so the grade is (b): a therapeutic and culinary frame, with cultivation status unattested.
+
+**Practitioner's note.** Nothing. Hiṅgu is a pungent kitchen and digestive drug in the Suśruta text, taken in small amounts for wind, colic and sluggish digestion, with no long-term or rejuvenative role recorded.
+
 ### Contraindications
 
 - **Pitta excess / hyperacidity:** heating pungent aggravates gastritis, hyperacidity, peptic ulcer and heat/bleeding states.

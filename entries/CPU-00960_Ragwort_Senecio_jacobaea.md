@@ -60,6 +60,14 @@ According to PubMed:
 
 Folk and humoral sources treated ragwort as a warming, drying, cleansing "hot" herb (consistent with its counter-irritant poultice use and its high-summer, sun-yellow signature). This grading is **inferred and low-confidence** — it is a reconstruction from use-pattern and signature, not a secured Dioscoridean or Avicennan temperament attribution (see the **[USER: verify]** flag under Origin). In Kenetica the far more load-bearing "classification" is toxicological: a hepatotropic vascular poison whose damage accrues silently.
 
+### Cultivation Register
+
+**Unani / Avicenna (CM).** No scholarly source was found tying ragwort (*Senecio jacobaea*, now *Jacobaea vulgaris*) to the Unani or Avicennan materia medica; the search returned toxicology, Eclectic-era and weed-ecology pages only. The entry itself marks the CM tag as a name-and-genus inheritance and cites no work. The CM tag is unconfirmed, and the entry's content (wound wash, gargle, St James's dedication) is European folk practice (EF), not Unani. No *ruh*, innate-heat or radical-moisture framing is attested. Grade (c).
+
+**Greek / Dioscorides (DMM).** Dioscorides, *De materia medica* 4.97 (Osbaldeston & Wood tr. 2000), describes erigeron, which the translators identify as *Senecio vulgaris* (groundsel), a congener, not *S. jacobaea*; the other chapters that name *Senecio* in their headnotes (4.75, 4.123) describe different plants and are not cited. For groundsel the leaves and flowers are cooling and are smeared on for inflammations; swallowed fresh they cause strangling. Therapeutic and cautionary only; no cultivation status. Grade (b), at genus level. His warning is itself an assay discipline.
+
+**Practitioner's note.** Nothing. Ragwort carries hepatotoxic pyrrolizidine alkaloids, and neither tradition offers a cultivation use; the only practice is recognition and avoidance.
+
 ### Contraindications
 
 - **Absolute contraindication to all internal use.** PA hepatotoxicity is cumulative and often irreversible; no safe internal dose is established.

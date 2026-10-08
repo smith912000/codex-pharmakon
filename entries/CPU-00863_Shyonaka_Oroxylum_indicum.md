@@ -90,6 +90,14 @@ According to PubMed:
 
 Ayurveda: **rasa** (taste) tikta-kashaya (bitter-astringent); **virya** (potency) cooling to neutral; **vipaka** (post-digestive) pungent/heating; balances *kapha* and *vata* in the classical Dashamula sense, acting as an anti-inflammatory and *deepana* (appetite-kindling) bitter. In Kenetica's cross-map this places it with the **cooling bitters that nonetheless kindle digestion** — the polyphenol-resin profile that quenches inflammatory heat topically/systemically while stimulating gut tone. The dual "cooling-then-kindling" reading is a genuine reflection of a bitter that both suppresses NF-κB and provokes bile/appetite.
 
+### Cultivation Register
+
+**Avicenna / Unani (CM).** No cultivation framing is attested. The entry carries no Unani material, a search for a scholarly Unani source for *Oroxylum* returned only modern pharmacological reviews and extension pages (none verified as quoting a classical Unani text), and the Canon's simples book is not available to check. Innate heat, radical moisture and *ruh* therefore cannot be applied here, and the tag is unconfirmed.
+
+**Ayurveda (SS).** The Sushruta Samhita does name this tree. Bhishagratna renders its bark as Syondka (and Dirgha-vrinta, which his glossary gives as *Calosanthes indica*, the older name of *Oroxylum*) in recipes for chronic diarrhoea and for an application (Uttara-tantra ch. XL, Bhishagratna tr., Vol. III), in an eye-salve stick (Uttara-tantra ch. LX, Vol. III), and in a plaster for a gland (Chikitsa sthana ch. XVIII, Vol. II, chapter label per the heading). The Mahat Panchamula, which with the lesser group forms the Dashamula, is listed with "Tuntuka" where later Ayurvedic usage reads Shyonaka (Sutra sthana ch. XXXVIII, Vol. I); that name equivalence is not stated in the translation. These are therapeutic attestations (b); no *rasayana* or *vajikarana* assignment is read.
+
+**Practitioner's note.** Nothing cultivation-specific. A bitter bark used in compound formulae and recipes for defined complaints; the Dashamula grouping is a pharmacy category for wind and phlegm disorders, not a vitality grade.
+
 ### Contraindications
 
 - **Pregnancy and lactation: avoid.** Safety in pregnancy is not established; the bark is a traditional emmenagogue-adjacent bitter and several constituents are bioactive at the cellular level. Flag prominently.

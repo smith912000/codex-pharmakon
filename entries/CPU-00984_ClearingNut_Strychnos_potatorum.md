@@ -71,6 +71,14 @@ According to PubMed:
 
 In the Ayurvedic (SS) stream the seed is read as **cooling and cleansing**, with a sweet–bitter–astringent (*madhura–tikta–kaṣāya*) taste attribution, pacifying *pitta* and *kapha* and used to "clear" — a signature that runs from the literal clearing of water to the figurative clearing of the eyes and urine. In the Unani (CM) stream it sits among the cooling, cleansing seeds. These are **traditional attributions**, not laboratory-derived energetics; the physical coagulant action is the one part of this profile with a modern mechanistic correlate.
 
+### Cultivation Register
+
+**Unani / Avicenna (CM).** No cultivation framing is attested, and no Unani placement of this species is shown. The entry itself says a direct Avicennan locus is unconfirmed and describes Unani use only as a "later composite tradition". No scholarly source seen places *Strychnos potatorum* in the Unani materia medica, and the Canon was not available to read. The CM tag is unconfirmed. The content filed under it is a South Asian pharmacy statement, not the Unani vocabulary of innate heat, radical moisture or *ruh*.
+
+**Sushruta / Ayurveda (SS).** Framed, with no *rasayana* or *vajikarana* status attested. The Sushruta Samhita names *Kataka* fruits among the seven means of purifying water: "immersing the Kataka fruits" in the vessel (Sushruta Samhita, Sutrasthana ch. 45 (Bhishagratna tr., Vol. I)). *Kataka-phala* also stands in the *Parushakadi* group (Sutrasthana ch. 38, Vol. I), and *Kataka* is an ingredient in honey-pasted eye *anjana* preparations (Uttara-tantra ch. 12, Vol. III). These are technical and therapeutic attestations, not cultivation statuses. The identification of *Kataka* with *Strychnos potatorum* rests on later commentary and the translator's identifications, and the translation reads *Kataka* as *Amalaka* in one variant passage, so it is not secure for every locus.
+
+**Practitioner's note.** The practical use is household water clarification only, and clarified water still needs disinfecting. Nothing here supports it as a vitality or long-term substance, and it must never be confused with the strychnine-bearing *nux-vomica*.
+
 ### Contraindications
 
 - **Misidentification is the primary hazard.** Do not confuse or co-store with *Strychnos nux-vomica* (CPU-00266), whose seeds are strychnine/brucine-rich and potentially fatal. Source *potatorum* seed from a reliable supplier and verify identity.

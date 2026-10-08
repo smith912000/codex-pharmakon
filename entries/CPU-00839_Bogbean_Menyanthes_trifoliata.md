@@ -58,6 +58,12 @@ Graded honestly, bogbean is **chemically well-characterised but clinically data-
 - **Pharmacopoeial (CM):** a pure bitter (amarum), grouped with gentian and centaury for appetite and digestive stimulation.
 - **Kenetica synthesis:** Cooling, drying, intensely bitter; a pre-prandial digestive-stimulant operative and secondary cleansing bitter.
 
+### Cultivation Register
+
+**European folk / phytotherapy (EF).** Framed, with no vitality status attested. Bogbean leaf (*Menyanthidis folium*) is a recognised herbal drug with a European Union herbal monograph from the European Medicines Agency's herbal committee, and the entry places it in the pharmacopoeial bitters (*amara*) alongside gentian and centaury. Its recorded place is therapeutic: a pre-meal bitter to rouse appetite and digestion, with a secondary folk antirheumatic and "cleansing" reputation. No named herbal or scholarly work seen assigns it a tonic or longevity standing beyond the digestive bitter role, and the entry states that a controlled human trial of the digestive action was not found.
+
+**Practitioner's note.** A small, tasted dose before meals is the whole practice; more is not better and it irritates the gut. Nothing in the sources supports long-term use as a vitality substance.
+
 ### Contraindications
 
 - **Avoid in diarrhoea, dysentery or loose stools** — bogbean can be laxative/purgative and will worsen them.

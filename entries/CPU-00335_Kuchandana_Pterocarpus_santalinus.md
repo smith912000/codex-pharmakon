@@ -74,6 +74,12 @@ According to PubMed, evidence for *Pterocarpus santalinus* is **preclinical and 
 - **Prabhāva (specific effect):** its intense cooling on the *rakta dhātu* despite its blood-red colour — the "red that cools the blood."
 - **Dhātu/Srotas:** *raktavaha* srotas primarily; also *rasavaha* and skin (*twak*).
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** Sushruta names *Kuchandana* as a member of four therapeutic groups: the Salasaradi, Patoladi (a febrifuge and anti-toxic group, beneficial in ulcers and itching eruptions), Sarivadi (allaying thirst, curative in haemoptysis) and Priyangvadi groups (Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I). These are therapeutic attestations. The translation does not identify the species, and "red sandal wood" and "Rakta-chandana" are named separately elsewhere in the translation, so equating Kuchandana with *Pterocarpus santalinus* is a later identification. No *rasayana* or *vajikarana* assignment was read: grade (b).
+
+**Practitioner's note.** Nothing from the Sushruta text. The ritual-pigment use in the entry is not drawn from it, and the species is CITES-listed, so sourcing, not cultivation practice, is the live question.
+
 ### Contraindications
 
 - **Vāta-predominant / cold / dry states:** the strong cooling and dryness can aggravate Vāta and cold conditions.

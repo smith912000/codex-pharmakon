@@ -65,6 +65,14 @@ The evidence is **moderate for anti-inflammatory/antioxidant activity, thin-to-a
 
 Cool and drying, with a mild astringent-resolving quality. It answers *lax, over-moist, weeping* surface presentations, not hot acute inflammation. In the Kenetica humoral map it sits among the gentle mucous-membrane tonics — closer to a corrective than a purge.
 
+### Cultivation Register
+
+**Greek / Dioscoridean (DMM).** *Lamium album* is not named in Dioscorides, De materia medica (Osbaldeston & Wood tr. 2000). The only *Lamium* in the translation's glosses is Bauhin's *Lamium montanum melissae folio*, given for *melissophyllum* (3.118), which the translators identify as *Melittis* or *Melissa*, other plants; the stinging nettle *akaluphe* (4.94) is likewise not this plant. No cultivation framing is attested (c); the DMM tag is unconfirmed in that text.
+
+**Unani / Avicenna (CM).** No scholarly source tying *Lamium album* to the Unani or Avicennan materia medica was found in the sources consulted. The entry's "CM" paragraph is in fact about Chinese medicine (iridoid kinship with *Lamiophlomis* and *Phlomis*) and itself flags that no classical attestation is known, so it is not Unani content. The CM tag is unconfirmed; no cultivation framing is claimed (c).
+
+**Practitioner's note.** Nothing. It is a domestic astringent and mucosal wash in European folk practice; neither tradition read here gives it a cultivation role.
+
 ### Contraindications
 
 None serious are recorded; the acute-toxicity tests in rats found no toxicity for the extracts ([Bubueanu 2019, DOI](https://doi.org/10.2478/acph-2019-0026)). Nonetheless: **pregnancy caution** — the documented haemostatic/uterine-adjacent traditional uses and the lack of safety data in pregnancy mean it should be avoided in pregnancy unless directed by a qualified practitioner. Abnormal vaginal discharge or non-healing wounds require medical diagnosis, not self-treatment. Possible (rare) Lamiaceae sensitivity. **[USER: verify]** interactions with anticoagulant therapy, given the demonstrated vitamin-K-like haemostatic action.

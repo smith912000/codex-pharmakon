@@ -115,6 +115,14 @@ Use case: convalescent or irritable airway; dry spasmodic cough post-infection; 
 
 The energetic reading worth keeping: sundew is a plant that **holds moisture where moisture should not persist, and dissolves what it holds**. That is at least an honest description of a carnivore's mucilage and enzymes. The Kenetica gloss — relax the gripped airway, keep the surface wet and moving, dissolve the stuck — happens to align with the PDE/CBF/smooth-muscle data. Offered as a mnemonic, not as a mechanism.
 
+### Cultivation Register
+
+**Unani / Avicenna (CM).** No cultivation framing is attested, and no Unani placement of this species is shown. The entry carries no Unani content: its material is the alchemical *ros solis* reading and the European cough use. No scholarly source seen ties *Drosera rotundifolia* to the Unani materia medica, and the Canon was not available to read. The CM tag is unconfirmed. Its content is really European (the entry's own alchemical and folk-phytotherapeutic material), and the earlier tag line listed a classical Greek tag that this register does not examine.
+
+**European folk / phytotherapy (EF).** Framed, with no vitality status attested. The ethnopharmacological literature records several Northern Hemisphere *Drosera* species as the traditional European drug *Droserae Herba*, used for respiratory-tract complaints (Fukushima et al. 2009, *J Ethnopharmacol*). That is a therapeutic attestation: an antitussive for spasmodic cough. The entry describes a Renaissance alchemical reading of the persistent dew as a life-prolonging *aqua vitae* material, but gives no named herbal or scholarly work for it, so it is reported here as a reputation and not as a graded cultivation status. The entry itself finds no support for any wasting, longevity or vitality use.
+
+**Practitioner's note.** Nothing for cultivation. It is a convalescent-airway remedy at most, and the plant is a protected bog species that should not be wild-harvested.
+
 ### Contraindications
 
 - **⚠️ WHOOPING COUGH IN A CHILD IS A MEDICAL EMERGENCY, NOT AN HERBAL INDICATION.** This is the single most important line in the entry. Pertussis kills infants. It is vaccine-preventable and antibiotic-treatable. The classical indication that gave sundew its entire reputation is the one context where using it as a primary treatment is indefensible. Sundew has **no human trial data for pertussis**. Adjunctive symptomatic use in an adult with a diagnosed, medically-managed post-viral cough is a different proposition from treating a coughing child with a bog plant.

@@ -60,6 +60,12 @@ A more recent phytochemical/computational study (Jerom et al., *Heliyon*, 2024) 
 - **Srotas (channels):** primarily *raktavaha* (blood-carrying) and hepatic tissue; secondarily *mūtravaha* and skin.
 - **Gaṇa membership:** grouped with the *raktapittahara* / *jvaraghna* cooling dravyas of the classical corpus (not a Daśamūla member).
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** The Sushruta Samhita lists *Hansapadi* in the Vidarigandhadi group, whose stated uses are against deranged Vayu and Pitta, phthisis (*shosha*), gulma, aching limbs, upward-breathing and cough (Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I). That is a therapeutic group membership, and it is the only occurrence found; the text read gives no botanical identification, so the equation with *Adiantum lunulatum* rests on later identification. No *rasayana* or *vajikarana* assignment was read, so no cultivation status is attested: grade (b).
+
+**Practitioner's note.** Nothing. A group-listed therapeutic drug with no recorded long-term or vitality-building role in the Sushruta text.
+
 ### Contraindications
 
 - Cooling and blood-directed — less suited to cold, kapha-stagnant, low-agni states without warming co-adjuvants.

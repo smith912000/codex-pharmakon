@@ -59,6 +59,12 @@ According to PubMed, the evidence for *S. racemosa* is **preclinical and phytoch
 - **Karma (actions):** Stambhana (styptic/arresting), Saṃgrāhi (absorbent), Vraṇaropaṇa & Vraṇaśodhana (wound healing/cleansing), Raktapitta-hara (anti-haemorrhagic), Varṇya (complexion), Kaṇḍughna/Kuṣṭhaghna (skin), Cakṣuṣya (eye)
 - **Gaṇa membership:** Astringent/wound clusters incl. Nyagrodhādi & Priyaṅgvādi-type groups (Suśruta)
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** Lodhra (named Rodhra in the Bhishagratna translation) is attested in the Suśruta Saṃhitā as a therapeutic drug, not as a rasāyana or vājīkaraṇa substance. In the classification of drugs by therapeutic group it appears with Savara-Rodhra in the Rodhrādi gaṇa, in the Āmbaṣṭhādi gaṇa and in the Nyagrodhādi gaṇa, groups described as astringent, ulcer-healing and relieving uterine and vaginal disorders (Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I). It also occurs in wound plasters and oils (Sutrasthana ch. 36), in a purgative-bark preparation (ch. 44) and as an āsava (ch. 46). That is framing (b): a therapeutic place, with no ojas, rasāyana or vājīkaraṇa status recorded.
+
+**Practitioner's note.** Nothing cultivational follows from the Suśruta text. Lodhra is a bark astringent for short, defined courses against discharge, bleeding or wounds, and the tradition gives it no long-term or rejuvenative role.
+
 ### Contraindications
 
 - **Constipating/drying:** the strong astringent action can worsen constipation, dryness, and Vāta states; avoid in atonic/dry bowel conditions.

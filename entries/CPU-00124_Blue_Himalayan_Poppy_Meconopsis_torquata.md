@@ -51,6 +51,12 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Tibetan mapping:** a cooling, heat-clearing herb for "hot" liver/lung disorders, fever and inflammation; analgesic.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the cooling, heat-and-inflammation-clearing axis (clear liver/lung heat); a high-plateau Papaveraceae distinct from the opium poppy's Shen-tier narcotic register.
 
+### Cultivation Register
+
+**Tibetan medicine (FMT).** (c) Absent for this species. *Meconopsis torquata* is not named in the translations of the rGyud-bzhi consulted. Other Meconopsis appear only as congeners: *tsher.sngon*, glossed *M. horridula*, "heals skull fractures, sustains bone resin and cures bone fever", and *smug.chhung.mdan.yon*, glossed *M. integrifolia*, with the same uses (rGyud-bzhi, Explanatory Tantra ch. 20, Clark tr. 1995). The name *ut.pa.la* is glossed there as both *Nelumbo nucifera* and *Meconopsis*, curing fevers of the lungs and liver. Linking Tibetan drug names to Linnaean *Meconopsis* species is modern and disputed, and no *bcud len* or rejuvenation assignment is attested for any of these. The entry's heat-clearing reading is therapeutic, not a cultivation status.
+
+**Practitioner's note.** Nothing. No cultivation use is attested; as medicine, the species-level identification is itself uncertain.
+
 ### Contraindications
 
 - **Cold / deficiency patterns.** A cooling herb is contraindicated in cold-from-deficiency conditions.

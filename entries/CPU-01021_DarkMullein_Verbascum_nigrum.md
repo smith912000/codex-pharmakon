@@ -82,6 +82,14 @@ Claim-by-claim, graded.
 
 In the Greek stream carried through Dioscorides (DMM) and into Avicenna's Unani transmission (CM), mullein sits among the cooling, softening, moistening remedies of the chest and throat — the class whose action is to relax and lubricate rather than to heat or drive. The mucilage is the material correlate of that reading: a plant whose visible property is slipperiness under water is filed with the *demulcentia*. The dark-stamened *V. nigrum* is folded into this class **by genus inference only**, and the codex marks it as inference rather than attestation. Any grade of degree assigned to *V. nigrum* in a modern secondary source should be traced to its primary text before it is repeated.
 
+### Cultivation Register
+
+**Avicenna / Unani (CM).** (c) Absent. No scholarly Unani source naming *Verbascum nigrum* could be found; the Canon was not available to consult directly, and the limited searches made of Ibn al-Baytar-era identification scholarship returned nothing that resolves a species. The entry's own CM text is a genus-level mullein reading by inference, much of it indistinguishable from later European herbalism. The Unani frame of innate heat and radical moisture as a finite endowment is not applied to this plant.
+
+**Greek / Dioscorides (DMM).** (b) Framed, status unattested, and identification uncertain. Dioscorides, De materia medica 4-104 (Osbaldeston & Wood tr. 2000), *phlomos*, distinguishes white and black kinds; the translators suggest *Verbascum nigrum* (Fuchs, Linnaeus) for the black, and note that *phlomos* is also used of *Phlomis*, so the match is only a suggestion. The chapter is therapeutic: the astringent root in wine for flux, hernia, convulsions, bruises and old cough, a mouthwash for toothache, boiled leaves for eye inflammation, and a note on hair-dyeing. No cultivation status is recorded.
+
+**Practitioner's note.** Nothing. The Greek chapter offers a therapeutic frame only; its value to a cultivator is the discipline of identification, since even the plant's species is unsettled.
+
 ### Contraindications
 
 - **Never instil oil, or any liquid, into an ear with a perforated or possibly perforated eardrum.** This is absolute. Ear pain is a symptom requiring otoscopic examination before anything enters the canal; instillation through a perforation risks middle-ear and ototoxic injury. If the drum has not been visualised by a clinician, no mullein oil goes in the ear.

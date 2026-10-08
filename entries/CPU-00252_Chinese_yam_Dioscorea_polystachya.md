@@ -80,6 +80,12 @@ This is firmly a `[GENERAL]` herb. Its food-grade safety profile, gentle action,
 
 ---
 
+### Cultivation Register
+
+**Shennong / classical Chinese (SBJ).** Classed in the upper grade (上品), the grade the text says nourishes life (養命) and may be taken for a long time. The monograph for shu yu (Radix Dioscoreae Oppositae), sweet and a little warm, mainly treats damaged center, supplements vacuity with languor, boosts the qi and energy and promotes the growth of flesh; "protracted taking may sharpen the ears and eyes, make the body light, make one free from hunger, and prolong life" (Shennong Bencao Jing, upper class, Shu Yu, Yang Shou-zhong tr. 1998). "Make the body light" is the classic's own effect category and is not a pharmacological claim. Shu yu is the early name for what later became shan yao; equating it with Dioscorea polystachya is a modern identification.
+
+**Practitioner's note.** One of the few drugs here with a recorded long-term, life-nourishing grade in the classic itself. A cultivator may treat it as a gentle, food-like drug taken over time, and should not read anything further into the classic than the passage above.
+
 ### Contraindications
 
 - **Excess/stagnation patterns:** because Shān Yào is a tonic and mildly astringent, it is contraindicated where there is acute fullness, abdominal distension from food stagnation, or active dampness/phlegm excess — tonifying an excess pattern aggravates it.

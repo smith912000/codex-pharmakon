@@ -53,6 +53,12 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Unani/Central-Asian mapping:** hot-dry; carminative, deobstruent, antispasmodic, antiparasitic.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the warming, descending, mass-and-wind-dispersing axis; the Central Asian member of the *Ferula* asafoetida group.
 
+### Cultivation Register
+
+**Uyghur medicine (UIG).** No cultivation framing is attested. The entry's own account of the drug is Chinese: A Wei (阿魏) as a warm, acrid, fetid agent against food stagnation, abdominal masses and parasites, entering the Chinese materia medica along the Silk Road. It records no Uyghur-specific use of this species. No Uyghur medical source or scholarly ethnobotany for *Ferula sinkiangensis* could be read in preparing this entry, so no Uyghur therapeutic or cultivation status is asserted. Graded (c).
+
+**Practitioner's note.** Nothing. A pungent, fetid resin used for defined digestive and antiparasitic complaints, with no cultivation practice recorded in the sources available.
+
 ### Contraindications
 
 - **Pregnancy — avoid medicinal doses.** Mass-dispersing/emmenagogue reputation; culinary pinches are food, medicinal doses avoided. [USER: verify.]

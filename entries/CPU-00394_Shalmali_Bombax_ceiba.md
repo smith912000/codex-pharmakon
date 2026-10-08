@@ -85,6 +85,12 @@ Within the Ayurvedic frame carried under the SS tag, shalmali's gum is read as *
 
 The codex flags that these assignments here come through the modern secondary transmission of Ayurveda, not from a primary Sushruta Samhita edition read for this entry. **[USER: verify]** the exact *rasa*, *virya* and *vipaka* against a primary text before publication.
 
+### Cultivation Register
+
+**Sushruta Samhita (SS).** Shalmali appears in the Sushruta Samhita in practical and therapeutic roles, with no cultivation status attested. A Shalmali plank coated with beeswax is the practice surface on which the trainee surgeon learns scraping or evacuating incisions (Sutra-sthana ch. 9, Bhishagratna tr., Vol. I). Shalmali flowers are an ingredient of a powder rubbed on an incision to check excessive bleeding (Sutra-sthana ch. 14, Vol. I). Climbing a Shalmali tree in a dream is listed among fatal omens (Sutra-sthana ch. 29, Vol. I). No rasayana or vajikarana assignment was found for the tree in the passages read, and the text says nothing of ojas for it.
+
+**Practitioner's note.** Nothing. The text offers the cultivator no regimen with Shalmali: it is a surgical teaching board, a styptic ingredient and a dream sign, and any tonic or vitality claim in the entry is not Sushrutan on the evidence read.
+
 ### Contraindications
 
 - **The evidence base is preclinical only.** No human trial of any part of *Bombax ceiba* was retrieved. Every pharmacological claim here is rodent or cell-culture. Nothing in this entry establishes safety or efficacy in a person.

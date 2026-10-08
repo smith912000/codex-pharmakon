@@ -52,6 +52,12 @@ The nearest adjacent evidence concerns the **plant genus rather than the concret
 - **Karma (actions):** dāhapraśamana (relieves burning), stambhana/haemostatic in rakta-pitta, kāsahara & śvāsahara (anti-tussive, eases breathing), balya/rasāyana (restorative), tṛṣṇānigrahaṇa (relieves thirst)
 - **Srotas / systems:** prāṇavaha (respiratory), rasavaha & raktavaha (plasma/blood), mūtravaha (urinary)
 
+### Cultivation Register
+
+**Ayurveda (SS).** Bhishagratna's translation renders *Tugā-kṣīrī* as "Vaṃśa-locana" in several remedies, and uses "Vaṃśa-locana" directly in others (Sushruta Samhita, Uttaratantra ch. 35, 41 and 52, Bhishagratna tr., Vol. III). In Uttaratantra ch. 41 (phthisis) it is one ingredient, "Tugā-kṣīra (Vaṃśa-locana)", of the Elādi-manth ghee, which the translation calls an elixir and "the best of all rejuvenating preparations"; that claim belongs to the whole compound of some seventeen ingredients, not to this drug. In ch. 52 (cough) it is licked with honey and ghee, and in ch. 35 it is part of a sprinkling decoction. These are therapeutic attestations; no rasāyana or vājīkaraṇa assignment to the drug alone was found, so the status is (b). The identification of the siliceous bamboo concretion with *Bambusa bambos* is a later one.
+
+**Practitioner's note.** Nothing cultivable here: the classic uses it as an ingredient in cough and wasting remedies. Any rejuvenating reputation rests on the compound in which it is taken, not on the substance itself.
+
 ### Contraindications
 
 Generally regarded as benign in classical use. Cooling and drying potency means caution in strong Kapha-cold, congestive states and in low agni (weak digestion) if used alone and in excess. Commercial adulteration/substitution is common — sourcing integrity matters. Not a substitute for medical treatment of fever, haemoptysis, or respiratory disease; bleeding and persistent cough require diagnosis. Pregnancy/lactation and paediatric use: `[USER: verify with practitioner]`.

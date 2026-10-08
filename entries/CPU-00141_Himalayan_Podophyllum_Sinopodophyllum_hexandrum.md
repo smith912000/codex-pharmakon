@@ -65,6 +65,12 @@ Codex policy: chemical class (aryltetralin lignan), antimitotic mechanism and th
 - **Ayurvedic / Himalayan mapping:** bankakri — a strong, near-poisonous purgative and skin-lesion caustic of *ushna* (hot) character, used sparingly.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — at the toxic, draining, mass-breaking extreme of the Qi axis; a caustic antimitotic rather than a tonic. Filed as a [SPECIALIST ONLY] purgative-antineoplastic precursor.
 
+### Cultivation Register
+
+**Tibetan medicine (FMT).** Sinopodophyllum hexandrum (Podophyllum) is not named in either translation of the rGyud-bzhi checked (Clark, The Quintessence Tantras of Tibetan Medicine, 1995; Men-Tsee-Khang, The Root Tantra and the Explanatory Tantra, 2011), under any of its English or Latin names. A scholarly source tying it to a Tibetan drug name in the rGyud-bzhi was not found, and such identifications are modern and often disputed. No bcud-len, rejuvenation or other framing is attested here. Grade (c).
+
+**Practitioner's note.** Nothing. This is a toxic, drastic rhizome; whatever Himalayan use exists is physician-prepared, and there is no self-directed cultivation use.
+
 ### Contraindications
 
 - **Internal crude-drug use — absolute prohibition outside expert supervision.** A drastic purgative and systemic poison.

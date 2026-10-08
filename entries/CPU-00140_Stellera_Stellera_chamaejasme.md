@@ -64,6 +64,12 @@ Codex policy: chemical class (daphnane/tigliane diterpene esters, biflavonoids) 
 - **Tibetan-Mongolian folk mapping:** a toxic root used externally for parasitic skin disease and cautiously internally; widely recognised as livestock-poisonous and as a rangeland-degradation marker.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — at the toxic, dispersing extreme of the Qi axis: a violently moving, accumulation-breaking poison rather than a tonic. Filed alongside the caustic Thymelaeaceae/Euphorbiaceae esters as a [SPECIALIST ONLY] purgative-toxic agent.
 
+### Cultivation Register
+
+**Tibetan medicine (FMT).** The drug re.lchag.pa is glossed as Stellera chamaejasme and described as hot in taste and coarse in power, healing sores, purging septic disorders and used as a suppository (rGyud-bzhi, Explanatory Tantra ch. 20, Clark tr. 1995). It is also named among the purgatives in the compounding chapter (Explanatory Tantra ch. 21, Clark tr. 1995; "Rechagpa", Men-Tsee-Khang tr. 2011). These are therapeutic attestations, grade (b): no bcud-len or rejuvenation status is recorded for it, and the rejuvenation chapter (Explanatory Tantra ch. 23) does not name it. Linking the Tibetan name to this species is a modern identification and not wholly settled.
+
+**Practitioner's note.** Nothing cultivation-specific. A toxic purgative, used in the tradition only as physician-prepared medicine; there is no self-directed cultivation use.
+
 ### Contraindications
 
 - **Raw/unprocessed root — absolute prohibition.** Toxic and caustic; never to be ingested in any unsupervised context.

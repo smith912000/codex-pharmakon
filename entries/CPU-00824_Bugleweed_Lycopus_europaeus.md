@@ -56,6 +56,12 @@ Graded honestly, this is a **genuine but stratified win**: strong mechanism, rea
 - **Phytotherapeutic (CM):** anti-thyrotropic / thyroid-damping; used for mild hyperthyroid and autonomic cardiac symptoms.
 - **Kenetica synthesis:** Cooling, drying, bitter-astringent; sedative to an over-fired metabolic/cardiac engine — an operative endocrine cooler.
 
+### Cultivation Register
+
+**European folk / phytotherapy (EF).** Framed, status unattested. The entry's sourced content records bugleweed in European domestic herbalism as a quieting herb for palpitations and nervous tachycardia, and as the dye-plant remembered in the name Gypsywort. A later German-centred phytotherapy used *Lycopus* preparations for mild hyperthyroidism and its cardiac symptoms. These are therapeutic attestations for a specific complaint, framed in the entry as a short-course remedy. I could not read a named herbal or monograph page for this entry, so none is cited. No tonic or long-term course and no vital-constitution role is recorded.
+
+**Practitioner's note.** Nothing. This is a targeted remedy for a defined complaint, not a plant for long-term cultivation of the self. Because it acts on the thyroid axis, it should not be taken casually or continuously.
+
 ### Contraindications
 
 - **Contraindicated in HYPOthyroidism** — an antithyroid herb given to an underactive thyroid worsens the deficit.

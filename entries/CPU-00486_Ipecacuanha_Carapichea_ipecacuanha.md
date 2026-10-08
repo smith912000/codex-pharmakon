@@ -63,6 +63,12 @@ According to PubMed:
 
 In Brazilian and colonial-era folk practice ipecacuanha is a **downward-rooted expellant used paradoxically upward** — the medicine of forced discharge, given to void dysenteric matter and later, in dilute form, to loosen chest secretions. Mapped onto the Codex grid it reads as a **cold, dispersing, strongly evacuant** agent. This placement is analogical and inferred; the plant's home tradition did not use Galenic humoral categories.
 
+### Cultivation Register
+
+**South American indigenous ethnobotany (SA).** No cultivation, *dieta* or regimen status is attested for ipecacuanha in a scholarly ethnography consulted for this entry. The entry reports that Indigenous Brazilian peoples used the root against dysentery and bloody flux, a therapeutic attestation only; the source generalises and names no specific people here. The seventeenth-century Portuguese carriage to Europe and the later emetic and amoebicide medicine are colonial and pharmaceutical history, not an Indigenous framing. The Tupí-Guaraní name gloss is marked by the entry itself as not securely documented, and no humoral reading is applied.
+
+**Practitioner's note.** Nothing cultivation-specific. The entry treats the root's historical emetic and antidysenteric uses as sharply curtailed, and the tradition supplies no regimen role to revive.
+
 ### Contraindications
 
 Ipecacuanha's alkaloids are protein-synthesis inhibitors with a genuinely narrow toxic margin. Real safety flags:

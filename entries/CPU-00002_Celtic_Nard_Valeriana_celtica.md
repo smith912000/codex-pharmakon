@@ -61,6 +61,12 @@ Until verified citations are supplied, this section should state that species-sp
 - **CM (by analogy):** Aromatic root that moves stagnant Qi of the Middle Burner and settles the Shen; warming, descending. (Direct classical Chinese use is of *Nardostachys*, not *V. celtica*; the mapping is by family analogy.)
 - **Kenetica tier:** ◉ Qi-anchoring aromatic, minor nard. A settling root for restlessness with digestive origin; not a primary sedative.
 
+### Cultivation Register
+
+**Dioscorides (DMM).** Dioscorides' Celtic nard (nardos keltike, De materia medica 1.7, Osbaldeston & Wood tr. 2000) is matched to Valeriana celtica by modern identification, not by anything in the text. He says it grows on the Alps of Liguria and in Istria, a short shrub gathered with its roots and made up into hand bundles; only the stalks and roots are used, the leaves thrown away. The bindings are sprinkled with water, cleaned of earth and chaff, ground with wine and stored in new ceramic bottles. The best is "new, fragrant, full of roots, plump and not easily broken", and a goat-smelling counterfeit is warned against. The uses are diuretic, stomach, liver and spleen. This is habitat, gathering and assay; no cultivation status is attested.
+
+**Practitioner's note.** The honest practice is provenance and sensory assay: wild-gathered, cleaned, ground with wine and stored sealed, with the counterfeit rejected by the absence of a stalk and by its poor smell. Nothing here supports a cultivation or longevity regimen.
+
 ### Contraindications
 
 - **Pregnancy and lactation:** insufficient species-specific safety data; avoid internal use. [USER: verify]

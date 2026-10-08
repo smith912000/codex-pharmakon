@@ -90,6 +90,12 @@ Lindegardh N, Annerberg A, White NJ, Day NP (2007) "Development and validation o
 
 ---
 
+### Cultivation Register
+
+**South American indigenous ethnobotany (SA).** No cultivation, *dieta* or regimen status is attested for cinchona in a scholarly ethnography consulted for this entry. The entry's account of Andean Quechua use of the bark as a fever remedy is a therapeutic claim, and whether pre-contact Andean peoples used it against malarial fevers is itself debated in the history-of-medicine literature; it is not treated as established here. The Jesuit and European history (the Chinchón story, the bark trade, quinine isolation) is colonial and pharmaceutical, and is not an Indigenous cultivation framing. The source base generalises across Andean peoples and names no specific one.
+
+**Practitioner's note.** Nothing cultivation-specific. Cinchona is a specialist-only antimalarial drug in this entry and carries no attested regimen role in an Indigenous tradition.
+
 ### Contraindications
 
 - **Cardiac arrhythmia and QT prolongation (major — potentially fatal):** Quinine and especially quinidine prolong the QT interval on ECG; at toxic plasma concentrations this produces torsades de pointes (polymorphic ventricular tachycardia) which can degenerate to ventricular fibrillation and sudden death; contraindicated in patients with long QT syndrome, hypokalemia (which exacerbates QT prolongation), or concurrent use of other QT-prolonging drugs (macrolide antibiotics, fluoroquinolones, antipsychotics, methadone); baseline and monitoring ECG is mandatory for any therapeutic quinine course

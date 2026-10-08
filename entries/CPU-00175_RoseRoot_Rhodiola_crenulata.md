@@ -53,6 +53,13 @@ Attribution: findings from PubMed.
 - **Tibetan (rGyud-bzhi sphere):** high-altitude strength and breath tonic; cooling, restorative.
 - **Dantian correspondence:** Middle/Upper — breath and cardiac energy support.
 
+
+### Cultivation Register
+
+**Tibetan medicine (FMT).** No adaptogen, strength-giving or rejuvenation status is attested for *Rhodiola crenulata*. In Clark's translation the drug *sro.lo* is glossed to other species (*Rhodiola sacra*; *ga.dur* includes *R. wallichiana*) and is described as curing lung diseases, lung fevers and dysentery (rGyud-bzhi, Explanatory Tantra ch. 20, Clark tr. 1995). Men-Tsee-Khang (2011) lists *R. crenulata* in its ingredient glossary, apparently beside *solo* / *solo karpo*, which the Explanatory Tantra (ch. 21) places in a group of medicines for lung disorders, but the pairing is not cleanly legible. Whatever is attested is therapeutic and within the three *nyes pa*; no *bcud len* or rejuvenation use is recorded.
+
+**Practitioner's note.** Nothing to cultivate on the Tibetan evidence read; the altitude-stamina claim in this entry is not in these texts.
+
 ### Contraindications
 
 - **Over-stimulation:** as an activating tonic, may cause restlessness or disturbed sleep in sensitive individuals if taken late in the day.

@@ -92,6 +92,12 @@ Lapacho sits **outside the humoral systems**. It has no Ayurvedic dosha assignme
 
 The one energetic observation that *is* native to the material: the bitter, astringent, resinous quality of the inner-bark decoction is real and organoleptically obvious, and bitterness is the honest sensory correlate of the quinone load.
 
+### Cultivation Register
+
+**South American indigenous ethnobotany (SA).** No cultivation, *dieta* or regimen status is attested for lapacho in a scholarly ethnography consulted for this entry. The entry reports, from ethnobotanical reports across Brazilian, Paraguayan and Argentine sources, a folk-medical use of the decocted inner bark for fevers, infections, ulcers and skin complaints, and Indigenous use of the heartwood for bows and tool handles. No specific people are named, so the claim generalises. The entry itself rejects the pre-Columbian anticancer and Inca "taheebo" narratives as unsupported marketing; they are not carried here.
+
+**Practitioner's note.** Nothing cultivation-specific. The tradition framing is a folk bark decoction for defined complaints, with no regimen role attested.
+
 ### Contraindications
 
 ⚠️ **This substance must NOT be used as, or in place of, oncological treatment.** There is no human evidence of antineoplastic efficacy. Substituting pau d'arco for chemotherapy, radiotherapy, surgery or immunotherapy risks disease progression and death. Any practitioner presenting it as a cancer therapy is committing harm.

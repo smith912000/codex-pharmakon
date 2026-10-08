@@ -66,6 +66,12 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 - **Chinese Medicine mapping:** (lesser galangal, Gao Liang Jiang) — **acrid, hot;** enters Spleen and Stomach channels; warms the middle, dispels cold, relieves pain, stops vomiting. Greater galangal shares the warming-the-centre character.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — a warming agent of the digestive/middle axis, moving stuck qi and cold out of the centre; one of the gentle, food-grade warmers as opposed to the extreme heat of an aconite.
 
+### Cultivation Register
+
+**Southeast Asian traditional medicine (SEA).** No cultivation framing is attested. The entry's own account of the region is culinary: greater galangal (*kha*, *laos*) as a foundational aromatic of Thai, Indonesian and wider Southeast Asian cookery. The therapeutic uses described in the entry (stomachic, carminative, anti-nausea) are drawn from the Unani, Ayurvedic, Chinese and medieval European framings, not from a Southeast Asian source. No Thai, Malay, Khmer or Javanese medical text or ethnobotanical account was read in preparing this entry, so no regional status is asserted. Graded (c).
+
+**Practitioner's note.** Nothing beyond culinary use. No regional cultivation practice is recorded in the sources available.
+
 ### Contraindications
 
 - **Heat patterns / high pitta.** As a hot, drying aromatic, galangal can aggravate heat conditions, acid reflux, gastritis and yin-deficient heat; use sparingly where there is internal heat.

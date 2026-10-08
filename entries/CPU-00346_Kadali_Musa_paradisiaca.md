@@ -60,6 +60,12 @@ According to PubMed, *M. paradisiaca* has a **preclinical evidence base** for me
 - **Karma (actions):** Bṛṃhaṇa (nourishing), Vṛṣya (rejuvenative/aphrodisiac — ripe), Śītala (cooling), Grāhī (absorbent — unripe/kṣāra), Mūtrala (diuretic — stem), Vraṇaropaṇa (leaf dressing), Dāha-praśamana (anti-burning)
 - **Part-specific note:** ripe fruit ≠ unripe fruit ≠ kṣāra ≠ stem ≠ flower ≠ leaf; the classics treat these as distinct drugs
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** Kadali is named in the Suśruta Saṃhitā in several roles, none of them cultivational. It is a member of the Rodhrādi gaṇa (astringent, antidotal to Kapha and fat, relieving uterine and vaginal disorders and ulcers; Sutrasthana ch. 38) and is listed among the cooling Pitta-soothing drugs (ch. 39). Its wood, leaves, roots and fruits are among the plants burned to ash for caustic alkali (ch. 11), and the fruit is named in a food-incompatibility rule against eating it with sesame, milk or whey (ch. 20; Bhishagratna tr., Vol. I). No rasāyana or vājīkaraṇa assignment was read, so the grade is (b): a therapeutic and dietary frame, with cultivation status unattested.
+
+**Practitioner's note.** Nothing. The banana is ordinary food and a source of astringent and cooling remedies in the Suśruta text; the tradition records no vital-constitution role for it, only the rule not to combine the fruit with milk.
+
 ### Contraindications
 
 - **Kapha & Meda excess / obesity / heavy Kapha states:** ripe fruit is guru-snigdha-Kapha-aggravating; limit in Kapha disorders, congestion, and weight-loss contexts.

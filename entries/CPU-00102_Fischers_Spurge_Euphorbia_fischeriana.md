@@ -55,6 +55,12 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Chinese Medicine mapping:** **Lang Du** — acrid, (bitter), hot/flat; toxic; disperses cold-phlegm, breaks accumulations/masses, kills parasites; a drastic, processed-only drug.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — at the drastic, caustic, mass-and-phlegm-dispersing extreme of the eliminating axis; kin to the caustic spurges (European spurge, this volume).
 
+### Cultivation Register
+
+**Tibetan medicine (FMT).** Euphorbia fischeriana appears in the rGyud-bzhi only as one of several modern Linnaean identifications offered for the drug dur.byid, listed alongside Jatropha glandulifera, Baliospermum montanum, Iris dichotoma and Euphorbia adenochlora (rGyud-bzhi, Explanatory Tantra ch. 20, "Powers of Medicines", Clark tr. 1995). The text describes the plant's habit and, with the neighbouring thar.nu entry, says that Jatropha and Euphorbia purge hot and cold disorders. That is a therapeutic framing within the tradition's drug classification; no bcud-len or rejuvenation status is attested for it (the rejuvenation chapter, Explanatory Tantra ch. 23, does not name it). Matching dur.byid to this species is a modern, disputed identification. Grade (b).
+
+**Practitioner's note.** A drastic purgative handled only by a trained Tibetan physician in prepared form. There is no self-directed cultivation use and nothing here supports home preparation; the plant is toxic and caustic.
+
 ### Contraindications
 
 - **Eyes/mucous membranes/broken skin — caustic.** Severe injury; keep away.

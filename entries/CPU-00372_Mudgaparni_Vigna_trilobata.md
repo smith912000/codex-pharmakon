@@ -69,6 +69,12 @@ The antioxidant signal is genuine and quantified; classical *dāhapraśamana*/*j
 - **Dhātu:** rasa, rakta (cooling and cleansing)
 - **Srotas:** rasavaha, raktavaha
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** Mudgaparni is named in the Kakolyadi group (Sutrasthana ch. 38, Bhishagratna tr., Vol. I). The text describes that group as a whole as subduing Pitta, blood and Vayu, as a galactagogue, as "a restorative and an elixir" and as augmenting virile potency; it does not single out Mudgaparni. The Vidarigandhadi group in the same chapter lists Kshudra-Saha, which the translator glosses elsewhere as Mudgaparni; that group is described by its action on Vayu and Pitta and by its benefit in phthisis and cough. As Saha, the plant is also glossed in a medicated oil (Chikitsasthana ch. 37) and in a rat-bite remedy (Kalpasthana ch. 6), both Vol. II. No rasayana or vajikarana assignment for the plant itself was found: status (b).
+
+**Practitioner's note.** Nothing: no regimen for the individual substance is recorded, and the group description cannot be transferred to this species.
+
 ### Contraindications
 
 - **High Vāta / very dry constitutions:** its laghu-rūkṣa nature can aggravate Vāta if used dry and in excess; pair with unctuous anupāna.

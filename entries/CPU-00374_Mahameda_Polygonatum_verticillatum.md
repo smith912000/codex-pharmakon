@@ -70,6 +70,12 @@ Honest summary: measurable antioxidant/DNA-protective activity and constituent p
 - **Dhātu:** all seven, with emphasis on medas, māṃsa, śukra
 - **Srotas:** rasavaha, medovaha, śukravaha
 
+### Cultivation Register
+
+**Ayurveda (SS).** Mahāmedā appears in Suśruta's Kākolyādi gaṇa, where the name is listed beside Meda ("Kakoli, Kshira-Kakoli, Jivaka, Rishabhaka, Mudgaparni, Mashaparni, Meda, Mahameda..."; Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I). The group is described as subduing deranged pitta, blood and vāyu, increasing breast milk, and as "a restorative and an elixir" that augments virile potency. That is a group-level therapeutic description. No rasāyana or vājīkaraṇa assignment to this drug individually was found in the passage read, so the status is framed (b) and unattested for the single substance. Suśruta gives only the Sanskrit name; the equation with *Polygonatum verticillatum* is a later identification.
+
+**Practitioner's note.** Nothing specific to cultivate: the classic names the drug only as a member of a nourishing, pitta-pacifying group. Because the species is endangered and routinely substituted, a cultivator should not assume any sample is the plant the text means.
+
 ### Contraindications
 
 - **Āma, low Agni, high Kapha:** heavy, unctuous, cooling — aggravates congestion, obesity, metabolic sluggishness and *āma*. Avoid in these states.

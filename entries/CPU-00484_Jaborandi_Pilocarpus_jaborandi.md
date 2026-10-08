@@ -69,6 +69,12 @@ According to PubMed:
 
 Within northeastern Brazilian folk practice jaborandi is a "drawing/opening" remedy — pulling heat and fluid outward through sweat and saliva, used against fevers and stagnation. Mapped onto the Codex's cross-tradition grid it sits as a **hot, opening, moistening-by-discharge** agent (moisture is *expelled*, not conserved). This is an analogical placement: the plant's home tradition did not use a Galenic humoral vocabulary, and the label is inferred, not indigenous.
 
+### Cultivation Register
+
+**South American indigenous ethnobotany (SA).** No cultivation, *dieta* or regimen status is attested for jaborandi in a scholarly ethnography consulted for this entry. The entry reports that northeastern Brazilian peoples, glossed as Tupí-Guaraní speakers, chewed or infused the leaf as a sweating and salivating agent; that is a therapeutic attestation, and the specific people are not named by a source read here, so the claim generalises. The 1870s European adoption, the isolation of pilocarpine and the pharmacopoeial history are medical history, not Indigenous practice. The entry itself marks its hot/opening reading as inferred, and it is not applied here.
+
+**Practitioner's note.** Nothing cultivation-specific. The crude leaf is not a self-dosing herb; its value to a practitioner is the documented cholinergic action, not a regimen.
+
 ### Contraindications
 
 Pilocarpine's therapeutic action *is* controlled cholinergic excess; overdose or susceptibility tips into a **cholinergic crisis**. Real safety flags:

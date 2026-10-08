@@ -75,6 +75,14 @@ According to PubMed:
 
 European folk practice treats the Wayfaring Tree as **cooling and astringent** — the drying, tissue-tightening quality of a tannin-rich bark/leaf suited to relaxed, weeping, or bleeding tissue (gargles, styptic use). As with the classical attestation, this energetic label is **inferred from the astringent indication pattern** rather than quoted from a sourced classical text; treat it as a working classification pending **[USER: verify]**.
 
+### Cultivation Register
+
+**Avicenna / Unani (CM).** (c) Absent. No scholarly Unani source naming *Viburnum lantana* could be found; the Canon was not available to consult directly, and two searches of the scholarship on Ibn al-Baytar-era and Persian materia medica returned nothing that identifies this shrub. The entry's own "CM" material is a classical *viburnum* of uncertain identity and later European folk astringent use, not a Unani attestation. The tradition's frame of innate heat and radical moisture as a finite endowment is therefore not applied to this plant.
+
+**Greek / Dioscorides (DMM).** (c) Absent. *Viburnum lantana* is not described in Dioscorides, De materia medica (Osbaldeston & Wood tr. 2000). The one place the name "Viburnum gallorum" turns up is as an old synonym attached to the climber *ampelos melaina* (4-185), which the translators identify as *Clematis vitalba*, a different, poisonous plant; that chapter is not cited as evidence for this shrub. Dioscorides' real offer to a cultivator is a discipline of attention (provenance, gathering season, sensory assay), and he gives none for this species.
+
+**Practitioner's note.** Nothing. Neither stream gives this shrub a cultivation role; it is a hedgerow astringent of European folk use at most.
+
 ### Contraindications
 
 - **Raw fruit is mildly toxic / emetic.** The genus contains cyanogenic and other irritant/toxic constituents in unripe or raw fruit; do not eat raw berries.

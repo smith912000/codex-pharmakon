@@ -57,6 +57,12 @@ Codex policy: chemistry stated generally; species distinctions kept explicit; na
 - **Folk-Mediterranean mapping:** the wart-burner and drastic purge; the caustic-latex shrub; "euphorbia" preserving the physician Euphorbus's name.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — at the extreme caustic/eliminating pole (burn off, force out); an escharotic and drastic of the harshest grade, used at the surface rather than internally.
 
+### Cultivation Register
+
+**Dioscorides / classical Greco-Roman (DMM).** Dioscorides treats the characias spurge (*tithumalos charachias*, the first of seven tithymals) as a wild drug plant of rough, hilly places, not a cultivated one: the text gives a habitat note, not a cultivation status. What he supplies is a discipline of gathering. The juice is drawn about vintage time; the gatherer must not stand upwind or touch the eyes, and must first grease the body, face, neck and scrotum; the seed is gathered in autumn and dried in the sun. Uses are as a purge and emetic, and externally on warts and ulcers. The identification with *Euphorbia characias* follows the translators' gloss. Graded (b) (Dioscorides, De materia medica 4.165a, Osbaldeston & Wood tr. 2000).
+
+**Practitioner's note.** Nothing to cultivate or take. The one transferable discipline is protective handling of a caustic latex: wind, eyes, skin.
+
 ### Contraindications
 
 - **Eyes and mucous membranes — absolute.** Latex contact causes severe, potentially sight-threatening injury; ophthalmic emergency.

@@ -71,6 +71,14 @@ Deflation, plainly: human clinical evidence for silverweed is **thin to absent**
 
 Read as **cool, dry and astringent** — a binding, tightening herb for slack, weeping, over-loose tissue (loose bowels, lax bleeding gums, weeping skin). This is inferred from the tannin chemistry and the consistent folk antidiarrhoeal/styptic use rather than a securely codified Hot/Cold degree in a named humoral text, so it is offered as interpretation.
 
+### Cultivation Register
+
+**Unani / Avicenna (CM).** No scholarly source tying *Potentilla anserina* to the Unani or Avicennan materia medica was found in the sources consulted (searches of the scholarly literature on Arabic and Unani herbal medicine returned nothing naming silverweed). The entry itself says it could not substantiate an attribution in the Canon and that its material is Northern-European folk medicine. The CM tag is unconfirmed; no cultivation framing (innate heat, radical moisture, *ruh*) is claimed (c).
+
+**Greek / Dioscoridean (DMM).** *Potentilla anserina* is not named in Dioscorides, De materia medica (Osbaldeston & Wood tr. 2000). The nearest chapter, *pentaphullon* (4.42), is glossed by the translators as other *Potentilla* species (*P. alba*, *P. hirta* and kin), a genus-level congener only; its mint-like five-parted leaf does not describe silverweed. It records root decoctions for toothache, mouth ulcers and flux, and also parenthetical amuletic uses. No cultivation framing is attested for silverweed itself (c).
+
+**Practitioner's note.** Nothing. Silverweed's recorded role is a short-course astringent and cramp herb in European folk practice; neither tradition read here gives it a cultivation role.
+
 ### Contraindications
 
 - **Tannin astringency:** may cause nausea, gastric upset or constipation on heavy or prolonged use.

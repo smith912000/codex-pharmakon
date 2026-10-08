@@ -58,6 +58,12 @@ According to PubMed, the modern evidence for *D. sissoo* is **preclinical (anima
 - **Karma (actions):** Lekhana (scraping/reducing), Raktaśodhana (blood-purifying), Kṛmighna (anti-parasitic), Kaṇḍūghna (anti-pruritic), Vraṇaśodhana (wound-cleansing), Kuṣṭhaghna (anti-dermatosis)
 - **Gaṇa membership:** Salasārādi gaṇa (Suśruta) — skin disease, obesity, prameha
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** Sushruta lists *Shinshapa* in the Salasaradi group (which "destroys the germ of Kushtha" and absorbs deranged fat and Kapha) and in the Mushkakadi group, whose virtue is destroying fat and deranged Kapha (Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I). It also appears among the expressed juices in which a red-hot iron mass is quenched in a medicated preparation (Chikitsasthana ch. X, Bhishagratna tr., Vol. II). All of these are therapeutic attestations. No *rasayana* or *vajikarana* assignment was read, so no cultivation status is attested: grade (b).
+
+**Practitioner's note.** Nothing. A drying, fat-reducing group-drug used against defined complaints; Sushruta gives it no long-term or vitality-building role.
+
 ### Contraindications
 
 - **Cooling/drying profile:** may aggravate Vāta and worsen dryness, constipation, or emaciation with prolonged internal use.

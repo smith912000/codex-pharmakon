@@ -57,6 +57,12 @@ These findings corroborate the antioxidant and anti-inflammatory *direction* of 
 - **Srotas (channels):** Prāṇavaha (respiratory), Rasavaha, Raktavaha (blood/skin), and the toxicological handling of āgantu-viṣa
 - **Prabhāva (specific effect):** Its signature is the raising of the reactive threshold — the anti-anaphylactic prabhāva that distinguishes it from ordinary astringents
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** Sushruta lists *Shirisha* in the Salasaradi group (Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I), and the toxicology section prescribes a "Pancha-Shirisha Agada": a decoction of the roots, flowers, bark, seeds and sprouts of the Shirisha tree, taken with honey, the five salts and Trikatu, against insect-bite poisoning (Kalpasthana ch. V, Bhishagratna tr., Vol. II). Shirisha flowers also enter a bamboo-scraping antidote in the same chapter. These are therapeutic attestations. No *rasayana* or *vajikarana* assignment was read, so no cultivation status is attested: grade (b).
+
+**Practitioner's note.** Nothing. An antitoxic and skin-drying drug used for defined complaints; Sushruta gives it no long-term or vitality-building role.
+
 ### Contraindications
 
 - Traditionally drying (Rūkṣa, Laghu) — use with caution in frank Vāta depletion, dryness, and debility without suitable anupāna.

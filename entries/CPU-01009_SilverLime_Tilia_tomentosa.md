@@ -72,6 +72,14 @@ Claims graded:
 
 The Cool–Moist, relaxing and diaphoretic reading in the header is the standard humoral/Western-herbal characterisation of **lime flower (tilleul) as a genus**: cooling, moistening (mucilaginous), gently relaxing to the nervous system and opening the pores to promote sweat in fever. It is applied to *T. tomentosa* by genus membership and identical use rather than a distinct classical grading of silver lime specifically. Recorded as genus-level.
 
+### Cultivation Register
+
+**Avicenna / Unani (CM).** (c) Absent. No scholarly Unani source naming *Tilia tomentosa* could be found; the Canon was not available to consult directly, and the limited searches made of Persian and Arabic materia medica scholarship returned nothing for lime or linden. The entry's own CM text is a genus-level cooling, sweat-promoting reading that matches later European tilleul practice rather than a Unani attestation. The Unani frame of innate heat and radical moisture is not applied to this plant.
+
+**Greek / Dioscorides (DMM).** (c) Absent. The lime or linden is not named in Dioscorides, De materia medica (Osbaldeston & Wood tr. 2000); a search of the full text for the genus and its common names finds nothing, including the *philyra* the entry's Origin section attributes to him. A plant unknown to Dioscorides but used in modern European phytotherapy belongs under EF, not DMM.
+
+**Practitioner's note.** Nothing. No cultivation role is attested in either stream for silver lime.
+
 ### Contraindications
 
 - **Cardiac / frequent-use caution — [USER: verify]:** a long-repeated caution holds that very frequent, prolonged lime-flower use may be inadvisable for people with certain heart conditions. This claim is widely stated but poorly substantiated in the primary literature; no controlled evidence was retrieved. Flagged for verification; not asserted as established. Occasional tisane use is regarded as safe.

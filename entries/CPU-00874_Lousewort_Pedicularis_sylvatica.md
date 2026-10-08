@@ -82,6 +82,14 @@ Kenetica records **no reliable classical energetic assignment** for *Pedicularis
 
 Within Kenetica's own frame the plant is classified functionally: **Dependent / Derived** — a substance whose character is contingent on what it is attached to. It shares this class with Red Bartsia and Yellow Rattle. The teaching is that a Dependent substance cannot be given a fixed energetic signature at all, because its signature is partly its host's.
 
+### Cultivation Register
+
+**Avicenna / Unani (CM).** (c) Absent. No scholarly Unani source naming *Pedicularis sylvatica* could be found; the Canon was not available to consult directly, and the limited searches made of Ibn al-Baytar-era and Persian materia medica scholarship returned nothing for this northern hemiparasite. The entry itself records the classical attestation as unsubstantiated. The Unani frame of innate heat and radical moisture is not applied to this plant.
+
+**Greek / Dioscorides (DMM).** (c) Absent. *Pedicularis sylvatica* is not described in Dioscorides, De materia medica (Osbaldeston & Wood tr. 2000). The only lousewort in the text is a translators' suggestion of *Pedicularis palustris* alongside stavesacre (*Delphinium staphisagria*) at 4-156, *staphisagria*, whose description and uses are those of stavesacre, a poisonous emetic; the Latin name *herba pedicularis* there is Roman and refers to lice. That chapter does not describe this plant and is not cited as evidence for it.
+
+**Practitioner's note.** Nothing. Neither stream attests a cultivation role for this species.
+
 ### Contraindications
 
 - **Do not take internally.** There is no established safe dose, no toxicology and no clinical data for *P. sylvatica*.

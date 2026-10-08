@@ -53,6 +53,12 @@ The closest available evidence is from its **pair-species and near-taxonomic twi
 - **Karma (actions):** jīvanīya (life-promoting), bṛṃhaṇa (anabolic/tissue-building), balya (strengthening), rasāyana (rejuvenative), śukrala/vājīkara-supportive (reproductive), vayaḥsthāpana (age-sustaining), immunomodulatory (classical bala/ojas), raktapittahara
 - **Srotas / systems:** rasavaha & raktavaha (plasma/blood), śukravaha (reproductive), ojas/immunity, mucosa
 
+### Cultivation Register
+
+**Ayurveda (SS).** Vṛddhi is named in the Kākolyādi gaṇa, listed as "Riddhi, Vriddhi, Mridvika, Jivanti and Madhuka" (Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I). The group is described as subduing pitta, blood and vāyu, increasing breast milk, and as "a restorative and an elixir" augmenting virile potency. Bhishagratna glosses the "Jīvanīya group" as the Kākolyādi group (Uttaratantra ch. 42 and ch. 48, Vol. III), and Suśruta uses Jīvanīya drugs in milk and ghee (for example Śārīrasthāna ch. 10 and Cikitsasthana ch. 5, Vol. II). Those are group-level therapeutic uses. No rasāyana or vājīkaraṇa assignment to Vṛddhi alone was found in the text, so the status is (b). Suśruta gives only the name; the orchid identification is a later one.
+
+**Practitioner's note.** Nothing to cultivate from the classic: Vṛddhi is a named member of a restorative, milk-promoting group. The entry's rare, substituted material means a cultivator cannot assume the plant in hand is the one the text names.
+
 ### Contraindications
 
 Heavy, sweet, unctuous and Kapha-increasing — use with care or avoid in obesity, diabetes/medas disorders, congestion, high Kapha and weak digestion (mandāgni); can cause heaviness and sluggishness. Not for acute infection or high-āma states. The dominant practical hazard is **adulteration/misidentification**, since authentic material is rare and routinely substituted. Conservation: wild collection is discouraged/regulated. Pregnancy/lactation and paediatric use: `[USER: verify with practitioner]`.

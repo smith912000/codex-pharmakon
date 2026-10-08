@@ -80,6 +80,12 @@ Galangal is best understood as a short-course intervention timed to symptom onse
 
 ---
 
+### Cultivation Register
+
+**Later Chinese medicine (TCM).** Framed, status unattested. *Gāo liáng jiāng* (高良姜) holds a long-standing therapeutic place in the Chinese materia medica as the herb for cold lodged in the Stomach: pungent and hot, entering Spleen and Stomach, warming the Middle Burner and relieving cold-type epigastric pain, paired with *Xiāng fù* in the formula *Liáng fù wán*. These are therapeutic attributions only. No *san pin* grade or yang sheng role was located in a named Bencao for this herb, so no cultivation status is recorded. Its documented Bencao history was not retrieved for this register and is not characterised here.
+
+**Practitioner's note.** Nothing. A hot, dispersing herb taken for a defined cold-stomach complaint and then stopped; the tradition as recorded here gives no basis for long-term use.
+
 ### Contraindications
 
 - **Heat patterns:** Contraindicated where there are heat signs — burning epigastric pain, thirst for cold drinks, red tongue with yellow coat, or acid reflux of a hot nature. The herb's heat will aggravate these.

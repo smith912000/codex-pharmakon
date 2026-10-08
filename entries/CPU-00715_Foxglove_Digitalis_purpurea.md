@@ -122,6 +122,12 @@ This is, unusually, a serviceable *phenomenology* wrapped around a false *mechan
 
 **Where a doctrine has no vocabulary for a symptom, it cannot warn you about that symptom.** The gap between "cold and dry" and "yellow vision plus a serum potassium of 6.5" is the exact distance this codex exists to close. **[USER: verify]** any energetic tag before treating it as attested rather than reconstructed.
 
+### Cultivation Register
+
+**Dioscorides / classical Greco-Roman (DMM).** Not named in Dioscorides, De materia medica (Osbaldeston & Wood tr. 2000): a search of the translation for *Digitalis* and for foxglove finds neither, and no chapter describes a plant that can honestly be identified with *Digitalis purpurea*. No cultivation framing is therefore attested, and the DMM tag is not confirmed by this text. Graded (c): absent.
+
+**Practitioner's note.** Nothing from this tradition. The plant lies outside the Dioscoridean record.
+
 ### Contraindications
 
 **⚠️ ABSOLUTE — no ingestion, by anyone, in any preparation, at any dose, for any reason.**

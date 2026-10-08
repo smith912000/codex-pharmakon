@@ -70,6 +70,12 @@ The evidence base is **genuinely sparse**, and this must be stated plainly rathe
 - **Action:** binds and seals weeping tissue; traditionally "lowers" (antihypertensive); soothes and heals gastric/skin ulceration.
 - **Kenetica reading:** a *mild sealing-and-settling herb* — best matched to weeping wounds/ulcers and, adjunctively and cautiously, to the settling of mild vascular over-activity.
 
+### Cultivation Register
+
+**Russian phytotherapy (RUS).** Framed, status unattested. Russian phytotherapy is a clinical and pharmacopoeial tradition, and it places the herb there. Shikov et al. (*J Ethnopharmacol* 2014, review of the Russian Pharmacopoeia) record that the aerial parts of *Gnaphalium uliginosum* were included in the VIIIth Pharmacopoeia of the USSR in 1952, with use in hypertension and ulcers, and as an anti-inflammatory, astringent and antiseptic infusion. This is a therapeutic and regulatory status, not a cultivation one: no vital-constitution, longevity or rejuvenative framing is recorded in what was read. Graded (b).
+
+**Practitioner's note.** Nothing. This is a short-course astringent and clinical herb in its tradition; nothing supports long-term "cultivation" use, and the entry itself calls the evidence data-sparse.
+
 ### Contraindications
 
 - **Not a substitute for hypertension or ulcer treatment.** Hypertension and peptic ulcer disease are serious and require proper diagnosis and medical management. Marsh cudweed may only be considered supportive/adjunctive, and internal use for these indications should be under professional supervision — never as a replacement for prescribed therapy.

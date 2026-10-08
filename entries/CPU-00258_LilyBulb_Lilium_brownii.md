@@ -58,6 +58,12 @@ Human clinical evidence for isolated Bǎi Hé is **effectively absent**; the mod
 - **Tibetan / Badianus:** Not attested.
 - **Dantian correspondence:** Middle–Upper — replenishes the fluid/Yin substrate supporting the Heart-mind; a "moistening and gathering" rather than a moving herb.
 
+### Cultivation Register
+
+**Shennong / classical Chinese (SBJ).** Bai he (Bulbus Lilii) appears in the Yang Shou-zhong translation under the Inferior Class heading (下品, the grade for drugs that specifically treat disease). It is sweet and balanced and mainly treats evil qi, abdominal distention and heart pain, disinhibits urination and defecation, supplements the center and boosts the qi (Shennong Bencao Jing, lower class, Bai He, Yang Shou-zhong tr. 1998). No long-term-taking or life-nourishing statement is recorded, so the status is therapeutic only. The "Lily disease" picture belongs to the later Han clinical literature, not to this monograph.
+
+**Practitioner's note.** A lower-grade listing with a plain therapeutic monograph: nothing in the classic supports ongoing cultivation use. Its modern reputation as a gentle supplementing food is later and is not part of this record.
+
 ### Contraindications
 
 - **Cold/damp patterns:** As a cool, moistening Yin tonic, it is classically contraindicated in cold-phlegm cough, diarrhoea from Spleen–Stomach cold, or damp-heavy states — it may aggravate dampness.

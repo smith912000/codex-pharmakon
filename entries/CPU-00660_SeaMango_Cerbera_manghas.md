@@ -136,6 +136,12 @@ There is no dose of *Cerbera manghas* that this codex will state, imply, bracket
 
 That the traditions did not build a Galenic or humoral placement for sea mango is itself the diagnostic. They did not classify it as cold-in-the-third-degree. They classified it as **the tree you kill fish with**. That is a more accurate energetics than anything this codex could improve on.
 
+### Cultivation Register
+
+**Unani / Avicenna (CM).** No cultivation framing is attested, and no Unani placement of this species is shown. The entry's own account of the tree is not Unani: it records a fish poison, a pest-killer, an ordeal poison (documented chiefly for the sibling *Cerbera odollam*) and a marginal emetic folk use, all drawn from Indo-Pacific and Indian Ocean regional use. None of this falls under innate heat, radical moisture or *ruh*, and none of it conserves or builds vitality. The CM tag is unconfirmed: the content filed under it is regional folk and ordeal-poison use, not Greco-Arab humoral medicine, and ordeal use is not a tradition code in this registry.
+
+**Practitioner's note.** Nothing. This is an identification-and-avoidance entry; no tradition cited here offers a cultivation use, and the plant is lethal.
+
 ### Contraindications
 
 # ⛔ ABSOLUTE — ALL ROUTES, ALL PERSONS, ALL QUANTITIES

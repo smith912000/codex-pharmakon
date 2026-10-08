@@ -59,6 +59,12 @@ According to PubMed, *M. oleifera* is among the **best-studied** Ayurvedic plant
 - **Karma (actions):** Dīpana-Pācana (digestive-kindling), Lekhana (scraping/fat-reducing), Śothahara (anti-inflammatory), Kṛmighna (anthelmintic), Medohara (anti-obesity), Śvayathu-hara (anti-swelling), Cakṣuṣya (eye — leaf), Rocana (appetising)
 - **Gaṇa membership:** **Varuṇādi gaṇa** (Suśruta)
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** Śigru (glossed as Moringa pterygosperma in the Bhishagratna index, the same species as M. oleifera) is attested in the Suśruta Saṃhitā in therapeutic and dietary roles. It is a member of the Varuṇādi gaṇa (Kapha- and fat-reducing; Sutrasthana ch. 38), an errhine drug (ch. 39) and part of the pungent group by taste (ch. 42). In the chapter on food and drink it is described as pungent, alkaline, sweet and bitter and as generating Pitta, while the Madhu-śigru variety is laxative and appetising (ch. 46; Bhishagratna tr., Vol. I). No rasāyana or vājīkaraṇa assignment was read, so the grade is (b): a therapeutic and dietary frame, with cultivation status unattested.
+
+**Practitioner's note.** Nothing. Śigru is a pungent, Pitta-generating pot-herb and drug in the Suśruta text, and the tradition records no vital-constitution role for it. The modern reputation of Moringa as a nourishing tree has no basis in the passages read.
+
 ### Contraindications
 
 - **Pitta excess / heat conditions:** pungent-hot nature can aggravate Pitta, acidity, and bleeding disorders — use moderately in high-Pitta states.

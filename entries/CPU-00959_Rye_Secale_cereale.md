@@ -80,6 +80,14 @@ According to PubMed:
 
 No firm classical species-level energetic citation is established here. Within the general grain-humoral scheme rye is treated as a nourishing bread-grain, cooler/drier and "coarser" than wheat — presented as an **inference** from the grain group, not an attested classification. The medically decisive "hot/burning" signature historically linked to rye (St Anthony's *Fire*) is a description of **ergotism**, i.e. the fungal poison, and must not be read as an energetic property of the grain.
 
+### Cultivation Register
+
+**Unani / Avicenna (CM).** No scholarly source was found tying rye (*Secale cereale*) or ergot to the Unani or Avicennan materia medica; the search returned only nineteenth-century ergot literature and museum and library pages. The entry itself says that a specific CM citation is not substantiated and that the CM tag is a cereal-group placement, with the ergot history being medieval and early-modern European. The CM tag is unconfirmed, and the entry's content is European folk and obstetric history (EF) rather than Unani. No *ruh*, innate-heat or radical-moisture framing is attested. Grade (c).
+
+**Greek / Dioscorides (DMM).** Rye is not named in Dioscorides, *De materia medica* (Osbaldeston & Wood tr. 2000); a search of the full English text for *Secale* and for rye found nothing. His cereal chapters treat barley, wheat, zea (emmer and spelt), olyra and related grains, and none of those chapters describes rye. The tag is unconfirmed in this text, and ergot as a drug is entirely post-classical. Grade (c).
+
+**Practitioner's note.** Nothing. Rye as bread grain is food, and ergot-contaminated grain is a poison; neither tradition offers a cultivation use.
+
 ### Contraindications
 
 - ⚠️ **Ergotism from contaminated grain** — never consume rye (or any cereal) with visible dark ergot sclerotia; gangrenous (vasoconstrictive limb ischaemia) and convulsive (seizure/psychosis) forms can be fatal. This is a food-safety hazard, managed by clean grain.

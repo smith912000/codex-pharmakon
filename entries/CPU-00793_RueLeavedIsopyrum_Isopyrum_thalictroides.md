@@ -65,6 +65,14 @@ There is **no** Kenetica dosing recommendation for internal use. The cultivator'
 
 Provisionally: bitter and cool, dispersing — the generic profile of an alkaloid-bearing woodland ranunculid, assigned by analogy to meadow-rue rather than from a documented independent tradition. This classification is **inferred, not attested**, and is flagged as such. [USER: verify against any sourced energetic attribution before relying on it.]
 
+### Cultivation Register
+
+**Greek / Dioscoridean (DMM).** Dioscorides' *isopuron* (De materia medica 4.121, Osbaldeston & Wood tr. 2000) is a plant with a tendril toward the upper leaf, small seed-heads tasting like *melanthium*, and a leaf tasting of anise; a decoction of the seed in honey water is given for disorders of the chest, coughs, spitting of blood and liver complaints. The translators' gloss lists *Isopyrum fumaroides* first and *I. thalictroides* second, so the identification is genus-level and uncertain. No cultivation status is recorded (b): only a therapeutic frame, and a discipline of tasting leaf and seed to identify the plant. The bean chapter 2.130 is a different plant and is not cited.
+
+**Unani / Avicenna (CM).** No scholarly source tying *Isopyrum thalictroides* to the Unani or Avicennan materia medica was found in the sources consulted. The entry itself says its own attestation is weak and provisional, with no sourced CM content. The CM tag is unconfirmed; no cultivation framing is claimed (c).
+
+**Practitioner's note.** Nothing. This is a study specimen and a family-caution exemplar; neither tradition read here supports gathering or growing it for use.
+
 ### Contraindications
 
 - **Ranunculaceae irritancy caution:** the buttercup family characteristically carries ranunculin/**protoanemonin**, an acrid vesicant liberated on tissue damage that can irritate skin and mucosa; although protoanemonin content was not confirmed for this species in retrieved data, handle fresh material as potentially irritant. [USER: verify species-specific protoanemonin content.]

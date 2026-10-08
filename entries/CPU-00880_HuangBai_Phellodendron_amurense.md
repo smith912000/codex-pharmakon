@@ -73,6 +73,14 @@ Deflation, plainly: do not tell a student that "Huang Bai bark tea lowers HbA1c 
 
 **Cold, Dry, intensely Bitter.** Enters (classically) the Kidney, Bladder and Large Intestine channels; drains fire and dries damp-heat, with a downward, lower-burner tropism sharpened by salt-processing. This is a securely codified reading in the Chinese source stream, not an inference — one of the three canonical bitter-cold "yellow" drainers.
 
+### Cultivation Register
+
+**Shennong / classical Chinese (SBJ).** No *san pin* grade for Huang Bai could be read in the sources retrieved. The Yang Shou-zhong translation (1998) is only legible for its herb section; the tree-drug pages, where a bark drug of this kind would be listed, could not be read, and no scholarly source was found that states a class for *Phellodendron amurense*. The entry's own wording is therapeutic (bitter, cold, clearing damp-heat in the lower burner). No cultivation status is therefore attested here, and any claim of a long-term nourishing grade would be unsupported. The tag remains unconfirmed.
+
+**Tibetan medicine (FMT).** The rGyud-bzhi as rendered by Clark (1995) and the Men-Tsee-Khang (2011) Root and Explanatory Tantras do not name *Phellodendron*. They name Indian barberry (*Berberis*), whose middle bark is used for bile disorders and kidney fevers; that is a different genus and no evidence for this tree. No cultivation or *bcud len* framing is attested for Huang Bai.
+
+**Practitioner's note.** Nothing. This is a bitter, cold drug for a defined heat complaint, taken for a course and stopped; no source retrieved supports long-term use.
+
 ### Contraindications
 
 - **Neonates / jaundiced infants: contraindicated.** Berberine displaces bilirubin from albumin — kernicterus risk (Chan 1993).

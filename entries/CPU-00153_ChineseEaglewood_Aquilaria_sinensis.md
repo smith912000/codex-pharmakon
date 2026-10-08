@@ -72,6 +72,13 @@ A review of agarwood's signature **2-(2-phenylethyl)chromones** (Yu et al., 2022
 
 ---
 
+
+### Cultivation Register
+
+**Tibetan medicine (FMT).** No cultivation framing is attested for *Aquilaria sinensis*. The rGyud-bzhi names *a.ga.ru* (eaglewood), which Clark's translation glosses as *Aquilaria agallocha*, a congener, not *A. sinensis*. There it is a warm drug with a bitter taste and coarse power that cures hot disorders of the heart and the "life channel", and it is listed among medicines for "wind fevers" (rGyud-bzhi, Explanatory Tantra ch. 20 and 21, Clark tr. 1995). That is a therapeutic listing for the congener only; no *bcud len* or rejuvenation assignment is recorded.
+
+**Practitioner's note.** Nothing to cultivate in the Tibetan source read; the incense and grounding claims in this entry are not drawn from it.
+
 ### Contraindications
 
 - **Yin-deficiency with heat / empty-fire:** the warm, dry, descending aromatic is contraindicated where there is heat or yin deficiency.

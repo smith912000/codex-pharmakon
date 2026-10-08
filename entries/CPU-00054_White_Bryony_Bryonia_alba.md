@@ -58,6 +58,12 @@ Codex policy: chemistry stated securely; homeopathic use framed as a separate tr
 - **Folk-European mapping:** "English mandrake / devil's turnip" — the carved-root mandrake substitute; drastic purgative and external resolvent.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the forcible eliminating/dispersing axis (purgation, resolution of swellings), kin to the cucurbitacin drastics colocynth (I_075) and squirting cucumber (I_223).
 
+### Cultivation Register
+
+**Dioscorides / classical Greco-Roman (DMM).** Dioscorides' *ampelos leuke* ("white vine", marked poisonous) climbs by tendrils over neighbouring shrubs and bears a red clustered fruit; this is a wild-plant description, with no cultivation status stated. The young tendrils are eaten boiled in spring to move urine and bowels, and the root is juiced in spring. The root is also given as a drink for epilepsy, one teaspoon daily for a year, with the caution that it sometimes troubles the understanding. That year-long course is a therapeutic regimen, not a vital or longevity claim. The identification with *Bryonia* is modern and debated, and the red fruit does not fit *B. alba* L. Graded (b): therapeutic, status unattested (Dioscorides, De materia medica 4.184, Osbaldeston & Wood tr. 2000).
+
+**Practitioner's note.** Nothing. The root is a drastic, poisonous drug; Dioscorides' attention to season of juicing and to the plant's effect on the mind is the only transferable discipline.
+
 ### Contraindications
 
 - **Pregnancy — absolute.** Drastic purgative and traditional emmenagogue; abortifacient risk; contraindicated.

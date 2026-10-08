@@ -55,6 +55,12 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 - **Unani mapping:** opening/deobstruent and diuretic (mudirr-e-baul); mild aphrodisiac and kidney-supporting reputation.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the cooling-moistening, fluid-moving/diuretic and gently eliminating axis (open the water passages), with a nutritive aspect; the archetypal "cleanse the urinary passages" food-medicine.
 
+### Cultivation Register
+
+**Dioscorides (DMM).** Dioscorides, De materia medica 2.152 (Osbaldeston & Wood tr. 2000) says asparagus "grows in rocky places", a well-known herb whose small stalks, boiled and eaten, soothe the intestines and encourage urine. A root decoction is given for painful or frequent urination, jaundice, kidney ailments and hip problems, and for the bite of a harvest spider; the seed serves the same purposes. This is a habitat remark and a therapeutic and dietary account. He does not describe the plant as cultivated here, so the claim of cultivation in the entry is not supported by this chapter. The translation's suggested identifications include several Asparagus species, so the match to A. officinalis is a modern one. No cultivation status is attested.
+
+**Practitioner's note.** Nothing beyond the kitchen and the sickroom: the tradition offers the shoot as food and the root as a diuretic, with no regimen of long-term cultivation attached.
+
 ### Contraindications
 
 - **Gout / hyperuricaemia.** Asparagus is relatively high in purines; can aggravate gout in susceptible individuals.

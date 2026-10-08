@@ -66,6 +66,12 @@ According to PubMed:
 - **Doṣa action:** *Kapha-Pitta-śāmaka* — its astringency and bitterness pacify Kapha and Pitta (notably the bleeding/heat of aggravated Pitta); excess dryness may aggravate Vāta.
 - **Karma (actions):** *Grāhī / stambhana* (binding, checking flux), *raktastambhaka* (haemostatic), *śothahara* (anti-inflammatory), *dīpana* (mild digestive kindling), *varṇya* (complexion-enhancing), *rasāyana*-adjunct (rejuvenative in compound context).
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** No rasayana or vajikarana assignment for nagakeshara was found in the Sushruta Samhita. It is named as Nagakeshara in the Vachadi group (Sutrasthana ch. 38, Bhishagratna tr., Vol. I), which the text describes as a purifier of breast milk and as acting on deranged Pitta and Kapha, with benefit in ulcers and itching eruptions. The same chapter lists a Nagapushpa in the Eladi, Anjanadi (haemoptysis and internal burning) and Priyangvadi groups; the equation of Nagapushpa with this species is a later identification and is not assumed here. These are therapeutic group attestations: status (b), cultivation status unattested.
+
+**Practitioner's note.** Nothing: the text places it among remedies for specific complaints and records no long-term regimen.
+
 ### Contraindications
 
 - **Astringent and drying — may aggravate Vāta**, constipation, and dryness; caution in Vāta-dominant or depleted constitutions.

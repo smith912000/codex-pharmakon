@@ -114,6 +114,14 @@ This is the lowest grade this codex issues, and *C. arvense* earns it cleanly. I
 
 The Kenetic reading is deliberately conservative. A cool-moist surface classification is what the plant *looks like* it should be. Until someone runs an assay, that is all it is.
 
+### Cultivation Register
+
+**Greek / Dioscorides (DMM).** No cultivation framing is attested, and the plant itself is not named. *Cerastium* does not appear in Dioscorides, De materia medica (Osbaldeston & Wood tr. 2000); the chickweed-type entries there (*alsine*, 4.87, *muos oton*, 2.214) are identified with *Stellaria* or other genera, not with field chickweed. The tag stands unconfirmed in that text, and any cultivation reading would be an import from a different plant.
+
+**European folk / phytotherapy (EF).** No cultivation framing is attested. The entry's own sourced content says the chickweed herbal tradition attaches to *Stellaria media*, that *Cerastium* was folded in by resemblance, and that contemporary forager practice treats field chickweed as a coarse, hairy lesser substitute for poultices and as a seldom-eaten potherb. I retrieved no named herbal or monograph that records a distinct use of *C. arvense*, let alone a long-term or tonic role.
+
+**Practitioner's note.** Nothing. Do not carry *Stellaria* claims over to this plant; if used at all, it is a minor topical herb, and no practice of cultivation attaches to it.
+
 ### Contraindications
 
 ⚠️ **HEAVY-METAL ACCUMULATION — the primary practical hazard.** *Cerastium arvense* is a coloniser of disturbed and contaminated ground and has been measured accumulating copper to critical-toxicity concentrations in its shoots on post-flotation copper tailings, with concurrent enrichment in cadmium, cobalt, nickel, and lead (Kasowska et al. 2018, [DOI](https://doi.org/10.1007/s11356-017-0451-y)). **Never harvest from roadside verges, spoil, tailings, brownfield, former mine land, railway margins, or any ground of unknown history.** This is not a theoretical caution — it is the best-established chemical fact about this plant, and it is a fact about poison.

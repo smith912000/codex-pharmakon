@@ -102,6 +102,12 @@ Cold and dry in the Northern European folk framing that the codex can actually s
 
 The energetic reading is, unusually, a decent *phenomenological* description and a terrible *mechanistic* one. Note also the classic toxidrome the folk classification never captured: **xanthopsia** — objects haloed and washed yellow-green, the visual field of a Van Gogh — plus nausea, vomiting, confusion, and arrhythmia. No traditional energetic system predicts yellow vision, because no energetic system had a concept of retinal Na⁺/K⁺-ATPase. Where the doctrine has no vocabulary for a symptom, the doctrine cannot warn you about it. **[USER: verify] any energetic tag applied to this species specifically rather than inherited from *D. purpurea*.**
 
+### Cultivation Register
+
+**Dioscorides / classical Greco-Roman (DMM).** Not named in Dioscorides, De materia medica (Osbaldeston & Wood tr. 2000): a search of the translation for *Digitalis* and for woolly foxglove finds neither, and no chapter describes a plant that can honestly be identified with *Digitalis lanata*. No cultivation framing is therefore attested, and the DMM tag is not confirmed by this text. Graded (c): absent.
+
+**Practitioner's note.** Nothing from this tradition. The plant is a modern pharmacopoeial and garden species, not part of the Dioscoridean record.
+
 ### Contraindications
 
 **⚠️ ABSOLUTE — this plant is not to be ingested by anyone, in any preparation, at any dose, for any reason.**

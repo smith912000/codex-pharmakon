@@ -49,6 +49,12 @@ According to PubMed, direct pharmacological work on *Prunus cerasoides* exists b
 - **Karma (actions):** varṇya (complexion-promoting), raktaprasādana (blood-cooling/purifying), dāhapraśamana (relieves burning), tṛṣṇānigrahaṇa (relieves thirst), chardighna (anti-emetic), kuṣṭhaghna (skin-disorder), stambhana (astringent/haemostatic)
 - **Srotas / systems:** raktavaha (blood), rasavaha (plasma), skin
 
+### Cultivation Register
+
+**Ayurveda (SS).** Padmaka is named in three of Suśruta's drug groups: the Kākolyādi gaṇa (described as a "restorative and an elixir" that augments virile potency, as a group), the Sārivādi gaṇa (thirst, haemoptysis, bilious fever, burning) and the Guḍūcyādi gaṇa (febrifuge; Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I). It is also an ingredient in healing oils and ghees for wounds and abscesses (Cikitsasthana ch. 2 and ch. 16, Vol. II). All of this is therapeutic attestation, and only the Kākolyādi sentence touches rasāyana-like language, at group level. No rasāyana or vājīkaraṇa assignment to Padmaka itself was found, so the status is (b). The equation of the Sanskrit name with *Prunus cerasoides* is a later identification.
+
+**Practitioner's note.** Nothing to cultivate: in the classic it is a cooling ingredient for wounds, fever and thirst. The rejuvenating wording belongs to a group of nineteen drugs, not to Padmaka.
+
 ### Contraindications
 
 Cooling and drying — use cautiously in Vāta-cold and dry constitutions and in weak digestion (mandāgni) when used alone. As a Rosaceous bark it may contain cyanogenic glycosides; only properly processed heartwood/bark should be used and never in unregulated quantity. Pregnancy/lactation and paediatric use: `[USER: verify with practitioner]`. Not a treatment for diagnosed bleeding disorders, febrile illness or dermatological disease without medical oversight.

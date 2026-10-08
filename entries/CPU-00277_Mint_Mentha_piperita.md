@@ -54,6 +54,12 @@ Attribution: findings from PubMed.
 - **Greco-Arab (Avicenna):** cooling, carminative, stomachic.
 - **Dantian:** middle (gut-settling) and upper (head-cooling).
 
+### Cultivation Register
+
+**Unani / Avicenna (CM).** No cultivation framing is attested for this species in this tradition. *Mentha* × *piperita* is a 17th-century hybrid and cannot be a drug of Avicenna's materia medica; at most the genus (*na'na'*) belongs to the Greco-Arab tradition, as a digestive and aromatic. No scholarly source seen ties peppermint itself to the Unani vocabulary of innate heat, radical moisture or *ruh*, and no statement on mint from the *Canon* was available to read. The entry's CM content is general Greco-Arab genus-level mint use, and it reads closer to European folk herbalism applied to peppermint than to a documented Unani assignment. The CM tag is unconfirmed at species level.
+
+**Practitioner's note.** Nothing. Peppermint is a gut-settling and cooling aromatic in current use; no tradition cited here makes it a substance for conserving or building vitality.
+
 ### Contraindications
 
 - **GERD / reflux / hiatus hernia** — menthol relaxes the lower oesophageal sphincter; reflux is the most reported adverse event (Ingrosso 2022, Weerts 2019). Enteric coating mitigates but does not eliminate.

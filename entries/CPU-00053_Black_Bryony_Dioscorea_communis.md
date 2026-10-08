@@ -56,6 +56,12 @@ Codex policy: mechanism stated generally; named citations to be supplied and ver
 - **Folk-European mapping:** the bruise-and-chilblain counter-irritant; "lady's-seal"; grouped with white bryony by acridity despite unrelated botany.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the acrid, surface-moving, counter-irritant axis (draw blood and disperse cold stagnation), used at the skin rather than internally.
 
+### Cultivation Register
+
+**Dioscorides (DMM).** The nearest Dioscoridean chapter is ampelos melaina, "black vine" (De materia medica 4.185, Osbaldeston & Wood tr. 2000), which lists "black bryony" only as one of its alternative names; the translation's own suggested identification is Clematis vitalba, and the chapter is marked poisonous. Whether it describes Dioscorea communis (Tamus communis) is a modern and uncertain identification, so any statement here is made about the Greek plant, not securely this species. He says the new stalks are eaten as vegetables, the root resembles white bryony but is weaker, and the plant is urinary, emmenagogue, spleen-reducing and used for epilepsy, vertigo and paralysis. Nothing is said of cultivation or of any regimen. Therapeutic framing only; no cultivation status is attested.
+
+**Practitioner's note.** Nothing. The chapter is both uncertain in identity and marked poisonous, so it supports no cultivation practice.
+
 ### Contraindications
 
 - **Broken/sensitive skin.** The irritant root blisters and inflames; do not apply to broken skin or leave on long.

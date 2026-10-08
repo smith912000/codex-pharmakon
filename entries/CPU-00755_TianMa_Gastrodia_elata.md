@@ -69,6 +69,14 @@ The preclinical evidence is **strong and mechanistically coherent**; robust huma
 - **Action:** extinguishes wind, stops tremor/spasm, calms ascendant Liver yang, unblocks the collaterals (for numbness/headache).
 - **Kenetica reading:** a *ceiling-lowering settler* — reduces excitatory/vascular over-activity without heavy sedation, best matched to over-firing, spinning, agitated presentations.
 
+### Cultivation Register
+
+**Shennong / classical Chinese (SBJ).** The Shennong Bencao Jing does not record the tuber used today as a separate monograph. The nearest classical entry is Chi Jian, glossed by the translator as the herbal (aerial) parts of *Gastrodia*, which he says is no longer the part used, the root now being the drug for wind troubles and dizziness. Chi Jian stands in the middle class, where a "protracted taking" statement appears: it "may boost the qi and [physical] force, help yin to grow, make one fat and strong and the body light, and lengthen life" (Shennong Bencao Jing, middle class, Chi Jian, Yang Shou-zhong tr. 1998). Middle-class status is a therapeutic grade, not the long-term nourishing grade, and the attestation belongs to the aerial part under another name. The wind-extinguishing doctrine of Tian Ma root is not stated there.
+
+**Tibetan medicine (FMT).** Gastrodia is not named in the rGyud-bzhi as rendered by Clark (1995) or in the Men-Tsee-Khang (2011) Root and Explanatory Tantras. The only orchid there is a salep-type tuber (*Orchis*), a different genus and not evidence for this plant. No cultivation or essence-extraction (*bcud len*) framing is attested for Tian Ma in either text.
+
+**Practitioner's note.** Nothing cultivation-specific. Tian Ma is a drug for a defined wind-type complaint, steamed before use, and the classical middle-class "protracted taking" language belongs to Chi Jian and does not license long-term use of the root.
+
 ### Contraindications
 
 - **Over-sedation / additive CNS depression.** Tian Ma settles and, at higher doses or stacked with sedatives, alcohol, benzodiazepines or other CNS depressants, can cause drowsiness and blunting. Do not combine casually.

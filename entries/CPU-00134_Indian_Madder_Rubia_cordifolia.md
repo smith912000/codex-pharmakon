@@ -63,6 +63,12 @@ Codex policy: anthraquinone/cyclic-peptide chemistry stated securely; named cita
 - **Chinese Medicine mapping:** Qian Cao Gen — **bitter, cold;** enters the Liver channel. Actions: cools blood and stops bleeding (charred); invigorates blood and dispels stasis (raw). A Liver-blood agent par excellence.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — squarely on the blood-and-fluid moving axis, with a cooling rather than warming character: it both stanches and circulates, the dual action that makes it a regulator of the blood layer rather than a simple stimulant or sedative.
 
+### Cultivation Register
+
+**Tibetan medicine (FMT).** The drug btsod is glossed as Indian or Dyer's madder, Rubia cordifolia or Rubia tinctorium, and said to cure spreading fever of the lungs and kidneys (rGyud-bzhi, Explanatory Tantra ch. 20, Clark tr. 1995). Madder is also named among the medicines that cure blood disorders in the compounding chapter (Explanatory Tantra ch. 21, Clark tr. 1995; "Tsod", Men-Tsee-Khang tr. 2011). These are therapeutic attestations in the tradition's materia medica and compounding classes, grade (b). No bcud-len or rejuvenation status is recorded for it, and the rejuvenation chapter (Explanatory Tantra ch. 23) does not name it. Identifying btsod with this species is a modern determination.
+
+**Practitioner's note.** Nothing cultivation-specific. In the tradition it is a physician's remedy for fevers and blood disorders; no long-term or rejuvenative use is attested.
+
 ### Contraindications
 
 - **Pregnancy.** Traditionally an emmenagogue and blood-mover; avoid in pregnancy unless directed by a qualified practitioner.

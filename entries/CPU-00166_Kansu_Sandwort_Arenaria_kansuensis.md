@@ -77,6 +77,12 @@ Verifiable, species-specific pharmacological literature on *Arenaria kansuensis*
 
 ---
 
+### Cultivation Register
+
+**Tibetan medicine (FMT).** Arenaria kansuensis is not named in either translation of the rGyud-bzhi checked (Clark 1995; Men-Tsee-Khang 2011). The only Arenaria there is Arenaria capillaris, one of several modern identifications offered for the drug a.krong (alongside Stellaria palustris, Gypsophila dahurica and Artemisia species) in the materia medica (rGyud-bzhi, Explanatory Tantra ch. 20, Clark tr. 1995). The Tibetan drug names for small caryophyllaceous herbs are loosely and disputably matched to species, so nothing is transferred to A. kansuensis. No bcud-len or rejuvenation status is attested. Grade (c).
+
+**Practitioner's note.** Nothing. No Tibetan use of this species is attested in the texts checked, and there is no cultivation use.
+
 ### Contraindications
 
 - **Cold patterns:** Contraindicated in cold or Yang-deficient presentations — pallor, cold limbs, watery digestion, aversion to cold; a cooling, heat-draining herb worsens these.

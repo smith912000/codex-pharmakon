@@ -66,6 +66,14 @@ Graded honestly, by claim:
 - **Unani:** cooling and drying temperament; antidysenteric, astringent, vermifuge.
 - **Kenetica synthesis:** a cold, dry, sealing bark for a hot, wet, leaking lower gut — a stopper, not a builder.
 
+### Cultivation Register
+
+**Avicenna / Unani (CM).** No cultivation framing is attested. The entry's Unani paragraph (antidysenteric and vermifuge, cooling and drying) cites no named work, and a search for a scholarly Unani source for this species turned up only modern pharmacological reviews, none verified to quote a classical Unani text. The Canon's simples book is not available to check. Innate heat, radical moisture and *ruh* therefore cannot be applied here, and the tag is unconfirmed.
+
+**Ayurveda (SS).** Kutaja is named repeatedly in the Sushruta Samhita as a remedy and group member. It stands in the Aragvadhadi group, the Vrihatyadi group (as *kutaja* fruit or seed) and the Haridradi group (seeds) (Sushruta Samhita, Sutra sthana ch. XXXVIII, Bhishagratna tr., Vol. I). Its bark and roots appear in dysentery and related recipes (Chikitsa sthana ch. VI, Vol. II), and its seeds, Indra-yava, which Bhishagratna's glossary equates with the seeds of *Holarrhena antidysenterica*, appear in recipes for *ama* diarrhoea (Uttara-tantra ch. XL, Vol. III). This is therapeutic attestation only (b): in the passages read, no *rasayana* or *vajikarana* assignment is made for it.
+
+**Practitioner's note.** Nothing cultivation-specific. A bitter, cooling bark and seed for acute loose stool, taken for the episode and stopped; the entry itself calls the use acute rather than tonic.
+
 ### Contraindications
 
 - ⚠️ **Conessine CNS toxicity at dose.** The defining caution. Conessine is lipophilic and brain-penetrant; historical and pharmacological literature associates the isolated alkaloid with central nervous system toxicity and evidence of neural accumulation with repeated/high dosing. This is a specific reason **not** to treat purified conessine or heavily alkaloid-enriched extracts as a stronger version of the bark — the tannin-buffered traditional decoction is a different, safer object than the isolated base. Avoid escalating dose to chase effect.

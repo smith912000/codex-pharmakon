@@ -64,6 +64,12 @@ According to PubMed:
 
 In Amazonian practice guaraná is a **warming, quickening tonic** — the medicine of wakefulness, endurance and appetite suppression, carried for sustained exertion. Mapped onto the Codex grid it reads as a **hot, stimulating, drying** agent. This placement is analogical and inferred; the Sateré-Mawé and neighbouring peoples did not use Galenic humoral categories.
 
+### Cultivation Register
+
+**South American indigenous ethnobotany (SA).** Guaraná is attested as a Sateré-Mawé cultivated plant and drink. Secondary sources citing Atroch and colleagues (2012) describe the roasted, ground seed dissolved in water, taken as a stimulant and tonic against fatigue, hunger and sleep, with an origin myth of the child's eye planted as the vine; other Amazonian peoples are said to share the use. The consulted material describes no *dieta*, ritual regimen or specialist role for guaraná, so the status here is therapeutic and stimulant use, cultivation stewardship by the Sateré-Mawé, and not a documented cultivation practice. No humoral or subtle-anatomy reading is applied.
+
+**Practitioner's note.** A stimulant drink in the Sateré-Mawé and wider Amazonian setting, taken for sustained effort. No regimen of abstention or ritual is documented in the material read, so none is prescribed.
+
 ### Contraindications
 
 Guaraná's risk profile is the risk profile of **caffeine, concentrated and easily hidden**. Real safety flags:

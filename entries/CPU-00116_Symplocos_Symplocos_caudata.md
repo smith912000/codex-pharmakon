@@ -53,6 +53,12 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Ayurvedic mapping:** Lodhra — *kashaya* (astringent), *shita* (cooling) potency, *kapha-pitta* reducing; *grahi/stambhana* (astringent/haemostatic), uterine and skin remedy.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the astringent, cooling, blood-staunching/consolidating axis; a focused uterine-astringent bark.
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** No cultivation status is attested for *Symplocos caudata*. The Sushruta Samhita names *Lodhra* only as an ingredient in wound plasters, medicated oils and powders (Sushruta Samhita, Sutrasthana ch. 36, Bhishagratna tr., Vol. I), a therapeutic use; the translation does not tie the name to this species, and Lodhra is conventionally assigned to *S. racemosa*. No *rasayana* or *vajikarana* assignment for Lodhra was found in the text read. The tag is therefore unconfirmed for this species: grade (c).
+
+**Practitioner's note.** Nothing. The Himalayan species has no recorded cultivation role; the Ayurvedic Lodhra astringent use belongs to the better-attested bark of the racemosa group.
+
 ### Contraindications
 
 - **Constipation / very dry conditions.** The astringent action can over-bind.

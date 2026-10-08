@@ -60,6 +60,12 @@ Evidence for Polygala tenuifolia is **preclinical-dominant** — animal and mech
 - **Tibetan / Badianus:** Not attested.
 - **Dantian correspondence:** Lower ↔ Upper axis — draws Kidney essence/will upward to support the Heart-mind; a "vertical-integration" herb rather than a single-centre one.
 
+### Cultivation Register
+
+**Shennong / classical Chinese (SBJ).** Classed in the upper grade (上品), the grade of drugs taken long term to nourish life. The monograph for yuan zhi (Radix Polygalae Tenuifoliae), bitter and warm, lists supplementing insufficiency, disinhibiting the nine orifices, sharpening the wits, improving memory, strengthening the will and doubling physical strength; "protracted taking may make the body light and prevent senility" (Shennong Bencao Jing, upper class, Yuan Zhi, Yang Shou-zhong tr. 1998). "Make the body light" is a classical effect category, not a pharmacological one. Identification of the classical drug with Polygala tenuifolia is modern.
+
+**Practitioner's note.** Upper-grade status is recorded in the classic for this drug. Later "calms the spirit" language belongs to post-classical materia medica and is not part of this record; the classic speaks of memory, will and not ageing.
+
 ### Contraindications
 
 - **Mucosal / gastric irritation:** Raw root can cause nausea, vomiting and gastric upset via saponins — hence the standard honey/liquorice processing. Avoid or reduce in gastritis, peptic ulcer, or gastro-oesophageal reflux.

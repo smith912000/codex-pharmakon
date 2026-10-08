@@ -105,6 +105,14 @@ Net: the tradition read a shape and got, by luck of chemistry, a plant that genu
 
 [USER: verify] the exact channel attribution and action-category wording against your reference pharmacopoeia; these are the standard modern textbook attributions but should be sourced to a specific edition before print.
 
+### Cultivation Register
+
+**Shennong / classical Chinese (SBJ).** No cultivation status is attested. No *san pin* grade for Suo Yang was located in the pages of the Shennong Bencao Jing (Yang Shou-zhong 1998 translation) that could be searched, and the herb is not known to the classical stratum; the entry's indication set (impotence, lumbar weakness, dry constipation) and the "locking yang" reading are therapeutic and later. The tag is unconfirmed in that text, so nothing here may be read as an upper-grade, life-nourishing assignment.
+
+**Mongolian (MON).** Framed, status unattested. The entry describes Suo Yang as a desert food and folk tonic of Mongolian traditional medicine, citing reviews of the plant (Zhang et al. 2024, *Molecules*) for gastric, digestive, bowel and sexual-function indications. These are folk and therapeutic claims. The Mongolian strand is not separated here from the Chinese and Tibetan systems on which Mongolian medicine draws, and no Mongolian text was available; no cultivation status is recorded.
+
+**Practitioner's note.** Nothing beyond the therapeutic use. The phallic form is a mnemonic only; the entry's own contraindications on hormone-sensitive conditions and pregnancy apply.
+
 ### Contraindications
 
 - **⚠️ PREGNANCY — avoid.** No safety data in pregnancy was retrieved. A drug with demonstrated activity on steroidogenic enzymes, oestrogen receptors, and the HPG axis in animals is exactly the class to exclude in pregnancy by default. Also avoid in lactation and in children.

@@ -68,6 +68,12 @@ According to PubMed:
 - **Doṣa action:** *Kapha-Vāta-śāmaka* (pacifies cold-damp Kapha and cold Vāta); **mildly increases Pitta**.
 - **Karma (actions):** *Dīpana-pācana* (kindles/completes digestion), *kaphaghna* (anti-Kapha, expectorant), *hṛdya* (cardiotonic tendency), *rocana* (appetising), aromatic *yogavāhī*-like harmonising/carrier action in compounds.
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** No rasayana or vajikarana assignment for tejapatra was found in the Sushruta Samhita. The bare name Patra is listed among the drugs of the Eladi group in Sutrasthana ch. 38 (Bhishagratna tr., Vol. I), a group the text describes by its action on Vayu and by therapeutic uses; the identification of that Patra with this leaf is the translator's and later commentators'. The name Tejapatra itself appears as one ingredient of the Gandha-taila, an oil prescribed for fracture patients (Chikitsasthana ch. 3, Vol. II). Both are therapeutic attestations. The status is (b): framed by a gana and a formula, cultivation status unattested.
+
+**Practitioner's note.** Nothing beyond its ordinary use as an aromatic leaf and ingredient; the Sushruta text gives it no rejuvenative role.
+
 ### Contraindications
 
 - **Warming — mildly aggravates Pitta.** Caution in heat conditions, hyperacidity, ulcers, and Pitta-dominant states.

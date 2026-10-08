@@ -68,6 +68,12 @@ Grade: **Traditional-only / preclinical-absent (for this species).** Better-stud
 - **Srotas / dhātu:** acts primarily on rakta (blood) and māṃsa/tvak (flesh and skin); used in raktavaha and purīṣavaha srotas disorders
 - **Gaṇa membership:** eponymous head of *Priyaṅgvādi gaṇa*; appears in cooling-astringent and *puṣpādi*-type classical groupings
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** No rasayana or vajikarana assignment for priyangu was found in the Sushruta Samhita. Priyangu is named in three drug groups in Sutrasthana ch. 38 (Bhishagratna tr., Vol. I): the Eladi group, the Anjanadi group (described as yielding to haemoptysis and as allaying internal burning) and the Priyangvadi group. These are therapeutic attestations. The name is not unambiguous: in Sutrasthana ch. 46 (Vol. I) Priyangu is listed among the Kudhanya minor grains, and the identification of the classical drug with Callicarpa macrophylla is a later one. Status (b): framed by gana membership, cultivation status unattested.
+
+**Practitioner's note.** Nothing: in the text it is an astringent remedy for particular complaints, with no long-term or rejuvenative use recorded.
+
 ### Contraindications
 
 - **Constitutional dryness / Vāta excess:** astringent-drying character can worsen constipation, dryness, and Vāta-type pain; balance with unctuous (snigdha) anupāna if used.

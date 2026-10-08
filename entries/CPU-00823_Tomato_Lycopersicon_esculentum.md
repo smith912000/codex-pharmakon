@@ -61,6 +61,12 @@ Net grade: the antioxidant/carotenoid biology is genuine; the population effect 
 - **Post-Columbian European folk:** *cold and moist*, and long *suspect* — the humoral read of a watery nightshade fruit, coloured by the wolf-peach fear.
 - **Kenetica synthesis:** Cooling, moistening, sweet-sour; blood-lightening, appetite-opening; a Foundation nourisher whose only operative lesson is ripeness-as-detoxification.
 
+### Cultivation Register
+
+**Nahua / Badianus (BM).** No cultivation framing is attested, and the BM tag is unconfirmed. The Badianus manuscript (1552) is a naturalistic herbal; the *tonalli*, *teyolia* and *ihiyotl* model comes from later ethnohistory (López Austin) and is not applied. A scholarly study of its plant names (de Ávila Blomberg 2012) identifies *tomazquitl* as an *Arbutus* and lists *xāltomatl* among Jaltomata, not *xitomatl*; the tomato is not shown to be a Badianus simple. The entry's Nahuatl material is a culinary attestation, not the Badianus.
+
+**Practitioner's note.** Nothing. The tomato is a food, and no regimen role is attested.
+
 ### Contraindications
 
 - **Never ingest leaves, stems, or the green unripe fruit in quantity** — high steroidal glycoalkaloid (α-tomatine) content; the vindicated core of the old poison-fear. Green-fruit dishes should be cooked and eaten in modest amounts only.

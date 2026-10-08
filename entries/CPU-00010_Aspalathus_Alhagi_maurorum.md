@@ -53,6 +53,12 @@ Codex policy: identity flagged uncertain; activity described generally; named ci
 - **Unani/Persian mapping:** *Alhagi* (yantak) — cold and dry temperament in the aerial parts (cooling, diuretic, astringent); the manna sweet and gently laxative. Used for hot dystemperaments, urinary and hepatic complaints.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — operating on circulation and elimination (gentle purgation, diuresis, cooling), with the manna on the cooling-moistening side and the wood/aerial parts on the astringent-drying side.
 
+### Cultivation Register
+
+**Dioscorides (DMM).** Dioscorides, De materia medica 1.19 (Osbaldeston & Wood tr. 2000) describes aspalathos as a woody, prickly shrub "growing in Istrus, Nisyrus, Syria and Rhodes", valued by ointment makers for thickening unguents; the best wood is heavy, reddish or purple, fragrant and bitter. That is a habitat and quality remark, not a cultivation status. The uses given are therapeutic: heating and astringent, in a wine gargle for an ulcerated mouth, a decoction against discharge, vomiting of blood and painful urination. The identification of Dioscorides' aspalathos with Alhagi maurorum is a modern and contested one (the translation itself suggests Aspalathus indica), and the manna of the Unani entry is not in this chapter. No cultivation status is attested.
+
+**Practitioner's note.** What Dioscorides offers here is a discipline of attention: judge the wood by weight, colour, scent and bitterness, and reject the pale, odourless, bristly kind. Nothing beyond that.
+
 ### Contraindications
 
 - **Identity uncertainty.** Because the classical *aspalathos* is unresolved, practical use should rest on the well-characterised *Alhagi maurorum*, not on an assumed equivalence.

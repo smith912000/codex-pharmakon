@@ -55,6 +55,12 @@ According to PubMed:
 - **Karma (actions):** Raktaśodhana, dāhapraśamana, kaṇḍūghna, jvaraghna, śothahara (anti-inflammatory), vraṇaropaṇa (wound-healing, folk), stanya (galactagogue, folk), sandhi-supportive (joint, folk/preclinical)
 - **Gaṇa:** Functionally within the Sāriva-varga / sārivādi context as the "black" Sāriva
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** The Sushruta Samhita lists "black Sariva" in the Vidarigandhadi group, whose stated uses are against deranged Vayu and Pitta, phthisis (*shosha*), gulma, aching limbs, upward-breathing and cough (Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I). That is a therapeutic group membership. The translation does not identify the botanical species; equating black Sariva with *Cryptolepis buchanani* is a later identification. No *rasayana* or *vajikarana* assignment was read for it, so no cultivation status is attested: grade (b).
+
+**Practitioner's note.** Nothing beyond a therapeutic use within a named drug group. The tradition records no long-term or vitality-building role for black Sariva, and the species identity is itself uncertain.
+
 ### Contraindications
 Cooling and, in its astringent aspect, drying — may aggravate Vāta-cold and Kapha-cold digestive sluggishness with prolonged use. The genus carries alkaloid and cardenolide/pregnane chemistry, so avoid high or prolonged dosing without supervision; safety in pregnancy/lactation not established `[USER: verify]`. Human safety data limited. Confirm botanical identity: multiple plants are traded as "Sāriva," and *Cryptolepis buchanani* must not be confused with white Sāriva (*Hemidesmus indicus*) or with the African *Cryptolepis sanguinolenta*.
 

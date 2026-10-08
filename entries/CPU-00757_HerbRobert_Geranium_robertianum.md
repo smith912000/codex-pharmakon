@@ -67,6 +67,14 @@ The chemistry underwriting astringency is **well-supported**; the broader medici
 - **Action:** binds, tightens, seals; stops fluxes (diarrhoea, bleeding, weeping); vulnerary.
 - **Kenetica reading:** a *sealing astringent* — matched to leaking, loose, weeping presentations of gut, mouth and skin; local and symptomatic, not systemic.
 
+### Cultivation Register
+
+**Greek / Dioscoridean (DMM).** Dioscorides' *geranion* (De materia medica 3.131, Osbaldeston & Wood tr. 2000) is glossed by the translators, following Fuchs and Linnaeus, as *Geranium robertianum*; that is a Renaissance identification, not a secure one. The text describes a jagged, anemone-like leaf, a round root sweet when eaten, mallow-like leaves and beaked tops like crane heads or dog's teeth. A decoction of the root in wine is given for swellings of the vulva, and the text adds that there is no use for the beaked growths in medicine. It records no astringent or vulnerary use and no cultivation status (b); the frame is a single therapeutic remark.
+
+**Unani / Avicenna (CM).** No scholarly source tying *Geranium robertianum* to the Unani or Avicennan materia medica was found in the sources consulted. The entry's own "CM" paragraph describes Dioscoridean-derived European herbals and early-modern herbalists, which is European folk herbalism (EF), not Unani. The CM tag is unconfirmed; no cultivation framing is claimed (c).
+
+**Practitioner's note.** Nothing. Its recorded role is a short-course local astringent and wound herb; grown or gathered from contaminated ground it can accumulate metals, as the entry's cultivator's note warns.
+
 ### Contraindications
 
 - **Tannin load — chronic/high internal use.** Hydrolysable tannins in quantity can irritate the stomach, cause nausea and constipation, and **impair absorption of dietary iron and other minerals** and of some drugs (take separated from medication and iron). Keep internal use short-term and moderate.

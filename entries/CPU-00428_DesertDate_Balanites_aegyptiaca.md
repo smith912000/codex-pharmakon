@@ -99,6 +99,12 @@ None can be honestly assigned. Ancient Egyptian medicine is not a humoral system
 
 The one traditional read that survives scrutiny is functional and non-energetic: across the Sahel it is a *bitter* plant, and the bitterness of the fruit layers tracks the saponin content well enough to have guided traditional selection for the sweeter mesocarp as food and the bitterer fractions as medicine and snail poison. That is empirical folk chemistry, and it is correct.
 
+### Cultivation Register
+
+**Ebers Papyrus / ancient Egyptian (EP).** No cultivation framing is attested. The Ebers material is indication-organised: it records what was done for a complaint, not what a substance does to a person's vital constitution, and it prescribes spell and drug together as one intervention (*heka*). Desert Date is not named in the Ebers text as searched, and the entry itself states that the identification of any Ebers drug-name with *Balanites aegyptiaca* needs a named Egyptological source that is not in hand. Fruit stones in tombs show presence and use as food, not a cultivation status. Any identification would be a modern hypothesis.
+
+**Practitioner's note.** Nothing. The Egyptian record supports no practice for this tree; its value to a cultivator in this Codex is as a hardy survivor crop and for its saponin chemistry.
+
 ### Contraindications
 
 - **Saponin haemolysis.** Steroidal saponins are haemolytic — they lyse red blood cells on contact — and are membrane-active surfactants. Concentrated saponin fractions must never be taken parenterally, and concentrated oral preparations are not safe self-experimentation material.

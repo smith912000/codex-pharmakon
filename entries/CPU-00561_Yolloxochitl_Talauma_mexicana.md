@@ -79,6 +79,12 @@ So the honest reading is narrower and more interesting than the hook: the signat
 
 Pre-contact Nahua medicine organised remedies around *tonalli* / heat-and-vitality concepts and around correspondence between plant form and body part, not around the four-humour Galenic scheme. The hot/cold assignments now commonly attached to *yolloxochitl* in Mexican folk practice entered after Spanish contact, when the Galenic system was grafted onto the indigenous corpus. In this Codex the entry is therefore recorded as **humorally NA**, with the doctrine-of-signatures correspondence — flower-as-heart — carried as the primary traditional logic. Do not retrofit a humoral grade onto it and then cite it as though it were indigenous.
 
+### Cultivation Register
+
+**Badianus / Aztec-Nahua (BM).** The tradition is claimed for this plant therapeutically, through the name *yolloxochitl* ("heart flower") and a flower-for-heart correspondence, but no cultivation status is attested. The Badianus manuscript (1552) is itself naturalistic; the vocabulary of *tonalli*, *teyolia* and *ihiyotl* is reconstructed from later ethnohistory (López Austin), not found in the codex, and is not applied to this plant here. The identification of *yolloxochitl* with *Talauma mexicana* is a later botanical attribution and remains contested. The hot/cold assignments in Mexican folk practice are a post-conquest overlay and are left unresolved. The entry therefore records a framed therapeutic claim only.
+
+**Practitioner's note.** Nothing. The tradition offers a signature-based therapeutic claim, not a practice for long-term cultivation, and no dose or regimen is supported.
+
 ### Contraindications
 
 - **Do not use for cardiac disease.** Heart failure, arrhythmia, angina, hypertension and palpitation are conditions with effective, monitored pharmacotherapy. Substituting or delaying that treatment in favour of a plant with no clinical evidence and no established dose is dangerous. This is the single most important line in the entry.

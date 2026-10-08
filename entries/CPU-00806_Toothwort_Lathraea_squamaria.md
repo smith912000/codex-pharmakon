@@ -63,6 +63,14 @@ The honest conclusion: the traditional uses are signature-generated fictions. Th
 
 Assigned by signature as **cold, damp, and hidden** — reading the pallor, the underground habit, and the early-spring emergence into a melancholic, subterranean temperament. This classification is a description of the plant's *appearance and habit*, offered as historical record, and carries **no** validated physiological meaning.
 
+### Cultivation Register
+
+**Unani / Avicenna (CM).** No cultivation framing is attested, and no Unani placement of this species is shown. The entry itself records that no supporting materia medica place was found for the CM tag (its text mislabels the gap as Chinese) and calls the tag doubtful. No scholarly source seen ties *Lathraea squamaria* to the Unani materia medica. The CM tag is unconfirmed; the entry's content is a European signature reading of the plant, which belongs under EF if anywhere.
+
+**European folk / phytotherapy (EF).** No cultivation framing is attested. The entry describes toothache use from the toothlike rhizome scales and a melancholy or epilepsy association from the plant's pallid, hidden habit, but names no herbal or scholarly work for these, and none was confirmed for this species. They are signature readings of appearance, with no record of the plant being used to nourish or conserve vitality. The entry itself finds no pharmacological basis for any use. The plant is also an obligate parasite on tree roots and cannot be cultivated in the ordinary sense.
+
+**Practitioner's note.** Nothing. This is a study specimen for how a signature produces a use; there is nothing to take, grow or prepare, and the plant should not be wild-harvested.
+
 ### Contraindications
 
 Because there is no established medicinal use, there is no safe-use profile: **not recommended for internal or topical use.** Toothache, mood disorders, and seizure conditions are serious and require proper medical or dental care — a signature-derived folk remedy must never displace them. The plant is uncommon and, in some regions, of conservation concern; it should not be harvested from the wild. **[USER: verify]** local protected-species status before any collection.

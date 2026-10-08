@@ -70,6 +70,12 @@ The clear signal from the retrieved literature is a **conservation crisis**, not
 - **Dhātu:** nourishes all seven, with emphasis on rasa, rakta, māṃsa, śukra
 - **Srotas:** rasavaha, śukravaha, stanyavaha
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** Kshira-Kakoli is named in the Kakolyadi group (Sutrasthana ch. 38, Bhishagratna tr., Vol. I), where the translation prints "Kakoli-Kshira-Kakoli" as a hyphenated run. The group is described as subduing Pitta, blood and Vayu, as a galactagogue, as "a restorative and an elixir", and as augmenting virile potency; this is a statement about the group, not about Kshira-Kakoli alone. It is also named singly in an oil for an ulcerated ear-lobe (Sutrasthana ch. 16, Vol. I) and in medicated oils (Chikitsasthana ch. 5 and ch. 37, Vol. II). No rasayana or vajikarana assignment for the substance itself was found: status (b). The identification with Lilium polyphyllum is a later one.
+
+**Practitioner's note.** Nothing: the group description cannot be transferred to this species, and the text records no regimen for it.
+
 ### Contraindications
 
 - **Āma and low Agni:** its heavy, unctuous, cooling nature can deepen *āma* (metabolic congestion), aggravate Kapha, and burden weak digestion. Avoid in high-Kapha, high-āma, or sluggish-digestion states.

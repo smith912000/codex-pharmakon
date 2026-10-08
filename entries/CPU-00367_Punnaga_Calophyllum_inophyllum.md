@@ -66,6 +66,12 @@ Evidence grade: **preclinical (in vivo rodent wound model with defined molecular
 - **Srotas / dhātu:** acts on tvak (skin), rakta, and māṃsa; a surface/frontier remedy for the outer sheaths
 - **Note:** predominantly a *bāhya* (external) dravya in Kenetica's use
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** No rasayana or vajikarana assignment for punnaga was found in the Sushruta Samhita. The name occurs in the Eladi group (Sutrasthana ch. 38, Bhishagratna tr., Vol. I), a therapeutic grouping. It also occurs in the description of the winter (Hemanta) season, where the Lodhra, Priyangu and Punnaga trees are said to begin to blossom (Sutrasthana ch. 6, Vol. I). That is a seasonal observation, not a cultivation status. The identification of Punnaga with Calophyllum inophyllum is a later one; the passages read do not mention tamanu oil. Status (b): framed by gana membership, cultivation status unattested.
+
+**Practitioner's note.** Nothing: the sources read give no cultivation or rejuvenative role for this tree.
+
 ### Contraindications
 
 - **Nut allergy / sensitisation:** patch-test before use; tamanu oil can sensitise; avoid on those with known tree-nut sensitivities. [USER: verify]

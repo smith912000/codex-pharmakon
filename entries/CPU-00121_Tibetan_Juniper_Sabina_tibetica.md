@@ -52,6 +52,12 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Tibetan mapping:** *shukpa* — warming, antiseptic, purifying; ritual fumigant and remedy for cold/kidney/urinary and infectious conditions.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the warming-drying, antiseptic-diuretic, purifying axis; the sacred plateau member of the juniper group (with common juniper and Phoenician cedar, this volume).
 
+### Cultivation Register
+
+**Tibetan medicine (FMT).** Sabina tibetica is not named in either translation of the rGyud-bzhi checked (Clark 1995; Men-Tsee-Khang 2011). The materia medica (Explanatory Tantra ch. 20) lists shug.pa.tsher.chan under other identifications, Sabina recurva and Juniperus recurva, and a juniper in the sour-taste group (Explanatory Tantra ch. 19, Clark tr. 1995); it says of the fruit of that drug that it is "an essence-extraction ingredient" (rGyud-bzhi, Explanatory Tantra ch. 20, Clark tr. 1995). That statement belongs to a differently identified species and is not transferred here; the identification of Tibetan juniper names with Linnaean species is modern and uncertain. No attestation for S. tibetica. Grade (c).
+
+**Practitioner's note.** Nothing is attested for this species in the Tibetan texts. Any juniper use in the tradition is a physician's compounded medicine, and the sources give no home cultivation or self-directed use.
+
 ### Contraindications
 
 - **Pregnancy — avoid.** Junipers carry an abortifacient/emmenagogue reputation; concentrated preparations contraindicated. [USER: verify.]

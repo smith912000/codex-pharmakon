@@ -96,6 +96,14 @@ Bitter, dry, cooling; descending. Classified with the digestive bitters (gentian
 
 The "blessed/holy" designation carries no energetic content. It is a name.
 
+### Cultivation Register
+
+**Greek / Dioscorides (DMM).** No cultivation status is attested. The nearest locus is Dioscorides, De materia medica 3.107 (Osbaldeston & Wood tr. 2000), *atraktylis*, a prickly plant whose leaves, filaments and fruit are drunk in wine with pepper against scorpion stings. The translators' list of suggested identities includes blessed thistle only as a Renaissance proposal (Fuchs, Bauhin) beside *Carlina* and *Atractylis*, so the match is uncertain and the passage is a therapeutic, not a cultivation, attestation. Dioscorides gives no season of gathering or garden practice for it.
+
+**European folk / phytotherapy (EF).** Framed, status unattested. The entry's sourced material places blessed thistle in monastic physic gardens, in a sixteenth-century plague and panacea reputation (the joke in Shakespeare's *Much Ado About Nothing*), and in a narrower continuous use as a bitter taken before meals. These are therapeutic and cultural attestations. No named herbal or monograph retrieved frames it as a long-term tonic course or assigns it any vital or cultivation status.
+
+**Practitioner's note.** Nothing is cultivated in the inner sense here. The usable practice is sensory: taste the infusion before meals, keep courses short because high doses provoke vomiting, and treat the plague and "holy" claims as names, not attestations.
+
 ### Contraindications
 
 - **Asteraceae allergy — the primary contraindication.** Sesquiterpene lactones are established contact sensitisers and the Asteraceae/Compositae family is a recognised source of allergic contact dermatitis and cross-reactivity. Anyone reacting to ragweed, chamomile, echinacea, feverfew, arnica, chrysanthemum, marigold or yarrow should avoid blessed thistle. Handling the fresh plant can sensitise as well as ingesting it — gloves when harvesting.

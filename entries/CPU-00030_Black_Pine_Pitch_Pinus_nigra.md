@@ -80,6 +80,12 @@ Barnes TM, Greive KA (2017) "Topical pine tar: History, properties and use as a 
 
 ---
 
+### Cultivation Register
+
+**Dioscorides (DMM).** Dioscorides does not name Pinus nigra: he speaks of "pitch" and "pine" trees generally, and the translation lists P. nigra only among several suggested pines, so the match is at genus level and modern. Liquid pitch "is gathered from the fattest wood of the pitch and pine trees", and "the best is glittering, smooth and clean" (De materia medica 1.94, Osbaldeston & Wood tr. 2000). He also records its preparation into picinum, soot and dry pitch (1.95 to 1.97), and advises choosing resin by smell and clarity (1.92). The uses are therapeutic: linctus for coughs and asthma, antidote, poultices for ulcers. This is a discipline of assay and preparation, not a cultivation status; none is attested.
+
+**Practitioner's note.** What Dioscorides gives a practitioner is the test of the material: look for brightness and smoothness, and for a sweet smell, and reject what is dull or foul. Nothing beyond that.
+
 ### Contraindications
 
 - **Contact sensitization and irritant dermatitis:** Resin acids (abietic acid and colophony) are well-recognized contact allergens; pine tar and turpentine can both sensitize and irritate. Patch-test sensitivity is common; discontinue on rash, burning, or spreading erythema.

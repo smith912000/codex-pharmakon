@@ -70,6 +70,12 @@ According to PubMed, the modern evidence for *Ougeinia oojeinensis* is **sparse 
 - **Karma (actions):** Pramehaghna (anti-diabetic-pattern), Medohara (fat-reducing), Kaphaghna, Kuṣṭhaghna (skin), Grāhī/Stambhana (astringent, anti-diarrhoeal), Kṛmighna
 - **Dhātu/Srotas:** *medovaha* and *mūtravaha* srotas; astringent action on *purīṣavaha* (bowel).
 
+### Cultivation Register
+
+**Sushruta / Ayurveda (SS).** Sushruta lists *Tinisha* in the Salasaradi group, which "destroys the germ of Kushtha, absorbs the deranged fat and Kapham" and is beneficial in morbid urethral discharges (*meha*) and jaundice or chlorosis (*pandu*) (Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I). The name also appears in a Vol. II list of drugs for medicated *asavas* and gruels. These are therapeutic attestations only. No *rasayana* or *vajikarana* assignment was read for Tinisha, so no cultivation status is attested: grade (b). The equation with *Ougeinia oojeinensis* is the standard later identification.
+
+**Practitioner's note.** Nothing. A drying, astringent group-drug used against defined complaints; the text gives it no long-term or vitality-building role.
+
 ### Contraindications
 
 - **Vāta-predominant / dry / depleted states:** cooling astringent dryness can aggravate Vāta and constipation.

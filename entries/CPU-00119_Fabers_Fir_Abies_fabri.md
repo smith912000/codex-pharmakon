@@ -52,6 +52,12 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Folk/regional mapping:** warming, drying, resinous-antiseptic and expectorant — the standard medicinal-conifer character.
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the warming-drying, resinous-antiseptic, expectorant axis; a regional conifer kin to pine, juniper and cypress (this volume).
 
+### Cultivation Register
+
+**Tibetan medicine (FMT).** (c) Absent. *Abies fabri*, Faber's fir, is not named in the Root and Explanatory Tantras as translated by Clark (1995) or Men-Tsee-Khang (2011). The one conifer item in the materia medica, *sgron.shing* ("Yew-leaf Fir", glossed by Clark as several *Pinus* species, with hot taste and dry, coarse power; Explanatory Tantra ch. 20, Clark tr. 1995), is a different drug and is not cited as evidence for this tree. No *bcud len* or rejuvenation assignment exists for any fir in those texts. The entry's Tibetan connection rests on regional, Sichuan-based materia medica, not on the rGyud-bzhi.
+
+**Practitioner's note.** Nothing. The tradition's texts give a cultivator no use for this tree.
+
 ### Contraindications
 
 - **Essential oil — diluted/external.** Not for undiluted internal self-use; conifer oils can be irritant and renally taxing internally.

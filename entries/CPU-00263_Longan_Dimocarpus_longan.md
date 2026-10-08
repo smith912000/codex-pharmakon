@@ -103,6 +103,12 @@ Codex policy: the chemistry (sugars, polysaccharides, phenolics) is securely sta
 
 ---
 
+### Cultivation Register
+
+**Shennong / classical Chinese (SBJ).** The Shennong Bencao Jing monograph for longan could not be read: the fruit section of the Yang Shou-zhong translation (1998) is not legible in the copy available, and no scholarly source stating the san pin grade and any long-term-taking wording for this drug was found in a limited search. Its grade, and whether it carries a life-nourishing status, are therefore unattested here. The tag is treated as a therapeutic framing only, and the equation of the classical drug name with Dimocarpus longan is a modern identification.
+
+**Practitioner's note.** Nothing here can be stated about a classical cultivation status for longan. Treat it as a food-like fruit drug whose grade remains to be verified in the classic itself.
+
 ### Contraindications
 
 - **Damp-Heat and Phlegm-Heat patterns (TCM):** The sweet, warm, moist quality of longan readily aggravates internal Damp-Heat and Phlegm-Heat. Contraindicated where there is Heat with thick yellow phlegm, oral ulceration, a greasy yellow tongue coating, or constipation from Heat. "Tonifies the deficient, burdens the congested."
