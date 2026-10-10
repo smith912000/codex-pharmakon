@@ -1,0 +1,60 @@
+# Marrubium incisum — rta.lpags, Tapak (rGyud-bzhi)
+
+## *Marrubium incisum, the second of three identifications Clark 1995 prints for rta.lpags ("horse skin"): "a type of Lamiophlomis rotata (Benth) Kude", Marrubium incisum and Colqhounia coccinea; the Men-Tsee-Khang 2011 glossary prints no Marrubium, and sets "phlomis ro ta ta" against Tapak by column position* | *(Volume I — Plant-Based)*
+**Tradition Tags:** FMT
+
+---
+
+### Origin & Tradition
+
+**Named only by the Tibetan texts (FMT); this entry rests on one text, the rGyud-bzhi, read in two modern editions, and on the middle one of three names in one line of one of them.** The editions are Clark 1995 and Men-Tsee-Khang 2011, both in `Sources/FMT_Tibetan/text/`. They are two translations of one tradition's text and are not two independent traditions. Only Clark prints *Marrubium incisum* (line 1015 and the Latin-name index, line 1614). A search of Men-Tsee-Khang 2011 for "Marrubium" found nothing. A search of the Dioscorides, Shennong (Yang 1998), Ebers, Assyrian and Sushruta texts on disk for *incisum* found nothing, and for the genus *Marrubium* found Dioscorides' horehound chapters and their translator's glosses (for example `Dioscorides_De_Materia_Medica_2000_English.txt`, lines 6858, 6887 and 7479, *Marrubium pseudodictamnus*, *Marrubium vulgare* and *Marrubium alysson*) and a Sushruta recheck note on *Marrubium vulgare* (`SS_Sushruta/RECHECK_2026-10-02.md`, line 477). These are other species and other drugs, and none is read as a mention of this one. The row was added from the printed name (ATTESTATION_QUEUE §PLANTGAP) and has not been verified against POWO. The Codex does not state the botanical identity as certain. [USER: verify]
+
+**Row key.** In `Sources/FMT_Tibetan/extract/names.csv` (line 135) the Tibetan name *rta.lpags (lit. 'horse skin')* is recorded at Clark line 1015 with the identification "a type of Lamiophlomis rotata (Benth) Kude; Marrubium incisum; Colqhounia coccinea" and the note "more than one Latin name given; key uses the first". The key, *Marrubium incisum*, is the **second** of the three binomials Clark prints, and not the first. The first, *Lamiophlomis rotata* (Benth) Kude, is the one Clark attaches "a type of" to. The note on the row therefore does not match the key it carries; the Codex follows the key (the spine and the batch name) and records the mismatch. Neither *Lamiophlomis rotata* nor *Colqhounia coccinea* has a row on the spine as far as the files read show. Clark's preface (line 83) says that "more than one Latin name is frequently given for one substance". [USER: verify]
+
+**Identity doubt.** The three names are of different genera as the Codex understands it: a horehound (*Marrubium*), a plant Clark calls a *Lamiophlomis* and a *Colqhounia*, all of the mint family on the Codex's understanding (not checked against a flora). The Men-Tsee-Khang glossary agrees with Clark's first name and not with the key (see below). The Codex cannot say which plant the Tibetan texts meant, and the entry stands for the Tibetan drug under the second of Clark's three names. [USER: verify]
+
+**Tibetan — rGyud-bzhi (FMT).** *Clark 1995, materia medica run (line 1015).* `Clark_1995_Quintessence_Tantras_Tibetan_Medicine.txt`, Explanatory Tantra chapter 20 ("The Principles of Medicines: Powers of Medicines", line 792), within "(7) Exposition of the Powers of Herbs" (heading at line 997). A page number (102) is printed at line 1012. The entry follows the end of the previous entry (line 1014) and is followed by *a.bi.sha* (line 1016). It reads:
+
+"rta.lpags (lit. 'horse skin'): a type of Lamiophlomis rotata (Benth) Kude: Marrubium incisum: Colqhounia coccinea: [is of hills- and plains-growing types and has thick, round speckled leaves and a thorny, four-sided stalk. The flower may be pink or white. The hill variety has bitter-sweet taste and treats worm infestations, whilst the plains variety has warm, dry power]. It maintains bone resin and drains lymph accumulations."
+
+Clark's preface (line 82) says that interpolations in square brackets come from the Blue Aquamarine and Spreading Tree commentaries. Inside the brackets (the commentary layer) are the two growing types, the leaves, the stalk, the flower colours, the hill type's bitter-sweet taste and use against worm infestations, and the plains type's warm, dry power. Outside them (the root-text layer, as far as Clark's brackets mark it) are the Tibetan name and its gloss, the three identifications, which are Clark's and not the root text's, and the sentence "It maintains bone resin and drains lymph accumulations". The line gives no part used and no preparation. The Tibetan name index lists *rta.lpags* (line 1698), and the Latin index lists *Lamiophlomis rotata* (line 1609), *Marrubium incisum* (line 1614) and *Colqhounia coccinea* (line 1570).
+
+*Men-Tsee-Khang 2011, running text.* `MenTseeKhang_2011_Root_and_Explanatory_Tantra.txt`, chapter 20, "The Efficacy of Medicinal Substances" (contents, line 225), within the run headed "To reveal the efficacy of herbal medicines" (line 3428). Line 3432 reads, among a run of short sentences: "Tapak preserves spongy bone and dries up chhuser." The page number 207 is printed at line 3434, and the index lists "Tapak 207" (line 7508). Clark's "maintains bone resin" and "drains lymph accumulations" and Men-Tsee-Khang's "preserves spongy bone" and "dries up chhuser" are two translators' wordings; the actions agree in kind, and the Codex does not treat "bone resin" and "spongy bone", or "lymph accumulations" and "chhuser", as one term. The Codex reads "Tapak" as *rta.lpags* from the transliteration in the glossary (below), not from a Latin name, because the running text gives none. [USER: verify]
+
+*Men-Tsee-Khang 2011, glossary (the "T" block, lines 5858 to 5998).* The Glossary on Medicinal Ingredients prints its columns in separate runs. "Tapak" is printed as a phonetic name at line 5877, with "Tarbu" at 5878, and the transliterations include "rta lpags" and "star bu" (line 5880 and 5881), the same spelling as Clark's *rta.lpags*. Twenty-four phonetic names are printed, and "Tapak" is the sixth ("Tab seng", "Tak sha", "Tamig", "Tangkun", "Tangzil", "Tapak"); the seventh, "Tarbu", stands against *Hippophae tibetana* (line 5948), as I_1300 records. In the scientific run (lines 5928 onward) the names in order are *Fraxinus rhynchophylla* (5928), *Oxytropis microphylla* (5930), *Caltha palustris* (5932), *Angelica sinensis* (5936), *Corydalis sp.* (5940), then a dash (5942) and "phlomis ro ta ta" (5944), and *Hippophae tibetana* (5948). Counting the dash as an empty place and not a name, as the count in I_1300 does, "phlomis ro ta ta" is the sixth scientific name and falls on Tapak. One check point agrees: "Tak sha" (second) stands against *Oxytropis microphylla*, and Clark's *stag.sha* (line 1017) names an *Oxytropis* (*Oxytropis chiliophylla* Royle, white type); the other names in the run were not checked against Clark. The Codex reads "phlomis ro ta ta" as an OCR-spaced "Phlomis rotata", whose epithet matches Clark's first name, *Lamiophlomis rotata*. The pairing is by position, not printed in one row. [USER: verify] The two Tibetan texts therefore agree on the Tibetan name and, through the glossary's epithet and Clark's first name, on a *rotata*, and they do not agree with the key, *Marrubium incisum*, which only Clark prints.
+
+**Overlap.** A search of the entries folder for *Marrubium incisum*, *Lamiophlomis*, *Colqhounia*, *rta.lpags* and "Tapak" found no entry on this plant or passage. I_597 (White horehound, *Marrubium vulgare*, tags EP, AT, DMM, CM, EF), I_1128 (*Marrubium alysson*) and I_1129 (*Marrubium pseudodictamnus*) are horehound entries from other traditions and do not cite the Tibetan texts. I_1300 (*Hippophae tibetana*) quotes the same "T" block and names "Tapak" only as a neighbouring phonetic name. I_822 (*Lamium album*) mentions *Lamiophlomis* in a note about iridoids and does not cite the Tibetan texts. Nothing is merged.
+
+### Active Components
+
+The sources read print no constituent. It is a general fact that *Marrubium* is a genus of the mint family (Lamiaceae) and that its Old World members, the horehounds, are bitter plants in which the diterpene lactone marrubiin is characteristic. Whether that applies to the plant behind the Tibetan name is not shown by the lines read: the identity is uncertain, and Clark's commentary calls the hill type bitter-sweet. No statement about this drug's constituents is made.
+
+### Effect & Use Case in Kenetica
+
+Historical record only, not a recommended practice. The Tibetan texts record a drug that "maintains bone resin and drains lymph accumulations" (Clark, line 1015) and that "preserves spongy bone and dries up chhuser" (Men-Tsee-Khang, line 3432); its commentary adds that the hill type "treats worm infestations". These are the texts' claims in their own terms and not Codex protocols. The Codex gives no protocol and no dose, and does not translate "bone resin", "chhuser" or "lymph accumulations" into modern diagnoses. Bone injury and infestation need medical assessment.
+
+### Preparation & Dosing
+
+The sources read give no preparation, no part used, no quantity, no frequency and no duration. No dose is given in the sources retrieved. [USER: verify]
+
+### Scientific Correlation
+
+No clinical studies were retrieved for this entry. [USER: verify] The Tibetan terms ("bone resin", "lymph accumulations", "chhuser", "worm infestations") are not modern diagnoses or measured outcomes, so no modern finding can be set beside them. Because the identity is uncertain among three names, a study of a horehound would not bear directly on the Tibetan drug.
+
+### Traditional Energetic Classification
+
+- **FMT:** Clark's commentary layer (line 1015) prints, for the hill variety, "bitter-sweet taste" and, for the plains variety, "warm, dry power". No post-digestive taste is printed. Men-Tsee-Khang prints no taste or power for the name in the lines read. The actions printed are maintaining bone resin and draining lymph accumulations (Clark, root-text layer), treating worm infestations (Clark, commentary), and preserving spongy bone and drying up chhuser (Men-Tsee-Khang).
+
+### Cultivation Register
+
+**Tibetan — rGyud-bzhi (FMT).** *(b) Framed, not a cultivation status.* The Quintessence Tantra's materia medica gives this drug by what it does: it maintains bone resin and drains lymph accumulations, and its commentary adds the hill type's use against worm infestations. The cultivation spec records that in this tradition medicine is the third of four treatment branches, supporting practice without reaching its root, and that no formal category of substances for subtle-body practice exists. A search of both Tibetan texts for the drug's names found it only in the chapter 20 lines cited above, the glossary and the indexes, and not in the rejuvenation chapter (chapter 23 in both editions); no line read places it in *bcud len* (essence extraction) or any practice. Its framing is therapeutic only, and it attaches to the Tibetan name, not securely to this binomial.
+
+**Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a bone and lymph drug in the Tibetan texts, with no preparation and no dose, and the plant behind the Tibetan name is uncertain among three names, of which the glossary agrees with the first and not with this entry's. The abstentive answer is the honest one.
+
+### Contraindications
+
+The sources read print no warning for this drug. Bone injury, lymph complaints and worm infestation need medical assessment; no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Because the identity is uncertain, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]
+
+---
+
+*Filed under: Codex Pharmakon Universalis — Volume I (Plant-Based) | Entry I_1315 | Marrubium incisum | Canonical ID CPU-01751*
