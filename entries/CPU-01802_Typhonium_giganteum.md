@@ -1,0 +1,60 @@
+# Typhonium giganteum — Bai Fu Zi 白附子 (Shennong Bencao Jing)
+
+## *Typhonium giganteum, as the pharmaceutical Latin Yang 1998 prints for Bai Fu Zi, "Rhizoma Typhonii Gigantei", matched to the binomial by stem in the extraction; Yang's note 236 uses the genus name "Typhonium"* | *(Volume I — Plant-Based)*
+**Tradition Tags:** SBJ
+
+---
+
+### Origin & Tradition
+
+**Named only by the Shennong text (SBJ); this entry rests on one text, the Shennong Bencao Jing in Yang Shou-zhong's 1998 translation, and on one entry in it.** The text is `Sources/SBJ_Shennong/text/Shennong_Yang_1998.txt`. The tag line is SBJ only, as the batch sets it. A search of the Dioscorides, Ebers, Assyrian and Sushruta text folders on disk for *Typhonium* and *Typhonii* found no hit. Clark's Tibetan text does name *Typhonium giganteum*, in two passages that are set out below under their own heading and are **not** used as an attestation in this entry. The Latin name is the translator's pharmaceutical Latin and was matched to the binomial by stem in the extraction (`Sources/SBJ_Shennong/extract/names.csv`, line 200: "pharmaceutical Latin 'Rhizoma Typhonii Gigantei' matched by stem to on-disk binomial 'Typhonium giganteum'"). The Chinese characters 白附子 are given in the Codex's own list (`_sources/shennong.csv`, line 302, with no botanical name); Yang's English text prints no characters. The reconstructed Chinese file (`Sources/SBJ_Shennong/SBJ_Original_Chinese.md`) has **no entry** for this drug: a search of it for 附 finds only 附子 (Fu Zi, line 629), which is the aconite lateral root and a different drug in Yang. The row was added from the printed name (ATTESTATION_QUEUE §PLANTGAP) and has not been verified against POWO. The Codex does not state the botanical identity as certain. [USER: verify]
+
+**Row key.** The row is keyed by the name as Yang prints it, *Bai Fu Zi*, which is the first name of the entry and the only name the entry prints (it gives no other name). The locus in the extraction is "Herbs: Inferior Class, PDF p.101 (line 3754)".
+
+**Chinese — Shennong Bencao Jing (SBJ).** *Bai Fu Zi, PDF page 101.* The page marker `[[p101]]` is at line 3748, and the page's running head "Herbs: Inferior Class" is at line 3749, directly above the page's first entry. The entry follows Nu Qing (Herba Metaplexis Stauntoni, lines 3750 to 3753) and precedes Gu Huo (Semen Abutilonis Seu Malvae, line 3758). It reads, at lines 3754 to 3757:
+
+"Bai Fu Zi (Rhizoma Typhonii Gigantei)235 mainly treats heart pain, blood impediment, and hundreds of diseases in the face. It is able to carry the strength of [other] medicinals.236 It grows in Shu Prefecture [or what is now Sichuan province)."
+
+(The bracket closes with a round bracket as the OCR prints it.) The entry gives indications, one property ("to carry the strength of other medicinals") and the habitat. It prints **no taste, no nature and no statement of toxicity**: it neither says "toxic" nor "nontoxic", and it gives no other name. By contrast the entry for Fu Zi (the aconite lateral root, lines 3381 to 3383) prints "acrid and warm. It is toxic". The Codex draws no inference from the silence.
+
+Yang's two notes on the entry are the translator's modern commentary and not the classic. Note 235 (lines 3769 to 3770): "Currently, this medicinal is often used as a face cream to remove patches, blemishes, papules, etc. It is also prescribed for genital itching." Note 236 (lines 3771 to 3775): "This implies that Typhonium is able to lead other medicinals upward. Depending on which other medicinals it is combined with, it treats a variety of troubles, such as paralysis, wind phlegm dizziness, hemilateral headache, phlegm inversal headache, lockjaw, throat impediment, and pain and swelling of the throat." None of these uses is in the classic's entry, and they are not carried into this register.
+
+*The class headings.* Yang's table of contents prints "Herbs: Inferior Class" (line 729). The section's opening heading is printed at line 3157 (`[[p85]]` at line 3156), and the running head recurs on the pages after it (for example at lines 3221, 3288, 3374, 3452, 3534, 3610, 3675 and 3749). The preface (lines 391 to 395) says of the inferior class: "There are 125 inferior class medicinals which are used as assistants and envoys. They mainly treat disease and correspond to earth. They are usually toxic and cannot be taken for a long time. If one intends to eliminate cold and heat and evil qi, break accumulations and gatherings, and cure disease, one should base [one's efforts] on the inferior class." Yang's commentary (lines 362 to 365) says: "Inferior class medicinals specifically treat disease. They are usually at least slightly toxic. This means that they cannot be taken in large amounts or for prolonged periods of time without developing negative side effects." The preface's count (125) and the count in Yang's commentary (122 inferior class, lines 365 to 366) do not agree; the Codex records both and does not decide.
+
+**Not used as attestation: the Tibetan passages that name Typhonium giganteum.** Clark 1995 (`Clark_1995_Quintessence_Tantras_Tibetan_Medicine.txt`) prints the binomial twice. In the section on prepared foods (line 696 begins it), lines 698 to 701 read in part "Stew of Typhonium giganteum cures wind disorders, dries wounds and increases phlegm and bile" (the sentence runs across a page break, and the page number 75 stands at line 699). In the materia medica, chapter 20, line 1056, the entry for *dva.wa* begins "a type of Typhonium giganteum Engl.: Arisaema intermedium: Arisaema lobatum: Arisaema consanguineum", and it is the subject of I_1233 (*Arisaema intermedium*). These Tibetan lines name a plant of the same binomial under a Tibetan name that the Codex has not paired with Bai Fu Zi, and the project's queue (ATTESTATION_QUEUE, the plant-gap entries) records the Tibetan tag for this spine row as an addition found and **not applied**. This entry therefore keeps the tag SBJ and does not give the Tibetan passages a register paragraph. [USER: verify]
+
+**Overlap.** A search of the entries folder for *Typhonium*, *Typhonii*, *Bai Fu Zi* and *Rhizoma Typhonii* found no entry on this plant. **I_880** (Ban Xia, *Pinellia*; tags CM, SBJ, SS, FMT) names the *dva.wa* line as the nearest aroid in Clark and says Yang prints its binomials as other drugs (Bai Fu Zi, line 3754, and Hu Zhang, line 3499). **I_1233** (*Arisaema intermedium*) reads Clark's line 1056 and names this spine row (CPU-01802) in its overlap note. The Fu Zi entry in the same class is a different drug, the aconite lateral root; the Codex's aconite entries (for example I_004) do not cover it as a Shennong entry. Nothing is merged.
+
+### Active Components
+
+The sources read print no constituent. It is a general fact that *Typhonium* belongs to the arum family (Araceae), and that the tubers of many aroids contain needle-shaped crystals of calcium oxalate that irritate the mouth, throat and skin when the raw plant is chewed or applied. That is a statement about the family and not about this drug, and Yang's notes do not mention any processing. Which compounds the rhizome named by the classic held is not shown by the lines read. [USER: verify]
+
+### Effect & Use Case in Kenetica
+
+Historical record, with a continuing use of the rhizome in Chinese medicine under the name Bai Fu Zi, if Yang's notes 235 and 236 are read as a description of the modern practice. The Shennong entry lists indications in its own terms (heart pain, blood impediment, "hundreds of diseases in the face") which are not modern diagnoses, and these conditions need medical care. The Codex gives no protocol and no dose, and it does not recommend the face-cream use that note 235 reports. The entry's silence on toxicity is not a statement that the rhizome is safe: the preface says the inferior class is "usually toxic" and "cannot be taken for a long time", and nothing here supports gathering or using it.
+
+### Preparation & Dosing
+
+The entry gives no preparation, no part beyond the rhizome implied by the Latin "Rhizoma", no quantity, no frequency and no duration. The text gives only indications, the property of carrying other medicinals' strength, and the habitat. Note 235 mentions a face cream, and note 236 mentions combination with other medicinals, but neither gives a preparation or a quantity. No dose is given in the sources retrieved. [USER: verify]
+
+### Scientific Correlation
+
+No clinical studies were retrieved for this entry. [USER: verify] The Shennong terms ("heart pain", "blood impediment", "hundreds of diseases in the face") are not modern diagnoses or measured outcomes, so no modern finding can be set beside them. It is a general fact that raw aroid tubers are irritant and can be toxic; that is a statement about the family and not about a dose.
+
+### Traditional Energetic Classification
+
+- **SBJ:** The entry prints no taste, no nature and no statement of toxicity. The only property it prints is that Bai Fu Zi "is able to carry the strength of [other] medicinals", and Yang's note 236 explains it as leading other medicinals upward, which is the translator's. No meridian or other system of later Chinese medicine is printed in the entry.
+
+### Cultivation Register
+
+**Chinese — Shennong Bencao Jing (SBJ).** *(a) Attested: the inferior class (下品), by position.* Bai Fu Zi stands in the section headed "Herbs: Inferior Class". The section's opening heading is at line 3157 (page 85), and the page that carries the entry (page 101) has the running head "Herbs: Inferior Class" at line 3749 directly above its first entry. The entry is not under the opening heading itself, so the grade rests on its position within the section and not on standing beneath the first heading. In the preface (lines 391 to 395) the inferior class "mainly treat[s] disease", is "usually toxic" and "cannot be taken for a long time", and is the class on which one bases the effort "to eliminate cold and heat and evil qi, break accumulations and gatherings, and cure disease". Yang's commentary (lines 362 to 365) says that these medicinals "specifically treat disease" and "cannot be taken in large amounts or for prolonged periods of time". The cultivation spec places the inferior class as the grade of substances that attack disease in a short course, and the Codex's reconstructed Chinese preface (`SBJ_Original_Chinese.md`, line 20) names the class's charge with the characters 治病, the same ground. The entry itself prints no taste, nature or toxicity, and says nothing of long-term use, "making the body light", nourishing life, or any change of jing, qi or shen; none is asserted here. The class position rests on the OCR text of Yang's headings and has not been checked against a page image. [USER: verify]
+
+**Practitioner's note.** In the Chinese scheme this is a lower-grade drug: taken for a defined course against a defined complaint and then stopped, if taken at all. The class's own warning ("usually toxic ... cannot be taken for a long time") is the operative one, the entry gives no dose and no statement of its own toxicity, and the identity rests on a name matched by stem. Nothing here supports long-term use.
+
+### Contraindications
+
+The Shennong entry prints no warning and no statement of toxicity. The inferior class is described in the preface as "usually toxic" and unfit for long use, and this is a general statement about the class and not about this plant. Heart pain, and any disease of the face that is a sore or an eruption, need medical care. Raw aroid tubers are irritant, and the arum family includes plants that are poisonous; this entry's identity is a name matched by stem, so no rhizome should be gathered, applied to the skin or taken by mouth on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]
+
+---
+
+*Filed under: Codex Pharmakon Universalis — Volume I (Plant-Based) | Entry I_1366 | Typhonium giganteum | Canonical ID CPU-01802*

@@ -1,0 +1,66 @@
+# Sophora moorcroftiana — skyi.wa, Kyiwa, "a grey, thorny bush" (rGyud-bzhi, Clark 1995 line 1116; Men-Tsee-Khang glossary and running text by name)
+
+## *Sophora moorcroftiana (Wall) Benth ex. Baker, the only binomial Clark 1995 prints on line 1116 for skyi.wa, and the first of two scientific names on line 5398 of the Men-Tsee-Khang 2011 glossary, which column order sets against "Kyiwa" (skyi ba), with no English name read for it* | *(Volume I — Plant-Based)*
+**Tradition Tags:** FMT
+
+---
+
+### Origin & Tradition
+
+**Named only by the Tibetan texts (FMT); this entry rests on one text, the rGyud-bzhi, read in two modern editions.** The editions are Clark 1995 and Men-Tsee-Khang 2011, both in `Sources/FMT_Tibetan/text/`. They are two translations of one tradition's text and are not two independent traditions. A search of the Dioscorides, Ebers, Assyrian and Sushruta text folders on disk for *Sophora* found no hit. The Shennong text (Yang 1998) prints *Sophora* once, for Ku Shen (*Sophora flavescens*, line 2761; I_1358), a different species in another tradition, and it is not read as this plant. The row was added from a printed name (ATTESTATION_QUEUE §PLANTGAP) and has not been verified against POWO. The Codex does not state the botanical identity as certain. [USER: verify]
+
+**Row key.** In `Sources/FMT_Tibetan/extract/names.csv` the binomial has **two** source rows. The batch locus is line 302: keyed by the **scientific name** "Sophora moorcroftiana", locus "Men-Tsee-Khang 2011, Glossary on Medicinal Ingredients (line 5398)", with the note "Tibetan name not paired (OCR column split)". The second is line 199, keyed by the **Tibetan name** *skyi.wa*, locus "Clark 1995 (line 1116)", translator identification "Sophora moorcroftiana (Wall) Benth ex. Baker", with no remark about further Latin names. In Clark the binomial is therefore the only Latin name of its entry. In the glossary it is the **first** of two binomials on line 5398 ("Sophora moorcroftiana", then "Curcubita pepo" on line 5399), so the key is the first name on its line, and the second belongs to the next Tibetan name, "Kuwa".
+
+**Identity doubt.** The glossary binomial is set against the Tibetan name by column position, and the two editions agree on it, which makes this the best-supported identification of the batch's Tibetan entries. Clark prints one author string ("Wall", "Benth ex. Baker") and one species. The English column of the glossary is out of order in this block (for example "Indian barberry" is printed on line 5413 beside "Mugwort", before "Dandelion", and several slots read "-"), so no English name is read for "Kyiwa". Clark's preface says that "more than one Latin name is frequently given for one substance" (line 83) and that "the data given in some of these is occasionally suspect" (line 68). The Men-Tsee-Khang editors' note (line 686) says that its botanical terms rest on the information of its own Materia Medica Department. [USER: verify]
+
+**Tibetan — rGyud-bzhi (FMT).** *Clark 1995, materia medica run (line 1116).* `Clark_1995_Quintessence_Tantras_Tibetan_Medicine.txt`, Explanatory Tantra chapter 20 ("The Principles of Medicines: Powers of Medicines", line 792), within "(7) Exposition of the Powers of Herbs" (heading at line 997). The entry follows the entry whose description ends "Incarvillea has bitter and sweet tastes], cures ear diseases, purges swellings [and is carminative]" (lines 1112 to 1115, split by a page break) and is followed by *Sardzika* (corn smut, line 1117). It reads:
+
+"skyi.wa: Sophora moorcroftiana (Wall) Benth ex. Baker: [is also known as ngang.pa.gchig.rgyug.dar.ya.kan. It is a grey, thorny bush, with a small, thin leaf, pale blue flower and rectangular pod containing red seeds. Sophora is fragrant with bitter taste and its] seed is a bile emetic. [It is also anthelmintic and treats diphtheria and quinsy.]"
+
+Clark's preface (line 82) says that interpolations in square brackets come from the Blue Aquamarine and Spreading Tree commentaries. The second name, the description, the taste and the further uses (anthelmintic, diphtheria, quinsy) are therefore the commentary layer. Outside the brackets, as Clark's marks stand, are the Tibetan name, the binomial, which is Clark's identification, and the clause "seed is a bile emetic". Clark's name index lists *skyi.wa* (line 1673) and the Latin index lists *Sophora moorcroftiana* (line 1647).
+
+*Clark 1995, chapter 21, the class of emetics (line 1224).* Explanatory Tantra chapter 21 ("The Principles of Medicines: Compounding of Medicines", heading at lines 1205 and 1206): "The class of emetics contains pericarp of Soapnut, Hill Dockleaf, Thistle (Cirsium sp.), Sweet Flag Root, Thladiantha harmsii Cogn., Fragaria nilgeerensis (a type of mock strawberry), seed of Sophora moorcroftiana, Pyrola incarnata and mustard seed." The list names substances by English or Latin name and not by Tibetan name, and "seed of Sophora moorcroftiana" is Clark's wording for the seventh of nine. It agrees with the chapter 20 entry: the seed is the part, and the use is as an emetic.
+
+*Men-Tsee-Khang 2011, glossary (the "K" block).* `MenTseeKhang_2011_Root_and_Explanatory_Tantra.txt`, Glossary on Medicinal Ingredients. The glossary prints its columns in separate runs, and the columns do not hold the same number of entries. The phonetic names for the block are fifteen, among them "Khenpa Khyungdher Khurmang" (line 5382), **"Kyiwa"** (line 5392), "Kuwa" (5393) and "Kyerpa Kyiche Kyurura" (5401). The transliterations include "skyi ba" (line 5395) and "kuba" (5396). The scientific names are fifteen: from "Amomum sabulatum" (line 5363) and "Rubus biflorus" (5369), through "Artemisia vulgaris", "Uncaria Hook" and "Taraxacum officinale" (5388 to 5390), to **"Sophora moorcroftiana"** (line 5398) and "Curcubita pepo" (5399), then "Berberis aristata", "Gentiana robusta" and "Emblica officinalis" (5405). Counted in order, "Kyiwa" is the eleventh phonetic name, "skyi ba" the eleventh transliteration and *Sophora moorcroftiana* the eleventh scientific name. The count is checked at both ends, on "Kanta kari" against *Rubus biflorus* (second; see I_1349) and on "Kyerpa" against *Berberis aristata*, "Kyiche" against *Gentiana robusta* and "Kyurura" against *Emblica officinalis* (thirteenth to fifteenth), where Clark's *skyer.pa* (line 1044) prints *Berberis aristata*. The glossary does not print the pairing in one row, so it is by position only. [USER: verify]
+
+*Men-Tsee-Khang 2011, running text (line 3493).* Chapter 20, "The Efficacy of Medicinal Substances" (contents, line 225; colophon at line 3583), within the run headed "To reveal the efficacy of herbal medicines" (line 3428): "Ukchhoe cures problems of the ears and eliminates distention of the abdomen. The fruit of the Kyiwa brings up tripa disorders. Sazika generates digestive heat." The printed index lists "Kyiwa 211" (line 7412). "Tripa" is a Tibetan term that the editors keep untranslated (note at line 686). The three sentences stand in the order of Clark's entries on lines 1112 to 1117: an ear remedy ("cures ear diseases"), *skyi.wa*, and *Sardzika* ("increases digestive heat"), which supports reading the two as the same drug.
+
+*Men-Tsee-Khang 2011, chapter 21 (line 3659).* In the chapter "The Group and the Method of Compounding Medicine" (contents, line 229): "Soenchha, Ri sho, Chang tsher, Shudag, Serphue, Drita sazin, Kyi dru, Yakyima and white mustard seed are the group of medicines that are emetics." This group stands where Clark's list of emetics stands (line 1224), name for name, as I_1280 sets out: the seventh name is "Kyi dru" here and "seed of Sophora moorcroftiana" in Clark. The index lists "Kyi dru 223" (line 7412). The Codex records the place and the similar spelling and does not claim that "Kyi dru" is "the seed of Kyiwa"; the text does not say so. [USER: verify]
+
+The two editions agree in kind and in order: Clark's drug has a "seed [that] is a bile emetic", the Men-Tsee-Khang "fruit of the Kyiwa brings up tripa disorders", where "bile" and "tripa" are the two translators' words for what the Codex does not translate between. The Codex reads *skyi.wa* and *Kyiwa* as one drug from the spelling, that agreement and the sequence. The Codex's own list of rGyud-bzhi names (`_sources/rgyud-bzhi.csv`, line 317) carries "Kyiwa" with no botanical name and the identity flagged uncertain. [USER: verify]
+
+**Overlap.** A search of the entries folder for *Sophora moorcroftiana*, *skyi.wa*, *Kyiwa* and *Kyi dru* found no entry on this drug under its own name. **I_1280** (*Fragaria nilgeerensis*, tag FMT) and **I_1311** (*Luffa aegyptiaca*, tag FMT) quote Clark's line 1224 and so print "seed of Sophora moorcroftiana" as context; I_1280 also reads the Men-Tsee-Khang emetics group on line 3659. **I_1307** (*Lepidium apetalum*, *dar.ya.kan*, tag FMT) covers the other Tibetan name that Clark's commentary layer gives for this drug (*ngang.pa.gchig.rgyug.dar.ya.kan*), and does not cover this entry's passage. **I_1349** (*Rubus biflorus*, *Kanta kari*) is a neighbour in the same glossary block. **I_1358** (*Sophora flavescens*, SBJ) and **I_1359** (*Sophora hookeriana*, FMT) are entries of the genus from the same batch. Nothing is merged.
+
+### Active Components
+
+The sources read print no constituent. It is a general fact that *Sophora* is a genus of the legume family (Fabaceae), that many of its species contain quinolizidine alkaloids, and that *S. moorcroftiana* is known as a thorny shrub of the high Tibetan plateau; these are statements about the genus and species in general and not findings of the Tibetan text. The lines read give no composition for the drug, and nothing is stated here about what it contains. [USER: verify]
+
+### Effect & Use Case in Kenetica
+
+Historical record only, not a recommended practice. The Tibetan texts record a drug whose "seed is a bile emetic" (Clark, line 1116), a member of the class of emetics (Clark, line 1224), and a drug whose "fruit ... brings up tripa disorders" (Men-Tsee-Khang, line 3493). These are the texts' claims, and they are not Codex protocols. Inducing vomiting is a hazard and not a practice here, and the seeds of many legumes are toxic. The Codex gives no protocol and no dose, and the commentary-layer uses (anthelmintic, diphtheria, quinsy) are not recommendations.
+
+### Preparation & Dosing
+
+The sources read name the seed (Clark) or the fruit (Men-Tsee-Khang) as the part used, and give no preparation, no quantity, no frequency and no duration. The emetics group is a list of names and gives no compound, no method and no dose. No dose is given in the sources retrieved. [USER: verify]
+
+### Scientific Correlation
+
+No clinical studies were retrieved for this entry. [USER: verify] The Tibetan terms ("bile emetic", "tripa disorders", "diphtheria and quinsy") are not modern diagnoses or measured outcomes, so no modern finding can be set beside them. It is a general fact that alkaloid-bearing legume seeds can cause vomiting and are toxic in excess; that is a statement about the family and not about this plant or a dose.
+
+### Traditional Energetic Classification
+
+- **FMT:** Clark's line 1116 prints "fragrant with bitter taste" for the plant, inside the brackets, so it belongs to the commentary layer. It prints no power or post-digestive taste. The Men-Tsee-Khang lines read (3493, 3659, 5392, 5395, 5398) print no taste, power or post-digestive taste for *Kyiwa*.
+
+### Cultivation Register
+
+**Tibetan — rGyud-bzhi (FMT).** *(b) Framed, not a cultivation status.* The Quintessence Tantra's materia medica gives this drug by what it does: its seed is an emetic, the chapter on compounding counts "seed of Sophora moorcroftiana" in the class of emetics, and the Men-Tsee-Khang text says the same in kind. The cultivation spec records that in this tradition medicine is the third of four treatment branches, supporting practice without reaching its root, and that no formal category of substances for subtle-body practice exists. A search of both Tibetan texts for the drug's names (*skyi.wa*, *Kyiwa*, *Sophora*) found it only in the lines cited above, the glossary and the indexes. It is not in the rejuvenation chapter (Men-Tsee-Khang chapter 23, colophon at line 3950), and the herb entries of Clark's chapter 20 that mention essence extraction (lines 971, 1043, 1078, 1103, 1121 and 1144) do not include it. Its framing is therapeutic only.
+
+**Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is an emetic seed with no preparation and no dose. The abstentive answer is the honest one: nothing here supports gathering or taking it.
+
+### Contraindications
+
+The sources read print no warning for this drug. An emetic is a hazard in itself, and the seeds of many *Sophora* species contain alkaloids that are toxic in excess (a general fact about the genus, not about this plant). No preparation or dose is given, and no plant should be gathered or used on the strength of this entry. No conservation information and no safety information for pregnancy were read. [USER: verify]
+
+---
+
+*Filed under: Codex Pharmakon Universalis — Volume I (Plant-Based) | Entry I_1360 | Sophora moorcroftiana | Canonical ID CPU-01796*
