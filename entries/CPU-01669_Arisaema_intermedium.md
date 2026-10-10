@@ -1,0 +1,58 @@
+# Arisaema intermedium — dva.wa, Dhawa (rGyud-bzhi)
+
+## *Arisaema intermedium, the second of four binomials Clark 1995 prints for dva.wa (after "a type of Typhonium giganteum Engl.", and before Arisaema lobatum and Arisaema consanguineum), and the one Clark prints by itself in his list of the hot-tasting medicines; the Men-Tsee-Khang glossary beside the name "Dhawa" prints a different Arisaema* | *(Volume I — Plant-Based)*
+**Tradition Tags:** FMT
+
+---
+
+### Origin & Tradition
+
+**Tibetan — rGyud-bzhi (FMT).** **Named only by the Tibetan texts in this row.** No other text read for this entry names the plant under this name. Both loci are in `Sources/FMT_Tibetan/text/`. The Tibetan name is a drug name and not a botanical one. Clark's preface (line 83) says that "more than one Latin name is frequently given for one substance", and the row's binomial is the second of four on Clark's line. The Codex does not state the botanical identity as certain. The row was added from the printed names (ATTESTATION_QUEUE §PLANTGAP) and has not been verified against POWO. [USER: verify]
+
+*Clark 1995, materia medica run (line 1056).* `Clark_1995_Quintessence_Tantras_Tibetan_Medicine.txt`, within the section headed "(7) Exposition of the Powers of Herbs" (line 997). The entry reads: "dva.wa: a type of Typhonium giganteum Engl.: Arisaema intermedium: Arisaema lobatum: Arisaema consanguineum: [has ten names and is of two types. The superior and wild type grows on hills, whilst the common type grows in fields. It has a thick, glossy leaf, pale yellow flower and fruits resembling a mass of coral. Typhonium has hot taste and warm post-digestive power]. Its root is anthelmintic, removes bone excrescences [and cures swellings, sores and superfluous flesh growths. The fruit is beneficial in cases of poisoning.]"
+
+Clark's preface (line 82) says "Interpolations in square brackets [ ] are taken from the Blue Aquamarine commentary and Spreading Tree commentary". So the names, the two types, the habitat, the description, the hot taste and warm post-digestive power, the further indications and the fruit are the commentary layer. Outside the brackets are Clark's own identifications (the four Latin names, which are editorial and not root text) and the root-text clause "Its root is anthelmintic, removes bone excrescences". The text thus gives two root-layer actions and no taste or power outside the brackets. The hot taste is attached by name to *Typhonium*, the first of the four binomials, and not to *Arisaema*.
+
+Three more Clark lines name the drug. In chapter 19, "Principles of Medicines: Tastes and PostDigestive Tastes" (heading at line 747), line 769 reads: "The group of medicines having hot taste includes black pepper, wild ginger, longpeper, fresh (moist) ginger, Asafoetida, a type of Anemone rivularis (srub.ka), che.tsha, Arisaema intermedium, onion, garlic, etc." This line sits outside any square bracket, so it is in the root-text layer as Clark gives it; the name "Arisaema intermedium" in it is Clark's identification of a Tibetan name that the Codex has not seen. In the section on prepared foods (line 696 begins it), the sentence that begins at line 698 and ends at line 701 (a page number intervenes) reads: "Stew of Typhonium giganteum cures wind disorders, dries wounds and increases phlegm and bile." In chapter 21, "The Principles of Medicines: Compounding of Medicines" (heading at line 1205), line 1221 reads: "The category of anthelmintics contains Musk, Asafoetida, Garlic, Bengal Kino tree, Datura, Henbane, Embelia, seed of Iris ensata, Snail shell, Artemesia(nestita) ash, Daphne tangutica (tibetanum), Arisaema, Zanthoxylum and Heracleum (candicans)." That line names the genus only. Clark's name index prints *dva.wa* (line 1705).
+
+*Men-Tsee-Khang 2011 (Explanatory Tantra).* `MenTseeKhang_2011_Root_and_Explanatory_Tantra.txt`. The name appears as "Dhawa" in four places and in its index. Chapter 16, line 3046: "Cooked Dhawa pacifies loong disorders and dries up abscesses, but it also aggravates baekan and tripa disorders." Chapter 19, line 3215: "The group of medicinal substances having a hot taste includes Nalaesham, Chaga, Pipiling, Gasher, Shingkun, Subka, Che tshawa, Dhawa, onion, garlic and other similar substances." Chapter 20, line 3442: "The root of the Dhawa destroys ein disorders and removes bone fragments from comminuted fractures" ("ein" is the OCR form as printed). Chapter 21, line 3638: "La tsi, Shingkun, Gokya, Soma raza, Thangtrom, Langthangtse, Jitanga, Dre dru, snail shell, Phur thal, Cinshingdru, Dhawa, Yherma and Tuma are the group of medicines that cures cm disorders" ("cm" as printed). The index (line 7321) gives "Dhawa 170,187,208,222".
+
+That *Dhawa* is a form of *dva.wa* is a reading from the sound of the name. It is supported by the order of the two hot-taste lists: Clark's reads "... Asafoetida, srub.ka, che.tsha, Arisaema intermedium, onion, garlic" and the Men-Tsee-Khang list reads "... Subka, Che tshawa, Dhawa, onion, garlic", so *Dhawa* stands where Clark has *Arisaema intermedium*. The text does not state it. [USER: verify]
+
+*The glossary's scientific name for "Dhawa" is a different Arisaema.* The Men-Tsee-Khang Glossary on Medicinal Ingredients prints its columns in separate blocks. In the "D" block (begun at line 5179) the phonetic name "Dhawa" stands alone at line 5184, and the Tibetan transliteration "dwa ba" is at line 5201. The scientific names include "Hippuris vulgaris Schisandra spenanthera Lepidium apetalum Arisaema j acquemontii Croton tinglium" (line 5217), and the common-name lines (5222 to 5229) read in turn "-", "Chinese magnolia vine", "-", "Snake plant", "-", "Castor oil plant", "-", "Golden shower tree". By position, and with an offset of one at the start of the block (the first scientific-name line, 5215, prints two Rhododendron forms for the first phonetic name), "Dhawa" would take "Arisaema j acquemontii" ("Snake plant"). The neighbouring pair supports that order: "Dhambu kara" would take "Hippuris vulgaris", which is also the binomial Clark prints for the next entry after *dva.wa* (line 1057, *hdam.bu.ka.ra*). The glossary does not print the pairs on one row, and the Codex does not state the pairing. This is an identity doubt between Clark (*Arisaema intermedium*, and *Typhonium giganteum* first) and the glossary (*Arisaema jacquemontii* by position). The row stands for the Tibetan drug and not for one species. [USER: verify]
+
+**Overlap.** A search of the entries folder for *dva.wa*, *Dhawa* and *Arisaema intermedium* found no entry on this drug. I_880 (Ban Xia, *Pinellia*) names *dva.wa* (Clark line 1056) as the nearest aroid in Clark's chapter 20 and says Yang prints its binomials as other drugs. I_780 (*Arisaema erubescens*, Tian Nan Xing) is the entry on another *Arisaema*. I_1228 (*Anemone rivularis*) quotes Clark lines 769 and 1221, which are also read here. I_973 (*Zanthoxylum armatum*) and I_1108 (*Iris ensata*) name *Arisaema* in prose of the same anthelmintic line. The spine holds a separate row for *Typhonium giganteum* (CPU-01802, Shennong, not yet written), the first binomial on Clark's line. None of them is an entry on *dva.wa*. Nothing is merged.
+
+### Active Components
+
+The sources read print no constituent. It is a general fact that *Arisaema* and *Typhonium* are genera of the arum family (Araceae), and that plants of this family are generally known to contain calcium oxalate crystals that irritate the mouth and skin when the raw plant is chewed. That is a statement about the family and not about this plant. Nothing is stated here about the composition of the Tibetan drug, which may not be this species. [USER: verify]
+
+### Effect & Use Case in Kenetica
+
+Historical record only, not a recommended practice. The Tibetan texts record a drug whose root is anthelmintic and removes bone excrescences (Clark line 1056, outside the brackets), whose fruit is beneficial in poisoning (inside the brackets), that belongs to the hot-tasting group (Clark line 769, Men-Tsee-Khang line 3215) and the anthelmintic class (Clark line 1221, genus only), and that in the Men-Tsee-Khang text pacifies *loong* when cooked and removes bone fragments from comminuted fractures (lines 3046 and 3442). These are the texts' own claims and not Codex protocols. The Codex gives no protocol, and arum-family roots and fruits are generally known to irritate when raw, so none is suggested.
+
+### Preparation & Dosing
+
+The sources read give one preparation: a stew of *Typhonium giganteum* (Clark lines 698 to 701) and, in the Men-Tsee-Khang text, "cooked Dhawa" (line 3046). They name the root as the part used for the anthelmintic action and the fruit for poisoning (Clark line 1056). No quantity, frequency or duration is given. No dose is given in the sources retrieved. [USER: verify]
+
+### Scientific Correlation
+
+No clinical studies were retrieved for this entry. [USER: verify] The identity of the drug is uncertain between several binomials, and the commentary layer is separate from the root text, so a modern study of one *Arisaema* would not bear directly on it. It is a general, well-established fact that raw arum-family plants contain irritant oxalate crystals.
+
+### Traditional Energetic Classification
+
+- **FMT:** Clark line 769 places *Arisaema intermedium* in the hot-tasting group (outside the brackets), and the Men-Tsee-Khang text places *Dhawa* in the hot-tasting group (line 3215). Clark line 1056 prints "hot taste and warm post-digestive power" inside the square brackets, for *Typhonium*. Men-Tsee-Khang line 3046 says cooked *Dhawa* "aggravates baekan and tripa disorders". No other quality is printed.
+
+### Cultivation Register
+
+**Tibetan — rGyud-bzhi (FMT).** *(b) Framed, not a cultivation status.* The Quintessence Tantra's materia medica classes the drug by taste and by what it does: hot taste, an anthelmintic root that removes bone excrescences, a fruit used in poisoning, and a stew that cures wind disorders. The cultivation spec records that in this tradition medicine is the third of four treatment branches, supporting practice without reaching its root, and that no formal category of substances for subtle-body practice exists. No line read for this entry places *dva.wa* or *Dhawa* in *bcud len* (essence extraction). In the lines read, the essence-extraction mentions near this entry are for other plants (for example at lines 853, 870 and 971 and, in Clark's *mkhan.pa* entry, line 1078), and *dva.wa* is not named there. The rejuvenation chapter of each text (Clark chapter 23, Men-Tsee-Khang chapter 23) was read for names and does not name it. Its framing is therapeutic and dietary only.
+
+**Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a hot-tasting, anthelmintic and bone-setting drug and the plant of a stew in the Tibetan texts, and its species is not settled. The abstentive answer is the honest one.
+
+### Contraindications
+
+The sources read print no warning, except that the Men-Tsee-Khang text says cooked *Dhawa* aggravates *baekan* and *tripa* disorders (line 3046). Plants of the arum family are generally known to irritate the mouth and skin when raw, a general fact about the family and not a finding about this plant, and the botanical identity is uncertain, so no plant should be gathered or used on the strength of this entry. Worm infestation, fractures and poisoning need medical care. No safety information for pregnancy was read. [USER: verify]
+
+---
+
+*Filed under: Codex Pharmakon Universalis — Volume I (Plant-Based) | Entry I_1233 | Arisaema intermedium | Canonical ID CPU-01669*

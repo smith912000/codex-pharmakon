@@ -1,0 +1,56 @@
+# Rheum emodi — lchum.rtsa, Chum tsa, lcum rtsa (rGyud-bzhi); "Indian Rhubarb"
+
+## *Rheum emodi Wall, the first of three binomials Clark 1995 prints for lchum.rtsa (with Rheum webbianum and Rheum palmatum), glossed "Indian Rhubarb"; the Men-Tsee-Khang 2011 glossary prints "Rheum emodi" in its scientific-name column beside "Rheum palmatum L." and "Jasminum officinale"* | *(Volume I — Plant-Based)*
+**Tradition Tags:** FMT
+
+---
+
+### Origin & Tradition
+
+**Tibetan — rGyud-bzhi (FMT).** **Named only by the Tibetan texts in this row.** No other text read for this entry names the plant under this name. Both loci are in `Sources/FMT_Tibetan/text/`. The Tibetan name is a drug name and not a botanical one. Clark's preface (line 83) says that "more than one Latin name is frequently given for one substance", and the row's binomial is the first of three on Clark's line. The Codex does not state the botanical identity as certain. The row was added from the printed names (ATTESTATION_QUEUE §PLANTGAP) and has not been verified against POWO. [USER: verify]
+
+*Clark 1995, materia medica run (line 1137).* `Clark_1995_Quintessence_Tantras_Tibetan_Medicine.txt`, within the section headed "(7) Exposition of the Powers of Herbs" (line 997). The entry reads: "lchum.rtsa: Indian Rhubarb: Rheum emodi Wall: Rheum webbianum: Rheum palmatum: [has eleven names, for example zhim.shing, rtsa.wa.shing, etc. It grows in rocky areas and is of large, medium and small types. Its green leaf spreads close to the ground, whilst the stalk is tall, hollow and flexible. The flower is red or yellow, with a three-sided seed which cures phlegm disorders. Indian Rhubarb has sour taste and coarse power], and purges fever caused by poisoning, vessel organ fever and phlegm disorders."
+
+Clark's preface (line 82) says "Interpolations in square brackets [ ] are taken from the Blue Aquamarine commentary and Spreading Tree commentary". The bracket closes after "coarse power". So the eleven names, the habitat, the three sizes, the leaf, stalk and flower, the seed, the sour taste and the coarse power are the commentary layer. What stands outside the brackets, as the root-text layer, is the closing clause: the drug "purges fever caused by poisoning, vessel organ fever and phlegm disorders". The text thus gives three actions in the root layer, and a taste and a power in the commentary.
+
+Four more Clark lines name the drug. In the same chapter, line 694, in the passage headed "Vegetables" (which ends before the heading "Prepared Foods"), reads: "Rheum emodi and chu.lo eliminate phlegm disorders and improve the appetite." Line 771, in the passage on combined tastes, mentions "wild rhubarb" ("Camphor and wild rhubarb, etc., have a combination of tastes"), and its bracketed gloss says "Wild rhubarb is said to have sour, sweet and astringent tastes combined"; the line does not say which rhubarb "wild rhubarb" is, and the Codex does not assign it to this drug. In chapter 21, "The Principles of Medicines: Compounding of Medicines" (heading at line 1205), line 1225 reads: "The category of medicines inducing purgation includes (long-tipped) Chebulic myrobalan, Castor Oil seed, Cassia pods, Euphorbia sp., Physic nut (Baliospermum montanum), Euphorbia pallassii, Rheum emodi (a type of rhubarb), Lactuca dissecta (a type of larkspur), Physalis peruviana, Rheum nobile, Stellera chamaejasme and chhu.rtsa (Rheum spiciforme)." Clark's name index prints *Rheum emodi* (line 1636) and *lchum.rtsa* (line 1687). The drug *chhu.rtsa*, printed at line 1140, is a different Tibetan name (Clark gives it as *Rheum spiciforme* and *Rheum officinale*), and *chhu.ma.rtsi* (line 1079, *Rheum nobile*) is another; both are separate from this entry.
+
+*Men-Tsee-Khang 2011 (Explanatory Tantra).* `MenTseeKhang_2011_Root_and_Explanatory_Tantra.txt`. The name is spelt *Chum tsa* in the text, with a second spelling *Chum* in the vegetables passage. In chapter 20 (the colophon of that chapter is at line 3583), line 3495 reads: "Chum tsa is a laxative that cleanses hot disorder combined with poisoning, hot disorder of the vessel organs and baekan disorders. Chhu tsa eliminates infection and helps to dry abscesses." In chapter 16, on dietetics (colophon at line 3086), line 2967 reads, at its end: "Chum and Chhulo relieve baekan disorders and improve appetite." In chapter 21 (colophon at line 3689), line 3661 lists *Chum tsa* with *Chhu tsa* among the purgatives ("Arura, Dhenda, Dhong ga, Shri khenda, Dhurji, Thamu, Chum tsa, Ngonbu, Tronbu, Tsi takmo, Rechagpa and Chhu tsa are the group of medicines that are purgatives"). The index gives "Chum tsa 211,223", "Chum 168,211,223" and "Chhutsa 211,223".
+
+The Men-Tsee-Khang text agrees with Clark on the substance of the claim: a purgative or laxative for poisoning-associated hot disorder, hot disorder of the vessel organs and phlegm (*baekan* in that text's spelling). That *Chum tsa* is a form of *lchum.rtsa* is a reading from the sound of the name, from this agreement, and from the glossary's Tibetan column, which prints "lcum rtsa" in the same block as the phonetic "Chum tsa". [USER: verify] The Glossary on Medicinal Ingredients prints its columns in separate blocks. The block at lines 5166 to 5176 prints the phonetic names "Chhu tsa Chum tsa" and "Cinshingnama" (lines 5166 to 5167), the Tibetan "chu rtsa lcum rtsa" and "srin shing sna ma" (lines 5169 to 5170), the scientific names "Rheum emodi", "Rheum palmatum L." and "Jasminum officinale" (lines 5172 to 5174), and the English "Rhubarb", "East asian rhubarb" and "White jasmine" (lines 5176 to 5177). The glossary does not print them on one row, so no per-name pairing is printed. If the columns were read in order, the first scientific name (*Rheum emodi*) would fall against the first phonetic name (*Chhu tsa*), which is the reverse of Clark's pairing of *lchum.rtsa* with *Rheum emodi*; the Codex does not choose, and the column order is not a pairing. [USER: verify]
+
+**Overlap.** A search of the entries folder for *Rheum emodi*, *lchum.rtsa*, *lcum rtsa*, *Chum tsa* and *Indian Rhubarb* found no existing entry on this drug. Two entries on rhubarb carry Tibetan material. I_203 (Rhubarb, *Rheum palmatum* and *R. officinale*; tags CM, DMM, SBJ) has an FMT paragraph (line 36) that gives *lcum-rtsa* (*chu-tsa*) as an herb for *mkhris-pa* (bile) excess with a "bitter-cool, purgative classification". The lines of Clark and Men-Tsee-Khang read above do not print that: Clark's commentary layer gives *lchum.rtsa* a sour taste and coarse power and its root-text clause gives fever caused by poisoning, vessel organ fever and phlegm disorders. I_203's FMT tag is also absent from its tag line. I_305 (Tangut Rhubarb, *Rheum tanguticum*; tag FMT) names *chu rtsa* (Clark's *R. spiciforme* and *R. officinale*) and *lcum rtsa* (*R. emodi*) as congeners in its register paragraph and says no line links *R. tanguticum* itself. Neither is an entry on this drug, and the Codex does not merge them. The neighbouring entry I_1176 (*Rheum nobile*, *chhu.ma.rtsi*) belongs to this batch.
+
+### Active Components
+
+The sources read print no constituent. It is a general, well-established fact that *Rheum* is a genus of the knotweed family (Polygonaceae) and that rhubarb roots are generally known to contain anthraquinones, which are laxative. Which species and which part the Tibetan drug is (Clark names the plant and its actions; the part used is not printed in the lines read) is only as stated above. Nothing is stated here about the composition of the Tibetan drug. [USER: verify]
+
+### Effect & Use Case in Kenetica
+
+Historical record only, not a recommended practice. The Tibetan texts record a drug that purges fever caused by poisoning, vessel organ fever and phlegm disorders (Clark line 1137), that is a laxative for poisoning-associated hot disorder, vessel-organ hot disorder and *baekan* disorders (Men-Tsee-Khang line 3495), that is placed among the purgatives (Clark line 1225, Men-Tsee-Khang line 3661) and that, as a vegetable, eliminates phlegm disorders and improves the appetite (Clark line 694, Men-Tsee-Khang line 2967 as *Chum*). These are the texts' own claims and not Codex protocols. The Codex gives no protocol for purging, and the botanical identity is uncertain.
+
+### Preparation & Dosing
+
+The sources read give no preparation for *lchum.rtsa* and no quantity. It appears as a single name, in a vegetables passage, in a class list of purgatives and in the commentary description. No dose is given in the sources retrieved. [USER: verify]
+
+### Scientific Correlation
+
+No clinical studies were retrieved for this entry. [USER: verify] The identity of the drug is uncertain between three binomials in Clark, and the taste and power are in the commentary layer, so a modern study of one rhubarb would not bear directly on it. It is a general, well-established fact that persistent constipation, and suspected poisoning, need medical assessment, and that purgatives overused can cause dehydration.
+
+### Traditional Energetic Classification
+
+- **FMT:** Clark line 1137 prints "sour taste and coarse power" inside the square brackets, so both belong to the commentary layer. It prints no further quality outside them. Line 694 prints no taste for the vegetable use. The Men-Tsee-Khang text prints no taste or power for *Chum tsa* in the lines read and places it among the laxatives and purgatives (lines 3495 and 3661). No other quality is printed.
+
+### Cultivation Register
+
+**Tibetan — rGyud-bzhi (FMT).** *(b) Framed, not a cultivation status.* The Quintessence Tantra's materia medica classes the plant by what it does: it purges fever caused by poisoning, vessel organ fever and phlegm disorders, it sits in the purgative class of chapter 21, and it appears in the vegetables passage as a plant that eliminates phlegm disorders and improves the appetite (line 694). The cultivation spec records that in this tradition medicine is the third of four treatment branches, supporting practice without reaching its root, and that no formal category of substances for subtle-body practice exists. No line read for this entry places *lchum.rtsa* in *bcud len* (essence extraction) or any practice. The essence-extraction mentions near this entry (for example at lines 1043 and 1078) are for other plants, and *lchum.rtsa* is not named there. Its framing is therapeutic and dietary only.
+
+**Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a purgative drug and a vegetable in the Tibetan texts, and nothing more can be said from them. A purgative is not a daily practice, and the abstentive answer is the honest one.
+
+### Contraindications
+
+The sources read print no warning. Purgatives can cause dehydration and cramping, and constipation or suspected poisoning that persists needs medical care. The botanical identity is uncertain (three binomials in Clark, and Clark also lists related rhubarbs under other Tibetan names), so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. [USER: verify]
+
+---
+
+*Filed under: Codex Pharmakon Universalis — Volume I (Plant-Based) | Entry I_1175 | Rheum emodi | Canonical ID CPU-01611*
