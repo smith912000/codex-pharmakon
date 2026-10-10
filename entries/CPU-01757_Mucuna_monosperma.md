@@ -1,0 +1,56 @@
+# Mucuna monosperma — Laagor shho sha, gla gor zho sha (rGyud-bzhi)
+
+## *Mucuna monosperma, the one binomial the Men-Tsee-Khang 2011 glossary prints on the same line as the name "Laagor shho sha" and the transliteration "gla gor zho sha"; Clark 1995 prints Entada scandens and Entada phaseoloides for gla.gor.zho.sha, so the two editions of the one text disagree on the plant* | *(Volume I — Plant-Based)*
+**Tradition Tags:** FMT
+
+---
+
+### Origin & Tradition
+
+**Named only by the Tibetan texts (FMT); this entry rests on one text, the rGyud-bzhi, read in two modern editions, and on a binomial that only one of the two editions prints.** The editions are Clark 1995 and Men-Tsee-Khang 2011, both in `Sources/FMT_Tibetan/text/`. They are two translations of one tradition's text and are not two independent traditions. A search of the Dioscorides, Shennong (Yang 1998), Ebers, Assyrian, Badianus, Avicenna and Sushruta material on disk for *Mucuna* found one hit outside the Tibetan folder: a line of the Latin column of Sushruta's Appendix 3 (`Sources/SS_Sushruta/text/Bhishagratna_Vol3_djvu.txt`, line 32993), which the OCR reads "Mucuna pruricns." and which is a different species (*Mucuna pruriens*). It is not read as this drug. The row was added from the printed name (ATTESTATION_QUEUE §PLANTGAP) and has not been verified against POWO. The Codex does not state the botanical identity as certain. [USER: verify]
+
+**Row key.** In `Sources/FMT_Tibetan/extract/names.csv` (line 306) the key *Mucuna monosperma* is taken from the Men-Tsee-Khang glossary line 5422 with the note "MTK glossary scientific-name column; Tibetan name not paired (OCR column split)". It is the **only** binomial the glossary prints at that place, so it is neither the first nor a later one of several. The note's "not paired" does not describe this row: the glossary prints the phonetic name, the transliteration and the binomial on one line (below). Clark does not print *Mucuna monosperma*. The one *Mucuna* in Clark is *Mucuna prurita*, as printed, and it belongs to a different drug, *mkhal.zho.sha* ("Cowhage", Clark line 949; `names.csv` line 88), which is the kidney drug of the same three-drug series and has its own entry (I_1246).
+
+**Identity doubt.** The two editions give two different plants for one Tibetan drug: *Mucuna monosperma* (glossary) and *Entada scandens*, with *Entada phaseoloides* (Clark, line 950). The Codex understands both genera as climbing legumes with large seeds, which would explain how an editor could write either; neither edition says so. The Codex does not choose between them, and this entry stands for the Tibetan drug. The Men-Tsee-Khang editors' note (line 686) says that the botanical terms in their text "are based on the information procured from the Materia Medica Department of this institute"; it names no flora or earlier work. [USER: verify]
+
+**Tibetan — rGyud-bzhi (FMT).** *Men-Tsee-Khang 2011, glossary (the "L" block, line 5422).* `MenTseeKhang_2011_Root_and_Explanatory_Tantra.txt`, Glossary on Medicinal Ingredients. After the letter "L" (line 5420) the block opens with a row that is printed whole on one line: "Laagor shho sha gla gor zho sha Mucuna monosperma" (line 5422). The next row is split across lines: the phonetic name "Laetae" (line 5424), the transliteration "sie très" (line 5426, which is the OCR's reading and not a Tibetan spelling the Codex can restore) and "Stephania sp." (line 5428). The single English name that follows, "Negro bean" (line 5430), stands after "Stephania sp."; the OCR does not show which of the two rows it belongs to, and the Codex does not assign it. The column runs that follow (lines 5435 to 5454) are for nine other names and are treated in I_1310, I_1256 and I_1258. The transliteration "gla gor zho sha" is Clark's *gla.gor.zho.sha*, and the glossary therefore names *Mucuna monosperma* for the drug where Clark names *Entada*.
+
+*Men-Tsee-Khang 2011, running text (line 3417).* Chapter 20, "The Efficacy of Medicinal Substances" (contents, line 225). The sentence stands in the run that opens at line 3380 ("The efficacy of these medicinal substances for healing disorder is as follows"), which follows the sentence on wood, aromatic and shrub medicines (line 3375) and comes before the herbal run at line 3428. It reads: "Nying shho sha, Khelma shho sha and Laagor shho sha cure hot disorders of the heart, kidneys and spleen respectively." Taken in order, the third drug is the spleen drug. The Codex reads "Laagor shho sha" as the glossary's name from the identical spelling. The sentence gives no Latin name, no taste and no part used. The printed index lists "Laagor shho sha 205" (line 7415). A search of the whole Men-Tsee-Khang file for "Laagor" and for "gla gor" found only lines 3417, 5422 and 7415.
+
+*Clark 1995, materia medica run (line 950).* `Clark_1995_Quintessence_Tantras_Tibetan_Medicine.txt`, Explanatory Tantra chapter 20 ("The Principles of Medicines: Powers of Medicines", line 792). The line is the third of three *zho.sha* lines in a row (lines 948 to 950) and reads: "gla.gor.zho.sha: Entada scandens: Entada phaseoloides: [is also known as mchher.pa.zho.sha or glang.mig (lit. 'spleen power or bulls eye') and is likely to be mistaken for cowhage. It has a small, slender trunk, thick round leaf and white flower. The heart-shaped pods contain black and white striped kidney-shaped seeds which are thick at the center. The spleen-shaped one is of superior quality and] cures spleen fever." Clark's preface (line 82) says that interpolations in square brackets come from the Blue Aquamarine and Spreading Tree commentaries. Everything but the name, the two binomials (Clark's identifications) and the last four words is therefore commentary, and the root-text layer, as Clark's brackets mark it, is "cures spleen fever". Clark's introduction (line 73) names the three *zho.sha* fruits together as shaped like and named after "the kidney, spleen and heart", identified "respectively as Canavalia gladiata, Entada scandens and Spondias axillans", and calls this an example of a "doctrine of signatures".
+
+**Overlap.** I_1272 (*Entada scandens*, tag FMT) treats the same Tibetan drug, the same Clark line (950) and the same Men-Tsee-Khang lines (3417 and 5422) under Clark's binomial. This entry and I_1272 are one drug under two binomials, the glossary's and Clark's, and they are not merged. I_1246 (*Canavalia gladiata*) treats the kidney drug of the same series. I_140 (Kapikacchu, *Mucuna pruriens*, tags SS and FMT) and I_163 (*Mucuna pruriens*, tags SS and FMT) are entries on another *Mucuna* species; their prose names a Tibetan "Mu pa / hairy bean" with no locus, which is not the name *gla.gor.zho.sha* and was not read as a source here. No other entry on *Mucuna monosperma* was found. Nothing is merged.
+
+### Active Components
+
+The sources read print no constituent. It is a general fact that *Mucuna* and *Entada* are both genera of the legume family (Fabaceae), and that the best-known *Mucuna* species, *Mucuna pruriens*, has seeds generally reported to contain L-dopa and pods covered in irritant hairs. Nothing in the lines read says that *Mucuna monosperma* or the Tibetan drug has either property, and Clark's commentary describes striped kidney-shaped seeds and gives no constituent. No statement about this drug's composition is made. [USER: verify]
+
+### Effect & Use Case in Kenetica
+
+Historical record only, not a recommended practice. The Tibetan texts record a seed-bearing climber for the spleen: "cures spleen fever" (Clark, line 950) and cures "hot disorders" of the spleen (Men-Tsee-Khang, line 3417). These are the texts' own claims in their own terms, and the plant behind them is uncertain between *Entada* and *Mucuna*. They are not Codex protocols. The Codex gives no protocol and no dose, and a seed of uncertain identity should not be swallowed on the strength of this entry.
+
+### Preparation & Dosing
+
+The sources read give no preparation, no part taken, no quantity, no frequency and no duration. Clark's commentary describes the pods and seeds and grades the spleen-shaped seed "of superior quality", which is a description of the seed and not a preparation. Clark's introduction (lines 74 and 75) gives general rules for collecting and drying herbs, which are not rules for this drug. No dose is given in the sources retrieved. [USER: verify]
+
+### Scientific Correlation
+
+No clinical studies were retrieved for this entry. [USER: verify] The Tibetan terms ("spleen fever", "hot disorders" of the spleen) are not modern diagnoses or measured outcomes, so no modern finding can be set beside them. The plant is open between two legume genera, so a study of one species would not bear directly on the Tibetan drug. Clark's own frame for the three *zho.sha* drugs is a likeness of shape between the seed and the organ, and a likeness of shape is not a pharmacological finding.
+
+### Traditional Energetic Classification
+
+- **FMT:** No taste, power or post-digestive taste is printed for this drug in the lines read. Clark's commentary layer (line 950) gives shape and grade, not taste. The name is not among the taste groups of Men-Tsee-Khang chapter 19 (lines 3204 to 3222). The only quality printed is the grading of the spleen-shaped seed as "of superior quality", which is a grade of the seed and not a taste or power.
+
+### Cultivation Register
+
+**Tibetan — rGyud-bzhi (FMT).** *(b) Framed, not a cultivation status.* The Quintessence Tantra's materia medica gives this drug by what it does: it cures spleen fever, and the Men-Tsee-Khang text says the same in kind. The only frame either edition adds is Clark's likeness of seed to organ. The cultivation spec records that in this tradition medicine is the third of four treatment branches, supporting practice without reaching its root, and that no formal category of substances for subtle-body practice exists. A search of both Tibetan texts for the drug's names found it only in the lines cited above; it is not in the rejuvenation chapter (chapter 23 in both editions), and Clark's materia medica names other drugs as essence-extraction ingredients (for example lines 853, 971 and 1144), none of them this one. Its framing is therapeutic only, and it attaches to the Tibetan name and not securely to this binomial.
+
+**Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a spleen-fever drug in the Tibetan texts, with a likeness-of-shape rationale in Clark's introduction, no preparation and no dose, and the plant behind the name is uncertain. The abstentive answer is the honest one.
+
+### Contraindications
+
+The sources read print no warning for this drug. The identity is open between two legume genera and the seeds are large and hard, so no plant should be gathered or used on the strength of this entry. It is a general fact that the pod hairs of some *Mucuna* species are skin irritants. Fever of any organ needs medical care. No conservation information was read. No safety information for pregnancy was read. [USER: verify]
+
+---
+
+*Filed under: Codex Pharmakon Universalis — Volume I (Plant-Based) | Entry I_1321 | Mucuna monosperma | Canonical ID CPU-01757*

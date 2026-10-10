@@ -1,0 +1,64 @@
+# Myricaria elegans — Vombu, 'om bu (rGyud-bzhi)
+
+## *Myricaria elegans, the one binomial the Men-Tsee-Khang 2011 glossary prints in its "V" block, against the phonetic name "Vombu" and the transliteration "'om bu"; Clark 1995 prints Myricaria germanica and Myricaria prostrata for hom.bu, "Tibetan Tamarisk", and does not print Myricaria elegans* | *(Volume I — Plant-Based)*
+**Tradition Tags:** FMT
+
+---
+
+### Origin & Tradition
+
+**Named only by the Tibetan texts (FMT); this entry rests on one text, the rGyud-bzhi, read in two modern editions, and on a species name that only one of them prints.** The editions are Clark 1995 and Men-Tsee-Khang 2011, both in `Sources/FMT_Tibetan/text/`. They are two translations of one tradition's text and are not two independent traditions. A search of the Dioscorides, Shennong (Yang 1998), Ebers, Assyrian, Badianus, Avicenna and Sushruta material on disk for *Myricaria* found one hit: the translators' SUGGESTED line for Dioscorides 1-116 (*Murike*), which lists "Tamarix articulata, Tamarix germanica [Linnaeus], Tamarix myrica, Tamarix gallica, Myricaria germanica — Tamarisk" (`Dioscorides_De_Materia_Medica_2000_English.txt`, line 4398). That is a list of European and Mediterranean identifications for a Greek drug, it does not print *Myricaria elegans*, and it is not read as this drug. The row was added from the printed name (ATTESTATION_QUEUE §PLANTGAP) and has not been verified against POWO. The Codex does not state the botanical identity as certain. [USER: verify]
+
+**Row key.** In `Sources/FMT_Tibetan/extract/names.csv` (line 388) the key *Myricaria elegans* is taken from the Men-Tsee-Khang glossary line 6019 with the note "MTK glossary scientific-name column; Tibetan name not paired (OCR column split)". It is the **only** binomial the glossary prints in the "V" block, so it is neither the first nor a later one of several, and the block is short enough that the pairing is not a counting matter (below). Clark's *hom.bu* (line 1085) has no row in `names.csv` (a search of the file for "Tamarisk", "hom.bu" and "Myricaria" found only line 388). Clark prints two other binomials, *Myricaria germanica* and *Myricaria prostrata*, and his Latin index (line 1617) lists those two and no *elegans*.
+
+**Identity doubt.** The two editions agree on the genus and the Tibetan name and differ on the species. Clark's English name for the drug is "Tibetan Tamarisk"; the glossary prints no English name for Vombu. The Codex reads Vombu and *hom.bu* as one drug from the sound and spelling of the name ('om bu and hom.bu), from the agreement of the genus, and from the action (below); neither text states it. The Codex does not choose among the three species. The Men-Tsee-Khang editors' note (line 686) says that the botanical terms in their text "are based on the information procured from the Materia Medica Department of this institute"; it names no flora or earlier work. [USER: verify]
+
+**Tibetan — rGyud-bzhi (FMT).** *Men-Tsee-Khang 2011, glossary (the "V" block, lines 6015 to 6019).* `MenTseeKhang_2011_Root_and_Explanatory_Tantra.txt`, Glossary on Medicinal Ingredients (the block lies between the printed page numbers 314, line 6000, and 315, line 6075, and so on page 315 if the numbers are footers). The block is one row long. Line 6015 reads "V Vombu" (the letter and the phonetic name), line 6017 "'om bu" (the transliteration, with the typographic apostrophe the OCR prints) and line 6019 "Myricaria elegans". The two English names printed just below (lines 6021 and 6022), "Light blue poppy" and "Lemon grass", belong to the preceding "U" block (the names "Upal ngonpo" and "Ushir", lines 6007 to 6013), so no English name is printed for Vombu. The "W" block opens at line 6024.
+
+*Men-Tsee-Khang 2011, chapter 19, the taste groups (lines 3216 to 3222).* `Chapter 19: The Taste and the Post-Digestive Taste` (contents, line 221; the closing sentence at line 3264). The text reads: "The group of medicinal substances having an astringent taste includes Tsendhen, Arura, Bharura, Upel, Gadhur, Mak, Moen chhara, Vombu and other similar substances." (the list ends at line 3220). The next sentence (line 3222) says that substances "endowed with two or more combined tastes should be categorized on the basic taste". Vombu is therefore listed under the astringent taste.
+
+*Men-Tsee-Khang 2011, chapter 20, the herbal run (line 3456).* Within the run headed "To reveal the efficacy of herbal medicines" (line 3428): "Rerel and Vombu cure meat poisoning and compounded poisoning." The sentence stands between "Ji tsher ... eliminates hot disorder of the kidneys. Dhewa cures epidemic and Tsa tri cures tripa disorders" and "Shhu khen, Tsoe and Tsod cure disorder of the lungs, kidneys and dispersed hot disorder." No part used and no Latin name is given.
+
+*Men-Tsee-Khang 2011, chapter 21, the groups (line 3605).* In the chapter on the groups and the method of compounding medicine (contents, line 229; the chapter begins after the sentence closing chapter 20 at line 3583), a list of drugs reads, across lines 3604 and 3605, "La tsi, Bongnga karpo, ... Gangga chhung, Rerel, Vombu, Pang gyen, Pang tsi dhowo, Saegoe and Kyerpai barshun are the group of medicines that cure poisoning." The printed index lists "Vombu 188, 210, 220" (line 7553).
+
+*Clark 1995, materia medica run (line 1085).* `Clark_1995_Quintessence_Tantras_Tibetan_Medicine.txt`, Explanatory Tantra chapter 20 ("The Principles of Medicines: Powers of Medicines", line 792), within "(7) Exposition of the Powers of Herbs" (line 997). The entry follows two fern entries (*re.ral*, line 1083, and *ldum.bu.re.ral*, line 1084) and reads: "hom.bu or chhu.shing.hom.bu: Tibetan Tamarisk: Myricaria germanica Beaucv.: Myricaria prostrata: [has six names and grows on river banks and in sandy areas. It has a tall brown stalk, clusters of reddish-brown flowers, a thin green leaf and bitter-sweet taste]. Adiantum and Myricaria neutralize meat poison and compounded poison [and cure bile fevers. The external application of Myricaria is beneficial for sur.ya sores.16]". Clark's preface (line 82) says that interpolations in square brackets come from the Blue Aquamarine and Spreading Tree commentaries. The description (six names, habitat, stalk, flowers, leaf, taste) is therefore the commentary layer, and the first clause of the action, "Adiantum and Myricaria neutralize meat poison and compounded poison", is outside the brackets, so it is the root-text layer as the brackets mark it. The clause names *Adiantum* with it, and the same pairing stands in Men-Tsee-Khang line 3456, where "Rerel" (read from the spelling as Clark's *re.ral*, the fern of line 1083) and Vombu are named together. The bile-fever clause and the sentence on external use are inside the brackets. Clark's note 16 (line 1544) reads "sur.ya: metastatic cancer". Clark's name index lists *hom.bu* (line 1747) and *chhu.shing.hom.bu* (line 1692).
+
+*Clark 1995, chapter 21, the class of poison-neutralizing medicines (line 1212).* Clark's chapter 21, "The Principles of Medicines: Compounding of Medicines" (heading at lines 1205 and 1206), lists classes of medicines. The line for poisons reads: "The class of medicines which neutralize poisons consists of Musk, Red, Yellow and White Aconites, White and Brown Uncaria, (white) Phytolacca esculenta (var. Houtte), (a type of Pokeberry), (yellow) Scutellaria baicalensis, Pleurospermum hookeri, Senecio dianthus, Scutellaria, Oxytropis chiliophylla, Corallodiscus kingianus, Turmeric, Gentiana urnula, Fern, Tibetan tamarisk, Gentiana algida, Pterocephalus hookeri, Wild Rose and the cambium (middle bark) of Indian Barberry." "Tibetan tamarisk" and "Fern" stand together in it, as "Rerel" and "Vombu" stand together in the Men-Tsee-Khang poison group (line 3605). The Codex records the likeness of the two lists and does not say that either text copies the other.
+
+**The two editions' tastes differ.** Clark's commentary layer prints "bitter-sweet taste"; Men-Tsee-Khang chapter 19 lists the drug in the astringent group. The Codex records both and does not reconcile them. Men-Tsee-Khang's own rule (line 3222) is that a drug of combined tastes is classed on its basic taste, and the text does not say that this is the case here.
+
+**Overlap.** I_1225 (*Adiantum pedatum*, tag FMT) and I_1269 (*Drynaria propinqua*, tag FMT) quote Clark's line 1085 for the sentence about *Adiantum* and neither gives the tamarisk an entry. No entry on a *Myricaria* or on the Tibetan name *hom.bu* or *Vombu* was found. I_229 and I_765 (*Tamarix gallica*, tags AT, and EP, AT, DMM, CM, TCM, SS) are entries on a different genus from other traditions and do not cite the Tibetan texts. Nothing is merged.
+
+### Active Components
+
+The sources read print no constituent. It is a general fact that *Myricaria* is a genus of shrubs of the tamarisk family (Tamaricaceae), growing on river gravel and sandy ground, which agrees with the habitat in Clark's commentary. Which compounds this species or the Tibetan drug holds is not shown by the lines read, so no statement about its composition is made.
+
+### Effect & Use Case in Kenetica
+
+Historical record only, not a recommended practice. The Tibetan texts record a drug that neutralizes meat poison and compounded poison (Clark, line 1085) and that cures "meat poisoning and compounded poisoning" (Men-Tsee-Khang, line 3456), listed with the group of medicines that cure poisoning (line 3605). The commentary adds that it cures bile fevers and that external application helps *sur.ya* sores, which Clark's note glosses as "metastatic cancer". These are the texts' claims in their own terms and not Codex protocols. The Codex gives no protocol and no dose. Poisoning needs emergency medical care, and no tamarisk-like shrub should be taken as an antidote on the strength of this entry.
+
+### Preparation & Dosing
+
+The sources read give no preparation, no part used, no quantity, no frequency and no duration. Clark's commentary names the stalk, flowers and leaf in describing the plant and says only that "external application" of *Myricaria* helps *sur.ya* sores. No dose is given in the sources retrieved. [USER: verify]
+
+### Scientific Correlation
+
+No clinical studies were retrieved for this entry. [USER: verify] The Tibetan terms ("meat poison", "compounded poison", "bile fevers", *sur.ya*) are not modern diagnoses or measured outcomes, so no modern finding can be set beside them. The species is uncertain between three, so a study of one *Myricaria* would not bear directly on the Tibetan drug.
+
+### Traditional Energetic Classification
+
+- **FMT:** Clark's commentary layer (line 1085) prints "bitter-sweet taste" for the plant. No power and no post-digestive taste is printed. Men-Tsee-Khang chapter 19 (line 3220) lists Vombu in the group having an astringent taste. The two editions give different tastes, and neither gives a power.
+
+### Cultivation Register
+
+**Tibetan — rGyud-bzhi (FMT).** *(b) Framed, not a cultivation status.* The Quintessence Tantra's materia medica classes this drug by what it neutralizes: meat poison and compounded poison, and in the commentary bile fevers. The Men-Tsee-Khang text sets it in the group of medicines that cure poisoning. The cultivation spec records that in this tradition medicine is the third of four treatment branches, supporting practice without reaching its root, and that no formal category of substances for subtle-body practice exists. A search of both Tibetan texts for the drug's names found it only in the lines cited above and the indexes. It is not in the rejuvenation chapter (chapter 23 in both editions), and Clark's materia medica names other drugs as essence-extraction ingredients (for example lines 853, 971 and 1144), none of them this one. Its framing is therapeutic only, and it attaches to the Tibetan name and not securely to this binomial.
+
+**Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a poison drug in the Tibetan texts, named together with a fern, with two different tastes in the two editions, no preparation and no dose, and the species is the glossary's alone. The abstentive answer is the honest one.
+
+### Contraindications
+
+The sources read print no warning for this drug. Poisoning and suspected cancer both need medical assessment; no preparation or dose is given, and no shrub should be gathered or used on the strength of this entry. Because the species is uncertain, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]
+
+---
+
+*Filed under: Codex Pharmakon Universalis — Volume I (Plant-Based) | Entry I_1322 | Myricaria elegans | Canonical ID CPU-01758*
