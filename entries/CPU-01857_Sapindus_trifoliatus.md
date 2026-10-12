@@ -1,0 +1,62 @@
+# Sapindus trifoliatus — Arishta; Phenila (Sushruta Samhita, Bhishagratna's Appendix No. 3 and the chapters)
+
+## *Sapindus trifoliatus, the Latin that Bhishagratna's Appendix No. 3 ("Names of Drugs, with Latin synonyms", Vol. III) prints (OCR "Sapindus  trifoliatus    Soap-nut,", line 31326) against the Sanskrit name Arishta (line 31265), and prints a second time as "Sapindus  Triofoliotus." (line 32573), which the count below sets against the name Phenila. Both pairings of a Sanskrit name with its Latin line are positional, proposed by an agent from two OCR columns and re-checked here by counting; neither is printed on one line. The chapters print Arishta and Phenila, but they gloss Arishta as Nimba in several places and give no Latin name* | *(Volume I — Plant-Based)*
+**Tradition Tags:** SS
+
+---
+
+### Origin & Tradition
+
+**Named only by the Sushruta text (SS); this entry rests on one text, Bhishagratna's English translation of the Sushruta Samhita, and on a Latin name that comes from the translator's appendix and not from the chapters. The Latin pairing is positional and agent-proposed, and the Sanskrit name the row was keyed on, Arishta, is glossed in the chapters as Nimba (which the appendix pairs with Melia Azadirachta Indica) more often than as anything else, so the botanical identity is open.** The chapters are in `Sources/SS_Sushruta/text/` and the appendix is in `Bhishagratna_Vol3_djvu.txt`. The row was added from the printed Latin (ATTESTATION_QUEUE §PLANTGAP, confidence "medium") and has not been verified against POWO. The Codex does not state the botanical identity as certain. [USER: verify]
+
+**Row key.** `Sources/SS_Sushruta/extract/names.csv` row 387 gives the name as "Arishta", the locus as "Vol. III Appendix 3 (line 31265; id line 31326)" and the Latin as "Sapindus  trifoliatus    Soap-nut,". Row 388 gives the next line, a second "Arishta" (lines 31267 and 31327), against "See  Nimba." Row 732 lists the second Latin line, "Sapindus  Triofoliotus." (line 32573), as a Latin entry not paired to a Sanskrit name.
+
+**The first pairing, Arishta, checked by counting.** The page that opens with the number "66" (line 31238) prints thirty-five Sanskrit names (lines 31244 to 31309, with Ananta and Anantamula bracketed as one) and thirty-five Latin entries (lines 31312 to 31350). Arishta stands thirteenth and again fourteenth among the names; "Sapindus trifoliatus Soap-nut," is the thirteenth Latin entry and "See Nimba." the fourteenth. The neighbours agree: Arimeda stands against "Accacia Farnesiana." (line 31325), Arjaka against "Ocimum Album." (31328), Arjuna against "Terminalia Arjuna." (31329), Aragvadha against "Cassia Fistula." (31322) and Aravinda against "See Ambhoja." (31323). So the appendix gives Arishta two readings, the soap-nut first and Nimba second.
+
+**The second pairing, Phenila, checked by counting.** The page of the P names (Sanskrit lines 32479 to 32546, Latin lines 32549 to 32592) holds thirty-six names and thirty-six Latin entries, once Patali and the OCR line beside it are counted as two entries (the OCR prints "Tsitali" and "P^tali" with stray bracket marks; see the entry on *Stephania hernandifolia*, I_1425, for the same count). Phenila (OCR "PheniU", line 32509) is the seventeenth name and "Sapindus  Triofoliotus." the seventeenth Latin entry. The neighbours agree: Phala-vriksha stands against "See Panasa." (32570), Phalini against "See Priyangu." (32571), Phanji against "Clerodendron Siphonanthus" (32572), Phanijjhaka against "See Arjaka." (32574) and Pilu against "Salvadora persica." (32575). The pairing is firm by position, and the Latin is spelled differently from the first ("Triofoliotus" for "trifoliatus"), which the Codex reads as one species. [USER: verify]
+
+**Ayurvedic — Sushruta (SS).** *What the chapters say.* All chapter files (`sutra`, `chikitsa`, `uttara`, `kalpa`, `nidana`, `sharira`) were searched for Arishta, Arishtaka, Aristha, Phenila and the English words "soap" and "Sapindus", with OCR variants, and the hits were read. The word Arishta has three other senses in the text and they are not this plant: a fatal sign (Arishta, for example in Sutra ch.30 and ch.32), a class of fermented medicinal liquors (for example Sutra ch.45, line 1546: "The species of wine known as the Arishta (fermented liquor)"), and, in glosses, Nimba. No chapter prints "Arishtaka".
+
+*The soap-berry by name: Phenila.* `SS_Uttara_ch39.txt` line 1561, in the treatment of fever with severe burning of the body (Uttara ch.39, Jwara): "... or with the cold paste of tender leaves of Phenila (soap-berry) mixed with Kola and A'malaka and pasted with Amla (Kanjika)". The paste is one of several cooling plasters, and the translator's bracket "(soap-berry)" is the only place a chapter names the plant in English. The same sentence goes on, at line 1566, to "the froth (produced by stirring in Kanjika the paste) of the leaves of Vadara or Arishta", and the translator's footnote at lines 1575 to 1578 reads: "Arishta according to Dallana and S'rikantha (the commentator of Vrinda) may mean either Nimba or Phenila (soap-berry). But S'ivadasa, the commentator of Chakradatta, explains Arishta to mean (leaves of) Nimba. The practice, however, is, to use the leaves of Nimba". That footnote is the text's own link between Arishta and Phenila, and it settles the matter for Nimba.
+
+*Arishta, glossed as Nimba.* The translator brackets "(Nimba)" after Arishta in `SS_Chikitsa_ch09.txt` lines 364 and 488 (the chapter on cutaneous affections, Kushtha: leaves of Arishta (Nimba) in a plaster for Svitra, and "The bark of Arishta (Nimba)" in a powder taken daily), `SS_Uttara_ch31.txt` line 28 (a neck-ornament made of the wood or pith of Varuna, Arishta (Nimba), Ruchaka, Sinduka and Putranjivaka, to be worn by a child) and `SS_Uttara_ch39.txt` line 1274 (a ghrita cooked with Patola, Parpata and Arishta (Nimba) among others), and prints "Arishtaphalam (Nimva)" among fruits that are "vermifugenous and pungent in digestion" in `SS_Sutra_ch46.txt` lines 1293 to 1296. The appendix's own second reading, "See Nimba", agrees with these, and the appendix sets Nimba (line 32392) against "Melia  Azadirachta  Indica  (Neera)." (line 32449), the twenty-second name and the twenty-second Latin entry of its page.
+
+*Arishta, not glossed.* The word stands without a gloss in the following. `SS_Sutra_ch39.txt` lines 9 to 19, the list of emetic drugs: "... Kovidara, Korvudara, Arishta, Ashvagandha, Vidula ..." with the rule that "the roots of plants from Kovidara to its close, should be used". `SS_Sutra_ch44.txt` lines 40 to 42, where in disorders of the Kapham a powder is given "with a decoction of Guduchi, Arishta or Triphala". `SS_Sutra_ch46.txt` lines 1654 to 1663, a list of potherbs (leaves of edible plants) that includes Arishta and are "light and palatable, and prove curative in haemoptysis, Kushtha, Meha, fever, dyspnoea, cough". `SS_Chikitsa_ch16.txt` line 98, the leaves of Arishta in the Karanjadya Ghrita for abscesses and tumours. `SS_Uttara_ch39.txt` lines 1355 and 1400, in a ghrita and an oil for fever, and `SS_Uttara_ch41.txt` line 306 in the Eladi-mantha for phthisis. In none of these does the text say which tree it means.
+
+*Rasayana and vajikarana chapters.* A search of Chikitsa ch.26 (the vajikarana chapter) and ch.27 to 30 (the rasayana chapters) for Arishta, Phenila and the soap-berry found nothing.
+
+**Overlap.** A search of the entries folder for *Sapindus*, Arishta, Phenila, Arishtaka, reetha and "soap-nut" found **I_261** (Soapnut, *Sapindus mukorossi*, tags SBJ, SS, FMT), a different binomial from the one the appendix prints; its tag line carries SS and its SS paragraph speaks of *arishtaka*, a name that none of the chapters read for this entry prints. The Codex does not merge the two or say they are the same tree. **I_168** (Neem, *Azadirachta indica*) is the entry for the plant the chapters most often mean by Arishta. **I_365** (Madana, *Randia dumetorum*) and **I_972** (*Sesbania grandiflora*) are entries on other drugs of the emetic list. **I_1425** (*Stephania hernandifolia*) is counted on the same P page. Nothing is merged. [USER: verify]
+
+### Active Components
+
+The sources read print no constituent. As a general fact, the pericarp of *Sapindus* fruits is rich in triterpenoid saponins, which is why it foams in water and has been used as a soap; saponins are irritant to the eyes and mucous membranes. That is a statement about the genus and not a finding of the Sushruta text, and the plant the chapters mean by Arishta is more often Nimba. Nothing is stated here about the composition of the drug. [USER: verify]
+
+### Effect & Use Case in Kenetica
+
+Historical record only, not a recommended practice. Under the names the chapters print, the drug (if it is this tree) is a plant counted among the emetics (Sutra 39), a leaf paste to cool the body in fever (Uttara 39, as Phenila), and an ingredient of ghritas and oils (Chikitsa 16, Uttara 39, Uttara 41). Most of the Arishta passages are glossed as Nimba by the translator himself. The Codex gives no protocol and no dose, and none of these is offered as a recommendation.
+
+### Preparation & Dosing
+
+The preparations the chapters give are the cold paste of tender Phenila leaves with Kola and Amalaka, pasted with Kanjika, as a plaster (Uttara 39, line 1561); the leaves of Arishta in a ghrita (Chikitsa 16, line 98); and the decoction of Arishta as a vehicle for a powder (Sutra 44, line 42). The emetic list names the root as the part to be used for the drugs from Kovidara to the end of the list, which includes Arishta (Sutra 39, lines 15 to 19). No quantity is given for Arishta or Phenila in any of them. No dose is given in the sources retrieved. [USER: verify]
+
+### Scientific Correlation
+
+No clinical studies were retrieved for this entry. [USER: verify] The identity rests on two positional pairings in a translator's appendix, and the chapters point to Nimba for most of the Arishta passages, so no study of *Sapindus trifoliatus* would bear directly on any Sushruta statement. It is a general, well-established fact that saponin-rich fruits are used as natural detergents and that they irritate mucous membranes.
+
+### Traditional Energetic Classification
+
+- **SS:** none is given under Arishta or Phenila for this plant. The chapters print no *rasa*, *virya* or *vipaka* for either name. The only qualities near the name are those of groups: the potherbs of Sutra 46 (lines 1654 to 1663) are "light and palatable", the emetic list of Sutra 39 gives an action ("possessed of emetic properties"), and "Arishtaphalam (Nimva)" is "pungent in digestion" in Sutra 46, which the translator glosses as Nimba and the Codex does not carry over to the soap-nut.
+
+### Cultivation Register
+
+**Ayurvedic — Sushruta (SS).** *(b) Framed, not a cultivation status.* Sushruta names Arishta in emetic, plaster, ghrita and oil contexts and Phenila once, in a cooling plaster for fever, so the plant has a therapeutic place and, on the emetic list, a purificatory one. The text offers it no standing in the vajikarana chapter (Chikitsa 26) or the rasayana chapters (Chikitsa 27 to 30), and says nothing of *ojas*, *tejas* or *prana* for it. Its purifying action is *shodhana*-type work on the patient, which the spec treats as a procedure and not a rejuvenative status. The grade also rests on a positional match of names and on a gloss that points the word Arishta to Nimba. [USER: verify]
+
+**Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with this tree: it is an emetic on a list, a leaf paste for fever, and a word the translator mostly reads as neem. Nothing should be gathered or taken on the strength of a Latin name that the chapters do not give.
+
+### Contraindications
+
+The Sushruta text retrieved prints no warning for this plant under either name. The identity is open, and saponin-rich fruits are irritant, so no plant should be gathered or used on the strength of this entry; an emetic drug in particular is a poor candidate for use without supervision. Fever with burning of the body needs medical assessment and not a leaf paste. No conservation information was read. No safety information for pregnancy was read. [USER: verify]
+
+---
+
+*Filed under: Codex Pharmakon Universalis — Volume I (Plant-Based) | Entry I_1421 | Sapindus trifoliatus | Canonical ID CPU-01857*
