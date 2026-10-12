@@ -51,7 +51,9 @@
     var g = document.getElementById('wild-gate');
     if (g) g.remove();
   }
+  function lock() { root.classList.add('wild-locked'); }
   function show(kind) {
+    lock();
     if (kind === 'checking') return paint('<div class="box">' + MARK + '<p>Checking your membership…</p></div>');
     var msg = kind === 'lapsed'
       ? 'Your WILD membership has ended. Rejoin to open ' + NAME + ' again.'
@@ -78,6 +80,12 @@
     if (!s || !s.token) return show('guest');
     var c = claims(s.token);
     var now = Math.floor(Date.now() / 1000);
+    // A member whose signed session has not expired is let in at once, so the
+    // page is not held on "Checking your membership" for the webhook round
+    // trip. The check still runs in the background and relocks the page if the
+    // membership has ended or the session is rejected.
+    var trusted = !!(s.member && c.exp && c.exp > now);
+    if (trusted) unlock(); else show('checking');
     fetch(VERIFY, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ token: s.token }) })
       .then(function (r) { return r.json().then(function (j) { return { status: r.status, body: j }; }); })
       .then(function (r) {
@@ -90,10 +98,10 @@
       })
       .catch(function () {
         // Offline or webhook down: same grace as WILD OS, trust an unexpired member token.
-        if (s.member && c.exp && c.exp > now) unlock(); else show('guest');
+        if (trusted) unlock(); else show('guest');
       });
   }
-  function start() { show('checking'); check(); }
+  function start() { check(); }
   if (document.body) start(); else document.addEventListener('DOMContentLoaded', start);
   document.addEventListener('visibilitychange', function () {
     if (!document.hidden && root.classList.contains('wild-locked')) check();
