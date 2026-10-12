@@ -69,6 +69,16 @@ main{flex:1;overflow:auto;padding:34px 44px;max-width:900px}
   #view-materia.detail-open #detail{padding:18px 18px 64px}
   #view-materia.detail-open .backbar{display:block}
 }
+
+/* not-medical-advice notice */
+.notice-bar{padding:6px 22px;font:.72rem/1.5 sans-serif;color:var(--dim);border-bottom:1px solid var(--line);letter-spacing:.02em}
+.notice-bar a{color:var(--gold);cursor:pointer;text-decoration:underline}
+#med-notice{position:fixed;inset:0;z-index:1000;display:none;align-items:center;justify-content:center;padding:20px;background:rgba(11,10,8,.92)}
+#med-notice.show{display:flex}
+#med-notice .card{max-width:520px;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:24px 26px}
+#med-notice h2{font-weight:normal;color:var(--gold2);letter-spacing:.08em;font-size:1.1rem;margin-bottom:12px}
+#med-notice p{color:var(--tx);font-size:.95rem;margin-bottom:10px}
+#med-notice button{margin-top:8px;width:100%;padding:11px;border:0;border-radius:7px;background:var(--gold);color:#0b0a08;font:600 .85rem sans-serif;letter-spacing:.04em;cursor:pointer}
 </style></head>
 <body>
 <header>
@@ -80,6 +90,26 @@ main{flex:1;overflow:auto;padding:34px 44px;max-width:900px}
     <div><b id="s-conv">—</b>convergent</div>
   </div>
 </header>
+<div class="notice-bar">Historical and educational reference only. Not medical advice. <a id="med-notice-open">Read the full notice</a></div>
+<div id="med-notice" role="dialog" aria-modal="true" aria-labelledby="med-notice-title">
+  <div class="card">
+    <h2 id="med-notice-title">Before you begin</h2>
+    <p>Codex Pharmakon Universalis records how substances were described and used across historical medical traditions. It is a work of history and education.</p>
+    <p>Nothing here is medical advice, a diagnosis or a recommendation to take, prepare or stop taking anything. Many substances in these traditions are toxic, interact with medicines or are controlled in some countries.</p>
+    <p>Speak to a qualified healthcare professional before acting on anything you read here. If you think someone has been poisoned, contact emergency services.</p>
+    <button type="button" id="med-notice-ok">I understand</button>
+  </div>
+</div>
+<script>
+(function(){
+  var KEY='codex_med_notice_v1', box=document.getElementById('med-notice');
+  function open(){box.classList.add('show');document.getElementById('med-notice-ok').focus();}
+  var seen=false; try{seen=localStorage.getItem(KEY)==='1';}catch(e){}
+  if(!seen) open();
+  document.getElementById('med-notice-ok').onclick=function(){box.classList.remove('show');try{localStorage.setItem(KEY,'1');}catch(e){}};
+  document.getElementById('med-notice-open').onclick=open;
+})();
+</script>
 <nav class="tabs" id="tabs"></nav>
 
 <!-- MATERIA MEDICA (substance browser) -->
