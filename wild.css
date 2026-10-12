@@ -1,0 +1,94 @@
+/* WILD design tokens. One source of truth for the hub, the companion apps and the graphics.
+   Documented in DESIGN.md at the repo root. The WILD OS app imports this file into its Tailwind theme;
+   the graphics renderer (wild/content/automation/render.js) copies the same values. */
+:root {
+  /* Night: the ground everything sits on */
+  --wild-bg:         #050309;
+  --wild-bg-elev:    #0A0612;
+  --wild-surface:    #120C1F;
+  --wild-surface-2:  #19112B;
+  --wild-border:     rgba(244,241,237,.09);
+  --wild-border-lit: rgba(138,111,224,.45);
+
+  /* Text on night. dim and faint both pass 4.5:1 on --wild-bg */
+  --wild-text:       #F4F1ED;
+  --wild-dim:        rgba(244,241,237,.68);
+  --wild-faint:      rgba(244,241,237,.5);
+  --wild-on-gold:    #0B0714;
+
+  /* Threshold: indigo is the night, gold is the aperture */
+  --wild-indigo:     #6349B8;   /* strokes, fills, borders. Not for body text */
+  --wild-indigo-2:   #8A6FE0;   /* hover, icons, 3.5:1 on bg: large text only */
+  --wild-indigo-3:   #B9A9F0;   /* indigo for text, 9:1 on bg */
+  --wild-gold:       #C9A84C;   /* primary action, labels, the aperture */
+  --wild-gold-2:     #E9C766;   /* hover, the lit aperture */
+
+  /* Signals: one quiet hue each, used sparingly */
+  --wild-ok:         #86B894;
+  --wild-warn:       #E0A458;
+  --wild-danger:     #E07A85;
+
+  /* Type */
+  --wild-serif: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+  --wild-sans:  'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif;
+  --wild-mono:  'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+  --wild-track-label: .22em;   /* eyebrow and wordmark letter spacing */
+  --wild-track-word:  .14em;
+
+  /* Scale (rem): 12 13 14 16 18 22 28 36 48 64 */
+  --wild-fs-xs: .75rem; --wild-fs-sm: .8125rem; --wild-fs-base: .875rem; --wild-fs-md: 1rem;
+  --wild-fs-lg: 1.125rem; --wild-fs-xl: 1.375rem; --wild-fs-2xl: 1.75rem; --wild-fs-3xl: 2.25rem;
+  --wild-fs-4xl: 3rem; --wild-fs-5xl: 4rem;
+
+  /* Space (px, base 4) */
+  --wild-s1: 4px; --wild-s2: 8px; --wild-s3: 12px; --wild-s4: 16px; --wild-s5: 24px;
+  --wild-s6: 32px; --wild-s7: 48px; --wild-s8: 64px; --wild-s9: 96px;
+
+  /* Shape */
+  --wild-r-sm: 10px; --wild-r-md: 14px; --wild-r-lg: 18px; --wild-r-pill: 999px;
+
+  /* Depth. Glow is for the one primary action on a screen, nothing else */
+  --wild-shadow-card: inset 0 1px 0 rgba(255,255,255,.04), 0 1px 3px rgba(0,0,0,.4);
+  --wild-shadow-float: 0 18px 50px rgba(0,0,0,.5);
+  --wild-glow-gold: 0 10px 34px -10px rgba(201,168,76,.55);
+
+  /* Motion */
+  --wild-ease: cubic-bezier(.16,1,.3,1);
+  --wild-t-fast: .15s; --wild-t: .3s; --wild-t-slow: .6s;
+}
+
+/* Base, for the static pages. The app has its own reset via Tailwind. */
+.wild-reset *, .wild-reset *::before, .wild-reset *::after { box-sizing: border-box; margin: 0; padding: 0; }
+.wild-body { background: var(--wild-bg); color: var(--wild-text); font-family: var(--wild-sans); line-height: 1.6;
+  -webkit-font-smoothing: antialiased; overflow-x: hidden; }
+
+/* Eyebrow: the small gold label above a heading */
+.wild-eyebrow { font-family: var(--wild-sans); font-size: var(--wild-fs-xs); font-weight: 700; letter-spacing: var(--wild-track-label);
+  text-transform: uppercase; color: var(--wild-gold); }
+
+/* Buttons. One gold per screen; everything else is ghost or quiet. */
+.wild-btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; padding: 14px 26px; min-height: 48px;
+  border-radius: var(--wild-r-pill); font-family: var(--wild-sans); font-weight: 600; font-size: var(--wild-fs-md); line-height: 1.2;
+  text-decoration: none; border: 1px solid transparent; cursor: pointer;
+  transition: transform var(--wild-t) var(--wild-ease), background var(--wild-t), border-color var(--wild-t), color var(--wild-t); }
+.wild-btn:hover { transform: translateY(-2px); }
+.wild-btn-gold { background: var(--wild-gold); color: var(--wild-on-gold); box-shadow: var(--wild-glow-gold); }
+.wild-btn-gold:hover { background: var(--wild-gold-2); color: var(--wild-on-gold); }
+.wild-btn-ghost { border-color: var(--wild-border-lit); color: var(--wild-text); background: rgba(99,73,184,.08); }
+.wild-btn-ghost:hover { border-color: var(--wild-indigo-2); background: rgba(99,73,184,.16); }
+.wild-btn-quiet { color: var(--wild-dim); }
+.wild-btn-quiet:hover { color: var(--wild-text); }
+.wild-btn-sm { padding: 8px 16px; min-height: 36px; font-size: var(--wild-fs-sm); }
+.wild-focus:focus-visible, .wild-btn:focus-visible { outline: 2px solid var(--wild-indigo-2); outline-offset: 3px; }
+
+/* Card: the one surface */
+.wild-card { background: linear-gradient(180deg, var(--wild-surface), var(--wild-bg-elev)); border: 1px solid var(--wild-border);
+  border-radius: var(--wild-r-lg); box-shadow: var(--wild-shadow-card); }
+
+/* Tag: a tiny uppercase pill */
+.wild-tag { display: inline-block; font-size: .625rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase;
+  padding: 4px 9px; border-radius: var(--wild-r-pill); color: var(--wild-gold-2); border: 1px solid rgba(201,168,76,.3); background: rgba(201,168,76,.1); }
+
+@media (prefers-reduced-motion: reduce) {
+  .wild-btn, .wild-btn:hover { transition: none; transform: none; }
+}
