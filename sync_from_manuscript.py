@@ -11,16 +11,18 @@ Source of truth: the manuscript canonical_index.csv.
 """
 import csv, json, os, shutil, re
 
-BOS = r"G:/My Drive/Claude Control/Book Of Substances"
+BOS = os.environ.get("BOS_DIR", r"G:/My Drive/Claude Control/Book Of Substances")
 # entries live in three volume folders (plant/fungal-algal I, mineral II, animal III)
 MSRCS = [BOS + "/Volume_I_Plant_Based/entries", BOS + "/Volume_II_Mineral_Alchemical/entries",
          BOS + "/Volume_III_Animal_Derived/entries"]
-CSV  = r"G:/My Drive/Claude Control/Book Of Substances/canonical_index.csv"
+CSV  = BOS + "/canonical_index.csv"
 IDX  = "codex_index.json"
 
 def main():
     rows = list(csv.DictReader(open(CSV, encoding="utf-8")))
     subs, synced, missing, dups = [], 0, [], 0
+    # Retired rows ("CPU-X ... retired into this row") keep old #materia/CPU-X links working.
+    aliases = {}
     for r in rows:
         done = r["status"].strip().lower() == "done" and r["entry_file"].strip()
         entry = None
@@ -40,15 +42,20 @@ def main():
         m = re.search(r"DUP of (CPU-\d+)", r.get("notes", "") or "")
         if m and not entry:
             dup_of = m.group(1); dups += 1
+        notes = r.get("notes", "") or ""
+        for old in re.findall(r"(CPU-\d+)[^|]*?retired into this row", notes):
+            aliases[old] = r["id"]
+        aka = re.search(r"Also known as: ([^|]+)", notes)
         subs.append({
             "id": r["id"], "name": r["canonical_name"], "botanical": r["botanical"],
             "class": r["class"], "volume": r["volume"],
             "sources": [s for s in re.split(r"[;,]", r["sources_attested"]) if s.strip()],
             "uncertain": False,
             "status": "done" if entry else ("duplicate" if dup_of else "todo"),
-            "duplicate_of": dup_of, "entry": entry})
+            "duplicate_of": dup_of, "entry": entry,
+            "aka": aka.group(1).strip() if aka else ""})
     outstanding = sum(1 for s in subs if s["status"] == "todo")
-    json.dump({"updated": "reconciled", "count": len(subs), "substances": subs},
+    json.dump({"updated": "reconciled", "count": len(subs), "aliases": aliases, "substances": subs},
               open(IDX, "w", encoding="utf-8"), ensure_ascii=False)
     print(f"index: {len(subs)} substances; synced {synced} entries; "
           f"duplicates {dups}; outstanding {outstanding}; missing source {len(missing)}: {missing[:5]}")

@@ -209,7 +209,7 @@ aside{width:360px;flex:none;border-right:1px solid var(--line);display:flex;flex
 <script>
 const RAW='https://raw.githubusercontent.com/smith912000/codex-pharmakon/main/';
 const CLR={plant:'#86B894',mineral:'#C9A84C',animal:'#E0A458'};
-let DATA=[], filt='all', q='', TABS=[], dataLoaded=false;
+let DATA=[], ALIAS={}, filt='all', q='', TABS=[], dataLoaded=false;
 const listEl=document.getElementById('list'), detEl=document.getElementById('detail');
 
 /* ---------- tab bar (driven by sections.json — add tabs there, no HTML edits) ---------- */
@@ -266,7 +266,7 @@ function openDoc(t,i){
 function loadSubstances(){
   dataLoaded=true;
   fetch('codex_index.json').then(r=>r.json()).then(d=>{
-    DATA=d.substances.sort((a,b)=>a.name.localeCompare(b.name));
+    DATA=d.substances.sort((a,b)=>a.name.localeCompare(b.name)); ALIAS=d.aliases||{};
     document.getElementById('s-count').textContent=d.count;
     document.getElementById('s-conv').textContent=DATA.filter(s=>s.sources.length>1).length;
     render();
@@ -276,7 +276,7 @@ function loadSubstances(){
 }
 function render(){
   const items=DATA.filter(s=>(filt==='all'||s.class===filt)&&
-    (!q||(s.name+' '+s.botanical).toLowerCase().includes(q)));
+    (!q||(s.name+' '+s.botanical+' '+(s.aka||'')).toLowerCase().includes(q)));
   listEl.innerHTML=items.map(s=>`<div class="row" data-id="${s.id}">
     <span class="dot" style="background:${CLR[s.class]||'#888'}"></span>
     <span class="nm">${s.name}${s.botanical?`<i>${s.botanical}</i>`:''}</span>
@@ -285,6 +285,7 @@ function render(){
   listEl.querySelectorAll('.row').forEach(r=>r.onclick=()=>show(r.dataset.id));
 }
 function show(id){
+  if(ALIAS[id])id=ALIAS[id];
   const s=DATA.find(x=>x.id===id); if(!s)return;
   location.hash='materia/'+id;
   listEl.querySelectorAll('.row').forEach(r=>r.classList.toggle('sel',r.dataset.id===id));
