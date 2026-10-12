@@ -15,15 +15,23 @@
     'html.wild-locked,html.wild-locked body{overflow:hidden!important}' +
     'html.wild-locked body>*:not(#wild-gate){visibility:hidden!important}' +
     '#wild-gate{position:fixed;inset:0;z-index:2147483647;display:flex;align-items:center;justify-content:center;padding:24px;' +
-    'background:#0b0a08;color:#e8e3d8;font:16px/1.6 Georgia,"Times New Roman",serif;visibility:visible!important}' +
-    '#wild-gate .box{max-width:420px;text-align:center}' +
-    '#wild-gate h1{font-weight:normal;letter-spacing:.12em;color:#e3c68f;font-size:1.4rem;margin:0 0 12px}' +
-    '#wild-gate p{color:#b9b2a3;margin:0 0 18px}' +
-    '#wild-gate a,#wild-gate button{display:block;width:100%;margin:10px 0 0;padding:12px 16px;border-radius:8px;font:600 .9rem system-ui,sans-serif;' +
-    'letter-spacing:.04em;text-decoration:none;cursor:pointer;box-sizing:border-box}' +
-    '#wild-gate .main{background:#c8a96e;color:#0b0a08;border:0}' +
-    '#wild-gate .alt{background:none;color:#e3c68f;border:1px solid rgba(200,169,110,.4)}' +
-    '#wild-gate small{display:block;margin-top:16px;color:#8f897b;font:.78rem system-ui,sans-serif}';
+    'background:#050309 radial-gradient(60% 50% at 50% 0%,rgba(99,73,184,.22),transparent 70%);color:#F4F1ED;' +
+    'font:16px/1.6 "DM Sans",system-ui,sans-serif;visibility:visible!important}' +
+    '#wild-gate .box{max-width:400px;width:100%;text-align:center;padding:32px 28px;border-radius:18px;' +
+    'background:#120C1F;border:1px solid rgba(99,73,184,.35);box-shadow:0 30px 60px rgba(0,0,0,.5)}' +
+    '#wild-gate .mark{display:block;width:44px;height:52px;margin:0 auto 16px}' +
+    '#wild-gate h1{font:600 1.75rem/1.15 "Cormorant Garamond",Georgia,serif;color:#F4F1ED;letter-spacing:.01em;margin:0 0 10px}' +
+    '#wild-gate p{color:rgba(244,241,237,.68);margin:0 0 20px;font-size:.95rem}' +
+    '#wild-gate a,#wild-gate button{display:block;width:100%;min-height:48px;margin:10px 0 0;padding:12px 18px;border-radius:999px;' +
+    'font:600 .9rem "DM Sans",system-ui,sans-serif;letter-spacing:.02em;text-decoration:none;cursor:pointer;box-sizing:border-box}' +
+    '#wild-gate .main{background:#C9A84C;color:#0B0714;border:0}' +
+    '#wild-gate .main:hover{background:#E9C766}' +
+    '#wild-gate .alt{background:rgba(99,73,184,.14);color:#B9A9F0;border:1px solid rgba(99,73,184,.5)}' +
+    '#wild-gate a:focus-visible,#wild-gate button:focus-visible{outline:2px solid #E9C766;outline-offset:3px}' +
+    '#wild-gate small{display:block;margin-top:18px;color:rgba(244,241,237,.5);font:.78rem "DM Sans",system-ui,sans-serif}';
+  var MARK = '<svg class="mark" viewBox="0 0 100 120" aria-hidden="true" fill="none">' +
+    '<circle cx="50" cy="42" r="36" stroke="#6349B8" stroke-width="2.5"/><circle cx="50" cy="78" r="36" stroke="#6349B8" stroke-width="2.5"/>' +
+    '<path d="M50 51V69" stroke="#E9C766" stroke-width="3" stroke-linecap="round"/></svg>';
   (document.head || root).appendChild(css);
 
   function read() {
@@ -44,11 +52,11 @@
     if (g) g.remove();
   }
   function show(kind) {
-    if (kind === 'checking') return paint('<div class="box"><p>Checking your membership…</p></div>');
+    if (kind === 'checking') return paint('<div class="box">' + MARK + '<p>Checking your membership…</p></div>');
     var msg = kind === 'lapsed'
       ? 'Your WILD membership has ended. Rejoin to open ' + NAME + ' again.'
       : NAME + ' is part of the WILD membership. Sign in through WILD OS with your Whop account, then come back to this page.';
-    var html = '<div class="box"><h1>' + (kind === 'lapsed' ? 'Membership ended' : 'Members only') + '</h1><p>' + msg + '</p>' +
+    var html = '<div class="box">' + MARK + '<h1>' + (kind === 'lapsed' ? 'Membership ended' : 'Members only') + '</h1><p>' + msg + '</p>' +
       (kind === 'lapsed' ? '' : '<a class="main" href="' + WILD_OS + '">Sign in through WILD OS</a>') +
       '<a class="' + (kind === 'lapsed' ? 'main' : 'alt') + '" href="' + JOIN + '">Join WILD</a>' +
       '<button class="alt" type="button" id="wild-gate-retry">I have signed in, check again</button>' +
