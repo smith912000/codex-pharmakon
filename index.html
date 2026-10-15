@@ -11,6 +11,11 @@
 <link href="https://smith912000.github.io/wild-programme/assets/fonts/gf-bdfd8e58f1.css" rel="stylesheet">
 <link rel="stylesheet" href="wild.css">
 <script src="vendor/marked.umd.js"></script>
+<script src="vendor/purify.min.js"></script>
+<script>/* Markdown and index text from the repo are rendered as HTML; sanitise so a tampered file cannot run script (XSS). */
+function safeHTML(md){return DOMPurify.sanitize(marked.parse(md),{USE_PROFILES:{html:true}});}
+function esc(v){return String(v==null?'':v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
+</script>
 <style>
 /* Codex Pharmakon on the WILD design system (wild.css is a copy of wild-programme/assets/wild.css; DESIGN.md there). */
 :root{--bg:var(--wild-bg);--panel:var(--wild-bg-elev);--surface:var(--wild-surface);--line:var(--wild-border);--line-lit:var(--wild-border-lit);
@@ -237,7 +242,7 @@ function selectTab(id, fromLoad){
     renderDocs(t, fromLoad);
   } else { // soon
     document.getElementById('view-soon').hidden=false;
-    document.getElementById('soonbody').innerHTML=`<h2>${t.label}</h2><p>${t.note||'Coming soon.'}</p>`;
+    document.getElementById('soonbody').innerHTML=`<h2>${esc(t.label)}</h2><p>${esc(t.note||'Coming soon.')}</p>`;
     location.hash=t.id;
   }
 }
@@ -245,7 +250,7 @@ function selectTab(id, fromLoad){
 /* ---------- docs view ---------- */
 function renderDocs(t, fromLoad){
   const nav=document.getElementById('docnav');
-  nav.innerHTML=(t.intro?`<div class="intro">${t.intro}</div>`:'')+
+  nav.innerHTML=(t.intro?`<div class="intro">${esc(t.intro)}</div>`:'')+
     t.docs.map((d,i)=>`<div class="docrow" data-i="${i}">${d.label}</div>`).join('');
   nav.querySelectorAll('.docrow').forEach(r=>r.onclick=()=>openDoc(t,+r.dataset.i));
   // pick doc from hash (#tab/index) or first
@@ -257,7 +262,7 @@ function openDoc(t,i){
   const d=t.docs[i]; location.hash=t.id+'/'+i;
   document.querySelectorAll('#docnav .docrow').forEach(r=>r.classList.toggle('sel',+r.dataset.i===i));
   const body=document.getElementById('docbody'); body.innerHTML='Loading…';
-  fetch(RAW+d.file).then(r=>r.ok?r.text():Promise.reject()).then(md=>{body.innerHTML=marked.parse(md);body.parentElement.scrollTop=0;})
+  fetch(RAW+d.file).then(r=>r.ok?r.text():Promise.reject()).then(md=>{body.innerHTML=safeHTML(md);body.parentElement.scrollTop=0;})
     .catch(()=>{body.innerHTML='<span style="color:var(--dim)">This page could not be loaded.</span>';});
 }
 
@@ -278,7 +283,7 @@ function render(){
     (!q||(s.name+' '+s.botanical+' '+(s.aka||'')).toLowerCase().includes(q)));
   listEl.innerHTML=items.map(s=>`<div class="row" data-id="${s.id}">
     <span class="dot" style="background:${CLR[s.class]||'#888'}"></span>
-    <span class="nm">${s.name}${s.botanical?`<i>${s.botanical}</i>`:''}</span>
+    <span class="nm">${esc(s.name)}${s.botanical?`<i>${esc(s.botanical)}</i>`:''}</span>
     <span class="meta" title="${s.entry?'Written entry':(s.status==='duplicate'?'Synonym':'Spine only')}">${s.entry?'<span class="k">◆</span>':(s.status==='duplicate'?'<span class="k">≡</span>':'')}<span class="src">${s.sources.length}</span></span></div>`).join('')
     || '<div style="padding:18px;color:var(--dim)">No matches.</div>';
   listEl.querySelectorAll('.row').forEach(r=>r.onclick=()=>show(r.dataset.id));
@@ -289,22 +294,22 @@ function show(id){
   location.hash='materia/'+id;
   listEl.querySelectorAll('.row').forEach(r=>r.classList.toggle('sel',r.dataset.id===id));
   const vol={I:'Volume I · Plant',II:'Volume II · Animal',III:'Volume III · Mineral',IV:'Volume IV · Combination'}[s.volume]||s.volume;
-  let h=`<h1>${s.name}</h1><div class="bot">${s.botanical||''}</div>
-    <div class="badges"><span class="badge">${s.class}</span><span class="badge">${vol}</span>
+  let h=`<h1>${esc(s.name)}</h1><div class="bot">${esc(s.botanical||'')}</div>
+    <div class="badges"><span class="badge">${esc(s.class)}</span><span class="badge">${esc(vol)}</span>
     ${s.uncertain?'<span class="badge warn">identity contested</span>':''}</div>
     <div class="attest"><div class="lbl">Attested in ${s.sources.length} tradition${s.sources.length>1?'s':''}</div>
-    ${s.sources.map(t=>`<span class="trad">${t}</span>`).join('')}</div>`;
+    ${s.sources.map(t=>`<span class="trad">${esc(t)}</span>`).join('')}</div>`;
   if(s.entry){
     h+=`<div class="draftbanner">Draft synthesis, generated and pending scholarly audit. Treat as provisional. Historical reference, not medical advice.</div><div class="entrybody" id="eb">Loading…</div>`;
     detEl.innerHTML=h;
     fetch(RAW+s.entry).then(r=>r.ok?r.text():Promise.reject()).then(md=>{
-      document.getElementById('eb').innerHTML=marked.parse(md);
+      document.getElementById('eb').innerHTML=safeHTML(md);
     }).catch(()=>{document.getElementById('eb').innerHTML='<span style="color:var(--dim)">Draft entry could not be loaded.</span>';});
   }else if(s.status==='duplicate'&&s.duplicate_of){
     const c=DATA.find(x=>x.id===s.duplicate_of);
-    h+=`<div class="note">This is a <b>taxonomic synonym</b>, not a missing entry. <i>${s.botanical||s.name}</i> is the same substance as
-      <b>${c?c.name:s.duplicate_of}</b>${c&&c.botanical?` (<i>${c.botanical}</i>)`:''}, which carries the written entry.
-      <div style="margin-top:10px"><a href="#materia/${s.duplicate_of}" id="dupgo">Read it under ${c?c.name:s.duplicate_of} →</a></div></div>`;
+    h+=`<div class="note">This is a <b>taxonomic synonym</b>, not a missing entry. <i>${esc(s.botanical||s.name)}</i> is the same substance as
+      <b>${esc(c?c.name:s.duplicate_of)}</b>${c&&c.botanical?` (<i>${esc(c.botanical)}</i>)`:''}, which carries the written entry.
+      <div style="margin-top:10px"><a href="#materia/${s.duplicate_of}" id="dupgo">Read it under ${esc(c?c.name:s.duplicate_of)} →</a></div></div>`;
     detEl.innerHTML=h;
     const g=document.getElementById('dupgo'); if(g)g.onclick=e=>{e.preventDefault();show(s.duplicate_of);};
   }else{
@@ -329,4 +334,10 @@ window.addEventListener('hashchange',()=>{
 document.getElementById('q').oninput=e=>{q=e.target.value.toLowerCase().trim();render();};
 document.querySelectorAll('#classChips .chip').forEach(c=>c.onclick=()=>{
   filt=c.dataset.c;document.querySelectorAll('#classChips .chip').forEach(x=>x.classList.toggle('on',x===c));render();});
+</script><script>/* 18+ interstitial: Codex covers psychoactive substances (harm-reduction reference). Remembered per browser. */
+(function(){try{if(localStorage.getItem('wild_codex_18')==='yes')return;}catch(e){}
+function paint(){var d=document.createElement('div');d.id='age18';d.setAttribute('style','position:fixed;inset:0;z-index:2147483646;background:#0b0a08;color:#e8e3d8;display:flex;align-items:center;justify-content:center;padding:24px;font:16px/1.6 Georgia,serif');
+d.innerHTML='<div style="max-width:440px;text-align:center"><h1 style="font-weight:normal;letter-spacing:.12em;color:#e3c68f;font-size:1.3rem;margin:0 0 12px">Adults only</h1><p style="color:#b9b2a3">Codex Pharmakon is a historical and harm-reduction reference on psychoactive substances. It is not medical advice and it does not tell you how to obtain or use anything. You must be 18 or over to read it.</p><button id="age18-yes" style="display:block;width:100%;margin:10px 0 0;padding:12px 16px;border-radius:8px;font:600 .9rem system-ui,sans-serif;background:#c8a96e;color:#0b0a08;border:0;cursor:pointer">I am 18 or over</button><a href="https://smith912000.github.io/wild-programme/" style="display:block;margin-top:12px;color:#8f897b;font:.85rem system-ui,sans-serif">Take me back</a></div>';
+document.body.appendChild(d);document.getElementById('age18-yes').onclick=function(){try{localStorage.setItem('wild_codex_18','yes');}catch(e){}d.remove();};}
+if(document.body)paint();else document.addEventListener('DOMContentLoaded',paint);})();
 </script></body></html>
