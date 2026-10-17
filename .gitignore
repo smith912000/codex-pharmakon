@@ -1,0 +1,5 @@
+# Never commit plain members-only content
+entries/*.md
+pages/**/*.md
+*.plain/
+.env
