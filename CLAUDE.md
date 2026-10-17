@@ -9,3 +9,10 @@ These rules come from Master Principles rule 23 (web launch legal checks, 15 Oct
 5. **Every email** (Kit) carries the trading name, a postal address and an unsubscribe link. Only email people who opted in.
 6. **User uploads** stay on Discord or Whop. If our own site ever hosts uploads, register a DMCA agent at copyright.gov first.
 7. When any of the above changes, update the legal page ("02 - Landing Pages/legal.html" in wild-programme) in the same PR.
+
+# Members-only content is encrypted (17 Oct 2026)
+
+- `entries/` and `pages/` hold `.wv` files: AES-256-GCM, decrypted in the browser by `wild-vault.js` with a key from the n8n workflow "WILD - content key". `vault.json` names the quarter (epoch) they were encrypted for.
+- Never commit plain `.md` content to this public repo (`.gitignore` blocks it). To edit: get the key from n8n ("Admin: get keys"), put it in `WILD_VAULT_KEY`, run `node tools/wild-vault.mjs decrypt pages /tmp/plain --app codex --epoch <epoch>`, edit, then `encrypt` back. Never paste or commit the key.
+- `sync_from_manuscript.py` writes entries already encrypted.
+- Each new quarter: `node tools/wild-vault.mjs rotate entries ...` and `rotate pages ...` with `WILD_VAULT_OLD_KEY` and `WILD_VAULT_KEY`, then update `vault.json`.
