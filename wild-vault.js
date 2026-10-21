@@ -10,8 +10,10 @@
 (function () {
   if (window.WildVault) return;
   var SESSION = 'wild_member_session';
-  var KEY_URL = 'https://smith912000.app.n8n.cloud/webhook/wild/content/key';
-  var VERIFY = 'https://smith912000.app.n8n.cloud/webhook/wild/auth/verify';
+  // n8n address comes from member-gate.js (loaded first), so moving n8n is a one-line change there.
+  var BASE = window.WILD_N8N_BASE || 'https://smith912000.app.n8n.cloud';
+  var KEY_URL = BASE + '/webhook/wild/content/key';
+  var VERIFY = BASE + '/webhook/wild/auth/verify';
   var MAGIC = [87, 86, 48, 49]; // "WV01"
   var opened = {};
 
