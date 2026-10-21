@@ -4,6 +4,8 @@
 (function () {
   var KEY = 'wild_member_session';
   var VERIFY = 'https://helpful-vision-boards-helen.trycloudflare.com/webhook/wild/auth/verify';
+  // wild-vault.js reads the n8n address from here, so a move only changes VERIFY.
+  window.WILD_N8N_BASE = VERIFY.replace(/\/webhook\/.*$/, '');
   var WILD_OS = 'https://smith912000.github.io/wild-os/';
   var JOIN = 'https://smith912000.github.io/wild-programme/#join';
   var NAME = document.currentScript && document.currentScript.getAttribute('data-name') || 'This library';

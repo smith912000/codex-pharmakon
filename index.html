@@ -3,6 +3,7 @@
 <meta charset="utf-8">
 <meta name="robots" content="noindex,nofollow">
 <script src="member-gate.js" data-name="Codex Pharmakon"></script>
+<script src="wild-vault.js"></script>
 <script src="https://smith912000.github.io/wild-programme/assets/wild-nav.js" data-app="codex" defer></script><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Codex Pharmakon Universalis</title>
 <meta name="description" content="The materia medica of nine traditions, one substance per entry, sourced and deduplicated. A historical reference, not medical advice. Included with WILD membership.">
@@ -212,6 +213,22 @@ aside{width:360px;flex:none;border-right:1px solid var(--line);display:flex;flex
 
 <script>
 const RAW='https://raw.githubusercontent.com/smith912000/codex-pharmakon/main/';
+/* Entries and pages are encrypted in the public repo (.wv). wild-vault.js gets
+   the members-only key from the WILD content key service and decrypts them here.
+   vault.json names the quarter the files were encrypted for. */
+let VAULT=null;
+function openVault(){
+  if(!VAULT){VAULT=fetch('vault.json',{cache:'no-cache'}).then(r=>r.json()).then(v=>WildVault.open(v));VAULT.catch(()=>{VAULT=null;});}
+  return VAULT;
+}
+function readVault(p){return openVault().then(v=>v.text(RAW+p));}
+function vaultMsg(e,dflt){
+  const c=e&&e.code;
+  if(c==='guest')return 'Sign in through WILD OS as a member to read this.';
+  if(c==='lapsed')return 'Your WILD membership has ended. Rejoin to read this again.';
+  if(c==='offline')return 'You seem to be offline. Reconnect and try again.';
+  return dflt;
+}
 const CLR={plant:'#86B894',mineral:'#C9A84C',animal:'#E0A458'};
 let DATA=[], ALIAS={}, filt='all', q='', TABS=[], dataLoaded=false;
 const listEl=document.getElementById('list'), detEl=document.getElementById('detail');
@@ -262,8 +279,8 @@ function openDoc(t,i){
   const d=t.docs[i]; location.hash=t.id+'/'+i;
   document.querySelectorAll('#docnav .docrow').forEach(r=>r.classList.toggle('sel',+r.dataset.i===i));
   const body=document.getElementById('docbody'); body.innerHTML='Loading…';
-  fetch(RAW+d.file).then(r=>r.ok?r.text():Promise.reject()).then(md=>{body.innerHTML=safeHTML(md);body.parentElement.scrollTop=0;})
-    .catch(()=>{body.innerHTML='<span style="color:var(--dim)">This page could not be loaded.</span>';});
+  readVault(d.file).then(md=>{body.innerHTML=safeHTML(md);body.parentElement.scrollTop=0;})
+    .catch(e=>{body.innerHTML='<span style="color:var(--dim)">'+esc(vaultMsg(e,'This page could not be loaded.'))+'</span>';});
 }
 
 /* ---------- substance browser ---------- */
@@ -302,9 +319,9 @@ function show(id){
   if(s.entry){
     h+=`<div class="draftbanner">Draft synthesis, generated and pending scholarly audit. Treat as provisional. Historical reference, not medical advice.</div><div class="entrybody" id="eb">Loading…</div>`;
     detEl.innerHTML=h;
-    fetch(RAW+s.entry).then(r=>r.ok?r.text():Promise.reject()).then(md=>{
+    readVault(s.entry).then(md=>{
       document.getElementById('eb').innerHTML=safeHTML(md);
-    }).catch(()=>{document.getElementById('eb').innerHTML='<span style="color:var(--dim)">Draft entry could not be loaded.</span>';});
+    }).catch(e=>{document.getElementById('eb').innerHTML='<span style="color:var(--dim)">'+esc(vaultMsg(e,'Draft entry could not be loaded.'))+'</span>';});
   }else if(s.status==='duplicate'&&s.duplicate_of){
     const c=DATA.find(x=>x.id===s.duplicate_of);
     h+=`<div class="note">This is a <b>taxonomic synonym</b>, not a missing entry. <i>${esc(s.botanical||s.name)}</i> is the same substance as

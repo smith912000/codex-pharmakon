@@ -13,35 +13,35 @@
    "docs": [
     {
      "label": "Overview",
-     "file": "pages/preparation/V_Overview.md"
+     "file": "pages/preparation/V_Overview.md.wv"
     },
     {
      "label": "Decoction",
-     "file": "pages/preparation/V_01_Decoction.md"
+     "file": "pages/preparation/V_01_Decoction.md.wv"
     },
     {
      "label": "Tincture & Extraction",
-     "file": "pages/preparation/V_02_Tincture_Extraction.md"
+     "file": "pages/preparation/V_02_Tincture_Extraction.md.wv"
     },
     {
      "label": "Fermentation",
-     "file": "pages/preparation/V_03_Fermentation.md"
+     "file": "pages/preparation/V_03_Fermentation.md.wv"
     },
     {
      "label": "Bhasma & Calcination",
-     "file": "pages/preparation/V_04_Bhasma_Calcination.md"
+     "file": "pages/preparation/V_04_Bhasma_Calcination.md.wv"
     },
     {
      "label": "Stacking",
-     "file": "pages/preparation/V_05_Stacking.md"
+     "file": "pages/preparation/V_05_Stacking.md.wv"
     },
     {
      "label": "Cycling",
-     "file": "pages/preparation/V_06_Cycling.md"
+     "file": "pages/preparation/V_06_Cycling.md.wv"
     },
     {
      "label": "Constitutional Dosing",
-     "file": "pages/preparation/V_07_Constitutional_Dosing.md"
+     "file": "pages/preparation/V_07_Constitutional_Dosing.md.wv"
     }
    ]
   },
@@ -53,11 +53,11 @@
    "docs": [
     {
      "label": "Overview",
-     "file": "pages/chronopharma/VIII_Overview.md"
+     "file": "pages/chronopharma/VIII_Overview.md.wv"
     },
     {
      "label": "Circadian Dosing",
-     "file": "pages/preparation/V_08_Circadian.md"
+     "file": "pages/preparation/V_08_Circadian.md.wv"
     }
    ]
   },
