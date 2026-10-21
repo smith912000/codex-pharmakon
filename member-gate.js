@@ -3,7 +3,7 @@
    auth verify webhook. Non-members see a locked screen instead of the site. */
 (function () {
   var KEY = 'wild_member_session';
-  var VERIFY = 'https://smith912000.app.n8n.cloud/webhook/wild/auth/verify';
+  var VERIFY = 'https://helpful-vision-boards-helen.trycloudflare.com/webhook/wild/auth/verify';
   var WILD_OS = 'https://smith912000.github.io/wild-os/';
   var JOIN = 'https://smith912000.github.io/wild-programme/#join';
   var NAME = document.currentScript && document.currentScript.getAttribute('data-name') || 'This library';
