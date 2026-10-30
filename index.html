@@ -125,10 +125,24 @@ aside{width:360px;flex:none;border-right:1px solid var(--line);display:flex;flex
 .soonwrap{flex:1;display:flex;align-items:center;justify-content:center;padding:40px}
 .soonwrap div{max-width:520px;color:var(--dim)}.soonwrap h2{font:600 2rem/1.1 var(--serif);color:var(--tx);margin-bottom:12px}
 
+/* WILD company footer: a body flex child, so it must never shrink over the views */
+.wild-co-footer{flex:none}
+.entrybody,#detail{overflow-wrap:anywhere}
+.entrybody img{max-width:100%;height:auto}
+.entrybody table{display:block;max-width:100%;overflow-x:auto}
+.entrybody pre{max-width:100%;overflow-x:auto}
+
 @media(max-width:760px){
+  /* phones: one page that scrolls, no boxed-in panes cutting content off */
+  html,body{height:auto;min-height:100%}
+  .view{flex:none}
+  main,#list,.docnav{overflow:visible}
+  .docnav{flex:none;max-height:none;border-right:0;border-bottom:1px solid var(--line)}
+  header{flex-wrap:wrap}
+  #detail,.entrybody,#docbody{max-width:100%}
   header{padding:14px 16px}header .sub{display:none}header .stats{gap:14px;font-size:.6rem}header .stats b{font-size:1.2rem}
   .notice-bar{padding:7px 16px}
-  aside,.docnav{width:100%;flex-basis:auto}.view{flex-direction:column}.docnav{max-height:38vh}main{padding:24px 18px 64px}
+  aside,.docnav{width:100%;flex-basis:auto}.view{flex-direction:column}main{padding:24px 18px 64px}
   #view-materia main{display:none;padding:0}
   #view-materia.detail-open aside{display:none}
   #view-materia.detail-open main{display:block}
@@ -252,7 +266,7 @@ function renderDocs(t, fromLoad){
   const nav=document.getElementById('docnav');
   nav.innerHTML=(t.intro?`<div class="intro">${esc(t.intro)}</div>`:'')+
     t.docs.map((d,i)=>`<div class="docrow" data-i="${i}">${d.label}</div>`).join('');
-  nav.querySelectorAll('.docrow').forEach(r=>r.onclick=()=>openDoc(t,+r.dataset.i));
+  nav.querySelectorAll('.docrow').forEach(r=>r.onclick=()=>{openDoc(t,+r.dataset.i);if(window.innerWidth<=760)document.getElementById('docbody').scrollIntoView();});
   // pick doc from hash (#tab/index) or first
   let di=0; const h=location.hash.slice(1);
   if(h.startsWith(t.id+'/')) di=Math.max(0,Math.min(t.docs.length-1,+h.split('/')[1]||0));
@@ -288,8 +302,10 @@ function render(){
     || '<div style="padding:18px;color:var(--dim)">No matches.</div>';
   listEl.querySelectorAll('.row').forEach(r=>r.onclick=()=>show(r.dataset.id));
 }
+let listY=0;
 function show(id){
   if(ALIAS[id])id=ALIAS[id];
+  if(window.innerWidth<=760&&!document.getElementById('view-materia').classList.contains('detail-open'))listY=window.scrollY;
   const s=DATA.find(x=>x.id===id); if(!s)return;
   location.hash='materia/'+id;
   listEl.querySelectorAll('.row').forEach(r=>r.classList.toggle('sel',r.dataset.id===id));
@@ -319,17 +335,20 @@ function show(id){
   const mv=document.getElementById('view-materia');
   if(window.innerWidth<=760){mv.classList.add('detail-open');}
   const mn=mv.querySelector('main'); if(mn)mn.scrollTop=0;
+  if(window.innerWidth<=760){window.scrollTo(0,mv.offsetTop);}
 }
 /* mobile: back to the list */
 function backToList(){
   document.getElementById('view-materia').classList.remove('detail-open');
+  if(window.innerWidth<=760)window.scrollTo(0,listY);
   if(location.hash.startsWith('#materia/'))location.hash='materia';
 }
 document.getElementById('backbtn').onclick=backToList;
 /* browser back button / hash change returns to list on mobile */
 window.addEventListener('hashchange',()=>{
-  if(location.hash==='#materia'||location.hash==='')
+  if((location.hash==='#materia'||location.hash==='')&&document.getElementById('view-materia').classList.contains('detail-open')){
     document.getElementById('view-materia').classList.remove('detail-open');
+    if(window.innerWidth<=760)window.scrollTo(0,listY);}
 });
 document.getElementById('q').oninput=e=>{q=e.target.value.toLowerCase().trim();render();};
 document.querySelectorAll('#classChips .chip').forEach(c=>c.onclick=()=>{
