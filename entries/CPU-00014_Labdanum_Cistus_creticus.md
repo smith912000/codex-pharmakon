@@ -2,7 +2,7 @@
 
 ## *Cistus creticus* L. — The Beard of Goats; Ambergris of the Mountainside; First Fixative of the Ancient Perfumer
 
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 **Energetic Classification (TCM):** ◉ Qi primary / ☿ Shen secondary
 **Training Phase:** [GENERAL]
 
@@ -87,6 +87,8 @@ The peer-reviewed literature on labdanum/*Cistus* is modest compared with franki
 ### Cultivation Register
 
 **Dioscorides / classical Greco-Roman (DMM).** Dioscorides gives ladanum no cultivation status and no subtle-body framing; the chapter offers a discipline of attention. Ladanum (*ladanon*) is the greasy matter combed from the beards and thighs of goats that browse a cistus-like shrub he calls *ledum*, or drawn off cords stretched across the bushes, then shaped into small balls. The best is sweet-smelling, somewhat green, soft, fatty and free of sand; Cyprian material is faulted as foul and resinous, and the Arabian and Libyan as of less worth. The link from that shrub to *Cistus creticus* is a modern editorial identification. Graded (b): therapeutic and provenance-assay attestation only (Dioscorides, De materia medica 1.128, Osbaldeston & Wood tr. 2000).
+
+**Unani / Avicenna (CM).** The *Canon* describes *lādhan* as a moisture clinging to the hair of goats that graze a plant called *qāsūs*, the best being Cyprian, fat and fragrant, and gives its temperament as "hot at the end of the first, dry in the second", warmer in southern lands (حار في آخر الأولى يابس في الثانية) (*Canon* Book II, entry *Lādhan*, Arabic text line 14480). It is "very subtle" (لطيف جدا), slightly binding, ripening and moderately dissolving thick viscous humours, and drawing, warming and opening the mouths of the vessels. In cosmetics it makes hair grow and thicken, with myrtle oil or wine, helping early baldness and shedding but not alopecia areata. Dropped with rose oil it is used for the painful ear, and as a pessary it dissolves tumours of the womb and fumigated it expels the dead foetus and afterbirth. The separate entry *Qasūs*, three kinds, black, white and red, all acrid and binding, calls the plant hot but "harmful to the sinew" (*Canon* Book II, entry *Qasūs*, Arabic text line 17571). Avicenna frames none of this by innate heat or radical moisture. **(b) — therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing here asks a cultivator to grow or take the resin for vitality. What the text teaches is assay: judge the gum by smell, colour, softness and absence of sand, and distrust its stated origin.
 

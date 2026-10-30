@@ -2,7 +2,7 @@
 
 ## *Delphinium staphisagria* L. — the acrid delphinine-bearing seed that purges vermin from skin and gut
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book IV) · Greco-Roman · Folk-European · Homeopathy (Staphysagria)
+**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book IV) · CM (Avicenna, *Canon* Book II) · Greco-Roman · Folk-European · Homeopathy (Staphysagria)
 **Energetic Classification (TCM):** ◉ Qi (acrid, irritant, parasiticide/purgative)
 **Training Phase:** [SPECIALIST ONLY] — toxic diterpenoid-alkaloid seed; external use, no casual internal use
 
@@ -60,6 +60,8 @@ Codex policy: mechanism stated generally; named citations to be supplied and ver
 ### Cultivation Register
 
 **Dioscorides / classical Greco-Roman (DMM).** Dioscorides describes *staphis agria* (marked poisonous) by its jagged, dark leaves like the wild vine, a flower like woad, and triangular tawny-yellow and black seeds in small pods, white and sharp within. No habitat, cultivation or vital status is stated. Ten or fifteen grains pounded in honey and water purge thick matter by vomiting, with a warning of choking and burning of the jaws and an instruction to keep walking; bruised and rubbed on with oil it is used for *pthiriases* (rendered 'psoriasis' by the translators). The identification with *Delphinium staphisagria* is the translators' gloss. Graded (b): therapeutic, status unattested (Dioscorides, De materia medica 4.156, Osbaldeston & Wood tr. 2000).
+
+**Unani / Avicenna (CM).** The *Canon* has an entry headed *mawiyaz* and glosses it as "الزبيب الجبلي" ("the mountain raisin"), a black, wrinkled grain like a black chickpea (*Canon* Book II, entry *mawiyaz*, Arabic text line 15212). Temperament: "حار يابس في الثالثة" ("hot and dry in the third degree"). Cosmetic: it kills lice, especially with arsenic. Wounds: with arsenic or alone for scab and scaling. Head: it is chewed to draw phlegm and moisture from the brain, and boiled in vinegar as a mouthwash for toothache and moist gums; with honey it heals bad mouth sores. Digestive organs: fifteen grains in water of *qaratin* (a vehicle the Arabic names without explanation) make one vomit sticky chyme. Excretory organs: "في سقيه خطر" ("there is danger in drinking it"), since it ulcerates the bladder, though with correctives and in moderate amount it cleanses. The entry gives no use for innate heat or radical moisture and no benefit to long life. **(b) — cleansing and expelling actions attested with an explicit danger; no cultivation status.**
 
 **Practitioner's note.** Nothing to take for vitality. The text's own use is a dangerous emetic and a topical; the transferable discipline is identification by seed and flower, and respect for dose.
 

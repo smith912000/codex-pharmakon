@@ -1,6 +1,6 @@
 # Frog (in oil) — "Frog", "A Frog" (Bryan's English rendering of the Ebers Papyrus; no Egyptian word is printed)
 ## *A frog, as Bryan renders the animal; Bryan prints no Egyptian word and no binomial, so the spine's "Anura sp." is the list-maker's gloss and is not read from the text* | *(Volume III — Animal)*
-**Tradition Tags:** EP
+**Tradition Tags:** EP, CM
 
 ---
 
@@ -49,6 +49,8 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 ---
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* entry *Ḍifdaʿ* (frog) gives no description and no temperament or degree (*Canon* Book II, entry *Ḍifdaʿ*, Arabic text line 19465). Its first property: the ash of the frog, put on a place of bleeding, stops the blood. Under swellings its broth, poured on, helps swellings of the tendons. For the head he reports "قيل" ("it is said") that river frogs, by rinsing the mouth with their boiled water, help toothache, and adds that he thinks this holds of the tree-garden kind, since common people say that it makes cattle's teeth fall out if they take it in fodder. Under poisons: whoever eats its blood or body swells in the body, loses colour and emits semen until death, though some say that cooked with salt and oil and eaten it is an antidote (*bādzahr*) to leprosy and venomous creatures. The entry has no oil-warmed burn remedy as in the Egyptian row, and says nothing of innate heat, radical moisture or prolonging life. **(b) — therapeutic actions attested (bleeding, tendon swellings, toothache), with a poison warning; no cultivation status.**
 
 **Egyptian / Ebers (EP).** *(c) Absent.* No cultivation framing is attested. The Ebers material is indication-organised: it records what was done for a complaint, not what a substance does to the person's vital constitution, and the one use found is an external application for burns. Egyptian practice treats spell and drug as one intervention (*heka*); no recitation is printed with this prescription in Bryan's summary, which is no proof the papyrus gives none. The person as plural (*ka*, *ba*, *akh*, *ib*) is not engaged by this entry. No deity is attributed.
 

@@ -1,6 +1,6 @@
 # Skink — SKINKOS (Dioscorides 2-71), "Schinchi"
 ## *Scincus officinalis — Skink, in the edition's own gloss; the text calls it "an earth crocodile of its own kind"* | *(Volume III — Animal)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -37,6 +37,8 @@ General, well-established facts only. No lizard tissue has been shown to be a sa
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(b) Framed; no cultivation status.* Dioscorides has no subtle-body system, and none is supplied here. What he offers a cultivator is a discipline of attention, and this chapter shows a little of it: it names the places where the animal is found (Egypt, India, the Red Sea, Libya, a river of Mauritania), says how it is cured (in salt with nasturtium) and which part is used, gives a measure, and reports the claim as hearsay ("They say"). He then sets down what puts the effect right again, so that the person taking the drink has a way back. None of that is a cultivation status: the chapter is about a stimulant, not about the person's constitution, and the lentil and lettuce passage is a counter-measure and not a practice. [USER: verify]
+
+**Unani / Avicenna (CM).** The *Canon* treats the skink under two spellings. The first entry (*Isqanqūr*, Arabic text line 10521) describes it as the first aquatic animal taken from the Nile of Egypt, said to descend from the crocodile, best caught in spring at the time of its rut, with the navel as its best part. Under the joint-organs it benefits cold ailments of the nerve; under the excretory organs it says "ملحه مهيج للباه فكيف لحمه" ("its salt rouses desire, how much more its flesh"), above all the flesh of the navel and the fat beside the kidney (*Canon* Book II, entry *Isqanqūr*, Arabic text line 10521). The second entry (*Saqanqūr*, line 16146) calls it a Nile lizard (*waral*) taken in Egypt, best at the region of the kidneys, and warns "قد ينهض الباه حتى لا يسكن إلا بحسو مرق الخس والعدس" ("it may raise desire until it is calmed only by sipping broth of lettuce and lentils") (*Canon* Book II, entry *Saqanqūr*, Arabic text line 16146). Neither entry states a temperament or a degree, so none is supplied here. The *Canon* offers no claim about innate heat, radical moisture or the prolonging of life for this animal; its interest is the strength of the effect and the remedy that restrains it. **(b) — therapeutic actions attested (cold nerve ailments, stimulation of desire, with a named counter-measure); no cultivation status.**
 
 **Practitioner's note.** A cultivator does nothing with this. It is an aphrodisiac at second hand from a wild reptile, and the chapter's own advice is to hold a counter-drink ready. If anything is taken from it, it is the structure: a claimed effect, a stated measure, and a way to reverse it, all in one chapter.
 

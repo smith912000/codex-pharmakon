@@ -1,7 +1,7 @@
 # Sempervivum tectorum — Aeizoon to mega (Dioscorides 4-89)
 
 ## *Sempervivum tectorum [Linnaeus], "Houseleek, Hens and Chickens, Jupiter's Beard, Roof Houseleek", the last of the names on the translators' SUGGESTED line for 4-89 ("Sedum maius [Fuchs], Sedum majus vulgare [Bauhin], Sempervivum tectorum [Linnaeus]")* | *(Volume I — Plant-Based)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -42,6 +42,8 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 ### Cultivation Register
 
 **Greek — Dioscorides (DMM).** *(b) Framed, not a cultivation status.* Dioscorides has no subtle-body system, and none is manufactured here. The chapter records no amuletic use; it records the Magian name *paronychia*, the Egyptian *pamphanes* and the Roman *Jovis caulis* as names only, and the remark that some plant it on their houses without a reason. The part of the discipline of attention that the cultivation spec describes for this tradition that is present here is the detailed description of the plant (fat stalks, fat leaves shaped like a tongue, the eye-like circle at the head), its place of growth and its stated qualities. The plant is given no status beyond that of a cooling, astringent remedial herb. The identification is the translators'. [USER: verify]
+
+**Unani / Avicenna (CM).** The *Canon* entry *Sūmuqṭūn* opens by saying it is variously identified, as "the living thing of the world" (ḥayy al-ʿālam, the houseleek), as a kind of mandrake, and otherwise, and that there are two kinds, rock and non-rock (*Canon* Book II, entry *Sūmuqṭūn*, Arabic text line 16058). Its temperament is mainly cold and dry, with a moderate hot moisture: a subtlety by which it cuts, a squill-like stickiness by which it dissolves, and a quality by which it gathers and binds; it has no smell or sweetness, brings saliva, and joins pieces of meat in the pot into one. For the chest it heals roughness of the throat, prevents spitting of blood and, in honey water, cleanses the lung. Under the excretory organs it helps ulcers and abrasions of the intestines, hernia, pains of the kidney, and, as is said, stops menstrual bleeding. Avicenna's account is humoral and organ-based throughout; it does not use innate heat, radical moisture or prolonged life. **(b) — therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It offers a careful description, a quality and a list of remedies without amounts, so it is history and not a practice. The abstentive answer is the honest one.
 

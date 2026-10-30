@@ -1,6 +1,6 @@
 # Tamarisk / Manna Plant — أثل (Athal) / Μυρίκη (Myrikē) / शमी (Śamī) / 柽柳 (Chēngliǔ)
 ## *Tamarix gallica L. — French Tamarisk; T. aphylla (L.) H.Karst. — Athel Tamarisk; T. articulata Vahl — Articulated Tamarisk*
-**Tradition Tags:** AT
+**Tradition Tags:** AT, CM
 **Energetic Classification (TCM):** ◉ Qi
 **Training Phase:** `[RESET]` `[REFINE]`
 
@@ -85,6 +85,8 @@ Finely ground tamarisk bark applied dry to clean wounds as a styptic powder; pro
 ---
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* entry *Ṭarfā'* (tamarisk) begins from Dioscorides' description: a known tree growing by standing waters, with a flower-like fruit; in Egypt and Syria a garden kind has a gall-like fruit that puckers the tongue and is used in place of oak-gall (*Canon* Book II, entry *Ṭarfā'*, Arabic text line 13499). No temperament or degree is printed. The action is "فيه قبض وجلاء وتنقية من غير تجفيف شديد" ("in it is astringency, cleansing and purifying without strong drying"). The fruit is strongly astringent and is used in place of gall. Cosmetic: a decoction as a wash kills lice. Sores: its smoke dries moist ulcers and pox, and the powder and ash go on burns; the fruit and ash dry stubborn ulcers and eat away proud flesh. Head: a wine decoction of the leaf as a mouthwash for toothache. Eye: the fruit stands in for gall in eye disease. Chest: it helps long-standing spitting. Digestive organs: the twigs, minced in vinegar, are a poultice for the spleen, and drinking cups of its wood are made for the splenic. Excretory: chronic diarrhoea and flux of the womb. Poisons: the fruit helps the bite of the tarantula. Nothing is said of innate heat, radical moisture or prolonging life. **(b) — therapeutic actions attested (astringent, wound, spleen); no cultivation status.**
 
 **Assyrian (AT).** No cultivation framing is attested here. Assyrian medicine classified illness by causal agency, so a drug was partly placed by what agency it opposed; it was not graded by what it did to a person's vital constitution. No primary or scholarly text on the Assyrian treatment of tamarisk was read in preparing this entry, so no identification of the plant with any Akkadian name, no ritual role and no tablet is asserted in this register. The statements in the Origin section about the Assyrian tamarisk are the entry's own and remain unverified against a text seen here. Graded (c).
 

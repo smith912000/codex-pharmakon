@@ -1,6 +1,6 @@
 # Alkali / potash — niru / qili (the project's Assyrian list's transliterations)
 ## *An alkaline material, "natron or plant ash (sodium/potassium carbonate)" in the project list's own words; no text on disk prints an identification, so the carbonate is the list's gloss and is not read from a tablet* | *(Volume II — Mineral)*
-**Tradition Tags:** AT
+**Tradition Tags:** AT, CM
 
 ---
 
@@ -45,6 +45,8 @@ Sodium and potassium carbonates are alkaline salts; they are caustic in strong s
 ### Cultivation Register
 
 **Assyrian (AT).** *(c) Absent, and the attestation rests on a list row.* No tablet was read. The tradition classifies illness by causal agency (a divine hand, a ghost, an oath), so a substance is partly classified by what agency it opposes; no such classification of alkali is attested in the sources retrieved. The blocking warning is in force. [USER: verify]
+
+**Unani / Avicenna (CM).** The Canon entry *qilī* (the alkali of burnt plant ash) is two lines. Its temperament is «حار محرق جلاء أكال أقوى من الملح», "hot, burning, cleansing, eroding, stronger than salt", so it is graded against salt rather than by degree. Under the cosmetic heading it helps vitiligo (*bahaq*); under wounds and ulcers it helps mange (*jarab*) and eats away excess flesh (*Canon* Book II, entry *qilī*, Arabic text line 17616). The entry gives no organ heading, no internal use, no dose and no preparation. It treats alkali as a caustic cleanser of the skin, and its place is therefore topical. The text does not say whether the substance is natron or plant ash. Innate heat and radical moisture are not mentioned, and no claim about the conservation of life is made for it. **(b) — Therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing here for a cultivator. The tradition is represented by one list row, and no text read says what was done with the material or why. If a practice is to be drawn from it, it is the discipline of not building one on a list entry. No dose is given in the sources retrieved. [USER: verify]
 

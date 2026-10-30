@@ -1,7 +1,7 @@
 # Hart's-tongue fern — Phullitis (Dioscorides 3-121)
 
 ## *Asplenium scolopendrium, also written Phyllitis scolopendrium (the Dioscorides translator's suggestion for chapter 3-121)* | *(Volume I — Plant-Based)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -36,6 +36,8 @@ Ferns have no well-established antivenom or antidiarrhoeal action in modern medi
 ### Cultivation Register
 
 **Greek — Dioscorides (DMM).** *(b) Framed, not a cultivation status.* Dioscorides has no subtle-body system and none is manufactured here. What the chapter offers is the discipline of attention the cultivation spec describes: where the plant grows (shady places and pleasure gardens), how to know it (six or seven upright dock-like leaves, smooth in front, with the spore-lines behind like little worms; no stalk, seed or flower), and its names (phyllis, acaulon, lapathum sylvestre). It records no use for the person's vital constitution and assigns no status. The identification is the translator's. [USER: verify]
+
+**Unani / Avicenna (CM).** The *Canon* entry *Saqūlūqundriyūn* (scolopendrion) begins with doubt about the plant: it is said to be a rock plant growing in much shade, some say a kind of squill, and others something else. Its temperament is "حار في الأولى يابس في الثانية" ("hot in the first degree, dry in the second") (*Canon* Book II, entry *Saqūlūqundriyūn*, Arabic text line 16035). The action is "لطيف محلل ليس فيه كثير حرارة" ("fine and dissolving, without much heat"). Under the digestive organs it benefits the spleen "منفعة عجيبة" ("a wonderful benefit") when taken as an oxymel (*sakanjabīn*) made with vinegar in which its leaves were boiled for forty days, so that the spleen goes away; it also helps hiccup and jaundice. Under the excretory organs it breaks stone in the kidney and bladder, and he reports that, hung on a person, it is said to prevent conception. The entry names no head, eye, chest, cosmetic or poison use, and says nothing of innate heat, radical moisture or prolonging life. **(b) — therapeutic actions attested (spleen, jaundice, stone); no cultivation status.**
 
 **Practitioner's note.** A cultivator takes the chapter's description of a plant seen in its place, front and back of the leaf. The uses are for snakebite and dysentery and give no practice for the self.
 

@@ -2,7 +2,7 @@
 
 ## *Setaria italica* (L.) P.Beauv. | Family: Poaceae
 
-**Tradition Tags:** DMM, SBJ, SS
+**Tradition Tags:** DMM, CM, SBJ, SS
 **Energetic Classification:** Cool-neutral, sweet and slightly salty; moistening — the "gentle" pole of the grain class (Galenic reading: cold and dry in the first degree)
 **Training Phase:** Phase 0 — Foundation / Convalescent Base (the substrate on which other agents are given, not an agent in itself)
 
@@ -107,6 +107,8 @@ The Kenetica indication follows the Chinese one, restated in modern terms:
 ### Cultivation Register
 
 **Greek — Dioscorides (DMM).** In the *De Materia Medica* the millets (*kenchros*, *elymos*) are grains of the poor and the northern barbarian, read on the humoral grid as cold and dry, astringent and drying to the belly, useful in fluxes, with the heated grain applied in a bag as a dry fomentation. Dioscorides carries no subtle-body doctrine into which a grain could be given a cultivation status; what he offers the cultivator instead is his discipline of attention — the sober assay of a grain's nourishing power against wheat, the recognition that its *lightness* is a deficiency in the feeding of the body. That is a practice of judgement, not a vital-body assignment. **(c) absent** as to cultivation status.
+
+**Unani / Avicenna (CM).** The *Canon* entry *Jāwars* (millet) says it has three kinds and resembles rice in strength, though rice is the more nourishing; millet is better in all respects than the lesser millet (*dukhn*) but binds more strongly (*Canon* Book II, entry *Jāwars*, Arabic text line 11836). No temperament grade is printed in the lines. Its actions: "فيه قبض وتجفيف بلا لذع" ("in it is astringency and drying without sting"), and hot compresses of it ease pains. Unprepared, it breeds bad blood, and its nourishment is little and viscous, with a certain subtlety some claim for it; cooked with milk or with the bran of fine flour, especially with ghee or almond oil, its nourishment improves. For the digestive organs it is slow in the stomach, both the grain and its bread. For the excretory organs it is used in a hot compress for colic, and it is diuretic. Nothing is said of innate heat, radical moisture or prolonging life, and the entry reads as food and fomentation, with the cooking method named as what corrects it. **(b) — therapeutic actions attested (astringent, drying, colic, diuretic); no cultivation status.**
 
 **Chinese — Shennong / Bencao (SBJ).** Millet is admitted to the Chinese materia medica under Su (粟) and Liang (粱) and worked as *xiao mi zhou* congee, read as sweet and slightly salty, cool-to-neutral, entering Spleen, Stomach and Kidney, and given to *harmonise the middle* (和中), supplement Qi (益氣/補虛) and generate fluids (生津). These are the actions of a food deliberately made a drug. But no *san pin* 三品 grade — upper, middle or lower — is attested for *Setaria italica* in any named scholarly translation retrieved here; the grading found in wellness and clinical-TCM web sources is not a sufficient source under the project's rule. Within *yang sheng* 養生, nourishing life through conservation, millet therefore sits as a therapeutic and convalescent food, not a graded cultivation substance. **(b) framed:** attested in the materia medica, no cultivation grade sourced.
 

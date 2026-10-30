@@ -1,7 +1,7 @@
 # Scarlet Pimpernel / Anagallis arvensis — Anagallis, Korkoros (Dioscorides 2-209)
 
 ## *Anagallis arvensis* (one of several binomials the Dioscorides translators suggest for 2-209; not Dioscorides' own) | *(Volume I — Plant-Based)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -44,6 +44,8 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 ### Cultivation Register
 
 **Greek — Dioscorides (DMM).** *(b) Framed, not a cultivation status.* Dioscorides has no subtle-body system. The chapter offers a discipline of attention: two kinds that differ in flower colour, a creeping habit with four-cornered stalks, round fruit, and a long catalogue of names among the Magi, Etruscans, Gauls, Dacians, Egyptians and Africans. It records a disagreement ("some say") about a use of each kind. It assigns the plant no cultivation status.
+
+**Unani / Avicenna (CM).** The Canon entry *anāghalis* names two kinds, one with a yellow flower and one with a blue one, and gives no temperament. Under wounds and ulcers both "are suited to wounds, prevent their swelling, and stop ulcers from spreading". Under the organs of the head, gargling with their water or taking it as a snuff «أحدر بلغما كثيرا من الرأس», "brings down much phlegm from the head", and eases the tooth-pain on that side. Under the excretory organs, drunk with wine it helps pain of the kidney, and some claim the blue-flowered kind supports the anus. Under poisons, drunk with wine it helps against the bite of the viper: «ينفع من نهش الأفعى» (*Canon* Book II, entry *anāghalis*, Arabic text line 10737). The actions are those of an evacuating, wound-drying herb used mostly with wine or water; the entry contains no statement about innate heat, radical moisture, or the preservation of life. **(b) — Therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing here gives a cultivator a practice. A weed with two flower colours is recorded, with local and internal remedies attached and a translator's warning that it is poisonous. The abstentive answer is the correct one.
 

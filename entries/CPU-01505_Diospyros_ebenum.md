@@ -1,7 +1,7 @@
 # Diospyros ebenum — Ebenos (Dioscorides 1-129)
 
 ## *Diospyros ebenum (the translators' first suggestion; "Ceylon Ebony"), with Ebenus cretica / Anthyllis cretica, "Cretan Silver Bush", as a second name* | *(Volume I — Plant-Based)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -40,6 +40,8 @@ No study of the wood was opened. No clinical studies were retrieved for this ent
 ### Cultivation Register
 
 **Greek — Dioscorides (DMM).** *(b) Framed, not a cultivation status.* Dioscorides has no subtle-body system, and none is manufactured here. Of all the chapters in this batch this is the one that best shows the discipline of attention that the cultivation spec describes for this tradition: provenance (Ethiopian first, Indian second), a sensory assay (colour, grain on breaking, taste, smell on the coals, behaviour on a whetstone), and adulteration detection (sesame and acanthus wood sold as ebony, told apart by a hollow sponge-like body, purplish colour and lack of bite and scent). It assigns the wood no status. The identification is the translators' and is two plants. [USER: verify]
+
+**Unani / Avicenna (CM).** The *Canon* gives ebony the temperament "hot and dry in the second degree" (حار يابس في الثانية), adding that some hold it, despite its heat, to quench the heat of the blood (*Canon* Book II, entry *Ābnūs*, Arabic text line 10556). It is rubbed down in water like many stones and is "attenuating and cleansing" (ملطف وجلاء). Its chief place is the eye: it clears film and whiteness (يجلو الغشاوة والبياض), eye salves are made from its filings, whetstones for eye medicines are made from it, and its sawdust, burnt on a plate and washed, helps chronic eye ulcers, dry ophthalmia, eye scab and chronic flux. Under the excretory organs the entry reports, as the saying of the Khūz, that it breaks up kidney stone, and it is said to dissolve flatulence of the belly. The entry says nothing of the body's innate heat or radical moisture, and gives ebony no status in the conservation of life; its account is of a drying, cleansing eye medicine. **(b) — therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this wood in the sense of the spec. What it gives a reader is a sound example of judging a material by looking, tasting and burning it, and of knowing the usual fakes. Its medical uses are eye and skin remedies with no amounts, so they are history and not a practice.
 

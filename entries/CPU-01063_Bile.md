@@ -1,6 +1,6 @@
 # Bile — Chole Pasa (Gall from various animals) / Cow's, Ox, Bullock's Bile / gi.wam (Animal Bile)
 ## *Gall, the bile held in the gall bladder of an animal (ox, bull, cow, hog, elephant and others as named in the texts)* | *(Volume III — Animal)*
-**Tradition Tags:** EP, DMM, FMT
+**Tradition Tags:** EP, DMM, CM, FMT
 
 ---
 
@@ -47,6 +47,8 @@ Bile acids are the body's own fat-emulsifying agents, which is a general, well-e
 **Egyptian / Ebers (EP).** *(c) Absent.* The Ebers material read records what was done for a complaint, such as a tapeworm, a sore anus or a neck growth, or for the face, with bile as one ingredient. It records nothing about what the substance does to the person's *ka*, *ba*, *akh* or *ib*. The papyrus joins spell and drug in one act (*heka*); Bryan reports no recitation with the bile compounds read above, and since he summarises, that does not show there was none. No deity is attributed. The identity of the Egyptian word behind "Ox Bile" is Bryan's rendering, and the spine row rests on a web source not read. [USER: verify]
 
 **Greek / Dioscorides (DMM).** *(b) Framed; no cultivation status.* Dioscorides has no subtle-body system and none is supplied. What chapter 2-96 offers is a discipline of attention: how to prepare gall (bind, boil, dry in shade), how to store it for eye medicines (honey, glass bottle, thread), and the ranking of the galls by source animal. Nothing in it assigns bile a status beyond the therapeutic.
+
+**Unani / Avicenna (CM).** The *Canon* entry *Marārāt* ranks the biles by strength, ox bile the strongest of the four-footed animals, bird biles stronger than theirs, and the biles of birds of prey the most biting (*Canon* Book II, entry *Marārāt*, Arabic text line 15117). Its temperament is "hot and dry, all of them in the fourth degree" (حارة يابسة كلها في الرابعة), and all are "hot and cleansing" (حارة جلاءة), varying with sex, thirst, hunger and exercise. Wolf bile prevents spasm and tetanus after wounds of the sinew, especially in the cold; bear bile licked is said to help epilepsy (head). For the eye all biles help dimness of sight, and the bile of birds of prey helps early cataract, but only after the body and head are purified; the best are gazelle, partridge and carp. Ox bile with honey is a throat swab for quinsy (chest). Every bile is a laxative, even pig bile applied to the navel (excretory organs); mountain goat's and ox bile are antidotes to the bitten (poisons). The entry is wholly therapeutic, with no appeal to innate heat or radical moisture. **(b) — therapeutic actions attested; no cultivation status.**
 
 **Tibetan / rGyud-bzhi (FMT).** *(b) Framed; no cultivation status.* Bile is one of the thirteen animal medicines of the Explanatory Tantra's materia medica and *gi.wam* is listed among the resins. Both are given by their action on disorders (poisoning, fevers, eye disorders, bleeding, necrosis). The translated passages read name no essence-extraction (*bcud len*) use of any animal substance in lines 1147-1199; the essence-extraction references in Clark's chapter 20 that I found attach to a mineral exudate (*brag.zhun*, "unsurpassed as an essence-extraction substance", line 870) and to plants (for example *ra.mnye*, line 1144). No formal category of substances for subtle-body practice exists in this tradition, and none is asserted.
 

@@ -17,9 +17,13 @@
 
 **Overlap.** A search of the entries folder for *Oxystelma esculentum* and Dugdhika found one entry that mentions the plant: **I_1372** (*Anthericum tuberosum*, Dravanti), which prints the "Oxystelma esculentum" line only as a neighbour in the page count; it has no entry on this plant. **I_1404** (*Leucas linifolia*, Drona-pushpi, this batch) counts the same five lines. Nothing is merged. [USER: verify]
 
+**Botanical note (Flora of China).** The Flora of China (efloras.org, vol. 16) accepts *Oxystelma esculentum* (Linnaeus f.) Smith, listing among its synonyms *Periploca esculenta* L.f., *Asclepias rosea* Roxburgh, *Oxystelma wallichii* Wight and *Sarcostemma esculentum* (L.f.) R. W. Holm. It describes a liana to at least 4 m, glabrous except for the flowers, with linear or linear-lanceolate membranous leaves 6–11 × 0.7–2 cm on petioles 1–1.5 cm long. The inflorescences are longer than the leaves and 2–4-flowered; the corolla is white with purple veins or blotches, 2–3 cm across; the lanceolate follicles are about 5 × 1.5 cm and the ovate seeds, about 2 × 1.5 mm, carry a coma 1.5–2 cm long. It flowers July–September and fruits October–December. Its habitat is moist bushland and stream banks in Guangdong, Guangxi and Yunnan, and it ranges through South and Southeast Asia, north-east Africa and south-west Asia. Pandya and Anand (2011, *Pharm Methods* 2(2):99–105) likewise describe it as a perennial twiner growing in water-logged areas of the Indian sub-continent. This describes the plant only and adds no claim about Sushruta's drug.
+
 ### Active Components
 
 The sources read print no constituent. As a general fact, *Oxystelma* is a genus of twining plants of the milkweed subfamily (Apocynaceae), whose members carry a milky latex. Nothing is stated here about the composition of the drug. [USER: verify]
+
+Published phytochemistry of the plant itself, independent of the Sushruta question, includes: the cardenolide tetraglycoside oxyline, isolated from the dried roots (Srivastava et al. 1991, *Phytochemistry* 30(1):301–303; doi:10.1016/0031-9422(91)84142-f); three polyhydroxypregnane glycosides, alpinosides A–C, from the leaves of *O. esculentum* var. *alpini* (Hamed et al. 2004, *Phytochemistry* 65(7):975–980; doi:10.1016/j.phytochem.2004.01.022); lupeol, isolated from the petroleum-ether extract of the whole plant and estimated at 0.829 ± 0.09% w/w by HPTLC (Pandya and Anand 2011); and quercetin, kaempferol and isorhamnetin glycosides in a flavonoid-enriched fraction (Rawat et al. 2024, *Planta Med* 90(2):96–110; doi:10.1055/a-2192-2138). Oxyline belongs to the cardenolide (cardiac-glycoside) class; that is recorded here as a fact of the plant's chemistry, not as a use.
 
 ### Effect & Use Case in Kenetica
 
@@ -32,6 +36,8 @@ No preparation is given in the chapters retrieved for the name Dugdhika. No dose
 ### Scientific Correlation
 
 No clinical studies were retrieved for this entry. [USER: verify] The identity rests on a positional pairing in a translator's appendix, so no study of *Oxystelma esculentum* would bear directly on any Sushruta statement.
+
+Preclinical work on the plant itself, recorded as science and not as support for any traditional claim: Sherif et al. 2023 (*Front Pharmacol* 14:1326968; doi:10.3389/fphar.2023.1326968) measured an ethanolic extract's total phenolic content (212.6 ± 3.18 µg GAE/g) and total flavonoid content (37.6 ± 1.76 µg QE/g), found by HPLC phenolic compounds including chlorogenic, gallic, caffeic and ferulic acids, and reported 56.66% lipoxygenase inhibition and 67.29% red-blood-cell membrane stability in vitro, with anti-inflammatory, analgesic and antipyretic effects in animal models. Rawat et al. 2024 (doi:10.1055/a-2192-2138) reported that a flavonoid-enriched fraction, given orally to mice with a femoral drill-hole injury, promoted fracture healing and callus formation and stimulated osteogenic and anti-inflammatory genes. Both are animal or in vitro studies; no human trial was retrieved.
 
 ### Traditional Energetic Classification
 

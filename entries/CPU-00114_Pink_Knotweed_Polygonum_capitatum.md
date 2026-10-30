@@ -18,6 +18,8 @@ In the Chinese medical framework Pink knotweed (**Tou Hua Liao** / the patent-dr
 
 The herb is rich in **flavonoids and phenolic acids** (the antioxidant, anti-inflammatory Polygonaceae constituents), consistent with its anti-inflammatory, antimicrobial and diuretic traditional use.
 
+Botanically, the Flora of China (Vol. 5, via efloras.org) treats the plant as *Polygonum capitatum* Buch.-Ham. ex D.Don, a perennial herb with creeping, tufted, much-branched stems that root from the nodes. The ovate or elliptic leaves, 1.5-3 cm long, are sometimes marked with a large blackish spot on the upper surface; the terminal flower heads are 6-10 mm across with a pinkish perianth. It flowers from June to September and fruits from August to October. The Flora records it on mountain slopes and in shaded places in valleys at 600-3500 m, across southern and south-western China (including Sichuan, Guizhou, Yunnan and Xizang) and in Bhutan, northern India, Nepal and Sikkim, among other countries.
+
 ### Active Components
 
 - **Flavonoids (quercetin, quercitrin, and related glycosides)** — antioxidant, anti-inflammatory constituents associated with the urinary anti-inflammatory action. [USER: verify named flavonoids before quoting specifics.]
@@ -44,6 +46,7 @@ Safety framing: used in traditional/clinical urological practice; cautions are t
 ### Scientific Correlation
 
 - **Phytochemistry/urological activity.** *Polygonum capitatum* contains flavonoids and phenolic acids and has been studied (including clinically, as a patent drug) for urinary-tract infection and inflammation. [USER: insert and verify a specific real citation — authors, year, journal.]
+- **Comprehensive review.** Lin Y, He L, Chen X-J, Zhang X, Yan X-L, Tu B, Zeng Z, He M-H (2022), "*Polygonum capitatum*, the Hmong Medicinal Flora: A Comprehensive Review of Its Phytochemical, Pharmacological and Pharmacokinetic Characteristics", *Molecules* 27(19):6407, DOI 10.3390/molecules27196407. Covering the literature to the end of 2022, it reports at least 91 compounds, mainly flavonoids, lignanoids and phenols, and extracts or compounds with reported anti-inflammatory, antioxidant, antimicrobial, anticancer, analgesic, diuretic and other activities; it describes the plant as a folk medicine of south-west China used for urinary tract infections, pyelonephritis and urinary calculus.
 - **Anti-inflammatory/antimicrobial.** The traditional damp-heat-clearing use is consistent with its antioxidant/anti-inflammatory constituents. [USER: verify and insert one specific citation before asserting efficacy.]
 
 Codex policy: chemistry stated generally; named citations to be supplied and verified by the editor. **Do not fabricate authors, journals or years.**

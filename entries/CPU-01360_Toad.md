@@ -1,6 +1,6 @@
 # Toad — Belpa (Men-Tsee-Khang 2011, glossary phonetic); "Frog" (Men-Tsee-Khang common name); Bufo bufo gargarizans Cantor (Men-Tsee-Khang scientific name)
 ## *The animal the project lists as "toad" on the strength of one Latin name in the Men-Tsee-Khang glossary on animals. The English name in that position is "Frog", neither text prints the word "toad", and neither text gives a medicinal use for it* | *(Volume III — Animal)*
-**Tradition Tags:** FMT
+**Tradition Tags:** SBJ, FMT
 
 ---
 
@@ -39,6 +39,8 @@ General, well-established facts only. Many toads secrete skin toxins, including 
 **Tibetan (FMT):** No taste, potency or post-digestive taste is printed for the frog or toad in either text. The meat statements (Clark line 673; MTK line 2923) apply to the nine groups of meats in general. Neither text says which of the burrowing animals are dry-land, wet-land or amphibious, so no class is assigned to this animal.
 
 ### Cultivation Register
+
+**Divine Farmer's Classic (SBJ).** *(b) Framed; no cultivation status.* The Chinese drug 虾蟆 (*xia ma*) is usually identified as the Asiatic toad, Bufo gargarizans, the animal of this entry. The 味 paragraph reads “味辛，寒” (acrid, cold) and says it governs evil qi, breaks hard abdominal masses, and treats blood disorders, swollen abscesses and genital sores. It adds “服之，不患热病” (taking it, one does not suffer heat illness), and says it lives in pools and marshes. The text's preface assigns the lower classic to drugs that treat disease, which are mostly toxic and not for long use. There is no 久服 clause, and the grade itself points away from long use, so no life-nourishing status is promised. The Mingyi and Wu Pu lines that follow are commentary, not Shennong text. (*Shennong bencao jing*, Sun Xingyan ed. 1799, lower classic, entry 虾蟆 *xia ma*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 3829)
 
 **Tibetan / rGyud-bzhi (FMT).** *(c) Absent.* The attestation is a glossary row for an animal that the same glossary calls "Frog", and the texts give no medicinal use for it, so there is nothing for a cultivation frame to attach to. Nothing in the passages read places it in any practice of essence extraction (*bcud len*), and no formal category of substances for subtle-body practice exists in this tradition, so none is asserted. The wider frame is that the three humors are rooted in attachment, hatred and obscuration (Clark line 51), so disease is at root a spiritual condition, and that food, behaviour, medicine and accessory therapy are the four supports of treatment (line 1299), of which medicine is the third. The chapter on routine behaviour asks the practitioner to refrain from the ten negative actions, the first of which is "taking life" (line 616).
 

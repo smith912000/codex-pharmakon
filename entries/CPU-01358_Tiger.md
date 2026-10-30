@@ -1,6 +1,6 @@
 # Tiger — "tiger" (Clark 1995 and Men-Tsee-Khang 2011, as a class of carnivorous animal); Panthera tigris L (Men-Tsee-Khang glossary on animals)
 ## *The tiger as an animal named in the Tibetan Four Tantras: a member of the carnivorous animals in the meat classification, with its bone as a separate medicine. Neither translation prints a Tibetan word for it, and the Men-Tsee-Khang glossary gives the Latin name* Panthera tigris *L* | *(Volume III — Animal)*
-**Tradition Tags:** FMT
+**Tradition Tags:** CM, FMT
 
 ---
 
@@ -37,6 +37,8 @@ General, well-established facts only. The qualities "rough, light and sharp" and
 **Tibetan (FMT):** No taste, potency or post-digestive taste is printed for the tiger alone. For the meats of the animals in the classification, Clark line 673 says that all are "sweet tasting and have a sweet post-digestive taste". For the group of carnivorous animals, MTK line 2931 gives "rough, light and sharp qualities", which "generate" digestive heat, destroy tumors, increase weight and eliminate all cold disorders, as above. Clark gives the same powers for the birds of prey only. The tiger's bone has its own statement in the bone entry.
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* entry *Namir* is two lines. It identifies the animal only as "حيوان معروف" ("a known animal"), with no description, so it does not itself separate the tiger from the other large spotted cats the Arabic word can cover. Under the joint-organs it reports, on the authority of al-Khūzī, "شحمه أعظم دواء للفالج" ("its fat is the greatest medicine for palsy"), and under poisons "مرارته قاتلة من ساعته" ("its gall is deadly at once") (*Canon* Book II, entry *Namir*, Arabic text line 15695). The remedy for palsy is therefore a reported saying, not Avicenna's own finding, and the entry says nothing of temperament or degree, of dose or preparation, or of the head, chest, eye, digestive or excretory organs. It makes no statement about innate heat, radical moisture or the prolonging of life. What the entry holds is one claimed therapeutic use of the fat and one warning about the gall. **(b) — one therapeutic action attested at second hand (fat for palsy), with a poison warning; no cultivation status.**
 
 **Tibetan / rGyud-bzhi (FMT).** *(b) Framed; no cultivation status.* The tiger is named in the Explanatory Tantra as a carnivorous animal in the meat classification (Clark line 672; MTK line 2912) and as the source of a bone medicine (Clark line 1160), and the tiger-simile and the dream-omen appear in the discussion of constitutions and signs of death. None of this is a cultivation status. Nothing in the passages read places the tiger in any practice of essence extraction (*bcud len*), and no formal category of substances for subtle-body practice exists in this tradition, so none is asserted. The wider frame is that the three humors are rooted in attachment, hatred and obscuration (Clark line 51), so disease is at root a spiritual condition, and that food, behaviour, medicine and accessory therapy are the four supports of treatment (line 1299), of which medicine is the third. The chapter on routine behaviour asks the practitioner to refrain from the ten negative actions, the first of which is "taking life" (line 616). The rejuvenation passage (lines 1266-1275) names no animal substance in the lines read.
 

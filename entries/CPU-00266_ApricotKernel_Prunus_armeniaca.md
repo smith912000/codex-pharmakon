@@ -2,7 +2,7 @@
 
 ## *Prunus armeniaca* L. | Family: Rosaceae
 
-**Tradition Tags:** SBJ (Shennong Ben Cao Jing — *xìng rén*, cough/wheeze), AT (Assyrian — apricot/almond-type kernels in cuneiform materia medica)
+**Tradition Tags:** CM, SBJ (Shennong Ben Cao Jing — *xìng rén*, cough/wheeze), AT (Assyrian — apricot/almond-type kernels in cuneiform materia medica)
 
 **Energetic Classification (TCM):** Slightly warm · bitter · slightly toxic (小毒). Enters LUNG and LARGE INTESTINE. Descends Lung qi, stops cough and wheeze; moistens the intestines to unblock stool.
 
@@ -57,6 +57,8 @@ Attribution: findings from PubMed.
 - **Dantian:** upper-dantian respiratory descent, mediated by downward-moving Lung qi.
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* entry *Mishmish* concerns the apricot fruit more than the kernel (*Canon* Book II, entry *Mishmish*, Arabic text line 15428). The fruit is "cold and moist in the second", the best the Armenian, which does not quickly spoil or turn sour; its chyme is quick to putrefy, so mastic and anise should follow it in wine. Of the kernel the entry speaks only in one clause: "the oil of its kernel is hot and dry in the third" (ودهن نواة حار يابس في الثالثة), and under the excretory organs the oil of its kernel "benefits hemorrhoids" (دهن نواه ينفع من البواسير). The fruit's infusion quenches thirst and suits the stomach better than the peach (digestive organs); the fruit begets fevers by quick decay, though the infusion of the dried fruit helps hot fevers. The kernel itself, taken as a cultivation substance, receives no treatment, and the entry places no weight on innate heat or radical moisture. **(b) — therapeutic actions attested; no cultivation status.**
 
 **Assyrian (AT).** No cultivation framing is attested. Assyrian medicine classes illness by causal agency (divine hand, ghost, oath) and was practised by both the *asû* and the *āšipu*, and no source retrieved connects an apricot-type kernel to any such framing. The substance identification is itself uncertain (see the Origin section) and a blocking warning is in force for Assyrian identifications, tablet references and agency attributions, so none is made here.
 

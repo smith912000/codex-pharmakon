@@ -1,7 +1,7 @@
 # Lemna polyrrhiza — Phakos epi ton telmaton (Dioscorides 4-88)
 
 ## *Lemna polyrrhiza (Spirodela polyrrhiza is the translators' second name on the same line); "Greater Duckweed", with Lemna minor, "Water Lentils, Water Lens, Duckweed", printed as a further suggestion* | *(Volume I — Plant-Based)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, SBJ
 
 ---
 
@@ -40,6 +40,8 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 ### Cultivation Register
 
 **Greek — Dioscorides (DMM).** *(b) Framed, not a cultivation status.* Dioscorides has no subtle-body system, and none is manufactured here. This chapter offers only a very small amount of the discipline of attention that the cultivation spec describes for this tradition: where the plant is found (standing waters), what it looks like (a lentil-like moss) and its quality (cooling). It assigns the plant no status beyond that of an external drug. The identification is the translators'. [USER: verify]
+
+**Divine Farmer's Classic (SBJ).** *(a) Attested.* The Chinese drug is 水萍 (*shui ping*, "water duckweed"), identified as *Spirodela polyrhiza*, the plant this entry names as *Lemna polyrrhiza*. Its 味 paragraph reads 味辛，寒, "pungent in flavour, cold", and "governs sudden heat with itching of the body, sends water qi down, overcomes wine, makes beard and hair grow, and relieves wasting thirst" (主暴热身痒，下水气，胜酒，长须发，消渴). Sun Xingyan's glosses note that two Tang compendia write 乌发 ("blacken the hair") in place of 长须发. The life-nourishing clause is brief: 久服，轻身, "taken for a long time: the body is lightened". It gives the alias 水华 (the Yiwen leiju quotes 水廉) and ends 生池泽, "grows in pools and marshes". It stands in the middle classic; the preface says the middle grade is for nourishing the nature, and some of its drugs are toxic. (*Shennong bencao jing*, Sun Xingyan ed. 1799, middle classic, entry 水萍 *shui ping*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 2183).
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is an external remedy for inflammation and gout with no stated amounts. The sources support nothing more, and the abstentive answer is the honest one.
 

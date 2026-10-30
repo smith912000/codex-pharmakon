@@ -1,6 +1,6 @@
 # Jet (gagates) — Gagates Lithos (Γαγάτης λίθος), "Gagate" in the translator's gloss (Dioscorides 5-146)
 ## *A black, light, quickly kindled stone smelling of bitumen; the translator's suggestion is "Gagate — Jet or Agate", two different materials* | *(Volume II — Mineral)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -57,6 +57,8 @@ No clinical studies were retrieved for this entry. [USER: verify] General facts 
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(b) Framed.* Dioscorides has no subtle-body system and none is supplied here. What he offers is a discipline of attention, and this chapter shows it: the best stone is picked by how quickly it kindles, by its smell and by its weight, and the source place is named. He also records amuletic or diagnostic uses, but as report ("They say"), set apart from his own account, which is the pattern the spec describes: recording is not endorsing. The chapter is therapeutic and no cultivation status is assigned to the stone.
+
+**Unani / Avicenna (CM).** The Canon has no entry that names jet. The nearest is a short entry headed *ḥajar yuṭfa' bi'l-zayt*, "the stone that is quenched with oil", and the identification with the Dioscoridean *gagates* rests only on that property (and on the vermin property below), not on a name. Its two lines read: «هذا الحجر يطفأ بالزيت ويستعمل بالماء», "this stone is quenched with oil and used with water", and, under poisons, «يهرب منه الهوام», "vermin flee from it" (*Canon* Book II, entry *ḥajar yuṭfa' bi'l-zayt*, Arabic text line 13447). No temperament is assigned, no degree, no organ heading, no dose and no preparation beyond the oil-and-water note. The entry therefore supports only that the stone was known in the *Canon*'s materia medica as a repellent of vermin. Innate heat and radical moisture are not mentioned, and no conservation-of-life or cultivation claim is made. Anything further about the stone comes from the other traditions in this entry. **(b) — Therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing here for a cultivator to take or burn. What carries over is the habit of testing a material by simple means (fire, smell, weight) and of separating what an author states from what "they say". No dose is given in the sources retrieved. [USER: verify]
 

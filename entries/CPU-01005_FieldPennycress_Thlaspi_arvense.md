@@ -2,7 +2,7 @@
 
 ## *Thlaspi arvense* L. | Family: Brassicaceae
 
-**Tradition Tags:** AT, CM, DMM
+**Tradition Tags:** AT, CM, DMM, SBJ
 **Energetic Classification:** Hot & Dry (2nd degree) — pungent-bitter depurative (Galenic/Unani)
 **Training Phase:** Purification & Clearing
 
@@ -69,6 +69,8 @@ The chemistry underlying the traditional "sharp, scouring" doctrine is well esta
 **Greek — Dioscorides (DMM).** Dioscorides describes *thlaspi* explicitly by its flattened, notched pod and biting seed, and gives it a sharp, heating therapeutic account: taken in quantity it purges bile and phlegm, provokes urine and menses, and crushed is laid on sciatica and inflammatory swellings. Dioscorides carries no subtle-body system in which a cultivation status could be lodged. What the tradition offers a cultivator is his discipline of attention — the etymology *thlaein*, "to crush," is itself the sensory assay: the burn released on crushing the seed is the drug proving itself on the tongue. That is a real practice of recognition and provenance, not a vital-body doctrine. **(c) absent** as to cultivation status.
 
 **Unani — Avicenna (CM).** In the Arabic-Galenic synthesis the *thlaspi*-type cresses are classed *ḥārr yābis* — hot and dry in the second degree — attenuating (*mulaṭṭif*) and deobstruent (*mufattiḥ*), held to thin thick humours, open blockages of the liver and spleen, provoke urine, and resolve cold inflammatory masses by penetrating heat. The strongest cultivation idea in the Unani corpus, the conservation of innate heat and radical moisture, is a longevity frame of the whole regimen rather than a status this tradition assigns to a sharp, drying depurative; no *mufarrih* or cardiac-*ruh* role is attested. Its standing is therapeutic and depurative, not a cultivation grade. **(b) framed:** attested therapeutically, no cultivation status sourced.
+
+**Divine Farmer's Classic (SBJ).** *(a) Attested.* The entry's pennycress is the drug the Classic lists under the head 析子 (the first character is garbled in this text; Sun Xingyan's note equates it with the Erya, Shuowen and Guangya 菥蓂, "large cress", 大荠, and 马辛). Its 味 paragraph reads: "味辛，微温。主明目，目痛泪出，除痹，补五脏，益精光。久服，轻身，不老" — "pungent in flavour, slightly warm; it governs brightening the eyes, painful eyes with streaming tears, removes numbness (bi), supplements the five viscera, and increases the essence and light (of the eyes). Taken long, it lightens the body and one does not age." It stands in the upper classic, the grade the preface assigns to drugs that nourish life, correspond to heaven, are non-toxic and may be taken for a long time. The 久服 clause promises 轻身 and 不老, so the status is attested in the Classic's own words. The Mingyi bielu, not the Classic, adds the alias 大荠 and the habitat Xianyang. (*Shennong bencao jing*, Sun Xingyan ed. 1799, upper classic, entry 析子 *xizi*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 587)
 
 **Practitioner's note.** Pennycress is a scouring agent, not a tonic — a sharp seed worked short-term to cut phlegm, open obstruction, and provoke urine, with a topical counter-irritant use for swellings. Across the three tagged traditions it carries no status a cultivator takes to build or conserve vitality, and its cautions (mucosal irritation, heavy-metal accumulation from contaminated ground) reinforce short, defined use over habitual intake. Kenetica keeps it as a didactic glucosinolate-signature plant: learn the crush-to-activate chemistry from it, do not adopt it as a long-term substance.
 

@@ -1,6 +1,6 @@
 # Land hare — Lagoos chersaios (Dioscorides 2-21)
 ## *The hare of the land, as against the sea hare of the preceding chapter; the translation glosses it "Lepus timidus — Hare" and the chapter treats its brain, head, "curds" and blood as medicines* | *(Volume III — Animal)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -17,6 +17,9 @@ Four parts of the animal are used: the brain, the head, the "curds" and the bloo
 **A separate chapter that is relevant.** The rennet chapter 2-85 *Pitua* (line 5289) gives "Thirty grains of rennet of hare (taken in a drink of wine)" for venomous bites, coeliac complaints, dysentery, excessive womb discharges, clotting blood and throwing blood up out of the chest, and says that applied to the vulva with butter after the monthly cleansing it "causes inconception" (line 5291). That chapter is about rennet, and the text does not say that the "curds" of 2-21 and the "rennet" of 2-85 are the same material. It is cited here only because it contains the one dose in the sources for any hare product. It cannot be read as the dose for the products of 2-21. [USER: verify]
 
 ---
+
+
+**Avicenna (CM).** The entry (Book II, entry *arnab barrī*, Arabic text line 10580) is arranged by purpose. It begins with the rennet (*anfaḥa*): "the rennet of the wild one does all that is mentioned in the chapter on rennet, finer and better, and it has extra actions" (line 10581). Under cosmetics: "its blood cleans away freckles (*kalaf*), and the ash of its head is a good drug for alopecia (*dāʾ al-thaʿlab*), especially the sea [kind]"; and "if the belly of the rabbit is taken as it is with its entrails, and burnt a little on a frying-pan, it is a drug that grows hair on the head when ground and used with rose oil" (lines 10582-10584). He then quotes Dioscorides on the sea kind, which, applied alone or with nettle, shaves the hair (lines 10584-10585). Under the joints: "its brain, roasted, benefits the tremor that follows illness" (line 10586).
 
 ### Active Components
 
@@ -51,6 +54,8 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(c) Absent.* Dioscorides has no subtle-body system and none is supplied. The chapter is a list of therapeutic uses for four parts of the animal. What the herbal offers a cultivator is a discipline of attention (provenance, season of gathering, sensory assay, adulteration detection), and this chapter does not give it: it does not say how the animal is to be taken, from where, or how to test the product. No cultivation status is attested, and the note that the sterility effect is "reported" shows the author recording a claim at a distance, not endorsing it.
+
+**Unani / Avicenna (CM).** *(c) Absent.* The entry is an animal pharmacopoeia of rennet, blood, ash, belly and brain for the hair, teeth, tremor, epilepsy, womb, bowel and poisons. It says nothing of the innate heat, the radical moisture or the *ruh*, and it does not frame the rabbit as a source of vital strength.
 
 **Practitioner's note.** Nothing. The chapter is a record of what was reported of the hare's brain, head, "curds" and blood; there is no instruction a cultivator can follow and no dose for any of these parts. No dose is given in the sources retrieved. [USER: verify]
 

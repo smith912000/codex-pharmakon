@@ -1,7 +1,7 @@
 # Euphorbia helioscopia — Dhurji, dur byid (rGyud-bzhi, Men-Tsee-Khang glossary, by column position)
 
 ## *Euphorbia helioscopia, as the binomial printed with the English "Sun spurge" in the scientific-name run of the Men-Tsee-Khang 2011 glossary's "D" block; the Tibetan name "Dhurji" is set against it by column position only, and Clark 1995 prints a different set of Euphorbia names for dur.byid* | *(Volume I — Plant-Based)*
-**Tradition Tags:** FMT
+**Tradition Tags:** SBJ, FMT
 
 ---
 
@@ -40,6 +40,8 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 - **FMT:** No taste, power or post-digestive taste is printed for Dhurji in the lines read. The name does not appear in the Men-Tsee-Khang taste-group lists of chapter 19 (which begin at line 3204) that were read for this entry. Clark's *thar.nu* line (1134) next to *dur.byid* prints "Euphorbia has hot taste" in its commentary layer, but that sentence belongs to the *thar.nu* entry and is not read as a taste for Dhurji. The one quality printed for Dhurji is its action, purging "hot and cold disorders" (line 3495).
 
 ### Cultivation Register
+
+**Divine Farmer's Classic (SBJ).** *(b) Framed; no cultivation status.* The paragraph for 泽漆 (zeqi) reads 味苦，微寒 ("bitter, slightly cold"). The classic files it in the lower grade (下品); its preface says lower-grade drugs treat disease, are toxic, and are not for long use. It governs "heat in the skin" (主皮肤热), a swollen belly and "water qi" (大腹、水气), swelling of the limbs and face and eyes (四肢面目浮肿), and "insufficient yin qi in a man" (丈夫阴气不足), and gives the habitat 生川泽 ("grows in streams and marshes"). There is no 久服 ("taken long") clause. The Mingyi bielu, not the Shennong text, adds the alias 漆茎 and says it is the seedling of 大戟 (*dagi*); Sun Xingyan's note then cites the *Guangya*. The paragraph is a list of swellings and water complaints with no status for the person, so the register is (b). (*Shennong bencao jing*, Sun Xingyan ed. 1799, lower classic, entry 泽漆 *zeqi*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 3331)
 
 **Tibetan — rGyud-bzhi (FMT).** *(b) Framed, not a cultivation status.* The Men-Tsee-Khang text places Dhurji in its list of the efficacy of medicinal substances and in its group of purgatives, and Clark's neighbouring lines say the same in kind. The cultivation spec records that in this tradition medicine is the third of four treatment branches, supporting practice without reaching its root, and that no formal category of substances for subtle-body practice exists. No line read for this name places it in *bcud len* (essence extraction) or any practice: the sentences cited above were read in full and none mentions one. Its framing is therapeutic only, and the link from this binomial to that framing rests on a column position.
 

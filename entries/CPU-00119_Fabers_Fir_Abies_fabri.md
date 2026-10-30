@@ -17,6 +17,8 @@ The fir's medicinal identity is the coniferous one shared with pine, juniper and
 
 The activity rests on the **monoterpene-rich essential oil** (the pinenes, limonene, bornyl acetate and relatives) and the **diterpene resin acids** of the balsam — the standard, real chemistry of the medicinal conifers.
 
+Botanically, the Flora of China (Vol. 4, via efloras.org; Chinese name 冷杉) describes *Abies fabri* as a tree to 40 m tall with a trunk to 1 m in diameter, grey or dark grey flaking bark and resinous winter buds. Its linear leaves are 1.5-3 cm long, with two marginal resin canals and two white stomatal bands beneath; the seed cones are 6-11 cm long. Pollination is in May and the seed matures in October. The Flora gives its range as mountains and river basins at 1500-4000 m in Sichuan, and notes that the bark is used for producing resin and the leaves for "dry oil".
+
 ### Active Components
 
 - **Essential oil — monoterpenes (α- and β-pinene, limonene, camphene) and bornyl acetate** — the aromatic, expectorant, antiseptic and rubefacient constituents of the needle/twig oil; bornyl acetate gives firs their characteristic balsamic note. [USER: verify proportions before quoting figures.]

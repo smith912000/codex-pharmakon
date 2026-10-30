@@ -2,7 +2,7 @@
 
 ## *Cinnamomum tamala* (Buch.-Ham.) T.Nees & Eberm. | Family: Lauraceae
 
-**Tradition Tags:** SS (Suśruta Saṃhitā) · Ayurvedic classical materia medica · the **Patra** (leaf) member of the **Tvak–Elā–Patra (Trijāta) aromatic triad**
+**Tradition Tags:** CM, SS (Suśruta Saṃhitā) · Ayurvedic classical materia medica · the **Patra** (leaf) member of the **Tvak–Elā–Patra (Trijāta) aromatic triad**
 
 **Energetic Classification (Ayurvedic):** Rasa (taste): Kaṭu (pungent), Tikta (bitter), Madhura (sweet) · Vīrya (potency): Uṣṇa (warming) · Vipāka (post-digestive): Kaṭu (pungent) · Guṇa (qualities): Laghu (light), Rūkṣa (dry), Tīkṣṇa (sharp) · Doṣa action: Kapha-Vāta-śāmaka (pacifies Kapha and Vāta); mildly increases Pitta.
 
@@ -69,6 +69,8 @@ According to PubMed:
 - **Karma (actions):** *Dīpana-pācana* (kindles/completes digestion), *kaphaghna* (anti-Kapha, expectorant), *hṛdya* (cardiotonic tendency), *rocana* (appetising), aromatic *yogavāhī*-like harmonising/carrier action in compounds.
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* entry *Sādhaj* describes a leaf of India that floats on the surface of marshy water, close in power to spikenard (*sunbul*) but softer, and warns, after Dioscorides, that some wrongly take it for the leaf of Indian nard (*Canon* Book II, entry *Sādhaj*, Arabic text line 15755). The best is fresh, whitish, not crumbling, with a strong nard-like smell. Its temperament is "hot and dry in the second" (حار يابس في الثانية). Placed among clothes it is said to protect them from moth. In cosmetics, held under the tongue it sweetens the breath and prevents ulceration. Boiled in rose water, crushed and applied, it is "a good medicine for hot swellings"; it is sound for hot swellings of the eye; and it is a stronger diuretic than nard (excretory organs). Its substitute, by weight, is *ṭālīsfar* or *sunbul*. The entry puts it among the warming, drying aromatics and says nothing of innate heat, radical moisture or prolonging life. **(b) — therapeutic actions attested; no cultivation status.**
 
 **Sushruta / Ayurveda (SS).** No rasayana or vajikarana assignment for tejapatra was found in the Sushruta Samhita. The bare name Patra is listed among the drugs of the Eladi group in Sutrasthana ch. 38 (Bhishagratna tr., Vol. I), a group the text describes by its action on Vayu and by therapeutic uses; the identification of that Patra with this leaf is the translator's and later commentators'. The name Tejapatra itself appears as one ingredient of the Gandha-taila, an oil prescribed for fracture patients (Chikitsasthana ch. 3, Vol. II). Both are therapeutic attestations. The status is (b): framed by a gana and a formula, cultivation status unattested.
 

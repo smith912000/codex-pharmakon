@@ -1,6 +1,6 @@
 # Sea hare — *Lagoos thalassios* (Dioscorides, De Materia Medica 2-20)
 ## *"Aplysia depilans — Sea Hare", the translator's identification; the text says it "is similar to the little cuttlefish"* | *(Volume III — Animal)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -39,6 +39,8 @@ No clinical studies were retrieved for this entry. [USER: verify] The general fa
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(c) Absent.* Dioscorides has no subtle-body system and none is supplied here. Chapter 2-20 is two sentences, a likeness and a depilatory use. Elsewhere the work treats the sea hare as a poison and gives antidotes, which is a warning, not a cultivation status. The chapter records no provenance, season or assay such as makes the discipline-of-attention frame useful elsewhere in the work.
+
+**Unani / Avicenna (CM).** The *Canon* has an entry for the sea hare, *arnab bahri* (*Canon* Book II, entry *arnab bahri*, Arabic text line 10729), and it is short. It states no temperament for the animal as a whole, only that its blood is hot ("دمه حار", "its blood is hot"). Cosmetic: the blood clears freckles (*kalaf*) and white skin patches (*bahaq*); the head, burnt, makes hair grow in alopecia (*da' al-tha'lab*), especially with bear fat and viper fat, while applied raw as a poultice it removes hair. Eye: it cleanses the sight as a poultice and a collyrium ("يجلو البصر ضمادا وكحلا"). Poisons: "يعد في الأدوية السمية يقتل بتقريح الرئة" ("it is counted among the poisonous drugs; it kills by ulcerating the lung"). The entry says nothing about innate heat, radical moisture, or any benefit to the length of life, so that frame is not applied. **(b) — cosmetic, eye and poison-class actions attested; no cultivation status.**
 
 **Practitioner's note.** There is nothing in the source for a cultivator to use. The material's two roles in Dioscorides are a hair remover and a poison, and a hair remover that is also a recorded poison is a reason for abstention. What the work does model is the cross-reference habit: the sea hare is cited by chapter number wherever a remedy for its poison is given, which is a way of keeping a hazard in view.
 

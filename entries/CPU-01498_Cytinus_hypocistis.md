@@ -1,7 +1,7 @@
 # Cytinus hypocistis — Upokustis, Upokistis etera (Dioscorides 1-127)
 
 ## *Cytinus hypocistis (the translators' suggestion; "Hypocistis"), a parasitic plant that Dioscorides says grows around the roots of the cistus* | *(Volume I — Plant-Based)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -40,6 +40,8 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 ### Cultivation Register
 
 **Greek — Dioscorides (DMM).** *(b) Framed, not a cultivation status.* Dioscorides has no subtle-body system, and none is manufactured here. The chapter's offer to a cultivator is the discipline of attention: knowing where the thing grows (round the roots of the cistus), how its colours vary (yellow, green, white), how it is turned into a drug (juiced, or dried, broken, steeped and boiled), and how strong it is judged against a known standard (acacia, but more astringent and drying). It assigns the plant no status. The identification is the translators'. [USER: verify]
+
+**Unani / Avicenna (CM).** The *Canon* has a brief entry headed with the Greek name in Arabic letters, *hiyufistidas*, which it defines as the sap of a plant called goat's beard (*lihyat al-tays*) (*Canon* Book II, entry *hiyufistidas*, Arabic text line 12310). It says it will treat the plant itself under the letter lam, in its entry on goat's beard. The identification with *Cytinus hypocistis* rests on the Greek name and on this file; the entry gives no binomial. The whole of its teaching is the temperament: "وعصارته باردة قابضة" ("its sap is cold and astringent"), and "بارد إلى اليبس" ("cold, tending to dryness"). No degree, organ heading or dose is given in this entry. No innate heat, radical moisture or cultivation status is mentioned. **(b) — a temperament and an astringent quality attested, with no organ-by-organ actions; no cultivation status.**
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is an astringent remedy for bowel, bleeding and discharge complaints, with no amounts, so it is history and not a practice. What it teaches is how Dioscorides ranks a drug by comparison with another one, its strength set against acacia's.
 

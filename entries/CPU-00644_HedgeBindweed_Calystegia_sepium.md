@@ -4,7 +4,7 @@
 
 **Also known as:** Bearbind, Devil's Guts, Rutland Beauty, Old Man's Nightcap, Great Bindweed, Wild Morning Glory, Hedge Lily, Withywind
 
-**Tradition Tags:** DMM, CM
+**Tradition Tags:** DMM, CM, SBJ
 
 **Energetic Classification:** Cold, Dry, Downward-Moving, Draining (per the classical purgative reading — see *Traditional Energetic Classification*)
 
@@ -127,6 +127,8 @@ Graded honestly, including the nulls. The nulls here are the most informative pa
 **Dioscorides / classical Greco-Roman (DMM).** Dioscorides has no subtle-body system, and none is claimed. The only locus read is *smilax leia*, De materia medica 4-145 (Osbaldeston & Wood 2000), which the translation's suggested identifications link to *Calystegia sepium* through later herbalists (Brunfels, Linnaeus); the equation is a later hypothesis, not Dioscorides's own. The chapter describes a twining plant without prickles, and says thirty grains of its seed drunk with dorycnium cause many troublesome dreams. It records an effect and gives no purgative use, grade or cultivation status. Status (b): framed as a recorded effect, status unattested. What it offers a practitioner is the discipline of identification and assay.
 
 **Avicenna / Unani (CM).** No cultivation framing is attested. The entry's own sourced content supplies no Unani drug name or locus for hedge bindweed, and no scholarly source was retrieved placing it in Unani practice. Unani cultivation ideas (innate heat, radical moisture, the *ruh*) are not applied to a plant with no attestation. The tag is unconfirmed.
+
+**Divine Farmer's Classic (SBJ).** *(a) Attested.* The Classic lists hedge bindweed under 旋花 (written 旋华 in this text). Sun Xingyan cites Tao Hongjing's local names "mountain ginger" (山姜) and "beautiful herb" (美草), and the Bencao yanyi's 鼓子花, which point to a bindweed; the Chinese material may be the variety *japonica* of *C. sepium*. The 味 paragraph reads: "味甘，温。主益气，去面黑，色媚好。其根味辛。主腹中寒热邪气，利小便。久服，不饥、轻身" — "sweet in flavour, warm; it governs boosting qi, removes dark colour from the face, and makes the complexion fair and pleasing. Its root is pungent in flavour and governs cold and heat evil qi in the belly and promotes urination. Taken long, one is not hungry and the body is light." It stands in the upper classic, the grade the preface assigns to drugs that nourish life, correspond to heaven, are non-toxic and may be taken for a long time. The 久服 clause promises 不饥 and 轻身, so the status is attested in the Classic's own words. The Mingyi bielu, not the Classic, adds that it grows in Yuzhou and is gathered in the fifth month. (*Shennong bencao jing*, Sun Xingyan ed. 1799, upper classic, entry 旋花 *xuanhua*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 901)
 
 **Practitioner's note.** Nothing. The entry is a non-training, doctrinal-lineage record, and the plant is a drastic purgative the entry advises against using.
 

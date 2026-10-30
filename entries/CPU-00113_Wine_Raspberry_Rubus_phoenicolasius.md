@@ -14,6 +14,8 @@
 
 Wine raspberry is an East Asian bramble (a *Rubus* species, the genus of raspberries and blackberries) bearing red, juicy, slightly tart fruit. It belongs to the group of *Rubus* fruits used in Chinese Medicine as **Fu Pen Zi** (覆盆子) — "overturned bowl fruit," named for the shape of the unripe aggregate fruit. (The official Fu Pen Zi is usually *Rubus chingii*; related *Rubus* species including this one share the type's astringent-tonic use.) The unripe-to-just-ripe fruit is gathered and dried for medicine; the ripe fruit is eaten as food.
 
+Botanically, the Flora of China (efloras.org) treats *Rubus phoenicolasius* Maximowicz (Chinese name duo xian xuan gou zi) as a shrub 1–3 m tall whose branches, upright at first and finally scrambling, are densely pubescent with reddish brown bristles, stalked glands and sparse prickles. The leaves are usually 3-foliolate, with ovate to rhombic leaflets 4–8(–10) × 2–5(–7) cm, densely gray tomentose beneath. The flowers have purplish red petals; the subglobose aggregate fruit is orange or red, about 1 cm across. It flowers in May–June and fruits in July–August (2n = 14). The Flora lists it from roadsides and montane valleys at low to medium elevations in Gansu, Henan, Hubei, Qinghai, Shaanxi, Shandong, Shanxi and Sichuan, and in Japan and Korea, and notes that it is naturalized in Europe and North America. In the eastern United States it is a recognised invasive shrub: Miller et al. 2020 (*Ecological Applications* 31(2):e02239; doi:10.1002/eap.2239) found wineberry among the invasive shrubs that increased across multiple national parks, and Shen et al. 2016 (*PLoS ONE* 11(3):e0151825; doi:10.1371/journal.pone.0151825) reported lower wineberry abundance inside a long-term deer exclosure in a Virginia forest, indicating that chronic high deer density favours its spread.
+
 In Chinese Medicine Fu Pen Zi is a **kidney-tonifying astringent** — sweet-sour, warm, it "secures the essence and restrains urine," used for the patterns of kidney deficiency with failure to consolidate: nocturnal emission and spermatorrhoea, frequent or excessive urination and enuresis (bed-wetting), and as a supportive tonic for fertility and for "brightening the eyes." Its character combines a gentle warming kidney tonification with an astringent, consolidating action — the classic profile of the "stabilise and bind" tonic-astringents. The fruit is also nutritive and antioxidant-rich, as all the *Rubus* berries are.
 
 The astringency and tonic action derive from the berry's **tannins, organic acids and flavonoids/anthocyanins**, the antioxidant pigments shared across the raspberry group.
@@ -24,6 +26,7 @@ The astringency and tonic action derive from the berry's **tannins, organic acid
 - **Flavonoids and anthocyanins** — antioxidant pigments of the berry (the raspberry-group polyphenols).
 - **Vitamin C and minerals** — nutritive constituents of the fruit.
 - **Triterpenes (in some Rubus)** — minor constituents. [USER: verify for this species.]
+- **Pregnane glycoside and other whole-plant isolates.** Liu et al. 2014 (*Nat Prod Res* 28(21):1843–1846; doi:10.1080/14786419.2014.950576) isolated from the whole-plant ethanol extract a new pregnane glycoside, 3-O-β-glucopyranosyl-3β,15β-dihydroxypregn-5-en-20-one, together with nine known compounds, all reported from this plant for the first time. This is a whole-plant extract study, not an analysis of the dried fruit used in the Fu Pen Zi tradition.
 
 ### Effect & Use Case in Kenetica
 
@@ -45,6 +48,9 @@ Safety framing: a gentle, food-related tonic-astringent; main caution is the CM 
 
 - **Rubus polyphenol chemistry.** *Rubus* fruits including the Fu Pen Zi group are rich in ellagitannins, flavonoids and anthocyanins with documented antioxidant activity. [USER: insert and verify a specific real citation — authors, year, journal.]
 - **Kidney-tonic/astringent use.** The traditional "secure essence/restrain urine" use is studied for the Fu Pen Zi group. [USER: verify and insert one specific citation before asserting efficacy.]
+
+- **Antiproliferative screen (in vitro).** In the Liu et al. 2014 study (doi:10.1080/14786419.2014.950576), the new pregnane glycoside was active against MCF-7 and NCI-H460 tumour cell lines, with IC50 values of 15.6 and 13.5 µM respectively. This is a cell-culture result on an isolated compound and does not bear on the traditional kidney-astringent use.
+- **Plastid genome.** Zhang et al. 2021 (*Mitochondrial DNA B* 6(3):886–887; doi:10.1080/23802359.2021.1886013) reported the complete chloroplast genome of *R. phoenicolasius*: 155,144 bp, 37.9% GC, with 130 predicted genes (84 protein-coding, 37 tRNA, 8 rRNA and 1 pseudogene). This helps with authentication of the species, a live issue given that several *Rubus* species are traded under the Fu Pen Zi name.
 
 Codex policy: chemistry stated generally; named citations to be supplied and verified by the editor. **Do not fabricate authors, journals or years.**
 

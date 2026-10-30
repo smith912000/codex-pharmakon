@@ -1,6 +1,6 @@
 # Milk — shizbu (project Assyrian list) / Fresh Milk, Cow's Milk, Ass's Milk, Man's Milk, Milk-of-a-Woman-who-has-borne-a-Son (Bryan 1930, Ebers)
 ## *Milk of domestic animals and of women, as a drug and as a vehicle for other drugs; the project's Assyrian list gives "Bovine / goat milk" and no cuneiform text on disk can be searched for it* | *(Volume III — Animal)*
-**Tradition Tags:** EP, AT
+**Tradition Tags:** EP, AT, CM
 
 ---
 
@@ -32,6 +32,8 @@ Milk is a food; its nutritional composition is well established. Unpasteurised m
 - AT: none read.
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* gives milk a long entry (*Canon* Book II, entry *laban*, Arabic text line 14723). Milk is made of three substances, watery, cheesy and fatty; the best is a woman's, drunk from the udder, and the watery part is hot while the buttery part is near balance, and sour milk is "بارد يابس" ("cold and dry"). Action: milk "يعدل الكيموسات ويقوي البدن" ("balances the humours and strengthens the body"). Digestive organs: it gives good chyme, is nourishing, quickly digested since made from fully digested blood, but harmful to phlegmatic constitutions and best for the hot-dry. It also benefits the old by moistening and removing their itch, helped by honey. Chest: goat's and ass's milk for cough, consumption and spitting of blood. Excretory organs: it breeds stone and "يقوي على الباه" ("strengthens sexual power"). It is bad for the nerves and teeth, though goat's milk helps catarrh of the head. Poisons: milk is an antidote to deadly drugs. The entry does not use innate heat or radical moisture and assigns no life-prolonging status. **(b) — nutritive and therapeutic actions attested; no cultivation status.**
 
 **Egyptian / Ebers (EP).** *(b) Framed within *heka*; no cultivation status attested.* The Ebers material is indication-organised: it records what was done for a complaint, not what a substance does to the person's *ka*, *ba*, *akh* or *ib*. *Heka* attaches to this substance in two places that were read: the burn incantation ending "To be spoken over Milk-of-a-Woman-who-has-Borne-a-Son" (lines 2289-2314, two incantations) and the coryza charm in which the milk is "thy drink" (lines 3090-3106). Spell and drug are components of one intervention; leaving out the recitation would lose half the prescription. No deity attribution is made here beyond what the printed lines show, and the Bryan English names the god in the burn incantation as Horus ("O son, Horus!"). That is a therapeutic and ritual use, not a cultivation claim.
 

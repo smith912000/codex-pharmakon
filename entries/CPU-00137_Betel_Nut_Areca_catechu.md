@@ -2,7 +2,7 @@
 
 ## *Areca catechu* L. — the stimulant palm-seed of half the world's chewers, anthelmintic in the clinic and carcinogen in the cheek
 
-**Tradition Tags:** SS, FMT
+**Tradition Tags:** CM, SS, FMT
 **Tags (previous line, retained for reference):** SS (Ayurveda — Puga / Kramuka) · SBJ (Chinese Medicine — Bing Lang, *Bencao Gangmu*) · CM (Unani — Fufal / Supari) · BM-analogue/Folk (Pan-Asian and Pacific chewing complex)
 **Energetic Classification (TCM):** ◉ Qi — a downward-draining, qi-moving, parasite-expelling agent
 **Training Phase:** [SPECIALIST ONLY] — habitual chewing is a recognised human carcinogen; honest toxicity below
@@ -66,6 +66,8 @@ Codex policy: the Group 1 carcinogen status and arecoline's cholinergic mechanis
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — a strongly downward-draining, parasite-clearing, qi-moving agent of the digestive/eliminative axis. Its place in the volume is as the cautionary archetype of a genuinely active drug whose everyday social over-use is itself the toxicology lesson.
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* entry *Fawfal* (areca) describes the fruit of a plant of India, shaped like nutmeg (*jawz būwā*) but red and very hard to break, whose broken parts crumble and smell sweet. The people of India take it for a pleasant breath, and it reddens the teeth; its strength is near that of sandalwood. Its temperament is "بارد في الثالثة يابس فيها" ("cold in the third degree, dry in it") (*Canon* Book II, entry *Fawfal*, Arabic text line 16850). Its action is "مبرد بقوة قابض" ("strongly cooling and astringent"). Under swellings it is good for hot, thick swellings. Under the eye organs it suits one whose eye is inflamed and, applied as a poultice, it keeps humours from the lids. The entry names no head, chest, digestive, excretory or poison use, does not mention the betel quid, and says nothing of innate heat, radical moisture or prolonging life. The Unani picture of areca is therefore a cold, dry astringent for hot swellings and the eye, set against the Indian chewing use he reports. **(b) — therapeutic actions attested (hot swellings, inflamed eye); no cultivation status.**
 
 **Ayurveda (SS).** In Ayurveda the seed is *Puga* (or *Kramuka*), and its home is the *tambula* — the post-meal betel quid — where it functions as an astringent (*kashaya*) for the mouth and gums, a digestive and breath-sweetener, and a *krimighna* (vermifuge). This is dietetic and therapeutic placement, worked on the *dhatus* through the mouth and gut, not a rejuvenative one: no *rasayana* (rejuvenation) or *vajikarana* (generative vitality) assignment for *Areca catechu* is recorded in the sources retrieved, and none should be inferred from its everyday domestic ubiquity — *tambula* is a custom of the household and the guest-offering, not a discipline for building *ojas*. Its standing is therefore that of a daily astringent-dietetic and an anthelmintic, with a real toxicity that the classical astringent framing does not register. Cultivation status: **(b) framed** — claimed by the tradition, no rejuvenative status attested.
 

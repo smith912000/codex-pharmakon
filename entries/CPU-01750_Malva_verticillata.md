@@ -1,7 +1,7 @@
 # Malva verticillata — lcham.pa, Champa, nyi.dgah (rGyud-bzhi)
 
 ## *Malva verticillata Linn, the first binomial Clark 1995 prints for lcham.pa, after the English "a type of Mallow" and before Dalbergia lanceolaria; the Men-Tsee-Khang 2011 glossary prints Malva botka, not this binomial, against Champa* | *(Volume I — Plant-Based)*
-**Tradition Tags:** FMT
+**Tradition Tags:** SBJ, FMT
 
 ---
 
@@ -48,6 +48,8 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 - **FMT:** Clark's commentary (line 1092) prints "sweet and astringent tastes". No power and no post-digestive taste is printed. Men-Tsee-Khang prints no taste or power for "Champa" in the lines read; the cooked vegetable is said to "generate heat" (line 3046). The actions printed are curing urinary retention and diarrhea, and thirst (Clark, root-text layer), with kidney fever, wound pus, nocturnal emission, consumption and anorexia in the commentary; and, in chapter 21, a place among oedema medicines.
 
 ### Cultivation Register
+
+**Divine Farmer's Classic (SBJ).** *(a) Attested.* The paragraph for 冬葵子 (winter mallow seed) reads 味甘，寒 ("sweet, cold"). The classic files it in the upper grade (上品); its preface says upper-grade drugs nourish life, correspond to heaven, are non-toxic, and may be taken for a long time. It governs cold and heat in the five zang and six fu organs, wasting and thinness, and the five forms of strangury (主五脏六腑寒热、羸瘦、五癃), and "frees the urine" (利小便). Its own 久服 clause reads 久服，坚骨、长肌肉、轻 ("taken long: firm the bones, grow the flesh, lighten..."). The transcription breaks off after 轻 ("lighten"), so the clause is cut and its end is not on the page. The visible clause is a long-use promise attached to the upper-grade seed, so the register is (a). The Mingyi bielu, not the Shennong text, adds that it grows on Mount Shaoshi and is gathered in the twelfth month. (*Shennong bencao jing*, Sun Xingyan ed. 1799, upper classic, entry 冬葵子 *dongkuizi*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 1625)
 
 **Tibetan — rGyud-bzhi (FMT).** *(b) Framed, not a cultivation status.* The Quintessence Tantra's materia medica gives this drug by what it does: it cures urinary retention, diarrhea and thirst, and its commentary gives the root for consumption and anorexia. The cultivation spec records that in this tradition medicine is the third of four treatment branches, supporting practice without reaching its root, and that no formal category of substances for subtle-body practice exists. A search of both Tibetan texts for the drug's names found it only in the lines cited above, the glossary and the indexes, and not in the rejuvenation chapter (chapter 23 in both editions); "consumption" in Clark's commentary is a disease name and not a practice, and no line read places the drug in *bcud len* (essence extraction) or any practice. Its framing is therapeutic only, and it attaches to the Tibetan name, not securely to this binomial.
 

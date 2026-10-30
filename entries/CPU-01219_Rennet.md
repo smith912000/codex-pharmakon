@@ -1,6 +1,6 @@
 # Rennet — *Pitua* (Dioscorides, *De Materia Medica* 2-85)
 ## *The coagulating substance taken from the stomach of a young animal; Dioscorides lists the rennets of the hare, horse, lamb, kid, fawn, doe, stag, deer, calf, wild ox and sea calf (seal)* | *(Volume III — Animal)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -35,6 +35,8 @@ Chymosin is the well-established enzyme of calf rennet, and animal rennet is use
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(b) Framed; no cultivation status.* Dioscorides has no subtle-body system, and none is supplied here. What he offers a cultivator is a discipline of attention: provenance, season of gathering, sensory assay, detection of adulteration. This chapter shows more of that than most animal chapters. It names the age and condition of the animal for the seal's rennet ("taken from the young ones when not yet able to swim together (with the old)"), and it gives an assay for the authentic seal's rennet: put water on the rennet of another creature, "especially of a lamb", leave it a little, then pour that water on the seal's rennet; "if it is authentic it immediately melts into the water, and if it is not it remains as it was" (line 5291). That is a test by observation, aimed at a substitute. Its status is therapeutic, and the discipline of provenance and assay is the part a practitioner can learn. The text gives no cultivation grade, no endorsement beyond treatment and no nourishing-life use.
+
+**Unani / Avicenna (CM).** The *Canon* treats rennet as a family of substances, each to be named under its own animal: "the rennets are many" (الأنافح كثيرة), with the hare's rennet called the best of the kind (*Canon* Book II, entry *Anfaḥa*, Arabic text line 10169). The entry states no temperament, but it says rennet "dissolves everything congealed, whether blood, curdled milk or thick humour, and congeals everything melted" (تحلل كل جامد ... وتجمد كل ذائب), cuts and attenuates, stops every flux and every bleeding of women, and "without doubt" also dries. By organ, drunk it serves epilepsy (head); it dissolves clotted blood in the lung (chest); with vinegar it dissolves curdled milk and clotted blood in the stomach, yet "they are bad for the stomach" (وهي رديئة للمعدة) (digestive organs). As a pessary after purification it helps conception, before purification it prevents it, and it helps uterine suffocation and, in the foal's rennet, intestinal ulcers (excretory organs). All rennets are antidotal (بادزهرية), the kid's, fawn's, young camel's and lamb's best against hemlock (poisons). The account is wholly therapeutic and antidotal; it makes no appeal to innate heat or radical moisture and gives rennet no life-prolonging status. **(b) — therapeutic and antidotal actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing here supports a cultivation use. What a cultivator can take from the chapter is its method, naming the source animal and testing a costly or substitutable material before trusting it. The contraceptive and abortifacient uses are a record of what was done and a reason for caution, not a regimen, and the aconite antidote is a claim never to act on.
 

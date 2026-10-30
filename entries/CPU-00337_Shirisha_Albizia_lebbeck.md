@@ -2,7 +2,7 @@
 
 ## *Albizia lebbeck* (L.) Benth. | Family: Fabaceae (Leguminosae; subfamily Mimosoideae)
 
-**Tradition Tags:** SS (Suśruta Saṃhitā), CS (Caraka Saṃhitā), AH (Aṣṭāṅga Hṛdaya), Nighaṇṭus (Bhāvaprakāśa, Dhanvantari)
+**Tradition Tags:** SBJ, SS (Suśruta Saṃhitā), CS (Caraka Saṃhitā), AH (Aṣṭāṅga Hṛdaya), Nighaṇṭus (Bhāvaprakāśa, Dhanvantari)
 **Energetic Classification (Ayurvedic):** Rasa — Tikta (bitter), Kaṣāya (astringent), Madhura (sweet, secondary) · Vīrya — Anuṣṇaśīta / mildly cooling · Vipāka — Kaṭu (pungent) · Guṇa — Laghu (light), Rūkṣa (dry) · Tridoṣaghna with a marked action on Kapha–Pitta; the classical **Viṣaghna** (antitoxic) and **Śvāsahara / Kāsahara** (anti-dyspnoeic, antitussive) agent.
 **Training Phase:** Clearing / Purification (Śodhana-adjacent) · Respiratory conditioning · Resilience & anti-reactivity (allergic-diathesis work)
 
@@ -60,6 +60,8 @@ These findings corroborate the antioxidant and anti-inflammatory *direction* of 
 ### Cultivation Register
 
 **Sushruta / Ayurveda (SS).** Sushruta lists *Shirisha* in the Salasaradi group (Sushruta Samhita, Sutrasthana ch. 38, Bhishagratna tr., Vol. I), and the toxicology section prescribes a "Pancha-Shirisha Agada": a decoction of the roots, flowers, bark, seeds and sprouts of the Shirisha tree, taken with honey, the five salts and Trikatu, against insect-bite poisoning (Kalpasthana ch. V, Bhishagratna tr., Vol. II). Shirisha flowers also enter a bamboo-scraping antidote in the same chapter. These are therapeutic attestations. No *rasayana* or *vajikarana* assignment was read, so no cultivation status is attested: grade (b).
+
+**Divine Farmer's Classic (SBJ).** *(a) Attested.* The Chinese drug 合欢 (*he huan*) is usually identified as the bark of the silk tree, Albizia julibrissin, a congener of this entry's Albizia lebbeck; the Shennong text does not speak of A. lebbeck. The 味 paragraph reads “味甘，平” (sweet, neutral) and says it “安五脏，利心志” (settles the five organs and benefits the heart's will), and “令人献乐无忧” (makes a person offer joy and be free of worry). It closes with “久服，轻身、明目、所欲” (taken for long, it lightens the body, brightens the eyes, and gives what one wishes). The text's preface assigns the middle classic to drugs that nourish the nature, some of them toxic. The 久服 clause gives a life-nourishing status in the text itself. The Mingyi and Wu Pu lines are commentary and are not counted. (*Shennong bencao jing*, Sun Xingyan ed. 1799, middle classic, entry 合欢 *he huan*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 2545)
 
 **Practitioner's note.** Nothing. An antitoxic and skin-drying drug used for defined complaints; Sushruta gives it no long-term or vitality-building role.
 

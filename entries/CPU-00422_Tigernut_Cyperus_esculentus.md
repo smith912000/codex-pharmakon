@@ -1,6 +1,6 @@
 # Tigernut (Chufa / Earth Almond) — Ancient Egyptian ꜥꜣg-t / Sū'ād (سعد)
 ## *Cyperus esculentus* L. | Family: Cyperaceae
-**Tradition Tags:** EP, AT *(Ebers/Egyptian + Assyrian — canonical index attests both)*
+**Tradition Tags:** EP, AT, CM *(Ebers/Egyptian + Assyrian — canonical index attests both)*
 **Energetic Classification (humoral/energetic):** ◉ Nutritive/Yin — sweet, warming-neutral, moistening; a nourishing tuber-food-medicine
 **Training Phase:** `[BUILD]` `[RESET]`
 
@@ -71,6 +71,8 @@ Tigernut's standing rests on its **nutritional composition** — an oil-rich (ol
 ---
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* entry *Ḥabb al-zalam* describes "a seed of very pleasant taste" that grows in Shahrazūr, and gives its temperament as "hot in the second degree, moist" (حار في الثانية رطب) (*Canon* Book II, entry *Ḥabb al-zalam*, Arabic text line 13257). Two actions follow. In cosmetics it is fattening (مسمن). Under the excretory organs it "greatly increases semen" (يزيد في المني جدا). Nothing more is said: no drying or cleansing action, no treatment of any organ other than the generative, and no dose or preparation. In Avicenna's terms it is a hot, moist, nourishing seed that builds flesh and seminal matter; the entry does not connect that to innate heat or radical moisture, and gives the seed no standing in prolonging life or in the discipline of conserving health. **(b) — therapeutic and fattening actions attested; no cultivation status.**
 
 **Ebers Papyrus / Egyptian (EP).** The entry and the secondary literature consulted place tigernut among the ingredients of Egyptian remedies, so the frame is therapeutic and food-offering use, not a cultivation status. The ancient name is debated among Egyptologists, so the identification is a modern hypothesis. The corpus is indication-organised, recording what was done for a complaint rather than what a substance does to the person's vital constitution (ka, ba, akh, ib). No heka recitation or cultivation role for this tuber is attested in anything retrieved. Status: framed, cultivation status unattested.
 

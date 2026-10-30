@@ -1,6 +1,6 @@
 # Castoreum (beaver testicle) — Kastoros Orchis (Dioscorides 2-26) / Castorium, castoreum
 ## *Castoreum, the secretion of the beaver's two sacs in the groin, which Dioscorides calls the beaver's "stones" [testicles]; Osbaldeston's edition prints "Castoreum — Beaver" with the note "obtained from two sacs in the groin of the Beaver". No binomial is printed in the lines read* | *(Volume III — Animal)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -43,6 +43,8 @@ General, well-established facts only. Castoreum is an animal secretion used hist
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(b) Framed.* Dioscorides has no subtle-body system and none is supplied here. What he offers a cultivator is a discipline of attention, and this chapter is a good example of it: provenance and anatomy (the two sacs, joined from one beginning), a sensory assay (waxy within, strong smell, "sharp, biting in taste, easily crumbled"), a named adulteration (ammoniacum or gum tempered with blood and castoreum), the correction of a rumour (the beaver does not bite off its "stones"), and the method of collecting and drying the drug. The chapter is therapeutic, and it records no amuletic use. No cultivation status is assigned. Smelling and inhaling castoreum to "revive the lethargic" is a clinical use in the text; it is not a practice of spirit or breath.
+
+**Unani / Avicenna (CM).** The *Canon* entry *Jundbīdastar* names it the testicle of a sea animal, taken as a joined pair in a thin shell; the best is the two sacs fused together, which cannot be adulterated, and the usual fraud is *jāwshīr* or gum kneaded with blood. Its temperament is "ألطف وأقوى من كل ما يسخن ويجفف" ("finer and stronger than anything that heats and dries"), to be taken as hot at the end of the third degree to the fourth, and dry in the second (*Canon* Book II, entry *Jundbīdastar*, Arabic text line 11534). Its actions: it dissolves wind, and rubbed on it warms the body. For the joints and nerves it helps tremor, moist spasm and tetanus, numbness and palsy. For the head it helps forgetfulness and lethargy (with vinegar and rose oil), cold headaches and cold deafness, dropped into the ear in spikenard oil. Its vapour, inhaled, helps ailments of the lung; with vinegar it relieves hiccup and colic. Among the excretory organs it drives the menses, expels the afterbirth and the foetus, and removes the cold of the womb. Among poisons it is useful for bites of venomous creatures, but the dark, greyish kind is itself a poison that can kill within a day. The entry has no statement on innate heat, radical moisture or prolonging life. **(b) — therapeutic actions attested (nerves, head, womb, poisons); no cultivation status.**
 
 **Practitioner's note.** Nothing here makes castoreum a cultivation substance, and the chapter's strongest uses (menstrual drive, expulsion of the afterbirth, abortion) are reasons to leave it alone. What a cultivator can take from the chapter is the method of its choice: check the material, be able to tell the real from the adulterated, and do not repeat a story about it that the text itself says is false. No dose beyond the two teaspoonfuls above is given in the sources retrieved. [USER: verify]
 

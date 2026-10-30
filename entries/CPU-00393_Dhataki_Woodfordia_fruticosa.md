@@ -2,7 +2,7 @@
 
 ## *Woodfordia fruticosa* (L.) Kurz | Family: Lythraceae
 
-**Tradition Tags:** SS
+**Tradition Tags:** CM, SS
 **Energetic Classification:** Ayurvedic (classical *rasa-guna-virya-vipaka* attribution; the specific values below are inferred from the standard Ayurvedic astringent profile and should be checked against a primary nighantu — **[USER: verify against Bhavaprakasha Nighantu]**)
 **Training Phase:** Foundation — Signature Study
 
@@ -88,6 +88,8 @@ Ayurvedic attribution. The drug is classed among the *kashaya* (astringent) grou
 The Kenetica energetic reading places Dhataki at the *lower* pole of the transformative axis: it does not move, heat or disperse. It closes and it begins. In the fermentation vessel it is the silent condition of change rather than the agent of it, and the tradition's willingness to make so central a pharmaceutical role out of so passive an action is itself the doctrinal teaching here.
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* has a short entry headed *dadi* (*Canon* Book II, entry *dadi*, Arabic text line 11955). The match to Dhataki rests on the name and on this file's identification; the entry gives no Latin name, and describes a grain "like barley, reddish", with a longer, thinner, dark, bitter flower. Temperament: Ibn Masawayh called it cold, but Avicenna says the sound view is "إلى الحرارة يابس في الثانية" ("towards heat, dry in the second"). Actions: astringent, "قابض يعقل" ("astringent, binding the bowels"), and it keeps date wine from turning sour. Tumours: it softens hardnesses well. Head: it obstructs. Excretory organs: it binds the bowel and is "نافع جدا لأوجاع المقعدة" ("very useful for pains of the anus"), sitting in its decoction, and two dirhams with oil help haemorrhoids. Poisons: it benefits against poisons. Substitutes: for dissolving hardnesses, two thirds of its weight in almonds plus half its weight in *abhal* (a juniper), the latter not in pregnancy. It carries no mention of innate heat, radical moisture or rejuvenation. **(b) — astringent and therapeutic actions attested; no cultivation status.**
 
 **Sushruta Samhita (SS).** Dhataki is framed therapeutically and no cultivation status is attested for it. In the Sushruta Samhita it is a named member of the Priyangvadi gana, and its flowers head the Amvashthadi group (Sutra-sthana ch. 38, Bhishagratna tr., Vol. I). Its flowers are also an ingredient of the fermented drinks described in the chapter on liquids: Guda Sidhu (boiled sugar-cane juice with Dhataki flowers) and Jambava Sidhu (Sutra-sthana ch. 45, Vol. I), each described by its therapeutic effects (the first as an appetiser and digestant). No rasayana or vajikarana assignment was found for the plant, and the text says nothing of ojas for it. Its fermentation role is pharmaceutical and dietary, not a regimen of cultivation.
 

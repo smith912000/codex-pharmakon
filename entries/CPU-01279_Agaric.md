@@ -1,6 +1,6 @@
 # Agaric (larch bracket fungus) — Agaricon (AGARICON), "Agaricum"
 ## *A woody fungus taken by the ancients to be a root; the translator's heading to Dioscorides 3-1 suggests Fomes officinalis, Polyphorus officinalis, Boletus purgans, Polyphorus igniarius, Boletus laricis and Ungulina officinalis, and lists Agaricus aurantiacus and Agaricus campestris, the Orange and Common Mushroom, under "other usage"; the chapter text itself gives no binomial and calls it a root* | *(Volume IV — Fungal/Algal, shelved in Volume I)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -48,6 +48,8 @@ General, well-established facts only. Bracket fungi are the fruiting bodies of w
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(b) Framed; no cultivation status.* Dioscorides has no subtle-body system, and none is asserted here. What the chapter offers a practitioner is a discipline of attention: it grades the material (the female, with straight veins within, "excels"; the male is round), it gives the taste on the tongue (sweet, then bitter), it names the sources and calls the Cilician agaric, from cedars, "brittle and weak", and it ties the dose to the patient: "according to strength and age". That is a practice of provenance and assay and it is attested for this substance. It is not a cultivation status. The chapter makes no claim about the person's constitution, vitality or long life, and the drug is given for conditions, not for nourishing life.
+
+**Unani / Avicenna (CM).** *Ghārīqūn* is described from Dioscorides in male and female forms (the female layered inside, the male round); some say it grows from decaying trees. Taste: hot, pungent, astringent, turning from sweet to bitter. Best is smooth, white, friable. Temperament: «حار في الأولى يابس في الثانية», "hot in the first degree, dry in the second". It is «محلل مقطع للأخلاط الغليظة مفتتح لجميع السدد», "dissolving, cutting thick humours, opening all obstructions". With oxymel it serves sciatica and weakness of muscle; in epilepsy it clears the brain's superfluities "by a property"; it helps asthma and ulcer of the lung; jaundice and swollen spleen; it purges thick humours, black bile and phlegm (a dose of one to two *dirhams*), carrying other purgatives to the body's extremities; and it helps rigors, old thick fevers and worms. The dose depends on illness, strength, age, habit and air (*Canon* Book II, entry *ghārīqūn*, Arabic text line 19502). Innate heat and radical moisture are not mentioned. **(b) — Therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. Agaric is a bitter-tasting drug, a purge in the larger amount, given for many conditions, with doses in the translator's units and an identification that is not settled. The habit the chapter teaches is to grade the material by sight and taste and to match the dose to the person's strength and age. The Codex does not recommend taking it, and nothing in the chapter supports long-term use. No modern dose is given here. [USER: verify]
 

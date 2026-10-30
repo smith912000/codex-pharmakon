@@ -2,7 +2,7 @@
 
 ## *Pinus nigra* J.F.Arnold — The Smoke-Born Balsam; Wound-Sealer of the Ancient Mediterranean; Bark That Bleeds Medicine
 
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 **Energetic Classification (TCM):** ◉ Qi
 **Training Phase:** [GENERAL]
 
@@ -83,6 +83,8 @@ Barnes TM, Greive KA (2017) "Topical pine tar: History, properties and use as a 
 ### Cultivation Register
 
 **Dioscorides (DMM).** Dioscorides does not name Pinus nigra: he speaks of "pitch" and "pine" trees generally, and the translation lists P. nigra only among several suggested pines, so the match is at genus level and modern. Liquid pitch "is gathered from the fattest wood of the pitch and pine trees", and "the best is glittering, smooth and clean" (De materia medica 1.94, Osbaldeston & Wood tr. 2000). He also records its preparation into picinum, soot and dry pitch (1.95 to 1.97), and advises choosing resin by smell and clarity (1.92). The uses are therapeutic: linctus for coughs and asthma, antidote, poultices for ulcers. This is a discipline of assay and preparation, not a cultivation status; none is attested.
+
+**Unani / Avicenna (CM).** The *Canon* has an entry on pitch, *zift*, which it opens by citing Dioscorides: pitch is of two kinds, a black liquid marine kind akin to tar, and a mountain kind, the sap of the fir and other pines, moist at first and then dried by boiling (*Canon* Book II, entry *zift*, Arabic text line 12602). It gives no Latin name, so the link to *Pinus nigra* is at the level of pine pitch. It gives no temperament by degree. Actions: "منضج للأخلاط الغليظة جلاء مسخن" ("ripening thick humours, cleansing, heating"); the moist kind ripens more, the dry kind dries more. Tumours: it softens hard swellings and scrofula. Chest: it helps cold dry cough, pleurisy and lung inflammation, aids expectoration and, taken with honey, stops spitting of blood. Eye: its smoke improves the lashes and strengthens sight. Excretory organs: laxative in quantity. Poisons: it resists poisons and, applied, treats a viper bite. Cosmetic: it removes white nail marks and is applied to cracked feet. The entry says nothing of innate heat, radical moisture or a long-life use. **(b) — many therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** What Dioscorides gives a practitioner is the test of the material: look for brightness and smoothness, and for a sweet smell, and reject what is dull or foul. Nothing beyond that.
 

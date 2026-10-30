@@ -1,6 +1,6 @@
 # Mushrooms (fungi) — Muketes (as printed in Dioscorides 4-83) / the Udbhida group: Palala, Ikshu, Karisha, Venu, Bhumija (as printed in Bhishagratna's Sushruta)
 ## *Fungi species, mushrooms edible and poisonous (the translator's suggestion for Dioscorides 4-83); Bhishagratna gives no binomial for the mushrooms of the Udbhida group* | *(Volume IV — Fungal/Algal, shelved in Volume I)*
-**Tradition Tags:** DMM, SS
+**Tradition Tags:** DMM, CM, SS
 
 ---
 
@@ -51,6 +51,8 @@ General facts only. Some wild mushrooms contain toxins that cause liver or kidne
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(b) Framed; no cultivation status.* Dioscorides has no subtle-body system and none is supplied here. The chapter is a discipline of attention in its purest form: look at where the fungus grew, how it keeps ("stored after they are picked they quickly spoil"), what it is like when cooked, and be careful about how much is eaten. It assigns the mushroom no cultivation status.
+
+**Unani / Avicenna (CM).** The *Canon* gives the mushroom (*faṭr*) a heading that is blank in the Arabic text, and it begins with Dioscorides: "two kinds, one eaten and one that kills" (*Canon* Book II, entry *Faṭr*, Arabic text line 17060). Its temperament is "cold at the end of the third degree, moist near it" (بارد في آخر الثالثة رطب في قربها). It begets a thick, bad humour; to correct it, boil it with pears and wild basil and drink strong wine after. The edible kind is used in broths and is delicious but, in excess, harms or kills, since it is not digested. Under the head it brings numbness and apoplexy; in the chest, choking; in the digestive organs cholera-like vomiting, though "hard to digest and very nourishing"; in the excretory organs, difficulty in urinating. The deadly kind grows near rusty iron, rotten rags or the nests of harmful creatures, and is slimy and quick to decay. Treatment for harm from any is borax, natron or ash water with vinegar and salt, or barley decoction. The entry is a warning, not a cultivation account. **(b) — nutritive and harmful actions attested; no cultivation status.**
 
 **Ayurveda / Sushruta (SS).** *(b) Framed; no cultivation status.* The mushrooms sit in the *Annapana-vidhi* chapter (Sutra ch.46), which opens with the principle that food is the chief source of bodily strength, complexion and *ojas*. That is a statement about food in general, and the passage then gives the properties of each mushroom kind, not an effect on *ojas*, *tejas* or *prana*. The mushrooms are not named in a *rasayana* or *vajikarana* chapter in anything read here, and the passage read uses no sattvic, rajasic or tamasic labelling (those categories are *Samkhya*, not Sushruta). [USER: verify] whether other Sushruta chapters name mushrooms.
 

@@ -1,6 +1,6 @@
 # Armenian stone (blue copper carbonate) — Armenion (ARMENION), "Armenium"
 ## *A smooth, azure, brittle stone from the metallic stones, given by Dioscorides the same actions as chrysocolla but weaker; the translator's heading to 5-105 reads "Armenian Stone — blue Copper Carbonate", and the chapter text gives no composition* | *(Volume II — Mineral)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -37,6 +37,8 @@ General, well-established facts only. Copper carbonate minerals, such as azurite
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(b) Framed; no cultivation status.* Dioscorides has no subtle-body system, and none is asserted here. What the chapter offers a practitioner is a discipline of attention: it fixes the best stone by look, feel and fracture (smooth, azure, very even, without stones, very brittle) and ties it to a stronger relative (chrysocolla) whose own chapter warns that it can kill. That is a practice of assay and it is attested for this substance. It is not a cultivation status, and the chapter makes no claim about the person's constitution, vitality or long life.
+
+**Unani / Avicenna (CM).** The *Canon* has an entry headed *hajar armani*, the Armenian stone (*Canon* Book II, entry *hajar armani*, Arabic text line 13457). It describes it as a stone with "أدنى لازوردية" ("a little of the lapis-lazuli quality"), not the colour or the compactness of lapis, rather somewhat sandy and soft to the touch, and says goldsmiths and engravers sometimes use it in place of lapis. It does not call it a copper mineral, so the chemical identification in this file is not Avicenna's. No temperament by degree is given. Digestive organs: it is bad for the stomach, and the washed stone does not make one vomit while the unwashed one does; in every case it is bad for the stomach ("رديء للمعدة"). Excretory organs: it purges black bile strongly, more strongly than lapis does, and one may be content with it and leave aside black hellebore for diseases of black bile. The entry attests a purgative action on black bile and a stomach warning, and mentions neither innate heat, radical moisture nor any benefit to health over time. **(b) — a purgative action attested with a stomach warning; no cultivation status.**
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The Armenian stone is a copper mineral that Dioscorides treats as a weaker chrysocolla, with no dose and a poisonous relative. What the chapter teaches is how to inspect a mineral before using it, and what the neighbouring chapter teaches is that a mineral that looks like a medicine may be a poison. The Codex does not recommend taking or applying it. No dose is given in the sources retrieved. [USER: verify]
 

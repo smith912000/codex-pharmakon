@@ -1,6 +1,6 @@
 # Viper — *Echidne* (ΕΧΙΔΝΗ), "Viper" (Dioscorides, *De Materia Medica* 2-18)
 ## *A venomous snake. The translator's gloss prints "Vipera communis, Coluber berus, Pelias berus — Viper"; the Greek name is* echidne *and the species is the translator's suggestion* | *(Volume III — Animal)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -43,6 +43,8 @@ General, well-established facts only. Viper bites are medical emergencies and ar
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(b) Framed; no cultivation status.* Dioscorides has no subtle-body system and none is supplied. What he characteristically offers a practitioner is a discipline of attention (provenance, preparation, discrimination between what is observed and what is told), and this chapter shows the last of these. He gives a method of preparation, rejects the story of lice bred in those who eat the animal as "a lie", dismisses the measure by which the extremities are cut as "a tale", and records, without endorsing or rejecting it, the saying that those who eat the viper "are longlived". That last is a reported saying, and it is not a cultivation status. Recording is not endorsing. No amuletic use is recorded in the chapter.
+
+**Unani / Avicenna (CM).** The *Canon* entry is headed *hayya*, the snake, with many kinds; the viper (*af'a*) is named within it, and the snakes of other kinds are promised for Book IV (*Canon* Book II, entry *hayya*, Arabic text line 13369). The flesh is boiled in water with salt and dill, and the sloughed skin is also used. Temperament: "التجفيف في دمه قوي وأما التسخين فليس بشديد" ("the drying in its blood is strong, but the heating is not intense"); the skin is also strongly drying. Its specific property is to drive waste matter out to the skin, so that a man who ate it had a large swelling in the neck that came out as lice. Cosmetic: eating it breeds lice. Joints and nerves: the broth and flesh help nerve pains. Head: the skin boiled in wine and dropped in the ear eases ear pain. Eye: the broth strengthens sight. Poisons: a split viper laid on a viper bite eases the pain. Most notably, the Arabic text itself says that the flesh "أطال العمر وقوى القوة وحفظ الحواس والشباب" ("lengthens life, strengthens power, and preserves the senses and youth"). The entry uses neither innate heat nor radical moisture to explain it. **(a) — the text itself assigns the flesh a life-lengthening and youth-preserving action.**
 
 **Practitioner's note.** There is nothing here for a cultivator to take up. The one lesson is Dioscorides' own: he separates what he can prescribe (a way of dressing and boiling the flesh), what he calls false (the lice, the measured cutting), and what he only repeats (long life), and a cultivator who reads him should do the same. A rumour of long life recorded for a venomous snake is not a reason to eat it. No dose is given in the sources retrieved. [USER: verify]
 

@@ -1,6 +1,6 @@
 # Diamond — "diamonds", named in the gem group of the Sushruta Samhita (Sanskrit name not printed in the passage)
 ## *A gem, rendered "diamonds" by Bhishagratna, listed with pearls, corals, sapphires, Vaidurya (lapis lazuli) and crystals; the text treats the gems as one group and gives diamond no entry of its own* | *(Volume II — Mineral)*
-**Tradition Tags:** SS
+**Tradition Tags:** CM, SS
 
 ---
 
@@ -39,6 +39,8 @@ General, well-established facts only. Diamond is chemically inert carbon. Swallo
 **Ayurveda (SS):** The text prints, for the gem group that includes diamonds (Sutra ch.46, lines 2141-2148): *cooling in potency* (*virya*, "cooling in their potency"); *beneficial to the sight*; *antitoxic*; *liquefacient or corrosive*; and "sacred prophylactic virtues". It prints no taste (*rasa*) for the gems, no *vipaka*, and no effect on the *doshas* (humours) in this passage. These are qualities of the group as printed; none is assigned to diamond alone.
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* lists the diamond among the simple drugs (*Canon* Book II, entry *al-mas*, Arabic text line 10615), remarking that it might better be placed under another letter but is placed here because the name is better known. On temperament it records disagreement: "قال قوم: إنه بارد يابس. وقال آخرون إنه حار يابس بقوة" ("some say it is cold and dry; others say it is hot and dry, strongly"). Its action is "شديد الجلاء" ("very strongly cleansing"), and "عند ديسقوريدوس محرق معفن" ("with Dioscorides, burning and putrefying"). On the head, Avicenna rejects the report that a diamond held in the mouth breaks the teeth, calling it reckless talk. On the excretory organs he repeats that a grain fixed to a syringe tip with mastic would break the bladder stone, and says he finds this unlikely. Under poisons the entry is short: "هو سم يقتل" ("it is a poison that kills"). The entry gives no temperament he accepts, no benefit to the body and no relation to innate heat or radical moisture. **(b) — actions and a poison warning attested, with Avicenna doubting the medical claims; no cultivation status.**
 
 **Ayurveda / Sushruta (SS).** *(b) Framed; no cultivation status found.* Diamond is named only within the gem group of Sutra ch.46, in the dravyaguna frame of quality and action (cooling, antitoxic, good for the sight). The text's one statement that touches the person is that the gems "cleanse their wearers from all impurities"; that sentence is about the group and about wearing, and it names no *ojas*, no *rasayana* and no *vajikarana* status. In the same stretch gold is called "a tonic or restorative elixir"; the gems are not. The one mention of diamond in a rasayana chapter (Chikitsa ch.29, line 191) is a comparison for teeth, not an assignment of status.
 

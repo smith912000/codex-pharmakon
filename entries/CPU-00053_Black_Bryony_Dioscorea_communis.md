@@ -2,7 +2,7 @@
 
 ## *Dioscorea communis* (L.) Caddick & Wilkin — the glossy climber whose acrid raphide-laden root reddens the skin
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book IV) · Greco-Roman · Folk-European
+**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book IV) · CM (Avicenna, *Canon* Book II) · Greco-Roman · Folk-European
 **Energetic Classification (TCM):** ◉ Qi (acrid, irritant, counter-irritant/resolvent)
 **Training Phase:** [SPECIALIST ONLY] — irritant/toxic; external use only, no casual internal use
 
@@ -59,6 +59,8 @@ Codex policy: mechanism stated generally; named citations to be supplied and ver
 ### Cultivation Register
 
 **Dioscorides (DMM).** The nearest Dioscoridean chapter is ampelos melaina, "black vine" (De materia medica 4.185, Osbaldeston & Wood tr. 2000), which lists "black bryony" only as one of its alternative names; the translation's own suggested identification is Clematis vitalba, and the chapter is marked poisonous. Whether it describes Dioscorea communis (Tamus communis) is a modern and uncertain identification, so any statement here is made about the Greek plant, not securely this species. He says the new stalks are eaten as vegetables, the root resembles white bryony but is weaker, and the plant is urinary, emmenagogue, spleen-reducing and used for epilepsy, vertigo and paralysis. Nothing is said of cultivation or of any regimen. Therapeutic framing only; no cultivation status is attested.
+
+**Unani / Avicenna (CM).** The Canon entry *fāshirā-sitīn* places black bryony in the genus of *fāshirā* and gives no temperament of its own; it defers to *fāshirā* for its actions. Avicenna describes leaves like those of large ivy and a root black outside and yellow inside. Under the joints, it helps palsy greatly; under the head, the shoot when it first appears is eaten, «قلبه أول ما يطلع يؤكل», "its heart, when it first comes up, is eaten", and does for epilepsy what *fāshirā* does; under the chest it clears the chest; under the excretory organs the same shoot provokes urine and menses. He closes: it "does what *fāshirā* does in all of this" (*Canon* Book II, entry *fāshirā-sitīn*, Arabic text line 16936). The entry has no dose, no preparation and no stated hot or cold. Innate heat and radical moisture are not mentioned. **(b) — Therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing. The chapter is both uncertain in identity and marked poisonous, so it supports no cultivation practice.
 

@@ -1,6 +1,6 @@
 # Vulture — "Vulture", "Blood-of-a-Vulture", "Egg-of-a-Vulture", "a Vulture's feather" (Bryan 1930, Ebers Papyrus; no Egyptian word printed in the list)
 ## *The vulture, as Bryan's English identification names it; the list gives no Egyptian word and no binomial* | *(Volume III — Animal)*
-**Tradition Tags:** EP
+**Tradition Tags:** EP, CM
 
 ---
 
@@ -39,6 +39,8 @@ General, well-established facts only. A wild bird's blood and eggs can carry bac
 **Egyptian (EP):** None. Bryan's list and the recipes quoted give no quality (hot, cold, moist, dry) for the vulture or its parts. The Ebers corpus is organised by complaint and records what was done for a condition, not a classification of the substance.
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* entry *Rakhama* has no description or temperament, and treats the vulture's bile and dung (*Canon* Book II, entry *Rakhama*, Arabic text line 17996). The bile is dropped with violet oil into the ear opposite the side of migraine or earache, and is used as a snuff or ear drop for children for the "wind of children" (ريح الصبيان) (head). As eye salve it is used for whiteness of the eye (eye). Its dung, fumigated, is said to cause miscarriage. On poisons the entry reports Ibn al-Biṭrīq's use of the bile, dried in a glass vessel in the shade and applied as kohl at the side of a viper's sting, and Avicenna answers: "I do not believe it" (ولست أصدق به); others, he adds, say they tried it against scorpion, snake and wasp, and he supposes it was applied as a salve. Of innate heat or radical moisture the entry says nothing, and the vulture has no standing in the conservation of life. **(b) — therapeutic actions attested; no cultivation status.**
 
 **Egyptian / Ebers (EP).** *(c) Absent.* No cultivation framing is attested. The Ebers material is indication-organised: it records what was done for a complaint, not what a substance does to the person's *ka*, *ba*, *akh* or *ib*. For the vulture, the three recipes read are for an abscess, a bleary eye and a growth on the eye, and in two of the three the bird supplies a part (blood, egg) to an ointment while in the third the feather is a tool. The Egyptian practice of treating spell and drug as one intervention (*heka*) is relevant in general; Bryan reports no recitation with any of the three recipes, and since he summarises, that is no proof that the papyrus gives none. No deity is attributed to the vulture in the text I read, and none is supplied here.
 

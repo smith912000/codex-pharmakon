@@ -15,9 +15,12 @@ Tangut monkshood is a small alpine aconite of the Tibetan plateau and high Himal
 
 Like all aconites it is fundamentally a **poison**, owing its action to **diterpenoid (norditerpenoid) alkaloids** that act on voltage-gated sodium channels. The Tibetan pharmacy, like the Chinese and Ayurvedic, developed elaborate **processing (detoxification)** methods to render the drug usable — and the entire safe use of the plant rests on that processing. Unprocessed or mis-processed aconite is lethal. This entry stands alongside the other aconites as a paradigm of the poison-into-medicine art, in its specifically Tibetan, "cooling/anti-fever" application.
 
+Botanically, the Flora of China (efloras.org) describes *Aconitum tanguticum* as a perennial with a fusiform or obconical caudex about 2 cm long and a simple or branched stem 8–50 cm tall. Its 7–9 long-petiolate basal leaves have orbicular or orbicular-reniform blades, medially 3-lobed, and the terminal inflorescence carries 3–5 flowers with blue-purple (rarely greenish) sepals, the upper sepal navicular (boat-shaped). It flowers in July–August and has 2n = 16. The Flora gives its habitat as grassy slopes and wet and alpine grasslands at 3200–4800 m, in southern Gansu, eastern Qinghai, Shaanxi, western Sichuan, eastern Xizang (Tibet) and north-western Yunnan.
+
 ### Active Components
 
 - **Diterpenoid (norditerpenoid) alkaloids — aconitine-type and the species' characteristic alkaloids** — the toxic and active principles; act on voltage-gated **sodium channels**, holding them open (persistent depolarisation), producing cardiac and neuromuscular toxicity in poisoning. Some *A. tanguticum* alkaloids differ from the *napellus*/*carmichaelii* profile. [USER: verify named alkaloids for this species before quoting specifics.]
+- **Species-specific bis-diterpenoid alkaloids (published isolation work).** Ye et al. 2022 (*Phytochemistry* 206:113524; doi:10.1016/j.phytochem.2022.113524) report fifteen undescribed diterpenoid alkaloids and seven known analogues from the whole plant, including the heteratisine-hetidine-type bis-diterpenoid alkaloid tangirine A and the tanguticinines A–G. Fan et al. 2019 (*Phytochemistry* 160:71–77; doi:10.1016/j.phytochem.2018.11.008) isolated tanguticulines A–E, and Li et al. 2021 (*Nat Prod Bioprospect* 11(4):459–464; doi:10.1007/s13659-021-00310-3) described the amphoteric diterpene alkaloids tangutidines A–C.
 - **Mono-ester / amine alkaloids** — the less-toxic hydrolysis products formed during processing; the basis of detoxification.
 - **Atisine-type / less-toxic diterpenoid alkaloids** — some Tibetan "white aconites" are characterised by less acutely toxic alkaloid classes. [USER: verify.]
 
@@ -44,6 +47,11 @@ Safety framing: aconite poisoning (perioral numbness, paraesthesia, vomiting, th
 - **Sodium-channel mechanism.** Aconitum norditerpenoid alkaloids act on voltage-gated sodium channels, the basis of toxicity and pharmacology. [USER: insert and verify a specific real citation.]
 - **Detoxification by processing.** Traditional processing hydrolyses toxic diester alkaloids to less-toxic forms. [USER: verify and insert one specific citation.]
 - **Species phytochemistry.** *Aconitum tanguticum* alkaloid profile and its Tibetan use. [USER: verify a specific source.]
+
+- **Anti-inflammatory alkaloids in vitro.** In the Ye et al. 2022 study (doi:10.1016/j.phytochem.2022.113524), thirteen of the isolated compounds showed some inhibition of nitric oxide and TNF-α secretion in LPS-treated RAW 264.7 cells, with reported IC50 values of 67.56–683.436 µM; these are modest potencies in a cell line, not evidence of clinical effect.
+- **Antiviral screen.** Fan et al. 2019 (doi:10.1016/j.phytochem.2018.11.008) tested two of the new alkaloids against influenza A (H1N1) virus in vitro and reported inhibition of virus-induced cytopathic change, with IC50 values of 2.9 and 2.4 µg/mL.
+- **Total alkaloids in an animal model.** Wu et al. 2014 (*J Ethnopharmacol* 155(3):1483–1491; doi:10.1016/j.jep.2014.07.041) gave a total-alkaloid extract (TAA) to Sprague-Dawley rats before an LPS challenge; TAA reduced lung wet/dry ratio, inflammatory cell counts and TNF-α, IL-6 and IL-1β in lavage fluid, and inhibited NF-κB activation in lung tissue. The paper notes the plant's use against infectious diseases in traditional Tibetan medicine.
+- **Chemical profiling of "Bangga".** Lu et al. 2021 (*Zhongguo Zhong Yao Za Zhi* 46(19):5027–5037; doi:10.19540/j.cnki.cjcmm.20210702.202) built an HPLC fingerprint of the Tibetan drug "Bangga" and compared its two source plants, *A. tanguticum* and *A. naviculare*, by LC-MS/MS, inferring 74 common compounds (10 phenolic acids, 26 flavonoids, 38 alkaloids) and finding the two species similar except in flavonoid content.
 
 Codex policy: mechanism stated securely; named citations to be supplied and verified by the editor. **Do not fabricate authors, journals or years.**
 

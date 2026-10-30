@@ -2,7 +2,7 @@
 
 ## *Berberis aristata* DC. — the yellow berberine-rich root-bark, antimicrobial bitter for eyes, gut and skin
 
-**Tradition Tags:** SS, FMT
+**Tradition Tags:** CM, SS, FMT
 **Tags (previous line, retained for reference):** Ayurveda (Daruharidra; Rasanjana) · Unani · Folk-Himalayan
 **Energetic Classification (TCM):** ◉ Qi (bitter-cooling, drying, antimicrobial)
 **Training Phase:** [GENERAL]
@@ -54,6 +54,8 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the bitter-cooling, drying, antimicrobial axis (clear damp-heat/infection); the Indian berberine bitter, kin to barberry and goldthread.
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* has two entries that bear on this entry's drug. *Dār shīshaʿān* is "hot in the first, dry" by one reckoning, "at the end of the second to the third" by another, and cold by some (*Canon* Book II, entry *Dār shīshaʿān*, Arabic text line 11905); it "dissolves and binds, dissolves winds and stops fluxes and bleedings" and mends putrefaction. Its decoction is a mouth-wash for thrush and "to preserve the teeth", a wick treats foul smell of the nose, and its water prevents spitting of blood; it is called useful especially for slackness of the sinew. *Ḥuḍaḍ* (*Canon* Book II, entry *Ḥuḍaḍ*, Arabic text line 12876) is "moderate in heat and cold, dry in the second", dissolving with slight astringency, helping every bleeding; in cosmetics it reddens and strengthens the hair and heals freckles (يحمر الشعر ويقويه). The Indian kind clears the cornea and film of the eye, and is drunk for black jaundice and the spleen. The Canon's account is of drying, astringent and cleansing medicines; it uses no frame of innate heat or radical moisture and gives neither entry a life-prolonging status. **(b) — therapeutic actions attested; no cultivation status.**
 
 **Ayurveda (SS).** *Dāruharidrā* sits firmly on the therapeutic side of the *dravyaguṇa*: *tikta-kaṣāya* (bitter-astringent) in rasa, *uṣṇa* (heating) in vīrya, *kapha-pitta*-reducing, and *lekhana* (scraping) — worked against damp, hot and infective conditions and, as *rasāñjana*, as a classic eye medicine. It is a purgative-cleansing, *śodhana*-adjacent bitter, not a *rasāyana* or *vājīkaraṇa* drug: no rejuvenative or generative cultivation status is recorded for it in the sources retrieved, and it builds neither *ojas* nor generative essence. Its standing is corrective and therapeutic — the opposite pole from the tonic rasāyanas. **(b) framed.**
 

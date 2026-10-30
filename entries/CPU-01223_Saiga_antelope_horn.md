@@ -1,6 +1,6 @@
 # Saiga antelope horn — *rgya*, "Saiga Antelope" (Clark 1995, Explanatory Tantra ch.20)
 ## *The horn of the animal the Tibetan text calls* rgya*; Clark prints "Saiga Antelope" with the Latin names* Saiga tatarica *and* Nemorhaedus cripus*, and the Men-Tsee-Khang translation renders the corresponding sentence with "serows/gorals". "Saiga antelope" is the spine's name and Clark's, and the identity is not settled by the texts* | *(Volume III — Animal)*
-**Tradition Tags:** FMT
+**Tradition Tags:** SBJ, FMT
 
 ---
 
@@ -33,6 +33,8 @@ No clinical studies were retrieved for this entry. [USER: verify] The only gener
 **Tibetan / rGyud-bzhi.** No taste, potency or post-digestive taste is printed for this horn in the passages read (Clark lines 1157-1158; MTK line 3508). The only quality attached to it is the action "ecbolic". Other horns in the same passage carry stated qualities (for example takin horn "increases [body] heat", line 1158), but these are not extended to this one.
 
 ### Cultivation Register
+
+**Divine Farmer's Classic (SBJ).** *(a) Attested.* Sun Xingyan's reconstruction of the *Shennong bencao jing* places 羚羊角 (antelope horn) in the middle classic, the grade the preface assigns to drugs that nourish the nature, some of them toxic. The 味 paragraph opens "味咸，温" (salty, warm). It gives the indications as "主青盲，明目，杀疥虫，止寒泄，辟恶鬼虎野狼，止惊悸" (it governs the blindness called *qingmang*, brightens the eyes, kills scab insects, stops cold diarrhoea, wards off evil ghosts, tigers and wild wolves, and stops fright palpitations). The long-use clause reads "久服，安心、益气、轻身" (taken for a long time, it settles the heart, adds to qi and lightens the body). The text says it comes from river valleys. The *Mingyi bielu* adds that it comes from Hexi and may be taken at any time; that is a later layer, not the Shennong text. The Chinese text gives no Latin name, and this paragraph does not decide whether its animal is the one the Tibetan record of this entry calls *rgya*. (*Shennong bencao jing*, Sun Xingyan ed. 1799, middle classic, entry 羚羊角 *lingyang jiao*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 2577)
 
 **Tibetan / rGyud-bzhi (FMT).** *(b) Framed; no cultivation status.* The frame is the thirteen-part animal section of the Explanatory Tantra's materia medica (Clark line 1148), and in it the horn is a drug for a stated action, ecbolic (line 1158). Nothing in the passages read places it in any practice of essence extraction (*bcud len*), and no formal category of substances for subtle-body practice exists in this tradition, so none is asserted here. The tradition's wider frame is that medicine is the third of four treatment branches, supporting practice without reaching the root; this entry adds nothing to that.
 

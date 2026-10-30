@@ -1,6 +1,6 @@
 # Adarce — Adarkes (adarces), Dioscorides 5-137
 ## *A somewhat salty hardened fluid that comes out of marshy ground in Galatia and sets on reeds and grass, soft and hollow like a sponge; the translation glosses it "Potassium Sulphate — Arcanum Duplicatum", a gloss the chapter does not explain* | *(Volume II — Mineral)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -49,6 +49,8 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(b) Framed; no cultivation status.* Dioscorides has no subtle-body system and none is supplied. What the herbal offers a cultivator is a discipline of attention (provenance, season of gathering, sensory assay, adulteration detection), and this chapter shows it in part: it gives the region (Galatia), the conditions of formation (moist marshy ground, in times of drought, on reeds and grass), and a way to recognise the product by colour and shape, each by comparison with another named drug. It gives no assay and no adulterant. The chapter is therapeutic and carries no cultivation status.
+
+**Unani / Avicenna (CM).** Avicenna describes adarce as a kind of sea-foam (*zabad al-baḥr*) that sets hard and clings to the reed, and calls it a sharp medicine that is not drunk because of its sharpness but used as a smear once the sharpness has been broken. His temperament is extreme: «حار جدا», "very hot". Under actions he gives one line: «يبدل المزاج الرديء البارد إلى مزاج جيد», "it changes a bad cold temperament into a good one". The remaining headings are external: it is of use against *kalaf* (facial discoloration) under the cosmetic heading, against soft pustules, and as a poultice for sciatica (*ʿirq al-nisā*) under the joints. The Canon gives no internal organ heading and no dose (*Canon* Book II, entry *Adhārāqī*, Arabic text line 10398). Innate heat and radical moisture are not mentioned, and nothing in the entry concerns the conservation of life; its warmth is a therapeutic, corrective one, set against cold temperaments. **(b) — Therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing to take from it for cultivation beyond the author's habit of recognition: where it forms, in what weather, and what it looks like next to something already known. The material itself is an unidentified, "sharp" external salt and is not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 

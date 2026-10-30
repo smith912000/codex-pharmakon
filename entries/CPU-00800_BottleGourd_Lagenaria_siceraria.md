@@ -2,7 +2,7 @@
 
 ## *Lagenaria siceraria* (Molina) Standl. | Family: Cucurbitaceae
 
-**Tradition Tags:** EP, DMM, CM, TCM, SS
+**Tradition Tags:** EP, DMM, CM, SBJ, TCM, SS
 **Tags (previous line, retained for reference):** EP, AT, DMM, CM, SBJ, SS
 **Tags (previous line, retained for reference):** AT (Ayurveda) · CM (Chinese Materia Medica) · SBJ (Unani/Tibb) · DMM (Dioscoridean/Graeco-Roman) · FMT (Folk & Magico-Traditional) · BM (Biomedicine)
 **Energetic Classification:** TCM — cool, sweet, slightly bland; channels Lung, Stomach, Small Intestine (fluid-draining, damp-clearing). Galenic/Unani — cold and moist in the second degree.
@@ -71,6 +71,8 @@ Saurabh, Ghosh and Sanyal (2022, *Journal of Food Science and Technology*) devel
 **Ayurveda (SS).** *Lauki* / *alabu* is classed among the cooling, *pitta*-pacifying vegetables — *madhura rasa*, *shita virya*, light and easily digested. This is a dietetic and therapeutic placement; no *rasayana* or *vajikarana* status is attested for the bottle gourd in the sources retrieved. The dried *tumbi* as the renunciate's water-vessel is, like the Chinese *húlu*, symbolism of the emptied container, not a materia medica cultivation status. (b).
 
 **Unani / Avicennan (CM).** *Al-qarʿ* is cold and moist in the second degree, a classic coolant for hot temperaments. Within the tradition's cultivation idea — the conservation of innate heat and radical moisture — a second-degree coolant is a corrective for a hot repletion, not a means of conserving the vital endowment, and no cultivation status is attested for it. (b).
+
+**Divine Farmer's Classic (SBJ).** *(b) Framed; no cultivation status.* The classic's entry is 苦瓠 (*kuhu*, bitter gourd vessel), the bitter gourd in the Shennong text; it is not the sweet edible gourd. The paragraph reads 味苦，寒 ("bitter, cold"). The classic files it in the lower grade (下品); its preface says lower-grade drugs treat disease, are toxic, and are not for long use. It governs "great water", with swelling of the face and limbs (主大水，面目四肢浮肿), and it "sends water down" (下水); it adds 令人吐 ("it makes a person vomit"; the transcription prints 叶). There is no 久服 ("taken long") clause. The habitat is 生川泽 ("grows in streams and marshes"). The Mingyi bielu, not the Shennong text, adds that it comes from the Jin region. The paragraph is an action on water and swelling with no status for the person, so the register is (b). (*Shennong bencao jing*, Sun Xingyan ed. 1799, lower classic, entry 苦瓠 *kuhu*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 4077)
 
 **Graeco-Roman / Dioscoridean (DMM).** Dioscorides reads the edible gourd (*kolokyntha*) as a cold, moist, watery food — cooling much, nourishing little. There is no subtle-body claim; what the tradition offers is the discipline of attention, sharpened here to a single readable sign: the bitter gourd is poison, the sweet is food, discernible only at the tongue. That is assay, not cultivation status — (c).
 

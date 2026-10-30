@@ -2,7 +2,7 @@
 
 ## *Cassia fistula* L. — the gentle anthraquinone laxative pulp, mild purge for the delicate and the young
 
-**Tradition Tags:** SS, FMT
+**Tradition Tags:** CM, SS, FMT
 **Tags (previous line, retained for reference):** Ayurveda (Aragvadha) · Unani (Khiyar shambar) · DMM-adjacent (purging cassia of later pharmacy) · Folk-Indian
 **Energetic Classification (TCM):** ◉ Qi (cooling, gently purgative)
 **Training Phase:** [GENERAL]
@@ -54,6 +54,8 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the cooling, gently downward-draining (mild purgative) axis; the gentle counterpoint to the drastic cathartics of the volume.
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* entry *Khiyār shanbar* (cassia pulp) names a Kabuli and a Basran kind, the Basran being brought from India, and prefers the pulp taken from the pod that is shiny and rich, in a smooth glossy reed. Its temperament is "معتدل في الحر والبرد وهو رطب" ("balanced in heat and cold, and moist") (*Canon* Book II, entry *Khiyār shanbar*, Arabic text line 19073). Its action is "محلل ملين" ("dissolving and softening"). On the hard swellings it is applied, in the text's wording with nightshade water; for gout and painful joints it is smeared on. For the chest, rubbed in fresh coriander water with psyllium mucilage, a gargle helps quinsy. Digestive organs: it purifies the liver and helps jaundice and liver pain. Excretory organs: it loosens the bowel and brings out burnt bile and phlegm, with a purge "بلا أذى" ("without harm"), so that it is suited even to pregnant women. A substitute is also listed. The entry says nothing of innate heat, radical moisture or prolonging life. **(b) — therapeutic actions attested (gentle purge, liver, joints, quinsy); no cultivation status.**
 
 **Ayurveda (SS).** Aragvadha ("disease-killer") is a firmly attested *dravya*, classed *madhura* (sweet) in rasa and *shita* (cooling) in virya, *pitta-kapha* reducing, and worked as *mridu virechana* — a mild purgative — alongside its use as a skin remedy. This is an eliminative, cleansing identity, the gentle counterpart to the drastic cathartics, and it carries no *rasayana* (rejuvenation) or *vajikarana* (generative vitality) status: none is recorded for *Cassia fistula* in the sources retrieved, and none can be attributed to a named Sushrutan or Charakan division for this species. Its standing is therapeutic and dietetic — a soft downward-draining, heat-cooling drug — not a substance the tradition assigns to build *ojas* or the vital distillate. If anything its action is the reverse of a tonic's: it clears and unburdens rather than nourishes and consolidates. **(b) framed:** attested therapeutically, no cultivation status sourced.
 

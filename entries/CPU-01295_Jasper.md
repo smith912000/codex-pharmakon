@@ -1,6 +1,6 @@
 # Jasper — Iaspis Lithos / "jaspis stone" (as printed in the 2000 English edition of Dioscorides)
 ## *Jasper, the translator's gloss being "previously name for green Chalcedony"; Dioscorides describes it as a stone of several appearances, and the English edition does not fix it to one mineral* | *(Volume II — Mineral)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -39,6 +39,8 @@ General, well-established facts only. Jasper and chalcedony are silica, which is
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(c) Absent.* No cultivation framing is attested for jasper. Dioscorides has no subtle-body system and none is supplied here. What he offers a cultivator is a discipline of attention (provenance, assay, adulteration), and this chapter gives a small part of it: a catalogue of the looks of the stone (emerald-green, crystal-clear, air-coloured, smoky, glittering with white partitions), which is a description for recognition and not a test of authenticity. The one use recorded is amuletic, introduced by "are said to be". Recording is not endorsing, and nothing in the chapter gives the stone a status as a thing that nourishes or protects the person.
+
+**Unani / Avicenna (CM).** The *Canon* entry *Ḥajar al-yashb* (jasper) is three lines long, with no description, no choice of quality and no temperament or degree. Under the digestive organs alone it says "هو نافع للمعدة جدا" ("it is very beneficial to the stomach"). It then reports Galen's statement that if a necklace is made of it, of a length matching the stomach, and worn, it benefits the gullet and the stomach (*Canon* Book II, entry *Ḥajar al-yashb*, Arabic text line 13450). The claim is therefore attributed to Galen and concerns wearing, not swallowing, and Avicenna adds no comment of his own. There is no heading for the head, the eye or the poisons, and the entry says nothing of innate heat, radical moisture or prolonging life, so nothing here supports a cultivation status. **(b) — one therapeutic action attested (stomach and gullet, by wearing, on Galen's authority); no cultivation status.**
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. Jasper is in Dioscorides as a stone to look at and wear, and the chapter's one use is hearsay about childbirth that the Codex does not recommend relying on. Wearing a stone as an ornament is a personal choice, not a treatment. No dose is given in the sources retrieved. [USER: verify]
 

@@ -2,7 +2,7 @@
 
 ## *Bryonia alba* L. — the great-rooted cucurbit climber, drastic purgative and homeopathic keynote
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book IV) · Greco-Roman · Folk-European · Homeopathy (Bryonia)
+**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book IV) · CM (Avicenna, *Canon* Book II) · Greco-Roman · Folk-European · Homeopathy (Bryonia)
 **Energetic Classification (TCM):** ◉ Qi (drastic purgative; resolvent)
 **Training Phase:** [SPECIALIST ONLY] — drastic, toxic purgative; berries poisonous
 
@@ -61,6 +61,8 @@ Codex policy: chemistry stated securely; homeopathic use framed as a separate tr
 ### Cultivation Register
 
 **Dioscorides / classical Greco-Roman (DMM).** Dioscorides' *ampelos leuke* ("white vine", marked poisonous) climbs by tendrils over neighbouring shrubs and bears a red clustered fruit; this is a wild-plant description, with no cultivation status stated. The young tendrils are eaten boiled in spring to move urine and bowels, and the root is juiced in spring. The root is also given as a drink for epilepsy, one teaspoon daily for a year, with the caution that it sometimes troubles the understanding. That year-long course is a therapeutic regimen, not a vital or longevity claim. The identification with *Bryonia* is modern and debated, and the red fruit does not fit *B. alba* L. Graded (b): therapeutic, status unattested (Dioscorides, De materia medica 4.184, Osbaldeston & Wood tr. 2000).
+
+**Unani / Avicenna (CM).** The *Canon* entry *fashra* is the white vine of Dioscorides under its Arabic name (*Canon* Book II, entry *fashra*, Arabic text line 16911). Temperament: "حار يابس إلى الثالثة" ("hot and dry to the third degree"). Actions: sharp and acrid, cleansing, drying, subtilising, and heating moderately. Cosmetic: the root with vetch and fenugreek cleanses the skin strongly and removes freckles and dark scars. Tumours: the root cuts warts and milky pustules, and drunk for thirty days in vinegar dissolves spleen swellings. Head: a dirham a day for a year helps epilepsy and vertigo, but sometimes brings confusion to the mind. Chest: a honey linctus for cough and pleurisy; the juice increases milk. Excretory organs: the young shoots promote urine and loosen the bowel; a dirham of the root kills the foetus and a pessary expels it; the juice purges phlegm. Poisons: the root helps viper bite. The entry has no innate heat or radical moisture content. **(b) — many drastic therapeutic actions attested, with a warning on the mind; no cultivation status.**
 
 **Practitioner's note.** Nothing. The root is a drastic, poisonous drug; Dioscorides' attention to season of juicing and to the plant's effect on the mind is the only transferable discipline.
 

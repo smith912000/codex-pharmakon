@@ -2,7 +2,7 @@
 
 ## *Asparagus officinalis* L. — the soothing-diuretic shoot, cleanser of the urinary passages
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book II) · Greco-Roman · Unani · Folk-European
+**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book II) · CM · Greco-Roman · Unani · Folk-European
 **Energetic Classification (TCM):** ◉ Qi (cooling-moistening, diuretic)
 **Training Phase:** [GENERAL]
 
@@ -58,6 +58,8 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 ### Cultivation Register
 
 **Dioscorides (DMM).** Dioscorides, De materia medica 2.152 (Osbaldeston & Wood tr. 2000) says asparagus "grows in rocky places", a well-known herb whose small stalks, boiled and eaten, soothe the intestines and encourage urine. A root decoction is given for painful or frequent urination, jaundice, kidney ailments and hip problems, and for the bite of a harvest spider; the seed serves the same purposes. This is a habitat remark and a therapeutic and dietary account. He does not describe the plant as cultivated here, so the claim of cultivation in the entry is not supported by this chapter. The translation's suggested identifications include several Asparagus species, so the match to A. officinalis is a modern one. No cultivation status is attested.
+
+**Unani / Avicenna (CM).** On asparagus (*hilyawn*) the *Canon* reports Galen's view that it is temperate, neither plainly heating nor cooling, except the rock kind; Avicenna adds that it "is not far from heat", that its heat shows as it hardens, and that it then shows a very biting milky juice (*Canon* Book II, entry *Hilyawn*, Arabic text line 12289). Its power is "cleansing; it opens the obstructions of all the viscera, especially the liver and kidney" (يفتح سدد الأحشاء كلها خصوصا الكبد والكلية), with some dissolving. The decoction is drunk for back pain and sciatica, and boiled in vinegar serves toothache. For the digestive organs it opens liver obstructions and helps jaundice, though nauseating. Under the excretory organs, authorities differ on whether it binds or loosens; most say it helps phlegmatic and windy colic; the root decoction is a diuretic, it "increases semen and sexual power" (يزيد في المني والباه), helps difficult conception, and as a pessary the seed brings the menses. Boiled in wine it helps the bite of the tarantula. The entry makes no appeal to innate heat or radical moisture. **(b) — therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing beyond the kitchen and the sickroom: the tradition offers the shoot as food and the root as a diuretic, with no regimen of long-term cultivation attached.
 

@@ -1,6 +1,6 @@
 # Sponge — Dioscorides, SPOGGOI (spoggoi; the hardest called "tragi")
 ## *Sponges; the translator's gloss prints "Sponges", with no species or binomial* | *(Volume III — Animal)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -39,6 +39,8 @@ General, well-established facts only. A natural sponge is absorbent and holds ba
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(c) Absent.* Dioscorides has no subtle-body system, and the chapter attaches none to the sponge. What the chapter does offer, as the discipline of attention that the Codex finds in Dioscorides, is a set of discriminations and processes: the sorting of males, females and the hardest "tragi", the rule that "old sponges are of no use", the instruction that sponges "are better for eye medicines if they are washed", and the exact orientation (hollow side up, cut side down) for whitening in the summer sun. The pneuma and the Galenic spirits are later and are not read in this chapter. The moonlight whitening is a procedure for colour and is not a cultivation claim.
+
+**Unani / Avicenna (CM).** The *Canon* gives the sponge its own entry among the simple drugs (*Canon* Book II, entry *isfanj*, Arabic text line 10330). Its temperament is "حار في الأولى يابس في الثانية" ("hot in the first degree, dry in the second"), and the fresh sponge is preferred because it is stronger and drier, from the force of the sea's nature. Among its actions he names "قوي التجفيف" ("strong in drying"), above all the fresh sponge burnt with oil, whose ash holds back the outburst of blood after a cut. Tumours: it dries phlegmatic swellings. Wounds: dipped in vinegar and laid on, or boiled with honey for deep ulcers, applied dry or moistened, it dries old moisture and cleans the place. Chest: sponge burnt with oil is good for spitting of blood. Excretory organs: the stone found in it is said to break up the bladder stone, a claim whose Arabic sentence is damaged and which he treats as unlikely to reach the bladder. The entry names no innate heat or radical moisture and no effect on the length or quality of life, so the Unani longevity frame is not applied to it here. Its attested role is a drying, astringent wound and bleeding remedy. **(b) — therapeutic actions attested (drying, wound care, bleeding); no cultivation status.**
 
 **Practitioner's note.** A cultivator does nothing with this. It is a wound-care entry; the lasting lesson is Dioscorides' attention to which sponge, how old, how washed and how prepared, and not any benefit to the person. The honest use of the entry is as a record of what Dioscorides says.
 

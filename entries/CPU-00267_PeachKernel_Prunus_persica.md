@@ -2,7 +2,7 @@
 
 ## *Prunus persica* (L.) Batsch | Family: Rosaceae
 
-**Tradition Tags:** SBJ (Shennong Ben Cao Jing — *táo rén*, blood-stasis and bowel)
+**Tradition Tags:** CM, SBJ (Shennong Ben Cao Jing — *táo rén*, blood-stasis and bowel)
 
 **Energetic Classification (TCM):** Neutral · bitter, sweet · slightly toxic (小毒). Enters HEART, LIVER, and LARGE INTESTINE. Invigorates blood and breaks blood stasis; moistens the intestines to move stool.
 
@@ -56,6 +56,8 @@ Attribution: findings from PubMed.
 - **Dantian:** lower/middle — blood-level de-stagnation and bowel descent.
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* entry *Khawkh* is on the peach as a whole, not the kernel named alone: the fruit, the leaf, the flower and an oil (*Canon* Book II, entry *Khawkh*, Arabic text line 19234). Its temperament is "cold at the end of the second, moist in the first but short of its end" (بارد في آخر الثانية رطب في الأولى). Its moisture decays fast, it loosens the bowel with some astringency, the dried being the more binding. Leaf-water dropped in the ear kills worms, and its oil helps migraine and hot and cold earache (head). The ripe fruit is good for the stomach and rouses appetite, to be eaten before other food; the dried is slow to digest. A poultice of leaf on the navel, or a drink of the juice of leaf and blossom, kills belly worms. The ripe loosens, the unripe binds. Some say it increases sexual power, which suits dry hot bodies. The Canon never names the kernel, and does not use innate heat or radical moisture. **(b) — therapeutic actions attested; no cultivation status.**
 
 **Shennong / classical Chinese (SBJ).** The Shennong Bencao Jing monograph for tao he ren (the peach kernel) could not be read: the fruit section of the Yang Shou-zhong translation (1998) is not legible in the copy available, and no scholarly source stating its san pin grade or any long-term-taking wording was found in a limited search. Its grade and any cultivation status are therefore unattested here. The tag is a therapeutic framing only (blood stasis, bowel), and the identification of the classical drug with Prunus persica is modern.
 

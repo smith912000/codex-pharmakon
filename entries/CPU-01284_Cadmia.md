@@ -1,6 +1,6 @@
 # Cadmia (cadmium earth) — Kadmeia (KADMEIA)
 ## *A furnace-made and mine-dug mineral used in eye medicines and skin-forming plasters; the translator's heading to 5-84 reads "Cadmium Earth — Cadmia", and the chapter text gives no composition* | *(Volume II — Mineral)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -43,6 +43,8 @@ General, well-established facts only. Zinc oxide is a mild astringent and drying
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(b) Framed; no cultivation status.* Dioscorides has no subtle-body system, and none is asserted here. What this chapter offers a practitioner is the discipline of attention that runs through his work: provenance (Cyprian best; Macedonian, Thracian and Spanish worthless), form (clustered, ash-coloured, rusty within), and a set of tests against counterfeit (chewing, the vinegar paste, the behaviour in fire). That is a practice of assay, and it is attested for this substance in the chapter itself. It is not a cultivation status; the chapter makes no claim about the person's constitution, vitality or long life.
+
+**Unani / Avicenna (CM).** The *Canon* has two entries, for the gold and the silver *qulimiya* (*Canon* Book II, entry *qulimiya al-dhahab*, Arabic text line 17534; entry *qulimiya al-fidda*, line 17540). The silver entry says cadmia may be made from gold and silver, or from copper and from marcasite, as dross rising over the smelting or as smoke, the part that settles being in plates. The best is the golden, grape-cluster, ash-coloured, fresh kind. Temperament: gold cadmia is "معتدل إلى يبس في الثالثة" ("moderate, tending to dryness in the third degree"); silver cadmia is near it and colder. Actions: "فيه تجفيف وجلاء" ("drying and cleansing"), mild and without sting, the washed kind best for ointments. Eye: it helps white spots and the beginning of cataract and strengthens the eye. Wounds: silver cadmia, dusted on, helps scab and moist or stubborn ulcers. Neither entry mentions innate heat or radical moisture. **(b) — drying and cleansing eye and wound actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. Cadmia is a dangerous metallic furnace product that Dioscorides used for eyes and ulcers; the Codex does not recommend taking, burning or applying it. The chapter's lasting lesson is the chewing, paste and fire tests: how to inspect a material before trusting it, and how readily a stone can pass for a drug. No dose is given in the sources retrieved. [USER: verify]
 

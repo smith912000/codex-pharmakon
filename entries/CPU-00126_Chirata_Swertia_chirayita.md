@@ -43,6 +43,7 @@ Safety framing: a long-used bitter in traditional doses; cautions are the pregna
 ### Scientific Correlation
 
 - **Secoiridoid/xanthone chemistry.** *Swertia chirayita* contains amarogentin, swertiamarin and xanthones with documented hepatoprotective, antimalarial, anti-inflammatory and hypoglycaemic activity. [USER: insert and verify a specific real citation — authors, year, journal.]
+- **Comprehensive review.** Swati K, Bhatt V, Sendri N, Bhatt P, Bhandari P (2022), "*Swertia chirayita*: A comprehensive review on traditional uses, phytochemistry, quality assessment and pharmacology", *J Ethnopharmacol* 300:115714, DOI 10.1016/j.jep.2022.115714. Covering literature to March 2022, the review reports approximately 123 specialised metabolites from the plant, including xanthones, seco-iridoids, terpenoids, alkaloids and flavonoids, and extracts or isolated compounds with reported anti-inflammatory, antioxidant, antitumor, hepatoprotective, antiviral, antimalarial and antibacterial effects. The authors also note remaining gaps in mechanistic work, quality control and safety data.
 - **Febrifuge/hepatic use.** The traditional anti-fever and hepatic uses are supported by the constituent pharmacology. [USER: verify and insert one specific citation before asserting clinical efficacy.]
 
 Codex policy: chemistry stated generally; named citations to be supplied and verified by the editor. **Do not fabricate authors, journals or years.**

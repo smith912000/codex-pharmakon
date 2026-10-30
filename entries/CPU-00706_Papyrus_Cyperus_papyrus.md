@@ -2,7 +2,7 @@
 
 ## *Cyperus papyrus* L. | Family: Cyperaceae
 
-**Tradition Tags:** AT (Assyrian), DMM (Dioscorides), EP (Ebers)
+**Tradition Tags:** AT (Assyrian), DMM (Dioscorides), CM, EP (Ebers)
 **Energetic Classification:** Cool and dry; drying, mildly astringent (Galenic, by inference from related sedges)
 **Training Phase:** Foundation
 
@@ -62,6 +62,8 @@ According to PubMed, the modern research literature on *Cyperus papyrus* is over
 **Assyrian (AT).** The Mesopotamian repertory used reeds and sedges (*Cyperus* and allies) broadly as drying, absorbent materials in dressings and in ritual, but the association for papyrus sits at the level of the reed/sedge material class, not a securely isolated monograph, and the standing blocking warning applies to every Assyrian substance identification and tablet reference. No cultivation status can be asserted. **(c) absent.**
 
 **Greek — Dioscorides (DMM).** *De Materia Medica* discusses *papyros* chiefly as papermaking material and records only modest surface uses — the charred paper as a mild, drying, astringent dressing to check spreading sores, its ash valued for absorbency. Dioscorides carries no subtle-body system into which a cultivation status could be entered; what the tradition offers a cultivator is his discipline of attention — the manufacture and quality of the sheet, the assay of the ash, the drying "staying" action judged by the senses. That is a practice of material judgement, not a vital-body doctrine. **(c) absent** as to cultivation status.
+
+**Unani / Avicenna (CM).** The Canon has two entries. In *bardī* Avicenna says it is well known, that paper (*qirṭās*) is made from it, and that it has the power of paper, the burnt form drying more. Its temperament: «بارد يابس», "cold and dry". It benefits bleeding, and its ash stops it; it is sprinkled on fresh wounds and closes them; soaked in vinegar and dried it goes into fistulas and spreading ulcers. The ash helps mouth ulcers and holds back spitting of blood; wrapped in linen, dried and applied, it helps haemorrhoids (*Canon* Book II, entry *bardī*, Arabic text line 11380). The separate entry *qirṭās* (paper itself) gives a different grading, hot in the first degree and dry in the second, and says the burnt form checks spitting of blood and nosebleed and helps ringworm (*sa'fa*) (*Canon* Book II, entry *qirṭās*, Arabic text line 17629). The two gradings are reported as written. Both entries are about astringing and drying, and neither concerns innate heat, radical moisture or the conservation of life. **(b) — Therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** There is nothing here to take for vitality. Across all three traditions papyrus is worked externally and materially — a charred, absorbent, mildly astringent ash for surface sores; a starchy pith food; above all the substrate on which the written pharmacopoeia survives. Its true "medicine," in the Codex's own reading, is preservation: it is the reed that carried the record of every other plant. A cultivator uses better-evidenced drying agents for an actual wound and keeps papyrus for what it genuinely is — the material foundation of the tradition, not a substance ingested to build the person.
 

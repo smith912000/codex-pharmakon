@@ -1,6 +1,6 @@
 # Electric ray — Narke (ΝΑΡΚΗ), "Sea torpedo" (Dioscorides, De Materia Medica 2-17)
 ## *The electric ray: the Osbaldeston English prints "SUGGESTED: Torpedinidae — Electric Ray" under the Greek heading NARKE, and calls it the "sea torpedo" in the chapter* | *(Volume III — Animal)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -39,6 +39,8 @@ General, well-established facts only. Electric rays (order Torpediniformes) prod
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(c) Absent.* Dioscorides has no subtle-body system, and none is supplied here. The chapter is two short external remedies. It assigns the sea torpedo no cultivation status, and no passage read connects it to *pneuma* or to any practice. Unlike many of his plant and mineral chapters it offers not even a discipline of attention (no provenance, season, assay or adulteration), so the entry has nothing to say under that heading either.
+
+**Unani / Avicenna (CM).** The *Canon* has an entry headed *ra'ada*, the numbing fish (*al-samaka al-mukhaddira*) (*Canon* Book II, entry *ra'ada*, Arabic text line 18015). No temperament is given. Head: it is said that the electric ray laid on the head of a headache sufferer removes the headache; Galen, as the entry reports, thinks it works only while alive, having tried the dead fish and seen no effect. Joints: Paul says the oil in which this fish is cooked quiets recent joint pains when rubbed on. Excretory organs: used as an application it tightens the anus at once when it has been forced out, and draws in piles. The entry thus carries both the claim and the physician's doubt about it, and none of its uses concerns the eye, chest or digestion. It makes no use of innate heat or radical moisture and ascribes no long-life action to the fish. **(b) — external therapeutic actions attested, with Galen's doubt; no cultivation status.**
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The chapter is a pair of remedies for a chronic sore and a displaced part, and the Codex does not recommend them. The honest use of the entry is as a record. No dose is given in the sources retrieved. [USER: verify]
 

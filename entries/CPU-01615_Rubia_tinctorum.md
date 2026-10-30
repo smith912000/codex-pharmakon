@@ -1,7 +1,7 @@
 # Rubia tinctorum — Eruthrodanon (Dioscorides 3-160); erythodanon, eruthrodanum, rubia passiva, teuthrion
 
 ## *Rubia tinctorum, the second Latin name on the first of the two groups of names on the translators' SUGGESTED line for 3-160 ("Rubia sativa [Fuchs], Rubia tinctorum [Fuchs, Linnaeus], Rubia tinctorum sativa [Bauhin] — Dyer's Madder"); the line's second group gives "Rubia sylvestris [Fuchs], Rubia sylvestris laevis [Bauhin], Gallium molugo — Hedge Bedstraw [Mabberley]" and "[other usage] Rubia peregrina — Wild Madder"* | *(Volume I — Plant-Based)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -44,6 +44,8 @@ No clinical studies were retrieved for this entry. [USER: verify] The one well-e
 ### Cultivation Register
 
 **Greek — Dioscorides (DMM).** *(b) Framed, not a cultivation status.* Dioscorides has no subtle-body system, and none is manufactured here. The chapter records no amuletic use. What it offers is the discipline of attention that the cultivation spec describes for this tradition: provenance (the places where it is sown, wild against sown), a plant told by its four-cornered rough stalks and leaves in circles like stars, the colour sequence of the seed, and, most distinctly, an instruction to watch the effect on the person: the drinker is to be washed daily and the difference of the excrement viewed. The plant is given no status beyond a dye and a list of remedies. The identification is the translators'.
+
+**Unani / Avicenna (CM).** Two Canon entries concern the dyers' plant. The first, *ʿurūq al-ṣabbāghīn* (dyers' roots), grades it «حار يابس إلى الثانية», "hot and dry to the second degree", with strong cleansing; chewed it helps toothache, its juice «نافعة جدا في تحديد البصر», "is very useful in sharpening the sight" and clearing the water and whiteness before the pupil, and it helps jaundice from obstruction, especially with anise and white wine (*Canon* Book II, entry *ʿurūq al-ṣabbāghīn*, Arabic text line 16569). The second, *fuwwat al-ṣabbāghīn*, is astringent in taste and cleanses moderately; with vinegar it is put on ringworm and on white vitiligo. Taken as a drink it helps sciatica and palsy with a defect of sensation; the fruit with oxymel is given for swollen spleen. It cleanses the liver and "opens the obstructions of both, and that is its property" (*Canon* Book II, entry *fuwwat al-ṣabbāghīn*, Arabic text line 16861). It also drives urine strongly, even to blood, so the drinker should bathe daily, and it provokes menses. Innate heat and radical moisture do not enter. **(b) — Therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It offers a dye, a diuretic, a pessary and a skin remedy, so it is history and not a practice, and the one piece of method that is portable, watching the body's output while taking a strong drug, is not a reason to take it. The abstentive answer is the honest one.
 

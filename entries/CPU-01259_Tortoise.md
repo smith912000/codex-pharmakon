@@ -1,6 +1,6 @@
 # Tortoise — "Tortoise", "Tortoise-shell", "Brain-of-a-Tortoise", "Tail-of-a-Tortoise" (Bryan 1930, Ebers Papyrus; no Egyptian word printed in the list)
 ## *The tortoise, as Bryan's English identification names it; the list gives no Egyptian word and no binomial* | *(Volume III — Animal)*
-**Tradition Tags:** EP
+**Tradition Tags:** EP, CM
 
 ---
 
@@ -47,6 +47,8 @@ General, well-established facts only. A white growth in the eye may be a catarac
 ### Cultivation Register
 
 **Egyptian / Ebers (EP).** *(b) Framed; no cultivation status.* The Ebers material is indication-organised: it records what was done for a complaint, not what a substance does to the person's *ka*, *ba*, *akh* or *ib*. The tortoise appears in recipes for ulcers, an abscess, the ear, hair and the eyes, and none assigns it a place in the person. The frame that does apply is *heka*: in the Egyptian practice spell and drug are components of one intervention, and the tortoise brain in honey for the white growth is printed with a spell to be repeated over it (lines 2806-2819). That is the one recipe in which a recitation and the tortoise are joined in what I read. For the other recipes Bryan reports no recitation, and since he summarises, that is no proof that the papyrus gives none. The spell does not mention the tortoise, and Bryan names no deity as attached to it.
+
+**Unani / Avicenna (CM).** The Canon entry *sulaḥfāh* distinguishes a land and a sea tortoise and gives no temperament. Every use is hedged or limited. Under the organs of the head: «دم البري منه قد قيل إنه ينفع من الصرع مشويا», "it has been said that the blood of the land kind, roasted, helps epilepsy", and the gall is used for aphthae and dropped into the nostrils of an epileptic. Under the chest, the egg is for children's cough and the gall a smear for angina. Under poisons, the blood of the sea kind with rennet is good for bites and for one who has been given a euphorbia drink (*Canon* Book II, entry *sulaḥfāh*, Arabic text line 16168). There is no dose, no preparation and no humoral statement. The entry is a short list of reported animal remedies, and innate heat and radical moisture do not enter; it carries no longevity or cultivation claim. **(b) — Therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The tortoise appears in the Ebers material as a source of shell and brain in ordinary remedies, one of them joined to a spell, and the Codex does not recommend the medical uses. What the record does show is that the drug and its recitation were one act, so that taking the brain without the words would have been, for the papyrus, half the prescription. No dose is given in the sources retrieved. [USER: verify]
 

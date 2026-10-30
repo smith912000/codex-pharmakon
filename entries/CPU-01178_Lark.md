@@ -1,6 +1,6 @@
 # Lark — Korudallos, as printed in the English edition of Dioscorides (Alauda arvensis — Skylark, Crested Lark)
 ## *The lark, a small crested songbird; the translator's identification is Alauda arvensis, skylark or crested lark* | *(Volume III — Animal)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -37,6 +37,8 @@ Greek: the chapter prints no warming, cooling, drying or moistening quality. Non
 ### Cultivation Register
 
 **Greek (DMM).** *(c) Absent.* Dioscorides has no subtle-body system, and none is manufactured here. The chapter gives a description and one use, and it states no cultivation status. What the text does demonstrate is recognition by sight: the crest is the identifying mark it chooses (line 5172). That is a small instance of the attention to the material's appearance that the Greek text shows, and it is not a cultivation claim.
+
+**Unani / Avicenna (CM).** The *Canon* gives the lark, *qubbar*, an entry of a single sentence, under the digestive organs heading only (*Canon* Book II, entry *qubbar*, Arabic text line 17768): "إذا استمرىء غذى غذاء كثيرا ولكنه بطيء الهضم" ("if it is well digested it nourishes abundantly, but it is slow to digest"). So the lark is a food in this entry, not a drug of the head, eye or chest. The entry gives no temperament by degree, no preparation, no dose and no account of any other organ. It does not repeat the use for colic that Dioscorides gives the lark, so that use is not attested here. Innate heat and radical moisture are not mentioned, and nothing ties the bird to a long-life or restorative status. The bird's attested role is nourishment, with the stated drawback of slow digestion. **(b) — a nutritive action attested, with slow digestion; no cultivation status.**
 
 **Practitioner's note.** Nothing. There is no cultivation role for the lark in this text.
 

@@ -2,7 +2,7 @@
 
 ## *Tribulus terrestris* L. — Goat's Head, Caltrop, Devil's Thorn, Land Caltrops, Bindii
 
-**Tradition Tags:** DMM, CM, TCM, SS, FMT
+**Tradition Tags:** DMM, CM, SBJ, TCM, SS, FMT
 **Tags (previous line, retained for reference):** CM, DMM, SS, FMT
 
 **Energetic Classification (TCM):** ◈ Jing primary / ◉ Qi secondary
@@ -103,6 +103,8 @@ Adimoelja A (2000) "Phytochemicals and the breakthrough of traditional herbs in 
 ### Cultivation Register
 
 **Greek — Dioscorides (DMM).** *De Materia Medica* Book IV describes *Tribolos* as a thorny plant whose hard spined fruit was given for strangury, urinary obstruction and stone — a diuretic classed mildly warm and dry, moving fluids downward and clearing blockage. Dioscorides carries no subtle-body doctrine to which a cultivation status could attach; the passing note that Greek athletes "may" have used it as a tonic is fragmentary in the ancient sources and cannot be built upon. What the tradition offers a cultivator is his discipline of attention — the recognition of the true fruit, its season and provenance, the assay of a genuine drug. That is a practice of sensory judgement, not a vital-body assignment. **(c) absent** as to cultivation status.
+
+**Divine Farmer's Classic (SBJ).** *(a) Attested.* Sun Xingyan's reconstruction of the *Shennong bencao jing* places 蒺藜子 (the caltrop fruit) in the upper classic, the grade the preface assigns to drugs that nourish life, correspond to heaven, are non-toxic and may be taken for a long time. The 味 paragraph opens "味苦，温" (bitter, warm). It gives the indications as "主恶血，破症结积聚，喉痹，乳难" (it governs bad blood, breaks up hard lumps and accumulations, and treats throat blockage and difficult lactation). It then carries a long-use clause: "久服，长肌肉，明目、轻身" (taken for a long time, it grows flesh, brightens the eyes and lightens the body). The text lists the other names 旁通, 屈人, 止行, 豺羽 and 升推, and says it grows in level marshes or by the roadside. The *Mingyi bielu* adds the names 即藜 and 茨 and says the fruit is gathered in the seventh and eighth months and dried in the sun; that is a later layer, not the Shennong text. (*Shennong bencao jing*, Sun Xingyan ed. 1799, upper classic, entry 蒺藜子 *jili zi*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 729)
 
 **Unani — Avicenna (CM).** In the Graeco-Arabic tradition the fruit is *Khār-e-Khasak* (also *Gokhrū*), classed among the diuretic and lithontriptic drugs — given to break and pass urinary gravel and stone (*ḥaṣāt*), to ease dysuria, and with a secondary reputation as a strengthening (*muqawwī*) agent for the urinary and generative organs. The Unani cultivation idea — the conservation of innate heat and radical moisture — is a frame of the whole regimen, not a status assigned to this cooling diuretic; no such standing is recorded for it in the sources retrieved. Its place is therapeutic — a stone-and-urine drug with a tonic reputation — not a cultivation grade. **(b) framed.**
 

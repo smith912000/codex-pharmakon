@@ -2,7 +2,7 @@
 
 ## *Achillea millefolium* L. | Family: Asteraceae
 
-**Tradition Tags:** DMM, BM
+**Tradition Tags:** DMM, SBJ, BM
 
 **Energetic Classification:** Cool-dry with a bitter-pungent edge; astringent to the surface, relaxant-diaphoretic to the interior. A plant that closes what is open and opens what is closed.
 
@@ -109,6 +109,8 @@ Cool and dry. Bitter, pungent, astringent. Assigned in Western humoral practice 
 ### Cultivation Register
 
 **Dioscorides (DMM).** Yarrow is attested as stratiotes chiliophyllos, De materia medica 4-103 (Osbaldeston & Wood 2000): a small shrub of rough fields and roadsides, with leaves like a young bird's feathers and small white flowers, described as excellent for excessive discharge of blood and for old and new ulcers and fistulas. This is a therapeutic attestation with no cultivation status. Dioscorides has no subtle-body system. What the passage offers a cultivator is a discipline of attention: a field description for identifying the plant by leaf, flower and habitat. The passage does not mention Achilles, so the "herb of Achilles" framing in the entry is not from this chapter.
+
+**Divine Farmer's Classic (SBJ).** *(a) Attested.* The Chinese drug is 蓍实 (*shi shi*, "yarrow fruit"), usually identified as the fruit of *Achillea alpina*, a congener of this entry's *A. millefolium*; the Shennong text does not speak of *A. millefolium* itself. Its 味 paragraph begins 味苦，平, "bitter in flavour, neutral", and says it "governs adding to the qi, filling the flesh and skin, brightening the eyes, sharp wits and wisdom, and foreknowledge" (主益气，充肌肤，明目、聪慧、先知). The key life-nourishing clause is 久服，不饥、不老、轻身, "taken for a long time: not hungry, not growing old, the body lightened". It ends 生山谷, "grows in mountain valleys". It stands in the upper classic; the preface says the upper grade is for nourishing life, corresponds to heaven, is non-toxic and may be taken for a long time. The grade and the 久服 clause are the classic's own claim for this drug and say nothing about the European plant. (*Shennong bencao jing*, Sun Xingyan ed. 1799, upper classic, entry 蓍实 *shi shi*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 599).
 
 **Nahua, Badianus (BM).** No cultivation framing is attested. The entry's Nahua paragraph rests on colonial-era herbal identifications of tlalquequetzal and marks them as disputed, and it does not cite the Badianus itself; the attestation was not confirmed here. The plant is not an anachronism, since yarrow is native to North America. The Badianus is naturalistic; the tonalli, teyolia and ihiyotl model comes from later ethnohistory (Lopez Austin) and is not in the manuscript.
 

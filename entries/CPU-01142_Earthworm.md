@@ -1,6 +1,6 @@
 # Earthworm — Entera Ges (Dioscorides, De Materia Medica 2-72), "Lumbricus — Earthworms"; "Worms from the soil"
 ## *The earthworm, as Dioscorides' chapter 2-72 is headed in the Osbaldeston English: "Lumbricus — Earthworms" is the edition's gloss on the Greek heading, and the chapter's own words are "Worms from the soil"* | *(Volume III — Animal)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM, SBJ
 
 ---
 
@@ -43,6 +43,10 @@ General, well-established facts only. A fever that returns every third day is a 
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(c) Absent.* Dioscorides has no subtle-body system, and none is supplied here. The chapter is five short remedies. It assigns the earthworm no cultivation status, and no passage read connects it to *pneuma* or to any practice. Unlike many of his plant and mineral chapters it offers not even a discipline of attention (no provenance, season, assay or adulteration), so the entry has nothing to say under that heading either.
+
+**Unani / Avicenna (CM).** The Canon entry *kharāṭīn* is brief, and Avicenna's temperament is his own inference: «يجب فيما أقدر أن يكون حارا», "as far as I can judge, it must be hot". Under wounds, the crushed worms are bound on nerve wounds and not removed for three days, when it is "very useful". Under the head, a decoction with goose fat helps earache and is dropped in with oil on the opposite side. Under the digestive organs, given with *ṭilā'* (boiled-down wine) it cures jaundice. Under the excretory organs, crushed fine and given in the same wine it provokes urine and helps stone (*Canon* Book II, entry *kharāṭīn*, Arabic text line 19358). No degree is given and no dose. The entry is wound, ear, jaundice and stone medicine, and it carries no statement about innate heat, radical moisture or the conservation of life; the heat it ascribes is a therapeutic quality. **(b) — Therapeutic actions attested; no cultivation status.**
+
+**Divine Farmer's Classic (SBJ).** *(b) Framed; no cultivation status.* The paragraph for 蚯蚓 (earthworm) reads 味咸，寒 ("salty, cold"). The classic files it in the lower grade (下品); its preface says lower-grade drugs treat disease, are toxic, and are not for long use. It governs "snake conglomerations" (主蛇瘕), expels the "three worms", hidden corpse illness, "ghost infusion" and gu poison (去三虫、伏尸、鬼注、蛊毒), and kills long worms (杀长虫). It adds 仍自化作水 ("it also turns itself into water") and the habitat 生平土 ("grows in level ground"). There is no 久服 ("taken long") clause. The Mingyi bielu, not the Shennong text, gives the alias 土龙 ("earth dragon") and the month for taking it. The paragraph is a flavour, nature and indication list with no status for the person, so the register is (b). (*Shennong bencao jing*, Sun Xingyan ed. 1799, lower classic, entry 蚯蚓 *qiuyin*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 3867)
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The chapter is a list of five remedies for injuries and complaints and the Codex does not recommend them. The honest use of the entry is as a record. No dose is given in the sources retrieved. [USER: verify]
 

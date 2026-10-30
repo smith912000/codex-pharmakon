@@ -1,6 +1,6 @@
 # Galactite (milk stone) — Galaktites lithos, Dioscorides 5-150
 ## *An ash-coloured, sweet-tasting stone so called "because it exudes milky stuff", rubbed on for discharges and ulcers of the eyes and beaten in water in a lead box because of its glueyness; the translator gives no identification ("UNKNOWN")* | *(Volume II — Mineral)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -53,6 +53,8 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(b) Framed; no cultivation status.* Dioscorides has no subtle-body system and none is supplied. What the herbal offers a cultivator is a discipline of attention (provenance, season of gathering, sensory assay, adulteration detection), and this chapter shows a little of it: a colour, a taste and a handling note based on the stone's behaviour in water. It gives no place, season, test for quality or adulterant. The chapter is therapeutic and carries no cultivation status. The milk-name connects, in 5-151, to a reported amulet use; that belongs to another chapter, is reported with "they say", and is not a cultivation claim.
+
+**Unani / Avicenna (CM).** The *Canon* entry *al-Ḥajar al-labanī* (the milk stone) describes a stone that, rubbed with water, gives off something like milk; it is ash-grey and sweet in taste, ground with water, and what dissolves from it is kept in a lead box (*Canon* Book II, entry *al-Ḥajar al-labanī*, Arabic text line 13408). No temperament or degree is printed. Under swellings and pustules it helps the beginning of hot swellings, but "لا يبلغ أن ينفع نفعا عند انتهائها" ("it does not come to benefit at their end"), that is, it does not carry them to cure. Under the eye organs, the scrapings are used as a collyrium with water, which "يمنع سيلان الفضول إلى العين" ("prevents the flow of superfluities to the eye") and the sores that arise in it. Those are the entry's only two uses. It makes no statement about innate heat, radical moisture or prolonging life, and its two uses are both external and local. **(b) — therapeutic actions attested (early hot swellings, eye flux and sores); no cultivation status.**
 
 **Practitioner's note.** Nothing to take from it for cultivation beyond the habit of noting a material's colour, taste and how it behaves when wetted. The stone itself is unidentified, and the chapter's use is on the eye. It is not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 

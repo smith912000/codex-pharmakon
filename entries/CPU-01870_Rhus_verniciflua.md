@@ -1,7 +1,7 @@
 # Rhus verniciflua — Shri khenda, shri khan da (rGyud-bzhi, Men-Tsee-Khang glossary by column position); printed "Rhus vemiciflua"
 
 ## *Rhus verniciflua, as the Men-Tsee-Khang 2011 Glossary on Medicinal Ingredients prints it (OCR "Rhus vemiciflua", line 5808) as the fourth scientific name of its second "S" run, which column order sets against the name Shri khenda (shri khan da) with no English name ("-"); Clark 1995 prints no Rhus in his entry for the same Tibetan name, shri.khanda, and gives it Euphorbia sp., Fritillaria verticillata and Stewartia sp.* | *(Volume I — Plant-Based)*
-**Tradition Tags:** FMT
+**Tradition Tags:** SBJ, FMT
 
 ---
 
@@ -44,6 +44,8 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 - **FMT:** none is given in the Men-Tsee-Khang text. Clark's commentary layer (inside the brackets, line 989) prints astringent and slightly bitter tastes for the tree; no potency or post-digestive taste is printed.
 
 ### Cultivation Register
+
+**Divine Farmer's Classic (SBJ).** *(a) Attested.* The Chinese drug is 干漆 (*gan qi*, "dried lacquer"), the dried sap of the lacquer tree, now named *Toxicodendron vernicifluum*, which is the tree this entry names as *Rhus verniciflua*. The Shennong text speaks of the lacquer, not of the Tibetan purgative that the entry describes. Its 味 paragraph reads 味辛，温，无毒, "pungent in flavour, warm, non-toxic", and "governs severed wounds, supplements the centre, joins sinews and bones, fills marrow and brain, calms the five organs, the five slackenings and six tightenings, and wind, cold and damp numbness". It adds that fresh lacquer (生漆) "removes long worms" (去长虫). The life-nourishing clause is 久服，轻身、耐老, "taken for a long time: the body is lightened, and one endures old age". It stands in the upper classic; the preface says the upper grade is for nourishing life, corresponds to heaven, is non-toxic and may be taken for a long time. (*Shennong bencao jing*, Sun Xingyan ed. 1799, upper classic, entry 干漆 *gan qi*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 1231).
 
 **Tibetan — rGyud-bzhi (FMT).** *(b) Framed, not a cultivation status.* The drug is in the rGyud-bzhi as a drastic purgative (Men-Tsee-Khang lines 3427 and 3661; Clark lines 989 and 1225). Its place is therapeutic. The rejuvenation chapter (chapter 23: Clark lines 1264 to 1276; Men-Tsee-Khang lines 3904 to 3945) calls for internal cleansing before the course; the compound it names for that is the three myrobalan fruits with other drugs, and "Shri khenda" is not named in it. No line read assigns the drug a status in rejuvenation or in *bcud len* (essence extraction). The cultivation spec records that in this tradition medicine is the third of four treatment branches, supporting practice without reaching its root, and that no formal category of substances for subtle-body practice exists. [USER: verify]
 

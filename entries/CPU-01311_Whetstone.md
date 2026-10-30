@@ -1,6 +1,6 @@
 # Whetstone — Akone (as printed in the 2000 English edition of Dioscorides)
 ## *"Whetstone: fine grained stone for sharpening blades", the translator's gloss under the heading 5-168 AKONE; the text itself names only the Naxian whetstone and says what comes off it when iron is rubbed on it* | *(Volume II — Mineral)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -41,6 +41,8 @@ General, well-established facts only. Hair loss has many causes, and a mineral g
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(c) Absent.* No cultivation framing is attested for the whetstone residue. Dioscorides has no subtle-body system and none is supplied here. What he offers a cultivator is a discipline of attention, and this chapter offers a small instance: it names the kind of whetstone (Naxian) and the circumstance in which the material arises (iron rubbed on it) before saying what it does, and does not claim that any whetstone will serve. It records no amuletic use. The chapter is therapeutic and cosmetic, and assigns no cultivation status. The use to prevent maidens' breasts from growing is a statement about an effect on the body of young women, and it is recorded here only as part of the chapter.
+
+**Unani / Avicenna (CM).** The *Canon* entry on the whetstone (*Ḥajar al-misann*) is among its briefest, and it begins with no temperament and no description of the stone (*Canon* Book II, entry *Ḥajar al-misann*, Arabic text line 13419). It gives two uses only, both external. Under cosmetics, "its scrapings are applied to the breast and the testicle so that they do not grow large" (حكاكته على الثدي والخصية لئلا تعظم). Under swellings and pustules, "its scrapings are good for hot swellings of the breast" (حكاكته جيدة لأورام الثدي الحارة). What is used is the stone's scrapings, and both uses are on the surface of the body. Avicenna says nothing here about its degree of heat or dryness, about any organ other than the breast and testicle, or about innate heat and radical moisture, and the stone has no standing in the conservation of life. The account is of an external mineral application and of nothing beyond it. **(b) — therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The entry records that a Greek physician gave four uses for the residue of a Naxian whetstone: for baldness, to stop breast growth, and, with vinegar, for spleen and epilepsy. The Codex does not recommend repeating any of them. The thing a reader can take is the care of the naming: a particular whetstone, a particular way the material was obtained. No dose is given in the sources retrieved. [USER: verify]
 

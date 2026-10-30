@@ -1,6 +1,6 @@
 # Silkworm / Silk — Kausheya, Dukulum, "silk" (Bhishagratna) / 白僵蠶 (project Shennong list) / "Silkworm / Silk, Bombyx mori" (project rGyud-bzhi list)
 ## *The silkworm and the silk it spins; the binomial Bombyx mori appears only in the project's rGyud-bzhi list row, no text on disk prints one, and the Shennong row is in Chinese characters only* | *(Volume III — Animal)*
-**Tradition Tags:** SBJ, SS, FMT
+**Tradition Tags:** CM, SBJ, SS, FMT
 
 ---
 
@@ -34,6 +34,8 @@ Silk is a protein fibre used in sutures and dressings today; burnt textile ash w
 - SBJ: none read (monograph pages unreadable). FMT: none read.
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* entry *Ibrīsam* (silk) opens by calling it "من المفرحات القلبية" ("among the heart-gladdeners"), and gives its temperament as hot in the first degree and dry in the first (*Canon* Book II, entry *Ibrīsam*, Arabic text line 10666). The best is raw silk; boiled silk is used if not dyed, and the *muqazzaz* is preferred to the burnt. For its actions he says it has refining (*talṭīf*), drying and gladdening "بخاصية فيه" ("by a property in it"). Under the digestive-organs heading it helps hardness of the lung by its bitterness and tanning, since it refines and dries without sting and its dryness is moderate. Under the eye it is made into a collyrium that checks tearing and dries sores of the eye. He closes by counting it among the medicines that strengthen the spirit (*rūḥ*) and the stomach in the handling of food, and adds that this is "without a weight", so no dose is fixed. Innate heat and radical moisture are not named in the entry. The only link to the Unani frame is the strengthening of the spirit and stomach, which is a therapeutic statement about those organs and not a stated gain in lifespan. **(b) — therapeutic actions attested (heart-gladdening, lung, eye, spirit and stomach); no cultivation status.**
 
 **Divine Farmer's Classic (SBJ).** *(b) Framed, status not read.* The row 白僵蠶 is in the project's list, but the Animals pages of Yang 1998 are unreadable and no *san pin* grade could be read. The list file orders its rows by class (Shi Dan, row 119, is printed in Yang under Middle Class), and the row (226) sits in the block of animal rows (215-238) after that point and before the inferior-class stones (from row 239); that suggests the middle class but does not prove it. If so, the preface says the middle class "mainly nurture personality ... may or may not be toxic" (Yang lines 385-388), and no cultivation claim is made on that basis. [USER: verify]
 

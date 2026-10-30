@@ -1,6 +1,6 @@
 # Slug — rGyud-bzhi, na.bun.bu.mo (Clark's "Slug"; Men-Tsee-Khang's "Nabun bhumo", glossed "Snail")
 ## *A soft-bodied mollusc; Clark prints the Tibetan na.bun.bu.mo and translates it "Slug", Men-Tsee-Khang's glossary renders the same name "Snail", and neither gives a binomial in the lines read* | *(Volume III — Animal)*
-**Tradition Tags:** FMT
+**Tradition Tags:** SBJ, FMT
 
 ---
 
@@ -33,6 +33,8 @@ General, well-established facts only. Slugs and snails are the intermediate host
 **Tibetan / rGyud-bzhi (FMT).** None is printed. The Clark line (1202) and the Men-Tsee-Khang line (3573) give an indication only: no taste, potency, post-digestive taste or humoral action. The sweet taste and post-digestive taste that Clark prints for meats (line 673) concern the flesh of the animals in the meat classification, which does not list molluscs, and they are not applied here. No Chinese classification applies: the entry is not tagged SBJ.
 
 ### Cultivation Register
+
+**Divine Farmer's Classic (SBJ).** *(b) Framed; no cultivation status.* The paragraph for 蛞蝓 (slug) reads 味咸，寒 ("salty, cold"). The classic files it in the middle grade (中品); its preface says middle-grade drugs nourish the nature, and some of them are toxic. It names the complaints as "wind-thief" and a twisted face or mouth (主贼风 僻, with one character missing in this transcription), "sinew spasm" or slackening (轶筋), prolapse of the rectum (脱肛), and "fright epilepsy with contracted limbs" (惊痫挛缩). It gives the alias 一名陵蠡 ("also called Lingli") and the habitat 生池泽 ("grows in pools and marshes"). There is no 久服 ("taken long") clause. The Mingyi bielu adds further aliases and the month for gathering; those lines are not the Shennong text. The paragraph is a flavour, nature and indication list with no status for the person, so the register is (b). (*Shennong bencao jing*, Sun Xingyan ed. 1799, middle classic, entry 蛞蝓 *kuoyu*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 2755)
 
 **Tibetan / rGyud-bzhi (FMT).** *(c) Absent.* Neither translation read gives the slug any cultivation framing. It is a one-clause indication in a run of small creatures, and the complaint is a discharge. The frame around it is the tradition's own: the project's cultivation spec records that the three *nyes pa* (*rlung*, *mkhris pa*, *bad kan*) are derived from the three poisons and that medicine is the third of four treatment branches, supporting practice without reaching its root. That point comes from the spec and not from any line about the slug. No source read attaches the slug to *bcud len* (essence extraction), and there is no formal Tibetan category of substances for subtle-body practice. Clark's remark (line 57) that "only very few animal products are used" nowadays is a note on usage, not on status.
 
