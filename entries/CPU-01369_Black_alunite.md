@@ -1,6 +1,6 @@
 # Black alunite (vitriol) — nag.mtsur (Tibetan) / Nag tshur (Men-Tsee-Khang spelling)
 ## *A greenish-yellow mineral glossed "Black Alunite: Vitriol" by Clark (1995); its yellow type is ser.mtsur, glossed "fibroferrite"* | *(Volume II — Mineral)*
-**Tradition Tags:** FMT
+**Tradition Tags:** CM, FMT
 
 ---
 
@@ -51,6 +51,8 @@ No clinical studies were retrieved for this entry. [USER: verify] General facts 
 ---
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* entry *Zāj* (vitriols) treats the whole family together, white, red, green and yellow (*qalqadīs*, *qalqand*, *sūrī*, *qalqaṭār*), as dissolvable substances mixed with stones that do not dissolve, once fluid and then set; each is like in nature to the one that resembles its colour. The Egyptian green is stronger than the Cyprian, though for eye disease the Cyprian and the unburnt are stronger. Its temperament is "حار يابس في الثالثة" ("hot and dry in the third degree") (*Canon* Book II, entry *Zāj*, Arabic text line 12506). The action: "كلها محرق يحدث الخشكريشة" ("all of them burn and produce an eschar"). Under swellings and sores it helps erysipelas, moist scab and ringworm, and wicks of it are used in fistula. For the head it stops nosebleed, treats gum ulcers and ear sores, and the red *sūrī* firms loose teeth. For the eye it helps hardness and roughness of the lids. Of the lung he says "يجفف الرئة حتى ربما قتل" ("it dries the lung until it may kill"), and gives it a poisonous power for that reason. The entry has no statement on innate heat, radical moisture or prolonging life. The identification with the Tibetan *nag.mtsur* rests on the project's gloss "vitriol", not on a Canon statement. **(b) — therapeutic actions attested (caustic, external, eye and mouth), with a poison warning; no cultivation status.**
 
 **Tibetan / rGyud-bzhi (FMT).** *(b) Framed; no cultivation status.* The Tibetan frame is that the three *nyes pa* (*rlung*, *mkhris pa*, *bad kan*) arise from the three poisons, and that medicine is a branch of treatment that supports practice and does not reach the root. Within it, *nag.mtsur* is a materia-medica mineral chosen by its action against necrosis and tumors (Clark line 867; Men-Tsee-Khang line 3373). No *bcud len* (essence extraction) use of alunite or vitriol was found in the lines read. No formal category of substances for subtle-body practice exists in this tradition, and none is asserted.
 

@@ -1,6 +1,6 @@
 # Wool — Eria (ERIA), "Wool"; burnt wool, Eria kekaumena (ERIA KEKAUMENA)
 ## *The fleece of the sheep, unwashed and still carrying its grease; the translator's heading to Dioscorides 2-82 is "Wool", and no species is named in the chapter text* | *(Volume III — Animal)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -37,6 +37,8 @@ General, well-established facts only. Wool fibre absorbs a large amount of water
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(b) Framed; no cultivation status.* Dioscorides has no subtle-body system, and none is asserted here. What the chapter offers a practitioner is a discipline of attention: it names a grade ("the best, unwashed wool is softest"), a place on the animal ("the neck and the thighs"), and a test by touch, and in 2-83 it gives a test by taste for the washed ash (it must not "bite" the tongue and must be "somewhat astringent"). The chapter makes no claim about the person's constitution, vitality or long life, so the substance carries a therapeutic status only. A cultivation reading of wool would be an imposition.
+
+**Unani / Avicenna (CM).** The *Canon* entry on wool (*ṣūf*) is one sentence under wounds and ulcers: "burnt wool is beneficial for ulcers and for excess flesh" (الصوف المحرق نافع للقروح واللحم الزائد) (*Canon* Book II, entry *Ṣūf*, Arabic text line 17301). The entry gives no temperament, no description of the burning, no dose and no other organ. Its place in Avicenna's account is that of a burnt animal fibre applied to the surface of the body, to dry ulcers and to take down proud flesh. It is not connected in the text with innate heat or radical moisture, and wool has no status in the conservation of life or the cultivation of health there. The entry says nothing about the sheep as a food or about its fleece being worn or woven. **(b) — therapeutic action attested; no cultivation status.**
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. Wool is a dressing, a pad and a carrier in a Greek materia medica. The only lesson the chapter teaches is the habit it models: judge the material by touch and by taste before using it, and choose the softest. The Codex does not recommend raw fleece on wounds. No dose is given in the sources retrieved. [USER: verify]
 

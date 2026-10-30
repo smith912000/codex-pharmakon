@@ -1,6 +1,6 @@
 # Deer fat — "Deer fat" under "Fat" (Clark's English); the same item in the Men-Tsee-Khang English
 ## *The fat of the deer as a remedy in the Tibetan Explanatory Tantra. Clark's translation prints "Deer fat" with no Tibetan headword and no binomial; the source list `_sources/rgyud-bzhi.csv` (line 362) has a row "Deer fat", class animal, from "Explanatory Tantra ch.20 (Efficacy of Medicinal Substances)"* | *(Volume III — Animal)*
-**Tradition Tags:** FMT
+**Tradition Tags:** SBJ, FMT
 
 ---
 
@@ -41,6 +41,8 @@ General, well-established facts only. Animal fat is an energy-dense food and can
 **Tibetan (FMT):** None printed for this item. Chapter 20 says that medicines act by taste and by natural power, and lists eight powers (heavy, oily, cool, blunt, light, coarse, hot, sharp; Clark line 796). The deer-fat entry (line 1180) prints no taste, power or post-digestive taste, and neither does the Men-Tsee-Khang sentence (line 3546). Clark's introduction says that the later *Crystal Orb* and *Crystal Rosary* give each medicine's tastes, potencies and qualities (line 57), but that text is not on disk, so none is supplied here.
 
 ### Cultivation Register
+
+**Divine Farmer's Classic (SBJ).** *(b) Framed; no cultivation status.* The classic has an entry for 麋脂 (*mizhi*, fat of the *mi* deer), which is the nearest Shennong item to this entry's "deer fat"; the text names the *mi*, not deer in general. The paragraph reads 味辛，温 ("acrid, warm"). The classic files it in the lower grade (下品); its preface says lower-grade drugs treat disease, are toxic, and are not for long use. It governs swollen abscesses, malignant sores and "dead flesh" (主痈肿、恶创、死肌), cold, wind and damp numbness (寒、风、湿痹), limbs that are cramped or slack and will not gather (四肢拘缓不收), "wind in the head" and swollen qi, and it "opens the interstices" (通腠理). A second line gives the alias 一名官脂 ("also called Guanzhi") and 生山谷 ("grows in mountain valleys"). There is no 久服 ("taken long") clause, so the register is (b). (*Shennong bencao jing*, Sun Xingyan ed. 1799, lower classic, entry 麋脂 *mizhi*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 3793)
 
 **Tibetan / rGyud-bzhi (FMT).** *(c) Absent.* No cultivation framing is attested for deer fat in the lines read. Chapter 20 assigns it two therapeutic actions, anthelmintic and protective against poisoning, and says nothing about essence extraction (*bcud len*) or any other practice. The Men-Tsee-Khang preface records a Buddhist objection to causing harm to any being as the reason animal products have been replaced by herbs (line 687), which is the tradition's own comment on animal products in general and not a cultivation status for this one.
 

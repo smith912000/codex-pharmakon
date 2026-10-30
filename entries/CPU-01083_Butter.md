@@ -1,6 +1,6 @@
 # Butter — BUTURON (Dioscorides 2-81) / Navanita (Sushruta, "fresh butter")
 ## *Butter: the fat separated from churned milk; Osbaldeston's edition prints "SUGGESTED: Butter" and Bhishagratna renders Navanita as "fresh butter"* | *(Volume III — Animal)*
-**Tradition Tags:** DMM, SS
+**Tradition Tags:** DMM, CM, SS
 
 ---
 
@@ -41,6 +41,8 @@ General facts only. Butter is a concentrated source of milk fat and is energy-de
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(b) Framed; no cultivation status.* Dioscorides has no subtle-body system, and none is supplied. Butter is a material with a therapeutic and culinary record in 2-81 and nothing more. What the chapter does give a cultivator is a discipline of attention: the best butter comes from the fattest milk, ewes' milk first; the making is described (milk stirred in jars until the fat separates); and the condition "neither stinking nor old" is set for the internal and womb uses. The soot recipe adds a second craft detail. These are rules of provenance and freshness, not claims about the person's constitution.
+
+**Unani / Avicenna (CM).** The *Canon* entry *Zubd* opens, without a temperament line, with actions: butter is "ripening, dissolving and relaxing", dissolves more in medium bodies than in hard ones, its smoke is drying, it binds gently and soothes pains of matter flowing to the organs (*Canon* Book II, entry *Zubd*, Arabic text line 12587). In cosmetics, "the body is anointed with it and it nourishes and fattens" (يغذي ويسمن). It helps wounds of the sinew, fills and cleans ulcers, and goes into medicines for wounds of the brain membranes, swellings at the ear roots and of the gums, and is rubbed on children's gums to ease teething (head). For the chest it helps cold dry cough, pleurisy and pneumonia, especially with almonds and sugar, eases expectoration, restrains spitting of blood, and with honey brings up pus. Under the excretory organs it softens the bowel, loosens it in excess, and is injected for hot, hard swellings. It counters poisons and is applied to viper bite. Its nourishing and fattening power is a bodily one; the entry frames nothing in terms of innate heat or radical moisture and gives butter no life-prolonging status. **(b) — therapeutic actions attested; no cultivation status.**
 
 **Ayurveda / Sushruta (SS).** *(b) Framed.* Fresh butter is described in the *Sutrasthana* ch.45 milk-products passage as "spermatopoietic" and as conducing "to the improvement of one's memory and intellectual capacities". Those are properties listed for a food, not a placement in a *rasayana* or *vajikarana* chapter, so they are not read as either status. The *ojas* wording and the "rejuvenating" wording in the same chapter attach to *ghritam* (clarified butter), not to *navanita*, and are not carried over to butter; clarified butter in the *rasayana* meal instructions (*Chikitsasthana* ch.28, lines 96-98, rice with milk and clarified butter after the medicine) is likewise ghee. No claim is made for *tejas* or *prana*. The sattvic food lists are Samkhya-era material, not Sushruta, and are not used.
 

@@ -1,6 +1,6 @@
 # Beeswax — Keros (as printed in Dioscorides 2-105) / Wax, Ibis-of-Wax (Bryan's Ebers)
 ## *Wax of the honeybee (the translator of Dioscorides glosses "Beeswax"); Bryan gives only "Wax" and "Ibis-of-Wax", and files them under the mineral remedies* | *(Volume III — Animal)*
-**Tradition Tags:** EP, DMM
+**Tradition Tags:** EP, DMM, SBJ
 
 ---
 
@@ -35,6 +35,8 @@ General facts only. Beeswax is used in candles, polishes, cosmetics and as an oi
 ### Cultivation Register
 
 **Egyptian / Ebers (EP).** *(b) Framed; no cultivation status.* Wax is an ingredient for a complaint (diarrhoea, toes, tremblings, burns, wounds, ears, wrinkles). Nothing says what it does to the person's *ka*, *ba*, *akh* or *ib*. The Ebers material is indication-organised: the identity of each named substance is a modern hypothesis, and these forms are Bryan's. The "Ibis-of-Wax" is a wax figure burned for fumes. Egyptian practice treats spell and drug as one intervention (*heka*); whether this figure was used with a recitation is not stated in the lines read, and Bryan reports none; since he summarises, that is not proof that none existed. The reason for the ibis form is not given in the passage and no deity is attributed. [USER: verify]
+
+**Divine Farmer's Classic (SBJ).** *(a) Attested.* Sun Xingyan's reconstruction of the *Shennong bencao jing* lists 蜜蜡 (honey wax) in the upper classic, the grade the preface assigns to drugs that nourish life, correspond to heaven, are non-toxic and may be taken for a long time. The 味 paragraph reads "味甘，微温。主下利脓血，补中，续绝伤金创。益气、不饥、耐老。生山谷" (sweet, slightly warm; it governs diarrhoea with pus and blood, supplements the middle, and joins severed wounds and sword cuts; it adds to qi, ends hunger and lets one endure old age; it grows in mountain valleys). The grade is (a) on two grounds: the upper-classic placement, and the paragraph's own life-nourishing wording, 益气、不饥、耐老 (adds to qi, ends hunger, endures old age). The last three effects are listed without a "久服" (taken for a long time) clause, so the text does not tie them to long taking. The *Mingyi bielu* adds that it comes from honeycombs among trees and rocks at Wudu; that is a later layer, not the Shennong text. (*Shennong bencao jing*, Sun Xingyan ed. 1799, upper classic, entry 蜜蜡 *mila*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 1463)
 
 **Greek / Dioscorides (DMM).** *(b) Framed; no cultivation status.* Dioscorides has no subtle-body system and none is supplied here. 2-105 is a pure instance of what he does offer a cultivator: a discipline of attention. Know the origin and look of good wax (pale yellow, fat, sweet, honey-scented; Pontic or Cretan), know how it is bleached over days and nights, with sun and moon, in spring when the dew falls, and know the dose, ten grains of millet. The moon and the dew are part of his method of bleaching, and he does not claim they act on the person. The chapter assigns wax no cultivation status.
 

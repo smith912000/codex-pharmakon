@@ -1,7 +1,7 @@
 # Cocos nucifera — Narikela (Sushruta Samhita, Bhishagratna's Appendix No. 3 and the chapters)
 
 ## *Cocos nucifera, the corrected spelling of the Latin that Bhishagratna's Appendix No. 3 ("Names of Drugs, with Latin synonyms", Vol. III) prints as "Cocos  Nucefera.    Cocoa-nut." (line 32438) against the Sanskrit name Narikela (OCR "Nsrikela", line 32378). The pairing of the Sanskrit name with its Latin line is positional, proposed by an agent from two OCR columns and re-checked here by counting; it is not printed on one line. The chapters themselves print Narikela and, in Uttara ch.12, the translator's gloss "(cocoanut)", so for this plant the chapters and the appendix agree* | *(Volume I — Plant-Based)*
-**Tradition Tags:** SS
+**Tradition Tags:** CM, SS
 
 ---
 
@@ -52,6 +52,8 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 - **SS:** the fruit is called sweet in taste, "cooling in its potency", heavy of digestion, subduing Pittam (Sutra 46, lines 1199 to 1206); the group of fruits is said to subdue Vayu and Pittam. The water is "heavy" (or light, per Jejjada), "cool" and subdues Pittam and thirst (Sutra 45). The oils are "sweet in taste, potency and digestion" and "cooling in their potency", pacifying Vayu and Pittam (Sutra 45). The top-piths subdue Vayu and "generate the Kapham". Narikela is in the Madhura group (Sutra 42).
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* describes the coconut (*jawz hindī*, the *nārjīl*) first by choice: fresh, very white, with sweet water inside, the lack of water showing age, and the skin of the kernel to be removed (*Canon* Book II, entry *Jawz hindī*, Arabic text line 11640). Its temperament is "hot at the start of the second degree, dry in the first", its superfluous moisture not counted, the fresh nut being moist in the first (حار في أول الثانية يابس في الأولى). It is "heavy, yet not bad as nourishment" (ثقيل غير رديء الغذاء). For the joints, old coconut oil helps pains of the back and hips. For the digestive organs it is heavy on the stomach with little harm; the skin of the kernel is not digested, and no food should follow it for an hour; its fresh oil is better in chyme than clarified butter and neither makes the stomach slimy nor slackens it. Under the excretory organs it increases sexual power (يزيد في الباه), and its oil helps hemorrhoids, old oil especially; the passage breaks off there in the source. Its standing is that of a nourishing food and oil, with no claim about innate heat, radical moisture or prolonging life. **(b) — therapeutic and nutritive actions attested; no cultivation status.**
 
 **Ayurvedic — Sushruta (SS).** *(b) Framed, not a cultivation status.* Narikela is named in the dravya chapters on fruits, water, oils and the sweet group (Sutra 42, 45 and 46), and the fruit group is said to "act as constructive tonics" and the fruit itself to be "tonic, tissue-building"; the water and the top-piths are called "spermatopoietic". These are properties of foods in the chapters on food and drink. The rasayana chapters (Chikitsa 27 to 30) and the vajikarana chapter (Chikitsa 26) do not name Narikela, so the text assigns it no rasayana or vajikarana status, and it does not speak of *ojas*, *tejas* or *prana* for it. [USER: verify]
 

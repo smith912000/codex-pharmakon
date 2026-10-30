@@ -1,6 +1,6 @@
 # Sichuan Pepper — Huā Jiāo (花椒)
 ## *Zanthoxylum bungeanum* Maxim. | Family: Rutaceae
-**Tradition Tags:** FMT, TCM
+**Tradition Tags:** FMT, SBJ, TCM
 **Tags (previous line, retained for reference):** FMT  *(Shén Nóng Běncǎo Jīng lineage; rGyud-bzhi — canonical index attests rGyud-bzhi)*
 **Energetic Classification (TCM):** ⊕ Yang — warming interior-cold disperser and pain-reliever; anthelmintic (Wēn Zhōng Zhǐ Tòng / Shā Chóng)
 **Training Phase:** `[RESET]` `[BUILD]`
@@ -75,6 +75,8 @@ The distinctive *má* numbing is not folklore but a defined neuropharmacological
 
 
 ### Cultivation Register
+
+**Divine Farmer's Classic (SBJ).** *(a) Attested.* The Classic has two pepper monographs, both taken here to be Chinese prickly ash (*Zanthoxylum bungeanum*; the identification of the second is medium-confidence, and *Z. schinifolium* or *Z. simulans* are alternatives). (1) 秦椒 (head 秦菽, middle classic): "味辛，温。主风邪气，温中，除寒痹，坚齿发、明目。久服，轻身、好颜色、耐老、增年、通神" — "pungent, warm; it governs wind evil qi, warms the centre, removes cold numbness, firms the teeth and hair, brightens the eyes. Taken long, it lightens the body, gives a good complexion, resists aging, adds years and communicates with the spirits." The grade is attested by the 久服 clause. Sun Xingyan equates it with the Erya's large clustered pepper. (*Shennong bencao jing*, Sun Xingyan ed. 1799, middle classic, entry 秦椒 *qinjiao*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 2457) (2) 蜀椒 (head 蜀菽, lower classic): "味辛，温。主邪气、咳逆，温中，逐骨节，皮肤死肌，寒湿痹痛，下气。久服之，头不白、轻身、增年" — "pungent, warm; it governs evil qi and counterflow cough, warms the centre, drives out dead flesh of joints and skin and cold-damp painful numbness, and sends qi down. Taken long, the head does not turn white, the body is light, and years are added." Although the lower classic is by the preface the grade for treating disease with toxic drugs not for long use, this paragraph itself carries the 久服 promise, so it is also (a). The Mingyi bielu adds the alias 巴椒 and the places Wudu and Ba commandery. (*Shennong bencao jing*, Sun Xingyan ed. 1799, lower classic, entry 蜀椒 *shujiao*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 3613)
 
 **Tibetan medicine (FMT).** No cultivation framing is attested, and the species is not named. The rGyud-bzhi material read mentions *Zanthoxylum* only at genus level, with no species given: as a dietary spice that "opens the mouths of the channels" and increases phlegm and wind (Explanatory Tantra ch. 16) and in a list of anthelmintic remedies (Explanatory Tantra ch. 21; Clark tr. 1995). That is at most a genus-level therapeutic and dietary mention, not a status for *Z. bungeanum*, and no *bcud len* or rejuvenation use is recorded.
 

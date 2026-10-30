@@ -1,6 +1,6 @@
 # Hedgehog — Echinos Chersaios (as printed in the Osbaldeston and Wood Dioscorides, "earth hedgehog")
 ## *The land ("earth") hedgehog; the translators print "Erinaceous genus — Hedgehog" under the heading* | *(Volume III — Animal)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM, SBJ
 
 ---
 
@@ -37,6 +37,10 @@ General, well-established facts only. Keratin applied to the scalp does not supp
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(c) Absent.* Dioscorides has no subtle-body system, and none is supplied here. What he can offer a cultivator is a discipline of attention (provenance, season, sensory assay, detection of adulteration). This chapter has a small element of it, in the method for drying and storing the flesh (dried in a clay jar and kept), but no source, season or quality sign for the animal. There is no cultivation status in the chapter and no amuletic use, so there is no recording-versus-endorsing question.
+
+**Unani / Avicenna (CM).** The *Canon* entry *Qunfudh* separates the land hedgehog from the mountain kind (the porcupine, with arrow-like spines, close in nature) and the sea hedgehog, "a kind of shelled fish" (*Canon* Book II, entry *Qunfudh*, Arabic text line 17744). It states no temperament; its flesh is called strongly "dissolving and drying" (لشدة تحليله وتجفيفه). Its fat, and its liver dried in the sun, "prevent the pouring of matter into the viscera". Salted land hedgehog helps elephantiasis, leprosy and, for the joints, palsy, spasm and all diseases of the sinew; the burnt skin with pitch helps alopecia, and the ash cleans dirty ulcers and consumes excess flesh. The flesh of the sea kind helps scrofula; the land flesh helps consumption (chest), ill temperament and chronic fevers, and salted with oxymel it helps dropsy and pains of the head and kidney (digestive and excretory organs). It helps boys who wet the bed, though constant eating may make urination difficult, and the flesh helps against the bites of vermin. The entry is therapeutic throughout; it makes no reference to innate heat or radical moisture. **(b) — therapeutic actions attested; no cultivation status.**
+
+**Divine Farmer's Classic (SBJ).** *(b) Framed; no cultivation status.* The Chinese drug 猥皮 (*wei pi*) is the skin of the hedgehog, usually identified as Erinaceus amurensis, the same animal product as this entry. The 味 paragraph reads “味苦，平” (bitter, neutral) and says it governs five kinds of haemorrhoids and genital erosion, bloody discharge of red and white and five colours, unceasing blood and fluid, and genital swelling with pain pulling to the waist and back. For preparation it says “酒煮杀之” (boil it in wine and kill it), and it is said to grow in river valleys. The text's preface assigns the middle classic to drugs that nourish the nature, some of them toxic. There is no 久服 clause, so no life-nourishing status is promised. The Mingyi and Wu Pu lines that follow are commentary, not Shennong text. (*Shennong bencao jing*, Sun Xingyan ed. 1799, middle classic, entry 猥皮 *wei pi*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 2649)
 
 **Practitioner's note.** A cultivator does nothing with this. The chapter is a record of what a first-century physician reported, and a protected wild animal is not a source of medicine. The one transferable point is the attention to preparation and storage: material is dried, kept and given, not used raw.
 

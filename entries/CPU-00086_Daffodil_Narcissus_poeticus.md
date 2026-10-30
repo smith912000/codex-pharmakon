@@ -2,7 +2,7 @@
 
 ## *Narcissus poeticus* L. — the fragrant spring bulb of myth, emetic poison and the Alzheimer's alkaloid
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book IV) · Greco-Roman (Narcissus myth) · Folk-European · Modern pharmacy (galantamine lineage)
+**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book IV) · CM · Greco-Roman (Narcissus myth) · Folk-European · Modern pharmacy (galantamine lineage)
 **Energetic Classification (TCM):** ◉ Qi / ☿ Shen (Amaryllidaceae alkaloid action)
 **Training Phase:** [SPECIALIST ONLY] — toxic emetic bulb; alkaloid source, no casual use
 
@@ -61,6 +61,8 @@ Codex policy: mechanism stated securely; named citations to be supplied and veri
 ### Cultivation Register
 
 **Dioscorides (DMM).** Dioscorides' narkissos (De materia medica 4.161, Osbaldeston & Wood tr. 2000) is identified in the translation with Narcissus pseudonarcissus and N. sylvestris as well as N. poeticus, so any match to N. poeticus specifically is a modern one and the text may concern a congener. He says "the best grows in hilly places and has a good scent", the rest being leek-smelling; the root induces vomiting and, with honey, is laid on burns, sinew cuts, dislocations, joint pains and ulcers. A narcissus-flower oil (narcissinum, 1.63) is also described, said to cause headaches. These are habitat, sensory and therapeutic remarks. No cultivation status is attested.
+
+**Unani / Avicenna (CM).** The *Canon* entry *Narjis* states no temperament but opens with actions: the root "draws from the depths, dries, cleanses and washes", and its oil is like jasmine oil but weaker (*Canon* Book II, entry *Narjis*, Arabic text line 15486). The root draws out thorns and splinters, especially with rye flour and honey; it cleanses freckles and vitiligo, especially the root in vinegar, and helps alopecia; kneaded with honey and bitter vetch it bursts abscesses slow to ripen. It dries wounds and joins them, and it is powdered with honey on burns and on wounds of the sinew. For the joints the oil helps the sinew and the root is a poultice for swellings of the sinew and joint pains. Under the head it "opens obstructions of the brain" (يفتح سدد الدماغ) and helps moist, melancholic headache, though it gives headache to hot heads; rubbed on the chest the oil dissolves hard, cold swellings of the diaphragm. Eaten as it is, the root provokes vomiting. Under the excretory organs it helps pains of the womb and bladder; four dirhams in honey water drop living and dead foetuses, and the oil opens the mouth of the womb. No appeal is made to innate heat or radical moisture. **(b) — therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** The practice Dioscorides gives is selection by habitat and smell, and caution: the bulb is an emetic and the oil can bring on headache. Nothing supports a regimen of cultivation or long-term use.
 

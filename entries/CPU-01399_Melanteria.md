@@ -1,6 +1,6 @@
 # Melanteria — Melantheria (as printed in the chapter heading; "melanteria" in the text), Dioscorides 5-118
 ## *A salt-like growth at the mouths of copper (brass) mines, best sulphur-yellow, smooth and clear, that turns black on touching water and is "sharp like misy"; the chapter names no use, and the translator gives no identification ("UNKNOWN")* | *(Volume II — Mineral)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -54,6 +54,8 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(b) Framed; no cultivation status.* Dioscorides has no subtle-body system and none is supplied. What the herbal offers a cultivator is a discipline of attention (provenance, season of gathering, sensory assay, adulteration detection), and this chapter is a clear small example of it: it gives the place (mine mouths and their upper earthy surfaces; Cilicia), the colour and surface that mark the best (sulphur-yellow, smooth, even, clear), a simple assay (it blackens quickly on touching water), and, in the next chapter, a named look-alike that is more poisonous (sory) and so a substitution to guard against. It gives no season and no use. The chapter carries no cultivation status.
+
+**Unani / Avicenna (CM).** The *Canon* entry *Ḥajar al-asākifa*, the "stone of the cobblers", consists of a single sentence, under the chest organs: it "benefits ulcers of the throat and swellings of the uvula greatly" (ينفع من قروح الحلق وأورام اللهاة جدا) (*Canon* Book II, entry *Ḥajar al-asākifa*, Arabic text line 13454). There is no description of the stone, no temperament, no list of actions and no mode of preparation or use in the entry. All that can honestly be said in Avicenna's terms is that he records one organ, the throat with its uvula, and two complaints, ulcer and swelling, for which this mineral is a strong remedy. The entry makes no mention of innate heat or radical moisture, and gives the stone no place among substances that prolong life or conserve health. Its register is that of a local mineral medicine for the mouth and throat. **(b) — therapeutic action attested; no cultivation status.**
 
 **Practitioner's note.** Nothing to take from it for cultivation beyond the discipline the chapter shows: know where a material forms, test it with something as plain as a drop of water, and know its more dangerous look-alike. The material itself is an unidentified mine-surface mineral, and the text's own warning (sory is "more poisonous and causes nausea") is the caution. It is not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 

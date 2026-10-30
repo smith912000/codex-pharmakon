@@ -1,6 +1,6 @@
 # Rock lichen (Parmelia) — rdo.dreg ("stone dirt") / Dhodek
 ## *A type of lichen, glossed Parmelia saxatilis by the translator (Clark 1995); the Men-Tsee-Khang 2011 text names a drug "Dhodek", read here as the same drug on phonetic grounds only* | *(Volume IV — Fungal/Algal, shelved in Volume I)*
-**Tradition Tags:** FMT
+**Tradition Tags:** CM, FMT
 
 ---
 
@@ -49,6 +49,8 @@ No clinical studies were retrieved for this entry. [USER: verify] General facts 
 ### Cultivation Register
 
 **Tibetan / rGyud-bzhi (FMT).** *(b) Framed; no cultivation status.* The Tibetan frame is that the three *nyes pa* (*rlung*, *mkhris pa*, *bad kan*) arise from the three poisons, and that medicine is a branch of treatment that supports practice and does not reach the root. Within it, *rdo.dreg* appears in the materia medica as a drug against poisoning and chronic fevers, classed among the earth medicines (Clark lines 857, 869). No *bcud len* (essence extraction) or rejuvenation use of the lichen was found in the lines searched; a search of the Clark text for "lichen" and "Parmelia" found only lines 869 and 1029 and the index. No formal category of substances for subtle-body practice exists in this tradition, and none is asserted.
+
+**Unani / Avicenna (CM).** The Canon entry *ḥarrār al-ṣakhr* ("rock lichen") is a short quotation of Galen. It is something that forms on stone and resembles the alga *ṭuḥlub*; Galen says it dries from both directions because its power cleanses and cools: the cleansing and drying are acquired from the rock, the cooling from the water. Avicenna's own statement of action is two words: «مجفف مبرد», "drying, cooling". He then reports Dioscorides' claim that it stops blood and answers: «ولا أقول به», "I do not say so" (*Canon* Book II, entry *ḥarrār al-ṣakhr*, Arabic text line 13464). So the temperament is reconstructed from Galen's account (cool and dry), no degree is given, and Avicenna declines one of the traditional uses. There is no organ heading, no dose and no preparation. The identification with the *Parmelia* of the Tibetan entry rests on the shared description of a lichen growing on stone, not on a species. Innate heat and radical moisture are not mentioned. **(b) — Therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** There is nothing here to take. The lichen is a minor drug of the Explanatory Tantra with a poison-and-fever indication, an uncertain identity, and no sourced dose. For a cultivator the honest answer is nothing. No dose is given in the sources retrieved. [USER: verify]
 

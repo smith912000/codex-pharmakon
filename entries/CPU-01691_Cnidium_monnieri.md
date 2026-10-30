@@ -1,7 +1,7 @@
 # Cnidium monnieri — la.la.phud, Lalaphue (rGyud-bzhi); also She Chuang Zi in Yang's Shennong text (not yet on the tag line)
 
 ## *Cnidium monnieri, as the binomial printed in the scientific-name run of the Men-Tsee-Khang 2011 glossary against "Lalaphue", and as the second of two binomials Clark 1995 prints for la.la.phud (after Trachyspermum ammi); a Shennong entry on disk prints "Fructus Cnidii Monnieri" for She Chuang Zi* | *(Volume I — Plant-Based)*
-**Tradition Tags:** FMT
+**Tradition Tags:** SBJ, FMT
 
 ---
 
@@ -44,6 +44,8 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan an
 - **FMT:** Clark's line 896 prints no taste or power outside the commentary, and the commentary prints none either (its descriptive terms are colour, seed shape and smell). The Men-Tsee-Khang sentence (line 3391) prints none. The drug is grouped with those that cure "cold disorders associated with baekan" (lines 3621 to 3627), which is a use and not a stated power. No quality is printed for this drug.
 
 ### Cultivation Register
+
+**Divine Farmer's Classic (SBJ).** *(a) Attested.* Sun Xingyan's reconstruction of the *Shennong bencao jing* places 蛇床子 (snake-bed seed) in the upper classic, the grade the preface assigns to drugs that nourish life, correspond to heaven, are non-toxic and may be taken for a long time. The 味 paragraph opens "味苦，平" (bitter, neutral). It gives the indications as "主妇人阴中肿痛，男子阳痿、湿痒，除痹气，利关节，癫痫恶创" (it governs swelling and pain in the woman's genital region, and in men impotence and damp itching; it clears numbing blockage, frees the joints, and treats epilepsy and malignant sores). The long-use clause is short: "久服，轻身" (taken for a long time, it lightens the body). The text gives the other name 蛇米 and says it grows in river valleys and fields. (*Shennong bencao jing*, Sun Xingyan ed. 1799, upper classic, entry 蛇床子 *shechuang zi*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 923)
 
 **Tibetan — rGyud-bzhi (FMT).** *(b) Framed, not a cultivation status.* The Quintessence Tantra's materia medica classes this drug by what it cures, stomach disorders and cold diseases, and the Men-Tsee-Khang text says the same. The cultivation spec records that in this tradition medicine is the third of four treatment branches, supporting practice without reaching its root, and that no formal category of substances for subtle-body practice exists. No line read for this drug places it in *bcud len* (essence extraction) or any practice: the passages cited above were read in full and none mentions one. Its framing is therapeutic only. The Origin section records a Shennong entry for the same binomial; because the tag line carries FMT only, no Chinese paragraph is written here and no cultivation status is claimed from that entry.
 

@@ -1,6 +1,6 @@
 # Phrygian stone — Phrugios lithos (the dyers' stone of Phrygia, found in Cappadocia), Dioscorides 5-141
 ## *A pale, mildly heavy stone with white partitions "like cadmia", burnt three times in wine over coals and used with stiff ointment for binding, cleaning, forming scabs and healing burns; the translator gives no identification ("UNKNOWN")* | *(Volume II — Mineral)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -53,6 +53,8 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(b) Framed; no cultivation status.* Dioscorides has no subtle-body system and none is supplied. What the herbal offers a cultivator is a discipline of attention (provenance, season of gathering, sensory assay, adulteration detection), and this chapter shows much of it: the trade context of the stone (the dyers' use), the place of finding (Cappadocia, although the name says Phrygia), a rule for the best specimen by colour, weight and structure, and a staged burning method with colour as the sign of completion and a warning against overburning. It gives no season and no adulterant. The chapter is therapeutic and carries no cultivation status.
+
+**Unani / Avicenna (CM).** The *Canon* gives the Phrygian stone an entry of one line, *hajar afrujiy* (*Canon* Book II, entry *hajar afruji*, Arabic text line 13442). The entry gives no description of the stone, no temperament by degree and no organ heading. Its only statement, under actions, is "مجفف مع قبض وتلذيع وتحليل" ("drying, with astringency, a stinging bite, and dissolving"). So Avicenna's entry attests the same family of qualities as the Dioscorides chapter (binding, cleaning) in humoral language, drying and astringent first of all, and nothing else; the match to the Greek *Phrugios lithos* rests on the name, as the Arabic gives no source or colour. There is nothing about the head, eye, chest or digestion, no dose, and no mention of poisons. Innate heat and radical moisture are not mentioned and cannot honestly be applied to a stone the *Canon* reduces to one line of actions. **(b) — drying, astringent and dissolving action attested; no cultivation status.**
 
 **Practitioner's note.** Nothing to take from it for cultivation beyond the discipline the chapter shows: choose by appearance, process by stages, and use the colour as the sign to stop. The stone itself is unidentified and the method uses coals, wine and mineral dust. It is not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 

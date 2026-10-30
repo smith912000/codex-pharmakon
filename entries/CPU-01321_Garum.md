@@ -1,6 +1,6 @@
 # Garum (fish sauce) — Garron (GARRON), "garum"; the translator's heading is "Garum — Liquid from Salt Fish"
 ## *The liquid that runs from salted flesh or fish, which the translator glosses elsewhere as a "Roman sauce made of fermented fish"; Dioscorides' own definition is "the liquid that comes out of salted flesh or fish", and no fish is named for it in chapter 2-34* | *(Volume III — Animal)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -39,6 +39,8 @@ General, well-established facts only. Fish sauce is high in salt, which in stron
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(b) Framed; no cultivation status.* Dioscorides has no subtle-body system, and none is asserted here. The chapter offers a cultivator little of his discipline of attention: it is a short entry with no method, no assay and no season. The uses are surgical and gastro-intestinal; the chapter makes no claim about the person's constitution, vitality or long life, and the substance has only a therapeutic status.
+
+**Unani / Avicenna (CM).** The Canon entry *murrī* covers a fermented condiment made from fish and from barley. Avicenna gives its temperament as «حار يابس إلى الثالثة», "hot and dry to the third degree", and rejects Ibn Māsarjawayh's view that the fish kind is less hot and dry than the barley kind ("I do not credit it"). Its action is to cleanse thick humours, soften, dry, and, with some astringency, to purge phlegm. It sweetens the breath; it is good for putrid ulcers, and that made from fish and salted meats is said to stop malignant ulcers from spreading; it helps hip pain and sciatica; as kohl at the onset of smallpox it is said to keep pustules out of the eye; it helps colic, enters its medicines, and is used in enemas for scraping ulcers; and it is said to help dog-bite (*Canon* Book II, entry *murrī*, Arabic text line 15454). Only the fish kind corresponds to garum. The entry does not mention innate heat, radical moisture or longevity. **(b) — Therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. Garum is a salted-fish liquid used by Dioscorides on ulcers, bites and bowel complaints; what survives of the discipline is the plain habit of knowing what the material is and how it was made before using it, and the text gives neither. The Codex does not recommend the medicinal use. No dose is given in the sources retrieved. [USER: verify]
 

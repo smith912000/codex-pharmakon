@@ -1,6 +1,6 @@
 # Sheep — "Ram" (Bryan 1930's English rendering of the Ebers animal list)
 ## *The ram, the male sheep; Bryan prints only the English word "Ram", with no Egyptian name and no binomial* | *(Volume III — Animal)*
-**Tradition Tags:** EP
+**Tradition Tags:** EP, CM
 
 ---
 
@@ -41,6 +41,8 @@ General, well-established facts only. Burns are treated by cooling with clean ru
 **Egyptian / Ebers (EP).** None is given. Bryan's chapter lists the materials and, in places, the complaint; it prints no taste, temperature, humoral or other quality for the ram or its parts. No Chinese classification applies: the entry is not tagged SBJ.
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* entry on the sheep (*Ḍaʾn*) consists of a single sentence under actions: "the power of its bile is like the power of the ox's bile" (قوة مرارته كقوة مرارة البقر) (*Canon* Book II, entry *Ḍaʾn*, Arabic text line 19475). It gives no temperament and no organ-by-organ uses of its own; it refers the reader by comparison to the ox's bile, and in the entry on the biles the sheep's bile is ranked last of the four-footed animals named there, after ox, gazelle, bear and goat. Avicenna's account of the sheep here is therefore only that of an animal bile, a bile, which the general entry on biles calls hot, dry in the fourth degree and cleansing. It makes no use of innate heat or radical moisture, and assigns the sheep no standing in prolonging life. **(b) — therapeutic action attested by comparison; no cultivation status.**
 
 **Egyptian / Ebers (EP).** *(b) Framed; no cultivation status.* The one sourced frame is the burn prescription, in which the drug is not given alone: the ram's hair stands inside a text that also contains a spoken incantation (Bryan, lines 2287-2320). The Ebers corpus is organised by complaint, so what it records is what was done for a burn, not what ram's hair does to the person's vital constitution, and none of the Egyptian terms for the person (*ka*, *ba*, *akh*, *ib*) is attached to the sheep in any line read. The fat for the *met* has no spell attached in the lines read. Whether this is better understood as *heka* than as an ordinary poultice is not something the text settles for the ram, and the identification of any named substance in Ebers is a modern hypothesis. [USER: verify]
 

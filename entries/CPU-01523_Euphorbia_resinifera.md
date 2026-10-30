@@ -1,7 +1,7 @@
 # Euphorbia resinifera — Tithumalos (Dioscorides 4-165, the seven tithymals)
 
 ## *Euphorbia resinifera, the first binomial among the suggestions printed under the heading of the whole tithymal chapter ("Euphorbia resinifera — Euphorbium Gum Plant"); the chapter's own text describes seven kinds of tithymal and no gum* | *(Volume I — Plant-Based)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -42,6 +42,8 @@ No clinical studies were retrieved for this entry. [USER: verify] The identifica
 ### Cultivation Register
 
 **Greek — Dioscorides (DMM).** *(b) Framed, not a cultivation status.* Dioscorides has no subtle-body system, and none is manufactured here. This chapter gives the discipline of attention that the spec describes for this tradition in one of its fullest forms: the time of gathering (vintage for the juice, autumn for the seed), a method of collection that protects the collector (not against the wind, hands away from the eyes, the body greased), a way of keeping (jars, figs, wax or honey, the seed dried and stored), and a ranking of the kinds by force. It is attention to season, safety and storage, and it is not a cultivation status. The identification is the translators'. [USER: verify]
+
+**Unani / Avicenna (CM).** The *Canon* entry *Furbyūn* (euphorbium) is about the gum, not the leafy spurges: after Dioscorides it describes the gum of a cucumber-like tree, extremely acrid, hot and sharp, which the collectors fear and so draw off into sheep's stomachs hung on the trunk. The best is fresh, clean, yellow to reddish, sharp in smell and intensely pungent; its strength changes after three or four years. It is adulterated, and its sting on the tongue lasts. Its temperament is "حار وله قوة لطيفة محرقة جلآءة" ("hot, with a fine, burning, cleansing power"), the fresh gum heating more than asafoetida (*Canon* Book II, entry *Furbyūn*, Arabic text line 16943). Joints: mixed with spiced drinks it helps sciatica and brings out bone splinters, though the flesh must be protected. Eye: as a collyrium it cleanses and dissolves cataract, but its sting lasts all day, so it is mixed with honey. Excretory: it helps dropsy, cold of the kidneys and colic, with a dose of three *ūlūsāt*, and purges viscous phlegm. Poisons: it is said to protect a viper-bitten person, but three dirhams in three days kill by ulcerating the stomach and gut. No innate heat, radical moisture or life-prolonging claim is made. **(b) — therapeutic actions attested (joints, eye, dropsy, colic), with a lethal-dose warning; no cultivation status.**
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with these plants. The lesson is protective: the one who handles the juice prepares his own body first and works away from the wind. The text offers nothing more, and no spurge juice should be handled on its strength.
 

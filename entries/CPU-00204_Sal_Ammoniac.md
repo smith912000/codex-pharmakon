@@ -1,6 +1,6 @@
 # Sal Ammoniac — "Sal Ammoniac" (project rGyud-bzhi list; no printed Tibetan name)
 ## *Ammonium chloride, NH4Cl, a white crystalline salt; the project's list gives the formula, and no Tibetan text on disk prints "sal ammoniac" or ammonium chloride, so no Tibetan name can be tied to the row* | *(Volume II — Mineral)*
-**Tradition Tags:** FMT
+**Tradition Tags:** CM, FMT
 
 ---
 
@@ -31,6 +31,8 @@ Ammonium chloride is used as a flux in soldering, as a component of dry-cell bat
 ### Cultivation Register
 
 **Tibetan / rGyud-bzhi (FMT).** *(c) Absent, and the attestation rests on a list row.* No cultivation framing is attested, because no text entry could be found for sal ammoniac. Medicine is the third of the four treatment branches: it supports practice and does not reach the root of the three poisons. No formal category of substances for subtle-body practice exists in this tradition and none is asserted. [USER: verify]
+
+**Unani / Avicenna (CM).** The Canon entry *nūshādir* is short. Under choice, the best is the clear, crystalline kind. Its temperament is «حار يابس في آخر الثالثة», "hot and dry at the end of the third degree". The stated action is «ملطف مذيب», "attenuating, dissolving". For the eye, it helps whiteness of the eye; for the organs of breath, it lifts a fallen uvula and helps against swellings of the throat (*khanāqīr*) (*Canon* Book II, entry *nūshādir*, Arabic text line 15629). The entry gives no dose, no preparation and no further organ heading. This is a corrosive, dissolving salt used on the eye and throat; it is not tied by the text to the digestive, excretory or poison headings. Innate heat and radical moisture are not mentioned, and nothing here concerns the conservation of life. **(b) — Therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing here for a cultivator. The row names a salt that the texts on disk do not name; for the salts the Tibetan text does record, read Clark lines 927-935. No dose is given in the sources retrieved. [USER: verify]
 

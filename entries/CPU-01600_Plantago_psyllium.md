@@ -1,7 +1,7 @@
 # Plantago psyllium — Psullion (Dioscorides 4-70)
 
 ## *Plantago psyllium, the last of three names on the translators' SUGGESTED line for 4-70 ("Psyllium [Fuchs]", "Psyllium majus erectum [Bauhin]", "Plantago psyllium [Linnaeus]"), glossed "Psyllium, Flea Seed"* | *(Volume I — Plant-Based)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -44,6 +44,8 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 ### Cultivation Register
 
 **Greek — Dioscorides (DMM).** *(b) Framed, not a cultivation status.* Dioscorides has no subtle-body system, and none is manufactured here. The chapter does record a household belief about fleas, in the form "They say", which reports what others hold and does not endorse it. Recording is not endorsing. What the chapter offers is the small discipline of attention that the cultivation spec describes for this tradition: a leaf compared with a leaf in another chapter, a stem measured (twenty centimetres), pods counted (two or three), a seed compared with a flea in colour and hardness, and a preparation timed by watching the water thicken. The plant is given no status beyond a list of external remedies. The identification is the translators'.
+
+**Unani / Avicenna (CM).** The *Canon* entry for psyllium seed (*bazr qaṭūnā*) records two kinds, winter and summer, with a draught of two dirhams of either; the best is the compact, full seed that sinks in water. Its temperament is "بارد رطب في الثانية" ("cold and moist in the second degree") (*Canon* Book II, entry *Bazr qaṭūnā*, Arabic text line 11011). Roasted and stirred into rose oil it is astringent, and as a poultice with vinegar it calms headache. Beaten with vinegar it is applied to hot swellings, erysipelas and phlegmatic swellings; with vinegar and rose oil it is a poultice for sprain and spasm of the nerve, gout and hot joint pains. For the chest he says "يلين الصدر جدا" ("it softens the chest greatly"); its mucilage with rose oil or almond oil helps intense bilious thirst. Among the excretory organs the roasted seed, two dirhams in rose oil, binds the bowel and helps abrasion of the gut, especially in children, while the mucilage itself with violet oil loosens. Drunk, it quenches the flame of hot fevers. The entry makes no statement on innate heat, radical moisture or the prolonging of life. **(b) — therapeutic actions attested (hot swellings, joints, chest, thirst, bowel, fevers); no cultivation status.**
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It offers a description and a list of cooling external applications, so it is history and not a practice. The abstentive answer is the honest one, and it does not license taking psyllium seed by mouth on the chapter's authority.
 

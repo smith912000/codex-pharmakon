@@ -1,7 +1,7 @@
 # Dictamnus albus — Diktamnon (Dioscorides 3-37)
 
 ## *Dictamnus albus (the translators' first suggestion; "White Dittany, Gas Plant, Candle Plant, Fraxinella"), with Dictamnus fraxinella and, in a second group of names, Origanum dictamnus, "Dittany of Crete"* | *(Volume I — Plant-Based)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, SBJ
 
 ---
 
@@ -42,6 +42,8 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 ### Cultivation Register
 
 **Greek — Dioscorides (DMM).** *(b) Framed, not a cultivation status.* Dioscorides has no subtle-body system, and none is manufactured here. The chapter offers the discipline of attention that the cultivation spec describes for this tradition: provenance (Crete), a leaf description (bigger than pulegium, downy and woolly), gathering seasons (given twice, differently), the taste test (the root warms the taster) and comparison with a cultivated herb. He records a goat tale and a claim about the smell repelling beasts, keeping the distance of "They say"; recording is not endorsing. It assigns the plant no status. The identification is the translators' and is two plants. [USER: verify]
+
+**Divine Farmer's Classic (SBJ).** *(b) Framed; no cultivation status.* The Chinese drug is 白藓 (*bai xian*, in modern writing 白鲜), usually identified as the root bark of *Dictamnus dasycarpus*, a congener of this entry's *D. albus*; the Shennong text does not speak of *D. albus* itself. Its 味 paragraph reads 味苦，寒, "bitter in flavour, cold", and lists head wind, jaundice, cough with rising qi, dribbling urinary difficulty, swelling and pain inside the woman's genitals, and damp numbness with dead flesh so that one cannot bend, stretch, rise, stop or walk (主头风，黄胆，咳逆，淋沥，女子阴中肿痛，湿痹死肌，不可屈伸、起止、行步). It then says only 生川谷, "grows in river valleys". There is no 久服 clause. It stands in the middle classic; the preface says the middle grade is for nourishing the nature, and some of its drugs are toxic. (*Shennong bencao jing*, Sun Xingyan ed. 1799, middle classic, entry 白藓 *bai xian*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 2117).
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. Its uses are obstetric, abortifacient, wound and antivenom remedies with no amounts, so it is history and not a practice. The two-seasons list and the two-plants suggestion are reminders of how loosely the identification and the text are held together.
 

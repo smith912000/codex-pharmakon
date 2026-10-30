@@ -17,12 +17,15 @@ In the Tibetan tradition Tangut dragonhead is used as a **cooling, aromatic herb
 
 The activity rests on the **essential oil** (rich in the Lamiaceae monoterpenes — citral, geraniol, geranial and relatives in several *Dracocephalum*) and on **flavonoids and rosmarinic acid**, the antioxidant-anti-inflammatory constituents typical of the mint family.
 
+Botanically, the Flora of China (Vol. 17, via efloras.org) describes *D. tanguticum* as a perennial herb, noted there as fetid, with erect obtusely four-angled stems to 55 cm. The leaf blades are pinnatisect with two or three pairs of linear segments, the calyx is purplish and golden-glandular, and the corolla is purple-blue to dark purple, 2-2.7 cm long. It flowers from June to September. The Flora records it from riverbanks, fields, grassy beaches, dry lake beds, sunny hillsides and pine-forest margins at 3200-4700 m in Gansu, Qinghai, Sichuan and Xizang.
+
 ### Active Components
 
 - **Essential oil — monoterpenes (citral/geranial, geraniol, neral and relatives in the genus)** — the aromatic, carminative, calming and antimicrobial constituents; lemon-aromatic in several *Dracocephalum*. [USER: verify *D. tanguticum* oil composition before quoting figures.]
 - **Flavonoids (apigenin/luteolin-type glycosides)** — antioxidant, anti-inflammatory constituents.
 - **Rosmarinic acid and phenolic acids** — antioxidant Lamiaceae constituents.
 - **Triterpenes** — minor constituents.
+- **Flavone glycosides (isolated from *D. tanguticum*)** — Chen T, Yang X, Wang S, Shen C, Li H, Wei Y, Yan S, Song Z, Yang F, Liu Y, Hai P, Li Y (2021), *J Sep Sci* 45(2):468-476, DOI 10.1002/jssc.202100537, obtained five flavone glycosides from the plant by high-speed counter-current chromatography and identified them as cosmosiin, pedaliin, quercetin-3-O-rutinoside, pedaliin-6''-acetate and sorbifolin-6-O-beta-glucopyranoside.
 
 ### Effect & Use Case in Kenetica
 
@@ -43,6 +46,7 @@ Safety framing: a gentle aromatic herb in traditional use; cautions are the usua
 ### Scientific Correlation
 
 - **Dracocephalum essential-oil/flavonoid chemistry.** *Dracocephalum* species contain aromatic essential oils and flavonoids/rosmarinic acid with documented antioxidant and anti-inflammatory activity. [USER: insert and verify a specific real citation — ideally for *D. tanguticum*.]
+- **Alcoholic liver injury in mice.** Guo M, Gu L, Hui H, Li X, Jin L (2022), "Extracts of *Dracocephalum tanguticum* Maxim Ameliorate Acute Alcoholic Liver Disease by Regulating Transcription Factors in Mice", *Front Pharmacol* 13:830532, DOI 10.3389/fphar.2022.830532. The authors prepared chloroform, ethyl acetate and n-butanol extracts of the plant, which they describe as a traditional Tibetan medicine used to clear liver heat and treat hepatitis. In mice given ethanol, the extracts improved liver function markers and histology, and the effect was linked to activation of Nrf2/Keap1 and inhibition of P65/NF-kB signalling. This is animal and cell work, not a clinical result.
 - **Hepatoprotective/anti-inflammatory use.** The traditional liver/stomach use is consistent with the genus's anti-inflammatory constituents. [USER: verify and insert one specific citation before asserting efficacy.]
 
 Codex policy: chemistry stated generally; named citations to be supplied and verified by the editor; species data flagged. **Do not fabricate authors, journals or years.**

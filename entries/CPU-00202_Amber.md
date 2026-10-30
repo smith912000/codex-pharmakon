@@ -1,6 +1,6 @@
 # Amber (succinite) — "Amber (succinite)" (project rGyud-bzhi list; no printed Tibetan name)
 ## *Fossil tree resin; the project's list gives "fossilised resin" and names succinite, the Baltic amber, but no Tibetan text on disk names amber as a medicine, and the one line that mentions amber uses it as a colour comparison for sulphur* | *(Volume II — Mineral)*
-**Tradition Tags:** FMT
+**Tradition Tags:** CM, FMT
 
 ---
 
@@ -31,6 +31,8 @@ Amber is valued as a gem and for jewellery and is not a recognised medicine in c
 ### Cultivation Register
 
 **Tibetan / rGyud-bzhi (FMT).** *(c) Absent, and the attestation rests on a list row.* No cultivation framing is attested, because no text entry could be found for amber. Medicine is the third of the four treatment branches: it supports practice and does not reach the root of the three poisons. No formal category of substances for subtle-body practice exists in this tradition and none is asserted. [USER: verify]
+
+**Unani / Avicenna (CM).** Avicenna describes *kahrubā* as a gum like sandarac, yellow-white and brittle, sometimes reddish, which draws straw to itself, hence its Persian name "straw-robber"; he says it is the gum of the Roman walnut tree, made of a tepid watery part and a refined earthy part. Its temperament: «حار قليل يابس في الثانية», "slightly hot, dry in the second degree". Its action is astringency, above all of blood from any site, resembling the flower of its tree but colder. Under the organs of the head it stops nosebleed and catarrh from head to lung; it enters eye medicines; for the chest, half a *mithqāl* in cold water helps palpitation and strongly prevents spitting of blood; in the digestive organs it stops vomiting and, with mastic, strengthens the stomach; among the excretory organs it stops uterine and rectal bleeding and dysentery, "so it is said" (*Canon* Book II, entry *kahrubā*, Arabic text line 13980). Hung on hot swellings it is said to help. The entry does not treat amber as a fossil, and says nothing of innate heat, radical moisture, or the conservation of life. **(b) — Therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing here for a cultivator. The row names a fossil resin; the texts on disk mention amber once, as the colour of a grade of sulphur. No dose is given in the sources retrieved. [USER: verify]
 

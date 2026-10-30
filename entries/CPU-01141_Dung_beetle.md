@@ -1,6 +1,6 @@
 # Dung beetle — bying.bying.thu.lus ("Dung beetle and Scarab beetle", Clark's English); Jingjing Thulu ("Wingless Cockroach", Men-Tsee-Khang's glossary)
 ## *Insects found under dung, as Clark's translation of the Tibetan Explanatory Tantra glosses the headword bying.bying.thu.lus. Clark prints no binomial for the headword; the Men-Tsee-Khang glossary translates the corresponding name differently, as a wingless cockroach* | *(Volume III — Animal)*
-**Tradition Tags:** FMT
+**Tradition Tags:** SBJ, FMT
 
 ---
 
@@ -37,6 +37,8 @@ General, well-established facts only. Dung beetles (the scarab family) feed on a
 **Tibetan (FMT):** None printed for this item. Chapter 20 says that medicines act by taste and by natural power, and lists eight powers (heavy, oily, cool, blunt, light, coarse, hot, sharp; Clark line 796). The dung-beetle line (line 1199) prints no taste, power or post-digestive taste, and neither does the Men-Tsee-Khang passage (lines 3572-3573). Clark's introduction says that the later *Crystal Orb* and *Crystal Rosary* give each medicine's tastes, potencies and qualities, but that text is not on disk.
 
 ### Cultivation Register
+
+**Divine Farmer's Classic (SBJ).** *(b) Framed; no cultivation status.* The paragraph for 蜣螂 (*qianglang*, dung beetle) reads 味咸，寒 ("salty, cold"). The classic files it in the lower grade (下品); its preface says lower-grade drugs treat disease, are toxic, and are not for long use. It governs fright epilepsy and convulsion in children (主小儿惊痫、螈, with one character missing in this transcription), swollen belly with cold and heat (腹胀寒热), and "mad, unsettled" illness in adults (大人疾狂易). It gives a variant name and a preparation note, 火熬之，良 ("parched over fire, it is good"), and 生池泽 ("grows in pools and marshes"). There is no 久服 ("taken long") clause. The Mingyi bielu, not the Shennong text, adds that it comes from Changsha and is taken on the fifth day of the fifth month, steamed and stored. The register is (b). (*Shennong bencao jing*, Sun Xingyan ed. 1799, lower classic, entry 蜣螂 *qianglang*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 3951)
 
 **Tibetan / rGyud-bzhi (FMT).** *(c) Absent.* No cultivation framing is attested for the dung beetle in the lines read. Chapter 20 gives it one therapeutic action, shared with two other insects, and says nothing about essence extraction (*bcud len*) or any other practice. The Men-Tsee-Khang preface records a Buddhist objection to causing harm to any being as the reason animal products have been replaced by herbs (line 687); that is the tradition's comment on animal products in general. No formal category of substances for subtle-body practice exists in this tradition, and none is asserted.
 

@@ -1,7 +1,7 @@
 # Sea Orach / Atriplex halimus — Alimos, halimus (Dioscorides 1-120)
 
 ## *Atriplex halimus (the Dioscorides translators' suggestion for chapter 1-120; also Chenopodium halimus — "Sea Purslane, Sea Orach")* | *(Volume I — Plant-Based)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -42,6 +42,8 @@ No clinical studies were retrieved for this entry. [USER: verify] It is generall
 ### Cultivation Register
 
 **Greek — Dioscorides (DMM).** *(b) Framed, not a cultivation status.* Dioscorides has no subtle-body system, and the chapter assigns the plant no status. What it offers a cultivator is a discipline of attention: where the shrub grows (maritime places and hedges), how to tell it from *rhamnus* (whitish, no filaments, olive-like but broader and more tender leaves), and what part is used (leaf as a vegetable, root as a drink). The long list of names, among them names the translators attribute to the Magi and to Pythagoras, is a record of what the plant was called, and recording is not endorsing. The identification with *Atriplex halimus* is the translators' suggestion. [USER: verify]
+
+**Unani / Avicenna (CM).** The *Canon* entry *Mulayḥ* (sea orach) is five lines. It says the plant is like boxthorn (*'awsaj*), with leaves like the olive's but broader, and that it is eaten like the pot-herbs (*Canon* Book II, entry *Mulayḥ*, Arabic text line 15342). No temperament or degree is printed; the only quality statement is "فيه ملوحة وقبض ورطوبة فخة ينفخ بها" ("in it are saltiness, astringency and a raw moisture by which it causes wind"). Two uses follow, both given as a *drakhmī* (drachm) dose. Under the chest-organs it is taken with a drink and "يدر اللبن" ("brings on milk"); under the digestive organs a drachm in water of *qarāṭin* calms colic. The entry names no cosmetic, head, eye or poison use. It says nothing of innate heat, radical moisture or prolonging life, and its only standing is as a food-herb and a small remedy. **(b) — therapeutic actions attested (milk, colic); no cultivation status.**
 
 **Practitioner's note.** A cultivator learns from this chapter to recognise a coastal hedge shrub and that its leaf was a food. It does not support a vitality practice. The abstentive answer is the honest one for the root drink.
 

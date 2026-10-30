@@ -1,7 +1,7 @@
 # Galium verum — Gallion (Dioscorides 4-96; also gallerium, galatium)
 
 ## *Galium verum [Linnaeus] (one of three names on the translators' SUGGESTED line: "Gallium [Fuchs], Galium luteum [Bauhin], Galium verum [Linnaeus] — Ladies' Bedstraw, Rennet")* | *(Volume I — Plant-Based)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -38,6 +38,8 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 ### Cultivation Register
 
 **Greek — Dioscorides (DMM).** *(b) Framed, not a cultivation status.* Dioscorides has no subtle-body system, and none is manufactured here. What the chapter gives toward the discipline of attention that the spec describes for this tradition is a name explained by an observed property (curdling milk), a description for recognition (leaves like *aparina* yet straight, yellowish abundant flower, sweet scent), a habitat (marshy places) and a preparation that depends on the sun (rose ointment "placed in the sun till it turns white"). It is not a cultivation status. The identification is the translators'. [USER: verify]
+
+**Unani / Avicenna (CM).** The *Canon* treats this plant under three spellings, *'aliyun*, *ghaliyun* and *ghalimun* (*Canon* Book II, entries *'aliyun*, Arabic text line 16741; *ghaliyun*, line 19581; *ghalimun*, line 19609). The longest describes a plant with leaves and stalks like another named herb and small, dense, sweet-smelling white flowers tinged yellow, growing in thickets, and says both names come from its curdling of milk "كالأنفحة" ("like rennet"). The shorter entries call it a sweet-smelling drug, "مجفف يجمد اللبن وفيه يسير حدة" ("drying, curdling milk, with a little sharpness"). No degree of temperament is given. Actions: the flower as a poultice stops an outburst of blood; flower and leaf help burns by fire. Joints: mixed into a rose-oil cerate it helps weariness and aching. Excretory organs: the root stirs desire for intercourse. One entry says it is only thought to heal burns. No innate heat, radical moisture or long-life use is mentioned. **(b) — drying, styptic and burn-treating actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The only transferable point is the habit of identifying a plant by leaf, flower, scent and habitat, and of reading the name as a record of what was observed. The text offers nothing more, and the abstentive answer is the right one.
 

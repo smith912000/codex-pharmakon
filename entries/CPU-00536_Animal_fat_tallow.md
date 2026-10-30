@@ -1,6 +1,6 @@
 # Animal fat / tallow — pihu / shamnu (the project's Assyrian list's transliterations)
 ## *Rendered animal fat, "rendered fat (bovine / sheep suet)" in the project list's own words; no text on disk prints an identification, so the animal is the list's gloss and is not read from a tablet* | *(Volume III — Animal)*
-**Tradition Tags:** AT
+**Tradition Tags:** AT, CM
 
 ---
 
@@ -43,6 +43,8 @@ Animal fat is a common base in ointments and a source of dietary energy; this is
 ---
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* entry *Shaḥm* (fat) is a collective entry on the fats of many animals, so it is wider than rendered tallow of cattle and sheep; it says the fat is known. For temperament it ranks them: the stallion's fat is hotter and drier, then the gelding's, and the old animal's is worse; duck fat is very fine and hotter than hen fat, deer fat very hot, ox fat between lion and goat, goat fat the most astringent and he-goat fat the most dissolving (*Canon* Book II, entry *Shaḥm*, Arabic text line 18364). Cosmetic: bear and goose fat for alopecia, goose fat for cracked face and lip. Swellings: pig fat helps, lion fat dissolves hard swellings. Head: goose or fox fat soothes earache. Joints: camel fat helps spasm. Eye: fish fat helps cataract and sharpens sight with honey. Excretory: goat fat for ulcers of the gut; soft fats for pains of the womb, old fat being bad. Poisons: pig fat for stings. Nothing in the entry concerns innate heat, radical moisture or prolonging life. **(b) — therapeutic actions attested (many animals' fats, graded by heat); no cultivation status.**
 
 **Assyrian (AT).** *(c) Absent, and the attestation rests on a list row.* No tablet was read. The tradition classifies illness by causal agency (a divine hand, a ghost, an oath), so a substance is partly classified by what agency it opposes; no such classification of animal fat is attested in the sources retrieved. The blocking warning is in force. [USER: verify]
 

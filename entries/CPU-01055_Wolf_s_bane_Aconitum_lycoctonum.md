@@ -1,7 +1,7 @@
 # Wolf's-bane (yellow) / Aconitum lycoctonum — Akoniton eteron (Dioscorides 4-78); bong.nga.ser.po, Bongnga serpo (rGyud-bzhi)
 
 ## *Aconitum lycoctonum* (printed by the Dioscorides translator's gloss and by the Men-Tsee-Khang 2011 glossary; Clark 1995 prints "Aconitum autumnale" for the Tibetan name) | *(Volume I — Plant-Based)*
-**Tradition Tags:** DMM, FMT
+**Tradition Tags:** DMM, CM, FMT
 
 ---
 
@@ -47,6 +47,8 @@ Aconite alkaloids are potent cardiac and neurological toxins, and poisoning from
 ### Cultivation Register
 
 **Greek — Dioscorides (DMM).** *(b) Framed, not a cultivation status.* Dioscorides has no subtle-body system. The chapter offers what the cultivation spec calls a discipline of attention: where the plant grows (the Vestini hills of Italy), how to know it (plane-like leaves, a fern-like bare stalk, pods, roots like the fringes of squills), what it is called, and what it does to wolves. It records no use for the person and assigns the plant no status. The identification with *A. lycoctonum* is a translator's gloss. [USER: verify]
+
+**Unani / Avicenna (CM).** The *Canon* entry *Qātil al-dhi'b* (wolf-killer, wolf's-bane) is a few lines of warning. It gives no description and no temperament or degree. Under the properties: "قوته قوة خانق النمر إلا أنه يختص بالذئاب" ("its strength is the strength of the leopard-choker, except that it is specific to wolves") (*Canon* Book II, entry *Qātil al-dhi'b*, Arabic text line 17648). The lines that follow, under a blank heading, continue it: for the head it "يحدث الرعاف" ("causes nosebleed"), for the chest it causes spitting of blood, and under poisons it kills dogs quickly and in people brings on nosebleed and spitting of blood. No therapeutic use is named, no preparation or dose is given, and nothing is said of innate heat, radical moisture or prolonging life. This is thus an entry about harm alone. **(b) — only toxic actions attested, no therapeutic action and no cultivation status.**
 
 **Tibetan — rGyud-bzhi (FMT).** *(b) Framed, not a cultivation status.* The Quintessence Tantra classes the plant by its powers (ch.20) and by its place in compounded classes (ch.21): bitter taste and cool power, a medicine for poison fevers and bile fever and for meat poisoning, and a member of the class that neutralises poisons. The cultivation spec records that in this tradition medicine is the third of four treatment branches, supporting practice and not reaching the root, and that no formal category of substances for subtle-body practice exists. Nothing read assigns this plant a place in *bcud len* (essence extraction) or any practice. Its framing is therapeutic and antidotal only. The identification with *A. lycoctonum* rests on a glossary line, while Clark prints *A. autumnale*. [USER: verify]
 

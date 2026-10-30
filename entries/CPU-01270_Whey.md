@@ -1,6 +1,6 @@
 # Whey — ORROS GALAKTOS, "whey" (Dioscorides, De Materia Medica 2-76)
 ## *Whey, the watery part of milk that separates from the curd; the translation's heading gloss is simply "Whey"* | *(Volume III — Animal)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -39,6 +39,8 @@ General, well-established facts only. Whey contains lactose, and in people who c
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(b) Framed; no cultivation status.* Dioscorides has no subtle-body system and none is supplied here. The Galenic three spirits are later than Dioscorides. What he offers a practitioner is a discipline of attention (provenance, season of gathering, sensory assay, adulteration detection), and the milk chapters show it clearly: milk is assayed by colour, thickness and the bead on the fingernail (2-75); the season and the pasture are noted; and the method of making whey is a controlled process with a stated vessel, a stated stirrer, a stated acid and a stated way to stop the boil going over (2-77). He also records a rule for who may be given what: milk is withheld from the splenetic, the hepatic, the feverish and the epileptic, unless it is given as whey (2-78). That is a practice of observation and restraint. None of the whey chapters assigns a cultivation status; the uses are purgative and therapeutic.
+
+**Unani / Avicenna (CM).** The *Canon* entry *Maṣl* (whey) is three lines and gives only cautions. Under the actions it says "رديء لأصحاب السوداء جدا" ("very bad for those of black bile"), and adds that when it is cooked with fat meat it is made right a little, "صلح يسيرا" (*Canon* Book II, entry *Maṣl*, Arabic text line 15467). Under the digestive organs it is "ضار للمعدة" ("harmful to the stomach"), and under the excretory organs "ضار للمقعدة" ("harmful to the anus"). No temperament or degree is printed, no preparation or dose is given, and no head, chest, eye or poison use is named. Nothing in the entry concerns innate heat, radical moisture or the prolonging of life, and no beneficial action is attested at all: the entry's whole content is a warning for the melancholic constitution and for the stomach and anus, with one mitigation by cooking. **(b) — only warnings and one mitigation attested, no positive therapeutic action and no cultivation status.**
 
 **Practitioner's note.** Nothing here is a practice for a cultivator beyond ordinary food. The sourced lesson is attention: choose the milk by its look and body, notice the season and the pasture, and observe the process while making the whey. If a person is told to avoid milk, the Greek text would have them leave it alone or take only the whey, which is a statement about the text and not a recommendation. The Codex does not recommend whey as a purge. A dose is given only in the translator's "half-pint to five". [USER: verify]
 

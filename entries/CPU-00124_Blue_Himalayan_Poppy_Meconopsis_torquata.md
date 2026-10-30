@@ -17,6 +17,8 @@ In the Tibetan tradition the blue poppies are used as **cooling herbs to clear h
 
 These are high-altitude, regionally specific medicines, documented here from the Tibetan *rGyud-bzhi* tradition that the canonical index draws upon.
 
+Botanically, the Flora of China (Vol. 7, via efloras.org; Chinese name 毛瓣绿绒蒿) describes *M. torquata* as a monocarpic plant with erect stems 25-53 cm tall, a rosette of many oblanceolate basal leaves covered in fulvous branched bristles, and usually 20-25 densely arranged flowers whose four petals are blue to pale red, about 3.8-6 cm long. It flowers from June to August and grows on slopes, scree and bouldery places at 3400-4700 m in south-central Xizang (Tibet), per the same Flora.
+
 ### Active Components
 
 - **Isoquinoline and other Papaveraceae alkaloids (e.g. protopine, and Meconopsis-specific alkaloids)** — characteristic constituents associated with analgesic, anti-inflammatory and hepatoprotective activity; distinct from the morphinan opiates of opium poppy. [USER: verify named alkaloids for this species before quoting specifics.]
@@ -42,6 +44,7 @@ Safety framing: a regional traditional medicine; as a Papaveraceae alkaloid-bear
 ### Scientific Correlation
 
 - **Meconopsis phytochemistry.** *Meconopsis* species contain Papaveraceae alkaloids and flavonoids with documented anti-inflammatory, analgesic and hepatoprotective activity in study. [USER: insert and verify a specific real citation — ideally for *M. torquata* or close relatives.]
+- **Genus-level review.** Guo Q, Bai R, Zhao B, Feng X, Zhao Y, Tu P, Chai X (2016), "An Ethnopharmacological, Phytochemical and Pharmacological Review of the Genus Meconopsis", *Am J Chin Med* 44(3):439-462, DOI 10.1142/S0192415X16500257. The review reports that *Meconopsis* in traditional Tibetan medicine is mainly prescribed for heat syndromes, hepatitis, pneumonia and joint pain, that phytochemical studies show mainly isoquinoline alkaloids and flavonoids, and that pharmacological work has reported antitumor, hepatoprotective, analgesic, antimicrobial, antioxidant, antitussive and anti-inflammatory activities. The authors note that in vivo pharmacology and qualitative and quantitative analysis remain insufficient; this is genus-level evidence, not specific to *M. torquata*.
 - **Tibetan use.** The traditional heat-clearing/liver-lung use is documented in Tibetan-medicine and phytochemical literature. [USER: verify and insert one specific citation.]
 
 Codex policy: chemistry stated generally; named citations to be supplied and verified by the editor; species data flagged; explicitly NOT opium-poppy chemistry. **Do not fabricate authors, journals or years.**

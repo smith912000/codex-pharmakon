@@ -1,6 +1,6 @@
 # Dung (various animals) — Apopatos (Dioscorides, De Materia Medica 2-98), "Dung — CAUTION"
 ## *The dung of the herd animals, goat, sheep, wild swine, ass and horse, doves, poultry, stork, vulture, mice, dog, man and the earth crocodile, as Dioscorides' chapter 2-98 gathers them in the Osbaldeston English. The edition prints no binomial for this chapter* | *(Volume III — Animal)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -50,6 +50,8 @@ General, well-established facts only. Animal and human faeces carry pathogenic b
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(c) Absent.* Dioscorides has no subtle-body system, and none is supplied here. The chapter assigns no dung a cultivation status, and no passage read connects any of it to *pneuma* or to any practice. What the chapter does offer a reader is a discipline of attention: the assay for earth-crocodile dung by size, crumbling, smoothness, melting and smell, and the list of counterfeits (starling dung from rice-fed birds, starch or cimolite coloured with anchusa). He also records, with distancing words ("thought to", "reported", "found among secrets"), uses he does not vouch for. Recording is not endorsing.
+
+**Unani / Avicenna (CM).** Avicenna opens by noting that dungs differ by species of animal and even between individuals, men especially. On temperament he is blunt: «ليس شيء من الزبل بمبرد ولا بمرطب», "no dung is cooling or moistening"; pigeon dung is the hottest of those used, domestic fowl less than pastured; duck dung and that of hawks and falcons are too hot to use; burning goat droppings makes them finer, not hotter. The uses are external and varied: sheep droppings with vinegar on warts, locust and starling dung for discoloration, cow dung with vinegar on hot abscesses, goat droppings on gout, sciatica and hard swellings, donkey dung sniffed for heavy nosebleed. Of one eye remedy (swallow dung with honey) he says «وقد جربته أنا», "I have tried it myself". Internally goat droppings are given for jaundice and dropsy and hen dung for colic (*Canon* Book II, entry *zabl*, Arabic text line 12708). The cross-entry *khar'* says only «كله مسخن محلل مجفف», "all of it is heating, dissolving, drying" (*Canon* Book II, entry *khar'*, Arabic text line 19355). The frame is that of dissolving and drying; no longevity claim is made. **(b) — Therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing here is a practice for a cultivator, and the Codex does not recommend any use in the chapter. The honest use of the entry is as a record, and as an example of an author separating what he reports from what he vouches for. No dose is given in the sources retrieved. [USER: verify]
 

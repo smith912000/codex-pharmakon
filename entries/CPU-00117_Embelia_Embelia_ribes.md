@@ -2,7 +2,7 @@
 
 ## *Embelia ribes* Burm.f. — the embelin-bearing berry, foremost worm-expeller of Ayurveda
 
-**Tradition Tags:** SS, FMT
+**Tradition Tags:** CM, SS, FMT
 **Tags (previous line, retained for reference):** Ayurveda (Vidanga) · Unani (Baobarang) · Folk-Indian
 **Energetic Classification (TCM):** ◉ Qi (pungent-bitter, warming, antiparasitic, digestive)
 **Training Phase:** [GENERAL]
@@ -53,6 +53,8 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — on the warming, pungent-bitter, parasite-expelling and digestive axis; the foremost antiparasitic of the volume's Ayurvedic register.
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* entry on *Birink al-Kābulī* is very short: an "Indian or Sindhi seed" (حب هندي أو سندي) of two kinds, small and large, the small the better (*Canon* Book II, entry *Birink al-Kābulī*, Arabic text line 11156). It states no temperament. For the joints it "uproots phlegm from the joints, and in that it is the utmost" (يقلع البلغم من المفاصل وهو في ذلك غاية). Under the excretory organs it purges phlegm from the intestines, and it purges worms; the entry adds that gourd seed (حب القرع) is very strong in this last action. That is the whole of its account: a phlegm-evacuating and worm-expelling seed, described in Avicenna's terms of humour and organ, with no mention of innate heat, radical moisture or any use for the conservation of life. **(b) — therapeutic actions attested; no cultivation status.**
 
 **Ayurveda (SS).** Vidanga is a firmly attested *dravya* of the materia medica, classed *katu-tikta* in rasa, *ushna* in virya, and worked as *krimighna* (worm-destroying), *dipana/pachana* (digestive kindling) and *lekhana* (scraping). Its defining identity is therapeutic and specific — the foremost anthelmintic of the corpus — not a rejuvenative one. It appears as an ingredient inside some compound formulations that carry metabolic and *lekhana* aims, but no formal *rasayana* (rejuvenation) or *vajikarana* (generative vitality) status is recorded for *Embelia ribes* itself in the sources retrieved, and none can be attributed to a named Sushrutan or Charakan division for this species. Its standing is therefore that of a corrective, cleansing drug — the *lekhana*/*krimighna* register that clears *ama* and parasites so that the *dhatus* are unburdened — rather than a substance the tradition assigns to build *ojas* or the depletable vital distillate directly. **(b) framed:** attested therapeutically, no cultivation status sourced.
 

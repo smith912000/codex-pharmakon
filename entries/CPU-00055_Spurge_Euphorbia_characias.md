@@ -2,7 +2,7 @@
 
 ## *Euphorbia characias* L. — the caustic-latex shrub named for a king's physician, drastic purge and corrosive
 
-**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book IV) · Greco-Roman (named after Euphorbus, physician to Juba II) · Folk-Mediterranean
+**Tradition Tags:** DMM (Dioscorides, *De Materia Medica* Book IV) · CM (Avicenna, *Canon* Book II) · Greco-Roman (named after Euphorbus, physician to Juba II) · Folk-Mediterranean
 **Energetic Classification (TCM):** ◉ Qi (caustic, drastic purgative/escharotic)
 **Training Phase:** [SPECIALIST ONLY] — corrosive latex; severe irritant, eye hazard, toxic
 
@@ -60,6 +60,8 @@ Codex policy: chemistry stated generally; species distinctions kept explicit; na
 ### Cultivation Register
 
 **Dioscorides / classical Greco-Roman (DMM).** Dioscorides treats the characias spurge (*tithumalos charachias*, the first of seven tithymals) as a wild drug plant of rough, hilly places, not a cultivated one: the text gives a habitat note, not a cultivation status. What he supplies is a discipline of gathering. The juice is drawn about vintage time; the gatherer must not stand upwind or touch the eyes, and must first grease the body, face, neck and scrotum; the seed is gathered in autumn and dried in the sun. Uses are as a purge and emetic, and externally on warts and ulcers. The identification with *Euphorbia characias* follows the translators' gloss. Graded (b) (Dioscorides, De materia medica 4.165a, Osbaldeston & Wood tr. 2000).
+
+**Unani / Avicenna (CM).** The *Canon* entry is headed *yatu'* and treats the whole spurge group: every plant with a sharp, purging, cutting, burning milk, seven well known kinds, "وكلها قتالة" ("all of them deadly"), with the milk as the chief matter (*Canon* Book II, entry *yatu'*, Arabic text line 13834). Citing Dioscorides, it lists the first, "male" kind as *hanaqis*, which this file reads as the characias spurge, with tall reddish stems full of sharp white milk on rough hill ground. No temperament by degree is given. Action: "مقرح قتال" ("blistering and deadly"); thrown into a pool it floats all the fish. Cosmetic: the milk removes warts and moles and, rubbed on, shaves hair. Head: a drop on a decayed tooth breaks it up. Eye: it removes pterygium. Excretory organs: it purges phlegm and watery matter, two or three drops of milk on a dried fig being a sufficient purge, and it removes piles. The entry names no innate heat or radical moisture and no health-giving long-term use. **(b) — drastic purgative and caustic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing to cultivate or take. The one transferable discipline is protective handling of a caustic latex: wind, eyes, skin.
 

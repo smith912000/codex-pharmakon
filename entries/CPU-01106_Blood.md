@@ -1,6 +1,6 @@
 # Blood (various animals) — PERI HAIMATON (Dioscorides 2-97), "Blood — CAUTION"
 ## *The blood of a long list of animals, taken as a drink, eaten fried, or rubbed on; Dioscorides' own chapter on blood, with no single animal and no binomial* | *(Volume III — Animal)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -47,6 +47,8 @@ General, well-established facts only. Blood is a route for bloodborne infection,
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(c) Absent.* Dioscorides has no subtle-body system, and none is supplied here. The chapter records which animals' blood was applied or drunk for which complaint, hedged as report. It assigns blood no cultivation status. Whatever a reader brings to blood from other traditions is not in this chapter.
+
+**Unani / Avicenna (CM).** The *Canon* entry *Dam* (blood) opens by saying that human blood and pig's blood are alike in everything, and warns that "وأكثرها غير معتمد" ("most of what is reported is not to be relied on"). The blood used in medicines must come from a sound animal, its colour not overcome by a humour or by putrefaction (*Canon* Book II, entry *Dam*, Arabic text line 12116). No temperament is stated for blood in general. He says horse blood is "محرق معفن" ("burning and putrefying") and all blood hard to digest, and calls rabbit blood hot. The remedies are listed by organ. Cosmetic: rabbit blood on vitiligo and freckles. Swellings: rabbit and he-goat blood ripen hot swellings. Head: pigeon blood dropped warm on head wounds, with Galen's reply that this works by its mildness only, and tortoise or sheep blood for epilepsy. Eye: lizard blood strengthens sight. Chest: owl blood is "نافع جدا" ("very beneficial") for asthma. Excretory organs: dried goat blood stops flux and the he-goat's breaks kidney stone. Poisons: goat, deer or hare blood against poisoned arrows. Many reports he marks as unconfirmed ("ولم يتحقق"). The entry makes no claim about innate heat, radical moisture or prolonging life. **(b) — therapeutic actions attested, heavily hedged by the author himself; no cultivation status.**
 
 **Practitioner's note.** Nothing here supports a practice. The chapter is useful as a record of the range of animal remedies a Greek physician reported, with his own hedging language ("is said", "is thought"), and the edition's "CAUTION" heading. A cultivator takes nothing from this entry. No dose is given in the sources retrieved. [USER: verify]
 

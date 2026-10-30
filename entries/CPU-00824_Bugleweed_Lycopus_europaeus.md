@@ -2,7 +2,7 @@
 
 ## *Lycopus europaeus* L. | Family: Lamiaceae
 
-**Tradition Tags:** EF
+**Tradition Tags:** SBJ, EF
 **Tags (previous line, retained for reference):** DMM, CM
 **Energetic Classification:** Cooling, drying, bitter-astringent; sedative and "quieting to the heart"
 **Training Phase:** Operative (a genuine endocrine-active herb — used deliberately, not casually)
@@ -59,6 +59,8 @@ Graded honestly, this is a **genuine but stratified win**: strong mechanism, rea
 ### Cultivation Register
 
 **European folk / phytotherapy (EF).** Framed, status unattested. The entry's sourced content records bugleweed in European domestic herbalism as a quieting herb for palpitations and nervous tachycardia, and as the dye-plant remembered in the name Gypsywort. A later German-centred phytotherapy used *Lycopus* preparations for mild hyperthyroidism and its cardiac symptoms. These are therapeutic attestations for a specific complaint, framed in the entry as a short-course remedy. I could not read a named herbal or monograph page for this entry, so none is cited. No tonic or long-term course and no vital-constitution role is recorded.
+
+**Divine Farmer's Classic (SBJ).** *(b) Framed; no cultivation status.* The Chinese drug 泽兰 (*ze lan*) is usually identified as Lycopus lucidus, the Chinese water horehound, a congener of this entry's L. europaeus; the Shennong text does not speak of L. europaeus. Its 味 paragraph reads “味苦，微温” (bitter, slightly warm) and lists, as indications, nosebleed in a nursing woman, the after-effects of wind strike, large-belly water swelling, swelling of the body, face and limbs, water in the joints of the bones, and incised wounds, swollen abscesses and pus in sores. Alternative names are “tiger orchid” and “dragon jujube”, and it is said to grow beside large marshes. The text's preface assigns the middle classic to drugs that nourish the nature, some of them toxic. The paragraph has no 久服 (taking it for long) clause, so no life-nourishing status is promised: the drug is framed as a remedy for the listed complaints, and the Mingyi bielu and Wu Pu lines that follow in the edition are commentary, not part of the classic. (*Shennong bencao jing*, Sun Xingyan ed. 1799, middle classic, entry 泽兰 *ze lan*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 2225)
 
 **Practitioner's note.** Nothing. This is a targeted remedy for a defined complaint, not a plant for long-term cultivation of the self. Because it acts on the thyroid axis, it should not be taken casually or continuously.
 

@@ -2,7 +2,7 @@
 
 ## *Rubia cordifolia* L. — the crimson root that runs through the lymph and clears the skin
 
-**Tradition Tags:** FMT
+**Tradition Tags:** SBJ, FMT
 **Tags (previous line, retained for reference):** SS (Ayurveda — Manjishtha, *Sushruta Samhita* / classical nighantus) · SBJ (Chinese Medicine — Qian Cao Gen, *Bencao Gangmu*) · CM (Unani — Fuwwah, related madders) · Folk-Himalayan
 **Energetic Classification (TCM):** ◉ Qi — a blood-moving, blood-cooling agent of the circulatory axis
 **Training Phase:** [GENERAL]
@@ -64,6 +64,8 @@ Codex policy: anthraquinone/cyclic-peptide chemistry stated securely; named cita
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — squarely on the blood-and-fluid moving axis, with a cooling rather than warming character: it both stanches and circulates, the dual action that makes it a regulator of the blood layer rather than a simple stimulant or sedative.
 
 ### Cultivation Register
+
+**Divine Farmer's Classic (SBJ).** *(a) Attested.* Sun Xingyan's reconstruction of the *Shennong bencao jing* lists 茜根 (madder root) in the upper classic, the grade the preface assigns to drugs that nourish life, correspond to heaven, are non-toxic and may be taken for a long time. The grade is (a) by this upper-classic placement. The 味 paragraph, however, carries no long-use clause. The 味 paragraph reads in full "味苦，寒。主寒湿，风痹，黄胆，补中。生川谷" (bitter, cold; it governs cold-damp, wind numbness and jaundice, and supplements the middle; it grows in river valleys). Nothing in it promises a lighter body, longer life or any other life-nourishing result from long taking, so the attestation is of the placement and not of a promise made by the paragraph. The *Mingyi bielu* adds that the root can be used to dye crimson, gives the names 地血, 茅搜 and 茜, and says it is gathered in the second and third months and dried in the shade; that is a later layer, not the Shennong text. (*Shennong bencao jing*, Sun Xingyan ed. 1799, upper classic, entry 茜根 *qian gen*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 861)
 
 **Tibetan medicine (FMT).** The drug btsod is glossed as Indian or Dyer's madder, Rubia cordifolia or Rubia tinctorium, and said to cure spreading fever of the lungs and kidneys (rGyud-bzhi, Explanatory Tantra ch. 20, Clark tr. 1995). Madder is also named among the medicines that cure blood disorders in the compounding chapter (Explanatory Tantra ch. 21, Clark tr. 1995; "Tsod", Men-Tsee-Khang tr. 2011). These are therapeutic attestations in the tradition's materia medica and compounding classes, grade (b). No bcud-len or rejuvenation status is recorded for it, and the rejuvenation chapter (Explanatory Tantra ch. 23) does not name it. Identifying btsod with this species is a modern determination.
 

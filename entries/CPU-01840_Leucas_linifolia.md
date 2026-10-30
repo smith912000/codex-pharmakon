@@ -17,9 +17,13 @@
 
 **Overlap.** A search of the entries folder for *Leucas linifolia* and Drona-pushpi found no entry on this plant. **I_1372** (*Anthericum tuberosum*, Dravanti) counts the same five lines, and the next name on the page, Dugdhika, is the subject of **I_1410** (*Oxystelma esculentum*, this batch). The word "Leucas" in I_1054, I_1331, I_1332, I_1355 and I_1356 is a genus label in the rGyud-bzhi (FMT) text and carries no claim for this species. Nothing is merged. [USER: verify]
 
+**Botanical note (Flora of China).** The Flora of China (efloras.org, vol. 17) lists *Leucas linifolia* (Roth) Sprengel, based on *Phlomis linifolia* Roth, among the synonyms of *Leucas lavandulifolia* Smith, so modern floras may file this name under *L. lavandulifolia*. It describes an erect herb 0.2–1 m tall, much branched from the base and mostly gray pubescent, with short-stalked or nearly sessile oblong-linear to linear leaves whose margins are entire or sparsely undulate-serrate. The many-flowered verticillasters are 1.5–2.5 cm across, with linear spinescent-tipped bracts; the calyx has an oblique mouth with irregular teeth, the upper tooth largest; the corolla is white, about 1.5 cm long; and the nutlets are brown and ovoid. It flowers October–December and fruits December–January. Its habitat is dry sunny areas, roadsides, riverbanks and thickets at forest margins, 0–1000(–1400) m, in Guangdong and Yunnan in China, and it is also recorded from India, Indonesia, Malaysia, the Philippines, Thailand and Africa. This describes the plant only and adds no claim about Sushruta's drug.
+
 ### Active Components
 
 The sources read print no constituent. As a general fact, *Leucas* is a genus of the mint family (Lamiaceae). Nothing is stated here about the composition of the drug. [USER: verify]
+
+Modern phytochemical work is thin under the name *L. linifolia*. Under the accepted name *L. lavandulifolia*, which the Flora of China treats as including it, Jayaraman and Variyar (2021, *J Ethnopharmacol* 278:114307; doi:10.1016/j.jep.2021.114307) isolated the triterpenoid taraxerone from a methanol extract of the stem and identified it by LC/Q-TOF. That identification is a laboratory finding about the extract and implies nothing about what the Sushruta text intended.
 
 ### Effect & Use Case in Kenetica
 
@@ -32,6 +36,8 @@ No preparation is given in the chapters retrieved for the name Drona-pushpi. No 
 ### Scientific Correlation
 
 No clinical studies were retrieved for this entry. [USER: verify] The identity rests on a positional pairing in a translator's appendix, so no study of *Leucas linifolia* would bear directly on any Sushruta statement.
+
+Two published studies are nonetheless worth recording, as science about the plant and not as support for any traditional claim. First, in the study by Jayaraman and Variyar (2021, doi:10.1016/j.jep.2021.114307) on *L. lavandulifolia*, taraxerone suppressed IL-4 and IL-6 production at 25 µg/ml in stimulated cells, gave an IC50 of 17.5 µg/ml for LPS-stimulated RAW 264.7 macrophages, and at 50 mg/kg lowered antibody titre and phagocytic index in mice; the authors describe an immunosuppressive effect, and the work was in vitro and in mice. Second, Baruah et al. (2018, *Vet World* 11(6):809–818; doi:10.14202/vetworld.2018.809-818) screened twenty plants from Assam, India, as possible ruminant feed additives and reported that *Leucas linifolia* produced relatively more methane than the best-performing plants during 24-hour in vitro rumen incubation, so it was not among those proposed for methane suppression.
 
 ### Traditional Energetic Classification
 

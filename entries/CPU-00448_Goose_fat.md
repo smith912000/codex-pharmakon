@@ -1,6 +1,6 @@
 # Goose fat — "Goose-fat", "Goose-grease", "Goose-oil" (Bryan's English renderings of the Ebers Papyrus; the animal "Goose" is on Bryan's animal list)
 ## *Rendered fat of the goose, printed by Bryan under three English names; no Egyptian word, no species and no preparation of the fat itself is given in the sources retrieved* | *(Volume III — Animal)*
-**Tradition Tags:** EP
+**Tradition Tags:** EP, SBJ
 
 ---
 
@@ -57,6 +57,8 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 ---
 
 ### Cultivation Register
+
+**Divine Farmer's Classic (SBJ).** *(a) Attested.* Sun Xingyan's reconstruction of the *Shennong bencao jing* places 雁肪 (the fat of the 雁 goose) in the upper classic, the grade the preface assigns to drugs that nourish life, correspond to heaven, are non-toxic and may be taken for a long time. The 味 paragraph opens "味甘，平" (sweet, neutral). It gives the indications as "主风挛拘急，偏枯，气不通利" (it governs wind-related spasm and tightness, one-sided withering, and qi that does not pass freely). The long-use clause reads "久服，益气、不饥、轻身、耐老" (taken for a long time, it adds to qi, ends hunger, lightens the body and lets one endure old age). The text says it comes from lakes and marshes. This paragraph rests on the Chinese name 雁肪 alone; the entry's own sources (Bryan's Ebers) name no species, so the two are not shown here to be the same bird. (*Shennong bencao jing*, Sun Xingyan ed. 1799, upper classic, entry 雁肪 *yan fang*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 1425)
 
 **Egyptian / Ebers (EP).** *(c) Absent.* No cultivation framing is attested. The Ebers material is indication-organised: it records what was done for a complaint, not what a substance does to the person's vital constitution; the debility remedy at line 1377 is the nearest thing to a constitutional complaint and is a treatment of it, not a practice for the healthy. Egyptian practice treats spell and drug as one intervention (*heka*). Two spoken texts stand close to goose-fat passages and are not transferred to it. At lines 2824-2832 the cataract incantation, "Come, Verdigris! Come, Verdigris! [...]", follows Bryan's mention of the goose-grease and honey poultice but belongs to a separate remedy addressed to verdigris. At line 3858 the physician is told to say "He has a mattery-tumour. I will fight the disease." before the goose-fat poultice; that is the case's diagnostic address, not a recitation over the drug. The person as plural (*ka*, *ba*, *akh*, *ib*) is not engaged by this entry. No deity is attributed to the fat.
 

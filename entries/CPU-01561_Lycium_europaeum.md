@@ -1,7 +1,7 @@
 # Lycium europaeum — Lukion (Dioscorides 1-132, "Lycium", also "pyxacantha"); "European Box Thorn" on the translators' line
 
 ## *Lycium europaeum, the first binomial on the translators' SUGGESTED line for chapter 1-132 (glossed "European Box Thorn"); a second line adds Lycium lanceolatum and Rhamnus infectorius [Matthiolus], "Spear-leaved Box Thorn"* | *(Volume I — Plant-Based)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -50,6 +50,8 @@ No clinical studies were retrieved for this entry. [USER: verify] As a general f
 ### Cultivation Register
 
 **Greek — Dioscorides (DMM).** *(b) Framed, not a cultivation status.* Dioscorides has no subtle-body system, and none is manufactured here. The chapter assigns the plant no cultivation status. What it gives toward the discipline of attention that the spec describes for this tradition is substantial: provenance (where the plant grows: Cappadocia, Lycia, and the Indian kind rated better), a method of preparation, a list of the ways the drug is adulterated (the sediment of oil, the juice of wormwood, ox gall), and a sensory and fire assay of a good juice (it "takes fire", gives a red foam when quenched, is black outside and yellow when cut, has no stinking smell, tastes astringent with bitterness and is the colour of saffron). That is a real practice of discrimination and it is the tradition's own. It is a discipline for the maker or buyer of a drug and not a vital or spiritual one. The identification is the translators'. [USER: verify]
+
+**Unani / Avicenna (CM).** The *Canon* entry *ʿAwsaj* (boxthorn) opens with a doubt over the name: some say it is the bramble (*ʿullayq*). It then gives Dioscorides' description, a tree growing in salt marsh, with upright thorny branches and longish leaves topped with a sticky moisture that clings to the hand, a second white kind, and a third with darker, broader, reddish leaves, long branches and a mulberry-like fruit that is eaten, growing more in cold countries (*Canon* Book II, entry *ʿAwsaj*, Arabic text line 16625). No temperament or degree is printed. Under the properties he says that some claim that, hung on doors or windows, it cancels the work of sorcerers, which he attributes to "زعم قوم" ("a group claimed"). Under pustules, the leaf of all its kinds benefits erysipelas and herpes as a poultice. The entry names no head, eye, chest, digestive, excretory or poison use, and says nothing of innate heat, radical moisture or prolonging life. This matching to *Lycium europaeum* rests on the Arabic name *ʿawsaj*. **(b) — one therapeutic action attested (leaf poultice for erysipelas); no cultivation status.**
 
 **Practitioner's note.** What a cultivator can take from the chapter is the habit of attention it models: know where a drug comes from, know how it is made, know how it is faked, and test it with the senses and with fire before relying on it. The chapter gives nothing else, and the preparation should not be copied from this entry, because the plant is not securely identified and the text gives no dose for it.
 

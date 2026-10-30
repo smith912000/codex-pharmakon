@@ -2,7 +2,7 @@
 
 ## *Stellera chamaejasme* L. — the rose-and-cream cushion of the high steppe whose root poisons the soil it conquers
 
-**Tradition Tags:** FMT
+**Tradition Tags:** SBJ, FMT
 **Tags (previous line, retained for reference):** CM (Rui Xiang Lang Du / Lang Du, related *langdu* drugs) · Tibetan-Mongolian folk medicine · Central-Asian pastoral pharmacology · BM (ethnobotanical / agricultural)
 **Energetic Classification (TCM):** ◉ Qi (purgative, dispersing, toxic)
 **Training Phase:** [SPECIALIST ONLY] — a toxic diterpene-ester root; not for unsupervised use
@@ -65,6 +65,8 @@ Codex policy: chemical class (daphnane/tigliane diterpene esters, biflavonoids) 
 - **Kenetica Qi/Shen tier:** ◉ **Qi** — at the toxic, dispersing extreme of the Qi axis: a violently moving, accumulation-breaking poison rather than a tonic. Filed alongside the caustic Thymelaeaceae/Euphorbiaceae esters as a [SPECIALIST ONLY] purgative-toxic agent.
 
 ### Cultivation Register
+
+**Divine Farmer's Classic (SBJ).** *(b) Framed; no cultivation status.* The paragraph for 野狼毒 (wild wolf's poison) reads 味辛，平 ("acrid, neutral"). The classic files it in the lower grade (下品); its preface says lower-grade drugs treat disease, are toxic, and are not for long use. It governs cough with rising qi (主咳逆上气), breaks accumulations and gatherings, drink and food, and cold and heat (破积聚、饮食、寒热), and treats "water qi", malignant sores and ulcers, and "ghost essence" and gu poison (鬼精、蛊毒). It says it "kills flying birds and running beasts" (杀飞鸟、走兽), a plain statement of toxicity, and gives the alias 一名续毒 ("also called Xudu") and 生山谷 ("grows in mountain valleys"). There is no 久服 ("taken long") clause. The Mingyi bielu adds the places and months of gathering the root; those lines are not the Shennong text. The register is (b). (*Shennong bencao jing*, Sun Xingyan ed. 1799, lower classic, entry 野狼毒 *yelangdu*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 3429)
 
 **Tibetan medicine (FMT).** The drug re.lchag.pa is glossed as Stellera chamaejasme and described as hot in taste and coarse in power, healing sores, purging septic disorders and used as a suppository (rGyud-bzhi, Explanatory Tantra ch. 20, Clark tr. 1995). It is also named among the purgatives in the compounding chapter (Explanatory Tantra ch. 21, Clark tr. 1995; "Rechagpa", Men-Tsee-Khang tr. 2011). These are therapeutic attestations, grade (b): no bcud-len or rejuvenation status is recorded for it, and the rejuvenation chapter (Explanatory Tantra ch. 23) does not name it. Linking the Tibetan name to this species is a modern identification and not wholly settled.
 

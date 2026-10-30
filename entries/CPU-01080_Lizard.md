@@ -1,6 +1,6 @@
 # Lizard — Saura (as printed in Dioscorides 2-69) / Lizard, Lizard's Blood, Lizard's dung, Black Lizard (Bryan's Ebers) / rmigs.pa (Clark; the Tibetan lizard, Eremias)
 ## *Lizards (Lacertilia, the translator's suggestion for Dioscorides 2-69); Bryan gives only "Lizard"; Clark identifies the Tibetan lizard as* Eremias argus *(with* Phrynocephalus vlangalii *Strauch)* | *(Volume III — Animal)*
-**Tradition Tags:** EP, DMM, FMT
+**Tradition Tags:** EP, DMM, CM, FMT
 
 ---
 
@@ -47,6 +47,8 @@ General facts only. Reptiles commonly carry *Salmonella* and other bacteria, and
 **Egyptian / Ebers (EP).** *(b) Framed; no cultivation status.* The lizard is named as an ingredient for a complaint (blood for trichiasis, dung in eye remedies, the animal in a hair remedy), and in Bryan's account a burnt lizard is used against scorpions. Nothing says what it does to the person's *ka*, *ba*, *akh* or *ib*. The Ebers material is indication-organised: the identity of each named substance is a modern hypothesis, and these forms are Bryan's. Bryan reports no recitation with the lizard remedies read; since he summarises, that is not proof that none existed. No deity is attributed. [USER: verify]
 
 **Greek / Dioscorides (DMM).** *(b) Framed; no cultivation status.* Dioscorides has no subtle-body system and none is supplied here. The chapter gives uses for three parts (head, liver, whole animal), and the neighbouring chapters (2-70, 2-71) show that he distinguishes a harmless lizard from a poisonous one and from the skink; that is a discipline of attention in identification. The skink's aphrodisiac use (2-71) is recorded for a different animal and is not carried to the lizard.
+
+**Unani / Avicenna (CM).** The *Canon* entry *ʿAẓāʾa* is short and, after Dioscorides, describes the lizard as a creature like the gecko but green, slow and of changing colours, which some say does not burn when it enters fire; it has "a weak power" (له قوة ضعيفة) and is stored as cantharides are stored, with the entrails removed, the hands and feet cut off, and kept in honey (*Canon* Book II, entry *ʿAẓāʾa*, Arabic text line 16720). It gives no temperament. Under wounds and ulcers it helps scab as cantharides do, and goes into both corrosive and soothing ointments. In cosmetics its tail, boiled until it falls apart, removes hair. That is the whole account: a weak external remedy treated like cantharides. It is not linked to innate heat or radical moisture, and the lizard has no standing in the conservation of life. **(b) — therapeutic actions attested; no cultivation status.**
 
 **Tibetan / rGyud-bzhi (FMT).** *(b) Framed; no cultivation status.* The passages read are therapeutic: the lizard as anthelmintic and against poisons. Medicine in this tradition is the third of four treatment branches and supports practice; it does not reach the root. No *bcud len* use of the lizard was found, and no formal category of substances for subtle-body practice exists in this tradition, so none is asserted. Clark's introduction (line 57) notes that animal products are little used today.
 

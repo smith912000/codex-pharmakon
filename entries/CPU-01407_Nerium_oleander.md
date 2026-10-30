@@ -1,7 +1,7 @@
 # Oleander / Nerium oleander — Nerion (Dioscorides 4-82); Asva-maraka, Haya-maraka, Karavira (Sushruta, printed "Nerium odorum")
 
 ## *Nerium oleander* (the Dioscorides translators' suggested identification, "Nerium, Oleander [Fuchs], Nerium oleander — Rose Bay, Oleander"; Bhishagratna's Appendix 3 prints "Nerium odorum" against three Sanskrit names) | *(Volume I — Plant-Based)*
-**Tradition Tags:** DMM, SS
+**Tradition Tags:** DMM, CM, SS
 
 ---
 
@@ -45,6 +45,8 @@ Oleander is a recognised poisonous plant whose cardiac glycosides can cause seri
 ### Cultivation Register
 
 **Greek — Dioscorides (DMM).** *(b) Framed, not a cultivation status.* Dioscorides has no subtle-body system. Chapter 4-82 offers a discipline of attention: how to know the plant (leaves longer and thicker than the almond, a rose-like flower, a horned fruit full of down, a pointed woody root), where it grows (enclosed greens, the seaside, riverbanks), and what it does to animals. It assigns no status to the person who takes it, and the identification with *N. oleander* is the translators'.
+
+**Unani / Avicenna (CM).** The *Canon* entry *Diflā* (oleander) describes a wild kind and a river kind, with a very red blossom and a bitter taste, and gives its temperament as "حار في الثالثة يابس في الثانية" ("hot in the third degree, dry in the second") (*Canon* Book II, entry *Diflā*, Arabic text line 12008). Its action is "محلل جدا" ("greatly dissolving"), and a decoction sprinkled in a house kills fleas and termites. The leaf laid on hard swellings is "شديد المنفعة" ("of great benefit"); its juice is good for itch, scab and spreading sores; applied as a poultice it serves old pain of the back and the knee; the blossom is an errhine for the head. Under poisons he says flatly "هو سم" ("it is a poison"), notes that it is mixed with wine and rue and given against the poison of venomous creatures, and then adds in his own voice that this is dangerous, since the plant and its flower are poisonous to men, beasts and dogs. Nothing in the entry concerns innate heat, radical moisture or the prolonging of life, and its one internal use is a warning and not a regimen. **(b) — therapeutic actions attested (external, mainly), with an explicit poison warning; no cultivation status.**
 
 **Sanskrit — Sushruta (SS).** *(b) Framed, not a cultivation status.* The plant is claimed under three Sanskrit names for surgical and local uses (a bursting plaster, an alkali, errhines, ulcer washes, a hair oil). It is not named in any *rasayana* or *vajikarana* chapter among the passages read, and no *ojas* or other vital-substrate action is attested for it. The text read does not explain the names *Haya-maraka* and *Asva-maraka*.
 

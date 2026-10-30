@@ -1,6 +1,6 @@
 # Gecko — rtsangs.pa (Tibetan, as transliterated by Clark 1995), "a type of Gecko: Agama himalayana sacra"; "mountain-dwelling lizards" (Men-Tsee-Khang 2011)
 ## *A lizard whose flesh the rGyud-bzhi lists as a medicine; Clark glosses it "a type of Gecko" with the binomial "Agama himalayana sacra", and the Men-Tsee-Khang translation has "mountain-dwelling lizards"* | *(Volume III — Animal)*
-**Tradition Tags:** FMT
+**Tradition Tags:** CM, FMT
 
 ---
 
@@ -39,6 +39,8 @@ General, well-established facts only. No lizard flesh is a known fertility or se
 **Tibetan (FMT):** The gecko's own line (Clark 1170) prints no taste, potency or post-digestive taste. Two statements frame it as a meat: "All the different types of meats in the above eight sections are sweet tasting and have a sweet post-digestive taste" (Clark line 673); and the Men-Tsee-Khang text says the "taste and post-digestive taste of meats from the animals in the above eight groups are sweet" (line 2923), adding that the meat of dry-land animals is "cool, light and rough in quality" and that of animals living in wet places "oily, heavy and warm" (line 2923). The text does not say which of these the burrowing animals fall under, so none is assigned to the gecko. Its action as printed is that it increases semen.
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* has an entry headed *sam abras*, which it glosses "هو الوزغ ويقال خلافه" ("it is the wall-lizard, though others say otherwise") (*Canon* Book II, entry *sam abras*, Arabic text line 16158). It is the house gecko of the Arabic physicians, so the link to the Himalayan lizard of the Tibetan text rests on both being lizards, not on one species. No temperament is given. Cosmetic: pounded as a poultice it draws out thorns, splinters and warts, and dried and mixed with oil it grows hair on a scabby scalp, a claim he gives as "قيل" ("it is said"). Specific property: its urine and blood are wonderfully useful for infants' rupture, in a bath of its decoction. Head: the liver is said to quiet toothache. Poisons: split open and laid on a scorpion sting. The entry has no innate heat, radical moisture, aphrodisiac or semen claim, unlike the Tibetan entry. **(b) — external and specific actions attested; no cultivation status.**
 
 **Tibetan / rGyud-bzhi (FMT).** *(b) Framed; no cultivation status.* The flesh of this lizard is named in the Explanatory Tantra's materia medica, in the meat section, with the property that it increases semen. That is a therapeutic property of a meat; no passage read presents it as a cultivation practice. The project's cultivation spec places Tibetan medicine as the third of four treatment branches, supporting practice and not reaching the root of illness (the three poisons); that is a statement about the tradition's frame, not about this substance. No passage read connects this lizard to *bcud len* (essence extraction) or to any practice, and no formal category of substances for subtle-body practice exists in this tradition. None is asserted. Both translators say animal products have largely been given up in practice, and the 2011 text gives Buddhism's rejection of harm to any being as part of the reason (line 687). The attestation rests on single lines of two translations.
 

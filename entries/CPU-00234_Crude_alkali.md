@@ -1,6 +1,6 @@
 # Crude alkali (Lu Xian) — Lu Xian, "Alkali" (Yang 1998); list row 鹵鹹
 ## *An "alkali" of the Divine Farmer's Classic; Yang 1998 prints "Alkali" for Lu Xian and gives no composition, and his footnote 69 says the Classic treats Alkali, Salt and Halite in one passage with different indications for each* | *(Volume II — Mineral)*
-**Tradition Tags:** SBJ
+**Tradition Tags:** CM, SBJ
 
 ---
 
@@ -33,6 +33,8 @@ Sodium carbonate and bicarbonate are well-known alkaline compounds: the bicarbon
 - SBJ: "bitter, salty, and cold" (Yang line 1281). Class: Inferior (headings lines 1240 and 1311). Yang's footnote 32 (lines 849-855) explains that his rendering omits the word "flavor" and that "balanced" means neither cold nor hot; this entry is "cold". No other quality is printed.
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* entry *natrun* is a single cross-reference line: "هو البورق الأرمني" ("it is the Armenian borax"), already discussed under the letter ba (*Canon* Book II, entry *natrun*, Arabic text line 15614). So the actions are those of the borax entry (*Canon* Book II, entry *bawraq*, Arabic text line 10933), and the match to this file's crude soda rests on that equation and on the name; the Arabic gives no composition. Temperament there: "حار يابس في آخر الثانية" ("hot and dry at the end of the second degree"), sometimes reaching the third. Actions: it cleanses strongly, washes, scales, cuts thick humours, with a little astringency. Cosmetic: it thins hair and improves the colour. Wounds: it helps itch and scab. Digestive organs: bad for the stomach and spoiling to it. Excretory organs: loosens the bowel and, with wine and cumin, eases colic, and it kills worms. Poisons: it helps against mushroom poisoning. The entries use no innate heat or radical moisture frame, and none confers a long-life status. **(b) — cleansing and therapeutic actions attested through a cross-reference; no cultivation status.**
 
 **Divine Farmer's Classic (SBJ).** *(a) Attested: a lower-grade drug (下品), for a short course.* Lu Xian lies between two printings of "Jades and Stones: Inferior Class" (Yang lines 1240 and 1311); the page itself prints no heading, and the entry is placed by bracketing, as Mica (Yun Mu) is in the Superior run. Yang's preface says the inferior class medicinals "mainly treat disease and correspond to earth. They are usually toxic and cannot be taken for a long time. If one intends to eliminate cold and heat and evil qi, break accumulations and gatherings, and cure disease, one should base [one's efforts] on the inferior class" (lines 391-395). Yang's own note on the classes (lines 356-366) says inferior class medicinals "specifically treat disease" and "cannot be taken in large amounts or for prolonged periods of time without developing negative side effects". The monograph prints no longevity, lightness or immortality claim, and does not itself say "toxic". The grade is a statement of the Classic as translated by Yang in 1998 and carries a cultivation meaning only in the negative.
 

@@ -2,7 +2,7 @@
 
 ## *Ferula persica* Willd. — the lesser fetid gum of the Median road
 
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 **Tags (previous line, retained for reference):** DMM · CM-Unani · SS (peripheral)
 **Energetic Classification (TCM):** ◉ Qi (moves and disperses stagnation in the Middle Burner) · secondary ☿ Shen (antispasmodic, nervine)
 **Training Phase:** [SPECIALIST ONLY]
@@ -69,6 +69,8 @@ The umbelliferone / coumarin calcium-channel-modulating smooth-muscle mechanism 
 ### Cultivation Register
 
 **Dioscorides / classical Greco-Roman (DMM).** Dioscorides frames sagapenum (*sagapenon*) as a drug, not a cultivated crop, and gives it no vital or cultivation status. He calls it the liquid of a ferula-like herb growing in Media, and teaches the assay: the best is transparent, yellow outside and white within, smells between silphium and galbanum, and is sharp to the taste. Uses are pain, venomous bites, uterine suffocation inhaled with vinegar, and clouding of the eyes, and it is an abortifacient. The equation of *sagapenon* with *Ferula persica* is a modern identification and the botanical source has long been debated. Graded (b): therapeutic and sensory-assay attestation, status unattested (Dioscorides, De materia medica 3.95, Osbaldeston & Wood tr. 2000).
+
+**Unani / Avicenna (CM).** Avicenna says the tree has no use but its gum, and that some hold a kind of galbanum (*qanna*) turns into sagapenum; he then quotes Dioscorides on a cucumber-shaped plant growing near water, with a smell between asafoetida and galbanum, often adulterated with another gum. Temperament: «حار في الثالثة يابس في الثانية», "hot in the third degree, dry in the second". Actions: dissolving, attenuating, warming, cleansing. It helps palsy and torn muscles and cold joint pains; cold headache and epilepsy; for the eye, «من أفضل الأدوية للماء النازل», "among the best medicines for the water descending in the eye"; for the chest, pain and chronic cough; dropsy and liver pain; colic and stone; menstruation and the womb; and it "increases sexual capacity" (*al-bāh*), one clause among uterine uses. It is taken in food for colour, serves in recurrent fevers and against bites and deadly poisons, and is stronger than galbanum (*Canon* Book II, entry *sakbīnaj*, Arabic text line 16012). Innate heat and radical moisture are not mentioned, and no cultivation status is given. **(b) — Therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing for a cultivator to do. The only usable discipline is the sensory test for colour, smell and sharpness, and the caution that the resin's botanical source is not secure.
 

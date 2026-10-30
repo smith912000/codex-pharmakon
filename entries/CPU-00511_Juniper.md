@@ -1,7 +1,7 @@
 # Juniper (Burasu / Burashu) — "Juniper (burasu / burashu)" (name as printed on the list row; the Assyrian text on disk is cuneiform plates only)
 
 ## *Juniperus excelsa* M.Bieb. or *J. oxycedrus* L. (spine botanical, from a list row, flagged id-uncertain; no Assyrian text read gives a binomial) | *(Volume I — Plant-Based)*
-**Tradition Tags:** AT
+**Tradition Tags:** AT, CM
 
 ---
 
@@ -38,6 +38,8 @@ No clinical studies were retrieved for this entry. [USER: verify]
 - **AT:** none is read. The tradition classifies illness by causal agency, and no classification of this plant by agency is attested in the sources retrieved.
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* has an entry headed *'ar'ar*, which it defines as "السرو الجبلي" ("the mountain cypress"), in small and large kinds (*Canon* Book II, entry *'ar'ar*, Arabic text line 16419). No Latin name is given, so the match to the junipers of this file rests on the Arabic name. Temperament: the tree tends to heat and dryness, and the berry is "حار في الأولى يابس في الثانية" ("hot in the first, dry in the second"). Actions: heating, subtilising and dispersing, with some astringency in the fruit that the rest of the tree lacks. Joints: good for bruised muscle. Chest: good for chest pains and cough. Digestive organs: it cleanses and opens obstructions of liver and spleen, is good for the stomach as a drink and very good for wind in it. Excretory organs: it promotes urine and the menses and is good for suffocation of the womb. Poisons: its smoke drives off vermin and flies and counters stings. Nothing in the entry speaks of innate heat or radical moisture. **(b) — many therapeutic actions attested; no cultivation status.**
 
 **Assyrian (AT).** *(c) Absent, and the attestation rests on a list row.* No tablet was read, and the sources named in the row are not on disk. The tradition classifies illness by causal agency (a divine hand, a ghost, an oath), so a substance is partly classified by what agency it opposes; no such classification of juniper is attested in the sources retrieved. The blocking warning is in force. [USER: verify]
 

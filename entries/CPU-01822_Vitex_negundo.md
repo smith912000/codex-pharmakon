@@ -1,7 +1,7 @@
 # Vitex negundo — Nirgundi, Sindhuvara, Sinduka (Sushruta Samhita, Bhishagratna's Appendix No. 3)
 
 ## *Vitex negundo, the Latin that Bhishagratna's Appendix No. 3 ("Names of Drugs, with Latin synonyms", Vol. III) prints (OCR "Vitex Negundo.", line 32452) against the Sanskrit name Nirgundi (OCR "Nirgnndi", line 32398) and, on a later page, a second time (line 32976) against Sindhuvara (OCR "Sindhuva'ra", line 32896). The pairing of each Sanskrit name with its Latin line is positional, proposed by an agent from two OCR columns and re-checked here by counting; it is not printed on one line* | *(Volume I — Plant-Based)*
-**Tradition Tags:** SS
+**Tradition Tags:** CM, SS
 
 ---
 
@@ -58,6 +58,8 @@ No clinical studies were retrieved for this entry. [USER: verify] The Sushruta t
 - **SS:** the passages read print for the drug its place in the Surasadi group, whose stated virtue is that it is a vermifuge and aseptic, "subdues the deranged Kapham" and helps in catarrh, loss of appetite, asthma and cough (Sutra 38, lines 127 to 130), and that the Sindhuvara flower is "renowned for its virtue of destroying the Pittam" (Sutra 46, line 1805). No *rasa*, *virya* or *vipaka* is printed for Nirgundi or Sindhuvara in the lines read.
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* has an entry headed *banjankusht*, described as almost a tree growing near water with hard branches and olive-like leaves, softer than olive; the flower, leaf and fruit are used (*Canon* Book II, entry *banjankusht*, Arabic text line 11287). The entry gives no Latin name, so the match to *Vitex negundo* rests on this file's identification, not on a printed binomial; a plant of this name is conventionally taken as a *Vitex*. Temperament: "حار في الأولى يابس في الثالثة" ("hot in the first degree, dry in the third"). Actions: "ملطف محلل مفشش للرياح" ("subtilising, dissolving, dispersing wind"), opening with some astringency. Head: it causes headache and stupor when drunk, and a poultice helps headache. Chest: it increases milk and lessens semen. Digestive organs: it opens obstructions of the liver and spleen, helps a hard spleen taken with oxymel (*sikanjabin*) and helps dropsy. Excretory organs: a sitz bath for womb pain, and it dries semen. Poisons: a dose of a dirham against stings and snake bite. The entry does not mention innate heat, radical moisture or life-prolonging use. **(b) — many therapeutic actions attested; no cultivation status.**
 
 **Ayurvedic — Sushruta (SS).** *(b) Framed, not a cultivation status.* The Sushruta text names the drug as a member of the Surasadi group, as an emetic and local application, as a pot-herb diet in haemorrhage and as an antivenom ingredient, and mentions the wood as a child's neck charm. A search of the vajikarana chapter (Chikitsa 26) and the rasayana chapters (Chikitsa 27 to 30) found none of its names, so the text assigns it no rejuvenative or generative status in the lines retrieved. The chapters say nothing of *ojas*, *tejas* or *prana* for it. The Latin identification is the appendix's. [USER: verify]
 

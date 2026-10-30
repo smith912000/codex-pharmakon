@@ -1,6 +1,6 @@
 # Pompholyx (zinc oxide) — Pompholux / pompholyx (as printed in the 2000 English edition of Dioscorides)
 ## *The light white furnace deposit from brass-working, glossed by the translator as "Zinc Oxide — Pompholyx" and elsewhere in the same edition as "crude zinc oxide"; the chapter itself defines it by how it is made, not by a mineral name* | *(Volume II — Mineral)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -45,6 +45,8 @@ General, well-established facts only. Zinc oxide is a white powder used today in
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(b) Framed; no cultivation status.* Dioscorides has no subtle-body system and none is supplied here. What he offers a cultivator is a discipline of attention, and this chapter is one of the fullest examples in Book 5: it separates pompholyx from the heavier, dirtier spodos by look and weight; it says where the material forms and how to make it deliberately; it names a place (Cyprus) as giving the best; it gives sensory tests (smell of brass on mixing with vinegar, behaviour on a burning coal); it names counterfeits and says that the tests defeat them; and it gives three washing methods that depend on watching the material settle. Those are practices of looking, testing and cleaning. The chapter gives pompholyx no cultivation status and prints no effect on the vital constitution of the person; its only statement of effect is a list of qualities. No amuletic use is recorded.
+
+**Unani / Avicenna (CM).** The *Canon* entry *Tūtiyā* explains the substance as a smoke that rises when lead and copper are freed from the stones that mix with them, white, yellow, green or reddish, made in Kirman, with the residue below called *saqūdiyūn*; the best is the white and volatile (*Canon* Book II, entry *Tūtiyā*, Arabic text line 18493). Its temperament is "cold in the first, dry in the second" (بارد في الأولى يابس في الثانية). It "dries without stinging", and the washed kind is "the best of the drying medicines" (أفضل المجففات). In cosmetics it helps body odour. The washed kind helps ulcers, even cancerous ones. For the eye it relieves pain and prevents bad humours that gather in the vessels of the eye from passing into its layers, especially the washed. Under the excretory organs it helps ulcers and swellings of the stomach and the genitals. As a metallic calx it is treated as a cool drying remedy, not linked in the entry to innate heat, radical moisture or prolonging life. **(b) — therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing here is a practice for a cultivator beyond the attention it shows: know how a material is made, test it before trusting it, and clean it before use. The Codex does not recommend using pompholyx. A reader who wants the lesson of the chapter can take its method, not its substance. No dose is given in the sources retrieved. [USER: verify]
 

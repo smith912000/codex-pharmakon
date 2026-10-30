@@ -2,7 +2,7 @@
 
 ## *Ecballium elaterium* (L.) A.Rich. — The Cathartic That Fires Its Own Seed; Elaterium of the Ancients; The Drastic of Drastics
 
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 **Energetic Classification (TCM):** ◉ Qi primary / ☿ Shen secondary
 **Training Phase:** [SPECIALIST ONLY] — violent drastic purgative; toxic
 
@@ -87,6 +87,8 @@ Attard E, Cuschieri A (2004) "Cytotoxicity of cucurbitacin E extracted from *Ecb
 ### Cultivation Register
 
 **Dioscorides / classical Greco-Roman (DMM).** Dioscorides separates the wild cucumber (*sikus agrios*, marked poisonous) from the cultivated *sikus* by its much smaller fruit, and notes it grows in house rubbish and sandy places; this is the only wild-or-cultivated remark, and it is not a cultivation status. The dried juice of the fruit, *elaterion*, gets a full assay discipline: how it is pressed, washed and tabletted; the best is pale, light, smooth, very bitter and quickly kindled at a flame, while heavy, foul material cut with ashes or starch is rejected; it improves with age; the dose is five to ten grains and more is dangerous. The match to *Ecballium elaterium* is the translators' modern gloss. Graded (b) (Dioscorides, De materia medica 4.154 and 4.155, Osbaldeston & Wood tr. 2000).
+
+**Unani / Avicenna (CM).** *Safīdūs* in the *Canon* is only a cross-reference to *qiththāʾ al-ḥimār*, the "donkey's cucumber" (*Canon* Book II, entry *Qiththāʾ al-ḥimār*, Arabic text line 17695; cross-reference at line 16386). The juice is made from the yellowed fruit, hung in a cloth and dried in the shade. Its temperament is "hot and dry in the third" (حار يابس في الثالثة); it is "subtle, dissolving", and root, leaf and fruit cleanse and dissolve. The root with barley meal dissolves every old phlegmatic swelling; the dried powder on scab and ringworm helps; the juice is used for jaundice and to clear the face. For the joints a decoction is an enema for sciatica, and with vinegar a poultice for gout. For the head the juice, snuffed with milk, dissolves thick migraine and chronic headache. It helps dropsy by expelling the watery part, and it vomits phlegm and yellow bile; it purges phlegm and blood, the juice drives urine and menses, and as a pessary it destroys the foetus. The entry calls its action on dropsy "a wonderful benefit without harm" (منفعة عجيبة بلا ضرر). No cultivation frame is used. **(b) — therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing. This is a violent purgative the text itself warns against over-dosing; its lesson for a cultivator is assay and adulteration detection, not use.
 

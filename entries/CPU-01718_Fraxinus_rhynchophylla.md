@@ -1,7 +1,7 @@
 # Fraxinus rhynchophylla — stab.seng, Tab seng, "Chinese ash" (rGyud-bzhi)
 
 ## *Fraxinus rhynchophylla, the second of two binomials Clark 1995 prints for stab.seng (after Eucommia ulmoides); the Men-Tsee-Khang 2011 glossary prints Fraxinus rhynchophylla with the English "Chinese ash" in the position that column order gives to "Tab seng"* | *(Volume I — Plant-Based)*
-**Tradition Tags:** FMT
+**Tradition Tags:** SBJ, FMT
 
 ---
 
@@ -42,6 +42,8 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 - **FMT:** Clark's commentary layer (line 978) gives no taste, power or post-digestive taste for this drug; it describes the tree, bark and leaf. The name does not appear in the Men-Tsee-Khang taste-group lists read for this entry (the lists begin at line 3204). The one action printed is the uniting of fractures and the curing of bone fever (Clark) or hot disorders of the bone (Men-Tsee-Khang).
 
 ### Cultivation Register
+
+**Divine Farmer's Classic (SBJ).** *(a) Attested.* Sun Xingyan's reconstruction of the *Shennong bencao jing* places 秦皮 (Qin bark) in the middle classic, the grade the preface assigns to drugs that nourish the nature, some of them toxic. The 味 paragraph opens "味苦，微寒" (bitter, slightly cold). It gives the indications as "主风寒湿痹，洗洗寒气，除热，目中青翳、白膜" (it governs wind, cold and damp numbness, chilly shivering cold qi, and removes heat, and green-blue and white films in the eye). The long-use clause reads "久服，头不白、轻身" (taken for a long time, the hair of the head does not turn white and the body is lightened). The text says it grows in river valleys. This paragraph rests on the Chinese name 秦皮 only; the Tibetan *stab seng* of the rest of this entry is a separate record. (*Shennong bencao jing*, Sun Xingyan ed. 1799, middle classic, entry 秦皮 *qinpi*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 2443)
 
 **Tibetan — rGyud-bzhi (FMT).** *(b) Framed, not a cultivation status.* The Quintessence Tantra's materia medica gives this drug by what it does: it unites fractures and cures bone fevers, and the Men-Tsee-Khang text says the same in kind. The cultivation spec records that in this tradition medicine is the third of four treatment branches, supporting practice without reaching its root, and that no formal category of substances for subtle-body practice exists. No line read for this name places it in *bcud len* (essence extraction) or any practice: the sentences cited above were read in full and none mentions one. Its framing is therapeutic only, and the link from this binomial to that framing rests on Clark's second choice between two genera.
 

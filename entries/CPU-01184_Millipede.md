@@ -1,6 +1,6 @@
 # Millipede — "Millipede" (Ghalioungui 1987 Glossary I, as listed in `_sources/ebers.csv`; no Egyptian word printed in the sources read)
 ## *A millipede, as a list row names it; the papyrus word, the genus and the identification are not available in any text on disk* | *(Volume III — Animal)*
-**Tradition Tags:** EP
+**Tradition Tags:** EP, SBJ
 
 ---
 
@@ -33,6 +33,8 @@ General, well-established facts only. Many millipedes secrete defensive chemical
 **Egyptian (EP):** None. The sources read give no quality (hot, cold, moist, dry) for any animal in the Ebers material, and nothing at all for this one.
 
 ### Cultivation Register
+
+**Divine Farmer's Classic (SBJ).** *(b) Framed; no cultivation status.* The paragraph for 马陆 (*malu*, millipede) reads 味辛，温 ("acrid, warm"). The classic files it in the lower grade (下品); its preface says lower-grade drugs treat disease, are toxic, and are not for long use. It governs "large hard masses in the belly" (主腹中大坚症), breaks accumulations and gatherings, polyps, malignant sores and white baldness (破积聚、息肉、恶创、白秃). It gives the alias 一名百足 ("also called hundred feet") and the habitat 生川谷 ("grows in river valleys"). There is no 久服 ("taken long") clause. Wu Pu's line, which gives a further name, is a later layer and is not the Shennong text. The paragraph is a flavour, nature and indication list with no status for the person, so the register is (b). (*Shennong bencao jing*, Sun Xingyan ed. 1799, lower classic, entry 马陆 *malu*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 3973)
 
 **Egyptian / Ebers (EP).** *(c) Absent, and the attestation rests on a list row.* No cultivation framing is attested. The Ebers material is indication-organised: it records what was done for a complaint, not what a substance does to the person's *ka*, *ba*, *akh* or *ib*. The only locus is `_sources/ebers.csv` line 132, whose identification is flagged uncertain; no recipe was read, so nothing can be said of whether a spell accompanied it (*heka*, in which spell and drug are one intervention). No deity is attributed.
 

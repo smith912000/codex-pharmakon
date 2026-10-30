@@ -1,6 +1,6 @@
 # Blister Beetle — byang.pa, "Beetle: Mylabris phalerata: Mylabris cichorii" (Clark 1995) / "Blister bettle" [sic] (Men-Tsee-Khang 2011)
 ## *A blister beetle, the dried insect, named by Clark as Mylabris phalerata and M. cichorii Fabricius; the list flags the identification as uncertain, and the Men-Tsee-Khang glossary pairs "Blister Beetle" with Mylabris phalerata through an OCR column that may not be exact* | *(Volume III — Animal)*
-**Tradition Tags:** FMT
+**Tradition Tags:** SBJ, FMT
 
 ---
 
@@ -29,6 +29,8 @@ Cantharidin, the active principle of blister beetles, is a known toxic vesicant.
 - FMT: none printed for the beetle (no taste, potency or post-digestive taste in Clark line 1199 or Men-Tsee-Khang line 3572). The only statement is the action "purges all channel disorders".
 
 ### Cultivation Register
+
+**Divine Farmer's Classic (SBJ).** *(b) Framed; no cultivation status.* The classic's entry is headed 班苗 (*banmiao*, the blister beetle). Its paragraph reads 味辛，寒 ("acrid, cold"). The classic files it in the lower grade (下品); its preface says lower-grade drugs treat disease, are toxic, and are not for long use. It governs cold and heat, "ghost infusion" and gu poison (主寒热、鬼注蛊毒), fistulous sores, malignant sores, "eroding" ulcers and dead flesh (鼠 恶创、疽蚀死肌, with one character missing in this transcription), and breaks stone strangury (破石癃). It gives the alias 一名龙尾 ("also called dragon tail"). There is no 久服 ("taken long") clause. Wu Pu's line, which lists further names and other authorities' flavours, and the Mingyi bielu's note on the place and month of gathering are later layers and are not the Shennong text. The register is (b). (*Shennong bencao jing*, Sun Xingyan ed. 1799, lower classic, entry 班苗 *banmiao*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 3907)
 
 **Tibetan / rGyud-bzhi (FMT).** *(b) Framed.* The medicine is the third of the four treatment branches: it supports practice and does not reach the root, since the three *nyes pa* are at root a spiritual condition. The beetle is claimed by the materia medica in Explanatory Tantra ch.20, in the animal section, for one action on the channels, which is a therapeutic and not a cultivation status. No longevity, rejuvenation or *bcud len* action is attested in the lines read. No formal category of substances for subtle-body practice exists in this tradition and none is asserted.
 

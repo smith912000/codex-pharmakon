@@ -1,6 +1,6 @@
 # Plant ash — Dong Hui (冬灰) "Pulvis Fumi Carbonisati" (Yang 1998); other name Li Hui "Chenopodium Ash"
 ## *The ash of burnt plants in the Divine Farmer's Classic; Yang 1998 prints "Pulvis Fumi Carbonisati" and glosses it as "simply plant ash", the best being the ash of Hui Di Cai (Herba Chenopodii Serotini)* | *(Volume II — Mineral)*
-**Tradition Tags:** SBJ
+**Tradition Tags:** CM, SBJ
 
 ---
 
@@ -31,6 +31,8 @@ Plant ash and the lye leached from it are alkaline and caustic; lye has long bee
 - SBJ: "acrid and slightly warm" (Yang line 1362). Class: Inferior (heading line 1311). Yang notes that in his source text flavor and qi were not distinguished and that he omits the word flavor (footnote, lines 849-855).
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* entry *Ramād* (ash) treats ash of several woods and plants together and gives no description and no temperament or degree. Its property is "جلاء مجفف" ("cleansing and drying"); washing reduces the cleansing and leaves it slippery, and it dries without sting. Lye (*mā' al-ramād*) goes into putrefying medicines, the strongest being fig and spurge (*yatūʿ*) lye; ash of astringent woods such as oak stops blood (*Canon* Book II, entry *Ramād*, Arabic text line 17928). Sores: fig-ash lye heals malignant ulcers, eats proud flesh, and promotes flesh in deep sores. Joints: with oil it dissolves the vein and helps nerve pain and palsy. Head: oak-ash lye firms the gums. Digestive organs: fig-ash lye with oil, drunk, helps clotted blood in the stomach. Excretory: oak or fig lye as an enema for ulcer of the gut, chronic flux, haemorrhoids and fistula. Poisons: drunk for the tarantula's bite and against gypsum drunk. Nothing in the entry concerns innate heat, radical moisture or prolonging life. **(b) — therapeutic actions attested (wounds, joints, gut, poisons); no cultivation status. This grade differs from the (a) given to the Chinese entry, because the Canon assigns no lower-grade rank to it.**
 
 **Divine Farmer's Classic (SBJ).** *(a) Attested: a lower-grade drug (下品).* Dong Hui is the last entry in the run headed "Jades and Stones: Inferior Class" (Yang line 1311; the run ends at line 1382). Yang's rendering of the Classic's preface says the inferior class "mainly treat disease and correspond to earth. They are usually toxic and cannot be taken for a long time. If one intends to eliminate cold and heat and evil qi, break accumulations and gatherings, and cure disease, one should base [one's efforts] on the inferior class" (lines 391-395), and his note says this class "specifically treat disease" and "cannot be taken in large amounts or for prolonged periods of time without developing negative side effects" (lines 362-366). The monograph prints no phrase about protracted taking, lightness of body or long life. The grade is a statement of the Classic as translated by Yang in 1998 and is not carried forward from later materia medica.
 

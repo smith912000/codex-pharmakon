@@ -1,6 +1,6 @@
 # Crocodile fat — "Fat-of-the-Crocodile" (Bryan's English rendering of the Ebers Papyrus); "Crocodile Oil" printed separately
 ## *The fat of the crocodile, an animal on Bryan's animal list; Bryan prints no Egyptian word, no species and no preparation of the fat, and the fat occurs once in the running text, as one of six fats in a hair pomade* | *(Volume III — Animal)*
-**Tradition Tags:** EP
+**Tradition Tags:** EP, CM
 
 ---
 
@@ -54,6 +54,8 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 ---
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* entry *timsah* is short and treats the crocodile as a source of several parts (*Canon* Book II, entry *timsah*, Arabic text line 18547). The fat has one attested use, under poisons: "شحمه ضمادا على عضته يسكن وجعه في الساعة" ("its fat, as a poultice on its bite, quiets the pain at once"). Eye: its dung helps white spots of the eye. It is said that a mithqal taken from around its kidney, drunk in wine, rouses desire for intercourse, and lettuce seed calms the desire it has roused. The entry gives no temperament by degree and says nothing of fat as a hair pomade, the use in the Egyptian record. Innate heat and radical moisture are not mentioned, and no part of the animal is given a life-prolonging or restorative role. The attested role of the fat is as a local remedy for the animal's own bite. **(b) — a therapeutic action attested for the fat (bite poultice); no cultivation status.**
 
 **Egyptian / Ebers (EP).** *(c) Absent.* No cultivation framing is attested. The Ebers material is indication-organised: it records what was done for a complaint, not what a substance does to the person's vital constitution, and a hair pomade is a remedy for an external complaint. Egyptian practice treats spell and drug as one intervention (*heka*). Bryan prints no recitation with the six-fat pomade, though he summarises, and that is no proof the papyrus gives none. The crocodile appears in a printed formula at line 2978 ("The Crocodile is weak and powerless"), but it belongs to an ear injection and is not transferred to the fat. The person as plural (*ka*, *ba*, *akh*, *ib*) is not engaged by this entry. No deity is attributed.
 

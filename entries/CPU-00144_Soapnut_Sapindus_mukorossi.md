@@ -2,7 +2,7 @@
 
 ## *Sapindus mukorossi* Gaertn. — the foaming fruit that washes hair, skin and cloth from a single saponin shell
 
-**Tradition Tags:** SBJ, SS, FMT
+**Tradition Tags:** CM, SBJ, SS, FMT
 **Tags (previous line, retained for reference):** AT (Ayurveda — reetha/arishtaka) · Himalayan & North-Indian folk medicine · CM (related *Sapindus* / Wu Huan Zi) · BM (surfactant chemistry, household & cosmetic use)
 **Energetic Classification (TCM):** ◉ Qi (cleansing, expectorant, dispersing)
 **Training Phase:** [GENERAL]
@@ -70,6 +70,8 @@ Codex policy: chemical class (triterpenoid saponins) and the surfactant/expector
 **Ayurveda (SS).** *Arishtaka* (reetha) is a well-attested dravya of the classical materia medica, worked as a *lekhana* (scraping/cleansing) and *kapha*-reducing agent, as a scalp and hair cleanser, and — in larger internal dose — as an emetic within *shodhana*-style purificatory practice, where the vomiting is the therapeutic clearance itself. That is a treatment procedure, not a rejuvenative assignment: no *rasayana* (rejuvenation) or *vajikarana* (generative vitality) standing is recorded for arishtaka in the sources retrieved, and none can be attributed to Charaka, Sushruta or a scholar such as Meulenbeld for this species. Its constitution-level standing is *tridosha*-therapeutic and dietetic, not a formal cultivation grade. Cultivation status: **(b) framed** — claimed by the tradition, no *rasayana*/*vajikarana* status sourced.
 
 **Tibetan (FMT).** No cultivation framing is attested for the soapberry in the Tibetan sources retrieved. Tibetan medicine locates its pathology in the three *nyes pa* (rlung, mkhris pa, bad kan) rooted in the three poisons, and medicine is the third of the four treatment branches — but the tradition carries no formal "substances for subtle-body practice" category to which this fruit could be assigned, and *bcud len* (essence-extraction) is not attested for it here. Cultivation status: **(c) absent.**
+
+**Unani / Avicenna (CM).** The Canon entry *ritta* calls it the Indian hazelnut: a fruit within a rattling hazelnut-sized shell that splits to a seed like a coconut. Temperament: «حار يابس», "hot and dry", without a degree. It helps scab and itch; as a snuff it is used for facial palsy, migraine, headache, vertigo, epilepsy, madness and melancholia; as kohl for cataract; two *dirhams* of the root in wine help cold pleurisy, asthma and chronic cough; two *dirhams* help a cold stomach. It purges, in his words: «يسهل المرة السوداء والبلغم والمائية أيضا والصفراء من البدن كله من غير إكراه», "it purges black bile, phlegm, the watery and also yellow bile from the whole body without compulsion", so that it is said to cure *baras*, jaundice and *kalaf*. It also helps quartan fever and is a theriac against scorpion and tarantula (*Canon* Book II, entry *ritta*, Arabic text line 17841). Innate heat and radical moisture are not mentioned. **(b) — Therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing here is a substance a cultivator takes to build vitality. Across the traditions that touch it, the soapnut is a surfactant — a hair and cloth wash, a scalp cleanser, a mild expectorant that loosens mucus, and, in quantity, a deliberate emetic whose whole action is to clear and expel, not to nourish. Even its cleansing register is external and short-term; the internal uses are subtractive (expel phlegm, provoke vomiting) and self-limiting by their irritancy. Use it as a cleanser, and let the emetic dose be a defined procedure, not a practice.
 

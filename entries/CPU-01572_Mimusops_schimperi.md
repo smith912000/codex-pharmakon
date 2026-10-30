@@ -1,7 +1,7 @@
 # Mimusops schimperi — Persea (Dioscorides 1-187)
 
 ## *Mimusops schimperi, the second of two names on the translators' SUGGESTED line for 1-187 (which prints "Persea" first), with the English "Egyptian Lebekbaum [Bedevian]"* | *(Volume I — Plant-Based)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -38,6 +38,8 @@ No clinical studies were retrieved for this entry. [USER: verify] The chapter's 
 ### Cultivation Register
 
 **Greek — Dioscorides (DMM).** *(b) Framed, not a cultivation status.* Dioscorides has no subtle-body system, and none is manufactured here. The chapter offers the discipline of attention that the cultivation spec describes for this tradition: where the tree grows (Egypt, especially Thebes), what lives on its fruit (the *cranocolopta* spiders), and the report that the same tree was said to be deadly in Persis and edible after transport to Egypt, a note on provenance of the kind the spec names. He reports the story with "Some have reported", and recording is not endorsing. The plant has no status in the chapter beyond that of an edible fruit and a leaf for bleeding. The identification is the translators'. [USER: verify]
+
+**Unani / Avicenna (CM).** The Canon's entry *labakh* opens with Avicenna's own hesitation: "it is said that it is the *sidr*", and he adds that if it is the *labakh* it ought properly to be listed under the letter *lām*. He describes a large tree transplanted to Egypt, where its taste changed, and then reports Dioscorides: the tree grows in Egypt, bears an edible fruit, and a kind of spider is sometimes found on it, especially in Upper Egypt; some held that it was deadly in Persia and that after transplanting "its nature and taste changed", so that it is eaten and does no harm. The only stated action is haemostatic: «يمنع النزف إذا ذر ورق هذه الشجرة على المواضع التي يسيل منها الدم», "it stops bleeding when the leaf of this tree is sprinkled on the places from which blood flows" (*Canon* Book II, entry *al-labakh*, Arabic text line 10635). The entry assigns no temperament, no degree and no organ heading, and the identification with the Egyptian persea is left open by Avicenna himself. Innate heat and radical moisture do not enter. **(b) — Therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this tree. It is an edible fruit and a styptic leaf with no stated quantity, and the text itself passes on a warning about where the tree grew. The useful lesson is Dioscorides' attention to provenance and to what is found on the fruit, and the abstentive answer is the honest one.
 

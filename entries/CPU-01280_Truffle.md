@@ -1,6 +1,6 @@
 # Truffle — Hudnon (HUDNON), "Tuber"
 ## *An underground, leafless, round, pale-yellow "root" eaten as a vegetable; the translator's heading to Dioscorides 2-175 suggests Tuber album, Rhizopogon album and Choiromyces meandriformis, "White Truffle, False Truffle"; the chapter text itself gives no binomial* | *(Volume IV — Fungal/Algal, shelved in Volume I)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -37,6 +37,8 @@ General, well-established facts only. True truffles (the genus *Tuber*) are asco
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(c) Absent.* Dioscorides has no subtle-body system, and none is asserted here. The chapter has no cultivation framing, and the truffle has no medicinal status in the text at all. All the chapter records of the practitioner's discipline of attention is the form of the material (round, pale, yellow, without leaf or stalk) and the season of gathering (spring); it gives no assay, no source and no test for adulteration.
+
+**Unani / Avicenna (CM).** The *Canon* entry *Kam'a* (truffle) begins from Dioscorides: a round root without stem or vein, grey, found in spring under the ground, eaten raw or cooked; of earthy substance more than watery, with little airiness, and tasteless. The best is the sandy white kind with no bad smell, dry worse than fresh, and the poorest is the mushroom kind growing under trees (*Canon* Book II, entry *Kam'a*, Arabic text line 14204). No temperament or degree is printed. His verdict on its nature is "غليظ جدا يغذو غذاء غليظا سوداويا" ("very coarse, nourishing with a coarse, melancholic nourishment"), and its antidote is neat wine and spices. Joints: palsy is feared from it; head: apoplexy. Eye: its water cleanses the eye, which he reports as handed down from the Prophet. Digestive organs: slow to digest, harmful, heavy on the stomach, coarse in chyme and slow to descend, though Galen says in one place that its chyme is not bad. Excretory: it breeds colic and difficult urination. The entry makes no claim about innate heat, radical moisture or prolonging life, and is chiefly a warning about the food. **(b) — therapeutic action attested (eye water) beside stated harms; no cultivation status.**
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The truffle is a food in a Greek vegetable list, and the only usable lesson is the one the chapter embodies: know the thing by its form and its season before eating it. The Codex does not recommend gathering fungi from this description. No dose is given in the sources retrieved. [USER: verify]
 

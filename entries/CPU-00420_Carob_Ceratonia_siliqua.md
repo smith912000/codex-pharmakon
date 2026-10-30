@@ -2,7 +2,7 @@
 
 ## *Ceratonia siliqua* L. | Family: Fabaceae
 
-**Tradition Tags:** EP, DMM
+**Tradition Tags:** EP, DMM, CM
 
 **Energetic Classification:** Sweet with an astringent finish; cool and drying in the pod's tannin aspect, moistening and demulcent in the gum's. Nutritive-binding. A drug that both feeds and holds.
 
@@ -151,6 +151,8 @@ Carob pod is food. It has calories and sugar. **That is a nutritional fact, not 
 **Egyptian (EP).** No cultivation framing is attested. The Egyptian medical corpus is indication-organised: it records what was done for a complaint, not what a substance does to the person's constituents (ka, ba, akh, ib). The entry's own Egyptian paragraph is therapeutic and dietary only, and it flags its Ebers paragraph numbers as unverified. The identification of the pod with carob is a modern hypothesis, not a settled reading. No heka (spell and recitation) pairing is recorded in the entry for this substance, so none is stated.
 
 **Dioscorides (DMM).** Carob is attested as keratia, De materia medica 1-158 (Osbaldeston & Wood 2000): pods taken fresh are bad for the stomach and loosen the intestines, dried they stop discharges of the bowels, and they are also better for the stomach and diuretic. This is a therapeutic attestation with no cultivation status. Dioscorides has no subtle-body system. What the passage does offer a practitioner is a discipline of attention: the effect depends on the state of the pod, fresh or dried.
+
+**Unani / Avicenna (CM).** The *Canon* has two entries. *Yanbūt* is the Nabataean carob, with "its cold and its heat slight, and it is dry in the second" (برده وحره قليلان وهو يابس في الثانية); its power is emetic without stinging, it checks looseness of the bowel, and its decoction kills fleas (*Canon* Book II, entry *Yanbūt*, Arabic text line 13820). *Kharnūb* (*Canon* Book II, entry *Kharnūb*, Arabic text line 19152) prefers the dried Syrian kind; the Syrian "dries and binds", its fruit too, though sweet, still binds, and the Nabataean is more drying and cooling and does not sting. The fresh fruit gives a bad, heavy chyme, is bad for the stomach and is not digested, the dried being slower to digest and descend (digestive organs). Rubbed hard on warts, unripe Nabataean carob removes them (cosmetic); its decoction rinses the mouth for toothache (head); sitting in its decoction strengthens the stomach, the fresh Syrian loosens the bowel while the dried binds it and helps diarrhoea, and the Nabataean helps excessive menstrual flow as pessary and food. The *yanbūt* is called good for colic and diarrhoea. Avicenna does not connect carob with innate heat, radical moisture or prolonging life. **(b) — therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing for cultivation. The only practice the sources support is attention to preparation: fresh and dried pod are different drugs in Dioscorides.
 

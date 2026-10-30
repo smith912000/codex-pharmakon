@@ -1,6 +1,6 @@
 # Yeast (barm, lees) — Yeast / Yeast-of-Wine / Yeast-of-Beer / Yeast-of-Sweet-Beer (Bryan's renderings)
 ## *Yeast: the fermenting ferment of wine and beer, in Bryan's English forms; the Egyptian words are not printed in the text on disk* | *(Volume IV — Fungal/Algal, shelved in Volume I)*
-**Tradition Tags:** EP
+**Tradition Tags:** EP, CM
 
 ---
 
@@ -54,6 +54,8 @@ No clinical studies were retrieved for this entry. [USER: verify] General facts 
 ---
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* treats *durdī* as lees, the best and safest being old wine lees; vinegar lees is far stronger and must be burnt after drying, and any lees should be used fresh, since the old is weak (*Canon* Book II, entry *Durdī*, Arabic text line 12069). No temperament is stated. Of vinegar lees it says "its power is cleansing and astringent" (قوته جلاءة قابضة), the burnt being burning and putrefying by another power. In cosmetics the burnt lees with rosin whitens nails and mends them. Unburnt lees is good alone and with myrtle for swellings and disperses pustules without ulcer; it quenches the heat of a breast engorged with blood (chest), checks the flow of matter to the stomach (digestive organs), and, laid on the womb from outside, prevents menstrual bleeding (excretory organs). The entry is chiefly about selection and burning, and about astringent external use; it says nothing of innate heat, radical moisture or any life-prolonging status. **(b) — therapeutic actions attested; no cultivation status.**
 
 **Egyptian / Ebers (EP).** *(c) Absent.* No cultivation framing is attested. The Ebers material is indication-organised: it records what was done for a complaint, not what a substance does to the person's vital constitution (*ka*, *ba*, *akh*, *ib*). Yeast appears as a vehicle or ingredient in dressings, salves, suppositories and a few drinks (loci above). Egyptian practice treats spell and drug as one intervention (*heka*); the prescriptions quoted here are Bryan's summaries and carry no recitation in the lines read, which does not prove that the papyrus gives none. No deity is attributed. The identity of the substance is Bryan's English, a modern hypothesis.
 

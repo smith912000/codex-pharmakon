@@ -12,6 +12,8 @@
 
 Because *R. tanguticum* is pharmacopoeially interchangeable with the other Dà Huáng species, **its medicinal identity, actions, chemistry, preparation, energetics, and cautions are those given in full in the Medicinal Rhubarb entry (I_304)** and are not repeated here. It carries the same title of **"the General" (將軍)**, the same set of actions — purge accumulation and heat downward, drain fire and resolve toxicity, cool and invigorate the Blood — and the same golden-anthraquinone signature of the bitter-cold, downward-draining family.
 
+**Botany and range.** The Flora of China (efloras.org) describes *Rheum tanguticum* (Maximowicz ex Regel) Maximowicz ex Balfour as a large herb 0.6–2 m tall with stout yellow rhizomes and roots and a stout, hollow, finely grooved stem. The basal leaves are orbicular or broadly ovate, 30–60 cm across, palmately 5-lobed with the middle three lobes pinnatisect and the apex narrowly acute; the panicle is large, the tepals purple-red (rarely light red), and the winged fruit oblong-ovoid, 8–9.5 × 7–7.5 mm, with black seeds. It flowers in June and fruits in July–August. The Flora gives its habitat as valleys at 1600–3000 m in Gansu, Qinghai, Shaanxi and Xizang, and recognises two varieties, the taller var. *tanguticum* (1.5–2 m) and the shorter var. *liupanshanense* (0.6–1 m, densely pubescent stem). It also records that one of its authors (Grabovskaya-Borodina) regards the name as a synonym of *Rheum palmatum*, so the species boundary is not universally accepted.
+
 **Tibetan Medicine (FMT):**
 Growing squarely within the Tibetan cultural region, *R. tanguticum* is a natural and important rhubarb of Tibetan practice (*chu-rtsa*), used as a purgative and heat-clearing agent; its high-plateau provenance makes it a characteristically Tibetan-Himalayan as well as Chinese Dà Huáng.
 
@@ -23,6 +25,8 @@ The "brocade pattern" of the cut root — the marbled network of golden anthraqu
 ### Active Components
 
 Identical in class to *R. officinale* (see I_304 for detail): **sennoside/anthraquinone glycosides** (the bacterially-activated purgative fraction), **free anthraquinones** (rhein, emodin, aloe-emodin, chrysophanol, physcion — pleiotropic but with dose/duration-dependent hepato-, nephro- and reproductive toxicity), and **tannins/stilbenes** (the astringent, secondarily-constipating, antioxidant fraction). Grade-for-grade, *R. tanguticum* is frequently the richest of the three official species in these constituents, consistent with its premium market position.
+
+Species-specific data support the root as the site of anthraquinone synthesis: the chromosome-scale genome of *R. tanguticum* (Li et al., 2023, [DOI](https://doi.org/10.1038/s42003-023-05248-5)) is 2.76 Gb assembled into 11 chromosomes, and metabolic analysis in that study showed that the major anthraquinones are mainly synthesised in the roots, with candidate chalcone synthase, cytochrome P450 and β-glucosidase genes upregulated there. A cultivation study across altitudes (Wang et al., 2024, [DOI](https://doi.org/10.1186/s12870-024-04933-9)) found that total anthraquinone and total sennoside contents fell with increasing altitude while total tannins rose; the indicator total-anthraquinone content reached 5.15% at five experimental sites, 70.87% above the Chinese Pharmacopoeia standard, and the highest values reported were 0.94% total sennosides and 2.65% total tannins.
 
 ---
 
@@ -41,6 +45,8 @@ Identical to I_304: preparation determines force (brief late-addition cooking = 
 ### Scientific Correlation
 
 *Attribution: as for I_304 — the rhubarb/anthraquinone evidence base (Dong et al., 2016, [DOI](https://doi.org/10.1002/ptr.5631); Dong et al., 2019, [DOI](https://doi.org/10.1002/ptr.6532); Rokaya et al., 2012, [DOI](https://doi.org/10.1016/j.jep.2012.03.048)) applies to the shared Dà Huáng chemistry.* The purgative mechanism (colonic bacterial activation of sennoside/anthraquinone glycosides) is firmly established; the broader anticancer/hepatoprotective/renal pharmacology of the anthraquinones is preclinical and counterbalanced by real dose-dependent toxicity. *R. tanguticum*-specific human trials are not distinguished from generic Dà Huáng data; claims are graded accordingly and not overstated.
+
+Several studies are specific to *R. tanguticum*, all preclinical. Emodin purified from its roots (cultivated in Qinghai) inhibited replication of herpes simplex virus types 1 and 2 in cell culture at 50 µg/ml (antiviral indices 2.07 and 3.53) and improved survival in infected mice (Xiong et al., 2011, [DOI](https://doi.org/10.1016/j.jep.2010.10.059)). A non-toxic ethanolic extract inhibited several H1N1 influenza A strains in canine kidney cells, including oseltamivir-resistant strains, apparently by blocking haemagglutinin-mediated virus-endosome fusion (Lin et al., 2016, [DOI](https://doi.org/10.1038/srep27768)). Stir-baking (scorching) of the dried root at 180 °C converted anthraquinone glucosides to aglycones and, in a rat thromboinflammation model, the scorched material gave improved effects, which the authors link to the complement and coagulation cascades (Zhong et al., 2024, [DOI](https://doi.org/10.1016/j.jep.2024.118475)); this bears on the entry's point that preparation determines force.
 
 ---
 

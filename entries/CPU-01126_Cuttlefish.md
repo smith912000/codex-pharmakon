@@ -1,6 +1,6 @@
 # Cuttlefish — SEPIA, Dioscorides De Materia Medica II.23, "Cuttlefish"
 ## *The cuttlefish, with its ink and its shell, as a remedy in Dioscorides. The 2000 English edition on disk prints the heading "2-23. SEPIA" and the editor's gloss "SUGGESTED: Sepia officinalis — Cuttlefish"; the binomial is that edition's suggestion and not Dioscorides' own* | *(Volume III — Animal)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, SBJ
 
 ---
 
@@ -45,6 +45,8 @@ General, well-established facts only. Cuttlebone is a source of calcium carbonat
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(c) Absent.* No cultivation framing is attested. Dioscorides' chapter on the cuttlefish is a list of external and one dietary effect; it records no practice of attention to the substance's provenance or assay, and it uses no vocabulary of *pneuma* or of any inner economy. The Codex's frame for Dioscorides is a discipline of attention (provenance, season of gathering, sensory assay, adulteration); this chapter records none of those for the cuttlefish, so none is claimed.
+
+**Divine Farmer's Classic (SBJ).** *(b) Framed; no cultivation status.* The Chinese drug 乌贼鱼骨 (*wu zei yu gu*) is the internal bone (cuttlebone) of the cuttlefish, usually identified as Sepia esculenta, the same product as this entry. The 味 paragraph reads “味咸，微温” (salty, slightly warm) and says it governs, in women, “漏下赤白经汁” (red and white leaking and menstrual fluid), blocked blood, genital erosion with swelling and pain, cold and heat, and abdominal lumps, and “无子” (childlessness). It is said to live in pools and marshes. The text's preface assigns the middle classic to drugs that nourish the nature, some of them toxic. There is no 久服 clause, so no life-nourishing status is promised. The Mingyi and Wu Pu lines that follow are commentary, not Shennong text. (*Shennong bencao jing*, Sun Xingyan ed. 1799, middle classic, entry 乌贼鱼骨 *wu zei yu gu*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 2713)
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The cuttlefish appears in Dioscorides as a skin, tooth and eye powder and a laxative food, and the honest use of the entry is as a record. No dose is given in the sources retrieved. [USER: verify]
 

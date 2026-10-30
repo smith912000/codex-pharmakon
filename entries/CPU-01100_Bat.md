@@ -1,6 +1,6 @@
 # Bat — Bat, Bat's Blood (Bryan's Ebers)
 ## *The bat as an animal source of medicine; Bryan gives only "Bat", and the Egyptian word and the species are not printed* | *(Volume III — Animal)*
-**Tradition Tags:** EP
+**Tradition Tags:** EP, SBJ
 
 ---
 
@@ -37,6 +37,8 @@ General, well-established facts only. Bats are mammals, the only group of mammal
 **Egyptian (EP):** none printed. The Ebers material is organised by complaint and gives no qualities for its ingredients.
 
 ### Cultivation Register
+
+**Divine Farmer's Classic (SBJ).** *(b) Framed; no cultivation status.* The paragraph for 伏翼 (bat) reads 味咸，平 ("salty, neutral"). The classic files it in the middle grade (中品); its preface says middle-grade drugs nourish the nature, and some of them are toxic. It governs dim eyes and brightens the eyes: 主目瞑，明目，夜视有精光 ("governs dim eyes, brightens the eyes; at night one sees with a fine gleam"). It does carry a 久服 clause: 久服，令人喜乐，媚好无忧 ("taken long, it makes a person glad and cheerful, charming, without worry"). That clause names a mood and appearance. It does not name lightening the body, no ageing, or lengthened years, so it is not read here as a life-nourishing status, and the register is (b). The paragraph adds the alias 一名蝙蝠 ("also called bianfu") and 生川谷 ("grows in river valleys"). Wu Pu's later line on gathering after the start of summer is not the Shennong text. (*Shennong bencao jing*, Sun Xingyan ed. 1799, middle classic, entry 伏翼 *fuyi*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 2819)
 
 **Egyptian / Ebers (EP).** *(c) Absent.* The bat is named in the Ebers list of animal sources and in prescriptions for trichiasis, misgrown lashes and neck itch, which record what was done for a complaint and not what the animal does to the person's *ka*, *ba*, *akh* or *ib*. Egyptian practice treats spell and drug as one intervention (*heka*); Bryan reports no recitation with the bat compounds read, and since he summarises, that does not show the papyrus gives none. Substance identity in an indication-organised corpus is a modern hypothesis, and the species of "Bat" is not given. No deity is attributed.
 

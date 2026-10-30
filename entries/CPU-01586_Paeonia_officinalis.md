@@ -1,7 +1,7 @@
 # Paeonia officinalis — Paionia arren, paionia theleia, the male and female peony (Dioscorides 3-157)
 
 ## *Paeonia officinalis var foemina [Linnaeus], the last of the three names on the translators' SUGGESTED line for 3-157 (which also prints Paeonia foemina [Fuchs] and Paeonia communis [Bauhin] — "Female Peony, Garden Peony"), under a heading that names both a male and a female peony* | *(Volume I — Plant-Based)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -44,6 +44,8 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 ### Cultivation Register
 
 **Greek — Dioscorides (DMM).** *(b) Framed, not a cultivation status.* Dioscorides has no subtle-body system, and none is manufactured here. The chapter offers the discipline of attention that the cultivation spec describes for this tradition, and it is a full one: the two forms are told apart by leaf (like *carya*, or jagged like *smyrnium*), the pods and the red and black grains are described, the root of each sex is described, the habitat ("the tops of the highest mountains") is given, and the herb is gathered at a fixed time ("the dog days before sunrise"). He also records an amuletic use, the herb "hanged about one", against poisons, bewitching, fears, devils and fevers, and a story of the plant driving devils from a hill, which he tells with "it is said". Recording is not endorsing; the cultivation spec notes that he sometimes records amuletic uses, and the text gives no further doctrine, deity or subtle body. The plant has no status in the chapter beyond that of a medicinal root and seed and an amulet of report. The identification is the translators'. [USER: verify]
+
+**Unani / Avicenna (CM).** Avicenna gives the peony two entries. *Fāwāniyā* says that it is the same as *ʿūd al-ṣalīb*, in male (thick white roots, astringent) and female (many-rooted) kinds. Temperament: «حار ليس بشديد», "hot, but not strongly". Actions: drying and astringency with dissolving, opening, attenuating, cutting and cleansing. It clears dark marks from the skin and helps gout. For epilepsy, even worn as an amulet: «قد جرب تعليقه فوجد مانعا», "its hanging has been tried and found preventive", with a report that the epilepsy returned when it was removed. He adds that the Indian peony reaching him has little power here and the Roman may be the kind meant. Fifteen seeds in wine help nightmare (*kābūs*); it steadies the stomach, helps jaundice, opens liver obstructions, moves menses and urine, and twelve seeds in wine stop uterine bleeding (*Canon* Book II, entry *fāwāniyā*, Arabic text line 17038; also entry *ʿūd al-ṣalīb*, Arabic text line 16789). Innate heat and radical moisture are not mentioned. **(b) — Therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The useful lesson is Dioscorides' method of telling two forms of one plant by leaf, pod and root, and of fixing the hour and the season of gathering. The abstentive answer is the honest one.
 

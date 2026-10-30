@@ -1,6 +1,6 @@
 # Crab — Karkinoi (crevises, river crabs, sea crabs) / Crab (Bryan's English) / Crab, with chhu.sbur (Tibetan ant) in the Tibetan line
 ## *Crabs (Brachyura): the translator of Dioscorides suggests* Cancer pagurus *[Brachyura]; Bryan gives only "Crab"; Clark gives only "Crab"* | *(Volume III — Animal)*
-**Tradition Tags:** EP, DMM, FMT
+**Tradition Tags:** EP, DMM, SBJ, FMT
 
 ---
 
@@ -41,6 +41,8 @@ General facts only. Crustacean shell is chitin and calcium carbonate; shellfish 
 **Egyptian / Ebers (EP).** *(c) Absent.* The only crab prescription found is the hair remedy "Bile-of-Many-Crabs", which Bryan describes as a messy, smelly application to the outside of the head for grey hair. It is a remedy for a complaint, not an account of what crab does to the person's *ka*, *ba*, *akh* or *ib*. Egyptian practice treats spell and drug as one intervention (*heka*); Bryan reports none with this remedy in the lines read, and since he summarises, that is not proof the papyrus gives none. No deity is attributed. Because Ebers identifications are modern hypotheses, the Egyptian animal behind "Crab" is Bryan's rendering.
 
 **Greek / Dioscorides (DMM).** *(b) Framed; no cultivation status.* Dioscorides has no subtle-body system and none is supplied here. What chapter 2-12 gives a reader is a discipline of attention in what it distinguishes: river crabs or crevises, which work well, against sea crabs, "somewhat less effectively", and the form to use for each complaint (ash in wine for a bite, boiled with broth for consumption, raw with ass's milk for venom). The chapter assigns no status beyond the therapeutic.
+
+**Divine Farmer's Classic (SBJ).** *(b) Framed; no cultivation status.* The paragraph for 蟹 (crab) reads 味咸，寒 ("salty, cold"). The classic files it in the middle grade (中品); its preface says middle-grade drugs nourish the nature, and some of them are toxic. The text says it governs "evil qi in the chest" and "heat-bound pain" (主胸中邪气、热结痛), then names a swelling whose first character is missing in this transcription (…僻而肿). It ends with an obscure clause, 败漆烧之，致鼠 ("spoilt lacquer, burn it, it brings mice"), and the habitat note 生池泽 ("grows in pools and marshes"). There is no 久服 ("taken long") clause. The Mingyi bielu, a later layer and not the Shennong text, adds that it is found in the waters of the Yi and Luo rivers. The paragraph classes the crab by flavour and nature and lists complaints. It gives no account of a status the person gains, so the register is (b). (*Shennong bencao jing*, Sun Xingyan ed. 1799, middle classic, entry 蟹 *xie*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 2681)
 
 **Tibetan / rGyud-bzhi (FMT).** *(b) Framed; no cultivation status.* The crab is a minor entry in the Explanatory Tantra's list of animal medicines, an animal of the "droppings and small creatures" run, given for one action, dispelling urinary retention. The animal-medicine lines read (Clark lines 1147-1199) name no essence-extraction (*bcud len*) use, and no formal category of substances for subtle-body practice exists in this tradition; none is asserted.
 

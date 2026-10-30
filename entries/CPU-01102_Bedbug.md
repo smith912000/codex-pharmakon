@@ -1,6 +1,6 @@
 # Bedbug — KOREIS (Dioscorides 2-36) / Cimices, Bed Bugs
 ## *The bed bug, which the editors identify as* Cimex lectularius *(with "Cimex rotandatus", as printed); the chapter itself gives only the Greek name* | *(Volume III — Animal)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -39,6 +39,8 @@ General, well-established facts only. Bed bugs are common household pests that b
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(c) Absent.* Dioscorides has no subtle-body system and none is supplied here. The discipline of attention that his plant and mineral chapters offer (provenance, season of gathering, sensory assay, adulteration detection) is not present in this chapter, which gives five uses and a count. He sometimes records unusual uses while distancing himself from them; this chapter does not distance itself, and recording is not endorsing. The chapter is therapeutic, and no cultivation status is assigned. The identification as *Cimex lectularius* is the editors' suggestion.
+
+**Unani / Avicenna (CM).** The *Canon* entry has a blank heading line, and opens: "حيوان كالقراد معروف بالشام يكون في الأسرة" ("an animal like the tick, known in Syria, found in beds"), perhaps the one known to us as *anhal* (*Canon* Book II, entry untitled, Arabic text line 17125). It gives no temperament. Breath and chest: drunk with vinegar or wine, it brings a leech out of the throat. Excretory organs: split open, it helps suffocation of the womb and revives; crushed and put in the passage of the urethra, it cures difficult urination. Fevers: seven of them put in a bean and swallowed before the onset of quartan fever help. Poisons: swallowed without the bean, they help against stings of vermin. The entry has nothing on innate heat, radical moisture or long life, and none of its uses is a cultivation use. **(b) — specific therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing. A cultivator takes no practice from this entry; the only lesson is historical, that a Greek physician listed vermin among his drugs. No dose is given in the sources retrieved. [USER: verify]
 

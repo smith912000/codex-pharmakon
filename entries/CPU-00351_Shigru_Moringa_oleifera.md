@@ -2,7 +2,7 @@
 
 ## *Moringa oleifera* Lam. | Family: Moringaceae
 
-**Tradition Tags:** SS
+**Tradition Tags:** CM, SS
 **Tags (previous line, retained for reference):** Suśruta Saṃhitā (**Varuṇādi gaṇa** — the kapha-medohara, gulma/abscess-dissolving, lithotriptic group; also kṛmighna and śothahara); Caraka Saṃhitā (kaṭu/dīpana, kaphavātahara, śothahara, śvayathu-hara); Bhāvaprakāśa Nighaṇṭu (Guḍūcyādi/Śāka varga); pan-tropical folk and nutritional medicine
 **Energetic Classification (Ayurvedic):** Kaṭu-Tikta rasa · Laghu-Rūkṣa-Tīkṣṇa guṇa · Uṣṇa vīrya · Kaṭu vipāka → **Kapha-Vāta-śāmaka**, Pitta-vardhaka (in excess)
 **Training Phase:** `[PRIME]`
@@ -60,6 +60,8 @@ According to PubMed, *M. oleifera* is among the **best-studied** Ayurvedic plant
 - **Gaṇa membership:** **Varuṇādi gaṇa** (Suśruta)
 
 ### Cultivation Register
+
+**Unani / Avicenna (CM).** The *Canon* lists the ben nut under *Ḥabb al-bān* only as a cross-reference (Arabic text line 13250) to its full entry *Bān*, which describes a seed larger than a chickpea, whitish, with a soft, oily kernel. Its temperament is "حار في الثالثة يابس في الثانية" ("hot in the third degree, dry in the second") (*Canon* Book II, entry *Bān*, Arabic text line 10803). Its action is cleansing, especially the kernel, which cuts thick matter and, with vinegar and water, opens obstructions of the viscera; he attributes the bitterness and astringency to a cauterising power in it, and the oil also has some astringency. Cosmetic: the seed and its oil clear freckles, blemishes, vitiligo and scars. It helps hard swellings in ointments, scaly and ulcerated scab and ringworm. For the head it stops nosebleed, and the oil suits earache; a decoction of the root is a mouthwash for toothache. Digestive organs: two dirhams in diluted vinegar help hardness of the liver and spleen, but it is bad for the stomach and causes nausea. Excretory: a mithqal in honey purges raw phlegm. The entry says nothing of innate heat, radical moisture or prolonging life. **(b) — therapeutic actions attested (cosmetic, liver and spleen, purgative); no cultivation status.**
 
 **Sushruta / Ayurveda (SS).** Śigru (glossed as Moringa pterygosperma in the Bhishagratna index, the same species as M. oleifera) is attested in the Suśruta Saṃhitā in therapeutic and dietary roles. It is a member of the Varuṇādi gaṇa (Kapha- and fat-reducing; Sutrasthana ch. 38), an errhine drug (ch. 39) and part of the pungent group by taste (ch. 42). In the chapter on food and drink it is described as pungent, alkaline, sweet and bitter and as generating Pitta, while the Madhu-śigru variety is laxative and appetising (ch. 46; Bhishagratna tr., Vol. I). No rasāyana or vājīkaraṇa assignment was read, so the grade is (b): a therapeutic and dietary frame, with cultivation status unattested.
 

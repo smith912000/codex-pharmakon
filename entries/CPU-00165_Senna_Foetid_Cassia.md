@@ -1,7 +1,7 @@
 # Senna / Foetid Cassia — thal.ka.rdo.rje (rGyud-bzhi, Clark 1995); Thalka dorje, thal ka rdo tje (Men-Tsee-Khang 2011)
 
 ## *Cassia tora* (printed as "Cassia tora" by Clark 1995 and as "Cassia tora L." with the English "Sickle pod" in the Men-Tsee-Khang 2011 glossary) | *(Volume I — Plant-Based)*
-**Tradition Tags:** FMT
+**Tradition Tags:** SBJ, FMT
 
 ---
 
@@ -47,6 +47,8 @@ No clinical studies were retrieved for this entry. [USER: verify]
 - **FMT:** Clark line 898 prints "slightly bitter taste" for the plant and says it "dries lymph (accumulations)". No potency, post-digestive taste or secondary quality is printed for it in the lines read. The Men-Tsee-Khang lines read give actions only, and no tastes.
 
 ### Cultivation Register
+
+**Divine Farmer's Classic (SBJ).** *(a) Attested.* The Chinese drug is 决明子 (*jue ming zi*), usually identified as the seed of *Senna obtusifolia* (*Cassia obtusifolia*), a close relative of this entry's *Cassia tora* (*Senna tora*); the Shennong text does not name the entry's species as such. Its 味 paragraph begins 味咸，平, "salty in flavour, neutral", and governs eye complaints: 主青盲、目淫、肤赤、白膜、眼赤痛、泪出, "blue-green blindness, excess of the eyes, reddened skin, white film, red and painful eyes, tearing". The life-nourishing clause is 久服，益精光…，轻身, "taken for a long time: it adds to the essence-brightness, and the body is lightened"; Sun Xingyan's gloss notes that the Taiping yulan quotes the first part as 理目珠精. It ends 生川泽, "grows by rivers and marshes". It stands in the upper classic; the preface says the upper grade is for nourishing life, corresponds to heaven, is non-toxic and may be taken for a long time. (*Shennong bencao jing*, Sun Xingyan ed. 1799, upper classic, entry 决明子 *jue ming zi*, `Sources/SBJ_Shennong/text/Shennong_SunXingyan_1799_daizhige.txt` line 835).
 
 **Tibetan — rGyud-bzhi (FMT).** *(b) Framed, not a cultivation status.* The Foetid Cassia sits in the Explanatory Tantra's materia medica and in its class for lymph (*chhuser*) disorders, a therapeutic frame. The cultivation spec records that in this tradition pathology is at root a spiritual condition, that medicine is the third of four treatment branches, supporting practice without reaching the root, and that no formal category of substances for subtle-body practice exists. Nothing read places this plant in *bcud len* (essence extraction) or in any practice. The status is unattested.
 

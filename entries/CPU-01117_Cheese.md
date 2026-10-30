@@ -1,6 +1,6 @@
 # Cheese (new) — Turos Nearos (Dioscorides 2-79), with Hippace (2-80)
 ## *New cheese, as the translator headed it ("SUGGESTED: New Cheese"); a milk product made by separating the curd from the whey. With it, folded in as a variety, the "horse cheese" of 2-80. No animal is named for the cheese of 2-79 in the lines read* | *(Volume III — Animal)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -47,6 +47,8 @@ General, well-established facts only. Cheese is a concentrated source of milk pr
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(b) Framed.* Dioscorides has no subtle-body system and none is supplied here. What the chapter offers is a short discipline of attention to the same food in different states: unsalted against salted, new against older, raw against boiled and roasted, and the milk it came from, each with a different effect on the stomach and bowels. It assigns no cultivation status. The horse cheese's "poisonous smell" is a sensory warning given in the chapter and is not a sign of any spiritual quality. The chapters record no amuletic use of cheese.
+
+**Unani / Avicenna (CM).** The *Canon* treats cheese as a food-drug with a temperament that changes with age and salt (*Canon* Book II, entry *jubn*, Arabic text line 11768). Fresh cheese is "بارد رطب في الثانية" ("cold and moist in the second degree"); salted, aged cheese is hot and dry. Actions: fresh cheese is nourishing and fattening, while aged cheese is hot, cleansing and bilious in its humour, and "الجبن المملح العتيق مهزل" ("old salted cheese makes thin"). Wounds: aged cheese for bad ulcers, fresh for light fresh wounds, preventing swelling. Eye: unsalted cheese as a poultice for inflamed eyes. Chest: cheese boiled in water, given to a nursing woman, increases her milk. Digestive organs: salted cheese is bad for the stomach, and he calls Dioscorides' view that fresh cheese suits the stomach open to question. Excretory organs: it breeds stone in kidney and bladder, "يولد الحصاة", especially fresh cheese; unsalted cheese loosens the bowel and the whey draws out bile; roasted cheese helps intestinal ulcers and stops diarrhoea. The entry makes no use of innate heat or radical moisture and attests no life-prolonging role; its value is as food and as a drug with a stated stone-forming risk. **(b) — nutritive and therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing here makes cheese a cultivation substance. The text's lesson is ordinary and practical: the same food does different things new or old, plain or salted, and the one fault it names, salt upsetting the stomach, is worth taking at face value. A cultivator eats cheese as food and pays attention to what a given cheese does. No dose is given in the sources retrieved. [USER: verify]
 

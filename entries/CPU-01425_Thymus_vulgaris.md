@@ -1,7 +1,7 @@
 # Thymus vulgaris — Erpullos, Erpullos zogis (Dioscorides 3-46); Thumoxalme (5-24)
 
 ## *Thymus vulgaris* (the Dioscorides translators' suggested identification, citing Linnaeus; garden thyme, potherb thyme) | *(Volume I — Plant-Based)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -38,6 +38,8 @@ Thymol is a well-known antiseptic compound, and thyme is widely used as a culina
 ### Cultivation Register
 
 **Greek — Dioscorides (DMM).** *(b) Framed, not a cultivation status.* Dioscorides has no subtle-body system and none is supplied here. 3-46 gives a discipline of attention: the garden kind roots where it touches the earth and is grown trailing from walls and used for head wreaths, the wild kind is upright, rock-growing, hotter, and better for medicine. That is horticultural and sensory knowledge, not a cultivation status. The binomial is a translators' gloss. [USER: verify]
+
+**Unani / Avicenna (CM).** The *Canon* has a short entry headed *sa'tar*, thyme (*Canon* Book II, entry *sa'tar*, Arabic text line 15926). The entry gives no description or Latin name, so the match to *Thymus vulgaris* rests on the Arabic name and this file. Choice: the wild kind is strongest. Temperament: "حار يابس في الثالثة" ("hot and dry in the third degree"). Actions: "محلل منشر ملطف" ("dissolving, dispersing, subtilising"). Joints: it helps hip pains. Head: chewed, it quiets toothache and heals slack gums "لقوته المحرقة" ("because of its burning power"). Chest: its oil benefits the chest and lungs. Digestive organs: it benefits the liver and stomach. Excretory organs: it promotes urine and the menses, expels worms and pumpkin-seed tapeworm very well. The entry says nothing about innate heat, radical moisture or long life; its heat is a therapeutic quality, not a cultivation one. **(b) — warm, dispersing and expelling actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing in the source read gives a cultivator a practice with this plant. As a kitchen herb it needs no cultivation framing.
 

@@ -1,6 +1,6 @@
 # Assian stone — Asios lithos (printed in the translation as "Asian stone"), Dioscorides 5-142
 ## *A pumice-coloured, spongy, light, brittle stone with a yellowish salt "flower" on its outside, used for ulcers, growths, gout, the spleen and lung disease; the translator gives no identification ("UNKNOWN")* | *(Volume II — Mineral)*
-**Tradition Tags:** DMM
+**Tradition Tags:** DMM, CM
 
 ---
 
@@ -62,6 +62,8 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 ### Cultivation Register
 
 **Greek / Dioscorides (DMM).** *(b) Framed; no cultivation status.* Dioscorides has no subtle-body system and none is supplied. What the herbal offers a cultivator is a discipline of attention (provenance, season of gathering, sensory assay, adulteration detection), and this chapter shows part of it: it says what to select (a pumice-coloured, spongy, light, brittle stone with yellowish partitions), gives a sensory assay for the flower (it "bites a little" on the tongue), distinguishes the stone from its flower and ranks the flower stronger, and refers the reader to the washing method of another chapter. It gives no place of origin, no season of gathering and no adulterant. The chapter is therapeutic and carries no cultivation status.
+
+**Unani / Avicenna (CM).** Under *Asiyūs* the *Canon* describes the stone on which a salt called its "flower" forms, which it thinks arises from the moisture and shade of the sea (*Canon* Book II, entry *Asiyūs*, Arabic text line 10717). No temperament is stated. Its power and that of its flower is "opening, flesh-forming (ملحمة) and slightly putrefying, and it dissolves putrid flesh without stinging" (تذوب اللحم المتعقن من غير لذع). It is an external wound medicine first: applied with terebinth gum it resolves wounds, and it is useful for ulcers that are stubborn, violent, large and deep. For the joints it is used with barley meal on gout, and the feet are placed in its decoction. Licked with honey it helps lung ulcers (chest), and smeared with lime and vinegar it is put on the spleen (digestive organs). The entry is silent on innate heat and radical moisture and assigns the stone no place in prolonging life. **(b) — therapeutic actions attested; no cultivation status.**
 
 **Practitioner's note.** Nothing to take from it for cultivation beyond the author's habit of selection and sensory test: say what the good material looks like and what it does to the tongue. The material itself is an unidentified, corrosive salt-bearing stone, and the text's own wording (it "corrodes") is the caution. It is not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
