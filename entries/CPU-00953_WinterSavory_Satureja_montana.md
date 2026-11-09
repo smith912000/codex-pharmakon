@@ -96,6 +96,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Winter savory acts on the gut, the chest and microbes. In the Unani frame it is hot and dry in the third degree, a carminative (kasir-e-riyah) and digestive that is also a deobstruent and expectorant for cold, phlegmy chests. The Greek reading is a belly-warming carminative with diuretic and emmenagogue action. The entry links the wind-breaking and belly-easing effect to carvacrol and p-cymene, which relaxed guinea-pig ileum in an isolated model; this is extrapolated from other herbs. Its antiseptic doctrine is supported in vitro against foodborne pathogens, and in sheep against gut nematodes, with no liver or kidney toxicity noted at those doses. Concentrated oil irritates the mouth, oesophagus and stomach. The entry says the satyr aphrodisiac has no basis, and it advises pregnancy avoidance of concentrated exposure.
+
 ### Contraindications
 
 - **Pregnancy and lactation:** contraindicated — traditional emmenagogue; carvacrol/thymol-class phenols and possible uterine-stimulant activity make concentrated exposure inadvisable in pregnancy; keep to trace culinary amounts if at all.

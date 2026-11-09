@@ -38,6 +38,10 @@ Greek: the text prints one quality, "It is astringent" (line 5182). Nothing else
 
 **Practitioner's note.** Nothing. There is no cultivation role for ivory in this text, and the practice it records is one a modern cultivator should not follow.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one site and one quality. Dioscorides, as the entry reports him, records scraped elephant's tooth applied to whitlows of the finger or toenails, which are infections at the nail fold, so the tissue the text addresses is the soft tissue around the digital nails. The whitlow is the only condition named. The only quality printed is 'astringent'. No humoral, doshic or qi classification is given, and no other tradition is tagged. The chapter names no internal organ, gives no route beyond external application, and records no dose, vehicle or method of preparation beyond 'scraping'. The entry draws no further body system from the text. Its claim is recorded as historical, and the entry gives no present use.
+
 ### Contraindications
 
 Elephants are endangered or threatened across their range. International trade in elephant ivory is banned or heavily restricted, and possession can be a criminal offence. Dusts of any bone-like material can be inhaled; applying an unsterilised powder to an infected nail fold risks making the infection worse. A whitlow can spread to the finger and deeper tissue, so it needs proper care. This entry gives no medical advice.

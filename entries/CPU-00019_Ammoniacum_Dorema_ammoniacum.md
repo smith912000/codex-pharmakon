@@ -66,6 +66,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 ---
 
+### Functional–Anatomical Correlate
+
+Gum ammoniac maps onto the chest, the spleen and liver, hard swellings and the womb. Dioscorides and the Persian oshaq are both warm and dry: it ripens and disperses hard, cold glandular and abdominal swellings, eases an enlarged spleen and hard abdominal masses, and clears thick phlegm from the chronic bronchial passages. The Unani terms are muhallil, munzij and mukhrij-e-balgham, with deobstruent action on liver and spleen. Externally the resolvent plaster is applied to indurated glands and chronic joint indurations. Its gum loosens bronchial mucus in the milk-of-ammoniac expectorant, and the entry notes asthma-type breathlessness with thick mucus. The emmenagogue reputation acts on menstruation and the womb, flagged for verification and as a pregnancy caution. The TCM class is Qi (warming, dispersing and resolving), with emphasis on hard swellings and the chronic chest. The Assyrian section records no material, and no tradition claims a cultivation or rejuvenative status.
+
 ### Contraindications
 
 - **Pregnancy — caution/avoid medicinal doses.** Emmenagogue reputation; internal medicinal use traditionally avoided in pregnancy. [USER: verify.]

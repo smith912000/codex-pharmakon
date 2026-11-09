@@ -55,6 +55,10 @@ The Qiao Gen entry contains a sentence that sits uneasily with this: "Protracted
 
 **Practitioner's note.** In the Chinese scheme this is a lower-grade drug, taken for a defined complaint and then stopped, and the tradition's own grading is the warning. The root entry's sentence about protracted taking is recorded and not endorsed, because the root's identity is uncertain and it sits in the class that the preface says cannot be taken for long.
 
+### Functional–Anatomical Correlate
+
+The Shennong entries map mainly to the skin and to swellings under it. Lian Qiao, bitter and balanced, is listed for mouse fistulas, scrofulas, welling abscesses, swellings, malign sores, goiters and tumors, bound heat and gu toxins, which points to the skin, the neck and the soft tissue beneath it. Yang's modern note, which is his commentary and not the classic, adds that it drains fire, eliminates damp heat, disperses congealed blood and gathered qi in the channels, disinhibits water, kills parasites, relieves pain, discharges pus and resolves toxins. Qiao Gen, bitter and cold, is entered as a separate root under the same Latin name and is said to precipitate heat qi, boost yin essence, brighten the eyes and make the complexion attractive. Yang flags its identity as uncertain, and its protracted-taking sentence is recorded without endorsement. No doshic or humoral term is printed, and no meridian is named.
+
 ### Contraindications
 
 The Shennong entries print no warning. The inferior class is described in the preface as "usually toxic" and not to be taken for a long time, and this is a general statement about the class and not about this plant. The root's identity is uncertain by the translator's own note, so no plant or root should be gathered or used on the strength of this entry. Scrofulas, abscesses, sores and tumours need medical care. No safety information for pregnancy was read. [USER: verify]

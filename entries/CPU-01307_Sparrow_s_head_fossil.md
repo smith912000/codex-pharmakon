@@ -44,6 +44,10 @@ General, well-established facts only. Fossil shells are largely calcium carbonat
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The record is a short entry in a list of stone medicines: a fossil of two types, one light blue and small and one pale red and coarse, said to promote flesh growth. It is not securely identified, and no preparation or dose is sourced. A reader who meets this substance meets it as a curiosity of the Tibetan list, not as a remedy to take. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one action, that both types of the sparrow's-head fossil promote flesh growth, which maps to soft tissue. The two types are a superior kind that is light blue, smooth and small, and an ordinary kind that is pale red, large and coarse and resembles a hawk's head. The Men-Tsee-Khang rendering says that Jego, a name the entry links to this stone only by its place in the list, regenerates damaged tissues and has the same effect as Phag go, whose stated sites are bone and a fluid called chhuser. The entry does not say that this stone acts on bone. No taste, potency or post-digestive taste is printed in chapter 20, and no other tradition is tagged, so no humour, channel or subtle-body site is mapped. No organ, system or route of use beyond flesh and damaged tissue is named.
+
 ### Contraindications
 
 - **Wounds and tissue loss:** these need cleaning, assessment for infection and, where required, closure; a stone powder does not substitute and can introduce infection.

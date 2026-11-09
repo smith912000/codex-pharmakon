@@ -53,6 +53,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Sushruta t
 
 **Practitioner's note.** The Sushruta text gives a cultivator a plain thing here: a pot-herb is cooked with salt and ghrita and eaten as a relish, and it appears in the diet of patients. No special status is claimed for it. Nothing should be gathered or taken as medicine on the strength of a Latin name the chapters do not give.
 
+### Functional–Anatomical Correlate
+
+The Sushruta text names Tanduliyaka chiefly as a pot-herb, which it calls laxative, diuretic, sweet and alkaline, and says slightly generates Vayu and Kapha. Of the Tanduliya itself it says it is sweet in taste and digestion, antitoxic and extremely cooling in potency, and that it cures haemoptysis (coughing of blood) and somnolence from poison, wine or vitiated blood, so the chest, the blood, the nervous state, the bowel and the urinary tract are named. In diets for an ulcer, for haemorrhoids and for an eye disease (Timira), it is an ordinary relish. As applications it reaches the ear (a plaster or oil for a Shyava complication), the blood (root powder with honey in haemorrhage) and the bite of named snakes and rats (a root lambative and a root ghrita). The text does not name the part used in the food passages. The entry notes that the Latin Amaranthus spinosus is a translator's pairing by adjacency, that Bhandira is not in the chapters, and that no dose is given.
+
 ### Contraindications
 
 The Sushruta passages read print no warning for the pot-herb itself, but the text says it "produces a state of parchedness in the system" and rates the group as slightly aggravating Vayu and Kapha (Sutra 46). As a general fact, people prone to oxalate kidney stones are often advised to limit oxalate-rich greens, and the spines of some amaranth species make them unfit for casual picking. The identity is open, so no plant should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

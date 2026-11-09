@@ -39,6 +39,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. The answer is to do nothing with it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that curare-type arrow poisons are generally known to act by blocking the transmission of nerve signals to skeletal muscle, and its contraindications say such material paralyses muscle, including the muscles of breathing, and can kill. The row names tube curare from Chondrodendron tomentosum and gives no people, region, preparation or use, and the label tube is not explained. The alkaloid composition of this plant was not read. The only body systems the entry names are therefore the neuromuscular junction, skeletal muscle and the breathing muscles. No humoral, doshic or Qi classification is printed, and the entry directs anyone exposed to seek emergency care.
+
 ### Contraindications
 
 No safety data were read. Curare-type preparations are arrow poisons that act by paralysing muscle, including the muscles of breathing, and they can kill. No one should handle, prepare or ingest such a material on the strength of this entry. Seek emergency medical care for any exposure. Legal status varies and is unchecked. [USER: verify]

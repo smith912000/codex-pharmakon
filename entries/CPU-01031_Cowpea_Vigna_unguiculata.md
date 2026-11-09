@@ -89,6 +89,10 @@ According to PubMed, the modern evidence base treats cowpea primarily as a funct
 
 **Practitioner's note.** The cowpea is the archetypal base-load food: eaten to become durable, not to be moved. For the cultivator the honest answer is that its virtue is reliability — steady protein and fibre, the slow accretion of resilience across a lean season — not any attested action on the vital constitution. It is a substance you return to, prepared as every tradition here prepares dry pulses (soaked, cooked, corrected with carminatives), and that is the whole of the practice.
 
+### Functional–Anatomical Correlate
+
+Per the entry, cowpea maps mainly onto the digestive tract and the body's tissue-building capacity. Galenic-Unani sources class the dry pulse as warming to neutral and drying, generating wind and thick humour unless cooked with warming aromatics. Ayurveda calls it sweet-astringent and light, aggravating vata when dry and strengthening tissue (balya) when well prepared. The gut is named for raffinose-family oligosaccharide flatulence and fibre-driven colonic fermentation. Raw seed is named for lectins and trypsin inhibitors, largely deactivated by soaking and cooking. Its protein is described as supporting tissue repair and recovery. The bioactive evidence the entry cites is in vitro: cowpea peptide hydrolysates inhibited platelet aggregation and showed enamel-protective effects, graded low to moderate. The entry states no standard therapeutic dose exists and no clinical effect is established.
+
 ### Contraindications
 
 - **Favism risk is NOT applicable** in the classical sense — favism is specific to *Vicia faba* (broad bean); cowpea is not the fava bean. Do not conflate the two.

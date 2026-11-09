@@ -38,6 +38,10 @@ General, well-established facts only. Spider bites vary from harmless to dangero
 
 **Practitioner's note.** A cultivator does nothing with this. The entry is a list name and a household hint, with no preparation, no dose and an uncertain identity. The honest use of the entry is as a record of what Bryan reports.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that the tarantula is named in Bryan's list of animals used in remedies, with no complaint, no preparation and no organ. Its one other mention is as a stinger: a household hint says that stinging by the tarantula is prevented by inunction with olive oil, which puts the oil on the outer skin of the body. The olive oil is not said to act on the spider or its venom; the sentence describes a rubbing applied to the skin before any sting. The sting is the one bodily event named, and it belongs to the skin and the local tissue where it lands. The entry gives no humour, temperament or quality, and no cultivation status. Nothing in the lines read connects the tarantula with any internal organ, tissue or body system. Whether this is the papyrus or Bryan's paraphrase is not settled.
+
 ### Contraindications
 
 - **Bites:** large spiders can bite; a bite with spreading redness, necrosis, severe pain or general symptoms needs medical care, and olive oil is not a protection.

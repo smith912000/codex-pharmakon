@@ -45,6 +45,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is an external remedy for inflammation and gout with no stated amounts. The sources support nothing more, and the abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Dioscorides, under the translators' Lemna name, gives a cooling pond plant, applied alone or with polenta, for inflammation, for erysipelas (a spreading skin infection) and for gout of the feet, and says it heals vaginal hernias found in children. The body parts named are the skin, the feet and the genital and hernial region; no internal organ is named. The Divine Farmer's Classic, under the Chinese drug shui ping, identified in the entry as Spirodela polyrhiza, classes the plant as pungent in flavour and cold in nature. Its entry says it governs sudden heat with itching of the body, sends water qi downward, overcomes wine, promotes beard and hair growth (a variant reads blackening the hair) and relieves wasting thirst. The life-nourishing clause is brief: taken long, the body is lightened. The Chinese entry maps to the body surface, the hair, the fluids and thirst, and the entry does not show that the two traditions describe the same plant. The Codex states all of this as the texts' claims, with no protocol.
+
 ### Contraindications
 
 The chapter prints no warning. Erysipelas, a hernia in a child and gout need medical care and must not be left to a home preparation. Pond plants are not clean and should not be put on skin that is broken or infected. The identification rests on a translators' suggestion with two different plants, so no plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

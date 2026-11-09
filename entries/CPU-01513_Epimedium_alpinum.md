@@ -43,6 +43,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The use Dioscorides records is one of limiting fertility, which is outside the aims of the Codex's cultivation register. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The entry's own claims touch three areas of the body. Applied outside, the leaves pounded with oil make a poultice for the breasts so that they do not swell, which places the action on breast tissue. For the reproductive system, the chapter says the root causes barrenness, and that a drink of the leaves in wine, taken for three days after the menstrual purgation, keeps women from conception; the bracketed birth control is the translators' gloss and not Dioscorides' word. Dioscorides gives no humoral, doshic or qi classification and prints no hot, cold, moist or dry quality. The only quality he prints is of the roots, which are unsavoury in taste and strongly scented. No action on the blood, liver, digestion or nerves is stated. The species is the translators' suggestion, so the mapping applies to the chapter's text and not to a verified plant, and none of these uses is advice.
+
 ### Contraindications
 
 The chapter prints no warning, though it describes a root that "causes barrenness". Any plant said to affect conception must not be taken in pregnancy, or by anyone seeking to conceive, and this record must not be used as contraception. The identification is only the translators' suggestion, so nothing should be gathered or taken on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

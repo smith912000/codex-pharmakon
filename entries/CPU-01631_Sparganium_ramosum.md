@@ -43,6 +43,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant, and the sourced text is only a few lines. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter gives one use. The root and seed, given with wine, are for those bitten by venomous creatures, so the bite and its effect on the body are the only site named. The chapter prints no quality, taste, humour or temperament, and gives no organ, system or tissue beyond the bitten person. The leaves are described as like a little sword but narrower and bending downward more, and the seed is carried in little balls at the top of the stalk. These are form, not action. The plant's constituents were not read, and the entry makes no claim of action against venom. Its names are xiphidion and bolon, names only. The sourced text is only a few lines, and the entry says nothing else about the body.
+
 ### Contraindications
 
 A bite from a venomous creature is an emergency, and nothing in this entry is a substitute for treatment. The identity of the plant rests on a translators' suggestion that offers three species, so no wild plant should be gathered or taken with wine on the strength of this entry. None of the traditional uses above is advice.

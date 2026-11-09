@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a purgative drug and a vegetable in the Tibetan texts, and nothing more can be said from them. A purgative is not a daily practice, and the abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The root-text layer of Clark says the drug "purges fever caused by poisoning, vessel organ fever and phlegm disorders". These three claims map to purgation of the bowel, to the vessel organs, a term the chapter does not define, and to phlegm (baekan) disorders. Clark's commentary, in square brackets, adds a sour taste and coarse power and says it cures phlegm disorders. The Men-Tsee-Khang text calls it a laxative for poisoning-associated hot disorder, hot disorder of the vessel organs and baekan disorders. As a vegetable, the drug is said to eliminate phlegm disorders and improve the appetite, which relates to digestion. The class lists place it among the purgatives. The botanical identity is uncertain among three binomials, so these describe what the Tibetan texts claim, and no protocol is drawn from them.
+
 ### Contraindications
 
 The sources read print no warning. Purgatives can cause dehydration and cramping, and constipation or suspected poisoning that persists needs medical care. The botanical identity is uncertain (three binomials in Clark, and Clark also lists related rhubarbs under other Tibetan names), so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

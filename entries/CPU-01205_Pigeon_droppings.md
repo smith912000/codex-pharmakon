@@ -38,6 +38,10 @@ General, well-established facts only. Dried pigeon droppings can carry the fungi
 
 **Practitioner's note.** A cultivator does nothing with this. It is a one-line action in a list of animal droppings, with an infection hazard attached and no cultivation claim. Its use today is as a record of what the Tantra says.
 
+### Functional–Anatomical Correlate
+
+Little to map: the line gives actions only, that pigeon droppings (phug.ron) 'suppurate swellings' and, as a bracketed fomentation, help 'phlegm disorders and white rheumatism' (Clark). The systems named are swellings of the body, phlegm disorders, and the joints in white rheumatism. The Men-Tsee-Khang edition gives only 'suppurate inflamed swelling', without the fomentation clause. No taste, potency, post-digestive taste or humoral quality is printed, and no preparation, quantity or route is given beyond 'as a fomentation'. No cultivation or essence-extraction role is attached. The Codex records the line only. An abscess or joint disease needs clinical assessment, and dried droppings carry infection risk.
+
 ### Contraindications
 
 - **Infection:** dried pigeon droppings can carry fungal and bacterial pathogens (histoplasmosis, cryptococcosis, psittacosis); handling or inhaling dust is a hazard, and applying them to skin or a swelling risks wound infection and tetanus.

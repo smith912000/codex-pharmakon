@@ -49,6 +49,10 @@ General, well-established facts only. Turpentine (the conifer solvent) is toxic 
 
 **Practitioner's note.** A resin or nut of uncertain tree in two skin remedies. A cultivator has nothing to take from it and should not drink turpentine.
 
+### Functional–Anatomical Correlate
+
+Ebers Papyrus, in Bryan's 1930 English, gives turpentine and turpentine-nuts in two skin remedies. One, listed under diseases of the skin, is meant to free the flesh from disease: ass's milk, resin of acanthus, indigo, a duat-plant, turpentine-nuts and honey, cooked, strained and taken for four days. The other is Bryan's own commentary on the uxedu disease, where a mixture of onions, turpentine and cow's milk drunk for four days removed the spots, and might have worked if rubbed on. The remedies therefore map onto the skin, with spots and diseased flesh as the complaints. The text does not name an organ, a humour, or a vital component (ka, ba, akh, ib) for this substance. No quantity is given, and the tree is not identified. The entry's modern note that turpentine is a toxic solvent is the Codex's own, not a claim of the papyrus, and is no reason to drink it.
+
 ### Contraindications
 
 - **TOXIC.** Modern turpentine is poisonous if swallowed or inhaled and irritates the skin; do not drink it. The Ebers remedies are historical.

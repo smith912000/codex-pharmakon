@@ -84,6 +84,10 @@ According to PubMed, hawthorn leaf-and-flower extract has been evaluated for chr
 
 ---
 
+### Functional–Anatomical Correlate
+
+Hawthorn is described primarily as a cardiac trophorestorative acting on heart muscle, the coronary circulation and vascular tone. The entry lists gentle positive inotropy, improved coronary and myocardial perfusion, mild vasodilation with reduced afterload, endothelial protection by oligomeric proanthocyanidins, and a settling effect on nervous palpitation. The Unani reading calls it a heart-strengthener (muqawwi-i-qalb) for palpitation from cold-damp humours, and the European folk and Eclectic tradition restores heart tone over the long arc. The Chinese Shan Zha, the fruit of a different species, is filed separately as acting on the spleen, stomach and liver. Meta-analyses of leaf-and-flower extract in mild-to-moderate heart failure (NYHA I-III) are reported to show improved workload, dyspnoea and fatigue as an adjunct, with hard mortality endpoints not captured. Cautions cover interaction with cardiac glycosides, beta-blockers, nitrates and antihypertensives, and low blood pressure at higher doses.
+
 ### Contraindications
 
 - Because it may potentiate cardiac glycosides and other cardioactive drugs, **use under supervision with digoxin, beta-blockers, nitrates, and antihypertensives** — additive effects on heart rate and blood pressure are plausible.

@@ -38,6 +38,10 @@ General, well-established facts only. Wild snake meat can carry parasites (inclu
 
 **Practitioner's note.** A cultivator does nothing with this. It is a list entry for wild snake meat, with no preparation and no dose, and eating it carries parasite and bacterial risk with no supported benefit. The honest use of the entry is as a record of what the Tantra says.
 
+### Functional–Anatomical Correlate
+
+Snake meat acts, in the Tibetan entry, on growths, the urinary passage, the eyes and some infective conditions. Clark's line gives that it removes growths, dispels urinary retention and is beneficial in eye disorders, and his bracketed additions extend it to painful fevers in children, lung diseases, leprosy, infected wounds and bone warts. Men-Tsee-Khang's version reads that it dissolves tumours, clears obstruction and is beneficial for eye problems, so the tumour, urinary and eye sites agree across both translations. The unbracketed indications are the plainer reading, and the bracketed ones are Clark's expansion. The text does not name a humour, taste or potency for the flesh itself. In modern anatomy the systems mapped are the urinary tract, the eyes, the lungs, the skin and the bones, with growths or tumours as the lesion. The lines do not show how any effect occurs.
+
 ### Contraindications
 
 - **Parasites and infection:** wild snake meat can carry parasites and *Salmonella*; undercooked meat is a real risk, and the animal's origin is unknown.

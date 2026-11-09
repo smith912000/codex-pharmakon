@@ -55,6 +55,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 **Practitioner's note.** Nothing to take from it for cultivation. It is a red mineral of uncertain identity, possibly a lead oxide, which the tantra lists for fevers, wounds and burns; no preparation is given. It is not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+In the Tibetan rGyud-bzhi text, as Clark and Men-Tsee-Khang render it, sindur acts on the channels, the vital organs, pus and blood at a wound, and burns. Clark's tantra wording is that it heals channel fever and injuries in the vital organs; the Men-Tsee-Khang summary reads hot disorders of the channels and wounds of the vital organs. Channel fever and hot channel disorders sit in the tradition's channel system, with heat as the disorder treated and not a quality of the substance. Injuries to the vital organs map to the major internal organs, which the entry does not name. The commentary adds that sindur dries pus and blood, which in modern terms maps to the fluid collecting in an abscess or open wound, and that it benefits burn wounds, which maps to the skin and the tissue beneath it. No humoral, wind, bile or phlegm site is printed for the mineral itself, and no taste or potency is given. The mapped sites are therefore the channels, the vital organs, the blood and pus at wound sites, and the skin of burns.
+
 ### Contraindications
 
 - **Possibly TOXIC (lead).** Do not swallow, inhale as dust or apply to burns or wounds.

@@ -40,6 +40,10 @@ General, well-established facts only. Animal fat is a concentrated energy source
 
 **Practitioner's note.** A cultivator does nothing with this. It is a recipe for a medicinal fat, with a few external and internal uses and no dose. The one thing worth taking from it is the rule of preparation: clean, wash, repeat and store cold. The honest use of the entry is as a record of what Dioscorides says.
 
+### Functional–Anatomical Correlate
+
+Suet acts, in the Dioscorides entry, on the bowel, the lungs, the joints and the skin, and the text sorts its effects by the animal's fat. The general statement for all fat is that it is warming, softening and purifying, and goat fat is the more astringent and has the most dissolving nature, with sheep fat equivalent to it. For the bowel, goat suet boiled with polenta, rhoe and cheese is given for dysentery, and with barley water as a suppository or enema, which places the action in the intestines and the rectum. The broth of these fats, sipped, is said to help pulmonary consumption, which places one action in the lungs. For gout, goat fat tempered with goat's dung and saffron is applied, which places the action in the joints and skin. The chapter's own physiological terms are warming and dissolving, and it gives no humour theory. In modern anatomy the mapped systems are the large intestine and rectum, the lungs, and the joints and skin, with dysentery, consumption and gout as the conditions.
+
 ### Contraindications
 
 - **Rancid or poorly stored fat:** spoiled fat is unpleasant and can carry bacteria; discard it.

@@ -95,6 +95,10 @@ The plant occupies a near-mythic register in the high-altitude pharmacopoeia: a 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places snow lotus in the Liver and Kidney channels, with a primary Qi action that warms and disperses cold-damp in the joints and channels and a secondary Jing role in warming the Kidneys and womb in cold-deficiency states. In TCM terms it dispels wind-damp, warms the channels, unblocks painful obstruction (bi), and warms the lower burner and Kidney-yang. The Tibetan rGyud-bzhi frame, as a grang ba (cold) drug, places it against cold settling in the joints, channels (rtsa), kidneys and womb, and as a restorer of bodily strength (lus stobs) after altitude and exertion. The joint, back and pelvic regions are the sites named. The entry says its flavonoid and lignan fractions offer a plausible mechanistic correlate for analgesic and anti-inflammatory action, but that much of this pharmacology is on related species, so the species-specific evidence is left uncited. Contraindications: heat and febrile patterns, Asteraceae allergy, pregnancy because it acts on the womb, and species substitution.
+
 ### Contraindications
 
 - **Conservation / legal status:** *S. laniceps* is threatened by overharvesting; use only verified, ethically and legally sourced material — this is a contraindication of conscience as much as of safety

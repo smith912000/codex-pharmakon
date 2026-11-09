@@ -93,6 +93,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 **Practitioner's note.** What a cultivator actually does with agarwood is burn it and sit with it — a settling, centring aromatic for meditation and devotional attention, and internally a small warming dose to move and descend stuck, cold qi. No tradition surveyed grants it a long-life *cultivation grade*; the honest use is aromatic and conservational, and the first practical discipline it demands is the discernment of genuine resin-rich wood from the adulterated (and CITES-protected) trade.
 
+### Functional–Anatomical Correlate
+
+Per the entry, agarwood acts chiefly on the middle burner and on the qi that rises or falls through it. Chen Xiang warms the spleen and stomach and moves and descends qi for cold epigastric and abdominal pain, distension, hiccup, belching, vomiting and wheezing from qi not grasped by the kidneys. Ayurveda names digestion, respiration, skin and the nerves. Unani records that it strengthens the stomach and liver, removes putrid moisture from the stomach, benefits the brain and senses, and strengthens the nerves, with the Canon's humoral claim that it strengthens the viscera and all organs. The Prophetic-medicine texts add the heart, which it gladdens (mufarrih), and the bladder in cold incontinence. In Kenetica's terms it reaches Shen, the mind, as a calming and centring fragrance for restlessness and anxiety. Modern correlation is limited to sesquiterpene and chromone studies on sedation and GI motility, which the entry flags for verification. Heat patterns and yin-deficiency with heat are contraindicated.
+
 ### Contraindications
 
 - **Heat patterns / yin-deficiency with heat (CM).** A warming aromatic is contraindicated in heat/dryness-from-deficiency.

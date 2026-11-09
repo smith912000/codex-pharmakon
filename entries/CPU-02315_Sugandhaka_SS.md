@@ -51,6 +51,10 @@ General, well-established facts only. The identity is open, so no pharmacology c
 
 **Practitioner's note.** A name used for a rice, a spice-herb and a group drug, with no identification. Nothing supports cultivation use, and without an identification nothing can be gathered or used. A cultivator reads it as a name in a record.
 
+### Functional–Anatomical Correlate
+
+Sugandhaka is named in three settings, and the entry maps none of them to a single organ. As a member of the Surasadi group, the group as a whole is said to act as a vermifuge and an aseptic agent, to subdue deranged Kapham, and to help in catarrh, non-relish for food, asthma and cough. The entry does not translate these Sushruta terms into modern diagnoses. In the food chapters the name stands for a variety of Shali rice, and in the spice list it stands beside Surasa and other herbs, with no separate action given to it. The chapters do not say the three are one substance. Sugandhaka therefore maps only to the group's named conditions, and to no organ or tissue the text names for it alone. No rasa, virya or vipaka is printed for it, and the earlier sulphur guess has no support in the lines read.
+
 ### Contraindications
 
 - **Identity.** The plant is unidentified and the name has more than one use in the text; do not substitute any herb, grain or mineral for it. In particular, do not read it as sulphur.

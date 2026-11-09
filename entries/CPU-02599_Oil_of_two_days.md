@@ -47,6 +47,10 @@ General, well-established facts only. Oils and fats were used in the ancient wor
 
 **Practitioner's note.** There is nothing to practise, since the substance is not even identified. The entry preserves a name so that it is not lost.
 
+### Functional–Anatomical Correlate
+
+Little to map: the only body part the text gives is the limbs. The oil is one of several named in a liniment that the text says could make the limbs supple, placing its claimed action on the limb joints, muscles and soft tissue that a liniment rubbed onto the skin reaches. The chapter gives no other site, and no organ, channel or energetic classification. The heading Mineral Remedies under which the term is listed places it in the mineral kind, but the same term appears among animal fats in the limb passage, so the class is unsettled. Traditional Egyptian frames of the person, such as the ka, ba, akh and ib, are not attested for this oil in the text, and the entry assigns it no vital or constitutional site. The limbs, in modern terms the musculoskeletal system of arms and legs, are therefore the whole of its mapped claim.
+
 ### Contraindications
 
 - **Unknown substance.** Nothing can be said of safety. Do not try to reconstruct it.

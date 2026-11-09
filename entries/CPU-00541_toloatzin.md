@@ -43,6 +43,10 @@ As a general, well-established fact, tropane alkaloids block the receptors of th
 
 **Practitioner's note.** Nothing. A cultivator does nothing with this plant: the record here is one list row, and the genus is a poison with a narrow margin of safety. This is a historical record only and not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that no text read describes what toloatzin does, and the Badianus folio is not given. Its only mechanistic statement is a general one about the genus: Datura plants are generally known to contain tropane alkaloids such as hyoscyamine and scopolamine, and tropanes, as a general established fact, block the receptors of acetylcholine. No organ, tissue or body system is named for this plant, and no composition was read for it. The entry's general caution, marked as not found in the row, lists delirium, a racing heart, fever and loss of consciousness, with heart disease, glaucoma, children, pregnancy and breastfeeding as higher-risk groups. The Nahua hot and cold overlay is left unresolved, and no tonalli, teyolia or ihiyotl model is applied.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, *Datura* plants are poisonous in all parts; ingestion or smoking can cause delirium, a racing heart, fever, loss of consciousness and death, and children, pregnancy, breastfeeding, heart disease, glaucoma and prescription medicines raise the risk further. Anyone exposed should get emergency medical help at once. Legal status varies and was not checked. This is general caution and is not found in the row. [USER: verify]

@@ -58,6 +58,10 @@ The root of *Saposhnikovia divaricata* (*fangfeng*) is a standard Chinese crude 
 
 **Practitioner's note.** The classic grants this root the long-term standing of an upper drug, and records it with a defined list of "wind" complaints. It gives no dose, form or length of "long taking," and its own relations table has the root disliking several named drugs. A cultivator has nothing here to turn into a regimen; the entry is a record of what the classic said.
 
+### Functional–Anatomical Correlate
+
+The entry's claims map to the head, the eyes, the joints and the whole body, through what the text calls wind. Sun's text says the root mainly treats great wind (大风), dizzy head and pain (头眩痛), aversion to wind (恶风), blindness with nothing seen (目盲无所见), wind moving through the whole body (风行周身), aching impediment of the bone joints (骨节疼痹) and vexing fullness (烦满). These are historical categories, not organ diagnoses. The Shennong text names no channel, organ or part beyond habitat. The energetic flavour differs between the editions: Sun's text says bitter, while Yang's edition and Wu Pu's report say sweet, and the reconstruction does not settle it. Yang's footnote ascribes the conditions to wind and says the root can promote or stop sweating; that is later commentary. No modern anatomy is asserted, and the eye and joint indications need medical assessment.
+
 ### Contraindications
 
 - **Dose and form unknown.** The text gives none; do not infer one from modern products.

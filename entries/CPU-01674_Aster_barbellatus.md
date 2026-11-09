@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is an antidote-and-fever drug in the Tibetan texts, and its species is not settled. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: Clark 1995's line for me.tog.lug.mig, whose first Latin name is Aster barbellatus, says in its commentary layer that the plant grows in rocky meadows and has a slightly bitter taste. In the root-text layer, the flower neutralizes poison and cures contagious fevers (line 1077). No organ, tissue or body system is named. The poison is not identified, and the fevers are described only as contagious. The Men-Tsee-Khang text, under the name Metok lugmig, calls it an antidote against poison that cures epidemic diseases (line 3448), but that text is read by sound, and the glossary pairs the name with a different Aster, so it does not bear on this binomial. The Clark line names no part taken and no channel. Nothing about the flower's effect on a particular organ is stated, and the Codex adds none.
+
 ### Contraindications
 
 The sources read print no warning. The botanical identity is uncertain, so no plant should be gathered or used on the strength of this entry. Poisoning is a medical emergency, and a plant should not be taken as an antidote on the strength of a materia medica. No safety information for pregnancy was read. [USER: verify]

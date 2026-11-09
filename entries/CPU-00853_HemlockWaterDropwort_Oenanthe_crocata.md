@@ -64,6 +64,10 @@ According to PubMed, the toxicology is well characterised even though therapeuti
 
 ---
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry states this plant is a deadly poison with no therapeutic use and gives no beneficial organ or tissue claim. It names the nervous system as the site of harm: its polyacetylenes (oenanthotoxin and dihydro-oenanthotoxin) are described as non-competitive GABA-A receptor antagonists that remove inhibitory tone in the CNS, producing unopposed excitation, violent seizures and the sardonic facial contraction (risus sardonicus). Other listed effects are nausea, salivation and respiratory failure. Historically, Dioscorides and Avicenna allowed only external, physician-controlled handling, for hard tumours or skin lesions, and the entry notes the toxin can be absorbed through broken skin. The traditional humoral reading is cold and moist to a malignant degree, classed as a poison (samm). The entry expressly withholds any TCM or Ayurvedic classification.
+
 ### Contraindications
 
 - **☠️ DEADLY — ABSOLUTELY CONTRAINDICATED BY EVERY ROUTE.** Ingestion of even a small amount of root causes rapid onset of nausea, salivation, violent tonic-clonic seizures, the sardonic grin (*risus sardonicus*), respiratory failure and death, often within hours. There is no antidote beyond intensive supportive care.

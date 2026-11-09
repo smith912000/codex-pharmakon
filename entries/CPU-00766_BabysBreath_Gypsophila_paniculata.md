@@ -64,6 +64,10 @@ According to PubMed, research on *Gypsophila* centres on saponin chemistry, memb
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, Gypsophila is a saponin-bearing root that the Dioscoridean and Unani traditions use as a detergent and expectorant, acting on the bronchial secretions and the stomach to thin thick phlegm and loosen the chest. The Unani texts add deobstruent action on the liver and spleen and cleansing of the skin, and the entry names the external foaming wash as the safe use. Modern correlates sit at the membrane level: the saponins are amphipathic surfactants that interact with cholesterol-rich membranes, which the entry links to haemolysis of red blood cells. Orally they irritate the gastric mucosa, causing nausea, vomiting and diarrhoea. Inhaled dried-flower dust is a respiratory sensitiser affecting the airways, with rhinitis, asthma and hypersensitivity listed. Skin, eyes and mucous membranes can be irritated on contact. The entry places the plant in the hot-dry, mobilising class and claims no cardiac or nourishing role.
+
 ### Contraindications
 
 - **⚠️ Saponin toxicity — haemolytic and GI-irritant.** *Gypsophila* saponins are potent surfactants that lyse cell membranes; on contact with the bloodstream they are **haemolytic** (rupture red blood cells), and orally they are strong gastrointestinal irritants causing nausea, vomiting and diarrhoea. Internal use must be low-dose and brief; parenteral exposure to isolated saponin is dangerous. Overdose is a real toxicological hazard, not a theoretical one.

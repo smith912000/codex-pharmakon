@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a heart-fever and poison drug in the Tibetan texts, its Latin name is not settled, and the Men-Tsee-Khang glossary appears to pair its name with another plant. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The root-text clause in Clark says that tang.kun cures 'heart fever, poisoning', which maps the drug to the heart and to the fever and toxic conditions the texts link to it. The Men-Tsee-Khang sentence says it 'cures hot disorder of the heart' and 'is an antidote against poison', placing the heart in both texts. In modern anatomy terms the organ named is the heart, and the poisoning claim is an antitoxic one, which the texts state as an antidote and not as a mechanism. The bracketed commentary, which Clark marks as coming from the commentaries, describes two types: a white one with hot taste and pungent odor, and a black one with a yellow scented flower, and it adds the closing words 'and wind-phlegm combinations'. Only the white type's hot taste and pungent odor is a quality in the entry; the root-text clause and the Men-Tsee-Khang sentence print none. No humoral, doshic or qi classification is given. The identity is unsettled, so this heart map is the texts' claim.
+
 ### Contraindications
 
 The sources read print no warning for this drug, although both texts class it as an antidote to poison, which is a use and not a safety statement. The identity is uncertain, and the carrot family includes poisonous members, so no plant should be gathered or used on the strength of this entry. Poisoning and a fever that affects the heart need urgent medical care. No safety information for pregnancy was read. [USER: verify]

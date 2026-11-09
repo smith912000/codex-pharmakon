@@ -44,6 +44,10 @@ General, well-established facts only. Dung beetles (the scarab family) feed on a
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The dung beetle is a clause in a list of insects, the translators disagree about which insect is meant, and the tradition describes animal products as largely replaced. The honest use of the entry is as a record. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Tibetan entry names the two insects found under dung and the Tibetan cockroach as antispasmodic, which maps to muscle spasm and abdominal cramp. Clark’s bracketed commentary adds relief of urinary retention, which maps to the bladder and urinary tract. The Men-Tsee-Khang text names the insects differently: dark beetles and wingless cockroaches relieve abdominal cramps, and water beetles and crabs cure obstruction of urine. The two translations agree on the action and not on the insect, and this entry does not resolve it. The Divine Farmer’s Classic (Shennong) entry for dung beetle, qianglang, gives a salty, cold nature in the lower grade and governs fright epilepsy and convulsion in children, swollen belly with cold and heat, and mad or unsettled illness in adults. Its preparation is parched over fire. No Tibetan taste or potency is printed, and no cultivation or essence framing is attested in the Tibetan text.
+
 ### Contraindications
 
 - **Abdominal cramp and urinary retention:** seek medical assessment; urinary retention can be an emergency.

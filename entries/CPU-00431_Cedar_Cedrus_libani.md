@@ -179,6 +179,10 @@ Cedar shavings or chips burned on charcoal; allow smoke to fill space for 10–2
 
 ---
 
+### Functional–Anatomical Correlate
+
+Cedar's entry maps onto the nervous system, the airways, the skin, the joints, the kidney and urinary tract, and the ear. Inhaled cedrol is described as reducing autonomic arousal (heart rate, skin conductance, blood pressure variability) through olfactory-limbic pathway activation, which the Kenetica frame calls Shen-clearing in the Upper Dantian. Unani terms give aromatic inhalation for congestion, and TCM gives Lung and lung-heat use and Kidney-Yang warming in the Kidney channel, with Triple Burner distribution. Ayurveda gives Kapha-Vata shamaka action and Devadaru taila for rheumatic joints, Vata-Kapha conditions and Ama-vata, with dispersing Bi-syndrome in TCM terms. Other claimed sites are the ear (oil drops for pain and infection), the scalp and skin (alopecia, vitiligo, fungal infection, lice), and the urinary tract, where the Assyrian material is said to use the oil for infections and kidney conditions. The entry also names antimicrobial action on the skin surface and on airborne load in shared rooms.
+
 ### Contraindications
 
 - **Cedar wood dust** — occupational exposure (furniture makers, sawyers): cedar dust is a known sensitizer causing occupational asthma and rhinitis; immunological sensitization, not direct toxicity

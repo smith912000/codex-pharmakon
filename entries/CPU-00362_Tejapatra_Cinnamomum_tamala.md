@@ -76,6 +76,10 @@ According to PubMed:
 
 **Practitioner's note.** Nothing beyond its ordinary use as an aromatic leaf and ingredient; the Sushruta text gives it no rejuvenative role.
 
+### Functional–Anatomical Correlate
+
+Tejapatra's entry targets the digestive tract and the upper airways, the breath, throat, nose and lungs. Its dīpana-pācana actions kindle and complete digestion for appetite, bloating and nausea, and its rocana (appetising) action acts on appetite. Its kaphaghna (expectorant) action is applied to cold-damp respiratory conditions, cough and congested breath, with the entry tying the leaf's aroma to the upper channels it clears. Its hṛdya (cardiotonic tendency) action is noted in the tradition. Its aromatic leaf oil, dominated by cinnamaldehyde in one chemotype, is described as having antioxidant and glycaemic-modulation interest, with animal diabetic-rat data for leaf oil and cinnamaldehyde. Human clinical evidence is absent in the sources. The entry's Kapha-Vāta pacification is noted, with mild Pitta increase and caution in ulcers, hyperacidity and Pitta-dominant states.
+
 ### Contraindications
 
 - **Warming — mildly aggravates Pitta.** Caution in heat conditions, hyperacidity, ulcers, and Pitta-dominant states.

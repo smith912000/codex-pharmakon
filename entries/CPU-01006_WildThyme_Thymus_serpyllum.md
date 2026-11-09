@@ -73,6 +73,10 @@ Hot and dry in the third degree. Qualities: incisive/thinning (cuts thick phlegm
 
 ---
 
+### Functional–Anatomical Correlate
+
+Wild thyme's traditional organs are the chest, the stomach and gut, the bowel as a site of worms, and the surface wound. Dioscorides gives it in drink to move menses and urine, ease gripings, assist the chest and expel intestinal worms, and applies the bruised herb to bites and inflammations. Avicenna's Unani frame treats it as a hot, dry cleanser that cuts and expels thick phlegm from the chest, warms a cold stomach and dispels wind. The entry maps these organs onto its essential oil. Thymol and carvacrol act as membrane-active antimicrobials against respiratory and other pathogens, and carvacrol relaxes airway smooth muscle in a related oil, giving an antispasmodic action in the gut. The entry grades the antimicrobial claim as strong for phenol-rich chemotypes, and the expectorant and antispasmodic claims as good mechanistically but indirect for this species. Carminative and vermifuge uses are judged under-evidenced in humans. A water infusion extracts mainly the rosmarinic-acid and flavonoid fraction rather than the phenols.
+
 ### Contraindications
 
 - **Thymol/carvacrol mucosal irritation:** the essential oil and strong preparations irritate skin and mucous membranes; never apply the oil neat, and avoid high-dose internal oil. Overdose of thymol can cause nausea, gastric irritation, and (in extremes) systemic toxicity.

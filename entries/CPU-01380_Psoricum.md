@@ -58,6 +58,10 @@ No clinical studies were retrieved for this entry. [USER: verify] General facts 
 
 ---
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives no action of its own for psoricum. Its only functional statement is that the product is 'good for whatever calcitis is' and that maturing makes it 'sharper'. By reference, the chalcitis chapter it points to names the eyes, the mouth and growths as sites, but the entry does not carry those over as psoricum's own claims. No hot, cold, moist or dry quality is printed for psoricum, and the Greek (DMM) frame supplies no humoral, doshic or qi term. Its second ingredient, cadmia, is described elsewhere in the book as binding and drying, and that description belongs to cadmia, not to this preparation. The Greek frame is therapeutic only and carries no subtle-body system or cultivation status. No organ, tissue or system is mapped directly for psoricum from the chapter itself, and the entry states nothing further about where it acts.
+
 ### Contraindications
 
 - **Toxicity:** copper, zinc and other metal compounds in the ingredients are irritant and poisonous if swallowed.

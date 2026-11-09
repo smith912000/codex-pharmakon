@@ -72,6 +72,10 @@ In applied Kenetica, quince-seed mucilage is a gentle recovery/wind-down aid for
 **Practitioner's note.** A cultivator does one plain thing with quince seed: cold-soaks the whole (never ground) seeds to lay their cooling mucilage over a dry, irritated throat or gut at the wind-down of an over-heated phase. That is a soothing, membrane-protective act, not a vitality practice. Of the six tag-line traditions only DMM and CM are genuinely attested — and CM's cardiac/*mufarrih* interest is for the fruit, not this seed; EP, AT, SBJ and SS read as mis-tags.
 
 *[4 paragraph(s) removed 2026-07-18 — tag withdrawn per attestation ruling; see spine notes.]*
+### Functional–Anatomical Correlate
+
+Per the entry, quince seed acts on irritated mucous membranes. In the Unani frame the soaked seed yields a cool, moist demulcent mucilage (lu'ab bihidana) used for dry cough, hoarseness and a sore or inflamed throat, and for a dry, irritated gut as a gentle lubricant laxative. The entry describes the action as enveloping: a film over inflamed surface that quiets irritation rather than driving it out. The fruit is different, being cool and dry, astringent, a stomachic and, in Unani, a cardiac tonic. Its clinical signal is stomach-directed: small RCTs of quince syrup or concentrate reported reduced nausea in pregnancy and improved GERD symptoms in pregnant women and in children. The entry is explicit that these trials used fruit, not seed mucilage, so organ claims for the seed rest on traditional Unani use. The seed's cyanogenic kernel is a safety limit, so only whole seeds are soaked. The mucilage may also slow absorption of other oral drugs.
+
 ### Contraindications
 
 - **Cyanogenic seed kernels** — the seed's inner kernel, like other Rosaceae kernels (apple pip, bitter almond), contains cyanogenic glycosides. Prepare mucilage from **whole, un-ground** seeds only; do not crush, chew or make a flour of the kernels. Traditional cold-soaking extracts only the harmless outer mucilage.

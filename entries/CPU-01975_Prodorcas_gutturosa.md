@@ -47,6 +47,10 @@ General, well-established facts only. Diarrhoea can cause dehydration and loss o
 
 **Practitioner's note.** Nothing here supports cultivation use. The horn is one line in a list of horn medicines, with a single action, in a section that Clark says is little used today. A cultivator has nothing to take from this entry; the honest practice is abstention.
 
+### Functional–Anatomical Correlate
+
+The Tibetan rGyud-bzhi (FMT) gives the horn of dgo.wa, the gazelle that Clark prints with the Latin Prodorcas gutturosa, one stated action: it halts diarrhoea, together with the horn of Hodgson's antelope. Clark's commentary layer adds that it dries pus (accumulations) in the abdomen, which maps to the abdominal cavity and purulent collections there. Diarrhoea maps to the intestines and bowel, and the horn's action to the gut as a whole. The Men-Tsee-Khang version says horns of antelopes and gazelles cure diarrhoea, with no Latin name. No taste, potency, post-digestive taste or humour is given for this horn, so none can be assigned. The Tibetan frame is that medicine supports practice without reaching the root of disease, but the entry gives no bcud len (essence extraction) use and no cultivation status. Modern anatomy names the same bowel and abdominal organs. The animal's identity remains open, because the Latin name belongs to a different species from the Tibetan gazelle.
+
 ### Contraindications
 
 - **Diarrhoea:** needs fluid replacement and, if severe, bloody or prolonged, or in infants and the frail, medical care; do not delay it for an animal remedy.

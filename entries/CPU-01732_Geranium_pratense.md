@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a drug for fevers and lung disorders in the Tibetan texts, with no preparation and no dose, and the Tibetan name is not securely a *Geranium*. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+In the Tibetan rGyud-bzhi texts as this entry reads them, the drug acts mainly on the lungs. Clark's root-text sentence says it cures infectious fevers, lung fevers and channel fevers, and Clark's chapter 21 lists place it among medicines for infectious fevers and for lung disorders. Clark's commentary adds balanced hot and cold power, hot and sweet tastes, and that it reduces swellings, but the entry does not say where the swellings lie. Men-Tsee-Khang's running text says the name cures contagious diseases and hot disorders of the lungs and blood vessels, so the blood vessels appear as a second site in that text only. The channel fevers are a Tibetan category, not a named anatomical channel. In modern terms the entry names the respiratory system (lungs) and the circulatory system (blood vessels) and no other organ or tissue. The entry does not say which plant part acts on these structures.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Fevers and lung disorders need medical assessment, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

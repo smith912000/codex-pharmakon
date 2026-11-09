@@ -54,6 +54,10 @@ The Ebers material is indication-organised, and the lines read give the plant no
 
 **Practitioner's note.** Nothing here makes watermelon a cultivation substance. The fruit is an ordinary food, and the papyrus's plaster is a historical record. A cultivator has no practice to draw from it.
 
+### Functional–Anatomical Correlate
+
+In Bryan's English rendering of the Ebers Papyrus, Watermelon appears only as an ingredient in external plasters and poultices, never alone. The recorded local targets are the digestive region in an indigestion plaster (the papyrus's chapter on the digestive system), hardenings in the abdomen, swollen glands of the arm, which the text places in its heart and circulatory section, and a growth with pustules, which the remedy is said to free and drive out of matter. The skin, the abdomen and the glands of the arm are therefore the stated sites of application. No internal use, no part of the plant (fruit, seed or rind) and no physiological action of the fruit itself is given in the lines read. Several co-ingredients are dung, fat and raw flesh, which the entry flags as infection risks on broken skin. The Egyptian disease names are not translated into modern diagnoses, and the Egyptian word for the plant is not printed, so the identification as Citrullus lanatus is ours, at low to medium confidence.
+
 ### Contraindications
 
 - **Identity.** Bryan's "Watermelon" is an English rendering; the species is our guess. Do not treat any plaster in this entry as a recipe.

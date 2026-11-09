@@ -42,6 +42,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** A very bitter, astringent root used in the mouth, the stomach and liver, women's bleeding and chronic childhood fevers. The identity is open and nothing supports a cultivation use.
 
+### Functional–Anatomical Correlate
+
+The Canon describes shuka'a as very bitter and more astringent than badhawarad, especially in its bark and root, and its actions fall on the mouth, the throat, the stomach and liver, women's bleeding, the anus and childhood fevers. A decoction used as a mouthwash is said to help toothache and to help swelling of the uvula, which maps to the oral cavity and the uvula of the throat. Its benefit to the stomach and liver is stated without detail. A decoction of the root is said to stop women's bleeding, which maps to the uterus. As a pessary and a sitz bath it is said to help swellings of the anus, which maps to the anal region. It is said to be useful for chronic fevers, especially in children. The Canon gives no temperament, so no hot-cold degree is mapped. The plant is not identified, and the entry is historical only.
+
 ### Contraindications
 
 The text states no contraindication. Do not give to children or in pregnancy on the strength of this entry; the plant is not identified. [USER: verify]

@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Greek name
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a bowel-moving plant with no stated quantity. The useful lesson is Dioscorides' habit of telling a plant by its likeness to a sister plant, and the abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The entry's Dioscorides claims (DMM, chapter 4-192) act on the bowels and the bile. The stalk and the leaves, taken as a decoction or eaten as vegetables, are said to be able to move the bowels, which names the intestine as the site. The water from their boiling is said to expel bile and watery stuff, so bile and fluid excretion are the functions named. No organ beyond the bowel is named, and the chapter gives no humour, dosha, qi, temperament or taste. It calls the plant the wild male linozostis and compares its leaves to those of the plant of 4-191, but that comparison is a likeness of form and not a body action. Modern anatomy terms for the named sites are the intestine and the excretion of bile and fluid. The entry adds that the plant is generally regarded as poisonous when eaten, which is a general statement and not a finding about this chapter's plant. The identity is a translators' suggestion, and the Greek name has been applied to more than one plant, so no mapping is verified.
+
 ### Contraindications
 
 Dioscorides gives the plant as a bowel-mover that "expels bile and watery stuff", so it should not be self-treated, and no safety information for pregnancy was read. The plant is generally regarded as poisonous when eaten, whatever the chapter says of vegetables. The identification rests on a translators' suggestion with other readings of the Greek name, so no wild plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

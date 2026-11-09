@@ -46,6 +46,10 @@ Tibetan: the line prints an action only ("unites cracks [and fractures] in bones
 
 **Practitioner's note.** Nothing. A cultivator does not use marmot liver. The text records it against bone fracture, and the Codex keeps the record without carrying it into practice.
 
+### Functional–Anatomical Correlate
+
+Little to map: the Tibetan line states one action for the marmot liver, that it 'unites cracks [and fractures] in bones'. Bone is the only tissue named. The brackets are Clark's insertions, from the commentary, so the fracture reading carries that caveat. Marmot is listed among burrowing animals in the classification of meats, and Clark says the meats of that section are sweet-tasting with a sweet post-digestive taste. The entry treats that as a rule for the flesh and not as a property of the liver. The marmot's flesh appears in diets for wind disorders, and the entry does not carry those statements over to the liver. The line gives no taste, potency, humour, qi or essence-extraction role, and no preparation or dose.
+
 ### Contraindications
 
 Marmots can carry plague, tularaemia, brucellosis and other zoonoses; skinning, handling or eating wild marmot meat or offal has caused outbreaks of plague in Central Asia and the Himalayan region. Local health authorities advise against it. The animals are protected or regulated in some jurisdictions. Do not treat a suspected fracture with food or folk remedies; seek medical care. This entry gives no medical advice.

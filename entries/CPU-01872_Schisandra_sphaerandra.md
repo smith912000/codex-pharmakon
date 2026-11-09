@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** A cultivator does nothing with this drug on the strength of the texts. It is a sour medicine that stops diarrhoea, in a list with bael, pine root and acorn, and the one rule about sour things in the rejuvenation chapter is to avoid them during the course. Nothing here supports treating a Schisandra berry as a rejuvenative on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts give this drug one action: it halts diarrhoea of both hot and cold kinds (Clark lines 996 and 1222; Men-Tsee-Khang lines 3427 and 3644). In the tradition's terms the bowel is the organ affected and diarrhoea is the condition. Its taste is sour, the rasa group the texts place beside curd, whey and pomegranate (Clark line 766; Men-Tsee-Khang line 3205), and Clark's commentary adds a sweet taste as well. The texts name no organ, tissue or humour beyond the bowel and the sour group, and they assign no potency or post-digestive taste. The commentary's account of a large, hard, grey-barked trunk and red berries describes the plant's form, not a body system. Whether the drug is this Schisandra species, or any species, is open, so this mapping is the tradition's record only and rests on one text read in two translations. Modern anatomy is used only to name the bowel where diarrhoea occurs.
+
 ### Contraindications
 
 The sources read print no warning for the drug. The identity is open, so no plant should be gathered or taken on the strength of this entry. A medicine that halts diarrhoea is not a treatment for infection or dehydration, and the texts' own regimen puts it under a physician. No conservation information and no safety information for pregnancy was read. [USER: verify]

@@ -52,6 +52,10 @@ General, well-established facts only. The identity is open, so no pharmacology c
 
 **Practitioner's note.** An unidentified name in a group list. Nothing supports cultivation use, and without an identification nothing can be gathered or used. A cultivator reads it as a name in a record.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives only group-level virtues, from the Surasa'di group in Sushruta chapter 38. The group is said to act as a vermifuge and an aseptic agent, to subdue deranged Kapha, and to help in catarrh, non-relish for food, asthma and cough. Worm infestation is named without an organ, so the text does not state an intestinal site. Non-relish for food points to appetite, and catarrh, asthma and cough point to the airways and chest, with Kapha named as the humour acted upon. The entry gives no rasa, virya or vipaka for Fainjjhaka itself, no part used and no preparation, and it says the plant is unidentified. The name is not assumed to be Phanji, which is a separate printed name. The group's virtue is a classification by shared use and is not a statement about this drug alone. The Codex gives no modern diagnosis, recommends no herb, and notes that these conditions need proper medical care.
+
 ### Contraindications
 
 - **Identity.** The plant is unidentified; Phanji is a separate name and is not assumed to be the same drug. Do not substitute any herb for it.

@@ -38,6 +38,10 @@ Feldspar is chemically inert and insoluble, so it is not absorbed. It is an indu
 
 **Practitioner's note.** A middle-grade drug in the Chinese scheme: not a "nourish life" drug for long use, but a drug for controlling disease, here a cold stone against fever. Feldspar is an inert silicate, so nothing in the sources supports taking it. For a cultivator the entry is a record of how the Classic ranked a stone Yang calls feldspar. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Divine Farmer's Classic (SBJ) places the stone in the limbs, the urinary tract, the blood vessels, the eyes and the intestines. It treats generalized fever and reversal cold of the limbs (the extremities), disinhibits urination (bladder and urinary outflow), and frees the flow of the blood vessels. For the eyes it brightens sight and removes the film called screen that causes blindness, an opacity mapped to the cornea and lens. It removes the three worms, which are intestinal parasites, and kills gu toxins, a category the Chinese scheme ties to parasitic and wasting disorders of the gut. Prolonged taking is said to free one from hunger, which maps to the stomach and appetite. The entry names no humoral or doshic term, and its grade is acrid and cold. In modern anatomy the claimed sites are the extremities and peripheral circulation, the bladder, the blood vessels, the cornea and lens, the intestinal tract and the stomach.
+
 ### Contraindications
 
 Powdered stone sold as a remedy may be a different mineral or may be contaminated; the spine's own doubt about the identification applies. Mineral medicines are unstandardised and their sale is regulated in many places. Silicate dust is a lung irritant. A cold stone given against fever is not a substitute for medical assessment of fever. [USER: verify] the legal and conservation status of collecting these minerals; the sources retrieved do not address it.

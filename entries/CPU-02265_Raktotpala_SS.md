@@ -52,6 +52,10 @@ General, well-established facts only. Water-lilies are aquatic plants of the gen
 
 **Practitioner's note.** A red water-lily named once in a group of cooling drugs for thirst, burning and Pitta. The sources give it no cultivation role, and a cultivator has nothing to do with it beyond knowing it is there.
 
+### Functional–Anatomical Correlate
+
+The entry gives no action for Raktotpala alone. As a member of the Utpaladi group, the Sushruta text says these drugs allay thirst, correct deranged Pitta and vitiated blood, and assuage the burning sensation of the body. It names vomiting, heart disease (Hridroga, angina pectoris), syncope (fainting), haemoptysis (bleeding from the lungs or airway) and poisoning. In a separate leaf passage, the group's leaves are cooling and astringent and are beneficial in dysentery and haemoptysis. Mapped to the body, the entry points to the blood, the heart, the fainting response, the lungs and airway, and the intestine, with Pitta as the Ayurvedic humour. The sources give Raktotpala no dosha, rasa, virya or vipaka, and the Codex imports none. The flower passage does not name it, so these organ references come from the group as a whole.
+
 ### Contraindications
 
 - **Identity.** The species is our suggestion from the name, at low to medium confidence; it is not in the text. [USER: verify]

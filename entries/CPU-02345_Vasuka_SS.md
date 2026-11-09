@@ -55,6 +55,10 @@ General, well-established facts only. Because Vasuka has no secure botanical ide
 
 **Practitioner's note.** Vasuka is a name in a list. The tradition's text gives the drug a place among therapeutic groups and little more, and nothing in the record supports a cultivation use. A cultivator can learn from it only how Sushruta organises drugs into groups by action, and that some names in that classification are no longer certainly identified. Nobody should try to find a plant to match the name.
 
+### Functional–Anatomical Correlate
+
+Little to map: Vasuka is named as a member of the Varuna'di group, said to reduce Kapham and fat and to help headache, Gulma and internal abscesses, and of the Viratarva'di group, said to subdue Vata disorders and to help Ashmari, Sharkara, Mutrakrichhra, Mutraghata and urinary troubles. Those are group-level claims pointing to the head, the abdomen and the urinary tract. Sutrasthana ch.39 lists Vasuka among drugs that soothe deranged Vayu. Chikitsa ch.7 includes it in a ghee for Vataja Asmari. Sutrasthana ch.46 names an Asava (a fermented infusion) of Vasuka to be taken after pippali and similar pungent foods, but the text gives no organ for that use and no recipe. No part of the plant, no constituent and no effect on a specific organ of the drug itself is stated.
+
 ### Contraindications
 
 - **Identity.** The drug is not securely identified; a wrong match could be harmful. Do not substitute any plant for it. [USER: verify]

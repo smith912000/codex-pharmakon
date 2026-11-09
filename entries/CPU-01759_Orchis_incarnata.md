@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** The Tibetan lines give a cultivator nothing to do with this plant beyond what a physician would: it is a tonic and aphrodisiac drug, with no preparation and no dose, and the species is uncertain between two genera. Clark's introduction links the salep orchid root to essence-extraction compounds, but as the translator's remark and not as a prescription. Wild orchid tubers should not be gathered on the strength of it. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts place this drug's action in the general strength of the body and in seminal fluid. Clark 1995 says that dwang.po.lag.pa is 'tonic, aphrodisiac', and his bracketed commentary adds that, for the types with three or more tubers, it 'collect[s] poison'. Men-Tsee-Khang 2011, under the name Wangpo lagpa, says that it 'develops physical strength and increases seminal fluid'. The entry records these as the texts' claims, in the texts' terms, without translating tonic or aphrodisiac into modern organ systems or diagnoses. Clark's commentary describes the root as resembling a hand with five-fingered tubers, which is description and not action. Clark's preface links salep orchid root to fortifying, rejuvenating and essence-extraction practice, but the entry records that as the translator's framing, with no root-text line behind it for this drug. No taste, power or post-digestive taste is printed for the drug in the lines read, and the species is uncertain between two genera, so the claims attach to the Tibetan name.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The identity is uncertain between two binomials, so no plant should be gathered or used on the strength of this entry. It is a general fact that all wild orchids are covered by CITES (Appendix II or I), which regulates trade, and that gathering wild orchid tubers can harm populations; the legal and conservation status of the species was not checked in the sources. [USER: verify] No safety information for pregnancy was read. [USER: verify]

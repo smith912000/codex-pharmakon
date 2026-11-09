@@ -48,6 +48,10 @@ General, well-established facts only. Nothing can be said of an unidentified pla
 
 **Practitioner's note.** A name in two lists. Nothing here can be cultivated, because the plant is not identified.
 
+### Functional–Anatomical Correlate
+
+Little to map: Kulahala is named in the Surasadi group (Sutra ch. 38), where the group is said to act as a vermifuge and aseptic agent, to subdue deranged Kapham, and to benefit catarrh, non-relish for food, asthma and cough. These conditions map to the respiratory tract and appetite in the text's terms, but they are the group's actions, not Kulahala's. In the potherb list (ch. 46) it appears among spices and herbs, which the class is described as pungent, relishing and heat-making, subduing Vayu and Kapham, and used for seasoning food. Kulahala is not described singly in the passages read, and no organ, tissue, quality or part of the plant is stated for it. Its neighbours in the list are sweet-smelling herbs, but the text does not say what Kulahala itself acts on.
+
 ### Contraindications
 
 - **Identity.** The plant is not identified. Nothing may be gathered, bought or used on the strength of this entry. [USER: verify]

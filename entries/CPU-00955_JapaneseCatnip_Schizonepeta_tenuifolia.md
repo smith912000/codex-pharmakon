@@ -78,6 +78,10 @@ Chinese materia medica: **acrid (pungent), slightly warm; Lung and Liver channel
 
 **Practitioner's note.** Nothing. A middle-class, short-course drug for wind and skin complaints; the classic gives no basis for long-term use.
 
+### Functional–Anatomical Correlate
+
+Jing Jie is mapped by the entry chiefly onto the skin, which it calls the organ of expression. Its channels are the Lung and Liver, and its acrid-warm action is said to release the exterior (jiě biǎo), venting incompletely expressed rashes and relieving itch in measles, urticaria and wind-rash, with aversion to cold, fever and headache as the early exterior pattern. The charred form, Jing Jie Tan, is re-categorised toward the blood, stopping epistaxis, uterine bleeding and blood in the stool. The entry's modern correlates are preclinical: anti-inflammatory activity in macrophage assays, and reduced scratching, erythema, IgE, mast-cell and eosinophil infiltration and Th2 cytokines in a mouse atopic-dermatitis model, plus reduced wrinkling and collagen loss in UVB-irradiated hairless mice. The release-the-exterior claim for colds and the haemostatic claim are recorded as traditional only. The liver appears as a safety target: pulegone undergoes CYP-mediated bioactivation to hepatotoxic metabolites, a caution for the concentrated oil.
+
 ### Contraindications
 
 - **Pregnancy — caution/avoid.** The oil contains **pulegone**, an established abortifacient-associated and hepatotoxic monoterpene in the pennyroyal literature; concentrated oil is contraindicated in pregnancy and the herb should be used in pregnancy only under qualified supervision.

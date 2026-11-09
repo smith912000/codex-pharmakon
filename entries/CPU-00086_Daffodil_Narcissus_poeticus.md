@@ -66,6 +66,10 @@ Codex policy: mechanism stated securely; named citations to be supplied and veri
 
 **Practitioner's note.** The practice Dioscorides gives is selection by habitat and smell, and caution: the bulb is an emetic and the oil can bring on headache. Nothing supports a regimen of cultivation or long-term use.
 
+### Functional–Anatomical Correlate
+
+Per the entry, daffodil's historical targets are the stomach and bowel, through emetic and purgative action, and the skin and sinew, where the mashed bulb is applied as a drawing poultice to wounds, burns, sprains, joint pains and ulcers. The Avicennan entry adds the brain: the oil is said to open obstructions of the brain and help moist, melancholic headache. It also names the chest and diaphragm (hard, cold swellings), the womb and bladder, the hair and skin (alopecia, freckles, vitiligo), and the joints and sinew. The modern link is the alkaloid galantamine, an acetylcholinesterase inhibitor acting on cholinergic signalling in the brain, used as a licensed Alzheimer's drug. In the bulb itself, lycorine and related alkaloids are the toxic principle, and calcium oxalate raphides cause irritation of skin and mouth. Internal use and pregnancy are contraindicated.
+
 ### Contraindications
 
 - **Internal use — avoid.** Toxic emetic; serious poisoning risk; no casual use.

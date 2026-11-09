@@ -64,6 +64,10 @@ Evidence grade: **toxicological, not therapeutic.** There is no clinical evidenc
 
 **Practitioner's note.** Nothing: a lethal-toxin seed with no cultivation role in any source read here, and not a substance to take.
 
+### Functional–Anatomical Correlate
+
+The entry's body mapping is toxicological, not therapeutic. Abrin, the seed's type-II ribosome-inactivating protein, is described as halting protein synthesis by inactivating the 60S ribosomal subunit, which kills cells. The entry says poisoning produces severe gastroenteritis, haemorrhage and multi-organ failure, with no specific antidote, so the gut is among the effects named. The Kenetica entry assigns no training-phase use and no energetic action. Ayurveda classes Gunja as a visha (poison) drug requiring purification (sodhana), with the root and leaf classically favoured and the seed reserved for external use. The Tibetan attestation is described as documentary only, and the entry notes the plant is not a mainstream TCM staple. Its contraindications state absolute avoidance of internal use of the seed, with particular care around chewed or drilled beads and children. No dose is given. The entry directs anyone suspecting exposure to emergency medical care and a poison control centre.
+
 ### Contraindications
 
 - **Absolute contraindication to internal self-use of the seed.** Abrin poisoning causes severe gastroenteritis, haemorrhage, multi-organ failure and death; there is no specific antidote — treatment is supportive/decontamination only. A single well-chewed seed can be lethal.

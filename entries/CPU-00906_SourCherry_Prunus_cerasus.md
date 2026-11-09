@@ -76,6 +76,10 @@ Doses in the trials cluster around a **daily concentrate or ~500 mg extract for 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps sour cherry's action onto the blood, the joints and the sleep cycle. In humoral and TCM terms it is cool, mildly astringent and descending: a blood-cooling, fluid-generating fruit for hot blood, hot and inflamed joints, and rest. Its anthocyanins are described as anti-inflammatory polyphenols that act on joint inflammation, with fewer gout flares and lower CRP in trials, and on muscle-damage markers such as creatine kinase and protein carbonyls after resistance exercise. Its melatonin content is linked to sleep, with raised urinary melatonin and modest sleep improvements reported. The popular claim that it purges urate from the blood is explicitly falsified: controlled trials found no effect on serum or urine urate. Concentrated forms can cause mild GI upset, and whole juice carries a sugar load relevant to glycaemia. The kernels are cyanogenic and sit outside this system.
+
 ### Contraindications
 
 - ⚠️ **Kernels/seeds are cyanogenic.** The stones contain **amygdalin**, which releases hydrogen cyanide on hydrolysis. Never crush, grind, or consume the kernels; use the flesh/juice only. This is the single most important safety point for the whole *Prunus* genus.

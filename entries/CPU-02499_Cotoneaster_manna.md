@@ -41,6 +41,10 @@ Sugar-rich manna exudates act as laxatives by osmosis; this is a general, well-e
 
 **Practitioner's note.** Nothing to cultivate here. It is a purgative recorded by comparison with a better-known purgative, and purging is the opposite of the conservation that the Unani cultivation idea values.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the manna is a dew (ṭall) falling on the khilāf tree and on tragacanth (kathīrāʾ) at Herat. Its one recorded action is cleansing (jālin), and its one organ reference is the excretory organs (aʿḍāʾ al-nafḍ), where Avicenna says it is near tarunjabīn in its purging and its actions, and indeed stronger than it. The entry does not say which humour it draws, for what illness, or in what vehicle, and it gives no temperament degree. Tarunjabīn is a separate drug and is not described here. A separate line of the Canon, a list of gentle purgatives at Arabic text line 7362, names shīrkhishk alongside preserved violet, tamarind and tarunjabīn as things that help nature incline a humour to purging. The Cotoneaster identification is not named in the Canon and is flagged in the entry as unverified. No preparation or dose is given.
+
 ### Contraindications
 
 Historical record only. The one action reported is purging, and the text calls it stronger than *tarunjabīn*, so heavy or repeated use would be expected to cause diarrhoea and fluid loss. No safety statement is given in the entry. Do not treat any use here as medical advice.

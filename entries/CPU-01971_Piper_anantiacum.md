@@ -47,6 +47,10 @@ General, well-established facts only. Pepper-family plants are widely used as sp
 
 **Practitioner's note.** A name on a list, and one that cannot be resolved to a plant. There is nothing for a cultivator to take from this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the appendix gives only the Latin gloss 'Piper Anantiacum', with no description, part used, preparation or use. The entry records no species identification, and says the name matches no species it could find. It states that the genus Piper is pungent and aromatic and that many species contain piperine-type alkaloids, but that because the species is unknown nothing about this plant can be said. In the sources read, no rasa, virya, vipaka, rasayana, vajikarana, ojas or shodhana is attributed to it, and the entry states that no safe-use statement exists in the sources retrieved. Pregnancy, lactation and children are not addressed. The entry names no organ, body system or tissue for this plant.
+
 ### Contraindications
 
 - **No safe-use statement exists in the sources retrieved.** Do not take any plant on the strength of this entry.

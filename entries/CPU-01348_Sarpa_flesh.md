@@ -40,6 +40,10 @@ General facts only. Reptile flesh must be cooked through and handled hygienicall
 
 **Practitioner's note.** Nothing here is a practice. In Sushruta this is one of the hole-dwelling animals, with a short list of stated uses and an unspecified species. A person who does not eat snakes has nothing to adopt, and one who does should treat the text as history and not as a protocol.
 
+### Functional–Anatomical Correlate
+
+The Sarpa is named in the hole-dwelling (Vileshaya) group and then singly. The group text says its flesh increases the consistency of stool and urine, subdues Vayu, generates Pittam and Kapham, and is demulcent and beneficial in cough, dyspnoea and cachexia. Taken singly, the Sarpa is curative in piles and Vayu derangements, a vermifuge, anti-toxic, invigorating to the eyesight, and appetising, and it improves the intellect. That maps onto the bowel and anus (piles, stool), the intestines (worms), the lungs and airways (cough, dyspnoea), the nutritional state (cachexia), the eyes, the appetite and digestion, and the mind. Vayu, Pittam and Kapham are the governing humours. The entry names no channel or organ beyond these, and no modern correlate beyond the general claims.
+
 ### Contraindications
 
 - **Identity:** the snake is unspecified; do not substitute any species on this basis. [USER: verify]

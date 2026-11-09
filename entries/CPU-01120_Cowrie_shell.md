@@ -44,6 +44,10 @@ General, well-established facts only. Calcium carbonate is the main component of
 
 **Practitioner's note.** The cowrie gives a cultivator nothing to do. The Tibetan text records the shell as a bone-class animal medicine for bleeding and pus, and its modern translators say that such products have been largely replaced by herbal substances because of the Buddhist rule against harming beings. The practical reading is abstention: for the complaints named, the tradition's own present practice is not to use the shell. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+In the Tibetan Explanatory Tantra (FMT), the cowrie is filed under bone and stops bleeding and dries pus (Clark; Men-Tsee-Khang also gives chhuser, left untranslated). Clark's bracketed commentary adds oedema fluid and lymph accumulations, dispersing tumours and eye diseases. Avicenna's Canon (CM) gives a drawing action, drawing out al-sala and thorns, and says the powdered shell removes deep-set and hanging warts, a skin mapping. The Shennong bencao jing (SBJ) files the shell as a lower-grade drug, salty and neutral, that governs eye films or opacities (muyi), ghost infusion and worm poison, abdominal pain, bleeding below, and the five forms of strangury, and frees the water passages. Mapped systems: the blood and its bleeding, pus and soft tissue, lymph and tumours, the eyes, the skin, the lower abdomen, and the water passages (the urinary tract, in modern terms). No temperature is printed for the shell.
+
 ### Contraindications
 
 - **Contamination:** shell from unknown sources, or powdered shell not prepared to a recognised standard, can carry heavy metals and microbes; the Codex does not recommend taking shell material.

@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice. It is an external, drying application for the scalp, and the plant is not securely identified. The abstentive answer is the correct one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter states that cachry is warming and extraordinarily drying, that it is good mixed with sebaceous treatments, and that it is sprinkled on the head and wiped off after three days for rheumatic eyes. The body sites it names are the head and the eyes, reached by external application to the scalp. No organ, tissue or system beyond these is named, and no humoral, doshic or qi term appears. The chapter gives no description of the plant. The neighbouring chapter 3-87 says the seed of libanotis is called cachris and is sharp and harsh to the throat; the entry records linking that to this chapter as an inference only. The translators' identity with Cachrys libanotis is a suggestion, and the chapter names just the one warming and drying quality.
+
 ### Contraindications
 
 No contraindication is printed in 3-88. In 3-87 the seed is called "sharp and harsh to the throat". As a general caution, a "warming and extraordinarily drying" material applied to the scalp near the eyes may irritate, and a plant identified only from a list of suggested binomials should not be handled or used as a remedy. Do not use in pregnancy.

@@ -45,6 +45,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is an astringent remedy for bowel, bleeding and discharge complaints, with no amounts, so it is history and not a practice. What it teaches is how Dioscorides ranks a drug by comparison with another one, its strength set against acacia's.
 
+### Functional–Anatomical Correlate
+
+Dioscorides’ chapter 1-127 places this astringent parasite’s action in the bowels, the blood-spitting passages and women’s reproductive discharges. It is said to be good for colic (intestinal spasm), for dysentery (the large bowel), for blood-spitting (the respiratory tract, modern haemoptysis) and for women’s excessive discharges (the uterine and vaginal tract). Its strength is compared with acacia, but Dioscorides calls it “more astringent and drying”, qualities he names rather than organs. It is taken as a drink or infused. The Unani entry for hiyufistidas in Avicenna’s Canon, which the Codex links to this plant on the Greek name alone, gives a temperament only: its sap is “cold and astringent”, tending “to dryness”. That entry names no organ, degree or dose. Both traditions give claims about a plant the translators suggested, so this organ map is not verified, and neither assigns a cultivation status.
+
 ### Contraindications
 
 Colic, dysentery, blood-spitting and heavy discharges are conditions that need medical care, and a home preparation must not replace it. A strongly astringent drug is not harmless merely because it is old, and no safety information was read. The identification rests on a translators' suggestion, so no wild plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

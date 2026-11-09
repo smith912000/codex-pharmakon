@@ -141,6 +141,10 @@ Tahini (sesame paste) is an extremely convenient whole-food protein-mineral-fat 
 
 ---
 
+### Functional–Anatomical Correlate
+
+Sesame's entry maps its action onto the Liver and Kidney, the bones, hair, skin and joints, the reproductive tissues and the large intestine. In TCM terms the black seed nourishes Liver and Kidney Yin and Jing, is said to blacken the hair, and moistens the intestines for dry, hard stools. In Ayurveda it is classed among rasayana and brimhana (bulk-building) substances, with Keshya for hair, Twachya for skin, Dantya for teeth, Balya for strength, and Shukrajanana for reproductive tissue, and Vata is pacified. The entry's modern anatomy covers the bone and mineral content (calcium, magnesium, zinc), the skin and cell membranes, where sesamin and sesamol are said to protect lipids from oxidation, and the intestinal mucosa, which the oil lubricates. Oil pulling is recorded as acting on oral bacteria, plaque and the gums. The entry records the ritual use of sesame separately from its physiological action.
+
 ### Contraindications
 
 - **Sesame allergy** — one of the top 9 food allergens (US FDA 2023); IgE-mediated; anaphylaxis risk; prevalence ~0.1–0.2% but reactions can be severe; screen before therapeutic protocols

@@ -40,6 +40,10 @@ General facts only. Poultry must be cooked through and handled hygienically: it 
 
 **Practitioner's note.** Nothing here is a practice. In Sushruta the cock and fowl are a food with stated qualities, and the passages that bear on a cultivator are the cautions: heavy and heating, so not an easy meal in fever, and not combined with curd and certain pot-herbs. A person who eats meat may read the classification as the tradition's own description of the food; a person who does not has nothing to adopt.
 
+### Functional–Anatomical Correlate
+
+Sushruta places the cock and fowl in the Vishkira group, which is described as light and cooling, and the individual statements name the organs. The wild cock's flesh is demulcent, heat-making and spermatopoietic; it is said to act as a diaphoretic, meaning it promotes sweating through the skin, and to impart tone to the voice and the organism. It subdues the deranged Vayu and is a constructive tonic. The domesticated cock or fowl has similar properties except that it is heavy, and it is said to be curative in rheumatism, which maps to the joints and connective tissue, in consumption, which maps to the lungs and wasting, in vomiting, which maps to the stomach, and in chronic Vishama-Jvara fever. The Uttaratantra repeats heavy and heat-making for the Kukkuta among birds some authorities avoid in fever. The text gives no mechanism, and the cooling of the group and the heat of the cock are both recorded as printed without reconciliation.
+
 ### Contraindications
 
 - **Food safety:** raw or undercooked poultry carries *Salmonella* and *Campylobacter*; cook through and keep raw and cooked foods apart.

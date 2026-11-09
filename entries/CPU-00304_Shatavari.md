@@ -72,6 +72,10 @@ Shatavari is the primary Yin-restoration herb for the practitioner whose connect
 
 ---
 
+### Functional–Anatomical Correlate
+
+Shatavari's entry maps its action to connective tissue, the reproductive and hormonal system, the gut lining, the immune system and the nervous system. TCM terms classify it as Yin-Jing, entering the Kidney (Kidney Yin), Lung and Stomach channels to moisten fascia and tendons, cool empty heat and fill drying channels with fluid. Ayurveda classes it as rasāyana, balya, śukrala and an ojas-builder. Its mucilage soothes and rebuilds the gut lining, and its phytoestrogens are said to support oestrogen and progesterone balance, with oxytocin-mediated galactagogue action for milk. The entry also notes immunostimulant effects on macrophages, T cells and NK cells, nerve-growth-factor synthesis in neural tissue, and relaxation of uterine smooth muscle. Male uses are cerebrospinal and synovial fluid support. Contraindications are estrogen-dependent cancers, phlegm-damp excess, acute digestive congestion and kidney disease with fluid restriction.
+
 ### Contraindications
 
 - **Estrogen-dependent conditions** (estrogen receptor-positive cancers) — phytoestrogen activity warrants caution

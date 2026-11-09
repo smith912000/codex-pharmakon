@@ -65,6 +65,10 @@ Cool and unblocking; entering (per TCM) the Lung, Stomach and Liver channels; ac
 
 **Practitioner's note.** Nothing. The fibre is a bathing and external article and the Chinese drug a short-course channel opener; neither tradition read here assigns it a role in long-term practice.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Si Gua Luo, the dried fibro-vascular skeleton, is a cool, channel-opening drug that enters the Lung, Stomach and Liver channels in TCM. Its recognised action is to unblock the channels and collaterals and dispel wind, used for bi syndrome (wind-damp joint pain, stiffness and sinew ache), chest and costal pain, breast distension and blocked lactation. The entry separates the physical mesh from chemistry: the fibre is insoluble roughage, and any pharmacological effect would have to come from dissolved constituents, such as cucurbitacins and saponins, which are named only as genus-level constituents. The anatomical readings offered are vasculature, lymphatics, fascia or the jing-luo, and the entry says none of these is shown to be unblocked by the fibre. The skin data concern the stem sap, in vitro, on human fibroblasts (elastin and procollagen). No controlled human evidence was retrieved for the joint, chest, breast or lactation claims.
+
 ### Contraindications
 
 The **medicinal dried fibre** (Si Gua Luo) is low-risk at traditional doses. The main safety issue is with the **raw immature fruit and seeds**: like other Cucurbitaceae, *Luffa* can contain bitter **cucurbitacins**, which are toxic and gastro-irritant — intensely bitter fruit should **not** be eaten (bitterness signals high cucurbitacin content and potential toxicity; loofah seeds test distinctly bitter). Purgative/irritant effects are possible from bitter raw material. As a moving/dispersing remedy, use caution in **pregnancy** and in depletion/deficiency patterns. Seek professional diagnosis for joint disease, chest pain, or lactation problems rather than self-treating. **[USER: verify]** cucurbitacin toxicity thresholds and any documented allergen/RIP (luffin) sensitivities.

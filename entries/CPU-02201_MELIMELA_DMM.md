@@ -48,6 +48,10 @@ General, well-established facts only. Ripe apples are a common food. Sweet fruit
 
 **Practitioner's note.** A sweet apple that Dioscorides reports as loosening, vermifuge, hard on the stomach and heating. Nothing in the chapter supports any cultivation use, and a cultivator should treat the fruit as food and nothing more.
 
+### Functional–Anatomical Correlate
+
+Melimela is a sweet apple, and the chapter gives it actions on the belly alone. It softens the intestines and drives out intestinal creatures, which the translator glosses as worms. Against that, it is bad for the stomach and causes a burning heat. So the chapter maps the fruit to the intestines and the stomach, and to a quality of heat. It names no other organ, tissue or system, and it does not describe the tree or fruit. In the Dioscoridean frame there is no rasa, virya or humoral system, and none is imported here. A modern reader could name the intestines and stomach as the organs concerned, and the worms as intestinal parasites, but the text itself names only these two organs and their effects.
+
 ### Contraindications
 
 - **Stomach.** The text itself calls the fruit bad for the stomach; anyone with a weak stomach would do well to heed it.

@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this tree. It is a drug for fractures and bone fever in the Tibetan texts, with no preparation and no dose, and its Latin name is one of two that Clark offers. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts give stab.seng, which Clark pairs with Fraxinus rhynchophylla as his second Latin name, as uniting fractures and curing bone fevers (Clark, line 978). The Men-Tsee-Khang text says it joins fractured bone and cures hot disorders of the bone (line 3423). The organ and tissue named are bone. The Shennong bencao jing entry for 秦皮 (qinpi), which the entry reads as a separate record, names wind, cold and damp numbness, the removal of heat, green-blue and white films in the eye, and a lightening of the body with hair that does not turn white. Its claims therefore touch the joints and the eye as well. The Tibetan entry prints no taste, power or post-digestive taste, and the name does not appear in the chapter 19 taste lists read. The Shennong paragraph rests on the Chinese name alone and does not establish the Tibetan drug's identity. The botanical identity is open between Eucommia and Fraxinus, so the mapping is each text's own claim. No clinical study was retrieved.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The identity is open between two unrelated trees, no preparation or dose is given, and a fracture needs medical care; no plant or bark should be gathered or used on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

@@ -43,6 +43,10 @@ General, well-established facts only. *Mimosa* species are shrubs of the pea fam
 
 **Practitioner's note.** A cultivator does nothing with this. It is a Latin name in a translator's glossary whose Sanskrit partner is unreadable in the file, and no practice is attached.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry's only locus is a glossary line that pairs a Latin binomial, Mimosa rubicaulis, with a Sanskrit name the OCR cannot read. The Sushruta chapters could not be searched for that name, so the text gives no description, use, recipe, group membership or dosha action for the plant. The entry states no body system, organ, tissue or humour. Its Latin name is the translator's, and the identification rests on a positional count down the OCR columns, marked low confidence. No rasa, virya or vipaka is read, and no Chinese classification applies because the entry is not tagged SBJ. No ojas, tejas, prana or rasayana status is attested, and the Codex gives none. The entry offers no preparation, no dose and no contraindication beyond the caution that the identity is unsettled and that some Mimosa species are prickly. Pregnancy and child safety are not stated.
+
 ### Contraindications
 
 None are stated in the sources retrieved. The plant is unidentified in the text, the Latin rests on a positional pairing, and some *Mimosa* species are prickly; no plant should be gathered, handled, taken or applied on the strength of this entry. Safety in pregnancy and for children is not stated. [USER: verify]

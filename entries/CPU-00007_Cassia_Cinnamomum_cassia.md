@@ -75,6 +75,10 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 
 **Practitioner's note.** What a cultivator has here is one solid rung and a set of honest blanks. In the Chinese scheme cassia is an upper-grade, long-life drug used *conservationally* — to warm and re-seat a vitality assumed already present, taken in course against cold-depletion rather than swallowed indefinitely; its own heat is the contraindication in anyone with heat or *yin* deficiency. In every other tradition the register is therapeutic or silent, and Dioscorides' lesson — buy and test the real bark, not the adulterated one — is the most transferable cultivation act cassia offers outside China.
 
+### Functional–Anatomical Correlate
+
+The entry maps cassia chiefly to the kidneys and the vital fire of the lower body, and to the middle burner and circulation. In Chinese medicine Rou Gui warms the interior, supports Kidney yang and restores the Ming Men fire, acting on the Kidney, Spleen, Heart and Liver channels. Gui Zhi acts on the Heart, Lung and Bladder channels, releasing exterior wind-cold and warming the channels and vessels. Galenic and Unani sources name it a hot-dry stomach and circulatory stimulant, a carminative, and an emmenagogue acting on the womb. Ayurveda classes it as a digestive-fire kindler with cardiac and analgesic actions. The entry names cinnamaldehyde as anti-inflammatory, antimicrobial and antiplatelet, and coumarin as hepatotoxic in people with CYP2A6 variants, which makes the liver the main organ of safety concern. Heat patterns, yin deficiency, medicinal doses in pregnancy and anticoagulant use are contraindications.
+
 ### Contraindications
 
 - **Heat patterns / yin-deficiency with heat (CM).** Contraindicated — a strongly warming herb aggravates heat, dryness and yin deficiency.

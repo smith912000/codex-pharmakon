@@ -83,6 +83,10 @@ Sweet and warm, entering the Spleen and Stomach channels in the Chinese scheme �
 
 **Practitioner's note.** Nothing. A seed given in a limited count for worms, with no long-term or cultivation use in either tradition read.
 
+### Functional–Anatomical Correlate
+
+In the Chinese frame the roasted seed enters the Spleen and Stomach channels, and its sweet, warm character is held to be gentle on a child's digestion, which is why it is used for roundworm and pinworm in the intestine and for the malnourished, pot-bellied abdomen of childhood accumulation (gan ji). The entry records the intestinal action as traditional, not established in trials. At the molecular level quisqualic acid is a potent agonist at AMPA-type glutamate receptors, which explains the neurotoxic ceiling, though that is data on the isolated compound, not the whole seed. Preclinical rat and cell work points to the prostate, reducing gland weight, dihydrotestosterone and 5-alpha-reductase in benign prostatic hyperplasia models, with no human data. The flower's anthocyanins are antioxidant, and handling the flower in sunlight has caused photoallergic dermatitis on the skin in a documented case.
+
 ### Contraindications
 
 - **Dose ceiling is the governing safety fact.** Do not exceed the small traditional seed count. Overconsumption is associated with hiccups, dizziness, vomiting and — given the excitotoxic quisqualic acid content — a real neurotoxic risk.

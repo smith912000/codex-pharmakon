@@ -47,6 +47,10 @@ Aconite alkaloids are generally known to be potent cardiac and neurological toxi
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a poison-neutralising root in the Tibetan texts, from a genus in which one named type is called highly toxic, and nothing more can be said from them. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The root-text layer, outside Clark's brackets, names no organ. It says the red and yellow aconites cure meat poisoning and poisoning from black aconite, so the stated action is against poison, not a tissue. The bracketed commentary adds that the yellow type is recommended in poison fevers and infectious bile fever, which ties it to fever and to bile, a humour in Tibetan terms. It also gives bitter taste and cool power. The Men-Tsee-Khang text lists it among the medicines that cure poisoning and names no organ. The part used is the root, given in a parenthesis for the red and yellow aconites. The sources read name no organ, nerve, blood or digestive structure. Aconites are generally known to be deadly poisons, and the identity is uncertain between two binomials, so these correlates cannot be tied to one species.
+
 ### Contraindications
 
 The only warning in the lines read is Clark's bracketed statement about the aconite group: "The black type is highly toxic" (line 965). No statement says the yellow type is safe. Aconites are generally known to be deadly poisons and must not be gathered or taken on the strength of this entry; the botanical identity is unsettled. No safety information for pregnancy was read. [USER: verify]

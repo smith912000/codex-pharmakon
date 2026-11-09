@@ -71,6 +71,10 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 
 **Practitioner's note.** Parsley is a *doing* plant — a urinary opener, a carminative, an emmenagogue, and in its concentrated seed and oil a genuinely dangerous one. No tradition assigns it a cultivation status; the Greek funerary wreath is culture, not a doctrine of what parsley does to the vital person. The cultivator's whole discipline here is the Dioscoridean one of knowing what is in the hand: leaf-safe from seed-dangerous, food from medicine, medicine from poison.
 
+### Functional–Anatomical Correlate
+
+The entry's main target is the urinary system: parsley is described as a diuretic and opener of the urinary passages, promoting urine, flushing gravel and small stones, relieving fluid retention and scanty or obstructed urination, with the root as the stronger form. In the Unani terms the entry gives, it is mudirr-e-baul (diuretic), mufattit-e-hasat (stone-breaking) and mudirr-e-haid (emmenagogue). The uterus and menstrual system are a second target: the entry describes an emmenagogue action promoting delayed or scanty menstruation, and states that the seed and its oil, rich in apiole and myristicin, are uterine-stimulant and, in concentrated form, abortifacient. Concentrated oil is said to be hepatotoxic and nephrotoxic. The digestive tract receives a carminative action for wind and bloating, and the leaf is described as a breath freshener. Energetically it is Qi with a Galenic degree of hot and dry, on the warming, drying, diuretic and carminative axis.
+
 ### Contraindications
 
 - **Pregnancy — avoid medicinal/seed/oil.** Strong emmenagogue and abortifacient potential of the seed/oil; culinary leaf in food amounts is acceptable, concentrated products are not. [USER: verify.]

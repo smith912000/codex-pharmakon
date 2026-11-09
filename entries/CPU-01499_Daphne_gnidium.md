@@ -43,6 +43,10 @@ No study of the plant or its oil was opened. No clinical studies were retrieved 
 
 **Practitioner's note.** Nothing here gives a cultivator a practice. It is a single purgative oil recorded in two sentences, so it is history and not a practice. The only useful move is to follow the cross-reference to the plant chapter and read how Dioscorides warns of its burning effect.
 
+### Functional–Anatomical Correlate
+
+Little to map: Dioscorides’ chapter 1-43 is two sentences. It describes a seed oil, made from pounded and pilled seed in the way the preceding oils are made, and taken as a drink. The one action stated is that the drink “is able to loosen the bowels”, a purgative effect on the large bowel. The chapter prints no taste, temperament, quality, organ or body system beyond that. The method of making the oil is referred back to earlier chapters and is not given here. The plant is a translators’ suggested binomial shared among three chapters, and nothing from the cross-referenced chapters is carried into this one.
+
 ### Contraindications
 
 A purgative drink from a plant described in a related chapter as burning the throat is not something to prepare or take. Bowel complaints need medical care. The identification rests on a translators' suggestion shared among three chapters, so no wild plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

@@ -110,6 +110,10 @@ It should be used **as a food-dose herb** — the leaf, blanched stem, and root 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places Alexanders in the digestive tract and the urinary and pelvic organs. The Greek hipposelinon, in the selinon group, is warming and diuretic, given for retention of urine, suppressed menses, and to break wind and warm a cold, sluggish stomach. Avicenna's Unani frame, following the karafs (celery) group, assigns it hot and dry in the second degree, an opener of obstruction of the liver, spleen and kidney, a breaker of wind (kāsir al-riyāḥ), and a mover of urine and menses. Its Kenetica role is Phase I kindling of a cold, distended gut with flatulence and poor appetite. The entry's account of mechanism is that the terpene-rich volatile oil relaxes intestinal smooth muscle, aids gas expulsion and stimulates secretion. It says this is well established for the Apiaceae family but not demonstrated for this species. The essential oil is cytotoxic in vitro and is mapped to no body system in use. Its rat stroke and neurite studies have no traditional counterpart.
+
 ### Contraindications
 
 - **Phytophotodermatitis — the family hazard.** Apiaceae furanocoumarins cause phototoxic blistering and hyperpigmentation on contact with plant sap followed by UV exposure; this is well documented across the family, including parsnip (Lafon & Boulard, 2020, *Contact Dermatitis* — [DOI](https://doi.org/10.1111/cod.13594)) and other umbellifers (Dufayet & Langrand, 2018, *Contact Dermatitis* — [DOI](https://doi.org/10.1111/cod.13185)). **Harvest with gloves; do not handle sap in sunlight.** [USER: species-specific furanocoumarin data for *S. olusatrum* not retrieved — hazard is asserted at family level and should be treated as precautionary, not proven.]

@@ -47,6 +47,10 @@ General, well-established facts only. Donkey meat is a source of protein and iro
 
 **Practitioner's note.** Nothing here makes ass flesh a cultivation substance. Sushruta files it with the domestic meats, ranks that kind below the others, and gives the ass no line of its own; the one place it is named for a purpose is a diet for a wasting disease. For a cultivator the honest use is ordinary diet where donkey is an ordinary food, and nothing more. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Sushruta classes ass flesh as one of the domestic (gramya) meats, and the group statement is the only property attested for it: constructive, tonic and appetising, sweet in taste and digestion, destroying deranged Vayu and producing Kapham and Pittam. The English prints no separate virya or vipaka for the ass and no line of its own. The flesh is named once more as diet in phthisis (sosha), in a list with camel, elephant, mule and horse flesh. The entry gives no organ for the flesh. The constructive and tonic actions concern nourishment and the body’s tissues in general, and the humour terms are printed without anatomical gloss in the sources read. The ass’s urine, dung, bone-ash and semen appear elsewhere in Sushruta for other complaints and are not carried over to the flesh. No rasayana or vajikarana status is printed for the flesh, and no ojas, tejas or prana claim is made for it.
+
 ### Contraindications
 
 - **Hygiene and infection:** raw or undercooked meat carries bacterial and parasitic risk; cook thoroughly.

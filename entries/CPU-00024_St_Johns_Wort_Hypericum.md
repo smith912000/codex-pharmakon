@@ -137,6 +137,10 @@ One application that Kenetica specifically does NOT include: use during active p
 
 ---
 
+### Functional–Anatomical Correlate
+
+St. John's Wort is mapped chiefly to the central nervous system and to mood, which the entry names as the Shen (interior spirit) tier. Hyperforin is described as dampening reuptake of serotonin, dopamine, noradrenaline, GABA and glutamate, and amentoflavone as binding the GABA-A benzodiazepine site, linking the plant to melancholy, sleep and residual nervous hyperactivity. Avicenna's nerve-pain indication (waja' al-a'sab) extends the target to peripheral nerves and nerve injury, and the oleum hyperici is applied to wounds, bruises and burns. Dioscorides' bile-expelling and diuretic actions map to the liver and kidney. The entry's most consequential organ claim concerns drug metabolism: hyperforin induces CYP3A4, CYP2C9 and intestinal P-glycoprotein through PXR, which the entry treats as an absolute restriction on combined drugs. UVA-exposed skin is a phototoxic site. Humorally the plant is warm and dry, a remedy for black-bile melancholy, and its Qi role is wound healing and antiviral action.
+
 ### Contraindications
 
 **THE CRITICAL DRUG INTERACTION — CYP3A4 and P-glycoprotein induction (absolute contraindication with numerous pharmaceuticals):**

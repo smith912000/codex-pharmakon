@@ -138,6 +138,10 @@ According to PubMed, the total *A. hamosus* literature is **16 papers**, of whic
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, the Unani and Iranian traditions direct this cool, moist plant at hot, irritated, swollen tissue: joints, abscesses and mucous membranes, as a resolvent, softener and analgesic. Its restoration-phase use is to cool the surround of inflamed, overworked tissue and the aging brain. Its demulcent use for irritated mucous membranes is chemically plausible but untested. Iranian practice names the aging brain, a dementia resembling Alzheimer's, which the entry uses as the basis for its neuroinflammation work. In rodents, pod extract is reported to ease memory deficits and to reduce COX-2, IL-1beta and TNF-alpha in the hippocampus, though this is a single-lab amyloid model. Formalin paw oedema and hot-plate analgesia are reduced in rats, and liver and breast-cell effects are preclinical. Immune, aphrodisiac and diuretic claims lack evidence, and the entry deflates them.
+
 ### Contraindications
 
 - **Do not substitute for or confuse with *Astragalus membranaceus* / Huang Qi.** Different chemistry, opposite energetics, non-transferable evidence. This is the primary contraindication of the entry.

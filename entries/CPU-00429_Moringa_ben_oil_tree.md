@@ -46,6 +46,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this tree or its oil. The right course is to treat the Ebers tag as unsupported until a locus is found.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that no Ebers line read names a moringa or ben oil, so no organ or system is mapped from the papyrus. The oils the prescriptions do name (sefet, aau-of-samu and abra) are used in poultices and anointings, one of them in a course of head-anointing, but the entry does not attribute them to this tree. The Contraindications section records only that some oils and plant products cause skin reactions. No clinical studies or preparations were retrieved.
+
 ### Contraindications
 
 No safety data were read. Do not take a seed oil, a seed or a plant part internally on the strength of this entry, because the botanical identity is doubtful. Some oils and plant products cause skin reactions, and a patch test and ordinary medical advice apply to any new ointment.

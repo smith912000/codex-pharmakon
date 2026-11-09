@@ -67,6 +67,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 ---
 
+### Functional–Anatomical Correlate
+
+Asafoetida acts mainly on the gut, which the entry frames in Ayurvedic and Unani terms as the cold, windy, bloated abdomen. In Ayurveda it is hot, pungent and reducing to vata and kapha, kindling digestion (dipana/pachana), moving wind downward (vatanulomana) and easing colic, flatulence and ama, or undigested stagnation. In modern anatomy this means the gastrointestinal smooth muscle, on which the resin's sulphur volatiles and sesquiterpene coumarins are credited with carminative and antispasmodic effects. A secondary target is the airway: as a traditional expectorant it warms and loosens chest phlegm in cold patterns, and spasmodic cough is listed. Recorded emmenagogue and anthelmintic uses are marked for verification, and antiplatelet activity bears on the blood rather than on an organ. Humorally it is hot and dry, with a pitta-raising character noted in Ayurveda, and its TCM classification is warming, descending Qi that moves stagnation.
+
 ### Contraindications
 
 - **Pregnancy — caution/avoid medicinal doses.** Emmenagogue reputation; culinary pinches are ordinary food but medicinal resin doses are traditionally avoided in pregnancy. [USER: verify.]

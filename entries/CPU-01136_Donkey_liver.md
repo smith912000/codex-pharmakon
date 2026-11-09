@@ -49,6 +49,10 @@ General, well-established facts only. No animal liver is an established treatmen
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The chapter is a single sentence about a remedy for epilepsy and the Codex does not recommend it. The honest use of the entry is as a record. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides’ chapter on the ass’s liver is one sentence: roasted and eaten while fasting, the liver is good for epilepsy. The body systems named are the nervous system, through the complaint, and the liver, eaten as food. The chapter gives no Greek quality (warming, cooling, drying or astringent) and no temperament for the liver. The author names epilepsy for other equine remedies, with burnt hoof and spavins said to cure it, but there the hedged voice “said to” is used, while the liver chapter is plain. No mechanism linking the liver to the brain or nerves is stated. No pneuma, subtle-body or other cultivation framing is attested. In modern anatomy the chapter asserts an organ-to-complaint match that the text itself does not explain.
+
 ### Contraindications
 
 - **Epilepsy:** never replace or delay prescribed treatment with an animal remedy; seizure control matters, and a seizure that lasts more than five minutes is an emergency.

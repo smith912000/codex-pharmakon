@@ -81,6 +81,10 @@ Deflation, plainly: do not tell a student that "Huang Bai bark tea lowers HbA1c 
 
 **Practitioner's note.** Nothing. This is a bitter, cold drug for a defined heat complaint, taken for a course and stopped; no source retrieved supports long-term use.
 
+### Functional–Anatomical Correlate
+
+In the Chinese source's own terms Huang Bai acts on the lower burner. Its classical work is to clear heat, dry dampness, drain fire and relieve toxicity, aimed at damp-heat of the lower burner, which the entry ties to the Kidney, Bladder and Large Intestine channels. The entry maps this onto damp-heat diarrhoea, turbid or painful urination, vaginal discharge (dai xia) and damp-heat jaundice. In modern anatomical terms that is the urinary tract, the genital tract, the lower bowel and the bilirubin-handling system, with topical use on hot sores and eczema of the skin. Salt-processing (yan zhi) is said to direct the drug downward and to temper its cold for kidney-related deficiency fire. Separately, the entry records that berberine, the signature alkaloid, has glucose-, lipid- and bilirubin-related effects. Those effects come from the isolated molecule in trials, not from the bark itself, and berberine carries a neonatal and pregnancy warning because it displaces bilirubin from albumin. The Tibetan FMT tag is unverified and is not mapped.
+
 ### Contraindications
 
 - **Neonates / jaundiced infants: contraindicated.** Berberine displaces bilirubin from albumin — kernicterus risk (Chan 1993).

@@ -57,6 +57,10 @@ The Shennong text gives no preparation and no dose. The Mingyi layer gives the h
 
 **Practitioner's note.** A lower-grade drug: the classic itself says such drugs are for a defined disease and are not for long taking. A cultivator has nothing to do with it.
 
+### Functional–Anatomical Correlate
+
+Sun's edition of the Shennong text gives this seed as acrid and cold. It mainly treats concretions, conglomerations, accumulations and gatherings, bound qi, and disorders of food and drink with cold and heat, and it breaks what is hard. These map to hard masses and to the qi-flow in the text's terms, but no organ, tissue or channel is named. Yang's 1998 edition adds that it expels evils and disinhibits and frees the flow of the water passageways, which is the only point in the sources read that touches the urinary tract, and that addition is Yang's, not Sun's. The classic places the drug among the lower drugs, which the preface describes as mostly toxic and not to be taken long. The species is not fixed by the text.
+
 ### Contraindications
 
 - **Species and source.** The classic does not fix the species, and the seeds of different crucifers have been sold under this name. [USER: verify]

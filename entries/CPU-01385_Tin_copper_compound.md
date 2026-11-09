@@ -52,6 +52,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry's claimed sites come from the Divine Farmer's Classic, read through a damaged OCR text. The material is said to treat women's blood block, concretions and conglomerations lying in the intestines, and infertility. Anatomically that maps to the intestinal tract, where the masses lodge, and to the female reproductive system, the organs concerned with conception. Blood block is the classic's own term, mapped here to the blood as the classic names it, and it is not expanded in the printed text. The entry prints no flavour, temperature or channel for this drug, because the line is damaged, so no qi, yin-yang or meridian is mapped. The inferior-class grade is a classification by position, not a body site. Yang's note reads the material as a lead and copper compound, and the identity is unresolved, so no metal-linked tissue such as the nervous system or kidneys is mapped from the classic. Only the classic's named sites are mapped here, and the entry names no other organ.
+
 ### Contraindications
 
 - **Toxic metals:** lead and copper compounds are toxic; the possibility that the material was a lead alloy alone is a reason not to ingest it.

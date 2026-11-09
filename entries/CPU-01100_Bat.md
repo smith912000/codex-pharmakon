@@ -44,6 +44,10 @@ General, well-established facts only. Bats are mammals, the only group of mammal
 
 **Practitioner's note.** Nothing. The only sourced uses are an eye-section remedy and a poultice, and the animal is a recognised carrier of lethal viruses. A cultivator takes no practice from this entry. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Ebers names bat's blood in two eye-section remedies. One, with myrrh and lizard's blood, is laid on the place after the lashes are torn out for trichiasis, which is misgrown lashes; the other, with honey and the rim of a new vessel, is placed where a hair has been pulled out, so the eyelid margin is the site. A whole chopped bat, applied as a poultice, is the remedy for itch confined to the neck, which maps to the skin of the neck. Bryan's list of animal sources includes the bat and gives no organ. The Tibetan bat flesh is a separate entry and is not mapped here. The Divine Farmer's Classic places the bat (bianfu) in the middle grade, gives it a salty, neutral taste, and says it governs dim eyes and brightens sight, and that taken long it makes a person glad and cheerful. No temperament beyond that is stated, and no dose is printed.
+
 ### Contraindications
 
 - **Infection:** bats carry rabies and other zoonotic viruses; contact with a bat's blood, saliva or tissue calls for medical advice, and blood in the eye is an entry route for infection.

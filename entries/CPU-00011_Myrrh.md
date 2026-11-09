@@ -79,6 +79,10 @@ Myrrh is deployed in Kenetica where chronic fascial holding patterns, unresolved
 
 **Practitioner's note.** Nothing in any of these four traditions makes myrrh a substance you take to build yourself. Its entire attested character — dispersing, piercing, blood-moving, wound-closing — is corrective work on a specific obstruction, and the entry's own cycling instruction (4–6 weeks on, 2–3 weeks off) is the practical form of that. The honest cultivator's use is therefore: clear the field, then stop, then build with something else. The one genuine practice myrrh does hand you is the Greek one — learn to tell real resin from adulterated resin by hand and nose before it goes anywhere near you. If you want the Egyptian dimension, the attested thing to say is that fumigation was a whole rite in which word and smoke were one act; what you cannot say is that this resin was the material of it.
 
+### Functional–Anatomical Correlate
+
+The entry maps myrrh onto blood, fascia and wound tissue. In the Dioscoridean and Avicenna reading it is warming, blood-moving and wound-closing: it moves congealed blood and chronic holding patterns in fascia where microtrauma has accumulated. The TCM classification is Qi, with the Organ-Channel Map of Liver (足厥阴肝经), Heart (手少阴心经) and the uterus through the Chong Mai (冲脉, Penetrating Vessel). The entry says its furanosesquiterpenes bind mu and delta opioid receptors, giving analgesia in the nervous system, and that its polysaccharides stimulate macrophages and fibroblast migration in healing wounds. Oral tissue is also named: the entry reports antimicrobial effects against Streptococcus mutans and Candida albicans, and its martial use for gum health. Uterine and menstrual regulation is listed for female practitioners. The Egyptian and Assyrian sections record no vital-constitutional status, only therapeutic use.
+
 ### Contraindications
 
 - **Pregnancy** — strong uterine-stimulating action; absolutely contraindicated

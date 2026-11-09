@@ -50,6 +50,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant beyond the attention the Dioscorides chapter asks for: learn to know it by its square stem, its leaf rings and its clinging seed before using the name. The Tibetan entry says what it cures and nothing more. No long-term regimen is attested in either text.
 
+### Functional–Anatomical Correlate
+
+The Dioscorides chapter maps cleavers to the ear, the glands and the skin. Its juice is dropped into the ear for earache, and the herb, taken in pounded swine's grease, is said to dissolve scrofulous tumours and goitres, which are glandular and thyroid swellings. The juice with wine is given for the bites of harvest spiders and snakes, though no organ is named for that. The Tibetan Quintessence Tantra says the plant cures jaundice and all bile disorders, and the modern reading of jaundice is the liver and bile ducts. Clark also records that the leaf of the black type is beneficial in sinusitis, mapping onto the sinuses. The entry's Tibetan frame calls these bile disorders and gives no tissue beyond them. No constitutional or long-term role is stated in either text.
+
 ### Contraindications
 
 No safety data were read. Cleavers is a common weed and the plant is generally regarded as low in toxicity, but handling it can irritate the skin of some people through its hooked hairs. None of the traditional uses above is advice, and the snake-bite and spider-bite uses in Dioscorides are not a treatment: seek urgent medical care for any bite. Seek a qualified practitioner, and seek ordinary medical care for jaundice, which is a sign of liver or bile disease.

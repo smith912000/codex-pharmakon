@@ -51,6 +51,10 @@ General, well-established facts only. Aromatic herbs of the mint family contain 
 
 **Practitioner's note.** A pungent herb named only for wounds and sores with worms or parasites. Nothing here supports cultivation use. A cultivator reads it as a plain wound herb of the herb section.
 
+### Functional–Anatomical Correlate
+
+Little to map: the root text, in Clark's unbracketed words, says only that the herb heals wounds and sores infected by parasites, worms and the like. The bracketed commentary adds the types, the leaves and a pungent smell, and says that all three types have hot and astringent tastes; the entry notes that these come from the commentary and not the root text. The body mapping the entry supports is therefore the wounds and sores themselves, and nothing deeper. No organ, channel, humour or route is given, and the entry notes that neither application nor ingestion is stated. Clark's bracket gives two genera for the black type, so the plant is not settled, and the Men-Tsee-Khang text carries only the name without a gloss. The name occurs once in the chapter and is not used in any compound formula in the lines read. The Codex does not translate the parasite and worm terms into a modern diagnosis and does not recommend this plant for wounds.
+
 ### Contraindications
 
 - **Wounds.** Infected wounds need clean, proper care; do not treat them with an unidentified herb.

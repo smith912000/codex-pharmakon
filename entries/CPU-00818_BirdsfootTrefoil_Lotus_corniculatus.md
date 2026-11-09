@@ -63,6 +63,10 @@ According to PubMed, the defining modern chemistry of *Lotus corniculatus* is it
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps bird's-foot trefoil onto the nerves and the surface of the body: the restless nervous system and sleep, and inflamed skin and minor wounds. In Galenic and Unani terms it is cool and moist, gently astringent and calming, a settling vulnerary; the sedative use is for restlessness and disturbed sleep, and the wash or poultice for wounds and inflamed skin. The tannin-rich dried tops are linked to an astringent, wound-binding action. The sedative reputation is described as folk-attested rather than clinically proven. In TCM, by analogy, it quiets the spirit and restrains a weeping surface, and Ayurvedic placement is interpretive, calming to Vata and Pitta. The fresh green foliage is the hazard: its linamarin and lotaustralin release cyanide when tissue is damaged, which can cause headache, dizziness, rapid breathing, nausea and collapse. Pregnancy, lactation and children are excluded from internal use.
+
 ### Contraindications
 
 ⚠️ **CYANOGENIC GLYCOSIDES — CYANIDE RISK FROM RAW FOLIAGE.** The green parts of *Lotus corniculatus* contain **linamarin and lotaustralin**, which release hydrogen cyanide when the tissue is crushed, chewed, wilted-but-not-dried, or otherwise damaged. Raw ingestion of the foliage — or of poorly prepared plant material — risks cyanide toxicity (headache, dizziness, rapid breathing, nausea, collapse in severe cases). **Never eat the fresh plant.** Livestock cyanide poisoning on high-cyanogenic stands is documented. Use dried, properly aged flowering tops only, and discard any material with a bitter-almond smell.

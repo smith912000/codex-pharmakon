@@ -117,6 +117,10 @@ A Cochrane review of **6 RCTs (899 children)** (Oduwole et al., 2018) found **mo
 ---
 
 *[1 tradition paragraph(s) removed 2026-07-18 — tag withdrawn per approved attestation ruling; see spine notes.]*
+### Functional–Anatomical Correlate
+
+Honey maps most directly onto the skin and wound bed, the airway and throat, and the digestive tract, with the Middle (Spleen and Stomach) as its traditional centre. In Chinese terms it tonifies the Middle, moistens dryness in the Lung for dry cough, moistens and laxates the Large Intestine, and harmonises other herbs. Ayurvedic correspondence applies it to wounds and ulcers, cough and respiratory disease, eye disorders, and the reduction of Kapha and fat. Unani terms give it a nutritive, wound-cleansing, preservative and laxative action. The modern correlates the entry cites are wound healing, through osmotic dehydration, slow hydrogen-peroxide release, low pH and, in manuka, methylglyoxal, with Cochrane evidence for partial-thickness burns and infected post-operative wounds. Cough in children also has Cochrane support for reduced frequency. Because honey is a sugar, the entry notes its effect on blood glucose as a caution.
+
 ### Contraindications
 
 - **Infants under 12 months — ABSOLUTE:** risk of infant botulism (*C. botulinum* spores); never give honey to babies.

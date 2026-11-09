@@ -49,6 +49,10 @@ General, well-established facts only. No animal tissue neutralises snake venom w
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The deer's testes appear in Dioscorides as a drink against viper bites, and the honest use of the entry is as a record. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter names one source tissue and one complaint. The genitals of a male hart, pounded and taken in a drink with wine, help those bitten by vipers, so the bite is the condition and the testes are the material. The text gives no action on any organ, tissue or system of the body, and no temperature, quality or humour. It names no generative complaint and does not present the testes as an aphrodisiac, and the entry does not read one into it. Nearby chapters give the deer's horn, fat and marrow against snakes, which the entry records as a pattern without explaining it. The chapter gives no quantity. The entry notes that testicular tissue holds steroid hormones, but that nothing in the chapter relies on them.
+
 ### Contraindications
 
 - **Snakebite:** a bite from a venomous snake is a medical emergency; go to emergency care. Do not rely on any animal product or on wine.

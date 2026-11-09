@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is only the habit of recording the two faces of a leaf and the habitat. The text offers nothing more, and the abstentive answer is the right one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter names one use only, a preparation of the plant boiled with barley meal, salt and oil and sipped to restore milk that has stopped flowing, which the translators bracket as breastfeeding. The text does not say which part of the plant is boiled, and it gives no quantity. Its description covers the leaves, paler beneath and green above, five or six thin shoots about twenty centimetres long from the root, small purple flowers, and a habitat by the sea. It names no temperament, humour, doshic or qi quality, no taste, and no organ or system besides the milk flow. The chapter is very short, and its identity rests on a translators' suggestion, so the entry can map nothing beyond the one stated use.
+
 ### Contraindications
 
 Chapter 4-141 prints no warning. The identification is only the translators' suggestion and the text names no part to be used, so no plant should be gathered or used on the strength of this entry. The preparation has no dose. Lactation problems call for proper care, not an unidentified shore plant. [USER: verify]

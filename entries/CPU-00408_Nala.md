@@ -58,6 +58,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this reed. In Sushruta it is a grass of a Pitta-quieting group and an ingredient in a physician's plasters, oils and decoctions. The abstentive answer is the correct one: any use is a matter for a qualified practitioner, and the text supplies no long-term regimen.
 
+### Functional–Anatomical Correlate
+
+Per the entry's own claims, Nala acts on the head, the skin and deep tissue, the sinuses, the urinary tract and the fevered body. A plaster of Nala with lotus, Utpala, sandalwood and Shankha, mixed with ghee, is applied to the head for Pittaja and Raktaja head disease, and a similar plaster is given to the affected part for the great Vata disorders, including Vata-Rakta. An oil cooked with Nala and cow's urine is used to heal the Kaphaja type of Nadi (sinus) once it has been opened and washed. An agada containing it is said to help the bite of a white spider, whose signs in the text are pustules, itching, burning, fits, fever and erysipelas. A decoction of its root is given for a tridoshaja fever, and a paste washed in milk and taken with ghee is given for suppressed urine. The text prints no rasa, virya or vipaka for it, and no rejuvenative status is recorded.
+
 ### Contraindications
 
 No safety data were read. The sinus, spider-bite, fever and urinary-retention uses above are conditions needing medical care, and none of them is advice. A spider bite with fits, fever or spreading rash needs urgent medical care, and anyone who cannot pass urine needs it at once. Do not put reed material into a sinus or wound. Reed beds are wildlife habitat and are protected in some places, so check local rules before harvesting. Do not use in pregnancy.

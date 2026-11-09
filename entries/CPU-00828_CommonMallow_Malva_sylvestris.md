@@ -77,6 +77,10 @@ A cautionary counterpoint: Kovalik and colleagues (2014, *Journal of Medicinal F
 
 **Practitioner's note.** What a cultivator does with mallow is soften — coat a raw throat, ease a dry gut, calm scalded urine. That is a therapeutic act, not a cultivation one; no tradition records mallow as a longevity or subtle-body plant. The one thing rising above the therapeutic is cultural, not pharmacological: the Greek esteem for the plant of softness, which a practitioner may honour as heritage while claiming nothing medical from it.
 
+### Functional–Anatomical Correlate
+
+Per the entry, common mallow is a cold, moist, first-degree demulcent acting on hot, dry, raw or irritated tissue: the throat and dry cough, the respiratory and digestive tracts, and the urinary tract, where it eases scalding and stone. Galenic-Unani assigns it to the mulaṭṭif and muraṭṭib emollient class. Dioscorides' use softens the belly and gut and treats stings and inflamed sores. TCM, through allied Malva species, places sweet, cool, slippery remedies in the Large and Small Intestine and Bladder, to promote urination, moisten the intestines and promote lactation. Ayurvedic and folk use treats it as pitta-pacifying. The entry's modern correlates are mucilage (acidic polysaccharides that hydrate into a soothing gel), anthocyanins and polyphenols. An in-vitro corneal epithelial repair signal comes from a flower extract, where the mucilage fraction increased some inflammatory mediators. An animal palatal wound study was null, and the evidence grade is weak to moderate and mixed.
+
 ### Contraindications
 
 - Mucilage can **slow the absorption of concurrently taken oral drugs** — separate dosing by ~1–2 hours.

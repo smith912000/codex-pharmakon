@@ -42,6 +42,10 @@ General fact only: spleen is an iron-rich organ meat. Pork is prohibited in Jewi
 
 **Practitioner's note.** The Canon's own verdict is that it is slow to digest and breeds black bile. Nothing in the passage bears on conserving innate heat. Nothing to practise.
 
+### Functional–Anatomical Correlate
+
+The Canon maps the spleen onto the blood and the digestive organs. Pig's spleen is the best of spleens, yet it is bad in chyme, the kaymus named in the text. The spleen has some astringency, which the passage links to its slowness to digest, and it generates black-bilious, sawdawi, blood. The passage names only these two functions, blood-making and digestion, and gives no temperament. No preparation, dose or cultivation status is given. The pig is the only animal named, the plural spleens implying others, and the Codex adds the general fact that spleen is an iron-rich organ meat, which the passage does not state. Nothing in the passage reaches innate heat or radical moisture.
+
 ### Contraindications
 
 - **Dietary law.** Pig meat is forbidden to observant Jews and Muslims.

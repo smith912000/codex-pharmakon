@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing here gives a cultivator a practice. The chapter is a short folk remedy for an eye complaint and for hard lumps. The abstentive answer is the correct one, and an eye ulcer or fistula needs a clinician.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter (4-139) states one organ-level claim. The herb, applied with meal, heals aegilopses, which the translators gloss as an ulcer or fistula in the inner angle of the eye, and dissolves hard lumps. The juice, mixed with meal and dried, is stored for the same purposes. No other body system, organ, tissue or temperament is named. No warming, cooling, drying or astringent quality is printed. The word aegilops is the disease name as well as the chapter's plant name; the entry notes that other chapters use the word for complaints treated by other substances, and nothing there is attributed to this plant. The identification is a grass-level translators' suggestion, and the entry says no clinical or dose information was retrieved.
+
 ### Contraindications
 
 No safety information is printed. Applying plant material and meal to an eye, or to a fistula next to it, risks infection. Grass seeds with beards (awns) can injure the eye. None of the uses above is advice.

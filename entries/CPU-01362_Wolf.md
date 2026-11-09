@@ -43,6 +43,10 @@ General, well-established facts only. The qualities "rough, light and sharp" and
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The tradition classes the wolf among the carnivores and records three of its parts as drugs for digestion and swellings, and its own behavioural teaching begins with refraining from taking life. The Codex does not recommend any wolf product. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Tibetan Four Tantras (FMT) class the wolf among the carnivorous animals, whose meat is described (the two translations differ on whether the statement reaches the carnivores) as rough, light and sharp, generating digestive heat, dispersing tumours, increasing weight and eliminating cold disorders. The wolf's parts carry separate actions. Its stomach increases digestive heat and digests undigested food, especially meat, which maps to the stomach and the digestive fire of the gut. Its tongue reduces swelling of the tongue, mapping to the tongue and oral tissues. Its stool, with that of dogs and the snow cock, reduces swellings, which maps to swollen tissue generally. The entry assigns no taste, potency or humour to the wolf as a whole and names no constituent. The Four Tantras' cold disorders, tumours and swellings are its own categories, with no direct modern counterpart. The entry does not claim any further system for the animal. Modern anatomy adds only the general fact that wild canid tissue can carry parasites and infection, which the Codex weighs as a hygiene risk rather than an effect.
+
 ### Contraindications
 
 - **Hygiene and infection:** tissue from wild carnivores can carry parasites and viruses (rabies, tapeworm cysts); do not handle or eat it.

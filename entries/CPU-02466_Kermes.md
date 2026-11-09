@@ -43,6 +43,10 @@ Kermes was the main source of crimson dye in the Mediterranean before the cochin
 
 **Practitioner's note.** Nothing is asked of a cultivator. The entry's lesson is about identification: one Arabic word, *dūd*, covers a scale insect, an unnamed crustacean and perhaps other creatures, and the text makes no attempt to unify them.
 
+### Functional–Anatomical Correlate
+
+Avicenna's kermes entry, the dye insect, is cooling with a measure of dryness, drying without stinging, and of moderate astringency by Galen's addition. For wounds of the nerve it is given powdered with wine or with vinegar and honey, so the nerves are the only tissue named. The many-legged worm in the same entry maps to several systems. A mithqal drunk is said to cure spasm and tetanus, which concerns the muscles and nerves. Dropped into the ear with pomegranate rind and rose oil, it calms ear pain. Rubbed on the palate with honey, or eaten, it helps quinsy (khawaniq), the throat. It helps asthma and orthopnoea in grazing animals, the breath. Drunk with wine it helps jaundice, a yellowing with no organ named, and difficult urination, the urinary tract. Its temperament is not given. Modern anatomy would name the nerves, muscles, ear, throat, airways and urinary tract, but none of these claims is checked here.
+
 ### Contraindications
 
 - **Identification.** Do not mix the kermes insect with the other creatures of the entry; the text itself does not.

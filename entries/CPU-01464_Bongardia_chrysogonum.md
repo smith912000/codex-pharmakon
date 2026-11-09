@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in this chapter gives a cultivator a practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter states one action on the body, that the root, pounded finely with vinegar and applied, helps the bites of the shrewmouse. The site is an external bite wound, and no organ, system or tissue beyond that is named. The chapter also gives a description: leaves like oak, a thick shrub, flowers like verbascum coronarium, and a root like rape, red within and black without. No humoral, doshic, qi or other energetic term is printed, and no quality such as warming or cooling is given for the plant or its root. No internal action, constituent or organ is claimed. The chapter gives no habitat and no dose. The name Bongardia chrysogonum is the translators' suggestion, and the description is too thin to confirm it, so any mapping rests only on the one stated use.
+
 ### Contraindications
 
 The chapter prints no warning. The plant's identity is uncertain, and its safety is unknown from the sources retrieved, so no plant should be gathered or applied on the strength of this entry. An animal bite needs medical assessment, including for infection and for rabies risk where relevant.

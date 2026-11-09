@@ -40,6 +40,10 @@ General facts only. Wild waterfowl can carry avian influenza viruses and enteric
 
 **Practitioner's note.** Nothing here is a practice. In Sushruta the Hansa is a food with stated qualities, and the sources read give a cultivator no regimen, season or course for it. The text's strength and tonic words describe the food; they do not make it a rejuvenative, and the bird is neither identified nor easy to obtain lawfully.
 
+### Functional–Anatomical Correlate
+
+The Hansa's flesh is mapped by its own sentence, in the swimming-bird group of the food chapter. It is heavy of digestion, heat-making, sweet and demulcent, and the sentence names several body systems. It improves the voice, which maps to the larynx and vocal cords, and the complexion, which maps to the skin. It imparts strength and is tissue-building, which maps to muscle and tissue. It is spermatopoietic, and it is curative in nervous diseases (Vata-vikara), which maps to the nervous system. The Plava group adds cooling, demulcent and spermatopoietic action, destruction of deranged Vayu, benefit in haemoptysis (coughing blood), sweetness, laxative and diuretic effect, which map to the lungs, the bowel and the urinary tract. Those apply by group membership. The text gives no potency for the Hansa itself, and the bird is not identified; the glosses differ between swan, goose and duck.
+
 ### Contraindications
 
 - **Hygiene and infection:** wild waterfowl can carry avian influenza viruses and enteric bacteria; do not handle sick or dead wild birds, and cook any flesh through.

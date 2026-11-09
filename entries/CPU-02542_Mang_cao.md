@@ -45,6 +45,10 @@ In general knowledge, *Illicium verum* (Chinese star anise) is a safe spice, but
 
 **Practitioner's note.** There is no practice here. A lower-grade drug whose later commentary calls it poisonous and whose own text says it kills fish. A cultivator has nothing to do with it except to avoid it.
 
+### Functional–Anatomical Correlate
+
+The Shennong paragraph names swellings of the head with wind (风头痈肿), breast abscess (乳痈), hernia-like masses (疝瘕), and scabies and itching sores (疥瘙; the Yulan adds abscess and sore). It also names bound qi (除结气) and states that the plant kills insects and fish (杀虫鱼). In modern anatomical terms the head, breast and skin are the tissues named, while the hernia-like masses have no site given in the text. The classic names no organ mechanism, and the Codex does not assign one. Wu Pu's layer, not the Shennong text, gives bitter and toxic for Leigong and Tongjun, and the Mingyi layer names the leaf as the part used. The energetic terms are acrid and warm (味辛，温). The plant is highly toxic. No body map here is a basis for applying or ingesting it, so the uses are historical record only, and the Codex advises seeking emergency care after any ingestion.
+
 ### Contraindications
 
 - **Highly toxic.** Do not eat, drink, inhale smoke from, or apply this plant. Species of *Illicium* other than the culinary star anise cause seizures and can be fatal. Seek emergency care after any ingestion.

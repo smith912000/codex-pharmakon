@@ -38,6 +38,10 @@ Iron oxides are used as pigments, and iron is an essential mineral, but the iron
 
 **Practitioner's note.** An upper-grade drug in the Chinese scheme: the Classic held it safe for long use and promised immortality of it. Limonite is rusty earth and the Classic's claims have no established support, so nothing here supports taking it. For a cultivator the entry is a record of how the Han-period elixir tradition raised an iron earth to the rank of a "divine medicinal". No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Classic's Tai Yi Yu Yu Liang, sweet and balanced and Superior-class, is said to treat cough with counterflow qi ascent, concretions and conglomerations, blood block and leaking, and to eliminate evil qi. Plain Yu Yu Liang, sweet and cold, is said to treat cough and counterflow, cold and heat, vexatious fullness, red and white dysentery, blood block, concretions and great fever. Mapped to the body, the claimed sites are the lungs and airway for cough and qi ascent, the blood and its flow, the bowel for dysentery, the abdominal masses for concretions, and the whole body for great fever. Long taking is said to build endurance to cold, summerheat and hunger, which the entry does not map. Footnote 47 holds that both forms are one substance, though their indications differ, so each set of sites is kept to its own form.
+
 ### Contraindications
 
 Natural iron earths vary in composition and may carry toxic metals; powdered stone sold as a remedy may be a different mineral. Mineral medicines are unstandardised and their sale is regulated in many places. The Classic's immortality and flight claims are not claims of fact. [USER: verify] the legal and conservation status of collecting these materials; the sources retrieved do not address it.

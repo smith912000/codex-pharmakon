@@ -51,6 +51,10 @@ General, well-established facts only. Pomegranate (*Punica granatum*) is a long-
 
 **Practitioner's note.** A bitter, tannin-rich, alkaloid-bearing bark used against worms. There is nothing here for a cultivator to take or do; the only discipline it teaches is that an effective worm drug is also a poison, and that the Ebers text gives no quantity to tell the two apart.
 
+### Functional–Anatomical Correlate
+
+The entry maps the bark onto the intestinal tract as a worm remedy. A draught of the root bark, kept moist in water and strained, is given to kill the roundworm (Ebers, lines 1950-1956, as Bryan renders it). A second, separate preparation, the bark soaked in beer and then kept moist in water, is drunk each morning for the uxedu, a complaint Bryan does not identify. At line 3919 he translates a passage in which the uxedu gives rise to abscesses in the skin, so the skin is an open possibility. In Egyptian terms the material is indication-organised, not placed in the ka, ba, akh or ib, and no humoral or energetic class is given. The entry notes that the alkaloids in the bark are toxic in quantity, a modern statement not found in the text. The Codex does not recommend the bark.
+
 ### Contraindications
 
 - **Toxic in quantity.** The alkaloids of the bark are poisonous in excess (see Active Components). Do not take it.

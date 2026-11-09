@@ -50,6 +50,10 @@ General, well-established facts only. Honey-sweetened wine is a type of alcoholi
 
 **Practitioner's note.** A sweetened wine described by how it is made and aged, with a sharp note about profit-driven imitation. There is no cultivation status attested. If a cultivator takes anything from it, it is the habit of asking what a preparation is really made of and who made it.
 
+### Functional–Anatomical Correlate
+
+Per Dioscorides 5-16, mulsum (honeyed wine) acts on the digestive tract, the bowels, the urinary tract and the appetite, and its effect is sorted by age. Old mulsum is called nutritive; middle-aged mulsum is good for the bowels and diuretic. Taken after meat it hurts, and taken as a drink beforehand it fills and then encourages the appetite. The made drink is said to create less gas and to be fit for use quickly. The text gives no organ-specific quality or humoral category for it and names no illness. The systems the entry can map are therefore the gut (bowels and gas), the urinary system (diuresis) and appetite. The cheaper imitation with boiled must is noted as a commercial fault and not as a use. The chapter gives no dose and no energetic classification, and the Codex does not translate nutritive or fills into a modern category.
+
 ### Contraindications
 
 - **Alcohol.** Mulsum is an alcoholic drink. It is unsuitable for children, in pregnancy and lactation, for anyone avoiding alcohol, and with driving or machinery. The text itself says taken after meat it "hurts". [USER: verify the last as a general medical statement]

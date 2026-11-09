@@ -40,6 +40,10 @@ General, well-established facts only. Bleeding is stopped by direct pressure, co
 
 **Practitioner's note.** A cultivator does nothing with this. It is a one-line action in a list of animal bones, the identification is uncertain, and the substance carries no cultivation claim. Its use today is as a record of what the Tantra says.
 
+### Functional–Anatomical Correlate
+
+Little to map: the only stated action is that porcupine bone is hemostatic, that is, it stops bleeding, in the Clark and Men-Tsee-Khang translations. No organ, tissue or system is named.
+
 ### Contraindications
 
 - **Infection:** powdered or raw bone applied to a wound can introduce bacteria and spores; do not apply it.

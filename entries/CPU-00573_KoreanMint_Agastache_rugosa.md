@@ -118,6 +118,10 @@ Graded honestly. **This is a data-sparse species clinically. There is no retriev
 
 **Practitioner's note.** Nothing beyond the digestive use the entry already describes: an aromatic leaf added late and decocted briefly against summer nausea and queasiness. No long-term or life-nourishing use is supported by any tradition cited here.
 
+### Functional–Anatomical Correlate
+
+The entry maps huo xiang onto the digestive axis, with the Spleen, Stomach and Lung channels. Its traditional actions are to transform damp, awaken the Spleen (restore appetite), harmonise the middle and stop vomiting, and release summer-damp from the exterior. The volatile oil is said to act on gastric secretion and motility, and damp-heat is linked to gut infection and fermentation in summer. The only in vivo gastric result is a chemical-injury model in which the extract reduced gastric mucosal damage and inflammatory protein expression. Antimicrobial activity against oral and gut-relevant organisms is in vitro only. The antiemetic claim, the headline action, has no retrieved supporting study, and the entry asks that it be stated as tradition. An EEG study of 38 volunteers inhaling the oil is the only human data, showing an attentional shift rather than sedation. Estragole and methyleugenol carry hepatic and genotoxic risk, so internal oil is excluded.
+
 ### Contraindications
 
 - **⚠️ ESTRAGOLE AND METHYLEUGENOL.** Estragole can constitute the overwhelming majority of the oil (up to ~89.5%; Hong et al., 2022) and methyleugenol up to ~50% in other chemotypes (Li et al., 2013). Both are phenylpropanoids of established genotoxic/carcinogenic concern in rodent models and subject to adverse regulatory opinion. **Do not use the concentrated essential oil internally. Do not use any form chronically at dose. Do not use in pregnancy, lactation, or in children.**

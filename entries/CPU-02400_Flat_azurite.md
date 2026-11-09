@@ -48,6 +48,10 @@ Copper is an essential trace element in very small amounts, and copper salts are
 
 **Practitioner's note.** An upper-grade drug in the Chinese scheme, which the Classic says can be taken long. That statement cannot be followed here: this is a copper ore, and long-term ingestion of copper minerals is a poisoning risk. For a cultivator the entry is a record of how the Classic ranked a blue ore, not a practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Classic's sites are the eyes, the bones, the skin and the internal accumulations. The eyes receive eye pain, and the stone is said to brighten them; the bones receive fractures from falls; the skin and soft tissue receive welling abscesses, swellings and incised wounds that do not heal; and the internal masses are treated by breaking accumulations and gatherings. It is also said to resolve toxic qi and to free the essence-spirit, which places a claimed action on the mental and nervous spirit. The Wu Pu layer adds a man's internal exhaustion, a reproductive claim. Energetically, the Shennong text gives sweet and balanced, while Yang's version gives slightly cold and non-toxic, and the sources differ. The upper-class placement is a grade, not an organ. No dosha, humour or organ affinity is printed, and no tradition other than the Chinese classic is applied.
+
 ### Contraindications
 
 - **Copper toxicity.** Ingested copper compounds can cause vomiting, abdominal pain, and liver and kidney injury. The Classic's "non-toxic" and its long-term-use clause are not a safety statement.

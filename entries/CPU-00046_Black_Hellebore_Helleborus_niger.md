@@ -84,6 +84,10 @@ The Codex policy here is explicit: **fewer real citations are preferred over inv
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry locates black hellebore's effects in the heart, the bowel and the skin. Its bufadienolide glycosides, such as hellebrin, inhibit the sodium-potassium ATPase of cardiac muscle, producing positive inotropy and, at toxic levels, arrhythmia and heart block. Saponins and protoanemonin irritate the gut mucosa and the skin, causing the violent downward purge and blistering on contact. In humoral terms the entry records the Galenic reading of it as hot and dry in the third to fourth degree, a drastic evacuant that drains downward through the bowel and was held to clear black bile (sawda) from the melancholic body. Its Kenetica mapping is Qi, a forceful mover of the evacuative function, with a secondary Shen ascription for clearing derangement of the mind. The entry notes an emmenagogue and abortifacient use that touches the uterus. Contraindications are cardiac disease, potassium-altering therapy, inflamed gut conditions, pregnancy and breastfeeding, and handling of the fresh root.
+
 ### Contraindications
 
 - **Cardiac disease — absolute.** As a cardiac glycoside source, contraindicated in any cardiac condition; can precipitate fatal arrhythmia and heart block.

@@ -40,6 +40,10 @@ General, well-established facts only. Quartz and chalcedony are silica; inhaled 
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The entry records that a Greek physician called a hollow crystal-lined stone astringent and drying, and that he used it ground in water for breast inflammation; the Codex does not recommend repeating that. The one thing a reader can take from it is the limit of the record: the chapter is short, the stone's identity is a translator's gloss, and the line about "stones" can be read two ways. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Eyes: the chapter says the stone takes away things that darken the eyes, which maps to the eye and the opacities that cloud its clear surfaces. The text does not say how it reaches the eye. Breast: ground and smeared on with water, it soothes inflammation of the breasts, which maps to the mammary glands and the skin over them. Stones: the second clause is read by the translator as inflammation from urinary or kidney stones, which maps to the kidneys and urinary tract, though the Greek compression allows another reading. Tissue: the printed qualities are astringent and drying, with no humour, taste or potency named. The text gives no other organ, temperament or channel. Modern anatomy therefore maps the entry to the eye, the breast and its skin, and the kidneys and urinary tract, with the stone's stated drying action on the tissue surface.
+
 ### Contraindications
 
 - **Breast inflammation:** swelling, heat and pain in the breast, with or without fever, can be infection (mastitis) or an abscess and needs a clinician; a stone paste does not treat it.

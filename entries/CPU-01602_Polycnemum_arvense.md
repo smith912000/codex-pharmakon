@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The translator
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It offers a description and three remedies, one marked as learned by experience, so it is history and not a practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The chapter maps the herb onto three body areas in its own terms. For the skin and soft tissue it names "open cuts and sore wounds", which the herb, applied green or dried with water, is said to close. For the urinary tract it names "slow painful urination", treated by a drink with wine, and it lists hernia beside this, which places an effect on the abdominal wall and groin. A third use, introduced by an appeal to experience, is "water delirium", treated with bruised branches in white wine. The chapter does not say what that condition is or which part of the body it concerns, so it cannot be mapped to an organ. Dioscorides uses no humoral, doshic or qi term and gives no quality for the herb beyond the "sharp, pleasant smell" of its clusters. The identity is the translators' suggestion, so these correlations describe the chapter's claims only.
+
 ### Contraindications
 
 The chapter prints no warning. Open wounds, hernia, painful or slow urination and delirium all need medical assessment, and a home remedy must not replace it. The identification rests on a translators' suggestion between two species, so no wild plant should be gathered or used on the strength of this entry. [USER: verify]

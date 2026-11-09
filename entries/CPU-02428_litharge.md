@@ -52,6 +52,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 **Practitioner's note.** Nothing to take from it for cultivation beyond noting how carefully the herbal grades a smelting product by place, colour and washing. Litharge is a poison, not a tonic. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Greek (DMM) terms are used as the entry gives them. The chapter prints astringent and softening, and cooling, with the ability to close the pores. Its claimed actions in the skin and soft tissues are to fill hollownesses, repress abnormal growths of flesh, and form new skin, which places it on wounds, cavities and the skin surface. Closing the pores is a skin-surface action. Washed litharge is said to be good for eye medicines, placing the eye and its lids in its claimed range, and for foul scars, wrinkled faces and faces full of spots, which are skin and facial claims covering scar tissue, wrinkling and pigmentation. The chapter describes several whitening and washing methods, but the sites it names are the eye and the skin. No internal organ is named, and no systemic function is claimed.
+
 ### Contraindications
 
 - **TOXIC.** Lead monoxide is poisonous. Do not ingest it, inhale its dust, or apply it to skin, face or eyes. Do not handle it dry.

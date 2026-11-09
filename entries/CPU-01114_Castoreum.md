@@ -48,6 +48,10 @@ General, well-established facts only. Castoreum is an animal secretion used hist
 
 **Practitioner's note.** Nothing here makes castoreum a cultivation substance, and the chapter's strongest uses (menstrual drive, expulsion of the afterbirth, abortion) are reasons to leave it alone. What a cultivator can take from the chapter is the method of its choice: check the material, be able to tell the real from the adulterated, and do not repeat a story about it that the text itself says is false. No dose beyond the two teaspoonfuls above is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides maps castoreum onto several body systems, in his own words. Against snake poison, it acts on the bite and the blood. It causes sneezing, and when moistened with vinegar and rosaceum and smelled or inhaled as smoke it is said to revive the lethargic, acting on the nose, lungs and nervous system. Taken as a drink with vinegar it is said to relieve gaseousness, griping, hiccups and deadly poisons, acting on the abdomen and diaphragm. Taken as a drink or rubbed on, it is good for trembling, convulsions and all diseases of the nerves. It is said to bring on the menses, expel the afterbirth and act as an abortifacient, acting on the womb. Dioscorides sums its quality as warming. The Canon adds that it dissolves wind, warms the joints and nerves, helps tremor, palsy and head complaints, and drives the menses. No cultivation status is assigned.
+
 ### Contraindications
 
 - **Pregnancy:** the text says castoreum, taken in a drink, is an abortifacient and puts out the afterbirth. It must not be taken in pregnancy.

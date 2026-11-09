@@ -47,6 +47,10 @@ General, well-established facts only. The star gooseberry is a cultivated tree o
 
 **Practitioner's note.** A name on a list. The Samhita text on disk gives no use and no grade for it, so there is nothing for a cultivator to take from this entry. Treat it only as a pointer to look for the Sanskrit name.
 
+### Functional–Anatomical Correlate
+
+Little to map: The appendix line is a Latin name in a name list, and its Sanskrit partner is lost in the e-text, so the Samhita could not be searched for the drug. The entry states no organ, tissue, system, humour, dosha, rasa, virya or vipaka for the substance. No rasayana, vajikarana, ojas or shodhana status is attested. The only statement about the plant is that the star gooseberry is grown for its very sour fruit, which is generally eaten stewed or pickled. The Latin name is the translator's, drawn from Vaidyaka-Sabdasindhu, Wilson's dictionary and other reference works, not the Samhita's own word. The entry gives no indication, part used, preparation or dose, and no safe-use statement. Pregnancy, lactation and children are not addressed in the sources. The identification is a reading of a glossary name through a synonym, so the species is not confirmed, and no modern body correlate can be drawn from the entry.
+
 ### Contraindications
 
 - **No safe-use statement exists in the sources retrieved.** Do not take any part of the plant on the strength of this entry.

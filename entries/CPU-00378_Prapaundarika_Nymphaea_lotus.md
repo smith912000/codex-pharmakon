@@ -55,6 +55,10 @@ According to PubMed, *Nymphaea lotus* has a small but real experimental literatu
 
 **Practitioner's note.** Nothing to cultivate: a cooling topical and ingredient drug in the classic. The elixir wording belongs to the Kākolyādi group as a whole.
 
+### Functional–Anatomical Correlate
+
+The entry maps Prapaundarika onto the heart and mind. It is hṛdya, soothing to the heart, and is a calming nervine given where agitation, irritability, restlessness and insomnia arise; manovaha srotas, the mind channel, is named. Blood is the second axis: raktavaha and rasavaha srotas, with raktapittahara action for bleeding and heat, and dāhapraśamana for inflamed tissue and burning. The reproductive system, śukravaha srotas, is supported as a nutritive and reproductive tonic, and stanya (milk) supportive use is recorded. Balya and rasāyana cover depletion. Folk accounts add convulsions, anxiety and diabetes, recorded as tradition. Doṣa action is Pitta-, Rakta-pitta- and Vātapitta-pacifying, with a possible Kapha increase if used heavily. Modern correlates are animal-only: mouse work reports anticonvulsant activity linked to GABAergic signalling and antioxidant defence, reversed by flumazenil, and a review places Nymphaea among anxiolytic animal-model plants. No human trials were retrieved, so efficacy in people is unestablished.
+
 ### Contraindications
 
 Somewhat heavy and demulcent — caution in high-Kapha, congestive, and low-agni (weak digestion) states, and where mucus/sluggishness predominate. Sedative/nervine reputation warrants caution when combined with CNS depressants or benzodiazepines (the flumazenil-reversible mechanism suggests genuine GABAergic overlap). Correct species identification is essential. Pregnancy/lactation and paediatric use: `[USER: verify with practitioner]`. Not a treatment for epilepsy, anxiety disorder or bleeding disease without medical oversight.

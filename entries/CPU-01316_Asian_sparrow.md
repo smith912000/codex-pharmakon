@@ -38,6 +38,10 @@ General, well-established facts only. Semen production is governed by the testes
 
 **Practitioner's note.** A cultivator does nothing with this. It is a list entry for a small wild bird's flesh, with no preparation and no dose, and the Tantra's own first precept is to refrain from taking life. The honest use of the entry is as a record of what the text says. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives one action, and it is for the flesh of three creatures together, the nas.zan bird, a sparrow and a lizard the translator calls a gecko. The flesh, the text says, increases semen, so the one body system named is the reproductive system, semen and its production. The bracketed words aphrodisiac, tonic and anodyne, and drains pus are Clark's commentary additions and are not the verse. The sentence that says the flesh of chicken and sparrow is beneficial for wounds names the sparrow but not the nas.zan bird, so it is not mapped here. No humour, taste, potency or organ is given for the bird itself, and the lines read do not say which species nas.zan names. Whether it is a different species from the mchhil.pa sparrow is therefore not settled, and no action is assigned to it beyond the one line.
+
 ### Contraindications
 
 - **Hygiene and infection:** the flesh of wild birds can carry bacteria and parasites; it should be fully cooked, and wild-caught meat is not recommended.

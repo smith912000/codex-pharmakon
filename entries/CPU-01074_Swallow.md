@@ -44,6 +44,10 @@ General facts only. Wild birds can carry *Salmonella* and other infections, and 
 
 **Practitioner's note.** Nothing to do. The swallow is a sourced entry because two ancient texts used the bird, and both are therapeutic or amuletic, not cultivation texts. A cultivator can take from it the observation that one text uses the bird's blood and the other its belly-stones and ashes, and leave the bird alone.
 
+### Functional–Anatomical Correlate
+
+Swallow maps to the eyes, the throat, the brain and the skin, and in the Ebers to the breast and womb. Dioscorides (2-60) gives the birds eaten with their intestines for sharp sight, their ashes rubbed on with honey for the same, and their ashes and dried birds for tonsillitis and inflammation of the uvula. For epilepsy, the falling sickness, he gives two belly-stones of nestlings tied to the arm or neck as an amulet. The Unani Canon, citing him, gives the head for confused mind and epilepsy, the eye for sharpness of sight and the start of cataract, and the chest for quinsy and cough. Bryan's Ebers gives swallow blood for a stubborn eruption, and liver crushed in sour milk to anoint the breast and body for leucorrhoea. No humour or temperament is printed for the swallow.
+
 ### Contraindications
 
 - **Disease.** Wild birds carry *Salmonella*, avian infections and parasites; do not handle or eat them raw.

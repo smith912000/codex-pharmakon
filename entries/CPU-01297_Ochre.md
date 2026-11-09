@@ -42,6 +42,10 @@ General, well-established facts only. Ochres are iron-oxide-bearing clays, used 
 
 **Practitioner's note.** Nothing here is a practice for a cultivator beyond the attention it shows: choose carefully, know where the material comes from, and do not use it raw. The Codex does not recommend using ochre on wounds. If the reader wants a lesson from the chapter, it is that Dioscorides tested the earth before he trusted it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides gives ochre one quality, astringent, and names its sites as the skin and the superficial tissues. He applies it to putrefying sores, to inflammation and small swellings, to overgrowths of flesh, to sores and wounds when mixed with wax ointments, and to calluses, which are thickened skin. Its action is described in drying and filling terms: it dissolves inflammation, represses abnormal growth of flesh and fills up sores. The chapter prints no taste, heat, cold or moisture rating, and maps to no internal organ or humour. The stone is chosen for colour (light, yellow, rich), freedom from grit and brittleness, and is burnt and washed like cadmia before use, a preparation the entry records but does not tie to any body site. No Ayurvedic, Tibetan or Unani correlate is given. The mapped body is the outer skin, the wound bed and the swollen or overgrown surface tissue.
+
 ### Contraindications
 
 - **Open wounds, sores and ulcers:** do not pack a natural earth into a wound; it can introduce infection, including tetanus, and a wound that is "putrefying" needs clinical care.

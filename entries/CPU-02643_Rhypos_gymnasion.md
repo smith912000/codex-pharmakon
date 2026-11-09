@@ -54,6 +54,10 @@ General, well-established facts only. Dirt and body residues from communal place
 
 **Practitioner's note.** A cultivator does nothing with this. The tradition records it as a topical remedy, and its place in a book of cultivation is that of a curiosity: the gymnasium, the place where bodies were trained, also gave a substance to the physician's shelf. Nothing in the record supports a cultivation use.
 
+### Functional–Anatomical Correlate
+
+The chapter's claimed sites are the skin and the swellings under it. It is said to warm and dissolve tubercles, the slow-ripening swellings or growths, which maps to the subcutaneous nodules and glandular swellings of the skin. It is also helpful for abrasions, which are injuries to the superficial skin layer, the epidermis, and for the removal of scaliness, the scaly skin surface. Old ulcers, the chronic skin wounds, complete the list. The warming action is printed in the chapter as a quality of its own, and the neighbouring bath grime is said to heat, soften and disperse fluids. No internal organ, humour or channel is named. The chapter prints no preparation, vehicle or dose, and the entry does not place any part of the body beyond the skin.
+
 ### Contraindications
 
 - **Infection.** Material scraped from walls, statues or public places is unclean. Do not apply it to wounds, abrasions or ulcers.

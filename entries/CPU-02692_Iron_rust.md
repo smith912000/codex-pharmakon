@@ -46,6 +46,10 @@ General, well-established facts only. Iron oxides are not a source of absorbable
 
 **Practitioner's note.** Nothing to practise. Iron rust is a topical and internal remedy in an indication-organised chapter, with an explicit infection warning added by the translator. A cultivator has no use for it, and the recommendation is to leave it as a historical record.
 
+### Functional–Anatomical Correlate
+
+Dioscorides gives iron rust an astringent action and applies it to several sites. Externally it is rubbed on the skin for rashes such as measles, on whitlows, on venereal warts and scabbed eyelids, and on the eye membrane (pterygium). It is said to help gout at the joints, to thicken hair lost from the scalp (alopecia), and to strengthen the gums. In women the chapter names menstrual flow, and so the uterus, as the target of a stopping action; a decoction taken as a drink is also said to cause inconception, so the reproductive tract is mapped here. The final sentence concerns quenched iron rather than rust: the liquid is said to help the abdominal cavity, the bowel (dysentery, cholera, diarrhoea) and the spleen. The only quality printed for the rust is astringent. In modern anatomy the claimed sites are skin and mucous surfaces, the eyelids and eye membrane, the gums, the joints, the scalp, the uterus, the bowel and the spleen.
+
 ### Contraindications
 
 - **Open wounds and cuts.** The translator's heading warns of blood infection; rust can carry soil bacteria. Do not apply to broken skin.

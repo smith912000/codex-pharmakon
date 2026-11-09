@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a hot-tasting medicine for tumors and cold *baekan* disorders in the Tibetan texts and nothing more can be said from them. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts name the drug dbyi.mong and give it a taste, a description and one action. Clark's materia medica records a hot, slightly sweet taste and says it removes tumors, which maps to tumour and swelling in modern terms. Its use is said to equal that of Anemone, which is described as draining lymph and increasing digestive heat. The white, yellow-tinted kind is ranked most inferior, and the black kind is described as having a dark flower. The Men-Tsee-Khang text places the drug among medicines that cure cold disorders associated with baekan, a term left untranslated, and gives it the efficacy of Subka. No organ, system or power (cool or warm) is printed for the drug itself. Clark's second binomial, Clematis alpina, is not in the glossary. The botanical identity is uncertain, so the mapping is the text's and not a verified one. No clinical study was retrieved.
+
 ### Contraindications
 
 The sources read print no warning. Fresh plants of the buttercup family can irritate skin and mouth, and tumors need medical care. The botanical identity is uncertain (two binomials in Clark), so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read.

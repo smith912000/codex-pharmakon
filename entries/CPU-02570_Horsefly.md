@@ -45,6 +45,10 @@ Horseflies (family Tabanidae) are biting flies; the females feed on blood and th
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. A middle-grade insect-drug for static blood. SHORT entry: the sources give little.
 
+### Functional–Anatomical Correlate
+
+The entry maps to the blood and the abdomen. It mainly drives out static blood (zhu yu xue), breaks down blood accumulations (po xia xue ji), and treats hard lumps, concretions and conglomerations (jian pi zheng jia). It frees the blood vessels (tong li xue mai) and the nine orifices (jiu qiao), which the text gives without organ detail. In modern anatomy the vessels are the circulation, and the orifices are the openings of the head, a reading the text does not state. It names cold and heat (han re). The energetic frame is bitter and slightly cold (wei ku, wei han), with middle-class placement and no toxicity statement. The Mingyi layer says that those with blood in the belly are good (fu you xue zhe, liang), which places the use in the abdomen. Abdominal masses and abnormal bleeding need medical care, and bleeding is a reason for caution.
+
 ### Contraindications
 
 - **Bleeding.** A drug said to drive out blood accumulations is not for anyone who is bleeding, pregnant, or taking anticoagulants; this is a precaution drawn from the stated action, not from a statement in the text. [USER: verify]

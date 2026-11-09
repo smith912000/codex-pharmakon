@@ -53,6 +53,10 @@ General, well-established facts only. Jasmine flowers are fragrant and are used 
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with this plant. It is a white flower, used once in an asthma potion and once in an offering.
 
+### Functional–Anatomical Correlate
+
+Per the Sushruta text, Kunda is a flower in one asthma potion: the flowers of Sirisha, Kadali and Kunda are taken with Magadhika and dissolved in rice washings, which the text says would cure all forms of asthma (Uttara ch.51). The potion maps to the respiratory system, since asthma is the condition named. A second use is ritual, offerings to the Pitri Grahas made with Kusa grass, Madhavi and Kunda flowers (Uttara ch.60), which maps to no body system and is recorded as the text records it. In two eye-disease descriptions (Uttara ch.7; Chikitsa ch.30) the flower serves only as a comparison of whiteness, not as a drug. The passages name no taste, potency, humoral action or organ for Kunda itself, and the rasayana and vajikarana chapters were not found to name it. The Codex gives no quantity or protocol, and does not translate asthma into a modern diagnosis.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for this flower. Asthma is a medical condition and needs proper care; do not treat it from this entry. No safety information for pregnancy or lactation was read. [USER: verify] Identity rests on a translator's appendix pairing, so no plant should be gathered or used on the strength of this entry.

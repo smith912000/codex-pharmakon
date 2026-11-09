@@ -50,6 +50,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** A cultivator does nothing with this plant on the evidence read. It is a food, and its single sourced medicinal remark is a comparison with the leek. Three of its four tags are inherited from garlic and onion and should be treated as unverified for this species.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry's only sourced statement comes from Dioscorides (2-180). He calls this plant warmer than the leek and more uretic, meaning it acts on urine and the urinary passage, and says it expels the menstrual flow, which touches the reproductive tract. He also says it is worse for the stomach than leeks, and that eating it helps those bitten by poisonous beasts. The entry names no further organ system, gives no constituent for this species (alliums generally carry sulfur compounds, not measured here), and retrieved no clinical study. Its Egyptian, Assyrian and Avicenna tags are unsupported at species level. Its stated cautions are stomach upset, heartburn, bleeding disorders and blood-thinning medication.
+
 ### Contraindications
 
 Dioscorides himself calls it "worse for the stomach than leeks" and says it expels the menstrual flow, so it should not be treated as a pregnancy-safe medicinal. General cautions for alliums apply: heartburn in sensitive people, and care with bleeding disorders and blood-thinning medication. Do not use it for snakebite. Seek emergency care.

@@ -56,6 +56,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+Hematite's one prescription in Bryan's text places it on the abdomen and the stomach. The patient's abdomen is ill and his limbs are tender and flaccid, and the diagnosis examines a complaint in the genital region that Bryan leaves partly illegible. Hematite-from-Elefantine, crushed with linseed and onions and cooked in oil and honey, is eaten for four mornings 'to quench his thirst and to drive away the dangerous matter from his stomach.' The claimed sites are therefore the abdomen, the stomach, the thirst (fluid balance and the mouth), and the limbs as parts the diagnosis examines. The papyrus gives the iron earth no other organ, and does not link the red colour to blood, skin or any internal organ. In modern anatomy terms the stomach and abdominal cavity are the mapped sites.
+
 ### Contraindications
 
 - **Unspecified earth:** natural red earths can carry heavy metals and other contaminants; the material is not defined beyond Bryan's English word.

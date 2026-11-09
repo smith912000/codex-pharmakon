@@ -49,6 +49,10 @@ General, well-established facts only. Chamomile is a familiar aromatic herb of t
 
 **Practitioner's note.** An ancient diuretic and menstrual-flow herb whose plant is not settled from the text. Nothing here supports any cultivation use, and the abortifacient claim and the larkspur candidate are reasons for caution. A cultivator should not use it.
 
+### Functional–Anatomical Correlate
+
+The entry is a single Dioscorides chapter, and it ties the drug mainly to the menses, the urinary tract, the liver and the bowel. In the text's terms the roots, flowers and herb have a warming, relieving strength. They are said to bring on the menstrual flow, to expel stones in the urinary and kidney passages and to induce urine, and they are given for gaseousness, intestinal obstruction, jaundice and liver ailments. A decoction is used in warm packs for the bladder. Other targets are the eye, where a smear treats ulcers in the inner angle, the mouth, where chewing treats thrush (apta), and recurrent fevers, treated by a suppository. The text does not identify the plant: the heading's three kinds may be wild chamomile, dyer's chamomile or forking larkspur, and the translator's gloss gives no way to choose. The text's abortifacient claim and the larkspur candidate are reasons for the Codex's caution, and no dose is mapped from it.
+
 ### Contraindications
 
 - **Pregnancy.** The text says the herb is "abortifacient" and expels the menstrual flow. Avoid in pregnancy.

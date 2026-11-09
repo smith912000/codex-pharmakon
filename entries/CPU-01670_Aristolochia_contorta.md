@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a fever-curing drug in the Tibetan texts, its species is not settled, and the genus it may belong to is a known kidney and cancer hazard. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the Clark root-layer sentence, outside the brackets, says birthwort cures fevers of the lungs, liver and vessel organs. The Men-Tsee-Khang text, under the name Bhaleka, says it cures hot disorders of the lungs, liver and vessel organs. Those are the only organs the texts name for this drug. Inside Clark's brackets, the commentary layer gives a bitter taste and a coarse power, and cures for phlegm, painful infectious fever and blood disorders; the shrub is described as a twining plant with no fruit or flower. Clark's rta.rmig entry names this binomial as a sibling, but there assigns the use to Epimedium, so that line is not taken as this drug's. The Codex does not say which organ any plant of this genus acts on. No preparation, dose or clinical study is given, and the identity is uncertain between four binomials in Clark and a fifth in the glossary.
+
 ### Contraindications
 
 The sources read print no warning. Plants of the genus *Aristolochia* contain aristolochic acids, a general, well-established hazard to the kidneys and a cancer risk, and the Tibetan drug may or may not be such a plant. The botanical identity is uncertain, so no plant should be gathered or used on the strength of this entry. Fevers of the lungs, liver and vessel organs need medical care. No safety information for pregnancy was read. [USER: verify]

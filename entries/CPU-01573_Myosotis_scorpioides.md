@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a small herb smeared on a scorpion bite, with no quantity and no further description. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry gives one body region and one action. Dioscorides says the herb, smeared on, helps those bitten by scorpions considerably, so the statement places the action on the skin at the site of a bite. The chapter names no internal organ, tissue or system. It prints no temperament, taste, humour, doshic or qi term for this herb. Its only physical detail is a small herb with a few leaves like scorpions' tails. The entry records that the translators suggest two unrelated plants for this chapter, a forget-me-not and a legume, and that the chapter does not settle between them, so the body action cannot be tied to one species. The cross-referenced chapter 2-214 describes a different plant with a different use and is not read into this row. No dose, preparation beyond smearing, or organ is stated.
+
 ### Contraindications
 
 The chapter prints no warning. A scorpion sting needs medical assessment, and a home application must not replace it. The identification rests on a translators' suggestion between two unrelated plants, and the leaf comparison is too slight to gather a plant from, so no wild plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

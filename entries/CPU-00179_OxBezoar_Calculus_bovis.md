@@ -71,6 +71,10 @@ A comprehensive review of *Calculus bovis* (Yu et al., 2020, *Journal of Ethnoph
 
 ---
 
+### Functional–Anatomical Correlate
+
+Ox bezoar maps onto the heart, the liver and the nervous system in the entry's own terms. In Chinese medicine it enters the Heart, where it clears heat and opens the orifices to settle the Shen, and the Liver, where it extinguishes internal wind, clears Liver heat and stops convulsions. It is also said to clear heat-phlegm obstructing the Heart and to resolve toxicity. Ayurvedic (Gorochana) terms give a cooling action for fever (jvara), poisoning (visha) and mental disturbance (unmada), and Tibetan use is for liver heat, poisoning and disturbed consciousness. The modern review the entry cites lists effects on the nervous, cardiovascular, respiratory, digestive and immune systems, and links sedative and anticonvulsant action to bile pigments such as bilirubin, with bile acids linked to hepatobiliary and digestive activity. The same bilirubin is flagged for neurotoxicity and hearing impairment at high concentration, which sets a real ceiling on what this material can reach.
+
 ### Contraindications
 
 - **Cold / deficiency patterns; no true heat:** contraindicated — Niú Huáng is cool and for excess heat/toxic-heat only.

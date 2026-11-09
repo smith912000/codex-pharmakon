@@ -71,6 +71,10 @@ According to PubMed, the modern evidence base is preclinical (animal and in-vitr
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, Globularia alypum acts on the bowel as a drastic, downward-moving purge, described in Unani terms as a mus-hil that evacuates thick phlegmatic and bilious matter, and in Dioscoridean terms as a purgative that moves matter downward. The depurative or blood-cleansing use is recorded as folk practice. The most modern-supported action is on glucose metabolism: the Maghrebi folk use for diabetes, which in rats lowered blood glucose without changing insulin secretion, implying an extra-pancreatic mechanism, and, in alloxan-diabetic rats, lowered fasting glucose, protected pancreatic cells, raised liver glycogen and protected against diabetes-induced damage to the liver, kidney, heart, testis and bone. The entry's modern reading of the purge is the iridoid glycoside globularin acting on the mucosa. Fever and skin disease appear only as traditional uses. The entry says the evidence is preclinical, with no human trials, so the bowel and blood-sugar actions remain unproven in people. Pregnancy, lactation, inflammatory bowel disease, intestinal obstruction and children are cautioned against, and the hypoglycaemic and anticoagulant actions call for care alongside antidiabetic and anticoagulant drugs.
+
 ### Contraindications
 
 **⚠️ DRASTIC PURGATIVE — USE WITH RESTRAINT.** *Globularia alypum* is a **strong, drastic laxative**. Overuse or excess dose can cause violent purging, painful cramping, and — as with any drastic — fluid and electrolyte loss, dehydration and, with chronic use, laxative dependence and colonic dysfunction. It must not be used habitually, and never for routine bowel regulation. Keep to weak preparations; reserve strong purgative dosing for clinician-guided contexts.

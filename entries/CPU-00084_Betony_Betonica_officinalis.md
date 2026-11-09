@@ -61,6 +61,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 **Practitioner's note.** The practice Dioscorides gives is attentive gathering: take the leaves at the right time and dry them before storing in a jar. Nothing here supports a regimen of long-term use.
 
+### Functional–Anatomical Correlate
+
+Per the entry, betony's defining target is the head and nerves: its traditional use is for chronic, tension and nervous headache, vertigo, anxiety and frayed nerves, a register the entry assigns to Shen (head and nerve) alongside Qi. Its Galenic classification is hot and dry, said to open obstructions of the head and stomach. The digestive tract is a second target, as a bitter-aromatic digestive and, through its tannins, an astringent for loose bowels and relaxed tissues. The same tannins are used as a gargle for sore throat and spongy gums. The skin and wounds are the vulnerary target, with bruised leaf applied to clean and staunch wounds. The Anglo-Saxon protective use against night-fears, bad dreams and elf-sickness is recorded by the entry as cultural history, not a body-system claim. The entry flags pregnancy, as a uterine stimulant, and large doses, which can irritate the stomach, as cautions.
+
 ### Contraindications
 
 - **Pregnancy — caution/avoid.** Traditionally regarded as a uterine stimulant/emmenagogue; medicinal use avoided in pregnancy. [USER: verify.]

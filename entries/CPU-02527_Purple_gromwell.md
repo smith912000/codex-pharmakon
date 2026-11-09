@@ -41,6 +41,10 @@ General, well-established facts only. The red root pigments of the gromwells hav
 
 **Practitioner's note.** Nothing in the paragraph gives a cultivator a practice. The classic puts the root in the middle grade, which its preface ties to checking disease and mending weakness with a weighing of the drug's strength, and gives it no long-use clause. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The paragraph maps the root onto the heart and abdomen (心腹), where it treats evil qi (邪气), and onto the five jaundices (五疸), a group of yellowing conditions the entry does not describe further. Its link to the liver or bile is not stated and should not be inferred. It mends the centre (补中) and benefits qi (益气) without naming an organ. Its other claims concern the nine orifices (九窍), which it frees, and the water passages (水道), which it opens. The Mingyi layer names the root as the part gathered. Energetically it is bitter and cold (味苦，寒). The classic places it in the middle grade, whose preface ties that class to checking disease and mending weakness, and the paragraph has no long-use clause. The Codex records these as the classic's categories and does not translate them into modern diagnoses. The dye use noted by the commentators is not a body effect.
+
 ### Contraindications
 
 - **Identity:** several plants are sold as zicao; they are not interchangeable and the text cannot tell them apart.

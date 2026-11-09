@@ -45,6 +45,10 @@ General, well-established facts only. Frankincense (olibanum) is the dried gum-r
 
 **Practitioner's note.** A name on a list, with no use. The Samhita text on disk gives no grade, no preparation and no dose, so the entry offers a cultivator nothing to practise.
 
+### Functional–Anatomical Correlate
+
+Little to map: Appendix No. 3 gives one line, 'Gum of Boswellia Thuripera', in a run of Latin glosses. The gloss says the drug is the exuded gum, not the leaf or bark, and that is the only thing stated about its form. The Samhita proper does not print the Latin name. The appendix gives no indication, preparation, dose or duration, and prints no rasa, virya or vipaka. No rasayana, vajikarana, ojas or shodhana statement is made. The text therefore links this gum to no organ, tissue, channel or dosha, and states nothing about the airways, skin, digestion or any other body system. No safe-use statement exists, and nothing is recorded about pregnancy, lactation or children. The Latin binomial is a reading of a misprint, so even the species is uncertain. No body-system correlate is drawn from this entry.
+
 ### Contraindications
 
 - **No safe-use statement exists in the sources retrieved.**

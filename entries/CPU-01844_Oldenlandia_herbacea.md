@@ -55,6 +55,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with this herb; it is a bitter ingredient in treatments of illness, and the Latin behind the name is a translator's appendix pairing.
 
+### Functional–Anatomical Correlate
+
+Under the name Parpataka the text describes a bitter herb that subdues Pitta and Kapha. Its named sites are wide. The skin is one, through ghees for Kushtha and erysipelas. The blood is another, through Raktapitta, and the potherb list gives it for haemoptysis. The respiratory tract is named in fever with bronchitis, cough, asthma and throat constriction, and in dyspnoea. The digestive tract and liver appear in Grahani, Atisara, Gulma, haemorrhoids, oedema and jaundice, and the lymph glands in Ganda-mala, or scrofula. The nervous system is named through Apasmara and insanity, and the urinary tract through Meha. Its enema and oil uses are for Pitta disorders applied in the colon. The text gives no virya or vipaka for it singly, and the name Kshetra-parpata is not printed in any chapter.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for this herb. The identity is open, so no plant should be gathered or used on the strength of this entry. Fever, Kushtha (skin disease), bleeding and Gulma need medical care; an enema is a clinical measure and not a home one. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

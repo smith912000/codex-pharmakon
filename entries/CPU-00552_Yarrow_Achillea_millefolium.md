@@ -116,6 +116,10 @@ Cool and dry. Bitter, pungent, astringent. Assigned in Western humoral practice 
 
 **Practitioner's note.** Nothing for cultivation. In Dioscorides, yarrow is a wound and blood-flow herb, and learning to recognise it in the field is the practice.
 
+### Functional–Anatomical Correlate
+
+Traditional and Dioscoridean material places yarrow in the blood and wound domain. Dioscorides (stratiotes chiliophyllos) calls it excellent for excessive discharge of blood and for old and new ulcers and fistulas, and Greek and Latin practice applied the bruised herb to bleeding wounds. Internally, the hot infusion of flowering tops is a diaphoretic at the onset of fever and colds, acting through the skin's sweating; the bitter infusion is a digestive tonic; and the herb is an emmenagogue for suppressed menses. Humoral placement is cool and dry, bitter, pungent and astringent, assigned to Venus and sometimes Mars: the cold poultice contracts and the hot infusion opens. The Shennong entry (fruit, usually of Achillea alpina) is recorded as governing qi, flesh and skin, and the eyes. The entry's modern correlates are wound closure in a keratinocyte scratch assay with no antimicrobial effect, and a haemostatic mechanism that remains unproven. Its sesquiterpene lactones sensitise the skin, the most common adverse event, and the uterus is to be avoided in pregnancy.
+
 ### Contraindications
 
 - **Asteraceae sensitisation.** Yarrow is a well-recognised cause of allergic contact dermatitis, driven by its sesquiterpene lactones. Anyone reactive to chamomile, feverfew, ragweed, arnica, or chrysanthemum should treat yarrow as suspect. Patch-test before repeated topical use. This is the most common real-world adverse event with this plant.

@@ -43,6 +43,10 @@ The text gives only the harvest: the fruit gathered in the second and fourth mon
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. A lower-grade plant whose first indication sounds like a tonic but whose grade is a warning against long use. SHORT entry: the sources give little.
 
+### Functional–Anatomical Correlate
+
+The paragraph's first line names the kidney qi (养肾气), and the entry treats the kidney as a viscus of the classic's system, in modern anatomical terms the kidney. The drug is said to treat internal injury and decline of the yin (阴衰). It names the sinews, bones, skin and hair (筋骨皮毛) as the tissues it benefits. The fruit has a separate line: it kills gu poison, breaks accumulations and gatherings, and drives out wind impediment (风痹), a term the classic does not define further. The alias ghost eye (鬼目) may apply to the plant or to the fruit alone. The entry gives no channel and no more organ detail. Its opening line is an indication, not a cultivation status, and the classic files the drug as lower-grade. No modern study was retrieved, and no tissue effect is shown in any source read.
+
 ### Contraindications
 
 - **Lower-grade drug.** The Classic says lower drugs are mostly toxic and not for long use; no toxicity is printed for this one, and none is established here.

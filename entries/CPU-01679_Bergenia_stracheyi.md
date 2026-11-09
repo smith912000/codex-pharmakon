@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. The Tibetan name behind the binomial is a fever drug in Clark, and the Men-Tsee-Khang glossary links the binomial to the name only by column position. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Clark 1995 line for (li.)ga.dur, which prints Bergenia crassifolia among its four Latin names, says in the root text that the drug cures infectious fevers, lung fevers and channel fevers (line 977). The lungs are the one organ the root-text clause names, through lung fevers. Channel fevers are named, but the entry does not say which channels. The bracketed commentary adds that the drug has hot and sweet tastes, cures lung disorders and reduces swellings. That is commentary, not root text, so it is mapped only with that label. The commentary also describes thick leaves and a pink flower interior, with no tissue named. The Men-Tsee-Khang text prints no action for Gadur. The link from that name to Bergenia stracheyi is by glossary column position only, so the drug's organ targets are not established for this binomial. The mapping is limited to the lungs, fevers and channels as printed, with the swelling and lung claims labelled commentary.
+
 ### Contraindications
 
 The sources read print no warning. The identity rests on a column position and the species is not certain, so no plant should be gathered or used on the strength of this entry. Infectious and lung fevers need medical care. No safety information for pregnancy was read. [USER: verify]

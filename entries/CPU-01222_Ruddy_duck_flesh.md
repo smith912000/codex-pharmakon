@@ -38,6 +38,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The only gener
 
 **Practitioner's note.** Nothing here supports a cultivation use. The duck is a food in the Tibetan dietary chapter and a single-purpose medicine in the materia medica, and a cultivator who eats well-sourced, cooked poultry is doing so as food. The text promises nothing beyond that.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives one claim, that the flesh cures anterior transposition of the calf muscle in Clark's rendering, or dislocation of the calf muscle in the Men-Tsee-Khang edition. That places the action on the calf muscle and nothing further, and neither translation defines the disorder, so no modern condition or system can be named. The Clark sentence sits outside the square brackets, so it is the root-text claim. The dietary chapter, which the entry cites, lists the red wild duck among animals living in wet places and gives that group's meat as sweet, oily, heavy and warm in power, beneficial to the stomach, kidneys and waist and in cold wind disorders. The entry treats those as qualities of the group's meat as food, not as claims about this bird's flesh. No taste, potency or humour is printed for the duck as a medicine.
+
 ### Contraindications
 
 - **Hygiene and infection:** wild waterfowl are natural carriers of avian influenza viruses and also of *Salmonella* and *Campylobacter*; the flesh must be fresh, handled hygienically and cooked through.

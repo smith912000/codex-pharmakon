@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapters gives a cultivator a practice with this plant. The only horticultural line is that it is sown in gardens and made into head wreaths (3-50). The useful lesson is the method of telling a wild look-alike from basil by roughness and pod. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Under Dioscorides (DMM), chapter 3-50 maps its herb to the intestines and the menstrual flow, since taken as a drink it stops intestinal discharges and the menstrual flow, which are the only internal uses named. Applied, it heals pannus, an opaque thickening of the cornea with veins, which places it in the eye, and erysipelas, a streptococcal skin infection, which places it on the skin. Chapter 4-28 gives a decoction of its seed in wine for the bites of vipers and other snakes, and the seed with myrrh and pepper for sciatica, a nerve pain in the hip and leg. The 3-50 herb is described as sweet-scented and rougher than basil, and neither chapter prints a temperament, humour or taste for the plant beyond that. The Acinos identity is the translators' suggestion, and the two chapters do not describe one plant, so the mapping does not show what Thymus acinos does.
+
 ### Contraindications
 
 The chapters record an intake that "stops ... the menstrual flow" (3-50) and a use for sciatica with myrrh and pepper (4-28); neither is advice. The seed decoction is offered for snakebite, which needs urgent medical care. The identification is a translators' suggestion and the Lamiaceae include look-alikes of differing safety, so no plant should be gathered or used on the strength of this entry. [USER: verify]

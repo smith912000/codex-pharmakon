@@ -57,6 +57,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a poison drug named in two chapter 21 lists and in one chapter 20 entry under a different name, with no preparation and no dose, and the genus is a liver-toxic one. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names no organ or body system for this drug. Clark 1995 lists Senecio dianthus among the poison-neutralizing medicines of chapter 21, and at line 1019 says the yu.gu.shing drug heals wounds and cures fever caused by poisoning. The Men-Tsee-Khang chapter 21 group that cures poisoning is tied to this binomial only through a name read by position. The descriptive words, a bitter taste, cool power and a pungent odor that subdues spirits, sit inside Clark's square brackets and belong to the commentary layer. Wounds are the only bodily site the entry names, and the fever is named as a fever caused by poisoning. The Tibetan name is not settled between the two editions, and the identity rests on a column count and on Clark's list of five Latin names. Nothing further can be placed on the body from this entry, and poisoning and wounds need medical care.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Poisoning, fever and wounds need medical care; the Tibetan name is open, the identity rests on a column count and on Clark's list of five, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. It is a general fact that many *Senecio* species contain liver-toxic pyrrolizidine alkaloids and that these are a recognised hazard in herbal products; this is a statement about the genus and not about the Tibetan drug. No conservation information and no safety information for pregnancy were read. [USER: verify]

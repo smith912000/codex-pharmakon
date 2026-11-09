@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a skull-fracture and lymph drug in two short sentences, with no preparation and no dose, and the Latin name is one of several the editions offer. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Clark's root-text line says the drug "heals skull fractures, dries lymph accumulations". Its bracketed commentary adds that it cures infectious tissue degeneration and is beneficial in painful infectious fever, and the Men-Tsee-Khang text says "Ajak heals fractured skulls and dries up chhuser". On the entry's claims the drug acts on the skull and its bone, on the lymphatic system where lymph accumulates, on infectious degeneration of tissue, and on febrile infection. In modern anatomy the skull is the cranial bone, and lymph accumulation concerns the lymphatic system. The entry names only the skull directly. The Codex keeps "lymph" and "chhuser" as the two translators' terms and does not set them equal. Four names are offered for the drug, so the anatomical claims rest on the Tibetan name and not on a verified species.
+
 ### Contraindications
 
 The sources read print no warning for this drug. A head injury needs emergency medical care, and no plant should be gathered or used on the strength of this entry. Several daisy-family plants are known to cause contact allergy in some people, but that is a general fact and is not shown for this species. The identity is open, no preparation or dose is given, and no safety information for pregnancy was read. [USER: verify]

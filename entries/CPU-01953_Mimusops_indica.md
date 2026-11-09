@@ -51,6 +51,10 @@ General, well-established facts only. Fleshy tropical fruits are generally edibl
 
 **Practitioner's note.** Nothing here gives a cultivator a practice with this fruit. In the Sushruta scheme it is one of the sweet, cooling fruits, listed in groups, and nothing should be gathered or eaten on the strength of a Latin name that the text does not itself give.
 
+### Functional–Anatomical Correlate
+
+The chapters name no organ, tissue or channel for Rajadana, so the body map is in Sushruta's dosha terms. Rajadana is listed among the cooling, astringent fruits that subdue the Pittam and Kapham, and the text gives it, of itself, as demulcent, sweet, astringent and heavy (Sutra 46, line 1143). Sutra 42 places it in the sweet (Madhura) group and Sutra 38 in the Parushakadi group, and neither passage assigns it to a site in the body. In these lists it is a food, not a treatment. Modern anatomy adds only a gloss: demulcent action, as the term is usually used, means soothing of mucous surfaces, but the text does not say the drug acts on the mouth, stomach or intestines. No virya or vipaka is printed for Rajadana alone, and no rasayana or vajikarana status is attested. The entry offers no preparation, no dose and no warning for the drug itself. The identity rests on a positional pairing with Mimusops indica, a tropical sapotaceous tree, so the physiology of that species cannot be taken from the Sushruta drug.
+
 ### Contraindications
 
 The Sushruta passages read print no warning for the drug itself. The identity rests on a translator's appendix and a positional pairing, and the species is not settled, so no tree or fruit should be gathered or eaten on the strength of this entry. No conservation or pregnancy information was read. [USER: verify]

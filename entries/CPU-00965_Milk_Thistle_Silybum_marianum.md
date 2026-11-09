@@ -145,6 +145,10 @@ The Codex also notes silymarin's documented role as the sole evidence-based anti
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places milk thistle chiefly on the liver and its bile system. Dioscorides' seed decoction is said to be good for jaundice and to promote the flow of bile. Avicenna's Canon assigns it to the liver and spleen (kabed and tihaal), warm and dry in the first degree, as a choleretic that opens hepatic obstructions and strengthens the liver against corrupt humors. In the TCM frame, a non-canonical parallel, it is bitter and slightly cold, entering the Liver (肝) and Gallbladder (胆) channels to drain Liver fire and protect Liver Yin, and Ayurvedic Pitta-clearing bitters are its closest parallel. The entry's modern account maps this onto hepatocyte membranes, NRF2-driven glutathione and Phase II enzymes, Phase I CYP3A4 and CYP2C9, and hepatic stellate cells, the fibrogenic pericytes whose TGF-β1 signalling silybin is said to reduce. It notes that the choleretic action is contraindicated in complete bile duct obstruction.
+
 ### Contraindications
 
 - **Hormone-sensitive conditions:** Silymarin and silybin have documented weak phytoestrogenic activity via preferential ER-β (estrogen receptor beta) binding. The estrogenic potency is substantially lower than pharmaceutical estrogens and is not clinically significant at standard doses in healthy adults. However, in individuals with hormone-sensitive conditions — estrogen-receptor positive breast cancer, endometriosis, uterine fibroids — caution is warranted, particularly with high-dose or phytosome-enhanced formulations that achieve meaningfully higher plasma levels.

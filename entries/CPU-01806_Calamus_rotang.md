@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Sushruta t
 
 **Practitioner's note.** In the Sushruta scheme these are working drugs of the physician's recipes, used externally and internally for defined complaints, with no rejuvenation or vitality status in the chapters read. A cultivator does nothing special with them. The Latin identification is the translator's appendix pairing across three Sanskrit names, and the chapters do not confirm it.
 
+### Functional–Anatomical Correlate
+
+The chapters name several body sites for the three Sanskrit names, and the appendix's single Latin does not separate them. Vetasa is in a honey paste for restoring the natural skin colour of a cicatrix, in a hot plaster for the Pittaja type of glandular swelling (Granthi), in a head plaster for Pittaja and Raktaja diseases, and in a wash or snuff for Pittaja ophthalmia of the eye. Vanjula, in the astringent Nyagrodhadi group, is said to favour the uniting of fractured bones, to cure disorders of the uterus and vagina, and to prove curative in haemoptysis (bleeding from the lungs or airways). Nichula is a gargle for mouth disease, a plaster for hernia and hydrocele, and is named in Prameha and abscess recipes. Vetasa is also named for the Kaphaja type of Pandu. The text's terms are Pitta, Kapha, Vata-Rakta and Granthi, and the entry prints no individual virya or vipaka.
+
 ### Contraindications
 
 The Sushruta passages read print no warning for these drugs. Ulcers, fever, diarrhoea, jaundiced or pallid conditions (*Pandu*), hernia and mouth disease need medical care. The identity is a translator's pairing across three names, so no cane should be gathered or used on the strength of this entry. Rattan palms are spiny, and handling the canes can wound. The sweet flag, which the appendix prints as "Acorus Calamus" against *Vacha*, is a different plant with its own safety concerns (see I_047). No conservation information was read. No safety information for pregnancy was read. [USER: verify]

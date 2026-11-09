@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] In general ter
 
 **Practitioner's note.** Nothing here gives a cultivator a practice. The plant is a pasture grass in the text, with a wound poultice and a urinary decoction attached, and its identity is unresolved. The abstentive answer is the correct one.
 
+### Functional–Anatomical Correlate
+
+The chapter (4-30) maps the plant to wounds, the urinary tract and the bladder. The root, pounded, is applied to heal wounds. A decoction of it, taken as a drink, is good for griping (bowel pain), painful urination and ulcers around the bladder, and it is said to break urinary stones. The description adds that the grass is nourishing for cows and labouring cattle, a note on animal feed rather than a body effect. The root is called sweet, a taste note; no warming, cooling, drying or astringent quality is printed. No temperament, humour or doshic term is given. The entry states that the species is undecided among a plate caption, a preferred suggestion of stitchwort and an other-usage bent grass, so these organ claims cannot be attached to a confirmed plant. No dose is given.
+
 ### Contraindications
 
 No safety information is printed. Because the plant is not identified, no safety statement can rest on this chapter. Painful urination, bladder ulcers and stones require a clinician. None of the uses above is advice.

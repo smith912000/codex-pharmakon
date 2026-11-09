@@ -52,6 +52,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this tree. In Sushruta it is an astringent, cooling tree used in remedies for burns and bleeding diarrhoea. The abstentive answer is the correct one: any use is a matter for a qualified practitioner, and the text supplies no long-term regimen.
 
+### Functional–Anatomical Correlate
+
+Sushruta's citations place Plaksha on the skin, the bowel and the stomach. In the burn chapter it is one ingredient of a plaster applied over a burn of the Samyag-Dagdha type, so the target is injured skin and surface tissue, though the part of the tree used is not stated. In the diarrhoea chapter a bark potion, pasted with milk and honey, is said to stop the discharge of blood in Atisara, which points to the intestinal lining. The fruit, grouped with the Kshira-Vrikshas, is described as cooling and astringent, subduing Pitta and Kapha, and long retained in the stomach undigested, so the stomach and digestive tract are the named organs. The text's own terms are astringent and cooling, with a tendency to produce parchedness in the system. The entry names no nervous, reproductive or circulatory organ for the tree. The Vanaspati label is a class heading rather than an organ claim, and whether the fruit description applies to Plaksha alone is not settled in the lines read.
+
 ### Contraindications
 
 No safety data were read. The traditional uses above are for burns and bleeding diarrhoea, which are conditions needing medical care, and none of them is advice. Do not apply a bark or latex plaster to a burn at home, and do not treat bloody diarrhoea with a herbal drink without medical care. Do not use in pregnancy. The identity of the tree is uncertain, and the Latin name should not be used to buy or harvest material.

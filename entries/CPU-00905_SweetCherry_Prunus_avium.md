@@ -112,6 +112,10 @@ Adequate fluid intake must accompany any diuretic-intent tea.
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry divides sweet cherry into two organs with two body targets. The fruit is a food of the cooling-nutritive register, acting on the blood and the belly: fresh fruit is loosening to the bowel in quantity and cooling to the blood, and its colour comes from anthocyanins. The discarded stalk (peduncle) is the medicinal organ, acting on the water passage: traditional terms describe it as cold and dry, draining downward, and opening the urinary passage, with tissue affinity for kidney, bladder and the water passage. Folk uses for urine flow, oedema, gravel and cystitis are recorded in European and Anatolian practice, but the entry states that a diuretic effect is not demonstrated. The stalk's antioxidant activity and narrow Gram-positive antimicrobial effect are in vitro findings. The kernel is not a medicinal organ; its amygdalin is treated as a cyanide hazard. The entry also notes fructose malabsorption and IBS as limits on fruit eaten in quantity.
+
 ### Contraindications
 
 ⚠️ **CYANOGENIC KERNELS — the principal hazard of this plant.**

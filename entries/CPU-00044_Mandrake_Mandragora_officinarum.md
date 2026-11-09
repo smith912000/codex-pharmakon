@@ -134,6 +134,10 @@ The combination with opium (μ-opioid analgesia) and hemlock (flaccid paralysis 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry's central body-system claim is that mandrake root's tropane alkaloids, scopolamine and hyoscyamine, act through anticholinergic blockade. It lists scopolamine's central effects of sedation, amnesia and analgesia through a thalamic cholinergic pathway, and hyoscyamine's peripheral antispasmodic, antisecretory and analgesic actions, including reduced airway secretions during surgery. The Canon of Medicine classes mandrake cold in the fourth degree and keeps warm wine and aromatic stimulants as the antidote, which the entry reads as protecting the innate heat the drug threatens. Dioscorides' account is of a surgical anaesthetic wine that induces deep sleep. The entry's energetic mapping gives Shen as the primary tier, with Kidney-Jing for the traditional fertility association, Heart-Shen for consciousness suppression and Liver for antispasmodic pain relief. The uterine relaxant effect is noted as a possible secondary Jing relevance. The entry states that the fruit is far less toxic than the root, and its contraindications repeat the henbane anticholinergic list.
+
 ### Contraindications
 
 Identical mechanism to henbane — see I_129 for complete anticholinergic contraindication list. Additionally:

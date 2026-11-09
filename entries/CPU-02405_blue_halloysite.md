@@ -47,6 +47,10 @@ General, well-established facts only. Halloysite is a clay mineral in the kaolin
 
 **Practitioner's note.** A blue stone for the eyes, bones and lymph, in a list of stones whose identification is the translator's guess. Nothing in the record supports a cultivation use, and a cultivator should not take or apply it.
 
+### Functional–Anatomical Correlate
+
+The entry maps the blue stone to three claimed sites: the eyes, the bones and the lymph. Clark's 1995 translation, in the root text on stone medicines, says that yug, the blue type of halloysite, cures eye diseases, bone fever and dry lymph accumulations. The Men-Tsee-Khang 2011 text says that Ligbu mik, Tsag and Yug cure eye disorders, inflammation of the bones, and dry up chhuser, which Clark renders as lymph. So the claimed organ sites are the eye, the bony tissue and the lymphatic fluid, and the function named is curative, with no account of how the action happens. The entry's pairing of Yug with Tsag and Ligbu mik is an inference from sound and sentence and not a statement in either text. No taste, potency, humour or channel is printed for the stone, and the Tibetan frame gives it no place in any practice.
+
 ### Contraindications
 
 - **Eye.** Do not apply any mineral of unknown composition to the eye.

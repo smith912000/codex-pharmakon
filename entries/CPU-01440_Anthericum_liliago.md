@@ -39,6 +39,10 @@ No claim is made that the plant counters any venom. No clinical studies were ret
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The chapter is a field description with a bite remedy, and the honest practice is to read it for how the plant was recognised.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter's stated actions are on scorpion stings, harvest-spider bites and griping. A decoction of leaves, seeds and flowers, taken as a drink with wine, helps those touched by scorpions or bitten by harvest spiders. The same plant, the text says, dissolves griping, a colicky pain of the gut. The chapter names no organ for the bites and gives no humoral, doshic, qi or other energetic quality; no quality at all is printed for the plant. The description (two or three stems apart, white many-cut lily-like flowers, a thick black seed like half a lentil, a thin green root that contracts after lifting) and the hilly habitat are for identification. The Greek name is a word for a venomous spider, and the chapter uses it for a plant. The identity of the Greek plant with A. liliago is the translators' suggestion, and the entry does not settle it.
+
 ### Contraindications
 
 The identity of the Greek plant is uncertain, so no safety statement can be made for it. Venomous bites and stings are emergencies for medical care, not for a wine decoction. None of the traditional uses above is advice. [USER: verify]

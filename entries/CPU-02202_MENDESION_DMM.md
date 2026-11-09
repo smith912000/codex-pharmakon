@@ -47,6 +47,10 @@ General, well-established facts only. Myrrh, cassia and cinnamon are aromatic pl
 
 **Practitioner's note.** A perfumed Egyptian-style ointment, recorded as a lesser metopium. The record is of craft interest only, and there is nothing in it for a cultivator to take up.
 
+### Functional–Anatomical Correlate
+
+Little to map: Mendesion is an ointment compounded of balanine oil, myrrh, cassia and resin, and the chapter gives it no organ, system or action of its own. Its only stated effect is comparative: it has properties similar to metopium, yet to a lower degree. The metopium chapter, which the text cites, says that metopium heats and burns considerably, opens the mouths of blood vessels, draws and purges ulcers, and helps chills, convulsions and watery lungs. Mendesion would be weaker by that comparison, but the chapter does not list those effects for it. The text names no body region for the ointment and gives no route, dose or method beyond pounding the ingredients together. Its ingredients are described in other chapters, which the Codex does not carry over here.
+
 ### Contraindications
 
 - **Skin.** Cassia and cinnamon oils can irritate or sensitise skin; the text itself calls the related metopium heating and burning.

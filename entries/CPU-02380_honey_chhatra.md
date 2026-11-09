@@ -43,6 +43,10 @@ General facts only. Honey is a sweet food made by bees from nectar; the Sushruta
 
 **Practitioner's note.** A heavy, cooling honey that the text rates highly for disease; it gives a cultivator nothing to act on.
 
+### Functional–Anatomical Correlate
+
+Chhatram honey is sweet in digestion, heavy, cooling and slimy, and the text says it acts as a vermifuge, proves curative in haemoptysis, psoriasis and Meha, and is possessed of a high efficacy (Sushruta ch.45, lines 1118 and 1151-1153). The entry maps its vermifuge action to the intestinal tract where worms lodge, its haemoptysis to the lungs and airways, and its psoriasis to the skin. Meha, which the Codex glosses elsewhere as a group of urinary disorders, is left untranslated here, so the urinary tract is mapped only on that gloss. The sweetness in digestion, recorded as the vipaka, places an action in the digestive process. The cooling and heavy qualities are properties rather than organ actions. The entry gives no dose, preparation or route, and does not diagnose any of these conditions.
+
 ### Contraindications
 
 - **Heated honey.** The text forbids hot or boiled honey and says it can be fatal like poison (lines 1183-1200).

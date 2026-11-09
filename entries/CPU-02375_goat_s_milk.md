@@ -43,6 +43,10 @@ General facts only. Goat's milk is a common dairy food. Raw milk from any animal
 
 **Practitioner's note.** The text values the goat's milk for wasting and respiratory conditions and gives its reasons in terms of how the animal lives, a sort of discipline of provenance. A cultivator reading it learns where this milk sits in the tradition's diet and nothing about a practice.
 
+### Functional–Anatomical Correlate
+
+The she-goat's milk is light, astringent and appetising (dipana), and is said to be efficacious in dyspnoea, cough and haemoptysis, bleeding from the lungs and airways, along with phthisis and wasting (lines 476-488). Its curd is light, subdues deranged Pittam and Kapham, is curative in Vata and wasting diseases, and is a good appetiser, and it helps with piles, dyspnoea and cough (lines 578-581). This maps to the stomach and appetite, the lungs and airways, and the lower bowel. Its clarified butter is appetising, eye-invigorating and strength-increasing, a wholesome diet in cough, dyspnoea and consumption, and light (lines 806-810), which adds the eye and general strength. The text grounds the milk's reach in the animal's small limbs, agile habits and drinking little water, a reason of provenance rather than a stated physiological mechanism. The entry maps the lungs, airways, digestion and eye, and does not state how these act.
+
 ### Contraindications
 
 - **Hygiene.** Raw goat's milk is a recognised source of brucellosis and other infections.

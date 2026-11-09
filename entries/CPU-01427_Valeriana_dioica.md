@@ -43,6 +43,10 @@ Valerian roots are generally known in modern herbal practice as a mild sedative 
 
 **Practitioner's note.** Nothing in the single text that names this plant gives a cultivator a practice with it. It is a fragrant root used as the Celtic nard was used, and the ingredient of a medicinal wine. The abstentive answer is the honest one, and any modern valerian use belongs to the officinal plant and not to what is attested here.
 
+### Functional–Anatomical Correlate
+
+Dioscorides' chapter 1-8 (mountain nardus) gives no use of its own beyond saying its root is good for the same things as the Celtic nardus (1-7). The entry reports that cross-reference, not a use stated directly for 1-8. Chapter 1-7 lists stomach disorders, inflammation of the liver, jaundice, gas-filled intestines, the spleen, bladder and kidneys, and bites of venomous creatures, and says it is more diuretic. The wine of wild nard (5-69), which the translators equate with the same binomial, is recorded for liver ailments, frequent painful urination, an inflated stomach and stomach disorders. Chapter 1-8 describes the root as fragrant, which the entry takes as a sensory note and not a classification. No warming, cooling or drying quality is printed. The identification is the translators' and is doubtful at species level, and the entry says these are historical claims, not Codex protocol.
+
 ### Contraindications
 
 The plant described is not securely identified, so no safety statement can rest on the Dioscorides text. Valerian preparations are generally known to cause drowsiness, and a medicinal wine contains alcohol, which is unsuitable in pregnancy, with sedatives, or when driving. Nothing above is advice. Seek a clinician before using any valerian product, particularly during pregnancy or lactation.

@@ -41,6 +41,10 @@ Gum tragacanth is a known, long-used thickening and suspending agent, and a bulk
 
 **Practitioner's note.** A cultivator learns from this chapter how a gum is judged and nothing else. It does not support taking the gum as a vitality practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+By the text's account the gum acts on the eyes, the cough, the arteries (the entry's word, not glossed), the kidneys and the bladder. Dioscorides names eye medicines, coughs and roughness of the arteries as its uses. The gum is used for dripping fluids in a honey linctus, and is said to melt under the tongue. A teaspoonful steeped in raisin wine is said to help pain of the kidneys and erosion of the bladder, with burnt hart's horn or a little alum mixed in. The entry describes the gum as one that closes the pores like other gums; modern pharmacology would call a bulk gum a soothing coat, a general statement not read from this chapter. The chapter's sensory test of the gum (transparent, smooth, slender, clean, somewhat sweet) is a quality grade, not a body claim. No warming or cooling quality is printed. The Codex records these as claims only and gives no protocol.
+
 ### Contraindications
 
 The chapter prints no warning. Gum tragacanth is generally known to be a bulk-forming material that can cause an allergic reaction in some people, and a dry swallowed gum can cause blockage in the throat or gut if taken without enough fluid. Pain of the kidneys or erosion of the bladder, the conditions the text names, need medical care. Many *Astragalus* species are known to be poisonous to livestock, and the identity here is the translators' suggestion, so no plant should be gathered on the strength of this entry. No safety information for pregnancy was read.

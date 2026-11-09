@@ -75,6 +75,10 @@ The antioxidant signal is genuine and quantified; classical *dāhapraśamana*/*j
 
 **Practitioner's note.** Nothing: no regimen for the individual substance is recorded, and the group description cannot be transferred to this species.
 
+### Functional–Anatomical Correlate
+
+Acts mainly on Pitta and blood: the entry names rasa and rakta as dhatus and rasavaha and raktavaha as srotas. Its cooling potency (śīta vīrya) and laghu-rūkṣa lightness are aimed at dāha, burning heat, and at fever (jvara) and bleeding heat (raktapitta). It is listed as balya, strengthening, and as a Vātaraktahara agent for inflammatory and gout-type disorders. Its specific prabhāva is heat-settling action on rakta. The entry frames it as a maintenance herb for hot, inflamed, overworked stretches, and as a light food-medicine rather than a concentrated tonic. The modern correlates are measured: sprouted wild gram had a reported phenolic content of 102 mg GAE/g and 61% anti-radical activity, and in a broiler model its supplementation lowered lipid peroxidation and raised glutathione peroxidase, glutathione reductase and superoxide dismutase. A Bowman-Birk-type protease inhibitor was also characterised. The entry notes these are not clinical demonstrations. Cautions are dry Vāta, weak digestion of the raw pulse, and species confusion.
+
 ### Contraindications
 
 - **High Vāta / very dry constitutions:** its laghu-rūkṣa nature can aggravate Vāta if used dry and in excess; pair with unctuous anupāna.

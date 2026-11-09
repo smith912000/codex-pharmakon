@@ -62,6 +62,10 @@ According to PubMed: Wang et al. (2025), *Toxins*, reviewed the **insecticidal a
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps larkspur to the outer body only. Its norditerpenoid alkaloids (delphinine, methyllycaconitine) are described as antagonists at nicotinic acetylcholine receptors, producing neuromuscular blockade, so the neuromuscular junction and muscle are the systems at risk if the alkaloids cross the skin. The sanctioned target is the scalp and skin, where the seed wash acts against lice and nits, and the entry says it must not touch broken skin, mucous membranes or the eyes. Systemically the alkaloids are described as affecting the heart (cardiac disturbance, bradycardia, arrhythmia) and the respiratory system (respiratory failure). TCM describes a hot, acrid, toxic surface-clearing agent. The Galenic frame is Hot and Dry in the third degree, a sharp, biting, vermin-killing action, and Avicenna adds a topical role for certain wounds and swellings. Internal action is not mapped by the entry; it is contraindicated.
+
 ### Contraindications
 
 **⚠️ TOXIC — NEUROMUSCULAR AND CARDIAC POISON. EXTERNAL, LIMITED USE ONLY.**

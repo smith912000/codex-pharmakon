@@ -85,6 +85,10 @@ It is **not** a tonic, not a nervine, not a daily herb, and has no place in the 
 
 ---
 
+### Functional–Anatomical Correlate
+
+Soapwort acts on the skin, the chest and, as a hazard, the blood and gut. Unani texts class it as jali, an abstergent that scours thick adherent matter, and the entry supports an external root wash for greasy or scaling skin, where its saponin surfactant lifts grease. The humoral depurative doctrine sends it inward as a blood-cleanser for eczema, psoriasis-type scaling and itch, and the entry finds no clinical support for that. The chest receives an expectorant doctrine: low oral doses irritate the gastric mucosa, which reflexly raises bronchial secretion, the stated mechanism of saponin expectorants, though no soapwort trial was found. The entry states that saponins lyse erythrocyte membranes, and that absorption rises across inflamed or permeable gut mucosa. Dioscoridean diuretic and emmenagogue uses are recorded as history. No TCM or Ayurvedic assignment is made.
+
 ### Contraindications
 
 **Soapwort is a toxic plant. Treat every internal use as a supervised-only intervention.**

@@ -72,6 +72,10 @@ According to PubMed:
 
 **Practitioner's note.** Nothing: the text places it among remedies for specific complaints and records no long-term regimen.
 
+### Functional–Anatomical Correlate
+
+Nāgakeśara's entry targets the bleeding and flux systems: the blood (rakta), the vessels and the lax, leaking tissue. Its raktastambhaka (haemostatic) and grāhī (binding, flux-checking) actions are aimed at raktapitta (haemorrhage), bleeding piles, excessive menstrual and other fluxes, and at pravāhikā and atisāra in the bowel. Its śothahara (anti-inflammatory) reading is applied to pain and rheumatic joints, and its varṇya (complexion-enhancing) action to the skin. Its dīpana action mildly kindles digestion. The entry gives its Pitta-pacifying effect against burning heat and bleeding, and its immunomodulatory interest is attached to the classical rasāyana formulae it is part of. Preclinical work in the entry concerns seed and seed-oil, not the classical stamen drug, so its anti-inflammatory and immune findings are not mapped onto the stamen. The haemostatic action is recorded as traditional, not evidenced. Dryness can aggravate Vāta in constipated constitutions.
+
 ### Contraindications
 
 - **Astringent and drying — may aggravate Vāta**, constipation, and dryness; caution in Vāta-dominant or depleted constitutions.

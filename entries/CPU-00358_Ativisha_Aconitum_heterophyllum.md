@@ -72,6 +72,10 @@ According to PubMed, the evidence is **preclinical/review-level and consistent w
 
 ---
 
+### Functional–Anatomical Correlate
+
+Ativiṣā's classical targets are the digestive tract and the febrile body. Its dīpana and pācana actions kindle digestion and digest āma, and its grāhī (absorbent, flux-checking) action acts on the bowel and intestinal lining in atisāra (diarrhoea), the flagship use. For the convalescent gut, the entry describes a gentle digestive primer that rebuilds appetite without the Pitta aggravation of the pungent warmers. Its jvaraghna (antipyretic) action is applied to fever with digestive involvement, while its kṛmighna (anthelmintic) and kaphaghna (expectorant) actions reach worms and the Kapha of the chest. Kapha and Pitta are the doṣas it is said to pacify, with its bitterness moderating the heat. The entry locates its active material in atisine-type diterpenoid alkaloids, which lack the cardiotoxic aconitine profile of toxic species, so cardiac harm is a hazard only through misidentification.
+
 ### Contraindications
 
 - **⚠️ Misidentification is the primary hazard:** toxic aconites (*A. napellus*, *A. ferox*/Vatsanābha) are potentially lethal. Use only verified, correctly identified *A. heterophyllum* from a reputable source. When in doubt, do not use.

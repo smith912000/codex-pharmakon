@@ -176,6 +176,10 @@ Juglanin and (−)-loliolide from *P. aviculare* reduce SA-β-gal activity, p21 
 
 ---
 
+### Functional–Anatomical Correlate
+
+Common Knotweed acts on the lower urinary tract and on mucosal and skin surfaces. Chinese terms: bitter, slightly cold, entering the Bladder, to promote urination and free strangury (lin), clear heat and drain damp in the lower burner, with secondary parasite-killing and itch-stopping uses. The Greco-Arabic reading is cold and dry, astringent, binding fluxes and mucosal discharges, with a secondary diuretic note. Modern anatomy maps the astringency to tannin precipitation on gut and oral mucosa, and the flavonoid anti-inflammatory work to neuroinflammation in mice and to keratinocyte migration and wound re-epithelialisation. The entry states that no study of the diuretic action central to its Chinese name was retrieved, so no bladder or renal effect is established. Use is for acute urinary and flux complaints inside a formula, with oxalate and tannin cautions for kidney, iron absorption and pregnancy. Its knot-shaped growth-stunting signature is recorded as false.
+
 ### Contraindications
 
 **General:** a mild herb with real but bounded cautions. None of the following are theoretical hedges — each attaches to a specific constituent class.

@@ -45,6 +45,10 @@ The Chinese alligator is a small alligator endemic to the lower Yangtze basin of
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. A middle-grade animal armour for lumps and bleeding.
 
+### Functional–Anatomical Correlate
+
+The Shennong middle-class paragraph names the abdomen and the blood. It governs concretions and conglomerations of the heart and abdomen (xin fu zheng jia), hidden hardness (fu jian), accumulations (ji ju) and cold and heat (han re), which map to the abdominal cavity and its masses in the classic's terms. In women it names flooding (beng zhong) and downward discharge of blood in five colours (xia xue wu se), which map to the uterus and the menstrual system, along with lower-abdominal pain pulling into the genitals. It names sores, scabies and dead flesh (chuang jie si ji), which map to the skin. The energetic frame is acrid and slightly warm (wei xin, wei wen), with middle-class placement and no toxicity statement. The text does not describe how these organs work. Abdominal masses and bleeding need medical assessment.
+
 ### Contraindications
 
 - **Conservation and law.** The Chinese alligator is critically endangered; its parts must not be collected, bought or traded. Imitation or substitute "scute" in trade may come from other crocodilians, some also protected. [USER: verify local rules]

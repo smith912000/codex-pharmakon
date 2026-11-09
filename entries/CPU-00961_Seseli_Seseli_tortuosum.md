@@ -95,6 +95,10 @@ All doses in this table are **unverified**. There is no clinical dose-finding st
 
 ---
 
+### Functional–Anatomical Correlate
+
+Seseli's entry maps the plant onto a single direction of motion through four hollow organs: the gut, the chest, the bladder and the womb. In Galenic-Unani terms the seed is hot and dry in the second degree, a dissolvent of wind (muḥallil li-l-riyāḥ), a promoter of urine and menses (mudirr), and an opener of obstructions (muftitiḥ). The Greek category adds carminative action for wind and griping in the belly, old coughs, difficult breathing and urination. The entry's modern correlate is a monoterpene-rich oil that may relax smooth muscle and be carried to the airway on the breath, with a single rodent study showing inhibition of visceral writhing and paw oedema. The entry explicitly declines to endorse the emmenagogue and ecbolic action on the uterus, saying there is no modern uterine evidence. Caution is noted for the skin, where furanocoumarins can cause phytophotodermatitis. The entry records Chinese medicine as not attested for this plant, and Ayurveda as not assigned.
+
 ### Contraindications
 
 - **IDENTIFICATION HAZARD — READ FIRST.** The Apiaceae contains **Conium maculatum** (hemlock), **Oenanthe crocata** (hemlock water-dropwort — the most lethal plant in Britain) and **Cicuta virosa**. These are umbellifers with finely divided leaves and white umbels, and they have killed foragers who believed they had a wild carrot, parsley or hartwort. **Wild-collected Apiaceae must never be used without positive expert identification of the specific plant, in flower and fruit.** No traditional indication justifies that risk. This alone is sufficient reason to prefer a cultivated congener.

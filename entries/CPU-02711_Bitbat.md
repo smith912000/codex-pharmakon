@@ -43,6 +43,10 @@ General facts only: astringent plants are used to check bleeding and dry wounds 
 
 **Practitioner's note.** A wound and bleeding herb, entered under two Arabic names that point to the same thing. No cultivation status is attested. The unidentified plant should not be guessed at.
 
+### Functional–Anatomical Correlate
+
+Per Avicenna's Canon, Bitbat is astringent with a large watery part, and it is thought drying because it strongly repels descending matters. Its actions reach the bleeding of the womb, the chest, the stomach, the ears, the skin and the bowels. The entry says it stops bleeding, including bleeding from the womb and spitting of blood, whose water it benefits, and that it heals fresh wounds. Its juice is said to kill ear worms and dry ear sores. As a plaster it benefits phlegmon, erysipelas, the creeping eruption namla and swollen sores, and as a cooling plaster it treats inflammation of the stomach. It heals sores of the intestines. The Canon's Dioscorides claim is cut off in this copy and is not mapped. The plant is unidentified, so the mapping is the text's own and is recorded as historical only.
+
 ### Contraindications
 
 - **Heavy bleeding, spitting blood.** These are medical emergencies; use proper care.

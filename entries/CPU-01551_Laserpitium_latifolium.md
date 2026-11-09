@@ -45,6 +45,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a description and a cross-reference, with no use, preparation or amount of its own, so it is history and not a practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter records no use of its own. It describes the leaves as like those of cissus and periclymenum, yet smaller and somewhat long, and the plant as a large shrub with branches of about two feet and stems eighteen inches long. Its heads are like dill, and its seeds are black, thick like wheat, sharper and more fragrant than the Massaleotican seselis, and very sweet. The chapter says it produces similar effects, which is a pointer to the preceding chapter 3-60, the only chapter it names. That chapter's effects, in its own words, fall on urination, breathing, menstruation, digestion, coughs and fevers, and they are 3-60's claims rather than 3-61's. The chapter gives one foreign name, cyonophricen, for the Egyptians. It prints no hot, cold, moist or dry quality for itself, since the warming quality belongs to 3-60.
+
 ### Contraindications
 
 The chapter prints no warning. The chapter it points to lists abortifacient and menstrual uses, so no safety information for pregnancy can be taken from either chapter, and none beyond that was read. The identification rests on a translators' suggestion among four names, so no wild plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

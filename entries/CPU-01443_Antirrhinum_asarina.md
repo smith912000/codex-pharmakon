@@ -39,6 +39,10 @@ No claim is made that wearing the plant opposes poison or that it improves appea
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The honest reading is that Dioscorides passes on a report and does not stand behind it, and the answer is to leave the claim as history.
 
+### Functional–Anatomical Correlate
+
+Little to map: Dioscorides, the only source, states that the plant worn as a personal ornament is said to oppose poisons, and that it is rubbed on the body with lily oil or nutsedge oil to make one beautiful. These are the only body-related claims, and no organ or system is named for either. The chapter gives no internal use and prints no energetic quality for 4-133, and no humoral, doshic or qi term appears. The flowers are described as purple and the fruit as like a calf's nostrils, but these describe the plant, not its action on the body. The identity of the Greek plant is uncertain, because the translators give three binomials and the text does not choose among them, so no body claim can be tied to a checked species. The Codex makes no correlation to these claims, and no dose is given.
+
 ### Contraindications
 
 The identity of the Greek plant is uncertain, so no safety statement can be made. Wearing the plant as protection from poison is not protection, and anyone poisoned needs medical care. None of the traditional uses above is advice. [USER: verify]

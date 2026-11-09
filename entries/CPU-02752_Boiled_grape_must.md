@@ -44,6 +44,10 @@ General, well-established facts only. Boiled grape must is a sugar-rich syrup us
 
 **Practitioner's note.** Nothing to do. A cooked grape syrup, ordinary food and a vehicle in the poppy syrup; no cultivation role is attested.
 
+### Functional–Anatomical Correlate
+
+The Canon places cooked grape juice on the chest and on the kidneys and bladder, and names no temperament. For the chest, under the heading for the organs of breath, it is said to help expectoration, and it enters the poppy syrup diyaqudha for that reason. For the excretory organs, it is said to be useful for pain of the kidneys and of the bladder. No degree of heat, cold, dryness or moisture is given, and no digestive, head or skin action is stated. The passage names no constituent. Because the poppy syrup it enters is an opium-bearing preparation, the Codex does not attribute that compound's action to the grape juice. The Codex records these statements as the Canon's claims and gives no protocol, no boiling ratio and no dose.
+
 ### Contraindications
 
 - **Sugar load.** A concentrated sugar syrup; take care in diabetes. [USER: verify]

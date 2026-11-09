@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. The honest answer is to do nothing with it on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the row is titled Virola (other hallucinogenic species) but lists one species, Virola calophylla, from South America, and that its only descriptor is 'hallucinogenic'. The entry notes that the name speaks of several species while the botanical field names one, and that which species are meant is not settled. The cited sources (Schultes and Raffauf 1990, and a doctorlib page) are not on disk and were not opened. It names no people, plant part, preparation, constituent or dose, and maps no organ, tissue or body system. Legal status is unchecked. No clinical studies were retrieved, and no quality is printed, so no humoral, doshic or qi correlate is given. The cultivation register is absent. The contraindications (pregnancy, medical advice with mental-health conditions or prescription medicines) are general caution the entry says is not found in the row.
+
 ### Contraindications
 
 No safety data were read for this row. The plant is described on the row as hallucinogenic, and use outside a qualified setting is unsafe in general terms. Do not use in pregnancy, and take medical advice, especially with any mental-health condition or prescription medicine. This is general caution and is not found in the row. Legal status varies and is unchecked. [USER: verify]

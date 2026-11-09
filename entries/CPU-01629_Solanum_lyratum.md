@@ -59,6 +59,10 @@ No study of either plant was opened. No clinical studies were retrieved for this
 
 **Practitioner's note.** A superior-grade entry with an open identity and a middle-grade entry for skin and tooth complaints. Taking Bai Mo's "protracted taking" as a practice would rest on a plant nobody can name with confidence, and the text itself says middle-class drugs call for weighing before use. The grade is the classic's; the plant is not known. The abstentive answer is the honest one: do not take a nightshade on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Two Shennong entries, each mapped to its own text. Bai Mo, sweet and cold, treats cold and heat, the eight categories of jaundice (the translator's note mentions five and nine) and wasting thirst, and 'supplements the center and boosts the qi'; the centre is the text's own term and is not glossed. Protracted taking 'may make the body light', a claim the Codex records in the text's own words. Shu Yang Quan, bitter and slightly cold, names baldness, malign sores, scabs on the skin, heat qi, lichen worms and tooth decay, and its habitat is rivers and valleys. Neither entry names an interior organ. The two share only a Latin name in the translation, and the translator says the identity of Bai Mo has no consensus. The chapter gives no toxicity statement. The entry maps the hair, skin and teeth, and leaves the centre, jaundice and qi as the text's own terms.
+
 ### Contraindications
 
 Plants of the nightshade genus include well-known poisons, and the green berries and leaves of several are toxic. The Shennong text prints no warning for these two entries, and its silence is not a statement of safety; the preface itself says the middle class "may or may not be toxic". Yang's note says the identity of Bai Mo is not agreed, so no plant should be gathered or taken on the strength of this entry. Jaundice, wasting thirst, sores and tooth decay need medical assessment. None of the traditional uses above is advice. [USER: verify]

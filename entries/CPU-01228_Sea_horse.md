@@ -40,6 +40,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The only gener
 
 **Practitioner's note.** There is nothing in the source for a cultivator to use, and the animal is better left alone. What the chapter does show is the method that the opening of Book 2 repeats: burn the material, mix the ash into a fat or pitch, and rub it on the place affected.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives one use, a topical one. The chapter's burnt animal ash is mixed into goose grease, liquid pitch or the ointment amaracinum and rubbed on bald places to fill them with hair. That maps to the scalp and the hair follicles, in the case the chapter names as alopecia or baldness. It names no internal use and no organ beyond the place of hair loss. The preparation is burning to ash, and the chapter gives no quantity, number of animals or frequency. No humour, taste, temperature or potency is printed, and no mechanism is given. The identification of the Hippocampus with the sea horse is the translator's, and the chapter's own description is only a little living creature of the sea.
+
 ### Contraindications
 
 The preparation is a topical ash in a fat or pitch vehicle, and pitch can irritate the skin; the text gives no caution. Sea horses are listed in international trade controls (CITES) and are threatened by collection for medicine, so wild-sourced material is unethical and often illegal to trade. These are general cautions and not claims from the text.

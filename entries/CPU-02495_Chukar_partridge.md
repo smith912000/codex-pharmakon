@@ -44,6 +44,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** A light, easily digested bird in both texts. For a cultivator it is plain food. Nothing supports it as a practice.
 
+### Functional–Anatomical Correlate
+
+Partridge flesh, as read in Avicenna's Canon and Ibn Qayyim's Prophetic medicine, is mapped to the digestive system, the blood and the heart. The Canon calls the flesh the most subtle of meats and light, says it benefits the stomach (al-maida) and dropsy (al-istisqa, fluid accumulation), and says it binds the bowel. It is also said to polish the heart (al-fuad), a humoral remark the entry does not convert into anatomy. Avicenna adds that the flesh fattens the body and increases coitus (al-bah), which points to the generative system. Ibn Qayyim says the flesh generates good blood (yuwallid al-dam al-jayyid) and is quick to digest (sari al-inhidam), placing its action on blood formation and digestion. No temperament degree is given in either text. The identity doubt in the entry means the mapping applies to the bird named in both texts, not to a confirmed species, and the entry adds no organ-level claims beyond these lines.
+
 ### Contraindications
 
 Ordinary food-hygiene cautions for game birds. Wild partridges are hunted under seasons and licences in many places; legal status varies. [USER: verify] The Canon notes it binds the bowel.

@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing here for a cultivator. The tradition is represented by one list row, and no text read says what was done with the plant or why. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names one Assyrian list row (alapu) for water-grass or half-grass, Mariscus elongatus, and says the plant is attested on Assyrian tablets. The row gives no tablet, region, period, preparation, use or complaint, so no body system, organ or tissue is attributed to it. The two English names are not explained in the row. The row does not flag the identification as uncertain, but the entry notes nothing on disk could confirm it. The constituents were not read. The attestation rests on a list row whose cited source, Thompson 1949, is not on disk. The Dioscorides index's Water Grass is a gloss for watercress and is not placed here. The entry makes no anatomical claim for this plant.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, an unidentified plant preparation should not be taken in pregnancy, while breastfeeding, by children, or alongside prescription medicines without medical advice. This is general caution and is not found in the row. [USER: verify]

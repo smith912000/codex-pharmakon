@@ -45,6 +45,10 @@ General, well-established facts only. Many arum-family plants irritate the mouth
 
 **Practitioner's note.** A name on a list, printed twice. The Samhita text on disk gives no use and no grade for it, so there is nothing for a cultivator to take from this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the appendix gives only the Latin gloss 'Scindaspus officinalis', printed twice, with no use, part used, preparation or dose. The entry's identification as Scindapsus officinalis is its own probable reading, of low confidence, and no plant database was checked. Its only statement about the body is a note marked as general knowledge and not from the source: many arum-family plants contain needle-shaped calcium oxalate crystals that irritate the mouth and throat, and such plants can irritate the gut if eaten. The entry says not to eat any part of this plant on the strength of it. In the sources read, no rasa, virya, vipaka, rasayana, ojas or shodhana is attributed to it. Pregnancy, lactation and children are not addressed. No organ or traditional system is named from a source.
+
 ### Contraindications
 
 - **Possible irritant (general knowledge, not from the source).** Arum-family plants can burn the mouth and throat; do not eat any part on the strength of this entry.

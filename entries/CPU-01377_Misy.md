@@ -60,6 +60,10 @@ No clinical studies were retrieved for this entry. [USER: verify] General facts 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry's sites come from chalcitis, to which Dioscorides says misy has the same strength; the misy chapter itself lists none. By that reference, the mapped sites are the eyes and the corners of the eyes, which the chalcitis chapter says it purges; the skin, through erysipelas and herpes; the womb and the nose, for discharges of blood from them; the gums, for abnormal growths there; the cheeks and tonsils, for gangrenous ulceration; and fistulas, treated by a suppository form. The chalcitis chapter gives its quality as astringent, warming and scab-forming, which applies to misy only by reference. The Egyptian kind is named the best overall, but not for eye medicines. No humoral degree is printed for misy itself.
+
 ### Contraindications
 
 - **Toxicity:** metal sulphates are irritant and some are poisonous; copper-bearing material can cause vomiting and tissue injury if swallowed.

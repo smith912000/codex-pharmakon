@@ -45,6 +45,10 @@ General, well-established facts only. Olive pressings leave a watery residue tha
 
 **Practitioner's note.** A kitchen by-product turned into a bowel, tooth and joint remedy in the ancient pharmacy. Nothing here supports any cultivation use, and a cultivator has no reason to prepare it.
 
+### Functional–Anatomical Correlate
+
+Dioscorides places amurca, the boiled lees of pressed olive oil, against the bowels, teeth, wounds, eyes, pores, the genitals and perineum, the joints and the swelling of dropsy. The text says it is therapeutic for the bowels; rubbed on with wine, vinegar or honeyed wine it is as effective as lycium for toothache and wounds; it is mixed into eye and pore-closing medicines; taken as an infusion it is good for the perineum, the genitals and ulcerated vulvas; boiled with unripe oil it is smeared around spoiled teeth; unboiled and new in a warm pack it assists gout of the feet and joints; and on a fleece it represses dropsical swelling. A veterinary use for scabs on beasts is also recorded. The chapter prints no hot, cold, dry or moist quality and no humoral term, so the body systems mapped are the gut, teeth, skin wounds, eyes, the urogenital region, the feet and joints, and the fluid swelling of dropsy, each in the chapter's own terms. No dose is given.
+
 ### Contraindications
 
 - **Hygiene.** The sediment is a perishable food residue, and the text prescribes it unboiled and new for one use. Do not apply old or spoiled residue to a wound, a tooth socket or the genitals.

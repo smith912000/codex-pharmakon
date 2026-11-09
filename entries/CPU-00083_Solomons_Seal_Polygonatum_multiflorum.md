@@ -61,6 +61,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 **Practitioner's note.** Nothing. At most, an external wound or complexion poultice in Dioscorides' own terms; no long-term or tonic use is attested in this text.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Solomon's seal works mainly on moisture-dependent tissues: the dry throat, lungs, and the sinew and connective system. In Chinese Medicine, Yu Zhu nourishes yin and moistens dryness, acting on the Lung and Stomach channels to ease dry cough, dry throat and thirst, while Huang Jing (a related Polygonatum) is a qi-yin tonic building the Spleen, Lung and Kidney. The European use is vulnerary: the macerated rhizome, applied externally, is said to knit wounds, bruises and broken bones and to disperse bruise discolouration, which the entry links to tissue repair. Its mucilage is described as demulcent, soothing dry irritated tissues. Folk joint and connective-tissue use is noted but flagged by the entry for verification. The Galenic humour is given as cool-to-temperate and moist. The entry's cautions concern the toxic berries and interior damp-cold patterns, where moistening tonics are cautioned.
+
 ### Contraindications
 
 - **Berries — toxic.** Do not eat; keep from children; distinguish from edible look-alikes and from toxic false Solomon's seals/lily-of-the-valley.

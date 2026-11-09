@@ -99,6 +99,10 @@ Codex policy: the glycine-antagonist mechanism and the processing→alkaloid-red
 
 ---
 
+### Functional–Anatomical Correlate
+
+Ma Qian Zi, the processed seed, is classed by the entry as bitter, cold and toxic, entering the Liver and Spleen channels. Its TCM actions are to dispel wind-damp, unblock the channels and collaterals, invigorate blood, reduce swelling and relieve pain, used for bi syndrome, trauma, numbness and paralytic or weak patterns. The Ayurvedic Kupeelu is described as a purified nervine and bitter tonic. The entry's modern correlate is strychnine, a competitive antagonist at the inhibitory glycine receptor in the spinal cord and brainstem, which removes inhibitory tone on motor neurons and so produces generalised, reflex-triggered convulsions of the skeletal muscles, with brucine as a weaker congener. The entry states that death comes from respiratory failure during the seizures, and lists seizure disorders, cardiac and respiratory disease, liver and kidney impairment, and pregnancy as contraindications. It is recorded as specialist material only, with no self-use and no therapeutic home dose.
+
 ### Contraindications
 
 - **Raw/unprocessed seed — absolute prohibition.** Never ingested in any unsupervised context; lethal dose is small.

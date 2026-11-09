@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** The only thing the Tibetan texts tell a cultivator about this drug is to leave it alone during a rejuvenation course, along with the Mon Chenopodium; the plant is neither a rejuvenative nor given any action. Whoever follows that rule is following the tradition's regimen, which the text makes conditional on prior cleansing and a physician's course; nothing here supports starting such a course on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the texts name no organ or body system for Gyasen and record no action for it. Men-Tsee-Khang says it should completely be avoided during the course of rejuvenation therapy, and Clark says one should abstain from taking Chinese peas, with Mon Chenopodium named beside it. The sources give that prohibition inside a rejuvenation regimen that calls for prior internal cleansing, and not a statement that the drug acts on any organ. The entry gives no taste, potency or part used. The identity rests on a positional count in a glossary and is open, so no organ claim is made for any plant.
+
 ### Contraindications
 
 The sources read print no warning beyond the rule of avoidance above. The identity is uncertain, so no plant should be gathered or used on the strength of this entry. Raw legume seeds should be cooked, and people with legume allergies should avoid them. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

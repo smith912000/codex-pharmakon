@@ -43,6 +43,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a sleep-inducing, pain-easing and purging juice, with a single stated quantity, compared by Dioscorides to the poppy. The useful lesson is Dioscorides' method of recognising the plant, collecting the juice and detecting it as an adulterant, and the abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The chapter maps the plant onto the bowel, the eyes, the nervous system and the reproductive tract. Its juice is a purge of watery matter through the bowels. It is said to wear away albugo and the mistiness and dimness of the eyes, and to be good against burning heat in the eyes when rubbed on with woman's milk. The juice is described as sleep-inducing and as easing pain, which places it in the nervous system. It is said to draw out the menstrual flow, and the drink is given to those touched by a scorpion or harvest spider, so the uterus and envenomation are both stated targets. The seed is said to turn away lustful dreams and venereal diseases, so the reproductive and sexual systems are named. The chapter gives bitterness as the only taste and notes a likeness to poppy in properties. It prints no hot, cold, moist or dry quality for this chapter.
+
 ### Contraindications
 
 Dioscorides gives the juice as a purge, a sleep-inducer, a pain-easer and a drink that "draws out the menstrual flow", so none of these should be taken lightly or self-treated, and no safety information for pregnancy was read beyond that last statement. A sleep-inducing latex can impair alertness and judgment. Eye disease (albugo, dimness, burning) needs medical assessment, and a home preparation must not replace it. The legal status of lettuce latex and of any preparations made from it varies by place and was not researched. The identification rests on a translators' suggestion with four names, so no wild plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

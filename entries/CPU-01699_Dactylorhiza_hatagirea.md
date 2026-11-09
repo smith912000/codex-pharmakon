@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a strength-and-seminal-fluid drug in the Men-Tsee-Khang text and a "tonic, aphrodisiac" in Clark, with no preparation and no dose, and the two texts print different binomials for the name. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Men-Tsee-Khang text says Wangpo lagpa develops physical strength and increases seminal fluid. Clark, for the same Tibetan name under the binomial Orchis incarnata, says the drug is tonic and aphrodisiac. The body systems the entry maps are therefore general strength or vigour, which the text does not localise to any organ, and the seminal fluid, which the text names directly. Clark's commentary describes the tubers, but gives no organ site for the action. No taste, power, channel or humour is printed. A modern reader would place seminal fluid in the male reproductive tract, a correlate the text does not state in those words. The two Tibetan texts print different binomials for the name, so the mapping rests on the shared Tibetan name alone, and the identity of the plant is not settled.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The identity is uncertain between two binomials, so no plant should be gathered or used on the strength of this entry. It is a general fact that all wild orchids are covered by CITES Appendix II, which regulates trade, and gathering wild orchid tubers can harm populations; the legal and conservation status of this species was not checked in the sources. [USER: verify] No safety information for pregnancy was read. [USER: verify]

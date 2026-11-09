@@ -201,6 +201,10 @@ Semwal et al. (2019) name *T. wallichiana* among the heavily-used Ayurvedic plan
 
 ---
 
+### Functional–Anatomical Correlate
+
+The Himalayan yew's entry sets two maps side by side. The South Asian traditions use it for the respiratory tract, for cough, catarrh and cold, for fever, weak digestion (agnimandya) and pain, and the review it cites lists digestive, respiratory, nervous and skeletal use. Talispatra is classed hot (ushna virya) and kindling, though the entry flags its identity as contested. The warming doctrine has no thermogenic molecule behind it, which the entry reads as a taste-based theorem or early toxicity mistaken for heat. The Unani Zarnab is classed as a cardiac and nervine tonic, which the entry calls pharmacologically inverted, since the only reliable cardiac action of taxine is conduction poisoning. Modern pharmacology maps the tree onto the heart and, through paclitaxel, onto dividing cells. The Nepali 'tumour control' folk use is marked a post-contact artefact, and the entry finds no clinical trial of any traditional indication.
+
 ### Contraindications
 
 ☠️ **ABSOLUTE — ALL INTERNAL USE PROHIBITED, ALL PARTS, ALL PERSONS, ALL PREPARATIONS. NO EXCEPTIONS.**

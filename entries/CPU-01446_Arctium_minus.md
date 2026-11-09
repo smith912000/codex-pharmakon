@@ -43,6 +43,10 @@ No claim is made. No clinical studies were retrieved for this entry. [USER: veri
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The chapter is a plain remedy note, and the useful part is the care in telling the lesser burdock from the greater.
 
+### Functional–Anatomical Correlate
+
+Dioscorides ties this plant to the mouth, the skin, the nerves and the urinary tract. The root and seed, soaked in wine and held in the mouth, are said to soothe toothache, which places the action in the teeth. A poultice is applied to burns and chilblains, which the chapter treats as skin and superficial tissue injury. A drink in wine is said to help sciatica, a complaint of the sciatic nerve in modern anatomy, and dysuria, painful urination, which concerns the urinary tract. The chapter prints 'sweet' for the root, the only energetic quality recorded for 4-106. No humoral, doshic or qi term is given, and no other organ is named. The root is described as tender, sweet and white, and the stalk as soft and long. The identification with A. minus is the translators' suggestion, and the greater burdock is a separate chapter. These are historical claims, and the Codex makes no correlation to them.
+
 ### Contraindications
 
 Burdock-type plants can cause contact dermatitis in some people, and the root is easily confused with the roots of poisonous plants in the wild. Do not forage from this entry. Do not use in pregnancy without advice. None of the traditional uses above is advice. [USER: verify]

@@ -153,6 +153,10 @@ The Shen secondary classification acknowledges the gut-brain axis reality: athle
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps gentian chiefly to the digestive tract, liver, gallbladder and the gut-brain link. Gentiopicroside and amarogentin activate bitter taste receptors (TAS2R) on the tongue, stomach and duodenum, starting a reflex the entry calls the digestive fire: salivary amylase, gastric acid, pepsinogen, CCK and secretin, pancreatic enzymes, gallbladder contraction and bile release, with vagal signals to the brainstem. Avicenna's Canon calls jantiyana the mufattih al-kabid, the opener of the liver. TCM's Long Dan Cao clears Liver-Gallbladder damp-heat and drains Liver fire, with the Stomach also listed. Tibetan Tripa, the bile-heat principle, covers liver and gallbladder inflammation, jaundice, fever and inflamed skin. Hepatoprotective and anti-inflammatory action is claimed for the liver, and inulin is said to support gut microbes. Spleen Yang, ulcer and reflux cautions are recorded, and the classical upper-grade long-life placement is noted as distinct from the later curative use.
+
 ### Contraindications
 
 - **Active gastric or duodenal ulcers (peptic ulcer disease):** The bitter reflex directly increases gastric acid secretion (HCl). In an intact gastric mucosa, this is a therapeutic effect. In the context of an active peptic ulcer, increased acid secretion exacerbates mucosal erosion, increases pain, and risks perforation with high doses. This is an absolute contraindication for oral gentian preparations at therapeutic doses. Individuals with current PUD should not use gentian without specific medical supervision.

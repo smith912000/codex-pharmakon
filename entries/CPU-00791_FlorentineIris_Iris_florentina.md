@@ -72,6 +72,10 @@ Acrid and bitter in flavour; warming and drying in nature; acting to disperse, o
 
 **Practitioner's note.** The practice on record is craft, not regimen: lift, peel, dry in shade and wait years for the scent to develop. Nothing here supports taking orris for long-term vital benefit; the root is an irritant.
 
+### Functional–Anatomical Correlate
+
+The entry maps orris onto the upper airways and mouth. In the Greco-Roman and European record it served as an expectorant for cough and chest congestion, an errhine snuff to provoke sneezing in the nose, and a breath sweetener and teething aid in the mouth. Its warm, dry, acrid-bitter character is described as dispersing and opening the nose, chest and throat and moving phlegm; the entry notes it is an irritant, so the errhine and purgative uses belong to history. Isoflavones such as irigenin and irisolidone are cited for anti-inflammatory and antimicrobial activity, but only in vitro and in animal work on the related I. germanica. The entry flags skin and airway sensitisation, including contact dermatitis and powder-handler sneezing. Its irones are aged-only odorants, so that chemistry concerns scent rather than tissue. Modern terms: nasal and respiratory mucosa, oral mucosa, skin.
+
 ### Contraindications
 
 - **Contact and respiratory allergen:** orris is a recognised fragrance/cosmetic allergen; contact dermatitis and respiratory sensitisation (historically "orris sneeze" in powder handlers) are documented occupational/cosmetic risks. Patch-test before topical use; avoid inhaled powder in sensitised individuals. [USER: verify against current allergen sources.]

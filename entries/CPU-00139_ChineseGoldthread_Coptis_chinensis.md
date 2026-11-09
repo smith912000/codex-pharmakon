@@ -98,6 +98,10 @@ A systematic review and meta-analysis of 37 RCTs (n = 3,048; Xie et al., 2022, *
 
 ---
 
+### Functional–Anatomical Correlate
+
+Goldthread's entry maps its action onto the Heart, the Stomach and Large Intestine, and the Liver and Gallbladder, with the eyes and mouth as visible outflow points. In Chinese Medicine it clears Heart Fire and calms the Shen, for irritability, insomnia, mouth ulcers and palpitations; drains Damp-Heat from the Stomach and intestines, for damp-heat dysentery and diarrhoea; and drains Liver Fire, for red, painful eyes. Tibetan medicine uses it for hot disorders of tripa (bile), infectious heat, dysentery and inflamed eyes. The entry's modern anchor is berberine, which it says acts through AMPK, alpha-glucosidase inhibition, gut microbiome and bile-acid signalling, and antimicrobial and anti-inflammatory effects. Meta-analyses cited there report lower fasting glucose, HbA1c and LDL, with much of the action gut-mediated given low oral bioavailability. Its cautions are cold-deficient Stomach or Spleen yang, bilirubin displacement in neonates and jaundice, and CYP3A4 and P-glycoprotein interactions.
+
 ### Contraindications
 
 - **Cold/deficient patterns (中寒 Middle-Jiao cold, Spleen/Stomach yang deficiency):** contraindicated or requires warming counter-agents — the herb's coldness suppresses digestive function; classic teaching forbids prolonged or unopposed use.

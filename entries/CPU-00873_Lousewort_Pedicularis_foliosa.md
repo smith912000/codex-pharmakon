@@ -68,6 +68,10 @@ Direct pharmacological studies of *Pedicularis foliosa* are **essentially absent
 
 ---
 
+### Functional–Anatomical Correlate
+
+In Galenic-Unani terms leafy lousewort is cool and dry, an astringent herb that checks flux. The Tibetan rGyud-bzhi frame, applied by genus, reads the louseworts as heat-clearing, wound-supporting herbs of high altitude. The entry maps the systems that cope with hypoxia and fatigue through genus-level preclinical work: phenylethanoid glycosides from P. kansuensis reduced hypoxia-induced oxidative stress and prolonged swimming endurance in mice under simulated altitude, supporting an anti-fatigue reading. An acteoside-standardised P. resupinata extract prevented corticosterone-induced depressive-like behaviour in mice and restored BDNF, a nervous-system and mood target. Isoverbascoside from P. striata inhibited proliferation of hepatocarcinoma cells in vitro. Skin and wounds are reached through a topical astringent wash, a folk use. Aucubin-type iridoids are noted as mildly irritant or purgative in quantity. None of this is measured in P. foliosa itself, so the mapping is graded traditional and genus-inferred.
+
 ### Contraindications
 
 **⚠️ Data-sparse — treat with caution.** There is **no adequate modern safety evaluation of *Pedicularis foliosa***, and internal use rests on genus-level inference rather than species data. **Several *Pedicularis* species contain iridoid glycosides such as aucubin, which are mildly toxic and can be irritant/purgative in quantity** — so internal doses should be conservative and are marked [USER: verify]. Historic reports also associate some louseworts with **livestock toxicity/unpalatability**, reinforcing caution. Avoid in pregnancy, lactation, and in children given the absence of safety data. Because this is a hemiparasite drawing minerals from host plants and soil, wild-gathered material may vary widely in composition. Correct identification within a large, taxonomically confusing genus is essential. Do not treat this entry as clinical authorisation — it documents traditional and preclinical context only.

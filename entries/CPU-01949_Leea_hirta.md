@@ -45,6 +45,10 @@ General, well-established facts only. Ash dissolved in water gives an alkaline s
 
 **Practitioner's note.** Nothing here gives a cultivator a practice with this plant. It is an ash in a physician's alkali for a disease of the lymph vessels, in a text whose Latin identification is a translator's positional guess.
 
+### Functional–Anatomical Correlate
+
+Little to map: The Sushruta text prints one use for the name Kaka-jangha, and the entry rests on a positional pairing, so the organ link is thin. In Chikitsa 19 the ash of Kaka-jangha, with other plant ashes, goes into an alkali made in cow's urine and filtered twenty-one times, for slipada, which the translator glosses as elephantiasis. The same chapter, as the entry reads it, deals with vriddhi (hernia, hydrocele), upadamsa (diseases of the genital organ) and slipada; the entry does not say which of these the alkali treats, and it does not assign the drug to any organ or tissue. The lymphatic vessels are the modern correlate the entry names for elephantiasis, as a general fact and not a claim of the text. The chapter gives no plant description, no energetic classification (no rasa, virya or vipaka) and no rejuvenative status. No body system is attributed to the plant itself.
+
 ### Contraindications
 
 - **Caustic preparation:** the one recipe is an alkali, and alkalis can burn; the Codex does not endorse it.

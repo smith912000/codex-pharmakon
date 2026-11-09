@@ -63,6 +63,10 @@ General, well-established facts only. The identity is open, so no pharmacology c
 
 **Practitioner's note.** An unidentified name that recurs in wound, ulcer and dysentery recipes. Nothing supports cultivation use, and without an identification nothing can be gathered or used. A cultivator reads it as a name in a record.
 
+### Functional–Anatomical Correlate
+
+Samanga is named in two groups, the Priyangvadi and the Amvashtha'di, and the text gives a virtue for the pair together: it eases deranged Pitta, heals ulcers, knits fractured bones and stops mucous dysentery (Pakvatisara). Modern anatomy for the named sites is the skin and wounds, the bones and the bowel. The name recurs in many recipes for ulcers and wounds, ear-lobe disease, fever with burning, chronic dysentery (Pakva Atisara), excessive bleeding and an antidote. In these the text gives no action for Samanga alone, and its companions are mostly astringent and wound-healing drugs. The one parenthetical gloss, Bardha-krdnti, is unclear in the OCR and is marked for verification. The plant is not identified, so no species, part used, dose or recipe quantity can be attributed to the drug. The entry gives no organ or channel assignment and no modern diagnosis.
+
 ### Contraindications
 
 - **Identity.** The plant is unidentified, and the translator's only gloss is unclear. Do not substitute any herb for it.

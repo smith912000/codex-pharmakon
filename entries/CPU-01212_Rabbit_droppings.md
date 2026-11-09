@@ -40,6 +40,10 @@ General, well-established facts only. Oedema and ascites are fluid accumulations
 
 **Practitioner's note.** A cultivator does nothing with this. It is a one-line action in a list of animal droppings, the two translations word it differently, and it carries infection risk with no supported benefit. The honest use of the entry is as a record of what the Tantra says.
 
+### Functional–Anatomical Correlate
+
+Little to map: rabbit droppings are said to purge oedema (Clark) or drain ascites (Men-Tsee-Khang), which are fluid collections in the body, ascites being in the abdomen. The sources name no organ. The Clark line also adds a bracketed claim about wounds.
+
 ### Contraindications
 
 - **Infection:** animal faeces can carry bacteria and parasites; do not eat them, drink them or put them on wounds.

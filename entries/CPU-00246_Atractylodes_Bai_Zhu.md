@@ -123,6 +123,10 @@ Cāng Zhú finds its primary Kenetica application in athletes presenting with da
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, Bái Zhú (A. macrocephala) enters the Spleen and Stomach channels, tonifies Spleen Qi, harmonises the Middle Burner, dries dampness and consolidates the exterior against spontaneous sweating. The Spleen is read as the functional digestive apparatus rather than the anatomical organ: enzyme secretion, gastric motility, absorption and mucosal immunity. Its polysaccharide fraction is said to support the intestinal immune environment and gut bacteria, and in a rat model atractylenolide I normalised both hyper- and hypomotility of the stomach. Its calming-the-fetus use is linked to uterine relaxation in ex vivo rat tissue. Cang Zhu (A. lancea), which enters Spleen, Stomach and Liver, dispels damp-bi with joint heaviness and stiffness and is said to brighten the eyes in night blindness, attributed to beta-carotene. The entry also reports AMPK and GLUT4 effects in muscle and liver protection in rats. Nearly all of this is animal or cell data, with one small human compound study.
+
 ### Contraindications
 
 - **Yin deficiency with heat signs:** Bái Zhú's warm, drying nature is contraindicated in patients presenting with dry mouth, night sweats, low-grade afternoon fever, red tongue without coat, and heat sensations in the palms/soles. Drying an already Yin-deficient patient accelerates the depletion.

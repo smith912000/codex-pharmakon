@@ -65,6 +65,10 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places tree turmeric on the eyes, skin, gut, liver and metabolism, all through berberine's antimicrobial and bitter-cooling action. In Ayurveda, Daruharidra is kapha-pitta reducing and drying, used as Rasanjana, a concentrated extract applied to the eyes for conjunctivitis and eye inflammation, and as a decoction wash for skin, wounds and infective skin conditions. Internally it is used for diarrhoea and intestinal infection, for prameha and diabetes, and for jaundice and liver complaints as a bitter cholagogue acting on the biliary tract. The Unani and Tibetan descriptions, per the entry, are similar: bitter, drying, antimicrobial and hepatic, with damp-heat, eye complaints and gut infection named. The entry records that berberine is poorly orally bioavailable. Pregnancy, breastfeeding and neonatal jaundice are contraindicated, as berberine can displace bilirubin, along with additive effects with antidiabetic drugs.
+
 ### Contraindications
 
 - **Pregnancy and breastfeeding — avoid.** Berberine is contraindicated in pregnancy (uterine-stimulant; can cause/aggravate neonatal jaundice — displaces bilirubin) and in nursing/newborns. [USER: verify.]

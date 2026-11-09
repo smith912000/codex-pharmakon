@@ -52,6 +52,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** There is nothing to cultivate here in the Codex's sense. The one real account is Dioscorides' one-line note that wild apples are astringent, which is a note on choosing fruit and not a practice. The Avicenna and Shennong tags are unsupported.
 
+### Functional–Anatomical Correlate
+
+Little to map: Per the entry, Dioscorides calls wild apples astringent and says the least ripe fruit should be chosen when an astringent is wanted (1-163). He describes Epirotic apples as good for the stomach, astringent in the intestines and encouraging urine (1-162), and says leaves, blossoms, sprigs and unripe fruit of melea trees are astringent, while spring-ripe apples encourage bile, are hurtful to sinewy parts and are flatulent (1-159). No hot or cold quality is printed. No Avicenna or Shennong locus was found, no preparation or dose is given, and no clinical study was retrieved. The entry notes that its identity blends two Dioscorides chapters and overlaps the cultivated apple entry. The Codex gives no therapeutic protocol for it and records no cultivation status.
+
 ### Contraindications
 
 No safety data were read. Apple seeds are generally not eaten in quantity, and the Codex does not recommend any therapeutic use of the fruit from the passages read. Dioscorides himself says that spring-ripe apples "are hurtful to all that is sinewy, and are flatulent" (1-159). Seek ordinary medical care for stomach, bowel or urinary complaints.

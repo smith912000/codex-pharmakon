@@ -37,6 +37,10 @@ None is given.
 
 **Practitioner's note.** The use of the entry is the discipline it shows: the Canon reports a claim, names it, and says it does not hold it. A cultivator can take that as a model for handling inherited remedies.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names one body part, the bladder, as the site of a stone (hajar al-mathana) that a group reported would break up the gravel (hasa) of the bladder when drunk. Avicenna records the claim and does not endorse it. No temperament, faculty, humour or other organ is given, and no dose. The whole mapping is the bladder and urinary calculus, which the text rejects as a remedy.
+
 ### Contraindications
 
 - Ingesting human or animal tissue carries infection risk.

@@ -59,6 +59,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with this plant; it is an ingredient in illness regimens, and the Latin behind the name is a translator's appendix pairing, one half of which rests on a damaged name.
 
+### Functional–Anatomical Correlate
+
+Under the name Yuthika the chapters print the plant in four places, all in therapeutic contexts. In the Prameha (urinary disease) chapter it is one of the drugs with which arishtas, ayaskritis, lambatives and asavas are prepared for the patient. It is among the articles of a diet for atisara (diarrhoea), and among pot-herb leaves cooked with clarified butter as a diet in rakta-pitta (haemorrhage). An oil cooked with the flower is rubbed on or used as a plaster in the Visuchika (cholera-like) treatment, in a translator's footnote. These passages map the urinary tract, the bowels, the blood and the skin. The text gives no rasa, virya or vipaka under this name, and no ojas, tejas or prana. The row's key name, Balga, appears in no chapter, and the Latin pairing is the appendix's. The rasayana and vajikarana chapters do not name the plant.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for this plant under either name. The identity is open, so no plant should be gathered or used on the strength of this entry. The conditions in the recipes (Prameha, diarrhoea, bleeding, cholera-like illness) need medical care. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

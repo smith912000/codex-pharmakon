@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The one genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It offers a size, a habitat and a cross-reference, so it is history and not a practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: The chapter states only that the plant is a large marsh herb, a great olus that grows in marshes, and that it has the same properties as those mentioned above. No organ, tissue, body system, humoral or energetic quality, or taste is named for it. The 'above' is not identified in the chapter. The nearest preceding chapter, 2-140 on lapathum, gives organ-level uses such as soothing the intestines, dysentery, skin ulcers, leprosy, impetigo, toothache, scrofula and goitre, jaundice, bladder stones and menstrual flow, but this entry does not transfer any of these to this plant, because the chapter does not say which plants it refers to. Two later chapters compare their plants to rumex without giving any property of the dock. The plant is therefore mapped to no body system by this entry. The identity is the translators' suggestion between two docks, so no anatomy is assigned to either species.
+
 ### Contraindications
 
 The chapter prints no warning. It is a general, well-established fact that docks and sorrels contain oxalic acid and that large quantities can be harmful, particularly to people with kidney stones or kidney disease, and the Codex does not recommend eating any wild marsh plant. The identification rests on a translators' suggestion with two different docks on the same line, so no wild plant should be gathered or used on the strength of this entry. [USER: verify]

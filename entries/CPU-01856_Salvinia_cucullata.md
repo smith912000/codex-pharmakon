@@ -55,6 +55,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with a plant under the name Akhu-parni, and Mushika-parni is a juice, a leaf in a cake and a possible reading of another drug. Nothing should be gathered or taken on the strength of a Latin name that the chapters do not give.
 
+### Functional–Anatomical Correlate
+
+The chapters do not name Akhu-parni, and the name Mushika-parni appears three times with three different identities, none clearly this water fern. In the poisoning chapter (Kalpa 1) the expressed juice of Mushika-parni, with fresh cow-dung fluid and house-soot, is an external application for the effects of a poisoned plaster, which the text lists as falling of the hair, violent headache, bleeding through the mouth and nostrils and glands on the head, so the head and scalp are the parts touched. In the worm chapter (Uttara 54) its pasted leaves, described as a kind of Danti, go into cakes for the worm disorder, which maps to the intestinal tract and the worms in it. In Chikitsa 2 it is one reading of Dravanti, an ingredient of an oil for a malignant ulcer, which maps to the skin and wound. The text gives no rasa, virya or vipaka. The identities are open, and the entry records that the chapters point to plants other than the appendix's Latin, so no organ mapping is firmer than the chapter it comes from.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for this plant under either name. The identity is open and the chapters point to plants other than the appendix's, so no plant should be gathered or used on the strength of this entry. Poisoning and worms need medical care. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

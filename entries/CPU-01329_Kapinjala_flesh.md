@@ -38,6 +38,10 @@ General facts only. Wild game birds can carry enteric bacteria such as *Salmonel
 
 **Practitioner's note.** Nothing here is a practice. In Sushruta the Kapinjala is an ordinary light, cooling game bird listed as acceptable diet in illness, with one preparation to avoid. A cultivator can take only the caution about castor oil, and with the bird unidentified there is no reason to seek it out.
 
+### Functional–Anatomical Correlate
+
+The Kapinjala acts on the lungs, the deranged humours and the bowel by its own sentences. It is light and cooling, and proves curative in cases of haemoptysis, which maps to the airway and lungs and to bleeding from them. It is recommended in diseases brought about through the deranged condition of Kapham or Vayu (manda-vata), the text's terms for the humours, which it ties to no organ. The group of game birds it belongs to is light, cooling, sweet and astringent in taste, and pacifies the deranged humours. Uttaratantra lists the bird in a fever diet in moderate quantity, and gives a soup of Jangala birds with root preparations in diarrhoea, which maps to the bowel. Sutrasthana forbids boiling its flesh with castor oil on a fire of castor twigs. The text gives no separate potency, and the bird is not identified.
+
 ### Contraindications
 
 - **Hygiene and infection:** wild game birds can carry bacteria and parasites; cook through.

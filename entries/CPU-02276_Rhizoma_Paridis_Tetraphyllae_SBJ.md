@@ -49,6 +49,10 @@ General, well-established facts only. *Paris* is a genus of rhizomatous herbs of
 
 **Practitioner's note.** A middle-class herb recorded for cold-damp pain in the joints and limbs. The classic's own grading places it between the life-nourishing upper class and the short-course lower class, and nothing in the record supports any long-term cultivation use. A cultivator has nothing to do with it, and the species is not settled.
 
+### Functional–Anatomical Correlate
+
+Per the classic's own paragraph, Wang Sun acts on the five viscera (五脏), the limbs and the knees. Its terms are evil qi in the five viscera (五脏邪气), cold-damp impediment (寒湿痹), aching and soreness of the four limbs (四肢疼酸), and cold pain in the knees (膝冷痛). Modern anatomy is limited to the limbs and knees the text names, and the entry does not identify which viscera are meant or assign any organ or channel. The impediment is left untranslated, with no modern diagnosis given. The Wu Pu layer and Yang's edition call the drug nontoxic, but the classic's own paragraph does not, and the entry treats that as a variant reading. The plant itself is not securely identified, so no plant tissue or species can be mapped. The classic names no part used, no preparation and no dose, and it does not promise any long-term or cultivation effect.
+
 ### Contraindications
 
 - **Identity.** The species is the translator's label adopted with low to medium confidence; the name wang sun has been applied to other plants, and the Wu Pu description is of a creeper. Do not gather or use a plant on this label. [USER: verify]

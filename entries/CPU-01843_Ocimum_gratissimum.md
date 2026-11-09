@@ -57,6 +57,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with this herb; it is an ingredient in treatments of illness, and the Latin name behind Ajagandha is a translator's appendix pairing. The infant fumigation and amulet are recorded in the text and are not a recommendation.
 
+### Functional–Anatomical Correlate
+
+Sushruta names Ajagandha in many recipes, and its named sites are mostly external and local. It is one of the drugs in plugs, plasters and oils for ulcers and open swellings, and in an oil that purifies deep, foul-smelling ulcers covered with layers of deranged fat, which places it on the skin and the tissue beneath it. A plaster of it is applied to Kaphaja swellings and to a Kaphaja goitre, a neck gland, and it is part of the Kaphaja Visarpa remedy. Internally it appears in a powder for fever with thirst and a burning body, and in the Vayu compounds, which the text ties to cough, asthma, Gulma, ascites and heart disease. Fomentation of the ear through a pipe treats ear-ache of Vayu and Kapha, and two infant remedies name it, a fumigation and an anointing oil. The text gives it no action singly, and a translator's footnote only links it to a heat-producing group.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for this herb. The identity is open, so no plant should be gathered or used on the strength of this entry. Wound plugs, enemas and plasters with alkaline water or caustic salts are clinical measures and not home ones; fever, goitre, ear-ache and infant illness need medical care. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

@@ -49,6 +49,10 @@ General, well-established facts only. The identity is open, so no pharmacology c
 
 **Practitioner's note.** An unidentified name in one group list. Nothing supports cultivation use, and without an identification nothing can be gathered or used. A cultivator reads it as a name in a record.
 
+### Functional–Anatomical Correlate
+
+Little to map: Sprikka appears once in the Sushruta Samhita, in the Eladi group list of chapter 38, between Aguru and Ushira, and the plant is not identified. The entry therefore records only what the group as a whole is said to do. In Ayurvedic terms the group is said to subdue the action of Vayu and Kapham, two of the three doshas, and to neutralise the effects of poison. On the skin, the group is called a cosmetic that arrests the eruption of pimples and other skin eruptions such as rash and urticaria, and checks the itching that goes with them. The sources give no part of the plant, no rasa, virya or vipaka, and no organ named for it. Any mapping to a body system would be the reader's own inference, and the Codex does not make one.
+
 ### Contraindications
 
 - **Identity.** The plant is unidentified; do not substitute any herb or spice for it.

@@ -38,6 +38,10 @@ General, well-established facts only. Bone is a living mineralised tissue that h
 
 **Practitioner's note.** A cultivator does nothing with this. It is a one-line indication in a list of animal parts, the two translations disagree about what the indication is, and it brings no cultivation claim. Its use today is as a record of what the Tantra says.
 
+### Functional–Anatomical Correlate
+
+Little to map: the line states one indication, that pig tongue 'removes bone warts' (Clark). The Men-Tsee-Khang edition reads that it 'removes fragmented bones from comminuted fractures', so the bony skeleton is the system both translations name, with the tongue as the source. The line gives no taste, potency, post-digestive taste or humoral quality, and no Chinese classification applies. No cultivation, essence-extraction or rejuvenation role is printed, and no preparation, route or dose is given. The entry notes that 'bone warts' is the translator's consistent phrase for a complaint whose nature the lines read do not explain. The Codex records the line as history; a fracture or bony growth needs clinical assessment.
+
 ### Contraindications
 
 - **Infection and parasites:** raw or undercooked pork and offal can carry bacteria and parasites; the entry recommends no raw or home preparation.

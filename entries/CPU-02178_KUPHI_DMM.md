@@ -46,6 +46,10 @@ General, well-established facts only. Incense and aromatic mixtures were used in
 
 **Practitioner's note.** A recipe for a perfume and a drink, recorded as an Egyptian priests' practice. What a cultivator can take from it is the care of the recipe: the stoning and pounding, the standing, the honey boiled to glutinous, the melted resin. The Codex draws no spiritual claim from it that Dioscorides does not make, and Dioscorides makes none beyond the words 'welcome to the Gods'.
 
+### Functional–Anatomical Correlate
+
+The Dioscorides chapter describes cyphi as a compound perfume that the Egyptian priests use abundantly, mixed with antidotes, and given in drinks to the asthmatic. Those map to the sense of smell through the scent, to the airways through the asthma drink, and to the body only through the antidotal use named. The recipe's ingredients, wine, raisins, honey, resin, calamus, aspalathus, juncus and myrrh, are described as producing a fragrant and fermented mixture, but the chapter gives no quality, organ or tissue for the compound and names no channel. No amount for the drink is given. The Codex reports these uses as the author's statements and does not extend them to any claimed effect on the lungs or the spirit.
+
 ### Contraindications
 
 - **Alcohol, honey and resin.** The drink is a wine-based preparation; it is unsuitable for children, in pregnancy, for anyone avoiding alcohol, and for anyone with allergy to resins or to the plants listed. [USER: verify]

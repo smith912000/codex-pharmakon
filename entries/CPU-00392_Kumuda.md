@@ -54,6 +54,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this water-lily. In Sushruta it is a cooling flower and bulb and an ingredient in compounds made by a physician. The abstentive answer is the correct one: any use is a matter for a qualified practitioner, and the text supplies no long-term regimen.
 
+### Functional–Anatomical Correlate
+
+The Utpaladi group verse maps Kumuda onto the blood, the heart and the stomach. It is said to correct the deranged Pitta and the vitiated blood, to assuage the burning of the body and allay thirst, and to cure vomiting, Hridroga (called angina pectoris in the translation), syncope, haemoptysis and poisoning. The flower is described as sweet, slimy, demulcent, pleasing and cooling, so its mucous surfaces are the implied tissues. The bulbs are astringent, sweet in digestion and cooling, and the text adds that they tend to enrage Vayu. The Gauryadi Ghrita, a medicated ghee for Pittaja erysipelas, places the drug in the skin. In the antivenom compound Kumuda is one of many ingredients with no separate role stated. The text names no nervous, reproductive or ojas-related organ for it. Its organ claims are therefore the heart, blood, stomach, the airway in haemoptysis, and the skin in erysipelas, with the Vayu-enraging bulbs noted as a caution in the text.
+
 ### Contraindications
 
 No safety data were read. Sushruta itself says the bulbs "tend to enrage the Vayu" (Sutra ch.46). Water-lilies grow in open water, and wild material may carry water-borne contamination, so wild flowers or bulbs should not be eaten or applied. Some water-lilies are protected plants in some places, so check local rules before collecting. Do not use in pregnancy. Seek a qualified practitioner, and ordinary medical care for fever, bleeding, poisoning or chest pain, all of which the traditional group verse names.

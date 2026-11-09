@@ -49,6 +49,10 @@ General, well-established facts only. "Zhi" 芝 is a Chinese group name for cert
 
 **Practitioner's note.** An upper-grade drug in the classic's own scheme, the kind taken long-term for nourishing life, but with no identified species, no dose and no preparation in the record. A cultivator can read this as the tradition's own account of what an upper-grade fungus was thought to be, and should not act on it by eating any fungus.
 
+### Functional–Anatomical Correlate
+
+The entry places yellow zhi in the spleen and in the heart and abdomen. The classic says it governs the five evils of the heart and abdomen (主心腹五邪), boosts spleen qi (益脾气), and quiets the spirit (安神). Its flavour is sweet and its nature balanced. The paragraph also lists loyalty, trustworthiness, harmony and joy (忠信和乐) beside these actions, which the entry treats as the classic's own terms and not bodily functions. Yang's note on the five evils is a modern gloss, and it lists several readings without settling one. No channel is printed, and no colour-to-phase correspondence is given for yellow, because Yang does not work it. The heart and abdomen are named only as the site of the evils, and the entry does not translate spleen qi or spirit into modern anatomy.
+
 ### Contraindications
 
 - **Identity.** The yellow zhi has no settled species. Do not gather or eat wild fungi on the strength of this entry; many are poisonous and some are lethal.

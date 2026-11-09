@@ -69,6 +69,10 @@ The heartwood-water and DPP-4/GLP-1 findings give an unusually coherent modern r
 
 **Practitioner's note.** Nothing to cultivate with this: a therapeutic heartwood drug in the sources retrieved. The vessel-water practice and its doctrinal reading in the entry are not shown in the loci read.
 
+### Functional–Anatomical Correlate
+
+The entry maps Asana onto the urinary (mūtravaha) and fat (medovaha) srotas, with rasavaha and raktavaha as secondary channels, and frames prameha as a disorder of the body's water and fluid balance. Its actions reduce Kapha, Meda and Pitta, and include anti-diabetic (pramehaghna), anti-dermatosis (kuṣṭhaghna), fat-reducing (medohara) and astringent-binding (grāhī, stambhana) activity, with cooling potency (śīta). The astringent heartwood is also used for diarrhoea, mucosal laxity and weeping skin. In modern terms, the entry cites preclinical work: a heartwood extract improved glucose uptake in HepG2 liver cells, a DPP-4 inhibiting effect raised active GLP-1 in diabetic rats, and pterostilbene reduced fatty liver in mice. Human confirmation is described as thin. The entry also notes that its water-vessel practice is not shown in the sources read. Contraindications concern additive hypoglycaemia with glucose-lowering drugs and caution in Vāta states.
+
 ### Contraindications
 
 - Drying and cooling: use cautiously in Vāta constitutions, dryness, constipation, and depletion.

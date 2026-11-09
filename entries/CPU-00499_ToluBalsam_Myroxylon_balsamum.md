@@ -75,6 +75,10 @@ Tolu balsam is a well-characterised **balsamic oleoresin** whose aromatic esters
 
 **Practitioner's note.** Nothing for cultivation. Tolu is a pharmacopoeial balsam used for cough and minor skin protection, and it is a recognised contact allergen.
 
+### Functional–Anatomical Correlate
+
+Tolu balsam's mapped action is on the respiratory tract and the skin. Its classic use, per the entry, is as a warm, sweet expectorant and demulcent for cough and congested airways, given as syrup or lozenge, a chest-and-throat aromatic. On the surface it is applied to minor wounds, sores and cracked skin as a protective, mildly antiseptic film-former, with the resin body carrying the vulnerary action. In the entry's Qi classification it is warm, sweet and aromatic. The Dantian affiliation is the chest and Upper Dantian, the breath and the wounded surface. The entry also records an early-modern humoral reading, hot and dry, as balsamic, resolvent and pectoral, and an indigenous American reading as a fragrant wound-and-chest balsam. The mechanism it cites is antiseptic and expectorant activity of benzoic and cinnamic acids and aromatic esters. Skin contact is the main hazard: Myroxylon balsams are major contact allergens, and the entry notes cross-reactivity with balsam of Peru. Trial evidence for tolu as an isolated agent is limited.
+
 ### Contraindications
 
 - **Contact allergy — significant:** *Myroxylon* balsams (balsam of Peru/Tolu) are **major contact allergens** and a standard patch-test screening substance; topical use can sensitise, and balsam-allergic individuals may also react to related fragrance/flavour and food cross-reactants. Patch-test before broad skin use.

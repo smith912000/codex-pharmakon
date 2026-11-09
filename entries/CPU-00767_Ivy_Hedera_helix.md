@@ -95,6 +95,10 @@ This is the most appropriate respiratory expectorant for productive cough with t
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, ivy acts on the Lung, where its saponins are said to transform and dissolve Phlegm, open airway obstruction and descend Lung Qi, with TCM analogues to Qian Hu and Zi Wan. The modern correlate is at the airway: hederacoside C is converted to alpha-hederin, which the entry describes as activating beta-2 adrenergic receptors in airway smooth muscle to bronchodilate, and as stimulating surfactant secretion to liquefy mucus. Flavonoids such as rutin and quercetin are cited for mucosal anti-inflammatory activity. Alpha-hederin is also said to act directly against respiratory pathogens such as Streptococcus pneumoniae and Haemophilus influenzae. Ayurvedic sources class it as Katu-Tikta with Kasahara (antitussive-expectorant) action on Kapha. The entry's safety notes name raw berries as toxic to the gut through polyacetylenes, causing vomiting and diarrhoea, and raw leaf juice as an irritant to skin and gut. Pregnancy caution is tied to saponin effects on cell membranes, and kidney disease to renal processing of saponins.
+
 ### Contraindications
 
 - **Raw ivy berries — TOXIC** — berries contain concentrated polyacetylene toxins (falcarinol) and high-dose saponins; raw berries cause vomiting, diarrhea, and potentially cardiac effects; never ingest raw berries; pharmaceutical preparations use only the leaf extract at controlled saponin concentrations

@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identifica
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The only transferable point is the habit of identifying a plant by its leaves, flowers and smell, and of keeping the author's own heading apart from a later gloss. The text offers nothing more, and the abstentive answer is the right one.
 
+### Functional–Anatomical Correlate
+
+The chapter itself maps the plant to women's childbirth, since its name is said to come from helping women in childbirth exceedingly well. No organ is named and no preparation is given beside that claim. The neighbouring chapter 3-6 names the round kind as good against poisons, taken in a drink with wine and also applied, and it lists pessary and other uses for the aristolochias as a group, which this entry does not assign to the round kind alone. The next chapter calls the roots of both kinds bitter and poisonous, the only systemic statement in the material read. Chapter 3-4 prints no temperament, humour, doshic or qi quality and no taste, only that the leaves are sweet smelling with sharpness and the red part of the flower has a bad scent. These are recognition marks, not organ actions. The entry's note that aristolochic acid harms the kidney is general knowledge from outside the text, not a claim of Dioscorides, and the identity is only a translators' suggestion that conflicts with the heading.
+
 ### Contraindications
 
 Chapter 3-4 prints no warning, but the next chapter calls the roots of both round and long aristolochia "poisonous". If the plant is an *Aristolochia*, aristolochic acid is a recognised kidney toxin and carcinogen, and the chapter's reputation as a help in childbirth is not a reason for use. It is not suitable in pregnancy or labour on the strength of this entry. The identification is only the translators' suggestion and conflicts with the heading, so no plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

@@ -80,6 +80,10 @@ Tigernut's standing rests on its **nutritional composition** — an oil-rich (ol
 
 **Practitioner's note.** Nothing beyond food: eaten as a tuber or tuber-milk, with no cultivation practice supported by the sources here.
 
+### Functional–Anatomical Correlate
+
+The entry's organ mapping for tigernut is light and nutritional. Its traditional digestive use is linked to the colon, where resistant starch and fibre are fermented into short-chain fatty acids that support the gut microbiome and digestive regularity. The entry gives its energetic home as the Middle Dantian, the digestive centre, with a sweet, moistening, Yin-nourishing action that builds by feeding rather than forcing. The oleic-rich oil and starch are described as a nourishing energy substrate for the body generally. Avicenna gives it hot and moist in the second degree, fattening in cosmetic terms, and greatly increasing semen, which the entry maps only to the generative and excretory organs. The entry names no action on the heart, liver or skin, and states that it is not a validated therapeutic drug.
+
 ### Contraindications
 
 - **Generally very safe (a food):** tigernut is a well-tolerated food; the main cautions are ordinary food ones.

@@ -48,6 +48,10 @@ General, well-established facts only. Soot is carbon, and heating resin changes 
 
 **Practitioner's note.** A craft recipe, not a cultivation substance. The only thing for a cultivator here is the care of the method.
 
+### Functional–Anatomical Correlate
+
+The chapter maps this product to the eyes and their coverings. It is used with medicines for the eyelids to make them pleasing, for gnawed-around eye corners, for the membranes of the eyelids, and for weeping eyes. Those are the eyelids, the eye corners, the eyelid membranes and the lacrimal weeping in the text's terms. Its other uses are external and sensory: it gives a sweet smell to warm compresses and remedies against fatigue, colours ointments, and makes ink for writing. No quality such as warming or astringent is printed in the chapter, and no organ or channel is assigned to it. The text gives no amount. Applying soot or burnt resin to the eye is not treated here as a practice; the eye uses are recorded as the author's statements only.
+
 ### Contraindications
 
 - **Burns and fire.** Boiling resin for days over coals is a fire and burn hazard, a general caution.

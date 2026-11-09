@@ -71,6 +71,10 @@ Attribution: findings from PubMed. (The pharmacology below is largely establishe
 
 **Practitioner's note.** The tradition's own use is a defined rasayana course: powdered root in milk, with the prescribed regimen, taken under a physician after cleansing. The vajikarana framing in the tag line was not confirmed in the passages read. Do not extend the elixir claims beyond that course.
 
+### Functional–Anatomical Correlate
+
+Pueraria tuberosa's entry maps its action to reproductive tissue, lactation, the nutritive tissues and ojas. Sushruta classes it as vṛṣya and śukrala (reproductive tonic and aphrodisiac) and a component of vājīkaraṇa and jīvanīya preparations. Caraka places it among bṛṃhaṇa (nourishing), balya (strengthening), stanyajanana and kṣīra-vardhaka (galactagogue, milk-promoting) and śukra-vardhaka (reproductive-tissue-enhancing) groups. In Ayurvedic doctrine its sweet taste nourishes rasa, rakta, māṃsa, śukra and ultimately ojas. It is listed as pacifying Vāta and Pitta, relieving burning (dāhaśāmaka) and mildly diuretic, while Kapha is said to increase. The pharmacology cited, mostly from puerarin in P. lobata, concerns blood vessels (vasodilatory, cardioprotective), the brain (neuroprotective), metabolism, bone and colon inflammation in mice. The entry records no robust human trial of the tuber, and describes its action as building and nourishing rather than stimulating.
+
 ### Contraindications
 
 - **Kapha-aggravating:** being heavy, sweet, and unctuous, it can worsen Kapha excess, obesity, sluggish digestion (low agni), significant *āma*, or oedema/congestion. Use cautiously or avoid in these states.

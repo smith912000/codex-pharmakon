@@ -58,6 +58,10 @@ Magnetite is a magnetic iron oxide, and small magnets attract each other and iro
 
 **Practitioner's note.** Of the six traditions tagged, one (Chinese) grades the stone as a middle-grade drug for impediment, heat and deafness; the others use or report it for its attracting property. Nothing sourced supports taking magnetite for cultivation, and the Greek amulet reports are reports. A cultivator has nothing to do with it beyond reading the record. The Greek line gives "thirty grains ... with honey and water" as a quantity, not as advice. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Divine Farmer's Classic (SBJ) places the stone in the joints and limbs: impediment from cold dampness, pain in the limb joints, weak grip of the hands, and soreness and aching of the body. It eliminates vexatious fullness, great fever and deafness, which maps to the hearing apparatus of the ear. The Tibetan rGyud-bzhi (FMT) gives the digestive tract as the route by which it expels foreign bodies, and names the brain, bones and channels (nerves) as sites it treats. Dioscorides (DMM) says that it draws out thick fluids and that worn on the chest it soothes people, placing its effect on the chest and the body's fluid passages. Sushruta (SS) uses the magnet as a surgical aid for withdrawing an iron arrowhead, with no internal site. The Greek and Tibetan entries give no humoral or doshic term, and the Chinese grade is acrid and cold. In modern anatomy the sites are the joints, muscles and hands, the hearing apparatus, the brain and nerves, the bones and the gut lumen.
+
 ### Contraindications
 
 Do not swallow magnets or magnetic stones: two or more can pinch bowel wall between them and cause perforation, which is an emergency. Powdered magnetite is not a standardised drug. Keep magnetic stones away from implanted devices such as pacemakers. Amuletic uses (chastity test, harmony charm) are recorded as reports only.

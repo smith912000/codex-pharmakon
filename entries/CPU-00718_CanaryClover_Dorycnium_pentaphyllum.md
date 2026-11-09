@@ -72,6 +72,10 @@ The modern literature on *Dorycnium pentaphyllum* is **genuinely sparse** and mo
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps this shrub to the skin and superficial wound surface. Its traditional register is external: washes, compresses and poultices for weeping sores, bleeding and lax tissue, and damp sores, with an aerial-part rinse as the only mucosal use. In the Galenic-Unani frame (Avicenna's Qanun) it is a cool, dry qabid, an astringent for excess flux such as weeping wounds, bleeding and diarrhoea. Dioscorides' stryptic doctrine is the same: wounds drawn together and discharges checked. The modern correlate the entry gives is chemical and local: condensed tannins precipitate proteins on the tissue they touch, which it links to the tightening and drying effect. No organ-level action is mapped. The entry flags a gut and iron-absorption concern for internal tannin use, and treats in-vitro cytotoxicity as a laboratory finding rather than a body-system action. Pregnancy and lactation are excluded.
+
 ### Contraindications
 
 - **Cyanogenic-glucoside trace:** the plant contains a cyanogenic glucoside; internal use is not advised without expert supervision, and raw/large quantities are potentially unsafe.

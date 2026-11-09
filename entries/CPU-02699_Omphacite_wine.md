@@ -44,6 +44,10 @@ General, well-established facts only. Alcohol is a central nervous system depres
 
 **Practitioner's note.** Nothing to practise. A sour, aged, astringent wine from an indication-organised chapter; historical only.
 
+### Functional–Anatomical Correlate
+
+Per the entry's own Dioscorides (DMM) claims, Omphacite wine is directed at the stomach, the small intestine, digestion and the appetite. The chapter calls it astringent and good for the stomach, says it helps those with pains in the small intestine, difficult digestion and a squeamish stomach, and says it is sipped to help plague symptoms. The translator's gloss reads it as reducing sexual desire in women, which the entry records as a gloss and not as a claim it accepts. In modern terms the mapped systems are the gastric tract, the small bowel and the digestive process, including digestion and nausea. The chapter prints no warm or cool quality for this wine. The general warming statement at 5-11 concerns wine as a class and is not assigned here. The text says the wine is not drinkable until it has aged for many years, and the entry records the whole wine as historical only.
+
 ### Contraindications
 
 - **Alcohol.** Avoid in pregnancy, breastfeeding, liver disease, alcohol-use disorder, and with sedating or interacting medicines.

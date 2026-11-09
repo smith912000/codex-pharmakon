@@ -71,6 +71,10 @@ According to PubMed, the pharmacology broadly supports the traditional profile, 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps self-heal's action onto inflamed heat in the liver and gallbladder channels (TCM: clearing liver fire, brightening the eyes, reducing swelling), the throat (sore throat, quinsy, gargle), the eyes (red, painful eyes), and the neck's nodules and goitre, which the Chinese tradition describes as phlegm-fire nodules that the herb disperses. Wounds are a further target in the folk record. Energetically it is cold and dry, bitter-pungent and cooling, pitta-pacifying in Ayurvedic reading, and repercussive and desiccant in Galenic and Unani terms, suited to hot, moist inflammation of the throat and eyes. The entry also reports a calming, anti-insomnia action in mice, linked to mangiferin, rosmarinic acid and salviaflaside, so the restless, over-heated mind is a stated target. The pharmacology is largely preclinical, with antioxidant, anti-inflammatory, antimicrobial and antiviral activity in vitro. Self-treatment of neck swellings is excluded.
+
 ### Contraindications
 
 - Cooling and draining by nature; caution in cold, deficient, or spleen-cold constitutions (may aggravate poor digestion) per TCM doctrine.

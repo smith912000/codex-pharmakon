@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. The honest answer is to do nothing with it on the strength of this entry, and not to treat the English name as a promise.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that the list row gives Hebanthe paniculata, which its source lists as Pfaffia paniculata, with 300+ year documented use and an identity flagged as uncertain. No body system, organ, tissue, part of the plant, preparation, complaint or dose is named, and no constituent or clinical study was read. The 300+ year claim could not be checked. The entry declines to read the English name ginseng as a tonic or adaptogenic attestation, because it asserts no relation to Panax. No humoral, energetic or cultivation classification is given for the South American tradition. Its only safety content is a general caution that the row does not state: an unidentified root preparation should not be taken in pregnancy, while breastfeeding, by children, or alongside prescription medicines without medical advice. Legal and trade status are unchecked.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, an unidentified root preparation should not be taken in pregnancy, while breastfeeding, by children, or alongside prescription medicines without medical advice. This is general caution and is not found in the row. [USER: verify]

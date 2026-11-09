@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] Because the id
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a short record of an eye remedy with no description, no amount and no method of application, so the honest answer is that there is nothing here to take up.
 
+### Functional–Anatomical Correlate
+
+Little to map: The chapter states that the plant grows in gardens and that its juice, mixed with honey, is applied for argema (a small white ulcer on the cornea), nubeculae (a speck or small cloud in the eye), white spots on the cornea, and things that darken the pupils. The organs named are the cornea and the pupil, and nothing else. The text prints no humoral, qi or other energetic term, no quality, no taste and no temperament. It gives no description of the plant's parts and no part used. The other names, tripodion and trifolium, carry no use. The translators' Latin phrase Lotus sativa means the cultivated lotus, matching the Greek emeros. The identity is the translators' suggestion, and the Codex claims nothing about the eye from this entry beyond the text's own report.
+
 ### Contraindications
 
 Chapter 4-111 prints no warning. The eye is a delicate organ, and an unidentified garden plant juice mixed with honey is not sterile, so nothing should be applied to the eye on the strength of this entry. Eye ulcers and spots on the cornea need medical care. The identification is only the translators' suggestion, so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

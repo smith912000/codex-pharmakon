@@ -59,6 +59,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+In the Ebers text, hippopotamus fat maps to hair and skin. It is the second of six fats made into one and rubbed on the head of a bald man, for the growth of hair on the scalp. It is also a component of a hair remedy with writing-fluid and gazelle's dung, which Bryan calls revolting and whose complaint he leaves unclear. In a depilatory, fat from the hoof is heated with crushed tortoise-shell to remove superfluous hair, a removal Bryan explains by the hair-free shell and hoof. As a wound poultice, mixed with refuse of durra, the fat is said to dry a wound (Bryan's rendering under Minor Surgery), so the wound and skin are the site. The text names no humour, temperament, qi or organ beyond these. Hippopotamus oil, a separate item, is not mapped here, and the animal is protected over much of its range.
+
 ### Contraindications
 
 - **Hygiene and infection:** animal fat on broken skin or a wound carries infection risk; the poultice for wounds is not recommended.

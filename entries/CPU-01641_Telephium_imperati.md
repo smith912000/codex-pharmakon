@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is that the text gives an order of steps and a stopping rule, not only a remedy. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The entry maps the chapter’s uses onto the skin. The leaves, applied for six hours, are said to “cure white leprosy”, and the text then directs barley meal to follow. Rubbed on with vinegar in the sun, the leaves are said to “take away vitiligines”, and the text directs that they be wiped off once dry. The entry places both actions in the surface of the skin and its pigment, but the chapter gives no modern diagnosis for either condition and the entry does not match them to one. The plant is described by comparison with andrachne, by wings at each knot, by six or seven branches from the root, and by thick, tough, fleshy blue leaves and yellowish or whitish flowers, with a springtime habitat in vineyards and clay or shale. No taste, humour, dosha or qi term is given, and the chapter prints no hot, cold, moist or dry quality. The identity is uncertain, since the plate and the SUGGESTED line name different plants. The entry notes that a plant applied to skin and then exposed to sunlight carries a risk it has no source to measure.
+
 ### Contraindications
 
 Chapter 2-217 prints no warning, but it does direct that the leaves be followed by barley meal and wiped off. The identification is uncertain, and the plate and the SUGGESTED line name different plants, so no plant should be gathered or used on the strength of this entry. Skin changes need medical assessment, and a plant that is applied and then exposed to sunlight, as the text directs, is a risk that this entry has no source to measure. The text gives no dose and no safety information for pregnancy or children. [USER: verify]

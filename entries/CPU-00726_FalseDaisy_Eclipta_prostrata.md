@@ -126,6 +126,10 @@ Kenetica classifies *Eclipta prostrata* as a **Substrate Herb**: acting on the b
 
 **Practitioner's note.** Nothing cultivation-specific is attested. The Sushruta use is as an oil or juice ingredient for defined complaints, including greying hair; the *rasayana* label in the entry rests on later Ayurvedic usage not read here.
 
+### Functional–Anatomical Correlate
+
+The entry maps Eclipta to the hair and scalp, where Ayurveda and TCM both claim it darkens hair and supports its growth. The entry says the visible darkening is probably staining from the plant's own dye, so the hair claim is confounded, and its hair-growth evidence is review-level only. Its best-supported target is the liver: wedelolactone, a coumestan, suppressed NF-kB signalling and reduced transaminases and inflammatory cytokines in mouse and zebrafish liver-injury models. TCM links liver and kidney yin to hair: hair is the surplus of blood, and the kidney governs it. Ayurveda links the plant to kesha, yakrit and rasayana. Blood-cooling and bleeding indications are recorded but unassessed. Pregnancy, lactation, hormone-sensitive conditions and undiagnosed jaundice are advised against, since the coumestans are phytoestrogens and the thiophenes are phototoxic on the scalp.
+
 ### Contraindications
 
 - **Pregnancy — avoid. This is the entry's principal flag.** *E. prostrata* is coumestan-rich, and coumestans are phytoestrogens; the plant additionally carries traditional emmenagogue associations across South Asian usage. **[USER: verify]** — no primary reproductive-toxicity study for this species was retrieved this run, so this is a precautionary contraindication grounded in compound class and traditional caution rather than in retrieved data. That is exactly why it is stated as a prohibition rather than a caution: the absence of safety data in a phytoestrogenic plant is not reassurance.

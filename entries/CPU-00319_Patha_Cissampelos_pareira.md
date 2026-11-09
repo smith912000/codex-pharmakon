@@ -69,6 +69,10 @@ This review directly corroborates the three headline traditional uses (anti-diar
 
 **Practitioner's note.** Nothing to cultivate with this root. It is a binding and wound-cleansing remedy with curare-kin alkaloids, so it is not a long-term or casual substance.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Pāṭhā acts mainly on the bowel and the uterus. In the bowel it binds loose stool and treats atisāra (diarrhoea), grahaṇī (malabsorption) and dysentery, clearing āma and heat as it binds. In the uterus the classical obstetric reputation is that it corrects disordered garbhāśaya function, eases difficult labour and expels a retained placenta. Bleeding control, fever clearing and wound cleansing are also listed. Its alkaloids are said to relax smooth muscle and modulate immune and allergic responses, and the review cited lists bronchodilator, anti-allergic and hepatoprotective activity, all preclinical. The curare-kin chemistry signals possible neuromuscular effects, which the entry uses to justify low, precise dosing. Energetically it is bitter and pungent, heating and drying, with a binding (saṅgrāhī) prabhāva that lowers kapha and pitta and can raise vāta if overused. Evidence for human efficacy is LOW. Pregnancy, neuromuscular blocker use, myasthenia and constipation are contraindications.
+
 ### Contraindications
 
 Pregnancy — **contraindicated / use only under expert supervision** (uterine-acting, classical use to expel placenta and induce labour; antifertility activity documented in the genus). Neuromuscular caution: curare-kin alkaloid chemistry — avoid combining with neuromuscular blockers or in myasthenia/anaesthetic settings without medical oversight. High Vāta, constipation, dryness — the binding/drying action can aggravate. Not for the depleted or dehydrated in excess. Alkaloid overdose risk — respect the low therapeutic window; not a casual daily herb.

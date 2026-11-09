@@ -42,6 +42,10 @@ Tibetan: the line prints an action only ("cures brown phlegm"), with no taste, p
 
 **Practitioner's note.** Nothing. A cultivator does not use pig bone. The text records it against "brown phlegm", a term that cannot be matched to a modern condition on the sources retrieved, and the Codex keeps the record without carrying it into practice.
 
+### Functional–Anatomical Correlate
+
+Little to map: the text states one action only, that pig bone 'cures brown phlegm' (Clark; the Men-Tsee-Khang edition renders the disorder as baekan mukpo). Brown phlegm is a disorder in the translation's lists, which the entry says pervade the outer and inner body, but no organ or tissue is named as its seat. The bone is classed in the Tibetan 'Bone' group, and the line gives no taste, potency, post-digestive taste or humoral quality. No spirit, protective, essence-extraction or rejuvenation role is printed. The line gives no preparation and does not say whether the bone is raw or treated, and no dose is given. The entry notes that pig tongue, blood, fat and dung are separate items and are not carried over. The Codex keeps the line as a record only.
+
 ### Contraindications
 
 Bone from slaughter or scavenged sources can carry pathogens, and swallowing bone fragments risks injury to the throat and gut. Pig products are prohibited in some religious traditions; respect them. Raw or undercooked pork carries risks (including *Trichinella* and tapeworm cysts). Do not use any animal bone as a remedy for a disorder you cannot identify; seek medical care. This entry gives no medical advice.

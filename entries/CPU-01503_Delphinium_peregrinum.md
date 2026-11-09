@@ -39,6 +39,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing here gives a cultivator a practice. The entry is a record that the extraction row rests on a caption, and the line it cites is the pyrethrum chapter. Its value is as a flag for the editor.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that no body system, organ or tissue is mapped for this plant, because no text describes it. The binomial occurs only in two figure captions and the translators' index, and the row's extraction locus, 3-86, is a chapter on pyrethrum. That chapter says its root is extremely hot to taste, draws out phlegm, relieves toothache when boiled in vinegar, and produces sweats when rubbed on with oil. Those effects belong to that other plant and are not attributed to Delphinium peregrinum here. The sibling chapter 3-85 says only that 'the other delphinium' has 'the same properties', less effectively, with no property named. No quality, humour, dosha or qi is given for this plant, and no modern pharmacological material was read. Nothing is mapped to any organ, system or tissue.
+
 ### Contraindications
 
 The genus is generally known as toxic, and no part of any larkspur should be eaten or drunk on the strength of this entry. None of the traditional uses recorded for other plants in the neighbouring chapters is advice for this one. [USER: verify]

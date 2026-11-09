@@ -59,6 +59,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 **Practitioner's note.** Taken singly, nothing beyond a therapeutic astringent. A cultivator's use in this tradition is as one of the three fruits in the rejuvenation preliminaries and butter, under a physician and after the cleansing the chapter requires.
 
+### Functional–Anatomical Correlate
+
+Per the entry, belleric myrobalan acts mainly on the respiratory tract and the bowel. For the chest and throat it is a drying, Kapha-reducing remedy for cough, hoarseness and excess mucus, and the chewed fruit is used for sore throat. For the digestive tract its astringency treats loose bowels, and within Triphala it regulates elimination. In Tibetan medicine (rGyud-bzhi) the fruit is listed as curing phlegm and bile disorders, lymph disorders and wind imbalances. The three-fruit butter is said to clear the sense organs and rejuvenate, though that action attaches to the triad as a compound rather than to this fruit alone. The entry gives its taste as astringent, its Ayurvedic potency as heating, and its Unani and Tibetan frame as drying. Dry constitutions can be aggravated, and pregnancy is a caution.
+
 ### Contraindications
 
 - **Pregnancy — caution.** Traditionally used cautiously; [USER: verify].

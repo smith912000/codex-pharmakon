@@ -64,6 +64,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 **Practitioner's note.** Nothing is attested for this species in the Tibetan texts. Any juniper use in the tradition is a physician's compounded medicine, and the sources give no home cultivation or self-directed use.
 
+### Functional–Anatomical Correlate
+
+The entry maps Tibetan juniper onto the airways, the kidneys and urinary tract, the joints and the skin, through the family's warming, drying, antiseptic and diuretic action. Smoke from burned branches is described as a fumigant for respiratory and infectious conditions. In Tibetan terms it is a warming remedy for kidney and urinary complaints and cold patterns, placed in the Traditional Chinese Qi tier on the warming-drying, antiseptic-diuretic axis. External use of the diluted oil is described for rheumatic and arthritic pain and for wounds and skin. The active fraction is the monoterpene oil, mainly alpha-pinene, with condensed tannins and resin acids. Concentrated internal preparations are said to irritate the kidney, and pregnancy is contraindicated because of the family's abortifacient reputation. The entry also says no Tibetan text attests this species, so the organ map rests on family-level claims.
+
 ### Contraindications
 
 - **Pregnancy — avoid.** Junipers carry an abortifacient/emmenagogue reputation; concentrated preparations contraindicated. [USER: verify.]

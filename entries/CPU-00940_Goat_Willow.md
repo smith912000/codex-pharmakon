@@ -46,6 +46,10 @@ Salicin from willow bark is the compound that led to salicylic acid and aspirin,
 
 **Practitioner's note.** There is nothing to cultivate here in the Codex's sense. The sourced material is a genus-level Greek therapeutic account that the I_246 entry already carries, plus two list rows. A practitioner should treat this species row as an index artefact.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry lists only Dioscorides' organ-by-organ uses, which it records without endorsing. Leaves pounded in pepper and wine are said to help painful intestinal obstruction (iliaca passio), and fruit or bark taken in a drink to help those who spit blood. Burnt bark steeped in vinegar and rubbed on calluses and corns; juice warmed in pomegranate wine for sores in the ears; a warm decoction as a pack for gout; a wash that cleans scurf (eczema); and juice from the bark at flowering that clears things darkening the pupils of the eyes. Dioscorides also says the leaves cause inconception taken with water, which the entry does not treat as a method. Bark salicin is a general genus statement, not verified for this species. No hot or cold quality is printed; only astringency is given.
+
 ### Contraindications
 
 No safety data were read. Willow bark preparations are generally avoided by people who react to aspirin or salicylates, and are not suitable for children with fever. The leaf use that Dioscorides says causes "inconception" is not a safe method, and none of the traditional uses should be taken as advice. Seek ordinary medical care for gout, bleeding, intestinal obstruction or ear and eye complaints.

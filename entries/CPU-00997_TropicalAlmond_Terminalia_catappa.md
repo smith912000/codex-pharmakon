@@ -85,6 +85,10 @@ Oral therapeutic dosing for *T. catappa* leaf is not standardised in the clinica
 
 ---
 
+### Functional–Anatomical Correlate
+
+The tropical almond's entry maps its astringency onto the skin, the gut and the liver. Tannins are described as precipitating surface proteins, which the traditions read as tightening loose tissue in weeping wounds, skin eruptions, diarrhoea and dysentery. Its wound use is topical, on clean granulating tissue, where the tannins firm new tissue and lower surface bioburden. Ayurvedic sources work the drug on pitta and rakta, the bile and blood, while Avicenna's tradition holds the myrobalan genus to strengthen the stomach and liver. The modern correlates are ellagitannins and ellagic acid, with preclinical antioxidant and hepatoprotective activity, though the hepatoprotection study cited examined other Terminalia species. A fruit extract lowered blood glucose in alloxan-diabetic rats and was reported to show pancreatic islet regeneration. High tannin load can irritate the gastric mucosa, impair non-haem iron absorption and, in excess, burden the liver.
+
 ### Contraindications
 
 - **Tannin load:** high-tannin decoctions can cause nausea, gastric irritation and constipation; prolonged oral use may impair non-heme **iron absorption** and, in excess, burden the liver rather than support it. Keep oral courses short.

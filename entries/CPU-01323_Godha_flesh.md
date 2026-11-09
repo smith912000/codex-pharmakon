@@ -40,6 +40,10 @@ General facts only. Reptile meat and handling carry a recognised risk of *Salmon
 
 **Practitioner's note.** Nothing here is a practice. In Sushruta the Godha is a food and drug with stated qualities, and the passages a cultivator can use are the cautions: not with milk, not prepared with castor oil, and watch *Pittam*. A reader who eats meat may read the classification as the tradition's own description; one who does not has nothing to adopt, and with the animal's identity uncertain there is no reason to seek it out.
 
+### Functional–Anatomical Correlate
+
+The Godha's flesh acts on the digestive tract and on the waste it produces. By the text's own sentence it is sweet of digestion, pungent and astringent in taste, tonic and constructive, and it pacifies Vayu and Pittam. The Vileshaya group it belongs to is said to increase the consistency of stool and urine, to be demulcent and beneficial in cough, dyspnoea (breathing difficulty) and cachexia (wasting), and to subdue Vayu while generating Pittam and Kapham. These map to the bowel, the bladder, the airway and lungs, and the state of wasting. The text also gives a Pittam caution, that the flesh may aggravate Pittam if taken injudiciously, which is in tension with the group's generating Pittam. Outside the food chapter, the animal's liver is used as an eye preparation (anjana) with honey, its bile enters an antivenom compound, and its fat, milk and marrow enter an ear-lobe unguent. The entry records the animal's identity as unsettled.
+
 ### Contraindications
 
 - **Hygiene and infection:** reptile flesh and viscera can carry *Salmonella* and parasites; cook through; wash hands and surfaces.

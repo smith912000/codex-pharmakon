@@ -57,6 +57,10 @@ The Shennong text gives no preparation and no dose. Wu Pu and the Mingyi layer g
 
 **Practitioner's note.** A lower-grade, toxic emetic drug. The tradition's own grading is the warning, and nothing in the record supports any cultivation use. A cultivator should not use it.
 
+### Functional–Anatomical Correlate
+
+The entry's organ-level content comes from Yang's 1998 edition, because Sun's paragraph is damaged after its flavour. Yang's indications are cold damage with cold and heat, malaria with heat, ghost toxins, bound phlegm in the chest, and counterflow vomiting. These are the classic's own terms, and the entry does not translate them into modern diagnoses or assign an organ or channel. Sun's text gives only bitter and cold, and Wu Pu adds that Tongjun found it acrid and toxic. The entry records the drug as strongly emetic and notes Yang's remark that it is more often used to provoke vomiting than to stop it. The Mingyi layer gives habitat (Yizhou and Hanzhong) and harvest of the root, dried in the shade. The Hua Tuo powder named under the alias Qi Ye is a later biography's formula and is not used to assign any action. No dose, preparation, pregnancy or child statement is given, and the entry says not to ingest the plant.
+
 ### Contraindications
 
 - **TOXIC.** Wu Pu marks it toxic; the plant is strongly emetic. Do not ingest it.

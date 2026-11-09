@@ -46,6 +46,10 @@ General, well-established facts only. Many gum-bearing plants are applied as dra
 
 **Practitioner's note.** Nothing to do. A Cretan plant known only through Dioscorides' account, not identified, not for use.
 
+### Functional–Anatomical Correlate
+
+The Canon, quoting Dioscorides, gives this Cretan gum plant a drawing power in its leaf, fruit and gum, the only quality named. Applied as a poultice with wine to the flesh, it is said to draw out splinters, thorns and arrowheads lodged within, and the account adds that a wild she-goat grazing it sheds an arrow. Taken as a drink, it is said to act on the excretory organs: it cures dribbling of urine, breaks up stone in the bladder, and brings on the menses. The other, second kind, eaten raw or cooked, is said to help ulcer of the intestines, so the bowel is the digestive target named. No temperament in heat, cold, dryness or moisture is printed. The plant is not identified, and the Codex treats all of these as historical claims from Avicenna and Dioscorides rather than tested effects, so no organ mechanism beyond the text is mapped.
+
 ### Contraindications
 
 - **Identity.** The plant is not identified; do not substitute any species. [USER: verify]

@@ -76,6 +76,10 @@ Attribution: findings from PubMed.
 
 **Practitioner's note.** Nothing in the retrieved sources supports treating this root as a rejuvenative to be taken for cultivation. What is attested is a place in a Vāta-Pitta-pacifying group of drugs and in the *Daśamūla* family of formulae, used for stated complaints under qualified guidance. A cultivator's practical answer is to use it, if at all, as a therapeutic root for a defined complaint, and to leave out any long-term "building" claim until a named source for this species is found.
 
+### Functional–Anatomical Correlate
+
+Desmodium gangeticum's entry maps its action to the Vāta and Pitta-governed system and to tissue strength rather than to a single organ. Sushruta places it at the head of the Vidārigandhādi group, which the text says subdues deranged Vāyu and Pitta and benefits phthisis, gulma, aching limbs, ūrdhva-śvāsa and cough. Caraka places it among balya (strengthening), śvayathuhara (anti-oedema) and grāhī (astringent) drugs, and Daśamūla use links it to fever, respiratory conditions, oedema and diarrhoea. Preclinical data concern the brain (memory and cholinergic activity in mice) and the heart (cardioprotective signals), with a cell-line study on lung carcinoma cells. The rasāyana label is not supported by a named source for this species. The Unani and CM tag has no body content on the page and is flagged for review. The entry notes theoretical caution alongside cholinergic drugs.
+
 ### Contraindications
 
 - Generally well-tolerated in classical doses. As a heavy, sweet, unctuous, building root, use cautiously in significant Kapha excess, marked *āma* (undigested metabolic toxin) / low agni, or where a strongly cleansing rather than nourishing action is required.

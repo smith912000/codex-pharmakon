@@ -50,6 +50,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. It is a drug of purging and of poison treatment in Sushruta, and a toxic plant by general knowledge; the Unani tag is unsupported. The abstentive answer is the correct one: do not use it.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Arka and Alarka are listed by Sushruta as purgative, errhine and poison-treating drugs, so their action runs to the bowel (purgation), the nasal and head passages (errhine), and the whole organism in poisoning. The Arkadi group is said to destroy kaphani, fat and the effects of poison, to act as a vermifuge, and to act as an aseptic agent in ulcers and as curative in diseases of the skin, which places the skin and wounds among the tissues it acts on. The seed oil in the list is described as irritating, light, non-heat-making, and pungent in taste and digestion. The entry's general account of the latex, which it says generally contains cardiac glycosides, records it as irritating to skin and eyes and dangerous if swallowed. It warns against use in pregnancy and against any use on the eye. No modern pharmacological or clinical study was retrieved, and the Unani tag is unsupported.
+
 ### Contraindications
 
 *Calotropis* latex is generally recognised as toxic and irritating. It can injure the eye and skin and is dangerous if swallowed, and it is not a self-administration substance. None of the traditional uses above should be treated as advice. Anyone exposed to the latex, especially in the eye, or who has swallowed any part of the plant, should seek urgent medical care. Do not use in pregnancy.

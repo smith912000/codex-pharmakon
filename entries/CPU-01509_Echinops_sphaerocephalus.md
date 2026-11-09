@@ -43,6 +43,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. What the text teaches is how to look at a plant that changes its colour with the ground, and its remedies are for the skin and teeth. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The chapter's remedies map to the skin, the mouth and the teeth. The pounded black root, mixed with cobblers' ink, cedar oil and swine's grease, is used against parasitic skin disease, and boiled with vinegar, with sulphur and bitumen added, against lichen. Vitiligines (described as a form of leprosy) and sunburn are cleansed with it, and it is said to heal spreading wild ulcers. For the mouth it serves as a mouthwash, a decoction for toothache, and a root wrapped in pepper and wax for painful teeth. Boiled in vinegar and poured on, the teeth are said to be preserved, and conveyed warm through a quill it is said to break a sore tooth. The chapter gives no humour, dosha or qi for the root; it says only that the root is biting when chewed and pale yellow when cut. The identification is the translators' and is uncertain, and no modern pharmacology was read.
+
 ### Contraindications
 
 The chapter prints no warning of its own, but several mixtures it names contain sulphur, bitumen or ink and are not safe to apply to the mouth. Toothache, ulcers and skin disease need proper care and should not be treated with an unidentified wild thistle. The identification is only the translators' suggestion. No safety information for pregnancy was read. None of the traditional uses above is advice. [USER: verify]

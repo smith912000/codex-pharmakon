@@ -108,6 +108,10 @@ Underneath sits a surprise: beyond the expected tannins, the Hungarian *Corylus*
 
 ---
 
+### Functional–Anatomical Correlate
+
+Turkish hazel divides into two organ systems. The kernel is treated as food: the Chinese zhen zi reading takes it as sweet and neutral, entering the spleen and stomach to build qi, and the entry grounds this in its monounsaturated fat (about 80 percent of the fatty acids) and alpha-tocopherol. The bark and leaf are classed by the Graeco-Roman humoral frame as bitter, astringent, cool and dry, acting on the surface and the vessel wall. The European lineage applies them to phlebitis, varicose veins, haemorrhoids and eczema, which the entry records as tradition attested but clinically unsupported; the phenolic and DPPH work is chemistry, not trial evidence. Bark phenolics include about twenty diarylheptanoids. Astringency is described as tannin protein cross-linking on weeping skin. The clinically dominant concern is kernel allergen, which can cause anaphylaxis even on first exposure. Taxane production is attributed to endophytic fungi, not to the plant or kernel. Long-term tannin decoctions may impair mineral absorption and irritate the gastric mucosa.
+
 ### Contraindications
 
 **⚠️⚠️ TREE-NUT ALLERGY — ANAPHYLAXIS RISK. This is the single most important line in the entry.**

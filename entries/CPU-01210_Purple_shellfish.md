@@ -38,6 +38,10 @@ General, well-established facts only. Burnt shell is mostly calcium oxide and, w
 
 **Practitioner's note.** A cultivator does nothing with this. The chapter is a record of what a first-century physician reported for teeth and boils, not a practice, and it offers neither an observational method nor a vital claim. Its use today is as a window onto how Book Two treats the shelled sea creatures.
 
+### Functional–Anatomical Correlate
+
+Dioscorides gives burnt purpura three effects, all on the mouth and skin. It is said to dry and clean the teeth, which places it on the teeth and gums. It is said to repress excrescent flesh, meaning overgrown granulation tissue in a wound, and to draw boils and heal them, which places it on the skin and the tissue beneath it. In modern anatomical terms these are the teeth, gums, granulation tissue, and the dermis and subcutaneous layer. The chapter names no temperature, humour or other classification for the shell. The next chapter calls the burnt whelk more caustic by nature than the above, which is a comparison and gives the purpura no quality. The chapter says nothing about how the shell is burnt, how it is applied or in what quantity.
+
 ### Contraindications
 
 - **Caustic burns:** burnt shell is alkaline and can burn gums, tongue and skin; the chapter itself calls the related burnt whelk "more caustic by nature" (2-5).

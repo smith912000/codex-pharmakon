@@ -71,6 +71,10 @@ According to PubMed, amla has a **stronger human clinical evidence base than mos
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps amla onto several body systems in its traditions' own terms. In Unani (Amlaj) it is a cold, dry astringent tonic for the heart and brain (muqawwi-e-qalb, muqawwi-e-dimagh), a digestive strengthener for the viscera, and a hair and scalp tonic. In Ayurveda it is a rasayana acting on the whole constitution, sour-dominant with cooling virya, said to pacify Vata, Pitta and Kapha. In Chinese medicine (Yu Gan Zi) it clears heat, moistens the lung, benefits the throat, generates fluids and harmonises the middle. The modern correlates the entry cites are cardiometabolic: the trials and meta-analysis report effects on the lipid panel, fasting glucose, CRP and insulin sensitivity, and one RCT adds endothelial function and oxidative-stress markers. The entry links the rejuvenation claim to its vitamin C, tannin and gallic-acid antioxidant load. Its contraindications name platelet aggregation and gastric acidity as affected functions.
+
 ### Contraindications
 
 - **Astringent and cooling** — large or prolonged doses may aggravate cold/deficient digestive patterns or contribute to dryness/constipation in susceptible individuals.

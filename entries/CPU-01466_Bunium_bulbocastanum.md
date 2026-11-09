@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in this chapter gives a cultivator a practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The chapter maps the plant onto the bowels, the urinary tract, the flank and swellings of the neck, in the text's terms. Taken as a decoction, it is said to heal griping (the gut), slow and painful urination (the urinary tract) and pains of the side (the flank). Applied lukewarm with salt and wine, it is said to dissolve tumours, and the translators' bracket 'possibly goitre' links this to the thyroid of the neck, which is their gloss and not the text's. The chapter describes the plant only as a small shrub with a sharp taste, found in Crete, with leaves like bunium. It uses no humoral, doshic or qi term; sharp taste is the only quality given. The identity with Bunium bulbocastanum is the translators' suggestion only, and the description says nothing of a tuber.
+
 ### Contraindications
 
 The chapter prints no warning. The identity of the plant is uncertain, and carrot-family plants include dangerous look-alikes, so no plant should be gathered or used on the strength of this entry. Griping, painful urination and neck swellings can have serious causes and need medical assessment. No safety information for pregnancy was read.

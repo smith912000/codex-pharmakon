@@ -64,6 +64,10 @@ According to PubMed, the chemistry of *I. purga* resin glycosides is well charac
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps jalap onto the intestinal tract, where it acts as a drastic hydragogue. Its resin glycosides are described as osmotic and secretory irritants that draw fluid into the gut lumen and stimulate intestinal secretion and motility, producing torrential watery catharsis with colic. The humoral reading, hot and dry in the third degree, has it expelling watery and phlegmatic humours downward. Historical uses were constipation, dropsy (oedema) and co-purgation. The modern data are in vitro, showing cytotoxicity and reversal of multidrug resistance in cancer cell lines, and are not evidence of safe use. Named hazards reach the colonic mucosa, anorectal tissue, the inflamed or obstructed bowel, fluid and electrolyte balance, and, by reflex, the uterus and pelvis. No Ayurvedic or TCM assignment exists. Modern terms: colonic mucosa, enteric secretion and motility, electrolyte balance.
+
 ### Contraindications
 
 **⚠️ DRASTIC PURGATIVE — OBSOLETE AND DANGEROUS. The Codex records jalap as a cautionary historical drug, not a usable remedy.**

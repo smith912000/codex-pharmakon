@@ -78,6 +78,10 @@ The purgative action is pharmacologically well established: sennoside/anthraquin
 
 **Practitioner's note.** A forceful, short-course purgative; there is no cultivation use to describe, and the honest answer is to take nothing from it for long-term practice. The entry's body asserts a Chinese lower-grade (下品) status for Dà Huáng, but Chinese is not on this entry's tag line and no scholarly source for the grade was retrieved for this species; it is therefore not restated here as a cultivation claim (see flags).
 
+### Functional–Anatomical Correlate
+
+Per the entry, medicinal rhubarb acts mainly on the large intestine, with secondary action on the Liver and on the Blood. Its sennosides and anthraquinone glycosides are activated by colonic bacteria to stimulate motility and the secretion of water and electrolytes, the purgative action. In TCM it purges accumulation (xiè xià) of the Stomach and Large Intestine, drains fire and clears heat through the Liver, cools Blood, and expels stasis and unblocks menses. Its tannins and stilbenes are described as producing a secondary astringent, constipating effect. Emodin and aloe-emodin are described in preclinical models as anticancer, hepatoprotective and anti-inflammatory, with hepatotoxicity, nephrotoxicity and reproductive toxicity recorded at high dose or long duration. Tibetan medicine uses chu-rtsa as a purgative and heat-clearing agent for hot digestive disorders. The entry confines the drastic purge to short, supervised courses and gives the root no building role.
+
 ### Contraindications
 
 - **Pregnancy, lactation, menstruation:** contraindicated — strong purgative + Blood-moving/uterine action (anthraquinones also pass into breast milk).

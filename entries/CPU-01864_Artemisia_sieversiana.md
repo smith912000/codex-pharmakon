@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** The only cultivation role the sources give is as one ingredient of essence-extraction compounds for the white subspecies, with no compound named and no dose. Those compounds are made by specialists, and nothing here supports a cultivator taking an unidentified mugwort on that basis. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The root-layer sentence places mkhan.pa on the blood and the limbs: it stops bleeding and reduces swelling of the limbs, and Men-Tsee-Khang gives the same action. Clark's commentary layer, in square brackets, adds wounds, abscesses, the large and small intestines and, for the white subspecies, the kidneys. In the entry's terms the sites are the wounds and abscessed tissue, the intestines, the kidneys and the limbs, with bleeding and swelling as the disorders. Modern anatomy would place the intestines in the digestive tract, the kidneys in the urinary system and the limbs in the peripheral body. The commentary also says the white subspecies is recommended in essence-extraction compounds, which is a claim about practice and not an organ action, and the entry names no compound. The species is unsettled among three Artemisia names, and the entry gives no mechanism for any of these sites. No protocol or dose is given.
+
 ### Contraindications
 
 The sources read print no warning. The identity is uncertain between three species of *Artemisia*, and members of the genus are aromatic plants that can cause allergic reactions in people sensitive to the daisy family; no plant should be gathered or used on the strength of this entry. Bleeding and swellings of the limbs need medical care. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

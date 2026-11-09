@@ -72,6 +72,10 @@ Burdock's seed lignan arctigenin is the best-studied constituent, with a growing
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, burdock acts mainly on the liver, the excretory and skin systems, and the gut, which the traditions describe as channels of clearance. Its root, gobo, is a cooling, moistening food-tonic: the inulin is said to support digestion, and the root is claimed to promote mild diuresis (urinary system) and diaphoresis (sweating). Dioscorides applied the root and leaves to wounds and skin swellings, and Avicenna's Unani stream placed burdock against hot eruptions and abscesses, clearing morbid humours through urine and sweat. Ayurveda describes it as rakta-shodhana, blood-purifying, for pitta-driven skin disorders. The seed, Niu Bang Zi, enters the Lung and Stomach channels in TCM, where it disperses wind-heat, clears heat and toxin, and treats a sore, swollen throat and heat-type rashes. Preclinical arctigenin work is cited for hepatic and inflammatory clearance, including liver stellate-cell and fibrosis models, while the entry flags high-dose isolated lignan for hepatotoxicity through a reactive metabolite.
+
 ### Contraindications
 
 - **Asteraceae allergy:** May cross-react in people sensitive to ragweed, daisies, chrysanthemums; can cause contact dermatitis.

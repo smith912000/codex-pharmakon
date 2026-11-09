@@ -91,6 +91,10 @@ Compound digestive pill containing caraway/ajamoda; 1–2 tablets before or afte
 
 **Practitioner's note.** Across all six traditions caraway is a digestive carminative and, secondarily, a galactagogue — a substance taken to move stagnant gut Qi and settle the stomach, not to cultivate the vital constitution. The honest cultivation answer is that there is no cultivation layer: the traditions record culinary and carminative use, not a status in any longevity or subtle-body discipline. A cultivator uses it as a functional food — in rye bread, sauerkraut, beans and cabbage, self-titrating through the diet — and expects nothing from it beyond a quieter, less obstructed digestion.
 
+### Functional–Anatomical Correlate
+
+The entry places the main action on the digestive tract: carvone is said to relax intestinal smooth muscle through calcium-channel blockade and reduce gas, with upper GI gas and bloating as the named target. The Ayurvedic reading is Katu deepana-pachana with Vata-Kapha reduction, and the TCM reading is digestive Qi activation in the Stomach and Spleen, with Large Intestine gas dispersal and descent of rebellious Qi to stop nausea and belching. Antiparasitic and antimicrobial effects against Giardia, Cryptosporidium and H. pylori are described as in vitro. A galactagogue use is cited, possibly through prolactin modulation, and limonene is described as anxiolytic in rodent studies. A Dioscorides note on pale-faced individuals is recorded without a mapped organ. For Pitta-excess constitutions the entry cautions that acidity and inflammation may be aggravated. Energetically it is Qi, warming the Middle Burner and dispersing stagnation.
+
 ### Contraindications
 
 - **Pitta-excess constitution** — warming volatile oil can aggravate acidity and inflammation; use moderately

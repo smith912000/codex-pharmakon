@@ -65,6 +65,10 @@ Evidence grade: **moderate for the seed's anthelmintic action** (consistent trad
 
 ---
 
+### Functional–Anatomical Correlate
+
+This entry maps winter squash onto the intestinal tract, the spleen and stomach, and the carotenoid-rich nutrient supply. The seed acts on intestinal worms: the traditional anthelmintic role for tapeworm and roundworm rests on the amino acid cucurbitin, and the entry's Chinese reading adds schistosome. The flesh is cold and moist in Galenic terms, cooling, laxative and demulcent, and sweet and warm in TCM, entering the Spleen and Stomach to tonify qi and resolve damp. Ayurveda (Sushrutan lineage) describes the flesh as sweet, unctuous and cooling, pacifying pitta and vata while possibly increasing kapha, with the seed as a krimighna (anti-parasitic) agent. Modern correlates named in the entry are beta-carotene, lutein and zeaxanthin in the flesh, which supply pro-vitamin A, and tocopherols, squalene and phytosterols in the seed lipid. The entry says the rasayana rejuvenation belongs to ash gourd, not this species, so no rejuvenative tissue action is assigned. Its cleansing action is intestinal and dietary.
+
 ### Contraindications
 
 Broadly safe as food. The seed anthelmintic protocol should be **weight-adjusted and, in the classical method, paired cautiously with a purgative** — avoid aggressive purgation in the frail, dehydrated, or in pregnancy without supervision. Cucurbitacin-related bitterness in any *Cucurbita* signals possible "toxic squash syndrome" (cucurbitacin poisoning: cramping, vomiting, diarrhoea) — discard any bitter-tasting squash or seed. Excess carotenoid intake can cause harmless carotenoderma (orange skin). Rare cucurbit allergy exists. Diabetic patients should count the flesh's carbohydrate load.

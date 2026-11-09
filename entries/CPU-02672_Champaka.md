@@ -53,6 +53,10 @@ General, well-established facts only. *Michelia champaca* is a tree of South and
 
 **Practitioner's note.** Nothing. A fragrant flower in the Sushruta text, recorded for haemoptysis and as a perfume; it gives a cultivator no practice.
 
+### Functional–Anatomical Correlate
+
+Per the Sushruta text, Champaka is a fragrant flower with a stated action: it is curative in haemoptysis (coughing blood), which maps to the respiratory tract and lungs, and it subdues deranged Kapham, being both cooling and heat-making in potency (Sutrasthana ch.46). Haemoptysis is a serious sign, and the Codex does not translate it. Elsewhere the flower is a perfuming agent for water (ch.45), a smell in a prognostic sign of an ulcer (ch.28), and an item in lists (Kalpa ch.7, Uttara ch.39). The bark, named as Hemanga in brackets, appears in a paste (Chikitsa ch.25), which maps to a plant part and to no body system. No rasa or vipaka is printed. Kapham is a humoral term and is not translated into a modern diagnosis. No pregnancy guidance and no quantity are given.
+
 ### Contraindications
 
 The text prints no warning for this flower. Haemoptysis (coughing blood) is a serious medical sign and needs proper care. No safety information for pregnancy or lactation was read. [USER: verify] The Latin is the translator's, so no plant should be gathered or used on the strength of this entry.

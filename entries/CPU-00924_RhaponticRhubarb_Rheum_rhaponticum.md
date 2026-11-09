@@ -70,6 +70,10 @@ Cooling and drying; bitter; downward-purging at dose, astringent-toning at low d
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps rhapontic rhubarb onto the bowel first. Dioscorides describes its root as warming, astringent yet purging, used for weak stomach, gripings, bowel fluxes, and liver and spleen complaints. Culpeper and the European apothecaries call it a purge that cleanses choler, a gentle mover of the bowel and a liver remedy. The modern correlate is anthraquinone glycosides (emodin, chrysophanol) hydrolysed by gut flora, which stimulate colonic secretion and peristalsis, while tannins give the low-dose binding effect. The entry files the stilbenes rhaponticin and rhapontigenin separately: they act selectively on estrogen receptor beta, not on the bowel, and underlie the extract ERr 731 for perimenopausal hot flushes and climacteric symptoms, with randomised trial support. Tissues named: stomach, intestine and colon, liver, bile (choler), and, for the extract, estrogen-responsive tissue. The entry cautions against use in estrogen-sensitive conditions and in intestinal obstruction.
+
 ### Contraindications
 
 - **Estrogen-sensitive conditions (ERr 731 / stilbene fraction):** caution or avoidance in estrogen-dependent cancers (breast, endometrial), history thereof, and undiagnosed vaginal bleeding — an estrogenic (even ERβ-selective) agent. Use under clinical supervision; not a self-directed hormone substitute.

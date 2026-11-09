@@ -40,6 +40,10 @@ Tibetan: the line prints an action only ("cures urinary retention"), with no tas
 
 **Practitioner's note.** Nothing. A cultivator does not use otter liver. The text records it against urinary retention, and the Codex keeps the record without carrying it into practice.
 
+### Functional–Anatomical Correlate
+
+Little to map: the text states one action only, that otter liver 'cures urinary retention' (Clark's translation of the sram entry; the Men-Tsee-Khang edition reads 'cures obstruction of urine'). The body system named is therefore the urinary tract, in its retention or obstruction, and the liver is the organ used. The line gives no taste, potency or post-digestive taste for the liver. Clark's general rule that meats are sweet tasting is stated for meats and flesh, and the entry does not apply it to the liver. No preparation, dose, other organ or cultivation and rejuvenation role is given. The Codex keeps the line as a record only, and notes that urinary retention needs examination.
+
 ### Contraindications
 
 Wild fish-eating mammals carry parasites and zoonotic infections, and their livers can concentrate pollutants; handling or eating wild otter offal is not advised. Otters are legally protected in many countries and regions, and the Eurasian otter is subject to international trade controls; check the law of the jurisdiction before possessing any otter product. [USER: verify] Urinary retention needs prompt medical assessment. This entry gives no medical advice.

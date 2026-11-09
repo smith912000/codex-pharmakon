@@ -79,6 +79,10 @@ According to PubMed:
 
 **Practitioner's note.** A cultivator uses sweet basil as an uplift-and-clearing aromatic — a spirit-lifting (*mufarriḥ*) head-clearer and qi-mover for stagnation and cold-damp — taken as an event or a short course, not banked long-term. No tradition here grants it a rejuvenative cultivation grade, and its warm-dry nature argues against heavy sustained use; the cooling *sabja* seed is the counter-move. Keep it firmly separate from tulsi, whose sacred status is not transferable to this species.
 
+### Functional–Anatomical Correlate
+
+Basil's entry maps most densely onto the digestive tract and the lungs and airways, with the head and skin as secondary sites. In TCM terms (luo le) it is pungent and warm, entering the Lung, Spleen, Stomach and Large Intestine channels, where it dispels wind-cold at the exterior, moves and regulates Qi, harmonises the Stomach and resolves dampness. In modern anatomy that points to the stomach and intestines for flatulence, sluggish appetite, abdominal fullness and indigestion, and to the upper airways and skin surface for early colds and insect bites. The Galenic and Unani frame calls it warm and dry, a carminative aromatic digestive and a mufarriḥ (exhilarant) and muqawwī-e-dimāgh (brain and nerve strengthener) that the entry says lifts mood and clears the head, which maps to the central nervous system. The soaked seed (sabja) is the cool counterpart, a mucilaginous demulcent that the entry says soothes the gut lining and acts as a bulk laxative in the bowel. The volatile oil is described as antimicrobial, for topical use only.
+
 ### Contraindications
 
 - **Estragole (methyl chavicol) caution:** basil essential oil and some chemotypes are high in estragole, which is genotoxic/carcinogenic in animal studies at high doses. Avoid concentrated/therapeutic internal use of estragole-rich basil essential oil, especially in pregnancy, breastfeeding and infants; culinary use of the herb is considered safe.

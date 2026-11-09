@@ -87,6 +87,10 @@ According to PubMed, the traditional profile is supported by a systematic review
 **Practitioner's note.** Here the cultivator's action is behavioural and almost entirely dietary: cook the bean thoroughly — never raw, dry-fried for medicinal use — and eat it with constancy through hot, humid weather or during convalescence, in food quantities, over time. That is what the traditions actually attesting it do with it. What a practitioner should *not* do is upgrade its gentleness into a cultivation claim: this is a mild, well-tolerated food-drug for a weak and water-logged middle, and no source retrieved says more than that.
 
 *[1 tradition paragraph(s) removed 2026-07-18 — tag withdrawn per approved attestation ruling; see spine notes.]*
+### Functional–Anatomical Correlate
+
+The entry maps hyacinth bean chiefly to the digestive core. In TCM terms, bai bian dou enters the Spleen and Stomach channels, strengthens the Spleen (jian-pi), transforms Damp (hua-shi) and resolves summer-heat with dampness (shu-shi), addressing poor appetite, loose stool, nausea and heaviness; chronic pi-xu diarrhoea and excessive vaginal discharge (dai-xia) are also named. Ayurveda reads the bean as sweet, gently warming and nourishing, modulating kapha and vata, and ama-forming if raw. The modern correlates the entry cites are hypolipidaemic, hypoglycaemic, hepatoprotective, immunomodulatory and antioxidant activity in preclinical work, graded low-to-moderate. Raw seed contains lectins, trypsin inhibitors and in some cultivars cyanogenic glycosides, which act on the gut and cause nausea, vomiting and diarrhoea. East African use for postpartum and lactating women is recorded as a food-and-recovery reading.
+
 ### Contraindications
 
 - **NEVER eat raw or undercooked** — raw hyacinth bean contains heat-labile lectins, trypsin inhibitors and (in some cultivars) cyanogenic glycosides; raw/undercooked consumption causes nausea, vomiting, diarrhoea and can cause serious poisoning. Always dry-fry or thoroughly cook.

@@ -40,6 +40,10 @@ General, well-established facts only. Ash and salt are irritants and do not trea
 
 **Practitioner's note.** A cultivator does nothing with this. It is a salted fish used for skin growths and bites, with no preparation beyond burning the head. If the chapter has any lesson it is the plain one that the physician of this tradition used ordinary, cheap foods as medicines, and that the identity of the fish is the first thing to question.
 
+### Functional–Anatomical Correlate
+
+The smelt entry maps onto the skin and soft tissues, and the mapping is entirely external. Dioscorides gives the burnt head of salted smaris for excess flesh growths, for gangrenous ulceration and for corns and warty growths, which places its action in the skin, the soft tissue beneath it and tissue that has begun to die. The flesh of the salted fish, 'as well as all salted meat', is given for the sting of a scorpion and the bite of a dog, which places it at the site of a wound from an animal. The chapter names no humour, quality or degree for either part, and its one neighbouring remark on salted fish concerns a different fish. In modern anatomical terms the mapped systems are the skin and its growths, the subcutaneous tissue and the wound site. The text gives no internal organ and no system beyond these.
+
 ### Contraindications
 
 - **Wounds, gangrene and bites:** gangrene, spreading redness, fever, and animal or scorpion bites need clinical care; do not rely on this chapter.

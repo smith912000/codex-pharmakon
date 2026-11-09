@@ -49,6 +49,10 @@ General, well-established facts only. *Alhagi maurorum* is a legume of dry regio
 
 **Practitioner's note.** A purgative and laxative drug in the Sushruta lists. Nothing in the record supports a cultivation use; the sources attach no *rasayana* status to it.
 
+### Functional–Anatomical Correlate
+
+The entry maps the plant onto the bowels and onto the humour kapham. The sugar from its decoction is sweet and astringent, leaves a bitter after-taste, is laxative and subdues the deranged Kapham (Sushruta Sutra 45). The plant is one ingredient in a purgative compound commended to persons of dry temperament (Sutra 44), and in a powder given with tepid water in fever (Uttara 39). The intestinal tract is where purgation acts, and the fever state is the second site the chapters name, although the text gives no organ names of its own. The entry prints no rasa-virya-vipaka statement beyond taste, and no rasayana or ojas attachment. The Kapham-subduing and laxative actions belong to the sugar and the compounds, not to a plant-level organ assignment. Laxatives can cause diarrhoea and dehydration, so the entry advises against use in those conditions. The Ananta equation in Uttara 39 is unresolved, and the record gives no dose, duration or pregnancy statement.
+
 ### Contraindications
 
 - **Laxative effect.** The text calls the sugar laxative; avoid in diarrhoea and dehydration.

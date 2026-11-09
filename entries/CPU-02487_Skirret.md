@@ -42,6 +42,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** A watercress-like plant in the text, used for urinary complaints. There is nothing for a cultivator to do with it except to know what the Canon said.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry's own three lines name only the excretory organs. Cooked or uncooked, the plant benefits the stone, promotes urine and benefits dysentery. The linked qāf entry, which the text points to, adds that the plant is heating and dissolving, promotes the menses and urine, breaks up the stone in the kidneys when eaten raw or cooked, and helps ulcers of the intestines. The sīwun entry prints no temperament, and the qāf entry's heating and dissolving is the only quality printed. The plant is described as fragrant and growing in standing water. The species is not fixed by the text, and the English name skirret or water parsnip is the spine's and is doubtful, so the organ mapping cannot be tied to a modern plant. No dose is given.
+
 ### Contraindications
 
 Wild plants of still water can carry parasites (liver fluke is a general hazard of raw water plants) and some water-parsnip relatives are poisonous (Apiaceae of wet ground include dangerous species). Because the species is not fixed here, no wild plant should be eaten on this entry's authority. The Canon's uses include promoting menses, so pregnancy is a general concern. [USER: verify]

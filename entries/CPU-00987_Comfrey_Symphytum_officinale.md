@@ -108,6 +108,10 @@ The comfrey verdict, in one line: **the tradition was right about the poultice, 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps comfrey to the outer and musculoskeletal system: intact skin, bruises, ankle sprains, strain and myalgia, knee osteoarthritis, back pain, and superficial abrasions under licensed preparations. The modern correlate offered is allantoin, an epithelial-proliferant agent, with rosmarinic acid giving anti-inflammatory action and mucilage and tannins giving a moist film and surface astringency. RCT evidence supports pain and swelling relief on topical use in knee osteoarthritis, ankle sprain (non-inferior to diclofenac gel) and back pain. The entry notes that bone union is not demonstrated, and that allantoin alone did not improve wound healing in a rat intra-oral model. The entry's central danger is the liver: pyrrolizidine alkaloids are bioactivated into alkylating pyrroles that cause hepatic veno-occlusive disease, so the internal route is mapped to the small hepatic veins and is contraindicated. The entry also excludes use in pregnancy, lactation and on broken skin, where absorption rises.
+
 ### Contraindications
 
 > ## ⚠️ PYRROLIZIDINE ALKALOID HEPATOTOXICITY — READ BEFORE ANY USE

@@ -54,6 +54,10 @@ No clinical studies were retrieved for this entry. [USER: verify] General facts 
 
 ---
 
+### Functional–Anatomical Correlate
+
+Little to map: the only action the entry prints is that all three zil stones, of which dngul.zil is one, remove discoloration of the bone. The site is therefore bone, specifically its surface appearance, which Clark's text names as the tissue acted on. Nothing else in the entry is an action. The stone is described as varying in shape, softer than silver ore, greenish in hue and breaking into needle-like pieces; these are physical descriptions and carry no organ. No taste, potency, post-digestive taste or humoral category is printed in the lines read. The Tibetan frame of the three nyes pa and of medicine as a branch of treatment is stated in general, but the stone is not placed in it. Nothing is mapped beyond the bone.
+
 ### Contraindications
 
 - **Unidentified mineral:** an unidentified stone should not be ingested.

@@ -45,6 +45,10 @@ No identification is possible from the sources read, so no scientific correlatio
 
 **Practitioner's note.** Nothing to do. The drug is an unidentified name in a list, taken (so far as the text says) only as one member of a therapeutic group at a physician's discretion, and there is nothing a cultivator can responsibly use.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry gives only the group-level statement for the Rodhrardi group in which Jingini is listed, Sushruta Samhita ch.38. The group as a whole is said to be antidotal to Kapham and fat, astringent in its properties, to remove vaginal and uterine disorders, to neutralise poison, to act as a styptic and purifying agent in an ulcer, and to arrest all secretions and excretions of the body. Those statements map to the female genital tract, the skin and ulcerated tissue, and bodily discharges generally. The text does not say which member does what, and it gives Jingini no part, taste (rasa), potency (virya), post-digestive effect (vipaka) or dosha singly. The entry notes that the drug is probably a tree only because of its company in the list; that is a guess, not a text claim. The drug is unidentified, so no organ can be tied to it from its own record. The only guidance on use is the chapter-end rule: plasters, decoctions, medicated oils, ghritas or potions, chosen per case.
+
 ### Contraindications
 
 - **Identity.** Unidentified; do not substitute any plant for it.

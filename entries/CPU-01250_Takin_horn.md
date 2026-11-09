@@ -38,6 +38,10 @@ General, well-established facts only. Horn is keratin, the same protein as hair 
 
 **Practitioner's note.** A cultivator does nothing with this. It is a list entry for the horn of a protected wild animal, with no preparation and no dose; the actions named (heat, tumours) are therapeutic claims and not cultivation claims. The honest use of the entry is as a record of what the Tantra says.
 
+### Functional–Anatomical Correlate
+
+The takin horn acts, in the Tibetan entry, on body heat and on tumours, and Clark's bracket adds the abdomen. Clark's line says the horn increases body heat and disperses tumours, and his bracket adds that it dries accumulations of pus in the abdomen. Men-Tsee-Khang's version says that wild yak horn generates heat and dissolves tumours, without the pus action, so the heat and tumour sites agree across both translations. In modern terms the sites are the tissues where a tumour forms and the abdominal cavity where pus collects, and the heat is stated as an action of the horn. The Tantra gives no humour, taste, potency or post-digestive taste for the horn. Its other mention in the Tantra, the blood of the wild yak for diarrhoea, concerns blood and not horn, so the mapping for the horn stops at heat, tumours and abdominal pus.
+
 ### Contraindications
 
 - **Tumours and abscesses:** any lump or abdominal pus needs clinical assessment; do not rely on this line.

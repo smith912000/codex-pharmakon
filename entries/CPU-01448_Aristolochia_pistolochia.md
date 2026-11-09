@@ -43,6 +43,10 @@ Aristolochic acid nephropathy and urothelial cancer after consumption of *Aristo
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice. It is a plant to recognise and to leave alone.
 
+### Functional–Anatomical Correlate
+
+Little to map: Chapter 3-5 names no use and no organ. It states that the long kind has leaves somewhat longer than the round kind, purple flowers with a bad scent, and a root a finger thick and twenty centimetres or more long. It says both round and long kinds are bitter to taste and poisonous, and gives the names melocarpum, teuxinon and herba aristolochia. The only use attributed to the long kind, drawn from the group text in 3-6, is that it is given for poisons of snakes and deadly poisons. No dose is printed for it, and no preparation is given in 3-5. No humoral, doshic or qi term appears. The binomial pistolochia is the translator's, and the translators disagree about which plant the herbal name belongs to. The entry notes aristolochic acid for the genus, which is not a claim of the chapter. The Codex makes no correlation to these claims.
+
 ### Contraindications
 
 *Aristolochia* plants (aristolochic acid) are nephrotoxic and carcinogenic and are banned or restricted in many countries. Dioscorides' own chapter says "poisonous". Do not use in pregnancy. No traditional use above is advice.

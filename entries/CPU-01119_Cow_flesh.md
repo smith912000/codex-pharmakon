@@ -48,6 +48,10 @@ General, well-established facts only. Beef is a source of complete protein, iron
 
 **Practitioner's note.** Nothing here makes cow flesh a cultivation substance. Sushruta classes it as a tonic, cooling, wind-subduing domestic meat, ranks its group third of six, and gives it a short list of uses. That is dietary advice, not practice. A cultivator who eats beef eats it as food; one whose community holds the cow sacred takes nothing from it, and the Codex does not ask otherwise. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Sushruta (Sutrasthana ch.46) places cow flesh in the domestic-animal group, whose flesh is constructive, tonic and appetising, sweet in taste and digestion, and destroys the deranged Vayu while producing Kapham and Pittam. Beef itself is 'holy and refrigerant' and is curative in dyspnoea, catarrh, cough, chronic fever and Atyagni, a morbid craving for food; it also destroys the deranged Vayu. In the Uttarasthana, powdered beef mixed with clarified butter fills an eye ulcer left after puncture, and beef is one ingredient of a collyrium for the Pitta-vidagdha and Sleshma-vidagdha kinds of vision. Burnt putrid beef is a fumigant in unmada (insanity). A mother's longing for beef in pregnancy is read as a sign of a strong child, not as a use. The systems mapped are the chest and airways (dyspnoea, catarrh, cough), appetite and digestion, the eye, the mind, and the doshas Vayu, Pittam and Kapham.
+
 ### Contraindications
 
 - **Hygiene and infection:** raw, undercooked or putrid meat carries bacterial and parasitic risk; powdered meat in an eye, or fumigation with putrid meat, is unsafe.

@@ -46,6 +46,10 @@ The case is an arthropod product and, like other insect cases and cocoons, it is
 
 **Practitioner's note.** There is nothing here for a cultivator to take up. The classic offers a steamed egg case for a short list of urinary and generative complaints, gives no dose and no course, and does not call for long use. The "upper" label is the tradition's grading of safety, not an instruction to take the substance for years.
 
+### Functional–Anatomical Correlate
+
+The mantis egg case, in the Shennong bencao jing, is mapped to the urinary and reproductive systems and to the internal organs of the middle. Its flavour is salty and balanced (xian, ping). Its actions are on the five lin, the urinary difficulties, and on the flow of urine and water passages, and on impotence (yinwei), which the text links to the jing (essence) and to producing children. For women it is said to treat blocked blood (xue bi) and pain in the lower back (yao tong), a gynaecological and lumbar claim. It is also said to treat injury within the middle (shang zhong) and hernia-like masses (shanjia). The Wu Pu layer adds the alias eater of warts. The entry names no constituent, so the mapping stays within the classic's categories and does not translate them into modern organs.
+
 ### Contraindications
 
 - **Hygiene and sourcing.** Egg cases collected from the wild may hold live nymphs or other insects and must not be eaten raw. Cases are used in the tradition only after steaming or roasting.

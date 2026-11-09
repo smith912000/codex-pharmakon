@@ -124,6 +124,10 @@
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps saffron most densely onto the heart and the mind. In Avicennan Unani it fortifies the heart and elevates mood (farah), and in Ayurveda it is hrdya (cardiac) and medhya (intellect-promoting), acting on the manovaha srotas, the mental channel. In TCM it enters the Heart and Liver channels, moves Liver Qi stagnation, nourishes Heart Blood and calms the Shen; in Tibetan medicine it appears in formulas for heart disorders, mental disturbance and blood-bile disorders. The entry also maps the liver, digestion and the eyes. The uterus is a further field: a uterine tonic in the Canon, an emmenagogue and uterotonic at high dose, and a Blood-stasis remedy after childbirth in the Bencao. Modern correlates named are crocin and safranal actions on serotonin, GABA-A and NMDA receptors, and a reported blood-pressure lowering. Its cautions track these organs: uterine activity in pregnancy, mood elevation in bipolar disorder, and blood pressure in hypotensive people.
+
 ### Contraindications
 
 - **Pregnancy (first and second trimester):** Emmenagogue and uterotonic; doses exceeding culinary range contraindicated; high doses historically used as abortifacient

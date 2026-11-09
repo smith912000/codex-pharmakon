@@ -46,6 +46,10 @@ General, well-established facts only. No lizard flesh is a known fertility or se
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The line is a record of a meat that increases semen, the tradition itself has largely replaced animal products with herbs, and the Codex does not recommend it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+In Clark's rendering of the Explanatory Tantra, the flesh of the gecko, with the sparrow and the barley feeder, increases semen, and in bracketed commentary it is aphrodisiac, tonic and anodyne and drains pus. The functional targets are therefore the reproductive system, the body's tonic state, pain and suppuration. The Men-Tsee-Khang 2011 text says only that the flesh of sparrows and mountain-dwelling lizards increases semen. The entry's cultivation register also cites the Unani Canon's entry on the wall-lizard, which adds external and specific actions. Pounded as a poultice it draws out thorns, splinters and warts. Dried and mixed with oil it grows hair on a scabby scalp. Its urine and blood treat infants' rupture in a bath of decoction. The liver is said to quiet toothache, and the split animal is laid on a scorpion sting. The Tibetan line gives no humoral temperament, and neither source gives a dose.
+
 ### Contraindications
 
 - **Hygiene and infection:** wild reptiles carry *Salmonella* and other pathogens; do not handle or eat them raw or undercooked.

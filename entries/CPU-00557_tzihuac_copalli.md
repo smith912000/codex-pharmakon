@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. The article cited in the row 
 
 **Practitioner's note.** Nothing. A cultivator has nothing sourced to do with this entry: the record is a list row. This is a historical record only and not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names a plant or resin called tzihuac copalli, given the spine's species Bursera bipinnata and the gloss copal bursera, and records its attestation only as a list row citing Badianus folio 48v. The row names no preparation, use or complaint, and no source read says which organ, tissue or body system the material was meant to act on. No humoral or doshic classification is read; the entry states that the hot and cold categories are unresolved. The cultivation register is recorded as absent. The entry's only body-directed statement is a general caution, not drawn from the row, that smoke from burning resin irritates the airways. Its composition was not read, and it names no clinical study.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, smoke from burning resin irritates the airways and is a particular risk for people with asthma and for children, and resins can cause contact allergy. Pregnancy and breastfeeding are not covered by any source read. Wild resin trees may be locally protected; that was not checked. This is general caution and is not found in the row. [USER: verify]

@@ -70,6 +70,10 @@ The pharmacology of the active alkaloid is well established: **nicotine is a nic
 
 **Practitioner's note.** Nothing to self-administer: this is an extremely toxic plant whose traditional use sits inside apprenticeship, and no sourced cultivation practice here is safe or appropriate outside it.
 
+### Functional–Anatomical Correlate
+
+The entry places the action of Nicotiana rustica in the autonomic and nervous systems, and in the gut and skin. Nicotine is an agonist at nicotinic acetylcholine receptors in autonomic ganglia, the neuromuscular junction and the CNS, giving stimulation then depression or blockade; the high-dose effects listed are purging, tremor, sweating and altered consciousness. Trace harmala beta-carbolines are noted as MAO-inhibiting. Irritant constituents account for the topical and emetic actions. Nahua sources cited (not checked) give remedies for fatigue, pain, snakebite and skin conditions, and describe rubbing ground picietl on priests and travellers for strength. Humorally, as received into Old-World systems, it is hot and dry, acrid, strongly stimulant then narcotic, emetic and purgative. The Amazonian reading is a governing plant that cleanses and protects, but it is tied to no organ. Cardiovascular disease, pregnancy and children are named as contraindications, and nicotine is absorbed through skin. No cultivation status is recorded for the Nahua or South American traditions.
+
 ### Contraindications
 
 - **Toxicity / lethality — absolute:** *N. rustica* is extremely toxic; ingestion of concentrated preparations can be fatal, and nicotine is absorbed through skin. No casual, self-directed, or recreational use of concentrated forms is safe.

@@ -45,6 +45,10 @@ General, well-established facts only. Spiced wines have a long history as digest
 
 **Practitioner's note.** Nothing for a cultivator beyond the lesson of the recipe, which is to measure, to time the steeping, and to take it in a stated way. Alcohol on waking is not a practice the Codex recommends.
 
+### Functional–Anatomical Correlate
+
+The chapter names the bodily areas it treats: the chest and airways (coughs), the digestive tract (indigestion, inflation and mucus of the stomach) and the body's discharges, which the entry reads as dripping fluids or catarrhal discharges. Dioscorides gives these as plain indications, with no humour, dosha or qi channel, and prints no warm, cool, moist or dry quality or taste for the wine. Myrrh, white pepper, iris and dill are not assigned any organ of their own in this text. The only bodily instruction concerns the time and manner of taking the wine, after waking and unmixed, and the volume is not converted to a modern measure. Effects are therefore mapped only to the stated complaints. Spiced wine is a digestive drink in general practice, but that link comes from outside the text and not from Dioscorides. Alcohol is a risk in pregnancy, liver disease and with sedating medicines, and a persistent cough or indigestion needs a clinician.
+
 ### Contraindications
 
 - **Alcohol.** Avoid in pregnancy, breastfeeding, children, liver disease, and with sedating or interacting medicines, and when driving.

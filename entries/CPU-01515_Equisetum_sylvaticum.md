@@ -45,6 +45,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a recognition note that points back to another chapter, with a single wound use. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The chapter itself, 4-47, states one action: mixed with vinegar, the plant heals wounds. It says its strength is 'the same as that above', which points to the preceding chapter, 4-46. The entry does not assign 4-46's further actions to this plant as attested, but records them as that chapter's claims. They are: stopping nosebleeds, helping dysentery and inducing urine, closing bleeding wounds when pounded and sprinkled on, helping coughs and asthma, and, through a decoction of the leaves said to join openings of the intestines, treating cutting of the bladder and hernia. That chapter also calls the herb astringent, a quality the entry does not carry to 4-47. The text gives no humoral, doshic or qi classification for either chapter. The species is uncertain, with a plate caption set against the translators' suggestions, so the mapping describes the text and not a verified plant.
+
 ### Contraindications
 
 The chapter prints no warning. Wounds that bleed or become infected need proper care and should not be dressed with an unidentified wild plant and vinegar. The identification is uncertain (a plate caption against the translators' suggestions), so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. None of the traditional uses above is advice. [USER: verify]

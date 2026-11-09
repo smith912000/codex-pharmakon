@@ -83,6 +83,10 @@ According to PubMed, small human studies support tulsi's traditional profile as 
 
 **Practitioner's note.** What a cultivator actually does here is keep tulsi as a standing daily discipline — the household plant taken as a morning infusion or a chewed leaf to hold baseline composure under chronic low-grade load. The one unambiguous cultivation status it carries is devotional, not pharmacological. Its heating, drying nature makes it a stabiliser, not a rejuvenative to be loaded for "building *ojas*" — a claim that remains unverified. Honour the ritual; do not inflate the dravyaguna.
 
+### Functional–Anatomical Correlate
+
+The entry maps tulsi mainly onto the chest and airways, the digestive fire and the mind, through a pungent-bitter, heating and drying profile (Ayurvedic katu and tikta rasa, ushna virya). In the Ayurvedic samhita reading it clears kapha from the chest, kindles agni and steadies the mind, and is used for cough, catarrh, fever and low digestive fire. The minor TCM note (luo le) describes a warm, acrid herb that moves qi, disperses cold-damp and settles the stomach. The Greek and Unani material is only generic basil as a warm aromatic, not securely this species. The modern correlates in the entry are stress and anxiety attenuation with cortisol-lowering signals, improved cognitive reaction time, and fasting glucose lowering in type-2 diabetes. The entry grades this low to moderate, based on small human trials, and claims no established mechanism.
+
 ### Contraindications
 
 - **Reported anti-fertility signal:** animal studies have suggested reduced fertility/anti-spermatogenic effects; avoid in couples actively seeking conception and in pregnancy pending clarification. `[USER: verify]`

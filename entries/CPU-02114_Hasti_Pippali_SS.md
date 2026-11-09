@@ -46,6 +46,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The classic's 
 
 **Practitioner's note.** A pungent drug used in groups and compounds for appetite, catarrh, poison and the post-birth period. Nothing in the record supports a cultivation use. A cultivator has nothing to do with this entry beyond reading it.
 
+### Functional–Anatomical Correlate
+
+Hasti-Pippali acts on three systems in the entry's account, and each claim comes from a different chapter. In the Pippalyadi group it is one of the drugs that, as a group, acts as an appetiser and absorbs intestinal mucous and unassimilated lymph chyle, and whose application includes catarrh and deranged Kapha and Vata; this maps to the digestive tract and to catarrh, with Kapha and Vata as the doshas. In the Sharirasthana (chapter 10) four other powders are given with it in a lukewarm treacle solution to a mother when the lochia (postnatal uterine discharge) is abnormal, for two or three days or longer until the vitiated blood disappears; this maps to the postpartum uterus and blood. In the Kalpasthana (chapter 7) it is one ingredient of an alkaline preparation said to have anti-venomous virtues and smeared on drums, banners and gateways, which names no body site. The lines read give no rasa, virya or vipaka for the drug itself, and no part used; the Codex translates none of these into modern diagnoses.
+
 ### Contraindications
 
 - **Identity.** Unconfirmed; do not gather or use any plant on the strength of this entry. [USER: verify]

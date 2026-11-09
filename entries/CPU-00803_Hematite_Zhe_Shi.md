@@ -57,6 +57,10 @@ Hematite is insoluble and poorly absorbed, so internal action is unlikely, and i
 
 **Practitioner's note.** Nothing here for a cultivator to take. Hematite is, in these sources, a physician's stone for the eyes and bleeding (Greek), a short-course antidemonic drug of the lowest Chinese grade, and a lymph-drying stone (Tibetan). The only discipline on offer is Dioscorides': know the stone by its look, test it against a touchstone, and distrust the counterfeit. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides (5-144) places hematite's claimed action on the eyes: it wears off scars and scabs on the eyes, helps sore and bloodshot eyes, and is made into eye salves. It is also given for painful urination (the urinary passage), for women's discharges (the menstrual flow) and for spitting blood (the airways). The Chinese Divine Farmer's Classic, inferior class, says it treats demonic influx and external wind, works on toxic and evil qi in the abdomen, and checks red ooze and leaking, which the translator reads as bleeding from the vagina or urethra. The Tibetan Explanatory Tantra says the brown frog's-back stone expels, extracts and dries lymph (the lymphatic system), maintains bone resin, heals fractures, and sustains the brain. Sushruta's gairika is only a candidate and is not mapped. Avicenna names nothing. The Greek temperament is astringent and somewhat warming; the Chinese is bitter and cold.
+
 ### Contraindications
 
 Hematite is inert as a solid, but powders and "ash" preparations are unstandardised and may contain other metals; fine mineral dust is a lung hazard. The Chinese inferior-class grade is the tradition's own warning against long use ("usually toxic and cannot be taken for a long time"). Ritual and spirit-related uses are ritual, not therapy.

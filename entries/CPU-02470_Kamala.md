@@ -55,6 +55,10 @@ Kamala powder has a long record as an anthelmintic in Indian practice, and the C
 
 **Practitioner's note.** There is nothing to practise here beyond reading. The honest use of this entry is as a record: the Canon's tapeworm drug and the dye-powder of Yemen, which two texts treat as distinct, and which the Codex has filed together on a modern match that is firm for kamala and doubtful for *wars*. A cultivator learns from it the discipline of keeping a name, a plant and a hadith report apart until the text joins them.
 
+### Functional–Anatomical Correlate
+
+The entry maps the drugs mainly onto the skin. Wars is painted for melasma, freckles, itch and pustules, and drunk for the white patches (al-wadah). Avicenna adds scab, itch, safa and quba as skin eruptions, and the Prophetic report adds that a garment dyed with wars strengthens venery (al-bah). Qanbil is said to kill and expel worms and gourd-seed worms, drunk and applied as a salve, with Avicenna's own hedge as is said. Ibn Qayyim's reports place wars in pleurisy (dhat al-janb), poured into the side of the mouth, and in a woman's childbed cosmetic. Temperament is hot and dry in the second degree for wars and hot and dry in the third for qanbil, with strong astringency for qanbil on Ibn Masawayh's word. The texts name no constituent, and no innate heat, radical moisture or ruh is applied to these drugs. A dose is given only for wars drunk, the weight of a dirham, and no dose is given for qanbil.
+
 ### Contraindications
 
 - Worm remedies are drugs for a diagnosed infestation; Avicenna's own hedge ("as is said") is a reason for caution.

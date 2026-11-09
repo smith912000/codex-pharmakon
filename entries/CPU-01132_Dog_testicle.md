@@ -44,6 +44,10 @@ General, well-established facts only. No animal tissue is an established means o
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The dog's testicle is two words in a list of organs, and its tradition describes animal products as largely replaced. The honest use of the entry is as a record. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The entry’s only stated action for the dog’s testicle is that it is “ecbolic”. Clark uses this English term for agents that promote expulsion of the uterine contents, and the Men-Tsee-Khang text renders the action as helping to deliver the placenta. In modern anatomy the attested target is the uterus and placenta in childbirth, so the reproductive system is the one body system named. The ram’s testicle beside it is described as aphrodisiac, but that claim concerns the ram and is not transferred to the dog. The tissue is glandular, and the entry names no constituent. No Tibetan energetic term, taste, potency, post-digestive taste or humoral category is printed. No bracketed commentary is added to this clause, and the entry records no cultivation or essence framing. Nothing else in the sources read maps to a body system.
+
 ### Contraindications
 
 - **Pregnancy and childbirth:** an agent that acts on the uterus is not safe outside obstetric care; do not use any animal tissue for this purpose.

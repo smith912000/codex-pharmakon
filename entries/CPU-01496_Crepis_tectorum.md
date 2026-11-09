@@ -45,6 +45,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a recognition note that points to another remedy, so it is history and not a practice.
 
+### Functional–Anatomical Correlate
+
+Little to map: Dioscorides’ chapter 3-73 is a short description and a cross-reference, with no use of its own. The plant has jagged leaves set at intervals, tender green stalks and yellow flowers in a circle, and the chapter says it has “the same uses as that previously spoken of” (chapter 3-72). The chapter prints no taste, temperament, preparation or organ. Chapter 3-72, which the text points to, says the great hieracium is applied on a burning stomach and for inflammation, that its juice is sipped against pangs of hunger in the stomach, and that the herb with its root is applied to a scorpion bite, and it calls the plant “cooling, indifferent, and gently astringent”. The entry does not attribute those qualities or uses to 3-73 as attested. The binomial is the translators’ Linnaean suggestion, and the second line of names gives Hieracium pilosella as another usage, so the identity is open.
+
 ### Contraindications
 
 The chapter prints no warning and no use of its own. The remedy it refers to includes an application for a scorpion sting, which needs medical care, and a burning stomach should not be self-treated with an unidentified wild plant. No safety information for pregnancy was read. The identification is the translators' suggestion, so no plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

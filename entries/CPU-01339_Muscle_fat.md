@@ -40,6 +40,10 @@ General facts only. Animal fats are dense energy sources and are rich in saturat
 
 **Practitioner's note.** Nothing here is a practice. In Sushruta, Vasa is an animal fat of stated weight and potency, used as a vehicle and a dietary fat, and a substance whose derangement gives one of the incurable *Prameha* types. A cultivator has nothing to take from it; the one cautionary reading is that the text ranks it heavier than ghee and oil.
 
+### Functional–Anatomical Correlate
+
+Vasa is the fat of the muscles, which Sharirasthana places among the fats found in purely muscular structures, apart from the marrow of large bones and the fat of cartilage. In Sutrasthana ch.45 the fat's effect follows its source: from village, marsh or aquatic animals it is heavy, heat-making, sweet and subduing of Vayu; from Jangala, carnivorous or unbifurcated-hoofed animals it is light, cool, astringent and curative in haemoptysis; from the Pratuda and Vishkira birds it reduces Kapham. In that series Vasa is heavier than ghee and oil and lighter than fat and marrow. The text's uses set the sites: a fresh Vasa errhine for the nose and head, an enema for Gulma in the abdomen, an eye salve for the non-secreting type of conjunctivitis, an eye-pack, and a plaster for Vataja Vidradhi, an abscess. Vasa-meha is one of the incurable Vataja types of Prameha, a urinary disorder. The translator's word myosin is not read as a protein claim.
+
 ### Contraindications
 
 - **Hygiene and infection:** animal fat of unknown origin applied to the eye or given by enema is a contamination risk; the text's eye uses are historical and are not advised.

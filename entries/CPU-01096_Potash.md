@@ -50,6 +50,10 @@ General, well-established facts only. Potassium carbonate is a strong base; in c
 
 **Practitioner's note.** Nothing here makes potash a substance for cultivation. Both texts treat it as a corrective for a defined complaint (tumour, piles, spleen, bowel), Sushruta's English says its abuse brings on haemoptysis, and a caustic alkali has no place in any long-term practice. A cultivator takes nothing from this entry. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Sushruta's yavakshara, in the alkali group, is said to treat abdominal glands, piles, mesenteric diarrhoea, and gravel and stone in the bladder, and to act as a digestant or stomachic. It is said to reduce Kapham, remove Vibandha (constipation) and cure enlarged spleen, while abuse is said to cause haemoptysis (the lungs). It is called anti-spermatopoietic, which claims the reproductive system. Compounds with it treat gulma, halimaka (chlorosis, the blood), abdominal dropsy, and ulcers and fistula through wound plasters. A potion of it in tepid water or ghee is given to a woman after delivery for obstructed lochia (the uterus). The Tibetan Explanatory Tantra and its commentary say it increases heat, purges tumours, and cures heart disease and first-stage oedema. The translators disagree on whether it is carbonate or nitrate, so the sites above are the translators' claims.
+
 ### Contraindications
 
 - **Caustic and toxic:** concentrated potash solutions burn skin, eyes and mucous membranes, and ingestion can injure the gullet and stomach; the sources themselves warn of haemoptysis from abuse (SS ch.46).

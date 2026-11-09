@@ -42,6 +42,10 @@ General, well-established facts only. The gastric juice of a mammal contains aci
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The wolf's stomach is one line in a list of organ and flesh remedies, and the tradition's own first precept is against taking life. Where digestion is the concern, the Tantra's own advice on protecting the digestive heat is to take "warm (-powered) and light food, drink and behavioral pattern" (line 319), by which "the strength and life of the body will be preserved"; that is the Tantra's general counsel and is not a use of this substance. The Codex does not recommend the organ. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states two actions, which the translations agree are one action stated twice: the wolf's stomach increases digestive heat and digests undigested food. The organ the text names is the stomach itself, and the digestive heat it works on is, in the Tantra's own account, the digestive bile that supplies heat to the humours and bodily constituents. Clark's bracket adds that the food is especially meat, but the Men-Tsee-Khang sentence says all undigested food. The Tantra's general account says strong digestive heat moves digested material downward and weak heat lets food pass undigested, which places the action within the digestive process. No temperament, taste or humour is printed for the organ. The entry records the line, and the Codex does not recommend eating the organ of a wild carnivore.
+
 ### Contraindications
 
 - **Infection and hygiene:** organs of wild carnivores can carry parasites and pathogens; do not eat, handle or apply them.

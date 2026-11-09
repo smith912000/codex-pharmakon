@@ -104,6 +104,10 @@ The peer-reviewed literature on *Liquidambar orientalis* covers its essential-oi
 
 ---
 
+### Functional–Anatomical Correlate
+
+Storax maps onto the airways and the skin, with a warm, sweet balsamic action. Its central use is a warming expectorant for cold catarrh, cough, hoarseness and bronchial congestion, with cinnamate esters described as antimicrobial volatiles. The Galenic reading is hot and dry in the second degree. The entry also records that Dioscorides had it promote menses and soften the womb, an emmenagogue action on the uterus with a pregnancy caution. For skin and wounds, as a constituent of compound benzoin and friar's balsam, it forms an antiseptic film on minor wounds and cracked skin, and steam inhalation addresses upper-airway congestion, with a reactive-airway caution. Historically it was applied to scabies and skin parasites. The TCM class is Qi: a warming, dispersing and fixative action that mobilises cold-damp phlegm in the chest and opens the airways. The Shen register is a settling yet uplifting fumigant touch. No cultivation status is attested in any tradition.
+
 ### Contraindications
 
 - **Skin sensitisation / fragrance allergy:** Storax and compound-benzoin preparations are recognised contact sensitisers in susceptible individuals (balsam-of-Peru-type cross-reactivity); patch-test before topical use.

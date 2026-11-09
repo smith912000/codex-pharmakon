@@ -40,6 +40,10 @@ General, well-established facts only. Freshwater fish eaten raw or undercooked c
 
 **Practitioner's note.** Nothing here is a practice for a cultivator, and there is not enough in hand to say what the papyrus did with the fish. The entry records a list row and the gap, and a way to close it (Ghalioungui's glossary). No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that a tilapia appears as a medicament in a list row citing Ghalioungui's 1987 glossary, which the project does not hold, and that the identification is flagged uncertain. Bryan's English text on disk does not name the fish. The row gives no part of the body, no complaint, no preparation and no quality (hot, cold, moist or dry), so no organ, tissue or humour can be attributed to it. The entry notes that fish flesh is a source of protein and that bile is a digestive secretion, and that freshwater fish carry parasites and bacteria when raw; these are general facts, not claims of the text. The Egyptian frame (ka, ba, akh, ib, and heka) is named in general, but no passage ties it to the fish. No body system is mapped.
+
 ### Contraindications
 
 - **Parasites and infection:** raw or undercooked freshwater fish and fish bile are not safe to take; do not use any fish part as a medicine.

@@ -183,6 +183,10 @@ Ellagitannins from āmalakī are converted in the gut by *Akkermansia*, *Bifidob
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, amalaki works across many systems, and its named targets are the liver, lungs, kidneys, heart and connective tissue. The liver is hepatoprotective (gallic acid, corilagin and emblicanin), with Liver-channel and anti-fibrotic action. Lung and immune function are addressed through Wei Qi and IgA and NK-cell support, linked to vitamin C and polysaccharides. The Kidney is the Jing-nourishing target, and the Heart is cardioprotective, with reduced LDL oxidation, endothelial (vascular) function and hsCRP named. Connective tissue, skin and collagen are supported through vitamin C co-factor activity on collagen hydroxylation. The brain is named for cognitive support via acetylcholinesterase inhibition and urolithin-linked neuroprotection, and the eyes, hair (keshya) and muscle mitochondria are also mapped. The Ayurvedic frame is Rasayana, with cooling virya and all six tastes. The Shen and Jing tiers are the entry's own interpretive mapping, and pregnancy is generally considered safe at food doses.
+
 ### Contraindications
 
 **Diarrhea / Ama accumulation:** Āmalakī is mildly laxative; avoid as primary formula (use dried Haritaki instead) if diarrhea-dominant.

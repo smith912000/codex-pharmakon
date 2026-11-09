@@ -91,6 +91,10 @@ Codex policy: polysaccharide-led tonic and metabolic chemistry is securely state
 
 ---
 
+### Functional–Anatomical Correlate
+
+Huang Jing, by the entry's account, acts on the Spleen (Qi and Stomach Yin), the Lung (moistening, for dry cough and depleted Lung Qi and Yin) and the Kidney (nourishing Jing essence, the basis of its longevity reputation). Its TCM actions are to tonify Spleen Qi and Stomach Yin, moisten the Lung and nourish Kidney essence. The entry maps it across the Earth (Spleen), Metal (Lung) and Water (Kidney) phases as a harmonising foundation herb. Modern correlates offered are the polysaccharide fraction, linked to immune modulation and to anti-hyperglycaemic, AMPK-associated effects on metabolism, and the steroidal saponins and flavonoids, linked to antioxidant activity; the entry notes that these findings are largely in vitro or from animal models. Its Kenetica use is for combined Qi and Yin depletion under chronic load, with dry mouth and throat, dry cough, weak voice and poor appetite. Cautions are marked dampness or Spleen-damp with loose stools, where it can aggravate the dampness, and phlegm-cold cough.
+
 ### Contraindications
 
 - **Damp/phlegm stagnation and poor digestion:** Huáng Jīng is sweet, rich and moistening; in patients with marked dampness, phlegm, a thick greasy tongue coat, abdominal fullness or loose stools from Spleen-damp, it can aggravate the dampness and should be avoided or combined with dampness-transforming herbs.

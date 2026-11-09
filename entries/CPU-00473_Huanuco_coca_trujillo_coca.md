@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. The honest answer is to do nothing with it on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the row gives the common names Huanuco and Trujillo, both place names, and attaches the species Erythroxylum novogranatense to them. It names no people, preparation or use, and the entry says it cannot tell whether the two names denote one plant or two. The entry states only the general fact that plants of the genus Erythroxylum grown as coca are generally known to contain cocaine, and that the content of this species was not read. Elsewhere the entry records general facts that cocaine is a central nervous system stimulant and local anaesthetic, dangerous to the heart, with a high potential for dependence. No quality, humour or subtle-body classification is printed, and the row names no organ, channel or tissue.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As with the other coca row, the plant is a source of cocaine, which is a controlled drug and dangerous to the heart. Legal status varies and is unchecked. [USER: verify] Do not use in pregnancy. This is general caution and is not found in the row.

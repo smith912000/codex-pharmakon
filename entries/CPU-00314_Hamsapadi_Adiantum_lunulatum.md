@@ -66,6 +66,10 @@ A more recent phytochemical/computational study (Jerom et al., *Heliyon*, 2024) 
 
 **Practitioner's note.** Nothing. A group-listed therapeutic drug with no recorded long-term or vitality-building role in the Sushruta text.
 
+### Functional–Anatomical Correlate
+
+The entry maps Haṃsapadī chiefly onto the blood (raktavaha srotas) and hepatic tissue, with the urinary channel (mūtravaha) and the skin as secondary sites. Its karma lists raktapittahara (checks bleeding and heat in the blood), jvaraghna (antipyretic), dāhapraśamana (relieves burning), yakṛd-rakṣaka (hepatoprotective, a modern reading), kuṣṭhaghna (skin-directed) and śītala (cooling). Its visphoṭa and skin-heat uses, and the poultice applied to burns and inflammation, are directed at the skin. In modern anatomical terms the claimed targets are the blood, the liver and the skin. The hepatoprotective claim rests on one rodent study, in which an ethanolic leaf extract reduced liver enzymes and bilirubin and raised antioxidant enzymes after ethanol-induced hepatotoxicity. The neuro-related docking and Neuro-2a cytotoxicity work is in vitro and in silico only and demonstrates no effect. The entry grades the evidence as low and preliminary, with no human data.
+
 ### Contraindications
 
 - Cooling and blood-directed — less suited to cold, kapha-stagnant, low-agni states without warming co-adjuvants.

@@ -46,6 +46,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** The only guidance both texts give is a caution: a dry, binding bird that Ibn Qayyim ranks poorly and that Avicenna keeps for dropsy. Nothing supports it as a practice for cultivation.
 
+### Functional–Anatomical Correlate
+
+Avicenna gives the flesh a weak heat and severe dryness, and says it benefits dropsy (istisqa'), placing the effect on fluid retention and the abdomen, and diarrhoea, a loosening of the bowel. Ibn Qayyim calls it dry, says it generates black bile (sawda'), and says it holds the bowel, meaning the natural evacuation. He calls it among the worst foods, except that it benefits dropsy. The systems mapped are the bowel and digestion in both directions, the abdomen and fluid balance in dropsy, and, in Ibn Qayyim's terms, the black bile humour. The entry names no organ for dropsy and no particular liver, kidney or heart. Modern anatomy would name the bowel, abdomen and fluid balance. Neither text gives a preparation or a dose, and the entry does not identify the species.
+
 ### Contraindications
 
 Both texts imply a drying, binding food (black-bile in Ibn Qayyim's terms), so caution in constipation. Sandgrouse are wild and in places protected; legal status varies. [USER: verify] Wild game carries ordinary food-hygiene risks.

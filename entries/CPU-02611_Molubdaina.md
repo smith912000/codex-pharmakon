@@ -49,6 +49,10 @@ General, well-established facts only. Lead and its oxides are cumulative poisons
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. It is a toxic yellow lead material for mild wound plasters. The Codex does not recommend any use. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The chapter's claimed sites are the surface of sores and wounds, and the growth of flesh and new skin within them. Used in mild plasters, the material is said to promote the growth of flesh in a wound or sore and to form new skin, so the claimed tissues are the wound bed and the epidermis that closes over it. The chapter says it is not suitable for plasters that close open cuts and clean them, which places the claim on the granulating surface rather than on clean-edged incisions. The text gives no quality of warm, cool, dry or wet, and no temperament, so none is imported. Its washing and burning are described by comparison with other chapters, and the chapter frames it as an external plaster ingredient only. No internal organ, channel or humour is named, and no organ outside the wound and skin is mapped.
+
 ### Contraindications
 
 - **TOXIC.** Lead is cumulatively poisonous. Do not ingest, inhale dust or fumes, or apply to wounds.

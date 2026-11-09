@@ -67,6 +67,10 @@ According to PubMed, *Andrographis paniculata* has relatively strong clinical ev
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps kalmegh to the heat-clearing channels: the liver and gut, the upper respiratory tract and the blood. In TCM terms it is bitter and cold, entering the Lung, Stomach, Large Intestine and Small Intestine channels, clearing heat, resolving toxicity and drying dampness, with damp-heat and heat-toxin patterns such as sore throat, cough, dysentery and carbuncles. Ayurvedic terms call it bhunimba, a tikta, shita bitter that kindles digestive fire and acts on the liver (yakrit-uttejaka), deployed against jaundice, fevers and skin disease. The Galenic and Unani reading is cold and dry, a bitter febrifuge and liver deobstruent. Modern anatomy in the entry gives andrographolide as the anti-inflammatory, immunomodulatory and antiviral marker acting on the airway in acute upper-respiratory infection. Relief of cough and sore throat is rated moderate across RCTs, though trial quality is poor. Autoimmune, anticoagulant and reproductive cautions are noted.
+
 ### Contraindications
 
 - **Pregnancy** — avoid; traditional caution regarding reproductive/uterine effects and insufficient safety data.

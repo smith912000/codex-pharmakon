@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this resin. It is a bone-related resin drug in one short sentence in each edition, with no preparation and no dose. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: Clark 1995 classes the drug as a resin ('Pine Resin') and gives its one action as 'retains bone resin and bone lymph', in the root-text layer outside the commentary brackets. Men-Tsee-Khang 2011 gives the name Shelta the action 'dries up chhuser accumulated between the spongy and compact bone', with chhuser left untranslated. Both texts therefore name bone as the tissue, and only Men-Tsee-Khang names the spongy and compact bone. The entry notes that Clark's phrase 'bone resin' recurs for another drug, so it reads as a term of the text and not a description of the pine. No taste, power, quantity, route or preparation is printed, and neither text says whether the resin was taken, applied or burned. The species is Clark's single binomial, while Men-Tsee-Khang prints only a genus. No clinical study was retrieved, and the entry says that bone and joint complaints need medical care.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Pine resin and turpentine can cause skin irritation and allergic reaction, and swallowing turpentine is harmful; no preparation or dose is given, and no resin should be gathered, taken or applied on the strength of this entry. Bone and joint complaints need medical care. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

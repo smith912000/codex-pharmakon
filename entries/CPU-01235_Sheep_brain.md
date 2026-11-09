@@ -38,6 +38,10 @@ General, well-established facts only. Vertigo (a false sense of movement) and di
 
 **Practitioner's note.** A cultivator does nothing with this. It is a single indication in a list of animal brains, with no preparation and no dose, and eating sheep brain carries risk with no supported benefit. The honest use of the entry is as a record of what the Tantra says.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives one indication in the Tibetan list, that sheep brain cures dizziness and vertigo in Clark's rendering, or dizziness and reeling in Men-Tsee-Khang's. That maps to the brain, with dizziness and vertigo as the named complaint. The list pairs the brain of different animals with different complaints and gives no reason, and the chapter names no organ beyond the brain itself. No preparation, route or dose is given, no compound containing sheep brain is read, and no taste, potency or humoral action is printed. The sheep appears as a domestic animal in the meat classification, and the sheep's head soup is a separate food, not this brain. Nothing beyond the named complaint is mapped, and the entry adds no further claim.
+
 ### Contraindications
 
 - **Not a treatment for dizziness or vertigo:** sudden vertigo with weakness, speech trouble, severe headache or double vision is an emergency; persistent dizziness needs assessment. Do not rely on this line.

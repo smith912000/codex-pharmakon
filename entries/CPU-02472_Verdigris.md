@@ -38,6 +38,10 @@ Avicenna: hot and dry to the fourth degree; a polisher and flesh-eater, sharp; c
 
 **Practitioner's note.** Nothing here to practise. A cultivator's use of the entry is as a lesson in how the Canon grades a corrosive drug and in what it asks to be done to blunt it.
 
+### Functional–Anatomical Correlate
+
+Avicenna's Canon gives verdigris a temperament of hot and dry to the fourth degree and describes it as a polisher and flesh-eater, corrected by cerate. Its sites are the skin and ulcers: it stops spreading ulcers, cleans dirty ulcers, and with mastic and natron treats ulcerating mange, leucoderma and vitiligo, which map to the skin and to loss of pigment in the skin. The gums map to the gum tissue, which it tightens and treats for swelling. The nose maps to the nasal passages and their inner ulcers and smell. The eye maps to the eyelids, which it benefits when thickened or rough, to the eye surface it polishes, and to the tear flow, which it is said to increase greatly. The haemorrhoids map to the anal canal and rectum, where wicks are packed. No humour, channel or further organ is named, and the entry gives no cultivation frame.
+
 ### Contraindications
 
 - Toxic if swallowed; irritant to skin, eye and mucous membranes; a heavy-metal salt.

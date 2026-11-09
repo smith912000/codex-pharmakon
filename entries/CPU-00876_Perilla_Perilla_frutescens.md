@@ -64,6 +64,10 @@ According to PubMed, the anti-allergic reputation of Perilla leaf is supported b
 
 ---
 
+### Functional–Anatomical Correlate
+
+Under the Chinese frame the leaf (Zi Su Ye) is pungent and warm and enters the Lung and Spleen, releasing the exterior and dispersing wind-cold, while the seed (Zi Su Zi) enters the Lung and Large Intestine, directing qi downward, calming cough and wheeze, and moistening the intestines. The stem is a qi-mover for pregnancy-related nausea and chest oppression. The leaf also harmonises the middle and is taken against seafood poisoning. The Ayurvedic reading is katu rasa and ushna virya, pacifying vata and kapha. The Galenic reading is warm and dry, carminative and resolvent. The modern correlation is anti-allergic and anti-inflammatory: rosmarinic acid and extracts reduced IgE, histamine, IL-1β, IL-6 and TNF-α in sensitised mice, ameliorating allergic rhinitis, and preserved epithelial barrier proteins in mucosal and keratinocyte models. Perillaldehyde is a skin sensitiser, and the furan ketones are pulmonary toxicants in livestock.
+
 ### Contraindications
 
 - **Perilla ketone / isoegomaketone toxicity:** The furan-ketone chemotypes are established **pulmonary toxicants in grazing livestock** (acute bovine pulmonary oedema / "perilla ketone lung"). Culinary and medicinal human use of leaf and seed is regarded as safe, but concentrated essential-oil preparations of ketone-rich chemotypes should be avoided, and Perilla is not for internal use as an undiluted essential oil.

@@ -86,6 +86,10 @@ The catechin fraction of *Acacia catechu* is a documented anti-inflammatory prin
 
 ---
 
+### Functional–Anatomical Correlate
+
+Catechu acts on the body's surfaces and linings, the skin, mouth, throat, gums, gut lining and wounds, by the entry's account. Ayurveda classes khadira as astringent (kashaya), cooling and drying, a drug of choice for kushtha (skin disease), wound-healing (vranaropana) and blood-purifying (raktashodhaka), and the Khadiradi vati lozenge is used for mouth, throat and gum complaints. Chinese Er Cha is bitter-astringent and cool, entering the Lung and Heart, clearing heat, transforming phlegm, generating flesh, stopping bleeding and treating damp-heat diarrhoea and cough. The Tibetan seng-ldeng is an astringent, heat-clearing wound-healer. The modern correlates are the catechins and condensed tannins, linked to astringency, antioxidant and antimicrobial activity. The entry notes that COX and 5-LOX inhibition was shown only for a combined flavocoxid preparation in osteoarthritis, not for catechu alone. The Kenetica uses are oral and mucosal healing, topical skin and wound use, and short-course damp-heat diarrhoea. Cautions are constipation, dryness, cold states, the hepatotoxicity signal of flavocoxid, iron absorption and pregnancy.
+
 ### Contraindications
 
 - **Constipation / dryness / cold patterns:** the strong astringency aggravates constipation and dryness; not for cold-dry or constipated states.

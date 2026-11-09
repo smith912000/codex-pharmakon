@@ -38,6 +38,10 @@ General, well-established facts only. Propolis is used in many countries in topi
 
 **Practitioner's note.** A cultivator does nothing with this beyond reading the chapter for its method. The method, to choose by colour, scent and feel what a material should be, is the real content; the uses are a physician's short list for splinters, cough and a skin eruption, and the cough remedy involves inhaling smoke. A person who keeps bees and handles propolis learns the same attentiveness at first hand, but the Codex offers no protocol.
 
+### Functional–Anatomical Correlate
+
+Dioscorides calls the glue extremely warm and says it draws out thorns and splinters from the body, so the skin and the tissue beneath it are the sites. Its smoke, inhaled, is said to help old coughs, so the airways and lungs are the organs it acts on. It is also applied to remove lichen, which the translator glosses as a red-pustular skin disease. The only quality given is warmth, together with an attractiveness the translation does not explain. The chapter names no taste, humour or other classification for it. In modern terms the sites are the skin and subcutaneous tissue, and the airways and lungs. The chapter does not say how the glue is applied or smoked, or for how long, so no method can be taken from it.
+
 ### Contraindications
 
 - **Allergy:** propolis commonly causes contact dermatitis and can cause reactions in people allergic to bee products, balsams, resins or poplar; avoid in anyone with such a history.

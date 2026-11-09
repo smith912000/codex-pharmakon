@@ -130,6 +130,10 @@ Kenetica classifies *Eleusine coracana* as a **Substrate Staple**: a food whose 
 
 **Practitioner's note.** Nothing cultivation-specific. Ragi is a staple, weaning and convalescent grain; neither tradition read here assigns it a vitality or longevity role.
 
+### Functional–Anatomical Correlate
+
+The entry maps finger millet to bone and the digestive tract. The Ayurvedic frame calls it asthi-poshaka, bone-nourishing, and balya, strengthening, and cooling to pitta. The composition supports a mineral point: calcium is about 344 mg per 100 g, the highest among cereals and millets, and the entry says this is content, not absorption, with no bone-outcome study retrieved. Phytate and tannin bind calcium, iron and zinc, so unprocessed grain may impair absorption in deficient eaters. Malting and fermentation are described as reducing phytate and liberating minerals, a mechanism the entry marks unverified for this species. Fibre, polyphenols and a double-headed trypsin and alpha-amylase inhibitor slow starch digestion, a low glycaemic profile reported in methodologically weak studies, though the trypsin inhibitor also reduces protein digestibility. The traditional lactation and weaning uses are recorded without data.
+
 ### Contraindications
 
 Finger millet is a food with a multi-millennial safety record and there is no toxicity to report. The cautions below are nutritional and practical, not toxicological.

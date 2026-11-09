@@ -57,6 +57,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing. The rGyud-bzhi gives a cultivator no practice with Gold Thread; it is a fever drug in a class of fever drugs. Fever calls for a physician, and the identity of the Tibetan herb is open between two editions' Latin names.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that Clark 1995 and the Men-Tsee-Khang 2011 glossary print this binomial for the Tibetan name myang.rtsi.spras, and that the rGyud-bzhi describes the herb as bitter and astringent in taste (superior type) and slightly bitter (inferior type). Outside the commentary brackets, the text says it dries fluid and cures infectious fever. It is placed in Clark's chapter 21 and Men-Tsee-Khang's chapter 21 among medicines that cure infectious or contagious disorders. The entry gives no part used, no preparation, no quantity, and no rejuvenating or cultivation status. It records no post-digestive taste and no potency, and notes that Clark prints a second Latin name for the herb from another genus. It also states that the Shennong Huang Lian is a different species.
+
 ### Contraindications
 
 The lines read print no warning for this drug. The identity is open (Clark prints a second Latin name from another genus), so no plant should be gathered or used on the strength of this entry. Infectious fever needs medical care. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

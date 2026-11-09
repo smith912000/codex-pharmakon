@@ -45,6 +45,10 @@ General, well-established facts only. Flint is a form of microcrystalline quartz
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. Flint, or a knife-stone, is a hard stone that the Egyptian pharmacopoeia is reported to have ground into poultices; the Codex does not recommend putting stone dust on the body or in the eye. What the entry records is a gap: the sources on disk do not let the glossary's "flint" be matched with Bryan's "Knife-stone". No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Eyes: Bryan's knife-stone is mixed in fresh milk and applied to the eye for fat in the eyes, and is used in a poultice for pterygium, a growth on the eye surface, which maps to the conjunctiva and cornea. Bones and limbs: a poultice of black knife-stone with fat, honey and saltpetre is recommended for pains in the bones in every limb, which maps to the skeleton and limbs, though Bryan calls that use fallacious. Abscess: with man's milk, the stone is said to cure the uases-abscess, which maps to a collection of pus in the soft tissue. The Ghalioungui flint, which the entry could not open, has no stated site. In the Dioscorides cross-reference, burnt flints boiled in milk are said to be astringent to the intestines and to stop discharges with ulceration, which maps to the bowel and its lining. Modern anatomy therefore maps flint to the eye, bones and joints, soft tissue abscess, and the intestine.
+
 ### Contraindications
 
 - **Eyes:** do not put stone, flint or silica dust into the eye; a hard particle abrades the cornea and can blind. Eye complaints, including pterygium, need an eye clinician.

@@ -53,6 +53,10 @@ General, well-established facts only. Because Vishvadeva has no secure botanical
 
 **Practitioner's note.** Vishvadeva is a name in a list. The tradition's text gives the drug a place among therapeutic groups and little more, and nothing in the record supports a cultivation use. A cultivator can learn from it only how Sushruta organises drugs into groups by action, and that some names in that classification are no longer certainly identified. Nobody should try to find a plant to match the name.
 
+### Functional–Anatomical Correlate
+
+Little to map: Vishvadeva is named only as a member of the Vidarigandha'di group. The group's metrical text says it subdues the action of deranged Vayu and Pittam and helps phthisis (Shosha), Gulma, aching of the limbs, Urdha Shvasa and cough. These are group-level claims. Shosha, Urdha Shvasa and cough point to the lungs and chest, Gulma to the abdomen, and aching of the limbs to the limbs and their musculoskeletal system. Sutrasthana ch.39 refers to the whole Vidarigandhadi group as soothing deranged Vata, a property the group's members share but which the text does not assign to Vishvadeva alone. No part of the plant, no preparation and no dose are stated, and the plant is not identified.
+
 ### Contraindications
 
 - **Identity.** The drug is not securely identified; a wrong match could be harmful. Do not substitute any plant for it. [USER: verify]

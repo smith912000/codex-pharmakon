@@ -91,6 +91,10 @@ The mechanistic case is real and the clinical case is genuinely weak — this en
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps bitter melon onto several body systems through its bitter-cooling frame. The stomach and digestion are reached by the bitter taste, which kindles appetite and is said to scrape metabolic residue (ama). In the Unani frame it is a hepatic deobstruent that opens obstructions of the liver and spleen and cuts phlegm. Blood-cleansing is read against heat and corrupt sweet humours, in the terms of Ayurvedic madhumeha and pitta, Chinese kǔ hán heat-clearing of the heart and stomach, and Tibetan bile and heat disorders. Skin eruptions are a recurring target, and worm expulsion is listed as an anthelmintic use. Glucose handling is the modern organ-level claim, with a note that the clinical effect is modest and inconsistent. Seeds and ripe aril carry toxic risk, and the entry links vicine to red-cell haemolysis in G6PD deficiency and momorcharins to abortifacient risk. Traditional energetics: cold and dry.
+
 ### Contraindications
 
 - **Hypoglycaemia with antidiabetic drugs.** Additive glucose lowering with insulin, sulfonylureas, metformin — monitor and adjust; risk of symptomatic hypoglycaemia.

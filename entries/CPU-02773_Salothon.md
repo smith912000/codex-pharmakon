@@ -43,6 +43,10 @@ Taste inclining to acridity with some bitterness. No degree of heat or dryness i
 
 **Practitioner's note.** Nothing to practise. It is a wild pot-herb with an emetic root juice.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names two actions and no organ for either. Under digestive organs, a mithqal of the milk or tear from the root, drunk with honey-water, is said to make one vomit excessively during the day. Under excretory organs, the herb is said to loosen the belly (musahhil al-batn). Its taste inclines to acridity with some bitterness, and it is eaten both raw and cooked, or boiled and eaten with salt and oil. No temperament, humour, or degree of heat or dryness is printed. The Canon names the Syrian name 'ankabut and compares the leaf with the white kind of chamaeleon, but gives no body system beyond the emetic and purgative actions. The plant is not identified. The root latex is marked as a toxicity caution, with excessive vomiting and dehydration as risks, and the entry says nobody should take it.
+
 ### Contraindications
 
 - Emetic latex: excessive vomiting, dehydration. Do not use.

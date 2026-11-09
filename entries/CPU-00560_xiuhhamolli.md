@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing. A cultivator has nothing sourced to do with this entry: the record is a list row and its identification is tentative. This is a historical record only and not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names xiuhhamolli, glossed tree morning glory, with the spine's species Ipomoea muricoides, which its own source calls tentative and the row flags id-uncertain. The plant is attested by list row to the Badianus manuscript of 1552, with no folio, chapter, preparation, use or complaint. No organ, tissue or body system is named as acted on, and no source read says what the plant was used for. The Active Components section states only that the morning glory family includes species with purgative resin glycosides and others with ergoline alkaloids, and that which of these, if either, applies to this species was not retrieved. No humoral or doshic classification is read, the hot and cold categories are left unresolved, and the cultivation register is recorded as absent. No clinical study was retrieved.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, a plant of tentative identity, in a family that includes purgative and psychoactive species, should not be taken internally. Pregnancy and breastfeeding are not covered by any source read. This is general caution and is not found in the row. [USER: verify]

@@ -40,6 +40,10 @@ No scientific statement can be made about an unidentified kind. Water lilies are
 
 **Practitioner's note.** A name and a temperament, nothing more. There is nothing to practise.
 
+### Functional–Anatomical Correlate
+
+Little to map: the passage states only that awsabid is a kind of Indian nilufar, a water lily, and that Ibn Masarjawayh called it hot and dry, without giving a degree. It names no organ, body system, tissue, action, constituent, preparation or dose. No description of the plant is given, so no part of the body can be linked to it on the text's own account. The entry notes that the water-lily reading is the text's own and that no species can be named. The Canon's attribution of temperament is the only Unani-type quality recorded. The Codex states no scientific claim for an unidentified kind and retrieved no clinical study for it, so nothing in this record supports a body-system correlate. It is a name and a temperament only, and the Codex does not recommend it for any use.
+
 ### Contraindications
 
 - **Identity.** The kind cannot be identified; do not substitute any water lily.

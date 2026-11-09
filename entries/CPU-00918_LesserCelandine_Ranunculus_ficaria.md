@@ -107,6 +107,10 @@ Cool and dry, astringent (external) — a **sealing / tightening** agent in the 
 
 ---
 
+### Functional–Anatomical Correlate
+
+Lesser celandine is directed at the anorectal region, the swollen, weeping haemorrhoidal tissue, which the Northern-European herbal tradition treats with a topical astringent ointment or fomentation, with secondary use for scrofulous swellings. Its astringent action is taken to work on that tissue by tightening it and reducing weeping, a class-appropriate action with tannin and saponin constituents plausibly behind it. The entry deflates the signature behind the choice, since a tuber's resemblance to haemorrhoids has no chemical basis. Fresh, the plant's protoanemonin acts on the skin and mucous membranes, causing blistering and dermatitis and, if swallowed, colic and bloody stool. Drying and cooking convert it to far milder products, and the entry treats that step as a genuine detoxification. Clinical benefit for haemorrhoids is unverified, and internal use is not recommended.
+
 ### Contraindications
 
 - **⚠️ Fresh plant is a blistering vesicant.** Never apply the fresh crushed plant to intact skin or mucous membrane, and never take it fresh internally — protoanemonin causes contact dermatitis, blistering, and mucosal/GI irritation (nausea, colic, bloody stool at higher exposure), consistent with buttercup poisoning.

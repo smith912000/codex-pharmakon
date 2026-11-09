@@ -40,6 +40,10 @@ General, well-established facts only. Lean game meat is a source of complete pro
 
 **Practitioner's note.** Nothing here makes antelope flesh a cultivation substance. Sushruta ranks the high-ground venisons first among the meats, calls the Kuranga's flesh safe for all, and allows it to a fever patient used to meat. That is dietary and clinical advice, not practice. Antelope are wild and often protected, so a cultivator takes ordinary food from this entry, or nothing. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Sushruta chapter on food places the kuranga (antelope) among the high-ground (Janghala) venisons, whose flesh is sweet and astringent, light, keen, pleasant, laxative and diuretic, and which subdues vata and pitta. It gives the kuranga as a fever diet for a patient used to animal food, in moderate quantity, and lists its flesh among foods safe for all. The fever diet adds that heavy birds are cautioned in fever, but the kuranga is not among them. The organ sites the text implies for this group are the digestive tract (laxative, astringent taste) and the urinary system (diuretic). The kuranga is defined by its colour, neither red nor black, and no binomial is given. Vata and pitta are the governing humours here, acting on the whole constitution rather than a named organ. No temperament is assigned to the kuranga alone, and no rasayana, ojas or prana claim is made for it. No dose is given.
+
 ### Contraindications
 
 - **Conservation and law:** many antelope species are protected, and killing, possessing or trading in them is restricted or illegal in many places; the Sanskrit animal's modern identity is not settled. [USER: verify]

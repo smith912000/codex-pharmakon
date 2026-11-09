@@ -75,6 +75,10 @@ Evidence grade: **preclinical (in vitro antimicrobial; ex vivo vascular pharmaco
 
 **Practitioner's note.** Nothing beyond its classical cooling, thirst-relieving use for a defined complaint; the text assigns it no cultivation or rejuvenative role.
 
+### Functional–Anatomical Correlate
+
+Acts mainly on Pitta-heated tissue and the blood. The entry places Ushira in the rakta and rasa dhatus and the raktavaha and udakavaha srotas, and says it supports twak (skin). Its intensely cooling potency (śīta vīrya) is aimed at dāha, the burning of inflamed skin, prickly heat and inflammatory swelling, and at heat in bleeding states (rakta-pitta), where its astringent stambhana action checks flow. Thirst (tṛṣṇā) is addressed as fluid conservation, and the root is cited for heat-fever (jvara) and for fainting from heat (mūrcchā). Its fragrance is linked to saumanasya, a mind-gladdening effect the entry ties to composure rather than sedation. Topically the vetiver oil is described as an antimicrobial and skin-cooling agent. The entry's modern correlates are two preclinical studies: in vitro antimicrobial activity against acne-associated organisms, and ex vivo relaxation of rat aortic rings, which the entry links to the traditional circulatory use. It stresses these are not human efficacy data.
+
 ### Contraindications
 
 - **Cold / Vāta-predominant constitutions and conditions:** the strong cooling-drying nature can aggravate cold, dryness, and Vāta symptoms; avoid or balance with warming, unctuous anupāna.

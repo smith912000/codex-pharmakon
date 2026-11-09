@@ -64,6 +64,10 @@ According to PubMed, the pharmacology of *Apium nodiflorum* has been studied mai
 
 ---
 
+### Functional–Anatomical Correlate
+
+Fool's watercress is mapped by the entry chiefly to the kidney and bladder and to digestion. Its Galenic and Unani classification is warm and dry, low second degree: an aromatic diuretic and deobstruent that provokes urine and menses and kindles appetite and a cold, sluggish stomach. The Dioscorides entry describes sion as a diuretic, stone-expelling and warming digestive potherb, and the Assyrian record places water-margin herbs among drugs for retention of urine and stone, identified only generically. Ayurvedic placement is by analogy, kapha-reducing and mildly mutrala. Modern anatomy in the entry gives myristicin and dillapiol in the essential oil as antifungal against dermatophytes of skin and nails, and the oil inhibited Helicobacter pylori in the stomach in vitro. The diuretic action is not clinically confirmed, and no human trials were retrieved. Myristicin is toxic in high doses, and liver fluke is a waterborne risk to the liver.
+
 ### Contraindications
 
 - **Misidentification hazard — the paramount caution.** *Apium nodiflorum* grows intermixed with **hemlock water-dropwort (*Oenanthe crocata*)**, a lethally toxic Apiaceae, and with true watercress. Never gather from the wild without expert botanical identification. Fatal poisonings occur from lookalike confusion.

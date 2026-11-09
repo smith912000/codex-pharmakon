@@ -39,6 +39,10 @@ Avicenna: hot in the first degree, dry in the second, "at the end of the second"
 
 **Practitioner's note.** Nothing to practise. It is a styptic seed of uncertain identity.
 
+### Functional–Anatomical Correlate
+
+The entry's organ targets are spread across several systems. Excretory organs: the seed given as an enema benefits ulcers of the intestines, and the text reports, as a claim, that two drachms of the wild seed loosened the belly. Head and nose: a poultice of the seed cuts nosebleed. Chest: it stops spitting of blood. Blood: it cuts bleeding however it be. Ulcers, with no site given: very healing. Poisons: seed drunk with wine benefits scorpion sting and bite, and the wild seed laid on scorpions is said to numb them. Energetically, Avicenna gives hot in the first degree, dry in the second and at the end of the second, with astringency predominating and an opening action. The entry names no nerve or joint. The plant is not identified, so no modern pharmacology can be tied to these claims. Bleeding, scorpion stings and intestinal disease need medical care, and the purging seed is not recommended.
+
 ### Contraindications
 
 - Bleeding, bloody spit and scorpion stings need medical care.

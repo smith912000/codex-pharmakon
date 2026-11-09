@@ -41,6 +41,10 @@ Thymol is a well-known antiseptic compound, and thyme is widely used as a culina
 
 **Practitioner's note.** Nothing in the source read gives a cultivator a practice with this plant beyond eating it with meat, as the chapter says. Use as a kitchen herb is the only use supported here.
 
+### Functional–Anatomical Correlate
+
+Dioscorides' thyme chapter (3-44) maps the herb to the bowels, chest and womb. Drunk with salt and vinegar it drives phlegmy matter through the bowels. A decoction with honey helps orthopnoea and asthma (lungs and airway), expels worms, and is recorded as promoting the menstrual flow, expelling the afterbirth and acting on urine. Mixed with honey as a linctus it makes matter come up (vomiting). Applied with vinegar it dissolves new swellings and clots of blood, and takes away thymos (glandular enlargement) and hanging warts (skin). Applied with wine and polenta it helps hip pains (joint). Eaten with meat it is good for poor vision (eye). Chapter 5-59, a thyme wine, is listed for digestive difficulties, lack of appetite, dysentery, disorders of the nerves and hypochondria (a nervous gastric disorder), and for winter shiverings and the poison of venomous bites. No temperament or degree is printed in either chapter, and the entry says these are Dioscorides' claims, not a Codex protocol.
+
 ### Contraindications
 
 The medicinal uses recorded include abortifacient and afterbirth-expelling uses; do not use medicinally in pregnancy. Concentrated thyme essential oil is an irritant and should not be taken internally. The traditional uses are not advice.

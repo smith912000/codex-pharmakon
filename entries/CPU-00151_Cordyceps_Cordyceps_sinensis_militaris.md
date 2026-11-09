@@ -109,6 +109,10 @@ The global trade in *Yarsagumba* has transformed the economy of Tibet, Bhutan, N
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, Cordyceps acts on the Kidney and Lung, the vascular and muscle systems, the immune system and the reproductive axis. In TCM it tonifies Kidney Yang and Essence, warms the Lung and helps it grasp qi from the Kidney (nà qì) for breathlessness, and also stops bleeding and resolves phlegm. Cordycepin and adenosine are described as adenosine receptor agonists that dilate vessels and support mitochondrial ATP synthesis in working muscle. Its polysaccharides are described as activating macrophages and NK cells. Animal and in vitro studies are cited for steroidogenic effects in Leydig cells, with raised testosterone and LH. Ayurvedic sources map it to Sukra (reproductive tissue), Majja (marrow and nerve) and Rasa. Tibetan medicine uses it for rlung breathlessness at altitude and for depletion, with tropism to the Liver-Kidney axis and the Lung. The entry also describes renal and immune-reconstitution use in clinical oncology and nephrology settings.
+
 ### Contraindications
 
 - **Adenosine receptor antagonists (caffeine, theophylline):** Significant pharmacodynamic antagonism; habitual high-dose caffeine consumers will substantially reduce or negate cordycepin's primary mechanism; advise caffeine washout of 24–48 hours around Cordyceps dosing, or accept reduced efficacy

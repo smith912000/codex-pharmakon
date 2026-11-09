@@ -59,6 +59,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** The coconut is an ordinary sweet, cooling food and drink in Sushruta, and a cultivator does with it what he does with a food: take it as the text describes, with attention to digestion (it is "heavy"), and not combined with heron flesh in hog's lard (Sutra 20). Nothing in the text makes it a rasayana, and none should be claimed.
 
+### Functional–Anatomical Correlate
+
+In the Sushruta chapters the coconut is a sweet, cooling food and drink. Its fruit is heavy of digestion, demulcent, anti-choleric, tonic and tissue-building, and it subdues Pitta, so digestion and the Pitta humour are the terms the text uses. Its water is called diuretic, a purifier of the bladder (Vasti-shodhaka), spermatopoietic, and a subduer of Pitta and thirst. Its expressed oil is cooling, pacifies Vayu and Pitta, and increases the slimy secretions of the organs. A poultice of Karkaruka, Ervaruka, coconut and other drugs, applied lukewarm, is for a Vataja Arvuda, a tumour. Its top-piths are said to generate Kapha. Ash of several drugs including palm and coconut, burnt and prepared in alkaline water, is applied as an eye preparation against a case of Sukra, a whiteness of the eye. The Unani Canon, under this entry's identification, speaks of the back and hip joints, the stomach, sexual power and haemorrhoids. The entry gives no dose and no preparation quantity.
+
 ### Contraindications
 
 The Sushruta text prints one prohibition: the pulp of the cocoanut fruit is not to be taken with the flesh of a heron prepared with hog's lard (Sutra 20). It calls the fruit "heavy of digestion" and the top-piths Kapham-generating. The alkaline-ash eye preparation is not for self-use. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

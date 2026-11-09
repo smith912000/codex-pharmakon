@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] Diarrhoea is a
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a diarrhoea drug in one short Men-Tsee-Khang sentence, with no action printed in Clark, an identity the two editions dispute, and no preparation or dose. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the plant named by Clark's line gets no action at all. Clark's bracketed description (shady hills, elongated green leaf, greyish flower, small red seed, glossy red root) names no body system. The only action in either edition is the Men-Tsee-Khang line that "Tharam, Naram and Jhakang stops diarrhea", and its list of anti-diarrhoeal medicines, where Naram appears. Diarrhoea is the symptom named; the texts give no organ, mechanism or humoral account for it. That action is attached to this binomial only through the spelling of the name, and the Men-Tsee-Khang glossary sets a different plant, Plantago lanceolata, against Naram. The drug's identity is therefore disputed, and the entry cannot say which body system, if any, it acts on.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Diarrhoea needs medical care when severe, prolonged, bloody or in the young and old; no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Because the plant behind the Tibetan name is disputed between the two editions, a plant could not be matched to the name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

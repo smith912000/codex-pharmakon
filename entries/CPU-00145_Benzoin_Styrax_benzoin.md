@@ -89,6 +89,10 @@ The best-established modern fact about benzoin is its **officinal status**: Comp
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, benzoin acts on the skin surface, the upper airway and, by aromatic inhalation, the mind. Compound benzoin tincture is described as a film-forming antiseptic coating over minor wounds, cracked skin and taped skin, its benzoic acid and resin matrix providing the protection, and as a balsamic steam inhalant for the congested upper airway. Burned or diffused, its aromatic esters are described as settling the atmosphere and the mind. In TCM it is an aromatic orifice-opener (kāi qiào) acting on the Heart, which opens the orifices and settles Shen, and on the Spleen, which moves Qi and disperses cold-damp stagnation. Unani sources call it hot and dry, a resolvent for chest and skin. Tibetan formulas use aromatic resins of this class to calm rlung. The entry grades only the topical and inhalant uses as firmly grounded and calls systemic and psychoactive claims unproven in controlled human trials.
+
 ### Contraindications
 
 - **Yin-deficiency / Heat patterns:** the warm aromatic resuscitatives are contraindicated where there is heat or yin deficiency; benzoin's opening-and-warming action is for cold-stagnation and closed patterns.

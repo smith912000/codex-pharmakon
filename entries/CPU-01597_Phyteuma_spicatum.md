@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The translator
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It offers a short description and a reported love-medicine use, with no preparation, so it is history and not a practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry's own text names no organ, tissue or system. The chapter prints one hearsay use: the root is 'some consider good for a love medicine'. Dioscorides does not say that he holds this view, and no body part, humour, temperament or taste is given for the plant. The leaves are described as like radicula but smaller, the seed as abundant and bored through, and the root as thin and close to the earth, and none of those features is said to act on the body. No preparation or measure is given, so the chapter names no route into the body. The Codex records the love-medicine claim as a report of belief only, and maps it to no organ. The identification is the translators', chosen from two binomials, so the chapter cannot be tied to a named species.
+
 ### Contraindications
 
 The chapter prints no warning. A love medicine is not a safety-tested remedy, and nothing here is advice to take any root. The identification rests on a translators' suggestion between two species, so no wild plant should be gathered or used on the strength of this entry. [USER: verify]

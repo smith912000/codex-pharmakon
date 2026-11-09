@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice beyond recognising an aromatic wreath herb. The abstentive answer is the honest one. The text itself records a root pessary as an abortifacient, which is a reason for caution and not a practice.
 
+### Functional–Anatomical Correlate
+
+Dioscorides' chapter ties the herb to body systems in its own terms. The root is said to help convulsions, hernia, falls from on high, hard breathing, obstinate coughs and painful urination, which points to the nervous system, the breathing passages, the urinary tract and the abdominal wall. The root is said to expel the menstrual flow, and one tender root used as a pessary is called an abortifacient, so the uterus is the claimed site; a decoction is also given for bathing women in childbirth. The root given with wine is said to help snakebite. The leaves are called astringent and are applied to headaches, inflamed eyes, eye ulcers as they begin, breasts inflamed from childbearing and erysipelas, which maps to the head, eyes, breast and skin. The smell is described as sleep-inducing, a stated effect on the nervous system. The chapter uses no humoral, doshic or qi terms; its only quality word is astringent. The identity of the plant is uncertain, so these are the text's claims about an unconfirmed plant, not a mapping onto a modern species.
+
 ### Contraindications
 
 The chapter prints no warning beyond recording the root as an abortifacient and an emmenagogue, so it must be avoided in pregnancy on the text's own showing. The root is compared to black veratrum, a poisonous plant, and the identity of the plant is uncertain, so no plant should be gathered or used on the strength of this entry. The conditions named (convulsions, snakebite, breathing trouble, eye ulcers) need medical care.

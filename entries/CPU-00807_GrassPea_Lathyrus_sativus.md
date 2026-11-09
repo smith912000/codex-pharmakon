@@ -74,6 +74,10 @@ According to PubMed, the toxicology is well characterised. Jiao et al. review ho
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps grass pea primarily to the motor nervous system. Its seed toxin beta-ODAP is an agonist at glutamatergic receptors that over-drives upper motor neurons, producing irreversible spastic paraparesis of the legs (neurolathyrism) after prolonged heavy seed consumption. The damage is worsened by starvation and by sulfur-amino-acid deficiency. Ayurvedic terms grade khesari as heavy (guru), vata-aggravating and astringent, and state that it disturbs the nervous channels and the lower limbs. Galenic-Unani terms describe it as cold and dry in the second degree, flatulent and weakening to the nerves and legs. The gut appears only as a site of flatulence and digestive heaviness. The entry notes protein of roughly 25 to 29 percent, rich in lysine, which explains its persistence as a crop. Toxin content varies with variety, drought, salinity and heavy metals. The entry grades the hazard as strong and records no therapeutic action.
+
 ### Contraindications
 
 ⚠️ **SEVERE, IRREVERSIBLE NEUROLOGICAL HAZARD — READ BEFORE ANY USE.**

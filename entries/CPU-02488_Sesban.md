@@ -40,6 +40,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing. The entry is too short and the plant too uncertain to build any practice on, and the honest answer is that it is a name and four actions.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names four actions and no more. It says the plant softens the chest and the throat, quenches thirst, especially with its seed, and softens the belly. Its temperament is given only as like the moderate, with no degree. No description of the plant, no preparation beyond with its seed, and no dose is given, and no humour, doshic or vital-faculty term appears. The identification is open, and the entry adopts no plant. The seed is named once, in the thirst action. The softening of the belly is the one effect it states that bears on the bowel. The entry records a remedy under an unidentified name and recommends no practice. It gives no contraindication either.
+
 ### Contraindications
 
 No contraindication is given. Because the plant is not identified, no plant should be taken on this entry's authority. Laxative action ("softens the belly") is the one effect that the text states and the one to be careful with.

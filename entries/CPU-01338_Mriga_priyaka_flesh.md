@@ -40,6 +40,10 @@ General facts only. Reptile and wild-animal flesh must be cooked through and han
 
 **Practitioner's note.** Nothing here is a practice. In Sushruta this is one of the hole-dwelling animals, with a single stated use in *Vayu* disease, and it cannot be identified with confidence. A person who eats meat may read the classification as the tradition's own description of the food; a person who does not has nothing to adopt.
 
+### Functional–Anatomical Correlate
+
+The Mriga-priyaka belongs to the Vileshaya, the hole-dwelling group, whose general properties the text gives. The flesh is said to increase the consistency of stool and urine, which maps to the bowel and urinary tract, and to be heat-making, sweet in digestion, and demulcent, soothing to mucous membranes. It subdues Vayu and generates Pittam and Kapham. It is beneficial in cough and dyspnoea, which map to the lungs and airway, and in cachexia, a state of wasting. For the Mriga-priyaka alone the text says only that it is a wholesome diet in diseases due to deranged Vayu (Vayu-Roga). Phalasara wine is the after-drink for the group. The glossary calls the animal a boa, but the chapter does not say so, and the body sites are the ones given by the group statement.
+
 ### Contraindications
 
 - **Identity:** the animal is not settled (a boa in the glossary, unglossed in ch.46); do not substitute a species on this basis. [USER: verify]

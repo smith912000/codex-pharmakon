@@ -136,6 +136,10 @@ The traditions agree, which is unusual and here unhelpful — they agree because
 
 **Practitioner's note.** Nothing for cultivation. The root is a violent purge, and the entry restricts it, endorsing topical use only.
 
+### Functional–Anatomical Correlate
+
+Traditional energetics place the plant in the evacuant channel. The Nahua tlaquilin is cold, dry and strongly evacuant, drawing and opening on the surface: the tuberous root is taken to purge the bowel, and leaf and root are applied as poultice or wash to abscesses, boils, wounds and swellings. Chinese folk use (post-1500 CE, which the entry calls early modern and not classical) uses the root for damp-heat, urinary difficulty and swellings. The Kenetica reading is cold, dry, third degree, downward-draining and cutting, endorsed topically only, for suppurating lesions with intact margins. The entry links the purge to the gut lining as an inference from mechanism, not a finding: its type 1 ribosome-inactivating protein (MAP) shuts down protein synthesis, and seed carries the highest RIP activity, followed by flower bud, leaf and root at intermediate levels. Reproductive tissue is the stated hazard: MAP is abortifacient in pregnant mice, so pregnancy is an absolute contraindication. DNA depurination is unassessed in mammals, and no human toxicology exists.
+
 ### Contraindications
 
 **⚠️ CLASS WARNING: This plant contains a type 1 ribosome-inactivating protein in the structural family of ricin and abrin. Handle every recommendation below as governing, not advisory.**

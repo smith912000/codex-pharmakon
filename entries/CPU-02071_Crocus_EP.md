@@ -52,6 +52,10 @@ General, well-established facts only. Saffron is a spice and food colouring; *Co
 
 **Practitioner's note.** Nothing to do with it. Crocus appears in a few outer applications and a chewing remedy, with no recorded quantity and no cultivation status, and the plant may not even be the saffron crocus. A cultivator reads it as a record of Egyptian recipes.
 
+### Functional–Anatomical Correlate
+
+The Ebers recipes in which crocus appears act on three body regions, named by Bryan's headings and recipe wording. The urinary system is the largest: a topical application to the phallus under the heading The Urinary System, and a remedy to force out the urine, given in place of urethral dilatation for stricture. In modern anatomy that places the target at the bladder and urethra. The eyes come next, with a poultice of incense and crocus in equal parts for bloodshot eyes. The teeth and gums come last, with crocus chewed in sweet beer as a strengthening remedy and a plaster for blisters in the teeth. Bryan prints no temperature, taste or humour for crocus, so no traditional energetic class is given. The plant may be a poisonous Colchicum, so the mapping is of recipe targets only, not of any effect of the plant. No constituent is named. Historical record only.
+
 ### Contraindications
 
 - **Identity and toxicity.** "Crocus" may be a *Colchicum*, which is poisonous. Do not gather or ingest any crocus-like plant.

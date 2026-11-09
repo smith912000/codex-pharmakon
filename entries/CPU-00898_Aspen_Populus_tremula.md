@@ -78,6 +78,10 @@ Cool and drying; bitter and astringent; draining and descending. Given to *hot, 
 
 ---
 
+### Functional–Anatomical Correlate
+
+Aspen acts systemically on fever and joint pain, and on the tissues of hot, aching, inflamed joints. Its traditions describe a cool, dry, bitter-astringent, draining and descending herb: Dioscorides' cooling poplar for inflammation, hot swellings and the pain of gout and sciatica; European folk febrifuge for the rigors of ague. Modern anatomy maps its action to salicylate pharmacology: salicin is metabolised to salicylic acid, which the entry describes as antipyretic through prostaglandin suppression at the hypothalamic set-point, and as analgesic and anti-inflammatory, with flavonoids and tannins contributing a broader effect. The entry grades the joint and fever effect as moderate, extrapolated from willow-bark trials, and says the salicylate dose alone does not explain the analgesia. It treats the trembling-leaf signature as null pharmacology. Cautions cover salicylate-allergic people, anticoagulated patients, children with viral illness (Reye's), pregnancy, peptic ulcer and G6PD. It assigns no vital-constitution status.
+
 ### Contraindications
 
 - ⚠️ **Salicylate class.** Contraindicated in **aspirin/salicylate allergy or sensitivity** — risk of hypersensitivity reactions.

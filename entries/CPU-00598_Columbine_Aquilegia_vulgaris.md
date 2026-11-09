@@ -67,6 +67,10 @@ Direct pharmacological study of *Aquilegia vulgaris* itself is sparse; most data
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps columbine, in its historical European and Galenic stream, to the throat, glands and skin. Its Galenic and Unani classification is cold and dry in the second degree, cleansing and mildly astringent, for hot, inflammatory swellings and eruptive fevers. Later European herbals used leaves and seeds for sore throat and swollen glands and as a cleansing agent for the skin, and the entry records these as traditional. Ayurveda is not attested; a cross-system mapping offers a cooling, bitter-astringent reading only. Modern anatomy in the entry gives flavone C-glycosides and phenolic acids, from congener species, as antioxidant and antimicrobial in vitro, while saponins and isoquinoline alkaloids cause mucosal and gastrointestinal irritation. The main systemic hazard is cyanide release from fresh seeds and roots, a risk to the cardiovascular and respiratory systems. No internal use is recommended, and the entry lists contraindications in pregnancy, in children, and in cardiac or hepatic disease.
+
 ### Contraindications
 
 ⚠️ **TOXIC PLANT — SERIOUS HAZARD. This entry documents a historically poisonous herb; it is NOT a recommendation to ingest.**

@@ -71,6 +71,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Lilac's entry maps its bitter tonic chiefly onto the digestive tract. The Galenic-Unani frame, inherited by family resemblance from Oleaceae bitters, treats such drugs as cold and dry, stomach-strengthening and liver-directed, sharpening a torpid appetite and cooling surface heat. The entry links that to secoiridoid and phenylpropanoid bitters that it says carry antioxidant and anti-inflammatory activity, the redox chemistry that would act on inflamed tissue. The only reported pain action is antinociception in the mouse hot-plate test, a small preclinical study pointing to the nervous system's pain response. Irritation of the gastric mucosa is named as a possible risk at high dose. The febrile and vermifuge claims, aimed at fever and intestinal worms, are marked unvindicated by any human evidence, so the entry assigns them no action. Pregnancy, lactation and children lack safety data, and Oleaceae pollen sensitisation is noted as a cross-reactivity concern.
+
 ### Contraindications
 
 Lilac is not a well-characterised internal medicine and should be treated with corresponding caution. Bitter secoiridoid/phenylpropanoid extracts may irritate the gastric mucosa at high dose. No safety data exist for pregnancy, lactation, or paediatric use — **avoid in pregnancy and lactation** on the general principle applied to unstudied bitters. Oleaceae cross-reactivity is possible in those with olive/ash/privet/lilac pollen sensitisation. Because no validated human dose exists, internal use should be conservative and is best reserved to informed practitioner supervision. Not a substitute for antipyretic or anthelmintic therapy.

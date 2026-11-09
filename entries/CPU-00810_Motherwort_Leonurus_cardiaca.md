@@ -75,6 +75,10 @@ According to PubMed, there is genuine mechanistic support for the traditional ca
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps motherwort onto two rhythmically contracting muscles, the heart and the uterus. In the heart it is used for a fast, pounding, anxious heartbeat: palpitation of nervous origin and tension-driven tachyarrhythmia, the signature of an over-driven sympathetic system. The cited electrophysiology of a refined extract lowers left-ventricular pressure, prolongs the PQ interval and blocks L-type calcium current, a profile the entry reads as a calcium-antagonist basis for the anti-tachyarrhythmia use. Its polyphenols are linked to cardiac mitochondria and reactive-oxygen effects. In the uterus, the Western and Chinese traditions use it to bring on menstruation and, postpartum, to move blood of the lower burner, with leonurine cited as uterotonic. In Chinese terms it is acrid, bitter and slightly cold, entering the Heart, Liver and Bladder channels. In Galenic terms it is cold and dry, a bitter that gladdens the heart and opens the menses. The entry also notes in vitro anticoagulant activity, which places the blood itself among the tissues it touches.
+
 ### Contraindications
 
 ⚠️ **PREGNANCY — CONTRAINDICATED.**

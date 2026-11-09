@@ -118,6 +118,10 @@ The result was an extraordinary body of observational data from the Soviet milit
 
 ---
 
+### Functional–Anatomical Correlate
+
+Eleuthero acts primarily on the kidneys in Chinese terms, with the liver and spleen secondary, and on the body's stress axis in modern terms. It is described as tonifying Kidney Yang, supplementing Jing, strengthening sinews and bones, and stabilising Yuan Qi. The entry maps this onto the hypothalamic-pituitary-adrenal axis, where eleutheroside E is said to reduce stress-induced corticosterone and normalise adrenal catecholamine secretion. Skeletal muscle is addressed through glycogen sparing by eleutheroside B. The immune system is addressed through T-lymphocyte activation and NK cell activity. Cardiovascular effects named include improved VO2max and cardiovascular efficiency, with nitric-oxide vasodilation attributed to syringin. Tibetan terms describe it as generating physical strength and stabilising the life-wind. Cautions concern the nervous and cardiovascular systems: stimulant effects, possibly falsely raised digoxin immunoassay readings, and blood-pressure rise at high dose.
+
 ### Contraindications
 
 - **Stimulant medications (amphetamines, methylphenidate, modafinil):** Eleuthero may potentiate stimulant effects, increasing cardiovascular stimulation (heart rate, blood pressure); individuals on stimulant medications should monitor blood pressure and heart rate; caution at doses above 800mg/day

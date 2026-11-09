@@ -40,6 +40,10 @@ Keratin is a structural protein; chemically, rhinoceros horn is comparable to na
 
 **Practitioner's note.** Nothing here for a cultivator to take. The row shows that the Classic names a rhinoceros horn among its animal drugs and, by position, probably in its middle class; what it said of the horn cannot be said until the Animals pages are read. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: no text read says what the Classic used rhinoceros horn for, and the Animals pages were unreadable. The attestation is one project list row, Xi Jiao, with no species given. Row position suggests the Middle Class, which the entry marks as an inference only. The preface on the middle class, as Yang renders it, says those drugs nurture personality and correspond to humanity, and may or may not be toxic, but it speaks of classes and not of this drug. The only horn-related lines in Yang are a later footnote on peony (Shao Yao), which describes practice in which the peony is given with rhinoceros horn, and an unrelated plant named Jiao Xi. Neither is the Classic's claim for the horn. The entry prints no taste, potency, humour or channel for the horn, and makes no claim about any tissue for it.
+
 ### Contraindications
 
 All rhinoceros species are protected, and international trade in rhinoceros horn is prohibited under CITES; many countries ban domestic trade as well. The legal status of any particular item has not been checked here. [USER: verify] Powdered horn sold as a remedy is often substituted with other material and is unstandardised. The species is uncertain, so nothing here can be applied to a particular animal's horn.

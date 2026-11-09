@@ -63,6 +63,10 @@ According to PubMed, the notable modern finding about *Lithospermum* is not lith
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps gromwell onto the urinary tract and the stone-forming tissues of the kidney and bladder, by the doctrine of signatures. In Galenic and Unani terms it is cold and dry, a lithontriptic and diuretic that dries the urinary tract and treats gravel, dysuria and the stone; the entry marks the stone-breaking claim as unsupported by modern evidence. Its real modern correlate is hormonal rather than urinary: Lithospermum and its caffeic-acid polyphenols are described as antigonadotropic in animal models, suppressing gonadotropin activity on the reproductive axis, and the genus carries a documented antithyrotropic action on the thyroid axis. Shikonin-type pigments are linked to anti-inflammatory and endocrine activity. The liver is the main hazard: pyrrolizidine alkaloids can cause veno-occlusive liver disease and are cumulatively hepatotoxic, with fetal liver risk in pregnancy. Reproductive and thyroid conditions, and liver disease, are contraindications.
+
 ### Contraindications
 
 ⚠️ **PYRROLIZIDINE ALKALOIDS — HEPATOTOXIC.** As a member of the Boraginaceae, gromwell carries pyrrolizidine alkaloids, which are cumulatively hepatotoxic and can cause veno-occlusive liver disease; some are genotoxic/carcinogenic. This alone contraindicates habitual internal use.

@@ -64,6 +64,10 @@ According to PubMed, the modern evidence for *D. sissoo* is **preclinical (anima
 
 **Practitioner's note.** Nothing. A drying, fat-reducing group-drug used against defined complaints; Sushruta gives it no long-term or vitality-building role.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Shinshapa acts on the skin and on deep tissue carrying Kapha and Meda (fat). Its Suśruta grouping (Salasārādi) targets kuṣṭha (skin disease), prameha, medoroga (obesity) and kṛmi (parasites). Its karma includes anti-pruritic action (kaṇḍūghna), anti-dermatosis action (kuṣṭhaghna), blood purification (raktaśodhana), wound cleansing (vraṇaśodhana) and anti-parasitic action (kṛmighna). It is described as a scraping agent (lekhana) that reduces morbid Kapha and Meda, and its bark decoction is used as a wash or drink for weeping skin, ringworm and chronic itch. Its cooling and dry profile (śīta, rūkṣa) may aggravate Vāta with long internal use. For modern correlation, the entry cites rodent work: a leaf extract with analgesia that was reversed by naloxone, pointing to opioid receptors, and a rat osteoarthritis model where a Dalbergia sissoo isoflavonoid glycoside (CAFG) protected articular cartilage and subchondral bone and lowered IL-1β and MMP-3/13. No human trials are cited.
+
 ### Contraindications
 
 - **Cooling/drying profile:** may aggravate Vāta and worsen dryness, constipation, or emaciation with prolonged internal use.

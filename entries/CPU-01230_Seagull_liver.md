@@ -40,6 +40,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The general fa
 
 **Practitioner's note.** There is nothing in the source for a cultivator to use. The chapter is a single obstetric remedy, and a cultivator who needs help with childbirth needs a midwife or a physician, not a bird's liver.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives one part, the dried liver of the mergus or seagull, one preparation, taken as a drink in honey water, one quantity, two spoonfuls, and one use, to expel the afterbirth. That maps the action to the uterus and its contents after delivery in obstetric terms. The entry notes the word afterbirth is not defined beyond the word itself, so whether it means a retained placenta is not stated. The chapter names no other organ, and gives no humour, taste, temperature or potency and no mechanism. The liver is named as the part, but the chapter does not say the action runs through the liver. The Latin mergus is open as a bird identity, and no other tradition in the entry names the seagull liver.
+
 ### Contraindications
 
 An obstetric condition such as a retained placenta needs urgent medical care and not a household remedy. Sea-bird liver can hold heavy metals and other environmental contaminants, and wild birds carry avian pathogens. Many gull and sea-bird species are protected by law and may not be taken. These are general cautions and not claims from the text.

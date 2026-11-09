@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice. Dioscorides records the same root as a medicine and as a poison, and the plant cannot be identified with confidence. The abstentive answer is the correct one.
 
+### Functional–Anatomical Correlate
+
+The chapter maps the root onto several systems, each in the translators’ rendering. Against broadworms, an acetabulum measure taken in a drink acts on the intestines, the gut where these parasites live. For dropsy, a teaspoonful with wine is given to ease the accumulation of fluid, which in modern terms is the tissue fluid of the abdomen and limbs, though the chapter names none of these. For frequent painful urination, a decoction taken as a drink addresses the urinary tract. Taken with wine it is called an antidote to poison, a whole-body claim with no organ named. The root is described as white at the bottom, somewhat aromatic, with a strong sweet taste, which are sensory qualities; no warming, cooling or drying framework is given, and no humoral or qi system. The chapter also says that the root kneaded with polenta kills dogs, swine and mice, an animal toxic effect and not a human target. The identity is uncertain, and no dose is advised here.
+
 ### Contraindications
 
 The chapter itself says the root, kneaded with polenta, "kills dogs, swine, and mice". The translators' alternative, *Atractylis gummifera*, is generally known as capable of causing fatal poisoning in people (liver and kidney failure). No traditional use above is advice, and no home preparation is safe. Anyone who has swallowed any part of a thistle-like root of uncertain identity needs urgent medical care. Do not use in pregnancy.

@@ -64,6 +64,10 @@ Human clinical evidence for isolated Bǎi Hé is **effectively absent**; the mod
 
 **Practitioner's note.** A lower-grade listing with a plain therapeutic monograph: nothing in the classic supports ongoing cultivation use. Its modern reputation as a gentle supplementing food is later and is not part of this record.
 
+### Functional–Anatomical Correlate
+
+The entry places Bai He in the Heart and Lung channels and classes it as a Yin tonic that moistens the Lung to stop a dry cough and clears Heart heat to calm the spirit. Its classical actions in the Shennong monograph are to disinhibit urination and defecation, supplement the centre and boost Qi, and treat heart pain. The Han-dynasty Lily Disease picture, with restlessness, insomnia and a bitter taste, is cited as the syndrome it addresses. The Kenetica mapping is to the mind and sleep pathways, in a dry Lung and a wired, depleted state. The modern correlates offered are steroidal saponins with antidepressant-relevant and anti-inflammatory activity, polysaccharides with immunomodulatory activity, and computational predictions of constituents acting on EGFR, STAT3 and TNF. The entry states that human clinical evidence is effectively absent. It also cautions that some Liliaceae contain colchicine-type alkaloids, so only correctly identified culinary Lilium brownii bulb should be used.
+
 ### Contraindications
 
 - **Cold/damp patterns:** As a cool, moistening Yin tonic, it is classically contraindicated in cold-phlegm cough, diarrhoea from Spleen–Stomach cold, or damp-heavy states — it may aggravate dampness.

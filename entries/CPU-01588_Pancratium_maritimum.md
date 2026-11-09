@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this bulb. The abstentive answer is the honest one: it is a bitter, burning bulb described as a weaker version of a drug that the same book says is to be avoided in some conditions.
 
+### Functional–Anatomical Correlate
+
+Dioscorides' chapter 2-203 maps this bulb onto two conditions, the spleen and dropsy. Its root, juiced and mixed with ervum flour into tablets, is given with honey water for the spleen and for dropsy, which is oedema of the body's tissues. The chapter gives the root a bitter and burning taste and calls it milder than squill, the bulb of the preceding chapter, whose strength and preparation it says it shares. The chapter names no stomach, bowel, liver or other organ. No warming, cooling, drying or moistening quality is printed. Modern anatomy would place the spleen in the lymphatic and blood system and dropsy in the fluid balance of the tissues, but the chapter itself gives no mechanism. It also names no subtle-body or amuletic action, and no dose beyond the squill comparison.
+
 ### Contraindications
 
 The bulb is described as bitter and burning, and the book's squill is cautioned against in inward ulceration (2-202). Dropsy and a swollen spleen are conditions for medical care. Wild bulbs of this kind should not be eaten or tableted. The identification rests on a translators' suggestion, so no plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

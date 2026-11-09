@@ -66,6 +66,10 @@ According to PubMed, *P. hexandrum* is well documented as the premier natural so
 
 ---
 
+### Functional–Anatomical Correlate
+
+Himalayan Mayapple acts on the whole body as a drastic downward evacuant and, externally, as a caustic on warts and growths. Ayurvedic terms: rasa bitter and pungent, tikshna, ushna, katu vipaka, adhobhagahara (downward-expelling), classed as visha (toxin) needing shodhana. Unani places it among hot and dry drastic resinous purgatives acting on the bowel by forceful downward evacuation. Chinese and Tibetan use it as a toxic, dispersing agent for stasis, masses and skin lesions. Modern anatomy maps its principal effect to proliferating tissue: podophyllotoxin binds tubulin and arrests mitosis, which the entry relates to the traditional excision of morbid growths. Systemic toxicity is recorded in the gut (vomiting, bloody diarrhoea), nervous system (neuropathy, seizures, coma), bone marrow, liver, kidney and heart. It is teratogenic in pregnancy. The entry says it is not a tonic and has no rejuvenative status.
+
 ### Contraindications
 
 ⚠️ **PODOPHYLLOTOXIN IS A POTENT ANTIMITOTIC CYTOTOXIN. TREAT THIS ENTRY AS A POISON MONOGRAPH.**

@@ -74,6 +74,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Lotus jujube acts mainly on the bowel and the skin. Dioscorides' reading treats the fruit as a nourishing, mildly binding food that settles the belly and checks loose bowels, which the entry ties to the astringent, tannin-and-fibre profile of the drupe. Its Unani frame is cold and dry, astringent and nutritive, and its grounding quality is read as drying and earthward, a sensation the entry locates in the tongue and gut. Leaf and bark decoctions are used as astringent washes on minor wounds and inflamed skin, and leaf extracts are shown in vitro to be antibacterial against Staphylococcus aureus and MRSA. The fruit's free sugars, mucilage and starch give a satiety and energy effect, which the entry identifies as the real basis of the old narcotic myth of the lotus. Folk use in diabetes is preclinical only: quinic acid is studied for insulin-secretion effects in models, without adequately powered human trials. No CNS-active compound is identified in the edible fruit.
+
 ### Contraindications
 
 - The **fruit is a food**, generally safe; no narcotic or sedative pharmacology to fear, and correspondingly none to rely on.

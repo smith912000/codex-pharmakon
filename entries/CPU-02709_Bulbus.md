@@ -43,6 +43,10 @@ General facts only: a number of bulbs of the lily family are irritant and some a
 
 **Practitioner's note.** An edible bulb used mostly externally, in the tradition of Dioscorides' *bolbos*. The text itself says it is not a praiseworthy food, and no cultivation status is attested.
 
+### Functional–Anatomical Correlate
+
+Per Avicenna's Canon, Bulbus is near the onion in temperament, perhaps dry in the first degree with a superfluous moisture, and its stated actions are windy and dispersing. Its claimed sites are the skin (freckles, scars, warts and milk-crust sores), the chin and scalp (sores, scurf and scalp wounds), the joints and sinews (gout, joint pain and sprain), the eye (a blow to the eye and the lacrimal angle), and the stomach and digestion, where the sweet red kind is said to be good for the stomach and the bitter kind to aid digestion. The entry says undigested bulb causes colic and wind, and that it arouses sexual desire. The text says one kind provokes vomiting. The wording resembles Dioscorides' bolbos edodimos, but the Canon does not name him, so that link is the entry's own comparison. By the text's account the bulb is not a praiseworthy food.
+
 ### Contraindications
 
 - **Emetic kind and unidentified species.** The text says one kind provokes vomiting. Do not eat any wild bulb on the basis of this entry.

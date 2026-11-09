@@ -42,6 +42,10 @@ The identification is ours. No clinical studies were retrieved for this entry. [
 
 **Practitioner's note.** There is no cultivation practice in the text. A cultivator reads a short, plain entry for the seed of a kitchen plant and a stalk decoction for the first stage of a cold. It is a minimal record.
 
+### Functional–Anatomical Correlate
+
+The seed's paragraph names the eyes (明目, brightening the eyes) and the centre (补中不足, replenishing the centre where it is insufficient). The centre (中) is the classic's term for the middle of the body, and the entry does not reduce it to a single organ, so no modern digestive correlate is assigned. The stalk, which the text says can be made into a decoction (其茎可作汤), is linked to cold-damage (伤寒) with chills and fever (寒热), to sweating (出汗), and to wind-strike (中风) with swelling of the face and eyes (面目肿). In modern anatomical terms the face and eyes are the tissues named for that use, and the skin for sweating, but the text names no mechanism. The energetic terms are acrid and warm (味辛，温). The Welsh onion is a common food, which is general knowledge and not a claim the text makes. Fever, chills and facial swelling need medical assessment.
+
 ### Contraindications
 
 The classic does not warn. No safety information for pregnancy, children, allergy or other medicines was read, and none is asserted. Fever, chills and facial swelling need medical assessment. [USER: verify]

@@ -65,6 +65,10 @@ Khurana et al. (2016), *Pharmaceutical Patent Analyst* — a review of mangiferi
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps Amra by tradition. In Sushruta the ripe fruit nourishes and strengthens (balya), while the unripe fruit and astringent bark arrest flux: diarrhoea, excessive bleeding and discharges. Dried flowers and tender leaves are used for digestive laxity and urinary complaints. In the Chinese materia medica the fruit generates fluids, quenches thirst and harmonises the stomach, and the leaf and kernel consolidate the bowels and are used for cough. In the Unani idiom the ripe fruit warms and moistens and strengthens the stomach and liver, while the unripe sour fruit and the bark are cold, dry and astringent, sharpen the appetite, and bind looseness of the bowels and bleeding. The organs named across the systems are therefore the stomach, liver, bowels and bleeding tissues, with the urinary tract named once in Sushruta. The entry's modern correlates, tannins for the astringent parts and carotenoids for ripe pulp, are chemical descriptions, and the mangiferin evidence it cites is preclinical, so they are not clinical proof of any organ effect.
+
 ### Contraindications
 
 - Ripe fruit is high in fructose and sucrose — use with caution in diabetes and metabolic dysregulation.

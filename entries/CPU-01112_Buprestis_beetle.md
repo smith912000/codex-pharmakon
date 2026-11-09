@@ -43,6 +43,10 @@ General, well-established facts only. Cantharidin is poisonous to humans: contac
 
 **Practitioner's note.** Nothing here supports a practice. The buprestis appears in the text as a poison first and a medicine second. A cultivator takes nothing from this entry and does not handle, eat or apply the beetle. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The chapter maps the buprestis beetle onto several organs and tissues, each as a use in Dioscorides' words. Mixed into medicines, it is used for diseases of the cornea, the eye, and for leprosy and wild impetigo, the skin. Mixed with soothing suppositories it encourages the menstrual flow, acting on the womb. The beetle is also said to help dropsy by moving the urine, which acts on the urinary tract, and its wings and feet are said to be an antidote for those who have taken parasites in a drink. Two other chapters name it among poisons countered by oil of melinum or by cow's milk, which relieves ulcers and inflammation. The chapter gives a common strength of antiseptic, anti-ulcerous and heating. The edition labels the beetle poisonous. No humour, potency, taste or cultivation role is given, and no organ is named beyond these.
+
 ### Contraindications
 
 - **Toxicity:** the edition labels it "POISONOUS", and 2-65, 2-66, 1-55 and 2-77 all treat it as a poison; do not swallow or apply any blister-beetle material. Poisoning is a medical emergency; contact a poison centre.

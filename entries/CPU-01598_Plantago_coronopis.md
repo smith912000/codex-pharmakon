@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The translator
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It offers a description, a habitat, a boiled vegetable and a root eaten for intestinal complaints, so it is history and not a practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The chapter maps onto the gut, through the word 'coeliac', which the translators gloss as intestinal complaints. The root, described as thin and astringent, is eaten for that complaint, so the claimed action is astringent and directed at the intestines. The herb, eaten boiled as a vegetable, is a food, and the chapter does not say it acts on any organ by that route. The text gives no humour, temperament or energetic quality beyond the root's astringency, and no taste for the herb. Its habitat, untilled places, hillocks and highways, is named, but no body system is attached to it. Dioscorides' further names are given without use. The chapter names no channel, gland, tissue or sense. Because the identification is a translators' suggestion among several names, the gut mapping applies to the plant as described and not to a named Plantago species.
+
 ### Contraindications
 
 The chapter prints no warning. Plants growing "by highways" and in untilled ground may be contaminated, and persistent intestinal complaints need medical assessment. The identification rests on a translators' suggestion among several names, so no wild plant should be gathered or eaten on the strength of this entry. [USER: verify]

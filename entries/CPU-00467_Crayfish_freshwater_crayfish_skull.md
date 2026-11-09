@@ -56,6 +56,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that a cooked crayfish skull is one ingredient in a headache remedy, combined with onion, am-tree fruit, natron, cooked redfish, cooked sword-fish bone, honey and an abra-ointment, and smeared on the head for four days. The head and its pain are the only site named. The entry gives no organ, humour, dosha or qi term for the skull, and states no action for it. No quantity is printed for any ingredient, and the sources do not establish the animal's identity, so no claim can be mapped to the crayfish itself. The skull's role in the compound is not explained, and the compound is treated as a single external application.
+
 ### Contraindications
 
 - **Allergy:** shellfish allergy is common and can be severe.

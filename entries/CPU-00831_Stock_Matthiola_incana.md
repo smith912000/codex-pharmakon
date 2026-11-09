@@ -67,6 +67,10 @@ According to PubMed, *Matthiola incana* has been studied almost entirely as a **
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps stock's effects onto the heart and the mood rather than onto a specific organ, describing a warm, dry, gladdening aromatic in Galenic and Unani terms. Its Settling-phase use is atmospheric: aromatic waters, flower conserves and scented oils said to comfort the heart and brain and to ease cold, windy conditions. Its fragrance is the medicine: anthocyanins give the colour, glucosinolate-derived volatiles give the scent, and no potent systemic active is recorded. Internally the entry allows only culinary or cordial scale, and flags cardiac-glycoside-like constituents reported in some Matthiola species as a reason for caution in heart disease. Evidence is labelled traditional and data-sparse, as pigment chemistry is what the peer-reviewed literature documents, with essentially no controlled clinical data on the heart, brain or mood.
+
 ### Contraindications
 
 - **Cardiac caution:** Because some *Matthiola* species have been reported to contain cardiac-glycoside-like (cardenolide) compounds, internal infusions or extracts should be avoided by anyone with heart disease, arrhythmia, or taking digoxin/other cardiac glycosides, and should not be self-dosed by anyone. External and aromatic (scent) use carries no such concern.

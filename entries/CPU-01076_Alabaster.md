@@ -40,6 +40,10 @@ General facts only. Gypsum (calcium sulphate) and calcium carbonate are chemical
 
 **Practitioner's note.** Nothing to do. Alabaster is a stone used in ancient plasters and cosmetics, and it earns its place in the Codex as a worked case of Egyptian drug-and-spell treatment (the alopecia charm), not as something to apply or to take. A cultivator can take from it the point that one prescription is incomplete without its recitation, and leave the stone alone.
 
+### Functional–Anatomical Correlate
+
+Ebers prescriptions claim alabaster for the skin: a dust applied after blows that raise wheals, and a body salve for supple skin. They claim it for the scalp and hair in an alopecia charm, where it is spoken over with iron, red-lead, onions and honey, and for the face, in a pap mixed with milk and anointed. Dioscorides (5-153) claims that burnt alabastrites, with rosin or pitch, dissolves hard lumps; with stiff ointment it eases disorders of the stomach; and it is therapeutic for the gums. The Greek chapter gives no temperament. The entry records no Chinese, Sanskrit or Unani attestation. In Egyptian terms the alopecia charm is a spell and drug as one intervention, the only prescription where the entry finds spoken words. No humour, dosha, qi or subtle body is assigned, and the stone's identity is the translator's.
+
 ### Contraindications
 
 - **Dust.** Fine stone dust is irritating to eyes and lungs; avoid breathing it in.

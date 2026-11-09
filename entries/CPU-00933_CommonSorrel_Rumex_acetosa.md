@@ -94,6 +94,10 @@ The **oxalate hazard** — the necessary deflation — is well grounded. Mitchel
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps sorrel mainly to the digestive tract, blood and urinary system. Galenic and Unani texts direct it at hot, bilious states: fevers, thirst, hot palpitation and jaundice-type heat. Dioscorides applies the sour dock to hot stomach complaints and dysentery, and calls it appetite-restoring. TCM says it clears heat, cools the blood, promotes urination and mildly moves the bowel, and applies it to heat skin conditions and itch. Its vitamin C is linked to the scurvy indication, which the tradition described as mouth-rot and lassitude. Tannins and anthraquinones give mild binding or laxative action in the bowel, and the Unani seeds are noted as more binding. The kidney is the organ the entry flags most: oxalate loads are tied to calcium-oxalate stones, hyperoxaluria, gout and chronic kidney disease. Oxalate also binds calcium and iron in the gut, so the leaf is not a source of either.
+
 ### Contraindications
 
 - **CRITICAL — oxalate load: kidney stones, gout, and renal impairment.** *R. acetosa* is a high-oxalate plant. Contraindicated (or strictly limited to small culinary amounts) in anyone with a history of calcium-oxalate kidney stones, hyperoxaluria, gout/hyperuricaemia, or chronic kidney disease. Avoid concentrated juices/extracts entirely. Maintain hydration and pair with dietary calcium to bind oxalate.

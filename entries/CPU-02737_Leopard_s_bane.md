@@ -44,6 +44,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** The entry is a poison record: a plant that kills dogs, wolves, foxes and leopards. It is not a medicine in the text and there is no cultivation use.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry is a poison record. Per the Canon, the leaf, mixed with fat and baked in bread, kills wolves, dogs, foxes and leopards, and weakens their strength at the moment they eat it. Those are the only bodily effects named, and they are effects on whole animals, not on named organs or tissues. The Canon gives no temperament and says the plant is not used internally or externally, so no human body system is mapped. The text also says that, brought near a scorpion, it subdues the scorpion, and that it is a deadly poison. Dioscorides, as quoted in the entry, describes the pod, seeds and sticky juice, but names no organ. The modern species is not fixed, so no physiological claim is attached to a species here.
+
 ### Contraindications
 
 - **Toxic.** The text says it kills dogs, wolves, foxes and leopards and is a deadly poison. Do not ingest or handle the plant or its sap.

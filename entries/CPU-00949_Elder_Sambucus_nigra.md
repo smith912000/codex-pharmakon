@@ -80,6 +80,10 @@ Elder is the **Surface-Release** botanical of the fortification phase: a warming
 
 ---
 
+### Functional–Anatomical Correlate
+
+Elder acts on the skin surface and the upper airway. In the Avicennan reading the flower is warming and muhallil: it opens the pores, provokes sweat and disperses thick catarrhal matter. The entry links this to vasodilation and sweating from a hot flavonol-rich infusion, targeting the early cold or fever with catarrh in the head. The berry is read as cooling, cleansing and laxative-tending, and its anthocyanins are described as antioxidant. Clinical evidence is mixed: two small trials report shorter cold or influenza symptoms, while a larger influenza trial found no benefit. The entry raises a theoretical concern that anthocyanin immunomodulation could worsen hyper-inflammatory, cytokine-driven states. Raw green parts contain cyanogenic glycosides and lectins that damage the gut, so the entry allows only cooked, ripe fruit. No TCM or Ayurvedic assignment is given.
+
 ### Contraindications
 
 - **RAW berries, leaves, bark, stems and unripe fruit are toxic.** They contain **cyanogenic glycosides (sambunigrin type)** and lectins/ribosome-inactivating proteins; ingestion of raw or insufficiently processed material causes nausea, vomiting, abdominal cramps, diarrhoea and weakness. Documented cluster poisonings have followed drinking juice pressed from raw, uncooked elderberries (including berries, leaves and stems). **Cyanogenic content is highest in green parts and unripe fruit and falls as berries ripen** (Senica 2016, [DOI](https://doi.org/10.1002/jsfa.8085); Stuppner 2020, [DOI](https://doi.org/10.3390/s20174983)). **Berries must be fully cooked and only ripe fruit used; never juice or eat them raw.**

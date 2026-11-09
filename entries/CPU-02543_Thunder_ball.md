@@ -45,6 +45,10 @@ General, well-established facts only. The sclerotium is used in modern Chinese p
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The tradition grades this as a lower-grade, possibly toxic drug against worms, with no long-use clause, and several authorities in the Wu Pu layer called it toxic. The honest use of the entry is as a historical record.
 
+### Functional–Anatomical Correlate
+
+The Shennong paragraph names two organ-level targets. Heat in the stomach (胃中热) is the one visible seat, read in the classic's terms of a bitter, cold flavour and nature, and the entry does not map it further. The worm clause, killing the three worms (杀三虫), points to the intestinal tract in the classic's sense, though the entry notes that the three worms are a category, not a modern diagnosis. The classic also says the drug benefits men and does not benefit women, which the entry records as a sex-specific claim with no organ named. For children, a rubbing ointment (摩膏) is recorded against the hundred illnesses of children, applied externally; no site, quantity or condition is given. The Wu Pu layer records disputed flavour and toxicity but no organ. The entry adds no modern anatomy beyond the intestine, and its sources describe no mechanism for any organ. Treat the mapping as historical only.
+
 ### Contraindications
 
 - **Toxicity:** the Wu Pu layer records Huangdi, Qibo and Tongjun as calling it toxic, and the classic's lower grade is "mostly toxic, not to be taken long" (line 2935). Do not take it on the strength of this entry.

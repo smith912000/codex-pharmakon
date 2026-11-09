@@ -76,6 +76,10 @@ The Cool–Dry, astringent and mildly nervine reading in the header is the stand
 
 **Practitioner's note.** Nothing. Neither stream grades this prostrate vervain as a cultivation substance; the only ritual note belongs to the erect vervain of the Greek herbal.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry states that no biomedical record for Verbena supina was retrieved, with zero indexed articles for this species. Its chemistry is presumed from the genus only, namely the iridoids verbenalin and hastatoside, verbascoside, phenolic acids, ursolic and oleanolic acids, sterols and flavonoids, none measured in this species. Organ-level claims are congener data for common vervain (V. officinalis): anti-inflammatory activity in rat paw oedema, and antioxidant, antiproliferative and antibacterial activity in plant cultures. Traditional sacred, astringent, wound and febrifuge uses are attributed to V. officinalis, not to this species. Its uterine-stimulant and emmenagogue reputation is congener-derived, and the entry advises avoiding it in pregnancy as a precaution. The Dioscorides attribution is marked as likely V. officinalis. No human trial was retrieved for either species.
+
 ### Contraindications
 
 - **Pregnancy — AVOID (precautionary, congener-derived):** common vervain (*V. officinalis*) carries a traditional **uterine-stimulant / emmenagogue** reputation and is customarily avoided in pregnancy. Whether *V. supina* shares this activity is **unverified**, but the prudent course under the shared name is to **apply the same precaution: avoid in pregnancy.** Stated explicitly as a congener-derived caution, not a measured *V. supina* effect.

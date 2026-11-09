@@ -70,6 +70,10 @@ Evidence grade: **preclinical.** These support the traditional anti-inflammatory
 
 **Practitioner's note.** Nothing: no practice role is attested in the Tibetan source.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Katsumade galangal acts on the middle burner, the digestive centre: in TCM terms it enters the Spleen and Stomach channels, dries damp, warms the middle, disperses cold, moves stagnant qi and stops vomiting. The tissues named are the stomach and digestive tract, where the pattern is cold, damp and stuck: greasy tongue coat, fullness, poor appetite, nausea and cold epigastric pain. The Tibetan rGyud-bzhi framing describes the same organ system differently, as a warming aromatic that kindles digestive heat and disperses cold in the stomach. Modern correlates the entry cites are preclinical only: cardamonin, a chalcone, and the volatile oil are reported in cell and mouse studies, the oil in 5-fluorouracil-induced intestinal mucositis, where it is said to improve epithelial barrier function and modulate gut microbiota. The entry states no human organ effect from these studies. Its energetic placement is lower/middle, Dantian. Heat patterns and yin deficiency with dryness are contraindicated.
+
 ### Contraindications
 
 - **Heat patterns / yin deficiency with dryness (CM).** A warm, drying aromatic is contraindicated where there is heat, or dryness from yin/blood deficiency, without damp to transform.

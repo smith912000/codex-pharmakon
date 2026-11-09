@@ -46,6 +46,10 @@ General, well-established facts only. *Justicia procumbens* (the accepted modern
 
 **Practitioner's note.** The classic gives this herb a back-pain and heat indication and a bath use and no long-use promise. A cultivator has nothing to do with it beyond the record. The entry is no licence for any use.
 
+### Functional–Anatomical Correlate
+
+The classic's main indication is lumbar pain, the lower back and spine (腰脊痛), so severe that the person cannot lie on the bed (不得着床) or bend forward and back with ease (俯仰艰难). A second indication is removing heat (除热), which the entry does not tie to any organ or tissue. The bath use (可作浴汤) is the only route the text names, and it does not say which tissues the herb reaches. The energetic terms are salty and cold (味咸，寒). No organ or channel is assigned, and none is imported here. Yang's rendering agrees with Sun's on the bed and the bending, and the Wu Pu layer adds no indication. The entry does not translate lumbar pain into a modern diagnosis. Its own caution is that severe back pain, with fever, weakness or loss of bladder control, needs medical assessment rather than this herb.
+
 ### Contraindications
 
 - **Back pain:** pain that prevents lying down, or that comes with fever, weakness, numbness or loss of bladder or bowel control, needs urgent medical assessment; do not treat it with this entry.

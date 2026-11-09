@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The PNAS 2019 
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. The honest answer is to do nothing with it on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the row names a Yopo snuff tree, Anadenanthera peregrina, from South America, with a '3000-year archaeological record'. The only indication of use is the word 'snuff' in the name. It names no people, plant part, preparation, constituent or dose, and no organ, tissue or body system. The entry calls it a psychoactive snuff whose legal status is unchecked. No clinical studies were retrieved, and the cited sources are not on disk and are not relied on. The contraindications (pregnancy, mental-health conditions, prescription medicines) are general caution that the entry says is not found in the row. No energetic quality is printed, so no humoral, doshic or qi correlate is recorded, and no subtle-anatomy model is imported. The cultivation register is absent.
+
 ### Contraindications
 
 No safety data were read for this row. This is a psychoactive snuff plant, and use outside a qualified setting is unsafe in general terms. Do not use in pregnancy, and take medical advice, especially with any mental-health condition or prescription medicine. This is general caution and is not found in the row. Legal status varies and is unchecked. [USER: verify]

@@ -43,6 +43,10 @@ Greek: no warming, cooling, drying or moistening quality is printed for the live
 
 **Practitioner's note.** Nothing. A cultivator who is bitten by a dog seeks medical care at once. This text offers a historical remedy, not a safeguard.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter states a liver eaten roasted by people bitten by a mad dog, which is held to keep them safe from 'the fear of water'. The text names no organ for that fear. The entry notes that the phrase is a sign of hydrophobia, a feature of rabies, but that reading is a gloss and not Dioscorides' word. The second item is a tooth of the biting dog, placed in a bag and tied to the arm, reported as an amuletic practice ('they also use') and not endorsed. The arm is the only body site named for either item. No quality, humour, taste, potency or tradition classification is printed, and no timing relative to the bite, preparation or dose is given. The entry records the belief as historical, and its mapping supports no present use.
+
 ### Contraindications
 
 Not a recommended practice. Handling or eating tissue from a rabid animal is itself an exposure risk. Rabies after symptoms begin is almost always fatal; the only effective time to act is straight after the bite. Dog bites also carry bacterial infection and tetanus risk, so they need washing and medical review. Wild or stray animal bites need urgent assessment. This entry gives no medical advice.

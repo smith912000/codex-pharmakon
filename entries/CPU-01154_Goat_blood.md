@@ -38,6 +38,10 @@ General, well-established facts only. Smallpox (variola) was declared eradicated
 
 **Practitioner's note.** A cultivator does nothing with this. It is a one-line indication from a list of animal medicines, the tradition itself notes animal products are little used now, and the substance carries infection and ethical costs with no benefit supported by any source read. Reading the line is the whole of the practice.
 
+### Functional–Anatomical Correlate
+
+Clark's rendering of the Explanatory Tantra gives goat blood one indication: it cures venereal diseases and smallpox, with commentary additions, brown phlegm and leprosy, in square brackets. Men-Tsee-Khang's 2011 text gives the same two diseases. The organs and tissues implied are the genital and reproductive region for venereal disease, the skin for smallpox and leprosy, and the body's phlegm, which the bracketed commentary adds. The translators render Tibetan disease names that the entry does not reproduce, so the mapping rests on English disease names. Neither translation prints a taste, potency, post-digestive taste or humoral action for the blood. The entry gives no preparation, route or dose and no compound containing goat blood. Its Scientific Correlation section notes that smallpox has been eradicated and that venereal infections are treated with specific medicines.
+
 ### Contraindications
 
 - **Infection:** raw animal blood can carry bacteria, viruses and parasites; goats are a recognised source of brucellosis.

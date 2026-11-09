@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a fever drug that covers a herb and a tree under one name, with no preparation and no dose. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names no organ, tissue or body system. The root-text line, as Clark prints it, says the drug "cures infectious fevers". The bracketed commentary adds "shooting pains", and Clark's chapter 21 places the herb among medicines for infectious fevers, beside the de.wa tree. The Men-Tsee-Khang text says Dhewa "cures epidemic" and places it in a group of medicines that cure "contagious disorders", the same family of terms as Clark's fevers. Shooting pains name a symptom and no site. The entry gives no taste, power or humoral account for the herb, and it does not say which part is used. Whether the herb or the tree is meant, and which of three plants the Tibetan name covers, is not settled by the entry.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Some *Primula* species can irritate the skin; no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. An infectious fever needs medical care. Because the Tibetan name covers more than one plant, a plant could not be matched to it from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

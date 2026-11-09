@@ -69,6 +69,10 @@ According to PubMed:
 
 **Practitioner's note.** Nothing specific: tagara is a remedy used for a defined complaint, and the classical text records no long-term or rejuvenative regimen for it.
 
+### Functional–Anatomical Correlate
+
+Tagara's entry targets the nervous system and the mind, which Ayurveda reads as the seat of Vāta when it is light, cold, dry and erratic. Its medhya (mind-supporting) and calmative actions are directed at the mind (manas), with the entry noting that aromatics are held to reach it. Its nidrā-janana (sleep-promoting) action is aimed at insomnia, and its śūla-praśamana (antispasmodic) action at tremor, cramp and restlessness in the nerves and muscles. The classical contexts are unmāda (mental disturbance), apasmāra (seizure-like states) and nidrānāśa (insomnia), all Vāta disorders of the mind and nerves. Its vāta-anulomana action moves Vāta downward, and its dīpana action mildly kindles digestion. The entry records a traditional anxiolytic and GABA-linked signal in mice, though tested in a compound formula. Its warmth is noted to aggravate Pitta, and caution is advised with CNS depressants, alcohol and driving.
+
 ### Contraindications
 
 - Warming potency may **aggravate Pitta** / heat conditions if overused.

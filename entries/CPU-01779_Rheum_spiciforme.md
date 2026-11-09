@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a purgative for septic conditions in the Tibetan lists, with no preparation and no dose, and a purge is a medical act and not a cultivation. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Clark's root-text line says the drug "purges septic conditions" and "dries [accumulations of] fluid in wounds". The commentary adds that it "cures phlegm disorders and brown phlegm". The Men-Tsee-Khang text says Chhu tsa "eliminates infection and helps to dry abscesses", and that it cleanses hot disorder combined with poisoning and hot disorder of the vessel organs. On the entry's claims the drug acts on the gut as a purgative (the entry names the purgative category but no organ), on septic conditions and infection, on wounds and abscesses where fluid gathers, on the vessel organs named in the Tibetan text, and on phlegm. In modern anatomy, wounds and abscesses are skin and soft-tissue states. The entry does not identify the vessel organs further. The tie to one plant is weak, since Clark's name is Rheum spiciforme and the glossary's are Rheum emodi and Rheum palmatum.
+
 ### Contraindications
 
 The sources read print no warning for this drug beyond Clark's commentary note that it "acts as a test for poison", which is not a safety statement. It is a general fact that purgative rhubarb preparations cause cramping and diarrhoea, can disturb body salts if misused, and are not given in pregnancy or to children without medical advice; none of that is shown for this species in the lines read. Infection and abscess need medical care, the identity is open between species, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. [USER: verify]

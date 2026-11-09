@@ -78,6 +78,10 @@ According to PubMed, the traditional profile is supported by a recent compositio
 
 **Practitioner's note.** A cultivator uses bathua as food, not as a cultivation drug. It nourishes the depleted and, in its sharper seed fraction, scours the gut — but every tradition that claims it places it in the therapeutic-dietary register, and none records a longevity or subtle-body status. The honest instruction is to eat it well-cooked for what it is, and read no vital doctrine into a green the traditions themselves treated as a green.
 
+### Functional–Anatomical Correlate
+
+The entry maps bathua mainly onto the digestive tract. Its seed and aerial oils, through ascaridole, are described as anthelmintic against intestinal worms, and its leaf is a laxative and mild aperient, cooling the bowel and loosening stool. Ayurveda calls it deepana (kindling digestion) and krimighna (worm-expelling), and cites digestive and urinary complaints. Unani places it as a cold, moist blood-cooler that corrects hot, thick, obstructed states. In TCM (li, bai-li) it is cool and sweet-bitter, entering the Spleen and Large Intestine channels, clearing heat and resolving dampness, with topical use for skin itching. Nutritionally it is said to supply iron, calcium, and vitamins C and A to a depleted body. The entry warns that its oxalate can affect the kidneys, and that concentrated seed preparations containing ascaridole are toxic.
+
 ### Contraindications
 
 - **Oxalates:** Contains meaningful oxalate — caution with a history of calcium-oxalate kidney stones; cooking reduces but does not eliminate it.

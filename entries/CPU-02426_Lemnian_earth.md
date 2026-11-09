@@ -52,6 +52,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 **Practitioner's note.** Nothing to take from it for cultivation beyond noting how the herbal ties a material to a named place and a local seal, and that it records a purification use without detail. The earth is not an antidote and should not be tried as one. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Greek (DMM) terms are used as the entry gives them. The chapter prints no quality of the earth, only actions. Its claimed sites are these. Taken as a drink with wine, it is an antidote against deadly poisons, a systemic claim with no organ named. Taken beforehand, it makes one vomit up poisons, acting on the stomach and upper gut. It is good against strikes and bites from venomous or poisonous beasts, a claim on the skin and wound. It is mixed into antidotes. It is good for dysentery, a claim on the large bowel and its lining. Some use it for purifications, a ritual use the chapter does not describe, so no organ is attached to it. The seal of a goat marks the tablets as the earth of Lemnos and states nothing about the body.
+
 ### Contraindications
 
 - **Poisoning, bites, dysentery:** these are medical emergencies or conditions needing care; do not rely on an earth. Do not induce vomiting after a poisoning unless a poison-control service advises it.

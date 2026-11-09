@@ -88,6 +88,10 @@ Barnes TM, Greive KA (2017) "Topical pine tar: History, properties and use as a 
 
 **Practitioner's note.** What Dioscorides gives a practitioner is the test of the material: look for brightness and smoothness, and for a sweet smell, and reject what is dull or foul. Nothing beyond that.
 
+### Functional–Anatomical Correlate
+
+Black pine pitch acts mainly on the skin and on the airway, with the entry framing its surface action as a sealing, drawing, boundary-level Qi. Resin and pitch plasters are described for slow-healing wounds, fissures, boils and indolent ulcers, and refined pine tar, the pharmacopoeial Pix liquida, for chronic scaling skin disease such as psoriasis and eczema, where its phenolic fraction is credited with antipruritic and keratolytic action on the epidermis. Inhaled volatiles are an expectorant and mucolytic for productive cough, loosening bronchial secretions. Turpentine liniment is a counter-irritant that reddens intact skin over aching joints and the chest. Dioscorides' soot is used for eye preparations. Avicenna's Canon adds the chest, for cold dry cough, pleurisy and lung inflammation, and the swellings and scrofula that pitch softens. Humorally it is hot and dry, with a second-degree placement the entry marks as unverified.
+
 ### Contraindications
 
 - **Contact sensitization and irritant dermatitis:** Resin acids (abietic acid and colophony) are well-recognized contact allergens; pine tar and turpentine can both sensitize and irritate. Patch-test sensitivity is common; discontinue on rash, burning, or spreading erythema.

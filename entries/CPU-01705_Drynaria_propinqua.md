@@ -53,6 +53,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The source pri
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a fern named in Clark with a rank and two Latin names and no action, and there is no preparation and no dose. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry lists the Tibetan name ldum.bu.re.ral, two Latin identifications (Drynaria propinqua, with Polystichum squarrosum as the second), and a rank as king fern among three ferns in Clark's line 1084. Clark prints no action, taste, power, part used or preparation for this name, and the Men-Tsee-Khang text has no line for it. The entry therefore names no body system, organ or tissue, and the fern rank is a naming frame and not a physiological claim. The slightly sweet taste and cool power that the adjacent re.ral entry gives belong to that other name and are not mapped here. The Codex does not carry the adjacent Adiantum sentence over to this drug. No modern organ is therefore linked to the drug in the sources read, and the identity of the plant is open between two ferns.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The identity is uncertain, so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

@@ -47,6 +47,10 @@ No general scientific statement can be made about an unidentified item. The clas
 
 **Practitioner's note.** A name without a plant behind it, in a list of spices for the appetite and the gut. There is nothing to cultivate, source or take. The honest outcome is to keep the name on record and leave it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the text gives Madhurasa no organ, action or quality of its own. It appears once, as the eighteenth member of the Pippalya'di group, whose metrical text says the group is an appetiser and an absorbent of intestinal mucus and unassimilated chyle, and applies to catarrh, Kapham and Vata, non-relish for food, abdominal glands, colic and gastralgia. Those are claims for the group as a whole, so the item is placed in the digestive tract and abdominal glands only by its company. The name's sense, sweet juice, is not stated by the text to be its taste. No body part, plant part or quality is printed for the item itself, and it is named in no other chapter read.
+
 ### Contraindications
 
 - **Identity unresolved.** Do not substitute any product for it.

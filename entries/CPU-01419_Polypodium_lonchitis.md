@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the source read gives a cultivator a practice with this plant. The honest answer is that this is a short, two-chapter record of an unsettled identity, and there is nothing to do with it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives two short chapters and no organ beyond those they name. Dioscorides' lonchitis (3-161) is a decoction of the root drunk with wine as a diuretic, so it acts on the urinary system. The second kind, lonchitis altera (3-162), is a decoction drunk with vinegar that is able to cure wounds, remove inflammation and reduce the spleen. Traditional terms: none beyond the diuretic and spleen-reducing actions; no warming, cooling, degree or taste is printed for either chapter. The plant descriptions (leek-like leaves, hat-shaped flowers, a root like daucus) are morphology, not body mapping. The identification as Polypodium lonchitis is a translators' gloss. The entry has no composition, dose or clinical study.
+
 ### Contraindications
 
 The identity of the plant is not settled, so no safe use can be stated. The traditional uses are not advice. Do not use in pregnancy as a general precaution; seek qualified care for any complaint named.

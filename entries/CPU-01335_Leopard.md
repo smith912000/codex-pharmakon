@@ -40,6 +40,10 @@ General facts only. Meat from wild carnivores must be cooked through; it can car
 
 **Practitioner's note.** Nothing here is a practice. The leopard is named in a list of animals, and the only passages that touch a cultivator concern carnivore meat as a class, for phlegm disorders and for rebuilding weight. The animal is protected, so even the class reading offers no ground for using it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the leopard is named only as one member of the group of carnivorous wild animals, and the sources give no organ, tissue or action for it by name. What the text says of the group is that its meat is rough, light and sharp, generates digestive heat, destroys tumours, increases weight and eliminates cold disorders, though Clark attaches this sentence to birds of prey and the Men-Tsee-Khang text to carnivores. A phlegm disorder (baekan) diet includes the meat of carnivores, and after over-application of slimming therapy, eating carnivore meat with mild enemas and sleep is said to build a fatty body. The text names no part of the leopard, such as skin, bone, fat or bile, in the materia medica. No organ, tissue or channel is mapped to the leopard in these passages.
+
 ### Contraindications
 
 - **Conservation and law:** the leopard is a protected species in much of its range and subject to international trade restrictions (CITES). Possession of skin, bone or meat can be an offence. [USER: verify]

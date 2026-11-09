@@ -98,6 +98,10 @@ Ayurveda: **rasa** (taste) tikta-kashaya (bitter-astringent); **virya** (potency
 
 **Practitioner's note.** Nothing cultivation-specific. A bitter bark used in compound formulae and recipes for defined complaints; the Dashamula grouping is a pharmacy category for wind and phlegm disorders, not a vitality grade.
 
+### Functional–Anatomical Correlate
+
+The entry maps Shyonaka root-bark onto the joints and the airways, where it is used for arthritic and rheumatic heat, cough and bronchial complaint, and onto the gut, for diarrhoea, dysentery, loss of appetite and gastric ulcer. The Ayurvedic frame, from the Dashamula group, classes it as tikta-kashaya, cooling in potency and heating in post-digestive effect, balancing vata and kapha and acting as a deepana appetite-kindler. Jaundice, diabetes and respiratory disease also appear among the classical indications. The modern correlate offered is suppression of the NF-κB, COX and nitric-oxide inflammatory cascade by baicalein, baicalin, chrysin and oroxylin A, with phenylethanoid glycosides reducing NO in microglial cells and neuronal-cell protection seen in vitro. Oroxylin A, as an isolated synthesised compound, is noted as in Phase Ib/IIa trials for liver cancer. The entry states there is no randomised trial of the whole bark for arthritis, and the respiratory use remains traditional and unproven.
+
 ### Contraindications
 
 - **Pregnancy and lactation: avoid.** Safety in pregnancy is not established; the bark is a traditional emmenagogue-adjacent bitter and several constituents are bioactive at the cellular level. Flag prominently.

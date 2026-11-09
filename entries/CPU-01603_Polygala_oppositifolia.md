@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The row's bino
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It offers a size, a leaf, a taste and one reported use, so it is history and not a practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter states that a decoction of the shrub, taken as a drink, "is thought to cause more milk [breastfeeding]". That is the only body claim, and it concerns lactation, the production of milk. The leaves are said to be "harsh to the taste", a taste and not an organ. The chapter names no other organ, tissue or system. It gives no humoral, doshic or qi term and no power or quality. Its size ("a little shrub twenty centimetres long") and its leaves "similar to lentils" are descriptions and not actions. The sentence reports an opinion, not Dioscorides' assertion. The neighbouring chapter 4-141 (Glaux) makes a similar milk claim for a separate plant, and the Codex does not read the two as one. The plant itself is not securely identified, since the row's name and the translators' suggestion differ.
+
 ### Contraindications
 
 The chapter prints no warning. A plant decoction taken during breastfeeding may pass to the infant, and the plant is not securely identified, so none should be taken on the strength of this entry. Problems with milk supply need assessment by a midwife or physician. [USER: verify]

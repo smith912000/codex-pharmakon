@@ -40,6 +40,10 @@ General, well-established facts only. Asbestos minerals are fibrous silicates th
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. Amianthus is a craft curiosity in a list of stones, with no use, no dose and a fibre that is hazardous to breathe. The Codex does not recommend handling, wearing, burning or ingesting it. Nothing in the text supports a cultivation use. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter names no body system, organ, tissue or humour, and no site of action. It states only what the stone is and how it behaves: found in Cyprus, like cut alum, woven into webs of cloth made for show, and brighter, not burnt, after the fire. The translator's heading, Amianthus, Asbestos, fibrous green Chrysolite, is an identification and gives no body target. The text's own asbestos is a different substance, quicklime (5-133), whose action the entry does not name. The stone is given no temperament, taste or potency, and the warming and astringent qualities printed for the moist alum of 5-123 are not carried over to it. Among the metallic stones it is a craft curiosity. The only contact with a person the text records is the cloth made from it and the fire test, so the entry can map nothing to the body beyond that.
+
 ### Contraindications
 
 - **Inhalation:** asbestos fibres cause asbestosis, lung cancer and mesothelioma; never handle, cut, grind or burn asbestos-containing material, and if it is found in old buildings or products leave it to a licensed professional.

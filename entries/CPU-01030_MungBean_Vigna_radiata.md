@@ -75,6 +75,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, mung bean maps to the systems the tradition calls heat. TCM's qing re jie du, clearing heat and relieving toxicity, and Ayurveda's cooling, light action are read as antioxidant and anti-inflammatory activity. The modern correlate named is the hull flavonoids vitexin and isovitexin, which the entry says drive antioxidant, protease-inhibitory and aldose-reductase-inhibitory effects in vitro. The digestive system is the second map: the bean is described as light, with a lower flatulence-oligosaccharide load and high-quality protein, which suits the depleted, convalescent and elderly. Ayurveda says it reduces kapha and pitta. An antiviral effect against influenza A is reported in vitro under the same relieves-toxicity heading. The entry states the antidote claim is not clinically validated, the evidence is largely preclinical, and the potency sits in the green seed coat rather than the cotyledon.
+
 ### Contraindications
 
 - **Sprout safety — Salmonella / E. coli risk.** Raw mung-bean sprouts are a well-documented vehicle for *Salmonella* and enterohaemorrhagic *E. coli* outbreaks: the warm, humid sprouting environment favours pathogen growth. Immunocompromised people, pregnant women, young children and the elderly should **cook sprouts thoroughly** rather than eat them raw.

@@ -38,6 +38,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The only gener
 
 **Practitioner's note.** Nothing here supports a cultivation use. The animal is not securely identified in the Tibetan sources, the claims are therapeutic and the practical risks are infection and, for collectors, snakebite. The honest entry is a record.
 
+### Functional–Anatomical Correlate
+
+The Tibetan Explanatory Tantra credits snake products with several actions. Snake meat is said to remove growths and dispel urinary retention, and to be beneficial in eye disorders. Snake fat expels foreign bodies such as bullets and shrapnel. Snake skin cures leucoderma and glang.shu, a skin disease. Clark's bracketed commentary adds lung disease and bone warts for the meat, and those are interpolations, not the root text. No temperature or humoral quality is given for these products as medicines, and the dietary groups place the snake among burrowing animals. In modern anatomical terms the sites are the urinary tract, the eyes, the subcutaneous fat, and the skin. The species is not settled: Clark names Elaphe dione for the meat and the glossary names Zaocys dhumnades, so no one species can be assigned to these sites.
+
 ### Contraindications
 
 - **Hygiene and infection:** snakes carry *Salmonella*, and raw or undercooked snake flesh is a recognised route for parasitic infection, including the tapeworm larvae that cause sparganosis. Handling a wild snake risks a bite, from a venomous or a non-venomous species.

@@ -69,6 +69,10 @@ Together these give a mechanistic (anti-inflammatory, antioxidant, neuroprotecti
 
 **Practitioner's note.** Nothing to cultivate with this bark or root on the sources checked. Its use is as one part of the Dashamula decoction for a defined disorder, not as a long-term vitality drug.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Pāṭalā acts across the body's depleted, wind-disordered states rather than on one organ. Within the Daśamūla, its root supports convalescence and the post-partum recovery arc. Individually, the root and bark are listed for fever (jvara), burning sensation (dāha), inflammation (śotha) and asthma or cough (śvāsa-kāsa), and the entry names raktapitta (bleeding disorders), hikkā (hiccough) and digestive kindling (dīpana). The fragrant flowers are described as cardiac-soothing (hṛdya) and cooling, and are used for thirst and eye complaints. The primary doṣa action is lowering vāta, with kapha and pitta also reduced, and the entry classes it as tridoṣa-śāmaka leaning vāta-kapha-hara. The modern mapping is the entry's own: rodent anti-inflammatory and neuroprotective (6-OHDA Parkinson model) data, plus the antioxidant lignan cycloolivil from roots. Evidence is graded LOW with no human trials, and the entry notes the Daśamūla has not been separated into single components in trials. Pregnancy and lactation call for supervision, and lapachol-type quinones warrant caution in high single-drug doses.
+
 ### Contraindications
 
 Generally well-tolerated and mild (its Daśamūla membership reflects a broad safety profile), but: pregnancy and lactation — use only within recognised classical formulae under supervision. Naphthoquinone (lapachol-type) content warrants caution in high/prolonged single-drug doses and possibly in pregnancy and with anticoagulants (quinone chemistry) — `[USER: verify]`. Not primarily indicated for high-Pitta acute inflammatory heat as a solo heating drug; its balance is best expressed in compound. As with all Daśamūla work, match to a genuinely depleted/vāta-disordered picture, not to robust excess states.

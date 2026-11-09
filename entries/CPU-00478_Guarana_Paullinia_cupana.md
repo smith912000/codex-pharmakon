@@ -70,6 +70,10 @@ In Amazonian practice guaraná is a **warming, quickening tonic** — the medici
 
 **Practitioner's note.** A stimulant drink in the Sateré-Mawé and wider Amazonian setting, taken for sustained effort. No regimen of abstention or ritual is documented in the material read, so none is prescribed.
 
+### Functional–Anatomical Correlate
+
+Guaraná acts mainly on the central nervous system. The entry attributes its stimulant action to caffeine, which it describes as an adenosine-receptor antagonist in the brain, raising alertness and reducing the sensation of fatigue. The cognitive gain it claims is confined to attention and concentration, not memory or executive function. In the Amazonian framing it is a 'warming, quickening tonic' that drives away hunger, fatigue and sleep, so its territory is wakefulness, appetite and endurance. The entry maps this onto the Codex grid as hot, stimulating and drying, and marks that reading as inferred, since the Sateré-Mawé used no Galenic humoral categories. The one non-neural organ it names is the heart: heavy use of caffeinated energy products is linked to arrhythmia and cardiac arrest. A small trial in breast-cancer patients is cited for fatigue relief, which the entry calls preliminary.
+
 ### Contraindications
 
 Guaraná's risk profile is the risk profile of **caffeine, concentrated and easily hidden**. Real safety flags:

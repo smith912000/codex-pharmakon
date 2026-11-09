@@ -81,6 +81,10 @@ Based on articles retrieved from PubMed, the *cardiac* and *antioxidant* half of
 
 ---
 
+### Functional–Anatomical Correlate
+
+Ziziphora acts, per the entry, on the stomach, heart, chest and gut. Unani terms classify it as hot and dry, a stomach-strengthener (muqawwi-ye me'de) and heart-strengthener (muqawwi-ye qalb), a carminative for flatulent colic and indigestion, and an expectorant for cough. The Tibetan frame treats cold-phlegm and wind of the chest and stomach. In anatomical terms, the essential oil's pulegone, menthone, 1,8-cineole and menthol are described as smooth-muscle spasmolytics on the gut, and menthol and cineole as counter-irritant, mildly bronchodilating agents for the airways. The flavonoid fraction is reported in animal and cell studies to protect cardiomyocytes against ischaemia-reperfusion injury, preserve mitochondrial membrane potential, and lower serum lipids and atherosclerotic change in arteries. The liver is the main organ of concern: pulegone is activated by hepatic cytochrome P450 to menthofuran, causing centrilobular necrosis, so the entry allows only dilute infusions and advises against the concentrated oil internally.
+
 ### Contraindications
 
 - **Pulegone hepatotoxicity — the central safety concern.** *Ziziphora*'s essential oil is pulegone-rich, and pulegone is the toxic principle of pennyroyal. Pulegone is bioactivated by hepatic cytochrome P450 to the reactive metabolite **menthofuran** and further electrophiles that deplete glutathione and bind liver proteins, causing centrilobular hepatic necrosis; the mechanism has been characterised over decades (Gordon & Khojasteh, 2014, [DOI](https://doi.org/10.3109/03602532.2014.990032)). Human pennyroyal poisonings document severe, sometimes fatal hepatotoxicity, with measurable pulegone/menthofuran in serum (Anderson et al., 1996; moderate-to-severe toxicity from ≥10 mL of pennyroyal oil, [DOI](https://doi.org/10.7326/0003-4819-124-8-199604150-00004)). **Do not ingest concentrated *Ziziphora* essential oil.** Favour dilute water infusions and short courses; avoid in hepatic impairment.

@@ -48,6 +48,10 @@ The Shennong text proper gives no preparation in the surviving lines. The Mingyi
 
 **Practitioner's note.** A middle-grade cough drug, in the text's own frame. Nothing in the entry supports a long-term practice, and the surviving Chinese text is cut, so the Codex does not read more into it than Yang's translation gives. If anything is done, it is to read the entry for its indications and leave the root where it grows.
 
+### Functional–Anatomical Correlate
+
+The entry maps the drug mainly to the chest and the lungs, through the cough and counterflow qi that the Shennong text names. The surviving Sun text gives only cough with counterflow and rising qi, in a line cut off mid-paragraph. Yang's 1998 completion adds cold and heat bound in the chest, gu toxins, crippling wilt, and quieting of the five viscera. These latter claims rest on Yang alone, and the entry does not treat them as confirmed. The five viscera are the tradition's term for the organ systems, and the drug is said to quiet them without naming which. The Mingyi layer gives the root as the part used. The Shennong text prints bitter and warm and no other quality or channel. Yang's commentary calls it a remedy for vacuity heat and vacuity taxation, a later commentary. The entry's safety note is that cough with counterflow can signal serious illness and needs medical assessment; no pregnancy information is read.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Cough with counterflow can be a sign of serious illness and needs medical assessment. Roots sold as 紫菀 may be other asters or related plants; the Tang note's confusion of purple and white asters (above) is an example. No safety information for pregnancy was read. [USER: verify]

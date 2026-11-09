@@ -120,6 +120,10 @@ Equal parts black pepper + long pepper (*Pippali*) + dried ginger (*Shunthi*); 5
 
 ---
 
+### Functional–Anatomical Correlate
+
+Black pepper's entry maps mainly onto the digestive tract. It is described as kindling the Middle Burner and Agni: piperine stimulates gastric acid, pancreatic enzyme release and brush-border enzymes, and in TCM it enters the Stomach and Large Intestine channels to disperse Cold, stop Cold-type vomiting and ease Cold abdominal pain. Its Ayurvedic actions are deepana, pachana and anulomana (downward movement of Vata), and it is a yogavahi, a vehicle that potentiates co-administered substances. Through piperine it acts on the CYP3A4 and P-glycoprotein drug-handling system in gut and liver, which the entry treats as the basis of its absorption enhancement. Piperine's thermogenic action runs through TRPV1 and sympathetic activation, and its MAO-B and monoamine effects are cited for mood, with BDNF and memory in rodent data. Dioscorides gives a warming, diuretic and digestive profile. The Canon places it hot in the fourth degree. The cautions concern the stomach lining (peptic ulcer, reflux) and the Pitta constitution.
+
 ### Contraindications
 
 - **Pitta-excess constitution** — the hottest of the aromatic spices; aggravates Pitta (acid reflux, hyperacidity, gastritis, redness, inflammation); Pitta-dominant types use moderately with cooling foods

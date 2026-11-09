@@ -39,6 +39,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The row mentio
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. The honest answer is to do nothing with it on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names no body system, organ or tissue. Its only locus is a list row citing an anti-inflammatory study of Uncaria guianensis that was not read, so no tissue action is recorded. The row gives no traditional use, people, preparation, dose or energetic quality, and the entry marks the energetic field as none and the South American cultivation status as absent. Active-component content was not read, though the entry notes that Uncaria plants generally contain indole and oxindole alkaloids. No clinical studies were retrieved and the Codex makes no clinical claim for the plant. No safety data were read. The entry says it must not be treated as interchangeable with Uncaria tomentosa (CPU-00479), advises against use in pregnancy, and advises seeking a qualified practitioner for any inflammatory or joint complaint.
+
 ### Contraindications
 
 No safety data were read. Do not use in pregnancy. The species is not the same as *U. tomentosa*, and nothing read says that the two are interchangeable. Seek a qualified practitioner for any inflammatory or joint complaint.

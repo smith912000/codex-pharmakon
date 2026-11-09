@@ -72,6 +72,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Alkanet's named target is the skin surface and the superficial wound bed. The Dioscoridean, Unani and Egyptian sources the entry cites apply the root externally to burns, ulcers, erysipelas, skin eruptions, cracked and inflamed lesions and pressure sores. In Galenic-Unani terms it is warm, dry, resolving, astringent and cleansing, acting on corrupt matter in the skin while closing the tissue. In modern anatomical terms the entry places its action in the dermis, epidermis and wound bed through the wound-healing, anti-inflammatory and antimicrobial activity of its naphthoquinone pigments, alkannin and shikonin, which the entry says are the colour and the active principle at once. Internally, the concern is the liver: pyrrolizidine alkaloids can cause hepatotoxicity and hepatic veno-occlusive disease, so internal use is excluded. Pregnancy and lactation are to be avoided, because these alkaloids cross the placenta and into milk. Large or prolonged topical use on broken skin also carries a caution, and contact sensitisation is possible.
+
 ### Contraindications
 
 - **Pyrrolizidine-alkaloid hepatotoxicity — critical.** As a member of the Boraginaceae, *Alkanna tinctoria* can contain hepatotoxic (and potentially genotoxic/carcinogenic) pyrrolizidine alkaloids. **Do not take internally.** Chronic or repeated internal exposure to PA-containing Boraginaceae is associated with hepatic veno-occlusive disease (sinusoidal obstruction syndrome) and liver injury.

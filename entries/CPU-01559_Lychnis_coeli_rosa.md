@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity i
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a flower description with one remedy and a list of names, so the honest answer is that there is nothing here to take up.
 
+### Functional–Anatomical Correlate
+
+Little to map: The chapter describes the flower only, as like a white violet but almost purple and interwoven into little crowns. It gives one use: the seed, taken in a drink with wine, helps those bitten by scorpions. The only body site named is the scorpion bite, with no organ or system beyond it. The chapter prints no humoral, qi or doshic term, no temperament, taste or quality, and it names no part of the body that the seed acts on. The Magi name, the blood of a menstrual woman, is recorded as a name and not as a doctrine, and it carries no body action. The text gives no amount of seed or wine and no description of the leaf, stem or root. The identity is only the translators' suggestion between two species. The Codex states nothing here beyond the text's own report.
+
 ### Contraindications
 
 Chapter 3-114 prints no warning. Scorpion stings need medical care and must not be left to a wine drink of seed. The identification is only the translators' suggestion between two species, and the chapter gives no amount, so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

@@ -56,6 +56,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+Little to map: the claimed sites are the urinary tract. The chapter says that a portion of the stone, dissolved and taken in three cupfuls of warm water, 'can help painful urination, and break stones in the bladder'. Mapped to anatomy, that is the urinary passage, where painful urination arises, and the urinary bladder, where the stones are said to form and break. No other organ, tissue or system is named. The sensory note that the dissolved stone 'yields no taste' is a property of the preparation and maps to no site. No warming, cooling, drying or moistening quality is printed, and no humour, dosha, qi or subtle-body term is given. The Greek (DMM) frame is therapeutic and carries no cultivation status. The kidneys are not named in the chapter, and no kidney or other organ is attributed to the stone.
+
 ### Contraindications
 
 - **Unidentified material:** the identification is uncertain; an unknown stone should not be ground and swallowed.

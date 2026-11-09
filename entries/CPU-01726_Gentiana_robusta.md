@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a bitter drug for *tripa* and vessel-organ disorders in the Tibetan texts, with no preparation and no dose, and its species is open between two. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts place this drug in the bitter-taste group. The Men-Tsee-Khang text names its actions as curing hot disorders of the vessel organs and tripa, and in a paired group as curing tripa disorders. Clark's entry for the same Tibetan name, under a different species, says the taste is bitter with coarse power and that the drug cures vessel organ fever and bile fever. The body systems in play are therefore the vessel organs, which the entry does not define, and the bile and tripa, which are Tibetan humoral terms the entry leaves untranslated. The entry gives no tissue, organ-level mechanism or constituent. Because the binomial rests on a glossary column position, and Clark names Gentiana straminea for the same Tibetan name, the organ mapping is attached to a name whose species is open. The sources give no part used, preparation, dose or route, and the Tibetan terms are not modern diagnoses. No modern finding is attached to this entry.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The species is open, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Gentians are a large genus and some alpine species are protected in places; no conservation information was read. No safety information for pregnancy was read. [USER: verify]

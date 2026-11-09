@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is the recognition check from habitat, build, stem and leaf, and the habit of marking a belief as a belief ("It is thought"). The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The chapter maps the reproductive organs most closely. A decoction of herb and seed, used as a hip bath, is for disorders and inflammation around the womb, and a teaspoonful in wine is said to bring down milk and expel the menstrual flow, while the plant is also said to destroy generation. Other sites named are the testes (the translators' bracket says ovaries), whose hardness is treated with a pack, and the perineum, whose cracks are treated with seed. The head is treated by a poultice for headache and by rubbing, which brings deep sleep. The fruit in a drink is for snake stings, the spleen and dropsy, and the seed causes purgation. Vinegar and oil poured on the lethargic and the mentally ill is the one mental use, which the text places on no organ. Joints and wounds are treated locally, and the warm, astringent quality is the only energetic term.
+
 ### Contraindications
 
 Chapter 1-135 prints no warning, though it says that the plant brings down milk, expels the menstrual flow and "destroys generation", so pregnancy, breastfeeding, fertility and hormonal medicines are clear concerns that the text does not otherwise address. The identification is only the translators' suggestion, so no plant should be gathered or used on the strength of this entry. The uses for snakebite, dropsy, mental illness and lethargy are not treatments the Codex endorses. The text gives one quantity and no safety information for children or for any medicine taken at the same time. [USER: verify]

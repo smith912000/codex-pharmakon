@@ -56,6 +56,10 @@ No clinical studies were retrieved for this entry. [USER: verify] General facts 
 
 ---
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter names no body site, system or action for antispodia. Its only claim is that the ashes may serve instead of spodium, the calcined powder described in 5-85, so any organ mapping would have to come from that other chapter, which this entry does not carry over. The chapter gives a method and a list of starting materials: myrtle leaves and berries, olive branches, quinces, oak galls, linen rags, mulberries, lentisk, terminthos, bramble, box filaments, false cypress, fig branches, bulls' glue and wool moistened with pitch or honey. It says the ashes may serve instead of spodium, but prints no ranking among them and no mode of taking. Pompholyx, a separate chapter, is described as astringent, cooling and drying, but that is said of pompholyx and is not transferred to antispodium or spodium here. Nothing else is claimed.
+
 ### Contraindications
 
 - **Toxicity of the material replaced:** spodium as Dioscorides describes it is a residue from metal working, with lead and copper variants; the substance it is a substitute for is not suitable for internal use.

@@ -60,6 +60,10 @@ Gold metal is biologically inert and is not absorbed from the gut. Soluble gold 
 
 **Practitioner's note.** Gold is the one metal on which two traditions agree in their own terms: Sushruta puts it in a *rasayana* chapter and Tibetan medicine says it promotes longevity and rejuvenates. Both set it inside a supervised course, with mantra and homa in the Sanskrit text and with oil therapy, cleansing, a quiet place and abstinence in the Tibetan text. A cultivator can honestly take from the sources the discipline, not the metal: nothing sourced supports swallowing gold for cultivation. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Gold's claimed sites are the eyes, the mind and memory, the growth of a child, and the body as a whole. Sushruta ch.46 gives gold a sweet taste, a tonic and restorative action, an effect that imparts rotundity to the body, a subduing of all three humours, a cooling and antitoxic potency, and an invigorating effect on the eyesight. Gold appears in rasayana recipes in Chikitsa ch.28, said to improve memory, intellectual powers, physical growth and the duration of life, and to give vitality to a dying man. At the natal rites, gold dust is licked for a child's growth, memory, strength and intellect. The Tibetan Explanatory Tantra says gold promotes longevity, strengthens the aged, is rejuvenating, and acts as an antidote against precious-metal poisoning. In modern anatomy terms the mapped sites are the eyes, the brain and memory, the growing body, and the whole body as the target of rejuvenation.
+
 ### Contraindications
 
 Gold leaf and gold dust are inert, but "bhasma", "calcinated" and "ash" preparations of gold in the traditional compounds are not standardised and can contain other toxic metals (the Tibetan compound combines it with copper and iron ash and the Sanskrit method is not given in the lines read). Soluble gold salts are toxic. Purchase and use of metal ash preparations are regulated in many places. Mantra, homa and natal-rite uses are ritual, not therapy.

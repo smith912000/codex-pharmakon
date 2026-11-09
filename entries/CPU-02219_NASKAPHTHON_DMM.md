@@ -47,6 +47,10 @@ General, well-established facts only. Smoke and fumes from burning plant materia
 
 **Practitioner's note.** An unidentified Indian bark used as a perfume and in fumigation. Nothing in the record supports a cultivation use, and without an identification nothing can be gathered or used.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives two uses and no more. The bark is said to be used as a perfume for its sweet smell and as an ingredient in artificial perfumes, which concern the sense of smell and no internal organ. The one physiological use the chapter states is inhaling its fumes or smoke for constriction of the vulva, which places the named action on the external female genitalia, with the smoke reaching the airways on the way in. The chapter does not say what the constriction is for. Dioscorides prints no hot, cold, dry or moist grade, no taste and no potency for this bark, and no humoral or subtle-body correlate is attached to it in the text. The material is unidentified, so no tissue can be attached to it beyond the vulva as the chapter names it.
+
 ### Contraindications
 
 - **Identity.** The material is unidentified. Do not burn any bark in its place.

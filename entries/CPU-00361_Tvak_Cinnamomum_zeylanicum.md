@@ -75,6 +75,10 @@ According to PubMed:
 
 **Practitioner's note.** Nothing for cultivation beyond Dioscorides' habit of careful sourcing and assay of the bark. Neither text assigns it a vital or rejuvenative role.
 
+### Functional–Anatomical Correlate
+
+Tvak's entry targets the digestive fire and the circulatory and respiratory channels. Its dīpana-pācana actions kindle the digestive fire (agni) and complete digestion, aimed at poor appetite, sluggish digestion and bloating in the gut. Its hṛdya (cardiotonic) action is read as a circulatory warming, and channel-opening is described as warming a cold, damp, stagnant system. Its kaphaghna (expectorant, anti-Kapha) and cold-damp respiratory actions reach the cough, cold and congested breath of the chest. Its vāta-anulomana action regulates Vāta's downward flow. Its carrier action is said to potentiate co-administered drugs, a catalytic role rather than an organ target. Modern work in the entry concerns glycaemic modulation, with human RCTs showing fasting glucose and HbA1c reductions that are inconsistent across trials, so the metabolic link is a possible adjunct. The entry warns that its heat aggravates Pitta in hyperacidity, ulcers and bleeding states.
+
 ### Contraindications
 
 - **Warming — aggravates Pitta.** Avoid or reduce in heat conditions, hyperacidity, ulcers, bleeding tendencies, and Pitta-dominant states.

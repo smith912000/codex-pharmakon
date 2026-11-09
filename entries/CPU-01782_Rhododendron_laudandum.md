@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a baekan drug in a group list and a powder in one treatment sentence, with no part used and no dose, and its Latin name rests on column position. A later commentary's note on essence extraction belongs to a trained physician of the tradition and not to a reader of this entry. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry's own sources state only a few things for this drug. In the Men-Tsee-Khang text, Dali is in the group that cures cold disorders associated with baekan, a Tibetan term kept untranslated, and is given in powder for baekan treatment. Clark's line for da.li, the flower of a white type of ba.lu, says it cures phlegm disorders and hot and cold reactive conditions; the bracketed commentary adds lung diseases, first-stage oedema and hoarseness caused by any of the three humors. The Latin name rests on column position, so these actions attach to a binomial only by position. No organ or tissue is named in the root-text lines, and no part, taste or power is given for this drug. Historical record only; no dose or protocol is given.
+
 ### Contraindications
 
 The sources read print no warning for this drug. It is a general fact that *Rhododendron* leaves and flowers of several species are poisonous and that honey from their nectar has caused poisoning; this is not shown for this species in the lines read. The identity is open, the method of making the powder is not given, and no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

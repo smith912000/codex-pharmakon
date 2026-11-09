@@ -49,6 +49,10 @@ General, well-established facts only. *Dillenia indica* is a tree of tropical As
 
 **Practitioner's note.** A sour, cooling fruit named in two taste lists, with no disease indication and no dose. A cultivator has nothing in the sources to act on. If the fruit is eaten, it is eaten as a fruit.
 
+### Functional–Anatomical Correlate
+
+Per the Sushruta Samhita, Bhavya is named in the acid group (Sutrasthana ch.42) and in the fruit group (ch.46). Its qualities are that it is pleasant, tasteful, astringent and acid, that it cleanses the mouth, subdues Pittam and Kapham, and is astringent, heavy and cooling, and that it is long retained in the stomach. Mapped to modern anatomy, the text touches the mouth (oral cavity), the stomach where the fruit is said to remain, and the digestive tract as a whole. Pittam and Kapham are the classic's own humoral terms and are not translated into diagnoses. The phrase 'long retained in the stomach' is a statement of quality, not an indication for disease. No part of the plant beyond the fruit is named, and no disease indication, preparation or dose is given. The entry prints no further organ action.
+
 ### Contraindications
 
 - **No contraindication is stated in the passages read.** The text says the fruit is heavy and long retained in the stomach, which is a statement of quality and not a warning. [USER: verify]

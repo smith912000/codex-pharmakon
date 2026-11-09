@@ -69,6 +69,10 @@ According to PubMed: a 2024 review of medlar phytochemistry and nutrition (Nisto
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps medlar chiefly onto the stomach and bowel as an astringent, binding agent. In the Unani frame it is a cold, dry qabid drug that holds a loose stomach and flux together, indicated for diarrhoea, dysenteric flux and a slippery stomach that fails to retain. Dioscorides places it as good for the stomach and for binding the belly. The entry reads the tannin fraction as precipitating proteins at the mucosal surface, which reduces secretion and motility. Excessive menstrual or other haemorrhagic loss is listed among its Unani indications. Ripening changes its action: the unripe fruit is the stronger binder, while bletted pulp is a gentle settling food for an irritable stomach. The entry cautions that prolonged tannin intake can impair iron and mineral absorption, and that binding must not mask an infective cause of flux. Traditional energetics: cold and dry in the second degree, strongly astringent.
+
 ### Contraindications
 
 - **Constipation / hard dry stool:** astringents worsen it — inappropriate in a bound, dry-cold bowel.

@@ -60,6 +60,10 @@ According to PubMed, Guedes et al. (2019), *Molecules*, prepared decoctions of *
 
 ---
 
+### Functional–Anatomical Correlate
+
+Lesser centaury is placed as a foundation bitter acting on the stomach, liver and digestive secretion. Avicenna classes it hot in the first degree and dry in the second, a deobstruent used to open obstructions of the liver and spleen, stimulate appetite and digestion, expel worms and reduce fevers. Dioscorides prescribes it for the stomach and liver, as a purge of bilious and thick humours. Its bitterness is the working mechanism: taste receptors trigger saliva, gastric acid and bile flow, which the entry calls the reflex that primes the digestive apparatus. The Ayurvedic analogue (tikta, deepana-pachana) reduces kapha and pitta-associated sluggishness and may aggravate vata. Preclinical data cover gastrointestinal, antioxidant and enzyme-inhibition effects, including acetylcholinesterase and HMG-CoA reductase inhibition in vitro, linked to traditional gut and cholesterol uses. The ulcerated stomach lining, hyperacidity and pregnancy are the states to avoid.
+
 ### Contraindications
 
 Contraindicated in active peptic ulcer, gastritis, or hyperacidity, since bitter-stimulated acid secretion may aggravate them. Avoid in pregnancy (traditional emmenagogue/uterine caution). Gentianaceae or general bitter-tonic hypersensitivity is a contraindication. Do not exceed traditional small bitter-tonic doses; excessive intake can cause nausea. Use under supervision in children and in hepatic or renal impairment. [USER: verify all dosing against a current herbal monograph before practitioner-facing use.]

@@ -56,6 +56,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry's claimed sites are the skin and the sciatic region. Dioscorides says adarce is 'suitable used' for stripping off leprosy, freckles, lichenae and similar things, which maps to the epidermis and dermis, including pigmented spots and scaling disorders. For sciatica, the sciatic nerve and the hip and leg are the sites. He calls it 'sharp, drawing fluids from depths', a quality of action without a named organ for the depth. In Avicenna's Unani frame, adarce is 'very hot' and 'changes a bad cold temperament into a good one'. That is a humoral temperament claim about the body as a whole, not an anatomical site. Its Canon uses are external: against kalaf, facial discolouration (facial skin), soft pustules, and a poultice for sciatica applied under the joints. The Canon gives no internal organ heading and no mention of innate heat or radical moisture. The Greek chapter prints no warming, cooling, moistening or drying quality for the stone itself.
+
 ### Contraindications
 
 - **Irritant:** the text calls it "sharp"; concentrated salts burn broken skin and the eyes.

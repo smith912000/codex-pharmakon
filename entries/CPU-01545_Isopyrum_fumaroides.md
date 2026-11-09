@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity i
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is the taste test, which asks the reader to know melanthium and anise first. Tasting an unknown wild plant is not advised, however, and the text offers nothing more. The abstentive answer is the right one.
 
+### Functional–Anatomical Correlate
+
+The chapter's only organ-directed use is a seed decoction in honey and water, taken as a drink, for disorders of the chest and for coughs. The chest and airways are the organs named. The same drink is said to be good for bloodspitters, so bleeding from the lungs and airways is the stated target, and it is also said to help liver disorders, which places an action in the liver. The chapter gives no humour, no hot, cold, moist or dry quality and no physiology. Its only qualities are taste comparisons: the seed is like melanthium according to the taste, and the leaf tastes like anise. The chapter gives no quantity, frequency or duration, and it does not explain any mechanism. The modern terms for the mapped systems are the respiratory tract for chest and cough, pulmonary bleeding for bloodspitting, and the hepatic system for the liver. These are the chapter's claims, and the Codex gives no protocol for any of them.
+
 ### Contraindications
 
 Chapter 4-121 prints no warning. The identification is only the translators' suggestion between two species of a genus in a family that includes irritant and toxic plants, so no plant should be gathered, tasted or used on the strength of this entry. Coughs, spitting of blood and liver disorders need medical care. The text gives no dose, and no safety information for pregnancy was read. [USER: verify]

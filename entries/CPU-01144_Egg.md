@@ -48,6 +48,10 @@ General, well-established facts only. Egg is a protein-rich food, and cooking in
 
 **Practitioner's note.** Nothing here is a practice for a cultivator beyond what a cook already knows: a cooked egg feeds more than a raw one, on Dioscorides' own first sentence. The medical uses are a record and the Codex does not recommend them. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides separates the egg into yolk and white. The yolk (2-54) is named for the eyes (sores, roasted with saffron and rosaceum), for inflammation around the perineum and the joints (with melilot), and for bowel discharges (fried with sumach seed or oak galls). The white (2-55) acts on the skin, eyes and chest. Used raw, it cools and closes the pores of the skin, soothes inflamed eyes, keeps burns from breaking out into pustules, and constipates discharges. Warmed a little, it is good for bladder distress, ulcerated kidneys, rough arteries, and throwing up of blood, mucus and fluids in the chest, which map to the bladder, kidney, vascular and respiratory systems. The Greek chapters print almost no qualities: the white’s cooling and constipating are the only ones, and the yolk prints none. The yolk chapter says a cooked egg nourishes more than a raw one. No cultivation status is attested.
+
 ### Contraindications
 
 - **Raw or undercooked egg:** a risk of *Salmonella*; pregnant women, young children, older people and the immunocompromised should avoid it. The raw-white drink in 2-55 is not recommended.

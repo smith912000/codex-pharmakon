@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing. A cultivator has nothing sourced to do with this entry: the record is a list row and the binomial is in conflict between sources. This is a historical record only and not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names mizquitl, glossed mesquite, as attested in the Badianus manuscript of 1552 by list row only, with no folio or chapter. Three scientific names appear across the rows (Mimosa circinalis, Prosopis juliflora and the spine's Prosopis laevigata), and no source read settles between them. The row names no part of the plant used, no preparation, use or complaint, so no organ, tissue or body system is named as acted on. The Active Components section gives only a general statement that mesquite pods are generally known to be sugary and used as food where the tree grows; the composition of this plant was not read. No hot, cold or humoral classification is read, the hot and cold categories are left unresolved, and the cultivation register is recorded as absent. No clinical study was retrieved. The entry's only general caution is that a plant whose use is unrecorded should not be taken internally.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, a plant whose use is unrecorded here should not be taken internally, and mesquite thorns can cause injury and infection. Pregnancy and breastfeeding are not covered by any source read. This is general caution and is not found in the row. [USER: verify]

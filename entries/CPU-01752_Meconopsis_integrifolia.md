@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a bone drug by reference to the blue poppy in the Tibetan texts, with no preparation and no dose, and the species is Clark's identification alone. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry's own Tibetan text gives this drug no action of its own. Clark 1995 says it 'has the same uses' as the blue poppy, and Men-Tsee-Khang 2011 says it 'has the same efficacy' as tsher ngon, the blue poppy. The action it borrows is the blue poppy's, which the rGyud-bzhi gives in Clark's wording as healing skull fractures and sustaining bone resin, and in Men-Tsee-Khang's as healing fractured bone and protecting spongy bone. The tissue these claims point to is bone, under the Tibetan terms bone resin and spongy bone. The entry does not treat skull fracture and fractured bone as one term, and does not set either beside a modern anatomical structure. Clark's bracketed commentary adds only a bitter taste for the plant. No organ, channel, humour or power is attributed to the drug itself, and the species is uncertain, so no part of the plant is matched to the claim.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Fractures and bone injury need medical assessment; no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Because the identity is uncertain, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

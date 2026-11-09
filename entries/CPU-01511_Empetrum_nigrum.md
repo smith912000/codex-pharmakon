@@ -43,6 +43,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a purge, labelled poisonous in the translation, with no dose. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the one use the chapter names is a purge of phlegm, bile and watery matter, given in broth or honey water. No organ, system or tissue is named, so the purge is not tied to any body part. The chapter's tastes are the only other physical claim: salty, and more bitter in the part nearer the earth. It prints no hot, cold, moist or dry quality and no temperament, dosha or qi. The translation labels the plant poisonous, but the chapter's own text states no danger, and whether the label is Dioscorides' or the translators' is not stated. The habitat, hilly maritime places, is botanical. A Tibetan record names Empetrum niger within a different drug, with claims about the lower intestine and lymph, but the entry says those claims belong to that drug and are not carried over, so they are not mapped here. No modern pharmacology was read.
+
 ### Contraindications
 
 The translation labels the plant "POISONOUS" and the text describes it as a purge of phlegm, bile and watery matter, which is a strong effect. The identification is only the translators' suggestion, so nothing should be gathered or taken on the strength of this entry. No safety information for pregnancy was read. None of the traditional uses above is advice. [USER: verify]

@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** The Tibetan texts give a cultivator nothing to do with this drug beyond what a physician would use it for: brown and yellow phlegm and the stomach. If "Date" is the true gloss it is an ordinary fruit, and if the bindweed-like Latin name is true the texts say nothing more. Nothing here supports a practice built on the word "aphrodisiac" in a bracketed commentary.
 
+### Functional–Anatomical Correlate
+
+The root-layer sentence places hbra.go on the phlegm and the stomach: it cures brown and yellow phlegm and stomach disorders. Men-Tsee-Khang gives the stomach claim alone, as baekan mukpo, baekan serpo and stomach disorders, with baekan kept in Tibetan. Clark's bracketed commentary adds wind fever, blood fever and insanity caused by spirits, and calls the drug an aphrodisiac. In the entry's terms the sites are the stomach, the blood and the mind, with phlegm, wind and blood as the disorders named. Modern anatomy would place the stomach in the upper digestive tract and the mental claim in the brain, but the texts give no mechanism. The commentary's sweet taste is recorded, with no potency or post-digestive taste. The identity is open between a fruit and a knotweed, so the sites belong to the Tibetan drug, and the aphrodisiac word is a bracketed claim, not a rejuvenative or essence-extraction status.
+
 ### Contraindications
 
 The sources read print no warning for the drug. The identity is uncertain between a fruit and an herb, so no plant should be gathered or taken on the strength of this entry. No conservation information and no safety information for pregnancy was read. [USER: verify]

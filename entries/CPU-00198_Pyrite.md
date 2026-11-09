@@ -34,6 +34,10 @@ Pyrite is a common sulphide mineral and is not a recognised medicine in current 
 
 **Practitioner's note.** Nothing here for a cultivator. A "square stone" for the eyes and for rabies poisoning, whose identity as pyrite, galena or analcite the translator leaves open. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Clark's Explanatory Tantra ch.20 gives the stone gru.bzhi, glossed as a pyrite, in two colour types with different uses. The white or yellow type is said to benefit the eyes, so the eyes are the claimed site. The black or brown type is said to be beneficial against rabies poisoning, a claimed action against a poison with no organ named. The general power is given as healing brain disorders, which maps to the brain and nervous system in modern terms, and as draining lymph accumulations, which maps to the lymphatic system. The text prints no humoral, temperament or doshic classification, and no taste, potency or post-digestive taste. The entry also notes that the identity is not settled, since the gloss could name galena or analcite, so these sites belong to the stone as the text describes it and cannot be transferred to pyrite itself.
+
 ### Contraindications
 
 Ground mineral sulphides can contain arsenic, lead and other metals and are not safe to swallow; if the stone was galena it is a lead compound. Powdered mineral medicines are unstandardised, and sale of them is regulated in many places. Because the gloss lists three minerals, the Tibetan stone cannot be treated as pyrite. Rabies is a fatal viral disease that needs immediate medical treatment, and the text's "rabies poisoning" use is recorded as history only.

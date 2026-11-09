@@ -55,6 +55,10 @@ According to PubMed, direct pharmacological work on *Prunus cerasoides* exists b
 
 **Practitioner's note.** Nothing to cultivate: in the classic it is a cooling ingredient for wounds, fever and thirst. The rejuvenating wording belongs to a group of nineteen drugs, not to Padmaka.
 
+### Functional–Anatomical Correlate
+
+The entry maps Padmaka chiefly onto the blood and skin. Its raktaprasādana (blood-cooling and purifying) action works on raktavaha srotas, the blood channel, and rasavaha, plasma, and it is classically indicated in rakta-pitta bleeding. Its varṇya (complexion-promoting) and kuṣṭhaghna (skin-disorder) actions link the blood to the skin, so the surface is read as a sign of the blood's state. Dāhapraśamana relieves burning, and tṛṣṇānigrahaṇa relieves thirst, both placed in the heated system. Stambhana (astringent, haemostatic) and chardighna (anti-emetic) actions cover bleeding and vomiting (chardi). The Himalayan folk use adds backache and joint disorders, which the entry records as musculoskeletal rather than as a blood or skin action. Doṣa action is Pittahara and Kaphahara, with possible Vāta aggravation if used dry and in excess. Modern evidence is low: one animal comparative study and a review, with no human trials, and the prostate finding in that animal study sits outside the traditional mapping.
+
 ### Contraindications
 
 Cooling and drying — use cautiously in Vāta-cold and dry constitutions and in weak digestion (mandāgni) when used alone. As a Rosaceous bark it may contain cyanogenic glycosides; only properly processed heartwood/bark should be used and never in unregulated quantity. Pregnancy/lactation and paediatric use: `[USER: verify with practitioner]`. Not a treatment for diagnosed bleeding disorders, febrile illness or dermatological disease without medical oversight.

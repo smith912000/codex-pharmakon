@@ -78,6 +78,10 @@ The clinical signal is strongest for **local mucosal/epithelial application** (v
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, sea buckthorn acts on the epithelial and mucosal barriers of the skin, eye, lung and gut, which the Tibetan rGyud-bzhi, Chinese, Ayurvedic and Unani traditions all describe as tissue-nourishing and restorative. Tibetan use targets bad-kan (phlegm) and blood disorders, cough and lung complaints, and the Chinese sha ji is described as resolving phlegm, invigorating blood and strengthening spleen and stomach digestion. The modern correlates named are palmitoleic (omega-7) acid as a component of skin and mucous-membrane lipids, carotenoids, vitamin C and tocopherols as antioxidants, and flavonoids for vascular activity. Clinical data cited cover local mucosal use: a placebo-controlled trial of a vaginal gel for vulvovaginal atrophy, a randomised trial of an eyelid spray for dry eye, and a rat endometriosis model showing regression of implants with lowered inflammatory markers. The entry says oral cardiometabolic benefit is not demonstrated and that the strongest trials used multi-ingredient products. Caution is advised with anticoagulants.
+
 ### Contraindications
 
 - **Generally well tolerated** as a food-grade berry and oil; no major toxicity established.

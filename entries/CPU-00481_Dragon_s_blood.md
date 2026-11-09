@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The row cites 
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. The honest answer is to do nothing with it on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names no body system, organ or tissue. Its only locus is a list row with the phrase 'traditional Peruvian Amazon' and two cited references, Herbalgram 2019 and ScienceDirect 2008, neither opened. No people, plant part, preparation, use, constituent, dose or energetic quality is given, and no clinical studies were retrieved. The cultivation status is marked absent, and the entry makes no clinical claim for the plant or protocol for it. Its contraindications section states that no safety data were read for this row, that nothing is known of its safety in pregnancy, in children or alongside medicines, and that ordinary medical advice should be taken before any use. The entry describes this as general caution not found in the row.
+
 ### Contraindications
 
 No safety data were read for this row. Nothing is known here of its safety in pregnancy, in children or alongside medicines. Take ordinary medical advice before any use of a plant product. This is general caution and is not found in the row.

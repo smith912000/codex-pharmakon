@@ -38,6 +38,10 @@ Calcium carbonate is an antacid and a dietary calcium source in general. Gypsum 
 
 **Practitioner's note.** A middle-grade drug in the Chinese scheme: not a "nourish life" drug for long use, but a drug for controlling disease, here a cold stone against fever. The stone's identity is itself in dispute, so nothing here supports taking anything sold under the name. For a cultivator the entry is a record of how the Classic ranked a white stone that cools. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Divine Farmer's Classic (SBJ) places the stone's action in the abdomen, the skin and the whole body. It treats concretion and accumulation of evil qi in the abdomen, which maps to the abdominal cavity and its contents, and burning heat within the skin, a surface site. Generalized fever is a whole-body complaint with no single organ. Vexatious fullness (fan), an oppressive sense of fullness, maps to the chest and upper abdomen. Prolonged taking is said to free one from hunger, which maps to the stomach and appetite. The stone is taken with water, so the swallowed route runs through the gut. The grade is acrid and cold, and the entry names no humoral or doshic term. In modern anatomy the sites are the abdominal cavity and its organs, the skin, the stomach and the chest wall.
+
 ### Contraindications
 
 Because the identity is uncertain, a powder sold under this name may be calcium carbonate, gypsum or another mineral, and any of these may be contaminated. Mineral medicines are unstandardised and their sale is regulated in many places. A cold stone given against fever is not a substitute for medical assessment of fever, which can signal serious infection. [USER: verify] the legal and conservation status of collecting these minerals; the sources retrieved do not address it.

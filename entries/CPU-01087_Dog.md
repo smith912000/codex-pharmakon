@@ -50,6 +50,10 @@ General facts only. Dogs carry *Salmonella*, *Campylobacter*, *Toxocara canis* (
 
 **Practitioner's note.** Nothing to do. In Egypt the dog items are hair and skin remedies made from toes, vulva, dung and blood; in Tibet the tongue, testicle and stool are drugs for wounds, labour and swelling. Neither tradition ties them to vitality, and the modern hazards, rabies chief among them, argue against any use.
 
+### Functional–Anatomical Correlate
+
+Ebers places dog items on the scalp, the skin, the eyelid and the eye. Toes of a dog, with dates and an ass's hoof, were a hair-growth remedy, and a bitch's vulva with roasted hoof and a tapeworm was cooked in oil and gum and rubbed into the scalp. Dog's dung in poultices treats common scurf and hardenings in the limbs, and dog's blood is one of five bloods laid on the eyelid after a lash is plucked. The Tibetan texts name dog parts for wounds (the tongue, which heals all types of wounds), for the afterbirth (the testicle, ecbolic or placenta-delivering) and for swelling (the stool, which reduces swelling in Men-Tsee-Khang and is against spirits in Clark's commentary). Dioscorides, not tagged here, adds the liver of a mad dog for those it has bitten and dog blood for poisoning. The sources give no temperament, humour or vitality role, and no dose. The mapping runs through hair, skin, eyelid, wound, uterus and swelling.
+
 ### Contraindications
 
 - **Rabies and other infections.** Dog bites, saliva, blood and faeces can transmit rabies, *Capnocytophaga*, *Salmonella*, *Campylobacter*, roundworm and hydatid disease; any bite or scratch needs prompt medical assessment. Never apply faeces or raw blood to the eye, scalp or broken skin.

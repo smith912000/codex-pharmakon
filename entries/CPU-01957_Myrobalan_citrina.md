@@ -45,6 +45,10 @@ General, well-established facts only. Tannin-rich fruits are astringent. Many oi
 
 **Practitioner's note.** A cultivator does nothing with this. It is a record of an imported nut and oil, with a stomach warning in the text itself, and an identification that the translator leaves open between a southern-Asian tree and a desert tree.
 
+### Functional–Anatomical Correlate
+
+By Dioscorides' account the nut and its oil reach several body systems, each with a modern correlate. The pounded kernel, taken in a hot drink, is said to reduce the spleen, and it is also laid over the spleen. Applied to the skin, the nut is said to clear spots, freckles, sunburn and facial pustules; boiled with vinegar it is said to treat scabies and leprosy, and with saltpetre, vitiligo. The oil is said to clear facial down and darken cataracts of the eye, and poured into the ear with goose fat, to ease earache and tinnitus. Taken with honey water the nut induces vomiting and loosens the bowels; the oil taken as a drink is astringent to the bowels, the bark more so, and the oil purges the intestines. The text warns that the nut and oil are bad for the stomach. Gout is treated with honey and water. The chapters use no dosha, humour, qi, rasa or virya terms, so the actions are stated in organ and skin terms only. The identity is unsettled between a southern Asian tree and a desert tree.
+
 ### Contraindications
 
 - **Stomach:** the text itself says the nut and oil are "bad" or "very bad for the stomach".

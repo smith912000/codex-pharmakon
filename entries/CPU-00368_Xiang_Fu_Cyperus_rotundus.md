@@ -117,6 +117,10 @@ Singh N, Pandey BR, Verma P, Bhalla M, Gilca M (2012) "An overview of phytoconst
 
 **Practitioner's note.** A cultivator uses Xiang Fu as a mover, not a builder — to unstick constrained liver qi and settle stress-bound digestion and menstruation, in defined courses of weeks. The tradition's own caution that it "consumes yin" over long use is the built-in warning: this is corrective qi-regulation for a stagnation pattern, not a substance taken long-term to nourish life, and no tagged tradition assigns it a cultivation grade.
 
+### Functional–Anatomical Correlate
+
+Acts on the Liver, Spleen, Stomach and Triple Burner channels, which the entry says Xiang Fu courses (shu gan li qi) to clear Liver Qi stagnation. Named patterns are hypochondriac distension, emotional constraint and PMS, Liver-Spleen disharmony with stress-linked digestion, and uterine cold with Qi stagnation, where it regulates menstruation and stops pain (tiao jing zhi tong). It is also said to move Qi across all three burners and to address breast distension in Qi and Blood stagnation. Ayurvedic terms place it in rasa, rakta and mamsa, with the entry naming smooth muscle as its tissue; its deepana, pachana and grahi karma address digestion and diarrhoea. The modern correlates the entry cites are smooth-muscle antispasmodic action in the gut and uterus, CNS anxiolytic effects in animal models, and hepatoprotective and antibacterial activity, including against H. pylori. Its cautions cover pregnancy, estrogen-sensitive tissue, blood glucose, platelet function, and yin, which the tradition says prolonged use consumes.
+
 ### Contraindications
 
 - **Pregnancy (avoid at therapeutic doses):** Uterine smooth muscle stimulation documented at high doses of alpha-cyperone; the same anti-spasmodic effect that treats dysmenorrhea becomes potentially abortifacient at supertherapeutic doses; avoid systemic therapeutic use; topical massage preparations for perineal use at low essential oil concentrations generally considered acceptable

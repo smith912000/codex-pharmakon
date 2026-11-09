@@ -38,6 +38,10 @@ General, well-established facts only. Wild-bird droppings can carry disease-caus
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The droppings are a therapeutic entry in a list of thirteen kinds of animal product, and the tradition's own frame, which asks that life not be taken and that medicine serve practice and not replace it, is a reason to leave the material in the book. The Codex does not recommend using it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Explanatory Tantra's line gives three actions, and each names a site or process. Vulture droppings 'increase digestive heat', which places the action on digestion (the Men-Tsee-Khang text says simply 'generate heat', and Clark's 'digestive' cannot be confirmed from the English). They 'disperse tumors' and 'suppurate swellings', so the action falls on swellings and growths in the body and on the process by which a swelling comes to pus. No taste, post-digestive taste or potency is printed for the droppings. The meat qualities of birds of prey (rough, light, sharp) are for the flesh and are not carried over. The Tantra's wider frame is that the three humours are rooted in attachment, hatred and obscuration, so disease is at root spiritual and medicine a support; the chapter gives no organ for the droppings beyond those swellings. No essence-extraction site is named.
+
 ### Contraindications
 
 - **Hygiene and infection:** droppings of a carrion-eating wild bird should not be put on skin, a swelling or a wound, or taken by mouth.

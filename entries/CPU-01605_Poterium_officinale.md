@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The translator
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It offers a detailed description and two remedies, so it is history and not a practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The chapter maps its uses to the wound and connective tissues of the body. The root, when cut and smeared on, is said to heal "cut-apart sinews and wounds", so the claimed field is the sinews and soft tissue together with the skin surface. A decoction of the root, taken as a drink, is said to be "good for disorders of the strength". The chapter does not explain this phrase, and it names no organ, system or tissue for it, so it cannot be placed in the body with any confidence. Dioscorides records the root's gum-like fluid as a feature of the plant rather than a use. The seed is described by taste, "sweet scent" and "sharp", and is judged to have "no use". The chapter prints no humoral, doshic or qi term and no warming, cooling, drying or moistening quality. The identity is open across three plants, so these correlations describe only what the chapter claims.
+
 ### Contraindications
 
 The chapter prints no warning. Deep wounds and cut sinews need urgent medical care, and a plant smear must not replace it. The identification rests on a translators' suggestion that spans three plants, so no wild plant should be gathered or used on the strength of this entry. [USER: verify]

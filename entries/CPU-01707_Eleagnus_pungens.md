@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a drug for heart fevers and gynecological disorders in the Tibetan texts, with no preparation and no dose, and its Latin name is one of four that Clark offers. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts record that the seed, or in the Men-Tsee-Khang text the fruit, cures heart fevers and gynecological disorders. The Men-Tsee-Khang version gives cardiac hot disorder. In modern anatomy terms this places the claim on the heart and cardiovascular system, and on the female reproductive tract for the gynecological disorders, though the entry does not say which organs those Tibetan terms cover. Clark's commentary layer adds that the plant has thin leaves and a pale trunk, that the seed is of two types, black and white, and that it is sweet-tasting, which is the only taste the entry gives. No power, post-digestive effect or channel is printed. The botanical identity is open among four names in three plant families, so the cardiac and gynecological mapping rests on Clark's first choice among four and on the Tibetan name.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The identity is open between plants of different families, and no preparation or dose is given, so no plant should be gathered or used on the strength of this entry. Heart disorders and gynecological disorders need a physician, and nothing here supports use in pregnancy. No safety information for pregnancy was read. [USER: verify]

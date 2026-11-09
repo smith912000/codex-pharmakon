@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a wound and swelling root with no stated quantity. The useful lesson is Dioscorides' method of naming a twin plant by contrast with the first, and the abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The entry maps the root across several body regions, mostly by outward use. Applied, it is said to dissipate oedema (fluid swelling of tissue), to clean ulcers and to repress herpes, which the translators gloss as a viral infection. Smeared on, it destroys fistulas and soothes inflamed parts, and sprinkled dry it stops nomae, which the translators gloss as a disease that eats muscle, tissue and bone. These are skin, soft-tissue and bone sites in the chapter's own words. The one internal use is a decoction drunk with wine, which the chapter says cures the intestines, so the bowel is the named organ. The text gives no temperament, humour, doshic or qi term and no energetic quality for 3-142. The root's likeness to testicles is a description, not an action. The 'similar story' linked to 3-141 is not explained in this text and is not carried across. The identification is one of three suggested groups, so no action is tied to a verified species.
+
 ### Contraindications
 
 The chapter prints no warning. Fistulas, spreading ulcers and herpes need medical assessment, and wine with a root of unknown dose is not harmless. Many wild orchids are protected by law in many places and their tubers must not be dug; the particular status was not researched. The identification rests on a translators' suggestion, so no wild plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

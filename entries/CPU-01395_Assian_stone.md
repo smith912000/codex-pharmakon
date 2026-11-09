@@ -69,6 +69,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+The claimed sites are many, and the entry gives them by tissue. Chronic wounds: old hard-to-close ulcers, hollow sores, feeding ulcers and mushroom-like or wild ulcers, mapped to the skin and the granulating soft tissue of the wound. Abnormal fleshy growths, mapped to the same tissues. Small swellings, dissolved with terebinth rosin or pitch, mapped to superficial soft tissue. Gout, with plasters and stone baths for the feet: the joints, with the feet in the bath. The spleen, with vinegar and unslaked lime: the spleen. Lung disease, with the flower licked in honey: the lung and respiratory tract, named as tuberculosis of the lungs. Very fleshy and thick bodies, smeared on in a bath: body fat and mass. Avicenna's Unani frame adds that the stone's power is opening, flesh-forming and slightly putrefying, that it dissolves putrid flesh without stinging, and that it helps lung ulcers in the chest. The Greek text calls both stone and flower astringent and says they corrode gently. No temperament or humour is given in the Greek frame.
+
 ### Contraindications
 
 - **Corrosive:** the text says it "corrodes gently"; salts of this kind burn broken skin, the eyes and the mouth.

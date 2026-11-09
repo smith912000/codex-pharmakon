@@ -43,6 +43,10 @@ General, well-established facts only. Bronze, the copper-tin alloy family to whi
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. Bell metal is a classical bitter metal of eye pharmacy, and the Codex does not recommend taking it or putting it in the eye. What the text teaches is a matching rule: a vessel and a rod chosen to suit the taste of what they hold. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Ayurveda (SS, Sushruta): the text gives bell metal a bitter taste and a liquefacient action, says it subdues Kapha and Vata, and calls it beneficial to the eyesight. The eye is the organ named. In the Uttara-tantra's eye pharmacy the metal is one ingredient in a compound pasted with honey and applied to the eye as an anjana, and its rust pasted with clarified butter is given as an alternative anjana, for eye disease of the blood-origin type. Its colour is used as a comparison for a speck on the white of the eye. The text names no tissue beyond the eye; the humours named are Kapha and Vata, the body's mucus-and-fluid and wind-and-motion principles, which the text names only in general. No Greek or Tibetan site is tagged. Modern anatomy therefore maps it to the eyeball and its surface, and to the mucous and nerve-motion systems that the humours describe.
+
 ### Contraindications
 
 - **Toxicity:** copper-rich alloys and their corrosion products (blue and green films, rust) are poisonous if swallowed and irritant to the eye and skin; do not take bell metal by mouth, and do not put its powder, rust or any alloy into the eye. Old alloys may also contain lead.

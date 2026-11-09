@@ -53,6 +53,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** A lower-grade drug listed for poison, pain and abscess, with no long-term promise. A cultivator has nothing to do with it.
 
+### Functional–Anatomical Correlate
+
+The classic's indications name gu poison (蛊毒) as a category. For women it gives pain of the lumbar region and abdomen (腰腹痛) and unhappiness (不乐), which is a mood term with no organ attached. Intestinal abscess (肠痈) is the one indication that points to a named organ, the intestines. Scrofula (瘰疬) and sores (疡气) are named with no tissue given. The paragraph gives bitter and balanced (味苦，平) and no channel or organ assignment. The part named is not stated. The plant is a twining legume identified only by Guo Pu's gloss, so no mapping attaches to a confirmed species. The classic places the drug among the lower drugs, which it describes as mostly toxic, and that placement is the only safety context it gives.
+
 ### Contraindications
 
 - **Lower-class drug.** The class heading says mostly toxic and not for long use; this entry states no toxicity either way.

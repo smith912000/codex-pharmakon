@@ -50,6 +50,10 @@ General, well-established facts only. The identity is open, so no pharmacology c
 
 **Practitioner's note.** A name in two group lists, with a fig tree the likeliest but unproven meaning. Nothing supports cultivation use, and without a firm identification nothing can be gathered or used.
 
+### Functional–Anatomical Correlate
+
+The entry places Nandi-Vriksha in two Sushruta groups, and the group virtues are the only actions it states. The Nyagrodhadi group is said to heal ulcers, to cure disorders of the uterus and vagina, to favour the adhesion of fractured bones, to favour all sorts of bodily secretions, and to be astringent, so the stated targets are the skin and wound surface, the female reproductive tract, the skeleton, and the secretory systems. The same group is said to help haemoptysis, which is bleeding from the lungs or airways, and to assuage burning. The Amvashthadi group, read together with the Priyangvadi group, is said to prove beneficial in deranged Pitta and in mucous dysentery, which points to the large intestine. In Ayurvedic terms the entry names Pitta and Vayu, and the astringent quality is a property the text gives the group. Because the tree is identified only to genus, these organ correspondences belong to the groups and not to the drug.
+
 ### Contraindications
 
 - **Identity.** The tree is not identified to species. Do not substitute any fig for it.

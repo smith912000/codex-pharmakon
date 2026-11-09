@@ -43,6 +43,10 @@ In general knowledge the water dropwort (*Oenanthe javanica*) is eaten as a vege
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. A lower-grade vegetable-drug with nourishing-sounding clauses that the classic does not tie to long use. Do not gather water plants on this entry's authority: some look-alikes are deadly.
 
+### Functional–Anatomical Correlate
+
+The classic's uses for this vegetable-drug concern the female reproductive tract and the blood, along with general vitality. It is recorded for women's red discharge (女子赤沃) and for stopping bleeding (止血), which the entry does not localise to a specific organ. It is said to nourish the essence (养精), protect the blood vessels (保血脉) and add qi (益气), and to make a person plump, sturdy and fond of eating (令人肥健、嗜食), which points to the classic's systems of blood, essence and appetite. Flavour and nature are sweet and balanced (味甘，平). The habitat is pools and marshes. The identity is uncertain, and related water-side species are highly poisonous, so no body-level claim should be tied to a plant gathered on this name. The entry records these as the classic's categories only and gives no modern organ-level mapping, no protocol and no dose. Bleeding and abnormal discharge are said to need medical assessment.
+
 ### Contraindications
 
 - **Identification.** Some water-side umbellifers are deadly poisons; do not gather any plant on the strength of this entry.

@@ -60,6 +60,10 @@ According to PubMed:
 
 **Practitioner's note.** Nothing specific to the plant. It is a threatened, often substituted orchid and a component of compound restoratives; no stand-alone cultivation practice is attested.
 
+### Functional–Anatomical Correlate
+
+The entry maps Ṛṣabhaka onto depleted tissue (dhātukṣaya) and reproductive strength, within the Aṣṭavarga's bṛṃhaṇa-rasāyana frame. Its karma lists vṛṣya (reproductive tonic), balya (strengthening), śukrala (semen-promoting), ojovardhaka (ojas-building) and dāhapraśamana (anti-burning). Its sweet, heavy, unctuous quality is said to pacify Vāta and Pitta, with the caution that it can aggravate Kapha and weak digestion. The entry also records two therapeutic uses from the Suśruta Chikitsāsthāna: a medicated ghee for eye injury, and a medicated oil given as an enema for Vāta disorders and weakness. In modern anatomical terms these point to the eyes, reproductive tissue, and the enema route for Vāta conditions. The register notes that the Aṣṭavarga and chyavanaprāśa claims are not found in the passages read, and the species-specific pharmacology is described as sparse. The evidence grade is preclinical and traditional.
+
 ### Contraindications
 Heavy, sweet, unctuous — aggravates Kapha, *mandāgni* (weak digestion), *āma*, obesity, and diabetic/metabolic sluggishness; avoid in congested high-Kapha states without processing. Safety in pregnancy/lactation not established `[USER: verify]`. **Overriding caution: conservation status** — genuine *Malaxis muscifera* is an endangered wild Himalayan orchid; use only sustainably/legally sourced material or classically-sanctioned substitutes, and expect heavy commercial adulteration.
 

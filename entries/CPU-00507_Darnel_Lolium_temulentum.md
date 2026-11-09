@@ -77,6 +77,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Darnel's mapped action is on the nervous system, with the head, eyes and gut also named. Its toxic effect is intoxication: vertigo, trembling, blurred or disturbed vision, nausea, vomiting, somnolence and, in heavy adulteration, reported death. The principle temulin or loliine is credited to the seed-borne fungal endophyte. The Galenic and Unani reading places it hot and dry in the second degree, with a narcotic, head-heavying (mukhaddir) faculty that dulls sensation, the basis of its recorded use as a medieval Arab stupefacient anaesthetic. Dioscorides records its flour in external plasters for skin complaints and gangrenous sores, and bread contaminated with it causing heaviness and disturbance of the head. The Ayurvedic mapping is by analogy only, as a manas-clouding dravya. The Egyptian and Assyrian sources record external pastes, eye remedies and disordered vision. The entry places no cultivation status on it and states that it is not to be ingested, including in pregnancy, by children, or where clear vision is needed.
+
 ### Contraindications
 
 **⚠️ TOXIC — HAZARD FLAG. Do not ingest under any circumstances.** *Lolium temulentum* seed, especially when carrying its fungal endophyte, causes intoxication (*temulentum* = "drunken"): vertigo, trembling, blurred/disturbed vision, nausea, vomiting, somnolence, and, in cases of heavy grain adulteration, reported death. The hazard is compounded because the seed physically mimics wheat and can enter flour undetected. Absolutely contraindicated in pregnancy, in children, and for anyone operating machinery or requiring clear vision. Not for internal medicinal, recreational, or "anaesthetic" use. Store any study specimens labelled and separated from foodstuffs and other grains.

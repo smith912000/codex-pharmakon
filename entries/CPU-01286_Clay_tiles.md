@@ -44,6 +44,10 @@ General, well-established facts only. Fired clay is an inert, abrasive material;
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The tile is a rough hard-fired clay that Dioscorides lists for skin and swelling; the Codex does not recommend using a used tile on the body. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Skin: the tile, rubbed on with vinegar, is said to heal itching and pustules that break out, which maps to the skin surface and the eruptive lesions of the epidermis and dermis. The text's word for its quality, crustforming, refers to scab formation on the skin. Joints: it is said to be good for gout, a condition of the joints, in the same rubbed-on use. Glands: used with wax ointments, it is said to dissolve scrofulous tumours, which the translator glosses as glandular swelling, and goitres, which map to the lymph nodes of the neck and the thyroid gland. The chapter names no other organ, tissue or humour, and no temperament. No other tradition is tagged. Modern anatomy therefore maps the entry to skin, joints in gout, and the lymphatic glands and thyroid, as the text states.
+
 ### Contraindications
 
 - **Hygiene and infection:** a tile taken from a furnace or a roof is not sterile; do not apply any dirty material to broken or pustular skin, where it risks infection.

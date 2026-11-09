@@ -71,6 +71,10 @@ Codex policy: chemical class (aryltetralin lignan), antimitotic mechanism and th
 
 **Practitioner's note.** Nothing. This is a toxic, drastic rhizome; whatever Himalayan use exists is physician-prepared, and there is no self-directed cultivation use.
 
+### Functional–Anatomical Correlate
+
+Himalayan mayapple's entry maps its action onto the skin, the bowel, the bone marrow and the nervous system, and at the cellular level onto dividing cells. In Ayurvedic and Himalayan practice (bankakri) the rhizome is a hot, near-poisonous drastic purgative for the bowel and a caustic for warts, skin growths and stubborn lesions, used in cleansing therapies. Topically, podophyllin or podophyllotoxin is applied sparingly to genital warts, with absorption to be avoided over large or broken skin. The entry describes podophyllotoxin binding tubulin and arresting dividing cells in metaphase, an antimitotic action. Systemic poisoning from ingestion or absorption is described as severe gastrointestinal injury, bone-marrow suppression and peripheral neuropathy with central toxicity. Its semisynthetic derivatives, etoposide and teniposide, are said to act mainly on topoisomerase II. Pregnancy, breastfeeding, children and the depleted are listed as contraindications, and no rGyud-bzhi placement is attested.
+
 ### Contraindications
 
 - **Internal crude-drug use — absolute prohibition outside expert supervision.** A drastic purgative and systemic poison.

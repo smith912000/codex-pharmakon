@@ -46,6 +46,10 @@ General, well-established facts only. Diamond is chemically inert carbon. Swallo
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The text records gems as things worn for protection and luck and as antitoxic, cooling aids to the sight, and the Codex does not recommend swallowing diamond or gem powder. If the entry teaches anything, it is that Sushruta groups the stones and does not separate their properties. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Eyes: the Sushruta gem passage says pearls, corals, diamonds, sapphires, lapis and crystals are beneficial to the sight, which maps diamond to the eye as one member of the group. The same group is called antitoxic, a whole-body action against poisons, and liquefacient or corrosive, which the text states of tissue without naming one. Avicenna's Unani entry says the diamond's temperament is disputed, cold and dry or hot and dry, and calls it very strongly cleansing. It places a claim on the head and teeth, that holding one in the mouth breaks teeth, which Avicenna doubts, and a claim on the excretory organs, that a grain fixed to a syringe would break a bladder stone, which he finds unlikely. Modern anatomy therefore maps the entry to the eyes, the mouth and teeth, the urinary bladder, and the body as a whole.
+
 ### Contraindications
 
 - **Ingestion:** do not swallow powdered or crushed gemstones; sharp mineral particles injure the gut, and "bhasma" preparations of gems and metals, where made, can carry toxic metals from the process.

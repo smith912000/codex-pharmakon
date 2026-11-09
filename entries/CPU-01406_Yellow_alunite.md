@@ -62,6 +62,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+The sites the text gives are the tissues of necrosis and tumours, and, in a bracketed note, falling hair. The tantra's own words, as read in Clark's translation, say that this and black alunite halt necrosis and extract tumours; the Men-Tsee-Khang edition says ser tshur heals gangrene and dissolves tumours, so the claimed action falls on dead or dying tissue and on growths. Falling hair is placed on the scalp and hair follicles, but only inside a bracket. The wool dye is a use outside the body. The taste, potency and post-digestive taste of ser tshur are not printed in either text read, and no wind, bile or phlegm action is named for it, so the Tibetan humour frame cannot be applied. The colour and dye statements come from bracketed commentary, and the entry's own identity is unsettled. The claimed actions are the only mapping the sources allow.
+
 ### Contraindications
 
 - **Mineral sulphate:** sulphates of iron and aluminium are irritants; do not swallow, inhale as dust, or apply to open wounds or the eyes. Large amounts of iron salts are toxic.

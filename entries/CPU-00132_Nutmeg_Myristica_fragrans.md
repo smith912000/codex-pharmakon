@@ -64,6 +64,10 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 
 ---
 
+### Functional–Anatomical Correlate
+
+Nutmeg's entry maps its action onto the digestive tract and, at high dose, the nervous system. In Chinese Medicine (Rou Dou Kou, acrid and warm, Spleen, Stomach and Large Intestine) it warms the middle, binds the bowel and stops chronic cold diarrhoea and 'daybreak' diarrhoea of kidney and spleen yang deficiency. In Ayurveda (Jatiphala) it reduces vata and kapha as a warming carminative and astringent for digestive wind, colic, nausea and diarrhoea, and as a mild sedative and sleep aid, which the entry places in the Shen tier. Topically, nutmeg butter or oil is used in warming rubs for muscular and rheumatic pain. The entry describes the harm pathway: myristicin and elemicin, in doses of about a tablespoon or more, produce a delayed, anticholinergic-like delirium with hallucination, tachycardia and nausea. Reputed uterine effects in large amounts are noted as a pregnancy caution. The entry gives no further organ-level detail, and its citations are left for the editor to verify.
+
 ### Contraindications
 
 - **Overdose — dangerous.** Doses around a tablespoon/one or more whole nuts cause delayed myristicin delirium, tachycardia and toxicity; never use as an intoxicant.

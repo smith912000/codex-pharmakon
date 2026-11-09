@@ -64,6 +64,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry's main target is the intestinal tract and its parasites. Vidanga (krimighna) expels intestinal worms, classically with honey or buttermilk followed by a purgative to carry the parasites out. The Unani account says it purges worms and phlegm from the intestines and draws phlegm from the joints. Its pungent, bitter, warming action (katu-tikta, ushna) stimulates digestion (dipana, pachana) and works as a carminative for bloating, sluggish digestion and ama, undigested stagnation. Lekhana (scraping) describes its clearing action on the dhatus. Tibetan use is for worm-expelling and digestive warming. Skin disease is treated as an infective, kapha-reducing condition. Embelin, its principal benzoquinone, is documented as antibacterial and anti-inflammatory, and as antifertility, which the entry links to conception and pregnancy as a caution. Heat conditions can be aggravated, and severe infestation needs medical assessment.
+
 ### Contraindications
 
 - **Conception / pregnancy — avoid.** Embelin has documented antifertility activity; avoid when trying to conceive and in pregnancy. [USER: verify.]

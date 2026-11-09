@@ -108,6 +108,10 @@ The energetic reading is, unusually, a decent *phenomenological* description and
 
 **Practitioner's note.** Nothing from this tradition. The plant is a modern pharmacopoeial and garden species, not part of the Dioscoridean record.
 
+### Functional–Anatomical Correlate
+
+The entry maps woolly foxglove to the heart and its conduction system, with the eye and gut as toxic sites. The cardenolides (lanatosides, digoxin, deslanoside) inhibit the Na+/K+-ATPase of the heart muscle cell, raising intracellular sodium and calcium and strengthening contraction; the entry says the pulse slows through vagal tone and AV-nodal conduction. The entry explicitly says the kidney is not the target: diuresis is downstream of better cardiac output, so the folk framing of a water-moving, Cold and Dry agent is judged a mistaken organ assignment. The toxic picture is listed as gastrointestinal first (nausea, vomiting, abdominal pain, diarrhoea), then xanthopsia (yellow-green, haloed vision), which the entry places in the visual system, then arrhythmia, hyperkalaemia and cardiac arrest. Energetically the folk frame is contracting, slowing and downward-moving. The entry assigns no traditional organ system of its own to this species.
+
 ### Contraindications
 
 **⚠️ ABSOLUTE — this plant is not to be ingested by anyone, in any preparation, at any dose, for any reason.**

@@ -74,6 +74,10 @@ Graded honestly, by claim:
 
 **Practitioner's note.** Nothing cultivation-specific. A bitter, cooling bark and seed for acute loose stool, taken for the episode and stopped; the entry itself calls the use acute rather than tonic.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Kutaj acts on the lower gut: the colon and intestinal mucosa, where it is said to close a leaking, inflamed, over-loosened surface. In Ayurvedic terms it is a grahi (gut-binding, astringent) and dipana (digestive-kindling) agent with tikta-kashaya rasa and shita virya (cooling potency). It is given for atisara (diarrhoea) and pravahika (dysentery with mucus and tenesmus) where the stool is loose, hot, bloody or mucoid, reducing pitta and kapha in the lower bowel. The Unani stream extends it to zaheer (dysentery and tenesmus) and intestinal worms. The entry maps the tannin astringency onto a tightening of inflamed mucosa and the cooling onto reduced inflammation. Its steroidal alkaloid conessine is described as lipophilic and brain-penetrant, but the entry says this is congener pharmacology and gives no CNS claim for the bark as a gut remedy. The raktashodhaka blood-cleansing claim is deflated as having no specific mechanism. The entry contraindicates use where the gut is atonic, cold, constipated or vata-dominant.
+
 ### Contraindications
 
 - ⚠️ **Conessine CNS toxicity at dose.** The defining caution. Conessine is lipophilic and brain-penetrant; historical and pharmacological literature associates the isolated alkaloid with central nervous system toxicity and evidence of neural accumulation with repeated/high dosing. This is a specific reason **not** to treat purified conessine or heavily alkaloid-enriched extracts as a stronger version of the bark — the tannin-buffered traditional decoction is a different, safer object than the isolated base. Avoid escalating dose to chase effect.

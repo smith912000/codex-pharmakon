@@ -41,6 +41,10 @@ Milk is a food; its nutritional composition is well established. Unpasteurised m
 
 **Practitioner's note.** Nothing here for a cultivator beyond food. The Egyptian record shows milk in many forms as a vehicle and a drink, and at two points it is the substance over which a spell is spoken. Taking something from that is a point about the recitation belonging to the prescription, not about milk. The Assyrian attestation could not be read. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Egyptian (EP) uses treat milk mainly as a vehicle and a drink. Cow's milk is washed on the eyes four times for six days; milk of a woman who has borne a son is drunk for coryza, the nasal catarrh, and is the substance over which a burn incantation is spoken; ass's milk with dates is a vaginal douche; fresh milk serves as an enema and a diuretic. Unani (CM) claims are broader. Milk balances the humours and strengthens the body; it is nourishing and gives good chyme in the digestive organs, though it harms the phlegmatic and suits the hot-dry. Goat's and ass's milk help cough, consumption and spitting of blood in the chest. Milk is said to breed stone in the excretory organs and to strengthen sexual power, and to harm the nerves and teeth; goat's milk helps catarrh of the head. It is an antidote to deadly drugs. Assyrian (AT) gives no reading. No innate heat or radical moisture claim is made.
+
 ### Contraindications
 
 Raw (unpasteurised) milk can carry dangerous bacteria, especially for infants, pregnant women, the elderly and the immunosuppressed. Cow's-milk protein allergy and lactose intolerance are common. Informal sharing or buying of human milk carries a risk of bacterial and viral infection and contamination. Sour, spoiled or old milk should not be taken as medicine. Milk used as a vehicle for another remedy takes on that remedy's risks.

@@ -39,6 +39,10 @@ Hanging game before eating is a long-standing practice that lets the meat soften
 
 **Practitioner's note.** Nothing to cultivate. The only practical instruction in the entry is a hanging time, and the bird is now protected.
 
+### Functional–Anatomical Correlate
+
+Crane flesh, in Ibn Qayyim's Prophetic medicine entry, is mapped to the humoral blood and to digestion. The flesh is described as dry (yabis) and light (khafif), with heat and cold disputed, so no quality of heat or cold is assigned. Its main action is on the blood: it generates a black-bilious blood (dam sawdawi), a humoral disadvantage in the tradition, which places the effect on blood formation in humoral terms, though no organ is named. The entry says it suits people of toil and fatigue (ashab al-kadd wa-l-taʿab), linking it to muscular exertion. The only practical instruction is to leave the bird a day or two after slaughter before eating, which the entry gives as a preparation rule and not as a body action. No cited report and no digestive claim beyond the flesh's lightness are given.
+
 ### Contraindications
 
 Historical record only. The text notes the blood it generates is black-bilious (a humoral disadvantage in the tradition) and that it should be hung one or two days. Cranes are protected under law in much of their range and several species are endangered; hunting and eating them is restricted or banned. Do not treat any use here as medical advice.

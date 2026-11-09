@@ -41,6 +41,10 @@ Wormwoods in general have a long history as bitter herbs against intestinal worm
 
 **Practitioner's note.** A cultivator learns from this very short chapter how Dioscorides handles a plant he sets beside another: by naming where it grows and what it resembles. There is no practice to take up.
 
+### Functional–Anatomical Correlate
+
+Little to map: Chapter 3-28 states that this bitter wormwood grows in Galatia or Gaul near the Alps, that it is similar to common wormwood but not as seedy, that it is somewhat bitter, and that it can do the same things as the sea wormwood of 3-27. The chapter names no organ, no disease and no preparation of its own. The 3-27 uses it refers to, boiled with honey, rice, sapa or lentils for threadworms and roundworms, are the text's claims for that other plant, and whether its qualities pass across is not stated. No humoral, doshic or qi term appears, and the only energetic word is 'somewhat bitter'. The translators give A. santonicum and A. glacialis on one line, and the text does not choose between them. The name santonin, a compound historically used against roundworms, derives from the Latin plant name, but the entry does not establish that this plant is its source. No dose is given, and the Codex makes no correlation.
+
 ### Contraindications
 
 Wormwood-group herbs in large amounts can cause toxicity, a general statement. Do not use in pregnancy. No traditional use is advice, and no dose is given.

@@ -71,6 +71,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Porcini's entry maps it onto the digestive tract and the spleen-stomach. The Galenic and Unani reading treats it as cold and moist in the second degree, phlegm-forming, and liable to obstruct the stomach unless corrected with warming aromatics. TCM places it among bu tonifying foods that supplement qi and strengthen the spleen-stomach, and the Ayurvedic analogy gives sweet, heavy, unctuous, kapha-increasing and vata-pacifying qualities. The modern correlates are the beta-glucans, which the entry calls a candidate immunomodulatory and prebiotic fraction feeding the gut, chitin as satiating fibre, and ergothioneine and glutathione as cytoprotective thiols. Its low-glycaemic profile is noted in relation to blood glucose. The entry also flags that wild boletes concentrate cadmium and other heavy metals, and advises moderate intake in gout or renal impairment because of its purine and mineral load. The evidence is compositional and in vitro, and the entry frames the mushroom as food, not a therapeutic extract.
+
 ### Contraindications
 
 - **Heavy-metal accumulation:** wild boletes concentrate cadmium, lead and nickel from soil; avoid specimens from roadsides, industrial or polluted ground, and do not consume large quantities habitually (Sotek et al. 2025).

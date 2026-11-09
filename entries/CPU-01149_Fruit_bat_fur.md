@@ -44,6 +44,10 @@ General, well-established facts only. Hair is keratin and has no known uterine a
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The line is a record of a remedy for womb disorders, the tradition itself has largely replaced animal products with herbs, and the Codex does not recommend it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one organ and one function. In Clark's translation of the rGyud-bzhi Explanatory Tantra, the fruit bat's fur, printed as tail feathers, expels womb disorders. In the Men-Tsee-Khang 2011 translation the fur cures disorders of the uterus and aids in delivering a fetus. The uterus is the only body part named, and the 2011 text adds delivery of a fetus as a function. Neither text prints a taste, potency, post-digestive taste or humoral quality, or a Tibetan name for the fur, and neither gives a route or a dose. The entry notes that the two translations differ in wording and that Clark's bracketed commentary is not marked for this line. It names the material as hair or fur and gives no account of how it relates to the womb. Nothing further in the sources retrieved maps this substance onto other body systems.
+
 ### Contraindications
 
 - **Pregnancy and delivery:** the 2011 text gives the fur as an aid in delivering a fetus; do not use any such material in pregnancy or labour; seek obstetric care.

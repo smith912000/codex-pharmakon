@@ -73,6 +73,10 @@ Direct clinical pharmacology on *Dianthus caryophyllus* itself is **sparse** —
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps carnation chiefly to the heart and the spirits. In the Galenic-Unani frame it is Warm and Dry in the second degree and a mufarrih (gladdener) of the heart, which the entry says strengthens the ruh and comforts the vital faculty, and it is used against palpitation and faintness. Dioscorides describes such flowers as comforting a faint or oppressed heart. Assyrian sources record fragrant flowers steeped in wine or oil as heart-strengthening and fever-easing, so the entry also maps it to fever as a mild febrifuge. The mood-lifting role is described as spirit-lifting or cheering. Its aromatic volatiles are clove-like phenylpropanoids and terpenoids, which the entry ties to warming action. Flavonoids and saponins are named, with antiviral and antioxidant activity reported for the genus. The entry says saponins may irritate the gut in large amounts, and cautions in pregnancy and lactation.
+
 ### Contraindications
 
 - Pregnancy and lactation: avoid medicinal/concentrated preparations — saponin-bearing *Dianthus* species (e.g. Qumai) are traditionally regarded as emmenagogue/uterine-active and are contraindicated in pregnancy; extend the same caution to carnation.

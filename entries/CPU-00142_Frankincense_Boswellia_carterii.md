@@ -119,6 +119,10 @@ Moussaieff et al. (2008, *FASEB Journal*) demonstrated that incensole acetate, a
 
 **Practitioner's note.** Nothing in the two tagged traditions makes frankincense a long-term cultivation substance. What a cultivator can honestly do is source it with attention (species, provenance, grade, adulteration) and use it as the entry's own sections describe, as a medicine or as ritual smoke in ventilated space. The Egyptian, Assyrian, Hebrew, Unani and Chinese material in the body is not on this entry's tag line and is deliberately not given a cultivation paragraph here.
 
+### Functional–Anatomical Correlate
+
+Per the entry, frankincense acts on the joints and connective tissue and on the gut. Its boswellic acids are described as anti-inflammatory, with β-boswellic acid inhibiting microsomal prostaglandin E synthase-1 and cathepsin G, and the entry cites osteoarthritis trials of standardised extracts for knee pain and stiffness. In the gut it is described for inflammatory bowel symptoms and, historically, for eating ulcers and bowel flux. The brain is the third target: incensole acetate is described as a TRPV3 agonist with anxiolytic-like and antidepressant-like effects in rodents, the entry linking this to the ritual smoke burned across these traditions. Unani sources call it hot and dry, a strengthener of the brain (muqawwī al-dimāgh) and memory-preserver, and an astringent for fluxes. TCM assigns it to the Heart (settling Shen), the Liver and Spleen channels (moving Blood and Qi) and the Lung (aromatic, dispersing). Tibetan medicine uses it to calm rlung, a wind disorder. The entry grades the anxiolytic and neuroprotective data as preclinical.
+
 ### Contraindications
 
 - **Pregnancy:** traditional sources class frankincense as emmenagogue/uterine-stimulant in quantity; therapeutic-dose supplementation is best avoided in pregnancy absent supervision. Ritual ambient fumigation is a separate, low-exposure matter but pregnant practitioners with respiratory sensitivity should ensure ventilation.

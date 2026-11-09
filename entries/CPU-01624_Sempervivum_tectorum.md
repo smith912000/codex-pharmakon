@@ -47,6 +47,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It offers a careful description, a quality and a list of remedies without amounts, so it is history and not a practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+In Dioscorides (DMM) the leaves, alone or with polenta, act on the skin: erysipelas, herpes, gangrenous ulceration of the cheeks, burns and gout in the feet. The juice acts on the head (headaches, with polenta and rosaceum), on the eyes (inflammation, and weak eyes 'by reason of blood'), and on the bowels (diarrhoea, dysentery, and roundworms when drunk with wine). A pessary is used to stop women's excessive discharge, the text's term for menstrual flow. The juice is also given to those bitten by harvest spiders. The plant is 'cooling and astringent'. Avicenna (CM, Unani) gives a cold and dry temperament with moderate hot moisture, an action on the throat and chest (roughness, spitting of blood, cleansing of the lung in honey water), on the intestines (ulcers and abrasions), on hernia and kidney pains, and on menstrual bleeding. His account is humoral and organ-based throughout.
+
 ### Contraindications
 
 The chapter prints no warning. A pessary, a bite from a spider, dysentery or bleeding from the vagina need medical assessment, and none of these remedies must replace it. The identification rests on a translators' suggestion, so no wild or garden plant should be used on the strength of this entry. [USER: verify] None of the traditional uses above is advice.

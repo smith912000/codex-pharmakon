@@ -44,6 +44,10 @@ No modern identification is established, so no general statement about the subst
 
 **Practitioner's note.** Nothing. A cultivator cannot use an unidentified stone. The record is of value only as an instance of a chapter that the author himself leaves without identification in the translation's terms.
 
+### Functional–Anatomical Correlate
+
+Little to map: the text names two sites and no others. Pounded and smeared on, the stone is said to dry up haemorrhoids, which in modern anatomy are the vascular cushions of the anal canal and rectum, so the claimed site is the anorectal tissue. Burnt, it is used as a dentifrice for the teeth, which maps to the teeth and gums of the oral cavity. The chapter gives no quality, humour, taste or temperament, and it names no organ, channel or energy. The two actions are therefore described in ordinary anatomical terms only. The entry records that the translator leaves the material unidentified, and that the chapter gives no dose, vehicle or frequency for either use.
+
 ### Contraindications
 
 - **Unknown material.** The stone is unidentified; do not substitute any mineral for it.

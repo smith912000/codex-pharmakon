@@ -53,6 +53,10 @@ General, well-established facts only. Sedges are widely used as fibre and fragra
 
 **Practitioner's note.** Nothing to do with it. A sedge in a number of outer applications, with no recorded quantity and no cultivation status. A cultivator reads it as a record of Egyptian recipes.
 
+### Functional–Anatomical Correlate
+
+The recipes that include cyperus name several surface regions. The eyes come first, with bleary eyes treated by a mixture painted on, and a spell-accompanied eye remedy. The skin is the largest group: itching, a scurvy place, and scabs in every limb, each treated by a poultice or application. Diseased toes, the teeth (a plaster for blisters in the teeth) and the face (an application against wrinkles, kept on for six days) are the remaining body targets. A final list of perfuming substances is not a body target. Bryan prints no taste, temperature or humour for cyperus, so no energetic class is given. The recipes combine cyperus with materials the entry flags as hazardous, such as verdigris for the eye, so the mapping is of recipe targets only and not a claim about the plant's effect. No constituent is named. Historical record only, not a practice.
+
 ### Contraindications
 
 - **Do not use the recipes.** Verdigris (copper acetate) is irritant and poisonous, and must not be put in the eye. The other companion ingredients carry their own risks.

@@ -47,6 +47,10 @@ General, well-established facts only. Bear's breeches (*Acanthus*) are large-lea
 
 **Practitioner's note.** Nothing here supports any cultivation use. The practical lesson of the two chapters is that a name shared by two chapters is not a guarantee that they describe one plant, and that the maker of a binomial list may have joined what the text keeps apart.
 
+### Functional–Anatomical Correlate
+
+Two chapters give the root's uses, and they fall between the menstrual and bleeding organs on one side and the skin, joints, lungs and nerves on the other. In 3-15 the Arabian acantha is called astringent, and its root, taken as the white thistle's is, is said to treat excessive menstrual flow, spitting of blood and other discharges, which place the uterus and the airways in view. In 3-19 the root applied is said to treat burns and dislocations, so skin and joints. Taken in a drink it is said to encourage urine, which concerns the urinary tract, and to stop discharges of the bowels. It is also said to treat tuberculosis of the lungs, hernia and convulsions, which reach the lungs, the abdominal wall and the nervous system. The only qualities printed are astringent in 3-15 and viscous in the root of 3-19, and no potency is given. The entry notes that the two chapters may describe two plants.
+
 ### Contraindications
 
 - **Identity.** The species is an editorial suggestion of medium confidence, and the two chapters may describe two plants. Do not gather or use a plant on the strength of this entry. [USER: verify]

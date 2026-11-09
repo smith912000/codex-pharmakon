@@ -108,6 +108,10 @@ The modern peer-reviewed literature concentrates on *Pistacia* phytochemistry, a
 
 ---
 
+### Functional–Anatomical Correlate
+
+Terebinth is mapped onto the chest and airways, the joints and muscles, the skin and wounds, and the gut through its galls. The Dioscoridean and Galenic reading is hot and dry in the second degree: a warming, drawing expectorant for cold-damp phlegm in the chest. The Kenetica line is Qi that mobilises phlegm and cold stagnation, with the volatile terpene fraction acting as a rubefacient on stiff joints and muscles (the turpentine liniment effect). The resin acid film is an occlusive dressing for minor wounds. The galls are a separate tannin action, an astringent and haemostatic for diarrhoea and mucosal bleeding. The entry flags that internal turpentine resin carries gastrointestinal, renal and CNS toxicity risk, and that high-tannin galls can impair iron absorption and irritate the gut. Modern anatomy terms: bronchi, joint and muscle tissue, skin, and gut mucosa. The Egyptian, Assyrian and Unani sections record therapeutic use only, with no cultivation status.
+
 ### Contraindications
 
 - **Irritant / contact sensitisation:** As an Anacardiaceae resin with a volatile terpene load, terebinth resin and oil can irritate and sensitise skin; patch-test and dilute before topical use; avoid on broken or inflamed skin beyond traditional wound-dressing use. **[USER: verify the specific allergen status of *P. terebinthus*.]**

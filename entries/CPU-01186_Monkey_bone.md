@@ -38,6 +38,10 @@ General, well-established facts only. Bone is a mineralised connective tissue an
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. Monkey bone is a drug for expelling from the womb in a list of animal bones; the Codex records it and does not recommend it. The restraint is the practice: nothing is gained by pursuing it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the Tibetan line states one action for monkey bone, that it is ecbolic, meaning that it expels from the womb. The womb is the only body site named. The item is listed among bones, so the tissue of origin is bone. Clark's bracketed words, which the entry cannot fully sort from the root verse, add 'has seven names' and 'abortifacient'. The Men-Tsee-Khang rendering gives the same single action, 'Monkey bone is an ecbolic'. Neither translation gives a humour (rlung, mkhris pa, bad kan), taste, potency, post-digestive taste, preparation or dose. The entry maps the bone to no other system and makes no claim about the uterus beyond expulsion, and it records the action as a drug property only.
+
 ### Contraindications
 
 - **Pregnancy:** the item is recorded as ecbolic and abortifacient; it must never be used in pregnancy, and the Codex does not recommend any use of it to end one.

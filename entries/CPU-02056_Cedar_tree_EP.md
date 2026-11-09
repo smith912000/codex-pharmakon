@@ -51,6 +51,10 @@ General, well-established facts only. Cedar and other conifer resins and oils co
 
 **Practitioner's note.** Nothing to do with it. A cedar fat, tops and splinters appear in three outer applications, with no recorded quantity and no cultivation status. A cultivator reads it as a record of Egyptian poultices, not as something to apply.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states three outer uses of the cedar-tree in Bryan's Ebers recipes. A fat of the cedar appears in a poultice to heal the diseased toes, so the toes are the body part named. Tops of the cedar, mixed with a woman's milk, are applied as a poultice in the section Bryan calls Diseases of the Skin, after a remedy for an ulcer's scab, so the skin and an ulcer are the named sites. Splinters of the cedar form one of thirty-seven ingredients in a poultice to make the met supple, a term Bryan prints and the entry does not interpret, so no organ is attached to it. The entry gives no description of the tree, no quality, no channel, and no quantity for the cedar in any recipe. It states that the species is a modern hypothesis and that the companion ingredients include hazardous ones, and it recommends none of these recipes. Its own caution is that cedar oil and resin can irritate or sensitise the skin.
+
 ### Contraindications
 
 - **Do not use the recipes.** Cedar oil and resin can irritate or sensitise the skin. Several companion ingredients (poppy, red lead, excrement, a woman's milk) carry their own risks.

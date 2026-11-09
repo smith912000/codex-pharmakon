@@ -42,6 +42,10 @@ No clinical studies were retrieved for this entry. [USER: verify] Nothing in gen
 
 **Practitioner's note.** There is nothing in the source for a cultivator to use, and a poisonous animal in wine is a remedy to leave in the book. The chapter is useful only as a record of a bite and the folk remedy for it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives one claim, that the seps, taken as a drink in wine, heals those bitten by him. That names a bite and its wound or envenoming, but no organ, tissue or system. The chapter does not describe the animal or its preparation and gives no quantity, humour, taste or potency. Two other lines name the seps's bite: chapter 5-22 lists the viper seps among bites an oxymel is available for, and a line at 5812 lists bites of the seps beside dysentery and haemorrhoids, though the start of that sentence is not in the lines read. The chapter does not record that the wine remedy worked, and no mechanism is given. The mapping stops at the bite itself.
+
 ### Contraindications
 
 The material is labelled POISONOUS in the edition itself. Do not eat or drink the animal. A bite or sting from any venomous or unknown animal needs prompt medical care. Wild reptiles may carry salmonella and other pathogens, and some are protected. These are general cautions and not claims from the text.

@@ -49,6 +49,10 @@ Preclinical work on the plant itself, recorded as science and not as support for
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with a plant under this name. Nothing should be gathered or taken on the strength of a Latin name that the chapters do not give.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapters print no Dugdhika under any spelling, so the entry states no Sushruta claim about this plant and no body system from the text. What it does record is the appendix's Latin pairing, Oxystelma esculentum, and the published work on the plant itself, which the entry keeps separate from the Sushruta question. The entry records these as science, not as support for any traditional claim. Those studies are animal or in vitro. A flavonoid-enriched fraction given to mice with a femoral drill-hole injury promoted fracture healing and callus formation, and it stimulated osteogenic and anti-inflammatory genes. An ethanolic extract was reported to have anti-inflammatory, analgesic and antipyretic effects in animal models, and to inhibit lipoxygenase and stabilise red-blood-cell membranes in vitro. No human trial was retrieved.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for this plant under this name. The identity is open, so no plant should be gathered or used on the strength of this entry. As a general fact, plants with a milky latex can irritate the skin and eyes. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

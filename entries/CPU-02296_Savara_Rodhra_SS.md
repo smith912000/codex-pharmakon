@@ -53,6 +53,10 @@ General, well-established facts only. The identity is open, so no pharmacology c
 
 **Practitioner's note.** A name that follows Rodhra in three group lists and is explained nowhere. Nothing supports cultivation use, and without an identification nothing can be gathered or used. A cultivator reads it as a name in a record.
 
+### Functional–Anatomical Correlate
+
+Savara-Rodhra is named only in three group lists of chapter 38, so every organ claim here belongs to a group and not to the drug on its own. Within the Rodhrardi group the text places the drug against deranged Kapha and fat, says the group removes vaginal and uterine disorders, and calls it astringent and antitoxic. The Amvashtha'di group is said to ease deranged Pitta, heal ulcers, knit fractured bones and cure a mucous dysentery in which the stools contain thick mucus. The Nyagrodhadi group is said to heal ulcers, treat disorders of the uterus and vagina, help fractures knit, control secretions and haemoptysis (blood from the lungs and airways), and cool burning in the body. Taken together the claims touch the uterus and vagina, the bones, the bowel, the lungs and airways, the skin and ulcers, and the body's secretions, while Sushruta's Kapha, Pitta and fat are its own humoral terms. The identity is unresolved, and the entry gives no part used or potency.
+
 ### Contraindications
 
 - **Identity.** The plant is not securely identified. Do not substitute any herb, including Lodhra, for it on the strength of the name.

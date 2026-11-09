@@ -50,6 +50,10 @@ Clay minerals adsorb water and some substances, which is the general basis of cl
 
 ---
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry's only source is a single Assyrian list row for tidu, whose note says the identification comes from the context of poultice preparations. No text was read that names an organ, tissue, system or condition for river clay, and no traditional quality, humour or causal agency is attested for it in the sources retrieved. The only physical reference the entry gives is external: the material is a poultice applied to the body surface. The mineral gloss of clay minerals (illite and kaolinite) describes the material, not a site of action. The entry records no Unani, Sanskrit, Tibetan or Greek mapping for it. Beyond the external poultice, nothing is claimed for any part of the body.
+
 ### Contraindications
 
 - **Infection:** river mud can carry tetanus spores and other bacteria; it should not be put on a wound.

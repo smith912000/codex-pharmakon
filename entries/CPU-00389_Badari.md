@@ -58,6 +58,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this fruit tree. In Sushruta it is a fruit and a wine, and a leaf, bark or kernel in remedies. The abstentive answer is the correct one: any use is a matter for a qualified practitioner, and the text supplies no long-term regimen.
 
+### Functional–Anatomical Correlate
+
+Sushruta places Vadari in the Vata-soothing list, so the frame is Vata, and the lines read name no organ for that action. The ripe fruit is described, by comparison with Karkandhu, as sweet, demulcent and purgative, subduing Vayu and Pitta, while the unripe fruit is said to generate Kapha and Pitta. The organ claims follow the uses. The bowel is named in diarrhoea, frothy motions and purgation, and the rectum in an enema given after emetics or purgatives have gone wrong. The skin is named in an arishta for skin disease, ulcers are named as surfaces to wash, and the urinary tract in suppression of urine. Cough and hiccup are treated with leaves and kernels, and an enema is given to a pregnant woman, though no organ is named there. The text gives no virya or vipaka for Vadara. Since the same fruit appears as Kola in several lists, the mapping may cover one jujube or two, and the entry does not settle which.
+
 ### Contraindications
 
 No safety data were read. Sushruta says that the unripe fruit it compares to the Kola or Vadara "generates the Kapham and Pittam" (Sutra ch.46, line 1029). The infant, urinary, bleeding and hiccup uses above are conditions needing medical care, and none of them is advice. Do not give medicinal preparations to a newborn. Do not use in pregnancy. Seek a qualified practitioner, and seek ordinary medical care for diarrhoea with blood, retention of urine or any wound that does not heal.

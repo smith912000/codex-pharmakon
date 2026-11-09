@@ -36,6 +36,10 @@ Respirable crystalline silica dust (quartz dust) is a well-established cause of 
 
 **Practitioner's note.** An upper-grade drug in the Chinese scheme: the Classic held it safe for long use. Quartz is an inert silicate-group mineral whose dust harms the lungs, and the Classic's claims have no established support, so nothing here supports taking it. For a cultivator the entry is a record of how the Han-period elixir tradition ranked clear crystal among the "nourish life" drugs. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Classic's Bai Shi Ying, sweet, slightly warm and Superior-class, is said to treat wasting thirst, impotence, insufficiency of yin essence, cough with counterflow, and enduring cold in the chest around the diaphragm. It boosts the qi and eliminates wind damp impediment. Long taking is said to make the body light and lengthen life. Mapped to the body, the claimed sites are the fluid balance for thirst, the reproductive system for impotence, the yin essence in the translator's bracket, the airway and lungs for cough, the chest and diaphragm, and the joints and limbs for wind damp impediment. No humoral or doshic classification is printed beyond the flavour and the warm quality. The name shares syllables with other stones in the same section, so the sites belong to Bai Shi Ying as Yang prints it.
+
 ### Contraindications
 
 Quartz dust is a lung hazard, and powdered stone sold as a remedy may be a different mineral or may be contaminated. Mineral medicines are unstandardised and their sale is regulated in many places. The Classic's "lengthen life" is not a claim of fact. [USER: verify] the legal and conservation status of collecting rock crystal; the sources retrieved do not address it.

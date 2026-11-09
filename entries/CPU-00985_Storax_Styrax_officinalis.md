@@ -71,6 +71,10 @@ According to PubMed, direct pharmacological evidence for **true** *Styrax offici
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps storax chiefly to the respiratory tract and the skin. Dioscorides describes it as warming, softening and resolving, good for coughs, colds, catarrh and hoarseness, and the Unani reading is warm and dry for cold, thick catarrh of the chest. The modern correlate offered is the benzoin-type aromatic acid and volatile fraction (cinnamic acid, styracin, benzoic esters, styrene), linked to mucous-membrane stimulation and expectorant effect when inhaled as steam. Topically it forms a film-forming, antiseptic balsam over minor wounds and cracked skin. TCM places Su He Xiang in Heart and Spleen channels, opening the orifices and expelling turbid cold. A porcine wound-healing result exists, but for the Liquidambar substitute rather than true Styrax. The entry grades the Styrax-specific evidence as data-sparse. Kenetica's fumigation use acts on air and space rather than the body. Balsam allergy affects the skin, and smoke can trigger bronchospasm in asthmatics.
+
 ### Contraindications
 
 - **⚠️ Balsam contact allergy — the principal modern hazard.** Storax and its balsamic relatives (benzoin/Friar's Balsam, balsam of Peru, colophony) are well-documented contact sensitisers with extensive cross-reactivity. Patch-test before topical use; avoid in those with known fragrance-mix / balsam-of-Peru / colophony allergy (see Scardamaglia et al.). Balsam-of-Peru-sensitive individuals should avoid storax entirely.

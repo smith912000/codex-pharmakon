@@ -48,6 +48,10 @@ General facts only. Carbon is inert and not absorbed, and carbon black is a stan
 
 **Practitioner's note.** Nothing to do. Soot earns its place in the Codex as a plain household and craft material that three traditions used in plasters, salves, ink and antidotes. None gives it a cultivation role, and its modern correlates are warnings. A cultivator can take from it the care with which Dioscorides made and sourced it, and leave it out of the body.
 
+### Functional–Anatomical Correlate
+
+Dioscorides' soot chapters claim that frankincense and resin soot soothes eye inflammation, represses eye discharges, cleans and fills ulcers, and treats corneal disease. Pitch soot is said to make the eyelids pleasing, treat gnawed eye corners, the eyelid membranes and weeping eyes, and restore lashes. Glassmakers' soot, with wax ointment, is said to heal fractures, and rubbed on burns with water it forms new skin. Sushruta's soot of a room is in plasters for skin disease (Kushtha), a paste for a fat-originated tumour (Medoja arvuda), a rub for a Kaphaja affection of the mouth (Rohini), and in antidotes for insect bites. It is also in a stick for an enema. Avicenna calls soot a ripening and dissolving substance; resin smoke is said to treat eye ulcers and blepharitis and to prevent lash growth. Egyptian soot is an ingredient in a honey salve for uha-disease. No humour, dosha or qi is assigned.
+
 ### Contraindications
 
 - **Carcinogens and irritants.** Soot from wood, resin, pitch and chimneys contains polycyclic aromatic hydrocarbons and irritant particles; avoid skin contact, ingestion and breathing it in.

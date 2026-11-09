@@ -50,6 +50,10 @@ General, well-established facts only. *Spondias* species are tropical fruit tree
 
 **Practitioner's note.** A fruit of the fruit group, listed as food and as an ingredient in one oil, with no cultivation status. A cultivator has nothing to do with it beyond what any dietetic fruit offers, and the text's own sentence is a reason for care, since it says the fruit increases Kapham.
 
+### Functional–Anatomical Correlate
+
+Per the Sushruta Samhita, Amrataka (the translator's Hog-apple, a fruit) acts on the reproductive system and on the humours. Its own sentence calls it spermatopoietic, oily, and one that tends to increase Kapham. In the fruit group, the classic's general rule applies: fruits are acid and heavy in digestion, heat-making in potency, expectorant of Kapham, generating Pittam and subduing Vayu. Modern terms can help orient the reader: the reproductive tract (semen formation) and the digestive tract (where the fruit is taken in and digested) are the systems the text touches. The only treatment mapped is an oil cooked with Triphala, Lodhra, Tindika and Amrataka for sores of the penis, so the genital skin is the tissue it names. The dream-flower mention in Sharira ch.3 is an omen and maps to no organ. Kapham, Pittam and Vayu are the tradition's own humoral terms, and the Codex does not translate them into modern diagnoses. No constituent, dose or pregnancy guidance is stated.
+
 ### Contraindications
 
 - **General.** The text records that the fruit increases Kapham (line 1077). No other warning is printed for it.

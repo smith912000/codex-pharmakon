@@ -68,6 +68,10 @@ A follow-up randomised controlled trial (Govindan et al., *Phytotherapy Research
 
 **Practitioner's note.** Nothing here supports long-term use for cultivation. Kaṇṭakārī is a sharp, heating drug taken for a defined respiratory complaint and then stopped. The entry's own contraindications (solanaceous steroidal alkaloids, overdose risk) are the tradition-neutral warning. A cultivator does not take it as a tonic, and does not treat the trial data as evidence of a vital-constitution effect.
 
+### Functional–Anatomical Correlate
+
+The entry maps Kaṇṭakārī chiefly onto the respiratory channel (prāṇavaha srotas), with the digestive channel (annavaha) secondary. It is classed as kāsahara (anti-tussive) and śvāsahara (anti-dyspnoeic), and its karma includes dīpana-pācana, hṛdya (cardiac tonic in classical use), jvaraghna and vātānulomana. Its stated target is cold-wet kapha obstruction of the chest, with productive cough, wheeze, breathlessness, sputum and hiccough. A medicated oil for purifying ulcer interiors is also recorded from Suśruta Sūtra 36. In modern anatomical terms this means the airway and bronchi, airway secretions, and the lungs. The entry's human data are two small trials in bronchial asthma: a pilot study in which a 300 mg whole-plant powder improved spirometry, and a randomised trial in which the same dose three times daily improved PEFR, rhonchi, cough and sputum. The entry says the effect was smaller than salbutamol and is no substitute for rescue treatment. The evidence grade is moderate.
+
 ### Contraindications
 
 - Heating and sharp — use with caution in Pitta-predominant states, hyperacidity, and active inflammation of the GI tract.

@@ -56,6 +56,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+Little to map: the only site the entry gives is the bone. The Tibetan rGyud-bzhi tradition places gser.zil among three zil stone medicines, and Clark's translation says all three 'remove discoloration of the bone', while the Men-Tsee-Khang translation says they 'give color to bones'. Mapped to anatomy, that is the osseous tissue of the skeleton and its colour or appearance. The entry names no marrow, joint, tooth or other organ. The stone's own appearance, gold-ore-like and soft, does not map to a body site. The entry gives no flavour, potency, post-digestive taste or temperature for gser.zil, and the chapter's general eight potencies and six tastes are not assigned to it. No subtle-body term such as bcud len is attached, so no further subtle-body site is mapped. The gold longevity claim in another summary is not transferred to this stone.
+
 ### Contraindications
 
 - **Possible lead compound:** if the material is litharge, it is toxic and must not be ingested; Tibetan mineral preparations in general require qualified preparation, which these texts do not describe for this stone.

@@ -66,6 +66,10 @@ Nusier et al. (2007), *Neuroendocrinology Letters* — an albino-rat study of a 
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, black horehound acts on the stomach and the nervous system, as a short-course antiemetic and antispasmodic. Unani (Avicenna) frames it as a warm, dry, bitter resolvent and deobstruent that disperses cold, phlegmatic stagnation and quiets nervous and bilious nausea, with hysterical and hypochondriacal agitation also named. Dioscorides places the bruised leaves, with salt, on dog-bites and records use against gripes, so the skin at the bite and the gut are both targets in that tradition. The modern correlate, from receptor-binding and rat studies, is phenylpropanoid esters that bind benzodiazepine, dopaminergic and morphinic receptors and scavenge reactive oxygen species; the entry offers this as a plausible basis for the neurosedative reputation. The same rat work reports lower blood glucose, total cholesterol and creatine kinase, with a rise in serum insulin, which maps onto the pancreas and muscle. All of this is graded preclinical, with no robust human trial. Its cautions name the uterus in pregnancy, the sedative and dopaminergic systems, and blood sugar.
+
 ### Contraindications
 
 - **Pregnancy and lactation:** avoid — insufficient safety data and traditional emmenagogue/uterine cautions for bitter Lamiaceae.

@@ -69,6 +69,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places processed bhallataka, after shodhana has removed the caustic oil, on the Qi axis as a hot, acrid, stimulant rejuvenative for vata-kapha conditions. Its named body targets are the joints and musculoskeletal system (chronic rheumatic and arthritic disease), the nervous system and cognition (a medhya, nervine reputation that the entry ascribes to Shen), the skin (chronic skin disease, with the raw oil used as a caustic on warts and lesions and as a counter-irritant on joint pain), and intestinal worms. A metabolic stimulant action is described without a named organ. The Unani baladur is listed as hot, nervine and rejuvenative. The entry's modern-anatomy statement is that the urushiol-type phenols cause severe contact dermatitis and mucosal burns, so skin and mucous membranes are the tissues the raw oil injures. The Charaka Samhita rasayana attestation applies to the processed form only. Antitumour biflavonoid interest is a research note and not an organ claim.
+
 ### Contraindications
 
 - **Raw nut/oil — caustic.** Severe blistering dermatitis and mucosal burns; never internal raw; protect skin/eyes.

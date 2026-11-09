@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is how the text marks its own evidence: it says "said to be" where it has not seen, and names who gave the name. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter states one effect, that the applied plant “congeals bleeding and new wounds”. That places the action on bleeding and on the wound itself, and the entry maps no organ, since the text names none. The taste printed is “bitter” and the texture “clammy”, and the entry assigns neither a traditional quality nor a humour, dosha or qi term. The text opens with “There is said to be”, so the claim is second-hand and is marked as such in the chapter. The description covers leaves compared with coriander, stalks of about twenty centimetres, flowers of a Phoenician (red) colour, and a habitat of walls and vineyards. None of these is an organ or system. The identification is one modern suggestion. The entry records no safety information for pregnancy, children or other medicines, because the chapter gives none.
+
 ### Contraindications
 
 Chapter 4-35 prints no warning. The identification is only the translators' suggestion, so no plant should be gathered or used on the strength of this entry. The text offers the plant on hearsay. Bleeding and wounds need proper care and must not be left to an applied herb. The text gives no dose, and no safety information for pregnancy, children or any medicine taken at the same time was read. [USER: verify]

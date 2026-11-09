@@ -50,6 +50,10 @@ Aconite poisoning is a well-documented clinical emergency, with palpitations, nu
 
 **Practitioner's note.** A cultivator does nothing with raw aconite. The text's own grade places it in the disease-attacking class, not to be used long, and the paragraph names its poison in one clause. There is no life-nourishing use here, and the honest practice is to read the entry as a record and not to gather, handle or take the plant.
 
+### Functional–Anatomical Correlate
+
+The entry's body-level statements come from the Shennong paragraph (acrid and warm) and the Wu Pu layer (toxic). The paragraph names aversion to wind with shivering, sweating, cold-damp impediment, cough and counterflow qi, and accumulations and gatherings. These are the tradition's own terms (wind, cold-damp, qi, accumulations), and the entry does not map them to organs or tissues or translate them into modern diagnoses. The paragraph's only statement about effect on living creatures is that its decocted juice kills birds and beasts. Wu Pu calls the drug toxic and, for one beak-shaped form, greatly toxic. The Mingyi layer gives harvest and habitat only, and Sun's appendix of drug relations is a later compilation and is not used here. The entry gives no dose, no preparation for use and no pregnancy or child statement, and it says the plant must not be used. The species is of medium confidence: A. kusnezoffii is proposed, and A. carmichaelii is recorded as the other leading candidate.
+
 ### Contraindications
 
 **Potentially lethal. Do not use.** The Shennong text proper records that the juice kills birds and beasts; Wu Pu records "toxic" and, for the beak-shaped form, "greatly toxic". Poisoning can occur by mouth and by skin absorption of fresh plant material. The plant must not be used in pregnancy, by children, or with other medicines; the Codex gives no safe dose. Poisoning is a medical emergency: contact emergency services at once. The early writers' own confusion of names for this plant (above) is a reason not to rely on any identification from the text. Legal restrictions apply to aconite in many countries.

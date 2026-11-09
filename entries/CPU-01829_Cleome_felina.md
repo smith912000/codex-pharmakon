@@ -53,6 +53,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing. A purgative drug in a list of purgatives gives a cultivator no long-term practice, and purging is a therapy to be taken under care for a defined complaint. The identity behind the Latin name is a translator's appendix pairing.
 
+### Functional–Anatomical Correlate
+
+The Sushruta chapters name Suvarnakshiri only in purgative contexts. In the Shyamadi group, the text says the group cures abdominal glands, acts as an antitoxic, and is among the most reliable purgatives for obstinate constipation with suppressed urine, a distended abdomen and Udavarta. In the list of purgatives, the text says the roots of the plants that come before Tilvaka are the part used for purging, and Suvarnakshiri comes before Tilvaka, so the entry reads its root as the part by that rule. In the Tilvaka-ghrita, an oily purgative given in cases of Vata-roga, the drug is one of seven pasted and cooked with Tilvaka and Kampillaka roots, a triphala decoction, curd and clarified butter. The organs the text names are the bowel, the abdomen and its glands, and the urinary passage, with Vata as the disorder. No rasa, virya or vipaka is printed, and no dose of the finished ghrita is given.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for this drug in the passages read. Purgatives are unsuitable for self-treatment, and the identity here is open, so no plant should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

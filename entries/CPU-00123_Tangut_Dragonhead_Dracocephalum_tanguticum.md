@@ -62,6 +62,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 **Practitioner's note.** Nothing cultivation-specific. In the tradition it is a remedy for hot liver and stomach disorders, prescribed by a physician; the sources give no long-term or rejuvenative use.
 
+### Functional–Anatomical Correlate
+
+The entry maps Tangut dragonhead mainly onto the liver and stomach. In Tibetan terms it is a cooling, aromatic herb for liver heat and inflammatory liver and biliary disorders, and for stomach complaints and indigestion, which the Traditional Chinese Qi-tier reading describes as cooling and carminative. It is also used for cough and respiratory conditions, and topically for wounds and skin. The activity is attributed to the essential oil of monoterpenes such as citral and geraniol, which are carminative, calming and antimicrobial, and to flavonoids and rosmarinic acid as antioxidant and anti-inflammatory constituents. The entry cites an alcohol-injured mouse liver study linked to Nrf2 and NF-kB signalling, and says it is animal and cell work, not a clinical result. The rGyud-bzhi placement is for hot liver and stomach disorders, with no rejuvenative use recorded. Cold-deficient digestion and Lamiaceae allergy are the named cautions.
+
 ### Contraindications
 
 - **Pregnancy.** Aromatic medicinal use [USER: verify].

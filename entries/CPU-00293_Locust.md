@@ -36,6 +36,10 @@ Locusts are eaten as food in some regions and are a protein source. They can tri
 
 **Practitioner's note.** Nothing here for a cultivator to take. The row shows only that the project's list counts a locust among the *Canon*'s simples, and the list itself doubts the identification. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: no text read says what Avicenna used locusts for. The only attestation is a project list row, Locusta migratoria, flagged id-uncertain, citing Canon II with no chapter. The list gives no temperament, degree or action. Nothing in the entry names an organ, tissue, humour or channel for the locust, and no taste or potency is printed. The entry's scientific note says the insect is protein, fat and chitin, and that some species concentrate plant toxins, but it does not connect these to any traditional action. Innate heat and radical moisture appear only as the general Unani frame for longevity and are not tied to the locust, and no cultivation status is attested. The identification is uncertain, and the English word locust is also a carob name in the Dioscorides index, so nothing here can be applied to a particular insect.
+
 ### Contraindications
 
 Locusts can cause allergic reactions, and those gathered from sprayed fields can carry pesticide residues. Wild insects may also carry parasites and microbes and should not be eaten raw. Locust control uses poisons, and a swarm is not a safe source. The identification is uncertain, so nothing here can be applied to a particular insect. [USER: verify]

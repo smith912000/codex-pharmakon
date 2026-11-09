@@ -36,6 +36,10 @@ General, well-established facts only. Fish is a recognised source of protein and
 
 **Practitioner's note.** There is nothing here for a cultivator to do. The Nile perch is a name in a glossary row whose recipe and purpose were not available. The Codex does not recommend any medicinal use. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states no action, organ, tissue, quality or use for the Nile perch. The only sourced fact is an Ebers glossary row, 'Lates Niloticus', whose identification is flagged uncertain by the project's own list. Bryan's English translation prints several fish, including the shadfish, the swordfish and the eel, but none is glossed as a perch, and the entry does not equate any of them with it. No recipe, part of the fish or purpose is available, and the Egyptian material gives no quality, hot, cold, dry or moist, for any animal. The tradition tag is EP only. No Ayurvedic, Tibetan or Greek correspondence is given, and no preparation or dose is stated.
+
 ### Contraindications
 
 - **Food safety:** eat fish only when fresh and fully cooked; raw or poorly cooked freshwater fish can carry parasites and bacteria. Do not eat or apply raw fish bile or viscera.

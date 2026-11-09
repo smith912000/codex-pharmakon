@@ -67,6 +67,10 @@ According to PubMed, the saponin **esculentoside A (EsA)** — the signature con
 
 ---
 
+### Functional–Anatomical Correlate
+
+In the Chinese frame Shang Lu enters the Lung, Spleen, Kidney and Large Intestine channels and acts as a downward, water-draining agent: it drains water, disperses accumulation and reduces swelling. The entry maps this onto oedema, ascites, abdominal distension and difficult urination, which in anatomical terms means fluid retention in the abdomen and the urinary tract, with the bowel as the purgative route. Externally it is applied to carbuncles, abscesses and swellings of the skin and glandular tissue. Sushruta's Ayurvedic frame gives allied roots a tikshna, shothahara (anti-oedema) action for swellings, skin eruptions and glandular masses. The modern correlate named is esculentoside A, a saponin that inhibited IL-1, prostaglandin E2 and IL-2 in macrophage and lymphocyte work, and was docked to the SARS-CoV-2 spike protein in computational studies. The entry lists purging, vomiting, dizziness, tremor, hypotension, tachycardia, respiratory depression and convulsions as toxic effects of the saponins and lectins, and it treats the evidence as preliminary and the root as unsafe for internal self-use.
+
 ### Contraindications
 
 ⛔ **TOXIC PLANT — SERIOUS POISONING AND DEATHS REPORTED.** This is one of the most heavily flagged entries in Volume I.

@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is that the name is explained by something one can observe in place, a plant that floats and has no root. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The entry maps the chapter’s claims onto the kidneys and urinary tract, and onto the skin and the tissue beneath it. The plant is said to be “cooling” and to “stop bloody discharges from the kidneys”, which places the claimed action in the kidneys and urinary passages. A decoction, drunk and also smeared on with vinegar, is said to keep wounds, erysipelas and oedema “uninflamed”, which the entry places in the skin and in the swollen tissue. The chapter gives one quality, cooling, and no taste, moisture or dryness, and it uses no humour, dosha or qi term. Erysipelas is glossed in the translators’ bracket as a streptococcal skin infection, which the entry offers as the modern anatomy of the condition, though the chapter does not describe it. The identification is uncertain between two unrelated plants, so the mapping is only to the text’s report. The entry notes that bleeding from the kidneys and infected skin need medical care.
+
 ### Contraindications
 
 Chapter 4-102 prints no warning. The identification is uncertain between two unrelated plants, so no plant should be gathered or used on the strength of this entry. Bleeding from the kidneys and infected skin need medical care and must not be left to a decoction. Wild aquatic plants can carry contamination from the water they grow in, and the Codex has not read a source on that for this plant. The text gives no dose and no safety information for pregnancy or children. [USER: verify]

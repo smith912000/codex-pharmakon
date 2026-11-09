@@ -48,6 +48,10 @@ General facts only. Butter is a concentrated source of milk fat and is energy-de
 
 **Practitioner's note.** Butter is food, and both texts treat it as good when fresh. Nothing sourced here makes it a cultivation substance in either tradition: Dioscorides gives a plain materia medica entry, and Sushruta saves the vitality language for ghee. A cultivator can take the freshness rule and the plain-food status, and look to the ghee entry for the clarified product. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides places butter on the gut, the gums, the skin, the womb and the wounds around the nerves, bladder and neck. In the Greek text (DMM 2-81) butter is softening and oil-like: taken alone it loosens the intestines, rubbed on with honey it helps teething, gum itching and mouth ulcers (thrush), and applied outside it protects the skin from pustules. The chapter also gives butter as a suppository for dysentery and for womb inflammation, and in suppurating medicines it fills and cleans wounds. Its soot is an astringent for eye medicine. In Sushruta's milk-product passage (ch.45) fresh butter is cooling, sweet and slightly astringent, pacifies vata and pitta, and is said to be spermatopoietic and to aid memory and intellect. The text links it to consumption, cough, dyspnoea, ulcers, piles and facial paralysis. Butter of a few days' standing is heavy and increases kapha. Neither text gives a dose.
+
 ### Contraindications
 
 - **Dairy allergy and lactose.** Butter retains traces of milk protein and lactose; people with a milk-protein allergy should avoid it.

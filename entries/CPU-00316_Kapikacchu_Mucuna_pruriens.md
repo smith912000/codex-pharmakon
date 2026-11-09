@@ -108,6 +108,10 @@ Govindaiah HP, Seethalakshmi S, Rao BS (2002) "Effect of Mucuna pruriens on some
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, Kapikacchu acts first on the reproductive axis. Dopamine is said to suppress prolactin, letting LH pulse normalise and Leydig-cell testosterone recover, and the entry cites sperm count, motility and acrosomal enzyme gains from human fertility trials. In Ayurvedic terms the primary tissue is Shukra dhātu (semen and reproductive tissue), with Māṃsa (muscle) and Majjā (marrow and nervous tissue) secondary, and the classical text is said to rank it a Shukra-vardhaka herb of the first rank. In TCM it enters the Kidney and Liver channels, tonifying Kidney yang and relaxing sinews. The brain is the other target: mesolimbic dopaminergic tone for motivation and fatigue, and the striatal dopamine neurons protected in Parkinson's models. The Chinese tremor use is cast as Liver Wind with Kidney deficiency. For connective tissue and joints the entry cites collagen cross-linking and anti-inflammatory beta-sitosterol. Its clinical citations are human fertility and Parkinson's studies; the connective-tissue and motivation claims are mechanistic.
+
 ### Contraindications
 
 - **Dopaminergic medication interactions (critical):** Direct pharmacological conflict with antipsychotic medications that block dopamine receptors (haloperidol, risperidone, clozapine); Mucuna will partially counteract their therapeutic effect; co-administration with pharmaceutical levodopa requires dose adjustment with neurologist guidance to avoid dopaminergic excess (nausea, dyskinesia, psychosis risk)

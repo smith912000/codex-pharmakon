@@ -47,6 +47,10 @@ General, well-established facts only. Tannin-rich barks are astringent. No clini
 
 **Practitioner's note.** Nothing here gives a cultivator a practice with this plant. It is a Latin name in a translator's glossary with an uncertain Sanskrit partner, and nothing should be gathered or taken on its strength.
 
+### Functional–Anatomical Correlate
+
+Little to map: The Latin name is the translator's, and its Sanskrit partner is uncertain between two names, so no action can be assigned with confidence. If the partner is Asana, the chapters say the flowers of the tree subdue Pittam and Kapham and prove curative in skin disease (Kushtham), and that the Salasaradi group destroys the germ of Kushtha and proves beneficial in Meha and Pandu. If the partner is Jivaka, the chapters give its leaves as sweet in taste and digestion and cooling in potency, and say they subdue Kapham. The entry names no organ, tissue or channel for either name. The translator's glosses for Meha and Pandu are morbid discharges from the urethra and chlorosis or jaundice, and are not modern diagnoses. No rasayana status is attested, and the appendix line gives no preparation or dose. No warning is printed for either name.
+
 ### Contraindications
 
 The Sushruta passages read print no warning for either candidate name. The identity rests on a translator's appendix, the same Latin appears against two Sanskrit names, and no plant should be gathered or used on the strength of this entry. No pregnancy or conservation information was read. [USER: verify]

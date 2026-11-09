@@ -39,6 +39,10 @@ Avicenna quoting Dioscorides: astringent, cooling, slightly softening ("as is sa
 
 **Practitioner's note.** Nothing to practise. The entry is a Greek recipe for refining a clay, copied into the Canon.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states two sites, both on the body surface. The first is ulcers, which the clay is said to fill with blood. The second is fresh wounds, which the clay is said to glue together when they first occur. The entry quotes Dioscorides on clays in general as astringent, cooling and softening, and says this clay is astringent and cooling, softening a little, as is said. The fourth word of the general description, read as mughriya (agglutinating), is uncertain and is given as the text gives it. The entry adds no temperament degree, no organ beyond the wound and the ulcer, and no body system. Modern anatomy would place the claimed sites in the skin and the open soft tissue of a wound or ulcer.
+
 ### Contraindications
 
 - Soil and clay can carry spores and pathogens; do not put them on wounds.

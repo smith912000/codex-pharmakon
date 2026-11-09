@@ -44,6 +44,10 @@ General, well-established facts only. Burns are treated today by cooling, clean 
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The eel is a name in an Egyptian animal list and the sources read give it no use. The Codex does not recommend handling or taking animal material on this basis. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: Bryan’s 1930 list of Ebers animals includes “Eel” and “Electric Eel” in a line of animals “whose identity is not in doubt”, with no Egyptian word or binomial, and no recipe is quoted for the plain eel. The only nearby recipe concerns the electric eel’s head warmed in oil and applied to the part of the body, as a burn remedy, and the entry does not treat it as a recipe for the plain eel. The text gives no organ, system, quality, temperament, cultivation status or dose for the eel. The entry notes that the identification of the electric eel is disputed in the source list, and that Bryan’s book is a summary, so the papyrus may hold more that is not on disk. Nothing further can be mapped to body systems from the sources read.
+
 ### Contraindications
 
 - **Raw eel blood or flesh:** the blood of freshwater eels is toxic raw; do not eat any eel uncooked.

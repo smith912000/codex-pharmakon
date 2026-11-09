@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the source read gives a cultivator a practice with this plant. This is a short record of an uncertain identity. Nothing is to be done with it.
 
+### Functional–Anatomical Correlate
+
+The entry's two chapters act on the spleen, the urinary tract, the menstrual flow, the stomach and the bowels, in Dioscorides' terms. Sison (3-64), a Syrian seed, is taken in a drink for the spleen, painful urination and retention of the menstrual flow, and is also eaten as a sauce. Petroselinon (3-77), a Macedonian seed, is diuretic and expels the menstrual flow. Taken in a drink it is good for gaseousness, griping of the stomach, colic, and pain in the sides, kidneys and bladder. It is also mixed into urinary antidotes. Traditional terms: sison is acrid to the taste, and petroselinon has a sweeter, sharp, aromatic scent. No warming, cooling or degree is printed in either chapter. The two chapters are distinct plants, and the single binomial Sison amomum is a translators' gloss that may merge them.
+
 ### Contraindications
 
 The identity is uncertain and no safe preparation can be stated. Both seeds are recorded as expelling the menstrual flow; do not use in pregnancy. The traditional uses are not advice.

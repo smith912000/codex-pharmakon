@@ -45,6 +45,10 @@ The entry's own words fit that frame and go no further: it treats cold, heat, ev
 
 **Practitioner's note.** A middle-class entry in the Chinese scheme: for controlling disease, weighed before use, and not the class of long-term life-nourishing drugs. The entry promises no cultivation outcome and gives no dose. Nothing here supports taking this root as a cultivation practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Shennong Bencao Jing entry for Qin Jiao calls the root bitter and balanced, and says it mainly treats cold and heat, evil qi, and cold, damp, wind impediment with pain in the limb joints. The body regions it names are the limb joints, for the impediment with pain, and the water and urinary passages, since the drug precipitates water and disinhibits urination. Its heat, cold and evil qi are whole-body categories, and the entry does not assign them to a named organ. The translator's footnote, which is not the classic's text, adds dampness, wind, the stomach and intestines, and the qi of the liver and gallbladder; the entry does not use that footnote as its claim, so those organs are excluded here. No meridian, tissue or constituent is named, and the entry gives no toxicity statement, part used, dose or duration.
+
 ### Contraindications
 
 The entry prints no warning and no toxicity statement; the preface says the middle class "may or may not be toxic" and that one should "weigh and ponder before putting them to their appropriate use" (line 387 onward). No dose, preparation or safety information is given for this root, and the entry's identity is the translator's pharmaceutical Latin. No safety information for pregnancy was read. [USER: verify]

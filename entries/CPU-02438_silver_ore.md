@@ -50,6 +50,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 **Practitioner's note.** Nothing to take from it for cultivation. It is a raw ore the tantra lists for draining lymph, with no preparation given, and a raw metal ore is not a practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the sources state one action, shared with gold ore. In Clark's unbracketed text, both ores drain lymph, which places the action in the lymphatic system, its vessels and their accumulations. The Men-Tsee-Khang edition gives the same action as draining out chhuser, a Tibetan term it leaves untranslated. The colour, shape and smelting are commentary in Clark's brackets. No taste, potency or post-digestive taste is printed for the ore alone, and no wind, bile or phlegm action is printed for it in the passages read. The stone-medicine section places the ore among stone medicines, with no further site or organ given.
+
 ### Contraindications
 
 - **Raw metal ore:** may contain lead, arsenic, antimony and other toxic metals; do not swallow, grind or inhale dust.

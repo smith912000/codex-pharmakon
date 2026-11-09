@@ -129,6 +129,10 @@ Graded honestly. **There is no retrieved human clinical trial of *Alchemilla vul
 
 **Practitioner's note.** Nothing in the tagged traditions. The entry's own use is local astringency and wound care in European folk practice, and its alchemical "celestial water" link is symbolic, not therapeutic.
 
+### Functional–Anatomical Correlate
+
+Lady's Mantle acts, on the entry's own account, at the tissue interface (mucosa, endometrium and skin) rather than on the nervous system. Its named action is astringency, which folk and Physiomedical practice describe as sealing and contracting tissue, and which the entry treats as a directly observable event. The traditional organ targets are the female reproductive tract (heavy menstrual, intermenstrual and postpartum bleeding, leucorrhoea), the gut mucosa (diarrhoea), and the skin and mucous membranes of wounds, ulcers, inflamed gums and sore throat, where topical contact is the best-supported route. The alchemical celestial water is explained by the entry as guttation fluid, xylem sap extruded through leaf-margin hydathodes under root pressure, with no demonstrated pharmacological property. The entry states that systemic action on the uterus after oral intake is untested in humans and not supported by tannin chemistry, because gut microbiota transform the constituents before absorption.
+
 ### Contraindications
 
 - **No human clinical safety data exist for this plant at any dose.** All safety statements below are inference from tannin chemistry and general herbal practice, not from trials.

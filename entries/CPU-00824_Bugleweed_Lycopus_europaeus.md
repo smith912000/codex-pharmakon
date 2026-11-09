@@ -64,6 +64,10 @@ Graded honestly, this is a **genuine but stratified win**: strong mechanism, rea
 
 **Practitioner's note.** Nothing. This is a targeted remedy for a defined complaint, not a plant for long-term cultivation of the self. Because it acts on the thyroid axis, it should not be taken casually or continuously.
 
+### Functional–Anatomical Correlate
+
+Per the entry, bugleweed is a cooling, drying, bitter-astringent herb whose folk use was for the heart: palpitations, nervous tachycardia and a racing pulse. In Kenetica it is an operative endocrine cooler acting on the thyroid axis and the over-fired metabolic and cardiac engine that produces heat, tremor and restlessness. The entry's mechanism is preclinical: oxidised caffeic-acid derivatives, chiefly rosmarinic and lithospermic acid, form adducts with TSH and inhibit the receptor binding and activity of Graves' thyroid-stimulating immunoglobulins. Peripheral T4-to-T3 deiodination is reported reduced in rats. At low dose, the animal cardiac benefits (heart rate, blood pressure, cardiac hypertrophy, cardiac beta-adrenoceptor density) occurred without change in thyroid hormone or TSH. In one small open human study in slight hyperthyroidism, urinary T4 excretion rose and raised morning heart rate eased. The entry calls the hormonal-endpoint evidence modest. It is contraindicated in hypothyroidism and pregnancy, and pituitary-gonadal effects are noted.
+
 ### Contraindications
 
 - **Contraindicated in HYPOthyroidism** — an antithyroid herb given to an underactive thyroid worsens the deficit.

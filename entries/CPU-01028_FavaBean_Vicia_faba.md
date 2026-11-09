@@ -95,6 +95,10 @@ The fava's neuro-active reputation is real and specific. Rabey et al. (1992, *Jo
 
 ---
 
+### Functional–Anatomical Correlate
+
+The fava bean is mapped onto the blood, the brain's dopamine system, the digestive tract and the urinary passages. Favism is the central hazard: in G6PD-deficient red cells the vicine and convicine aglycones produce oxidative stress that causes acute haemolysis, which the entry says can be severe or fatal, especially in children, and warns may also follow inhalation of pollen. The neuro-active link is levodopa, the dopamine precursor, which the entry says rises in plasma and improves parkinsonian features after a cooked bean meal, with dyskinesia in some patients. Galenic-Unani placement is cold and moist, nourishing but flatulent and dulling to the senses. Chinese medicine calls can dou sweet and neutral, strengthening the Spleen and promoting urination. Ayurveda classes it as heavy and vata-increasing, hard to digest. The Dantian placement is the entry's own subtle-body note. No self-treatment for Parkinson's is endorsed, and the bean is contraindicated in G6PD deficiency.
+
 ### Contraindications
 
 - **G6PD deficiency / favism — ABSOLUTE:** do not eat (or expose to fava pollen) anyone with G6PD deficiency or unexplained prior haemolysis; favism can be severe or fatal, especially in children. If G6PD status is unknown in an at-risk population, caution is warranted.

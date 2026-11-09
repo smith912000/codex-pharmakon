@@ -51,6 +51,10 @@ General, well-established facts only. Nothing can be said of an unidentified mat
 
 **Practitioner's note.** A name in a group that the text calls restorative, and in a burn plaster. The group wording is not the drug's, and a cultivator has nothing to use from it until it is identified.
 
+### Functional–Anatomical Correlate
+
+Tugakshiri appears in two places. In the Kakolyadi group the Samhita says the group subdues the deranged Pitta, blood and Vayu, increases the milk in the breast as a galactagogue, favours the accumulation of phlegm, and acts as a restorative and an elixir that augments virile potency. These are group properties and not the drug's alone, and the translator's English for restorative and virile is unchecked. In Sutrasthana chapter 12 Tugakshiri is one ingredient of a plaster of several drugs bound with ghee, applied over a burn of the Samyag-Dagdha type, which places its use on the skin. The text ties the drug to no organ, tissue or constituent of its own, and it prints no quantity. The plant is unidentified, and the Appendix 3 match with Curcuma is only a spelling resemblance.
+
 ### Contraindications
 
 - **Identity.** The material is not identified. Nothing may be gathered, bought or used on the strength of this entry. [USER: verify]

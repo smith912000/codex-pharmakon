@@ -49,6 +49,10 @@ General, well-established facts only. The identity is open, so no pharmacology c
 
 **Practitioner's note.** Nothing to do with it. An unidentified Egyptian herb known to the record by one second-hand description and one use. The useful lesson is the one the chapter itself teaches: a shared name is not a shared plant.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives one use only, that a single root taken in a drink with wine helps those bitten by snakes. No organ, tissue or body system is named, and the snake-bite is the condition rather than a tissue. The text gives no quality such as warming or drying and says nothing of the blood, the humours or any energetic channel. The plant is described as a low spreading herb with a pale root and black rind, growing near the sea and on hillocks and rocks, but these are form and habitat notes, not statements of action on the body. Dioscorides reports the use second-hand, citing Crateuas, and does not say he saw the plant. The entry contains no dose, no preparation beyond the drink in wine, and no statement about pregnancy or children. The Codex draws no body-system mapping from it and gives no snake-bite protocol. Snake-bite is an emergency requiring urgent medical care.
+
 ### Contraindications
 
 - **Identity.** The plant is unidentified; do not substitute elecampane or any other herb for it.

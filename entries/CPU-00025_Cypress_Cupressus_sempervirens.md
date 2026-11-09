@@ -66,6 +66,10 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 
 ---
 
+### Functional–Anatomical Correlate
+
+Cypress acts on tissues that leak or relax, which the entry describes chiefly as astringent action. Its proanthocyanidins are credited with tightening the veins, giving the venotonic use for haemorrhoids, varicose veins and heavy legs. In the gut, the cone decoction checks diarrhoea and loose bowels, and in the uterus it is named for excessive menstruation. The sweat glands are a further target, with night sweats and excessive perspiration treated by an astringent-aromatic combination. Externally the cones staunch minor bleeding and firm spongy gums and prolapsed tissue. The diluted essential oil, mainly alpha-pinene with cedrol, is credited with antiseptic action on the bronchi for coughs and congestion. In Unani and Galenic terms the tree is cold and dry, qabid (astringent) and habis (styptic), so its action is drying and binding rather than warming. TCM places it as Qi on the gather-and-hold axis, and pregnancy is a caution.
+
 ### Contraindications
 
 - **Pregnancy — caution.** Astringent-aromatic medicinal use and the essential oil are traditionally avoided in pregnancy. [USER: verify.]

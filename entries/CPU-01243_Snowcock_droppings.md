@@ -38,6 +38,10 @@ General, well-established facts only. Wild-bird droppings can carry bacteria suc
 
 **Practitioner's note.** A cultivator does nothing with this. It is a list entry for wild-bird droppings, with one action and no preparation, and handling them carries infection risk with no supported benefit. The honest use of the entry is as a record of what the Tantra says.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that the droppings of the snowcock, with those of wolves and of a third animal, reduce swellings. The one site the text gives is a swelling, a local build-up of fluid or tissue, and the text does not say where on the body it is treated. It does not say whether the dropping is applied to the skin or taken by mouth, so no route or organ can be placed. Clark's group gives 'all three' without naming the third. Men-Tsee-Khang's version names dogs, wolves and the snowcock, which fits Clark's three items and suggests the dog. No humour, quality, potency or energetic class is printed for the droppings, and the general statement on the sweet taste of meat is not applied to them. The Codex can record the swelling and nothing further from these lines.
+
 ### Contraindications
 
 - **Infection:** wild-bird droppings can carry bacteria and fungal spores; do not handle, ingest or inhale dried droppings.

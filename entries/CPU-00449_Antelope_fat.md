@@ -54,6 +54,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+The Ebers text gives one use for the fat of the 'Antilope', an animal the sources do not identify. The site is the anus. After an internal drink for cooling the anus, the fat is rolled with caraway into a pill and put in the anus, to reduce smarting there. Bryan frames it as relief for a sequela of earlier treatments, so the anal passage and its local irritation are the mapped target. The text gives no humour, temperament, qi or constitutional quality for the fat, and the Egyptian material is organised by complaint, not by the vital constitution, so no life-related organ is mapped. The person, as ka, ba, akh or ib, is not engaged. The quantity marks are not legible, so no proportion can be given. Nothing in the entry links the fat to the blood, bowel or any other system.
+
 ### Contraindications
 
 - **Hygiene and infection:** untreated animal fat is not sterile; rectal insertion of non-sterile material risks infection and injury.

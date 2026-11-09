@@ -40,6 +40,10 @@ The entry gives none. The *māzaryūn* entry says hot and dry in the fourth degr
 
 **Practitioner's note.** There is nothing to practise. The entry is a warning in its own terms.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that kamalyun is a kind of mazaryun, black and deadly (qattal), and that it is also known as khamalyun, a point treated earlier in the book. It names no organ, temperament, faculty, use and dose, and it does not describe a thistle. The Origin section of the Codex file notes that the spine's Atractylis identification conflicts with the text's own words, which point to a spurge-type group, and that the entry is a one-sentence cross-reference. The entry's only classification is the word black, applied to a kind of deadliness. No constituent is named in the text. No preparation is given, and nothing in the entry supports a use. Its single claim is toxicity, and the entry's own contraindication is to avoid handling, preparing or ingesting it.
+
 ### Contraindications
 
 - Deadly poison by the Canon's own word. Do not handle, prepare or ingest.

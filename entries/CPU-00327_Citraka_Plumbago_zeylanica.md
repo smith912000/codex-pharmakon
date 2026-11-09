@@ -65,6 +65,10 @@ According to PubMed, the pharmacology of Citraka is dominated by **plumbagin**, 
 
 **Practitioner's note.** Nothing to cultivate with this: a short-course, purified, acrid drug in the sources retrieved, with no long-term or rejuvenative status attested in either tradition.
 
+### Functional–Anatomical Correlate
+
+Citraka acts mainly on the digestive tract, the gut and the fat and oedema-handling systems. Its Ayurvedic actions are dipana (appetiser), pachana (digesting ama), lekhana (scraping, anti-obesity), krimighna (anthelmintic) and shothahara (anti-oedema), used in grahani (malabsorption), agnimandya (weak digestive fire) and arsas (haemorrhoids). It pacifies Kapha and Vata and aggravates Pitta. The Siddha reading names the root a deepana and anthelmintic, used for skin disease and low digestive fire. Folk use applies the root as a rubefacient on rheumatic joints and, dangerously, as an abortifacient. The modern preclinical work centres on plumbagin. In mice it reduced TNF-alpha, IL-1beta and IL-6 in lipopolysaccharide-induced lung injury, and in vitro it was active against MRSA. The entry grades this preclinical and not human-validated at Ayurvedic doses. Contraindications cover Pitta-predominant states, pregnancy, lactation, bleeding disorders and peptic ulcer or gastritis, and the raw root is a vesicant poison.
+
 ### Contraindications
 
 Pitta-predominant constitutions and Pitta disorders; pregnancy (traditional abortifacient — **absolutely contraindicated**); lactation; bleeding disorders and active peptic ulcer/gastritis. Overdose causes burning, vomiting, diarrhoea and skin/mucosal irritation; the raw root is a vesicant poison. Not for self-medication; use only śodhita material under qualified supervision.

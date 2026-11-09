@@ -40,6 +40,10 @@ Egyptian: the Ebers corpus is organised by complaint and gives no energetic qual
 
 **Practitioner's note.** Nothing. A cultivator has no use for this substance; it is a record of one hair remedy, and the identification is open.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that ibex fat is one ingredient in Ebers hair remedies for baldness, so its action in the sources is on the hair and scalp. Bryan's text names Egyptian goat fat in a similar remedy, and the entry does not equate the two. Project files name ibex fat in a hair-loss prescription and a growth remedy, which the entry marks as unverified. The Ebers material gives no qualities, humours or spirit organs for the ibex, and the lines read record no spell with the remedy. No preparation, dose or route is stated, and the identification of the species is uncertain.
+
 ### Contraindications
 
 Ibex are wild animals, and in many regions they are protected, so taking or trading them or their parts can be illegal. Unprocessed animal fat can carry bacteria and parasites. Hair loss has many causes, some medical; see a clinician rather than applying animal fat. There is no safety information for the ibex in the sources retrieved.

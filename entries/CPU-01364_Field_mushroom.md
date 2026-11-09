@@ -60,6 +60,10 @@ No single *rasa*, *virya* and *vipaka* is given for mushrooms as a whole, and no
 
 ---
 
+### Functional–Anatomical Correlate
+
+Sushruta's Ayurvedic text (SS) treats mushrooms as an item of food in the food-and-drink chapter, and maps each kind by the substrate it grows on rather than by organ. The straw-grown kind is sweet in taste and digestion, tends to dryness, and subdues the three deranged humours. The sugar-cane kind is sweet and pungent, leaves an astringent after-taste, and is cooling in potency. The dung-grown kind is said to aggravate vata, to be heat-making, and to have an astringent taste. The bamboo kind is astringent and tends to aggravate vata. The ground-growing kind is heavy of digestion and does not inordinately generate vata. Digestion and the three humours are the only bodily terms used. No rasa, virya or vipaka is printed for mushrooms as a whole. The text does not show that the field mushroom is any of these kinds, and the chhatra drugs of the rasayana chapter are described as bulbous plants, so they are not mapped here.
+
 ### Contraindications
 
 - **Poisoning:** many wild fungi are poisonous or deadly; field mushrooms have toxic look-alikes. Never eat a wild mushroom on the strength of this entry.

@@ -57,6 +57,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Sushruta t
 
 **Practitioner's note.** Nothing here gives a cultivator a practice with this plant. In the Sushruta scheme the name is a fruit of the astringent group, a scented flower in a cooling regimen (Uttara 47), and an ingredient of recipes prescribed by a physician. Nothing should be gathered or taken on the strength of a Latin name that the text does not itself give.
 
+### Functional–Anatomical Correlate
+
+The entry's sites are the teeth, the membranes, the digestive tract and the skin, with the flower's scent acting on the whole system. The Sushruta fruit passage says the Vakula fruit is demulcent and astringent, imparts greater firmness to the teeth, and removes the viscid condition of the membranes. In an emetic procedure, a decoction of Vakula and Ramyaka is used with powdered raw Madana fruit to cause emesis, so the stomach is its site in that recipe. Ringworm (Dadru) is treated with a plaster containing Kes'ara, the translator's name for Vakula, so the skin is the named site there. In the Prameha chapter Vakula is an ingredient of arishtas, asavas and yavagus, and it appears in a medicated ghee for disease that has attacked the Dhatus, the body's tissues. The flower is described as sweet smelling and pleasant. The fruit group is cooling and subdues Pittam and Kapham.
+
 ### Contraindications
 
 The Sushruta passages read print no warning for the drug itself. The text uses it in a potion with Madana, which is an emetic, so that passage is a physician's procedure, not a household one. The identity rests on a translator's appendix, so no tree should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

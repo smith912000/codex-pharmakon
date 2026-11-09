@@ -61,6 +61,10 @@ Varuṇa has, uniquely in this batch, **human clinical evidence**. According to 
 
 **Practitioner's note.** Nothing. The Suśruta text uses Varuṇa as a Kapha-reducing drug and a cooked leaf vegetable, and records no vital-constitution role for it.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Varuṇa acts on the urinary tract, the bladder and urinary calculi, and on fat and obstructed channels. The Suśruta frame names aśmarī (urinary stone), mūtrakṛcchra (dysuria), medoroga (fat-tissue disorder), gulma (abdominal masses) and antar-vidradhi (internal abscess). Its actions are aśmarīghna and aśmaribhedana (breaking calculi), mūtrala (diuretic), lekhana (scraping) and bhedana (de-obstructing). The entry reports that the bark decoction reduced glycolate oxidase, oxalate synthesis and renal deposition of stone constituents in rats. It cites a small randomised placebo-controlled human trial (77 patients) of a combination product in which stones of 5 to 10 mm shrank and pain scores fell, though attribution to the species is imperfect. The modern active named is lupeol, credited with anti-lithic and anti-inflammatory action. The entry notes diuretic and electrolyte interactions, renal caution, and that large or obstructing stones need urological assessment.
+
 ### Contraindications
 
 - Not a substitute for urological assessment of obstructing stones, infection, or impaired renal function — seek conventional care for large/obstructing calculi and acute symptoms.

@@ -92,6 +92,10 @@ Finely ground tamarisk bark applied dry to clean wounds as a styptic powder; pro
 
 **Practitioner's note.** Nothing. No cultivation practice with tamarisk can be recorded from the sources available.
 
+### Functional–Anatomical Correlate
+
+Tamarisk is mapped to several organ systems. Its astringent bark and gall act on wounds and skin, where the entry describes protein-precipitating hemostasis and antimicrobial cover, and on the bowel, for diarrhoea and haemorrhoids. Ayurvedic terms are raktastambhana (blood-stopping) and vrana-ropana (wound-healing). The spleen is the most emphasised organ: Avicenna's Canon gives anti-splenic action for enlarged spleen, the TCM map pairs the Liver and Spleen, and Dioscorides is cited for enlarged spleen. Unani uses also name the teeth (a tooth-strengthening dentifrice; a wine decoction of the leaf for toothache), the eye (fruit in place of gall), the chest (long-standing spitting) and the womb (flux). In TCM the Lung channel receives Wind-Heat dispersal for measles and skin eruptions. Its astringency is described as astringency, cleansing and purifying without strong drying. The entry's cited anti-malarial, anti-inflammatory and antimicrobial studies are in vitro or rodent work.
+
 ### Contraindications
 
 - **Constipation** — the very high tannin content will worsen constipation; use only in diarrhea/excessive bowel looseness, never as a daily supplement in those prone to constipation

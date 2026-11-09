@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a spleen-fever drug in the Tibetan texts, with a likeness-of-shape rationale in Clark's introduction, no preparation and no dose, and the plant behind the name is uncertain. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts record a seed that cures spleen fever. The Men-Tsee-Khang sentence gives hot disorders of the spleen, in a sequence that places a heart drug and a kidney drug beside it. In modern anatomy terms the claim is placed on the spleen, the lymphoid organ in the left upper abdomen, though the entry does not define the Tibetan spleen. Clark's introduction says the three zho.sha seeds are named after the organ they resemble in shape, a doctrine of signatures that the entry presents as a likeness and not as a finding. The commentary grades the spleen-shaped seed as superior, which is a grade and not a taste or power. The entry prints no taste, power, channel or preparation. The glossary names Mucuna monosperma for the same name, so the splenic claim rests on a plant whose identity the sources dispute.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The identity is open between two legume genera and the seeds are large and hard, so no plant should be gathered or used on the strength of this entry. Fever of any organ needs medical care. No safety information for pregnancy was read. [USER: verify]

@@ -53,6 +53,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator a potherb with a stated taste and two illness ghritas, not a practice, and the Latin behind the name is a translator's appendix pairing that names two species.
 
+### Functional–Anatomical Correlate
+
+The text names Changeri as a potherb with a stated taste and as an ingredient in two ghritas for bowel disease, so its named sites are the digestive tract and the bowel. Its taste is acid, astringent and sweet, and it is appetising and heat-making in potency. The potherb passage says it helps deranged Vayu and Kapham, and that it is curative in mesenteric disorders (Grahani) and in piles, which places its action in the intestine and the anus in modern terms. A ghrita cooked with Changeri, Nagara and Kola, with milk, curd or Kanjika, is given for Atisara with pain, and a second ghrita cooked with its expressed juice and Magadhadi drugs is given for Grahani. The chapters print no vipaka for it, and the Latin behind the name names two species.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for this herb. The identity is open, so no plant should be gathered or eaten on the strength of this entry. As a general fact, wood-sorrels are rich in oxalates; people with kidney stones, gout or renal impairment are usually advised to avoid oxalate-rich plants. Diarrhoea that is persistent, bloody or in a child needs medical care. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

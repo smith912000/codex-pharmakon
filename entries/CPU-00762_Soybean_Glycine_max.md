@@ -67,6 +67,10 @@ According to PubMed, the phytoestrogen and lipid effects of soy have both been e
 
 ---
 
+### Functional–Anatomical Correlate
+
+In the entry's TCM frame (SBJ), yellow soybean (Da Dou) enters the Spleen and Large Intestine and nourishes Blood, tonifying the Spleen. Black soybean (hei dou) is directed to the Kidney to move water and settle wind, and fermented Dan Dou Chi, which enters Lung and Stomach, is said to release the exterior and relieve vexation. Sprouted soybean (Da Dou Huang Juan) is attested in the classic. In the Ayurvedic and Unani frames the bean is heavy and cold, and it is flatulent and thickening, so it is corrected by cooking or fermentation. The modern mapping is to the reproductive and cardiovascular systems: isoflavones (genistein, daidzein) bind oestrogen receptors, with a preference for ERβ, and the entry reports a meta-analysis of trials in which they reduced hot flushes and lowered LDL cholesterol. Equol production depends on gut bacteria. The entry grades the evidence moderate and notes that the literature disagrees over whether the isoflavone or the protein matrix drives the cholesterol effect.
+
 ### Contraindications
 
 - **Oestrogen-sensitive conditions — caution.** Because isoflavones are phytoestrogens with ER-binding activity, concentrated isoflavone supplements should be used cautiously (and under medical guidance) by people with a history of oestrogen-receptor-positive breast cancer or other hormone-sensitive conditions. Dietary soy is generally regarded differently from high-dose extracts, but concentrated supplementation warrants clinician oversight. [USER: verify current oncology guidance for the individual.]

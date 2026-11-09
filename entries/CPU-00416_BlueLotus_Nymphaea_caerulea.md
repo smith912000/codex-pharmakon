@@ -75,6 +75,10 @@ Farrell et al. (2016), *PLoS ONE* — characterised nuciferine (an alkaloid of *
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry's own claims, blue lotus acts on the nervous system and the heart. Unani uses the flower as a sedative-refrigerant for hot headaches, fever, insomnia, agitation and palpitation of a hot temperament, and Dioscorides uses root and seed to temper heat, quiet fluxes and cool excessive desire. The Egyptian material records a calming, fragrant flower steeped in wine. The entry's pharmacology names nuciferine, which in receptor and rodent studies acts on serotonin and dopamine receptors and inhibits the dopamine transporter, so it touches those neurotransmitter systems. It also notes that authenticated and commercial extracts often lack nuciferine and apomorphine, so the psychoactive reputation is weakly supported. The cooling and calming claims are historical, and the receptor work is preclinical.
+
 ### Contraindications
 
 - Alkaloid content is **highly variable and often negligible**; do not assume a reliable dose or effect from any commercial product.

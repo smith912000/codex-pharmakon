@@ -44,6 +44,10 @@ General, well-established facts only. *Tephrosia purpurea* is a widespread herb 
 
 **Practitioner's note.** Nothing to do. A cultivator finds a name and a simile here, not a practice.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that Sara-punkha is paired by position with the translator's binomial Tephrosia purpurea in the Sushruta appendix of drug names, and that the name appears once in the instruments chapter, Sutrasthana chapter 7, where the mouth of one type of probe is said to resemble the mouth of a Sharapunkha. That passage is a comparison of shape only. It names no part of the plant used, no action, no quality, no preparation and no dose. No body system, organ, tissue, humour, dosha or qi is linked to the plant. The one non-appendix mention concerns a surgical instrument, not a patient. The Codex notes only that the genus is a legume and that some members are known to be toxic to fish, a general fact the text does not supply, and it draws no organ correlate from either.
+
 ### Contraindications
 
 - **Identity.** The Latin name is the translator's, and the Sanskrit pairing is positional. Do not use a plant on the strength of this entry.

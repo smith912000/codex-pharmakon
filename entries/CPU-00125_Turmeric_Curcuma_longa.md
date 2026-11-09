@@ -127,6 +127,10 @@ Jurenka JS (2009) "Anti-inflammatory properties of curcumin, a major constituent
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps turmeric onto the liver, digestive tract, skin and joints. In Traditional Chinese terms its Qi-tier action invigorates Blood and moves Qi in the Liver and Spleen channels, relieves painful obstruction (Bi) syndrome, and is secondarily applied to the Lung. Ayurvedic Haridra is bitter and pungent, hot in potency, and acts on skin disease (Kusthagna) and blood purification (Raktashodhana). Tibetan yung-ba is a warming digestive for liver and skin. Modern anatomy terms in the entry include phase II hepatic detoxification via Nrf2, cartilage matrix via MMP-3 and aggrecanase, and the blood-brain barrier, where curcumin and turmerones are said to act on neuroinflammation and BDNF. The gallbladder is named as a site of bile-flow stimulation. Assyrian, Egyptian and Unani material is recorded as giving no cultivation status.
+
 ### Contraindications
 
 - **Gallstones and bile duct obstruction:** Curcumin is a potent cholagogue — it stimulates gallbladder contraction and bile flow; in individuals with existing gallstones, this can trigger biliary colic or worsen obstruction; contraindicated in cholelithiasis and bile duct stenosis; paradoxically, preventive use may reduce gallstone formation (by keeping bile flowing), but once stones are present, curcumin supplementation requires medical guidance.

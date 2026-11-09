@@ -58,6 +58,10 @@ Tibetan / rGyud-bzhi (FMT): the chapter 20 lines give actions only. They print n
 
 **Practitioner's note.** A cultivator does nothing with this. The text lists human bone as a medicine among thirteen animal categories, with no cultivation claim and no method. It is recorded here as history only, and the right response to the entry is to leave human remains alone.
 
+### Functional–Anatomical Correlate
+
+The Tibetan text places human bone in the animal materia medica, and each item has a stated action. A cemetery skull is said to dry up lymph accumulations, which maps to the lymphatic system. Human bone in general is said, in a bracketed clause, to be beneficial in heart diseases, which maps to the heart and circulation. Scapula bone in ash form removes stubborn, chronic fever. The hip bone removes infectious tissue degeneration, which Men-Tsee-Khang renders as inflammation of the muscle tissue, so the pelvic muscles and their connective tissue. The skull-bone of a colic victim and the bones of those killed by thunderbolts cure colic, which Men-Tsee-Khang gives as colitis, a large-intestine complaint. No taste, potency or humour is given for any item. Only the scapula is given a preparation, ash, and no dose is stated.
+
 ### Contraindications
 
 - **Not a recommended practice.** This records a historical entry in a Tibetan materia medica. Nothing here is advice to obtain, handle or take human remains.

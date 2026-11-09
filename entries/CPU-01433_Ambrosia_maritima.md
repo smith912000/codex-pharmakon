@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing here gives a cultivator a practice. A wreath-plant and a local astringent are recorded, and its identity is uncertain. The abstentive answer is the correct one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter gives one body-facing use. The plant is plaited into wreaths for the head in Cappadocia, which is a decorative use and not a medicinal one. Its one medicinal use is external: it is smeared on as an astringent for fluids that have come down, and the chapter does not name the organ or tissue concerned. The qualities it gives are able to repress and repel, and astringent. No warming, cooling, humoral or doshic quality is printed. The description (small leaves, seed stems that never flower, a long slender root) is for identification, not for a body system. The botrys chapter (3-130), which the entry says may share the name, carries a breathing use, but that use is not attributed to this row. The identity is doubtful, since one translators' alternative is a ragweed that Dioscorides cannot have described.
+
 ### Contraindications
 
 No safety information is printed for this plant, and with the identification uncertain none can be inferred. If the plant is a ragweed relative, contact or pollen can provoke allergy in sensitive people. None of the uses above is advice.

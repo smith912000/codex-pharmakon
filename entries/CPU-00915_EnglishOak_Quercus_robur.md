@@ -80,6 +80,10 @@ Oak is the **Consolidation/Binding** botanical: a short-course astringent decoct
 
 ---
 
+### Functional–Anatomical Correlate
+
+Oak acts on tissue that is flowing or lax. Dioscorides and Avicenna place its action in the bowel, for diarrhoea, dysentery and fluxes, and in haemorrhage, including spitting of blood, while Avicenna adds gargles for slack, bleeding gums and throat. The external tradition extends this to the skin, applied as baths or compresses for weeping eczema, chilblains and sweaty feet, and to the anorectal tissue for haemorrhoids. The Chinese frame, which the entry flags for verification, has oak bark binding the intestines to stop diarrhoea and checking discharge. Modern anatomy describes the same mucosa and skin: tannins cross-link surface protein, tightening the tissue and reducing weeping. An animal model of castor-oil diarrhoea showed reduced stool frequency and intestinal fluid, and the entry finds no human trial of the bark for diarrhoea. The human Robuvit study concerned a wood extract and fatigue, not the bark's astringent indications.
+
 ### Contraindications
 
 - **Raw acorns and high-tannin raw oak material are not to be eaten** — the tannin load causes GI irritation, nausea and, in quantity, can be toxic; acorns must be leached/cooked to be a safe food. Livestock oak-poisoning from acorns/young leaves is well documented.

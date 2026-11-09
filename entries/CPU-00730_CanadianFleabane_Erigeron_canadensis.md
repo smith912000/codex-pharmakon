@@ -93,6 +93,10 @@ The two directions are not a contradiction — they are two different chemistrie
 
 **Practitioner's note.** Nothing. The record supports a field-weed's practical and astringent uses, not a cultivation practice; the uterine indication is deflated in the entry itself.
 
+### Functional–Anatomical Correlate
+
+The entry places the plant's actions in three areas. On the skin and airspace surface, its volatile essential oil (matricaria and lachnophyllum esters, limonene) is described as insect-repellent and insecticidal; the entry grades this as congener-supported and unproven for this species. In the gut, tannins and flavonoids are said to give a local astringent action on the mucosa for non-infective flux, which the entry allows as a plausible local effect. The traditional uterine and passive-haemorrhage indication is explicitly deflated, since no mechanism links a gut astringent to the endometrium. The tissue affinities given are gut mucosa and skin, with a cool, dry, bitter and astringent reading and a doctrine of expulsion outward and closure inward. Antibacterial, antioxidant and iron-chelating results are in vitro. The entry also flags the airways as irritated by smoke from burned material.
+
 ### Contraindications
 
 - **Asteraceae sensitivity.** Cross-reactive contact dermatitis and allergy are a real risk across this family. Anyone reactive to ragweed, chamomile, or feverfew should avoid it.

@@ -76,6 +76,10 @@ Attribution: the following is based on articles retrieved from PubMed.
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps pushkarmool onto the heart and the chest-and-lung airways. Ayurveda names it for hridroga (heart disease) and parshvashula (flank and chest pain), read as exertional angina and pleuritic pain, and for shwasa and kasa (dyspnoea and cough). The doctrine locates the obstruction in the hridaya srotas, the heart channels, where cold kapha is said to congeal, and the root is warm, pungent-bitter and drying. Sowa Rigpa and TCM use related roots to disperse rlung-and-phlegm stagnation and stalled qi in the chest. Preclinical data point to myocardium: restored antioxidant enzymes, less CK-MB and LDH leakage and smaller infarct size in ischaemia-reperfusion models, and alantolactone's inhibition of the L-type calcium current. A frog-heart study reported negative inotropic and chronotropic effects. The bronchodilator claim is graded unsupported. Modern terms: myocardium, coronary ischaemia, L-type calcium channels, mitochondria, bronchi.
+
 ### Contraindications
 
 - **Sesquiterpene-lactone contact allergy.** Alantolactone/isoalantolactone are classic Asteraceae contact sensitisers; cross-reactivity within the Compositae is common. Avoid in anyone with known Asteraceae/parthenium dermatitis.

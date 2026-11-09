@@ -34,6 +34,10 @@ Jade is insoluble and chemically inert, so little of it would be absorbed from t
 
 **Practitioner's note.** An upper-grade drug in the Chinese scheme, which means it was held to be safe for long use by the Classic's own standard. That standard is Han-period Daoist, the substance named may be a misprint, and a ground stone has no established benefit. Nothing here supports taking jade; the cultivator's honest use of the entry is as a record of how the elixir tradition understood "nourishing life". No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Yang's Classic maps this stone to the five viscera, the sinews and bones, the muscles and flesh, and the qi. It is said to limber the sinews, strengthen the bones, quiet the ethereal and corporeal souls, promote the growth of muscle and flesh, and boost the qi. In modern anatomy terms the claimed sites are the organ systems of the viscera (the entry gives no organ names), the sinews, the skeleton and the skeletal muscle. Its flavour and qi are sweet and balanced, which Yang explains as neither cold nor hot. The class is Superior, which Yang's preface reads as nontoxic medicinals that nourish life. The Classic also names endurance of cold and heat and freedom from hunger and thirst, which are Daoist aims rather than sites of action. The Chinese name may be a misprint, but the mapping above is the text's.
+
 ### Contraindications
 
 Powdered stone can injure the gut, and ground "jade" sold as a remedy may be a different mineral, a dyed stone or a contaminated material. The Classic's "non-aging immortal" and "complexion unchanged after death" claims are not supported and should not lead anyone to forgo medical care. Purchase of mineral medicines is regulated in many places. Jade artefacts may be subject to antiquities or export controls.

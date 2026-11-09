@@ -42,6 +42,10 @@ No clinical studies were retrieved for this entry. [USER: verify] Because the pl
 
 **Practitioner's note.** Nothing to do. An unidentified shore plant that is a purgative and an antidote to poisons in a quoted Greek account; there is nothing to source or grow.
 
+### Functional–Anatomical Correlate
+
+Avicenna, quoting Dioscorides, describes a shore plant whose white root is sweet-smelling and warms the tongue when tasted. The Canon's temperament is leaning to heat, with no degree printed. Its excretory action is that two drachms in wine loosen the belly of water and promote urine, so the bowels and the urinary passages are the named targets. The text also says it is made to repel the harm of poisons before the other antidotes, which the entry files under poisons rather than an organ. The leaf and stem are described only for their appearance, and the colour change of the flower is a plant description, not a bodily claim. The Dioscorides source is unconfirmed on disk. The plant is unidentified, so no tissue can be tied to a constituent. Historical record only; the purgative and antidote claims are not practice.
+
 ### Contraindications
 
 - **Purgative.** The passage says it loosens the belly of water; do not take an unidentified plant for this.

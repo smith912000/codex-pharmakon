@@ -38,6 +38,10 @@ General facts only. Venison is a lean red meat and must be cooked through; game 
 
 **Practitioner's note.** Nothing here is a practice. In Sushruta this is one of the deer whose flesh was ordinary good food, with a place in a fever diet and in a king's guarded table. A person who eats game may read the group classification as the tradition's description of the food; a person who does not has nothing to adopt.
 
+### Functional–Anatomical Correlate
+
+Little to map: the Prishata deer is named in the Janghala venison group, and the group's statement (sweet and astringent, light, keen, laxative, diuretic, subduing Vayu and Pittam) is the only functional content, with no line giving a quality for the Prishata itself. The Kalpasthana toxicology chapter notes that a Prishata sheds tears when poisoned food is present, and it counts the Prishata's flesh, cooked with Pippali and Sunthi, among a king's protective foods. The Uttaratantra allows its flesh as a fever diet for patients already used to animal food, according to some authorities. The bile of the Prishata is a separate material used in an antivenom and in oils, not the flesh. The entry therefore maps no organ or tissue of its own.
+
 ### Contraindications
 
 - **Identity:** the animal is not settled (spotted deer, "porcine deer (?)", or a deer unglossed in ch.46); do not substitute a species on this basis. [USER: verify]

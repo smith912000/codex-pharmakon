@@ -45,6 +45,10 @@ General, well-established facts only. Citrus fruits are acidic and a source of v
 
 **Practitioner's note.** A name on a list, with no use stated. The Samhita text on disk gives no grade, no preparation and no dose, so the entry offers a cultivator nothing to practise.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives no body system, organ or tissue for this fruit. Its one source is an Appendix 3 gloss printed as 'Citras acida. Lemon.', which the entry reads as a misprint for Citrus, with the English word lemon. The gloss states no part used, no use, no preparation and no dose, and no rasa, virya or vipaka is printed for it. The entry's general notes, which it does not attribute to Sushruta, are that citrus fruit is acidic, a source of vitamin C, and that the peel carries aromatic oils and can cause skin reaction with sunlight. The entry warns against merging this row on the translator's English alone, because the binomial Citrus acida and the word lemon may name different fruits. No cultivation status is attested, and nothing is said on pregnancy, lactation or children.
+
 ### Contraindications
 
 - **No safe-use statement exists in the sources retrieved.**

@@ -52,6 +52,10 @@ General, well-established facts only. The identity is open, so no pharmacology c
 
 **Practitioner's note.** An unidentified name in a group list, next to a drug the spine reads as Barleria. Nothing supports cultivation use, and without an identification nothing can be gathered or used. A cultivator reads it as a name in a record.
 
+### Functional–Anatomical Correlate
+
+Little to map: the sources read give no description of Dasi-kuruntaka on its own, and no part, taste or potency. The only statements are group-level, for the A'ragvadha'di group, in which it is listed directly after Kuruntaka. The group's metrical virtue is said to destroy deranged Kapha (a tradition humour) and to counter the effects of poison. It is said to help in cases of Meha, described in the text as morbid discharges from the urethra, which maps to the urinary and genital tract. It is also said to help Kushtha (a skin disease), fever, vomiting and itching of the body, and to act as a purifying agent in an ulcer, which maps to the skin and the surface of a wound. No organ, channel or modern anatomy is stated for this drug itself. The neighbouring Kuruntaka is a separate row, and the text does not say the two are one plant. Historical record only.
+
 ### Contraindications
 
 - **Identity.** The plant is unidentified; Kuruntaka is a separate row and is not assumed to be the same drug. Do not substitute any herb for it.

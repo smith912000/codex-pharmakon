@@ -67,6 +67,10 @@ According to PubMed, the anti-inflammatory reputation of *Physalis alkekengi* is
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places Jin Deng Long in the Lung channel, where it clears heat, relieves toxicity, benefits the throat and resolves phlegm. Its traditional targets are the sore, swollen throat and hoarse voice (pharynx and larynx), the lung-heat cough, and hot painful urination (heat lin) in the urinary tract, with topical folk use on hot skin sores. The Chinese stream also lists it for hepatitis and bacillary dysentery. The Avicennan (Unani) frame places it among cold, dry diuretics for hot bladder, jaundice and gravel. The modern correlates are physalins, which inhibit NF-kB-linked inflammatory signalling by alkylating cysteine residues on IKK-beta and suppress nitric oxide, IL-6, IL-1-beta, iNOS and COX-2 in macrophages. In mice the entry reports reduced ear oedema of the skin and amelioration of DSS-induced ulcerative colitis in the colon, with the HO-1/Nrf2 axis upregulated. This is in vitro and animal work, and human trials are lacking. The unripe fruit and green tissue contain toxic solanine-type glycoalkaloids that affect the gastrointestinal tract and, in quantity, the whole body.
+
 ### Contraindications
 
 - **⚠️ Unripe fruit and green tissue are TOXIC:** The unripe berry, leaves, stems and green calyx contain **solanine-type steroidal glycoalkaloids** that cause gastrointestinal upset (nausea, vomiting, abdominal pain, diarrhoea) and, in quantity, systemic toxicity. Only the fully ripe fruit and properly prepared medicinal calyx should be used; never ingest unripe fruit or raw green parts.

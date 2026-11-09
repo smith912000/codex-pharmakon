@@ -45,6 +45,10 @@ General, well-established facts only. Limes and lemons are acidic citrus fruits 
 
 **Practitioner's note.** A name on a list, with no use stated. The Samhita text on disk gives no grade, no preparation and no dose, so the entry offers a cultivator nothing to practise.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives no body system, organ or tissue for this fruit. Its one source is an Appendix 3 line printed 'Citrus Acida' with no English gloss, which the entry reads as the sour lime, Citrus x aurantiifolia, from the Latin alone. The appendix gives no part used, no use, no preparation and no dose, and prints no rasa, virya or vipaka for it. The entry's general notes, not attributed to Sushruta, are that limes and lemons are acidic citrus fruits and a source of vitamin C, and that citrus peel oils can cause skin reaction with sunlight. It records a possible duplicate of CPU-01912, since the two Appendix lines may stand against one Sanskrit name, and leaves the merge for verification. No cultivation status is attested. Nothing is said on pregnancy, lactation or children, and the Codex gives no protocol.
+
 ### Contraindications
 
 - **No safe-use statement exists in the sources retrieved.**

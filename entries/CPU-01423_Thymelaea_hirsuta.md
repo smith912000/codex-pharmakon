@@ -41,6 +41,10 @@ Plants of this family are generally known as skin irritants and as toxic when sw
 
 **Practitioner's note.** Nothing in the source read gives a cultivator a practice with this plant. Dioscorides himself notes that it burns the throat and is worthless for the stomach. Abstain.
 
+### Functional–Anatomical Correlate
+
+The entry's Dioscorides chapter (4-173) maps the plant chiefly to the digestive tract and throat. A decoction of the inner part purges bile, phlegm and water downwards, and it is said to burn a rough throat. The leaves, taken in an acetabulum with diluted wine, purge watery matter, and the purge is moderated with lentils. The herb is called worthless for the stomach. Rubbed on with saltpetre and vinegar, it is applied to those who have difficulty sweating (skin). As a pessary it is described as an abortifacient, acting on the womb. Chapter 5-78 gives a wine that purges watery matter and reduces the spleen. No warming, cooling, temperament or degree is printed in either chapter. The entry describes the plant as a drastic, irritant purgative, and says its uses are Dioscorides' claims, not Codex protocol.
+
 ### Contraindications
 
 An irritant, drastic purgative. The recorded uses include an abortifacient pessary. Do not use in pregnancy. The traditional uses and quantities are not advice; no home preparation is safe.

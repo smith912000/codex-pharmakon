@@ -43,6 +43,10 @@ General facts only. The Asian elephant is an endangered species and elephant mil
 
 **Practitioner's note.** A sweet, heavy, cooling milk with a tonic and eye-invigorating description, in a list of milks of which only the cow's and the goat's are ordinary. A cultivator has nothing to do with it beyond reading the group statement on milk.
 
+### Functional–Anatomical Correlate
+
+The milk of the she-elephant is described as sweet with an astringent after-taste, heavy, demulcent, cooling and tonic, and as spermatopoietic, acting on the seminal and reproductive tissues in modern terms, with the further action that it invigorates the eyesight (Sushruta ch.45, lines 520-522). Its curd is light in digestion, subdues Kapham, is heat-making in potency and increases the quantity of faecal matter, which the entry maps to the bowel and digestive tract (line 617). Its clarified butter is astringent, suppresses stool and urine, is bitter, light and stomachic (agnikara, digestive fire), and is curative in kushtha (cutaneous affections), poisoning, intestinal worms and Kapham derangements (line 842). Taken together the entry maps the milk to reproductive tissue, the eye, the gut and the skin. The text gives no organ-level mechanism, and the modern anatomy terms are the Codex's own labels for the Sushrutan categories.
+
 ### Contraindications
 
 - **Conservation and law.** The Asian elephant is a protected species; milk from wild or captive elephants is not advisable to seek.

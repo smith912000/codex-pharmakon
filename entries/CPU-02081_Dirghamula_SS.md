@@ -50,6 +50,10 @@ General, well-established facts only. The identity is open, so no pharmacology c
 
 **Practitioner's note.** An unidentified name at the end of a group list. Nothing supports cultivation use, and without an identification nothing can be gathered or used. A cultivator reads it as a name in a record.
 
+### Functional–Anatomical Correlate
+
+Little to map: the sources read give no description of Dirghamula on its own, and no part, taste or potency. The only statements are group-level, for the Priyangvadi and Amvashthadi groups taken together, in which it is listed last. Their metrical virtue is said to act in a case of deranged Pitta (a tradition humour), to favour the healing of ulcers, to bring about the adhesion of fractured bones, and to cure dysentery in which the stools contain lumps of thick, matured mucus (Pakvatisara). In modern terms that maps to the skin and wound surface, to the bone, and to the large intestine as the site of the dysentery. The text gives no organ for Pitta and no channel. The identity is unresolved, so no pharmacology is possible. Historical record only.
+
 ### Contraindications
 
 - **Identity.** The plant is unidentified. Do not substitute any herb for it.

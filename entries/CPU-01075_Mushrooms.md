@@ -58,6 +58,10 @@ General facts only. Some wild mushrooms contain toxins that cause liver or kidne
 
 **Practitioner's note.** The only use here is care. Both texts treat mushrooms as a food that needs knowledge: Dioscorides separates the edible from the poisonous by where they grew and how they keep, and Sushruta lists the kinds by what they grew on and what each does to the humours. Neither assigns a cultivation role. Taking from them any wild mushroom as a medicine or as a "tonic" would be an invention, and a dangerous one.
 
+### Functional–Anatomical Correlate
+
+The Sushruta lines map mushrooms by the humours and the Vayu rather than by organ. Straw-grown kinds are sweet in taste and digestion, drying, and said to subdue all three humours. Cane-grown kinds are sweet and pungent with an astringent after-taste and cooling in potency. Dung-grown and bamboo-grown kinds are said to aggravate Vayu, the dung kind being heat-making. Ground-grown kinds are heavy of digestion and do not inordinately generate Vayu. The Unani Canon entry, which the entry cites, names sites of harm: numbness and apoplexy in the head, choking in the chest, cholera-like vomiting in the digestive organs, and difficulty urinating in the excretory organs. The Dioscorides chapter maps no body part; its concern is the bile that over-eating may breed. No therapeutic organ action is attested.
+
 ### Contraindications
 
 - **Poisoning.** Wild mushrooms can be fatal, and edible and poisonous species can look alike; do not eat any wild mushroom without expert identification, and never on the basis of either text. Seek urgent medical care for any mushroom ingestion with vomiting, abdominal pain or diarrhoea, particularly if the symptoms begin or return after a delay.

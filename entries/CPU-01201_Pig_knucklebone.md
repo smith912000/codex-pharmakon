@@ -38,6 +38,10 @@ Greek: the chapter prints an action only ("heals gas from colic, and griping tha
 
 **Practitioner's note.** Nothing. A cultivator does not take burnt pig bone. The text records it against colic, with a preparation but no dose, and the Codex keeps the record, including the one practical lesson in it, the observable endpoint (white), without carrying it into practice.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter states one indication, that the burnt and powdered anklebone of a swine, taken in a drink, 'heals gas from colic, and griping that has endured for a long time'. The systems named are the intestines and abdomen, through colic gas and long-standing griping. The chapter gives no quality such as warming, cooling, drying or astringent for this bone; the preceding elephant's-tooth chapter is printed as astringent, and the entry does not carry that across. The preparation is burning until white, pounding and drinking, with the vehicle unnamed and no quantity. No cultivation, spirit or protective use is recorded. The Codex records the chapter and does not recommend a bone powder for persistent abdominal pain.
+
 ### Contraindications
 
 Bone burnt in an open fire or an unlined pot can carry soot, residues and pathogens, and uncalcined or partly burnt bone is infectious material. Calcined animal bone powder from uncontrolled sources may contain lead or other toxic metals. Do not treat persistent abdominal pain with a powder; seek medical care, since the cause may be urgent. Pig products are prohibited in some religious traditions; respect them. This entry gives no medical advice.

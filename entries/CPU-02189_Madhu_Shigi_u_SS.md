@@ -52,6 +52,10 @@ General, well-established facts only. The drumstick tree (*Moringa oleifera*) is
 
 **Practitioner's note.** A pungent, bitter potherb, flower and stem that the Sushruta text sets apart from ordinary Shigru, for swellings, Kapham and the bowel. Nothing here supports long-term use or any vital-substrate claim. A cultivator can only note that the tradition distinguished two kinds of drumstick-like herb by taste and use, and that this entry cannot say which plant the second one was.
 
+### Functional–Anatomical Correlate
+
+The Sushruta text relates Madhu-Shigru to the digestive tract, the bowel and urinary flow, and the body's fluid and fat tissue, using its own humoral terms. As a member of the Varuna'di group it is credited with reducing Kapham and fat, and with relieving headache, Gulma (an abdominal lump) and internal abscesses; those are group claims. The potherb passage calls the herb laxative, appetising and bitter-pungent, and says it removes oedematous swelling of the body. Its flowers are pungent in digestion, destroy Vayu and increase the discharge of stool and urine, so they act on the bowel and the urinary passage. Its tender stem subdues the deranged Kapham. The text names no organ for these actions. Kapham, Vayu, Gulma and oedematous swelling are the text's own terms, and the Codex does not translate them into modern diagnoses; the only body parts the passages name are the bowel and the discharge of stool and urine.
+
 ### Contraindications
 
 - **Identity unresolved.** The species is unknown; do not substitute a *Moringa* product for it.

@@ -84,6 +84,10 @@ A 2024 phytochemical study (Li et al., *Phytochemistry*) confirmed that *R. nepa
 
 **Practitioner's note.** Nothing cultivation-specific. In the tradition it is a physician's remedy for wound and infectious fevers; no long-term or rejuvenative use is attested.
 
+### Functional–Anatomical Correlate
+
+Himalayan dock's entry maps it chiefly to the bowel and the skin, with the blood as a traditional third axis. Its anthraquinones (chrysophanol, emodin, physcion) are described as stimulant laxatives acting on the colon through prostaglandin-linked water secretion and motility, and as antifungal and antibacterial agents for the skin. Tibetan medicine places it among bitter, cold root medicines for hot blood and skin disorders, ringworm, scabies and constipation. The Blood/Heat reading is that it clears heat from blood and skin and moves the bowel. The tannin fraction is described as astringent, drying weeping sores and checking diarrhoea and bleeding, which counterbalances the purge. Ayurvedic analogue terms are rechana (purgative) and kushtaghna (skin), pacifying pitta and kapha. The entry flags oxalates in the leaves, relevant to kidney stones, gout and renal impairment, and notes that no controlled human data exist for this species.
+
 ### Contraindications
 
 - **Pregnancy and lactation:** anthraquinone stimulant-laxatives are contraindicated in pregnancy (uterine-stimulant/reflex risk) and pass into breast milk; avoid.

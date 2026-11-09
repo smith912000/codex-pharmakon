@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with a plant under the name Bharadvaji, and the one diet that names Vana-Karpasi is an illness diet. Nothing should be gathered or eaten on the strength of a Latin name that the chapters do not give.
 
+### Functional–Anatomical Correlate
+
+Little to map: the one chapter statement is in a diet for atisara (diarrhoea), Uttara ch.40, where Vana-Karpasi is one of some twenty articles with which the patient's diet is prepared, with pastes of sesamum and mudga pulse or mudga soup. The text gives the plant no action singly and no rasa, virya or vipaka. The chapter bracket reads the name as two, Vata and Karpasi, a variant the entry records. The name the row was keyed on, Bharadvaji, appears in no chapter. The Sutra 39 Karpasi group is said to soothe the deranged Vata, but the text does not tie that to this plant. The diet is for diarrhoea, so the bowel is the only site the passage bears on. The identity rests on two positional appendix pairings and is open.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for this plant under either name. The identity is open, so no plant should be gathered or used on the strength of this entry. Diarrhoea that is bloody, prolonged or in a child needs medical care. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

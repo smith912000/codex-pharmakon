@@ -43,6 +43,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a field plant with two uses and no stated amounts, so it is history and not a practice. The useful lesson is its detailed method of recognition.
 
+### Functional–Anatomical Correlate
+
+Dioscorides records a decoction of the black, knotty root, taken as a drink with wine, as helping those bitten by snakes and quickly relieving their pain. The body parts named are the bite and the pain it causes, with no organ named beyond that. The root, mixed into enemas or suppositories, is said to help sciatica, which places the action in the lower bowel region and the pain of sciatica. The chapter uses no humoral, doshic or qi term and prints no warming, cooling, drying or moistening quality and no taste. It prints only the colours and shapes of the flower, leaf, pod and root. Its actions are therefore a pain-relieving one for a bite and a local one for sciatic pain, both as the text reports them. The entry gives no physiology for either and does not explain how the root acts. The plant's identity is the translators' suggestion. A snake bite needs urgent medical care, and the Codex states these only as Dioscorides' claims.
+
 ### Contraindications
 
 The chapter prints no warning. A snake bite and sciatica need medical care, and a home preparation must not replace it. A root taken as a decoction in wine, or placed in an enema or suppository, is not a safe home remedy when its identity is uncertain. No safety information for pregnancy was read. The identification rests on a translators' suggestion, so no wild plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

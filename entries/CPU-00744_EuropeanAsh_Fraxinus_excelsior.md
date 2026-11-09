@@ -61,6 +61,10 @@ The strongest human-relevant signal for *F. excelsior* comes from its role in a 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps European ash onto three targets. The leaf, classed in Galenic-Unani terms as warm and dry and opening, acts on fluid throughput, that is diuresis, and is used to ease gouty and rheumatic stiffness in the joints, which that tradition treats as an obstruction needing drainage. Its coumarins are linked to modulation of the inflammatory cascade in the joints. The bark, bitter and drying, is described as a febrifuge tonic. The sweet manna exudate of the wider genus works on the bowel as an osmotic softener rather than a stimulant. In Ayurvedic analogy the leaf pacifies kapha-type damp accumulation and eases vata-type joint stiffness, and in TCM analogy it would be a channel-freeing agent for bi (painful obstruction) patterns, though the entry notes it is not a classical Chinese herb. The evidence is graded traditional with mechanistic and combination-trial support, monotherapy trials being limited. Cultivation status is absent in every tradition read.
+
 ### Contraindications
 
 - **Diuretic caution:** avoid or supervise in dehydration, significant renal impairment, or alongside prescription diuretics (additive fluid/electrolyte loss).

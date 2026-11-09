@@ -49,6 +49,10 @@ General, well-established facts only. Veratrum alkaloids are toxic and have caus
 
 **Practitioner's note.** Nothing for a cultivator. This entry exists to mark a poison and to record that the ancient text knew it to be one.
 
+### Functional–Anatomical Correlate
+
+The entry's only bodily claims concern the embryo and the woman who takes the wine. Dioscorides says the wine destroys embryos and is destructive, and the chapter's own wording places the woman in a fasting state after having vomited, which brings the stomach and the vomiting reflex into the text's method. No organ, humour, dosha or qi channel is named, and no warm, cool, moist or dry quality is printed. The claim that the grapes take the strength of nearby veratrum, wild cucumber or scammony is the chapter's stated belief, not a finding, and the entry does not treat it as a mechanism. The Codex does not reproduce the preparation or any quantity, and records the chapter only as a historical claim about the reproductive system. The entry's general note is that veratrum alkaloids are poisons of the heart and nerves, and any substance that harms an embryo also harms the pregnant person. Anyone with a pregnancy question or suspected poisoning should contact a clinician, emergency services or poison control.
+
 ### Contraindications
 
 - **POISONOUS.** Do not make, obtain or drink. Veratrum and scammony are dangerous; poisoning can be fatal.

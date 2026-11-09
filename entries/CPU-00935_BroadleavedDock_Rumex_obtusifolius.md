@@ -72,6 +72,10 @@ Cooling and drying overall; root bitter and downward-draining (purgative), leaf 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps the root to the large bowel: anthraquinone aglycones released by colonic bacteria act on the mucosa, increasing secretion and stimulating peristalsis. It also names bowel and biliary elimination as the modern mechanism beneath the blood-cleansing doctrine. The skin is the second target: Dioscorides, Culpeper and the folk tradition use the root for itch, scaly and eruptive skin, and the leaf as a cooling topical on the nettle wheal. The entry finds no established chemical neutralisation of the sting, leaving cooling, moisture, rubbing and placebo as the mapped effects. The blood-iron link is deflated: oxalate and phenolics impair iron absorption, so the plant is no tonic for the blood. Kidney risk comes from leaf oxalate. Chronic anthraquinone use can deplete potassium and alter cardiac glycoside sensitivity, and the root is contraindicated in pregnancy and lactation.
+
 ### Contraindications
 
 - **Oxalate load (leaves):** *R. obtusifolius* leaves contain soluble oxalates; avoid large or raw quantities. Contraindicated in oxalate kidney-stone formers and in renal impairment; large ingestions of oxalate-rich *Rumex* foliage can be toxic.

@@ -52,6 +52,10 @@ Because the material is not identified, nothing can be said of its pharmacology.
 
 **Practitioner's note.** Nothing here makes this a cultivation substance. It is a name in a list whose identity is open, and a cultivator has nothing to do with it except to leave it to the textual scholars.
 
+### Functional–Anatomical Correlate
+
+The entry records two sets of claims, both at group or compound level. The Elardi group, to which the name belongs, is said to subdue deranged Vayu and Kapham and to neutralise poison, and it acts on the skin: it is described as a cosmetic that arrests pimples and other skin eruptions, rash and urticaria, and checks the itching that goes with them. In modern terms that points to the skin and its itch response. A compound head plaster in the Uttaratantra fever chapter includes Vyaghranakha among its ingredients, applied to the head, and is said to ease head heat, delirium, vomiting, hiccough and shivering in fever, which points to the head and brain, the stomach, and the nervous response to fever. No effect is given to the drug alone. The material is unidentified, and the text does not settle whether it is a plant, a shell or an animal part, so no organ or part can be fixed from the text.
+
 ### Contraindications
 
 - **Identity.** The material is unidentified. Do not substitute any plant, spice, shell or animal part on the strength of the name or its literal meaning.

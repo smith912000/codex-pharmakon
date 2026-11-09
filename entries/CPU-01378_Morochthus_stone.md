@@ -58,6 +58,10 @@ No clinical studies were retrieved for this entry. [USER: verify] General facts 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The sites are the skin pores, the lungs, the abdominal cavity, the bladder, the uterus and vagina, the eyes and the ulcer surface. Dioscorides says the stone is thought to close the pores of the skin. Taken as a drink with water it is given for those spitting blood (the lungs and airway), for the abdominal cavity, and for bladder disorders. The same drink, and a pessary, are given for the menstrual flows of women, placing it in the uterus and vaginal canal. Used in softening eye medicines it fills hollow sores and stops discharges at the eye. With wax ointment it forms a scar on the tenderness of ulcers, acting on the ulcer surface. The chapter gives no humoral temperament, and its only printed quality is closing the pores. The linen use is a craft use and names no site.
+
 ### Contraindications
 
 - **Unidentified mineral:** the identity is unsettled between a phosphate mineral and a lime material; an unidentified stone should not be swallowed.

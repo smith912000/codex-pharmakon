@@ -56,6 +56,10 @@ Antimony sulphide is a poorly soluble dark powder; the astringent and cooling ac
 
 **Practitioner's note.** Nothing here for a cultivator to take. What the sources teach is care of the eyes by a sound habit and timing (Sushruta) and care in the choice of the mineral (Dioscorides); neither supports a modern use of the powder, and antimony and lead eye-paints have caused harm. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides (5-99) claims that stibium closes the pores, is astringent and cooling, represses fleshy growths, forms new skin on ulcers, and cleans filth and ulcers in the eyes. He adds that it stops blood discharges from the meninx (the membranes of the brain and spinal cord), and that with new grease it keeps burns from scabbing. Sushruta's srotonjana, glossed as antimony, is the best collyrium: it is said to ease burning and itching of the eyes, remove local pains and secretions, widen the range of vision, and guard the eyes against inflammation. Anjana, glossed black antimony, is in an anti-toxic group said to allay internal burning in the body. Egyptian eye salves are called collyrium with no antimony action stated. Avicenna and the Chinese text name nothing. No humour, dosha or qi is assigned, so the sites are the eyes and lids, skin, ulcers, the meninges and the internal body.
+
 ### Contraindications
 
 Antimony compounds are toxic if swallowed and irritant to the eye; "kohl" and "surma" products of unknown origin may contain lead and have caused poisoning, especially in children. Non-sterile eye applications carry infection risk. The ritual uses (the cobra's mouth, the male child's milk) are ritual, not therapy.

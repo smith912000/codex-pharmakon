@@ -148,6 +148,10 @@ Urizar NL et al. (2002, *Science* — the landmark mechanistic paper): Guggulste
 
 ---
 
+### Functional–Anatomical Correlate
+
+Guggulu's mapped sites are metabolic, hepatic, joint and thyroid. In Ayurveda (Suśruta, lekhanīya and medohara) it scrapes accumulated ama and meda from channels and structures. The TCM equivalence places it on the Liver (足厥陰肝經), where guggulsterone's FXR antagonism acts in hepatocytes on bile acid and cholesterol handling; on the Spleen (足太陰脾經) for phlegm-turbidity dyslipidaemia; on the Kidney (足少陰腎經) for joint support; and on the Heart (手少陰心經) for cardiovascular Qi stagnation. The entry also describes hepatic conversion of T4 to T3 (the thyroid pattern of sthaulya), NF-κB inhibition in macrophage and T-cell lines, and joint inflammation, with the Tibetan rlung (wind-type) joint disease and the Vata and Kapha pairing. Modern anatomy terms it uses: adipose tissue, synovial joints, the gut's bile-acid pool and the liver. The lipid effect is stated as diet-dependent.
+
 ### Contraindications
 
 **Thyroid medications (levothyroxine, carbimazole):** Guggulsterones influence thyroid hormone metabolism — documented stimulation of hepatic T4 to T3 conversion and possible effect on thyroid binding globulin. Patients on levothyroxine may experience altered T3 levels; patients on antithyroid medications may experience reduced drug efficacy. Monitor TSH and free T3/T4 when initiating Guggulu in any patient on thyroid medication. Hyperthyroid patients should avoid Guggulu entirely.

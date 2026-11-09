@@ -43,6 +43,10 @@ General facts only. Sheep's milk is a common dairy food in several regions, and 
 
 **Practitioner's note.** A heavy, sweet milk that the text values in *vata* conditions and warns against in *pitta* and *kapha* disorders. As with all the milks, the cultivation statements are in the group paragraph, not under the ewe.
 
+### Functional–Anatomical Correlate
+
+The ewe's milk is sweet, demulcent and heavy, and the text says it aggravates Pittam and Kapham disorders, while forming a good diet in kevalavata and in cough from deranged Vayu (Sushruta ch.45, lines 493-496). In modern terms the cough maps to the airways and chest. Its curd is said to increase the slimy secretions of the organs and to tend to derange the humours, and to aggravate piles (line 597), which map in modern terms to the haemorrhoidal veins of the lower bowel. Its clarified butter is light, does not enrage Pittam, and is said to help rigour, phthisis (Shosha) and diseases from Vayu and Kapham that affect the female organs of generation (lines 819-829). The entry's organ mapping is therefore to the chest and airways, the mucous secretions, the lower bowel and the reproductive organs, using the text's own categories and modern labels for them.
+
 ### Contraindications
 
 - **Dosha cautions.** The text itself says the milk aggravates *Pittam* and *Kapham* disorders (lines 493-494).

@@ -45,6 +45,10 @@ General, well-established facts only. Honey and seawater are both well-known mat
 
 **Practitioner's note.** Nothing here supports drinking it. The record is a purge of reputation ("is thought"), and the sun-made drink of unknown strength is a hazard of its own. A cultivator may read it as an example of the recorded care taken over a preparation, and leave it there.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one site of action, the bowel. Dioscorides says the drink is thought to purge very well, so the claimed target is the intestinal tract and its evacuation. The second form, two parts boiled seawater to one of honey, is said to be more moderate and milder than seawater alone. No body system, organ or humour is named for the drink, and no hot, cold, dry or moist quality is printed for it in 5-20. The neighbouring chapter 5-19 prints seawater as hot, sharp and bad for the stomach; that is a property of seawater in that chapter, so the stomach is not mapped here. The constituents named in the recipe are honey, rainwater and seawater. The purge is reported as thought rather than shown, and anatomical mapping stops at the bowel.
+
 ### Contraindications
 
 - **Dehydration and salt load.** A salty purge is unsuitable for anyone with heart, kidney or blood-pressure conditions, for the old, the very young, and in pregnancy. [USER: verify against a clinical source]

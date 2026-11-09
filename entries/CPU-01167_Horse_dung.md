@@ -44,6 +44,10 @@ Tibetan / rGyud-bzhi (FMT): the chapter 20 line gives actions only (anthelmintic
 
 **Practitioner's note.** A cultivator does nothing with this. There is no cultivation claim, no dose and no method, and the substance is faecal material. The honest use is to read the line as a record of the breadth of the Tibetan animal materia medica.
 
+### Functional–Anatomical Correlate
+
+The Tibetan text gives horse dung three plain actions and one bracketed action. It is said to be anthelmintic, acting on intestinal worms, and anti-emetic, acting on the stomach and the vomiting reflex. It is also said to cure wind-bile combinations, which Men-Tsee-Khang gives in Tibetan as tripa and loong, that is bile and wind. The bracketed clause, from the commentary, says it is beneficial against spirits. The Men-Tsee-Khang rendering agrees on the combined disorder and on vomiting, adds an ein disorder that Clark lacks, and omits the worm and spirit clauses. Clark's line gives no taste, potency or post-digestive taste. The entry records no preparation, route or dose. Within the frame, the humours are rooted in attachment, hatred and obscuration, and medicine is one of four branches of treatment.
+
 ### Contraindications
 
 - **Not a recommended practice.** This is a historical record. Nothing here is advice to ingest or apply horse dung.

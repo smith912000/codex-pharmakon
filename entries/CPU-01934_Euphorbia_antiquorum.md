@@ -51,6 +51,10 @@ General, well-established facts only. *Euphorbia antiquorum* is a succulent spur
 
 **Practitioner's note.** Nothing to cultivate here. A glossary name for a toxic spurge. A cultivator has no sourced use for it and should avoid contact with the latex.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry states that the Appendix gives Vajri no use, part, preparation, quality or dose, and that the name is absent from the chapter files, so attestation rests on one glossary line paired with Euphorbia antiquorum by column count. The Snuhi purgative recipes, in which a milky spurge juice is used for purgation and soaks Pippali, belong to Snuhi, which the same glossary glosses as another spurge, and the entry says they are not carried to Vajri. No organ, tissue or humoral claim is made for Vajri. The toxicity caution, that spurge latex irritates skin, eyes and mucous membranes and is toxic if swallowed, is the entry's general note on the genus and not a Sushruta claim for this name. No pregnancy statement was read.
+
 ### Contraindications
 
 - **TOXIC and IRRITANT.** The latex can injure skin and eyes and is dangerous if swallowed. Do not ingest or handle it carelessly.

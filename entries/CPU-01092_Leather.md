@@ -44,6 +44,10 @@ General facts only. Burns are treated by cooling with clean running water and cl
 
 **Practitioner's note.** Nothing to do. The Greek text is a hint that people once made medicine from what they had to hand; the Egyptian text, in Bryan's summary, makes the leather's origin part of the prescription. Neither assigns leather any role in vitality, and the dirt, smoke and dressings involved argue against use. A cultivator may take from the Ebers line only the habit of naming the provenance of an ingredient.
 
+### Functional–Anatomical Correlate
+
+Dioscorides uses burnt, powdered old leather from shoe soles on burns, on skin inflammation from rubbing, on chafing and on the blisters that shoes cause, so the sites are burned, abraded and blistered skin. Bryan's Ebers gives leather from the sandal-maker as one ingredient in a salve for the met, which he reads as the nerves or blood-vessels. The sources name no organ or process for the leather itself. The Tibetan texts put rhino and ox hide in a skin paragraph for smallpox, but untanned hide is not leather and is not mapped here. The mapping is therefore the surface of the skin where it is burned or rubbed, and the met, whose identity Bryan says is disputed. The sources assign leather no temperament or quality. No dose is given in the sources retrieved.
+
 ### Contraindications
 
 - **Burns.** Cool with clean running water and seek care; do not apply ash or powder.

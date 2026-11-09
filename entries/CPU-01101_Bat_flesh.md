@@ -40,6 +40,10 @@ General, well-established facts only. Bats are reservoirs of lyssaviruses and of
 
 **Practitioner's note.** Nothing. The sourced claim is a single therapeutic line, the animal is uncertain, and a bat is a recognised carrier of lethal viruses. A cultivator takes no practice from this entry. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the one action the text gives is that the flesh is anti-emetic, which in Tibetan medicine (rGyud-bzhi, Clark's 1995 rendering) bears on the stomach and the vomiting reflex. The commentary adds that it dispels spirits, a gloss tied to no organ. The Men-Tsee-Khang 2011 translation gives the same action, stops vomiting, but for an item it names as pheasant meat, so the animal is disputed. Neither text names a humour, taste, potency or post-digestive taste for the flesh, and neither assigns it a tissue, channel or body system beyond the stomach's vomiting response. The sparrow and mountain-lizard meats in the same line are separate items that increase semen, not claims for the bat.
+
 ### Contraindications
 
 - **Infection:** bat flesh and handling bats risk rabies and other zoonotic viruses; contact with a bat calls for medical advice.

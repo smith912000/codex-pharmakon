@@ -84,6 +84,10 @@ Evidence grade: **preclinical**. The antidiabetic/antihyperlipidaemic and vasoac
 
 **Practitioner's note.** The cultivator uses utpala as an evening refrigerant — flower syrup to cool an over-heated, sleepless, sympathetically-driven state, and seed/rhizome as a longer astringent-consolidating tonic. Its honest cultivation logic is the checking of loss (consolidating essence) rather than sedation; the sacred and funerary associations are symbolic, not instructions, and the documented glucose-lowering activity makes it a monitored drug, not a casual daily one.
 
+### Functional–Anatomical Correlate
+
+The entry maps Utpala onto the heart, the brain and the blood. In Unani medicine the flower syrup is a cooling tonic for the heart and the brain (muqavvi-e-qalb and muqavvi-e-dimagh) and is given for hot headaches, fevers, insomnia and heat of the chest. In Ayurveda it pacifies Pitta and Rakta, and is used in fever, burning sensations, bleeding disorders (raktapitta), palpitation and thirst; it is called hridya (cardiotonic) and stambhana (checking). Chinese medicine places it in the heart and liver channels, calming the spirit (an shen), clearing heat and consolidating essence. Dioscorides' nymphaia is read for fluxes of the belly and for sexual heat, and Egyptian sources record a soothing and euphoric calm, which the entry marks as ritual rather than a physiological claim. The rhizome and seed are described as astringent and demulcent, the checking of fluxes. The entry's modern findings, lower blood glucose, vasoactive PDE5 inhibition and aporphine effects on dopamine and serotonin systems, are preclinical and are not clinical proof of any organ effect.
+
 ### Contraindications
 
 - **Hypoglycaemia risk:** given the documented glucose-lowering activity, use with caution alongside antidiabetic drugs (sulphonylureas, insulin) — additive hypoglycaemia is plausible. Monitor.

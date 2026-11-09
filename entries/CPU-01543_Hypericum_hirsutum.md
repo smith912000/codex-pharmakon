@@ -42,6 +42,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity i
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is the sensory test: bruise the fruit, smell it, and look at the fingers. The text offers nothing more, and the abstentive answer is the right one.
 
+### Functional–Anatomical Correlate
+
+The chapter's internal use is a fruit decoction taken with a pint of honey water, given for sciatica and said to expel much bilious excrement, to be continued until cure. The bowel and its stools are the target of the purge, and the sciatic nerve of the leg is the modern anatomy of sciatica. A topical use, smeared on, is for burns, so the skin is the stated site. The description supplies recognition features rather than organ actions: yellow flowers, small leaves that appear purple, branches fuller of sprigs, and a fruit that smells of rosin and stains the fingers with blood when bruised. Bilious excrement is the chapter's own term, and the text does not explain it further. No humour is named and no hot, cold, moist or dry quality is printed. The mapping is therefore a bowel purge, a nerve-related pain and a topical burn treatment, with the purge the only internal action the chapter records.
+
 ### Contraindications
 
 Chapter 3-172 prints no warning. The only use it records for the drink is a purge ("expels much bilious excrement") given continuously, and the identification is only the translators' suggestion between two species, so no plant should be gathered or used on the strength of this entry. Sciatica and burns need medical care. The text gives no dose of the fruit, and no safety information for pregnancy was read. [USER: verify]

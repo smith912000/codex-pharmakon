@@ -50,6 +50,10 @@ General, well-established facts only. Wood ash leached with water gives an alkal
 
 **Practitioner's note.** An artificial salt for cold disorders and nothing more in the record. A cultivator should not take it: no cultivation use is attested, and the text itself places the root of disease in the mind, not in a substance.
 
+### Functional–Anatomical Correlate
+
+The claimed sites are the vessel organs, a term the text does not define, and the cold disorders associated with baekan. The salt is said to cure cold disorders of the vessel organs, so the action is placed on those organs as the text names them, with no anatomy given. Grouped in the salty taste, it is said to relax bodily stiffness, clear bowel obstructions and blocked energy channels, induce sweating, generate body heat and improve appetite, which places claimed action on the bowel, the channels, the skin's sweat and the appetite. Excess is said to cause baldness, grey hair, wrinkles, loss of strength, thirst, leprosy and disorders of blood and tripa, so the skin, hair, blood and tripa are claimed sites of harm. In the humour frame, the salty taste is said to pacify loong and baekan but to aggravate tripa, with two exceptions that do not include this salt. The salt's own entry prints no taste or potency.
+
 ### Contraindications
 
 - **Caustic when strong.** Wood-ash salts are alkaline. Do not swallow or apply a preparation of unknown strength.

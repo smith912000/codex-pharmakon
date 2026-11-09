@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is an eye drug in the Tibetan texts, with no preparation and no dose, and the plant it describes is not securely a *Geranium*. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Clark's rGyud-bzhi entry for zhim.thig.le says the drug dispels cataract, as well as other eye diseases, and is anthelmintic (expelling worms) in the commentary. The Men-Tsee-Khang text says it removes lingthok, which its glossary defines as an eye disorder with pimple-like growth in the eyes. The body region the entry maps is the eye, and the worm-expelling element appears only in the commentary. The commentary layer describes a plant with a square, jointed stem and a nettle-like leaf, gives the black type sweet taste and oily power, and calls the flower bitter. The entry does not show that this description belongs to Geranium dahuricum, which is one of five Latin names Clark prints, and the Men-Tsee-Khang text prints no Geranium at all. No constituent, part used, dose or route is given. The Tibetan terms are not modern diagnoses, so no modern eye finding is set beside them.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Eye disease needs medical assessment, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry, least of all for the eyes. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

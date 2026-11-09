@@ -40,6 +40,10 @@ General facts only. Game-bird flesh must be cooked through and handled hygienica
 
 **Practitioner's note.** Nothing here is a practice. In Sushruta the Lava is a light food for the sick, the convalescent and the spring season, and the passages that bear on a cultivator are those on restraint: unsalted for diarrhoea, never boiled in castor oil. A person who eats meat may read the classification as the tradition's own description of the food; a person who does not has nothing to adopt.
 
+### Functional–Anatomical Correlate
+
+Sushruta places the Lava in the Vishkira group of high-ground birds, described as light and cooling, and gives the Lava its own properties: light, sweet and astringent, pungent in digestion, astringent and appetising, and highly efficacious in diseases due to the concerted humours. The digestive tract is the main site named. The text uses the soup or meat-juice of the Lava after emetics and purgatives, and in a diarrhoea diet where the unsalted soup is advised. For a fever patient accustomed to animal food, and in a spring regimen, the Lava is an allowed meat. A poultice of boiled flesh (pinda-sveda) is a hot fomentation applied to the body surface, which maps onto the skin and sweating. The Lava is listed among birds said to invigorate the eyesight. The one prohibition is boiling its flesh with castor oil on a castor-twig fire, which the text says must not be eaten.
+
 ### Contraindications
 
 - **Identity:** the bird is not settled (quail on the list, a *Perdix* name in the damaged glossary); do not substitute a species on this basis. [USER: verify]

@@ -46,6 +46,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Quail is food, with a caution from each text. For a cultivator the usable point is Ibn Qayyim's: if eaten, correct it with vinegar and coriander, and avoid birds from foul or marshy ground. Nothing here supports it as a long-term practice.
 
+### Functional–Anatomical Correlate
+
+Avicenna fears the quail's flesh for tamaddud and tashannuj, stretching and spasm, which maps to the muscles and nerves, and says this lies in the bird's substance as well as in its feeding on hellebore. Ibn Qayyim calls the flesh hot and dry, says it benefits the joints (mafasil), and says it harms the hot liver, a harm averted by vinegar and coriander. He notes that bird flesh digests faster than livestock meat, and that the quickest to digest, the necks and wings, is the least nourishing. The systems mapped are therefore the muscles and nerves (spasm), the joints, the liver and the digestive tract. The two texts do not address each other, and the Canon gives no temperament degree. Modern anatomy would name the same organs, and the spasm and liver claims are the entry's own.
+
 ### Contraindications
 
 Both texts caution against it (Avicenna: spasm; Ibn Qayyim: the hot liver). Coturnism is a documented risk with migratory quail meat. Wild quail are protected or regulated in many places; farmed quail are the ordinary source. Raw or undercooked poultry carries bacterial risk.

@@ -54,6 +54,10 @@ Aconite alkaloids are potent cardiac and neurological toxins, and poisoning from
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. It is a wolf-bait poison in Dioscorides and an antidote-class medicine in the Tibetan texts, and by general knowledge a deadly poison. The abstentive answer is the correct one: do not use it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the Tibetan Quintessence Tantra (Clark 1995, ch.20) gives yellow aconite a bitter taste and cool power, and recommends it for poison fevers and infectious bile fever, and its roots for meat poisoning. Chapter 21 lists the aconites among medicines that neutralise poisons. The Men-Tsee-Khang glossary places the plant in a group that cures poisoning. Bile fever is the only organ-system claim, and no organ is named. The Dioscorides chapter maps no human body: its roots are wolf bait, and no medicinal use for people is given. The Canon's wolf-killer entry names harm only, nosebleed and spitting of blood. The entry names no beneficial organ, tissue or constitution, and the Codex gives no protocol. Only the Codex's general note on the genus names organ effects, and those are toxic.
+
 ### Contraindications
 
 *Aconitum* plants are deadly poisons. The roots can cause fatal cardiac arrhythmia and paralysis, and handling the fresh plant can cause numbness through the skin. None of the traditional uses above is advice, and no home preparation is safe. Anyone who has eaten any part of an *Aconitum* plant needs urgent medical care. Do not use in pregnancy. The Tibetan tradition itself distinguishes the black aconite as the highly toxic type, and processing in that tradition is outside what was read.

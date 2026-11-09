@@ -45,6 +45,10 @@ General, well-established facts only. Gelatin is hydrolysed collagen, and animal
 
 **Practitioner's note.** A glue of bull hides, graded by sight and by place of origin, put to external use. Nothing in the record supports a cultivation use, and Dioscorides' only teaching here is how to tell good material from bad. A cultivator does nothing with this entry.
 
+### Functional–Anatomical Correlate
+
+Dioscorides (DMM) describes glutinum, the bull-hide glue also called xylocolla or taurocolla, and gives three external uses that map to the skin and wounds. Dissolved in vinegar, it takes away impetigo and the leprosy of the outer skin, mapping to the epidermis. Diluted with warm water and smeared on, it stops burns from blistering, mapping to the skin's surface after a burn. Diluted with honey and vinegar it is good for wounds. The text gives no internal use, no proportion and no dose. The best grade, from Rhodes, is white and transparent and the black is bad; these are the only qualities stated, and no warming, cooling or astringent quality is printed. Modern anatomy would place the action in the skin and wound surface, and the entry's note that hide glue is largely gelatin is a general fact. The chapter has no subtle-body frame, and the entry records no cultivation use. The source is bovine hide.
+
 ### Contraindications
 
 - **Hygiene and infection.** Old hide glue is a growth medium for bacteria; applying it to open skin or a burn risks infection. Do not use craft or carpentry glue on skin.

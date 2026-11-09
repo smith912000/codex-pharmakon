@@ -34,6 +34,10 @@ Rodent droppings are a recognised route for bacteria and for viruses such as han
 
 **Practitioner's note.** Nothing here for a cultivator. The row names an animal product that the Tibetan texts on disk do not name. For the droppings the text does record, see Clark line 1199. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: no text read names what flying squirrel droppings were used for. The attestation is a single project list row, Trogopterus xanthipes, flagged id-uncertain, and no squirrel appears in the Tibetan texts searched. The Tibetan droppings paragraph (Explanatory Tantra ch.20) names other droppings only. Vulture droppings increase digestive heat and disperse tumours; pig stool cures indigestion and bile tumours; rabbit droppings purge oedema; bird and rat droppings drain pus. These are claims about digestive heat, tumours, oedema and pus for other animals, and the entry does not apply them to this one. The entry gives no taste, potency, humour, channel or cultivation status. Nothing in the entry maps the substance to any body system or organ.
+
 ### Contraindications
 
 Animal droppings can carry bacteria, parasites and viruses, and dried droppings raise infectious dust; they should not be swallowed or handled without hygiene precautions. Flying squirrels are wild animals, and the legal and conservation status of *Trogopterus xanthipes* has not been checked here. [USER: verify] The identification is uncertain, so the row cannot be assumed to be the substance that any Tibetan text meant.

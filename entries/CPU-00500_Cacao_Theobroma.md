@@ -170,6 +170,10 @@ For Kenetica application, the specifications are:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Cacao's mapped action is chiefly on the cardiovascular system and the brain, with muscle, airways and gut as secondary targets. In the entry's Qi classification it acts on Heart Qi: theobromine is a cardiac stimulant (positive inotropy) and epicatechin activates endothelial nitric oxide synthase, producing vasodilation and improved arterial compliance. Bronchial smooth muscle is reached through theobromine's bronchodilation. The Shen or joy dimension is assigned to the endocannabinoid and BDNF actions in mood circuitry and the hippocampus, with the Middle Dantian (heart-pericardium) affiliation. The entry applies a Heart, Liver and Spleen channel map as an analogy only. Skeletal muscle is the BUILD target, where epicatechin raises PGC-1α and mitochondrial density. The gut is addressed through procyanidin prebiotic fermentation and magnesium supply. The Galenic-Unani reading is warm and moist in the second degree, warming the Heart and moistening digestion. Cautions cover MAO-inhibitor use, GERD where theobromine relaxes the lower oesophageal sphincter, and migraine-prone individuals.
+
 ### Contraindications
 
 **MAO inhibitors:** This is the most critical drug interaction. PEA (phenylethylamine) in cacao is normally rapidly metabolized by MAO-B. In patients on MAO inhibitor pharmacotherapy (phenelzine, tranylcypromine, selegiline, moclobemide, or within 14 days of MAOI discontinuation), dietary PEA accumulates as MAO-B is inhibited — producing potential dopaminergic toxicity (hypertension, tachycardia, agitation). Additionally, cacao's tyramine content (approximately 1–3 mg per 100g dark chocolate) contributes to the "cheese reaction" risk of MAOI-treated patients. Avoid all cacao and chocolate products in MAOI-treated patients. This interaction is well-documented and clinically important — a safety contraindication, not a theoretical concern.

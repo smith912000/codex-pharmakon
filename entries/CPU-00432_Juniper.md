@@ -44,6 +44,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with juniper. In the papyrus it is a berry in a mixed head remedy, and the honest answer is to do nothing with it on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that juniper berry appears in the Ebers Papyrus as a plant name in a list, and as one of five plant ingredients, with coriander berry, poppy berry, wormwood and a further berry, mixed with honey and smeared on for pains in the head and illnesses in the head. The text attributes that remedy to Isis for Ra, and the entry says the berry is not singled out and the juniper species is not fixed. It names no organ, tissue, channel or humour, and prints no quality for the berry in the lines read. The only body region the entry names is the head, and it says nothing about what the berry does to the ka, ba, akh or ib. The entry also notes that juniper berries are generally known to hold a volatile terpene oil, and that this is unverified for the papyrus species.
+
 ### Contraindications
 
 No safety data were read. Juniper berries are generally regarded as unsuitable in pregnancy and for people with kidney disease, and species of juniper differ in what they contain, so a berry should not be gathered or eaten from an unidentified shrub. This is general caution and is not found in the sources read. The remedy above is historical and is not advice. Seek ordinary medical care for severe or persistent head pain.

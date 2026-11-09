@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a purgative, and a purge is the opposite of a conserving practice. The transferable point is that a plant can be described by where it grows and by what it does not have. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+On the entry's own claims, the dried juice of the leaves, root and head is a purge that acts on what the chapter calls water and phlegm. Thirty grains are given with honey and water 'for purging to expel water and phlegm', so the bowels are the route of action. The purge is then said to be good for asthma, which points to the airways and breathing, and for epilepsy, a disorder of the nervous system. It is also said to help 'disorders of the strength', a phrase the chapter leaves undefined. The chapter prints no hot, cold, moist or dry quality and no taste, and it names no humour, dosha or qi channel. Its other statements are physical descriptions of the plant, such as a thick soft root and prickly heads, and they say nothing about the body. The identity is only the translators' suggestion, so the mapping is one chapter's claim.
+
 ### Contraindications
 
 Chapter 4-163 prints no warning. For safety on the group the Codex can point only to a neighbouring chapter: 4-165a, on the first of the seven tithymals, directs that one "must not stand against the wind, nor put his hands to his eyes" when juicing it. That is a precaution for a different plant, and nothing here says that it applies to this one, although the present chapter also makes a juice. The identification is only the translators' suggestion, so no plant should be gathered or used on the strength of this entry. Asthma and epilepsy need medical care and must not be left to a purge. The text gives no safety information for pregnancy, children or any other medicine, and gives one dose only as quoted. [USER: verify]

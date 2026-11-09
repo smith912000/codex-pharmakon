@@ -34,6 +34,10 @@ Calcium hydroxide is a caustic alkali: it is used in building and in food proces
 
 **Practitioner's note.** An upper-grade drug in the Chinese scheme, whose identity the translator does not settle. Nothing here supports taking it: if it was lime it is caustic, and if it was a sulphate it is a purge. The grade is the Classic's, and the entry is a record of what the elixir tradition ranked among the "nourish life" stones. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Classic's Po Xiao, bitter, cold and nontoxic, is said to treat hundreds of diseases, to eliminate cold and heat and evil qi, and to expel accumulations and gatherings in the six bowels. It also clears firmly bound retention and aggregation of water and food. The claimed sites are therefore the six bowels, which is the text's own term and which the entry does not expand, the stomach and intestines for retained food and water, and the whole body for hundreds of diseases. In modern terms these are the digestive tract and the fluid balance. Taken after sublimation it is said to make one an immortal with a light body, a Daoist claim the entry does not endorse. The identity is unsettled: the translator glosses it as slaked lime and the spine as crude sodium sulphate, and the sites above do not decide between them.
+
 ### Contraindications
 
 Slaked lime is caustic to the mouth, gullet and gut when swallowed, and a sulphate purge causes dehydration and electrolyte loss when overused. Powdered mineral products are unstandardised, and what is sold under "Po Xiao" cannot be assumed to be either. The Classic's "immortal with a light body" and "transforms 72 kinds of stone" are not claims of fact. Purchase of mineral medicines is regulated in many places.

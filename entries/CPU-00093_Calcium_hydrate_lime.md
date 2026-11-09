@@ -34,6 +34,10 @@ Quicklime and slaked lime are strong alkalis. They burn skin and eyes and the gu
 
 **Practitioner's note.** Nothing here for a cultivator to take. If the chapter teaches a practice it is the attention to making, keeping and testing a caustic material, and the warning that it burns. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives Dioscorides's account of lime as a material acting on the outer body, not on a named organ. The chapter calls calx fiery, biting, burning and scab forming, which the entry maps to the skin surface, where caustic action produces scabs. Mixed with grease or oil, the chapter says, it becomes digestive, softening and dissipating, forming new skins, so the claimed sites there are the skin and an unnamed digestive function. The cross-reference to Asios lithos gives one internal indication, unslaked lime with vinegar for the spleen, stated without quantity. No hot-cold-dry-moist, doshic or qi classification is printed for lime. The burning of the tongue is an old description the entry adds, not a claim of the chapter. Nothing else in the sources maps lime to a body system.
+
 ### Contraindications
 
 Quicklime reacts violently with water and slaked lime is a strong alkali: both cause severe burns to skin and eyes, damage the gut and airway if swallowed or inhaled as dust, and should not be taken by mouth. Eye contact is an emergency. Lime dust is a respiratory irritant. Burning shell or stone releases dust and heat. The Dioscorides recipes using lime with vinegar or grease are not recommended. Purchase and use of lime are regulated in some places for safety. The translator's glosses with "lime" for other chapters (5-114, 5-115, 5-152, 5-171, 5-172) do not make those substances lime.

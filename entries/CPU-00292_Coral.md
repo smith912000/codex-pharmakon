@@ -36,6 +36,10 @@ Coral skeleton is calcium carbonate, which in powder form is an antacid and a ca
 
 **Practitioner's note.** Nothing here for a cultivator to take. The row shows only that the project's list counts coral among the *Canon*'s simples; what Avicenna says of it was not read. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: no text read says what Avicenna used coral for, and the Canon is not on disk for this simple. The only attestation is a project list row, Corallium rubrum, citing Canon II with no chapter. The list gives no temperament, degree, action or organ. Nothing in the entry names a body system, tissue or channel for coral. The entry's scientific note states that the skeleton is mainly calcium carbonate with some magnesium carbonate, but it does not connect that to any traditional action. Innate heat and radical moisture appear only as the general Unani frame for longevity and are not tied to coral, and no cultivation status is attested. The entry also cannot say whether the Canon's coral is the red species, another coral, or a mineral-like coral stone.
+
 ### Contraindications
 
 Wild precious coral is overharvested in places, and its harvest and trade are regulated; the current legal status of *Corallium rubrum* has not been checked here. [USER: verify] Powdered coral sold as a remedy is unstandardised and may be adulterated with other calcium minerals or dyed material. Large amounts of calcium carbonate can cause constipation and, with other calcium or vitamin D intake, high blood calcium.

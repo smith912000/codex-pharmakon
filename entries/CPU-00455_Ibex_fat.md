@@ -52,6 +52,10 @@ No clinical studies were retrieved for this entry. [USER: verify] No animal fat 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The word ibex is not in Bryan's text, so the only fat mapped here is the Fat-of-the-Egyptian-Goat that Bryan prints. It is the sixth of six fats in the baldness pomade, rubbed on the scalp of a bald man for hair growth, so the scalp and hair are the site. Bryan also prints it in a burn remedy, a mixture with stone-from-the-shore, crocodile-incense, onions and wax, which places it on burnt skin. The entry gives no humour, temperament, qi or heat for either use and no quantity. It does not identify the goat with an ibex, and it claims no other organ. The Egyptian frame (heka) is not attached to the fat, since no recitation is printed with the pomade. Infection on the scalp and skin, and the protected status of wild ibex, are the only other points the entry adds.
+
 ### Contraindications
 
 - **Hygiene and infection:** animal fat on the scalp or broken skin carries infection risk.

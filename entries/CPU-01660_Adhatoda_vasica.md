@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a blood-fever and blood-disorder drug in the Tibetan texts, and nothing more can be said from them. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The root-text line, outside Clark's brackets, says only that the tree cures blood fevers, so the stated correlate is the blood rather than any organ. The bracketed commentary adds poisoning, painful infectious fevers, liver diseases and bile disorders, and gives the tree bitter taste and cool power. Clark's compounding chapter places it in the class that cures blood disorders, and the Men-Tsee-Khang text says it cures all hot disorders associated with blood. Clark also lists it among bitter-tasting medicines. Liver is named only in the commentary layer, and no line read names a particular organ for the blood fevers. The botanical identity is uncertain between two binomials, so these correlates cannot be tied to one plant, and the Codex gives no protocol.
+
 ### Contraindications
 
 The sources read print no warning. The botanical identity is uncertain (two binomials in Clark), so no plant should be gathered or used on the strength of this entry. Fevers and blood disorders need medical assessment. No safety information for pregnancy was read. [USER: verify]

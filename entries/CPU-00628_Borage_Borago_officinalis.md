@@ -69,6 +69,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Borage's entry maps its two materials onto different systems. The aerial parts are the traditional gladdening cordial: Avicenna classes the herb hot and moist and sanguine, a mufarrih exhilarant of the heart and cerebral tonic for melancholy, palpitation and low spirits, which corrects black bile, and a blood-purifier and diaphoretic in fevers. Dioscorides records it as a cooling demulcent for the throat and chest. The TCM analogy is sweet-cool and calming to the shen spirit, and the Ayurvedic analogy gives pitta- and vata-pacifying, mood-lifting qualities. The seed oil carries gamma-linolenic acid, the component with the most modern anti-inflammatory evidence, including an acne trial that reduced inflammatory and non-inflammatory lesions with lower tissue IL-8 staining, and an ARDS study that lowered inflammatory cytokines in mild-to-moderate disease but raised blood pressure in severe disease. The aerial parts contain hepatotoxic pyrrolizidine alkaloids, so the liver is the organ that limits their use.
+
 ### Contraindications
 
 - **⚠️ Pyrrolizidine-alkaloid hepatotoxicity (defining hazard):** the leaf, flower and aerial parts contain PAs that are hepatotoxic and potentially genotoxic/carcinogenic with cumulative exposure. **Do not use aerial parts long-term.** Use only **PA-certified (PA-free) seed oil** for any sustained supplementation.

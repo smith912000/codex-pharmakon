@@ -45,6 +45,10 @@ General statement only: a plant that cannot be tied to a species cannot be linke
 
 **Practitioner's note.** An astringent, cooling herb used for bleeding and wounds, its identity unknown. Nothing in the record supports a cultivation use. The only practice it teaches is Dioscorides' own habit of noting where the best plant grows ("that on the hills") and what it is called in several languages. A cultivator does nothing with this entry.
 
+### Functional–Anatomical Correlate
+
+Klumenon, in Dioscorides 4-13, is a herb with a foursquare stalk, plantain-like leaves and small pods, and the translator marks it UNKNOWN. The juice of the whole plant with its root, drunk, is said to be good for throwing up blood, for abdominal cavities (the translator's phrase), and for excessive bloody discharges, and to stop bleeding from the nostrils. The leaves or pods, pounded and applied to new wounds, bring them to a scar. In modern anatomical terms the text points to the stomach and abdomen, the nasal passages, and the skin of wounds, along with blood loss. Astringent and cooling is the only quality given. No dose or duration is stated, and the names overlap with honeysuckle in the next chapter, so the identity stays open. Bleeding of these kinds needs urgent medical care, and the entry gives no protocol.
+
 ### Contraindications
 
 - **Identity.** The plant is not identified, and the names may overlap with honeysuckle (4-14). Do not use any plant on the strength of this entry. [USER: verify]

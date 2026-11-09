@@ -75,6 +75,10 @@ The literature converges on a single practical message: this is a **toxic, blist
 
 ---
 
+### Functional–Anatomical Correlate
+
+Buttercup acts on the skin and mucous membranes, and the entry records no internal target it should reach. Historically a crushed fresh plant was applied to the skin over an aching joint as a counterirritant, to redden it on the theory of revulsion, and Dioscorides also used the acrid plant to burn away warts, corns and hardened growths. The toxic principle, protoanemonin, is a vesicant that blisters skin and irritates mucous membranes including those of the eyes. Swallowed fresh, it causes ulceration and burning of the mouth, throat and gut, with salivation, vomiting, colicky abdominal pain and bloody diarrhoea. Modern practice treats the topical use as superseded and hazardous, since the margin between reddening and chemical burn is small. Drying converts protoanemonin to the far less irritant anemonin, which is why dried or aged material is considered non-blistering. The entry names no safe dose and no internal therapeutic benefit.
+
 ### Contraindications
 
 ⚠️⚠️ **PROTOANEMONIN VESICANT HAZARD — READ IN FULL.**

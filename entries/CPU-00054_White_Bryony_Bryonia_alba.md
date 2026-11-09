@@ -66,6 +66,10 @@ Codex policy: chemistry stated securely; homeopathic use framed as a separate tr
 
 **Practitioner's note.** Nothing. The root is a drastic, poisonous drug; Dioscorides' attention to season of juicing and to the plant's effect on the mind is the only transferable discipline.
 
+### Functional–Anatomical Correlate
+
+The entry maps white bryony to the bowel, uterus, skin, chest and head. Its cucurbitacins irritate the gut mucosa and drive a violent hydragogue catharsis, and the root was used as an emetic and emmenagogue. Externally, root preparations act as a resolvent and counter-irritant on hard swellings, bruises and rheumatic pain. The Unani Canon adds cosmetic action on freckles and dark scars, the cutting of warts and milky pustules, and the dissolving of spleen swellings with vinegar. It assigns cough and pleurisy relief to a honey linctus, and under the head it records epilepsy and vertigo relief with a warning of confusion of the mind. The Canon also records that a dirham of the root kills the foetus, and it names the root hot and dry to the third degree. The homeopathic Bryonia picture, worse with motion and better with pressure, is recorded as a separate framework, not a claim about the crude root.
+
 ### Contraindications
 
 - **Pregnancy — absolute.** Drastic purgative and traditional emmenagogue; abortifacient risk; contraindicated.

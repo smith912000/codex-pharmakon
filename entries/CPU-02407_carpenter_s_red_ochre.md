@@ -50,6 +50,10 @@ General, well-established facts only. Iron oxides give ochres their red and yell
 
 **Practitioner's note.** Nothing for a cultivator to take. The chapter is a trade note on how to judge a red earth, and no practice follows from it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter names no organ, tissue, humour or action for this red ochre. What it states is a ranking, that tektonike is inferior in every respect to the Sinopic ochre of the preceding chapter; a place of the best, Egyptian and Carthaginian; marks of the best, being without stones and brittle; a further source in Spain, towards the West; and one remark on making it, that ochre when burnt turns into red ochre. The uses given for the Sinopic ochre in chapter 5-111, which mention wound plasters, drying astringent tablets and the liver, belong to that chapter and are not transferred to this one. The ochre of chapter 5-108 is burnt and washed for its own uses, which are also not carried over. The entry records no site of action in the body, no energetic grade and no dose, so no body system is mapped.
+
 ### Contraindications
 
 - **Do not eat or apply it.** The chapter gives no use, and natural earths can carry heavy metals and grit.

@@ -73,6 +73,10 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 
 **Practitioner's note.** Garden cress is a two-natured herb for the cultivator, and neither nature is subtle-body cultivation. As pungent seed it is a corrective — heating, drying, dispersing a cold-damp or phlegmatic state, then stopped. As the milk-soaked gel it is nourishment: a postpartum and anaemia food that rebuilds a depleted body. The Ayurvedic *balya* framing comes closest to a cultivation idea, and a cultivator may reasonably use the soaked seed as convalescent food — but honestly stated, that is feeding the body back to strength, not the formal rejuvenative discipline the register exists to distinguish it from.
 
+### Functional–Anatomical Correlate
+
+The entry maps garden cress mainly to the digestive tract, lungs, joints, skin, blood and womb. In Galenic terms its seed is hot and dry, a warming, drying dispersant against cold-damp states of the stomach and chest, and the bruised seed was applied as a rubefacient to cold, painful joints and to skin lesions. Dioscorides' uses include clearing the chest and stirring digestion, and the classical pharmacy also used it as an expectorant and emmenagogue. Ayurveda (Chandrashura, halim) describes the milk-soaked seed as a postpartum tonic for recovery, lactation and anaemia, with balya (strengthening) action. Unani classes it as garm-khushk, a deobstruent and resolvent. The entry ties the pungency to benzyl isothiocyanate, which it calls antimicrobial and irritant on skin. The mucilage is said to soothe and bulk the bowel. Cautions concern the womb in pregnancy, hot and yin-deficient patterns, and iron overload.
+
 ### Contraindications
 
 - **Pregnancy — caution/avoid medicinal doses.** Traditional emmenagogue and uterine-stimulant reputation; culinary amounts of leaf are ordinary food, but concentrated seed preparations are traditionally avoided in pregnancy. [USER: verify.]

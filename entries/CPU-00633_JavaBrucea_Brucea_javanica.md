@@ -129,6 +129,10 @@ In colorectal cancer, a network meta-analysis of **50 RCTs across 8 TCM injectio
 
 **Practitioner's note.** Nothing. This is a toxic drug with no cultivation use, and the entry's own contraindications forbid self-administration.
 
+### Functional–Anatomical Correlate
+
+Brucea's entry maps its action onto the intestine, the liver and the skin, and it stresses that the effects are cytotoxic. The Chinese frame is cold, extremely bitter and toxic, draining heat and toxin through the large intestine and liver channels. It was classically used for amoebic dysentery and malaria, with seeds swallowed wrapped so they do not touch the mouth, throat or stomach lining, and topically on warts and corns, with the surrounding skin protected. The modern correlates are quassinoids, whose bitterness marks them, and brusatol, a reference NRF2 inhibitor that the entry says disables the protective antioxidant and detoxification system even in healthy people. On overdose the entry names GI haemorrhage, hepatotoxicity and possible renal toxicity. A seed oil emulsion is a hospital oncology injectable studied as a chemotherapy adjuvant, and the entry assigns no Kenetic use and contraindicates the plant in pregnancy and lactation.
+
 ### Contraindications
 
 ⚠️⚠️ **This plant is toxic. The following is not boilerplate.**

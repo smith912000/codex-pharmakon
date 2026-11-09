@@ -55,6 +55,10 @@ General, well-established facts only. *Paris polyphylla* is a woodland perennial
 
 **Practitioner's note.** A lower-grade drug for fright epilepsy, abscesses and snake poison, with a later remark that *fushi* practitioners used it. The tradition's own grading is the warning, and nothing in the record supports any cultivation use. A cultivator should not use it.
 
+### Functional–Anatomical Correlate
+
+Per the classic's own paragraph, Zao Xiu acts on the nervous and motor system, the head, face and abdomen, the skin and the genital region. Its terms are fright epilepsy (惊痫, jing xian), shaking of the head and working of the tongue, and heat qi in the abdomen (热气在腹中). It is said to treat abscesses (痈创) and sores on the skin and soft tissue, and genital erosion (阴蚀). It is also said to bring down the three worms, with no organ named, and to remove snake poison. Modern anatomy is used only to locate these terms: the head and tongue, the abdominal cavity, skin and genital tissue. The entry gives no diagnoses and no mechanism. Its one modern note, that the rhizome's steroidal saponins irritate the digestive tract, is a general fact about the genus and not the classic's claim. The classic names no part used, dose or preparation, and its lower-class preface warns that such drugs are mostly toxic and not to be taken long.
+
 ### Contraindications
 
 - **POISONOUS.** The rhizome of *Paris* is generally regarded as mildly poisonous and irritant to the gut. Do not ingest it. Do not gather it.

@@ -54,6 +54,10 @@ No clinical studies were retrieved for this entry. [USER: verify] General facts 
 
 ---
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry prints no action and names no organ, tissue or condition that the stone treats. Clark's text gives only a physical description and gender types. The stone is shaped like a cow's udder and is of uncertain colour; when broken it smells like burnt horn. It is smooth and coarse, corresponding to male and female types, with a transitional neuter type. The udder shape is a description of form, not a site of action. No taste, potency or post-digestive taste is printed, so no humoral classification can be drawn from the lines read. The Tibetan frame of the three nyes pa arising from three poisons is stated in general, but the stone is not placed in it. The nearby calcite entry carries actions, and those are not transferred to ba.nu.
+
 ### Contraindications
 
 - **Unverified identity:** an unidentified stone should not be ingested.

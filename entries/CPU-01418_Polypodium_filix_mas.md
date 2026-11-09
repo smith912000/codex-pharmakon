@@ -43,6 +43,10 @@ Male fern extract was used in modern medicine as a tapeworm treatment before saf
 
 **Practitioner's note.** Nothing in the source read gives a cultivator a practice with these ferns. The answer for the person is to abstain: the preparation involves strong purgatives and the plant is toxic in overdose.
 
+### Functional–Anatomical Correlate
+
+The entry's two chapters act on intestinal worms, the spleen, fistula, and the hair and skin in Dioscorides' terms. Four teaspoonfuls of the root of pteris, taken with honey and water, draw out broadworms, which are intestinal parasites, and the text says it works better with purgatives. A decoction of the root, drunk with goose grease and applied, is given for those hurt with a fistula. For the splenetic, the root is said to restore them to their former state. Druopteris (4-189), a fern of old oaks, is pounded with its roots and applied to the skin to make hair fall off. Traditional terms: the pteris root is somewhat astringent to the taste; the druopteris roots are astringent, inclining to sweetness. No warming, cooling or degree is printed. The entry itself notes the plant is toxic in excess. The identification as Polypodium filix-mas is a translators' gloss and may merge two plants.
+
 ### Contraindications
 
 Male fern preparations are toxic and can cause poisoning; they should not be taken as home remedies. The purgatives paired with it in 4-186 (scammony, black hellebore) add risk. Do not use in pregnancy. The traditional uses above are not advice.

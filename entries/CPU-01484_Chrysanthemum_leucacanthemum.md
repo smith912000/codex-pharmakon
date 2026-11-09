@@ -45,6 +45,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. A root described only by taste and a toothache use does not support one.
 
+### Functional–Anatomical Correlate
+
+The root is the only part described, and the chapter gives it a bitter and strong taste. Chewing it is said to lessen toothache, which maps to the teeth and gums. A wine decoction, three cups, is said to help long-standing lung congestion (the lungs and chest), sciatica (the sciatic nerve and hip-leg region), hernia (the abdominal wall and groin) and convulsions (the nervous system). The root juice drunk is said to do the same. The chapter prints no warming or cooling quality, so no humoral or temperature term is mapped. The root is compared with the root of cyprus (chapter 1-124, not read). Six names are printed across Greek, Roman and Thuscan usage. The identity is the translators' suggestion of a daisy, and the text describes no thorn or flower, so whether the modern plant matches the chapter is uncertain. No clinical study was retrieved.
+
 ### Contraindications
 
 Convulsions, hernia and persistent lung congestion need medical assessment and are not for self-treatment from a historical entry. The plant's identity is doubtful, so no wild plant should be gathered or drunk on this basis. None of the traditional uses above is advice. [USER: verify]

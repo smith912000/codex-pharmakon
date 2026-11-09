@@ -49,6 +49,10 @@ General, well-established facts only. *Kalanchoe* is a genus of succulent plants
 
 **Practitioner's note.** There is nothing here to practise. It is a name and a possible botanical match. A cultivator should treat the entry as an index record and should not use the plant.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states no organ, tissue, humour or action for Asma-bheda. The only bodily link in the sources is the translator's identification of it as Kalanchoe laciniata in Appendix 3 of Bhishagratna's Sushruta Samhita, an equation checked by counting entries against neighbouring pairs rather than by any body text. Searches of the chapter files and the three volumes found the name only in that appendix, while the body text uses Pashanabheda, which this entry does not equate with it. No rasa, virya, vipaka, dosha or gana membership was found for it, and nothing about rasayana or ojas. Notes that some Kalanchoe species contain heart-active compounds are general background about the genus, not a finding from this text. The section therefore maps no bodily site to the plant. Any use of the name, and any link to Pashanabheda, is a question for a Sanskritist.
+
 ### Contraindications
 
 - **Possible toxicity.** Some Kalanchoe species are poisonous if eaten; do not ingest. [USER: verify for this species]

@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The useful lesson is Dioscorides' method: to learn where a material is best made, to protect oneself in gathering it, to keep it out of sun, and to judge it by scent, colour and soundness before use. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The chapter maps onto several systems, in its own terms. Its uses for the nervous and mental state are lethargy, mental illness, vertigo, epilepsy, long headache, paralysis, sciatica and convulsion, with the liquid rubbed on with vinegar and rose ointment or with oil and vinegar. Inhaled, its scent is given for womb constriction and faintness, and the chapter says the scent is good in general for disorders of the strength. The ear is mapped to earache, with the liquid dropped in with oil of roses, and the tooth cavity to toothache. Taken with an egg it is given for coughs and for hard breathing, griping and windy afflictions. The intestines are said to be gently soothed and the spleen lessened. The bladder and kidneys are reached by a decoction drunk, and the womb by labour and blocked-womb uses. The dried root is used on foul ulcers and bone scales. The only quality printed is that the best liquid is warming to the taste. The chapter gives no humour or temperament beyond that.
+
 ### Contraindications
 
 The chapter itself warns that gathering the liquid causes headaches and vertigo. Plants of this family can cause sun-sensitive skin reactions after contact. The chapter's uses on the womb and in labour are not something to attempt, and its emmenagogue-type and labour uses carry risk in pregnancy. Epilepsy, mental illness, paralysis and kidney or bladder disease need medical care. The identification rests on a translators' suggestion among several names, so no plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

@@ -45,6 +45,10 @@ General, well-established facts only. *Canscora* species are small annual herbs 
 
 **Practitioner's note.** A name on a list, with no use stated. The Samhita text on disk gives no grade, no preparation and no dose, so the entry offers a cultivator nothing to practise.
 
+### Functional–Anatomical Correlate
+
+Little to map: Appendix No. 3 gives one gloss, 'Canscora decussata', between other Latin names, with no part used, no description, no use, no preparation and no dose. The Samhita proper does not print the Latin name. No rasa, virya or vipaka is printed for the substance, and no rasayana, vajikarana, ojas or shodhana status is stated. The Sanskrit drug it glosses is not identified in the record, and the part used is not stated. The sources read therefore name no organ, tissue, channel or dosha for it, and say nothing about any body system. No safe-use statement exists, and nothing is recorded for pregnancy, lactation or children. The Latin identity is taken from the printed name, and that identification says nothing about action. No body-system correlate is drawn from this entry.
+
 ### Contraindications
 
 - **No safe-use statement exists in the sources retrieved.**

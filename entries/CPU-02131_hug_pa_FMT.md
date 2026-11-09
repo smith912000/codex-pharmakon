@@ -45,6 +45,10 @@ General, well-established facts only. A feather is not a recognised medicine in 
 
 **Practitioner's note.** Nothing here supports a cultivation use. The line is a one-clause indication for swelling, set among thirteen classes of animal medicine, and a cultivator has no reason to seek the material, which in many places is also legally protected.
 
+### Functional–Anatomical Correlate
+
+Little to map: The only indication in either translation is that the feather cures oedema (Clark 1995) or cures ascites (Men-Tsee-Khang 2011). Oedema is swelling of the body, and ascites is fluid in the abdominal cavity, so the first points to fluid swelling in the body and the second to the abdomen. Neither names an organ, tissue or body system, and neither gives a taste, potency or post-digestive effect. The translations differ on the disorder, and the Tibetan term behind either word is not shown. The part is the feather, and the species is not named. The Men-Tsee-Khang line that lists the owl among birds that survive by their hunting skills is a classification, not an indication. The entry gives no organ or channel, and the Codex imports none.
+
 ### Contraindications
 
 - **Legal and conservation status.** Owls are protected in many jurisdictions. Do not take or trade the feathers. [USER: verify the status for the reader's own country]

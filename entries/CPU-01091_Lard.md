@@ -46,6 +46,10 @@ General facts only. Lard is an energy-dense animal fat and a source of saturated
 
 **Practitioner's note.** Nothing to do for cultivation. Lard is a cooking fat; Dioscorides's value to a cultivator is the rendering craft, and the Tibetan text's value is its warning that "collecting" poison is a statement about disease. The class-level claims for fats in the Tibetan diet chapter are not claims about lard.
 
+### Functional–Anatomical Correlate
+
+Dioscorides prepares pig and bear fat from the new thick fat around the kidneys, washing, rendering and straining it three times and keeping it cold. Its uses are for the womb and perineum, burns, oedema, inflammation and fistulas, and pleurisy when washed in wine; bear fat is said to restore hair lost to alopecia and to treat chilblains. In the Tibetan animal list pig fat collects and neutralises poison and treats a skin disease (psoriasis in Clark, eczema and pimples in Men-Tsee-Khang). The Tibetan diet chapter's general passage on fats says animal fats help joint pain, burns, the ears, brain and uterus, and calls oils sweet, cool and aperient, but these are not assigned to pig fat. The organs this entry maps are therefore the skin, the womb and perineum, the joints, the pleura, and the poison-clearing role the Tibetan text gives pig fat. Dioscorides calls fats warming, softening and purifying. No dose is given.
+
 ### Contraindications
 
 - **Burns and wounds.** Do not apply lard or any fat to a burn; cool with water and seek care. Fat on open wounds risks infection.

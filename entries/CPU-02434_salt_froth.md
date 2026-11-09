@@ -46,6 +46,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 **Practitioner's note.** Nothing to take from it for cultivation. It is a one-sentence note that a salt crust on rocks counts as salt. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter states only that the froth has the same properties as salt, and it names no organ, tissue or condition for the froth itself. The entry says the salt chapter (5-126) is the source of those properties. That chapter lists them as astringent, cleansing and dissolving, repressing, reducing the intensity of symptoms and forming scabs, with uses on rotten ulcers, psoriasis, eye growths, dropsy, itching, lichen, leprosy, throat and tonsil complaints, stings and bruises. The entry states that these reach the froth only through the same properties, and that the chapter does not say the froth is used for the same complaints. The Greek (DMM) frame prints no warming or cooling quality for the froth. The froth therefore maps to salt's qualities, and no organ is claimed for it directly.
+
 ### Contraindications
 
 - **Salt on ulcers or the eye:** the salt chapter's uses are not safe to copy; salt irritates ulcers and the eye.

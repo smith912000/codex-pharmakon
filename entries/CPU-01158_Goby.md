@@ -40,6 +40,10 @@ General, well-established facts only. A broth of fish simmered in water is a foo
 
 **Practitioner's note.** A cultivator does nothing with this. The only transferable lesson is the one Dioscorides states by example: fresh material, handled with care. The recipe is a historical record, not something to cook, and the bite use is no substitute for medical care.
 
+### Functional–Anatomical Correlate
+
+Dioscorides' chapter on the sea gudgeon, which the translators suggest as the goby, names two body targets. A drink of the reduced broth, from a fish boiled in a pig's stomach, brings down the bowels without any disturbance, so the intestine and bowel movement are the function described. Applied, the same preparation helps those bitten by dogs or snakes, so the skin and bite wound are the second target. The text does not say whether applied means the broth or the fish. The chapter gives no humoral or energetic quality and no preparation step beyond freshness and cooling in the open air. Neighbouring fish chapters name other organs, such as the burnt head of a fish for abnormal growths of flesh, but the entry keeps them separate. Its Contraindications section records that bites need urgent medical care, that purgatives can dehydrate, and that the recipe states no safety step for raw casings.
+
 ### Contraindications
 
 - **Bites from dogs or snakes:** need urgent medical care; do not rely on this text.

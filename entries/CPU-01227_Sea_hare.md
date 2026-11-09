@@ -44,6 +44,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The general fa
 
 **Practitioner's note.** There is nothing in the source for a cultivator to use. The material's two roles in Dioscorides are a hair remover and a poison, and a hair remover that is also a recorded poison is a reason for abstention. What the work does model is the cross-reference habit: the sea hare is cited by chapter number wherever a remedy for its poison is given, which is a way of keeping a hazard in view.
 
+### Functional–Anatomical Correlate
+
+The entry maps to skin, hair, eyes, blood and lung. Dioscorides' chapter is topical: the pounded animal, applied alone or with sea nettles, removes hair from the place it is put, so the skin and hair are the parts acted on. Avicenna's Canon, as the entry reads it, adds that the sea hare's blood is hot, that the blood clears freckles and white skin patches, that the burnt head makes hair grow in alopecia, and that a raw poultice removes hair. It also says the poultice and collyrium cleanse the sight, so the eye is named. Both traditions treat it as a poison. The Canon says it kills by ulcerating the lung, which makes the lung the named organ of the poisoning. Dioscorides' antidote chapters 1-105, 2-12 and 2-78 name swallowing as the route and give no organ or symptom. The Canon gives no temperament for the animal as a whole, only that its blood is hot, and the entry does not extend the Canon's frame to innate heat or radical moisture.
+
 ### Contraindications
 
 Dioscorides himself treats ingestion as poisoning (1-105, 2-12 and 2-78), so the animal must never be swallowed or put into a drink. Applied to the skin it is an unregulated marine animal product with an unknown skin effect, and the text says nothing of safe contact. Sea hares are marine animals in various jurisdictions whose collection is regulated. Poisoning needs medical care, not a household antidote. These are general cautions and not claims from the text.

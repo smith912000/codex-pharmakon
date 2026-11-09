@@ -115,6 +115,10 @@ The Kenetica protocol is a **short-course, acute, peri-performance** one, and it
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps hedge mustard to the airway, and above all to the voice. In the Greek reception (erysimon) it is a warming, attenuating, incising seed for the chest and throat: coughs, difficult breathing, thick catarrh, pleurisy and jaundice. In the Unani frame it is hot and dry in the second degree, a cutter of phlegm (muqaṭṭiʿ li-l-balgham) and cleanser of the chest. The entry notes that the vocal folds need surface hydration and freedom from swelling to vibrate cleanly, which is why singers use it for hoarseness and aphonia. Its mechanistic account places the pungent principle on TRPA1 channels of airway sensory afferents, driving reflex secretion that thins catarrh, with mucilage as a demulcent coat on the folds and polyphenols against oxidative swelling from smoke and overuse. The Egyptian and Assyrian tags are class-level only. Effect on the larynx in humans is not shown, and the entry says so.
+
 ### Contraindications
 
 - **⚠️ RED FLAG — PERSISTENT HOARSENESS IS A CANCER SYMPTOM.** Hoarseness or voice change lasting **more than three weeks** — particularly in a smoker, an ex-smoker, or a heavy drinker, and especially with pain, ear pain, a lump in the neck, difficulty swallowing, or blood in the sputum — requires **urgent laryngoscopy**. It is a two-week-wait referral criterion in most health systems. **Self-treating a persistent hoarseness with a herbal tea is one of the most dangerous things in this volume, because it feels harmless and it buys the tumour time.** Hedge mustard is for a voice that is hoarse *this week*, from a cause you can name. Nothing else.

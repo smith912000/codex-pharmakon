@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. The honest answer is to do nothing with it on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names no body system, organ or tissue. The only locus is a list row for Copaifera officinalis flagged id-uncertain, so whether this species or C. langsdorffii is meant cannot be settled from the material. The row says 'Amazonian' and cites the Rain-Tree database and a Schultes and Raffauf 1990 reference, neither opened. No people, plant part, constituent, preparation, dose, clinical study or energetic quality is given, and cultivation status is marked absent. Its contraindications section states that no safety data were read, that nothing is known of its safety in pregnancy, in children or alongside medicines, and that ordinary medical advice should be taken before any use. The entry shares the common name with CPU-00482 and asks for a ruling on merging.
+
 ### Contraindications
 
 No safety data were read for this row. Nothing is known here of its safety in pregnancy, in children or alongside medicines. Take ordinary medical advice before any use of a plant product. This is general caution and is not found in the row.

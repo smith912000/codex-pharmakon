@@ -78,6 +78,10 @@ A standing caution frames all four paragraphs: *Capsicum* is a New World genus t
 
 ---
 
+### Functional–Anatomical Correlate
+
+Cayenne is described as a hot, dry calefacient and rubefacient (Galenic, Unani) that kindles innate heat, disperses cold phlegmatic stagnation and stimulates digestion. In Ayurveda (katu, ushna) it is taken to kindle agni and reduce kapha. TCM (la jiao) places it in the middle burner, warming the digestive region, dispelling cold-damp and restoring appetite. The Badianus tradition records warming counter-irritant use for congestion and toothache. The entry's modern mechanism is that capsaicin fires TRPV1, the body's heat-sensing receptor on nociceptive nerve endings, and repeated high-concentration exposure defunctionalises those terminals, giving analgesia in neuropathic pain and osteoarthritis. The topical target is the skin and the nerves beneath it, over muscle and joint. The entry grades topical use as strong and systemic or traditional internal claims as lower-grade. The eyes, mouth and gut mucosa are irritated tissues, and large internal doses can aggravate gastritis, reflux, peptic ulcer and haemorrhoids.
+
 ### Contraindications
 
 - **Mucosal and eye contact is hazardous.** Capsaicin causes intense burning of eyes, mouth and mucous membranes; keep away from eyes, genitals and broken skin, and wash hands thoroughly after topical use (capsaicin is not water-soluble — remove with oil/soap, not water alone).

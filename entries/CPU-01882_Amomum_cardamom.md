@@ -53,6 +53,10 @@ General, well-established facts only. Cardamom is a widely used culinary spice f
 
 **Practitioner's note.** Nothing here supports a cultivation use. What a cultivator can take from the chapter is the test: check the origin, check the freshness by the closure and the hardness, check the smell and the taste, and do not buy a spice that fails them.
 
+### Functional–Anatomical Correlate
+
+Dioscorides prints a decoction of the spice, taken with water, as able to heat the body. The text lists the conditions it is good for: cough, sciatica, paralysis, hernia, convulsions and griping, and it expels worms from the rectum. Taken with wine it is said to help defective kidneys and difficult urination, and with bay-root bark a teaspoonful is said to break stones in the kidney or urinary tract. Against venom, the scorpion's sting and other bites are named. Smoke or fumes are said to be an abortifacient, which reaches the womb, and an application with vinegar is said to clear parasitic skin disease. For the choice of product the text prints a sharp taste, a bitter note and an offensive smell. It names no humour and no potency beyond heat. The binomial is editorial, so this is the text's record only, with no dose or protocol. Fumes are not to be used in pregnancy on the strength of this entry.
+
 ### Contraindications
 
 - **Pregnancy.** The text lists the fumes as an abortifacient. Do not use fumes or concentrated preparations of this spice in pregnancy on the strength of this entry.

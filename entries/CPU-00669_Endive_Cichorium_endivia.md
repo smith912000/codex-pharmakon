@@ -71,6 +71,10 @@ The closely related *Cichorium intybus* (chicory) has a substantially larger lit
 
 ---
 
+### Functional–Anatomical Correlate
+
+Endive's entry maps onto the digestive system and the liver. Its bitter sesquiterpene lactones are said to stimulate salivary and digestive secretion, priming the mouth, stomach and bile flow. Galenic and Unani frames place it as a cooling deobstruent and opener of the liver and spleen, tempering hot bile and useful in hot dyscrasias and jaundice. Dioscorides describes it as cooling and astringent for a hot, disordered stomach and inflammation, and applied to the eyes and hot swellings. Ayurvedically it is a bitter, Pitta-pacifying drug that kindles appetite, by inference only. Its inulin and fructans are prebiotic fibre that feeds beneficial gut flora. The entry lists vitamin K as relevant to people on vitamin-K-antagonist anticoagulants. Its phenolic and sesquiterpene anti-inflammatory and antioxidant action is preclinical only, and the entry notes no hepatotoxicity signal. The leaf's bitterness is the sensory route by which these digestive effects are said to begin.
+
 ### Contraindications
 
 Endive is a food and is very safe at culinary intake. Cautions:

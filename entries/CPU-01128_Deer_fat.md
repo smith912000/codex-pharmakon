@@ -48,6 +48,10 @@ General, well-established facts only. Animal fat is an energy-dense food and can
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. Deer fat is one clause in a line of four fats, and its tradition describes animal products as largely replaced. The honest use of the entry is as a record. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Tibetan Explanatory Tantra (FMT, Clark) gives deer fat two actions, that it is anthelmintic (expels worms) and protects against poisoning, with no organ named. The Men-Tsee-Khang text gives the same sentence, using the Tibetan term ein for its disorder, which the entry does not define. The Shennong bencao jing (SBJ) entry for mi-deer fat (mizhi), the nearest item, is fuller: acrid and warm, it governs swollen abscesses, malignant sores and dead flesh (skin and soft tissue); cold, wind and damp numbness; limbs that are cramped or slack and will not gather; wind in the head and swollen qi; and it opens the interstices (腠理, the fine spaces of skin and flesh). Mapped systems: the skin and soft tissue, the limbs and nervous system, the head, the qi channels, and the gut as the site of worms. The Clark line gives no temperature or taste.
+
 ### Contraindications
 
 - **Poisoning:** a suspected poisoning is a medical emergency; do not rely on any fat or other animal product.

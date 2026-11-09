@@ -40,6 +40,10 @@ General fact only: a stone worn on the body does not neutralise venom. Snakebite
 
 **Practitioner's note.** A one-line amulet report with no description, passed on by hearsay. Nothing to practise.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one site, the bite of a snake, against which the stone is said to benefit when hung on the person, under the heading of Poisons. The bite is the affected point, the wound where the poison enters. The passage names no organ, body system, temperament or humour, and no preparation beyond wearing the stone. The only source is a hearsay report that Avicenna gives from Galen, who cites a man he trusted, so the claim has no description of the stone and no test attached. Modern anatomy would locate a snakebite at the skin and tissue where venom is introduced, but the passage says no more than the bite. Nothing else in the entry is mapped, and no dose or duration is given.
+
 ### Contraindications
 
 - **Snakebite is a medical emergency.** Do not rely on any amulet.

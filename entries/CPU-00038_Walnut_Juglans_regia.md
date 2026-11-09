@@ -106,6 +106,10 @@ Black walnut (*J. nigra*) hull contains significantly higher juglone concentrati
 
 ---
 
+### Functional–Anatomical Correlate
+
+Walnut's entry maps its action onto the heart and blood vessels, the brain, the kidneys and reproductive tissue, the lungs and the intestines. Its modern anatomy follows ALA and arginine into nitric-oxide-mediated vasodilation of the endothelium and reduced LDL oxidation in the vessel wall, and polyphenols said to cross the blood-brain barrier for neuronal antioxidant activity. The Chinese framing places it in the Kidney (Jing tonic, warming the Gate of Life), the Lung (warming for cold-type cough and asthma) and the Large Intestine (lubrication for constipation), and names the brain as the Sui, the sea of marrow. Ayurvedically it is Madhura and Ushna, Vata-pacifying, with Medhya brain-tonic, Shukrala reproductive and Balya strengthening action. The entry links kidney and reproductive support to arginine, zinc and omega-3 fats for sperm motility and membrane integrity. The green hull's juglone is mapped against intestinal parasites and Candida. The brain-shaped kernel is recorded as signature-thinking, not as a demonstrated action.
+
 ### Contraindications
 
 - **Nut allergy (tree nut)** — walnut allergy is among the most common tree nut allergies; cross-reactive with pecan, hickory nut; walnut allergy can be severe (anaphylaxis risk); screen for tree nut allergy before therapeutic doses

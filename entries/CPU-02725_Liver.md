@@ -42,6 +42,10 @@ General, well-established fact: liver is a rich food source of iron and vitamin 
 
 **Practitioner's note.** Nothing to do. A food of thick blood, in the Canon's own judgement, and a set of animal-organ remedies recorded with distance. Nothing supports any cultivation use.
 
+### Functional–Anatomical Correlate
+
+The Canon maps animal liver onto the liver itself, the teeth, epilepsy and rabies. Goat liver, and especially he-goat liver, is said to reveal the case of the epileptic, who falls if he eats it. A lizard's liver applied to eroded teeth quiets pain. Wolf liver is said to help all pains of the liver. A rabid dog's liver is said to help the one it has bitten and to prevent fear of water. The Canon describes liver as generating thick blood and as slow to pass through the vessels, except the fattened duck's, which it calls the soundest. Galen is cited as finding no added benefit from liver in an agrimony remedy. The passage gives no temperament, dose or method, and the entry adds no subtle-body or humoral reading beyond the Canon's own words.
+
 ### Contraindications
 
 - **Rabies.** Never rely on an animal organ after a bite; seek proper medical care at once.

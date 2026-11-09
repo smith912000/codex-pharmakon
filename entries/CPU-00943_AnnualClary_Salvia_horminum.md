@@ -82,6 +82,10 @@ Warm and dry, aromatic — the standard humoral reading for a cultivated sage of
 
 **Practitioner's note.** Nothing cultivation-specific is attested. A garden ornamental with a loosely pinned classical identity; do not treat it as a sage substitute.
 
+### Functional–Anatomical Correlate
+
+Annual clary acts on two sites in the entry's account. The eye comes first: the classical seed, moistened and placed under the eyelid, swells into a mucilage gel that gathers grit from the ocular surface and draws it out. The entry calls this a mechanical swelling action, not a treatment of corneal or conjunctival disease, and it advises against plant material in the eye because of abrasion and infection risk. The second site is the digestive tract, where the Greek herbal stream and Unani usage (warm, dry, aromatic) describe a warming agent for digestion, though the entry attributes this to tradition rather than to demonstrated gut action. The plant's rosmarinic acid and verbascoside are recorded only as in vitro antioxidants. The entry notes that an anxiolytic effect is reported for Salvia species at genus level, not for this species. No other body system is mapped.
+
 ### Contraindications
 
 - **Do not apply seeds or plant material to the eye.** The historic eye-cleansing use risks corneal abrasion and microbial keratitis; genuine eye complaints need sterile irrigation and clinical care.

@@ -40,6 +40,10 @@ General, well-established facts only. Bivalve shellfish filter-feed and can conc
 
 **Practitioner's note.** There is nothing here for a cultivator to take. The tellin is a minor shellfish in a short chapter, recommended for the bowels and for an eyelash trick, both of which the Codex leaves as history. The one piece of practical advice the text carries, to use the shellfish fresh and new, is ordinary shellfish care.
 
+### Functional–Anatomical Correlate
+
+The entry maps two sites, both named in the one chapter. The fresh broth of the shellfish is said to be good for the bowels, which places its action in the intestine and its digestive tract, and the chapter gives no quality (warming, cooling or drying) for it. The second use is external: the shellfish, seasoned with salt, burnt and pounded, is dropped on with cedria (glossed as oil of cedar in Dioscorides' 1-105) so that eyelash hairs do not spring up again after plucking. The site there is the eyelid, the hair follicle of the lash. Dioscorides' cedria entry says it heats and dries strongly, so the vehicle, not the shellfish alone, carries the stated action. The neighbouring chamae chapter says broth stirs the bowels, but the entry does not treat that as the same claim. No humour or temperament is printed for the tellin. Only the bowel and the lash follicle are named, and the species rests on a translator's suggestion.
+
 ### Contraindications
 
 - **Shellfish allergy:** bivalve shellfish are a common cause of severe allergy; avoid in anyone with a known shellfish allergy.

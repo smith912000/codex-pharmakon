@@ -126,6 +126,10 @@ For calibration on what a galactagogue claim *would* need to look like: the fiel
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps sow thistle onto inflamed and hot tissue: sores, boils, hot swellings and inflamed skin, applied externally or eaten. In Galenic, Greek and Unani terms it is a cold, dry, refrigerant and cleansing bitter for heat of the liver and stomach, for burning thirst and for heat-oppressed digestion. Chinese medicine places it in clearing heat and resolving toxicity, cooling the blood and draining damp-heat, with channels given as Heart, Liver and Large Intestine. The bitterness is said to support appetite and digestive secretion; the entry grades this as plausible for bitters as a class but unverified for this species. The modern correlate offered is anti-inflammatory activity in macrophages and mice, with suppression of TLR-4, NF-kB and COX-2 and reduction in a mouse ear oedema model. Antinociceptive and rodent antihyperglycaemic data are preliminary. The entry explicitly declines any galactagogue action on the breast; no lactation study was found. Cold, spleen-yang deficient presentations with cold diarrhoea are contraindicated.
+
 ### Contraindications
 
 - **Not a galactagogue.** Nursing mothers should not rely on this plant to increase milk supply. Eaten as a vegetable in ordinary food quantities it is not known to be harmful in lactation, but **medicinal doses in pregnancy and lactation are not supported by safety data and should be avoided.**

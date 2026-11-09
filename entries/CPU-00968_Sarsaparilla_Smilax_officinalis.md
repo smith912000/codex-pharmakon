@@ -88,6 +88,10 @@ According to PubMed, the modern evidence for *Smilax* is almost entirely **precl
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places sarsaparilla in the skin, the joints and the blood, with sweat and urine as its outlets. In the Unani frame (ushba) it is hot and dry in the second degree, a blood-purifier (muṣaffī-yi dam) and diaphoretic for chronic skin eruptions, corrupt humors and joint complaints. Ayurveda places the related sarivā in the raktaśodhana, blood-cleansing class, for skin disease (kuṣṭha), pruritus and heated blood. The Chinese tu fu ling is sweet, bland and neutral, used for damp-heat and skin disorders, entering the Stomach and Liver channels and unblocking the joints. The Greek rough smilax is a warming, protective root. The entry's modern reading is that steroidal saponins and flavonoids damp TNF-α, COX-2 and IL-1β in cell and animal models, which fits the skin and joint use. The gut receives the saponins, which at high doses irritate it. The syphilis and anabolic claims are mapped to no tissue, and the entry rejects both.
+
 ### Contraindications
 
 - **Not a treatment for syphilis or any STI.** Presenting sarsaparilla as an anti-venereal cure is dangerous; bacterial STIs require antibiotic therapy. This is the single most important caution.

@@ -70,6 +70,10 @@ Based on articles retrieved from PubMed, the cardiovascular and antioxidant rati
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places Moldavian dragonhead chiefly in the heart and nervous system: the agitated, heat-flushed heart-mind, with palpitation, restlessness and nervous tension. Its digestive reach is the stomach, where the aromatic carminative eases the unease that accompanies these states. Galenic-Unani reasoning files it among cordial, heart-comforting, calmative aromatics alongside balm, and Uyghur medicine uses it as an aromatic cardiac remedy for coronary heart disease and angina. The Chinese and Inner-Asian frame speaks of clearing heat and calming the spirit (shen) while benefiting the heart. The modern correlates are cardiac and vascular: in rats and H9c2 cardiomyocytes, tilianin reduced myocardial ischaemia-reperfusion injury, infarct size and inflammatory cytokine release, and rosmarinic-type phenolics are cited for antioxidant protection. The entry notes that no human trial confirms the calmative or cardiotonic indications. Its lemon-citral oil is for external use only.
+
 ### Contraindications
 
 - **Pregnancy and lactation:** insufficient safety data for the concentrated herb or oil — avoid medicinal doses.

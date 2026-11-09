@@ -69,6 +69,10 @@ The active principle is **zinc** (as carbonate/oxide), a mildly astringent, prot
 
 ---
 
+### Functional–Anatomical Correlate
+
+Calamine acts on the body's surfaces, principally the skin and the eye, and the entry says it is essentially never taken internally. Its Chinese channel map places it in the Liver, through the eye, and in the Stomach, and its stated actions are to brighten the eyes and remove films, dry damp, relieve itching, astringe sores and generate flesh. The modern correlates the entry names are the epithelial and wound-healing role of zinc, and calamine lotion, zinc oxide with a little ferric oxide, used as an antipruritic and skin protectant for rash, bites, dermatitis and weeping minor lesions. The Greco-Roman cadmia and pompholyx tradition, read in the same entry, used zinc sublimates in eye salves and wound powders. The entry declines to recommend self-made eye powders and classes deep, infected wounds and eye complaints as needing proper medical care.
+
 ### Contraindications
 
 - **Internal use — do not ingest:** calamine/Lú Gān Shí is an **external** medicine; it is not for internal consumption.

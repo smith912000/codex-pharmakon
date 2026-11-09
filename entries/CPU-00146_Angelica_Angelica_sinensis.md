@@ -93,6 +93,10 @@ The root is harvested in autumn, three years after planting, then carefully drie
 
 **Practitioner's note.** In practice Dāng Guī is used as a blood-building and blood-moving remedy — taken to correct a deficiency or stasis, in decoction or in a base formula such as Sì Wù Tāng, and adjusted to the person's state rather than taken indefinitely as a longevity substance. None of the three traditions here supplies a sourced cultivation grade for it; the honest cultivator treats it as a corrective tonic within *yang sheng*, not as an ascent drug, and stops when the blood picture is restored.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Dāng Guī acts on the blood, the vessels and smooth muscle, the uterus and menstrual cycle, and the connective tissue of the joints. In TCM it tonifies and generates Blood, activates Blood to resolve stasis, enters the Heart, Liver and Spleen channels and regulates the Chong and Ren vessels. Z-ligustilide is described as a calcium channel blocker on vascular smooth muscle, giving vasodilation, antispasmodic and neuroprotective effects. Ferulic acid is described as supporting erythropoiesis through HIF-1α and EPO and as cross-linking collagen. Butylidenephthalide is described as relaxing uterine smooth muscle. Ayurvedic sources give Choraka rakta-vardhaka (blood-building), artava-janana (menstrual-regulating) and vedanasthapana (analgesic) actions. Tibetan rGyud-bzhi uses ru-rta as a blood-warming, rlung-pacifying agent for cold-pattern joint pain and menstrual disorders. The entry also flags the coumarins' weak phytoestrogenic and anticoagulant potential.
+
 ### Contraindications
 
 - **Active haemorrhage or excess bleeding disorders:** Dāng Guī's blood-activating and mild anticoagulant properties (via coumarin content and platelet aggregation inhibition) are contraindicated in active haemorrhage, haemophilia, or von Willebrand disease. Discontinue 2 weeks before surgery

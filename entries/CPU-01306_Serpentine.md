@@ -44,6 +44,10 @@ General, well-established facts only. Serpentine is a rock-forming group of magn
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The entry records that a Greek physician described three kinds of a stone by their markings and said, with some reserve, that it was tied about the body against snakebite and headache. The Codex does not recommend relying on any stone for a bite. The one thing a reader can take from it is the habit of distinguishing kinds by what the eye can see before saying what a thing is for. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states its sites through the uses. Dioscorides says any of three kinds of ophites stone, tied about the body, is good for snakebites and headaches, and that the white-lined kind is reported to help lethargy and headaches in particular. The mapped sites are therefore the site of a snakebite, the head for headache, and the state of drowsiness or lethargy, with the whole body as the place the stone is tied. The chapter prints no taste, no heat or cold, no wet or dry quality and no humour. The three kinds are distinguished by colour and marking (heavy and black, ashy with pricks, white-lined). No channel, subtle-body site or organ beyond the head is named, and no other tradition is tagged. The only act described is tying the stone about the body, so the route of action is external.
+
 ### Contraindications
 
 - **Snakebite:** an emergency; seek antivenom and hospital care immediately; a stone is not a treatment.

@@ -87,6 +87,10 @@ Read as **warm and dry, resolvent/discutient** — a corrector of cold, damp, bo
 
 **Practitioner's note.** Nothing. The only attested use is a crude leaf applied externally; neither tradition read here supports long-term or internal use, and the modern extract is a different substance.
 
+### Functional–Anatomical Correlate
+
+Under the Galenic-Unani reading butterbur is warm and dry, a resolvent and discutient that disperses cold, boggy swelling, though the entry says this is inferred rather than codified. The classical Greek use is external: a crude leaf applied to ulcers, malignancies and wounds. The modern extracts are mapped to two systems. In the head, a PA-depleted root extract reduced migraine attack frequency at 75 mg twice daily, while 50 mg twice daily was not significantly better than placebo. In the nose and airways, the leaf extract Ze339, standardised to petasins, improved intermittent allergic rhinitis and reduced nasal histamine and leukotrienes, with STAT signalling inhibited in nasal epithelium. The entry's central hazard is the liver and genome: unsaturated pyrrolizidine alkaloids are hepatotoxic and genotoxic, with veno-occlusive disease and liver cancer as class risks, and they transfer in pregnancy and breastfeeding. The crude plant is not a safe internal medicine.
+
 ### Contraindications
 
 - **Raw plant, tea, and any non-PA-certified preparation: do not ingest.** Unsaturated pyrrolizidine alkaloids are hepatotoxic and carcinogenic; hepatic veno-occlusive disease and liver cancer are the class risks.

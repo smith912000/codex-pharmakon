@@ -69,6 +69,10 @@ According to PubMed, ground ivy is a phenolic-rich Lamiaceae whose bioactivity i
 
 ---
 
+### Functional–Anatomical Correlate
+
+In the entry's Unani frame, ground ivy is hot and dry in the early degrees and acts as a deobstruent and resolvent of the head and chest, drying excess phlegm, with aromatic bitterness supporting digestion and urine flow. The Dioscoridean frame places it among the thinning, incising agents that cut thick humour, provoke phlegm and clean wounds. The organs named are therefore the nasal and sinus passages, the chest and airways (catarrh, chronic productive cough), the ear (tinnitus and ringing), the digestive tract and urinary tract (mild diuresis), and skin wounds. The Ayurvedic reading is given by analogy only, as kapha-reducing. Modern mapping is to rosmarinic acid, which the entry links to antioxidant, anti-inflammatory and anti-fibrotic action in extracts; the entry states this is in vitro and animal work, with no clinical trials for catarrh or tinnitus. Its essential oil contains pulegone, which the entry describes as hepatotoxic and abortifacient, so the oil should never be taken and courses kept short. Pregnancy, lactation and epilepsy are listed as cautions.
+
 ### Contraindications
 
 **⚠️ PULEGONE CONTENT — HEPATOTOXICITY RISK.** Ground ivy's essential oil contains **pulegone**, a monoterpene ketone that is **hepatotoxic and abortifacient** at concentrated exposure (the same toxin responsible for pennyroyal poisoning). Do **not** use the isolated essential oil internally, and avoid prolonged high-dose use of the herb. Standard short-course water infusions of the aerial herb deliver far less pulegone than the neat oil, but the toxin is the reason courses must stay brief and the oil must never be taken.

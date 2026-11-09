@@ -48,6 +48,10 @@ General, well-established facts only. Copper salts taken by mouth cause vomiting
 
 **Practitioner's note.** A caustic furnace by-product of the ancient metal shop, used in the old pharmacy for its bite. Nothing here supports ingestion or any cultivation use. The Codex takes from the chapter the habit of testing for adulteration, and nothing else.
 
+### Functional–Anatomical Correlate
+
+The chapter maps the flower of copper to the bowels, the eyes, the nose, the ears, the throat and the perineum, with the skin as the surface of the last of these. It is therapeutic for the bowels, and the text says it wears off what darkens the sight of the eyes. A larger dose is said to extract thick fluids, which places its action on the gut and the body's fluids. In the nose it consumes abnormal growths of flesh. With wine it represses pustules on the perineum. The white flowers blown into the ear through a pipe are said to treat long-standing deafness. Beaten fine and applied with honey, it represses the tonsils and uvula, so the throat is the last named site. The chapter prints one quality, excessively biting, and no heat or moisture grade. It assigns no humour, channel or organ system beyond these sites, and it names no constituent.
+
 ### Contraindications
 
 - **TOXIC AND CAUSTIC.** Do not swallow it, and do not put it in the eyes, nose, ears or throat.

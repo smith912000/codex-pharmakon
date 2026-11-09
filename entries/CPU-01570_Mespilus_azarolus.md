@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identifica
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this tree. It is an edible astringent fruit with no use printed, so nothing more can be said from the text. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the fruit of this tree (DMM, chapter 1-170) is round, edible, with a broad navel, somewhat astringent and slow to ripen. The chapter prints no use, no part of the body acted on, no preparation and no complaint. It names no organ, tissue, body system, humour, dosha or qi term, and gives no temperament or taste beyond astringent. The bowel and stomach claims of the chapter before it, 1-169, are not carried over, because 1-170 does not make them. Astringency is the only quality named, and no body system is linked to it in the text. Nothing here maps the fruit to any organ, and the identity rests on a translators' suggestion between two names.
+
 ### Contraindications
 
 The chapter prints no warning. Because it prints no use, there is nothing in it to apply. The identification rests on a translators' suggestion between two names, so no tree should be identified or its fruit eaten on the strength of this entry. None of the traditional statements above is advice. [USER: verify]

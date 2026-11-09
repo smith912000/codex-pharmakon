@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a drug for menstrual flow and bleeding in the Tibetan texts, and the two texts print different plants for the name. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The root-text clause in Clark says only that this drug 'controls excess menstrual flow', which maps it to the female reproductive system, specifically the bleeding of menstruation. The Men-Tsee-Khang passage agrees, saying the drug 'stops menstrual bleeding'. In Clark's bracketed commentary layer the drug is also described as hemostatic, 'supremely beneficial for skull fractures and injuries, and unites bone fractures'. In modern anatomy terms these commentary claims reach the skull and the long bones, the bone-healing system, and the blood's clotting as the hemostatic action. They are the commentary's and not the root text's, and the entry notes that a description of blue or yellowish-blue flowers may not suit a Celosia. No humoral, doshic or qi classification, and no taste or power, is printed. The glossary sets Pisum sativum against the name, so the plant is unsettled and the mapping stays the texts' claim.
+
 ### Contraindications
 
 The sources read print no warning. The identity is uncertain, so no plant should be gathered or used on the strength of this entry. Heavy menstrual bleeding, other bleeding and fractures need medical care. No safety information for pregnancy was read, and a drug said to stop or control menstrual flow is not for use in pregnancy without medical advice. [USER: verify]

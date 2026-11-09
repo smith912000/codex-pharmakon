@@ -61,6 +61,10 @@ Antimicrobial activity of silver ions and the use of silver compounds on burns a
 
 **Practitioner's note.** Nothing sourced supports taking silver for cultivation. The strongest line is Tibetan, and there silver is one of four metal ashes in a supervised rejuvenation course that begins with oil therapy, a bath and internal cleansing and demands a clean, quiet place and abstinence (Clark ch.23; MTK ch.23). A cultivator can read that as the tradition's own caution about context and leave the metal itself alone. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Silver's claimed sites come mainly from the Sushruta and Tibetan texts. Rajata is given an acid taste, a laxative and cooling potency, and an action that destroys pitta and vayu. It is in the Trapvadi group, a vermifuge said to cover jaundice, chlorosis, urethral discharges, heart disease and thirst. Powdered silver, among other dead metals, is pasted with honey into a collyrium for the eye, and it is named as water for bathing a newborn. The Tibetan Explanatory Tantra places silver among drugs that dry lymph disorders, pus and impure blood, and gives it the same astringent taste as gold. The Greek silver slag and litharge are described for ulcers, fleshy growths and eye medicines, but those are smelting by-products. In modern anatomy terms the mapped sites are the eyes, the heart, the urinary tract, the blood and lymph, the skin, and the liver through jaundice.
+
 ### Contraindications
 
 Ingested silver can cause permanent argyria and offers no sourced benefit here. Litharge and the "silver" by-products in the Greek text are lead-bearing and toxic. Do not take any silver preparation by mouth on the strength of this entry. Calcined or "ashed" metals in the traditional compounds are not standardised and may carry other toxic metals.

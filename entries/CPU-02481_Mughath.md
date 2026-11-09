@@ -40,6 +40,10 @@ Avicenna: hot to the second degree, moist in the third (lines 15085 to 15086).
 
 **Practitioner's note.** What a cultivator can take from the entry is a caution about names. The text itself doubts what the drug is, and the claim that excites readers, the sexual action, is attributed to the seed in the same sentence that doubts the identification. Nothing here is a practice.
 
+### Functional–Anatomical Correlate
+
+The Canon's entry maps mughāth onto several systems. It says the drug is hot to the second degree and moist in the third, that it strengthens the organs, and that it is fattening. For the joints and muscles it names a poultice for sprain (wathy), fracture and weakness of the muscle, and says it benefits gout (niqris) and spasm (tashannuj) and is good for al-dashbadh and hardness of the joints; al-dashbadh is not explained in the lines read. For the chest it names a softener of hardness of the throat and lung. For the reproductive organs, in the terms of venery (al-bāh), it says the drug stirs venery, especially its seed. The entry doubts its own identity, since some said it is wild pomegranate root and the Canon says that does not fit the sexual action it reports. The entry gives no dose, no contraindication and no vital-faculty term.
+
 ### Contraindications
 
 - Identity is uncertain in the source; do not assume the root sold today is the Canon's drug.

@@ -49,6 +49,10 @@ Dioscorides prints no quality (warming, cooling, astringent or other) for zopiss
 
 **Practitioner's note.** Nothing here makes zopissa a cultivation substance. The one thing the chapter teaches is that a trade name can mean two different materials, ship-scrapings and pine resin, and a cultivator reading old texts should check which is meant before assuming an identity.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter states only what the material is. Dioscorides says that zopissa, called apochyma by others, is a resin together with wax scraped off ships, and that it is soluble because it was steeped in sea water. He adds that some have used the name for pine resin. No property, use, quality, preparation or dose is given. The chapter therefore names no organ, tissue, body system or temperament, and nothing in the neighbouring pitch chapters is transferred to it. The name covers two materials, ship scrapings and pine resin, and the chapter does not link either one to any organ at all. It gives no energetic classification and no cultivation claim, so no further mapping is possible from the entry.
+
 ### Contraindications
 
 - **Identity.** The name covers two materials in this chapter (ship-scrapings, and pine resin). Do not treat any resin as "zopissa" on the strength of the name.

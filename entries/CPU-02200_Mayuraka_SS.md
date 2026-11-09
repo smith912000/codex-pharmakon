@@ -51,6 +51,10 @@ No general scientific statement can be made about an unidentified item. Two of t
 
 **Practitioner's note.** A name without a plant behind it, in a group of strong and partly toxic drugs and in two medicated oils. There is nothing to source or take. The honest outcome is to keep the name and its three contexts on record and leave it.
 
+### Functional–Anatomical Correlate
+
+Mayuraka is named in the Arka'di group, which the text says destroys Kapham, fat and the effects of poison, acts as a vermifuge, and cures skin disease, with a specific aseptic action on ulcers. In the ch.36 oil it is one of the drugs for purifying the inside of an ulcer. In the ch.5 wind-disease oil it is one of several alternatives, cooked in a decoction of roots with a paste of Kakolyadi drugs, for the great diseases of wind (Vata). The text gives no part of the plant and no organ beyond the ulcer and the skin. Its companions in the group and the ulcer oil include Arka, Karanja, Haritala and Manahshila, which the Codex reads as strongly acting or poisonous, so the group's actions cannot be credited to Mayuraka alone. Kapham, fat and Vata are the text's own terms and have no modern equivalent in the Codex.
+
 ### Contraindications
 
 - **Identity unresolved; companions toxic.** Do not substitute any product for it. The group includes *Arka* and *Karanja*, and the ch.36 oil includes mineral poisons.

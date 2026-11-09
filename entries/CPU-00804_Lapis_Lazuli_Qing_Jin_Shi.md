@@ -50,6 +50,10 @@ Lapis lazuli is a stable silicate rock with no known pharmacological action; gro
 
 **Practitioner's note.** Nothing here for a cultivator to take or do. Lapis lazuli is in these sources an eye-salve ingredient, a drink in one Greek chapter, and a name on two lists. If the sources offer a discipline, it is the Egyptian scribe's and Dioscorides' habit of naming exactly what is used; for the stone itself, there is none. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Lapis lazuli's claimed sites are almost all in the eyes and skin. Egyptian eye salves and a cataract remedy, which would fall on the lens, name it as an ingredient. Dioscorides' chapter (5-157), read under the edition's sapphire gloss, says a drink of it helps those touched by scorpions (no organ named), and it is claimed for internal ulcers and abnormal growths in the eyes. The same chapter says it represses pustules, represses adenoids or haemorrhoids (the translator's uncertain reading), and rejoins herniated membranes, a claim that names no organ. The Assyrian row names no action. The Chinese blue stones in the entry are azurite, not this stone. No humour, dosha, qi or temperament is printed for lapis lazuli in the lines read, so these sites are the entry's own.
+
 ### Contraindications
 
 Powdered stone is not sterile and, applied to the eye, can scratch the cornea and cause infection; it must not be put in the eye. Swallowing powdered stone has no sourced benefit. Commercial "lapis" powders and "ultramarine" may be dyed, synthetic or contaminated with other minerals; the pigment trade is regulated in some places. The Greek identification is uncertain (the edition glosses it both as sapphire and as lapis lazuli), so what Dioscorides recommended may not be this stone.

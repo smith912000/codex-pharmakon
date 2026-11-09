@@ -53,6 +53,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a wound drug in the Tibetan texts, with no preparation and no dose, and the editions disagree on whether the plant is a poppy or a marigold. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry gives one action, taken from Clark 1995 and worded the same way in Men-Tsee-Khang 2011: the drug 'unites wounds and heals necrosis of the channels' (Clark), or 'treats wounds and necrotic channels' (Men-Tsee-Khang). The tissues the texts name are wounds and necrotic tissue, and the channels as the printed Tibetan term, with no organ named. The commentary layer, inside Clark's brackets, adds a bitter taste and a description of the plant: a yellow flower, small furry lobed leaves, a thin stalk and short petioles, growing in dry soil. No power, post-digestive taste, preparation or dose is printed. The plant is uncertain among four species, and no clinical study was retrieved. The entry itself says that wounds and tissue necrosis need medical care.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Wounds and necrotic tissue need medical care. The identity is uncertain, no preparation or dose is given, and because the genus *Papaver* includes the opium poppy, which is subject to legal controls in many countries, no plant of that genus should be gathered or used on the strength of this entry; the legal status of *Papaver nudicaule* was not checked. [USER: verify] No safety information for pregnancy was read. [USER: verify]

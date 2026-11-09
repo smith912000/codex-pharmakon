@@ -45,6 +45,10 @@ General, well-established facts only. *Senna alata* (candle bush, ringworm bush)
 
 **Practitioner's note.** A name on a list, with no use stated. The Samhita text on disk gives no grade, no preparation and no dose, so the entry offers a cultivator nothing to practise.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives no body system, organ or tissue for this plant. Its only source is one Appendix 3 name line in Bhishagratna's Sushruta translation, a Latin gloss with no part used, no indication, no preparation and no use. The appendix prints no rasa, virya or vipaka for it and states no ojas, rasayana or vajikarana action. The entry's general note, which it marks as not a claim about the Sushruta drug, is that plants of the senna group are stimulant laxatives. The entry flags several gaps: no safe-use statement, nothing on pregnancy, lactation or children, and an identity question because the modern name Senna alata differs from the printed Cassia alata. It gives no dose, attests no cultivation status, and says the Codex gives no protocol for this material and does not recommend it.
+
 ### Contraindications
 
 - **No safe-use statement exists in the sources retrieved.**

@@ -80,6 +80,10 @@ According to PubMed, the modern evidence for cubeb is **constituent-level and pr
 
 **Practitioner's note.** A cultivator uses cubeb to clear, not to cultivate. It is a warming, drying aromatic taken in a short course to open cold-damp airways and waterways and to freshen the breath — a therapeutic clearing, stopped once the passage is open. No tradition in this entry grants it a vital-cultivation grade, and its own drying, penetrating character argues against continuous use.
 
+### Functional–Anatomical Correlate
+
+The entry's dual target is the airways and the urinary tract, which it calls the channels of breath and waters. Unani (Avicennan) terms classify cubeb as hot and dry in the second degree, carminative, diuretic, expectorant and deobstruent of the urinary and respiratory tracts, used for urinary discharges, cystitis, cough, catarrh, hoarseness and chest congestion. Ayurveda (kankola) gives it a pungent, bitter, heating action for the mouth, throat, cough and urinary complaints, and as a digestive. Its carminative and stomachic use points to the digestive tract, and its breath-freshening role to the mouth. Medieval European use added the same urinary and respiratory targets. The main constituent named, cubebin, has analgesic, anti-inflammatory, antimicrobial and antispasmodic activity in experimental work, and the essential oil has been characterised chemically. The entry grades this as preclinical only, with no robust human trial for the traditional indications. Its contraindications point to the kidneys and urinary tract in acute nephritis, and to the stomach and oesophagus in reflux and gastritis.
+
 ### Contraindications
 
 - **Genito-urinary irritation:** as a warming, resinous urinary aromatic, excess may irritate the kidneys/urinary tract — avoid in acute nephritis and in high or prolonged doses. `[USER: verify]`

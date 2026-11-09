@@ -46,6 +46,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identifica
 
 **Practitioner's note.** There is no cultivation practice here. This is a middle-class record of an insect of uncertain identity, praised for sexual function and offered with no dose. A cultivator should read it as history.
 
+### Functional–Anatomical Correlate
+
+The entry maps to the heart and abdomen, the reproductive system and the will. It names evil qi of the heart and abdomen (xin fu xie qi), impotence (yin wei), boosting the essence (yi jing) and strengthening the will (qiang zhi), begetting children (sheng zi), fondness for women (hao se), supplementing the centre (bu zhong) and lightening the body (qing shen). Essence (jing) and will (zhi) are the classic's terms, and the text gives no modern equivalent. In modern anatomy, impotence and begetting map to the reproductive system, a reading the Codex does not make from the text. The energetic frame is bitter and balanced (wei ku, ping), with middle-class placement and no toxicity statement. The entry names no organ beyond the heart and abdomen. Impotence, infertility and abdominal complaints need medical care.
+
 ### Contraindications
 
 - **Toxicity unknown.** The classic does not warn, and the preface says middle-class drugs may be toxic or not (line 1677). The Codex has no source on the safety of the insect. Insects sold under related names include irritant species; ingestion could cause serious harm. Do not ingest any insect on the strength of this entry. [USER: verify]

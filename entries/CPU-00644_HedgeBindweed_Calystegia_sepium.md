@@ -132,6 +132,10 @@ Graded honestly, including the nulls. The nulls here are the most informative pa
 
 **Practitioner's note.** Nothing. The entry is a non-training, doctrinal-lineage record, and the plant is a drastic purgative the entry advises against using.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Hedge Bindweed's classical placement is in the drastic purgative and cholagogue class of the Convolvulaceae, a root or rhizome that draws watery stool and bile downward. The organs addressed are therefore the bowel and the biliary and liver system, in indications of dropsy, jaundice, liver obstruction and costiveness. In the humoral reading it is cold and dry, strongly downward-moving and draining. The entry grades the species-level indications as weakly attested. Modern work shows the plant makes calysepin resin glycosides of the purgative class, and calystegine nortropanes, whose glycosidase inhibition was low against human intestinal maltase and which were not transported across Caco-2 cells. The mechanisms of harm the entry names are violent fluid loss and loss of electrolytes such as potassium, with renal, cardiac and pregnancy risks. The Chinese tag is marked unverified, and the entry states that no modern clinical data exist.
+
 ### Contraindications
 
 ⚠️ **The Codex does not recommend internal use of *Calystegia sepium* under any circumstance, at any dose, for any indication.**

@@ -45,6 +45,10 @@ General facts only. Honey intoxication from grayanotoxins is documented in the m
 
 **Practitioner's note.** The lesson the text carries is about provenance and season. A honey from the wrong place and time is a poison, and the same text knows the antidote. The Codex advises no one to look for it.
 
+### Functional–Anatomical Correlate
+
+Dioscorides records that this honey, made from the property of certain flowers, makes those who eat it beside themselves with sweating and makes them vomit, the antidote being rue, salt meat and mead taken as often as they vomit (Dioscorides 2-103). In his terms the honey is sharp, and its smell causes sneezing, which maps to the nasal passages. The sweating maps to the skin and sweat glands, and the vomiting to the stomach and upper gut. Externally, rubbed on with costum it heals sunburn, which the entry relates to the skin, and with salt it takes away bruises, which relates to the soft tissue beneath. The text gives no humoral or subtle-body quality and no energetic classification beyond sharp. The honey is therefore mapped to the skin, the sweat response, the stomach and the nose, and the entry's own note warns that the effects are toxic. Nothing here recommends the honey, its external uses, or any attempt to find it.
+
 ### Contraindications
 
 - **TOXIC.** Honey intoxication can be dangerous, especially in older people and in those with heart conditions or who take heart medicines. Do not eat honey of unknown origin from the Black Sea region.

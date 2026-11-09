@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a wind-fever drug in a shared clause and a list, with no preparation and no dose, and its Latin name is a positional guess between two genera. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Men-Tsee-Khang's glossary sets this name by column position, and its running text says Kanta kari cures hot disorders associated with loong, a term kept in Tibetan. Clark's line for kanda.ka.ri, read by name only, says the drug cures wind fevers, which is the root-text layer; the bracketed commentary adds infectious fevers and cough. Fever is the condition the texts name. Cough, in modern anatomy, is a reflex of the airway, but the texts do not say the drug acts there. Clark's commentary gives sweet and astringent tastes for the fruit, which describe the fruit rather than an organ. No organ, tissue or body system is named for this drug. The Latin name is positional: Clark's first species for this name is a Solanum, the glossary's Rubus is a different species, and the entry cannot say which plant the Tibetan drug is, so the claims attach to an uncertain identity. Historical record only; fever and cough need medical care, and no part, dose or protocol is given.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Fever needs medical care; the identity is open between plants of different genera, one of which (*Solanum*) belongs to a family containing toxic species, though no toxicity is stated for this drug in the lines read. No preparation or dose is given, and no plant should be gathered or used on the strength of this entry. No conservation information and no safety information for pregnancy were read. [USER: verify]

@@ -40,6 +40,10 @@ General, well-established facts only. Wild rodents that live near water can carr
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The water rat is a minor antidote entry in a list of thirteen kinds of animal product, with an identity the two English translations disagree on, and the tradition's own first precept is against taking life. The Codex does not recommend it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one action, that the flesh of the water rat cures meat poisoning, and Clark places it as the second item after the white-throated dipper in a single line. The text names no organ, tissue or body system, so the only correlate the source supports is the digestive tract, since meat poisoning is an upset that follows eating. No temperament, taste or post-digestive taste is printed for the flesh, so no wind, bile or phlegm is assigned to it. The Tantra's general rule that meats are sweet in taste and post-digestive taste is about flesh in its classification and is not stated for this animal. The Men-Tsee-Khang translation reads water birds where Clark reads water rat, so the animal itself is uncertain. The entry records the line and does not recommend the flesh.
+
 ### Contraindications
 
 - **Infection and hygiene:** wild water rodents carry bacteria and parasites; handling, skinning and eating them is a risk.

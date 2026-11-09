@@ -70,6 +70,10 @@ According to PubMed, the traditional cardiotonic and astringent uses are documen
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places cotton thistle in the astringent and cardiotonic register. Its traditional targets are lax, fluxing tissues that astringency binds, and the heart. Unani sources classed it as qabid (astringent, binding), cool and dry, and muqawwi al-qalb (heart-strengthening), a reading that carried into European folk use for a weak or palpitating heart. Dioscorides lists it as wound-binding and firming the flesh. The entry adds a bitter digestive-stimulant and mild anti-inflammatory dimension, while its Ayurvedic and TCM analogues are provisional by function only. The modern correlates are antioxidant, anti-inflammatory and antibacterial activity in animal and cell models, including a rat model of pancreatic beta-cell injury and myocardial inflammation. The entry states there is no human trial and no demonstrated inotropic effect on the heart. Its sesquiterpene lactone onopordopicrin is a contact allergen for Asteraceae-sensitive people.
+
 ### Contraindications
 
 - **Asteraceae (Compositae) cross-sensitivity.** Sesquiterpene lactones such as onopordopicrin are recognised contact allergens; avoid in anyone allergic to daisies, ragweed, chamomile, or related composites.

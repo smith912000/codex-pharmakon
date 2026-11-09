@@ -65,6 +65,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 **Practitioner's note.** Nothing. It is a fruit used for defined complaints; the tradition as recorded here supplies no long-term cultivation practice for this species.
 
+### Functional–Anatomical Correlate
+
+The entry's main targets are the kidney and bladder, with the liver and eyes as secondary targets. Fu Pen Zi-group fruit secures essence and restrains urine in kidney deficiency with failure to consolidate, covering nocturnal emission, spermatorrhoea, frequent urination and enuresis. Its warming tonic action supports kidney and liver deficiency and is said to brighten the eyes. The entry also records a traditional supportive role for fertility, flagged for verification. Tannins and organic acids give the astringent action that binds loose tissue. The energetic terms are sweet, sour and slightly warm, entering the Kidney and Liver and assisting yang. The ripe fruit is also an antioxidant food. The pregnane glycoside cell-line result is an isolated-compound study that the entry says does not bear on the kidney use. The species is not the official Fu Pen Zi, so the kidney claim rests on group membership. Heat with scanty or painful urination, and damp-heat urinary patterns, are contraindicated.
+
 ### Contraindications
 
 - **Heat with scanty/painful or difficult urination (CM).** The astringent action can aggravate; contraindicated in damp-heat urinary patterns.

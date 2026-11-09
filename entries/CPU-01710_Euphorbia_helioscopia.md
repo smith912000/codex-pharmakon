@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a purgative in the Tibetan text, with no preparation and no dose, and its Latin name rests on a glossary column position. Other texts on disk name the same species (Yang's Inferior Class entry, Dioscorides 4-165d), and that material sits outside this entry's tag line and is reported to the parent. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Men-Tsee-Khang text records that Dhurji and Tharnu purge all forms of hot and cold disorders, and it lists Dhurji among the purgatives. In modern anatomy terms the purgative action is placed on the digestive tract, the bowel. The Divine Farmer's Classic paragraph for zeqi, which the spine row tags SBJ, is a separate claim about this species: it governs heat in the skin, a swollen belly and water qi, swelling of the limbs, face and eyes, and insufficient yin qi in a man. Those map to the skin, the abdomen, fluid retention in the limbs and face, and to male yin qi, which the classic does not place in any organ. Clark's dur.byid line prints other Euphorbia species and no action. The entry gives no taste or power for Dhurji, and it notes that the latex of Euphorbia species is generally an irritant.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The latex of *Euphorbia* species is generally known to be an irritant, a purgative drug can cause dehydration, and the identity is not settled, so no plant should be gathered or used on the strength of this entry. Latex that touches the eyes needs urgent medical care. No safety information for pregnancy was read. [USER: verify]

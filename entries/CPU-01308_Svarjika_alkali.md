@@ -40,6 +40,10 @@ General, well-established facts only. Alkaline salts such as carbonates and bora
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. Svarjikakshara is an alkali used in Sushruta's therapeutics for the bowels, the abdomen, the skin and wounds, and a strong alkali is not food. The honest use for a reader is to know that the text records it, that its identity is not glossed, and that the same passage warns against abuse and calls it anti-spermatopoietic. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Sushruta's group statement, given with Javakshara, says Svarjikakshara is inflammatory as fire, reduces kapha, removes vibandha, piles and abdominal glands, and proves curative in cases of enlarged spleen; the text also calls the pair anti-spermatopoietic. The alkalis as a group are called digestant or stomachic and are said to cure abdominal glands, piles, mesenteric diarrhoea and gravel and stone in the bladder. The mapped sites are therefore the digestive tract and bowels, the abdominal glands, the spleen, the rectum, the bladder, and the semen-producing tissue named by the anti-spermatopoietic claim. The named compounds apply it to skin disease (kushtha), to ulcers, wounds and the gums, and to a non-suppurating aja-gallika. The text gives no rasa, virya or vipaka and no link to ojas, tejas or prana for it. The Usharakshara and Pakima properties belong to other alkalis and are not mapped here.
+
 ### Contraindications
 
 - **Caustic and irritant:** alkalis burn the mouth, throat and gut when swallowed in strength; do not swallow an unidentified alkaline salt.

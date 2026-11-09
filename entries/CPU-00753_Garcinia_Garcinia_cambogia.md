@@ -66,6 +66,10 @@ According to PubMed, the clinical weight-loss evidence for *Garcinia*/HCA is **m
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps Garcinia onto digestion and the liver. The dried culinary rind is classed in Ayurvedic terms as sour, light and drying, a dipana and pachana that kindles digestive fire and cuts the heaviness and oiliness of rich food. In Unani terms it is a cold-dry astringent corrective that sharpens appetite and binds loose bowels. Its hydroxycitric acid is linked to inhibition of ATP-citrate lyase, the step that channels carbohydrate carbon into fatty-acid synthesis, which the entry offers as the modern counterpart of cutting grease. The entry grades the hepatotoxicity signal as moderate and the weight-loss efficacy as weak or mixed. The liver is the main organ at risk: concentrated HCA extract is linked to hepatitis and to fulminant hepatic failure needing transplant. The entry also notes serotonin toxicity with serotonergic drugs. The Chinese-stratum reading is sour, astringent and cool, gathering inward and restraining leakage, and the entry records no Ayurvedic rasayana or vajikarana status.
+
 ### Contraindications
 
 **⚠️ HEPATOTOXICITY — PRIMARY SAFETY CONCERN.** Concentrated HCA weight-loss supplements derived from *Garcinia cambogia* are documented in the peer-reviewed literature as a cause of **herb-induced liver injury**, ranging from reversible hepatitis to **acute/fulminant hepatic failure requiring transplantation** (Lunsford et al. 2016 — [DOI](https://doi.org/10.3748/wjg.v22.i45.10071); Zovi et al. 2022 — [DOI](https://doi.org/10.1016/j.joim.2022.05.003)). The signal prompted a 2009 FDA warning and repeated European food-safety alerts. Anyone with existing liver disease, or taking other hepatotoxic drugs or alcohol, must avoid concentrated HCA products. Discontinue immediately and seek medical care for jaundice, dark urine, right-upper-quadrant pain, or unexplained fatigue.

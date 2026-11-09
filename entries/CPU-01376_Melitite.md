@@ -60,6 +60,10 @@ No clinical studies were retrieved for this entry. [USER: verify] General facts 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The sites are the eye, the mammary gland and lactation, and the body surface. Dioscorides says melitites is effective for the same things as galactites, which the cross-referenced chapter gives as the eye: discharges and ulcers of the eyes, rubbed on. For livestock, when the milk of goats and sheep dries up, the stone beaten fine and mixed with brine helps the flock, placing the action on the mammary gland and milk supply. Reported with 'they say', the stone pounded and taken as a drink produces milk in women, the same site. Also reported are protective effects on an infant worn at the neck, against envy, disease and treachery, which act on no tissue, and a social effect on kings and judges. The chapter's distinguishing mark from galactites is a sweeter taste, and no humoral temperament is printed.
+
 ### Contraindications
 
 - **Unidentified mineral:** the identity is a suggestion; an unidentified stone should not be ingested, and a powdered mineral should not be put in the eye.

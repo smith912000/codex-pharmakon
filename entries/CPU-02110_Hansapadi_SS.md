@@ -40,6 +40,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The classic's 
 
 **Practitioner's note.** A name in a list, with nothing said of the plant. A cultivator has nothing to do with this entry beyond reading it.
 
+### Functional–Anatomical Correlate
+
+The classic places Hansapadi only in the Vidarigandha'di group, whose metrical text says the group subdues the action of the deranged Vayu and Pittam. The group is said to prove beneficial in phthisis (shosha), gulma, aching of the limbs, urdhva shvasa (upward breathing) and cough. Read by the entry's own terms, these touch the wasting condition, the breath and cough, and the limbs, with Vayu and Pitta as the doshas the group acts on. The lines read give Hansapadi no rasa, virya or vipaka, no organ or channel, and no part used. The Codex does not translate these terms into modern diagnoses, so no modern anatomical site is attached to phthisis, gulma or the limbs here. The claims belong to the group as a whole; the text does not say what the drug alone does, and this entry adds no modern anatomical correlate.
+
 ### Contraindications
 
 - **Identity.** Unknown; do not gather or use any plant on the strength of this entry. [USER: verify]

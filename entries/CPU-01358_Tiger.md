@@ -44,6 +44,10 @@ General, well-established facts only. The qualities "rough, light and sharp" and
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The tradition classes the tiger among the carnivores and records its bone as a drug, and its own behavioural teaching begins with refraining from taking life. The Codex does not recommend any tiger product. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The tiger is named as a carnivorous animal in the meat classification, and its bone is given a separate action. The group text says the meat of carnivores has rough, light and sharp qualities that generate digestive heat, destroy tumours, increase weight and eliminate cold disorders. Men-Tsee-Khang gives this for carnivores, and Clark attributes the same powers to birds of prey only. The bone increases bone resin (Clark) and protects the spongy bone (Men-Tsee-Khang). Mapped to the body, that points to the digestive heat and gut, tumours and tissue mass, body weight and flesh, the skeleton (bone resin and spongy bone), and cold disorders in general. The Unani Canon adds, at second hand, that the fat is the greatest medicine for palsy (a nervous-system paralysis) and that the gall is deadly at once. No other organ is named.
+
 ### Contraindications
 
 - **Conservation and law:** the tiger is an endangered species, and international trade in tiger parts is prohibited under CITES (Appendix I) and domestic law also restricts it; do not obtain any tiger product.

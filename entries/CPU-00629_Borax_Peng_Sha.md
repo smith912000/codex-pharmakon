@@ -57,6 +57,10 @@ Borax and boric acid are weak antiseptics and have been used topically and in pe
 
 **Practitioner's note.** Nothing sourced supports taking borax for cultivation. The Sanskrit text warns that abuse of alkalis has caused haemoptysis, and the Tibetan text treats it as an antiseptic and purgative salt. A cultivator reads the entry for that restraint and leaves the salt in the cupboard. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Borax's claimed sites are the digestive tract, the abdomen, the bladder, the wounds and the blood. In Sushruta's alkali group, tankanakshara is said to dry the organism, generate vayu, subdue kapham, sharpen appetite and derange pittam. The group as a whole is said to cure abdominal glands, piles, mesenteric diarrhoea, gravel and bladder stone. The Tibetan Explanatory Tantra says tsha.la heals wounds, dissolves blood clots and acts as a purgative, and the Men-Tsee-Khang text calls it an antiseptic, blood diluter and purgative. The Dioscorides chapter the translator glosses as borax or malachite names cleansing, astringent and gently corrosive actions on scars and fleshy growths, with a vomiting effect, but the identification is not settled. The mapped sites are therefore the gut, the abdomen and its glands, the urinary bladder, the skin and wounds, and the blood.
+
 ### Contraindications
 
 Borax is toxic if swallowed in more than tiny amounts, and especially dangerous to infants and young children. Do not use it in or near the eyes or on broken skin of infants. Avoid in pregnancy and while breastfeeding. Laxative or "blood-thinning" claims from old texts are not a basis for use. The Greek chapter, if it concerns a copper mineral as the translator's alternative suggests, describes a substance "strong enough to kill".

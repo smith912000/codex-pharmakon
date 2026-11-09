@@ -89,6 +89,10 @@ Extending this to neurofunction, a study of sugarcane top extract (Iwata, Wu, Fe
 
 **Practitioner's note.** The single genuine cultivation use is the Ayurvedic one: fresh whole cane juice as a *bṛṃhaṇa*/*vājīkara* nourishment for the depleted, wasted and convalescent. Everywhere else the substance is a fluid-restorer and demulcent, not a tonic of the vital constitution. And the register only ever attaches to the *fresh whole juice* — the refined white isolate carries the plant's harms without any of this, a distinction the tradition itself insists on.
 
+### Functional–Anatomical Correlate
+
+In TCM the cane enters the Lung and Stomach channels. It moistens the Lung and eases dry cough and throat, downbears Stomach counterflow (thirst, dry retching, hiccup) and lubricates the intestines. It is also said to promote urine. Unani texts describe it as soothing the chest and throat and aiding the kidneys and bladder, and burning micturition is a urinary target. Ayurveda classes it as tissue-building (brmhana, balya), generative (vajikarana), and as pacifying vata and pitta, with use for pitta-type bleeding. The entry cites preclinical work in which a cane-top extract affected hippocampal neurons and cortical monoamines in mice. For refined sugar it lists dental caries, obesity and metabolic syndrome, with diabetes a caution for the juice. Kapha and damp-cold digestion are cautioned because the sweet, heavy juice may burden them.
+
 ### Contraindications
 
 - **Diabetes / hyperglycaemia:** the high sugar content makes cane juice and jaggery unsuitable in uncontrolled diabetes and insulin resistance — `[USER: verify]` with a clinician.

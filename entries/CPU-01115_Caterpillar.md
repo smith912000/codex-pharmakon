@@ -40,6 +40,10 @@ General, well-established facts only. There is no established evidence that rubb
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The honest lesson of the chapter is how thin the sourcing can be: a single sentence, an unnamed insect, a use that the author does not vouch for. Leave caterpillars alone. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the one use stated is that caterpillars which breed on vegetables, rubbed with oil on a person, are said to protect him from the bites of poisonous beasts. The text maps the caterpillar to the skin, as the site of the rub, and to the bite as the condition. It names no organ, tissue, body system or humour, gives no temperament or potency, and states no quality for the caterpillar. No species is named, so the insect cannot be identified from the text. Dioscorides does not vouch for the use, and the phrase is are said to. The pine-tree caterpillars of the buprestis chapter are a different, poisonous material and are not mapped here. The entry gives no amount, oil, frequency or duration, and no cultivation status.
+
 ### Contraindications
 
 - **Contact reactions:** some caterpillars have hairs and spines that cause rash, pain, eye injury and, in a few species, severe systemic reactions; rubbing them on the skin is unsafe.

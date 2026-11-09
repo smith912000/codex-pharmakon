@@ -110,6 +110,10 @@ The substance is retained for three purposes.
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps Echinops ritro to three body regions, each with a different grade. The classical discutient doctrine, breaking up hard swellings, is mapped to the skin and superficial tissue: root thiophenes are antimicrobial against plant pathogens and reference strains, and a root plaster was used on infected swellings, though the entry treats this as topical reference only. Classical diuretic action on the urinary tract and lactagogue action on the breast and milk ducts are both recorded but graded null, with no supporting evidence in either the western or the Chinese reading. Hepatic action is mapped only in rodents: leaf and flowering-head extracts reduced diclofenac- and malathion-induced oxidative liver injury. Folk lineage also lists bacterial, fungal, respiratory and heart complaints, recorded without clinical evidence. The entry refuses any tumour reading of hard swellings, and no internal use is issued.
+
 ### Contraindications
 
 **⚠️ Asteraceae (Compositae) allergy — the principal risk.** *Echinops* is a Compositae genus and carries the family's sesquiterpene-lactone chemistry. Anyone reactive to ragweed, chamomile, feverfew, arnica, chrysanthemum, mugwort, artichoke or yarrow must avoid it. Reactions range from contact dermatitis to systemic hypersensitivity. **Patch-test before any topical application, without exception.**

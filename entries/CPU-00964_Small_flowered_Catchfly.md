@@ -57,6 +57,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. The honest answer is to do nothing with it on the strength of this entry, and to treat both tags as unsupported until a locus is found.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives no organ, tissue or body-system action for Silene gallica. Its tagged Dioscorides text is two chapters on other campions, which the entry says are not attributed to this plant. For Lychnis viscaria (3-115), the text says a seed decoction taken as a drink expels bilious matter through the intestines and helps those touched by scorpion stings. For Lychnis stephanomatike (3-114), it describes a seed taken in a drink with wine that helps those bitten by scorpions, with no organ named. The Unani tag has no locus, so no humoral organ assignment exists. The entry states that Silene species are generally reported to contain triterpenoid saponins, but says the composition of S. gallica was not read and links it to no body system. No energetic quality is printed in the lines read, and no tissue is named for the catchfly.
+
 ### Contraindications
 
 No safety data were read. Saponin-bearing plants can irritate the gut if eaten, and the Dioscorides seed decoction at 3-115 is a purge. Do not collect or ingest a wild plant on the strength of this entry. Campions and catchflies are hard to tell apart without botanical help.

@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapters gives a cultivator a practice with this plant. The useful lesson is Dioscorides' method of fixing a plant by stalk, root, smell and place, and of recording the overdose along with the use. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The entry's sites are the bladder and kidneys, the urinary passages, the stomach, the womb, the joints and the chest. Chapter 1-3 says the root lessens pains caused by obstructions around the bladder and kidneys, and is good for urinary difficulties, a gas-filled stomach, griping, diseases of the womb and pain in the joints. Pounded with honey as a syrup it helps a rheumatic chest, and a hip bath is said to draw out menstrual blood. A plaster on the lower belly of children is said to induce the movement of urine. Chapter 3-63, which the translators cross-reference but which describes a different plant, gives a seed drink for painful urination and expelling menstrual flow, a green juice for kidney disease, and a root licked with honey for matter that stops the chest. Chapter 1-3 gives the root a sweet smell and says it warms the tongue. Too much decoction causes a headache.
+
 ### Contraindications
 
 Both chapters record emmenagogue uses (the menstrual flow is "drawn out" or "expelled") and a use for "diseases of the womb"; those are a risk in pregnancy. The chapter itself warns that too much of a decoction causes a headache. The carrot family includes some of the most poisonous plants of the temperate flora, and the identification here is a translators' suggestion, so no plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

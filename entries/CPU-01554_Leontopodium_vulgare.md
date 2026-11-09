@@ -43,6 +43,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It offers a description, a reported charm and a reported remedy for small swellings, without amounts, so it is history and not a practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: Dioscorides gives a description only, of a two-finger herb with slender, strong, rough leaves that are woolier and whitish towards the root, black-flowered heads at the stalk tops, a seed hidden in down and a small root. He reports, with the words 'They also say', that it dissolves small swellings, and that it is hung on a person as a love medicine. The text names no organ, system, humour, quality, taste or temperament for the plant, and it does not locate the swellings on any body part. The love charm is a worn object and not an action on tissue. The chapter lists further names, including sanguis crocodili and daphnoenes, with no use attached to them. The identity is the translators' suggestion among three names. The Codex states none of these reports as its own claim and gives no protocol.
+
 ### Contraindications
 
 The chapter prints no warning. A swelling that persists or grows needs medical assessment, and a home remedy must not replace it. The identification rests on a translators' suggestion among three names, so no wild plant should be gathered or used on the strength of this entry, and an alpine plant that is protected in many places should not be picked on that account. [USER: verify] None of the traditional uses above is advice.

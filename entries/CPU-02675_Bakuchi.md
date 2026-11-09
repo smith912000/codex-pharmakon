@@ -42,6 +42,10 @@ General, well-established facts only. *Psoralea corylifolia* seeds contain psora
 
 **Practitioner's note.** Nothing. The entry records only that the translator lists Bakuchi and glosses it as *Psoralea corylifolia*.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that Bhishagratna's appendix pairs the name read as Batkuchi, corrected here to Bakuchi, with the Latin Psoralea corylifolia. The pairing is rated high, while the species rests on the translator. No body system, organ or tissue is named under this spelling, and no action, preparation, dose or energetic quality is printed for it. The chapters do not print Bakuchi. The entry notes that the Avalguja rasayana of Chikitsa 28 may or may not be the same plant and does not equate the two. The only physical property stated is general fact supplied by the Codex: the seeds contain furocoumarins that sensitise skin to ultraviolet light and can cause phototoxic reactions. The entry makes no claim about the drug as the Sushruta text had it.
+
 ### Contraindications
 
 The text prints no warning. The seed contains photosensitising compounds, and the plant should not be used on the strength of this entry. Identity rests on one OCR pairing, so nothing should be gathered or used. No safety information for pregnancy or lactation was read. [USER: verify]

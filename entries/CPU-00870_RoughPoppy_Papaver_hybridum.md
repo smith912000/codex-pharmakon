@@ -178,6 +178,10 @@ The bulk of modern *P. rhoeas* research is **agronomic**: it is Europe's most da
 
 ---
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the sedating, softening and quieting reading is inherited from the field-poppy group and is not established for this species. Within that inheritance the Greco-Arabic frame gives a cool, moist, mildly narcotic wild poppy, which Avicenna lists for catarrh, cough, insomnia and heat of the head, given as syrup. The Dioscoridean sleep and cough use is attributed to P. rhoeas, not P. hybridum. The only chemistry is congener-based: rhoeadine-type, protopine and aporphine alkaloids, none morphinan, with no established mu-opioid activity. The entry records that latex may irritate skin and eyes in sensitive people and that alkaloid-bearing foliage should not be eaten. No receptor, organ-level mechanism, or species-specific sedation, cough, toxicity or clinical data is reported, so the entry declines to assign any body system to this species.
+
 ### Contraindications
 
 **General:** *P. hybridum* is **not recommended for internal use in any person**, on the grounds of absent data rather than demonstrated harm. The distinction matters: this is not a poison. It is an unknown.

@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The small lesson is that Dioscorides tastes the seed and rejects the root, and that a short chapter can refer the reader to a better-described neighbour. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry's own text names no organ or tissue for peplion. The chapter says only that the plant is gathered, stored and given like peplus preserved in brine, that it has the same properties, and that its seed is hot to the taste. The properties it points to, through peplos (4-168), are that a drink of it expels phlegm and bile, and that mixed into meats it disturbs the digestion. Those are Dioscorides' humoral terms, reached by reference, so the digestive tract is the only system touched, and only indirectly. The chapter names no tissue, no sense organ and no temperament beyond the taste of the seed. Because the identification is the translators' suggestion, the mapping rests on a neighbouring chapter and not on the plant described here.
+
 ### Contraindications
 
 The chapter ties the plant to a drug that expels phlegm and bile and disturbs digestion; purgatives are unsafe in pregnancy, in dehydration and in bowel disease. A white-juiced shrub of unsure identity should not be eaten or drunk. The identification rests on a translators' suggestion, so no plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

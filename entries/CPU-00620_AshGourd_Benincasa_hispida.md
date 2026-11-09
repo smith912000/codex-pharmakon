@@ -73,6 +73,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, ash gourd acts mainly on the stomach lining and the digestive tract, with urinary and fluid effects. Unani (Avicenna) classes it as cold and moist, refrigerant, demulcent and diuretic, soothing the stomach and tempering hot humours. The Chinese frame gives cold, sweet action to the Lung, Large Intestine, Small Intestine and Bladder channels, clearing heat, resolving damp-phlegm, promoting urination and generating fluids. Ayurveda, in the Sushruta lineage, gives sweet, heavy, cooling, Pitta-pacifying action, with the rasayana confection directed at debility, respiratory weakness and bleeding conditions, and the mind also named. Tibetan use is by extension only, with no attestation for this species. The modern correlate is the gastric mucosa: in rat ulcer models, fruit extracts reduced ulcer index across several ulcer types, comparable to omeprazole in one study, and lowered lipid peroxidation (malondialdehyde) while raising catalase and reducing gastric vascular permeability. The entry flags caution for weak digestion, cold constitutions, chronic diarrhoea and those on diuretics.
+
 ### Contraindications
 
 Its cold, moist nature makes it traditionally less suitable for those with weak digestion, cold constitutions, chronic diarrhoea or excess damp/phlegm. As a diuretic food it should be used cautiously alongside diuretic medication. No significant toxicity is reported at food doses; concentrated extracts lack human dosing data — do not self-dose these. Standard cucurbit allergy caution applies.

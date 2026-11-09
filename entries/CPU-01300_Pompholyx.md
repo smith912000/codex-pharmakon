@@ -50,6 +50,10 @@ General, well-established facts only. Zinc oxide is a white powder used today in
 
 **Practitioner's note.** Nothing here is a practice for a cultivator beyond the attention it shows: know how a material is made, test it before trusting it, and clean it before use. The Codex does not recommend using pompholyx. A reader who wants the lesson of the chapter can take its method, not its substance. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides gives pompholyx a list of qualities and no disease: astringent, cooling, filling, purging and somewhat drying, with the wine-washed form said to be more astringent. A purging action maps to the bowels, and drying and filling to the tissues it touches. The Unani Canon entry on tutiya, which the entry links to this substance, gives it a temperament of cold in the first degree and dry in the second, and calls the washed kind the best of the drying medicines. It is said to help body odour in cosmetics, which maps to the skin. The washed kind is said to help ulcers, including cancerous ones, and ulcers and swellings of the stomach and the genitals under the excretory organs. For the eye it is said to relieve pain and to stop bad humours gathering in the vessels of the eye from passing into its layers. The mapped sites are the bowels, skin, stomach, genitals, eye and the vessels of the eye.
+
 ### Contraindications
 
 - **Fume and dust:** do not make or breathe metal-working fume; zinc oxide fume causes metal fume fever, and brass fume can carry lead.

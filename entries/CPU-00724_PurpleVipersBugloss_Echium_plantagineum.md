@@ -115,6 +115,10 @@ The Australian pastoral doctrine is the only tradition on record that captured t
 
 **Practitioner's note.** Nothing. The plant is a hepatotoxic hazard-literacy entry; neither tradition read here supports ingestion or cultivation.
 
+### Functional–Anatomical Correlate
+
+The entry maps this plant to two registers. The surface register, mucilage and emollient handling, touches the skin and mucous lining in folk demulcent use, and the entry records it as real but dangerously reassuring. The depth register is the liver. Pyrrolizidine alkaloids are bioactivated by hepatic CYP450 into reactive esters that damage hepatocytes and the sinusoidal endothelium, causing megalocytosis, fibrosis, cirrhosis and veno-occlusive disease. The failing liver then cannot clear phylloerythrin, producing sun-exposed skin photosensitisation, which the entry reads as a sign of hepatic loss. Genotoxic DNA adducts are also described. The entry names placental transfer and milk excretion as routes to the fetus and infant. Human exposure is mapped to honey, where PAs were detected at ppb levels in several surveys. The alkaloids are graded strongly hepatotoxic in vitro, while the livestock syndrome is extrapolated, since no in vivo feeding study of this species was retrieved.
+
 ### Contraindications
 
 **ABSOLUTE — all persons, all routes, all doses.** *Echium plantagineum* aerial parts, root, flower and preparations thereof are not to be ingested, infused, tinctured, smoked, or applied topically.

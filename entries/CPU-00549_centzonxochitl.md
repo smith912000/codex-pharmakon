@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. As a general fact, plants of 
 
 **Practitioner's note.** Nothing. A cultivator has nothing sourced to do with this entry: the record is a list row and the identification is flagged uncertain. This is a historical record only and not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the list row gives the Nahuatl name centzonxochitl, the gloss French marigold and the species Tagetes patula, and flags the row as identification-uncertain, so the species link is not secure. The name is not read in any other source, and no meaning is given for it. The row names no folio, preparation, use, complaint, body system, energetic classification or cultivation status. The entry's general background is that Tagetes plants are aromatic and that plants of the daisy family can cause contact dermatitis in sensitive people. The Mexican hot and cold categories are left unresolved, no clinical study was retrieved, and the Badianus text itself was not readable on disk. The entry adds general caution that a plant of uncertain identity should not be taken internally.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, a plant of uncertain identity should not be taken internally, and plants of the daisy family can cause contact dermatitis in sensitive people. Pregnancy and breastfeeding are not covered by any source read. This is general caution and is not found in the row. [USER: verify]

@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Shennong t
 
 **Practitioner's note.** In the Chinese scheme this is a middle-grade drug: weighed, used for a defined complaint, and with no statement in its entry that it is for long use or that it is safe. The class's own warning ("may or may not be toxic ... weigh and ponder") is the operative one, and the entry gives no dose. The identity rests on a name matched by stem. Nothing here supports long-term use.
 
+### Functional–Anatomical Correlate
+
+The Shennong Bencao Jing entry for Ku Shen, read in the classic's own wording, places its action in the heart and abdomen, the eyes and the act of voiding. It treats bound qi in the heart and abdomen, concretions and conglomerations, accumulations and gatherings, and jaundice, along with dribbling after voiding. It is said to expel water, eliminate welling abscesses and swellings, supplement the center, brighten the eyes and stop tearing. These are the classic's terms, kept as printed and not translated into modern anatomy. The organ behind supplement the center is not named in the classic, and Yang's gloss on it sits in note 161, which is kept apart from the entry. The entry gives a bitter, cold nature and states no toxicity, which is not the same as stating that the root is safe. Only the textual terms are mapped here, and the Codex gives no protocol or dose.
+
 ### Contraindications
 
 The Shennong entry prints no warning and no statement of toxicity. The middle class is described in the preface as one that "may or may not be toxic" and that calls for weighing before use, and this is a general statement about the class and not about this plant. Concretions, jaundice, welling abscesses and urinary dribbling need medical care. The identity is a name matched by stem, so no root should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

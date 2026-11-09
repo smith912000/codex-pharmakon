@@ -45,6 +45,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a short record of a sharp, ulcerating herb applied in fat to a tumour, without amounts, so it is history and not a practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter names only one site and one condition. Applied with goose grease, the plant is said to dissolve tumours, which the translators gloss as possibly goitre, so the neck is a site only through that gloss. Dioscorides calls the plant warming, sharp and ulcerating, and prints no account of what the ulcerating quality acts upon. The chapter names no organ, system, humour or body part beyond these terms, and gives no cooling or drying quality. Its place of growth is among rocks. The constituents are not read or printed. Nothing in the text maps the plant to the internal organs, the blood or the senses, and this entry does not extend the tumour claim beyond what the chapter says.
+
 ### Contraindications
 
 The chapter itself warns of an effect: the plant is "ulcerating", so applied to the skin it is by the text's own account an irritant. A tumour or goitre needs medical assessment, and a home application must not replace it. The identification rests on a translators' suggestion, so no wild plant should be gathered or applied on the strength of this entry. [USER: verify] None of the traditional uses above is advice.

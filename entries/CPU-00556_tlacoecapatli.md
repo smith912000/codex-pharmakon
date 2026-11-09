@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. The article cited in the row 
 
 **Practitioner's note.** Nothing. A cultivator has nothing sourced to do with this entry: the record is a list row. This is a historical record only and not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the list row cites Badianus (1552) folio 48v, which was not checked, and gives the Nahuatl name tlacoecapatli, the gloss Mexican bay or laurelillo and the species Litsea glaucescens, without flagging uncertainty. It names no preparation, use, complaint, body system, energetic classification or cultivation status. The cited article was not opened. The entry's general background, not drawn from the row, is that plants of the laurel family are generally aromatic, with essential oils in the leaves, and that essential oils can irritate the skin and an aromatic plant should not be taken internally in concentrated form. The composition of this plant was not read, no clinical study was retrieved, and the Mexican hot and cold categories are left unresolved.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, an aromatic plant whose use is unrecorded here should not be taken internally in concentrated form, and essential oils can irritate the skin. Pregnancy and breastfeeding are not covered by any source read. This is general caution and is not found in the row. [USER: verify]

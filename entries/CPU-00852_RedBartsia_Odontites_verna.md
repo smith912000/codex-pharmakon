@@ -87,6 +87,10 @@ Cooling, drying, mildly astringent — the standard energetic reading for a tann
 
 **Practitioner's note.** Nothing. This is a teaching specimen of the doctrine of signatures and carries no cultivation role in either tradition read here.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry states no pharmacological action on any body system. Its only traditional claim is nominal: the genus name Odontites, from the Greek for tooth, led classical writers to use the herb for toothache and gum disorders, and the entry says this rests on a name, not a measured effect, and is not verified for O. vernus itself. The folk use was a cooling, astringent mouth wash for sore gums or mouth. Energetically it is described as cooling and drying, inferred from family character rather than from a named system. Its modern data are congener-only: iridoid and phenylethanoid glycosides in O. vulgaris show antioxidant and in vitro hepatoprotective activity, which the entry says is not species-specific. It states there is no analgesic or dental effect, and that toothache signals infection or structural damage and needs a dentist. Its chemistry varies with the host plant it parasitises.
+
 ### Contraindications
 
 - **Not a substitute for dental care.** Toothache indicates infection or structural damage; direct to a dentist.

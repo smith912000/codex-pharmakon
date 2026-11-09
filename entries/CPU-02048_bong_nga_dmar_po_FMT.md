@@ -52,6 +52,10 @@ General, well-established facts only. Aconites (monkshood, wolfsbane) are perenn
 
 **Practitioner's note.** A highly poisonous genus, recorded by the commentaries as an antidote to poison, and nothing more. A cultivator takes nothing from it and does nothing with it; the only lesson is the old one that a drug of this kind is for a trained physician who knows how it is prepared, and not for anyone else.
 
+### Functional–Anatomical Correlate
+
+Little to map: the sources read give the red aconite no organ, tissue or body system. Clark's bracketed commentary gives it a bitter taste and calls it an antidote to poison, and the yellow kind is said to cure meat poisoning and poisoning from the black kind. Clark's root text gives only the name. Men-Tsee-Khang 2011 gives the name with the genus only and no use. No power (hot or cool), humour (rlung, mkhris pa, bad kan) or taste beyond bitter is given for the red kind. The Codex gives no protocol and does not recommend any aconite, and this entry records a commentarial gloss only.
+
 ### Contraindications
 
 - **TOXIC GENUS.** Aconites can kill in very small amounts. Do not ingest, handle roots bare-handed, or gather.

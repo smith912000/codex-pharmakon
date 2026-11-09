@@ -40,6 +40,10 @@ No clinical studies were retrieved for this entry. [USER: verify] (General fact 
 
 **Practitioner's note.** Nothing to cultivate here. It is an ordinary drug of the Canon, used for a named complaint (teeth, eye, jaundice, colic) and not for the long-term maintenance of the person. The honest use for the reader is to know what the text says and to treat the identification as unproven.
 
+### Functional–Anatomical Correlate
+
+The entry maps mamiran onto the head, the eye, the teeth, the digestive organs, the urinary tract and the nails. Its temperament is hot and dry at the end of the second degree, and it is called a cleanser and purifier. For the head, the juice draws thick moisture and purifies what the entry calls superfluities of the brain, and the root is useful for toothache. For the eye, used as a kohl, it clears whiteness and sharpens sight, and clears thick moisture, especially the juice. For the digestive organs, the root is useful for jaundice. For the excretory system it helps colic and promotes urine. The entry also says it polishes away whiteness of the nails, a cosmetic use. The juice serves the head and eye, and the root the teeth and jaundice. No dose, cultivation status or contraindication is given. The identification as Coptis teeta is modern and not confirmed by the text, so the species of the Canon's drug is not fixed.
+
 ### Contraindications
 
 No contraindication is given in the text. General caution: the identification is uncertain, so no safety statement about the actual material of the Canon can be made. Do not use a root of unknown species. *Coptis* species of the Himalaya are over-collected and the wild plants are protected in several countries; legal status varies. [USER: verify]

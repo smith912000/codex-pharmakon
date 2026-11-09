@@ -53,6 +53,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with this pulse: it is food, and the one quality it assigns the plant by itself is a caution. Nothing should be taken on the strength of a Latin name that the chapters do not give.
 
+### Functional–Anatomical Correlate
+
+The sites the text names are the gut and the urinary and bowel functions, all through the properties of the pulse class. The pulses generate Vayu, arrest the flow of urine and the evacuation of stool, and cause a distension of the abdomen from gas, which the text calls Tympanites or Adhmana. The text calls Makushthaka vermigenous, meaning it counts it among foods that breed worms, though it says no more. In a fever patient, emaciated by a long attack of Satataka or Vishama fever, a soup of pulses including Makushtaka is given as diet for hunger. The pulses are also described as cool and pungent of digestion, with a sweet and astringent taste, which subdue Pitta and Kapha. The chapters name no other organ or system for it.
+
 ### Contraindications
 
 The Sushruta text retrieved prints, for the pulses as a group, that they "tend to produce a distension of the abdomen" (Sutra 46, lines 228 to 231), and for Makushthaka that it is "vermigenous". The identity is open, so no plant should be gathered or eaten on the strength of this entry. Raw or undercooked pulses can cause digestive upset, which is a general fact about the food class and not a finding of the text. Fever that is prolonged or severe needs medical care. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

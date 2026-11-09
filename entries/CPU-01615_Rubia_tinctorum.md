@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The one well-e
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It offers a dye, a diuretic, a pessary and a skin remedy, so it is history and not a practice, and the one piece of method that is portable, watching the body's output while taking a strong drug, is not a reason to take it. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The chapter maps the root onto several systems. Its diuretic action acts on the urinary tract, drawing out thick urine and sometimes blood, and the drinker is told to watch the output daily. A root decoction is given for jaundice (liver and bile), sciatica and paralysis (nerves and limbs). A decoction with vinegar and honey reduces the spleen. A stalk and leaf decoction is given for venomous bites. The root as a pessary acts on the uterus, drawing out menstrual flow and afterbirth and acting as an abortifacient. Smeared on the skin with vinegar, it treats white vitiligines, glossed as a form of leprosy. The Avicenna entries in the Unani paragraph add the liver, which the root cleanses, the eyes, toothache and the spleen, and describe the root as hot and dry, a quality Dioscorides does not print. The identity is a translators' suggestion, so these organ links are the texts' claims only.
+
 ### Contraindications
 
 The chapter prints no warning beyond its instruction to watch the urine and stool, and it says the root can draw out blood and acts as an abortifacient. It is a general, well-established fact that pregnancy must not be risked with such a preparation, that blood in the urine needs medical assessment, and that jaundice, sciatica, paralysis, venomous bites and skin patches all need medical care rather than a root decoction. The identification rests on a translators' suggestion with a wild and a sown form, so no wild plant should be gathered or used on the strength of this entry. [USER: verify]

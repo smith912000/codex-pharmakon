@@ -74,6 +74,10 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 
 **Practitioner's note.** Nothing beyond culinary use. No regional cultivation practice is recorded in the sources available.
 
+### Functional–Anatomical Correlate
+
+Greater galangal's entry maps its action to the stomach and middle burner, the digestive tract and, more lightly, the throat and airway. Through its allied lesser galangal (Gao Liang Jiang, Spleen and Stomach channels), Chinese Medicine warms the centre, dispels cold and relieves cold epigastric pain, vomiting and hiccup. Unani (Khulanjan) and medieval European use describe a stomachic and carminative that relieves flatulence, colic and bloating and strengthens a cold, weak digestion. In Ayurveda (Kulanjana) it reduces kapha and vata and is applied to hoarseness, cough and throat complaints. The entry suggests the aromatic oil relaxes gut smooth muscle, a mechanism it says still needs a source. Its cautions concern the stomach lining, which concentrated rhizome can irritate, and heat patterns or high pitta, where it may aggravate reflux and gastritis. The Southeast Asian material is culinary, and the entry asserts no regional medical organ mapping.
+
 ### Contraindications
 
 - **Heat patterns / high pitta.** As a hot, drying aromatic, galangal can aggravate heat conditions, acid reflux, gastritis and yin-deficient heat; use sparingly where there is internal heat.

@@ -53,6 +53,10 @@ General, well-established facts only. Many tree barks are astringent because of 
 
 **Practitioner's note.** Nothing to do. A tree bark of many uses and uncertain identity, found in wound and skin prescriptions. It is not a recommended practice, and with the species unresolved nobody can select the right bark. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Per Sushruta's chapters, the bark of the tree Ashvakarna, whose species is not settled, acts on the skin, on wounds and on several internal conditions. Its bark is used in a medicated oil and a ghee for wounds, in a hot plaster for the Kaphaja type of case, and in a decoction and paste. The Salasaradi group in which it sits is said to destroy the germ of Kushtha (a skin disease), absorb deranged fat and Kapham, and benefit urinary discharges (Meha) and chlorosis or jaundice (Pandu). A powder of its bark with Dhava is said to have a similar healing property. Colic of the Vayu-origin type (Sula) is treated with a compound taken in wine, and the ash of its bark is one of several ingredients in a poisoned water said to remove oedema (Shopha). The fruit, in a separate list, is called cooling and astringent, subduing Pitta and Kapha. The systems mapped are skin, wounds, the urinary tract, the abdomen in colic, and fat and fluid balance. No rasa, virya or vipaka is printed for the bark.
+
 ### Contraindications
 
 - **Identity.** The species is not established, so substitution is a real risk. Do not use any bark on the strength of this entry. [USER: verify]

@@ -71,6 +71,10 @@ Cat's Claw represents the Amazon's contribution to the Codex — the forest's im
 
 ---
 
+### Functional–Anatomical Correlate
+
+Cat's claw is mapped chiefly to the immune and lymphatic systems. The entry says its pentacyclic alkaloids stimulate phagocytosis and T-lymphocyte proliferation, rebuilding immune function, while its quinovic acid glycosides support lymphatic drainage through the lymphatic channels and fascial tissue. In TCM terms it is assigned to the Lung and Triple Warmer channels, described as clearing stagnation from the torso's lymphatic-fascial fluid network, with the Triple Warmer as its dantian affiliation. Joints and connective tissue receive its anti-inflammatory action, including NF-κB inhibition and reduced synovial inflammation, and a rheumatoid arthritis trial is cited for fewer painful joints. Procyanidins are said to support DNA repair in oxidatively stressed cells, and the entry names antiviral activity in vitro. Its tetracyclic alkaloids are described as vasodilatory and anti-platelet, which is the basis for the anticoagulant caution.
+
 ### Contraindications
 
 - **Autoimmune conditions on immunosuppressant therapy** — immune stimulation may worsen or interact

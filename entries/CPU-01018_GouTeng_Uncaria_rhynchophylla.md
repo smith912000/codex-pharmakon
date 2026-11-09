@@ -186,6 +186,10 @@ Kushida, Matsumoto & Ikarashi, *Frontiers in Pharmacology* 2021 ([DOI](https://d
 
 **Practitioner's note.** Nothing for long-term cultivation. In the sources the entry cites, Gou Teng is a drug for a defined pattern (liver wind, ascendant yang), added late in the decoction, and used with Tian Ma.
 
+### Functional–Anatomical Correlate
+
+Gou Teng's indications map onto the nervous system and the blood vessels. In the classical frame it extinguishes internal liver wind, meaning involuntary movement such as convulsion, tremor and spasm, and subdues ascendant liver yang, which causes throbbing headache, dizziness, red eyes and a wiry pulse. The entry reads wind as excitatory neuronal overdrive and cites rhynchophylline's inhibition of extrasynaptic GluN2B NMDA receptors in rat models. It also cites a hypotensive effect in rats, which it reads as lowering raised blood pressure. Hirsutine is noted for antiarrhythmic activity in the heart, and an intestinal antispasmodic effect is recorded. Several alkaloids cross the blood-brain barrier in rats. The Liver and Pericardium channels are named. The entry declines seizure disorders, paediatric convulsion and eclampsia as indications, since no human evidence supports them, and names sedative, antihypertensive and pregnancy cautions.
+
 ### Contraindications
 
 - **⚠️ HYPOTENSION AND ANTIHYPERTENSIVE INTERACTION.** The hypotensive effect is Gou Teng's best-attested activity (Ozaki 1989, PMID 2792960; Ndagijimana 2013, PMID 23376412) — which makes it also the drug's clearest interaction hazard. Additive hypotension with ACE inhibitors, ARBs, calcium-channel blockers, beta-blockers, diuretics, alpha-blockers. **Contraindicated in existing hypotension.** In a practitioner already on antihypertensive therapy, adding Gou Teng is adding an unmonitored, unstandardised, variably-dosed antihypertensive. Monitor blood pressure or do not use. Caution with anaesthesia — [USER: verify a pre-surgical discontinuation interval].

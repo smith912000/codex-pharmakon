@@ -117,6 +117,10 @@ Warm extra-virgin olive oil applied directly to skin, wounds, and joints — the
 
 ---
 
+### Functional–Anatomical Correlate
+
+Olive's entry maps its action onto the cardiovascular system, the liver, the gut, the skin and the muscles. Its modern anatomy centres on the heart and blood vessels: oleic acid is said to lower LDL while maintaining HDL, and hydroxytyrosol to protect LDL from oxidation and the vessel wall from platelet aggregation. The Chinese analogy places olive in the Heart and vessels, with vascular action. Oleocanthal is described as acting on the COX enzymes in pharyngeal tissue, which the entry links to the throat sting of fresh oil, while the leaf's oleuropein is described as antihypertensive and antimicrobial. The entry maps the Liver to squalene and lipid regulation, the Stomach and Intestines to mucosal emollience and gentle laxative action, and the skin surface to emollient and wound healing. Maslinic acid is said to act on skeletal muscle protein synthesis through mTOR. Ayurvedically it is Snigdha, Madhura and Shita, Vata-Pitta shamaka, with Bringhana tissue-nourishing and skin-clarifying action. Dioscorides' grading of green and ripe oil is recorded as attention to quality, not as a Qi grade.
+
 ### Contraindications
 
 - **Therapeutic olive leaf extract + antihypertensive medications** — oleuropein's ACE-inhibiting and calcium channel-modulating activity is additive with antihypertensive drugs (ACE inhibitors, ARBs, calcium channel blockers, beta-blockers); titrate blood pressure carefully when initiating olive leaf extract in patients on antihypertensive therapy; hypotension risk particularly with the standardized extract form

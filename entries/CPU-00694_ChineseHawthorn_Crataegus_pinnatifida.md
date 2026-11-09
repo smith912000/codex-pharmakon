@@ -119,6 +119,10 @@ Graded honestly. Almost all of this is rodent work; the one human study is not a
 
 **Practitioner's note.** Nothing to cultivate: a digestive fruit taken with or after a heavy meal, with no cultivation status in either tradition.
 
+### Functional–Anatomical Correlate
+
+Chinese hawthorn, the fruit shan zha, is described as acting on the Spleen, Stomach and Liver, with a classical digestive role: dispersing food accumulation, especially meat and fat, moving qi and dispersing stasis. The entry links its sour, acid-rich fruit to the acid-dependent digestion of protein, but states that no study retrieved tested gastric emptying, digestive enzymes or post-meal symptoms. In mice, its lipid effect is described as raised hepatic PPAR-alpha and beta-oxidation enzymes, acting in liver before adipose tissue. In rats, reported effects are lower cholesterol, triglycerides and LDL, lower inflammatory markers, reduced aortic intima-media thickness and lower blood pressure in hypertensive rats. A polysaccharide fraction is described as protecting colonic barrier proteins (claudin-1, ZO-1, occludin) in a microbiota-dependent colitis model. A mouse anxiolytic result is noted as off-doctrine. The entry's cautions are reflux and gastritis, dental erosion, sugar in folk forms, and theoretical interaction with lipid-lowering and antihypertensive drugs.
+
 ### Contraindications
 
 - **GI acidity and reflux — the primary caution.** This is a sour, organic-acid-rich fruit whose entire doctrine is built on that sourness. **Anyone with GERD, reflux, active gastritis, or peptic ulcer should avoid it**, and anyone taking it on an empty stomach should expect trouble. The classical instruction — with or after food — is also the safety instruction.

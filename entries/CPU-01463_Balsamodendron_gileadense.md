@@ -45,6 +45,10 @@ Resinous balsams are generally known to have antiseptic and irritant properties,
 
 **Practitioner's note.** What a cultivator takes from this chapter is the method of provenance and adulteration testing, not a practice with the balsam. The abstentive answer is the honest one, because the tree is rare and genuine material is hard to know.
 
+### Functional–Anatomical Correlate
+
+The chapter names the juice as the strongest part because it heats most, and it says the juice cleans away things that darken the pupils, so the eye is one claimed site. For the reproductive tract, the juice is said to expel the menstrual flow and the afterbirth and to be an abortifacient, and it is applied with waxy ointment to abrasions around the vulva. Rubbed on the skin, it is said to dissolve chills and the discharge of boils. Taken as a drink it is said to move urine, which maps to the urinary tract. Given with milk, it is said to help difficult breathers. The fruit is said to help pleurisy, pneumonia, cough, sciatica, epilepsy, vertigo, asthma, griping and difficult conception, which reaches the lungs and pleura, the sciatic nerve, the nervous system, the gut and the reproductive organs. The wood is said to have the same virtues more weakly. The qualities used are hot, astringent and biting; no humoral or qi system is named.
+
 ### Contraindications
 
 The text records the juice and the fruit as emmenagogues and abortifacients, so they must be avoided in pregnancy on its own showing. The antidote use against *aconitum*, and the use for snakebite, are historical claims and neither is a safe home remedy. Resins can irritate the skin and mucous membranes. The text itself warns that counterfeits are common, so authenticity cannot be assumed. The tree is a rare plant in the wild and is treated as a protected resource in many places, and this is a general statement and not from the text. [USER: verify]

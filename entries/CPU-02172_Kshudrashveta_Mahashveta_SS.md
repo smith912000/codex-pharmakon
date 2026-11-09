@@ -48,6 +48,10 @@ General, well-established facts only. Nothing can be said of an unidentified pla
 
 **Practitioner's note.** One line in a group list. A cultivator has nothing to use from it, and the name should not be taken for a known plant.
 
+### Functional–Anatomical Correlate
+
+Little to map: the Arkadi group in Sutra ch. 38 lists the name among its members, and the group is said to destroy fat and the effects of poison, to act as a vermifuge and specific aseptic agent in ulcer, and to cure diseases of the skin. No single-drug action, organ, tissue, quality, rasa, virya or vipaka is stated for this drug, and no part of the plant is named. The group's tone of poison, worms, ulcer and skin belongs to the group and is not transferred to the drug by the Codex. Whether one plant or two is meant is not stated, and the name occurs in no other chapter searched. Nothing in the text maps this name to a body system beyond the group's own list of conditions.
+
 ### Contraindications
 
 - **Identity.** It is not known whether one plant or two is meant. Nothing may be gathered, bought or used on the strength of this entry. [USER: verify]

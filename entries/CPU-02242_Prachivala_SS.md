@@ -43,6 +43,10 @@ No identification, so no general fact can be stated. No clinical studies were re
 
 **Practitioner's note.** Nothing for a cultivator. A name without an identification in a group list; nothing should be gathered or taken on its strength.
 
+### Functional–Anatomical Correlate
+
+Little to map: Prachivala appears only in the Surasadi group and in one child's sprinkling decoction, and the entry states no organ, tissue or channel for it. As a group member, per the Sushruta Samhita, it acts as a vermifuge and aseptic agent, subdues deranged Kapha, and is beneficial in catarrh, non-relish for food, asthma and cough. In the Uttaratantra passage on Sita-putana, a childhood affliction, a decoction of seven drugs including Prachivala, marked with the translator's question mark, is used in sprinkling the child's body. The text prints no rasa, virya or vipaka, no part used and no plant description, and the translator's own mark leaves even the drug's identity open. The sprinkling is the only use the entry records for the drug itself. No constituent, dose or pregnancy statement is found in the sources read, so the body mapping stops at the group's respiratory and appetite terms and at the child's body as the site of the one named use.
+
 ### Contraindications
 
 - **Identity.** Unresolved; the translator marks it with "(?)".

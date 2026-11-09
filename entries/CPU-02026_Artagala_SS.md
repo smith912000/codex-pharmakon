@@ -49,6 +49,10 @@ The identity is unresolved, so no modern correlation is attempted. No clinical s
 
 **Practitioner's note.** An unidentified group drug used in medicated ghees for Vata complaints of the eye and the voice. Nothing in the record supports any cultivation use.
 
+### Functional–Anatomical Correlate
+
+The Sushruta Samhita places Artagala in the Varunadi group, which is said to reduce Kapha and fat and to help headache, Gulma and internal abscesses. Separately it is listed among drugs that soothe deranged Vata. Its clearest organ-level uses are for the eye and the voice. Ghee cooked with its leaf or fruit is said to be beneficial to the sight, in diseases of the pupil and lens, and Vata ophthalmia is treated with ghee cooked with it and milk. For Vata hoarseness, ghee mixed with its expressed juice is prescribed. The head, the abdomen (through Gulma) and internal abscesses appear in the group-level claims, and fat, the translator's word, is the tissue the group is said to reduce. The Chakradatta reading that sets it with heat-making drugs is noted but not resolved. The entry gives no rasa, virya or vipaka, and no modern tissue action is attributed, because the identity is unresolved. Pregnancy, lactation and children are not addressed in the text.
+
 ### Contraindications
 
 - **Identity unresolved.** Do not substitute any plant.

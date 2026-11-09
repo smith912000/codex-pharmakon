@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this fern. The one useful habit it shows is naming a plant by what it lacks as well as by what it has. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry's own text names one organ. The herb, described as astringent to the taste, is taken as a drink with vinegar to reduce the spleen, and the spleen is the only body part the chapter gives. It prints no tissue, humour, temperament or other quality for the fern, and no energetic classification beyond the astringent taste. The chapter describes form rather than action: a single horned leaf compared with dracunculus, many slender roots beneath, and no stalk, seed or flower. None of those features is said to act on the body. The other name, splenium, is printed without comment, and 'Mulewort' is the translators' gloss, not Dioscorides' word. The identification is shared with another chapter, and the Codex records the spleen claim as the text's own, not as a finding.
+
 ### Contraindications
 
 An enlarged spleen needs medical care, not a fern drunk in vinegar. The identification rests on a translators' suggestion that is shared with a second chapter, and the "other usage" reading names a different plant, so no plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

@@ -51,6 +51,10 @@ General, well-established facts only. The genus *Plantago* contains the common p
 
 **Practitioner's note.** An upper-grade plant in the Chinese scheme, which the classic says may be taken long without harm and names for a defined complaint (urinary block, damp impediment). The text gives neither a dose nor a duration, so a cultivator has no sourced course to follow. In practice the entry is a record of how the tradition graded the plant, and nothing here replaces medical care for urinary or joint symptoms.
 
+### Functional–Anatomical Correlate
+
+The classic names its indications in urinary terms. Qi dribbling urinary block (气癃) and disinhibiting the water passageways and urination (利水道小便) point to the urinary tract and bladder, which modern anatomy names directly. Damp impediment (除湿痹) is a bi-syndrome term, and the entry's own contraindication note reads it alongside joint pain, though the text itself names no joint. Relieving pain (止痛) names no organ. On long taking, the text says it lightens the body and withstands ageing (轻身，耐老). The whole body is the only object named there, and no organ is given for it. The Shennong heading is the seed (车前子), while Yang glosses the herb, and the entry notes the mismatch. No organ or channel is assigned in the classic, and the Codex imports none.
+
 ### Contraindications
 
 - **Toxicity.** The classic marks it nontoxic (无毒). That is the classic's statement, not a safety guarantee.

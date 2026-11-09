@@ -79,6 +79,10 @@ A comprehensive review (Zhao et al., 2019, *Journal of Ethnopharmacology*) docum
 
 **Practitioner's note.** There is no attested cultivation use. A cultivator's real engagement with this wood is attentive sourcing: *D. odorifera* is a protected, heavily traded timber species, so provenance and legality are the practical questions, ahead of any use as medicine or incense. Nothing here supports regular or long-term use for practice.
 
+### Functional–Anatomical Correlate
+
+Jiang Xiang, by the entry's account, acts on the Liver (invigorating blood, dispelling stasis and stopping bleeding), the Spleen (Qi and cold abdominal pain) and the Heart (chest bi), and on the vascular and soft-tissue system. Its TCM actions are to invigorate blood and dispel stasis, move Qi and relieve pain, and stop bleeding by resolving stasis. Traumatic bruising, swelling and pain are treated internally and as a wound powder, and chest and epigastric pain are treated as stasis or Qi stagnation with cold. Its Dantian affiliation is Middle Dantian, the chest and Blood pathways of the trunk. Modern correlates in the entry are flavonoids and arylbenzofurans, reported in preclinical work as anti-inflammatory, antioxidant, anti-platelet, vasorelaxant and anti-angina, and a volatile sesquiterpene oil linked to analgesic activity. The entry records no Tibetan attestation for this species. Cautions are bleeding without stasis, Yin-deficiency bleeding, pregnancy, additive bleeding risk with anticoagulants and antiplatelet drugs, and contact allergy to dalbergiones.
+
 ### Contraindications
 
 - **Bleeding without stasis; Yin-deficiency bleeding:** the "stop bleeding by moving Blood" action applies to *stasis-type* bleeding — it is inappropriate (and potentially worsening) for heat- or deficiency-type haemorrhage, where it may increase bleeding.

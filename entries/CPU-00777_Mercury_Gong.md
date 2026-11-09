@@ -57,6 +57,10 @@ Mercury and its compounds are toxic to the nervous system and the kidneys, and i
 
 **Practitioner's note.** There is nothing safe to take from this entry, and nothing that supports taking mercury. The Chinese grading is a historical claim about a toxic metal, recorded as such. The practical lesson of the sources is Dioscorides': know the vapour hazard, the vessel, and the antidotes, and leave the material alone. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Shui Yin (Divine Farmer's Classic, Superior Class) is claimed to act on the skin: scabs, itching sores and bald white scalp sores, and it is said to kill skin worms and lice. It is also said to induce abortion, which maps to the uterus, and to eliminate fever. Dan Sha (cinnabar) is said to treat hundreds of diseases of the five viscera and the body, and Yang's note adds confused spirit (shen), fright palpitations and insomnia, sites of the heart and mind. Dioscorides (5-110) claims that quicksilver eats through the internal organs, and his cinnabar (5-109) is good for the eyes and blood staunching, with burns and pustules on the skin. Sushruta uses parada in a face unguent for facial blemishes (Vyanga), in an anti-poison drum plaster, and as a ritual offering, none with an organ claim. The Ebers and Avicenna entries name no action at all, and no humour, dosha or qi is assigned.
+
 ### Contraindications
 
 Mercury, cinnabar and every mercurial "ash" or "elixir" preparation are poisonous: they injure the nervous system, kidneys and gut, and heating them releases toxic vapour. The risk is cumulative, and the Chinese source's own entry lists abortion. Mercury is banned or restricted as a medicine in many countries, and its handling and disposal are regulated. Do not use. Ritual and offering uses are ritual, not therapy.

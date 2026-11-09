@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** A cultivator has nothing to do with this drug on the strength of the texts beyond what a physician would use it for, which is to settle tripa and loong. It is a rose of uncertain species, and nothing here supports treating a rose as a rejuvenative.
 
+### Functional–Anatomical Correlate
+
+Little to map: the sources name no organ for Sewai metok. Men-Tsee-Khang says it cures tripa disorders and suppresses loong, and Clark's root-layer clause says it cures bile disorders and alleviates wind imbalances. The entry records that these pairs are the translators' words for two terms the editors keep in Tibetan, so the claims concern the humours bile and wind and not an organ. The bracketed commentary adds two types, black and white, a thorny bush with red hips, sweet and sour tastes and an oily power, with no post-digestive taste. The botanical identity is open within the rose genus, so the claims belong to the Tibetan drug. No part used, preparation or dose is given.
+
 ### Contraindications
 
 The sources read print no warning for the drug. The identity is uncertain within the genus, so no plant should be gathered or taken on the strength of this entry. No conservation information and no safety information for pregnancy was read. [USER: verify]

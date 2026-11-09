@@ -42,6 +42,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** A bitter gum for the teeth and the spleen, with an emaciating dose. The text rejects the sandarac equation and supports no cultivation use.
 
+### Functional–Anatomical Correlate
+
+Qayqahan, a bitter gum the Canon says is brought from the land of the Arabs, is described as having a slight agglutinating power, which is the only quality given, so no degree of heat or dryness is mapped. The Canon places its actions in the mouth, the teeth and gums, the eye and the chest. It is said to be the best thing for toothache and falling of the gums, which maps to the teeth and gingiva. It is said to clean the marks of ulcers and to polish the sight, which maps to the eye. With honey water it is said to help asthma, which maps to the airways and lungs. Drunk daily with oxymel or water it is said to emaciate the body, and drunk for three days with oxymel it is said to greatly reduce the spleen. Wrestlers are said to use it, which the text gives as a body regimen. The text rejects the sandarac identity, and the gum is not identified.
+
 ### Contraindications
 
 The text itself calls the drink emaciating and says it wastes the spleen greatly. Do not ingest a gum of unknown species. No contraindication is printed. [USER: verify]

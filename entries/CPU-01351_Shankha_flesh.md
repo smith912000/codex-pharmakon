@@ -42,6 +42,10 @@ General facts only. Shellfish must be cooked through and kept cold before cookin
 
 **Practitioner's note.** Nothing here is a practice. In Sushruta this is one of the shell-bearing animals eaten as food, with properties stated for the group and none for the animal itself. A person who does not eat shellfish has nothing to adopt.
 
+### Functional–Anatomical Correlate
+
+The Shankha is named in the conchiferous (Koshastha) group of molluscs, and the group sentence is the only property statement for it. The text says the flesh of the Shankha and Kurma orders is sweet in taste and digestion, cooling in potency, demulcent, and beneficial to stool and Pittam. It destroys deranged Vayu and produces Kapham. The black crab in the same passage is strength-giving and heat-making, and the white species is laxative and diuretic and tends to bring about adhesion of fractured bones. Mapped to the body, this points to the digestive tract and stool, the bile and heat-regulating function of Pittam, the bowel and kidneys (laxative and diuretic), and the bones in the fracture-adhesion claim. The text names no organ or channel for the Shankha alone, and the species is not settled.
+
 ### Contraindications
 
 - **Identity:** the species is unspecified in the lines read; do not substitute a species on this basis. [USER: verify]

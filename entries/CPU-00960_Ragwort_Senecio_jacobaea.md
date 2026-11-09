@@ -68,6 +68,10 @@ Folk and humoral sources treated ragwort as a warming, drying, cleansing "hot" h
 
 **Practitioner's note.** Nothing. Ragwort carries hepatotoxic pyrrolizidine alkaloids, and neither tradition offers a cultivation use; the only practice is recognition and avoidance.
 
+### Functional–Anatomical Correlate
+
+Ragwort's entry maps its action almost entirely onto the liver, through a toxic route rather than a therapeutic one. Its pyrrolizidine alkaloids are bioactivated by hepatic cytochrome P450 into pyrrole esters that form protein adducts and cross-link DNA, destroying the sinusoidal endothelial cells and producing hepatic sinusoidal obstruction (veno-occlusive) syndrome with hepatomegaly, ascites, jaundice and portal hypertension. The entry describes the same damage in dairy cows, which show raised GGT, AST and GLDH, and in human PA-HSOS, where the class is established though ragwort itself is rarely the human source. Its genotoxic action on DNA is noted, and it reaches people through milk and honey. The traditional organ targets are external: broken skin, mucous membranes and the eye, where wound washes, gargles, eye baths and joint poultices were used as counter-irritants. The humoral hot and dry reading is inferred from use, not attested, and the CM and DMM tags are name-and-genus inheritances. The entry records no safe internal dose.
+
 ### Contraindications
 
 - **Absolute contraindication to all internal use.** PA hepatotoxicity is cumulative and often irreversible; no safe internal dose is established.

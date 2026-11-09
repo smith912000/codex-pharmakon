@@ -56,6 +56,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry claims one site and one effect. Pounded stone smeared on a place that is to be cut or burnt is said to cause numbness, so the claimed action is local, on the surface tissue at the cut or burn, with the feeling in that area as the sensation affected. The chapter names no organ, no internal route and no body system beyond that point. It prints no humoral, doshic, qi or temperament classification; the only qualities given are a fat texture and various colours, and neither is an energetic property. The numbing is reported at second hand ('it is said'), so the site is a claim of the source, not an observed effect. The stone is unidentified, so no tissue mechanism can be assigned to a material, and none is inferred here. Nothing is stated about the eyes, digestion, blood, or any internal organ.
+
 ### Contraindications
 
 - **Unidentified material:** the identification is uncertain; an unknown stone should not be applied to wounds or burns.

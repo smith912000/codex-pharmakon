@@ -42,6 +42,10 @@ The identification is ours. No clinical studies were retrieved for this entry. [
 
 **Practitioner's note.** The classic's 久服 clause for this plant is long, and the plant is a food seed. The text gives no preparation, no daily amount and no duration. A cultivator can say what the classic says, and that it names a seed that people ate, and no more.
 
+### Functional–Anatomical Correlate
+
+The paragraph maps the seed onto the loins, spine and knees (腰脊膝), the lower back and lower limbs, where it relieves pain and damp-blockage (湿痹), a term for an obstructive condition that the entry leaves in its own terms. It also replenishes the centre (补中) and removes sudden illness (除暴疾), without naming organs. Its sense-organ claim concerns the ears and eyes, which it says it makes sharp (令耳目聪明). It adds to essence-qi (益精气), a single compound the Codex does not split, and strengthens the will (强志). Energetically it is bitter and level (味苦，平). The long-use clause claims lightening the body, no hunger, resisting ageing and immortality. The Codex records these as the classic's categories, not as physiological outcomes. The seed is also an ordinary food, a general fact outside the classic, and the entry notes the modern drug is usually described as sweet, a point left to verify.
+
 ### Contraindications
 
 The classic does not warn. No safety information for pregnancy, children or other medicines was read, and none is asserted. Damp-blockage and pain of the loins, spine and knees need medical assessment. Seeds eaten as food are not a dose recommendation. [USER: verify]

@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a wound and pus drug in the Tibetan texts, with no preparation and no dose, and the species behind the Tibetan name differs between the two editions. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Men-Tsee-Khang running text maps the Tibetan name Drakpoe to three kinds of tissue. It 'treats wounds, dries up pus and protects spongy bone', so the texts place it on wounds, on purulent discharge and on spongy bone tissue. The entry does not say which tissue lies under a wound. Clark's line for the same name, brag.spos, is the root-text layer 'heals wounds, dries pus, sustains bone resin', and its commentary adds fevers in the channels and 'enlargement of the diaphragm', where the diaphragm is the breathing muscle in modern terms. The entry gives no taste, power, part used or preparation for this name in the lines read. Clark's commentary describes only the leaf, as swordlike and narrow. The glossary's English name for the place, Pyrrosia leaf, is a fern name that the entry records without interpreting. The binomial Lepisorus clathratus is set by column position, and the species Clark names differs, so the organ map belongs to the Tibetan name.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Wounds, pus and fever need medical assessment; no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Because the name-to-plant pairing rests on column position and the editions differ, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

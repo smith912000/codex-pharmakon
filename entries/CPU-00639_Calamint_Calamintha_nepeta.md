@@ -65,6 +65,10 @@ The toxicological basis for caution is direct: Khojasteh-Bakht et al. (1999), *D
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, lesser calamint is a hot, dry aromatic in the Galenic and Unani reckoning, a carminative and stomachic that warms a cold stomach, cuts phlegm and opens obstruction of the digestive tract, with diaphoretic action that brings on sweat. The Dioscoridean account adds use to move the menses and expel worms. Its classic targets are the stomach and gut, with the trapped wind and bloating of a cold, damp digestive picture, and the skin surface through sweating. The entry's modern correlates are antimicrobial, antioxidant, anti-inflammatory and anti-ulcer activity, documented in a review of the plant and its principal constituent pulegone. The basis for caution is hepatic: human liver cytochrome P-450s (CYP2E1, CYP1A2, CYP2C19) convert pulegone to menthofuran and a reactive furan epoxide, the mechanism of its hepatotoxicity. The reproductive tract appears only as the emmenagogue action and as the reason to avoid pregnancy use. The Ayurvedic correlate reads it as pungent and heating, reducing kapha and vata.
+
 ### Contraindications
 
 **Contraindicated in pregnancy.** Calamint's essential oil is rich in **pulegone**, the same hepatotoxic, abortifacient monoterpene that makes pennyroyal dangerous; it was historically used to provoke menstruation. Pulegone is metabolised by human liver CYPs to menthofuran and a reactive furan epoxide, the mechanism of its hepatotoxicity (Khojasteh-Bakht et al. 1999, [PMID: 10220485](https://pubmed.ncbi.nlm.nih.gov/10220485/)). Avoid the concentrated essential oil internally at any time; avoid the herb medicinally in pregnancy, breastfeeding, in infants, and in anyone with liver disease. Culinary use of the leaf as a flavouring is the traditional safe exposure; do not escalate to oil or high-dose extracts. [USER: verify local regulatory status; some jurisdictions cap pulegone in foods and flavourings]

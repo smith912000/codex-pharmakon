@@ -51,6 +51,10 @@ Azurite is a copper ore and pigment. Copper is an essential trace element, but c
 
 **Practitioner's note.** The Chinese scheme classes this stone with the drugs for long-term life-nourishing use, and the same scheme's compound claim about turning into gold shows that this class mixes ordinary medicine with alchemy. The cultivator's practical use of this entry is as a warning about how the grades were made: "upper" in the classic does not mean safe. Nothing here supports taking the stone. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The sites are the eyes, the joints, the openings of the body and the internal accumulations. The stone is said to ease eye pain and stop tearing, placing its action on the eyes and tear flow. It is said to bring out wind impediment and to free the joints, a claimed action on the joints and the channels that carry wind. It is said to open the nine orifices, the body's openings, and to break hard concretions and accumulations, which places action on internal masses. The Shennong text gives sour and slightly cold, with no organ affinity printed. The classic's life-nourishing clause and its claim about transforming gold and copper belong to the alchemical side and name no organ. No dosha, humour or qi channel is assigned beyond the classic's own wording, and the identification as azurite is the entry's own.
+
 ### Contraindications
 
 - **Do not ingest.** Copper carbonate is a poison; swallowing it can cause vomiting, pain, and liver and kidney injury.

@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is the habitat check, the root check by colour, smell and taste, and the habit of marking a report as a report. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+On the entry's own claims, Tripolium vulgare acts on the bowels and the urinary passage. Two teaspoonfuls of a decoction taken in wine 'expel water and urine through the bowels', so both fluid routes are named, with the bowel as the route. The root is described as 'hot to the taste' and sweet smelling, and that is the only quality given. The root is also 'cut for antidotes against poisons', with no organ or action named. The chapter names no tissue, humour, dosha or qi channel, and it says nothing about the lungs, blood, nerves or skin. The flower's three colours in one day are reported as hearsay ('It is said') and concern appearance, not the body. The identity is the translators' suggestion, and their cross-reference to 4-120 leaves open whether the two chapters describe one plant, so the mapping is one chapter's claim.
+
 ### Contraindications
 
 Chapter 4-135 prints no warning, though its one use is to drive fluid out through the bowels. The identification is only the translators' suggestion, and the translators offer three names and a cross-reference to a second chapter, so no plant should be gathered or used on the strength of this entry. A plant that forces water out through the bowels carries a risk of dehydration, particularly for children, the elderly and anyone who is already ill. The use for poisons is not a treatment the Codex endorses, and poisoning should never wait for a herb. The text gives one quantity and no safety information for pregnancy, children or any medicine taken at the same time. [USER: verify]

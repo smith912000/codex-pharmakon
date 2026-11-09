@@ -159,6 +159,10 @@ This is where *A. moly* is actually worth your time. It is one of the easiest bu
 
 **Practitioner's note.** Nothing to cultivate. The only practice the text offers is Dioscorides' attention to the plant's description and gathering; the carried-root amulet is recorded history, not a recommendation.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry states that no pharmacological, phytochemical or toxicological study of Allium moly was retrieved, so no organ system is mapped from data. The only traditional placement is Dioscorides' molu (3-54), which the entry says may be this plant: a pessary for openings of the womb, and a herb carried on the body against poisoning and bewitching, which he records without comment. The Homeric moly and snowdrop hypotheses concern other plants and are unadjudicated. The energetic classification (acrid, warm, dispersing) is by genus inference only. Genus-level cautions the entry names are gastrointestinal irritation and vomiting from raw bulb, contact dermatitis, and haemolysis in dogs, cats and horses. Pregnancy, lactation and children should avoid non-food amounts, and the entry does not confirm edibility.
+
 ### Contraindications
 
 - **⚠️ THE PRINCIPAL CONTRAINDICATION IS THE NAME.** Do not use this plant for anything Homer's moly did. It is not an antidote. It is not protective. It does not preserve the mind under drugging. It has no anticholinergic antagonism. Anyone who tells you otherwise — including this book, if you read it carelessly — is telling you a story.

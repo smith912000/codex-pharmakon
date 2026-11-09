@@ -197,6 +197,10 @@ Haupenthal et al. (2017), *Food & Function*, demonstrated in vitro that both α-
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps calamus chiefly to the brain and the sensory orifices, with the digestive tract as a secondary target. In Chinese terms it is a Shen-clarifying, orifice-opening herb that dissolves phlegm misting the Heart, with Upper Dantian as the cognitive centre, and it warms the Middle Burner through the Stomach and Spleen. Ayurveda classes vacha as a medhya agent acting on prana vata, the breath linked to brain and sensory function, and as a Kanthya (throat-benefiting) herb. Ibn Sina places it in the brain and memory, for weakness of the brain and failure of recollection, and in epilepsy. Galenic sources name the liver, bladder and joints. The entry describes acetylcholinesterase inhibition in the hippocampus and cortex, NMDA antagonism, and GABA-A modulation by linalool. It also says beta-asarone forms DNA adducts in rat liver and duodenum. Cautions name epilepsy, hepatic disease, pregnancy and children.
+
 ### Contraindications
 
 **β-asarone — carcinogenicity (THE PRIMARY SAFETY CONCERN):**

@@ -83,6 +83,10 @@ _The botanical here is the true lemon (*Citrus limon*); the *etrog* material bel
 
 **Practitioner's note.** The cultivator's honest use of lemon is ordinary and daily: a cooling, fluid-generating juice and a warming, qi-moving peel, taken as food-medicine against heat, thirst and sluggish digestion, with the vitamin-C antiscorbutic action its one historically decisive contribution. The sacral weight often reached for here belongs to the *etrog* — the citron (*Citrus medica*) of the Jewish Sukkot rite, a different botanical and a tradition outside these tags — and must not be transferred onto the lemon. Nothing attested makes lemon a substance taken to refine or extend a life.
 
+### Functional–Anatomical Correlate
+
+The lemon maps onto the stomach and digestion, the heart, the fluid balance and the connective tissue. Its sour juice is a cooling refrigerant that generates fluids and quenches thirst, used in Unani practice against bilious nausea and hot fevers, and as a cardiac strengthener (muqawwi-e-qalb). In Ayurveda the sour juice is an amla digestive stimulant and antiemetic that kindles agni. In TCM the fruit harmonises the Stomach and calms restlessness, acting on the Liver, Stomach and Lung channels, while the warm peel moves qi and transforms phlegm. The entry treats the vitamin C in the juice as its most decisive contribution, correcting the gum and connective-tissue damage of scurvy. Its flavonoids are described as vascular-active. The contraindications concern tooth enamel, reflux and peptic ulcer, migraine, and peel-oil phototoxicity of the skin.
+
 ### Contraindications
 
 - **Dental enamel:** frequent undiluted acid juice erodes enamel.

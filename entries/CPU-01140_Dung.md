@@ -55,6 +55,10 @@ General, well-established facts only. Animal and human faeces carry pathogenic b
 
 **Practitioner's note.** Nothing here is a practice for a cultivator, and the Codex does not recommend any use in the chapter. The honest use of the entry is as a record, and as an example of an author separating what he reports from what he vouches for. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides’ dung chapter gives actions for many dungs, and the systems it names are these: skin and wounds (cow dung on inflamed wounds, human dung to keep wounds from inflaming), bones and joints (cow dung with vinegar for bone inflammation), the sciatic nerve (warm packs and goat-dung pills for sciatica), the bowels (mouse-dung suppository, dog dung as an astringent), the urinary tract (mouse-dung drink for stones), the uterus and menses (cow-dung smoke for a fallen uterus; goat dung and vulture smoke as abortifacients), bleeding (ass and horse dung), the liver (goat dung with wine for jaundice), the throat (human and dog dung for tonsillitis), and the nerves (stork dung, said to help epilepsy). Avicenna’s Unani entry says no dung is cooling or moistening, and gives external uses within the same frame of dissolving and drying. The Greek chapter prints one quality, that doves’ dung is “more hot and burning”. No cultivation status is attested, and the abortifacient and menstrual uses are dangerous.
+
 ### Contraindications
 
 - **Infection and tetanus:** dung on a wound, burn or ulcer is a direct source of infection; dung of any animal carries bacteria, viruses and parasites.

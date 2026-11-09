@@ -50,6 +50,10 @@ General, well-established facts only: ghee is a concentrated dietary fat, high i
 
 **Practitioner's note.** In the Sushruta record, ghee is a food and a medicinal base, and the cultivation claims attach to specific medicated ghritas taken as courses under a physician, and to ghee's general ranking as a nourishing, cooling, ojas-improving fat. For a practitioner today the practical content is modest: ghee is an ordinary cooking fat with a long Ayurvedic reputation, and the Codex offers no dose, course or long-life protocol for it. The five-hundred-year and ward-off-demons claims are not a basis for any practice.
 
+### Functional–Anatomical Correlate
+
+The Sushruta text calls ghee cooling, mild and sweet, saying it slightly increases the slimy secretions of the organs and acts as a lubricating moistener. It subdues vata and pitta, and is said to improve memory, complexion, voice and ojas, the principle of strength. Named targets include the eyes (cow's ghee is said to improve eyesight, and churned ghee helps eye diseases), the lungs (cough, dyspnoea, consumption, haemoptysis), the digestive tract (colic, distension from suppressed stool and urine) and the mind (insanity, epilepsy). Old ghee is said to help abdominal dropsy, oedema and aching pain in the vagina, ears, eyes or head. Skin disease (kushtam) and eye disease (timira) are named in the aged-ghee verses. The Unani note in the cultivation register says ghee ripens swellings at the base of the ear and softens the chest. The entry gives no dose for plain ghee and notes that it increases bodily kapham.
+
 ### Contraindications
 
 - **Dairy sensitivity:** clarification removes most milk protein and lactose, not all of it (general fact); people with a milk allergy should take medical advice.

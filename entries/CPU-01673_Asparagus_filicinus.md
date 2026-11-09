@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. The Tibetan drug is a "five roots" drug said to prolong life, and the species behind it is not settled. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: Clark 1995's line for nye.shing, whose first Latin name is Asparagus filicinus, says in the root text that the drug cures disorders of the xiphoid process (line 1143). The xiphoid process is the lower tip of the sternum, so this is the only anatomical site the entry names. Clark's bracketed commentary adds that the root has bitter and astringent tastes, but the Men-Tsee-Khang text places the same name in the sweet-tasting group (line 3204), and the Codex does not resolve the disagreement. Clark's next line, for ra.mnye, names Asparagus racemosus and says that the drug promotes longevity and cures lymph disorders (line 1144). That sentence concerns a different binomial, so lymph is not mapped to this species. The Men-Tsee-Khang text says the name prolongs life and cures chhuser disorders (line 3502), without naming any organ or channel. The entry therefore maps only the xiphoid process, and gives no mechanism.
+
 ### Contraindications
 
 The sources read print no warning. The botanical identity is uncertain (three binomials in Clark and a fourth in the glossary), so no plant should be gathered or used on the strength of this entry. Disorders of the xiphoid process need medical care. No safety information for pregnancy was read. [USER: verify]

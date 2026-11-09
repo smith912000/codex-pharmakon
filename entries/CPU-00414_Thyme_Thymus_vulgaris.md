@@ -103,6 +103,10 @@ Strong thyme infusion (6g/250mL) cooled to body temperature; gargle 30 seconds, 
 **Practitioner's note.** Across every tradition that claims it, thyme is a therapeutic aromatic — a respiratory and antimicrobial agent taken for a defined complaint and then stopped — not a substance any tradition grades as nourishing life or conserving the vital endowment. What a cultivator actually does with it is bounded and instrumental: use it against airway infection and digestive stagnation, respect the essential-oil toxicity, and take Dioscorides' lesson of provenance and assay as the only "cultivation" thyme genuinely teaches.
 
 *[1 paragraph(s) removed 2026-07-18 — tag withdrawn per attestation ruling; see spine notes.]*
+### Functional–Anatomical Correlate
+
+Per the entry's own claims, thyme acts first on the Lung and upper airways, clearing the respiratory tract against bacterial and viral pathogens, relaxing bronchial smooth muscle and thinning viscous mucus through increased mucociliary clearance. Its Ayurvedic-group analogues are used for Kapha-Vata respiratory and digestive complaints. Its carminative action is on gastrointestinal smooth muscle, which the entry describes as resolving digestive Qi stagnation, with the Spleen-Stomach as a secondary channel. In TCM terms it is a warming, aromatic Qi-opener that disperses Wind-Cold, dries Phlegm-Damp and activates digestive Qi. A mild Shen effect is named as a cerebral stimulating note, mostly from aromatherapy. The contraindications point at the thyroid, where high doses may interfere with function, and at pregnancy, where concentrated doses are emmenagogue.
+
 ### Contraindications
 
 - **Thyroid conditions** — thymol may mildly interfere with thyroid function at high doses; monitor in hyperthyroidism

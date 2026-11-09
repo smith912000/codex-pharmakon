@@ -70,6 +70,10 @@ Codex policy: the mechanism (sodium-channel, diester→monoester detoxification)
 
 **Practitioner's note.** ⚠️ A cultivator does *nothing* with raw aconite: it is a deadly cardiotoxic poison (aconitine, sodium-channel), and its own tradition files it in the lowest, disease-attacking grade precisely to keep it out of the long-term cabinet. There is no life-nourishing use to pursue here — the honest cultivation answer is abstention. Even correctly processed *fu zi* is the domain of a qualified practitioner treating an acute cold-collapse pattern, never a self-directed tonic; under-processing or under-decoction has killed. (Historically, the classical Western record — Dioscorides' arrow- and bait-poison, the wolfsbane of witchcraft, Hecate and the Cerberus-slaver myth — is genuine culture and is recorded as such under Origin & Tradition; it is lore and homicidal-poison history, not a cultivation practice, and nothing in it softens the hazard.)
 
+### Functional–Anatomical Correlate
+
+The entry's central claim is that aconite's toxicity falls on the heart and nerves, and that processing turns it into a warming medicine. Aconitine holds voltage-gated sodium channels open in cardiac and nerve membranes, producing paraesthesia and numbness, then refractory ventricular arrhythmia. Processing hydrolyses the diester alkaloids to mono-ester forms that the entry says are far less toxic and in some cases retain cardiotonic and analgesic activity. For processed Fuzi, the entry lists Heart, Kidney and Spleen channels, and actions described as restoring devastated yang and dispelling cold, with analgesia for cold-damp painful obstruction in the joints. The Ayurvedic related aconites are classed as ushna virya, hot in potency, purified before use. The Kenetica tier is Qi at the warming pole with a Shen ascription for rescue from collapse of the vital spark. Cardiac disease, heat patterns and yin deficiency, and pregnancy are contraindications, and any ingestion is a cardiac emergency.
+
 ### Contraindications
 
 - **Raw/unprocessed root — absolute prohibition.** Never to be ingested in any unsupervised context. Lethal dose is small.

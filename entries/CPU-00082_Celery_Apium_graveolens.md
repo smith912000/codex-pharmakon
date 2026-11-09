@@ -102,6 +102,10 @@ The seed phthalides and terpenes relax intestinal smooth muscle (the carminative
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, celery's primary target is the cardiovascular system. Its phthalides, chiefly 3-n-butylphthalide, relax vascular smooth muscle and reduce peripheral vascular resistance, which the entry frames as calcium-channel modulation of the vessel wall. The TCM Liver pattern (calming Liver Yang rising, 平肝降压) is the traditional frame for this blood-pressure action. Luteolin and the phthalides are said to inhibit xanthine oxidase, tying the herb to uric acid and to the joints, where the Assyrian seed use for joint pain and the Ayurvedic Vata-pain application are cited. The kidneys and urinary tract are the diuretic target, with the Kidney channel named in TCM and lower urinary oxalate noted. In the digestive tract the seed acts as a carminative, relaxing intestinal smooth muscle and easing gas (Ajmoda, Vata-Kapha). The entry also records that medicinal seed doses are uterotonic, so the pregnant uterus is a site of caution rather than a claimed action.
+
 ### Contraindications
 
 - **Pregnancy** — phthalides and apiin have uterotonic/emmenagogue activity at medicinal doses (seed extract, seed infusion); avoid therapeutic doses during pregnancy; normal culinary amounts (stalk as food) are considered safe

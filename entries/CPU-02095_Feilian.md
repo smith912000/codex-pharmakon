@@ -46,6 +46,10 @@ The Shennong text proper gives no preparation. The Mingyi layer says the root is
 
 **Practitioner's note.** A cultivator has a single clause to go on: an upper-grade drug said to lighten the body when taken long. The identity of the plant was in doubt even to the early commentators, no dose is given, and Yang's own commentary says it is rarely used. Without a verified plant and a dose, the honest practice is to read the entry and leave the thistle alone.
 
+### Functional–Anatomical Correlate
+
+The entry maps to the bone joints and the lower legs. The Shennong text lists the drug as bitter and balanced, for heat in the bone joints (骨节) and for heaviness, soreness and pain of the shins, so the joints and legs are the body parts named. Yang's translation gives the same words, with heaviness and aching pain in the lower legs. The entry does not refine the joint term into a modern joint type. The Mingyi layer names the root and the flower as parts gathered, but gives no organ for either. Taken long, the drug is said to make the body light, which the text expresses as qing shen, a phrase with no pharmacological equivalent. No humoral, doshic or qi organ assignment and no channel is given in the classic. The entry also says the drug's identity was disputed in early commentary and that Yang notes it is rarely used, so the mapping is the text's own and is not confirmed for any species. The Codex gives no protocol, and joint heat and leg pain need medical assessment.
+
 ### Contraindications
 
 The sources read print no warning. Thistles are generally not poisonous, but that is not stated by the sources and the plant behind the name is uncertain, so nothing should be gathered or taken on the strength of this entry. Joint heat and leg pain need medical assessment. No safety information for pregnancy was read. [USER: verify]

@@ -46,6 +46,10 @@ General, well-established facts only. Grape pomace is the solid residue of press
 
 **Practitioner's note.** A plain household preparation for the weak and the convalescent, and nothing more is attested. A cultivator has no use for it as a practice; the nearest lesson in the text is Dioscorides' own: moderation, and water after wine.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that deuteria, a weak secondary wine made from pressed grape husks, boiled down and salted, is for those to whom wine is doubtful, and for those who have recovered from a long sickness, to satisfy the desire of the sick. It states no action on any organ, tissue or system, no indication for a disease and no quality beyond its being weak. Dioscorides' rule is that it should not be used after a year because it grows weak quickly. The adynamon variant is folded into the same chapter, made from equal water and must boiled down, or from a mixture of sea water, rain water, honey and must sunned for forty days, and the text says it has the same strength. No humoral or elemental classification is printed. The chapter is cited here for its method and its use, and no organ mapping is given because the text supplies none. No dose is given.
+
 ### Contraindications
 
 - **Alcohol.** Any fermented drink carries the risks of alcohol. Do not give it to children, in pregnancy or lactation, to those who should not drink, or before driving. The text itself warns that drunkenness is "pernicious" (5-11).

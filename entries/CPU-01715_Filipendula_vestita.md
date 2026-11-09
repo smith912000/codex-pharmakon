@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a drug for swellings and internal abscesses in the Tibetan texts, with no preparation and no dose, and its Latin name is one of two that Clark offers, with a third in the glossary. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts give this plant the action of reducing swelling and removing internal abscesses or ulcers (Clark, line 1074). The Men-Tsee-Khang text says it subsides swelling and dissolves cancer of the visceral organs (line 3448), and Clark's commentary adds that it cures glandular growths. The organs the texts name are the visceral organs, and the internal tissue that abscesses and ulcers affect. The commentary also describes a thick, phlegm-like taste and a malodorous smell. Neither is one of the six tastes, and the entry records them without applying them. No post-digestive taste or power is printed, and the name does not appear in the chapter 19 taste lists read. The plant is open between Filipendula vestita and Achillea setacea, and the glossary prints a third genus, so no species-level mapping is possible. No clinical study was retrieved. Persistent swelling and any suspected cancer need medical assessment.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The identity is open between genera, and no preparation or dose is given, so no plant should be gathered or used on the strength of this entry. Internal abscesses and growths need medical care. No safety information for pregnancy was read. [USER: verify]

@@ -118,6 +118,10 @@
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps cumin onto several systems. Digestive: cuminaldehyde is said to stimulate pancreatic enzyme and bile secretion, possibly through cholecystokinin release from duodenal cells, and to inhibit pathogenic gut flora while sparing Lactobacillus; the TCM reading has it warming the Spleen and Stomach, and the Ayurvedic reading calls it deepana-pachana. Metabolic: the entry describes inhibition of alpha-glucosidase and alpha-amylase, reduced post-meal glucose, and a trial-reported effect on weight, fat mass and lipids. Blood and iron: the seed's iron content is described as a non-heme source, and jiraka ghrita is cited for postpartum iron repletion, which places it under the Jing axis. Lactation and postpartum use are supported by the Ayurvedic text. Urinary: Dioscorides and the Assyrian corpus cite diuretic and retention use. Energetically it is Qi with secondary Jing, reducing Kapha and Vata and mildly aggravating Pitta in excess.
+
 ### Contraindications
 
 - **Severe hyperacidity / active peptic ulcer disease:** Thermogenic and acid-stimulating properties may exacerbate gastric mucosal irritation; use with food or in ghee vehicle

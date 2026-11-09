@@ -43,6 +43,10 @@ General facts only: mammalian brain tissue is a recognised route for prion disea
 
 **Practitioner's note.** A cold, moist food-drug the text itself calls nauseating and slow to digest. No cultivation status is attested.
 
+### Functional–Anatomical Correlate
+
+The Canon maps brain onto the head and nose, the nervous system in epilepsy, the stomach and appetite, and the body's response to poison and bites. Its temperament is cold and moist, and it generates phlegm and thick humours. Hen's brain is said to benefit a form of nosebleed, al-ruʿāf al-ḥijābī, a term the Codex has marked for verification. Camel's brain, dried and drunk with wine vinegar, benefits epilepsy. Eaten, it is nauseating, removes appetite and is slow to digest, coating the stomach; it should be eaten with spices, and whoever wants to vomit after a meal should take it after the food. Brains are said to be suitable for the poisoned and for animal bites when eaten. The passage gives no dose and no organ beyond the head, the stomach and the general body humours, and the Codex does not translate these into modern diagnoses.
+
 ### Contraindications
 
 - **Prion and food-safety risk.** Mammalian brain can carry prion disease; do not eat or use it on the basis of this entry.

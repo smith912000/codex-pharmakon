@@ -76,6 +76,10 @@ According to PubMed, the modern evidence for *Ougeinia oojeinensis* is **sparse 
 
 **Practitioner's note.** Nothing. A drying, astringent group-drug used against defined complaints; the text gives it no long-term or vitality-building role.
 
+### Functional–Anatomical Correlate
+
+Tinisha acts on fat and metabolic channels, on the urinary and bowel channels, and on skin and wounds, as a member of the Salasaradi group. The group's classical targets are prameha (urinary-diabetic pattern), meda (fat), kushtha (skin), krimi (parasites), kandu (itch) and pandu (anaemia). The entry lists Tinisha's actions as pramehaghna, medohara, kaphaghna, kushthaghna, grahi and stambhana (astringent, anti-diarrhoeal) and krimighna. It acts on the medovaha and mutravaha srotas, with astringent action on the purishavaha (bowel) channel. It pacifies Kapha and Pitta and cools, and may aggravate Vata in excess. The modern evidence is one rodent study. An ethanolic bark extract at 200 mg/kg lowered blood glucose, triglycerides, LDL, VLDL and total cholesterol and raised HDL in alloxan-diabetic rats, an effect attributed to steroids, tannins, alkaloids and triterpenoids. The entry grades this as traditionally grounded with single-study animal support and no human data. Cautions cover Vata and constipation, combination with antidiabetic drugs, and pregnancy.
+
 ### Contraindications
 
 - **Vāta-predominant / dry / depleted states:** cooling astringent dryness can aggravate Vāta and constipation.

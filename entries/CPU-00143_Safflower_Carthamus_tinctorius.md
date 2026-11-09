@@ -105,6 +105,10 @@ Cold-pressed safflower seed oil used in cooking; significant linoleic acid conte
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, safflower acts mainly on the blood, the circulation and the female reproductive cycle. In TCM the flower (Hónghuā) enters the Heart and Liver channels, where it invigorates Blood, disperses Blood stasis (xuè yū) and relieves stasis pain. Its flavonoid hydroxysafflor yellow A is described as inhibiting platelet aggregation, relaxing vessels and supporting myocardial blood flow, which the entry links to hematoma clearance and microcirculation in injured tissue. Ayurveda gives kusuma katu-tikta taste and ushna potency, with raktavardhana (blood-building through circulation) and artavajanana (menstrual promotion) actions. Unani sources call it hot and dry, with an emmenagogue action, a purgative seed and an emollient oil for skin. The menstrual claim is framed against cold or stasis blocking menses, relevant to exercise-related amenorrhoea. The entry names pregnancy, anticoagulant therapy and active bleeding as contraindications.
+
 ### Contraindications
 
 - **Pregnancy** — the Blood-moving emmenagogue action risks miscarriage; absolutely contraindicated during pregnancy

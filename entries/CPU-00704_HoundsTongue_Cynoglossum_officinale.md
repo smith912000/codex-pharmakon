@@ -69,6 +69,10 @@ According to PubMed, direct clinical pharmacology of *Cynoglossum officinale* it
 
 ---
 
+### Functional–Anatomical Correlate
+
+This entry maps hound's tongue onto the skin, the mucous surfaces and the liver. Dioscorides and Avicenna place the bruised leaf and root on burns, ulcers, inflammations and hot swellings as an emollient, mucilaginous dressing that soothes surface tissue. Internally the historical tradition used it as an astringent for fluxes and as a cough-soothing herb, and Avicenna noted a mild sedative or narcotic action. In Galenic terms it is cold and dry in the second degree, binding and quieting; TCM assimilates it as cool and astringent for binding fluxes and settling hot sores, and Ayurveda treats it only peripherally. The entry's decisive body target is the liver: its 1,2-unsaturated pyrrolizidine alkaloids, heliosupine and echinatine among them, are bioactivated in the liver to reactive pyrroles that cause sinusoidal obstruction (veno-occlusive) injury and are genotoxic. The entry adds that fetal and neonatal liver injury can follow placental and milk transfer, and that topical use is not endorsed because the alkaloids may penetrate broken skin.
+
 ### Contraindications
 
 **ABSOLUTE CONTRAINDICATION — DO NOT INGEST.**

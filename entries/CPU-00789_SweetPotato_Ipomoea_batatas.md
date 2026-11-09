@@ -68,6 +68,10 @@ Sweet in flavour; neutral tending warm in thermal nature; acts on the spleen/sto
 
 **Practitioner's note.** Nothing beyond growing and eating it: it is a staple for calories and, in orange-fleshed cultivars, provitamin A. No tradition cited here gives it a cultivation role.
 
+### Functional–Anatomical Correlate
+
+The entry maps sweet potato onto the spleen, stomach and intestines, as Chinese folk dietetics describes it: strengthening the spleen, boosting qi and moistening the intestines. The Mesoamerican use is a warming, strength-restoring staple for depletion and convalescence, acting on general nutritional reserve. Modern terms place its fibre and resistant starch in the gastrointestinal tract. The white-skinned Caiapo extract is the entry's only glucose-handling claim: a human trial graded moderate found it lowered HbA1c and improved insulin sensitivity without changing insulin secretion or body weight. Orange-fleshed provitamin A is tied to systemic vitamin-A status in children and women, measured as serum retinol, and is graded strongest. Purple-flesh anthocyanins are graded preliminary, with no sweet-potato outcome data. Oxalates bear on kidney stone risk. The entry gives no organ-level mechanism for the spleen or qi claims.
+
 ### Contraindications
 
 - **Oxalates:** sweet potato contains oxalates; relevant caution for individuals with a history of calcium-oxalate kidney stones — moderate intake.

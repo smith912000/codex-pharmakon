@@ -38,6 +38,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** The record is short and offers a cultivator no practice. If anything, it records a drug that the Unani trade valued for the heart and for generative strength, and says nothing of how it was taken. The honest course is to leave it as a name and four lines of Arabic until more of the tradition's sources are read.
 
+### Functional–Anatomical Correlate
+
+The entry maps the drug onto three areas of the body in Avicenna's terms. For the cosmetic heading it says the root fattens (musammin), which concerns the flesh and the body's bulk. For the chest, it says the drug strengthens the heart greatly and benefits palpitation, so the heart and its rhythm are the organ named. For the excretory organs, it increases the semen, a clear increase, which places it in the generative organs and their fluids. The text describes the dried roots as wrinkled and in two kinds, white and red. Its temperament is hot and dry in the second degree, and no other tradition is tagged. The entry does not say which organ or faculty the heat acts on, and it does not use the innate heat or radical moisture. The plant itself is not identified, so no part of the body can be tied to a known constituent. No dose or preparation is given.
+
 ### Contraindications
 
 - **Identification.** The drug cannot be fixed from the entry, so no safety statement about a specific plant can be made. Do not take unidentified roots.

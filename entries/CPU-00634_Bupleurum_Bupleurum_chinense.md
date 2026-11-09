@@ -72,6 +72,10 @@ The same molecule, however, is dose-dependently hepatotoxic. Zhang et al. (2015)
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, Chai Hu is assigned chiefly to the Liver and Gallbladder channels in the Chinese reckoning, where it courses the Liver, relieves constraint, harmonises the Shaoyang and raises sunken yang qi. Its clinical picture is pressure gathered under the ribs in the hypochondrium and flanks, alternating agitation and dullness, and fever that neither breaks nor releases. The Galenic and Unani reading treats it as a cool, dry resolvent and deobstruent for hot obstructions of the liver and hypochondrium, and the rGyud-bzhi reading vents lodged heat, aligned with the Chinese account. The entry cites modern work in which saikosaponin-d reduced serum ALT, AST and ALP and lowered IL-1 beta and TNF-alpha in injured mouse liver, and raised hepatic antioxidant enzymes. The same molecule is hepatotoxic at higher exposure through Fas and Bid mediated hepatocyte apoptosis, so the liver is both the target of benefit and of harm. Human clinical data are limited, and the entry names no effect on the heart, lungs or other organs.
+
 ### Contraindications
 
 **Hepatotoxicity is the central hazard.** Saikosaponin-d is directly hepatotoxic at high doses in animal models, acting through Fas/Bid-mediated hepatocyte apoptosis (Zhang et al. 2015, [DOI](https://doi.org/10.1016/j.etap.2015.11.005)). Prolonged or high-dose Bupleurum use — and Bupleurum-containing formulas such as sho-saiko-to — has been associated with reports of drug-induced liver injury and, rarely, interstitial pneumonitis. Avoid in pre-existing liver disease, active hepatitis, or where liver enzymes are unmonitored. Do not combine with other hepatotoxic agents. The genuine antipyretic-hepatoprotective effect at ordinary decoction doses does not license continuous or escalating use — the toxic and protective effects trace to the *same* molecule at different exposures. Use in pregnancy only under qualified supervision. [USER: verify local regulatory status and practitioner scope]

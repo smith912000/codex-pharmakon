@@ -87,6 +87,10 @@ Unusually among major Chinese herbs, *Rehmannia glutinosa* presents two pharmaco
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, Dì Huáng has two forms with separate targets. Shēng Dì Huáng (raw, cool, bitter-sweet) enters the Blood, clears heat from the nutritive level, cools haemorrhage, nourishes Yin and relieves consumptive thirst. Shú Dì Huáng (prepared, warm, sweet) tonifies Kidney and Liver Yin, fills Essence and Marrow, nourishes the Blood and strengthens bones and sinews, brightening the eyes and darkening the hair. The channels named are Heart, Liver and Kidney. The entry maps the Kidney-Jing reserve to HPA-axis regulation, androgen production, bone marrow and CNS structure. Modern mapping reports catalpol preserving dopaminergic neurons in a mouse Parkinson's model, renoprotection in lupus-prone mice, osteoblast support, and GLUT4-mediated glucose handling in diabetic rats. All of these are preclinical. The entry withdraws an earlier Tibetan attribution that it says concerned Inula racemosa, not Rehmannia.
+
 ### Contraindications
 
 - **Spleen deficiency with dampness and loose stools:** Rehmannia's heavy, greasy (*nì*) quality is noted in all classical texts as potentially impairing digestion in patients with weak Spleen-Qi or dampness patterns. Characteristic presenting symptoms: bloating after taking Rehmannia, loose stools, reduced appetite. Mitigate by adding Fú Líng, Bái Zhú, or Shā Rén to the formula; reduce dose if these symptoms occur

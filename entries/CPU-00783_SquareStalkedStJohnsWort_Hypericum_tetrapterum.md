@@ -76,6 +76,10 @@ Attribution: the following is based on articles retrieved from PubMed.
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, square-stalked St John's wort acts on the skin, the mind and the liver, with its mechanism claims largely borrowed from the genus. Topically, the sun-macerated red oil (oleum hyperici) is a vulnerary for cuts, burns and wounds; the hypericin pigment is described as chemically real, but the entry says there are no species-specific wound trials. The European folk nervine line concerns melancholy and the mind, which the entry grades as null for this species, the mood evidence belonging to H. perforatum. In TCM terms the genus acts as a cool, bitter, blood-cooling, damp-draining herb for sores, bleeding and low mood. The entry states that hyperforin, with content uncharacterised in this species, induces intestinal MDR1/P-glycoprotein and hepatic-gut CYP3A4, a genus-level effect on drug clearance. Phototoxic skin reactions and serotonergic interactions are noted as genus cautions. No Unani or Assyrian organ action is attested.
+
 ### Contraindications
 
 - **Photosensitisation (hypericin).** The naphthodianthrones are phototoxic; internal use with UV/strong-sun exposure risks phototoxic skin reactions, especially in fair-skinned users. Counsel sun-avoidance during internal use.

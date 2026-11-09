@@ -42,6 +42,10 @@ General, well-established facts only. Copper carbonate minerals, such as azurite
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The Armenian stone is a copper mineral that Dioscorides treats as a weaker chrysocolla, with no dose and a poisonous relative. What the chapter teaches is how to inspect a mineral before using it, and what the neighbouring chapter teaches is that a mineral that looks like a medicine may be a poison. The Codex does not recommend taking or applying it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Greek (DMM): the text states one site outright, the eyelids, since the stone is said to increase the hairs on the eyelids, which maps to the lid margin and its hair follicles. For the rest it defers to chrysocolla, so the stone is said to act as chrysocolla does in lesser degree: cleansing and scar-wearing action on the skin and scar tissue, repression of fleshy growths, and an emetic action on the stomach and the vomiting reflex. Unani (CM, Avicenna): the stone is bad for the stomach, the digestive organs, and it purges black bile strongly, an action the entry places among the excretory organs. Neither tradition names a constituent or a humour beyond black bile. Modern anatomy therefore maps it to the eyelid margin, skin and scar tissue, the stomach and the gut's emptying.
+
 ### Contraindications
 
 - **Toxicity:** copper compounds are poisonous when swallowed and corrosive to skin, wounds and eyes; do not swallow, burn, inhale the dust of, or apply it, and do not put it near the eyes, including the lids.

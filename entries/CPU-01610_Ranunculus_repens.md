@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The one well-e
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant beyond the gathering rule and amulet it records, which the Codex neither recommends nor treats as a cultivation practice. It offers a description, a poultice, a drink and a charm, so it is history and not a practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The chapter maps its remedies to the skin, the tissue beneath it and the complexion. Flowers pounded into wax ointment are said to dissolve steatomata, which the translators gloss as encysted fatty tumours, so the claimed field is the tissue under the skin. The plant given to drink is said to give the jaundiced "a good colour in good time" after long baths, which places the claimed effect on skin colour, though the chapter names no organ for jaundice. Stalks are eaten as vegetables, which points to digestion. The parenthesis calls the plant "astringent to the body". The amulet hung round the neck is recorded as a practice, with no bodily action. No humoral, doshic or qi term is given beyond astringency. The identity is the translators' suggestion, and the entry notes that fresh buttercups are acrid, so these describe claims only.
+
 ### Contraindications
 
 The chapter prints no warning. It is a general, well-established fact that fresh buttercup plants are acrid and can irritate or blister skin and mouth and cause poisoning when eaten, so none of the uses above should be tried on a plant identified from this entry. Jaundice and any lump under the skin need medical assessment. An amulet is not protection against anything. The identification rests on a translators' suggestion, so no wild plant should be gathered or used on the strength of this entry. [USER: verify]

@@ -48,6 +48,10 @@ General facts only. Cat faeces can carry *Toxoplasma gondii* oocysts, *Salmonell
 
 **Practitioner's note.** Nothing to do. For a cultivator the cat entry records what the Egyptian scribe did for burns, scurf and baldness, and what the Tibetan texts say about the cat's place in the animal groups and dream signs; neither tradition ties it to vitality. The cat is a companion animal, and the fats and faeces of the sources are hazards, not remedies.
 
+### Functional–Anatomical Correlate
+
+The Ebers material places cat parts on the abdomen, the skin, burns and hair. Cat's dung, made into a plaster with bread, watermelon and sweet beer, is used to drive out a hardening in the abdomen; a poultice of cat's dung with dog's dung and berries treats common scurf complicated by hardenings in all the limbs; and cat's dung is part of a first-day burn dressing. Cat's oil is one ingredient of a salve to make the hardenings supple, and of a salve to strengthen the met, which the translator takes to mean the nerves or blood-vessels. Cat's fat appears in a baldness compound with other animals' fats, and alone as a mouse-repellent for clothes. The Tibetan texts name the cat in the domestic-animal group and in a dream omen, but give it no medicinal line. The sources assign no quality or cultivation role to the cat.
+
 ### Contraindications
 
 - **Infection.** Cat faeces and bites carry *Toxoplasma*, *Salmonella*, *Campylobacter*, *Toxocara* and *Bartonella*; never apply faeces to burns, wounds or skin disease. Pregnant people should avoid contact with cat faeces.

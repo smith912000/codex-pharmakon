@@ -38,6 +38,10 @@ General facts only. Wild birds can carry enteric bacteria such as *Salmonella* a
 
 **Practitioner's note.** Nothing here is a practice. Sparrow flesh is one line in a list of meats and animal medicines; a cultivator has no regimen to take from it, and the tradition's own comment that few animal products are used today argues for leaving it as history.
 
+### Functional–Anatomical Correlate
+
+Little to map: the sparrow is named in the meat classification as a beak-digging bird, and its flesh is said to increase semen and to be beneficial for wounds (Clark line 678; Men-Tsee-Khang line 2931). Those are the only two body-level statements about the sparrow as meat. The materia medica line gives the flesh of the sparrow, the nas.zan bird and a gecko the translator calls a lizard, as increasing semen, and the commentary's aphrodisiac, tonic, anodyne and pus-draining additions are not counted. Clark identifies the sparrow as Passer montanus, the tree sparrow. The entry's own Passer domesticus identification comes from the Men-Tsee-Khang glossary and is not tied to a text line. No humour, taste, quality or organ is given for the sparrow itself, and the text does not say which species is meant.
+
 ### Contraindications
 
 - **Hygiene and infection:** wild birds can carry bacteria and avian pathogens; cook any flesh through.

@@ -154,6 +154,10 @@ Vagedes et al. (2026) report a retrospective cohort of subcutaneous *Helleborus 
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, the classical doctrine is extrusion. Greek and Arabic texts direct a violent purge at the bowel for melancholy, mania, dropsy and worms, and vernacular practice drew a root strip as a seton through the dewlap or ear of animals to keep a wound discharging. The entry maps the purge onto the gut through protoanemonin, a vesicant lactone that blisters mucosa. It maps the lethal action onto the heart, where bufadienolide cardiac glycosides inhibit Na+/K+-ATPase in the myocardium and produce bradyarrhythmia, conduction block and hyperkalaemia. The entry states that this cardiac effect is inferred from compound class for this species and not demonstrated directly. Skin is a vesicant target on handling. The entry names the fetid odour as a volatile signal that does not track the toxic molecules. It gives no therapeutic use and no dose.
+
 ### Contraindications
 
 ☠️ **ABSOLUTE — INTERNAL USE IS PROHIBITED IN ALL PERSONS, AT ALL DOSES, IN ALL PREPARATIONS. THERE ARE NO EXCEPTIONS AND NO QUALIFYING CONDITIONS.**

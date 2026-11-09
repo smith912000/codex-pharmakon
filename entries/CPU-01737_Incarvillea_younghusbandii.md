@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is an ear and swelling drug in the Tibetan texts, with no preparation and no dose, and the plant behind the Tibetan name is uncertain. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The entry maps two body sites, both named in the Tibetan texts: the ears and the abdomen. Clark's root-text sentence says the drug 'cures ear diseases, purges swellings', and Clark's commentary adds that it has bitter and sweet tastes and is carminative. Men-Tsee-Khang's running text says it 'cures problems of the ears and eliminates distention of the abdomen'. The two texts agree on the ears. For the second action they use different words, swellings in Clark and distention of the abdomen in Men-Tsee-Khang, and the entry does not treat them as one term. Carminative appears only in the commentary, and the entry does not tie it to any organ. In modern anatomy terms the entry names the ear and the abdominal cavity, and no other organ or tissue. It gives no plant part acting on them, and the botanical identity among four candidates is uncertain.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Ear disease needs medical assessment, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Because the identity is uncertain, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

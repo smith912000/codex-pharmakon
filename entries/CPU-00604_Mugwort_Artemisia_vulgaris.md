@@ -81,6 +81,10 @@ For *A. vulgaris* specifically, the best-characterised modern finding is its **a
 
 **Practitioner's note.** What a cultivator actually *does* with mugwort is **burn it or sleep on it** — moxa for penetrating warmth against cold patterns (professionally, and with the *argyi*/*vulgaris* species distinction kept honest), or a dream-pillow / light short-course evening infusion in the folk *oneirogen* tradition for dream recall. Both are bounded by its thujone content and emmenagogue power, and neither is a "nourishing-life" cultivation grade — mugwort is a threshold-and-warming working herb, not a tonic taken to build the person. Its most spiritually loaded uses (St John's Eve protection, the dream-pillow) are folk-apotropaic practice, not a subtle-body cultivation status attested by any of the tagged traditions.
 
+### Functional–Anatomical Correlate
+
+Mugwort's principal entry-level claims are gynaecological and nervous. Its warming, moving action is directed at the uterus and pelvis: it is described as an emmenagogue that moves stagnant menstruation, stops uterine bleeding in the TCM frame, and warms a cold womb. Dioscorides and Avicenna place it against worms and cold, obstructed stomach. On the nervous system the entry names its thujone-bearing oil as neuroactive, linked in folk practice to dream recall through the pillow, a threshold action the entry marks as folk rather than proven. Its bitter sesquiterpene lactones are said to aid digestion. Tibetan moxa is applied for cold disorders and channel-cold. The respiratory tract is involved through moxa smoke, and the skin through contact allergy to Art v 1 and sesquiterpene lactones. Thujone is a convulsant, so the entry cautions the nervous system in seizure disorders.
+
 ### Contraindications
 - **Pregnancy — avoid:** emmenagogue and uterine stimulant (classical "moves the menses / eases birth" herb); internal use contraindicated in pregnancy.
 - **Compositae/ragweed/mugwort-pollen allergy:** significant contact-dermatitis and food-cross-reactivity risk (Art v 1, LTP); a major and well-documented caution.

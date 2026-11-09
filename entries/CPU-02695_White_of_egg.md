@@ -44,6 +44,10 @@ General, well-established facts only. Egg white is a protein food. Raw egg can c
 
 **Practitioner's note.** Nothing to practise beyond ordinary kitchen caution. The chapter is a record of what a Greek physician said of egg white, with no bearing on the vital constitution in the sources read. The sensible reading is historical, and the only cultivation use is to learn how the source separates yolk from white and cooked from raw.
 
+### Functional–Anatomical Correlate
+
+The chapter maps raw white of egg onto the skin, the eyes, the face, the bowels, the bladder and kidneys, the arteries and the chest. Used raw, it cools and closes the pores of the skin, and dropped on inflamed eyes it soothes them. Rubbed on afterwards it prevents burns from breaking out into pustules, and it protects the face from sunburn. It constipates those troubled with discharges, and represses them when laid on the forehead with frankincense. Applied with wool and rose oil, wine and honey, it lessens inflammation of the eyes. Sipped raw, it is said to help a snake bite, a claim the translator marks as a fable. Warmed a little, it is good for bladder distress, ulcerated kidneys, rough arteries, and the throwing up of blood, mucus and fluids from the chest. The text assigns the white no temperament beyond cooling and constipating, and the Codex adds no humoral or subtle-body status to it.
+
 ### Contraindications
 
 - **Egg allergy.** Egg white is a leading food allergen, and the text says nothing on this. Avoid with a known allergy. [USER: verify]

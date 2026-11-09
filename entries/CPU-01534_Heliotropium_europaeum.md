@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable points are the habit of naming a plant by what it does, of saying which part is useless, and of keeping a reported cure ("they say") apart from a stated one. The text offers nothing more, and the abstentive answer is the right one.
 
+### Functional–Anatomical Correlate
+
+For the bowels, the boiled herb taken as a drink is said to expel phlegm and bile through the bowels. For scorpion stings, a decoction drunk with wine and smeared on is said to help the bitten skin. For fevers, a seed decoction in wine, timed to the fit, is said to cure quartan and tertian fevers, which the chapter calls recurring paroxysmal fevers, a claim the text itself marks as reported. For the skin, seed smeared on is said to dry up warts and night-appearing pustules. For joints and muscles, leaves smeared on are said to help gout, dislocations and children with sunstroke. For reproduction, pounded leaves applied are said to induce the menstrual flow and to be abortifacient, and the plant hung about a person is recorded as causing barrenness. No hot, cold, moist or dry quality and no taste is printed; the only humoral terms are phlegm and bile. The identity is only the translators' suggestion, so these are reported claims about a plant not secured.
+
 ### Contraindications
 
 Chapter 4-193 prints no general warning, but it records that the leaves "induce the movement of the menstrual flow, and are abortifacient", and that a handful boiled and drunk "expels phlegm and bile through the bowels". The plant must not be used in pregnancy. Plants of the genus *Heliotropium* are generally known to contain liver-toxic alkaloids. The identification is only the translators' suggestion, so no plant should be gathered or used on the strength of this entry. Scorpion stings, fevers and sunstroke in children need medical care. None of the traditional uses above is advice. [USER: verify]

@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is an emetic in the Tibetan texts, with no preparation and no dose, and its Latin name is one of four that Clark offers, with a different species in the glossary. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The root-text sentence in Clark's entry for hbri.ta.sa.hdzin says that the plant is an emetic in pus, blood and lymph disorders. The commentary adds that it also treats diseases in the upper body (line 1058). The Men-Tsee-Khang text, for the drug it names Drita sazin, says it drains pus, blood and chhuser, and its chapter 21 list places the name among emetics (lines 3446 and 3659). The tissues the texts name are pus, blood and lymph, and the region named is the upper body. The emetic action is the vomiting it produces. The only taste printed, slightly sweet, belongs to Clark's commentary for the fruit of this species and is not a humoral classification. No clinical study was retrieved, and the Tibetan terms are not modern diagnoses. The Latin species is one of four that Clark offers and differs from the glossary's Fragaria nubicola, so the mapping is the texts' claim. Inducing vomiting is a hazard, and no practice is recommended here.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Emesis can cause dehydration and, in some conditions, harm, the identity is open between plants of different families, and no preparation or dose is given, so no plant should be gathered or used on the strength of this entry. Pus, blood and upper-body disorders need medical care. No safety information for pregnancy was read. [USER: verify]

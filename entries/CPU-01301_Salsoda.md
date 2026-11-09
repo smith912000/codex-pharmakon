@@ -42,6 +42,10 @@ General, well-established facts only. Sodium bicarbonate is an antacid and a sod
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The record is that a salt used in Tibetan tea is also listed in the materia medica for gangrene and for digesting flour, and that the text and its translators disagree about whether its taste is salty or bitter and whether it is a mineral or a plant. Any cultivator's use is ordinary seasoning at ordinary quantities, with the general restraint on salt that the same text states for the salty taste. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Clark's chapter-20 entry for bul.tog says it halts necrosis and digests roasted-grain flour, so the claimed sites are dead tissue (gangrene, in the Men-Tsee-Khang rendering, which says it heals gangrene) and the digestive process for flour. A bracketed clause adds that it cures poisoning, and the entry records that bracket as commentary. The taste is given as bitter in chapter 20 and as salty in chapter 19's salty group, and the entry notes that the two do not agree; no potency and no post-digestive taste is printed. It is used in tea, which the entry notes as a household custom. No channel, humour, wind or subtle-body site is named in the lines read, and the Men-Tsee-Khang text agrees on salty taste and on flour. No other tradition is tagged. The mapped body is the necrotic tissue of a wound or limb and the digestive process for flour.
+
 ### Contraindications
 
 - **Hypertension, heart, kidney and liver disease, oedema:** sodium salts, including bicarbonate, add to the sodium load and can worsen these conditions.

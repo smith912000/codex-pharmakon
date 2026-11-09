@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this tree. The abstentive answer is the honest one: a tree known by its comparisons, and an astringent leaf for the mouth.
 
+### Functional–Anatomical Correlate
+
+The chapter maps onto the mouth and onto two excretory and reproductive functions. The leaves are astringent, a quality given by comparison with the wild olive, and they are chewed, or the sores washed with a decoction, for ulcers in the mouth. Taken as a drink, the plant is said to draw out urine and the menstrual flow, so the urinary tract and the menstrual function are the claimed targets. The fruit is printed as black and somewhat sweet, but the chapter gives it no action on the body. No humour, temperament or energetic quality is given, and no degree of astringency is printed. The text does not say which part is drunk, so the drink is mapped to the plant as a whole. The chapter names no organ beyond the mouth, the urinary passage and the menstrual flow, and no channel or tissue.
+
 ### Contraindications
 
 A drink that "draws out the menstrual flow" is not to be taken in pregnancy. Persistent mouth ulcers need medical assessment. The identification rests on a translators' suggestion, and the chapter's number is itself uncertain, so no plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

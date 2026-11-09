@@ -34,6 +34,10 @@ Mussels are a food. The shell is mostly calcium carbonate. Bivalve shellfish can
 
 **Practitioner's note.** Nothing here for a cultivator. The row names a bivalve; the texts on disk do not. Read the pearl entry (III_286) for what the Tibetan text does say about pearl and shell. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: no text read names what a mussel does. The only attestation is a project list row, Hyriopsis cumingii, flagged uncertain, and no Tibetan passage on disk mentions a mussel. The nearby Tibetan lines concern other shell-bearing animals and are not mussel claims: mother of pearl is not unlike pearl in power, conch shell is listed, and cowrie shell is said to be hemostatic, to dry pus, to disperse oedema fluid and tumours, and to benefit the eyes. A slug is said to stop discharge of sinus fluid. None of these is called a mussel. The entry therefore names no organ, channel, humour, taste or potency for the mussel itself, and it says nothing of longevity or of any subtle-body practice. The entry itself notes only that a mussel is a bivalve with soft tissue and a calcium carbonate shell, which is a biological description and not a claim about its effect.
+
 ### Contraindications
 
 Raw or undercooked mussels can carry dangerous bacteria, viruses and algal toxins (paralytic and diarrhetic shellfish poisoning), and shellfish allergy can be severe. Wild-harvested freshwater mussels are threatened in many places and may be protected; the status of *Hyriopsis cumingii* has not been checked here. [USER: verify] The identification is uncertain, so a mussel cannot be assumed to be the substance that the Tibetan text meant.

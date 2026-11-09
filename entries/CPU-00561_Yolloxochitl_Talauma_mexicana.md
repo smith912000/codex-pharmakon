@@ -85,6 +85,10 @@ Pre-contact Nahua medicine organised remedies around *tonalli* / heat-and-vitali
 
 **Practitioner's note.** Nothing. The tradition offers a signature-based therapeutic claim, not a practice for long-term cultivation, and no dose or regimen is supported.
 
+### Functional–Anatomical Correlate
+
+The entry places Talauma mexicana in the Aztec-Nahua tradition as a signature study: the flower resembles a heart, and the name yolloxochitl, heart flower, carries the cardiac indication. Traditional sites are the heart and chest, with palpitation, chest pain and weak heart named. The entry grades the cardiotonic and digitalis-like claim as historical assertion only, not primary evidence. The one measured effect is preclinical and in the airway: a crude dichloromethane extract relaxed isolated rat tracheal rings, a bronchial smooth-muscle action, not a cardiac one. Hypotensive and vasorelaxant activity is recorded as null, and no human study was found. The energetic framing is humorally NA; the entry says tonalli and heat-and-vitality concepts with form-to-body correspondence organised pre-contact medicine, while hot and cold assignments are a post-conquest overlay. Its own verdict is that the signature was for the heart and the measured activity is in the trachea.
+
 ### Contraindications
 
 - **Do not use for cardiac disease.** Heart failure, arrhythmia, angina, hypertension and palpitation are conditions with effective, monitored pharmacotherapy. Substituting or delaying that treatment in favour of a plant with no clinical evidence and no established dose is dangerous. This is the single most important line in the entry.

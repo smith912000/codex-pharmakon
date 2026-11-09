@@ -38,6 +38,10 @@ General, well-established facts only. Bone has no known effect on the lymphatic 
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The mule's bone is one short line in a list of bones, with a single stated action, and the Codex records it and does not recommend it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: Clark's line states one action for the mule (packhorse) bone, that it 'cures lymph disorders'. The entry names no other organ. 'Lymph' is Clark's English for a Tibetan pathological category, and the entry does not equate it with the lymphatic system of modern anatomy. The Men-Tsee-Khang text does not name the mule. Its last bone entry says that 'the bone of animals with rounded hooves cures disorders of chhuser', and the entry treats this as a probable but unconfirmed match. The bone is the tissue of origin. No humour, taste, potency or post-digestive taste is printed in the lines read, and no preparation or dose is stated. The entry does not extend the claim to any other system.
+
 ### Contraindications
 
 - **Not a tested remedy:** do not substitute bone preparations for diagnosis of swollen glands, lumps or fluid collections.

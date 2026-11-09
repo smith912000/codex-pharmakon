@@ -45,6 +45,10 @@ General, well-established facts only. Greying of hair results from loss of pigme
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The tadpole is a small item in an ancient cosmetic list, and the honest reading is historical.
 
+### Functional–Anatomical Correlate
+
+Little to map: Bryan's English gives one application, dried tadpoles from the canal, crushed in oil and applied to the outside of the head for grey hair. The body region is the scalp and hair, which is external. The text names no internal organ, humour, faculty or spoken formula (heka) for it, and no species. Nothing else in the entry maps a system.
+
 ### Contraindications
 
 - **Hygiene.** Wild animal material from a canal can carry infection; do not apply it to the skin.

@@ -63,6 +63,10 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 
 **Practitioner's note.** Nothing beyond the kitchen and the sickroom: the tradition offers the shoot as food and the root as a diuretic, with no regimen of long-term cultivation attached.
 
+### Functional–Anatomical Correlate
+
+The entry places the main action on the urinary system: the shoot and especially the root are said to promote urine flow, open obstructions of the kidneys and bladder, relieve dropsy (fluid retention), flush gravel from the urinary tract and ease painful or scanty urination. In the Galenic and Unani terms the entry uses, the root is a deobstruent opener of the kidney and liver, part of the classical five opening roots, and the Canon is quoted as saying asparagus opens obstructions of the viscera, especially the liver and kidney. The digestive tract is a secondary site: Dioscorides is cited for soothing the intestines, and the inulin-type fructan fibre is credited with gentle laxation and support for gut flora. The entry also lists reputed effects on the reproductive organs (semen, sexual power, conception) and a mild blood-cleansing reputation, which it does not verify. Its Qi classification is cooling-moistening and fluid-moving, with a Galenic degree of temperate-to-warm and moist. The sulphur-derived urine odour is described as harmless.
+
 ### Contraindications
 
 - **Gout / hyperuricaemia.** Asparagus is relatively high in purines; can aggravate gout in susceptible individuals.

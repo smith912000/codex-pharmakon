@@ -45,6 +45,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The seed preparation is described as an abortifacient and should be treated only as history.
 
+### Functional–Anatomical Correlate
+
+The chapter maps its parts onto distinct areas. The dried yellowish flowers, boiled for bathing, address inflammation around the womb, which in modern terms is the uterus and surrounding pelvic tissue, and they are used to expel the menstrual flow. In wax ointment, the flowers are said to cure cracks in the perineum, the skin between the genitals and the anus. With honey they cure aphthas, small ulcers of the mouth. The seed decoction, taken as a drink with wine or applied as a pessary with honey, draws out the menstrual flow and afterbirth, and the chapter calls it an abortifacient, so the uterus is the target. The roots, smeared on with vinegar, are said to repress the spleen and help gout, which places the claim in the spleen and the joints, though the chapter names only the spleen and gout. No humoral, doshic or qi quality is printed, and the flowers are distinguished by colour but not by warming or cooling. The identification is one of several. No dose apart from two teaspoonfuls of seed decoction is given.
+
 ### Contraindications
 
 Dioscorides calls the seed decoction an abortifacient, so no part of the plant should be taken or used as a pessary in pregnancy. Seeds and other parts of some wallflower relatives may affect the heart, which was not checked. Do not self-treat gout, spleen complaints or gynaecological inflammation from this entry. None of the traditional uses above is advice. [USER: verify]

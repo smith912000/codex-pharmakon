@@ -99,6 +99,10 @@ Small piece of fresh willow bark chewed slowly — the traditional headache/feve
 
 ---
 
+### Functional–Anatomical Correlate
+
+White willow's entry maps its action to inflammatory and febrile pathways rather than to a single organ. Salicin, converted to salicylic acid, reversibly inhibits COX enzymes, and the bark's polyphenols add COX-independent NF-κB inhibition. TCM describes the bark as bitter and cold, entering the Liver channel to clear heat and reduce inflammation, and the Lung channel for exterior-heat fever, dispersing Wind-Heat and relieving Bi-syndrome joint pain. Unani classes willow as cold and dry, a cooling antipyretic that the entry says thins the blood. Ayurveda classes Himalayan species as tikta, sheeta, pitta-shamaka and jvara-hara, with pain relief. The Ebers, Assyrian and Dioscoridean records tie it to fever, headache, gout and ear pain. The clinical trials cited concern low back pain and knee osteoarthritis. The entry lists antiplatelet overlap with anticoagulants, salicylate allergy, peptic ulcer, Reye's risk in children and pregnancy as contraindications.
+
 ### Contraindications
 
 - **Aspirin allergy / salicylate sensitivity** — cross-reactivity with willow bark salicylates; absolute contraindication in aspirin-allergic individuals; the mechanism is salicylate-mediated, not acetyl-group-specific, so cross-reactivity exists

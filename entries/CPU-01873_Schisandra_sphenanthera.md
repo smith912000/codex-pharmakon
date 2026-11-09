@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** A cultivator does nothing with this drug on the strength of the texts. It is a sour medicine in a list with bael, pine root and acorn that stops diarrhoea, and the one rule about sour things in the rejuvenation chapter is to avoid them during the course. Nothing here supports treating a Schisandra berry as a rejuvenative on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+The Men-Tsee-Khang text records two things for Dhatig: a sour taste, in the root-layer group beside curd and buttermilk (line 3205), and the power to stop all forms of diarrhoea, hot or cold in nature (lines 3427 and 3644). The bowel is the body part the diarrhoea concerns, and the entry adds no organ, tissue or humour beyond that. Clark's commentary for the same Tibetan name adds sweet and sour tastes and a hot-climate habitat, and his line 996 gives the same antidiarrhoeal verdict for Schizandra. The glossary's English name, Chinese magnolia vine, is the only description of the drug and names no organ. The binomial comes from glossary column order alone, so the species is open and the mapping holds for the Tibetan drug, not for one plant. Nothing in the text reaches the blood, the nerves or the skin, and nothing beyond the bowel and the sour group is drawn here.
+
 ### Contraindications
 
 The sources read print no warning for the drug. The identity is open, so no plant should be gathered or taken on the strength of this entry. A medicine that stops diarrhoea is not a treatment for infection or dehydration, and the texts' own regimen puts it under a physician. No conservation information and no safety information for pregnancy was read. [USER: verify]

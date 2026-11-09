@@ -114,6 +114,10 @@ The cultural resonance of *Trametes versicolor* extends beyond oncological immun
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps Turkey Tail mainly onto the immune system and the Lung, which the TCM account names as the primary channel for Wei Qi defence. Its polysaccharide fractions, PSK and PSP, are said to act on macrophages and dendritic cells through TLR-2, on NK cells and CD8+ cytotoxic T lymphocytes, and on the gut, where PSP is said to raise Bifidobacterium and Lactobacillus and reduce Clostridium. The Spleen is the secondary channel, linked to the origin of Qi and to gut immunity, and the Liver is tertiary, linked to dispersing accumulations. The Tibetan account places it in the bile humour, cooling mkhris pa, with action on the Lung, and the entry's Ayurvedic cross-reading lists Rasa, Rakta and Majja as the tissues it reaches, flagged as an editorial analogy and not an attestation. The immune effects named in the entry are post-exercise suppression of secretory IgA and NK activity, and post-illness recovery of NK and CD8+ counts. Contraindicated where immunosuppressive drugs are in use or in autoimmune disease.
+
 ### Contraindications
 
 - **Immunosuppressant therapy:** The primary absolute contraindication; PSK and PSP are potent immunostimulants that will antagonise therapeutic immunosuppression in organ transplant recipients (tacrolimus, cyclosporin, azathioprine) and in autoimmune diseases managed with immunosuppressants (methotrexate, mycophenolate); strict avoidance without specialist oncology or immunology supervision

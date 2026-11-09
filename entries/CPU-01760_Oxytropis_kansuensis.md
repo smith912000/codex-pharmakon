@@ -53,6 +53,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a diuretic or purgative for oedema in the Tibetan texts, with no preparation and no dose, and the species is the glossary's by a positional reading. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts place this drug's action in fluid and oedema. Men-Tsee-Khang 2011, under the name Saekar read by position, says that it 'is a diuretic which drains generalized edema and ascites'. Clark 1995, for the same Tibetan name under other binomials, says that srad.dkar.wa 'purges first and third stages of oedema', which sits outside his brackets and so in the root-text layer as the brackets mark it. Clark's bracketed commentary adds that the white type, with its bright white flower, 'cures phlegm disorders', and that the byehu.srad.ma type 'dries lymph accumulations'. The entry records these in the texts' own words. Oedema and ascites are the fluid-retention signs the texts name, and the entry does not map phlegm or lymph onto any modern organ or diagnosis. No taste, power or post-digestive taste is printed for the drug in the lines read. The species is uncertain between three, so the claims attach to the Tibetan name.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Oedema and ascites need medical assessment. The identity is uncertain, no preparation or dose is given, and because some plants of this genus are generally known as livestock poisons, no plant should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

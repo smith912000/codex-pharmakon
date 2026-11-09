@@ -47,6 +47,10 @@ Astringent plant materials rich in tannins are generally known to tighten tissue
 
 **Practitioner's note.** The practice the chapters teach is gathering and drying at the right season and judging by place of origin. Nothing in them gives a cultivator a practice for the person. Without a settled identification no use is recommended.
 
+### Functional–Anatomical Correlate
+
+Dioscorides (DMM) describes the dried fruit of the wild vine, called oenanthe, as astringent. A decoction taken as a drink is good for the stomach and urine, for stopping the intestines and for spitting of blood. Smeared on, it serves a queasy sour stomach and a burning stomach; inhaled, it serves headaches; applied with honey, it serves bleeding wounds, new eye and mouth ulcers, gangrenous ulceration, eye discharges, pterygium and bleeding gums; in suppositories it represses blood. The wine of its shoots (5-33) is good for weakness of the stomach, lack of appetite, the abdominal cavity and dysentery. The bodily sites are therefore the stomach, urine, intestines, blood, eyes, mouth, gums and the head. The entry gives no humoral or Galenic quality beyond astringent. The identity is doubtful: the translators gloss the plant as Ampelodesma tenax, a grass, while the chapters describe a wild grape vine, so these mappings are of the vine as Dioscorides describes it.
+
 ### Contraindications
 
 The identification is doubtful, so the plant should not be sought out or used on the strength of these chapters. The translators' remark in 5-5 warns that "oenanthe" can also name a poisonous water plant, which is a reason not to treat the name as a guide to the plant. Astringent preparations are not suited to people with constipation. None of the traditional uses above is advice.

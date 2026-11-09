@@ -48,6 +48,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this grain. It is a food and a vehicle in the papyrus, and the honest answer is to do nothing with it on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the Ebers wheat remedies are aimed at the abdomen, including a green undried wheat decoction for a hardening in the abdomen and a wheat-water poultice before an enema for the bexetu-illness. Wheaten flour in a poultice, with clay and fat, is named for scabs in every limb, a skin-surface use. A plaster of clean grain on the abdomen appears in a run of women's-complaint remedies, though its heading was not read. Wheat also serves as a base in a beer drink for the abdomen. The entry gives no quality (hot, cold, sweet or bitter) for wheat in the lines read, and records no constitutional or cultivation action beyond these remedies.
+
 ### Contraindications
 
 No safety data were read. Wheat contains gluten and is a common cause of food allergy and of coeliac disease, and anyone with either condition should avoid it. This is a general fact and is not found in the sources read. The abdominal remedies quoted are historical, and a swollen, painful or blocked abdomen needs ordinary medical care. Do not attempt "green undried wheat" or an enema from this entry.

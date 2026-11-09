@@ -69,6 +69,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 **Practitioner's note.** The pine nut is a nutritive, convalescent food — the honest cultivation use is to eat it, as concentrated nourishment for the worn and recovering, classically with honey. Every tradition that names it grades it as food or humoral aliment, not as a cultivation drug; the Roman sacredness of the tree and the aphrodisiac reputation are culture and therapeutics respectively, and neither should be inflated into a vital-refinement status the sources do not give.
 
+### Functional–Anatomical Correlate
+
+Stone pine divides its action between two parts. The kernel, the pine nut, is described as nourishing and demulcent, soothing the chest and throat for cough and roughness, and as a restorative food for the depleted and convalescent, classically taken with honey. The entry places the kernel as temperate-to-warm and moist, building rather than clearing. The resin and pitch are hot and dry: an expectorant that warms the chest and loosens phlegm, and a drawing, antiseptic plaster for skin conditions, chronic swellings and wounds. The bark and cone decoctions are astringent, acting on the gut and mucous surfaces for fluxes and as a wash or gargle for relaxed tissues. Turpentine is noted as renally taxing and a uterine stimulant at high doses, so internal resin is cautioned in kidney disease and pregnancy. TCM places the kernel as Qi on the moistening side and the resin on the warming, dispersing side.
+
 ### Contraindications
 
 - **Nut allergy.** Pine-nut allergy occurs; avoid in known sensitivity.

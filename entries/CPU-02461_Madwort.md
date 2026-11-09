@@ -39,6 +39,10 @@ There is no established benefit of any herb against rabies; prevention after a b
 
 **Practitioner's note.** Nothing is asked of a cultivator. A name preserved from Greek, a bite remedy and a freckle wash are the whole record; the entry's lasting interest is that Avicenna explains the name through Galen's use.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names the skin and the site of a dog bite. Its temperament is hot and dry in the first degree, and its action is that it dries moderately and cleanses. For cosmetics it benefits freckles (kalaf) and is said to dissolve them moderately. For poisons, Galen is quoted as saying it is beneficial against the bite of the rabid dog, and the text says it has cured a group of people, which is why it is called alusun in Greek. The entry names no organ beyond the skin, no faculty, no innate heat or radical moisture, and no constituent. No preparation, dose or duration is given. The plant is not identified in the entry beyond its likeness to the lupin (tirmis). A rabid bite needs prompt medical care, and this record is not a substitute for it.
+
 ### Contraindications
 
 - **Rabies.** A bite from a rabid or unknown animal requires immediate medical care. Never rely on a herb.

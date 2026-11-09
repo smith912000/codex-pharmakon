@@ -60,6 +60,10 @@ Attribution: findings from PubMed.
 
 **Practitioner's note.** Nothing to cultivate on the Tibetan evidence read; the altitude-stamina claim in this entry is not in these texts.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Hóng Jǐng Tiān (Rhodiola crenulata) is a sweet, bitter, cool-to-neutral tonic that enters the Lung and Heart channels. It tonifies Qi, invigorates the blood, moistens and opens the Lung, and is classically used to support breath and stamina at altitude. The entry places its action in the Middle to Upper Dantian, covering breath and cardiac energy. The Tibetan material it read ties the glossed species to lung disorders, lung fevers and dysentery, and does not attest the altitude-stamina claim. Its modern mapping is to the brain and energy metabolism: in a mouse hypobaric-hypoxia model, extract and salidroside reduced neuronal apoptosis, preserved blood-brain-barrier tight junctions (Claudin-1, ZO-1, occludin), and improved mitochondrial morphology and energy metabolism. The entry grades this as preclinical and warns that human Rhodiola trials mostly concern R. rosea.
+
 ### Contraindications
 
 - **Over-stimulation:** as an activating tonic, may cause restlessness or disturbed sleep in sensitive individuals if taken late in the day.

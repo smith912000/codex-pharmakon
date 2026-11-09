@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a toxin and lymph drug in a shared clause, with a note about spirit-caused disorders in the commentary, no preparation and no dose. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Clark's line for se.rgod says that wild rose and Indian barberry together collect toxins and cure lymph disorders. That shared clause is the root-text layer, so the lymphatic system is the body system the root text names for this drug. The bracketed commentary adds that wild rose is also recommended for disorders caused by spirits, a category of disease rather than an organ. The Men-Tsee-Khang text, tied to this name only by position, places the drug in poisoning and the liver: the fruit cures hot disorder associated with poisoning and the liver, and the plant neutralizes poison and cures chhuser disorders, a term the editors keep in Tibetan. Poison is a state of the whole body, and the liver is the only organ the lines name. Neither text says which part is taken. The Latin name is the first of three that Clark gives for this Tibetan name, so the organ claims attach to an uncertain binomial. Historical record only; no protocol or dose is given.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Poisoning needs emergency medical care and the Codex gives no advice for it. Wild roses have thorns, and the identity is open among several *Rosa* species; no plant should be gathered or used on the strength of this entry. No conservation information and no safety information for pregnancy were read. [USER: verify]

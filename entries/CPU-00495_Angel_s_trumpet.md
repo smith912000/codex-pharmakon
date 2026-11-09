@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The PMC 2020 p
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. The honest answer is to do nothing with it on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the row names Angel's trumpet (toe), Brugmansia suaveolens, from South America with the phrase 'Amazonian shamanism', citing a PMC 2020 paper and Schultes and Hofmann 1992, neither on disk nor opened. The row names no people, plant part, preparation, constituent or dose, and the entry maps no organ, tissue or body system. Its Active Components note that the genus has tropane alkaloids only as a general statement not traced to a source. No clinical studies were retrieved. No quality is printed, so no humoral, doshic or qi correlate is given. The cultivation register is absent. The safety section calls plants of this genus generally dangerous, with severe poisoning possible and the margin to harm unknown, and advises no use in pregnancy or by children. The entry says this caution is not found in the row, and that legal status is unchecked.
+
 ### Contraindications
 
 No safety data were read for this row. Plants of this genus are generally regarded as dangerous: poisoning can be severe, and the margin between an effect and a harmful dose is not known here. Do not use in pregnancy or in children, and do not give it to others. Take urgent medical advice after any ingestion. This is general caution and is not found in the row. Legal status varies and is unchecked. [USER: verify]

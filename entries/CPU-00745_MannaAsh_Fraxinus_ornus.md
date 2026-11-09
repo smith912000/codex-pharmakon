@@ -122,6 +122,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places manna ash in the lower bowel as a force-free osmotic evacuant. Its manna is mostly mannitol, which the entry says is poorly absorbed from the small intestine and holds water in the gut lumen, softening stool and adding bulk so that peristalsis moves it without straining. The classical indication is constipation where straining is itself the harm: the child, the frail elder, the postpartum patient, and those with haemorrhoids or fissures. In its own energetic terms the drug is cool, sweet, moistening and gently descending. The entry contrasts Chinese ash bark, a different drug, which is bitter, cold and astringent and binds the bowel. Phenolic constituents show anti-proliferative and antioxidant effects on colon cells and in assays, but the entry records these as in-vitro only. Mannitol's clinical use to draw water out of the brain or to act on the kidney is noted as the same physical principle, not as a manna claim. No cultivation status is recorded.
+
 ### Contraindications
 
 Manna is among the safest agents in this codex. That is not a licence to skip this section.

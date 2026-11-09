@@ -40,6 +40,10 @@ No clinical studies were retrieved for this entry. [USER: verify] Because the pl
 
 **Practitioner's note.** Nothing to do. An unidentified herb with a damaged passage; no use is supported and nothing can be sourced.
 
+### Functional–Anatomical Correlate
+
+The passage is partly corrupt, so the entry maps only what the readable sentences still state. The root is described as white, sweet-smelling and warming, with no temperament line or degree. The stated organ is the womb: drinking the preparation is said to cleanse it. A second sentence says that if the plant is made as a stuffing and drunk, it brings on milk, which the entry maps to the breasts and lactation. The only measure printed is the vehicle, six cotylae of sweet wine for a day and a night. The sentence linking the quantity to these effects is unintelligible in this copy, so no dose and no sequence of organ action is firm. The plant is unidentified, and its leaf is compared to a nightshade-type plant. Historical record only; the womb and milk claims are not endorsed.
+
 ### Contraindications
 
 - **Pregnancy.** The passage's use is for cleansing the womb and it is an emmenagogue-type claim; avoid any such unidentified plant in pregnancy.

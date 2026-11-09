@@ -61,6 +61,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 **Practitioner's note.** Nothing. The Himalayan species has no recorded cultivation role; the Ayurvedic Lodhra astringent use belongs to the better-attested bark of the racemosa group.
 
+### Functional–Anatomical Correlate
+
+The entry's targets are the uterus and female reproductive tract, where Lodhra astringes and cools excessive menstrual bleeding (menorrhagia) and leucorrhoea. Its tannins tighten lax and bleeding tissue in the bowel for diarrhoea, in the gums as a gargle, and in wounds and inflamed skin. Bark powder is also used cosmetically on the skin. The Ayurvedic terms are kashaya (astringent) and shita (cooling), reducing kapha and pitta, with grahi and stambhana (binding and haemostatic) actions. The entry notes that the liver and uterine benefits described in the Acharya review belong to S. racemosa and should not be assumed for S. caudata, the species this profile covers. No cultivation status is attested, and the Sushruta Samhita mentions Lodhra only as a plaster and oil ingredient. Cautions are constipation and dry conditions, pregnancy, and heavy or unexplained uterine bleeding, which needs medical assessment.
+
 ### Contraindications
 
 - **Constipation / very dry conditions.** The astringent action can over-bind.

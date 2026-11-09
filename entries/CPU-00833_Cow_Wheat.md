@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. The honest answer is to do nothing with it on the strength of this entry, and to treat both tags as unsupported until a locus is found.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry records no body-system action for cow wheat. It states that no Dioscorides chapter or Avicenna text for Melampyrum pratense was found, that the name melampyrom appears only as a synonym of myagros (camelina), with its fat used to smooth the body and its stems used in place of a candle, and that a leaf is compared to melampyrum in the hawthorn chapter. It states that no clinical studies, composition data or safety data were retrieved. Melampyrum is described as a semi-parasitic annual of the family Orobanchaceae, and iridoid glycosides such as aucubin are generally reported in that family, though not read for this species. No preparation or dose is given. No energetic grade is printed. The practitioner note says nothing in the sources gives a practice with this plant and that both tags are unsupported until a locus is found.
+
 ### Contraindications
 
 No safety data were read. Do not collect or ingest a wild plant on the strength of this entry. *Melampyrum* species grow among other plants and are hard to tell from related hemiparasites without botanical help.

@@ -60,6 +60,10 @@ General, well-established facts only. *Agaricus campestris* is the field mushroo
 
 **Practitioner's note.** A mushroom in one text's list of suggestions and in another text's glossary. Neither supports any cultivation use. A cultivator should not gather or eat wild fungi on this basis.
 
+### Functional–Anatomical Correlate
+
+Little to map: neither text assigns a use to the field mushroom itself. The Dioscorides chapter describes agaricon, a woody, tree-growing drug, and the Sushruta Appendix gives only a name and an identification. For the agaricon the text lists griping and indigestion, hernias, liver ailments, asthma, jaundice, dysentery, the throwing-up of blood, bites of snakes and other poisons, and a purge of the bowels. Those map to the stomach and bowel, liver, lungs, urinary tract and blood. The text calls the drug astringent and warming, and sweet at first, then bitter. The Sushruta general note on mushrooms gives qualities by habitat and soil and names no species, so it is not carried over. No dose for the field mushroom is stated. Do not gather or eat wild fungi on the strength of this entry.
+
 ### Contraindications
 
 - **Misidentification.** Deadly mushrooms resemble the field mushroom. Do not eat a wild fungus unless an expert has identified it in the hand.

@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with a plant under these names. Nothing should be gathered or taken on the strength of a Latin name that the chapters do not give.
 
+### Functional–Anatomical Correlate
+
+Little to map: the Sushruta chapters retrieved print neither Sanskrit name that the appendix pairs with this Latin, Brahmadandi or Lajjalu, so the entry states no body system, organ, tissue or action. The Latin Mimosa pudica is printed by position against Brahmadandi in one appendix block and against Lajjalu in another, and both pairings rest on counting. No constituent, preparation, dose, rasa, virya or vipaka is given in the sources read. The Dioscorides name list gives only other Mimosa species under the acacia chapter, which are not this plant. No vajikarana or rasayana role is recorded, and the chapters say nothing of ojas, tejas or prana for it. No conservation or safety information was read.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for this plant under these names. The identity is open, so no plant should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

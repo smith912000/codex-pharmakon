@@ -144,6 +144,10 @@ Two corrections follow from reading the classic rather than the summaries. First
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry gives Da Zao a Spleen primary channel with Stomach and Heart, and frames it as a Middle Jiao tonic that supports Spleen-Stomach digestion and Blood nourishment. Its harmonising role is tied to protecting the Stomach from harsh formula ingredients, which the entry links to a protective coating of the gastric mucosa by jujube polysaccharides. The immune correlates are polysaccharide effects on macrophages, NK cells and B-lymphocytes, on spleen and thymus indices in immunosuppressed animals, and prebiotic fermentation in the gut. For the CNS the entry names cyclopeptide alkaloids acting on the GABA-A complex, jujuboside B reducing hippocampal CA1 firing, and spinosin acting on 5-HT1A receptors, with sedation noted but no marked REM suppression. Ursolic acid is linked to muscle atrophy genes, and oleanolic and betulinic acids to hepatocytes and liver enzymes. The entry itself flags the rasayana, ojas and anshen attributions as later or unverified.
+
 ### Contraindications
 
 - **Dampness and phlegm accumulation (TCM):** Dà Zǎo's sweet, moist, nourishing quality — the same property that makes it a Jing tonic — produces pathological accumulation of Dampness (*shī*, 湿) and Phlegm (*tán*, 痰) in individuals with pre-existing Spleen-Stomach weakness and poor fluid metabolism (manifesting as heavy limbs, chest oppression, abundant mucus, greasy tongue coating, slippery pulse). In these patients, Dà Zǎo's moistening quality aggravates Dampness accumulation. Classical TCM: "Dà Zǎo tonifies where there is deficiency, but obstructs where there is Dampness." Counteract by reducing dose, using with ginger, or switching to Xiǎo Zǎo (small dates) which are less moistening.

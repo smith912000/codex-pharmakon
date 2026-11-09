@@ -66,6 +66,10 @@ According to PubMed, amarogentin — Chirata's marker glycoside — has a genuin
 
 ---
 
+### Functional–Anatomical Correlate
+
+Chirata acts on fever, the liver, digestion, blood and skin, through the cooling, bitter, heat-clearing action the entry assigns it. Its Ayurvedic actions are jvaraghna (the entry's specific febrifuge), dipana-pachana (kindling digestion and digesting ama), yakrit-uttejaka (hepatostimulant), rakta-shodhaka (blood purifying), kushthaghna (dermatoses), krimighna (anthelmintic), pramehaghna (anti-prameha pattern), trsna-hara (relieving thirst) and dahaprasamana (relieving burning heat). It pacifies Pitta and Kapha and may aggravate Vata in excess. Unani sources cast it as a bitter for bilious fevers and hepatic heat. Tibetan medicine uses it as tig-ta against tsha ba heat and mkhris pa bile. In modern preclinical work, its marker amarogentin protected mouse liver against carbon-tetrachloride fibrosis and lowered ALT and AST. The entry grades this LOW-MODERATE and notes poor oral bioavailability. Cold infusion is preferred to keep its cooling potency, and caution applies in Vata states, depleted states and the shivering stage of fever.
+
 ### Contraindications
 
 - Cooling, light, dry qualities: caution in Vāta-predominant constitutions and dryness disorders; may aggravate Vāta if overused.

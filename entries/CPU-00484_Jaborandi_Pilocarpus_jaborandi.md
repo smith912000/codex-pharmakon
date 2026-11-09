@@ -75,6 +75,10 @@ Within northeastern Brazilian folk practice jaborandi is a "drawing/opening" rem
 
 **Practitioner's note.** Nothing cultivation-specific. The crude leaf is not a self-dosing herb; its value to a practitioner is the documented cholinergic action, not a regimen.
 
+### Functional–Anatomical Correlate
+
+Jaborandi acts on the exocrine glands and the parasympathetic (muscarinic) system. Its entry names pilocarpine as a direct muscarinic agonist that drives salivation, sweating, lacrimation, bronchial and gastric secretion, and gut motility, and that constricts the pupil and lowers intraocular pressure. In northeastern Brazilian folk use the leaf was chewed or infused as a sudorific and sialagogue for fevers and dropsical conditions, aiming to draw fluid out through sweat and spit. The entry maps this onto the Codex grid as hot, opening and moistening-by-discharge, marked as inferred by analogy. The clinically established targets it lists are the salivary tissue in Sjögren syndrome and after head-and-neck radiotherapy, and the eye in glaucoma and presbyopia drops. Cholinergic excess is its own hazard: the entry lists bronchospasm in asthma or COPD, bradycardia, hypotension and urinary and gut effects. It refuses any systemic detoxification claim for the crude leaf.
+
 ### Contraindications
 
 Pilocarpine's therapeutic action *is* controlled cholinergic excess; overdose or susceptibility tips into a **cholinergic crisis**. Real safety flags:

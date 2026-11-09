@@ -48,6 +48,10 @@ Centipede bites are painful and usually local; large tropical species can cause 
 
 **Practitioner's note.** Nothing here for a cultivator to take or do. The centipede is, in the sources read, a hazard whose poison is graded and treated. If the sources offer a discipline, it is the Sanskrit one: know the creature and its kinds, and see a physician for a bite. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+In the Sanskrit (Sushruta, Kalpasthana ch.8) text the centipede is a venomous creature, classed among the fiery, Pittaja insects whose poison tends to derange and aggravate the bodily Pitta. Its bite brings swelling, pain and a burning sensation in the heart, and the white and fire-coloured kinds add violent epileptic fits, an intolerable burning and white pustules. The treatment named is an agada, a paste of Kumkuma, Tagara, Sigru, Padmaka and two kinds of Rajani, pasted with water. In ch.3 the poison is located in the bristles and the head. Mapped onto the body, the claims cover the heart, the nervous system through the fits, the skin through pustules and burning, and the Pitta humour. Greek Dioscorides gives a sea scolopendra, boiled in oil and rubbed on, as a depilatory, and treats the land centipede only as a sting to be counteracted. The centipede is not listed among rasayana or vajikarana substances.
+
 ### Contraindications
 
 Centipede bites can be painful and, in children, people with allergy and with large species, dangerous; dried centipede preparations are unstandardised and may be adulterated or contaminated, and venom allergy is possible. They are not safe to take. Wild collection and trade of arthropods may be regulated in some places; the status of any particular species has not been checked here. [USER: verify]

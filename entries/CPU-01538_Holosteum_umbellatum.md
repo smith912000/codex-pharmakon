@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a very small hill herb with astringent leaves in Dioscorides, and nothing more can be said from three sentences. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The chapter links the plant to two actions and no system. Boiled, the herb is said to join pieces of flesh together, which acts on wound and soft tissue. Given as a drink with wine, it is said to treat hernias, a condition the text names without an organ. The only quality printed is that the leaves are astringent, a judgement of taste-like sharpness. The root is described as very thin, like filaments, and also as four fingers thick; the Codex notes that the English cannot be read literally and does not resolve it. The chapter names no humour, no hot or cold quality, and no part used for the boiled preparation. The identity is the translators' suggestion, so these are reported claims about a plant not secured. No other organ, such as the liver, blood or nerves, is named.
+
 ### Contraindications
 
 Chapter 4-11 prints no warning. The identification is only the translators' suggestion, so no plant should be gathered or used on the strength of this entry. Hernias and open wounds need medical care. The text gives no dose, and no safety information for pregnancy was read. [USER: verify]

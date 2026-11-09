@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in this chapter gives a cultivator a practice. The one lesson is Dioscorides' own: a reported virtue is not a tested one. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter names one claimed effect, that a decoction (taken as a drink) of one of its two forms produces male offspring and the other female. That concerns the reproductive system, but Dioscorides places it on the report of Crateuas and says it is recorded according to report and not experience. No organ, tissue or system is named beyond that. The two forms are described by their parts: a plant growing on rocks, with (as it were) moss, a leaf greener than the olive, a thin short stalk, a slender root, a white flower and a bigger seed like poppy in one form; in the other, the seed comes in a cluster from the flower, like olives. No humoral, doshic or qi term is printed, and no quality is given. The chapter also gives the names elaeophyllon and bryonia. The translators' Bryophyllum identity is doubtful, and the text does not support it, so this section cannot be read onto the modern genus.
+
 ### Contraindications
 
 The chapter prints no warning. The plant's identity is doubtful and its safety is unknown from the sources retrieved. Many unidentified plants and decoctions are unsafe in pregnancy, and none should be taken on the strength of this chapter. The identification with the modern *Bryophyllum* must not be used to infer safety or toxicity for the plant Dioscorides meant.

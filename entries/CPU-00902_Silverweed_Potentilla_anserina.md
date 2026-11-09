@@ -79,6 +79,10 @@ Read as **cool, dry and astringent** — a binding, tightening herb for slack, w
 
 **Practitioner's note.** Nothing. Silverweed's recorded role is a short-course astringent and cramp herb in European folk practice; neither tradition read here gives it a cultivation role.
 
+### Functional–Anatomical Correlate
+
+The entry maps silverweed's action onto the surfaces it tightens: the throat and mouth (a gargle for sore throat and mouth ulcers), the gut (antidiarrhoeal use, with tannins read as tightening mucosa and precipitating surface proteins), and minor weeping wounds and skin (a topical styptic). Its folk antispasmodic reputation, for menstrual and intestinal colic cramp, is a claimed action on uterine and gut smooth muscle that the entry says rests on folk authority alone. In traditional terms the herb is cool, dry and astringent, acting on slack, weeping and over-loose tissue such as loose bowels, lax gums and weeping skin. The tonic and liver-protective activities belong to the Tibetan tuber, a different organ and tradition, and must not be credited to the aerial herb. Pharmacological support for the herb is preclinical: urolithin-mediated anti-inflammatory signalling in ex vivo gut-microbiota work, and anti-biofilm effects on oral streptococci in vitro. Human clinical evidence is described as thin to absent.
+
 ### Contraindications
 
 - **Tannin astringency:** may cause nausea, gastric upset or constipation on heavy or prolonged use.

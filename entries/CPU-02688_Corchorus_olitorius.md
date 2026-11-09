@@ -37,6 +37,10 @@ General, well-established facts only. *Corchorus olitorius* is a widely grown le
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The text provides only a name and a botanical identification. The Codex does not recommend any use. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that the Sushruta Appendix 3 glossary pairs the name Nadika with Corchorus olitorius by column order rather than on one printed line. The chapter files give no use of the plant under Nadika, Nalita or Nadi-saka. It names no body system, organ or tissue, and it prints no rasa, virya or vipaka for the plant. No preparation or dose is given in the sources read, and no rasayana, vajikarana or other cultivation context is attested. Because no use is recorded, the Codex can source no safety statement for pregnancy, lactation or children. The only other material is a general fact the entry supplies: Corchorus olitorius is a widely grown leafy plant used as a fibre crop and a leaf vegetable. That fact is not a claim about the Sushruta drug and is not used to map any organ.
+
 ### Contraindications
 
 - **No use is recorded, so no safety statement can be sourced.** Pregnancy, lactation, children: no statement in the sources retrieved. [USER: verify]

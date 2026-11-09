@@ -63,6 +63,10 @@ According to PubMed:
 
 **Practitioner's note.** Nothing specific. It is a cooling root for heat and blood complaints and a base for summer syrups; the Sushrutan sources read offer no longevity or vitality practice for it.
 
+### Functional–Anatomical Correlate
+
+In the entry's Ayurvedic frame, Sāriva acts chiefly on rakta (blood) and its heat-sensitive tissues, with Pitta as the primary doṣa. The skin is treated as an outward expression of the blood, so eruptions, itching (kaṇḍū) and flushing fall within its territory. The mucous membranes and the urinary channel (mūtravaha srotas) are named as sites of burning and inflammation, and the entry lists it as mūtrala (diuretic). Under Caraka it extends to stanya, the breast-milk channel, as a milk-purifying drug, and to dāha (burning), thirst (tṛṣṇā) and vomiting. Jvara (fever) is addressed as jvaraghna. Its karma includes varṇya, complexion enhancement. In modern anatomical terms these claims point to the skin, the urinary tract and the lactating breast. The entry grades the evidence as preclinical, with no robust human trials, so the mapping remains a traditional claim with mechanistic corroboration only.
+
 ### Contraindications
 Cooling and heavy; may aggravate Kapha-cold conditions, sluggish digestion (*mandāgni*), or Vāta-cold complaints if used long-term without warming adjuvants. Not established as safe in pregnancy/lactation at therapeutic doses `[USER: verify]`. Human safety data are limited. Ensure correct botanical identity — *Hemidesmus indicus* (Śveta/white Sāriva) is distinct from the "black Sāriva" (*Cryptolepis buchanani*) with which it is traditionally paired and sometimes substituted.
 

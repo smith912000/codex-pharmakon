@@ -50,6 +50,10 @@ General, well-established facts only. The root bark of the tree peony is a long-
 
 **Practitioner's note.** A middle-class, cold drug for blood stasis, tetany and sores, with a longevity sentence that is only in a later layer and a toxicity judgement in the same layer. The two editions disagree on its class. A cultivator has no practice to take from this entry.
 
+### Functional–Anatomical Correlate
+
+The classic, in Sun Xingyan's 1799 edition, names the five viscera (五脏), which the drug is said to quiet, and the stomach and intestines (肠胃), where stagnant blood (瘀血) is said to lodge and where hard concretions (症坚) are said to be removed. Its other stated targets are abscesses and sores (痈创) on the surface, and the states of tetany (痉), fright epilepsy (惊痫) and wind stroke (中风), which the entry gives as classic categories without naming a tissue. Cold and heat (寒热) are named without an organ. The flavour is bitter, acrid and cold, and the classic assigns no channel or organ. Yang 1998 agrees in substance. His footnote on draining fire hidden in the blood is later commentary, not classic text, and is not mapped here. The sources give no modern anatomy for these terms, and none is supplied. Historical record only.
+
 ### Contraindications
 
 - **Toxicity.** Wu Pu records one authority (Huangdi) calling it toxic and two calling it non-toxic; the classic itself gives no toxicity statement. Treat it as unsettled. [USER: verify]

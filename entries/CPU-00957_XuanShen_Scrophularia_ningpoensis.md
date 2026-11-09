@@ -107,6 +107,10 @@ Xuan Shen sits in the **Cooling / Resolving phase**. Its Kenetica role:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Xuan Shen is mapped by the entry onto the blood, the yin-fluid system and the lymph nodes of the neck. In TCM it enters the Kidney, Stomach and Lung channels, clears heat and cools the blood (qīng rè liáng xuè), nourishes yin and reduces fire, and disperses nodules (jiě dú sàn jié) for scrofula, luǒlì. The modern correlates the entry offers are cell and animal findings: iridoids that suppress LPS-induced nitric oxide in RAW264.7 macrophages, and harpagoside reported to protect the rat brain against β-amyloid impairment and to lower uric acid and protect renal tissue in hyperuricaemic mice. The entry is explicit that neither tradition's scrofula claim is supported, because scrofula is a mycobacterial lymphadenitis and no evidence shows the plant treats it. The safety target is the mast cell: harpagoside triggers IgE-independent anaphylaxis in vitro and in vivo, so a first exposure can produce a reaction. The Ayurvedic correlate is not attested, and no pregnancy data exist.
+
 ### Contraindications
 
 - **⚠️ ANY PERSISTENT NECK LUMP OR SWOLLEN LYMPH NODE REQUIRES MEDICAL DIAGNOSIS BEFORE ANY HERBAL TREATMENT.** The historical indication for this plant — a hard, chronic, matted cervical mass — is, in modern terms, the presenting sign of **tuberculosis, lymphoma, or metastatic carcinoma**. Treating it as a "nodule to be dispersed" delays diagnosis of conditions that are curable when caught and lethal when missed. **This is the single most important line in this entry.**

@@ -50,6 +50,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing here supports cultivating this plant for any purpose of the Codex. It is a historical eye-juice from a Syrian plant, and the sibling horned poppy is recorded by Dioscorides as opium-like. The Egyptian, Assyrian and Unani tags should be treated as unverified inheritances from the word "poppy".
 
+### Functional–Anatomical Correlate
+
+Little to map: the only organ-level claim is Dioscorides' (3-100) use of the juice of this herb for new eye sores, described as cooling. The juice is pressed from wilted leaves that the text calls saffron-coloured, and the leaves are described as more bitter than the horned poppy of 4-66. The entry states that the Egyptian and Unani tags reach it only through the word "poppy", naming the opium poppy, and that the Assyrian tag has no readable locus, so no Egyptian or Unani physiology is mapped. Its alkaloid profile was not read, and no clinical studies were retrieved. The entry's contraindications are that the juice must not be ingested or put in the eye, and that eye injuries need ordinary medical care. The cooling quality is the only energetic classification the entry gives.
+
 ### Contraindications
 
 Poppy-family alkaloid plants can be dangerous, and Dioscorides' own warning for the related horned poppy is that its effects resemble opium (4-66). Do not ingest. Do not put plant juices in the eye. Seek ordinary medical care for eye injuries. Wild collecting may be restricted locally, and no conservation data were read.

@@ -63,6 +63,10 @@ The saponin-driven emetic mechanism (local gastric irritation triggering reflex 
 
 **Practitioner's note.** Nothing for self-directed practice. Emesis here is a physician-supervised, staged procedure with a defined course; the text records no long-term or vitality-building use.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Madana acts on the upper gastrointestinal tract. Saponin-driven gastric irritation triggers reflex vomiting, and the entry frames this as evacuating Kapha upward (urdhva). Its respiratory indications are bronchial asthma and chronic cough, both Kapha disorders in the classical reading, and śvāsa-kāsahara appears in its karma. Skin disease (kuṣṭha), wound cleansing (vraṇaśodhana) and worm infestation (kṛmighna) are also named. The mental side is tamas, the heaviness and clinging of Kapha, which the entry says vamana addresses. The rasa is sweet, bitter and astringent with a pungent vipāka, and the doṣa action is strong reduction of Kapha with some reduction of Vāta. The entry names the emetic risks as aspiration, electrolyte disturbance and Mallory-Weiss-type injury, and lists hernia, recent surgery, retinal fragility, cardiac disease and pregnancy as contraindications. Evidence is LOW: phytochemical and traditional, with no controlled human emesis trials.
+
 ### Contraindications
 
 Pregnancy and lactation — contraindicated. Not for Vāta-predominant depletion, the emaciated, the very young or very old, cardiac disease, hypertension, active ulcer, or any state where vomiting is hazardous (recent surgery, hernia, retinal fragility, severe debility). Emesis is a strong intervention: risk of aspiration, electrolyte disturbance, Mallory-Weiss-type injury with excessive/improper *vega*. Must never be self-administered; requires trained supervision, pre-oleation/sudation and graded re-feeding. High Pitta/inflammatory states: use cautiously (heating).

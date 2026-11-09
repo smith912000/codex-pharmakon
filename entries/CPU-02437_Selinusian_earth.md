@@ -46,6 +46,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As a general f
 
 **Practitioner's note.** Nothing to take from it for cultivation. The chapter is a single sentence of assay attached to a borrowed list of uses, for a material nobody can now identify. It is not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter names no organ, tissue, condition or use of its own. Its single claim is that Selinusian earth does the same things as the earths above it, which the entry reads as the translator's bracket and does not settle, since which earth is meant is not stated. The only properties stated for the earth are physical: it glitters extremely, is white and brittle, and dissolves very quickly if it gets wet. The Greek (DMM) frame prints no quality for it, and no warming, cooling, drying or astringent quality is carried in from the neighbours. The neighbouring Samian and Chian earths carry claims on the blood, the uterus, the breasts, the sweat and bites, but the entry says those are not asserted for Selinusian earth, and this chapter does not state them.
+
 ### Contraindications
 
 - **Unidentified mineral.** Do not swallow, bathe in or apply an unknown earth. Composition and contaminants are unknown.

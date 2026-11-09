@@ -98,6 +98,10 @@ The one energetic observation that *is* native to the material: the bitter, astr
 
 **Practitioner's note.** Nothing cultivation-specific. The tradition framing is a folk bark decoction for defined complaints, with no regimen role attested.
 
+### Functional–Anatomical Correlate
+
+Lapacho's entry maps its folk use to the gut, skin and wounds rather than to a single organ. Inner-bark decoctions were used in folk medicine for fevers, infections, inflammatory complaints, gastric ulceration, fungal skin infection and slow-healing wounds. The entry reports preclinical support for the gastric mucosa, where bark extract reduced acetic-acid lesions in rats with increased mucus and cell proliferation, and for skin and wound tissue, where alpha and beta lapachone accelerated healing in cells and mice. Its single small human trial, in women with primary dysmenorrhea, measured pain. The entry raises a precautionary caution on coagulation, since naphthoquinones are structurally related to vitamin K, but records that the trial found no significant prothrombin effect, so the caution is plausible and unconfirmed. Liver and kidney are flagged only for lack of clearance data. Energetically the entry places it outside the humoral systems, and it states that no human antineoplastic action is established.
+
 ### Contraindications
 
 ⚠️ **This substance must NOT be used as, or in place of, oncological treatment.** There is no human evidence of antineoplastic efficacy. Substituting pau d'arco for chemotherapy, radiotherapy, surgery or immunotherapy risks disease progression and death. Any practitioner presenting it as a cancer therapy is committing harm.

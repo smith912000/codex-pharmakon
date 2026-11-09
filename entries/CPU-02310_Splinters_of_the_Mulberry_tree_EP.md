@@ -48,6 +48,10 @@ General, well-established facts only. Wood splinters are not a recognised medici
 
 **Practitioner's note.** A wood splinter in a poultice recipe. Nothing here supports cultivation use. A cultivator reads it as a line in a list.
 
+### Functional–Anatomical Correlate
+
+In the Papyrus Ebers, splinters of a tree that Bryan prints as Mulberry-tree are one ingredient of a poultice for the met. Bryan says the word undoubtedly refers to the nerves of the body, though it would seem equally to apply to the blood-vessels. The remedy is meant to refresh, strengthen and make the met supple. The splinters are one of six kinds of wood in a thirty-seven-ingredient recipe, and the text does not say what this ingredient does. The organs the entry can name are therefore the nerves and blood-vessels, as the translator reads them, and the met is not turned into a modern system. The entry gives no humoral, doshic or qi classification, since the Ebers corpus is organised by complaint. The poultice is applied to the body, so the skin is the surface it touches, and the recipe includes hog's dung and other ingredients unsafe on broken skin.
+
 ### Contraindications
 
 - **Poultice contents.** The recipe includes hog's dung and other animal and mineral ingredients; do not apply to broken skin.

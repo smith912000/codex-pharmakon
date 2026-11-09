@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a fever and poison drug in the Tibetan texts, and nothing more can be said from them. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+In the Tibetan texts the rosehip acts on the liver, on fever, and on the effects of poisoning. Clark's root-text clause says it cures liver fevers and fever caused by poisoning, which places the action in the liver and in the febrile state of the whole body. The Men-Tsee-Khang text agrees, saying the fruit of Saegoe cures a hot disorder associated with poisoning and the liver. Chapter 21 lists the wild rose among medicines that neutralize poisons, a class that acts on the blood and the whole-body toxic state rather than a single organ. A separate Clark entry with the same Tibetan name says the wild rose collects toxins and cures lymph disorders, and its bracketed commentary mentions spirit-caused disorders, but that is a different entry with different binomials and is not mapped here. No taste, power, channel or humoral quality is printed for this drug. The identity is uncertain, so the mapping is only the texts' own indications.
+
 ### Contraindications
 
 The sources read print no warning. Fever and suspected poisoning need medical care, and the Codex gives no treatment for either. The botanical identity is uncertain (two Clark entries with the same name and different binomials, and a glossary that does not print the pairing), so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

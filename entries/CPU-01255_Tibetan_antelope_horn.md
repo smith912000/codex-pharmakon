@@ -42,6 +42,10 @@ General, well-established facts only. Diarrhoea can cause dehydration and loss o
 
 **Practitioner's note.** Nothing here supports cultivation use. The horn appears as part of one line in a list of horn medicines, with a single action, in a section of the materia medica that Clark says is little used today. A cultivator has nothing to take from this entry; the honest practice is abstention, which also spares a protected animal.
 
+### Functional–Anatomical Correlate
+
+The entry maps one bowel action. The horn of Hodgson's antelope, printed beside the gazelle horn, is said to halt diarrhoea, so its action is placed on the bowel, the site of the complaint. A bracketed commentary note, 'heals wounds and is oxytocic (facilitates childbirth)', would place action on wounds, the skin and the uterus, but the text does not say whether those actions belong to the horn or to the animal, so they are recorded only as the commentary's words. The Men-Tsee-Khang parallel names antelope and gazelle horns together for diarrhoea. The text gives the horn no taste, potency or post-digestive taste, and no humour or temperament. Horn is keratin over a bony core, a general fact rather than a text claim. No essence-extraction site is named.
+
 ### Contraindications
 
 - **Law and conservation:** the Tibetan antelope is a protected species and trade in its products is prohibited in most countries; a horn sold as this material cannot be trusted to be what the text means, and buying it feeds poaching.

@@ -57,6 +57,10 @@ Lead salts are astringent, which is consistent with the Greek wound and eye uses
 
 **Practitioner's note.** Nothing here for a cultivator to take. Lead is, in these sources, an astringent plaster, an eye applicant, an antiworm metal and a spoken red pigment; the Chinese classification is the lowest grade, "toxic" and not for long use, and the Greek headings agree. The only discipline the sources teach is protective: do not breathe the vapour, do not swallow it. No dose is given in the sources retrieved except the ratios for the Egyptian heart remedy. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides' lead chapters (5-95, 5-102, 5-103) make the widest claims. Washed lead is said to close pores, fill sores and wounds, stop blood, and deter fluids gathering in the eyes; it is good for ulcers of the perineum, venereal warts and haemorrhoids. Litharge is said to fill hollows and form new skin. The Chinese Qian Dan (minium) is said to treat cough and counterflow qi, stomach reflux, fright epilepsy and madness (the heart and spirit, shen), and to eliminate heat and downbear qi. Fen Xi (galenite) is said to treat a hidden corpse, the pricking pain of the heart region and abdomen, toxic insect bites and three kinds of worms. Ebers prescriptions give tremblings of the fingers, herpes of the face, the ear, scalp hair, and a heart remedy. Sushruta's sisa and naga are a vermifuge and antitoxic group, and lead is laid over tumours before cautery and named in a face unguent. No ojas, tejas or prana claim is printed.
+
 ### Contraindications
 
 Lead and all its compounds (red lead, litharge, white lead, galena, and "killed" or "ash" preparations) are poisonous and cumulative; children and pregnancy are most at risk. Heating them releases toxic fume. Use in medicines, cosmetics and paints is banned or restricted in many places. Do not use. Ritual and spoken uses are ritual, not therapy.

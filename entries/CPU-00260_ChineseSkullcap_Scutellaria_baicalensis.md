@@ -65,6 +65,10 @@ Scutellaria baicalensis has an unusually **rich preclinical and mechanistic lite
 
 **Practitioner's note.** A middle-grade, heat-clearing drug taken for a defined complaint and then stopped. The classic gives a cultivator nothing to use here.
 
+### Functional–Anatomical Correlate
+
+In the entry's TCM frame, Huáng Qín clears heat and dries dampness through the Lung, Gallbladder, Stomach, Large Intestine and, in some listings, Liver channels, draining heat through the upper body and the middle and lower burners. The conditions it targets are jaundice, dysenteric diarrhoea, hot cough with thick yellow phlegm, irritability and heat-driven bleeding, which place its action on the liver, gallbladder, gut and airway. The modern correlate offered is molecular: baicalin and baicalein are said to suppress NF-κB signalling, TNF-α, IL-6 and IL-1β, and to activate antioxidant NRF2/HO-1, while the cited liver-gut work links it to bile-acid signalling and the gut microbiota in NAFLD, cholestasis and ulcerative colitis. The entry positions its Kenetica use as a cooling counterweight to systemic inflammatory or heat load, not a stimulant. It names Spleen-Stomach cold-deficiency as the pattern in which it should be avoided, and flags liver injury, limited bioavailability and anticoagulant interaction as cautions.
+
 ### Contraindications
 
 - **Cold/deficiency patterns:** Being bitter and cold, it is classically contraindicated in Spleen/Stomach cold-deficiency (loose stools, poor appetite, cold limbs) and can worsen these — a core caution.

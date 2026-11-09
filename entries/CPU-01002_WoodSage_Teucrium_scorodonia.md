@@ -71,6 +71,10 @@ Hot and dry in the second degree. Qualities: bitter, incisive, resolving/deobstr
 
 ---
 
+### Functional–Anatomical Correlate
+
+Traditional use places wood sage in the stomach and spleen as a bitter tonic, in the liver as a deobstruent, on the skin and in wounds as a vulnerary, and in the joints for gout. It is also given as a diaphoretic for fevers and colds and as a remedy for dropsy. Galenic-Unani language reads it as hot and dry in the second degree, bitter, incisive and resolving. The entry notes that the liver deobstruent claim is also the organ of toxicity. Its modern record is genus-level. Teucrium diterpenoid-rich fractions were hepatotoxic to HepG2 hepatocytes, while the flavonoid and phenolic fractions were non-toxic and antioxidant. Iridoid glycosides and phenolic compounds give a plausible anti-inflammatory and cytoprotective basis for the non-diterpenoid fraction, and tannins give the astringency used in the wound wash. For wood sage itself the entry found no controlled clinical trial. It therefore places external application, where hepatic exposure is minimal, as the lowest-risk use, and treats internal use as contraindicated.
+
 ### Contraindications
 
 - **HEPATOTOXICITY (primary warning):** *Teucrium* neo-clerodane/furano-diterpenoids cause herb-induced liver injury (as documented for *T. chamaedrys* and *T. polium*). **Do not use internally in anyone with liver disease, and avoid chronic or repeated internal use entirely.** Discontinue at once with any sign of hepatotoxicity (jaundice, dark urine, right-upper-quadrant pain, malaise, raised transaminases).

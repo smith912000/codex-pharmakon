@@ -45,6 +45,10 @@ General, well-established facts only. The grass has been used as a yellow dye. N
 
 **Practitioner's note.** A lower-grade drug in the Chinese scheme, to be taken, if at all, for a defined complaint and then stopped. Nothing here supports long use, and the tradition's own grading is the warning.
 
+### Functional–Anatomical Correlate
+
+The paragraph's targets are the airway and breathing: long cough with rising qi and wheezing counterflow (久咳上气、喘逆). It also lists long cold (久寒), fright palpitation (惊悸, the heart), scab and itch (痂疥), white baldness (白秃, a scalp disease), sore qi (疡气) and small worms of the skin (杀皮肤小虫). In modern anatomical terms these map to the lungs and airways, the heart, the scalp and the skin, but the classic names no organ and the Codex does not assign any. Wu Pu's layer, attributed to Shennong and Leigong, adds bodily heat (身热) and children's body-heat qi, which the paragraph itself does not contain. The energetic terms are bitter and even (味苦，平). The entry gives no channel, organ affinity or mechanism. Its uses are historical record only, and cough with wheeze, palpitation and skin disease need medical assessment.
+
 ### Contraindications
 
 - **Lower-grade drug:** the classic's preface calls the lower medicines mostly toxic and not for long use (line 2935); the paragraph does not say this grass is toxic, and no safety information was read. [USER: verify]

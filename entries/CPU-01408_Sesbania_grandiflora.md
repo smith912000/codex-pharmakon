@@ -44,6 +44,10 @@ No clinical studies were retrieved for this entry. [USER: verify] A general poin
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. In Sushruta it is a flower of the food group; in the Tibetan text it is a strong emetic whose identity is unsettled. The abstentive answer is correct: no use is recommended.
 
+### Functional–Anatomical Correlate
+
+Sushruta (SS) describes the Agastya flower, in the food-and-drink chapter, as bitter in taste and pungent in digestion, and says it alleviates a wasting cough (phthisis) and is specially beneficial in night-blindness (nyctalopia). The only bodily sites named are the cough and the night vision; no organ is given. The flower is neither too cooling nor inordinately heat-making in potency, and no dosha action is printed. Clark's Tibetan Explanatory Tantra (FMT) describes so.cha as hot in taste with a slightly oily power, and as an emetic in all types of phlegm disorders, which is the only organ-level action given. The Tibetan text describes a large trunk, a nut and a kernel, which are not a flower, so the two descriptions do not map to a single organ system. The entry records no preparation for either tradition, and the Codex gives no protocol for either use.
+
 ### Contraindications
 
 The Tibetan so.cha is described as the "supreme" emetic, so the identification matters: *Randia* and *Aesculus* (the other two binomials given) are different plants, and forced vomiting is itself hazardous. Do not self-prescribe emetics. Do not take any part of an unidentified plant. Seek medical advice for night-blindness, which has treatable general causes. None of the traditional uses above is advice.

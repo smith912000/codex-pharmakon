@@ -77,6 +77,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Katurohini's entry targets the liver and bile, which Ayurveda reads as the seat of Pitta and the forge of bile. Its tikta (bitter) and śīta (cooling) qualities are described as draining excess Pitta, and its bhedana (deobstruent) action opens the hepatobiliary channels in kāmalā (jaundice). The entry names yakṛt-uttejaka (liver-stimulant) as a classical karma and a cholagogue role for moving stagnant bile. Its rocana (appetite-restoring) and dīpana-pācana actions act on the digestive fire and gut, scraping āma from the channels. Skin is a further target, its classical use in kuṣṭha (skin disorders) read as Pitta heat. Its uses in jvara (fever) and prameha (urinary and metabolic disorders) are recorded. Experimental work in the entry concerns hepatoprotection in mouse liver injury, with picroside II and related isolates active. The entry frames it as a short-arc clearing agent, and warns that its light, dry, cold nature can aggravate Vāta in depleted constitutions.
+
 ### Contraindications
 
 - **Conservation flag — endangered/threatened species.** *Picrorhiza kurroa* is a slow-growing, over-harvested Himalayan endemic under serious wild-collection pressure. Prefer cultivated, tissue-cultured, or certified-sustainable sources; avoid wild-harvested material. `[USER: verify current CITES/IUCN status]`

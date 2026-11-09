@@ -46,6 +46,10 @@ Keratin is poorly digested by people and is not a nutrient in the ordinary sense
 
 **Practitioner's note.** There is nothing for a cultivator here, and no reason to take hair or hoof. The classic is a record of an old therapeutic custom. The lower-class label is the warning.
 
+### Functional–Anatomical Correlate
+
+Hair, hooves and nails of the six domestic animals, in the Shennong bencao jing, are mapped to the mind, the nervous system and the blood, in the classic's terms. The flavour is salty and balanced (xian, ping). The paragraph names guizhu (ghost infusion), gu poison, cold and heat, fright-epilepsy (jing xian), and mad running (kuang zou), with one condition lost in the transcription. These place the action on the convulsions, the mind and the body's fever and chill. Camel hair is said to be especially good. The entry names no organ, channel or tissue for the hooves and nails, and does not say which animal gives which part. Modern anatomy finds no organ match, since the parts are keratin tissue and the entry makes no claim about them beyond the list of conditions.
+
 ### Contraindications
 
 - **Infection.** Animal hair, hide and hooves can carry spores and organisms; anthrax spores in animal hair and hides are a well-established example. Do not handle or swallow untreated animal hair, hoof or claw as a remedy.

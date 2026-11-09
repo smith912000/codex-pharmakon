@@ -54,6 +54,10 @@ General, well-established facts only. *Pedicularis* species are low herbs of dam
 
 **Practitioner's note.** A middle-grade herb for cold and heat, wind and damp impediment, and women's discharge and infertility, with no long-term clause. Nothing in the record supports any cultivation use.
 
+### Functional–Anatomical Correlate
+
+The entry maps Ma Xian Hao onto several body areas through the classic's indications. The drug is said to govern cold and heat, the demonic influx of gui zhu, wind stroke and damp impediment, which the classic places in the body's heat and cold, its wind and damp disorders, and the reproductive tract, though no organ assignment is given. Women's vaginal-discharge disease and childlessness point to the female reproductive system. The flavour is given as balanced in Sun's text, bitter and balanced in the plain e-text, and acrid and balanced in Yang, and the indications agree across all three. The classic prints no toxicity for the herb itself and assigns no channel. Gui zhu and damp impediment have no modern equivalent, and the entry does not translate them into one. The identification as Pedicularis resupinata is Yang's and is of medium confidence.
+
 ### Contraindications
 
 - **Identity.** Several *Pedicularis* species are used under the name; the species is Yang's identification, of medium confidence. [USER: verify]

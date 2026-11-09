@@ -45,6 +45,10 @@ General, well-established facts only. Gelatin and fish glues (isinglass) are col
 
 **Practitioner's note.** Nothing here supports a cultivation use. The chapter is a short record of a plaster and skin ingredient, with a place of origin and tests of quality, and a cultivator would do nothing with it.
 
+### Functional–Anatomical Correlate
+
+Dioscorides (DMM) names fish glue, made from the intestines of a whale fish, and gives three uses that map to the head and skin. It is an ingredient in head plasters, applied to the head, for a condition the text does not name; in medicines for leprosy, which the entry notes is a historical skin category and not a modern diagnosis; and in medicines for making the facial skin smooth. The best sort, from Pontus, is white, somewhat rough, not scabby and quick to melt, and these are the only qualities printed. No taste, potency, post-digestive taste or humour is given, and no internal use is stated. The text names no constituent, and the entry's note that such glues are collagen-based is a modern general fact, not Dioscorides' claim. The chapter has no subtle-body frame and no cultivation status; its only teaching for a practitioner is how to judge the glue by sight and origin. The source animal is unidentified.
+
 ### Contraindications
 
 - **Animal and ethical.** Derived from the tissue of a fish or marine animal; unsuitable for anyone who avoids animal products. The "whale fish" is unidentified, and some marine mammals are legally protected. [USER: verify]

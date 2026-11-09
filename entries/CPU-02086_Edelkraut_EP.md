@@ -50,6 +50,10 @@ General, well-established facts only. The identity is open, so no pharmacology c
 
 **Practitioner's note.** Nothing to do with it. An unidentified plant named once in a list and once in a poultice. Without an identification nothing can be gathered or used, and a cultivator reads it as a name in a record.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that the plant is one ingredient in a poultice 'to soften the hardenings', a complaint Bryan files under the suppleness of the limbs. The hardenings are described as a skin or tissue complaint, with no organ, tissue or body system named beyond that. The poultice is mixed with doum-palm fruit, beans, fresh milk and a second unidentified material, sebesten. The entry gives no humoral, doshic or qi classification for the plant, no part used and no action on any named organ. Bryan's English prints the instruction to crush 'in the bird-of-passage' and 'in its feathers' without explanation, and the entry does not read it as a bodily action. The plant is not identified, so no organ-level pharmacology can be drawn. The Codex records the poultice as a historical application to a skin and tissue complaint, gives no protocol, and notes that such hardenings need proper medical care.
+
 ### Contraindications
 
 - **Identity.** The plant is unidentified; do not substitute any herb for it. Popular herbs sold under similar German names are unrelated to this row.

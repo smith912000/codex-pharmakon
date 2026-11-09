@@ -42,6 +42,10 @@ General, well-established facts only. Seaweeds are eaten and used in many food t
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The entry records that a Greek physician described a small hairy sea moss from rocks and shells, called it very astringent, and named inflammation and gout in the feet as its uses. The Codex does not recommend gathering seaweed for these. The thing a reader can take is the habit of naming where a thing grows and what it looks like before saying what it is for. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: The chapter states that this sea moss grows on stones and shells by the sea, is hairy, slender and stalkless, and is very astringent. Its two named uses are inflammation and gout in the feet that needs astringency; the feet are the only body part the text names, and only as the site of gout. The text gives no organ, tissue or body system for either use, and no humoral, doshic or qi classification. The single quality, 'very astringent', is the only energetic term printed, and it is tied to the need for astringency in gout. Three further names (ballaris, irane, gnomeusilum) are given for the plant itself, not for any effect. The chapter gives no form of application, skin or internal, so no route of action can be mapped from it.
+
 ### Contraindications
 
 - **Gout and inflamed joints:** need diagnosis and prescribed treatment; a hot, red, swollen joint can also be infection and needs urgent assessment.

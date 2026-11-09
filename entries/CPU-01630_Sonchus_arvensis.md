@@ -45,6 +45,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. What is worth keeping is the method: the chapter derives the use from the quality and says which part is applied. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Dioscorides (DMM) prints three qualities: cooling, indifferent and gently astringent. From these the chapter draws its uses, marked by 'As a result'. The herb is applied on a burning stomach, which names the stomach as the site, and for inflammation, with no site given. The juice is sipped to soothe pangs of hunger in the stomach, so the stomach and its appetite are the site again. The herb with its root is applied to one bitten by a scorpion, the only use that names an external injury. The chapter gives no taste and no warming or drying quality, and the word 'indifferent' is printed without explanation. The stalk, leaves and flowers are described but not tied to any use. The entry gives no account of the blood, eyes or bowels, and does not read the hawkweed names of the second line as this plant's uses.
+
 ### Contraindications
 
 The chapter states no caution. A scorpion bite is an emergency, and a burning stomach or an inflammation needs medical assessment. The identity of the plant rests on a translators' suggestion with an alternative in another genus, so no wild plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice.

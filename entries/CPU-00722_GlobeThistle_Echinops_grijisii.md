@@ -70,6 +70,10 @@ According to PubMed, the modern evidence base for *E. grijisii* is **preclinical
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, Yu Zhou Lou Lu enters the Stomach channel, and its traditional reach is suppurative and swollen tissue: sores, abscesses, mastitis and the breast ducts, where it is said to unblock milk flow and promote lactation. It is also credited with expelling parasites, which the entry ties to a cold, bitter draining action rather than tonification. In the Unani frame, bitter thistle roots are resolvent and deobstruent agents for hot swellings and visceral obstructions. The modern correlates are in vitro and non-human: thiophenes from Echinops species were nematicidal and antifungal in soil and plant-pathogen assays, and a related species reduced parasitaemia in infected mice. The entry notes that no human clinical data exist and that many thiophenes are light-activated, creating a phototoxicity concern on skin. Cold or deficient patterns and pregnancy are advised against. Species identity matters, since Lou Lu in commerce may be Rhaponticum.
+
 ### Contraindications
 
 - Cold, bitter, draining character makes it **inappropriate in cold/deficient patterns**, in pregnancy (traditional caution for strong depurative/lactation-affecting roots), and for prolonged tonic-style use.

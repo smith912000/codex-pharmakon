@@ -109,6 +109,10 @@ Singh SS, Pandey SC, Srivastava S, Gupta VS, Patro B, Ghosh AC (2003) "Chemistry
 
 ---
 
+### Functional–Anatomical Correlate
+
+In Ayurveda the entry describes Guduchi as tridoshic and nourishing to all seven dhatus, the tissue layers, and as enhancing ojas, the vital distillate. Its arabinogalactan and tinosporaside fractions are said to act on the immune system, enhancing macrophage phagocytosis, NK cell activity and T-lymphocyte proliferation. In the TCM-aligned Chinese mapping (Xin Ye Qing Niu Dan) it enters the Liver, Heart, Spleen and Kidney, clearing heat and tonifying the upright Qi for post-illness immune weakness and Spleen Qi deficiency with Damp-Heat. Its berberine is linked to hepatoprotection and insulin sensitivity, with palmatine and magnoflorine to anti-inflammatory and blood-pressure effects, and the entry ties Pitta-type inflammatory joint disease to its anti-inflammatory action. The entry flags the liver as the critical risk organ, with reports of cholestatic and autoimmune hepatitis, and cautions in autoimmune disease and pregnancy.
+
 ### Contraindications
 
 - **Hepatotoxicity (critical — idiosyncratic/species contamination):** Multiple case reports of severe cholestatic and autoimmune hepatitis, including cases requiring liver transplantation, have emerged since 2020; the causative mechanism is debated — the primary concern is misidentification or substitution of Tinospora crispa (which has different alkaloid profile and documented hepatotoxin) in commercial preparations; genuine T. cordifolia at standard doses has limited hepatotoxicity data, but the commercial market cannot guarantee species purity; test LFTs (ALT, AST, bilirubin) at baseline and at 6 weeks with any commercial Guduchi product

@@ -47,6 +47,10 @@ General, well-established facts only. Petroleum naphtha is a recognised solvent 
 
 **Practitioner's note.** A petroleum product with an eye-wash use that should not be repeated. Nothing in the record supports a cultivation use, and the fire hazard alone makes it unsuitable for any practice.
 
+### Functional–Anatomical Correlate
+
+Naphtha's own paragraph claims two sites: the eyes, which it is said to be good for bathing, and the white spots on the cornea, the clear front of the eye. The shared bitumen paragraph, which the entry treats as a group account rather than a naphtha-only one, then lists further sites: open cuts and sores, congested vulvae and prolapse, epilepsy tested by smoke, coughs, asthma and difficult breathing, snakebite, hip and side pains, colic, dysentery, toothache, gout and podagra, clots of blood, and menstrual flow. The actions named for bitumen are to repress inflammation, to close open cuts, and to disperse and soften, which is not a graded temperament. No warming, cooling, drying or moistening quality is printed for naphtha. The chapter assigns no humour, dosha or qi classification and names no internal organ beyond these claimed sites.
+
 ### Contraindications
 
 - **FLAMMABLE.** Naphtha ignites at a distance from a flame, as Dioscorides himself notes. Never use it near a heat source.

@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** What the chapter offers a cultivator is the habit of attention, a plant known by its habit and habitat and gathered by a stated rule of time. The protective use is a recorded belief and the lunar rule is a recorded instruction, and neither is a practice the Codex recommends. Nothing else here is to take up.
 
+### Functional–Anatomical Correlate
+
+The entry's Dioscorides claims (DMM, chapter 3-156) act on several sites. Flowers pounded with wax ointment and applied are said to dissolve oedema and hard lumps, which concerns swollen fluid and hard masses in the tissues without naming an organ. A decoction drunk after a bath is said, on report, to give the jaundiced a good colour, so the skin and the yellowing of jaundice are the sites named. A root chewed and spat out is said to stop mucus, ease toothache and loosen the bowels, which names the mucous membranes, the teeth and the intestine. A protective use against fears, devils, enchantments and poisons is recorded, and the entry places it in no body part. The chapter prints no humour, dosha, qi or temperament, and no taste. Modern anatomy terms apply to the sites named: the tissues of the body, the skin, the mucous membranes, the teeth and the intestine. The identity is only the translators' suggestion among several daisy-family plants, so none of these claims is verified.
+
 ### Contraindications
 
 Chapter 3-156 prints no warning. Jaundice and lumps need medical care and must not be left to a bath-time drink or a wax-ointment paste. The identification is only the translators' suggestion among several plants of the daisy family, some of which cause skin reactions, so no plant should be gathered or used on the strength of this entry. The chapter gives no dose, and no safety information for pregnancy was read. [USER: verify]

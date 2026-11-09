@@ -71,6 +71,10 @@ According to PubMed, the evidence base is **largely preclinical and traditional*
 
 **Practitioner's note.** Nothing for cultivation. The Sushruta passages read frame it only as a remedy ingredient. The entry's "rasayana support" and "fruit as aphrodisiac" wording is not borne out by them.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Kāśmarī acts on the nervous system, the heart, the digestive and reproductive tissues and the skin. Its classical actions are dīpana (digestive kindling), grāhī and stambhana (checking flux, antidiarrhoeal), balya (strengthening), stanyajanana (galactagogue, root), vraṇaropaṇa (wound healing, leaf paste) and jvaraghna (fever relief). The sweet post-digestive effect and heavy, unctuous quality are described as tissue-building, and the entry places it for burning fevers, emaciation and combined Vāta-Pitta states as a tridoṣaghna Pitta-soother. The Unani record describes it as cooling and moistening to the heart. The entry's modern mapping includes antioxidant, anti-inflammatory and antidiarrhoeal activity in review literature, and a stem study in which prenylated coumarins promoted neurite outgrowth in PC12 cell cultures, which the entry says is not a human benefit. Controlled human trials are absent. The entry warns about high-Kapha or high-āma states and calls for supervision in pregnancy and lactation.
+
 ### Contraindications
 
 - No serious human toxicity is documented, but the absence of clinical safety data means **pregnancy** (beyond traditional galactagogue folk use), **lactation** and **paediatric** use should follow qualified Ayurvedic supervision, not self-administration.

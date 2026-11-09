@@ -68,6 +68,10 @@ Based on articles retrieved from PubMed:
 
 **Practitioner's note.** A cultivator does nothing internal with this plant — that is the whole lesson. Celandine is retained in the Purification phase as a teaching-stone: the vivid orange latex reads, by the doctrine of signatures, as a bile-and-liver cleanser, yet the clinical record is one of idiosyncratic liver injury, and the organ the sap was thought to purify is the organ its alkaloids harm. The only defensible practice is the topical dab of fresh latex on a wart or corn, kept off healthy skin and away from the eyes despite the ancient eye-remedy legend. Nothing about its signature licenses taking it inward, and the tradition's own toxicity note is the warning.
 
+### Functional–Anatomical Correlate
+
+In the entry's account, greater celandine's clearest body target is the liver: Galenic and Avicennan deobstruent doctrine placed it there, and the documented idiosyncratic injury (acute hepatitis, cholestatic or hepatocellular damage, sometimes jaundice) is the strongest body-level evidence the entry gives. It attributes the injury to the alkaloid fraction. Topically, fresh orange latex acts on skin, used on warts and corns as a caustic, and it irritates the eyes, despite the eye-remedy tradition. The Greek and Assyrian sources also place it on the surface. In TCM (bai qu cai) it enters the Lung and Stomach channels, moves qi, relieves pain and stops cough, and is classed as toxic. The doctrine of signatures tied the orange sap to bile and jaundice. The Kenetic protocol allows only topical use, and the claimed eye, cough and liver benefits remain traditional or preclinical.
+
 ### Contraindications
 
 **⚠️ HAZARD — DO NOT USE INTERNALLY.** Greater celandine is a documented cause of **idiosyncratic herb-induced liver injury**, presenting as acute hepatitis and cholestatic/hepatocellular liver damage, sometimes with jaundice, and reversible on withdrawal but occasionally severe. Onset is unpredictable and not dose-linear (idiosyncratic, metabolic-type), so no "safe" oral dose can be assured. Multiple European regulators have restricted or warned against oral celandine products on this basis.

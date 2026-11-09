@@ -76,6 +76,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps black cardamom to the digestive centre: stomach, spleen and gut. Galenic and Unani terms give warm and dry, a stomach-strengthening, carminative and wind-breaking aromatic with a cardiotonic (muqawwi-e-qalb) note. The TCM frame, by family analogy, is acrid and warm, entering Spleen and Stomach, warming the middle, transforming damp, moving stagnant qi and stopping nausea. Ayurvedic terms place it in the kindling-digestive (dipana-pachana) group for kapha-vata patterns, with hridya (cardiac-aromatic) and shwasahara (anti-dyspnoeic) action, and the Tibetan frame directs it to the spleen and stomach digestive fire. Modern anatomy in the entry gives the 1,8-cineole-dominant essential oil as a carminative and antimicrobial acting on the gut mucosa, with phenolic acids in the husk as antioxidant and anti-inflammatory. Breath and chest are named as an aromatic target. The entry grades these as preclinical or traditional, with few human trials. Concentrated oil warrants caution around infants' faces and in pregnancy.
+
 ### Contraindications
 
 Black cardamom is a **culinary spice with a strong safety record at food doses**. Concentrated extracts and essential oil warrant more caution. The essential oil is dominated by **1,8-cineole**, which in concentrated form can cause mucosal irritation and, in significant oral quantities, CNS effects — do not ingest neat essential oil, and keep cineole-rich oils away from the faces of infants and young children (risk of laryngospasm). Possible allergic sensitivity in individuals reactive to Zingiberaceae spices. Its warming, qi-moving nature makes large medicinal doses theoretically inadvisable in clear "heat"/pitta-excess or acute inflammatory-hot patterns per traditional logic. Insufficient safety data for high-dose therapeutic use in **pregnancy and lactation** — keep to culinary amounts. Theoretical additive effect with antioxidant/anti-inflammatory or antidiabetic regimens; monitor if combining concentrated extracts with medication. Not a substitute for treatment of cardiac or respiratory disease.

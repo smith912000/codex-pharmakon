@@ -82,6 +82,10 @@ Ayurvedic and Unani sources place the pinwheel shrub among **cooling, bitter-ast
 
 **Practitioner's note.** Nothing. The plant is an ornamental and a study source of alkaloids; no tradition cited here supports taking it, and its names are easily confused with valerian.
 
+### Functional–Anatomical Correlate
+
+In the entry's account, the pinwheel flower's pharmacology reaches two organ systems, and its traditional indications sit in a third. The main signature is cholinergic: bisindole alkaloids inhibit acetylcholinesterase, and root extracts reduced amyloid-β-induced memory deficits in mice, so the brain is the studied target. A second line concerns the pancreas, where conophylline is reported to promote insulin-producing β-cell differentiation and lower blood glucose in diabetic rats. Conophylline is also cytotoxic to cancer cell lines and acts on autophagy. The Ayurvedic and Unani sources, as the entry reads them, used the root and latex for inflamed skin, eye complaints and pain, and classed the plant as cooling and bitter-astringent, a classification the entry itself calls inferred. The entry notes that Apocynaceae alkaloids can be cardio- and neuro-active, though this is not quantified. Every activity listed is preclinical, and no human dose or safety window has been established.
+
 ### Contraindications
 
 - **Not for self-medication.** All therapeutic activity is preclinical; no human dose or safety margin exists.

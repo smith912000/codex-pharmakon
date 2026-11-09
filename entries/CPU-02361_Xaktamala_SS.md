@@ -51,6 +51,10 @@ Nothing can be said of this plant's pharmacology because it is not identified. N
 
 **Practitioner's note.** Nothing here makes this a cultivation substance. It is a name in lists, whose identity is open.
 
+### Functional–Anatomical Correlate
+
+The name gets no organ of its own. As a member of the Varunadi group it is one of the drugs said to reduce the deranged Kapham and fat, and that group is said to help cephalalgia, Gulma and internal abscesses. As a member of the Salasaradi group it belongs to a set said to destroy the germ of Kushtha, absorb deranged fat and Kapham, and benefit Meha, meaning urinary discharge, and Pandu, meaning chlorosis or jaundice. These are group virtues, not claims for the drug alone. Separately, its wood, leaves, roots and fruits are burnt to make alkali, which the entry calls a caustic, and in one blood-letting plaster it is one of fourteen named ingredients rubbed over the incision to bring out blood. The entry gives no part used, property or temperament for the drug itself, and the plant is unidentified, so only the group's stated targets can be mapped.
+
 ### Contraindications
 
 - **Identity.** The plant is unidentified. Do not substitute any tree on the strength of the name.

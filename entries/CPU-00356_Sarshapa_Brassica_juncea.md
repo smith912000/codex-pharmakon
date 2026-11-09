@@ -76,6 +76,10 @@ According to PubMed, *B. juncea* shows **documented preclinical antimicrobial an
 
 **Practitioner's note.** Ritual and folk uses of mustard seed — protective, apotropaic, funerary — are genuine, but they are *ritual*, not a cultivation status, and must not be translated into one; recording an amuletic use is not the tradition assigning the substance a role in nourishing the person's vital constitution. What a cultivator actually does with sarṣapa is external and time-bounded: a rubefacient poultice or a warming massage oil that draws heat and circulation to a cold, stiff surface, removed before it blisters. Its own sharpness is the teaching — dose and boundary, a small controlled fire to move a large cold, never a substance for long-term inward building.
 
+### Functional–Anatomical Correlate
+
+Sarṣapa acts chiefly on the skin and the tissues beneath it, which the entry describes as the surface and the periphery. Its kaṭu (pungent) rubefacient action draws heat and circulation outward, so the target is the superficial vessels and the skin where stagnation sits. Applied as a poultice (lepa) or warming oil in abhyaṅga, it is directed at cold, stiff, painful joints and muscles, with the Vāta-Kapha stiffness that the text names as the picture. Its vedanāsthāpana (pain-relieving) action is described as counter-irritant, and its lekhana (scraping, cleansing) and krimighna (antimicrobial) actions point to the skin surface. Internally, in small dose, it is a digestive appetiser and decongestant (dīpana, kaphahara), while large doses are emetic (chardana), so the stomach is affected at that dose. The entry warns that it aggravates Pitta, with the skin, eyes and mucous membranes as areas of irritant contact.
+
 ### Contraindications
 
 - **Skin:** never leave a mustard poultice on until blistering — allyl isothiocyanate causes chemical burns; contraindicated on broken skin and in sensitive/paediatric skin without dilution and close monitoring.

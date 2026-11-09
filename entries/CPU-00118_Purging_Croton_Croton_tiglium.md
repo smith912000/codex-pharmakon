@@ -69,6 +69,10 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry's targets are the bowel and the fluid balance. Ba Dou, acrid and hot, drives out cold accumulation and food stagnation, breaks severe cold constipation and obstruction, and in some patterns drives out water and phlegm through forcible catharsis of the intestines. Its oil acts as a caustic and vesicant on the skin, and the entry notes that it severely injures the eyes. Unani records that the seed draws black humours and phlegm lodged in the joints. Its related seed mahudana is said to help joint pain, gout, sciatica and dropsy, while not agreeing with the stomach. Ayurveda's Jayapala is an intensely heating drastic purgative. The modern-anatomy point is that phorbol esters activate protein kinase C and act as tumour promoters in cell-culture and two-stage carcinogenesis research. Pregnancy is an absolute contraindication. Heat patterns, weakness, dehydration and frailty are listed as unsuitable.
+
 ### Contraindications
 
 - **Pregnancy — absolute.** Violent drastic and toxic; contraindicated.

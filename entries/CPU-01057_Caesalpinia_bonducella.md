@@ -58,6 +58,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. In Sushruta it is a purgative and an alkali ingredient and in the Tibetan texts a digestive-heat medicine, under names that two of the texts apply to other trees. The abstentive answer is the correct one: take the identification as unsettled and do not use it on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+The Sushruta lines map the plant to the gut and the fluid balance. The Putikaranjas are said to alleviate oedema and anasarca, which are fluid swellings of the body, and to subdue Vayu and Kapha, and Putika is listed among purgatives. Digestion is named directly: they are pungent in digestion and easily digestible, and the alkali of Puti-karanja is given in the chapter on Udara, or abdominal disease, with black salt and Pippali. The Tibetan Men-Tsee-Khang glossary says Karanza generates digestive heat, and Clark's entry for the same phonetic name describes a bitter-tasting digestive-heat medicine. The entry notes that the tree's identity is unsettled between Caesalpinia bonducella and Pongamia pinnata, so organ claims cannot be fixed to one plant. No tissue-level claim is made, and no long-term or constitutional role for the plant is stated in either text.
+
 ### Contraindications
 
 No safety data were read. The seeds of some *Caesalpinia* species are bitter and are used as traditional medicines, and purgative and alkali preparations can irritate the gut. None of the traditional uses above is advice. Seek a qualified practitioner, and seek ordinary medical care for abdominal swelling, fluid retention or digestive illness. Do not use in pregnancy. Wild plants of this thorny climber should not be collected by amateurs.

@@ -42,6 +42,10 @@ General, well-established facts only. Alkaline salts such as carbonates and bora
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. Pakima is an alkali used in Sushruta's therapeutics for the bladder, the bowels and obesity, and a strong alkali is not food. The honest use for a reader is to know that the text records it, that its identity is uncertain, and that the same passage warns against abuse. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Sushruta's alkali list names Pakima among four alkalis (kshara) said to cure abdominal glands, piles, mesenteric diarrhoea and gravel and stone in the bladder, which places the action in the abdomen, the anal canal, the mesentery and intestine, and the bladder. The group is called digestant or stomachic, which places it in the digestive tract. Pakima alone is said to tend to reduce obesity, to cause a free and increased discharge of urine, and to act as a bladder-cleanser, so the urinary system and the body's fat stores are named sites. In the chapter on elephantiasis (slipada), a Pakima (vit) salt is taken with juice of the bulbs of Kechuka after Putranjivaka juice, which places the swelling of the limb in the treatment. The text gives Pakima no rasa, virya or vipaka and no link to ojas, tejas or prana. The mapped sites are the abdominal glands, rectum and anus, intestines and mesentery, bladder and urine flow, adipose tissue, and the swollen leg in elephantiasis.
+
 ### Contraindications
 
 - **Caustic and irritant:** alkalis burn the mouth, throat and gut when swallowed in strength; do not swallow an unidentified alkaline salt.

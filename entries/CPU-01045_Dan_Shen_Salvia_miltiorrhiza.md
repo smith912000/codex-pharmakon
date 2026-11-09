@@ -123,6 +123,10 @@ Wang BQ (2010) "Salvia miltiorrhiza: Chemical and pharmacological review of a me
 
 ---
 
+### Functional–Anatomical Correlate
+
+Dan shen acts chiefly on the heart and blood vessels, with the liver as a secondary target. In Chinese terms it enters the Heart and Liver channels, moves blood, cools blood, clears heart heat and calms the spirit. Modern anatomy maps this onto platelets and endothelium: danshensu is described as inhibiting thromboxane synthase while raising prostacyclin, shifting the balance toward vasodilation and reduced aggregation, and as increasing endothelial nitric oxide. Tanshinone IIA is reported to protect cardiac mitochondria during ischaemia-reperfusion. Salvianolic acid B targets hepatic stellate cells, reducing collagen deposition and fibrosis, which the entry uses as the basis for liver protection in supplement cycles. Rosmarinic acid and the tanshinones are described as anti-inflammatory through COX-2 and NF-kB pathways. Miltirone, a GABA-A modulator, underlies the calming-the-spirit action on the nervous system. The entry also names local muscle microcirculation during recovery. Its lipophilic tanshinones are cleared by hepatic CYP enzymes, which shapes its interactions.
+
 ### Contraindications
 
 - **MAJOR — Anticoagulants and antiplatelets:** DSS's TXA₂/PGI₂ mechanism combined with salvianolic acid antiplatelet activity produces additive anticoagulant effect with warfarin, heparin, rivaroxaban, apixaban, clopidogrel, and aspirin. Clinical case reports document INR elevation to 3× therapeutic range in patients initiating Dān Shēn on stable warfarin. Absolute contraindication without specialist supervision and serial INR monitoring.

@@ -59,6 +59,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** Little. The text places the betel leaf among the pleasures that accompany a vajikarana regimen and as a post-meal mouth-cleanser, with a list of conditions in which it is to be avoided. It gives no dose and no course. The Codex does not recommend chewing betel, and the areca nut and lime with which the text prepares it are a hazard of their own.
 
+### Functional–Anatomical Correlate
+
+The named sites are the mouth, teeth, jaws, tongue, voice and throat, and the sense organs. The betel leaf, prepared with cloves, camphor, nutmeg and lime, is said to cleanse the mouth, sweeten the breath, strengthen the voice, tongue, teeth and jaws, check excessive salivation and guard against throat disease. It is also said to soothe the body (Hridya) and to pacify Kapha and Vayu, though Sutra 46 says its leaves tend to aggravate Pitta. The vajikarana chapter, on means of potency, lists betel leaves with food, wine and music among the best aphrodisiacs. People with Rakta-Pitta, anaemia, epilepsy, or thirst and dry mouth are told to refrain from it. The name Naga-valli is not printed in any chapter, so these claims rest on the leaf under the name Tamvula and on the translator's English.
+
 ### Contraindications
 
 The Sushruta text retrieved prints a list of persons who "should refrain from taking betel-leaf": those with Rakta-Pitta, Kshata-Kshina, thirst or parchedness of the mouth, and in anaemia, "internal dryness of the organism" and epilepsy (Chikitsa 24, lines 155 to 158). As a general fact, regular chewing of betel quid with areca nut and tobacco is linked to oral disease, including cancer; the text does not say so. The identity is open, so no plant should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

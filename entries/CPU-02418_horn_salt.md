@@ -44,6 +44,10 @@ General, well-established facts only. Salts in strong solution are irritant; tak
 
 **Practitioner's note.** An artificial salt of unknown make, listed in the old pharmacopoeia for cold disorders. Nothing here supports ingestion or any cultivation use. The tradition's own entry is one line.
 
+### Functional–Anatomical Correlate
+
+The entry maps horn salt to the vessel organs, the bowel, and the Tibetan humours baekan and loong. Clark's 1995 root sentence says that horn salt and ash salt, both artificial salts of no fixed colour, cure cold disorders of the vessel organs. That is the one site the English text names for this salt, and the entry does not translate it into a modern organ. The Men-Tsee-Khang 2011 text places ra tsha, which the entry reads as horn salt, with the cold disorders of baekan, the phlegm humour. The salty-taste group, applied here by the same text's rule, is said to relax stiffness, clear bowel obstructions and blocked energy channels, pacify loong and baekan, and induce sweating in its heated form, while aggravating tripa, the bile humour, with two exceptions that do not include horn salt. Its post-digestive taste is sweet. No potency is printed for horn salt.
+
 ### Contraindications
 
 - **Unknown composition.** Do not swallow or apply a salt of unknown make. Artificial salts can be caustic, and mineral medicines sold unregulated may be contaminated with other metals.

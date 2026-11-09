@@ -43,6 +43,10 @@ Avicenna: hot and dry in the third degree; burning, astringent, drying; the burn
 
 **Practitioner's note.** Nothing to practise. It is a caustic mineral of the surgeon and eye-salve maker, and burns tissue.
 
+### Functional–Anatomical Correlate
+
+Avicenna places this substance hot and dry in the third degree, with burning (ihtiraq), astriction of blood flows and drying; the burnt kind is drier and less stinging. The body surface is the first site: it is smeared with coriander water on erysipelas (al-namla, al-humra), sprinkled on creeping ulcers (al-khabitha), and burns away excess flesh to make an eschar. In the head it is said to benefit nosebleed and swellings of the gums and of the parotid region, which map to the nasal mucosa, the gums and the parotid gland. The eye is named for eye salves that clear and thin the humour of the lids, which maps to the eyelids. The womb is named for cutting bleeding from the womb. Modern anatomy therefore maps its claimed sites to the skin and ulcerated tissue, the nose, gums and parotid gland, the eyelids and the uterus.
+
 ### Contraindications
 
 - Caustic: burns tissue; do not apply to eyes, wounds or gums.

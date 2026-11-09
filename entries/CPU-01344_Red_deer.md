@@ -40,6 +40,10 @@ General facts only. Venison must be cooked through; deer can carry parasites and
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The tradition records deer horn, blood, fat and meat as ordinary remedies and foods, and the honest reading is historical. A person who does not hunt or eat game has nothing to adopt.
 
+### Functional–Anatomical Correlate
+
+The deer's horn is said to act like rhinoceros horn, which dries accumulations of pus, blood and lymph in the stomach. Deer blood is anthelmintic, halts bleeding from the womb and prevents hangovers, and in the Men-Tsee-Khang text it cures ein disorders and stops menstrual bleeding. Deer fat is anthelmintic and protects against poisoning. The brain of game animals is said to halt diarrhoea. Game meat is recommended for bile disorders, and the dry-land meat is cool, light and rough, bringing down hot disorders of loong and baekan. The sites named are the stomach, the womb and its bleeding, the bowel, the intestinal worms, the blood and lymph, and the bile. The tie between the sha.wa name and the blood, fat and brain rests on the shared word deer, and the entry does not assume the same species for each part.
+
 ### Contraindications
 
 - **Identity:** the Tibetan, Latin and English names are paired through OCR-scrambled and translated tables; do not rely on them for any species-specific use. [USER: verify]

@@ -49,6 +49,10 @@ General, well-established facts only. Tree gums are widely used as thickeners an
 
 **Practitioner's note.** A named ingredient with a probable but unverified identity, found in formulas for urinary disease and ulcers. Nothing in the record supports any cultivation use, and the entry's use is to keep the name and its three contexts on record.
 
+### Functional–Anatomical Correlate
+
+Mocharasa is named in the Priyangvadi group, and in compound formulas for urinary disease and for ulcers and sinuses. For urinary disease (Prameha) it is an ingredient of fermented and decoction preparations, so the urinary tract is the region the text treats. In the ulcer and sinus oil, applied to the healing of ulcers and traumatic sinuses, it is one ingredient among many, with Rodhra and Dhataki flowers. The Priyangvadi group has no metrical text of its own. A shared metrical text, read by position, says the groups help deranged Pitta, healing of ulcers, union of fractured bones and dysentery with thick mucus. Those are group claims. The text gives no part of the plant, no taste and no action of Mocharasa alone. The Codex's reading of it as the gum of the silk-cotton tree is its own and is not confirmed by the text.
+
 ### Contraindications
 
 - **Identity.** The reading as the gum of *Bombax ceiba* is ours; do not substitute a product for it on the strength of this entry.

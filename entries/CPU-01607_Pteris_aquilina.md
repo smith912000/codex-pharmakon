@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The one well-e
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It offers a description, an anthelmintic, an abortifacient and ulcer remedies, so it is history and not a practice. The abstentive answer is the honest one, and the plant should not be eaten or drunk.
 
+### Functional–Anatomical Correlate
+
+The chapter maps its uses to the intestines, the uterus and the skin. The roots, taken with honey, are said to expel broadworms, and a decoction of them with wine is said to expel roundworms, so the claimed field is the intestinal tract. Given to women, the roots are said to cause barrenness, and if a woman conceives she aborts, which places the claimed effect on the uterus and pregnancy. Dried roots are applied to ulcers that are moist and hard to cure, and to the necks of yoked beasts, which are skin and soft tissue. Eaten boiled, the young leaves are said to soften the bowels. The chapter prints no humoral, doshic or qi term and no taste or power, only that some roots are red. The identity is the translators' suggestion, and the entry notes the plant is toxic, so these describe the chapter's claims only.
+
 ### Contraindications
 
 The chapter prints no warning on the plant, and says outright that the roots given to women "cause barrenness" and cause a conceiving woman to abort. It is a general, well-established fact that bracken is carcinogenic and toxic, so neither the roots nor the leaves should be eaten, and the abortifacient claim describes a danger to a pregnancy that the Codex does not advise on. Intestinal worms need medical diagnosis and treatment. The identification rests on a translators' suggestion, so no wild fern should be gathered or used on the strength of this entry. [USER: verify]

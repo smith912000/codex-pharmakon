@@ -55,6 +55,10 @@ General, well-established facts only. Because Vishamushtika has no secure botani
 
 **Practitioner's note.** Vishamushtika is a name in a list. The tradition's text gives the drug a place among therapeutic groups and little more, and nothing in the record supports a cultivation use. A cultivator can learn from it only how Sushruta organises drugs into groups by action, and that some names in that classification are no longer certainly identified. Nobody should try to find a plant to match the name.
 
+### Functional–Anatomical Correlate
+
+The entry records only that Vishamushtika belongs to the Surasa'di group. The group's text says it acts as a vermifuge, which points to the intestinal tract and intestinal worms, and as an aseptic agent. It is said to subdue deranged Kapham and to help catarrh (a mucus-related condition), non-relish for food (a loss of appetite linked to the digestive system), asthma and cough. In modern anatomical terms the stated targets are therefore the digestive tract, the airways and lungs, and the mucous membranes, with Kapham as the tradition's term for the mucus-related humour. The name's first element, visha, ordinarily means poison, but the text does not say this drug is poisonous, and the Codex does not infer toxicity from the name. Nothing is printed about the part used, a preparation or a dose for this drug alone, and the plant is unidentified.
+
 ### Contraindications
 
 - **Identity.** The drug is not securely identified; a wrong match could be harmful. Do not substitute any plant for it. [USER: verify]

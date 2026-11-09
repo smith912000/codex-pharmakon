@@ -75,6 +75,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, Vicia sativa acts mainly on the skin. Hydrated seed-flour works as an emollient, softening and drawing poultice on intact skin, with the starch and mucilage matrix doing the work. Galenic-Unani sources class the vetch group as cool and dry and astringent-emollient for external use, and the Dioscoridean material describes a drying, cleansing skin poultice. Internally the entry maps the seed onto the nervous system: beta-cyano-L-alanine is described as a neurotoxin implicated in neurolathyrism. It also names red blood cells, since vicine and convicine can trigger favism-type haemolysis in G6PD-deficient people and potentiate the neurotoxicity. Non-ruminants, including people, are described as especially vulnerable. Internal use is not endorsed, and the entry states that the Egyptian and Assyrian strata cannot fix the species, so no body-system claim rests on them.
+
 ### Contraindications
 
 - **⚠ NEUROTOXIC / CYANOGENIC SEED — do not eat.** The seed contains **β-cyano-L-alanine**, a neurotoxic non-protein amino acid capable of producing lathyrism-like neurological damage, plus **vicine and convicine** which both potentiate that neurotoxicity and can trigger favism-type haemolysis in G6PD-deficient individuals. Human consumption is a famine practice, not a safe one.

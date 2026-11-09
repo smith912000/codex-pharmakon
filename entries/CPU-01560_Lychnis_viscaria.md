@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a wild form identified by comparison, with a purge, a scorpion remedy and a report, so the honest answer is that there is nothing here to take up.
 
+### Functional–Anatomical Correlate
+
+Dioscorides's chapter on the wild lychnis gives three claims. A decoction of the seed, drunk, expels bilious matter through the intestines, so the action is a purge of the bowel and of what the text calls bilious matter. It helps those touched by scorpions, the site being the sting. A third line, introduced by 'They say', reports that the herb laid near scorpions numbs them so that they cannot hurt, and the entry records it as hearsay. The chapter prints no humoral, qi or doshic term, no warming, cooling, drying or moistening quality, and no taste. Its only mapping to the body is through the intestines and the sting. The quantity, two teaspoons of seed decoction, is given without a defined measure, strength or frequency. The Magi and Egyptian names are recorded as names only. The Codex gives no protocol, and a purge is not offered as a health practice.
+
 ### Contraindications
 
 Chapter 3-115 prints no warning, but the only drink it records is a purge that "expels bilious matter through the intestines", and a purge can dehydrate. Scorpion stings need medical care and must not be left to a seed decoction. The identification is only the translators' suggestion, and the chapter's quantity ("Two teaspoons") is of a decoction whose strength it does not state, so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

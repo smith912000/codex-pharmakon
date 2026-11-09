@@ -43,6 +43,10 @@ General, well-established facts only. There is no established evidence that croc
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The entry records that a source list attributes a crocodile-dung remedy to the Ebers papyrus and that the English text on disk does not show it. The honest use is as a flag for later checking against Ghalioungui's glossary or a full translation. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the English Ebers text on disk prints no crocodile dung, so the entry can state no body part, system or action from Bryan. The only attestation is a source-list row, which names a contraceptive use and cites a web page the Codex does not rely on; the entry could not find that use in Bryan's English. The nearest printed item, Crocodile-earth, is an ingredient in poultices for headache, cataract, pterygium and grey eyebrows, but the entry does not say whether it is the dung, so it is not mapped here. If the list row is taken at its word, the only system it touches is the reproductive, as an unverified claim of fertility control. The text gives no temperature, humour or other quality, and no preparation for the dung.
+
 ### Contraindications
 
 - **Infection and hygiene:** faeces of a wild reptile carry *Salmonella* and other bacteria; do not ingest, insert or apply any.

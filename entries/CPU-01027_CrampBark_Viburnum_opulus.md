@@ -73,6 +73,10 @@ There is a coherent, if indirect, chain from doctrine to molecule: coumarins and
 
 ---
 
+### Functional–Anatomical Correlate
+
+Cramp bark is mapped onto the smooth muscle of the hollow organs, above all the uterus, with extension to visceral and skeletal spasm and colic, and onto the lax mucosa that checks flux. In Unani terms it is cold and dry, qabid (astringent) and murakhi (relaxant), a corrective for a hot, turbulent, spasmodic motion in the lower organs. Dioscorides places the bark among the styptika for binding haemorrhage. The modern anatomy named in the entry is smooth-muscle spasmolysis by the coumarin scopoletin, with tannins and proanthocyanidins acting on surface proteins and hydroxycinnamates such as chlorogenic acid. Antioxidant and antibacterial effects are reported in vitro for fruit and bark, and cell work on myoblasts and hepatocytes tracks glucose uptake. The entry grades the uterine antispasmodic claim as low, resting on an old report and class effects only. Raw berries are emetic, and uterine-active use in pregnancy is not a safety endorsement.
+
 ### Contraindications
 
 - **Raw berries are mildly toxic and emetic** — they contain irritant principles and must be cooked before any culinary use; raw ingestion can cause nausea, vomiting, and cramping (the ironic opposite of the intended effect).

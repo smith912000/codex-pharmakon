@@ -90,6 +90,10 @@ Prickly poppy is a **minor, mild `[RESET]` simple** — a gentle sedative-demulc
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps prickly poppy onto the mind and the sleep state, which the Shen category places at its mildest tier as a faint calming of spirit and easing of sleep onset. Avicenna's cool, drying reading of the field poppy places it on the cough and airway surfaces as a demulcent for irritated cough, while Dioscorides gives a cooling topical use for minor surface inflammation. The eye is named through the argema corneal-ulcer indication embedded in the name, but the entry marks this as name-derived folklore with a null modern result. The modern correlate is the rhoeadine-type alkaloid group of red field poppies, inferred from the congener Papaver rhoeas, together with anthocyanin pigment in the petal. This chemistry contains no morphinan narcotic payload, and the entry notes that the sedative folk claim rests on ethnobotanical report, with no controlled human trial retrieved. Foliage and green capsules carry the alkaloid load and should not be ingested.
+
 ### Contraindications
 
 - **⚠️ Do NOT treat as opium / do not concentrate for narcotic effect** — no morphinan payload exists; attempts to extract one deliver only the minor alkaloids and are pointless and mildly hazardous.

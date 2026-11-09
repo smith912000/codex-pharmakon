@@ -48,6 +48,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with *Solanum americanum*. The Shennong entries concern *S. lyratum*, one is an upper-grade drug and one a middle-grade drug, and neither identification is firm. The Nahua tag is unsupported. The abstentive answer is the correct one: do not use a black nightshade on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry assigns no organ, tissue or body system to Solanum americanum, and its Badianus tag has no locus. The only organ-level content is for two Shennong entries printed as Herba Solani Lyrati (S. lyratum), which the entry says are not this species. Bai Mo (superior class) is sweet and cold, said to treat cold and heat, the eight categories of jaundice and wasting thirst, and to supplement the center and boost qi. Shu Yang Quan (middle class) is bitter and slightly cold, said to treat baldness, malign sores, heat qi, scabs, lichen worms and tooth decay. The entry notes that the Bai Mo entry carries a footnote disputing the identification. No preparation, dose or clinical study is given, and no modern tissue is linked to the species, though steroidal glycoalkaloids are generally reported in the black nightshade group.
+
 ### Contraindications
 
 Black nightshades are members of a family with poisonous members, and unripe berries and leaves of some species can be toxic. Species are hard to separate, and the plants eaten as greens in some regions are not the same as those that cause poisoning elsewhere. None of the traditional uses above is advice. Seek a qualified practitioner, and seek urgent medical care after eating any unidentified nightshade.

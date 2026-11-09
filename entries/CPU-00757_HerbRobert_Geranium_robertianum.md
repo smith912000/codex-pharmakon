@@ -75,6 +75,10 @@ The chemistry underwriting astringency is **well-supported**; the broader medici
 
 **Practitioner's note.** Nothing. Its recorded role is a short-course local astringent and wound herb; grown or gathered from contaminated ground it can accumulate metals, as the entry's cultivator's note warns.
 
+### Functional–Anatomical Correlate
+
+The entry places Herb Robert's action on leaking surfaces: the mucous membranes of the gut (diarrhoea, dysentery), the mouth and throat (mouth ulcers, sore throat, bleeding gums) and the skin and wounds (cuts, bruises, weeping or slow-healing wounds, inflammation). In the European folk and Dioscoridean-derived herbal frame it is an astringent and vulnerary that binds, dries and tightens tissue, stopping fluxes, which the entry links to its hydrolysable tannins (geraniin, castalagin/vescalagin) precipitating surface proteins. The entry says the felt effect is a drawing-together of mucosa and tissue, and it is framed as a local, symptomatic action rather than a systemic one. Its volatile oil is mentioned only as the source of the pungent odour. For the gut, the entry notes that chronic high tannin intake may irritate the stomach and impair absorption of iron and minerals. In vitro antibacterial and antioxidant activity are listed as supported, and neuroprotective effects as preliminary, cell culture only. The anticancer reputation is rejected, since the cytotoxicity is non-selective.
+
 ### Contraindications
 
 - **Tannin load — chronic/high internal use.** Hydrolysable tannins in quantity can irritate the stomach, cause nausea and constipation, and **impair absorption of dietary iron and other minerals** and of some drugs (take separated from medication and iron). Keep internal use short-term and moderate.

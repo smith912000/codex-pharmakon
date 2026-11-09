@@ -41,6 +41,10 @@ Some *Teucrium* species are generally known to be hepatotoxic, and germander pre
 
 **Practitioner's note.** Nothing in the source read gives a cultivator a practice with this plant. The abstentive answer is correct: the uses recorded include a forty-day course and a pessary, and the genus is associated with liver harm.
 
+### Functional–Anatomical Correlate
+
+Per the entry's Dioscorides chapter (3-175), the plant is mapped to the liver, kidneys, urinary tract and bowels. Its decoction in wine, taken for seven days, is recorded for jaundice; in honey water for forty days, for hip pains. It is given for liver complaints, frequent painful urination and inflamed kidneys, and for griping (bowel cramping). Pounded with figs as a pill it soothes the bowels. As a honey pessary it is said to expel things from the womb, and smeared with honey it dissolves hard lumps in the breasts, heals wounds and represses herpes (skin). Dioscorides also names it an antidote to aconitum in Heraclea, Pontus. Chapter 5-80 gives a diuretic wine, good for the same things. The entry states these as Dioscorides' claims, not as Codex protocol, and no traditional energetic classification (no warming, cooling or degree) is printed.
+
 ### Contraindications
 
 *Teucrium* species are associated with liver injury, and the 3-175 uses include pessary and abortifacient-type actions ("expels things from the womb"). Do not use in pregnancy. The traditional uses are not advice; for jaundice or liver complaints seek qualified care.

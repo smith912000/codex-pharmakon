@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is the method of describing an unknown plant by comparing each of its parts to a known one. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The chapter maps the plant to the bowels and the stomach, and to nothing else. Its seeds are said to be astringent, and so to stop both excessive discharge of the bowels and the stomach, which places the action in the digestive tract. The text uses no humour, dosha or qi term, and it prints no hot, cold, moist or dry quality and no taste. The seeds are eaten as lentils are, fried or bruised and boiled, so the digestive tract is also the route of contact. The plant's habit, pods and seeds are described only by comparison with the lentil. The text attributes no action to the leaves, roots, blood, nerves or any other tissue. The translators name two different genera for the plant, so these correlates describe the chapter and not a single species.
+
 ### Contraindications
 
 Chapter 2-178 prints no warning. The identification is only the translators' suggestion, and the translators offer two different genera, so no plant or seed should be gathered or eaten on the strength of this entry. Some vetch and vetchling seeds are harmful if eaten in quantity, which the chapter does not address. Persistent diarrhoea needs medical assessment and should not be managed by an unidentified seed. The text gives no dose and no safety information for pregnancy or children. [USER: verify]

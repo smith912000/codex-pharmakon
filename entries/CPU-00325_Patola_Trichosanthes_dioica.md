@@ -59,6 +59,10 @@ According to PubMed, the evidence for *T. dioica* is **preclinical (animal) and 
 
 **Practitioner's note.** Nothing beyond its ordinary place as a bitter vegetable and group drug; the text records no rejuvenative use.
 
+### Functional–Anatomical Correlate
+
+Patola acts mainly on the liver and bile, digestion, the blood and the body's heat, and the entry classes it as a Pitta and Kapha pacifier that is also balancing across all three doshas. The Ayurvedic actions listed are yakrit-uttejaka and kamala-ghna (hepatic stimulant and anti-jaundice), dipana-pachana (kindling digestion), rakta-shodhaka (blood purifying), jvaraghna (fever, antipyretic), mutrala (diuretic, urinary tract), krimighna (anthelmintic, gut parasites) and, on classical claim alone, hrdya (heart tonic). Its Ushna potency and light, dry qualities are the basis for this reading. The origin note adds Caraka's use of leaf and fruit for alcoholism and jaundice, and use for oedema, subacute liver enlargement, alopecia and general tonic purposes. The modern correlate named is an antihyperglycaemic effect in rats, weaker than glibenclamide. The hepatoprotective claim is graded as tradition-based, with no robust human trials. Caution is advised in high Pitta and hyperacidity, and with concentrated leaf over long periods in severe Vata dryness.
+
 ### Contraindications
 
 - Heating potency (Uṣṇa vīrya): moderate caution in high Pitta / hyperacidity despite its general Pitta-clearing use — leaf preparations are stronger than the fruit.

@@ -48,6 +48,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The species is
 
 **Practitioner's note.** A cultivator has nothing to do with this entry beyond reading it: an upper-class drug whose plant is not settled, whose text promises hair, eyes, ears and freedom from ageing, and which carries no dose. Nothing here supports taking a mugwort on the name alone.
 
+### Functional–Anatomical Correlate
+
+The classic's paragraph names evil qi of the five viscera (五脏邪气), wind-cold-damp impediment (风寒湿痹), supplementing the centre and boosting the qi (补中益气), hair growth and blackening (长毛发，令黑), and heart suspension (心悬) with little eating and constant hunger (少食、常饥). The five viscera are the classic's organ frame and are named only as a group. The hair and body hair are the named tissue, and the heart appears in heart suspension without an anatomical description. Flavour and nature are sweet and balanced (味甘，平). The closing clause promises lightening the body, sharpening the ears and eyes (耳目聪明) and preventing ageing (不老); these are the classic's terms, which the entry does not translate into a modern effect. The Codex does not diagnose heart suspension, and the entry says the species is uncertain, so no organ-level claim is tied to a specific plant. The entry names no mechanism.
+
 ### Contraindications
 
 - The classic does not warn, and the preface calls the upper class non-toxic (line 43). The Codex does not infer safety for any particular plant from this, because the species is not settled.

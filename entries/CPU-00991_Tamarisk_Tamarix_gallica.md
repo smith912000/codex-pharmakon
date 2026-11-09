@@ -120,6 +120,10 @@ The Chinese/Galenic conflict is not resolvable and should not be smoothed over. 
 
 **Practitioner's note.** Tamarisk is a consolidation drug, used topically and in short internal courses to close a boundary that is leaking — bleeding gums, weeping skin, lax gut — and then stopped; its own tannin chemistry makes sustained high-dose internal use a hepatotoxic hazard, so long-term "tonic" use is contraindicated by the plant itself. The genuinely cultivational work it asks of a practitioner is not ingestion but discrimination: keeping its three look-alike products apart (astringent bark, sweet tamarisk honeydew, and the unrelated mannitol *manna* of *Fraxinus*), and refusing contaminated provenance in a species that concentrates whatever the polluted ground holds.
 
+### Functional–Anatomical Correlate
+
+Tamarisk's entry places its action on lax, leaking surfaces: the gut mucosa in flux and diarrhoea, bleeding and lax gums, and weeping skin, with the Near Eastern tradition adding eye complaints. The astringency is tied to tannin-protein precipitation, which the entry accepts as real mechanism, and the Galenic 'cooling, drying, binding' reading maps onto it. The classic indication for the hardened spleen, and the liver and jaundice claims, are deflated because the retrieval found no evidence for them. Chinese practice, using a related species, assigns an outward-moving action on the exterior skin: venting stuck rash, as in measles that will not surface. Tannins also bind non-haem iron, reducing its absorption from the gut, and the entry lists risks to the liver from chronic high-dose internal use. The best-supported use is a gargle for the gums.
+
 ### Contraindications
 
 - **Pregnancy and lactation — avoid.** No safety data. Astringent, and the anti-inflammatory rodent work used doses with no reproductive-tox screen.

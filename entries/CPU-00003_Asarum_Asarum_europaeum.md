@@ -75,6 +75,10 @@ Given the species' obscurity and the danger of overstating efficacy, this sectio
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps asarum chiefly to the head, nose, stomach, kidneys, uterus and liver. In the Galenic frame, a hot-dry evacuant, the finely powdered leaf or root was snuffed as an errhine to purge the head and relieve headache, drowsiness and catarrh of the head and eyes. Taken internally it acted as an emetic on the stomach. It was also classed as a diuretic for the kidneys and an emmenagogue for the menses and womb. Folk registers note the same drastic purging. The Kenetica entry frames these as the extreme dispersing pole of the nard family. Its active principle, asarone, is described as genotoxic and hepatocarcinogenic in animal studies, so the liver is named as the main organ at risk. Pregnancy, lactation, children, frail people and hepatic impairment are contraindicated. The entry gives no safe internal dose and assigns no cultivation status.
+
 ### Contraindications
 
 - **Genotoxic / carcinogenic constituent:** β-asarone is genotoxic and hepatocarcinogenic in animal studies — this alone restricts internal use. **[SPECIALIST ONLY]**

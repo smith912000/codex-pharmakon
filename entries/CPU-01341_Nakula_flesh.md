@@ -40,6 +40,10 @@ General facts only. Wild carnivore flesh must be cooked through and handled hygi
 
 **Practitioner's note.** Nothing here is a practice. In Sushruta the mongoose is a hole-dwelling animal whose flesh shares the group's properties and appears once in a king's protective diet, and whose name is borrowed for an incurable eye disease. A cultivator has nothing to take from it, and the animal is not an ethical or practical source of food.
 
+### Functional–Anatomical Correlate
+
+Little to map: the mongoose is named as a member of the Vileshaya hole-dwelling group, and for it the text gives only the group's properties. Those properties are that the flesh increases the consistency of stool and urine, is heat-making, sweet in digestion, subdues Vayu, generates Pittam and Kapham, is demulcent, and is beneficial in cough, dyspnoea and cachexia. Kalpasthana places mongoose flesh in a king's diet of poison-destroying food, cooked with spices, and the text speaks of antitoxic properties without naming an organ. The eye disease Nakulandhya is named for the mongoose because the pupil's flashes resemble the animal's eyes; that names a disease and does not describe an action of the flesh. Nothing else is mapped to the animal.
+
 ### Contraindications
 
 - **Food safety and zoonoses:** wild carnivores can carry rabies, leptospirosis and parasites; cook through and avoid handling wild animals.

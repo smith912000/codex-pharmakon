@@ -89,6 +89,10 @@ Attribution: findings from PubMed.
 
 **Practitioner's note.** Two things must be kept apart. The *cultivation* status is thin and singular: only the Unani tradition assigns rose a genuine vital role — a *mufarriḥ* that gladdens and strengthens the *rūḥ* — and even that lives in the *Adwiya al-Qalbiyya*, not the *Canon*. The *devotional and aromatic* life of the rose — rose-water in shrine and mosque, the Kashan *golābgiri*, the Sufi and bhakti symbolism of the opened heart — is real and ancient but is ritual and cultural, not a materia-medica cultivation assignment, and the two should never be blurred. What a cultivator actually does with rose is corrective and calming: a cooling, heart-soothing aromatic for states of heat and agitation, best paired with tonics rather than used as one.
 
+### Functional–Anatomical Correlate
+
+Rose's entry maps its action to the heart and the mind. Unani classes Gul-e-surkh as cold and dry in the first degree and as muqawwi-e-qalb (heart-strengthening), muqawwi-e-dimagh (brain-strengthening) and mufarrih (exhilarating), using rose-water for palpitations, headache, inflamed eyes and disturbance of the vital spirit. Ayurveda names it hṛdya (cardiotonic, gladdening the physical heart and the emotional heart, seat of manas and ojas), raktaprasādana (blood-clarifying), dāhaśāmaka (relieving burning) and manasika balya (mind-soothing). Its tannins give an astringent, toning action, and gulkand acts as a gentle laxative. The clinical evidence is a meta-analysis of RCTs reporting reduced state anxiety, depression and stress, with no effect on trait anxiety, graded very low to moderate. The entry records the cardiotonic claim as traditional, not established by modern cardiac trials, and lists rose oil as a possible skin-sensitising agent.
+
 ### Contraindications
 
 - Generally very safe in culinary/traditional doses. Essential oil (otto) must **never be ingested neat** and should be well-diluted for topical use.

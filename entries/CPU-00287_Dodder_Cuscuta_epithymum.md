@@ -66,6 +66,10 @@ In applied Kenetica it sits as a **potent traditional clearing/evacuant herb** f
 
 **Practitioner's note.** There is nothing to cultivate with this herb. It is a potent traditional purge used in compounded, bounded courses against a defined humoral complaint, and the primary review cited above records inadequate toxicology. It is not a tonic and carries no long-term or life-nourishing status in either tradition retrieved. Any grade or tonic reputation belonging to another *Cuscuta* species in another tradition does not transfer to *C. epithymum*. The names "hellweed" and "devil's-thread" and the thyme-virtue idea are folk and later herbal lore, not Avicennan or Dioscoridean cultivation claims.
 
+### Functional–Anatomical Correlate
+
+Galenic and Unani terms place Cuscuta epithymum as hot and dry (2 to 3 degrees), a purgative of black bile (mus·hil-e-saudā). Dioscorides names black bile and phlegm, with the drug taken in decoction with honey or salt. The main target is therefore the intestinal tract, where evacuation happens. The entry ties the humour to melancholy, low mood, black-bile madness, obstructive and hypochondriac complaints, and some joint and skin conditions, a mapping it presents as humoral rather than as organ anatomy. The Chabra et al. (2018) review, which the entry cites, adds traditional use for nervous, joint, urinary and gastrointestinal complaints. Preclinical findings it reports concern the liver (hepatoprotective), the central nervous system (anticonvulsant), and microbial and immune activity (antimicrobial, immune-stimulatory, antioxidant). It records no human trial and states that toxicological data are insufficient.
+
 ### Contraindications
 
 - **Purgative strength** — avoid in bowel obstruction, acute undiagnosed abdominal pain, IBD, dehydration and debility; risk of cramping, fluid/electrolyte loss with over-use.

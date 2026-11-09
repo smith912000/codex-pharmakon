@@ -43,6 +43,10 @@ General, well-established facts only. Barks rich in tannins are astringent, and 
 
 **Practitioner's note.** Nothing here for a cultivator beyond the habit of naming the part used. The tree is not identified, and no plant should be gathered on this entry's authority.
 
+### Functional–Anatomical Correlate
+
+The entry maps Dioscorides's ptelea to wounds, bones, skin, phlegm in the body and the face, through the chapter's own uses. Its one printed quality is astringent, for leaves, branches and bark. Leaves pounded with vinegar are applied for leprosy and to heal wounds. The flexible bark is wrapped as a bandage, and a decoction of the leaves or root bark applied with hot cloths is said to consolidate a fractured bone by drawing a callus over it sooner. Bark taken in a drink with wine or cold water expels phlegm. The moisture in the first-sprouting bladders, rubbed on the face, clears it. The young leaves are eaten as a vegetable sauce. Dioscorides has no humoral or subtle-body system here, and no warming or cooling quality is printed. The tree is unidentified; the translators' modern tag is marked exotic and is not their identification. The quantity, an ounce of the thicker bark, carries a bracketed unit query, and the entry records it only as printed.
+
 ### Contraindications
 
 - **Identity.** Unresolved. Do not use *Ptelea trifoliata* on the strength of this entry; it is a modern name attached by the translators and the plant is not Dioscorides's.

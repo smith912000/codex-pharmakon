@@ -90,6 +90,10 @@ According to PubMed, an in vitro study of *Plantago major* and its two principal
 
 **Practitioner's note.** A cultivator reaches for plantain to *close* — a bruised leaf on a stung or grazed surface, a seed-mucilage to settle the bowel. That is restorative craft, not vital cultivation, and no tradition grades it as a longevity or subtle-body plant. Its one charge beyond the therapeutic is the Anglo-Saxon charm, which a practitioner may keep as heritage and recitation while claiming from it nothing about the constitution.
 
+### Functional–Anatomical Correlate
+
+The entry places greater plantain on the skin, the mucous membranes and the bowel. Its wound work is on broken skin: bruised fresh leaf on cuts, stings, bites, splinters and minor burns, to cool, draw and close the tissue. Its mucosal work is on the throat, mouth, eyes (external wash), airway and urinary tract. Its astringent tannins bind loose stool, and its seed mucilage soothes and regulates the bowel. Dioscorides' Galenic frame calls it cool and dry in the second degree, drawing and binding, and gives it for spitting of blood and bowel fluxes. The Chinese frame, drawn from the kin Plantago asiatica, places it in the Kidney, Bladder, Liver and Lung channels, clearing heat, draining damp, promoting urination, cooling the blood to stop bleeding, brightening the eyes and transforming phlegm, the last two from the seed. Lower-burner damp-heat and urinary irritation are named. In modern terms the entry cites in vitro inhibition of neutrophil respiratory burst by the extract, aucubin and baicalein. The entry grades this preliminary and says internal use needs care, notably in bowel obstruction.
+
 ### Contraindications
 
 - **Known iridoid/plantain allergy:** discontinue on any hypersensitivity reaction.

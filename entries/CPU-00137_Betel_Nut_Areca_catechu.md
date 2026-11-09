@@ -77,6 +77,10 @@ Codex policy: the Group 1 carcinogen status and arecoline's cholinergic mechanis
 
 ---
 
+### Functional–Anatomical Correlate
+
+Betel nut's entry maps it to the mouth, the upper digestive tract, the heart and the airways, through its cholinergic alkaloid arecoline. Arecoline is a muscarinic agonist, producing salivation, sweating, warmth and raised gut motility and secretion, and the entry links cholinergic excess to bradycardia or arrhythmia and to bronchospasm. In Chinese Medicine (Bing Lang, Stomach and Large Intestine channels) it kills parasites, breaks food stagnation and abdominal distension, and drains downward through the bowel. Ayurveda (Puga) uses it as an astringent for the mouth and gums and as a krimighna. Unani describes a cold, dry astringent for hot swellings and inflamed eyes. The entry's harm account concerns the chewed quid: IARC classes areca nut as a Group 1 carcinogen, causing oral submucous fibrosis and cancers of the mouth and upper digestive tract, with areca polyphenols and lime implicated in mucosal damage. Pregnancy, cardiac disease, asthma and peptic ulcer are listed as contraindications.
+
 ### Contraindications
 
 - **Habitual chewing — strongly discouraged.** A Group-1 human carcinogen in chewed form; causes oral submucous fibrosis, oral and upper-digestive cancers, and dependence. This is the headline contraindication.

@@ -75,6 +75,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 **Practitioner's note.** In practice the seed is a mild aromatic — a carminative taken after meals and a gentle evening nerve-settle (the musk note) — with a reputed aphrodisiac and cardiac-tonic role in the Asian traditions. Its cultivation weight is light: an aromatic that eases digestion and mind, not a graded longevity or rejuvenation drug, and the essential oil is for supervised, diluted use rather than internal cultivation dosing.
 
+### Functional–Anatomical Correlate
+
+Musk mallow seed, by the entry's account, acts on the digestive tract, the nervous system, the heart, smooth muscle and the breath. Its Kenetica frame is Qi for carminative and circulatory action, and Shen for calming. Digestive: a classical carminative and stomachic for flatulent, sluggish or nervous indigestion, with antispasmodic use for cramp and colic. Nervous: a nervine for restlessness, nervous debility and agitation, in Ayurvedic terms medhya and tridosha-balancing, and in Unani terms a warm aromatic nervine. Cardiac: classed as a cardiac tonic (hridya) in Ayurveda and Unani, described as a gentle aromatic circulatory support. Breath: an oral aromatic and breath-sweetener. The entry offers modern correlates in the ambrettolide musk lactone and reported smooth-muscle relaxant and antihyperglycaemic activity, though it marks these as unverified. Cautions include pregnancy, given reproductive and uterine activity, skin sensitisation to the essential oil, additive hypoglycaemia with diabetes drugs, and additive sedation.
+
 ### Contraindications
 
 - **Pregnancy:** traditionally regarded as reproductively active/uterine-affecting and an aphrodisiac; avoid medicinal internal use in pregnancy. [USER: verify.]

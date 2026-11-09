@@ -53,6 +53,10 @@ General, well-established facts only. *Schrebera swietenioides* is a tree of the
 
 **Practitioner's note.** A drug of the therapeutic groups, used in ghritas and powders for stated complaints. Nothing in the passages read supports a cultivation use, and the identification of the plant itself rests on an OCR'd glossary column. A cultivator should not treat it as a tonic.
 
+### Functional–Anatomical Correlate
+
+Per the Sushruta Samhita, Mushkaka is the first drug of the Mushkakadi group, whose stated action is destroying fat (medas) and removing defects of semen. The listed diseases are Meha (urinary disorders), piles, jaundice, chlorosis, gravel and urinary calculi in the bladder. These map to fat metabolism, the reproductive fluid, the urinary tract and bladder, the rectum (piles), the liver and bile (jaundice) and the blood (chlorosis). As an ingredient, Mushkaka appears in a medicated ghrita for skin disease (Kushtha), where the skin is the tissue named; in a powder for Prameha with honey and Amalaka juice, a urinary target; and in an anjana, an eye application, prepared against poison. The group action belongs to the whole group and must not be assigned to Mushkaka alone. Meha and defects of semen are the tradition's own terms and are not translated into modern diagnoses.
+
 ### Contraindications
 
 - **No warning is printed** for Mushkaka in the passages read. That is not evidence of safety. [USER: verify]

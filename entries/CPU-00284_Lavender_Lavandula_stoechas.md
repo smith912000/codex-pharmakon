@@ -72,6 +72,10 @@ In applied Kenetica it belongs to the wind-down / recovery block — as an aroma
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, Lavandula stoechas acts mainly on the brain and nerves. In the Unani frame it is a hot, dry brain and nerve tonic (muqawwi-e-dimagh) and a deobstruent (mufattih) that clears thick, melancholic humours from the head, with traditional use for low mood, headache, epilepsy and obstructed states. Dioscorides describes stoichas as a warming aromatic given as a decoction for chest complaints, so the entry also lists a chest-directed action. Its modern correlates are preclinical: antioxidant, anti-inflammatory, antibacterial and neuroprotective activity in vitro and in animals, and traditional or mechanistic anxiety and insomnia uses. The entry stresses that the robust anxiety RCTs belong to L. angustifolia (Silexan), not to this species. The stoechas oil is camphor- and fenchone-rich, and camphor can be proconvulsant and cause laryngospasm in infants, so concentrated oil should not be used in seizure-prone people. No TCM or Ayurvedic organ mapping is supplied.
+
 ### Contraindications
 
 - **Camphor/fenchone content** — *L. stoechas* oil is comparatively high in camphor; **camphor-rich essential oils should not be taken internally casually, and should be kept away from the faces/nostrils of infants and young children** (risk of laryngospasm/CNS effects). This is a real distinction from low-camphor *L. angustifolia*.

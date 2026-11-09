@@ -47,6 +47,10 @@ Horseflies (Tabanidae) are blood-feeding flies whose females bite large mammals,
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The entry is a record of a blood-dispersing insect drug whose text is partly lost and whose identity does not go below the family. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The entry maps to the eyes, the blood and the reproductive system. It names red, painful eyes (mu chi tong), and a clause about wounding and tears that is partly lost in the transcription. It names stagnant blood and blocked blood (yu xue xue bi), which the text does not place in any organ; blocked blood is commonly read as stopped menses, but the text does not say so. Infertility (wu zi) maps to the reproductive system. A clause on cold and heat with aching has a lost character. The energetic frame is bitter and balanced (wei ku, ping), with middle-class placement and no organ or channel affinity. The Huainanzi line that the fly disperses accumulated blood is the only statement of action in the sources read. Red painful eyes need medical examination, and a blocked period or infertility needs proper care.
+
 ### Contraindications
 
 - **Pregnancy.** The text names the drug as dispersing accumulated blood and treating blocked blood. It should not be used in pregnancy or with anticoagulant drugs. This is a precaution drawn from the stated actions and not from a statement in the text. [USER: verify]

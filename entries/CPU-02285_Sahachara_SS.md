@@ -52,6 +52,10 @@ General, well-established facts only. The identity is open, so no pharmacology c
 
 **Practitioner's note.** An under-described name in two lists, with two kinds the text does not tell apart and an identification that rests on a column count. Nothing supports cultivation use, and without a secure identification nothing can be gathered or used. A cultivator reads it as a name in a record.
 
+### Functional–Anatomical Correlate
+
+The text places Sahachara only by group. In the Viratarva'di group, the group subdues all disorders of deranged Vata and is said to cure Ashmari, Sharkara, Mutrakrichhra, Mutraghata and urinary troubles. Modern anatomy for these sites is the urinary tract and bladder, and the entry does not translate the terms into diagnoses. In chapter 39 it is one of the Vata-soothing drugs, a virtue stated for the whole list as restoring deranged Vayu to its normal state, which the text does not locate in any organ. The name is printed as 'the two kinds of Sahachara', and the text does not say how they differ. No part used, taste, potency, dose or recipe is given. The Barleria cristata appendix pairing is positional, from counting columns, and is marked for verification. The plant is not securely identified, so no organ or tissue is attributed to Sahachara itself beyond the group's named sites.
+
 ### Contraindications
 
 - **Identity.** The plant is not securely identified, and the translator's "two kinds" is unexplained. Do not substitute any herb for it, and do not rely on the appendix's positional Latin line.

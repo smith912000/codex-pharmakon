@@ -66,6 +66,10 @@ According to PubMed, the respiratory tradition has real preclinical support, and
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, Saptaparṇa's principal target is the respiratory tract. Its leaf alkaloids, led by picrinine, are described as antitussive, antiasthmatic and expectorant in animal cough and bronchoconstriction models, which the entry relates to the Dai folk use for tracheitis, cough and bronchitis. In Ayurvedic terms the bark acts on the febrile body (jvaraghna), on worm infestation (kṛmighna), and on skin disorders (kuṣṭhaghna and tvak-doṣa), and it is named as a galactagogue (stanyajanana). Digestive kindling (dīpana-pācana) appears in its karma list. Its energetics are bitter and astringent, light, dry and heating, with a pungent vipāka: the entry says it dries kapha and warms and settles cold vāta congestion, and may aggravate pitta if overused. The entry grades the respiratory evidence LOW to MODERATE, animal-based but with a regulated Chinese leaf extract, and says human antimalarial and anthelmintic efficacy remain unshown in its sources. Pitta excess, hyperacidity, pregnancy and self-use of bark preparations are cautioned.
+
 ### Contraindications
 
 - Heating potency: caution in Pitta excess, hyperacidity, and inflammatory-heat conditions.

@@ -53,6 +53,10 @@ General, well-established facts only. The identity is open, so no pharmacology c
 
 **Practitioner's note.** An unidentified drug named once in a group list. Nothing supports cultivation use, and without an identification nothing can be gathered or used. A cultivator reads it as a name in a record.
 
+### Functional–Anatomical Correlate
+
+The Sushruta Samhita names Chorakapatra once, in the Nyagrodhadi group, and the group's virtue is the only claim made about it. The group is astringent (sangrahi) and anti-fat, and is said to benefit ulcers, to cure all disorders of the uterus and vagina, to favour the adhesion of fractured bones, to help with all sorts of bodily secretions, and to be curative in haemoptysis. It is also said to assuage a burning sensation of the body. Mapped to body systems, those statements name the skin where ulcers form, the female reproductive tract, the bones, the respiratory tract through coughing of blood, the body's secretions and the body as a whole. The entry notes that the group virtue is not a statement about this member alone, that the text does not say whether it is a tree or a herb, and that whether it is the leaf of Choraka is a reading of the word, not a claim of the text. No part, dose, taste, potency or single-drug use is given.
+
 ### Contraindications
 
 - **Identity.** The plant is unidentified; do not substitute any herb for it.

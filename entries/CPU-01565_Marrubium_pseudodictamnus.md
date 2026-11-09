@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity i
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is two sentences that rank it below dittany of Crete, so the honest answer is that there is nothing here to take up.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the chapter (DMM, 3-38) says the plant grows in many places, is similar to the one before it but less sharp, and does the same things as dictamnus but is not similarly effective. The chapter names no organ, tissue, body system, humour, dosha or qi term for this plant, and prints no taste or temperament. It names no use of its own, no part used and no preparation. Any body action would have to be taken from dictamnus in 3-37, and this entry does not carry those claims over, because the chapter does not say which of them the bastard form shares. The identity is a translators' suggestion under three genera. Nothing here maps the plant to a body system, and any organ-level claim belongs to the dictamnus chapter, not to this one.
+
 ### Contraindications
 
 Chapter 3-38 prints no warning. The drug it is compared with in 3-37 is recorded as expelling a dead embryo and as a "birth-hastener", so the chapter gives a reason for caution in pregnancy, and no one should take a plant on that basis. The identification is only the translators' suggestion, and the chapter gives no dose, so no plant should be gathered or used on the strength of this entry. [USER: verify]

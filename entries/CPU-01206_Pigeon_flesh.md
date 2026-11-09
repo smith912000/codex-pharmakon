@@ -38,6 +38,10 @@ General, well-established facts only. Bird flesh is a source of protein, and und
 
 **Practitioner's note.** A cultivator does nothing with this. The tradition gives pigeon flesh a place in diets for specific conditions and records an avoidance, not a vital-substrate role, and the game bird itself is a legal and hygiene question. The honest use of the entry is as a record of what Sushruta says about this meat, and the abstentive answer is a legitimate one: the text's own cautions (pigeon fried in mustard oil; pigeon with Shilajatu and Makshika) are the practical content.
 
+### Functional–Anatomical Correlate
+
+The Sushruta Samhita places pigeon flesh in the Pratuda group of dry-land birds. Per the text, this flesh is sweet and astringent, cooling in potency, and it generates Vayu while producing a parched condition in the organism, reducing Pittam and Kapham. It is said to suppress urination and to reduce the quantity of stool, so the urinary tract and bowel are the organs it is said to act on. The wild dove's flesh (Kana Kapota) is called heavy and sweet of digestion, and is beneficial in haemoptysis, meaning blood coughed from the lungs. The Kulinga's flesh is called spermatopoietic (semen-producing) and increases Kapham, and the domesticated Kulinga is called highly spermatopoietic and curative in haemoptysis. The fat and marrow of this group reduce Kapham. The text also gives pigeon soup as a diet in bleeding disease (Rakta-Pitta) and in hiccup, and names pigeon fried in mustard oil as an unwholesome combination.
+
 ### Contraindications
 
 - **Food safety:** poultry and game birds must be fully cooked; wild pigeons and doves can carry pathogens.

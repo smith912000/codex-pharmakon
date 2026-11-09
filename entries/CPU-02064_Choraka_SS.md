@@ -52,6 +52,10 @@ General, well-established facts only. The identity is open, so no pharmacology c
 
 **Practitioner's note.** An unidentified aromatic named in a group list, an oil and an antidote. Nothing supports cultivation use, and without an identification nothing can be gathered or used. A cultivator reads it as a name in a record.
 
+### Functional–Anatomical Correlate
+
+The Sushruta Samhita names Choraka in three places, and the entry maps each to what the text states. As a member of the Eladi group it has the group's virtue: subduing Vayu and Kapha, neutralising poison, and clearing skin rash and itch. In an oil cooked with milk, for deranged Vayu and given by oil enema, the listed conditions are sciatica (gridhrasi), lameness, haunch-back, adhya vata, urinary diseases, obstinate constipation (uda-varta), impaired digestion and weakness of the body, so the hip and leg, the urinary tract, the bowels, digestion and general strength are named. As one ingredient of the Ekasara Agada, Choraka is applied against snake poison, singly or in combinations of two or three. The entry notes that the classic gives no rasa, virya or vipaka for the drug, and that the gloss equating it with Taskara gives no plant. The identity is open, and the text gives no part, dose or duration.
+
 ### Contraindications
 
 - **Identity.** The plant is unidentified; do not substitute any herb for it.

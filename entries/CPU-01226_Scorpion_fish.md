@@ -40,6 +40,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The only gener
 
 **Practitioner's note.** There is nothing in the source for a cultivator to use. The chapter is a bile eye wash for named eye complaints; the one thing worth carrying away from it is that the two fish named as the "sea scorpion" differ, which is a reason to treat the identity as open and not a practice.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives one part, the gall of the sea scorpion, one use, an eye wash, and three complaints that all concern the eyes: the eyes in general, white spots on the cornea, and excessive moisture in the eyes. That places the action on the eye, specifically the cornea and the fluid of the eye's surface, and on nothing further. The chapter names no organ beyond the eyes, gives no humour, taste or potency, and records no preparation: whether the gall is used neat or diluted is not stated. The sea scorpion is also named in the Sushruta as a venomous creature, but the entry does not treat that as an attestation of this remedy. Dioscorides says nothing about stings, and the sources give no mechanism for the action on the cornea.
+
 ### Contraindications
 
 Never put an unprocessed animal bile into the eyes: it is a contaminated and irritating fluid, and the eyes are easily damaged by it. Scorpionfish carry venomous spines that cause painful wounds, and handling them is itself a hazard. Eye disease should be assessed medically. These are general cautions and not claims from the text.

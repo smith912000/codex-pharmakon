@@ -42,6 +42,10 @@ General, well-established facts only. A name that appears once in a list, with n
 
 **Practitioner's note.** A name in a list and nothing more. A cultivator has nothing to do with it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the text names Rishavi once, as the last member of the Vidarigandhadi group in Sutra ch. 38. The only action stated is the group's: the group subdues deranged Vayu and Pitta and is said to benefit wasting (phthisis), Gulma, aching of the limbs, difficult breathing and cough. Those are the group's virtues and are not assigned to Rishavi alone. No part of the plant, no recipe, no preparation and no single-drug use is given, and no rasayana chapter read names it. The plant is unidentified, and the text does not say whether Rishavi and Rishavaka are two plants or one. The Codex maps no organ, tissue or channel to it, and gives no modern anatomy beyond the body sites the group's virtue names.
+
 ### Contraindications
 
 - **Identity.** The plant cannot be identified from the text; do not guess a species or use a plant under this name. [USER: verify]

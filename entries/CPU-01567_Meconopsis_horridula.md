@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a bone-healing drug in the Tibetan texts and nothing more can be said from them. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The entry's Tibetan claims (rGyud-bzhi, FMT) act on bone and the skull. In the root-text layer of Clark 1995, the plant heals skull fractures and sustains bone resin, so the cranium and bone tissue are the sites named, with the term bone resin left as printed. In the Clark commentary layer it cures bone fever, which places the action in the bone. In the Men-Tsee-Khang 2011 text it heals fractured bone and protects spongy bone, again naming bone, and gives the same efficacy to a second blue poppy. The commentary layer gives a bitter taste, the only quality printed; no power, humour, dosha or qi quality is stated. The two translations do not settle which English term renders which Tibetan term, so the modern anatomy named is bone tissue in general and, for the skull, the cranial bones. The botanical identity rests on one printed binomial. Fractures and bone fever need medical assessment, and the sources give no preparation or dose.
+
 ### Contraindications
 
 The sources read print no warning. A fracture or bone fever needs medical care and must not be left to a remedy recorded in a materia medica. The botanical identity rests on one printed binomial and a glossary that does not pair in a row, so no plant should be gathered or used on the strength of this entry. The conservation and legal status of wild high-altitude *Meconopsis* was not researched. No safety information for pregnancy was read. [USER: verify]

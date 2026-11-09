@@ -56,6 +56,10 @@ No clinical studies were retrieved for this entry. [USER: verify] With the stone
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry's claimed sites are the limbs and the skin. Bryan's remedies for suppleness and trembling of the limbs end with a compound of scrapings mixed with Mint-of-the-Mountains, oil and wax, swallowed for four days 'to protect against everything'. The limbs, in anatomical terms the arms and legs with their muscles, joints and nerves, are the sites this purpose names. A separate dust preparation is anointed on 'the wheals from blows', which maps to the skin and superficial soft tissue of bruising. The text gives no action to the mint, oil, wax or the sasa-pieces mixed in. No temperament, humour, dosha or qi is given: the Egyptian frame is organised by complaint, and the ka, ba, akh and ib are not engaged in the lines read. The protective purpose is a purpose, not an organ, and is mapped here only as the limbs. The entry records no action on any internal organ.
+
 ### Contraindications
 
 - **Unidentified material:** the stone is unknown; unidentified stone dust should not be swallowed or applied to broken skin.

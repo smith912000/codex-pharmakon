@@ -48,6 +48,10 @@ General, well-established facts only. Viper bites are medical emergencies and ar
 
 **Practitioner's note.** There is nothing here for a cultivator to take up. The one lesson is Dioscorides' own: he separates what he can prescribe (a way of dressing and boiling the flesh), what he calls false (the lice, the measured cutting), and what he only repeats (long life), and a cultivator who reads him should do the same. A rumour of long life recorded for a venomous snake is not a reason to eat it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Dioscorides flesh maps three sites: the eyes, which are made quick-sighted; the nerves, for disorders of the nerves; and the glands, since it represses enlarging scrofulous tumours (the translator glosses these as glandular swelling and goitres). The salt made from the living viper has the same uses, less well. In the Unani Canon (entry hayya, viper named within it), the flesh's drying is strong in the blood, and its specific action is to drive waste matter out to the skin; the broth strengthens sight and helps nerve pains, the skin boiled in wine eases ear pain, and a split viper laid on a bite eases pain. The Arabic says the flesh 'lengthens life, strengthens power, and preserves the senses and youth'. The Canon explains that claim by neither innate heat nor radical moisture. Dioscorides records, without endorsing it, a saying that eaters are longlived. Dioscorides prints no quality (warm, cold, drying) for the viper himself. The entry names no essence-extraction site and no deity.
+
 ### Contraindications
 
 - **Venom and handling:** a viper bites; do not catch, kill or process one. Treat any bite as an emergency.

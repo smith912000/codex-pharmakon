@@ -66,6 +66,10 @@ According to PubMed, a phyto-pharmacology review of *Oxalis corniculata* documen
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps creeping woodsorrel onto the stomach and bowel, where it is used for hot stomach, thirst and hot loose stools in dysentery. In the Galenic and Unani frame it is cold and dry in the second degree, refrigerant and astringent, correcting hot bilious (safra) states such as bilious fever and inflamed swellings. In Chinese terms the sour, cold herb clears heat, cools the blood and drains damp-heat, with use for hot dysuria in the urinary passages, sore throat and, applied fresh, burns, bites, boils and slow wounds, which places the skin and blood in its reach. The Ayurvedic frame, marked for verification, reads it as amla that pacifies pitta when used sparingly. The modern correlate is the polyphenol and flavonoid fraction, with antibacterial, antifungal and antioxidant activity in preclinical work, and the entry notes there are no human clinical trials. Its oxalate load bears on the kidneys and calcium handling, so the kidneys are the organ most at risk from heavy use.
+
 ### Contraindications
 
 **⚠️ Oxalate caution — primary safety flag.** *Oxalis corniculata* is rich in **oxalic acid / soluble oxalates**. It should be **avoided or strictly limited in anyone with a history of calcium-oxalate kidney stones, hyperoxaluria, gout, or renal impairment**, and not consumed in large or habitual quantities by anyone. Oxalates bind calcium (reducing its absorption and potentially contributing to stone formation) and impose a load the kidneys must clear. Avoid concurrent large intake with other high-oxalate foods. Caution in pregnancy and in children given the oxalate load and absent safety data. Not a substitute for medical care in dysentery or significant burns. Correct plant identification matters, as several sour trifoliate herbs are confused in folk use.

@@ -40,6 +40,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The classic's 
 
 **Practitioner's note.** A name in a list, with nothing said of the plant. A cultivator has nothing to do with this entry beyond reading it.
 
+### Functional–Anatomical Correlate
+
+Little to map: Gundra is named once, as a member of the Viratarvadi group of Sutrasthana chapter 38, and the text prints no property for it on its own. The group as a whole is said to subdue the deranged state of Vata and to be curative in ashmari (stone), sharkara (gravel), mutrakrichhra and mutraghata (difficult or obstructed urination) and urinary troubles, so the only bodily system the entry can attach is the urinary tract, and only through the group. The lines read give no rasa, virya or vipaka, no organ or channel, and no modern anatomy, and the Codex does not translate these terms into modern diagnoses. One word after 'Vata and' is lost at a page break, so the group's full claim cannot be read. Nothing is said of Gundra's own action.
+
 ### Contraindications
 
 - **Identity.** Unknown; do not gather or use any plant on the strength of this entry. [USER: verify]

@@ -78,6 +78,10 @@ Evidence grade: **moderate for demulcent/antitussive use (mechanistically clear,
 
 **Practitioner's note.** A cultivator uses marshmallow exactly as its pharmacology dictates and its traditions agree: as a protective coat laid down first — cold-macerated root water to shield and soothe a raw throat, gut or airway before harsher work. None of the five traditions assigns it a cultivation grade, an ascent role, or a vital-substrate action, and the honest register does not invent one. Its lesson is protection-before-action, which is a behavioural discipline, not a longevity claim.
 
+### Functional–Anatomical Correlate
+
+Marshmallow is classed as cooling and moist, a demulcent whose named action is coating and soothing irritated surfaces. Its mapped sites are the mucous membranes of the throat, oesophagus, gut and airway, where the mucilage forms a hydrated film that the entry links to a reduced cough reflex and reduced rawness. The chest and dry-cough airways are the principal respiratory target, and Avicenna's Unani use also targets urinary irritation. Topically it serves as a poultice for inflamed skin, boils and minor wounds, and the entry cites a rat study in which topical gel increased fibroblasts, collagen synthesis and hair follicles in healing wounds. Ayurvedic framing pacifies pitta and vata irritation of the mucous membranes. In the gut, the mucilage coat may delay the absorption of other oral drugs, and thick preparations carry a choking caution in people with swallowing difficulty.
+
 ### Contraindications
 
 - **Absorption interference:** the mucilage can coat the gut and delay or reduce the absorption of concomitantly taken oral drugs — separate marshmallow from other medications by at least 1–2 hours.

@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** A single sentence in a vajikarana chapter, with no dose, course or duration. A cultivator has no practice to take from it: the text frames the recipe as an aphrodisiac for a defined purpose, and the plant's identity is a translator's gloss. Nothing here supports taking the seed.
 
+### Functional–Anatomical Correlate
+
+Sushruta's Ikshuraka, which the translator glosses as Kokilaksha, is named in the vajikarana chapter (Chikitsa 26), the chapter for increasing strength and virile power. Its seeds, pulverised with Atmagupta seeds and sugar and taken with milk, are said to enable a man to indulge in the pleasures of youth for the whole night without fatigue, so the text maps the seed to sexual vigour and strength. The same name occurs in a urinary compound (Uttara 58) for suppression of urine, with seeds of lotus, Vala and other roots, pasted and dissolved in wine, said to remove defects of the urine and eliminate gravel from the bladder. The bare name Ikshuraka also appears in an alkali, in a decoction for shula pain of the Vataja, Pittaja, Kaphaja and Tridoshaja kinds, and in a ghrita. The text prints no rasa, virya or vipaka under either name, and does not say the seed builds ojas, tejas or prana. The rasayana chapters do not name it.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for the seed. The identity is open, so no plant should be gathered or used on the strength of this entry. Urinary retention, stones or blood in the urine need medical care, and a wine-based or aphrodisiac preparation is not a safe substitute. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

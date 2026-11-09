@@ -59,6 +59,10 @@ According to PubMed, the modern evidence is **preclinical (in-vitro)** and centr
 
 **Practitioner's note.** Nothing. No rejuvenative use is recorded.
 
+### Functional–Anatomical Correlate
+
+Ajakarna acts mainly on wounds and skin, on the bowel and on mucous membranes, while its heartwood acts on fat and Kapha. Its Ayurvedic actions are vranashodhana-ropana (wound cleansing and healing), kushthaghna (anti-dermatosis), grahi and stambhana (astringent), and, for the heartwood, medohara and lekhana, all within the Salasaradi group. It pacifies Kapha, and the oleoresin is classed as heating in virya. The gurjun balsam (garjan-tel) is applied externally to wounds and skin lesions. Regional practice also uses it for genito-urinary and mucous-membrane complaints, comparable to copaiba, which the entry records as mutra and mucous-membrane use. The modern evidence is preclinical. The marker triterpene dipterocarpol showed cytotoxicity in Jurkat, HeLa and HepG2 cancer cell lines, with selectivity over non-cancer Vero cells. A later emulsion study reported apoptosis in HCT116 colon and HepG2 liver cancer cells. The entry says this is congruent with wound use but not human-validated. Internal use can irritate the GI and urinary tract in quantity.
+
 ### Contraindications
 
 Balsam dressings: patch-test; discontinue on irritation. Internal (copaiba-style) use of the oleoresin only under qualified supervision — can irritate the GI and urinary tract in quantity. Pregnancy/lactation: internal use best avoided without guidance. Botanical-identity caution: "Aśvakarṇa/Sarja" is applied to several Dipterocarps — confirm the species before sourcing.

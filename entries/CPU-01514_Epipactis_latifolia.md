@@ -41,6 +41,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant, and nothing here can be done with it. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter states two actions only. Taken as a drink, the plant is said to act against poisons, with the translators' bracketed gloss antidote, and it is taken for disorders in the liver. The liver is the only body part named, and the chapter does not say what the disorder is or how it acts there. It prints no hot, cold, moist or dry quality and no taste, so no humoral, doshic or qi classification can be drawn. It names no tissue, channel or other organ, and gives no mechanism. Two other names are printed, elleborine and borion. The identification as an Epipactis orchid is only the translators' suggestion, and the text's description of a small shrub does not clearly fit an orchid, a tension the entry leaves unresolved. No preparation, quantity or safety information is given in the chapter.
+
 ### Contraindications
 
 The chapter prints no warning. Poisoning and liver disease need medical care and should not be left to an unidentified plant. The identification is only the translators' suggestion among several, and many orchids are protected plants that should not be picked. No safety information for pregnancy was read. None of the traditional uses above is advice. [USER: verify]

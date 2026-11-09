@@ -38,6 +38,10 @@ General facts only. Wild game can carry zoonotic infections and parasites, and t
 
 **Practitioner's note.** Nothing here is a practice. In Sushruta the Kalapuchchaka is a name in a list, with only its group's qualities attached, and the animal cannot be identified. The honest answer is nothing.
 
+### Functional–Anatomical Correlate
+
+Little to map: the Kalapuchchaka is named once, in the list of shore-dwelling animals (Kulachara group), and the text gives it no sentence of its own. Its only qualities are the group's: spermatopoietic; destroys deranged Vayu and Kapham; sweet in taste and digestion; cooling; tonic; demulcent; diuretic; increases Kapham. The body systems those words name are the reproductive system, the digestive tract, the urinary tract and the mucous lining of the throat and gut. They apply by membership and not by a sentence about this animal. The animal is glossed in the Vol. 3 glossary as a black-tailed bird, which the entry notes does not fit the group. The spelling in the fever chapter is a different form and is not merged here.
+
 ### Contraindications
 
 - **Hygiene and infection:** wild game can carry bacteria and parasites; cook through.

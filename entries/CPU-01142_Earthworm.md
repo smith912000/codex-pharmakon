@@ -50,6 +50,10 @@ General, well-established facts only. A fever that returns every third day is a 
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The chapter is a list of five remedies for injuries and complaints and the Codex does not recommend them. The honest use of the entry is as a record. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Greek chapter’s five uses map onto several body parts. Pounded and applied, the worms “glue together sinews that are cut apart”, which concerns tendons and connective tissue. They “dissolve tertians”, fevers with paroxysms every third day, a systemic febrile action. Boiled with goose grease and dropped in, or boiled with oil and poured into the opposite ear, they treat diseases of the ear and toothache, which map to the ear and dental region. Taken in a drink with passum, they “expel urine”, mapping to the urinary tract. Avicenna’s Unani entry adds worms bound on nerve wounds, a goose-fat decoction for earache, boiled-down wine for jaundice, and crushed worms in wine to provoke urine and help stone, and calls the worm hot by his own inference. The Shennong entry, salty and cold, governs the three worms, hidden corpse illness and gu poison, and notes that the worm turns into water. The Greek chapter prints no quality.
+
 ### Contraindications
 
 - **Cut tendons and deep wounds:** need surgical and medical care; do not apply animal tissue.

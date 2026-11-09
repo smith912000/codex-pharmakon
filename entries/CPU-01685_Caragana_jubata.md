@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a blood drug in the Tibetan texts, and its Latin name is not settled. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The root-text clause for mdzo.mo says that the Caragana 'dissolves blood clots and cures blood fever' (Clark), which maps the drug to the blood, its clotting, and the fever the texts place in the blood. Clark's chapter 21 list puts it among the medicines that cure blood disorders, and the Men-Tsee-Khang text says the same of 'Zhomo', which it calls a blood thinner that cures hot disorder associated with the blood. In modern anatomy terms the system named is the blood and circulation, with clotting as the mechanism the texts describe. The commentary layer, in Clark's brackets, describes a thorny tree covered in white fur, with a yellow flower and heartwood like red sandalwood, and calls it larger than gra.ma; it names no organ or tissue. The entry prints no humoral, doshic or qi classification, and no taste or power. The Latin name is unsettled, and the link from Zhomo to mdzo.mo rests on sound and on the blood lists, so the mapping is the texts' claim.
+
 ### Contraindications
 
 The sources read print no warning. The identity is uncertain, so no plant should be gathered or used on the strength of this entry. A drug said to thin the blood is not for use alongside anticoagulants or in bleeding disorders without medical advice, and fevers and blood disorders need medical care. No safety information for pregnancy was read. [USER: verify]

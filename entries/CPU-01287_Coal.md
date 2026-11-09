@@ -42,6 +42,10 @@ General, well-established facts only. Activated charcoal, a processed form of ca
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. Coal is a black stone medicine in the list of stone medicines, with two plain actions and no cultivation role. The Codex does not recommend taking it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Kidney and gall bladder: coal is said to dissolve stones, the examples given by the commentary being gall stones and kidney stones, so the claimed sites are the gall bladder and biliary tract and the kidneys and urinary tract. Channels and bleeding: the root text says it constricts the mouths of the channels, the Tibetan body channels that carry fluids, whose openings modern anatomy would call ducts or vessel mouths. The 2011 translation instead says it stops bleeding, which points to the blood vessels and the site of bleeding. The Tibetan system classes it as a stone medicine, with no taste, potency or humour given. The commentary describes it as black, like charcoal, which is a colour and not a site. Modern anatomy therefore maps coal to the kidneys, urinary tract, gall bladder and biliary ducts, and to bleeding vessels, as the text claims.
+
 ### Contraindications
 
 - **Toxicity:** coal can contain arsenic, mercury and other trace elements, and coal dust and fumes are harmful; do not swallow, grind or burn it as a medicine.

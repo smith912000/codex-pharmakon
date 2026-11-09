@@ -86,6 +86,10 @@ Retrieved from PubMed this run:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Great burnet acts on the blood, the bleeding surfaces and the lower bowel. In the Chinese record the root (Di Yu) enters the Liver, Large Intestine and Stomach to cool the blood and stop bleeding of heat type, such as bloody stool, haemorrhoidal bleeding and bloody dysentery, and charred root is applied to burns and weeping skin. The Greek styptic and Unani stancher describe the same closing action, which the entry ties to tannin protein precipitation on exposed surfaces. A systemic claim concerns platelets: a study reports that epigallocatechin promotes megakaryocyte differentiation and platelet production in bone-marrow models. Ziyuglycosides are recorded as preclinical immunomodulators, and the entry notes that a Di Yu preparation is used clinically for leukopenia under supervision. Cold-deficiency bleeding is a contraindication.
+
 ### Contraindications
 
 - **Contraindicated in cold-type / deficiency-type bleeding (TCM).** Di Yu is a *cold* drug for *hot* bleeding. In spleen-yang deficiency, cold-pattern diarrhoea, or bleeding from deficiency-cold, the tradition explicitly warns against it — and that warning is doctrinally load-bearing, not decorative.

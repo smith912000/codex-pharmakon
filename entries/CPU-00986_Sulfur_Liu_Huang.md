@@ -61,6 +61,10 @@ Elemental sulphur has long been used on the skin (for instance against scabies a
 
 **Practitioner's note.** Sulphur is a skin and fumigant drug in the sources read, graded middle by the Chinese classic with its own warning to stop once the disease is met. Nothing sourced supports taking it for cultivation, and the smoke the Greek text advises inhaling is a respiratory irritant. A cultivator can read the entry for the discipline of sorting and sourcing the material and take nothing from it as a regimen. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides' sulphur chapter (5-124) claims a long list of sites. The lungs and airways are reached through coughs, rotten sputum and asthma. The womb is named where smoke is said to act as an abortifacient. The skin is reached through leprosy, lichen, vitiligo, itching and rotten nails. A spoonful helps jaundice (the liver and bile) and the nose and catarrh. The ears are reached through hardness of hearing and bruises, the sweat glands because sprinkled sulphur is said to keep one from sweating, and the joints for gout. Excessive blood discharges are stopped. The Chinese Shi Liu Huang, middle class, is said to treat genital erosion in women, flat abscesses, haemorrhoids and malign blood, and to fortify the sinews and bones and cure baldness. The Tibetan Explanatory Tantra says yellow sulphur dispels spirits and dries pus, blood and lymph, and black sulphur cures erysipelas. The only Egyptian locus is an eye remedy for pterygium.
+
 ### Contraindications
 
 Burning sulphur makes sulphur dioxide, which is dangerous to inhale, especially for people with asthma. Do not inhale the smoke or swallow sulphur on the strength of this entry. Sulphur on the skin can irritate. The "abortifacient" use in the Greek text is recorded, not endorsed, and is dangerous. Crude or "processed" mineral sulphur may carry arsenic and other contaminants.

@@ -40,6 +40,10 @@ Greek: the chapter prints an action only ("prevents inflammation"), with no qual
 
 **Practitioner's note.** Nothing. A cultivator does not apply animal lung to the feet. The text records it against chafing and blisters, and the Codex keeps the record without carrying it into practice.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter states one action, that lungs of swine, lamb or bear, applied to chafing and blisters on the feet from shoe rubbing, 'prevents inflammation'. The body parts named are the feet and the skin of the soles, with blisters and chafing as the conditions. The lung is not claimed to act on the lungs or on any internal complaint. The chapter gives no quality such as warming, cooling or drying, and no preparation beyond 'applied', with no quantity, duration or form. The three animals are named together for the same use. No cultivation, amulet or spirit function is recorded. The entry notes that neighbouring chapters use lung in other ways, which it does not carry over. The Codex does not recommend placing raw animal tissue on broken skin.
+
 ### Contraindications
 
 Raw animal organ on broken skin invites infection, including wound infection and, in the case of bear, *Trichinella* and other parasites in the meat; bear products are also legally restricted in many places (many bear species are protected). Do not apply raw animal tissue to blisters or open wounds; clean the area, protect it, and seek care for spreading redness, pus or fever. Pig products are prohibited in some religious traditions; respect them. This entry gives no medical advice.

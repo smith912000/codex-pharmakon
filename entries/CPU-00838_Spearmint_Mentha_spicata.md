@@ -75,6 +75,10 @@ According to PubMed, Grant (2010, *Phytotherapy Research*) conducted a 30-day, t
 
 **Practitioner's note.** Spearmint is a dispersing, de-escalating herb, not a tonic in any tradition's cultivation sense. A cultivator uses it for a defined job — moving a stuck, cold, windy digestion — or for the deliberate, trial-supported twice-daily antiandrogen tea. Its quiet through-line across the traditions is the *anti-generative* note, which is the categorical opposite of a generative or life-hoarding cultivation aim: this is a herb of softening and release, taken for a purpose and then set down, never a longevity drug.
 
+### Functional–Anatomical Correlate
+
+Per the entry, spearmint is warm and dry in the second degree in Galenic and Unani terms, a carminative and stomachic acting on the stomach, gut and digestion. Ayurvedic pudina is pungent and warming, kindling digestion and clearing ama, while the allied TCM bò he is acrid and cool, releasing the exterior and coursing Liver qi. The TCM mapping runs to the Lung and Liver, clearing heat from the head and eyes and soothing the throat, and the entry places spearmint in that family. Its oil is carvone-dominant, with limonene and cineole, and the entry maps its carminative and antispasmodic action to the smooth muscle of the gut. Its anti-androgen effect is mapped to the endocrine system: a placebo-controlled trial in women with PCOS-associated hirsutism found free and total testosterone fell and LH and FSH rose. The entry notes the objective hirsutism score did not change over 30 days, and it cautions that the anti-androgen effect is two-edged where androgen levels must be preserved.
+
 ### Contraindications
 
 - **Anti-androgen action is a two-edged effect:** helpful in androgen excess, but sustained high intake is theoretically inappropriate where androgen levels must be preserved (e.g. some fertility contexts, male hormonal concerns); the ancients' "anti-generative" reputation is consistent with this. `[USER: verify]` clinical significance of casual culinary intake — trial effects used deliberate twice-daily tea.

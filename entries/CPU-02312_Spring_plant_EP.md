@@ -50,6 +50,10 @@ General, well-established facts only. The identity is open, so no pharmacology c
 
 **Practitioner's note.** An unidentified plant in a four-ingredient back poultice. Nothing supports cultivation use, and without an identification nothing can be gathered or used. A cultivator reads it as a name in a record.
 
+### Functional–Anatomical Correlate
+
+In the Papyrus Ebers the Spring Plant is one of four ingredients in a Back-remedy for a complaint in the abdomen that has spread into the backbone, which the text names uxedu and likens to the knife-grinder's disease. The four are crushed, cooked in the yeast of sweet beer, and smeared on for four days. The regions the entry can name are therefore the abdomen and the backbone, with the skin as the surface the smear touches. The text names no internal organ and does not describe what the plant does, so no separate action is assigned to it. The Ebers corpus is organised by complaint and gives no humoral, doshic or qi classification for single substances. The translator's name for the complaint is not turned into a modern diagnosis, and the entry notes that abdominal pain spreading to the back can have serious causes.
+
 ### Contraindications
 
 - **Identity.** The plant is unidentified; do not substitute any herb for it.

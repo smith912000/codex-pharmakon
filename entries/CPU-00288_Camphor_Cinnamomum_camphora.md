@@ -176,6 +176,10 @@ Avicenna's Canon classifies camphor as extremely cold and dry (4th degree cold �
 *[1 tradition paragraph(s) removed 2026-07-18 — tag withdrawn per approved attestation ruling; see spine notes.]*
 
 *[2 paragraph(s) removed 2026-07-18 — tag withdrawn per attestation ruling; see spine notes.]*
+### Functional–Anatomical Correlate
+
+Camphor's entry maps to the skin, the musculoskeletal system, the upper airway and the central nervous system. Topically, activation of TRPV3 and TRPM8 receptors and sodium-channel blockade give counterirritant, analgesic, antipruritic and numbing effects over joints and muscle, which TCM describes as dispelling Wind-Damp and relieving pain. Inhaled vapour acts on the respiratory mucosa, with expectorant action through TRPA1 and antimicrobial effects in the vapour phase. TCM classes it as a kāi qiào aromatic for Closed-type collapse, placed in the Heart, Liver and Spleen, acting on arousal, cerebral blood flow and respiratory centres at low doses. Unani classes it as fourth-degree cold, used for fever, palpitations and internal heat. Ayurveda gives cooling virya and external Kapha and Vāta pacifying action. At higher oral doses the entry names GABA-A blockade and convulsion; pregnancy, children and oral self-use are contraindicated. The entry records no cultivation status in any tradition.
+
 ### Contraindications
 
 **CRITICAL SAFETY PROFILE — This section carries the highest safety priority of any contraindication section in Volume I of the Codex.**

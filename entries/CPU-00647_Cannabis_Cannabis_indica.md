@@ -86,6 +86,10 @@ According to PubMed, Hoch et al. (2024), *European Archives of Psychiatry and Cl
 
 **Practitioner's note.** Two medicines live in one plant: the non-intoxicating seed (I_128), a gentle moistening food-medicine, and the resinous intoxicant, which every source-tradition hedged with purification, dosing precision, and a ritual container. No tradition assigns the intoxicant a cultivation-of-vitality status; the devotional and tantric framings are real history, not protocols. The psychoactive register is legally controlled and clinically gated — verify the law, do not self-dose, and heed the documented psychiatric and developmental risks in Contraindications.
 
+### Functional–Anatomical Correlate
+
+Per the entry, cannabis acts on different systems by register. The seed (huo ma ren, TCM) is sweet and neutral, moistening the intestines and treating constipation in dryness, mapped to the Large Intestine, Spleen and Stomach channels. The resin and flowering tops are analgesic, sedative, antispasmodic and appetite-affecting, which the Unani and Ayurvedic frames place on the nervous system, pain, sleep and digestion (deepana-pachana, grahi, nidrajanana), with tikta, katu and ushna qualities. The entry's modern review finds benefit in chronic pain, muscle spasticity, nausea and vomiting, and refractory epilepsy for cannabidiol. It cites risks to the brain and psyche, including psychosis, mood and cognitive effects, acute effects on heart rate and cardiovascular events, and restricted fetal growth. The entry notes that CBD inhibits CYP enzymes and that additive CNS depression occurs with sedatives, alcohol and opioids. The Ayurvedic and Tibetan frames are historical only.
+
 ### Contraindications
 
 - **Legal:** possession/use restricted or prohibited in many jurisdictions — **verify local law**.

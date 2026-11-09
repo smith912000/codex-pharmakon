@@ -45,6 +45,10 @@ General statement only: a drug that cannot be tied to a species cannot be linked
 
 **Practitioner's note.** A name that survives only in one group list, for *Kapham* disorders of the chest, appetite and worms. Nothing in the record supports a cultivation use, and with the plant unidentified there is nothing to do with it. A cultivator does nothing with this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives no effect for Kharpushpa alone. The Surasadi group's metrical text, under which the name is filed, says the group acts as a vermifuge and an aseptic agent, subdues the deranged Kapham, and proves beneficial in catarrh, non-relish for food, asthma and cough. In modern terms those conditions fall on the intestinal worms, the appetite and digestion, and the respiratory airways and chest, but the text does not place this drug in any of them. The list gives no basis for placing the name, and the entry notes that its reading (khara, rough, and pushpa, flower) is a gloss of the word, not a statement of the text. No plant, part, preparation or dose is given, and the entry is a historical record only.
+
 ### Contraindications
 
 - **Identity.** The plant is not identified in the sources read. Do not use any plant sold under this name on the strength of this entry. [USER: verify]

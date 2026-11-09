@@ -47,6 +47,10 @@ The identity is unresolved, so no modern correlation is attempted. No clinical s
 
 **Practitioner's note.** An unresolved group-listed drug, whose one named use is the leaf in a plug for a sinus. Nothing in the record supports any cultivation use.
 
+### Functional–Anatomical Correlate
+
+Alavana is listed in the Arkadi group, with the same statements as Alarka: destroying Kapha and fat, countering poison, acting as a vermifuge and aseptic agent for ulcers, and curing skin disease (Sutra ch. 38). Its one named use is different. In a plug (varti) for a sinus or fistula (Chikitsa ch. 17), its leaves are one of several ingredients, so the body systems the entry maps are the sinus tract and fistula, the tissue they drain from, and the skin. The text prints no rasa, virya or vipaka and no dose. The identity is unresolved: the commentator Dallana reads Kakamardanika and Shivadasa reads Jyotishmati, the translator follows Shivadasa, and no binomial is printed for either. Jyotishmati also occurs in the errhine list of Sutra ch. 39, which this Codex treats as a separate entry. The record is historical and surgical, so no self-care or substitution is implied.
+
 ### Contraindications
 
 - **Identity unresolved.** Two commentators equate it with two different plants. Do not substitute any plant.

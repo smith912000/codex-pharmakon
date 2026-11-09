@@ -45,6 +45,10 @@ Nothing specific to the plant named here was read. No clinical studies were retr
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The plant cannot be identified with confidence from the chapter, and by general knowledge several of the plants suggested belong to groups that can be harmful to the liver. The abstentive answer is the correct one.
 
+### Functional–Anatomical Correlate
+
+The chapter maps two uses onto the throat, chest and face. The root, steeped in wine and licked or chewed by itself, is said to cure coughs and roughness of the throat, which maps to the airways and throat. The grains that come after flowering, pounded and smeared on with wax ointment, are said to keep the face smooth and without wrinkles, which maps to facial skin. The plant is described by its large white leaves, a straight white central stalk, a flower like bryony and a habitat on hills, and it is also called leontice. No humoral, doshic or qi term is printed, and no quality such as warm or cold is given. The text's claims concern the throat and face only and name no organ of digestion, circulation or nerves. The Latin identity is the translators' suggestion; their notes list other plants, and one note reads the chapter as Bupleurum, so the mapping is only as firm as that identity.
+
 ### Contraindications
 
 None is printed in the chapter. As a general caution, an unidentified plant must not be taken on the strength of a translator's suggested binomial. Some members of the daisy-family genera named here are known to contain liver-toxic alkaloids, and the root is described as taken by mouth. Do not use in pregnancy. The chapter's cosmetic use on the face is likewise not advice.

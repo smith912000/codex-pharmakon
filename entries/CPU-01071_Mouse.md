@@ -40,6 +40,10 @@ General facts only. House mice carry and spread *Salmonella*, leptospirosis, han
 
 **Practitioner's note.** Nothing to do. The mouse is a sourced entry, but the only "life-giving" claim for it is a modern scholar's inference about Egypt, which is not in the papyrus text and not in Dioscorides. A cultivator can take from the entry the fact that two ancient traditions used the animal, and that one modern scholar reads the Egyptian use as a ritual of life; there is no practice to follow.
 
+### Functional–Anatomical Correlate
+
+Mouse maps to the anus and bowels, the skin, the scalp, the bladder, the mouth and the scorpion-bite site. In the Ebers, a mouse tail is taken in a drink with onion-meal, honey and water to cool the anus for four days, and mouse oil goes into a salve for hardenings. Dioscorides (2-74) applies cut-apart mouse to scorpion-stung skin, and gives roasted mouse eaten to dry the spittle in children's mouths. Mouse dung (2-98) is rubbed on for baldness of the scalp, taken with frankincense and wine to expel urinary stones from the bladder, and given to children as a suppository to move the bowels. The entry marks these as reports ('it is declared'). No humour, temperament, taste or potency is printed for the mouse, and the entry has no Tibetan or Ayurvedic passage for it.
+
 ### Contraindications
 
 - **Disease.** Mice carry *Salmonella*, leptospirosis, hantavirus and other infections; handling their bodies, droppings or urine is a health hazard. Never feed one to a child. [USER: verify specifics]

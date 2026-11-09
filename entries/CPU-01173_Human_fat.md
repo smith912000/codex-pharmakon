@@ -38,6 +38,10 @@ Tibetan: Clark's general materia medica sets out the six tastes, eight powers an
 
 **Practitioner's note.** Nothing. A cultivator does not use this substance. The Tibetan text lists it as a medicine for two named complaints, and the Codex keeps it as a record of what was written, not as a practice.
 
+### Functional–Anatomical Correlate
+
+The Tibetan text gives human fat two stated actions. It subdues wind disorders, the rlung humour that is one of the three humours in the frame, and it heals psoriasis, which maps to the skin. In modern terms the fat is adipose tissue, a store of triglyceride lipid under the skin and around organs. It appears in a group of animal fats (snake, deer and pig fat beside it), and the entry records no taste, potency or post-digestive taste, and no humour beyond wind. No preparation, route or dose is given. The entry places it among other human body materials (bone, flesh, brain, urine and excreta) whose actions are stated in the same chapter 20 list. No connection to bcud len or any subtle-body practice is printed.
+
 ### Contraindications
 
 Not a recommended practice. Human tissue can transmit blood-borne viruses, bacteria and prion disease, and no source retrieved describes any screening or sterilising step. Taking, selling or using human remains is illegal or tightly regulated in most places, and it raises questions of consent and dignity. Where psoriasis or a "wind"-type disorder is the concern, see a qualified clinician; this entry is not clinical advice.

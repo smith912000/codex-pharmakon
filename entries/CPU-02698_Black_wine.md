@@ -44,6 +44,10 @@ General, well-established facts only. Alcohol is a central nervous system depres
 
 **Practitioner's note.** Nothing to practise. A salted honey-wine from an indication-organised chapter, with no bearing on the vital constitution in the sources read. Historical only.
 
+### Functional–Anatomical Correlate
+
+Per the entry's own Dioscorides (DMM) claims, Oinos meletites acts on the stomach, the bowels, the urinary passages, the kidneys, the joints and the head. The chapter says it is given in long-lasting fevers to those with a weak stomach, that it gently loosens the bowels, induces urine and purges the stomach, and that it is good for arthritis, kidney disease and those with a weak head. It is also described as fragrant and nourishing for women when drunk with water. In modern anatomy terms this maps to the gastric tract, the intestines, the renal and urinary system, the joints and the head as the text uses that term. The chapter prints no warm or cool quality, and no humoral or energetic frame is assigned to this wine, so none is mapped here. The entry notes that the text itself hedges on giving wine to the sick, and the Codex records these claims as historical only.
+
 ### Contraindications
 
 - **Alcohol.** Avoid in pregnancy, breastfeeding, liver disease, alcohol-use disorder, diabetes (the honey), and with sedating or interacting medicines.

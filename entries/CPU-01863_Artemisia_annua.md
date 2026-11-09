@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a fever-and-lung drug in the Tibetan texts, its species is not settled, and a link to the neighbouring mugwort drug's essence-extraction role is not made by the text. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts map tshar.bong onto the throat and the lungs. Clark's root-layer clause says it cures throat fever and lung disorders, and the Men-Tsee-Khang line says it cures fever of the larynx and lung disorders. In the entry's terms the sites are the throat or larynx and the lungs, with fever as the disorder named. The commentary, in square brackets, describes a bush with a hot, bitter taste and a strong odor, but gives no organ for it. Modern anatomy places the larynx and throat in the upper airway and the lungs in the lower, which are the sites the two sentences name. No part used and no preparation are given. The entry notes that artemisinin, from Artemisia annua, is an established antimalarial, but says no source links that drug to tshar.bong, and that the drug's species is unsettled among three Artemisia names, so the throat and lung claims belong to the Tibetan drug and not to one plant.
+
 ### Contraindications
 
 The sources read print no warning. The identity is uncertain between three species of *Artemisia*, and members of the genus are aromatic plants that can cause allergic reactions in people sensitive to the daisy family; no plant should be gathered or used on the strength of this entry. Fever of the throat and lungs needs medical care. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

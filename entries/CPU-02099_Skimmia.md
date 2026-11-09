@@ -53,6 +53,10 @@ General, well-established facts only. *Skimmia* species are small evergreen shru
 
 **Practitioner's note.** A lower-grade, toxic leaf for malaria-like attacks, joint wind and wasting, now "seldom used" by Yang's own account. The tradition's own grading is the warning, and nothing in the record supports any cultivation use. A cultivator should not use it.
 
+### Functional–Anatomical Correlate
+
+The entry maps to the five viscera, the heart and abdomen, the joints and the body's wasting, in the classic's terms. Sun's damaged text lists evil qi in the five viscera, cold and heat in the heart and abdomen, emaciation resembling malaria with attacks at set times, and wind in the various joints. Yang's complete text adds wind-damp impediment pain in the joints. The heart and abdomen are named as sites, so the chest and belly are the regions. The Wu Pu layer gives the flavour as bitter and the nature as slightly warm and toxic, and the entry says the classic assigns no organ or channel. Yang's footnote links the drug to wind epilepsy with tremor and head shaking, but that is his modern commentary and not the classic's text, so it is recorded separately and not mapped as an action. The genus is generally regarded as poisonous, and no dose or preparation beyond drying the leaf is recorded. The Codex gives no protocol and does not recommend the plant.
+
 ### Contraindications
 
 - **TOXIC.** The Wu Pu layer marks it toxic, and the genus is generally regarded as poisonous. Do not ingest it. Do not gather it.

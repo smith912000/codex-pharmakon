@@ -43,6 +43,10 @@ Bitumen and petroleum are not safe to swallow; ingestion of petroleum products c
 
 **Practitioner's note.** Nothing here for a cultivator to take. Natural asphalt is in these sources a name on lists and an ingredient in two Egyptian remedies for worms and the womb. The only honest lesson is a caution, because the material is hazardous by mouth and its identity in the Egyptian text is Bryan's. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the Ebers text (EP) gives sites in two entries only. In a tapeworm remedy the target is the intestinal worms of the gut, with the oil given in sweet beer as the vehicle. In a remedy to correct a displaced uterus, the oil is kept in honey and rubbed on a woman's body, so the uterus and the body surface are the claimed sites. The Assyrian (AT) and Avicenna (CM) attestations are list rows with no actions printed, and the Chinese grade is absent. The Assyrian and Avicenna entries are not read, so no site is taken from them. The entry gives no humoral, doshic or qi term for the substance. In modern anatomy the claimed sites are the intestinal tract, the uterus and pelvic organs, and the skin where the rub is applied.
+
 ### Contraindications
 
 Do not swallow asphalt, bitumen or petroleum: they cause vomiting and can be inhaled into the lungs, and the tars carry carcinogenic compounds; skin contact can cause burns, photosensitivity and, with long exposure, cancer. Preparations sold as "mumia" are unstandardised, and if any is made from human remains, the ethical and legal rules on human remains apply. Quarrying and sale of natural bitumen are regulated in many places. [USER: verify]

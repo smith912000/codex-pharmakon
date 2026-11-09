@@ -43,6 +43,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a comparison note with two small remedies, and the identity is too unsettled to act on. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The chapter maps to two organs. Its leaves, applied with polenta, are said to help inflamed rheumatic eyes, so the eye is the target and the complaint is an inflammation with a rheumatic character. Its leaves boiled and sipped are said to stop dysentery, which maps to the bowel and its lining. Sharp taste is the only quality given, and it belongs to the leaf rather than the body. The chapter gives no temperament, humour, dosha or qi. The comparison with helxine and the description of branches twenty centimetres long and growth among corn are botanical. The identity is contested: the translators' suggestions are a toadflax and a waterwort, and the existing Toadflax entry reads the chapter as Linaria elatine. The mapping to eye and bowel is the chapter's own whichever plant it is, and no modern pharmacology was read.
+
 ### Contraindications
 
 The chapter prints no warning. Inflamed eyes and dysentery need medical care and should not be left to an unidentified plant. Because the plant is uncertain between genera, nothing should be gathered or used on the strength of this entry. No safety information for pregnancy was read. None of the traditional uses above is advice. [USER: verify]

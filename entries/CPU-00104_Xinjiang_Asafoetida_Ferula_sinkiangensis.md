@@ -61,6 +61,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 **Practitioner's note.** Nothing. A pungent, fetid resin used for defined digestive and antiparasitic complaints, with no cultivation practice recorded in the sources available.
 
+### Functional–Anatomical Correlate
+
+The entry places Xinjiang asafoetida mainly on the digestive tract and abdomen. In Chinese Medicine A Wei is warm, acrid and bitter, entering the Spleen and Stomach, used to disperse food stagnation and abdominal masses, move stagnant qi, warm a cold abdomen and ease cold-type pain and distension. Its sulphur volatiles and sesquiterpene coumarins are described as carminative and antispasmodic, acting on gut smooth muscle and wind, and as antiparasitic against intestinal worms. The Unani-style description given in the entry is hot-dry, carminative, deobstruent and antispasmodic, with the same focus on the bowel. The entry also notes it can kindle weak digestion in cold, stagnant patterns, and that its antiplatelet activity bears on bleeding, with caution alongside anticoagulants. Heat patterns and hyperacidity are cautioned against, and the pregnant are advised to avoid medicinal doses. No Uyghur-specific use is recorded.
+
 ### Contraindications
 
 - **Pregnancy — avoid medicinal doses.** Mass-dispersing/emmenagogue reputation; culinary pinches are food, medicinal doses avoided. [USER: verify.]

@@ -76,6 +76,10 @@ Filed under **Soothing / Restoration**: a first-line pectoral demulcent for dry,
 
 ---
 
+### Functional–Anatomical Correlate
+
+Common mullein is mapped onto the respiratory passages, the throat and voice, the ear, the skin and the surface of inflamed tissue. Dioscorides' phlomos is directed against cough and for wounds. The Galenic-Unani frame classes it cool and moist, softening (mulattif) and pectoral, for the rough, dry, hot cough, hoarseness and roughness of the windpipe, and the flower oil is the traditional warm eardrop for earache. The entry adds piles and inflamed surfaces, and, through Ayurvedic adjacency, a kasahara, cough-relieving role. Its physical account is mucilage forming a film over irritated mucosa, with saponins as expectorants thinning bronchial secretion. Verbascoside and iridoids are described as anti-inflammatory, shown in a monocyte model to reduce iNOS activity. Ear-drop trials show pain relief, but the entry states that much of it is self-limiting. Stellate leaf hairs irritate the throat and must be strained out. Evidence is graded moderate for the anti-inflammatory mechanism and weak for systemic anti-infective claims.
+
 ### Contraindications
 
 - **Leaf-hair mechanical irritant.** The stellate trichomes cause contact/mucosal and throat irritation and can be an inhalational/ocular irritant — **all internal preparations must be well filtered**; avoid handling dried leaf near eyes.

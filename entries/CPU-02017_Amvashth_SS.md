@@ -49,6 +49,10 @@ General facts only. If the identification holds, the plant is a climbing herb of
 
 **Practitioner's note.** A group-heading drug for Pitta, ulcers, fractures and dysentery, with an uncertain identification. Nothing in the record supports any cultivation use.
 
+### Functional–Anatomical Correlate
+
+The Amvashthadi group, headed by Amvashtha, is paired in the text with the Priyangvadi group, and the pair together are said to prove beneficial in deranged Pitta, to favour the healing of ulcers, to bring about the adhesion of fractured bones, and to cure dysentery in which the stools contain lumps of thick, matured mucus (Pakvatisara). Mapped onto the body, this covers the Pitta humour, ulcerated tissue, the bones, and the intestines as the site of dysentery and mucous stools. The text names no part of the plant, no preparation and no dose for Amvashtha alone, and prints no rasa, virya or vipaka for it. It is not placed in any vajikarana or rasayana chapter read. The Latin identity, Stephania hernandifolia, is a positional pairing in the appendix, and the spelling differs from the group list, so the body-system claims apply to the group as the text states them, and no substitute climber is implied.
+
 ### Contraindications
 
 - **Identity uncertain.** Do not substitute any Stephania or other climber on the strength of this entry.

@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As a general m
 
 **Practitioner's note.** Nothing here gives a cultivator a practice. A weed of the wheat field, a poultice and a smoke are recorded; if it is corn cockle, it is a plant to keep out of the grain, not into the body. The abstentive answer is the correct one.
 
+### Functional–Anatomical Correlate
+
+The chapter (2-122) maps the herb, ground and used as a poultice with radishes and salt, to ulcers, rotten ulcers and gangrene, and to nomae, a disease that eats away muscle, tissue and bones. With natural sulphur and vinegar it is said to cure wild lichenae (skin disease) and leprosy. Boiled in wine with pigeons' dung and flaxseed it dissolves scrofulous tumours (glandular swellings, goitres), and boiled with honey and water it is applied for sciatica (the hip and leg nerve). Its smoke, inhaled with polenta, myrrh, saffron or frankincense, is said to help conception (the womb). The entry gives no temperament, humour or degree. It notes that the identity is weak, so these organ claims are Dioscorides' and are not verified effects of a confirmed plant. If the plant is corn cockle, its seeds are toxic when eaten.
+
 ### Contraindications
 
 If the plant is corn cockle, its seeds are toxic when eaten and the plant should not be taken internally. The chapter's uses (ulcers and gangrene, leprosy, tumours, sciatica) are conditions needing a clinician, and inhaling smoke to help conception has no endorsement here. Do not use in pregnancy. None of the uses above is advice.

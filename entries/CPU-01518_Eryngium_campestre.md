@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identifica
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is the habit of describing a plant at each stage and by smell and cut surface, and of keeping what is "said" apart from what the author states. The text offers nothing more.
 
+### Functional–Anatomical Correlate
+
+The chapter's own claims reach several systems. It says the root 'is able to warm' and that the plant expels urine and the menstrual flow, which places the action on the urinary and reproductive tracts and gives warmth as its quality. Taken as a drink it dissolves griping and gaseousness, a digestive and wind action. Taken with wine it is good for liver complaints, and it is given as an antidote for those bitten by venomous creatures and for those who have taken a deadly drink. The root, taken as a drink with honey water, cures tetanus and epilepsy, which places the action on the nervous system. The claim that a plant rubbed on someone or worn dissolves tubercles, or growths, is marked as something 'said' and is recorded without endorsement. Beyond warmth, the chapter prints only aromatic taste and smell, so no further humoral, doshic or qi classification can be drawn.
+
 ### Contraindications
 
 The chapter prints no warning. The text says the root expels the menstrual flow, so it should not be used in pregnancy. Tetanus, epilepsy, poisoning and venomous bites need immediate medical care and must not be left to a home preparation. The identification is only the translators' suggestion, so no plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing here gives a cultivator a practice. The resin is a perfume, and a reported slimming drink that the text itself calls poisonous to the taste. The abstentive answer is the correct one.
 
+### Functional–Anatomical Correlate
+
+The chapter's uses fall on several body systems, with organs named in the text. A half teaspoonful taken as a drink for many consecutive days is reported to make fat bodies lean, which is a body-weight claim. It is given to the splenetic, so the spleen is the named site, and to epileptics (the nervous system) and asthmatics (the airways). Taken with honey and water it brings down the menstrual flow, a reproductive action. Diluted in wine it takes off scars in the eyes and heals their moisture. For gums rotten from moisture and for toothache it is said to help as nothing else can, so the gums and teeth are the sites. The text calls the resin poisonous to the taste. The perfume use with myrrh and styrax acts on cloth, not on the body. No humoral, doshic or qi category is printed. The identity of the tree is unsettled.
+
 ### Contraindications
 
 The text calls the material "poisonous to the taste". It is not securely identified, so no safe use can be inferred. Taking an unidentified resin for many consecutive days to lose weight, or for epilepsy or asthma in place of treatment, is dangerous. The menstrual-flow use implies it is unsuitable in pregnancy. None of the uses above is advice.

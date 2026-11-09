@@ -47,6 +47,10 @@ General, well-established facts only. Decayed wood is not a sterile material, an
 
 **Practitioner's note.** A decay material for ulcers, in an old text that gives it three lines. Nothing supports cultivation use, and the wound use is unsafe. A cultivator reads it as an instance of how little the ancient pharmacy excluded.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter names one site and one tissue, the skin and its ulcers. Laid on ulcers, the decayed-wood material is said to clean them and bring them to scar. The only other use given is for a condition the translator queries as snakebite, where it is kneaded with an equal amount of anise and wine, or pounded and applied in linen. Dioscorides gives the material no temperament, energetic quality, organ affinity, season or source tree, and the entry imports no classification. Nothing in the chapter reaches the eyes, bones, viscera or any internal system. The entry notes that decayed wood carries spores and bacteria, a general fact and not a claim of the chapter, so an open ulcer is a route for infection. It gives no protocol and no dose, and the wound use is historical record only.
+
 ### Contraindications
 
 - **Infection.** Do not put rotten wood, soil or mould on an open wound or ulcer. Decay material can carry spores and bacteria.

@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this bark. The honest answer is to do nothing with it on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that the list row names the bark of Maytenus macrocarpa as a Peruvian Amazon traditional bark medicine, with a cited SciELO Peru source that is not on disk. No body system, organ or tissue is named. No people, preparation, complaint or use is given, and no constituent or clinical study was read. The South American tradition carries no humoral, doshic or qi classification, and none is imported. The cultivation register is absent: no dieta, specialist role or teacher-plant relation is attested. The entry therefore assigns no organ action and no physiological mechanism. Its only safety content is a general caution that the row itself does not state: an unidentified bark preparation should not be taken in pregnancy, while breastfeeding, by children, or with prescription medicines without medical advice. Legal and trade status are unchecked.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, an unidentified bark preparation should not be taken in pregnancy, while breastfeeding, by children, or alongside prescription medicines without medical advice. This is general caution and is not found in the row. Legal and trade status is unchecked. [USER: verify]

@@ -43,6 +43,10 @@ Lead(II,IV) oxide is a pigment and was once used in paints and glazes; lead expo
 
 **Practitioner's note.** There is no practice here. The classic's long-use promise attaches to a compound of lead, a cumulative poison; the preface itself says lower-grade drugs are not for long use; and the Codex gives no dose and no recommendation. For a cultivator the only use of this entry is as a warning: the claim "taken long, communicates with the spirit-light" is the classic's, and following it would be poisoning.
 
+### Functional–Anatomical Correlate
+
+The Shennong classic gives red lead sites in the stomach, the nervous system and the qi. It treats vomiting and stomach reflux, which map to the stomach and to the upward movement of food and fluid; the Yulan variant reads vomiting and purging, which adds the intestines. Fright epilepsy maps to the brain and nervous system, through fits. It removes heat and brings down qi, which maps to the body's heat and to qi, whose organ the text does not name. The alias and the Mingyi layer add no site. The paragraph's closing sentences, that refined red lead returns to nine radiances and that long use communicates with the spirit-light, name no bodily site, and they are mapped to none. The entry is in the lower grade with no channel or organ affinity printed.
+
 ### Contraindications
 
 - **Lead poisoning.** Red lead is a lead compound. Do not ingest, inhale or apply it. Children and pregnancy are the most at risk. Lead is a cumulative poison.

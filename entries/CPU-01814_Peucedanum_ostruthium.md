@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapters gives a cultivator a practice with this plant. The useful lesson is Dioscorides' method of judging a drug by colour, transparency, smell and taste, and of naming the adulterants (sagapenum, bean meal) that a buyer should test for. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Under Dioscorides (DMM), chapter 3-94 on silphion maps the root to the bladder, which the text says the root hurts, and calls the root warming, hard to digest and inflative. Its listed uses reach the skin and hair (scrofulous nodules, alopecia, lichen, corns, gangrene, carbuncles), the teeth (toothache), the joints and nerves (sciatica), the throat and voice (a suddenly hoarse voice, and laryngitis, which the text calls cut-off voices), the chest (coughs and pleurisy), jaundice and dropsy, the arteries, the menstrual flow, the coeliac complaint, hernia, and convulsive states such as tetanus and epilepsy. The juice is rated the most effective part. Chapter 3-80 maps only a sweet, edible root and a seed given with wine for snakebite. The Peucedanum ostruthium identity is the translators' suggestion, and silphion is recorded by the translators as harvested to extinction.
+
 ### Contraindications
 
 Chapter 3-94 itself records that the liquid "causes dullness over your body" in the Cyrenian grade when tasted and that the weaker Median and Syrian grades "have a more poisonous smell"; several of its uses are by mouth (a pill for tetanus), on open wounds (gangrene, bites) or in the eye. Chapter 3-94 also lists the menstrual flow and conditions of the womb among its uses, which is a risk in pregnancy. The carrot family includes some of the most poisonous plants of the temperate flora and some that cause skin reactions in sunlight, and the identification here is a translators' suggestion, so no plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

@@ -82,6 +82,10 @@ Modern literature on this plant is dominated by aerobiology and allergy, and thi
 
 ---
 
+### Functional–Anatomical Correlate
+
+Externally the entry maps the plant to skin and scalp: ash-lye washes for sores, eruptions and greasy or crusted skin, and cleansing pastes for the mouth and teeth as dentifrice. Internally the historical Unani indications are the bowel (purgative), the urinary system (diuretic), and the phlegm of the chest and airways, described as cold, thick and viscid, which the entry links to alkali thinning mucus. The modern evidence is respiratory and ocular: pollen sensitisation causes rhinitis, conjunctivitis and asthma (Sal k 1, profilin). Caustic ash can burn skin and cause permanent eye injury. Sodium load is tied to blood pressure (hypertension, heart failure) and fluid balance, and oxalate to the kidneys (nephrolithiasis, gout, renal impairment). Purgative and diuretic use risks electrolyte loss and interacts with lithium and digoxin.
+
 ### Contraindications
 
 - **⚠️ POLLEN ALLERGEN — MAJOR.** *Salsola kali* pollen is a leading cause of seasonal rhinitis, conjunctivitis and asthma across the Mediterranean, Turkey, Central Asia and Iran (Sal k 1; profilin/Sal k 4). Handling, drying or burning the flowering plant may provoke severe respiratory symptoms in sensitised individuals. **Profilin cross-reactivity** means patients sensitised to grass profilin (Phl p 12) may react without prior saltwort exposure.

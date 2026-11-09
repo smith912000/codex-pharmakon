@@ -42,6 +42,10 @@ General, well-established facts only. No lizard tissue has been shown to be a sa
 
 **Practitioner's note.** A cultivator does nothing with this. It is an aphrodisiac at second hand from a wild reptile, and the chapter's own advice is to hold a counter-drink ready. If anything is taken from it, it is the structure: a claimed effect, a stated measure, and a way to reverse it, all in one chapter.
 
+### Functional–Anatomical Correlate
+
+The skink's sourced action falls on the reproductive drive and the kidneys. Dioscorides says that the part lying around the kidneys, taken in wine, is a provocative to lust, and he reports this at second hand. The Unani Canon places the best flesh and fat of the animal at the kidney region and says its salt rouses desire. The Canon's joint-organ entry adds benefit for cold ailments of the nerves, so the nervous system is also named, while the tradition gives no temperament or degree. Modern anatomy would name the kidneys and adjacent fat, the sexual system and the nerves. The text also maps a counter-action: lentil decoction with honey, or lettuce seed in water, is said to repress the intensity of the desire, so the drive is treated as something that can be reined in. The entry states no mechanism for how either effect occurs.
+
 ### Contraindications
 
 - **Hygiene and infection:** reptiles are a recognised source of *Salmonella*, and preserved reptile remains of unknown handling should not be eaten or drunk.

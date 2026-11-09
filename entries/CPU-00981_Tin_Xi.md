@@ -56,6 +56,10 @@ Metallic tin is poorly absorbed and has little pharmacological activity; its his
 
 **Practitioner's note.** Nothing here for a cultivator to take. Tin is, in these sources, a vessel, a compound metal, a named member of a vermifuge group and a minor constituent of a mountain resin. The honest takeaway is an identity warning: the old names for tin and lead cross, and a "tin" remedy may have been lead. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the sources give tin no action of its own. Xi Tong Jing Bi, the compound Yang renders as tin and copper, is said to treat blood block in females, concretions and conglomerations lying in the intestines, and infertility, so the claimed sites are the female reproductive organs and the bowel. Sushruta's Trapu, which the list reads as tin and the Uttara worm passage reads as killed lead, sits in the Trapvadi group, described as a good vermifuge (intestinal worms) that neutralises chemical poison. It is one constituent of Silajatu, which the diabetes chapter names with the metals. The Greek chapters name tin only as a vessel material, and that is not an action. No humour, dosha, qi or temperament is printed for tin, so this list is the whole of what the entry states.
+
 ### Contraindications
 
 Because the old names for tin and lead cross, treat any traditional "tin" or *Trapu* preparation as a possible lead preparation. "Killed" or "ash" metal preparations are unstandardised. Organotin compounds are toxic. Use of metal preparations in medicine is regulated in many places.

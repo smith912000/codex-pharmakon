@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a bitter blood and channel drug in the Tibetan texts, and the glossary pairs its name with this binomial only by column order while Clark gives another species. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Men-Tsee-Khang text places Rekon in the bitter taste group of chapter 19, says in chapter 20 that it dries up blood, cures baekan mukpo and hot disorder of the channels, and lists it in chapter 21 among medicines that cure blood disorders. Clark, under the Latin name Corydalis edulis, says the same drug is hemostatic and cures channel fever caused by brown phlegm. The sites the entry maps are therefore the blood, the channels, and the bleeding or fever held in them. Baekan mukpo is a Tibetan disorder term whose body site is not given in the lines read, so it is recorded as the text's term and not located. The entry names no organ, tissue or route. The binomial Corydalis nepalense is set against the name only by glossary column position, and Clark gives another species, so the mapping to blood and channels is the texts' and not a species-verified one. No modern organ is assigned.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The identity rests on a column position and the genus is generally known to contain alkaloids, so no plant should be gathered or used on the strength of this entry. Bleeding and fever need medical care. No safety information for pregnancy was read. [USER: verify]

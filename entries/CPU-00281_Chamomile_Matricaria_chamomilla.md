@@ -118,6 +118,10 @@ Chamomile occupies a precise niche in the Kenetica pharmacological toolkit: the 
 
 **Practitioner's note.** For the cultivator chamomile's value is a settling ritual rather than a tonic. The honest practice is behavioural — the evening infusion that downshifts arousal and eases the transition to rest, a legitimate abstentive/recovery move. No tradition in the Codex assigns it a vital-substance-building or rejuvenative grade; its standing everywhere is that of a gentle therapeutic and calmative, taken for effect, not to nourish a vital endowment.
 
+### Functional–Anatomical Correlate
+
+Per the entry, chamomile acts on the nervous system, the gut, the skin and the inflammatory response. In Avicennan terms it disperses the vapours of the nervous system, calms spasm and limb tremor, eases colic and womb pain, and its steam is used for head pain and catarrh. The Qi frame assigns the Liver (Qi-moving, antispasmodic), Stomach and Spleen (digestive, anti-inflammatory) and Heart (Shen-settling), with a middle Dantian placement and a secondary upper Dantian Shen layer. In modern terms the entry names apigenin at the GABA-A benzodiazepine site as the anxiolytic and sleep-onset mechanism, and chamazulene and bisabolol as 5-LOX and cytokine-level anti-inflammatory action. Gut use rests on bisabolol and mucilage for mucosal soothing and antispasmodic action. Topically it is cited for dermatitis, eczema and wound healing. Ayurvedic classification pacifies Vata and Kapha. The entry flags uterine effects at high doses and CNS potentiation with anaesthesia.
+
 ### Contraindications
 
 - **Asteraceae allergy** — chamomile shares sesquiterpene lactone allergens with ragweed (*Ambrosia*), chrysanthemum, and other Asteraceae; those with known ragweed allergy have ~5% cross-reactivity risk; test topically before internal use

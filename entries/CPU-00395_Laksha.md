@@ -38,6 +38,10 @@ Shellac is a resin used as a coating and glaze in food, pills and wood finish. H
 
 **Practitioner's note.** Nothing here for a cultivator to take. What the text offers is a clean resin used on wounds, bones and the urinary passage. For cultivation the entry is a record that Sushruta's lac is a practical surgical material and not a rejuvenator. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Sushruta Samhita, read here in Bhishagratna's English, gives lac (laksha, shellac) a local surgical role at several sites. For a bleeding wound its powder is lightly touched on the mouth of an opened vein (Sutra ch.14). For a fracture, powdered shellac is mixed into a milk drink given each morning (Chikitsa ch.3), so bone healing is the claimed site. A heated shellac-pasted ladle is applied to a fatty tumour, medoja granthi (Chikitsa ch.18). A tube of shellac is passed in urethral stricture (Chikitsa ch.20), so the urinary passage is mapped. It also appears in an eye pill-ointment (Uttara ch.19) and an oil for the ear-lobes (Chikitsa ch.25). The Lakshadi group, which heads with laksha, is described as astringent, bitter and sweet in rasa, and as acting on deranged kapha and pitta and on cutaneous disease (kushtha), with a vermifuge and aseptic action on ulcers. The entry prints no rasa, virya or vipaka for lac alone, and no ojas, tejas or prana claim.
+
 ### Contraindications
 
 Heated shellac burns, and molten resin should not be put in the throat, urethra or a wound. Wound bleeding, fractures and urinary stricture need proper medical care; the Sushruta uses are not a guide. Lac and shellac can cause contact allergy, and lac dye and flakes sold as medicines are unstandardised. Lac is an insect product, which matters to people who avoid animal products. The identity of Laksha in the groups of ch.38 and ch.39 is uncertain. [USER: verify]

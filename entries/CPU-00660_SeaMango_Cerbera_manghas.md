@@ -142,6 +142,10 @@ That the traditions did not build a Galenic or humoral placement for sea mango i
 
 **Practitioner's note.** Nothing. This is an identification-and-avoidance entry; no tradition cited here offers a cultivation use, and the plant is lethal.
 
+### Functional–Anatomical Correlate
+
+The entry maps this tree's action onto the heart and the cells' ion pumps, not onto any therapeutic system. Its cardenolides (cerberin, neriifolins, digitoxigenin glycosides) inhibit the Na+/K+-ATPase, which in the entry's account disturbs sodium and calcium handling in cardiac cells, causing arrhythmia, asystole and serum hyperkalaemia. Poisoning is described as acute digoxin toxicity, with the kernel the main concentrated depot and the leaves, bark, latex and fruit also containing cardenolides. In the traditions it is classed as cold, sinking and killing: a fish poison, pest-killer and ordeal poison, with an emetic or purgative use and external skin use reported only as marginal and unverified. Its latex is an irritant to skin and eyes. The entry records no therapeutic organ target, and its anticancer finding is a cell-line result that it treats as chemistry, not a use. The Kenetic system excludes it entirely and the entry gives no dose.
+
 ### Contraindications
 
 # ⛔ ABSOLUTE — ALL ROUTES, ALL PERSONS, ALL QUANTITIES

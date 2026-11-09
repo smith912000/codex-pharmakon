@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a drastic purgative in the Tibetan texts, with no dose, and the plant the commentary describes does not look like the one the binomial names. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts record shri.khanda as a drastic purgative (Clark, line 989). The Men-Tsee-Khang text says it strongly purges all disorders (line 3427) and places the name among the purgatives (line 3661). Clark's commentary adds that the drug also heals abscesses and gives it astringent and slightly bitter tastes. The organ the texts name for the purgative action is the bowel, and abscesses are named without a site. The commentary describes a tree that yields a white, curdlike sap, and an inferior type that is a leafless plant with similar sap, which is melted to make a concentrate. The entry records that this description does not clearly fit any of the three Latin names. No power or post-digestive taste is printed. No clinical study was retrieved. Strong purgation corresponds in modern terms to dehydration and electrolyte loss, which the Codex notes as a general fact and not as a finding about the drug. The plant identity is in doubt, so no species-level mapping is offered.
+
 ### Contraindications
 
 The sources read print no warning beyond the words "drastic purgative". Strong purgatives can cause dehydration and harm, the identity is open between plants of different families (some spurges are irritant or poisonous), and no preparation or dose is given. No plant or sap should be gathered or used on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

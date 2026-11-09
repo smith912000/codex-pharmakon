@@ -69,6 +69,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps cade mainly to the skin: its scaling, congested or infested surface, and the parasites living on it. The tar is described as keratolytic, softening scale, and as antiseptic and antiparasitic, the classical use against itch, mange, scale and lice. In Galenic and Unani terms it is hot and dry in the third degree, an intensely heating resolvent (muhallil) and cleanser that becomes escharotic in excess. Ayurveda gives it pungent-bitter taste and heating potency, reducing Kapha and aggravating Pitta, while TCM by analogy calls it a surface-releasing, toxin-dispersing agent. The refined foliage and berry oil is noted for antimicrobial action in wounds. Ebers material and Dioscorides mention fumigation and drying salves for weeping surfaces, foul wounds and ulcers. Undiluted, the tar and oil irritate skin and mucosa, crude tar carries polycyclic hydrocarbons, and photosensitivity and staining are noted.
+
 ### Contraindications
 
 - **Crude/unrefined cade oil contains polycyclic aromatic hydrocarbons** and is restricted in cosmetics in several jurisdictions; use only refined, pharmaceutical-grade material and only as directed.

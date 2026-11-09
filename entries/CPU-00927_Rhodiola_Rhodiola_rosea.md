@@ -117,6 +117,10 @@ Hóng Jǐng Tiān (紅景天, "Red Stalk Heaven Plant") is a succulent perennial
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps Rhodiola across several body systems, with a species caveat: its Chinese and Tibetan attestations concern Rhodiola crenulata, so they are congener material. Traditional Chinese medicine places it in the Lung, Heart, Liver and Kidney channels, acting on Lung Qi, blood circulation and Yuan Qi, and calming the Shen. Tibetan medicine uses it for rlung, altitude illness and nervous exhaustion. Ayurvedic reception calls it cooling and sweet, reducing Pitta. The modern correlates are skeletal muscle, where salidroside activates AMPK and improves fat oxidation; the brain, where rosavins inhibit MAO-A and B, raising dopamine and noradrenaline; blood and erythropoiesis, where salidroside activates HIF-1alpha and erythropoietin; the endothelium, where eNOS is activated; and inflammatory and oxidative stress pathways. The entry grades acute performance benefit as RCT-supported and the depression data as comparable to sertraline but small. Contraindications cover bipolar disorder, MAOIs and SSRIs.
+
 ### Contraindications
 
 - **Bipolar disorder and manic-depressive conditions:** MAO inhibitory and dopaminergic effects may precipitate or exacerbate hypomanic or manic episodes; contraindicated in bipolar disorder without psychiatric supervision

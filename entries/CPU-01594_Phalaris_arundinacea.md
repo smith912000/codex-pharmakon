@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The abstentive answer is the honest one: a grass described by its stalks and seed, and drunk for two complaints.
 
+### Functional–Anatomical Correlate
+
+The chapter maps onto two organ systems, by the translators' English. The herb, cut and juiced with water or wine and taken as a drink, and a spoonful of its decoction taken with water, are given for disorders of the bladder and of the sperm. The bladder is the urinary organ, and the sperm is the seminal fluid, which the text does not describe further. The only taste given for the grass is that its stalks are sweet, and no humour, temperament or energetic quality is printed. The seed, white and abundant like millet, is described as part of the plant's form and is not named as a body-acting part. The roots are called slender and useless, so no action is mapped to them. The chapter names no tissue, gland or channel. Whether the plant is reed canary grass or the cultivated canary grass is not settled by the text, so the mapping applies to the plant as described.
+
 ### Contraindications
 
 Bladder and reproductive complaints need medical care and not a grass juice. The identification rests on a translators' suggestion between two species, so no plant should be gathered or used on the strength of this entry; grasses of this genus may carry alkaloids that are harmful to animals. None of the traditional uses above is advice. [USER: verify]

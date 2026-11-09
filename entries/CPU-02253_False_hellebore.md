@@ -50,6 +50,10 @@ General, well-established facts only. *Veratrum* species are known poisonous pla
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. This is a toxic lower-class drug that the classic's own preface says is not for long use, and five authorities in the Wu Pu layer call it toxic. The honest use of the entry is as a record, and as a warning.
 
+### Functional–Anatomical Correlate
+
+The entry's own claims for this root are few, and they concern cough and gu poison. The Shennong paragraph says the acrid, cold root governs gu poison (蛊毒) and counterflow cough (咳逆). It also has a clause read as 泄葱苒, which Sun takes as a name of the plant itself, so the Codex does not read it as a bowel complaint. Yang's English renders that clause as diarrhea and dysentery, intestinal afflux and head sores, and gives 'kills various worms and eliminates dead muscles'. The two editions differ, and the Codex cannot say which the classic had. The Wu Pu layer records five authorities who call the drug toxic. The classic gives no organ or channel. Gu poison is a historical category with no modern anatomical referent. The entry maps no safe use, and its general note on Veratrum alkaloids describes nerve and heart effects only as a poisoning warning.
+
 ### Contraindications
 
 - **Poisonous:** *Veratrum* can cause severe or fatal poisoning (vomiting, slow pulse, low blood pressure, collapse). Do not eat, drink or apply any form of it. Poisoning needs emergency medical care.

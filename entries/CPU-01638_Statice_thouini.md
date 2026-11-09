@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is the caution about naming: a plate caption, a wintergreen and a sea lavender are all attached to one Greek chapter. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The entry maps the chapter’s uses onto the gut and the female reproductive tract. The seed, pounded and drunk in wine, is said to “help dysentery and abdominal cavities”, which the entry places in the intestines and the abdominal cavity, and to “stop women’s excessive bloody menstrual discharges”, which places its claimed action in the uterus. Dioscorides’ one quality for the seed is “astringent to the taste”, and the entry records it as the only quality printed, with no hot, cold, moist or dry quality and no humour, dosha or qi term. The leaves and stalk are described for recognition only, and the habitat is fields. The long list of names, including peoples’ names such as the Mysians and Gauls, is not a body-system claim. The translators read the chapter as two unrelated families, the leadwort family and the wintergreens, so the mapping is to Dioscorides’ reports and not to an established action. Dysentery and heavy menstrual bleeding need medical care.
+
 ### Contraindications
 
 Chapter 4-16 prints no warning. The identification is not settled, and the translators' two groups of suggestions are unrelated plants, so no plant should be gathered or used on the strength of this entry. Dysentery and heavy menstrual bleeding need medical care and must not be left to a seed in wine. The text gives no safety information for pregnancy. [USER: verify]

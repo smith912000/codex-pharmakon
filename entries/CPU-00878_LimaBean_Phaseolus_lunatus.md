@@ -92,6 +92,10 @@ Lima bean enters Kenetica as a **food-tier Jing/Qi builder**, not a therapeutic 
 
 ---
 
+### Functional–Anatomical Correlate
+
+Under the food-tier Jing and Qi scheme lima bean is a Spleen-Stomach nourisher, its protein and slow starch the substrate of strength, and the Badianus records it as an emollient, restorative food and poultice base. The entry's main body mapping is the gut. Its alpha-galactoside oligosaccharides ferment in the colon to produce the classical wind, and its lectin, phytohaemagglutinin, injures the gut epithelium and agglutinates erythrocytes, causing nausea, vomiting and diarrhoea from undercooked beans. Its cyanogenic glycosides, linamarin and lotaustralin, release hydrogen cyanide when chewing or warm soaking activates linamarase, with headache, dizziness, rapid breathing and collapse as the exposure signs. The entry grades the nutritive claim as nutrition rather than pharmacology, and says the hard boil with the water discarded is what makes the bean safe to eat.
+
 ### Contraindications
 
 - **⚠️ CYANOGENIC TOXICITY — never eat raw or undercooked.** Raw, sprouted, or low-temperature-cooked lima beans (especially coloured/heirloom/wild cultivars) can liberate hydrogen cyanide. Symptoms of cyanide exposure: headache, dizziness, rapid breathing, nausea, collapse. **Always boil hard and discard the water.** Regulatory HCN limits exist for a reason.

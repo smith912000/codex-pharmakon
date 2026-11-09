@@ -52,6 +52,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As a general f
 
 ---
 
+### Functional–Anatomical Correlate
+
+Little to map: the one claimed site is the bladder. The chapter says that stones found in sponges, taken as a drink with wine, 'break stones in the bladder'. Mapped to anatomy, that is the urinary bladder and the calculi (stones) that form within it. No other organ, tissue or system is named, and the chapter prints no quality such as warming, cooling or astringent for the stone. No humoral, doshic, qi or subtle-body term is used, so none is mapped. The wine is named only as the means of taking the stone; the chapter attaches no action to the wine itself. The neighbouring sponge chapter 5-138 is cited in the entry, but it does not mention stones in sponges, so no organ from it is carried over. The Greek (DMM) frame is therapeutic and carries no cultivation status. The entry's mapping therefore reduces to one urinary action on one organ, and no other site is mapped.
+
 ### Contraindications
 
 - **Unidentified material:** nothing sourced says what the stone is; unidentified mineral matter should not be swallowed.

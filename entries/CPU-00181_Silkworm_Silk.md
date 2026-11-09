@@ -45,6 +45,10 @@ Silk is a protein fibre used in sutures and dressings today; burnt textile ash w
 
 **Practitioner's note.** Nothing here for a cultivator to take. If the sources offer a practice, it is the Sanskrit one of dressing a wound in clean cloth and tying it firmly, and of keeping a newborn warm in silk. The Chinese and Tibetan entries could not be read. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+In the Sanskrit (Sushruta) text silk acts mainly on the wound and the bleeding vessel. Burnt silk ash, dusted on the edges of a wound after a vein is opened, is one of several styptic powders, and silk cloth bandages wounds, replaced intestines and the newborn, who is wrapped in silk. The Unani (Avicenna) entry gives four therapeutic actions: it gladdens the heart, helps hardness of the lung by its bitterness and tanning, checks tearing and dries sores of the eye when made into a collyrium, and strengthens the spirit (ruh) and the stomach in handling food. Its temperament is hot and dry in the first degree, and the entry names no innate heat or radical moisture. Mapped onto modern anatomy, the claims concern the heart, lungs, eyes, stomach and wound tissue. The Tibetan and Chinese attestations name no action beyond a list row, and no humoral or doshic classification is given for silk.
+
 ### Contraindications
 
 Burnt textile ash on a bleeding wound is not sterile and can infect it; wound bleeding needs proper dressing and medical care. Silk and silkworm products can cause allergic reactions, and dried or fungus-killed silkworm preparations sold as medicines are unstandardised. Silkworm farming is regulated in some places for disease control; the legal status of silkworm material as a medicine has not been checked here. [USER: verify]

@@ -42,6 +42,10 @@ General, well-established facts only. Cough has many causes, from a simple cold 
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The sourced use is a dietary one for cough and for disturbed *Vayu* and *Pittam*, in a food chapter, and the animal cannot be certainly identified from the text. The Codex does not recommend taking the flesh of a protected wild animal. If cough persists, have it assessed. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Sushruta text gives the chamara's flesh its own sentence, and that sentence names three body systems. It is demulcent, which in modern terms soothes and moistens the mucous lining of the throat and gut. It cures an attack of cough, which maps to the airway and lungs. It is sweet in taste (rasa) and sweet in digestion (vipaka), which maps to the digestive tract, and it subdues disturbed Vayu and Pittam, the text's two humours, which it does not tie to any organ. The sentence gives no potency (virya) for this flesh. The shore-dwelling group the chamara belongs to adds spermatopoietic and tonic action, destruction of deranged Vayu and Kapham, cooling, diuretic action, and an increase in Kapham. Those are group qualities applied by membership, not sentences about the chamara. The identity question, yak or deer, changes which animal is meant but not the list of effects the text gives.
+
 ### Contraindications
 
 - **Hygiene and infection:** wild-animal meat can carry bacteria and parasites; it should be fully cooked, and wild-caught meat is not recommended.

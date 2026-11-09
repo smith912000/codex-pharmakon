@@ -75,6 +75,10 @@ Evidence grade: **preclinical (in vitro enzyme inhibition and antiplasmodial ass
 
 **Practitioner's note.** Nothing: no regimen for the individual substance is recorded, and the group description cannot be transferred to this species.
 
+### Functional–Anatomical Correlate
+
+Acts on the nutritive tissues the entry lists as rasa, rakta, māṃsa and śukra, with srotas named as rasavaha, śukravaha and stanyavaha. Its sweet, cooling, heavy and unctuous qualities (madhura, śīta, guru, snigdha) are said to build and restore depleted tissue (bṛṃhaṇa, balya) in states of emaciation, convalescence and chronic illness, the classical kṣaya. Reproductive tissue is addressed by śukrala and vṛṣya actions, and breast milk by stanyajanana, the galactagogue action. The entry also cites cooling of Pitta and rakta-pitta, and the wider Fritillaria tradition's use of the bulb in cough and fever (kāsa, jvara). Its Kenetica role is rasāyana, rebuilding ojas. It pacifies Vāta and Pitta, while its heavy nature may increase Kapha and āma. The modern correlates are in vitro: isosteroidal alkaloids inhibit acetylcholinesterase, and bulb extracts show antiplasmodial activity. The entry states these studies do not test the rejuvenative claims, and that the species is endangered and often substituted, so identity is uncertain.
+
 ### Contraindications
 
 - **Kapha excess / āma / obesity / sluggish digestion:** the heavy, sweet, unctuous, cooling nature can aggravate Kapha, mucus, and undigested-toxin states; use with dīpana support or avoid.

@@ -50,6 +50,10 @@ Reserpine, isolated from *Rauwolfia* roots, was used in the twentieth century as
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. In Sushruta it is an antidote ingredient, and in general knowledge a pharmacologically potent root. The abstentive answer is the correct one: do not use it, and treat the Unani tag as unsupported.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry's own sources place Sarpa-gandha only in the Sushruta antidote materia. It is one ingredient of the Ekasara Agada, a snake-bite antidote group applied singly or in combination of two or three against poison, and one of the drugs in a Kalka for a ghrita against rat-poison. No body system, organ, tissue or humour is named for it, and no rasa, virya or vipaka is printed in the lines read. The Avicennan tag has no locus found in the sources read, and the identification with Rauwolfia serpentina rests on an OCR-paired appendix. The entry notes that reserpine, isolated from Rauwolfia roots, was used as an antihypertensive and sedative and can cause low blood pressure, slow heart rate and depression. That is stated as general knowledge, with no clinical study opened for this entry. The entry gives no dose and no cultivation use.
+
 ### Contraindications
 
 Root preparations of *Rauwolfia* act on blood pressure, heart rate and mood, and reserpine is associated with depression. They are not self-administration substances, and none of the traditional uses above is advice. Avoid in pregnancy and with depression, and consult a physician about any interaction with blood-pressure or psychiatric medicines. *R. serpentina* is generally reported as threatened by over-collection, and wild collection should be avoided. [USER: verify]

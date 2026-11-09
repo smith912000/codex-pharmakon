@@ -55,6 +55,10 @@ The Shennong text gives no preparation and no dose. The Mingyi layer gives the h
 
 **Practitioner's note.** A middle-grade drug in the classic, listed for sores and skin complaints, with no long-term promise. For a cultivator there is nothing to do with it except read the record.
 
+### Functional–Anatomical Correlate
+
+The entry links bai jiang to the skin, the blood, the liver and bile, and the lower bowel. Sun's text says it mainly treats sudden heat, fire sores, red qi, scab and itch, jaundice and haemorrhoids, and heat qi of the horse-saddle kind. In Yang's rendering the same terms become burns, flat abscesses, blood diseases, scabs, hemorrhoids and bruises, so the wound and skin surface, the blood, the yellowing of jaundice and the anorectal veins are the stated sites. The classic gives the herb the flavour bitter and balanced, but assigns it no organ or channel. Chinese terms such as red qi and fire sores are carried over only as the translations render them, and the entry does not turn them into modern diagnoses. The root and herb are named, the root is gathered in the eighth month and dried in the sun, and no dose or preparation is given.
+
 ### Contraindications
 
 - **Species.** Which *Patrinia* the classic means is not fixed; do not treat the name as a guarantee. [USER: verify]

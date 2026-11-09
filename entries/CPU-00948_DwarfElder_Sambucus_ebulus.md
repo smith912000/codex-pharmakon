@@ -89,6 +89,10 @@ Retrieved from PubMed this run:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Dwarf elder acts on the skin and joints when used externally, and on the gut when used in harmful amounts. Externally, crushed leaf is laid on inflamed joints, swellings, burns, stings, eczema and haemorrhoids. Unani terms describe it as hot, dry, muhallil (resolving hard swellings) and jali (abstergent), and the Assyrian poultice class is read as drawing gathered matter out through intact skin. The entry links its rheumatic use to phenylpropanoids and flavonols, which it calls plausible but clinically unproven. Internally, Dioscorides and the Unani texts describe a violent purgative of phlegm and watery humour, with root used for dropsy. The entry reclassifies this as enterotoxicity: its ebulin ribosome-inactivating protein arrests protein synthesis in enterocytes and damages the intestinal lining. No internal dose is supplied, and no TCM or Ayurvedic assignment is made.
+
 ### Contraindications
 
 # ⛔ HAZARD CLASS — DWARF ELDER IS A POISONOUS PLANT

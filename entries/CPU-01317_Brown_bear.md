@@ -44,6 +44,10 @@ General, well-established facts only. The brown bear, *Ursus arctos*, is a large
 
 **Practitioner's note.** A cultivator does nothing with this. It is a name in a classification of meats, with no medicine, no preparation and no dose, and the Tantra's own first precept is to refrain from taking life. The honest use of the entry is as a record of what the text says. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the brown bear is named only as one member of the carnivorous wild animals in the Tantra's meat classification, and no medicine, flesh, fat, skin or bile is assigned to it in the lines read. Its place in the group carries the group's sentences. Meat in that group is sweet in taste and post-digestive taste, which both translators give. The Men-Tsee-Khang text adds rough, light and sharp qualities that generate digestive heat, destroy tumors, increase weight and eliminate all cold disorders, while Clark's parallel sentence gives those powers to birds of prey only. So the body systems the text names are the digestive heat, the body weight and the cold disorders, and these apply by membership and not by a sentence about the bear. The bear's Tibetan name is not paired in the sources, and the bile line is not linked to it.
+
 ### Contraindications
 
 - **Danger and law:** wild brown bears are dangerous and protected in many countries; the Codex does not recommend taking or handling any part of one.

@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this drug beyond what the texts say of its place in food and in treatment: a hot-tasting spice that treats wind, cold disorders and worms. The texts give no dose, and the Latin name differs between the two Tibetan texts. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts record this drug, shing kun, as a vermifuge that cures cold disorders and heart wind (Clark, line 918), as a remedy for wind disorders in the dietetics chapter (Clark, line 703), and as treating loong disorders (Men-Tsee-Khang, lines 3051 to 3053). Its action is directed at worms in the gut, at cold and wind in the body, at the heart as named in heart wind, and at combined baekan and loong disorders in the Men-Tsee-Khang chapter 21 sentence. Clark's chapter 19 and the Men-Tsee-Khang taste group both list the drug as hot-tasting, alongside ginger and pepper. No power or post-digestive taste is printed. The closest modern anatomy named is the intestinal tract for the vermifuge action and the heart for heart wind, but the texts do not localise the wind or the loong themselves. Clark names it Ferula narthex and the glossary names Ferula asafetida, so the mapping is the texts' claim about a drug whose botanical identity is not settled.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Asafoetida as a spice is a different matter from a medicinal preparation of unknown strength, and the identity of the plant is given differently by the two Tibetan texts, so no preparation should be made or used on the strength of this entry. No safety information for pregnancy, infants or any medicine interaction was read. [USER: verify]

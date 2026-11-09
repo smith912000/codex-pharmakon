@@ -77,6 +77,10 @@ According to PubMed, a comprehensive review of *Ficus religiosa* collates its bo
 
 **Practitioner's note.** The only cultivation-relevant use the text gives is the milk preparation in the vajikarana chapter, taken as a defined recipe. Beyond that, nothing: the tree's astringent, wound-closing use is therapeutic, not a regimen for long-term nourishment.
 
+### Functional–Anatomical Correlate
+
+The entry maps Ashvattha onto the leaking and inflamed surfaces shared with its fig siblings: wounds, ulcers and mucosa (vraṇaropaṇa, Panchavalkala), the bowel (grāhī, atisāra, pravāhikā), and bleeding (raktapitta, raktastambhaka, stambhana). Pradara (menorrhagia) and prameha (urinary and metabolic disorders) are named, and Caraka adds a reproductive-tonic reputation. Gums and dental health are mentioned, along with skin and burning Pitta. Its nervous-system correlate is a medhya (cognitive) and nervine reputation, traditionally noted and used in Kenetica for settled attention. An SS vājīkaraṇa prescription, milk boiled with sprouts, bark, roots and fruit, is attested for generative vitality in the weakened. Doṣa action is Kapha-Pitta-hara, possibly Vāta-aggravating if dry. Furanocoumarins are photosensitising, a safety note rather than an organ claim. The review's ethnomedical record spans nervous, endocrine, gastrointestinal, reproductive and respiratory systems, but it warns that many studies used uncharacterised crude extracts.
+
 ### Contraindications
 
 - **Vāta aggravation / constipation:** dry, astringent, binding — can worsen Vāta-dryness and constipation; pair with unctuous adjuvants.

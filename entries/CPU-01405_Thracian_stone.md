@@ -60,6 +60,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+The stone's own text names no site or quality beyond its fire behaviour, so its sites come from gagates, whose cures it is said to share. Those cures are inhaled smoke said to induce epilepsy and to calm hysterical women, which places the claimed action on the brain and nervous system and on the womb; a perfumed vapour said to heal hidden disorders of women, a uterine and reproductive site; softening and dissolving, an action with no organ named; and a mixture for gout and fatigue, which places the claim in the joints and general vitality. A bracketed report, introduced with 'they say', describes a test for holy suffering. Inhalation is the route the smoke and vapour take, so the airway is the point of entry. No warming, cooling, drying or moistening quality is printed, and no dosha, humour or qi frame is applied. The stone itself is unidentified.
+
 ### Contraindications
 
 - **Smoke:** the cures it shares with gagates include inhaling the smoke of the burning stone; do not burn bituminous or unidentified stone and inhale the smoke.

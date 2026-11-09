@@ -68,6 +68,10 @@ For the classical diuretic/anti-urolithic claim, an *in vitro* study (Yasir & Wa
 
 **Practitioner's note.** Nothing to cultivate with this herb on the sources checked. It is a diuretic and anti-oedema remedy in the Sushruta lists, and its "renewal" is a name-based reading, not a recorded rasayana.
 
+### Functional–Anatomical Correlate
+
+The entry maps Punarnavā chiefly onto the urinary channel (mūtravaha srotas) and the water-carrying channel (udakavaha srotas), with the blood (raktavaha) and digestive (annavaha) channels secondary. Its karma lists mūtrala (diuretic), śothahara (anti-oedematous), yakṛd-uttejaka (hepatic stimulant and protective), pāṇḍughna (anti-anaemic), dīpana and kāsahara. It is named for śotha (swelling), anāha and udara (abdominal distension and ascites), and pāṇḍu (anaemia and jaundice). In modern anatomical terms the claimed targets are the kidney and urinary tract, the liver, and the body's fluid compartments. The urolithiasis claim rests on an in vitro study in which an extract reduced calcium oxalate crystal size and shifted crystal form. Clinical evidence is low and preliminary, with no controlled human trials, and the entry notes that many genus-level studies lack doses and controls.
+
 ### Contraindications
 
 - Use the correct variety: red-flowered (*B. diffusa*) for renewal; the white-flowered substitute is more sharply purgative.

@@ -60,6 +60,10 @@ No clinical studies were retrieved for this entry. [USER: verify] General facts 
 
 ---
 
+### Functional–Anatomical Correlate
+
+Schistos is said to have 'the same uses as haematite only with less strength', so the entry's sites are those the haematite chapter names, carried over at lesser strength: the eye and eyelids, the urinary passage, the female reproductive tract and the lungs. Those haematite qualities, 'astringent, somewhat warming', belong to haematite and are not assigned to schistos. Directly, the schistos chapter names hollow sores, the eye (prolapse), the eyelids (thickness), the cornea (staphylomata, which the entry glosses as protrusion of the cornea) and hernia. Diluted with women's milk it is applied to the hollow sores. In anatomical terms that maps to ulcerated soft tissue and wound cavities, the eyeball and cornea, the eyelid margin, and the inguinal region of the abdominal wall at hernia. The entry prints no humoral, doshic or qi term for schistos, and no temperament, so none is mapped. The sharing of haematite's uses is the entry's own reading of the two chapters, not a statement the chapter makes.
+
 ### Contraindications
 
 - **Eye:** mineral powders applied to the eye or eyelid risk corneal injury and infection; the conditions named (eye prolapse, staphylomata) need medical care.

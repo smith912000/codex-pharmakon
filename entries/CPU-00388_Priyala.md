@@ -50,6 +50,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this tree. In Sushruta it is a sweet, cooling fruit and kernel and a seed or bark in remedies for wounds and bleeding diarrhoea. The abstentive answer is the correct one: any use is a matter for a qualified practitioner, and the text supplies no long-term regimen.
 
+### Functional–Anatomical Correlate
+
+Sushruta places Priyala among the sweet substances, so the entry's flavour frame is madhura. The fruit is described as heavy and cooling, and the pith as sweet and subduing Vayu and Pitta. The translator's word for the effect is spermatopoietic, which the entry itself reads as a property of the fruit as food, not a vajikarana claim, and it names the reproductive tissues only through that translated word. Seeds boiled in an oil are a healing remedy for traumatic sores and ulcers that are not malignant, so the skin and wound surfaces are the named target. Bark pasted with milk and honey is given to stop blood discharge in Atisara, which points to the bowel lining and the bleeding it produces. The text names no organ for the fruit itself, and it names no rasayana or ojas effect. No virya or vipaka is printed in the lines read, and cooling is the nearest the text comes to a potency term. The organ map is therefore the skin and wound surface, the bowel, and the translated reproductive term.
+
 ### Contraindications
 
 No safety data were read. The wound and bleeding-diarrhoea uses above are conditions needing medical care, and none of them is advice. Tree seeds and kernels can provoke allergy in people sensitive to nuts, so a kernel food should be avoided by anyone with a tree-nut allergy. Do not use medicinally in pregnancy. The name is uncertain between the spine and the text, and it should not be used to buy or harvest material.

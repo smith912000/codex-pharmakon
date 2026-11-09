@@ -34,6 +34,10 @@ General, well-established facts only. Goitre (enlargement of the thyroid) is cla
 
 **Practitioner's note.** A middle-grade drug in the Chinese scheme, listed for neck swellings and hard masses, and nothing in the classic makes it a food or a long-term supplement. The tradition's own grading says to weigh before use, and the modern concern with iodine and arsenic in seaweed points the same way. A cultivator who wants seaweed eats ordinary edible seaweed as food and takes no practice from this entry. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The classic maps Sargassum mainly onto the neck and the masses of the body. Its listed actions are on goitres, tumours and nodes in the neck, on bound qi, welling abscesses and swellings, on hard concretions and accumulations, and on abdominal rumbling and the twelve kinds of water swelling, which the translator could not identify. The neck is the clearest anatomical site; in modern terms goitre is an enlarged thyroid, and the entry notes that brown seaweeds are rich in iodine, a modern reason for the neck use that the classic does not state. The abdominal and water complaints are read as gut and fluid disorders. The monograph prints no organ channel, and its only energetic terms are bitter and cold. The Codex places it as a middle-grade therapeutic drug, not a long-term nourisher.
+
 ### Contraindications
 
 - **Thyroid disease:** seaweed iodine can precipitate or worsen hypothyroidism or hyperthyroidism, particularly in people with existing thyroid disease or on thyroid medication; any neck swelling needs medical diagnosis.

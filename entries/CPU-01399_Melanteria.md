@@ -61,6 +61,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+Little to map: the one body site the entry gives is the throat. The Greek chapter 5-118 names no use and prints one quality, 'sharp like misy'. The entry places under melanteria's Unani frame the Canon's entry for Ḥajar al-asākifa, the 'stone of the cobblers', a single sentence under the chest organs stating that it 'benefits ulcers of the throat and swellings of the uvula greatly'. Mapped to anatomy, that is the lining of the throat with its ulceration, and the uvula with its swelling. The Greek melanteria chapter does not mention this claim, so it is attached to the cited Canon entry rather than to the Greek chapter. No temperament, humour, dosha or qi is given. Sharpness and the mine-mouth colour and water test are not body sites. No cultivation status is attached in either frame, and the entry names no other organ.
+
 ### Contraindications
 
 - **Possible toxic metal salt:** mine-mouth efflorescences may contain copper or other toxic metals; do not swallow, inhale as dust or apply to the eyes or broken skin.

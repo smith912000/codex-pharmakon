@@ -45,6 +45,10 @@ General, well-established facts only. The miswak chewing stick is in everyday us
 
 **Practitioner's note.** A name on a list, printed twice, for a plant whose use as a chewing stick is common knowledge but is not stated in the source read. The Samhita text on disk gives no use and no grade for it here, so there is nothing for a cultivator to take from this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the appendix gives only the Latin gloss 'Salvdora persica', also printed as 'Salvodoia Persica', with no use, part, preparation or dose. The entry identifies it as Salvadora persica, the miswak or toothbrush tree, with high confidence at species level. It states that the twigs are used as chewing sticks in parts of Africa, the Middle East and South Asia, which it labels as common knowledge not stated in the source read, and that no source on disk says what the plant does. In the sources read, no rasa, virya, vipaka, rasayana, ojas or shodhana is attributed to it. The entry's safety caution says not to take any part of the plant internally on the strength of this entry. Pregnancy, lactation and children are not addressed. It names no organ, body system or tissue.
+
 ### Contraindications
 
 - **No safe-use statement exists in the sources retrieved.** Do not take any part of the plant internally on the strength of this entry.

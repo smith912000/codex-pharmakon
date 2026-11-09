@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. As a general fact, *Tagetes* 
 
 **Practitioner's note.** Nothing. A cultivator has nothing sourced to do with this entry: the record is a list row, and even the species is unsettled. This is a historical record only and not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that yauhtli is attested in the Badianus (1552) on a list row only, with the gloss Mexican mint marigold and the species Tagetes lucida, while the Gates 1939 name list prints Tagetes erecta for the same name and flags it as identification-uncertain. It names no folio, preparation, use, complaint, body system or energetic classification, and records no cultivation status. Tagetes plants are generally aromatic, but the composition of this plant was not read. The Mexican hot and cold categories are left unresolved, and the Badianus text itself was not readable on disk. The entry adds general caution, not drawn from the row: an unidentified plant should not be taken internally, and daisy-family plants can cause contact dermatitis.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, an unidentified or half-identified plant should not be taken internally, and plants of the daisy family can cause contact dermatitis in sensitive people. Pregnancy and breastfeeding are not covered by any source read. This is general caution and is not found in the row. [USER: verify]

@@ -54,6 +54,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+Little to map: The chapter names one bodily site, the bowels, where the growth is said to be 'more therapeutic' than myrtle. Its only quality is that it is an astringent, to be used 'anywhere there is need of an astringent'. It is listed as an ingredient in stiff ointments, suppositories, baths and poultices, but the text gives no organ or tissue for those forms and no action of its own beyond astringency. It says nothing of warming, cooling, moistening or drying, and prints no humoral or energetic classification. The parent myrtle is called astringent in its own chapter, and the entry gives the growth no further action. The Greek (DMM) tradition is the only tag, so no other body system is mapped.
+
 ### Contraindications
 
 - **Unidentified material:** the growth is not securely identified as a fungus or as anything else; unidentified growths from trees should not be eaten or used as medicine.

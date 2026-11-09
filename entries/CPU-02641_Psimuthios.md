@@ -60,6 +60,10 @@ General, well-established facts only. Lead and its compounds are cumulative toxi
 
 **Practitioner's note.** A cultivator does nothing with this. The record is a manufacturing description and a warning, and the only lesson it supports is the one Dioscorides gives: know exactly what the material is and refuse it for the body.
 
+### Functional–Anatomical Correlate
+
+The chapter's claimed sites are the eyes, the skin and its surface layers, and the pores. As an ingredient of eye medicines, the finest scrapings are placed in the eye. In ointments, plasters and lozenges, the material is said to be cooling, pore-closing, softening and filling, and to form new skins and gently repress abnormal growths, which maps to the skin surface, the pores, the wound bed and abnormal tissue overgrowth. The chapter's qualities are cooling, closing, softening and filling, and it prints no further degree of hot, cold, moist or dry, no rasa and no TCM class, so none is imported. Its named preparations concern the making and washing of the material rather than the body. No internal organ, channel or humour is named as a target of the substance, and no cultivation centre is attested.
+
 ### Contraindications
 
 - **TOXIC.** The chapter flags it, and white lead is a lead compound. Do not ingest it, apply it to broken skin, or make it. Dust and fume from grinding, pounding and burning are an additional exposure.

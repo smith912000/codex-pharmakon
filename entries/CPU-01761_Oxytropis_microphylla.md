@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a wound and poison drug in the Tibetan texts, with a note on a fragrance that subdues spirits, no preparation and no dose, and the species is uncertain. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts place this drug's action in wounds, septic conditions, poisoning and dysentery. Clark's root-text layer, as his brackets mark it, says that stag.sha 'heals wounds, cures septic disorders and poisoning'. Men-Tsee-Khang 2011, under the name Taksha read by position, says it 'heals wounds, is anti-inflammatory and acts as an antidote against poison', and lists it among the group of medicines that cure poisoning. Clark's bracketed commentary adds that the drug 'halts dysentery, reduces swellings and acts as an emetic', and that it 'subdues spirits by its sweet fragrance'. The entry records these as the texts' claims; dysentery and emesis are named in the commentary, and no modern organ is assigned to them. The energetic classification is limited to a slightly bitter taste in Clark's commentary and a sweet fragrance, while Men-Tsee-Khang prints no taste or power for the name. The plant is uncertain among several species and genera, so the claims attach to the Tibetan name and not to a confirmed plant.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Wounds and poisoning need medical care. The identity is uncertain, no preparation or dose is given, and because plants of this genus are generally known as livestock poisons, no plant should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

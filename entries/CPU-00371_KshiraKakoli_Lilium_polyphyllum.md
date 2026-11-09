@@ -76,6 +76,10 @@ The clear signal from the retrieved literature is a **conservation crisis**, not
 
 **Practitioner's note.** Nothing: the group description cannot be transferred to this species, and the text records no regimen for it.
 
+### Functional–Anatomical Correlate
+
+Acts on the nourishing dhatus, which the entry names as all seven, with emphasis on rasa, rakta, māṃsa and śukra. Its srotas are rasavaha, śukravaha and stanyavaha, and its prabhāva is the milk signature: stanya-janana, galactagogue action on breast tissue, and śukra-bṛṃhaṇa on reproductive tissue. Its cooling, sweet, heavy and unctuous qualities are aimed at dāha, the burning, dry, sleepless inflamed state, and at kṣaya, wasting, and rājayakṣmā, consumptive wasting. Raktapitta, bleeding disorders from heat, is named, as is postpartum and convalescent rebuilding. The entry describes it as Vāta-Pitta śāmaka and warns that it increases Kapha in excess, particularly with āma and low agni. In the Kenetica frame it is a lunar, moistening reservoir drawn on when the system is depleted rather than fatigued. Modern pharmacology is essentially absent; the entry says the retrieved literature concerns conservation, karyology and seed dormancy, so its vitality claims rest on the Ayurvedic tradition alone.
+
 ### Contraindications
 
 - **Āma and low Agni:** its heavy, unctuous, cooling nature can deepen *āma* (metabolic congestion), aggravate Kapha, and burden weak digestion. Avoid in high-Kapha, high-āma, or sluggish-digestion states.

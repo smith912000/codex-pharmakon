@@ -48,6 +48,10 @@ General, well-established facts only. *Ampelopsis japonica* belongs to the grape
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. This is a lower-class drug for sores, fevers and fits that the classic's own preface says is not for long use. The honest use of the entry is as a record.
 
+### Functional–Anatomical Correlate
+
+In the Shennong bencao jing the root is bitter and balanced, and the classic's categories map it onto the soft tissue and skin (welling and flat abscesses, swellings, deep sores), onto bound qi that the text says it disperses, onto pain and heat, and onto the eyes, where it treats red eyes. Its other stated uses are fright epilepsy in children, warm malaria, and swelling and pain in the female genitals. In the classic's terms these are the body's qi and heat, the eyes, the child's fits, the malarial fever, and the female reproductive organs, with no modern organ-level claim beyond those categories. The paragraph gives no rasa, virya or vipaka beyond bitter and balanced and no toxicity note, although the lower-grade preface says lower medicines are mostly toxic and not for long use. An appendix lists the drug as opposed to wu tou (aconite root). The identification as Ampelopsis japonica is ours, from the modern drug, not from the classic's text.
+
 ### Contraindications
 
 - **Lower-class drug:** the classic's preface says the lower medicines are mostly toxic and not for long use (line 2935). The paragraph itself does not mark this root as toxic; the safety of the root is not established by any source read here.

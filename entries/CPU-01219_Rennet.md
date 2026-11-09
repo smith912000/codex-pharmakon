@@ -40,6 +40,10 @@ Chymosin is the well-established enzyme of calf rennet, and animal rennet is use
 
 **Practitioner's note.** Nothing here supports a cultivation use. What a cultivator can take from the chapter is its method, naming the source animal and testing a costly or substitutable material before trusting it. The contraceptive and abortifacient uses are a record of what was done and a reason for caution, not a regimen, and the aconite antidote is a claim never to act on.
 
+### Functional–Anatomical Correlate
+
+Dioscorides' rennets act on several organs, depending on the animal that gave them. Hare rennet, taken in wine, is said to help those bitten by venomous creatures, coeliac complaints, dysentery and excessive womb discharges, and to clot blood and throw up blood from the chest. Horse rennet is named for the abdominal cavity and dysentery. Rennets of the lamb, kid, fawn, deer and others are antidotes to aconite, while the seal's is said to help epilepsy and constriction of the womb. Hare and fawn rennets are also said to act on conception in the uterus. Unani (Avicenna) names the organs as head, chest and stomach: drunk, it helps epilepsy, dissolves clotted blood in the lung, and with vinegar dissolves curdled milk and clotted blood in the stomach, though it is bad for the stomach. As a pessary after purification it helps conception, and before purification it prevents it, and it helps uterine suffocation. Modern terms for these sites are the head, lungs, stomach and uterus.
+
 ### Contraindications
 
 - **Pregnancy and fertility:** the chapter records abortifacient and contraceptive uses; do not take or apply rennet for either purpose, and avoid it in pregnancy.

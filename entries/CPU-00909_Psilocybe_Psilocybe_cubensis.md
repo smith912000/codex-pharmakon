@@ -68,6 +68,10 @@ According to PubMed, supervised psilocybin-assisted therapy is one of the most a
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps psilocybin's action onto the serotonin system, particularly 5-HT2A receptors, which produce altered perception, cognition and mood. Trial evidence concerns depression and end-of-life anxiety and depression, and the mystical-type experience is described as mediating the clinical effect. The entry names the cardiovascular system as a site of risk, through 5-HT2B activity, raised blood pressure and heart rate in those with cardiac disease. It names the psychiatric system as the main risk site: psychosis, schizophrenia and bipolar disorder are contraindications. Serotonergic drugs carry serotonin-syndrome and seizure risk. Ololiuqui, the morning-glory seed, acts through ergoline alkaloids on serotonergic receptors. In the Mesoamerican frame the mushroom is a sacrament of divination and healing rather than a humoral or organ-level remedy. The Chinese, Ayurvedic and Unani systems assign it nothing, and the Tibetan comparison is structural only. The entry gives no preparation or dose.
+
 ### Contraindications
 
 **This is among the most heavily contraindicated substances in the Codex.**

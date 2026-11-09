@@ -44,6 +44,10 @@ General, well-established facts only. Whey contains lactose, and in people who c
 
 **Practitioner's note.** Nothing here is a practice for a cultivator beyond ordinary food. The sourced lesson is attention: choose the milk by its look and body, notice the season and the pasture, and observe the process while making the whey. If a person is told to avoid milk, the Greek text would have them leave it alone or take only the whey, which is a statement about the text and not a recommendation. The Codex does not recommend whey as a purge. A dose is given only in the translator's "half-pint to five". [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Whey maps to the bowels, the nervous system, the skin and the spleen and liver, in the terms the sources use. Dioscorides gives it as a purge for the bowels, given without distress, and as a remedy for depression, epilepsy, leprosy, elephantiasis and pustules over the whole body, which map to mood, the nervous system and the skin. He also says milk is worthless for the splenetic and the hepatic unless it is given as whey, so the spleen and liver are named as the organs whose disorders make milk unsuitable. The Unani Canon entry calls whey very bad for those of black bile, harmful to the stomach and harmful to the anus, and says cooking it with fat meat makes it a little better. That is a warning for the melancholic constitution and for the stomach and anus, with no positive action. No temperament is printed in either source, and the Codex does not recommend whey as a purge.
+
 ### Contraindications
 
 - **Milk allergy and lactose intolerance:** avoid whey; it contains milk proteins and lactose.

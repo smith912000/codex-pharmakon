@@ -122,6 +122,10 @@ The Kenetic reading is deliberately conservative. A cool-moist surface classific
 
 **Practitioner's note.** Nothing. Do not carry *Stellaria* claims over to this plant; if used at all, it is a minor topical herb, and no practice of cultivation attaches to it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the only body surface it proposes for Cerastium arvense is the skin. Its traditional indication is a topical poultice for minor abrasion, hot itch and inflamed skin, and the Kenetic reading places it as a surface-dispersive, non-mobilising agent, not a systemic one. Its demulcent doctrine, borrowed by resemblance from Stellaria media, would act on irritated skin and mucosa; the entry states that no mucilage, wound-healing or anti-inflammatory data exist for this species. Family-level saponins are inferred but unmeasured. Internal use is not mapped to any organ by the entry; it is advised against for pregnancy, lactation and children. The one measured biological fact concerns the plant's own tissues, which accumulate copper and other metals from contaminated soil, not any human organ.
+
 ### Contraindications
 
 ⚠️ **HEAVY-METAL ACCUMULATION — the primary practical hazard.** *Cerastium arvense* is a coloniser of disturbed and contaminated ground and has been measured accumulating copper to critical-toxicity concentrations in its shoots on post-flotation copper tailings, with concurrent enrichment in cadmium, cobalt, nickel, and lead (Kasowska et al. 2018, [DOI](https://doi.org/10.1007/s11356-017-0451-y)). **Never harvest from roadside verges, spoil, tailings, brownfield, former mine land, railway margins, or any ground of unknown history.** This is not a theoretical caution — it is the best-established chemical fact about this plant, and it is a fact about poison.

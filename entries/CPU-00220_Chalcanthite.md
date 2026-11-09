@@ -39,6 +39,10 @@ Copper sulphate is a known emetic in large amounts, an astringent and caustic on
 
 **Practitioner's note.** Nothing here for a cultivator to swallow. The one cultivation claim is a Chinese line, "may increase longevity and make one an immortal" after sublimation, and the translator warns in the same place that the drug is "toxic and erosive". The Sanskrit text uses it as an ulcer, skin and eye ointment. The take-away is historical: a middle-class stone with a longevity line, and a method nobody in the sources lets us follow. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Divine Farmer's Classic (SBJ) places the stone's action in the eyes, which it is said to brighten and in which it treats eye pain; in the skin and wounds, for incised wounds and erosion of the genitals; in the nervous system, for epilepsy and tetany; in the female reproductive organs, for pain and for flooding and precipitation of blood; and in the urinary tract, for stone strangury. Sushruta (SS) places it on the outside of the body: ulcers and their margins, skin eruptions (svitra), the eyelids (an anjana for a swollen lid), and a Vrishana-Kachchhu sore of the scrotal region. The Ushakadi group, in which Tuttha is listed, is said to destroy kapham and absorb body fat (medas) and to act on bladder stones, dysuria and gulma, the abdominal glands. In modern anatomy the sites are the conjunctiva and cornea, the skin and mucous surfaces, the bladder, the female genital tract, the central nervous system and the abdominal cavity.
+
 ### Contraindications
 
 Copper sulphate is poisonous by mouth, corrosive to the gut and skin in strong solution, and harmful to the eye; it can cause vomiting, haemolysis, kidney and liver damage. "Sublimated" material and other mineral preparations are not standardised, and the classic's method is not given. Pregnancy: Yang prints "It makes pregnancy possible" (line 1102); this must not be read as a recommendation, since the same drug is toxic. Mineral and metal preparations are regulated in many places. The 'transmutation' line is a line about alchemy, not therapy.

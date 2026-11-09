@@ -65,6 +65,10 @@ According to PubMed, the chemistry and pharmacology of *Ophiopogon japonicus* su
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps Mai Men Dong onto the lungs, the heart, the stomach and the body's fluid state. TCM classes it as sweet, slightly bitter and cold, entering the Heart, Lung and Stomach channels, where it nourishes yin, moistens the Lung, clears Heart heat, generates fluids and relieves irritability. Its classical indications are dry non-productive cough, a parched mouth and throat, restlessness with a dry tongue, and the xiao ke wasting-thirst pattern. The Ayurvedic reading (within the Sino-Himalayan continuum) is sweet, cooling, unctuous and pitta-pacifying, for shosha and trishna. The Unani frame is cold and moist, against hot-dry chest distempers. The modern correlates are steroidal saponins and homoisoflavonoids, with anti-inflammatory, cardioprotective and lipid-lowering effects in animal models and eotaxin suppression in bronchial epithelial cells. The entry grades this moderate and preclinical, and names cold-damp patterns as a contraindication.
+
 ### Contraindications
 
 Contraindicated in patterns of Cold and Damp (loose stools, copious clear phlegm, poor digestion with a swollen pale tongue) — its moistening cold can deepen these. Use caution in early-stage colds with productive phlegm, where a moistening demulcent may retain pathogenic damp. As with any hypolipidaemic/cardioactive botanical, monitor when combined with lipid-lowering or cardiac medication. Not a substitute for prescribed therapy in diabetes or heart disease. Pregnancy/lactation: insufficient safety data — [USER: verify] before recommending.

@@ -42,6 +42,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** A gum-like or herb-like drug likened to *anjudhan*, with its vinegar preferred for the stomach and a special use in quartan fever. The identity is open and nothing supports a cultivation use.
 
+### Functional–Anatomical Correlate
+
+Ushturghaz, as the Canon describes it, is hot and dry at the end of the third degree and sits near anjudhan in nature. The entry maps to the stomach and digestion. Its vinegar is said to be good for the stomach, to clean and strengthen it, and to stimulate appetite, which maps to the gastric lining and appetite. The substance itself is said to cause nausea by its sting and to stay slowly in the stomach during digestion. Its special property, the Canon says, is benefit in quartan fevers, a recurrent fever pattern named by the text rather than an organ. The text describes no heart, liver, skin or nerve action. The entry prefers the vinegar to the gum itself. Because the drug is unidentified, the tissue claims are the Canon's own and do not attach to a species.
+
 ### Contraindications
 
 The text says the substance itself nauseates and stings. The drug is not identified; do not ingest. [USER: verify]

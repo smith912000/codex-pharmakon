@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is an antidote-class fern in the Tibetan texts, and nothing more can be said from them. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the root text for this entry gives only the Tibetan name, an English gloss and two binomials, with no action. The action appears two lines later, under the tamarisk, which says Adiantum and Myricaria neutralize meat poison and compounded poison. The Codex refers that to this fern on that basis only. The Men-Tsee-Khang line says rerel cures meat poisoning and compounded poisoning and names no organ. The bracketed commentary gives slightly sweet taste, cool power and a root like a monkey's tail, which is a description and not a use. No organ, tissue or body system is named for any of these uses. The sources read name no part used for the medicine. The identity is uncertain between two or more binomials, so these correlates cannot be tied to a single fern.
+
 ### Contraindications
 
 The sources read print no warning. The botanical identity is uncertain, so no plant should be gathered or used on the strength of this entry, and suspected poisoning needs medical care and not a fern. No safety information for pregnancy was read. [USER: verify]

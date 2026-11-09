@@ -52,6 +52,10 @@ The Ebers material is indication-organised, and the lines read give the plant no
 
 **Practitioner's note.** Nothing here makes this a cultivation substance. It is an English label for an unknown plant in a list of prescriptions, and a cultivator has nothing to draw from it.
 
+### Functional–Anatomical Correlate
+
+The entry maps the substance to four bodily areas, each through a prescription and none through a stated property. In the digestive section the fruit, crushed in cooked cow's milk with cream, is the remedy for dyspepsia. In the chapter on the anus an external application of it, with ox-bile, boiled milk and honey, is poured on the anus to cool it. The seeds, in a rectal injection with olive oil, honey, sweet beer and sea-salt, are one of three ways recorded for urinary troubles in the adult. The fruit in a douche with fennel and honey is given to regulate menstruation, so the uterine and menstrual system is the target named. The text prints no quality of temperature, taste or potency for the plant, and no Egyptian concept of ka, ba, akh or ib is connected with it in the lines read. The plant's identity is unresolved, and the entry does not say which organs the fruit itself acts upon.
+
 ### Contraindications
 
 - **Identity.** The plant is unidentified. Do not substitute any fruit on the strength of the label.

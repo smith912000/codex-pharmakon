@@ -45,6 +45,10 @@ General, well-established facts only. Crab meat is a source of lean protein and 
 
 **Practitioner's note.** Nothing here makes crab flesh a cultivation substance. Sushruta classes it as a marsh-animal food of two kinds, one strengthening and warming, one laxative and diuretic. That is dietary advice, not practice. The only aphrodisiac line concerns eggs and a disputed word, and gives a cultivator nothing to rely on. A cultivator who eats crab eats it as food. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Sushruta (Sutrasthana ch.46) groups the crab with the Padinas, marsh animals whose flesh is sweet in taste and digestion, cooling, demulcent and beneficial to stool and Pittam, destroys the deranged Vayu and produces Kapham. The black crab is strength-giving and heat-making, and destroys Vayu. The white crab is laxative and diuretic and tends to bring about adhesion of fractured bones, destroying Vayu and Pittam. Outside the flesh chapter, crab lard in an oil is used for Unmantha, a disease of the ear-lobes, and in the nervous disorder Apatanaka; crab shells feature in an emetic smoke; and crab eggs appear among aphrodisiac remedies. Mapped systems: the stool and bowels, the urinary passages, the ear-lobes, the bones and fracture union, the nervous system, and vomiting as the emetic route. The entry prints no vipaka for the crab.
+
 ### Contraindications
 
 - **Allergy:** crustacean allergy is common and can be severe or fatal; crab is an absolute contraindication in anyone with it.

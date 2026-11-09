@@ -110,6 +110,10 @@ The synthesis that survives scrutiny is narrower than the folklore but stronger 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps rosemary most heavily to the head: the brain, memory, the senses and the spirit. Avicenna's Unani scheme calls it a cephalic strengthener (muqawwi al-dimagh) that warms and dries a cold, moist brain, and classes it as attenuant, resolvent, deobstruent and emmenagogue for the uterus. Dioscorides gives it for jaundice as a warming deobstruent of the liver and bile. Chinese doctrine calls it pungent and warm, opening the heart orifices and clearing a clouded spirit. Ayurvedic reception places its action in the head, with prana vayu, reducing kapha and vata. Externally it is a resolvent for cold, stiff, wind-damp muscle. The modern correlates are acetylcholinesterase inhibition by 1,8-cineole and carnosic acid in the brain, cerebrovascular changes under cognitive load, and aroma absorbed through the nose. The entry notes that camphor in the essential oil is convulsant, so epilepsy, pregnancy and children are excluded from the oil.
+
 ### Contraindications
 
 **⚠ This is the section that matters. Rosemary the culinary herb is benign; rosemary essential oil is not.**

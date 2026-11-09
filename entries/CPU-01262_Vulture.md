@@ -46,6 +46,10 @@ General, well-established facts only. A wild bird's blood and eggs can carry bac
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The vulture appears in the Ebers material as a source of blood and egg in ordinary remedies and as the donor of a feather for painting an eye salve on, and the Codex does not recommend the medical uses. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Ebers recipes map three sites: vulture blood, anointed on an abscess (the uases abscess); a feather, used to paint an eye application for bleary eyes; and a vulture egg, crushed into collyrium for a growth on the eye (pterygium). Bryan's text gives no organ for the feather beyond the eye. The Unani Canon entry Rakhama (vulture bile and dung) places the bile on the head and ear: dropped with violet oil into the ear on the side of migraine or earache, and as snuff or ear drop for children's 'wind'. As eye salve it is used for whiteness of the eye. The dung, fumigated, is said to cause miscarriage, which places it on the womb. Poisons are the last site: the bile dried in shade and applied to a viper's sting, which Avicenna doubts. The entry gives no temperament, no humour and no radical moisture for the vulture, and no deity.
+
 ### Contraindications
 
 - **Eyes:** do not put animal blood, eggs or any unsterile material on the eye, and do not paint anything on it with a feather; eye growths need an eye examination.

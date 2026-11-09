@@ -44,6 +44,10 @@ General, well-established facts only. Basils are aromatic culinary and medicinal
 
 **Practitioner's note.** Nothing. The entry records only that the translator pairs a damaged Sanskrit name with a basil Latin name.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that Bhishagratna's Sushruta appendix pairs a damaged Sanskrit name, printed as Maru7aka and read here as Marutaka or probably Maruvaka, with the Latin Ocimum caryophyllatum. It names no body system, organ or tissue, and gives no action, part, preparation, dose or energetic quality under this name. The chapters were searched and do not print the name, so no rasa, virya, vipaka, ojas, tejas or prana claim is attested. The only functional line is the Codex's general note that Ocimum is a mint-family aromatic herb, which the entry gives as general fact and not as a claim about this drug. The spelling is doubtful and the pairing rests on column position, so the entry makes no body-level claim and records no use for the plant.
+
 ### Contraindications
 
 The text prints no warning. Identity rests on one OCR pairing and a doubtful spelling, so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy or lactation was read. [USER: verify]

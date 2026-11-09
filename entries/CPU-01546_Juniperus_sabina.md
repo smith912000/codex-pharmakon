@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant, and the plant is poisonous. The transferable point is the habit of telling two near kinds apart by leaf. The abstentive answer is the right one.
 
+### Functional–Anatomical Correlate
+
+The chapter's organ-directed uses fall on the skin, the urinary tract and the womb. A leaf poultice of either kind is said to close the openings of the skin and ease inflammation. A honey plaster is said to clear blackness and foulness and to break up carbuncles, which are infected boils. The wine drink is said to draw blood through the urine and to drive out the birth, so the urinary tract and the uterus are named. The leaves are also said to work when applied or inhaled, and they are placed in hot ointments. The energetic term is the first kind's strong smell and sharp, hot nature; the chapter prints no humour, taste, or moist or dry quality. Its uses are two claims, a topical one and a urinary and uterine one. The entry itself notes that the plant is poisonous and that the identity is only a translators' suggestion, so no part of this mapping is safe to act on.
+
 ### Contraindications
 
 Chapter 1-104 prints no warning, although it records that the drink "drive[s] out the birth". Savin is a poisonous plant and must not be taken by mouth, and must not be used in pregnancy or to end one. The identification is only the translators' suggestion, so no plant should be gathered or used on the strength of this entry. Carbuncles, inflammation and blood in the urine need medical care. The text gives no dose. [USER: verify]

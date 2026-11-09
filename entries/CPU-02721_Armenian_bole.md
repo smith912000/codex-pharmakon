@@ -42,6 +42,10 @@ General, well-established fact: clays adsorb water and are astringent on skin an
 
 **Practitioner's note.** Nothing to do. An earth used against bleeding, flux and pestilence in the tradition's own terms; nothing in the passage concerns the cultivation of life.
 
+### Functional–Anatomical Correlate
+
+In Avicenna's Unani terms this cold and dry clay (cold in the first degree, dry in the second) acts on the blood and on bleeding sites. It is said to hold back blood, and it is given for spitting of blood, for uterine bleeding, and for ulcers and diarrhoea of the bowels. For the chest it is named for the lung: it dries a consumptive ulcer of the lung (sill) and is given against tightness of breath. In the head it is said to prevent catarrh and to help thrush, which maps to the nasal and oral mucosa. For wounds it is called wonderful, and for swellings and plague (tawaʿin) it is drunk and applied, to stop putrefaction spreading in the members (limbs). The fever section names consumptive and pestilential fevers and says the clay should be given with wine to escort it to the heart. Modern anatomy places its claimed sites in the blood and vessels, uterus, bowel, lung, nasal and oral mucosa, skin and wound tissue, limbs and heart.
+
 ### Contraindications
 
 - **Contamination and grit.** Natural clays may carry heavy metals or microbes. Do not eat clay on the strength of this entry.

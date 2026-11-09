@@ -118,6 +118,10 @@ The Kenetica indication follows the Chinese one, restated in modern terms:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Foxtail millet's entry places it on the digestive centre: in TCM the Spleen, Stomach and Kidney channels, with actions of harmonising the middle (和中), supplementing Qi, clearing mild heat and generating fluids (生津). Ayurveda classes it as light, dry and cooling, pacifying Kapha and Pitta while aggravating Vata unless moistened. Galenically it is cold, dry and astringent to the belly. The metabolic correlate is glycaemic: a 12-week uncontrolled trial at 50 g/day in impaired glucose tolerance lowered fasting and 2-hour glucose and insulin resistance, and a 105-patient crossover in type 2 diabetes found lower postprandial glucose after millet dosa than after rice dosa. Preparation matters: cooked whole grain measured a GI of 64.4 and porridge 93.6, and a separate survey measured 88.6 for foxtail millet, so the entry calls the diabetic claim unsettled. The congee is recorded for convalescence and hydration, its rice-oil film carrying nutrients, and post-partum use is recorded as living practice only.
+
 ### Contraindications
 
 - **This is a food, and its safety profile is the safety profile of a food.** There is no toxicity, no dose ceiling, and no known interaction. The contraindications below are about *misuse of a health claim*, not about harm from the grain.

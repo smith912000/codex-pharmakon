@@ -54,6 +54,10 @@ General, well-established facts only. Several tree gums and resins have long bee
 
 **Practitioner's note.** Nothing to do. The plant is unidentified and the recipes are for complaints, one of them an abortion. The charm is a record of how a text joins word and object.
 
+### Functional–Anatomical Correlate
+
+Per Bryan's rendering of the papyrus, the resin is used for the bowels, against stercoral masses, indigestion and tapeworm. It is applied to diseased toes, burns, the skin (a remedy to free the flesh), wounds and the back. A splinter-and-resin list sits under a heading Bryan gives as the nervous system, a heading flagged for verification. The fruit is used in a recipe for abortion applied to the vulva, which the entry records as historical only and not as advice. The frame is heka, the operative power that joins a spoken formula and a material act, and a rod of acanthus is used in a spoken charm against a hawk. No tissue, humour or quality is assigned, and no temperature or taste is given. Because the plant is unidentified, no organ action can be tied to a species, and the entry recommends no use.
+
 ### Contraindications
 
 - **Abortifacient recipe.** The fruit is used to cause abortion in the papyrus. Nothing here is advice; seek proper obstetric care.

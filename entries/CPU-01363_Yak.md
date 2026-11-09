@@ -64,6 +64,10 @@ No clinical studies were retrieved for this entry. [USER: verify] What can be sa
 
 ---
 
+### Functional–Anatomical Correlate
+
+The yak enters the Tibetan texts as domestic meat and milk and as the wild yak's meat, horn and blood, and the entry maps each. Yak meat is greasy and warm and eliminates cold disorders, increasing blood and tripa. Wild yak meat relieves cold disorders of the liver and stomach and boosts digestive heat, which maps to the liver, stomach and digestive fire. Milk and dairy are assigned by animal: she-yak's curd and whey serve as a phlegm (baekan) diet, while she-yak's milk is called harmful in phlegm and bile disorders, a conflict the entry leaves unresolved; she-yak calf meat serves bile disorders. The wild yak's horn increases body heat and disperses tumours, and its blood halts diarrhoea, which maps to the intestines and to abdominal masses. The entry records a stated conflict between sources on which animal the wild yak is, and gives no constituent or dose. Modern anatomy names the same organs (liver, stomach, bowel), but the Tibetan categories of loong, tripa and baekan are the text's own frame.
+
 ### Contraindications
 
 - **Hygiene and infection:** raw or poorly handled meat, unpasteurised milk and blood can carry bacterial and parasitic infection (for example brucellosis and other zoonoses are general risks of unpasteurised ruminant dairy and raw animal products); blood and unprocessed horn are not suitable for internal use.

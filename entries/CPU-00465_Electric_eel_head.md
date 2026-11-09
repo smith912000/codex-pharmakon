@@ -56,6 +56,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that the head of an animal called the electric eel, warmed in oil, is applied to a burn, as the second of two alternatives after a frog, with the instruction to apply it to the part of the body. The one site the entry implies is the burned skin and the tissue beneath it. It names no organ beyond that, and gives no humoral, doshic or qi classification, no quantity, no oil and no frequency. The Egyptian material is organised by complaint and attaches no vital-constitution claim. No recitation is printed with the prescription in Bryan's summary. The entry gives no account of the head's own action, and the sources do not establish the fish's identity, so no species-level claim can be mapped.
+
 ### Contraindications
 
 - **Hygiene and infection:** raw animal material on a burn risks infection; burns need medical care.

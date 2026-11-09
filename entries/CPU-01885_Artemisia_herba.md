@@ -49,6 +49,10 @@ General, well-established facts only. *Artemisia herba-alba* is a grey-leaved ar
 
 **Practitioner's note.** Nothing here supports any cultivation use. The chapter teaches how to know the plant by its place and its smell, and how a plain external preparation is made.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter names two external uses and no internal one. A warm compress of the herb pounded with almond oil is said to ease a pain in the stomach, which places the stomach and abdominal wall in view. A rub of the juice mixed with oil of roses is said to make whole a man 'pained in his strength', a phrase the text does not explain, so the body region it means is not stated. The plant grows by rivulets, hedges and sown fields, and its flowers and bruised leaves smell like sampsuchum. The chapter gives it no quality, humour, temperament or flavour, and no dose. The only parts named are the flowers and bruised leaves. The species is an editorial label of medium confidence, so the mapping is to Dioscorides' record only, and it is not extended to other wormwoods or to the neighbouring chapter's claims.
+
 ### Contraindications
 
 - **Identity.** The species is an editorial suggestion of medium confidence, and the wormwoods and mugworts are many and easily confused. Do not gather or use a plant on the strength of this entry. [USER: verify]

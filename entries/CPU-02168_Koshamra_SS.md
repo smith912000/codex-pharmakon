@@ -52,6 +52,10 @@ General, well-established facts only. A sour fruit and a purgative seed oil are 
 
 **Practitioner's note.** A sour fruit, a kernel and a purgative seed oil of an unidentified tree. The tradition records it as a foodstuff and a remedy, and nothing more. A cultivator has nothing here to act on until the tree is identified.
 
+### Functional–Anatomical Correlate
+
+The Sushruta Samhita places Koshamra in the Nyagrodhadi group, whose members are said to be astringent and beneficial in ulcers, in disorders of the uterus and vagina, in favouring the adhesion of fractured bones, in haemoptysis, and in excess fat and burning of the body. The text does not assign these actions to Koshamra alone. As a seed oil (ch. 45) it is described as bitter, pungent and astringent, purgative, a purifier of malignant ulcers, and curative of disorders of deranged Vayu and Kapham and of skin disease. As a fruit (ch. 46) it is said to be nearly identical to tamarind; ripe tamarind is called astringent, heat-making and stomachic, and the kernel is sweet in digestion, appetising and demulcent, subduing Vayu and Pittam. The entry maps these only to the organs and tissues the text names: the uterus and vagina, bone at a fracture, the lung-linked haemorrhage, fat, skin, the digestive tract through the fruit and kernel, and the ulcer. The tree itself is unidentified.
+
 ### Contraindications
 
 - **Identity.** The tree is unresolved, so no safety statement can be made about it. Nothing may be gathered, bought or used on the strength of this entry. [USER: verify]

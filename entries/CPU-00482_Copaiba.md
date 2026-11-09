@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The row cites 
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. The honest answer is to do nothing with it on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names no body system, organ or tissue. Its one historical statement is 'in use since 1625 per Jesuit records', a date the entry says is not confirmed and that it attributes to a colonial rather than an indigenous source. The row cites a PMC 2017 paper by DOI, which was not opened and is not used. No people, plant part, constituent, preparation, dose, clinical study or energetic quality is given, and cultivation status is marked absent. Its contraindications section states that no safety data were read, that nothing is known of safety in pregnancy, in children or alongside medicines, and that ordinary medical advice should be taken before any use. The entry also flags that it shares a common name with CPU-00483 and asks for a ruling on merging.
+
 ### Contraindications
 
 No safety data were read for this row. Nothing is known here of its safety in pregnancy, in children or alongside medicines. Take ordinary medical advice before any use of a plant product. This is general caution and is not found in the row.

@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identifica
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. A cultivator who reads it can take away the habit of counting what is given instead of guessing, and the lesson that a pleasant-tasting seed can still be a drastic drug. The text offers nothing more, and the abstentive answer is the right one.
 
+### Functional–Anatomical Correlate
+
+The chapter's one stated action is purgation of the bowels, and it names the fluids this expels: phlegm, bile and water. The seeds, the juice and the boiled leaves are each given this effect. The text puts the effective amount at seven or eight seeds, taken in a pill or swallowed with dry figs or dates and sipped with cold water. The peeled seeds are described as white and sweet to the taste, the only taste printed, and the chapter prints no hot, cold, moist or dry quality, so no humoral, doshic or qi classification is available. The root is 'of no use', and the chapter names no other organ, tissue or channel. The text notes that some call the plant a tithymal, and the entry does not read the tithymal group's own actions into this chapter. The identification as caper spurge is the translators' suggestion, and nothing here is advice.
+
 ### Contraindications
 
 The chapter prints no warning, but its own statement that seven or eight seeds purge the bowels shows the drug is drastic. Spurge seeds and latex are irritant and can cause severe vomiting, diarrhoea and dehydration, so no part of this plant should be taken. Spurge latex also irritates skin and eyes. The identification is only the translators' suggestion, so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. None of the traditional uses above is advice. [USER: verify]

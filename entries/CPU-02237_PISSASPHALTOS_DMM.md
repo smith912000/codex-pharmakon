@@ -47,6 +47,10 @@ General, well-established facts only. Bitumen and tar contain polycyclic aromati
 
 **Practitioner's note.** Nothing here for a cultivator beyond the habit of naming source and smell. The material is an irritant and no use is recommended.
 
+### Functional–Anatomical Correlate
+
+The chapter has no property list of its own, so its sites come from the shared bitumen paragraph, which Dioscorides closes by saying pissasphaltos does as much as pitch and bitumen together. The claimed sites are the skin and wounds (repressing inflammation, closing cuts and sores), the uterus and pelvis (menstrual flow, congested vulvae and prolapse), the airways (coughs, asthma, difficult breathing), the gut (colic, dysentery), the teeth (toothache), the joints (gout, podagra, arthritis), the blood (dissolving clots), and the hip and flank (hip and side pains). The smoke is also said to show epilepsy and to ease lethargy, which places a claimed effect on the nervous system. The only action named is to disperse and soften. No warming, cooling, drying or moistening quality is printed. The entry notes that it is not stated which uses belong to pissasphaltos alone.
+
 ### Contraindications
 
 - **Fumes and contact.** Bitumen and pitch smoke are irritants; do not inhale or ingest. Skin contact may blister or sensitise.

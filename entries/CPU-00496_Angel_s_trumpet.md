@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As a general f
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. The honest answer is to do nothing with it on the strength of this entry, which is also the safe answer for a poisonous plant.
 
+### Functional–Anatomical Correlate
+
+The entry places Angel's trumpet (huanduj), Brugmansia arborea, mainly in the anticholinergic and autonomic systems. Its Active Components section says Brugmansia species are generally known to contain tropane alkaloids, including scopolamine and atropine, and that the amounts in this species were not read. Its Scientific Correlation states, as a general fact, that atropine and scopolamine block muscarinic acetylcholine receptors, so poisoning causes dry mouth, dilated pupils, fast heartbeat, confusion and delirium. The contraindications name the eye (glaucoma), the heart (heart disease) and the prostate or bladder outflow as organs at risk, plus children and pregnancy, and state that the plant is poisonous in all parts. The row itself gives only 'traditional Andean use', with no people, preparation or use. No humoral, doshic or qi classification is printed, and no subtle-anatomy model is imported. The cultivation register is absent. These organ correlates are general caution, which the entry says is not found in the row. Legal status is unchecked.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, *Brugmansia* is poisonous in all parts, and poisoning can cause delirium, severe distress and death. It must not be taken by children, in pregnancy, or by anyone with glaucoma, heart disease or a prostate or bladder-outflow problem. Legal status varies and is unchecked. [USER: verify] This is general caution and is not found in the row.

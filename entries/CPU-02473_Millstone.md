@@ -38,6 +38,10 @@ None is given. The entry has no temperament, only the action under "swellings an
 
 **Practitioner's note.** There is nothing to practise here. The entry shows how brief a Canon stone entry can be.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives one use under one heading, swellings and pustules. Its action is that the steam of vinegar from the stone prevents bleeding and prevents hot swellings. Bleeding maps to the blood vessels at the site of the bleed, and hot swellings map to inflamed tissue at the surface of the body where a swelling forms. No organ, temperament, humour, channel or dose is named, so no further body site can be mapped.
+
 ### Contraindications
 
 - Heated stones and steam burn; vinegar vapour irritates the eyes and airways.

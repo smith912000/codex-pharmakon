@@ -45,6 +45,10 @@ Astringent herbs rich in tannins are generally known to tighten tissue and reduc
 
 **Practitioner's note.** The practice in these chapters is recognition by habit and habitat, and the dry root's smell of wine as an assay. Nothing gives a cultivator a practice for the person. The identification is doubtful, so no use is recommended.
 
+### Functional–Anatomical Correlate
+
+Dioscorides' chapter 4-3 describes an astringent herb acting on blood and bleeding. Its leaf juice, given as a liquid medicine, enema or suppository, is good for vomiting blood and for dysentery, which places the action on the bowel. In a pessary it stops women's excessive menstrual discharges, which places it on the womb. The herb stuffed in the nostrils stops flows of blood, and it is a wound herb that staunches blood. Its smoke, inhaled, is described as having very sharp fumes that drive away snakes and kill flies. Chapter 4-118 gives a root, smeared on, that soothes wild ulcers, and reports that a dilution of it drunk by wild creatures makes them tame, a report Dioscorides does not vouch for. Traditional terms: astringent to the taste. No warming, cooling or Galenic quality is printed. The identification as Epilobium hirsutum is a translators' gloss and is doubtful.
+
 ### Contraindications
 
 No contraindication is printed in the chapters read. The text's own uses include a pessary for menstrual flow and an enema, so avoid in pregnancy; do not self-treat bleeding, which needs medical assessment. The identification is doubtful, so the plant should not be gathered on the strength of these chapters. None of the traditional uses above is advice.

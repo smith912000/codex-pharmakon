@@ -52,6 +52,10 @@ General, well-established facts only. The identity is open, so no pharmacology c
 
 **Practitioner's note.** An unidentified aromatic named in a group list and in two recipes. Nothing supports cultivation use, and without an identification nothing can be gathered or used. A cultivator reads it as a name in a record.
 
+### Functional–Anatomical Correlate
+
+Little to map: the plant is unidentified, and the entry lists only what the Sushruta Samhita says about Chocha. As a member of the Eladi group it is said, for the group as a whole, to subdue Vayu and Kapha, to neutralise poison, and to act on the skin by arresting pimples and other eruptions, rash, urticaria and itching. In a plaster for the Kaphaja type of Visarpa it is one of many drugs, and in a Painaka for Panatyaya it is one of several drugs in a preparation mixed with treacle and draksha. The entry states that no part, quantity, taste or potency is given for it, and that the translator's cardamom gloss is not safe because Ela is listed separately in the same recipes. It states that Visarpa and Panatyaya are not translated into modern diagnoses. No body system beyond the skin and the doshas Vata and Kapha is attached to Chocha in its own text.
+
 ### Contraindications
 
 - **Identity.** The plant is unidentified; do not substitute any herb or spice for it.

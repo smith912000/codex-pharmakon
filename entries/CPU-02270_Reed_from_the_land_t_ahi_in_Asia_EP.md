@@ -51,6 +51,10 @@ General, well-established facts only. Reeds are tall grasses of wet ground; seve
 
 **Practitioner's note.** A reed from "the land t’ahi in Asia", named in a list and used in a plaster. A cultivator has nothing to do with it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that a reed named Reed-from-the-land-t'ahi-in-Asia, with a Female Reed, appears in a plant list in Bryan's 1930 English rendering of the Ebers papyrus. It states that Female Reed is one ingredient of an abdominal plaster in a remedy to loosen a child in the body of a woman, with the ingredient lines uncertain because of OCR. A similar phrase, Calmus-from-the-land-t'ahi-in-Asia, is one of the substances burned to make the air or clothes of a house pleasant. The entry gives no qualities such as hot, cold, moist or dry, and no organ or channel. The part of the reed used, the plaster's preparation and any effect are not stated.
+
 ### Contraindications
 
 - **Identity.** The plant is not identified; do not guess a species. [USER: verify]

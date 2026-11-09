@@ -40,6 +40,10 @@ General facts only. Pumice is used industrially as an abrasive and in building m
 
 **Practitioner's note.** Nothing to do. Pumice earns its place in the Codex as a worked example of Dioscorides's craft of selection, burning and adulteration testing, and as a stone whose Egyptian attestation is only a list row. The honest cultivation use is mechanical: a pumice stone for the skin of the feet is an ordinary tool, and nothing in the sources supports swallowing or powdering it.
 
+### Functional–Anatomical Correlate
+
+Dioscorides (5-125) claims pumice tightens and cleanses the gums, purges away things that darken the eyesight with warming, fills ulcers and forms new skin on them, and that powdered it represses abnormal growths and cleans the teeth. It forms scabs over sores on the body and is said to remove hair, so the gums, teeth, eyes, skin and hair follicles are the claimed sites. Two other chapters use pumice only as a comparison, for taking off hair (5-165) and a creaking sound (5-180), and name no organ. The entry records no Chinese, Sanskrit, Unani or Assyrian attestation. The Egyptian list row carries no action, and no Egyptian prescription was read. No humour, dosha, qi or subtle body is assigned.
+
 ### Contraindications
 
 - **Eyes.** Powdered stone in the eye is a mechanical injury; never use it as an eye medicine.

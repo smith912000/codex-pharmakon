@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this tree. It is a heart-fever drug with no preparation and no dose, whose genus name differs between the two editions. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The entry places this tree's action on the heart. Clark 1995 prints, outside the brackets, that it cures heart fevers, though the quotation that closes that clause is attributed to a commentary text the Codex has not seen, so the speaker is unclear. The commentary inside the brackets adds that it cures heart diseases and that the fruit is heart-shaped. Men-Tsee-Khang 2011 says Nying shho sha cures hot disorders of the heart, and in the same sentence names Khelma shho sha for the kidneys and Laagor shho sha for the spleen, which are other entries. The two editions therefore agree on the organ, the heart, and differ in the Latin genus. The entry gives no taste, power, humour or channel, and no part used. Its statements about the heart are the texts' own and not modern findings. Heart disease and fever need medical care, and the entry gives no protocol or dose.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Heart disease and fever need medical care; the identity is open between two genus names, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. It is a general fact that some members of the cashew family contain resins that irritate the skin, which is a further reason to leave the plant alone while its identity is unsettled. No conservation information and no safety information for pregnancy were read. [USER: verify]

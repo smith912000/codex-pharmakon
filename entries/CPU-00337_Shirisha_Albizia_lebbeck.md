@@ -65,6 +65,10 @@ These findings corroborate the antioxidant and anti-inflammatory *direction* of 
 
 **Practitioner's note.** Nothing. An antitoxic and skin-drying drug used for defined complaints; Sushruta gives it no long-term or vitality-building role.
 
+### Functional–Anatomical Correlate
+
+The entry places Shirisha in the anti-toxic (viṣaghna), breath-easing (śvāsahara, kāsahara), anti-itch (kaṇḍūghna) and anti-dermatosis (kuṣṭhaghna) groups, with srotas named as prāṇavaha (respiratory), rasavaha and raktavaha (blood and skin). Its seed paste is described for nasal application (nasya) in sinus and skin disease, and its bark decoction as an astringent for internal use. The entry frames its signature as raising the threshold of reactive, allergic over-response (anti-anaphylactic prabhāva), with the mild anuṣṇaśīta potency said to quiet Pitta-driven inflammation. Modern correlation is mostly rodent work: paw oedema and writhing models showed anti-inflammatory and analgesic effects, and an 8-week trial of a 3% topical emulgel of bark extract changed melanin, erythema, moisture and elasticity in human skin. The entry states that its anti-asthmatic and anti-anaphylactic reputation is traditional and not clinically established. Caution is listed for frank Vāta depletion and for pregnancy, lactation and children.
+
 ### Contraindications
 
 - Traditionally drying (Rūkṣa, Laghu) — use with caution in frank Vāta depletion, dryness, and debility without suitable anupāna.

@@ -43,6 +43,10 @@ General facts only: wheat and barley contain gluten (barley as hordein), which m
 
 **Practitioner's note.** A cereal described by comparison with wheat and barley. No cultivation status is attested; this is a short, honest entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one comparison and two actions, and names no organ, tissue, system or disease. The grain's strength is said to be that of barley, or a mean between wheat and barley. Its meal (sawīq) and gruel (dashīsh) are described as more astringent than barley's. Its action is that it dries without stinging, and that dissolving and astringency are present together. No degree of temperament is printed, so no humoral placement is made. The species is not given, so no constituent is linked to the body. The only preparations named are meal and gruel, with no method and no dose. The entry says nothing further about which organs it reaches. Historical record only; the Codex does not recommend it.
+
 ### Contraindications
 
 - **Gluten.** Unidentified grain; avoid in coeliac disease.

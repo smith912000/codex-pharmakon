@@ -44,6 +44,10 @@ The identification is ours; the Mingyi layer's "fruit" and the modern flower bud
 
 **Practitioner's note.** The text promises long-use benefits and gives no way to realise them: no part, no preparation, no dose, and a fragmentary indication. A cultivator can read it as the record of an upper-class drug and no more. Any use of a magnolia bud today should rest on a modern source for the actual plant and part. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The classic names the five zang (五脏) organs and the body as a whole as the places where cold-wind (寒风) lodges, which the entry leaves in its own terms. The head and brain are the site of the pain it treats (头脑痛). A facial complaint is also named, but a character is lost in the transcription, so the face is only partly mapped. Its long-use clause names the eyes (明目, brightening them) and the function 下气, which the Codex renders literally as bringing qi down and does not gloss in modern terms. Energetically the bud is acrid and warm (味辛，温). The Mingyi layer, a later addition, gives the harvest word 实, fruit, not bud, and the classic's paragraph names no part at all, so the body mapping applies to whatever part the text meant. The lightened body and added years are category claims with no modern equivalent in the entry.
+
 ### Contraindications
 
 The classic does not warn. No safety information for pregnancy, children, allergy or other medicines was read, and none is asserted. The identification is ours and several *Magnolia* species are sold under this name. Head pain and any facial complaint need medical assessment. No conservation information was read. [USER: verify]

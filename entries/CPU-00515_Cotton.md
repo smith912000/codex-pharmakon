@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing here for a cultivator. The tradition is represented by one list row, and no text read says what was done with the plant or why. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names one Assyrian list row (kadanu) for cotton, Gossypium sp., with no species, and says the plant is attested on Assyrian tablets from the reign of Sennacherib, a phrase the entry did not check. The row does not say whether the tablets name cotton as a fibre or a medicine, and it gives no tablet, preparation, use or complaint, so no body system, organ or tissue is attributed to it. The entry's general note says cotton's seed hairs are the fibre and its seeds yield an oil, but it states that no part used for this row is known and no constituent was read. The attestation rests on a list row whose cited website was not opened. Sushruta loci are recorded elsewhere and not placed here. The entry makes no anatomical claim for this plant.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, cottonseed preparations are not a safe self-treatment, and a preparation of an unidentified part should not be taken in pregnancy or by children. This is general caution and is not found in the row. [USER: verify]

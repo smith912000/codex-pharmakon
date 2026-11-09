@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a boiled root with a reputation that Dioscorides passes on at a distance. The useful lesson is his habit of telling a root by its two halves, one full and one wrinkled, and the abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: The chapter maps its claims to the reproductive sphere and, weakly, to food. It says that if the bigger root is eaten by men it makes their offspring males, and the lesser root eaten by women makes them conceive females, which places an action on the sex of offspring and on conception. The text reports that Thessalian women give the root to drink with goat's milk, also a conception-related report. The tenderer root encourages venereal diseases and the dry root suppresses and dissolves them, so that in a decoction one dissolves the other. The root is eaten boiled like bulbus, which is a food use and names no digestive organ. No temperament, humour, doshic, qi or energetic quality is printed for 3-141. The identification as Orchis militaris is one of several suggested plants, so none of these claims is tied to a verified species.
+
 ### Contraindications
 
 The chapter prints no warning. Many wild orchids are protected by law in many places and their tubers must not be dug; the particular status was not researched. The identification rests on a translators' suggestion that includes other species and genera, so no wild plant should be gathered, eaten or used on the strength of this entry. Treating the sex of a child as something a root can decide has no basis. None of the traditional uses above is advice. [USER: verify]

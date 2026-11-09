@@ -72,6 +72,10 @@ According to PubMed, the modern "starch-blocker" claim rests on genuine but mode
 
 ---
 
+### Functional–Anatomical Correlate
+
+In TCM the bean group is assigned to the Spleen and Stomach, sweet and neutral-to-cool, tonifying the Spleen and draining dampness. In the Galenic-Unani reading it is cool and moist, flatulent and nourishing. The colon is the main organ: alpha-galactoside oligosaccharides (raffinose, stachyose) are fermented by gut bacteria, and this is the humoral wind. Phytohaemagglutinin, a lectin, agglutinates erythrocytes and causes gastroenteritis from undercooked beans. The pancreas and glucose metabolism form the modern target: phaseolamin inhibits pancreatic alpha-amylase, blunting starch digestion, and a white-bean extract taken before starch-heavy meals gave modest, dose-dependent reductions in weight, fat mass and waist-hip circumference alongside calorie restriction in trials. The pod decoction is described as a potassium-rich, diuretic drink acting on the urinary passages. Ayurveda does not classically attest the bean.
+
 ### Contraindications
 
 - **⚠️ RAW / UNDERCOOKED KIDNEY BEAN POISONING — the critical hazard.** Raw and undercooked red/white kidney beans contain phytohaemagglutinin (PHA), a lectin causing acute gastroenteritis — nausea, violent vomiting and diarrhoea within 1–3 hours. As few as four or five raw beans can trigger it; slow-cookers that never reach a true boil can *increase* toxicity by warming without destroying the lectin. Beans must be soaked and then **hard-boiled at a rolling boil for at least 10 minutes.** According to PubMed, a 2018 French military-base outbreak affected ~200 people after undercooked kidney beans in chili con carne delivered PHA above the toxic threshold (Watier-Grillot et al., 2023, *Toxins*) — [DOI](https://doi.org/10.3390/toxins15070457).

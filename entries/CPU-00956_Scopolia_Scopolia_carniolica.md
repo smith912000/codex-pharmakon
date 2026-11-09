@@ -80,6 +80,10 @@ No reliable classical energetic assignment exists for *S. carniolica* specifical
 
 **Practitioner's note.** Nothing. A toxic tropane-alkaloid plant with no attested cultivation role in either tradition; it is not a practice plant.
 
+### Functional–Anatomical Correlate
+
+Scopolia's entry maps its action onto the muscarinic cholinergic system rather than onto any humoral organ. The tropane alkaloids hyoscyamine and scopolamine are described as non-selective competitive antagonists at muscarinic receptors, which the entry says explains both the former therapeutic profile and the poisoning. Historically the effects were antispasmodic action on smooth muscle, drying of secretions, central sedation, antiemesis, mydriasis and amnesia. The toxidrome is laid out by organ: thermoregulation (hyperthermia, flushing), the eye (mydriasis, blurred vision), dry skin and mucosae, the bladder (retention), the heart (tachycardia), and the brain (agitation, hallucination, delirium, then seizures and coma). The humoral reading of this group as cold, dry and narcotic is explicitly inferred from its cluster, not attested for this species, and the CM and EF tags are flagged as inheritances. The entry notes that scopolamine crosses the placenta, which is why the whole plant is contraindicated in pregnancy.
+
 ### Contraindications
 
 - ⚠️ **DEADLY POISON — no home, folk, or self-administered use of any part of the plant.** Contains atropine/hyoscyamine and scopolamine at variable, uncontrollable concentrations.

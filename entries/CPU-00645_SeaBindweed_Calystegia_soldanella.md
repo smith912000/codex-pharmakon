@@ -154,6 +154,10 @@ Graded honestly, including the nulls and the gaps.
 
 **Practitioner's note.** Nothing. A drastic purgative with no cultivation use, filed as a reference entry only.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Sea Bindweed (soldanella) was an officinal drastic hydragogue purgative in European tradition, classed with the drastics and aimed at dropsy, with secondary reference to costiveness and obstruction. The named targets are the bowel and the fluid-retention states of the body, and the doctrine of signatures reads the kidney-shaped leaf as naming the water organs. In the humoral reading it is cold, dry, downward-moving and draining. The entry's modern data name calysolin resin glycosides from leaves, stems and roots, of the purgative family class, and report antiviral activity against herpes simplex virus type 1 in cell culture, cytotoxicity of macrolactone-type compounds in HL-60 cells, weak PTP1B inhibition, and an Nrf-2 and NF-kB response in mouse macrophages from a polyphenol fraction. The entry says these are in vitro only, and that the dropsy rationale fails as therapy, since dropsy arises from cardiac, hepatic or renal failure and purgation imposes electrolyte loss on those systems. No clinical data exist.
+
 ### Contraindications
 
 ⚠️ **The Codex does not recommend internal use of *Calystegia soldanella* under any circumstance, at any dose, for any indication.**

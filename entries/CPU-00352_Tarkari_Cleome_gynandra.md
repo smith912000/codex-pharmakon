@@ -64,6 +64,10 @@ According to PubMed, *C. gynandra* has a **modest, mostly nutritional and ethnob
 
 **Practitioner's note.** Nothing. In the Suśruta text the name belongs to a heating potherb and a Kapha-reducing drug, and no rasāyana or vājīkaraṇa assignment could be tied to this species.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Tarkārī acts on the digestive tract, the joints and skin, and intestinal parasites. It is dīpana (appetiser and digestive kindler) and rocana, cutting Kapha and āma, with kṛmighna (anthelmintic) seed, śothahara (anti-inflammatory) and kaphaghna actions. The crushed leaf or seed is a rubefacient counter-irritant over rheumatic joints and is said to clear the head in catarrh. Folk uses include leaf juice as a febrifuge, in ear and eye instillation, and in wound and skin care. The entry's modern mapping is nutritional and ethnobotanical: minerals, β-carotene and vitamin C, plus glucosinolates and isothiocyanates as the mustard-oil anti-inflammatory class. A survey of Thai medicinal weeds recorded skin-remedy use at 100% fidelity level, and the reviewed basis spanned antimicrobial and wound-healing activity. No human therapeutic trials are cited. The entry warns that the crushed herb can blister skin and irritate eyes, and that Pitta, heat and oxalate load call for care.
+
 ### Contraindications
 
 - **Pitta excess / heat & acidity:** pungent-hot nature aggravates Pitta, gastritis and bleeding tendencies — moderate in high-Pitta states.

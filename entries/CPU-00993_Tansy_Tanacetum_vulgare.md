@@ -75,6 +75,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Tansy's entry maps its action onto four targets. The central nervous system comes first: thujone antagonises GABA-A receptors, producing excitation and, at excess dose, convulsions, so seizure disorders are a contraindication. The uterus is the second, where the emmenagogue (menses-provoking) use is read as the same uterine stimulation that makes the herb abortifacient. The gut and its parasites form the third: the Galenic worm-expelling and antispasmodic role is matched by in vitro killing of Schistosoma mansoni worms, with no human efficacy data. The liver is the fourth, named for hepatotoxicity and for CYP2A6, CYP3A4 and CYP2B6 metabolism, so CYP-mediated drug interactions are possible. The skin is exposed to sesquiterpene-lactone contact allergy. The 'hot and dry, third degree' Galenic grading is read as an early warning of a narrow therapeutic index. Topical or strewing use is the only route the entry allows.
+
 ### Contraindications
 
 **⚠️ DEADLY-MARGIN / DO NOT SELF-ADMINISTER INTERNALLY.**

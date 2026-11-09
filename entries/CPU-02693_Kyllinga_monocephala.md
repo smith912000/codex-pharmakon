@@ -46,6 +46,10 @@ General, well-established facts only. Species of Kyllinga are common lawn and fi
 
 **Practitioner's note.** Nothing to practise. A name in a glossary is not a recipe, and no passage retrieved shows what Sushruta did with this plant. The responsible cultivator's act is to leave it as a record and to verify the identification before drawing on it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that Bhishagratna's appendix lists Kyllingia monocephala against the Sanskrit key Nirbishi, paired by position. The next Sanskrit name, Nirgundi, and its usual Latin Vitex negundo support the alignment of that stretch but do not prove this pairing. No body system, organ or tissue is named, and the appendix prints no taste, potency, post-digestive effect, indication, preparation or dose. The chapters and volume texts were searched and show no passage on the plant, and no rasayana, vajikarana or cultivation context is attested. The only general statement is that Kyllinga species are common lawn and field weeds of warm regions, some used in folk medicine, which the entry says it cannot apply to this species. No toxicity is documented in the sources retrieved, so no safety statement is made.
+
 ### Contraindications
 
 - **Identity.** The identification is from a garbled OCR line and a positional pairing of columns, at medium confidence. Do not gather or use a plant on this basis. [USER: verify]

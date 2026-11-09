@@ -55,6 +55,10 @@ General, well-established facts only. Because Vimvi has no secure botanical iden
 
 **Practitioner's note.** Vimvi is a name in a list. The tradition's text gives the drug a place among therapeutic groups and little more, and nothing in the record supports a cultivation use. A cultivator can learn from it only how Sushruta organises drugs into groups by action, and that some names in that classification are no longer certainly identified. Nobody should try to find a plant to match the name.
 
+### Functional–Anatomical Correlate
+
+The entry gives Vimvi several physiological claims, all from the text. In the food chapter (ch.46) the fruit is cooling and astringent, with a sweet and astringent taste, and is said to subdue Pitta and Kapham and to produce a condition of parchedness in the system. A second passage calls the fruit galactagogue, meaning it is said to increase milk, which places its stated action on the breast and the milk-producing tissue. The same passage lists benefit in thirst, burning sensation of the skin, fever, haemoptysis (blood from the airways), cough, asthma and consumption (Shosha), which map to the skin, the fever response, and the lungs and airways. Sutrasthana ch.39 lists Vimvi among emetic drugs, acting on the stomach and upper digestive tract, and among errhines, acting on the nasal passages. Its place in the Varuna'di group adds the Kapham and fat claim at group level. The text does not say which part is emetic or give a dose, and the botanical identity is unconfirmed.
+
 ### Contraindications
 
 - **Identity.** The drug is not securely identified; a wrong match could be harmful. Do not substitute any plant for it. [USER: verify]

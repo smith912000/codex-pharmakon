@@ -115,6 +115,10 @@ Fresh or dried powdered horsetail applied directly to wound for hemostasis. Trad
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, horsetail's main target is connective tissue: bone, collagen, the cartilage matrix, tendon, and the skin, hair and nails, through bioavailable silicic acid that the entry says supports collagen synthesis and bone mineralization. Himalayan species are classed in Ayurveda as Sandhaniya (tissue-bonding). The kidneys and urinary tract are the second target: the saponin and flavonoid diuretic acts on kidney filtration to reduce peripheral oedema, and TCM places the Kidney as governing bone. Ibn Sina directs it to hematuria and kidney weakness. Its tannins and silica give a hemostatic action on wounds, classed in TCM as stopping bleeding. The TCM Lung (clearing superficial Wind-Heat) and Liver (eye conditions, Liver-fire) channels are also named, and the Lower Burner is where Damp is said to drain. The cautions concern the toxic marsh horsetail, thiaminase in raw plant, impaired kidneys, and pregnancy.
+
 ### Contraindications
 
 - **Species confusion — CRITICAL** — *Equisetum palustre* (Marsh Horsetail) contains neurotoxic alkaloids (palustrine) that cause thiamine deficiency and neurological damage in livestock and potentially humans; always use *E. arvense* (Field Horsetail) sourced from verified suppliers; harvest only identified *E. arvense* (lacks the silica-studded rough texture of *E. hyemale*)

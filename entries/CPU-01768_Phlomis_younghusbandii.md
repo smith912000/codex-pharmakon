@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a common-cold drug in one shared sentence, set against a Tibetan name by column position, with no preparation and no dose. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: The glossary gives this binomial the Tibetan name Lugmur only by column position in the Men-Tsee-Khang 2011 glossary, and no text prints the two together. The one action the Men-Tsee-Khang running text gives the name is 'Nyiwa and Lugmur cure heart bum and the common cold', with 'bum' as printed. Clark 1995 gives the same Tibetan name 'chest fevers and common cold', and names two other Phlomis species for it. Heart and chest are the only body regions named, and the entry gives no tissue or organ for either. Clark's commentary for the same name gives the fruit a sweet taste and a lung action, which the entry does not carry over to this binomial. No taste, power, part used, preparation, quantity or dose is printed for this species. No clinical study was retrieved, and the entry says a fever or chest illness needs medical care.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Fevers and chest illness need medical care; no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Because the binomial is set against the name by position and Clark prints other species, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

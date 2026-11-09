@@ -39,6 +39,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. The honest answer is to do nothing with it on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the row names Psychotria viridis and cites two works that are not on disk, and it gives no people, region, preparation or use. The entry states only that the plant is generally known as a source of the psychoactive tryptamine DMT, and that the leaf's content was not read. It names no organ, tissue, channel or humour, and prints no quality or dose. Its safety note says that some medicines interact seriously with preparations of this kind, that people on prescription medicines or with a mental-health condition should take medical advice, and that it is not for use in pregnancy. Its overlap note points to the ayahuasca entry for the plant's DMT chemistry, which this entry does not use.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. The plant is associated with a psychoactive alkaloid, and some medicines interact seriously with preparations of this kind. That is a general caution and is not found in the row. Anyone taking prescription medicines or with a mental-health condition should take ordinary medical advice before any such use. Legal status varies and is unchecked. [USER: verify] Do not use in pregnancy.

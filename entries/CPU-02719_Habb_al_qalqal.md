@@ -42,6 +42,10 @@ No clinical studies were retrieved for this entry. [USER: verify] Because the pl
 
 **Practitioner's note.** Nothing to do. An unidentified seed whose only attested uses are fattening and a headache nibble; with no plant identified, there is nothing a cultivator can verify or source.
 
+### Functional–Anatomical Correlate
+
+The Canon describes the white kind as an oily seed with an oily kernel, and gives its effects by organ. For slack bodies, the Arabic says it strengthens them, which the entry glosses as joints and nerves. For the head, it is said to relieve headache, especially when taken as a nibble with old wine. Under cosmetic use it is called fattening. For the digestive organs, the Canon warns that much of it causes surfeit and nausea, that it digests better with sugar and honey, and that the small kind is very stinging to the stomach. Roasting makes it lighter. The passage gives no temperament and no humours, so no humoral placement is made. The plant is not named, so no tissue or organ can be linked to a constituent. Historical record only; the entry does not recommend it, and the stomach warning applies.
+
 ### Contraindications
 
 - **Identity unknown.** Do not substitute any seed for it. The plant is not named.

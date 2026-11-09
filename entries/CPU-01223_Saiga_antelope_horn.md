@@ -40,6 +40,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The only gener
 
 **Practitioner's note.** Nothing here supports cultivation use. The horn appears in the sources as one line in a list of horn medicines, with a single action that the translators do not define, and the animal's identity is not secure. A cultivator has nothing to take from this entry; the honest practice is abstention, which also spares a species of concern.
 
+### Functional–Anatomical Correlate
+
+The entry gives two traditions that map differently. In the Shennong bencao jing, as the entry reads it from Sun Xingyan's 1799 edition, the horn is salty and warm and is listed for the blindness called qingmang, for brightening the eyes, for killing scab insects, for stopping cold diarrhoea and for fright palpitations. So the eyes, the intestines and the heart are its named organs. Taken for a long time it is said to settle the heart, add to qi and lighten the body. The Tibetan record names a different horn animal, rgya, with one action: the horn is ecbolic. The translation does not define the term, but in pharmacology it means hastening labour or expelling the foetus, so the womb is the organ the term points to. The entry does not settle that the two animals are the same, and no constituent or mechanism is given in either record.
+
 ### Contraindications
 
 The action claimed is ecbolic, which on its own is a reason to avoid it in pregnancy. Horn is an animal product of uncertain source: trade in saiga and in Tibetan antelope products is restricted or prohibited in many countries, and the animal in the text is not securely identified, so any product sold under this name cannot be taken to be what the texts mean. Hygiene (unprocessed animal material) and ethics (a threatened species) are further reasons for abstention.

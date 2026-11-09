@@ -44,6 +44,10 @@ General, well-established facts only. Soil-dwelling animals and their guts carry
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The mole is an animal named in two cooked-in-oil remedies for a splinter and for the place of a pulled hair, and the Codex does not recommend either. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states two external sites. One is a splinter lodged in flesh, where the cooked mole in oil is applied to the opening of the splinter. The other is the place from which a hair was pulled, which Bryan's recipes place in the diseases-of-the-eyes section. No internal organ, humour, qi or doshic term is given, and no tradition classification of the animal is printed. The mole's entrails and fat appear only as ingredients, and the text gives no quality, potency or taste. Bryan prints no further mole recipe in the material read, and no quantity is stated. Nothing in the entry extends either use to another body system, and the entry records both as historical.
+
 ### Contraindications
 
 - **Wounds:** do not apply animal tissue, entrails or fat to an open wound or the opening of a splinter; this risks wound infection, tetanus and gangrene.

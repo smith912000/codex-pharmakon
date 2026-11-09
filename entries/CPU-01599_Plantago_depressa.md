@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a wound-healing, lymph-drying and anti-diarrhoeal drug, and the plant of a stew, in the Tibetan texts, and nothing more can be said from them. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts map this drug onto the wound, the lymph and the bowel. Clark's root text says the plant has sweet and astringent tastes, heals wounds and dries lymph accumulations. The bowel is the organ of the anti-diarrhoeal claim: the plant is said to halt diarrhoea, and stewed with mallow it is said to increase digestive heat and stop diarrhoea. The Men-Tsee-Khang text places Tharam among the medicines that stop or cure diarrhoea. Skin and flesh are mapped only through the wound claim, and lymph through the drying claim. Clark prints no power (hot, cool, heavy or light) for the plant. The bracketed commentary, which describes its growth and leaf, is kept separate from the root-text claim. The texts name no organ, channel or energetic centre, and the framing is therapeutic and dietary only. The botanical identity is uncertain, so the mapping applies to the drug as the Tibetan texts name it.
+
 ### Contraindications
 
 The sources read print no warning. Diarrhoea that persists needs medical care, since dehydration is a general risk, and wounds that do not heal need assessment. The botanical identity is uncertain (two binomials in Clark), so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

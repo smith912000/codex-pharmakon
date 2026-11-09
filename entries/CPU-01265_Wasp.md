@@ -42,6 +42,10 @@ General, well-established facts only. Wasps are insects of the order Hymenoptera
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The wasp enters the Ebers material as a source of dung and blood for external poultices and as a hazard to be smeared against, and the Codex does not recommend the medical uses. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The entry's Ebers wasp recipes name several sites. Wasp's dung, in poultices and pastes, is used for splinters in the flesh, for wounds, and for an ulcer, which is left on until it falls off. A ball with the dung is placed in the vagina for women's complaints, and a four-day plaster of the dung with cow's brain is used for a diseased breast. For baldness, flax in oil with wasp's dung is the remedy, and a red-lead and urine mixture with the dung is placed where hair has been pulled from the eye margin. Wasp's blood, in poultices, is used on growths in the neck, which the text links with irritation of the atut and with a fatty swelling treated with the knife. Heka is named in general, with a formula for the breast aimed at Isis, not the dung. No humour, quality or temperament is given for the wasp.
+
 ### Contraindications
 
 - **Wounds, ulcers and the eye margin:** do not apply insect excreta, blood or any unsterile animal material; wounds and ulcers need cleaning and examination.

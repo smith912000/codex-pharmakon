@@ -99,6 +99,10 @@ Where the European tradition prized dandelion chiefly as a bitter hepatic and di
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places dandelion in the Liver and Stomach channels, as a bitter-cold, draining herb that clears heat, resolves fire-toxin and dissipates hot swellings and nodules. Its principal organ target is the breast in ru yong (acute mastitis, hot breast abscess), used internally and as a fresh poultice, with hot sores and infected swellings also named. Through the Liver it clears Liver-Gallbladder damp-heat and is described as a cholagogue that stimulates bile flow and benefits jaundice. Through urination it drains damp-heat (li shi tong lin). Modern correlates named are sesquiterpene lactones and triterpenes with anti-inflammatory action, luteolin with chicoric and chlorogenic acid for hepatoprotective and antioxidant reports, and root inulin as a prebiotic. The entry notes that the Tibetan (FMT) tag is not substantiated by any Tibetan source in the entry, and it marks species-specific citations as unverified. It also records that cold, deficient Spleen-Stomach states may be aggravated, and that biliary obstruction is a contraindication.
+
 ### Contraindications
 
 - **Cold/deficiency-cold of the Spleen-Stomach:** As a bitter-cold draining herb, dandelion can aggravate cold-deficient digestion (cold abdominal pain, loose stools from cold, no heat signs); use cautiously or combine with warming herbs

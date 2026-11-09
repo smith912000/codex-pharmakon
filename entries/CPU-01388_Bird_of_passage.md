@@ -56,6 +56,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As a general f
 
 ---
 
+### Functional–Anatomical Correlate
+
+Little to map: the Ebers entry states only that a bird of passage is named in Bryan's list of animals of the materia medica, with no species, Egyptian name or use. The one passage that uses it is a limb-softening poultice for hardenings: dompalm fruit, beans, edelkraut, fresh milk and sebesten are to be crushed in the bird and in its feathers and applied as a poultice. The complaint is hardening of the limbs, so the only body region the text gives is the limbs, and it names no organ, tissue or internal system. The text does not say whether the bird was alive, dead or plucked, nor whether the instruction is a preparation or a spoken formula. The entry gives no humoral, qualitative or energetic class, no cultivation status and no dose. The bird cannot be identified from the sources, so no species-level mapping is possible.
+
 ### Contraindications
 
 - **Disease risk:** wild and migratory birds can carry transmissible infections; handling carcasses or feathers carries a hygiene risk.

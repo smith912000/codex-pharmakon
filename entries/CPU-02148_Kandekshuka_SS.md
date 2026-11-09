@@ -45,6 +45,10 @@ General statement only: a drug that cannot be tied to a species cannot be linked
 
 **Practitioner's note.** A grass-type herb named once, as one of five in a compound given in cow's milk for bleeding from the lungs and urinary complaints. Nothing in the record supports a cultivation use, and with the plant unidentified there is nothing to do with it. A cultivator does nothing with this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry gives only group-level statements for the Pancha-Trina group, the five grass-type herbs Kusha, Kasha, Nala, Darbha and Kandekshuka, Sushruta Samhita ch.38. The metrical text says that haemoptysis, renal defects and urinary diseases yield to the compound given internally in cow's milk. Modern correlates for those named conditions are the lungs (bleeding from the airways), the kidneys and the urinary tract. Near the end of the chapter the group is said to be endued with the property of killing the deranged Pittam, which maps to the pitta humour. The text does not say which part of Kandekshuka goes into the compound, and it gives no description, habitat, taste (rasa), potency (virya), post-digestive effect (vipaka) or dosha for Kandekshuka singly. The plant is not identified, so no organ can be tied to the drug itself from its own record. The entry gives no dose and says nothing about pregnancy.
+
 ### Contraindications
 
 - **Identity.** The plant is not identified in the sources read. Do not use any plant sold under this name on the strength of this entry. [USER: verify]

@@ -97,6 +97,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps the tuber to the digestive and nutritive axis. Its cooked starchy root is described as sweet, nourishing and grounding. In the TCM analogy, which is by taste and action rather than botany, it sits near Shan Yao as a Spleen and Stomach tonic root, and in the Unani frame pulses are thick, windy and slow to digest, so the root can burden a weak digestion. The energetic classification is Qi with a Jing lean. The modern correlates are starch, sugars, protein and fibre in the storage organ. The seed is the hazard organ: genus-level beta-ODAP and beta-cyanoalanine act as glutamatergic excitotoxins on motor neurons, producing irreversible neurolathyrism of the legs when seeds form a large sustained part of the diet. Species-specific beta-ODAP for L. tuberosus is not established in the retrieval, so the seed is treated as potentially toxic. The entry records no therapeutic action and no cultivation status.
+
 ### Contraindications
 
 - **⚠️⚠️ Neurolathyrism / seed hazard (the defining warning):** as a *Lathyrus*, the plant belongs to the genus that causes neurolathyrism — an **irreversible spastic paralysis of the legs** — when its **seeds** are eaten as a large, sustained, near-sole part of the diet (the classic famine-monodiet pattern). **Do not adopt the seeds as a staple food.** The **tubers** are the safer organ and the only part Kenetica endorses as food, but never let any *Lathyrus* seed dominate the diet. Assay species-specific β-ODAP before considering seed use. `[USER: verify]`

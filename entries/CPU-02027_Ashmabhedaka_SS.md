@@ -47,6 +47,10 @@ General facts only. Urinary stones are a medical condition needing diagnosis. Th
 
 **Practitioner's note.** An unresolved group drug for urinary stone and Vata disorders. Nothing in the record supports any cultivation use.
 
+### Functional–Anatomical Correlate
+
+The entry places Ashmabhedaka in the Viratarvadi group and in the Vata-soothing list, and its only organ-level claims concern the urinary tract. The group is said to subdue disorders of deranged Vata and to be curative in Ashmari (stone), Sharkara (gravel), Mutrakrichhra (painful urine), Mutraghata (obstructed urine) and urinary troubles generally. Modern anatomy would name the kidneys, ureters, bladder and urethra, but the text names none of them, so the mapping stops at the urinary tract. Vata, the tradition's category, is said only to be soothed and is not mapped to any structure. No part used, preparation or single-drug use is given, and no rasa, virya or vipaka is printed. The identity is uncertain: a positional Kalanchoe pairing is low confidence, and the Bergenia suggestion is not supported by any source read. The stone and obstruction claims are conditions the entry says need medical care, and pregnancy and children are not addressed.
+
 ### Contraindications
 
 - **Urinary stone and obstructed urine.** Medical conditions that can be emergencies; seek care.

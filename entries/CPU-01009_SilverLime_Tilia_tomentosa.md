@@ -80,6 +80,10 @@ The Cool–Moist, relaxing and diaphoretic reading in the header is the standard
 
 **Practitioner's note.** Nothing. No cultivation role is attested in either stream for silver lime.
 
+### Functional–Anatomical Correlate
+
+The entry places silver lime's nervine action on the nervous system, citing GABA-A and benzodiazepine-receptor activity in mouse hippocampal neurons, a finding it grades as preclinical only. Its diaphoretic use is framed in Cool-Moist terms as acting on the skin and pores to encourage a light sweat in fever. The flower's flavonol glycosides, quercetin and kaempferol derivatives, are linked to intestinal smooth-muscle relaxation in murine models, so the gut is the second organ system named. Mucilage gives the soothing, film-forming quality used for a dry, irritable throat. Antioxidant and anti-inflammatory effects are described only at genus level, not for this species. The Cool-Moist reading is a genus-level attribution inherited from European lime-flower practice, and no Unani or Avicenna attribution is recorded for silver lime.
+
 ### Contraindications
 
 - **Cardiac / frequent-use caution — [USER: verify]:** a long-repeated caution holds that very frequent, prolonged lime-flower use may be inadvisable for people with certain heart conditions. This claim is widely stated but poorly substantiated in the primary literature; no controlled evidence was retrieved. Flagged for verification; not asserted as established. Occasional tisane use is regarded as safe.

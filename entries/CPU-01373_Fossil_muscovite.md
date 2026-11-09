@@ -56,6 +56,10 @@ No clinical studies were retrieved for this entry. [USER: verify] General facts 
 
 ---
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives one action, that the stone cures bone fevers, and the Men-Tsee-Khang version calls the condition hot disorders of the bone. The site is therefore bone. The Zur.mkhar comment says the stone is required to retain mercury during processing, which is a role in a preparation and not a site in the body. The male type is coarse and the female type smooth, and medium types are regarded as natural, but the text does not say what the medium types lie between. The colour is not fixed: different authorities call the stone black or shiny liver-coloured, and it bears the design of a goat's or sheep's horn. No taste, potency or post-digestive taste is printed in the lines read. Nothing further is mapped.
+
 ### Contraindications
 
 - **Unidentified mineral:** the identity is unsettled between a mica and a marble; an unidentified stone should not be ingested.

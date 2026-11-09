@@ -98,6 +98,10 @@ Fú Líng holds a singular position in all of Chinese medical history: it appear
 
 **Practitioner's note.** This is a base, not a peak. Its cultivation warrant is the same one the tradition gives every upper-grade drug — take it long, take it low, and expect nothing dramatic — and in practice Fú Líng is used as the quiet floor of a formula rather than its subject, which is why it appears in more classical prescriptions than almost anything else. For a cultivator the honest use is structural: it steadies digestion and sleep so that practice can happen, and it makes no claim to do the practice. Where the spirit is unsettled by disordered hours or an overloaded gut, this is the right kind of answer; where it is unsettled by how a person is living, the abstentive answer is the better one and no substance substitutes for it.
 
+### Functional–Anatomical Correlate
+
+The entry gives Fu Ling the Heart, Spleen, Lung and Kidney channels, with a primary Shen-stabilising tier and a secondary Qi action on Spleen and Stomach. Its classical actions are to calm the Heart and quieten the Shen, tonify Spleen and Stomach Qi, transform and drain dampness, and harmonise the Middle Jiao. The modern correlates are given for the sleep and gut axes. Pachymic acid is described as a positive allosteric modulator of GABA-A with 5-HT2A and 5-HT3 interactions, linked to longer non-REM sleep in rodents. Beta-glucan polysaccharides act through TLR2 and TLR4 on macrophages and NK cells, and chitin feeds Bifidobacterium and Lactobacillus in the gut, which the entry links to gut-associated lymphoid tissue. Poricoic acid A is cited for NLRP3 inflammasome inhibition in gut inflammation, and the triterpenes for mild aldosterone-linked diuresis. The entry says the Ayurvedic and Tibetan attributions are unverified in its own cultivation register.
+
 ### Contraindications
 
 - **Yin deficiency with interior heat:** The drying and dampness-draining properties of Fú Líng may exacerbate conditions of Yin deficiency characterised by dry mouth, night sweats, and heat sensation. Reduce dose to 3–6 g or combine with Yin-nourishing herbs (Ophiopogon, Rehmannia)

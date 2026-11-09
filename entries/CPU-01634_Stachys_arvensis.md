@@ -45,6 +45,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The text is a description for telling three similar plants apart, and that is the practice it supports. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter names one body site, the wound. Dioscorides says that “This (with the leaves) is good for wounds”, and the entry’s only system is the skin and soft tissue that a wound breaches. The text does not say whether “this” is the seed head alone or the seed head with the leaves, so the part used is not settled. It states no temperature, taste, humour or other quality, and it names no doshic, qi or other traditional classification, so there is no energetic system to carry across. The chapter describes three sideritis plants by their leaves and seed heads, and the description is for telling this one apart from the other two. The identification is one modern suggestion, and the Codex does not treat it as certain. Nothing here maps to the viscera or the blood, because the text names none.
+
 ### Contraindications
 
 The chapter states no caution. The identity of the plant rests on one modern suggestion, and three different plants share the name *sideritis* in the text, so no wild plant should be gathered or applied on the strength of this entry. Wounds, especially deep, dirty or bleeding ones, need medical assessment. None of the traditional uses above is advice.

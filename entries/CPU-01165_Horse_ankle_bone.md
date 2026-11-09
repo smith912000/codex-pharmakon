@@ -46,6 +46,10 @@ Tibetan / rGyud-bzhi (FMT): the chapter 20 line gives actions only (removes, cur
 
 **Practitioner's note.** A cultivator does nothing with this. The text offers a therapeutic line in a section of the materia medica that Clark says is little used today, and the frame read here makes medicine one of four branches of treatment, not a practice. The honest use is to read the line as a record.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the horse's ankle bone cures anterior transposition of the calf muscle, which maps to the calf muscle and its attachments in the lower leg. Clark's bracketed second clause says it subdues nagas (serpent spirits), a spirit aetiology and not an organ. Men-Tsee-Khang renders the item as the fetlock curing cramps of the calf muscle, and omits the naga clause; the entry flags that correspondence as its own reading. No taste, potency, post-digestive taste or humour is printed for the bone, and no Tibetan name is given. No preparation, whether burnt, ground or worn, and no dose are stated.
+
 ### Contraindications
 
 - **Not a recommended practice.** This records a Tibetan materia medica entry. Nothing here is advice to use horse bone.

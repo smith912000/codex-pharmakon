@@ -90,6 +90,10 @@ Cool and dry in the humoral scheme, second degree; strongly astringent (*qābi�
 
 **Practitioner's note.** Nothing. The astringent bark and soothing gum are practical remedies, with no cultivation status in either tradition as tagged.
 
+### Functional–Anatomical Correlate
+
+The entry maps this tree's traditional actions onto mucosal and surface tissue that is leaking. Bark decoction is used as a gargle for sore throat, mouth ulcers and inflamed gums (oral mucosa and gingiva), and as an internal antidiarrhoeal for diarrhoea and dysentery (intestinal mucosa), while powdered bark or gum is dusted onto wounds and burns (skin and wound margins). The Kenetica term is a cool, dry, astringent consolidating agent, with the Arabic qabid (binder) as the classical reading. The stated mechanism is condensed tannins (proanthocyanidins) precipitating proteins at these surfaces, which the entry links to the tightening felt on mucous membranes. Its animal data come from pigs, where tannin-mediated loss of protein utilisation was shown, and no human trial supports the wound, throat or dysentery uses. The gum, a separate arabinose-dominant, non-astringent polysaccharide, is filed as a demulcent and soluble fibre, with rodent-only data on intestinal alpha-glucosidase and blood glucose. Cautions are placed on the bowel, iron absorption and protein-energy recovery.
+
 ### Contraindications
 
 - **Constipation, atonic bowel, diverticular disease** — the astringent action worsens all three.

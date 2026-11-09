@@ -54,6 +54,10 @@ General, well-established facts only. A plant named in the Sushruta Samhita with
 
 **Practitioner's note.** A purgative, caustic-ash and dressing plant of the surgical chapters, which the sources do not identify. There is nothing here for a cultivator to do with it.
 
+### Functional–Anatomical Correlate
+
+The entry places Putika in the Varuna'di group, which the Sushruta Samhita says reduces deranged Kapha and fat and is efficacious in cephalaegia (headache), Gulma and internal abscesses. The plant's leaves, tender sprouts, twigs, seed oil, juice and burnt ash are used in the surgical chapters. The stated sites are the head (headache), the abdomen (Gulma), internal abscesses, skin disease and ulcers (a plaster, a lint for cleansing an ulcer, and seed oil for malignant ulcers), the airway (cough and asthma, in a ghrita), and the bowel, since Putika is listed among purgative plants. The doshic terms are Kapha, fat (medas), Vayu and Gulma. No rasa, virya or vipaka is printed for Putika itself. The heat-making and Vayu-subduing qualities in chapter 46 belong to Putikaranja, and the entry says it is not stated whether that is the same plant. The identity is unresolved, and no dose is given.
+
 ### Contraindications
 
 - **Identity.** The plant cannot be identified from the text; do not guess a species or collect a plant under this name. [USER: verify]

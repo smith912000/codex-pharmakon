@@ -61,6 +61,10 @@ According to PubMed, the documented pharmacology of *Croton oblongifolius* is at
 
 **Practitioner's note.** Nothing. The Suśruta text gives only a group membership for the drug, and the group is a purgative, anti-Kapha and skin set, not a nourishing one.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Nāgadantī acts on the lower digestive tract and the abdomen. As a tīkṣṇa virecana (drastic purgative) it moves Kapha and Vāta downward, and it is used for udara (ascites), gulma (abdominal masses), kuṣṭha (obstinate skin disease) and heavy, congested abdominal states. The Suśruta gaṇa describes it as destroying Kapha and fat, acting as a vermifuge (kṛmighna) and an aseptic for ulcers. Its Ayurvedic character is kaṭu-tikta and uṣṇa, with bhedana and virecana actions. The entry's modern mapping is limited to in vitro work: clerodane and cembranoid diterpenes showed mild cytotoxicity against tumour cell lines, and neocrotocembranal inhibited thrombin-induced platelet aggregation. The entry warns that the genus causes mucosal irritation and gastrointestinal injury, and that its antiplatelet activity implies a bleeding interaction with anticoagulants. No human trial data are cited, and the entry places the drug in the purification phase rather than as a tonic.
+
 ### Contraindications
 
 - **Absolute practitioner supervision** — a drastic cathartic of a toxic plant family; not for self-administration.

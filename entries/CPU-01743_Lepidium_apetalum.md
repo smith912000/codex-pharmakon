@@ -53,6 +53,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a drug for lymph accumulations and fractured skulls in the Tibetan texts, with no preparation and no dose, and the plant behind the Tibetan name is uncertain among six. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The texts name several places this drug acts on. Clark's root-text line says it 'dries lymph accumulations in the chest, unites skull fractures, maintains bone resin', and Men-Tsee-Khang's running text gives a parallel set: it 'dries up the chhuser of the abdomen, joins fractured skulls and preserves spongy bone'. Read literally, the regions named are the chest (thorax) and the abdomen, and the tissues are the skull (cranial bone) and bone (skeletal tissue), with lymph and chhuser as the fluid-like terms the texts say are dried. The entry does not define these Tibetan terms and does not claim that they match modern lymphatic or skeletal findings. Clark's commentary adds that the root is yellow and bitter, and that the drug is a rare and secret medicine which, when compounded, 'cures the four hundred and four kinds of disease'. The entry records that claim of range without interpreting it. No power, taste or part used is printed in the lines read. Six candidate plants of several genera are named, so the organ map belongs to the Tibetan name and not to one species.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Fractures and chest disease need medical assessment; no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Because the identity is uncertain, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

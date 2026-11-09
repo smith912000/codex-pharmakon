@@ -40,6 +40,10 @@ Avicenna: hot in the first degree, not severe in dryness (line 15300 to 15301); 
 
 **Practitioner's note.** There is nothing to practise here. The entry is mainly an example of how Avicenna ranks a drug by colour and clarity (a "pearly" white kernel) before saying what it does.
 
+### Functional–Anatomical Correlate
+
+The entry maps mahlab onto the chest, the back and flank, and the urinary tract. Its temperament is hot in the first degree and not severe in dryness, and it is called a gentle polisher that dissolves and soothes pains. For the joints and nerves it names pains of the flank and the back. For the chest it names fainting (al-ghashy), to be drunk with honey water. For the excretory organs it names colic and the stone in the kidney and bladder, and it names the back again. Recipes elsewhere in the Canon use the peeled kernel (ḥabb al-maḥlab) in a jaundice treatment and in a compound with kidney remedies, and those doses are not part of this entry. The modern identification as Prunus mahaleb is matched from the name and is not confirmed by the text. No vital-faculty term is given.
+
 ### Contraindications
 
 - Fainting, kidney or bladder stone and colic need medical care.

@@ -42,6 +42,10 @@ General, well-established facts only. Alkaline salts and some mineral sulphates 
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. Ushaka is a substance in a therapeutic list for stone and urinary complaints, and the text does not describe it by itself. The honest use for a reader is to know that the text records the group, that its first member is only glossed "alkaline earth", and that the chapter leaves the choice and amount to the physician. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Ushaka is named as the head of the Ushakadi group, whose metrical statement says the group destroys kapha, absorbs the fat of the body, and cures stone or gravel in the bladder, dysuria and abdominal glands (gulma). The treatment uses name the bladder and urinary passage (asmari, calculi), the abdominal glands, the internal abscess (vidradhi) of an unsuppurated swelling, and the postpartum complaint makkalla, with obstructed lochia, nodules and pain about the navel and bladder, and retention of urine. Oils and gruels cooked with the group are prescribed for kaphaja mutra-krichchhra. The properties belong to the group, and no rasa, virya or vipaka is printed for Ushaka itself. The mapped sites are the fat tissue, the urinary bladder and urinary passage, the abdominal glands, the navel region and the reproductive organs after delivery, and the abscess. The entry places it in the humoral frame of kapha, not in the frame of ojas, tejas or prana.
+
 ### Contraindications
 
 - **Bladder stone, dysuria, retention of urine:** these need clinical diagnosis; severe pain, blood in the urine or inability to pass urine is an emergency.

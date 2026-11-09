@@ -76,6 +76,10 @@ Dandelion is the **Drainage-phase** workhorse: leaf as a food-diuretic and potas
 
 ---
 
+### Functional–Anatomical Correlate
+
+Dandelion's entry maps its drainage action onto the urinary and hepatobiliary systems. The potassium-rich leaf is linked to diuresis, and the entry cites a 17-person pilot study in which urination frequency rose after a dose, a human result that fits the 'piss-a-bed' name. The root's bitter sesquiterpene lactones and taraxasterol are linked to bile flow, the reflex that stimulates salivary, gastric and biliary secretion, and to the Galenic 'opening the liver and spleen' doctrine. The Pu Gong Ying entry places action on the Liver and Stomach channels, with breast abscess and mastitis named. The root's inulin is described as a gentle prebiotic. Bile-duct obstruction and cholangitis are contraindicated, because stimulating bile flow is dangerous there. Liver and anti-inflammatory claims rest on NF-κB suppression in endothelial cells in vitro, with no human cholagogue outcome data. Pregnancy and paediatric high-dose use lack formal safety data.
+
 ### Contraindications
 
 - **Asteraceae (Compositae) allergy** — dandelion can cross-react in people sensitised to ragweed, chrysanthemum, marigold, etc.; contact dermatitis is reported from the latex. Avoid in known Compositae allergy.

@@ -50,6 +50,10 @@ General, well-established facts only. Nothing can be said of an unidentified pla
 
 **Practitioner's note.** A name in a group list and a recipe, and a homonym of several diseases. The entry exists to keep the name from being confused with either, and gives a cultivator nothing to use.
 
+### Functional–Anatomical Correlate
+
+Kumbhika is named in the Priyangvadi group (Sutra ch. 38), which the text applies together with the Amvashthadi group to deranged Pitta, the healing of ulcers, the adhesion of fractured bones, and dysentery where the stools consist of lumps of thick, matured mucus. These map to bone at a fracture, ulcerated tissue, and the bowel in the text's terms. Kumbhika is also an ingredient of a gruel (yavagu) in Uttara-tantra ch. 40, made with Vilva, Sallaki and Dadima juices, curd, oil and ghee; the lines read do not name the disease beyond the dysentery passage that the recipe continues. The same spelling is a disease in the Sushruta Samhita, an eyelid condition and a classification term, and the Codex treats those as separate and does not map them to this drug.
+
 ### Contraindications
 
 - **Identity.** The plant is not identified, and the word is also a disease name. Nothing may be gathered, bought or used on the strength of this entry. [USER: verify]

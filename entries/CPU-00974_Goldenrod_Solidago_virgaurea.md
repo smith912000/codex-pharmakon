@@ -78,6 +78,10 @@ Folk and early-modern European sources treat goldenrod as a **warming, drying, a
 
 **Practitioner's note.** Nothing. Goldenrod's attested role is a modern European irrigation-therapy herb; neither tradition supplies a cultivation use.
 
+### Functional–Anatomical Correlate
+
+Per the entry, the body system most directly targeted is the urinary tract. Its traditional and monograph-backed use is aquaretic: increased urine flow for irrigation therapy of the lower urinary tract in mild infection and inflammation, and to help prevent kidney gravel and pass small concretions. The entry's Melzig profile adds anti-inflammatory, antimicrobial, antispasmodic and analgesic activity in this system. In Kenetica's terms it is a downward, draining herb of the water-passages. The older 'woundwort' use points to skin and mucosa, supported only by preclinical anti-inflammatory and analgesic models and by a human trial of a three-herb combination for rheumatic complaints, not goldenrod alone. The oral antimicrobial effect (reduced plaque biomass) rests on one RCT of a toothpaste. The entry denies any action on established stones; the mapped action is flushing, not dissolution. Fluid load is the limit: oedema from cardiac or renal insufficiency contraindicates irrigation, and renal disease requires medical supervision.
+
 ### Contraindications
 
 - **Irrigation-therapy prerequisite:** requires **adequate fluid intake**. Do **not** use as irrigation therapy where increased fluid load is unsafe — i.e. **oedema due to cardiac or renal insufficiency**; contraindicated in that setting.

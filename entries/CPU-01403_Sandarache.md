@@ -58,6 +58,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+The sites are the hair and scalp, the nails, the skin, the mouth and nostrils, the airways and the voice. With rosin, the sandarac is said to heal loss of hair; with pitch it removes leprous nails; with oil it clears lice; with grease it dissolves small swellings; with rosaceum it treats ulcers of the nostrils and mouth, pustules and venereal warts. Given with mead it is said to clear those who spit up rotten matter, and as an inhalant with rosin it treats old coughs; licked in with honey it clears the voice, and as a pill with rosin it treats the asthmatic. The chapter prints no warming, cooling, drying or moistening quality. It says the properties are those of arsenicum, which the companion chapter describes as antiseptic, astringent, scab-forming, burning and biting, and as repressing growths and making hair fall out. The text thus claims both hair restoration and hair loss, and the material's identity is unsettled.
+
 ### Contraindications
 
 - **Probable arsenic compound:** the chapter ties sandarac to arsenicum (labelled "POISONOUS" in 5-121). Do not swallow, inhale as smoke or dust, or apply to broken skin or mucous membranes. Arsenic compounds are toxic and carcinogenic.

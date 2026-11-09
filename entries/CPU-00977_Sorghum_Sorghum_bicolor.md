@@ -100,6 +100,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps sorghum chiefly to the digestive system. In Chinese medicine it is a warm, sweet-astringent grain entering the Spleen and Stomach, used to strengthen the Spleen, harmonise the Stomach, check diarrhoea and leakage, and dry damp, for damp-cold digestive weakness and loose stool. Ayurveda reads jowar as sweet-astringent, dry and light, reducing kapha and medas (fat) in dietary use. Galenic and Unani readings call it warming and drying, binding in excess and constipating when overeaten. The entry links this to condensed tannins in the pigmented seed coat, which reduce protein and mineral (iron, zinc) absorption, and to phenolic acids released by gut fermentation. Modern correlates offered are antioxidant polyphenols and 3-deoxyanthocyanidins, plus a slowly digested, low-glycaemic starch and bran fibre profile. The entry grades this as compositional and dietary evidence, with human clinical outcome data limited, and notes that one review it cites carries a retraction tag.
+
 ### Contraindications
 
 - **High-tannin antinutrition** — heavy reliance on high-tannin sorghum without processing (soaking/fermentation) reduces protein and mineral (iron, zinc) bioavailability; a concern in monotonous diets and for those with marginal micronutrient status

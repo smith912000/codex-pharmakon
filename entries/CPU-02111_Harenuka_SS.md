@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The classic's 
 
 **Practitioner's note.** A name in lists, with nothing said of the plant itself. A cultivator has nothing to do with this entry beyond reading it.
 
+### Functional–Anatomical Correlate
+
+Harenuka appears in four places, and each gives a body system through a group or a compound. The Pippalyadi group, in its metrical text, acts as a good appetiser and absorbs intestinal mucous and unassimilated lymph chyle, with the range of application given as catarrh, deranged Kapha and Vata, non-relish for food, abdominal glands, colic and gastralgia. This maps to the digestive tract and to the abdominal glands, with Kapha and Vata as the doshas named. The Elardi group is said to subdue Vayu and Kapha and to neutralise poison, and as a cosmetic to arrest pimples, rash, urticaria and the itching with them, which maps to the skin. A wound oil is called a healing remedy for non-malignant traumatic sores and ulcers. The lines read give Harenuka no rasa, virya or vipaka of its own, though the Sutra 42 pungent group includes it. No modern anatomical term is supplied, because the Codex does not translate these terms into modern diagnoses, and the claims are the groups' rather than the drug's alone.
+
 ### Contraindications
 
 - **Identity.** Unknown; do not gather or use any plant on the strength of this entry. [USER: verify]

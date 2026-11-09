@@ -105,6 +105,10 @@ According to PubMed, the caged-xanthone chemistry is genuinely active and mechan
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, gamboge's TCM record (Téng Huáng: cold, acrid, sour, greatly toxic) places its action on the skin and superficial tissue, used externally for carbuncles, furuncles and stubborn ringworm (tinea), and on the lymph nodes of the neck for scrofula, meaning chronic cervical lymphadenopathy. Internally it is a drastic purgative that drives downward through the Large Intestine, with channel entry given as Spleen, Stomach and Large Intestine (flagged for verification). Its modern reading is severe intestinal irritation, producing watery stool, cramping and fluid loss. The jaundice indication is a colour-based signature: the yellow of the resin is a xanthone, not bilirubin, and the entry states that nothing supports its use for liver or biliary disease. Gambogic acid is discussed as a cytotoxic xanthone in cell and mouse studies, not as a therapy acting on a named organ in people.
+
 ### Contraindications
 
 ⚠️ **GAMBOGE IS NOT A MEDICINE. IT IS A HISTORICAL POISON WITH A LIVING RESEARCH AFTERLIFE.**

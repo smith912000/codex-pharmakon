@@ -45,6 +45,10 @@ General, well-established facts only. Nothing can be said of the pharmacology of
 
 **Practitioner's note.** Nothing to practise. The substance cannot be identified, the record is a single line, and the complaint it addresses needs proper care. The honest cultivator's act is to leave it as a record, and to treat the provenance phrase ("from the top of the des-jar") as a reminder that Egyptian drug names often encode where and how a thing was gathered.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one site, the abdomen. The oil is put on the patient's abdomen as the second of two remedies for an inflamed abdomen, in a chapter on indigestion and the abdomen, where the first remedy (flax stem with fresh milk) is applied to the same place. The application is external. The entry gives no temperament, humour or other quality for the oil, and the Ebers material is organised by complaint rather than by constitution. The Egyptian terms for the person (ka, ba, akh, ib) and the heka of spell and drug are general context for the tradition, and no source here links this oil to any of them. The oil's placement among minerals comes from Bryan's list, and the text states no mineral property for it. No quantity or duration is given.
+
 ### Contraindications
 
 - **Identity unknown.** Do not try to find or make this oil. [USER: verify]

@@ -113,6 +113,10 @@ The opium poppy is the most pharmacologically influential plant in human history
 
 **Practitioner's note.** Nothing, in the cultivation sense. The immense record here is therapeutic and pharmaceutical, not a nourish-life practice: opium is the supreme analgesic and, in every tradition that records it, simultaneously the supreme danger of dependence. No tradition assigns it a cultivation grade; the Avicennan and Chinese frames actively place it opposite one. The seed and seed oil are food-grade and unremarkable. For the alkaloid, the register's answer is abstention.
 
+### Functional–Anatomical Correlate
+
+The entry maps opium's action onto the central nervous system, the airway and the gut. Morphine acts on mu-opioid receptors, giving analgesia in the CNS and periphery, antitussive effect, constipation through gut receptors, and respiratory depression, which the entry names as the lethal mechanism. Codeine is a prodrug converted to morphine by CYP2D6, and noscapine acts on sigma receptors rather than opioid receptors to suppress cough. Papaverine is described as a smooth-muscle relaxant for gut and vascular tissue. The Chinese record assigns the Lung channel for cough, the Large Intestine for astringent diarrhoea and the Heart-Shen for profound sedation. The Ayurvedic text classes opium as tikta-katu with hot potency and as tama-guna dominant, sedating the Vata. The entry's contraindications are respiratory depression, raised intracranial pressure and pregnancy. Poppy seed and seed oil, which carry only trace alkaloids, are treated as food rather than as organ-acting medicine.
+
 ### Contraindications
 
 - **Respiratory depression** — the lethal mechanism; respiratory compromise, COPD, sleep apnea — absolute contraindication

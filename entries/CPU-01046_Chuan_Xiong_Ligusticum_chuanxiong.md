@@ -117,6 +117,10 @@ Kawashima K, Hayakawa T, Miwa Y, Kasahara Y, Miwa T (1988) "Structure-activity r
 
 ---
 
+### Functional–Anatomical Correlate
+
+Chuan xiong acts chiefly on the head and cerebral vessels, with the Liver, Gallbladder and Pericardium channels named in Chinese terms. The herb is described as the Qi within Blood, ascending to the head and eyes and laterally penetrating the four limbs. Ligustilide and tetramethylpyrazine are said to relax cerebral arterial smooth muscle, reverse serotonin- and endothelin-induced vasospasm and cross the blood-brain barrier, which the entry links to headache relief. Senkyunolide A is described as blocking 5-HT2A-mediated vasoconstriction in cerebral arteries. The same vasodilation is named for coronary and peripheral vessels, and tetramethylpyrazine is said to reduce platelet aggregation. In the nervous system the entry notes neuroprotection against excitotoxicity and ischaemia-reperfusion injury. It names the uterus as a tissue to avoid, since smooth-muscle activation risks uterine stimulation in pregnancy, and warns that the herb can aggravate Yin-deficiency heat rising to the head.
+
 ### Contraindications
 
 - **Yin deficiency with Heat-rising patterns (TCM):** Chuān Xiōng is warm and ascending — strongly contraindicated in conditions of Yin deficiency causing Heat to rise upward (manifesting as afternoon fever, hot palms and soles, night sweats, red tongue without coating, headache from Blood deficiency rather than stasis). The herb's ascending-dispersing action would aggravate Yin-deficiency Heat. When Chuān Xiōng appears in formulas for these patients, it is used in small proportions (3–6 g) heavily counterbalanced by cooling Yin-nourishing herbs.

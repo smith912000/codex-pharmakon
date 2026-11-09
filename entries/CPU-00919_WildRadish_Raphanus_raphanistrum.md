@@ -95,6 +95,10 @@ Hot and dry, pungent and dispersive — a "plant of Mars" in the herbal reading.
 
 ---
 
+### Functional–Anatomical Correlate
+
+Wild radish acts mainly on the digestive tract, with a folk role in the chest. Its pungency is read as moving wind and dispersing obstruction, so the entry places it in the stomach and gut for carminative wind relief and sluggish bowel, and in the herbal reading in the liver and spleen for obstruction. Phlegm-cutting is attributed to the chest in the same folk line. The fresh spring green is an antiscorbutic, supplying vitamin C. Isothiocyanates irritate the skin, eyes and mucous membranes, and the entry warns that more-than-culinary amounts can irritate the stomach and gut. Seeds and pods are the parts implicated in livestock toxicity, and glucosinolate-rich brassica intake carries goitrogenic caution in iodine deficiency. The entry judges the classical cures for gravel and cough unproven at species level.
+
 ### Contraindications
 
 - **Livestock and seed/pod toxicity.** *Raphanus raphanistrum* is a recognised agricultural weed whose **seeds and pods can be toxic to livestock** when consumed in quantity — avoid concentrated seed preparations and do not use as fodder.

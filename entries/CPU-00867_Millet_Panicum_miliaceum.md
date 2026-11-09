@@ -81,6 +81,10 @@ According to PubMed, research on proso millet focuses on its glycaemic behaviour
 
 **Practitioner's note.** In practice a cultivator uses millet exactly where the Chinese nourishing-life tradition places it: as the plain restorative congee given after depletion, illness, fasting or hard practice to rebuild the centre before anything more demanding. That is a conservational, between-practices food — not a graded tonic and not a subtle-body agent. The honest reading is that its one real cultivation role is dietetic rebuilding; everything above that is unattested.
 
+### Functional–Anatomical Correlate
+
+The entry maps common millet onto the digestive centre, the Spleen and Stomach of Chinese physiology, which sweet, cooling-to-neutral millet congee is said to tonify, clearing heat and quieting an irritable stomach. Millet is also linked to the Kidney through essence, and in Chinese dietetics it supports the production of qi and blood. Dioscorides and the Roman writers treat it as drying and binding, useful in flux, and a dry-roasted poultice is used against cramp and pain. In Ayurvedic grain dietetics it is light, drying and astringent-sweet, suited to kapha reduction and to hot, damp constitutions. The modern correlates are slowly digested and resistant starch, which the entry says depend on the food matrix: porridge and couscous gave low glycaemic responses in a human trial, while an extrudate gave a high one. Lipid and adiponectin effects of the protein concentrate are animal-model only. Heavy raw intake is flagged for thyroid function, given goitrogenic compounds.
+
 ### Contraindications
 
 - **Hypothyroid caution:** millets contain goitrogenic compounds; heavy, sole-staple raw/under-processed intake may affect thyroid function, particularly with iodine deficiency — moderate and cook well. `[USER: verify]`

@@ -43,6 +43,10 @@ General facts only: aromatic twigs are used as spices and perfumes; a snuff (nas
 
 **Practitioner's note.** A cinnamon-like aromatic twig, hot and dry by temperament. No cultivation status is attested.
 
+### Functional–Anatomical Correlate
+
+The Canon gives zarnab a temperament of hot and dry in the second degree. Its actions are astringency and the dispersing of winds, and it is said to bind the belly, which the entry files under excretion. For the head, it is snuffed with water and rose oil for cold headache, so the head and the nose are the named sites. For the digestive organs, it is said to be of clear benefit to a cold liver and stomach. The text names no organ beyond these, and no disease beyond cold headache and the cold liver and stomach. Its scent is aromatic and citron-like, and its strength is said to be that of jawz buwwa but a little finer. The plant itself is not identified, and the entry warns against substituting it. Historical record only; the snuff preparation is not advised.
+
 ### Contraindications
 
 - **Heat and dryness.** By the Canon's own temperament it is hot and dry; the text states no cautions. [USER: verify]

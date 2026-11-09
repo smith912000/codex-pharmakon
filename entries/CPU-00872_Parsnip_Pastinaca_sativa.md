@@ -66,6 +66,10 @@ The pharmacological literature on *Pastinaca sativa* is dominated by its **photo
 
 ---
 
+### Functional–Anatomical Correlate
+
+In Galenic-Unani terms parsnip is warm and dry to a moderate degree: a root that nourishes while it opens. The digestive tract is the main target, where it warms a cold stomach, expels wind as a carminative and eases colic, with the seed held the hotter and more active part. The urinary passages are the second target, moved as a diuretic and described as opening obstructions. Older herbals add a warming, opening aphrodisiac reputation and a seed use as an emmenagogue, both traditional only. The Ayurvedic frame, flagged for verification, reads it as sweet and warm, grounding and pacifying vata. The entry's one well-documented body interaction is the skin: linear furanocoumarins in the sap, once skin is exposed to UV, generate reactive oxygen species and DNA adducts, producing erythema, blistering, oedema and lasting hyperpigmentation. The internal carminative and diuretic claims remain traditional, with little species-specific trial data.
+
 ### Contraindications
 
 **⚠️ Phototoxicity — primary safety flag.** *Pastinaca sativa* contains **furanocoumarins (psoralens)**. Contact of the **sap** (from leaves, stems, or cut/handled plant) with skin, **followed by sunlight/UV exposure**, causes **phytophotodermatitis — "parsnip burn"**: delayed redness, painful blistering, and long-lasting hyperpigmentation. **Wild parsnip is especially hazardous**, and foragers, gardeners and field-workers are the typical victims. Handle the raw plant with gloves and covered skin; wash exposed skin promptly and keep it out of the sun. Because psoralens are photosensitising, avoid medicinal internal use alongside other photosensitising drugs or UV/PUVA therapy. Correct identification is critical — several toxic white-flowered umbellifers (e.g. hemlock relatives) resemble parsnip; never forage without certainty. Medicinal (non-food) doses lack safety data in pregnancy; avoid.

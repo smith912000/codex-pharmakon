@@ -47,6 +47,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. Its uses are obstetric, abortifacient, wound and antivenom remedies with no amounts, so it is history and not a practice. The two-seasons list and the two-plants suggestion are reminders of how loosely the identification and the text are held together.
 
+### Functional–Anatomical Correlate
+
+The Dioscorides chapter maps mostly to the womb, the skin and the spleen. Taken, applied or inhaled as smoke, the herb expels a dead embryo, and its juice drunk with wine is said to hasten birth. Its juice cleanses and fills ulcers, is applied to prickles under the feet, and dropped into iron or beast wounds is said to cure at once. A painful spleen is said to be lessened, and the root 'warms those who taste it'. Against snakebite the juice drunk with wine is said to help, and the smell is said to drive poisonous beasts away. The Shennong entry, which the Codex attributes to the Chinese drug usually identified as Dictamnus dasycarpus rather than this species, lists head wind, jaundice, cough with rising qi, dribbling urinary difficulty, swelling and pain in the woman's genital region, and damp numbness with dead flesh that impedes bending and walking. These are the entries' claims, recorded and not endorsed.
+
 ### Contraindications
 
 The chapter's principal uses expel an embryo, hasten birth and treat snake bites and wounds, none of which is for self-treatment; an abortifacient is not safe for pregnancy, and snake bites and deep wounds need medical care. The identification rests on a translators' suggestion of two different plants, so no wild plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

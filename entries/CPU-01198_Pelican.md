@@ -40,6 +40,10 @@ Egyptian: the Ebers corpus as described by Bryan is organised by complaint and t
 
 **Practitioner's note.** Nothing. A cultivator has nothing to take from this entry: it records that one source list names a pelican among Ebers medicaments, with no use, part or dose I could read.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry records no indication, part or preparation for the pelican. Its only attestation is one list row for the Ebers Papyrus, citing Ghalioungui's 1987 glossary, with its identification flagged as uncertain. No body system, organ or tissue is named in any text read, and no Egyptian term, quality or organ classification is attested. The Ebers material is organised by complaint, so no state of the ka, ba, akh or ib is linked to the pelican. The entry notes only that a pelican is a large water bird whose tissues are animal tissues in general, and it marks that as describing no use. Pelicans are protected in many countries, and wild water birds can carry avian influenza. The Codex records the attestation only.
+
 ### Contraindications
 
 Wild pelicans are protected in many jurisdictions, and killing or possessing them or their parts can be an offence; check the law of the jurisdiction. [USER: verify] Wild birds can carry avian influenza, *Salmonella* and parasites. This entry gives no medical advice.

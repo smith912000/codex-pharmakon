@@ -40,6 +40,10 @@ General, well-established facts only. *Sesbania* is a genus of legumes with soil
 
 **Practitioner's note.** Nothing to do. The plant is a name in a list, and the tradition's text on disk says nothing of it that a cultivator could act on.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that Jayanti appears in a Sushruta appendix list of drug names, paired with a Latin name by position, and that the Sanskrit name Tarkari, glossed by the translator as Jayanti, appears once in a recipe for sprinkling a possessed child in the Mukha-mandika chapter on children's disorders. No body system, organ, tissue, humour, dosha or qi is linked to the plant. The entry gives no part used, no action, no quality and no preparation for it alone. The sprinkling decoction is a recipe whose quantities are not stated, and the translator's gloss is the only link. The Codex does not infer any organ action from the genus Sesbania. Nothing beyond the appendix and that one recipe is supported by the text on disk, and the entry does not say what the decoction does to the child or in which tissue.
+
 ### Contraindications
 
 - **Identity.** The binomial is misprinted, two species are printed, and the Sanskrit pairing is positional. Do not use any plant on the strength of this entry.

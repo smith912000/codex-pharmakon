@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a drug for poisons, limb swellings and wind pain in the Tibetan text, with no preparation and no dose, and the commentary's own word for the plant is *Corydalis*, not *Linaria*. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan text gives this drug two body-linked actions in the root-text layer: it 'neutralizes poisons' and 'reduces swellings of the limbs'. The limbs are the only body region named, and the entry does not say which tissue swells. Poisons are a state the drug is said to counter, not an organ. The commentary adds that it is 'outstanding in relieving pain caused by wind imbalances', a Tibetan pattern term that the entry does not translate into a modern system. Clark's commentary assigns 'sweet taste and cool power' to Corydalis, the other name in the line, and not to Linaria, so the entry does not carry those qualities to this binomial. The commentary also describes the plant as adhesive, with a soft leaf, thin petiole and pale yellow flower. Men-Tsee-Khang gives the Tibetan name a different binomial by column position and records no action. The sources name no organ beyond the limbs, so no further mapping is made.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Poisoning, swelling and pain need medical assessment; no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Because the identity is uncertain, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

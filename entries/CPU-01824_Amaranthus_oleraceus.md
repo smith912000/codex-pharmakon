@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with a plant under this name. If the plant is eaten as a pot-herb, the Codex has nothing from this text to say about it. Nothing should be gathered or taken on the strength of a Latin name that the chapters do not give.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the Sushruta chapters, as retrieved, do not print the Sanskrit name that the appendix pairs with this Latin, so no chapter statement about any body system is available. It states that the Sanskrit spelling Mtrisba is too damaged to read with certainty and that the pairing rests on a count of OCR columns. It records a search of all chapter files for Marisha and its variants that found nothing, and that the potherb lists in the chapters name other plants. It states no constituent, no part used, no preparation, no quantity and no dose. Its only remarks on the body are general facts that the entry itself labels as such: Amaranthus is a genus of leafy greens of the amaranth family, and many contain oxalates, which the entry links to people prone to oxalate kidney stones. It records no clinical study, no energetic class, no rasayana or cultivation status and no safety information for pregnancy.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for this plant under this name. As a general fact, people prone to oxalate kidney stones are often advised to limit oxalate-rich greens. The identity is open, so no plant should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

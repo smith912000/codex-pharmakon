@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter states only that the plant grows among wheat and in fields, has a leaf similar to rue with little branches, and is also called hypopheon. Its one use is stated by reference: it has uses similar to those of the juice of poppy. The chapter does not say what those uses are, so no body system, organ or tissue is named for this plant in the entry. It gives no part used, no preparation and no quantity, and no humour, hot or cold quality or taste. The Codex's own register marks the cultivation status as absent. Any mapping would need the poppy-juice chapters of the same text, which were not read for this entry, so nothing is carried over from them. The identity is only the translators' suggestion. The entry notes that a different species, Hypecoum leptocarpum, appears in another tradition and is not added here. Nothing further can be mapped from the entry as written.
+
 ### Contraindications
 
 Chapter 4-68 prints no warning. Because it likens the plant to poppy juice, and the plant belongs to a family in which some members are toxic, no plant should be gathered or used on the strength of this entry. The identification is only the translators' suggestion. The text gives no dose, and no safety information for pregnancy was read. [USER: verify]

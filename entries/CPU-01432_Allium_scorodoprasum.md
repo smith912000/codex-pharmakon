@@ -43,6 +43,10 @@ Garlic and leeks are well-established food plants of the onion family, and eatin
 
 **Practitioner's note.** Nothing here gives a cultivator a practice. The plant is a boiled vegetable of weaker garlic and leek character in the text, and that is all the chapter states. The abstentive answer is the correct one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter names no organ, tissue or body system, and no humoral, doshic or qi category. It states that this plant grows to the size of a leek, has a mixed strength from garlic and leek, and does what they do with fewer efficacies. Its one stated use is food: it is eaten boiled like leek and made sweet. The two neighbouring chapters are cited only by comparison. The leek chapter (2-179) lists diuresis, benefit to the stomach, and harm to ulcerated bladders and kidneys. The garlic chapter (2-182) lists expelling flatulence, disturbing the belly, drying the stomach, causing thirst, breeding boils on the outside of the body, and dulling vision. The text does not say which of these garlic and leek actions apply to this plant, so none is attributed to it here. The identity as Allium scorodoprasum is the translators' suggestion, and the entry flags it for verification.
+
 ### Contraindications
 
 No safety information is printed for this plant. Garlic and leek relatives are generally known as food plants, but concentrated preparations of garlic can irritate the stomach and affect bleeding. None of the uses above is advice, and those uses belong to the chapters cited, not to this one.

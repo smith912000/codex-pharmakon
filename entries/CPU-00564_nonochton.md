@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing. A cultivator has nothing sourced to do with this entry: the plant is unidentified and the record is a list row. This is a historical record only and not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names nonochton, labelled in the spine as an unidentified heart remedy, with the botanical given as species unknown. The row says the plant is listed as unidentified in its cited source and that no credible botanical assignment was found. The entry adds that whether the label reflects the manuscript, a translator or the project's summary was not read. The plant is attested by list row to the Badianus manuscript of 1552, with no folio, preparation, dose, use or complaint. The word heart is read only as the spine's wording and is not taken as a claim about any organ or vital entity. No active component can be stated, no humoral or doshic classification is read, the cultivation register is absent, and no clinical study was retrieved. The entry's only general caution is that an unidentified plant should not be taken.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, an unidentified plant should not be taken, and a remedy described as for the heart should not replace medical care for any heart complaint. Pregnancy and breastfeeding are not covered by any source read. This is general caution and is not found in the row. [USER: verify]

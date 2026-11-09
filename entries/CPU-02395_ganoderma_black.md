@@ -49,6 +49,10 @@ General, well-established facts only. "Zhi" 芝 is a Chinese group name for cert
 
 **Practitioner's note.** An upper-grade drug in the classic's own scheme, the kind taken long-term for nourishing life, but with no identified species, no dose and no preparation in the record. A cultivator can read it as the tradition's own account of an upper-grade fungus and should not act on it by eating any fungus.
 
+### Functional–Anatomical Correlate
+
+The paragraph ties black zhi to the kidney, the water passageways and the nine orifices. In the Divine Farmer's Classic it boosts kidney qi (益肾气), disinhibits the water passageways (利水道), and treats urinary dribbling block (癃). It also frees the nine orifices (通九窍) and sharpens hearing and perception (聪察), so the ears and orifices are named. Its flavour is salty and its nature balanced. Taken for a long time, the classic says, it lightens the body and prolongs years, and the entry treats that as the classic's own promise rather than a bodily action. No channel is printed, and no colour-to-phase correspondence is given for black; Yang's five-phase note works only the white. The heart, liver, spleen and lung are not named for this fungus, and the entry does not translate kidney qi or the orifices into modern anatomy.
+
 ### Contraindications
 
 - **Identity.** The black zhi has no settled species. Do not gather or eat wild fungi on the strength of this entry; many are poisonous and some are lethal.

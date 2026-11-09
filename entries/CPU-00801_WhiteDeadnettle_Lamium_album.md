@@ -71,6 +71,10 @@ Cool and drying, with a mild astringent-resolving quality. It answers *lax, over
 
 **Practitioner's note.** Nothing. It is a domestic astringent and mucosal wash in European folk practice; neither tradition read here gives it a cultivation role.
 
+### Functional–Anatomical Correlate
+
+The entry maps white deadnettle to mucous membranes and surface tissue. In European folk use the white flowers were an astringent wash or poultice for wounds, a gargle for inflamed throat and mouth, and an expectorant tea for catarrh. The entry relates the chemistry to tissue action: tannins give astringency that tightens a relaxed, over-moist surface, while iridoid and phenylethanoid glycosides temper inflammatory signalling. In the Kenetica frame it is cool and drying, suited to lax, weeping, over-secreting surfaces rather than hot acute inflammation. Some isolated constituents reduced IL-8 secretion by human neutrophils by roughly 29 to 50 percent at 25 micromolar, with selectivity noted. Antioxidant and enzyme inhibition are preliminary in vitro. One extract showed an animal haemostatic effect. The leucorrhoea use is explicitly deflated as a colour signature, with no controlled human evidence.
+
 ### Contraindications
 
 None serious are recorded; the acute-toxicity tests in rats found no toxicity for the extracts ([Bubueanu 2019, DOI](https://doi.org/10.2478/acph-2019-0026)). Nonetheless: **pregnancy caution** — the documented haemostatic/uterine-adjacent traditional uses and the lack of safety data in pregnancy mean it should be avoided in pregnancy unless directed by a qualified practitioner. Abnormal vaginal discharge or non-healing wounds require medical diagnosis, not self-treatment. Possible (rare) Lamiaceae sensitivity. **[USER: verify]** interactions with anticoagulant therapy, given the demonstrated vitamin-K-like haemostatic action.

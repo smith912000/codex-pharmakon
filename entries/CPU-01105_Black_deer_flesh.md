@@ -46,6 +46,10 @@ General, well-established facts only. Lean game meat is a source of complete pro
 
 **Practitioner's note.** Nothing here makes black-deer venison a cultivation substance. Sushruta places it in the first-ranked group of meats and uses it as a light, strengthening diet for the sick. That is dietary advice, not practice. A cultivator takes ordinary food from this entry, or nothing. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Sushruta text maps black-deer venison, the Ena of the Janghala group, onto several body systems in its own terms. Its group verse says it is sweet and astringent, light, keen, laxative and diuretic, and that it subdues Vayu and Pitta. The Ena verse adds that it cures disorders of Pitta, blood and Kapha, strengthens the system, improves relish for food and is a febrifuge. The uses name specific sites: broth for fever-patients accustomed to animal food, broth after emetics and purgatives for bowel cleansing, meat-juice with sugar and ghee for alcoholism of the Pitta type, Kulattha soup for cough and asthma of the lungs and breath, ghee cooked with its essence for cough from ulcer or wasting of the chest, and flesh with salt, honey and ghee applied to the eye as Puta-paka. The English prints no separate virya or vipaka and no ojas, tejas or prana claim for it.
+
 ### Contraindications
 
 - **Conservation and law:** wild deer are protected or regulated in many places; killing, possessing or trading in them can be restricted or illegal. The modern identity of the *Ena* is not settled by the text. [USER: verify]

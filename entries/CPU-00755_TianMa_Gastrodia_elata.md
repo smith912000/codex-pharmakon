@@ -77,6 +77,10 @@ The preclinical evidence is **strong and mechanistically coherent**; robust huma
 
 **Practitioner's note.** Nothing cultivation-specific. Tian Ma is a drug for a defined wind-type complaint, steamed before use, and the classical middle-class "protracted taking" language belongs to Chi Jian and does not license long-term use of the root.
 
+### Functional–Anatomical Correlate
+
+In the entry's Chinese frame (SBJ), Tian Ma enters the Liver channel and extinguishes Liver wind, the internal principle of sudden tremor, spasm, spinning and convulsion. Its named targets are head and neck symptoms (headache, migraine, dizziness, vertigo), convulsions, infantile convulsion, tetany and numbness, with the entry adding hypertensive and post-stroke "wind" in modern TCM practice. It is described as settling rather than draining, and the entry flags the root as not indicated for pure blood or yin deficiency without wind. The modern mapping is to the nervous and cerebrovascular systems: gastrodin and p-hydroxybenzyl alcohol are described as raising seizure threshold, restoring GABA_A signalling in the hippocampus, protecting neurons under oxidative and ischaemic stress, and relaxing vascular tone. The entry notes that post-stroke depression and memory benefits are reported second-hand and treated as promising, not settled. Asthma, paralysis and immune dysfunction are listed as legacy claims and not carried forward.
+
 ### Contraindications
 
 - **Over-sedation / additive CNS depression.** Tian Ma settles and, at higher doses or stacked with sedatives, alcohol, benzodiazepines or other CNS depressants, can cause drowsiness and blunting. Do not combine casually.

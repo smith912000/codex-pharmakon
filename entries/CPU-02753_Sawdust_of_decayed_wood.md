@@ -42,6 +42,10 @@ General, well-established facts only. Rotted wood carries fungal spores and bact
 
 **Practitioner's note.** Nothing to do. A wound powder from rotted wood; not for use.
 
+### Functional–Anatomical Correlate
+
+The Canon's account of rotted-wood dust is a wound entry. Its stated actions are cleansing and healing over (tudmil) of wounds, and the passage says the dust is best from astringent trees, such as some kinds of thorn. As a dusting on wounds it is said to heal them over. For spreading, creeping ulcers (namli), the Canon gives a compound: equal parts of the dust and anise, gathered with wine and burned, then ground, and dusted on the ulcer, which it says benefits them. The skin and the wound surface are therefore the only tissues the passage maps. One clause of the first sentence, a word wajif, is unclear in the e-text and is not mapped here. No temperament, internal organ or digestive action is stated. The Codex records these as historical claims and does not recommend putting decayed wood on an open wound, since decayed wood is not sterile.
+
 ### Contraindications
 
 - **Infection.** Decayed wood is not sterile; tetanus and fungal risk on open wounds. Do not apply. [USER: verify]

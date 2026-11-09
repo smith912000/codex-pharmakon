@@ -64,6 +64,10 @@ This corroborates the traditional "anti-diabetic / metabolic" reputation at the 
 
 **Practitioner's note.** Nothing. In Suśruta this is a group-listed bitter drug against kapha and skin conditions, not a rejuvenative.
 
+### Functional–Anatomical Correlate
+
+Per the entry, the fruit acts on the digestive fire and the metabolic system. It sharpens agni, clears āma and corrects kapha-pitta sluggishness, with a blood-sugar and lipid effect that the entry ties to rodent antidiabetic work. The liver is named as a sluggish organ it helps, and the rind's antioxidant fraction is cited for hepatoprotection. Blood purification (raktaprasādana) and skin disease (kuṣṭha) are listed, and external root paste is used on abscesses, inflamed swellings and bites. Fever (jvarahara), worm infestation (krimighna) and urinary disorders (meha) also appear among its karma. The tuberous root is described as sharper (tīkṣṇa), with a possible emetic or purgative edge in some regions, and is the escalation option when medicinal rather than dietary action is wanted. The taste is bitter and pungent with a pungent vipāka, and the doṣa action lowers kapha and pitta. The metabolic claim rests on one rodent study, graded LOW to MODERATE. The entry warns that concentrated root may irritate the GI tract and that diabetics on hypoglycaemic drugs need monitoring.
+
 ### Contraindications
 
 Pregnancy — avoid the concentrated root/medicinal preparations (tīkṣṇa; family emetic/purgative kinship); fruit-as-food generally tolerated but use caution. Diabetics on hypoglycaemic drugs — additive blood-sugar lowering: monitor to avoid hypoglycaemia. High Vāta / depletion / emaciation — the drying, bitter, heating profile can aggravate; not a building agent. Root in excess may cause GI irritation, nausea, purging. Not for hyperacidity if it aggravates. Introduce dietary use seasonally and moderately.

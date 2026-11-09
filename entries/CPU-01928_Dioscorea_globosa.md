@@ -51,6 +51,10 @@ General, well-established facts only. *Dioscorea* is a genus of climbing yams wh
 
 **Practitioner's note.** Nothing to cultivate here. A bulb in the vegetable chapter, with food qualities and no cultivation status in the sources read. A cultivator has no sourced use for it.
 
+### Functional–Anatomical Correlate
+
+The entry maps only a little to the body, and only through the Pindaluka, a tuber the Sutrasthana names in a list of bulbs. The vegetable chapter says that group, Pindaluka included, is said to alleviate haemoptysis, and calls it cooling in potency, sweet in taste and heavy of digestion. Of the Pindaluka in particular it says that it generates the Kapham, is heavy of digestion and tends to enrage or agitate the bodily Vayu. Those are food qualities, not therapeutic uses. The Varahikanda, the second name, has no line in the main text and only an Appendix 3 gloss with no use. The entry notes that pairing both names with the Latin is its own reconstruction from OCR columns, and that the species may be a form of Dioscorea alata. No preparation or dose is given, and nothing is said on pregnancy, lactation or children.
+
 ### Contraindications
 
 - **Identity.** The pairings are ours from OCR columns, and the species may be a form of *Dioscorea alata*. [USER: verify]

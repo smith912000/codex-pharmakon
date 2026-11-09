@@ -50,6 +50,10 @@ Bat guano deposits can harbour the fungus *Histoplasma capsulatum*, which causes
 
 ---
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that the project's Assyrian list names bat droppings (shintum), given as bat guano, with a source reference to a popular website and an id-uncertain flag. No prescription naming the material was read in the Assyrian text. No use, body system, organ, humour, dosha or qi term is attached to it in the sources retrieved. The list row is the entire attestation, and the tradition's causal-agency classification is not applied to it in any source retrieved. Nothing is claimed for the droppings' action on the body, and the sources give no preparation, quantity or site of application. The entry therefore maps no organ or function.
+
 ### Contraindications
 
 - **Infection:** dry guano dust can cause histoplasmosis and other respiratory infections; it should not be handled without protection, applied to skin or taken by mouth.

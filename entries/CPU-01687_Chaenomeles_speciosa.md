@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a sour fruit-tree drug for phlegm and fever in the Tibetan texts, its Latin name varies between the two texts, and this binomial reaches it only through a glossary column. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Men-Tsee-Khang text gives this drug a sour taste by its place in the sour group, and says that Seyab 'cures baekan and hot disorders' (chapter 20) and is among the medicines for hot disorder associated with baekan (chapter 21). Clark's bse.yab, in the root-text layer, 'cures phlegm and fever'. Baekan and phlegm are Tibetan disorder terms, and in modern anatomy terms the entry does not name an organ for either. The bracketed commentary quoted from the hKhrungs.dpe text adds that the drug has 'sour and slightly sweet taste', is 'of nectarlike benefit in ear diseases', and resembles the apple tree, so the ear is the only organ the entry names, and only in the commentary. The entry gives no part used, no hot or cool power and no post-digestive taste. The glossary sets Chaenomeles speciosa against Seyab by column position alone, and Clark prints the Tibetan name against other species, so the botanical identity is unsettled and the mapping is the texts' claim.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The identity rests on a glossary column position, so no plant should be gathered or used on the strength of this entry. Fever that does not settle needs medical care. No safety information for pregnancy was read. [USER: verify]

@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is the harvest rule: take the seed when it is fully grown and before it falls. The text offers nothing more, and the abstentive answer is the right one.
 
+### Functional–Anatomical Correlate
+
+The chapter links this seed to one use, an emetic. A vinegar cruet of the seed, taken with honey and water, is said to purge by vomiting, so the claimed action is on the stomach and the vomiting reflex rather than any named organ. That purging is then said to be effectively good for epilepsy, a condition the entry does not place in any named organ. The seed is gathered in summer when fully grown, and it falls away when dried; that is a harvest rule, not an organ link. The chapter prints no humour, hot or cold quality or taste, and the only quality it gives is the herb's colour, white and frothy. The identity is one of three translators' suggestions, so these are reported claims about a plant not confirmed. No other body system is named, and the Codex does not endorse inducing vomiting as a treatment.
+
 ### Contraindications
 
 Chapter 4-67 prints no warning, but the only use it records is an emetic. The identification is only the translators' suggestion among three species, so no plant should be gathered or used on the strength of this entry. Epilepsy needs medical care, and vomiting should not be induced as a treatment. The text gives no dose beyond a household measure. [USER: verify]

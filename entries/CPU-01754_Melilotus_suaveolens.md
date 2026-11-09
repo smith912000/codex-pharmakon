@@ -55,6 +55,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a chronic-fever and poisoning drug, paired with spikenard, in the Tibetan texts, with no preparation and no dose, and the two editions name two different species. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The entry gives this drug its action only through a sentence it shares with spikenard. Clark's root-text layer, as his brackets mark it, says that 'Both Melilotus and spikenard cure chronic fever and fever caused by poisoning', and his bracketed commentary adds that the pair 'dispel spirits'. Men-Tsee-Khang 2011 says that 'Gyapoe and Pangpoe cure chronic hot disorder and hot disorder associated with poisoning', without the spirits. The body systems the texts name are therefore the body in general, since fever is not assigned to any organ, the effects of poison, and, in the commentary, spirits. The line's commentary also gives the drug a bitter taste and a cool power, which are the only energetic qualities printed for it. The entry does not map chronic fever or hot disorder onto any modern organ or diagnosis, and it does not treat fever as one term with hot disorder. The two editions name different species for the drug, so the claims attach to the Tibetan name rather than to a particular plant.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Poisoning and chronic fever need medical assessment; no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Sweet-clover hay that has spoiled can be hazardous to animals (a general fact, not from the sources read). Because the identity is uncertain, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

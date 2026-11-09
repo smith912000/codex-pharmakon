@@ -81,6 +81,10 @@ Evidence grade: **preclinical (in vivo rodent anti-inflammatory/analgesic models
 
 ---
 
+### Functional–Anatomical Correlate
+
+Acts on the joints, flesh and channels, which the entry names as māṃsa and asthi/sandhi, with mūtravaha, praṇavaha and anti-āma action in the urinary, respiratory and digestive pathways. Its heating, dry and penetrating qualities (uṣṇa vīrya, rūkṣa, tīkṣṇa) are aimed at cold, congealed swelling (śotha), including āmavāta, the rheumatic type, and at obstructed pain (śūla) and analgesia (vedanāsthāpana) in arthritic and colicky states. In the chest it is described as kaphanissāraka, expelling phlegm in cough and breathlessness (kāsa–śvāsa). The entry also lists prameha and mūtrala for metabolic and urinary disorders, kṛmighna against worms, and kaṇḍūghna against itch. Gut action is dīpana–pācana, digestive kindling and processing. Pitta is named as the principle it can aggravate, so heat states are a caution. The modern correlates are rodent studies of the steam-distilled wood oil showing reduced paw oedema and analgesia, plus a review of Cedrus chemistry; the entry states that no human trial is cited.
+
 ### Contraindications
 
 - **Pitta excess / inflammatory heat states of the hot type:** the uṣṇa (heating) potency can aggravate Pitta, bleeding-heat, hyperacidity, and hot inflammatory conditions.

@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a wound-healing, channel-uniting and colic-curing drug in the Tibetan texts, and nothing more can be said from them. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+In the Tibetan texts the drug acts on wounds, on channels and on the bowel. Clark's root-text layer, outside the square brackets, gives three actions: it heals wounds, unites severed channels and cures colic. Here 'channels' is the text's own term for conduits in the wounded body, not a subtle-body channel. The bracketed commentary layer adds the taste 'hot and bitter' and extends the use to wound fever, fever, infectious fever and poisoning. The Men-Tsee-Khang chapter on medicinal efficacy states the same wounds and intestinal pains, with open wounds, ruptured blood vessels and intestinal pains named, and gives no taste or power for the drug. The tissues named are therefore the wound, the blood vessels, the intestine and, through the commentary, the febrile state. The plant's identity is uncertain between three binomials.
+
 ### Contraindications
 
 The sources read print no warning. A wound that does not heal, abdominal pain that persists, and fever with poisoning need medical care. The botanical identity is uncertain (three binomials in Clark), and many *Senecio* species are generally known to be liver-toxic, so no plant should be gathered or taken on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

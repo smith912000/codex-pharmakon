@@ -76,6 +76,10 @@ The chemistry underlying the traditional "sharp, scouring" doctrine is well esta
 
 ---
 
+### Functional–Anatomical Correlate
+
+Traditional claims span the gut, the bladder and reproductive tract, the skin and the eye. Dioscorides gives the biting seed for bile and phlegm purged upward and downward, for urine and menses, and crushed on sciatica and inflammatory swellings. Avicenna, in Unani terms hot and dry in the second degree, adds opening of blocked liver and spleen and resolution of cold masses. The Chinese Xi Ming Zi tradition and the Divine Farmer's Classic entry direct the seed to the eyes, including painful eyes with streaming tears, to removing numbness, and to supplementing the five viscera. Later folk practice applies it to intestinal inflammation. The chemistry is enzyme-triggered: crushing releases allyl isothiocyanate from sinigrin, a mucosal and skin irritant. The entry notes AITC's antibacterial and anti-inflammatory effects only in other systems. Clinical evidence for the eye, appendix and depurative claims is absent. The entry also warns of gastric burning, heavy-metal accumulation from contaminated ground, and caution in pregnancy.
+
 ### Contraindications
 
 Pregnancy (traditional emmenagogue action; isothiocyanate/uterine-stimulant caution) — avoid. Not for prolonged or high-dose internal use: AITC is a mucosal and skin irritant, and large seed quantities may cause gastric burning. Topical poultices can blister sensitive skin (intended counter-irritant effect — limit contact time). **Do not harvest from contaminated ground:** *Thlaspi* is a known heavy-metal hyperaccumulator. The seed oil is erucic-acid-rich and unsuitable as a food oil unless specifically low-erucic cultivars. Seek professional guidance before internal use; doses above are unverified.

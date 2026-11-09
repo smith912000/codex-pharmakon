@@ -162,6 +162,10 @@ Rahmani AH, Shabrmi FM, Aly SM (2014) "Active ingredients of ginger as potential
 
 ---
 
+### Functional–Anatomical Correlate
+
+Ginger maps across the gut, the chest, the joints, the heart and the circulation. In the digestive tract its prokinetic and anti-emetic actions move Qi downward in the Stomach and Spleen against nausea and vomiting, and speed gastric emptying; the Ayurvedic deepana and pachana describe the same field. In the chest it disperses wind-cold and phlegm-cold from the Lungs, and the dried form is used for dyspnoea (shvasahara) and cold-type cough. Dried ginger enters the Heart and Kidney channels, and Ayurveda calls it hrdya, cardiac. Joints and muscles are mapped through anti-inflammatory and analgesic (shulahara) action in arthritis and exercise-induced muscle pain. The entry adds anti-platelet, cholagogue and lower-oesophageal-sphincter effects. Fresh and dried roots are treated as distinct medicines with different reach, and the epithet mahaushadha is applied chiefly to the dried form.
+
 ### Contraindications
 
 - **Anticoagulant and antiplatelet medications:** Gingerol-mediated inhibition of thromboxane A2 synthesis and ADP-induced platelet aggregation produces additive anti-platelet effect with warfarin, aspirin, clopidogrel, heparin, and low-molecular-weight heparins; clinically significant at supplemental doses (>2g/day dried ginger equivalent); INR monitoring required if concurrent use; culinary ginger use (<1g/day) at typical cooking amounts is unlikely to produce clinically significant interaction; discontinue supplemental doses 2 weeks before elective surgery; particular attention required for athletes using blood thinners for thrombotic conditions during heavy training.

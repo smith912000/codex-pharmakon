@@ -45,6 +45,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The useful part is the habit the chapter teaches: say how tall, what leaf, what colour, what seed, which ground. The purge it describes is not something to take on the strength of this entry, and the abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Dioscorides (DMM) gives one use, and it is a purge. A decoction of the seed, taken as a drink with honey water, 'purges bile and phlegm downwards', which maps to the bowel and to the bile and phlegm of the humoral scheme the chapter uses. The same seed applied with water 'dissolves small swellings and oedema', and the text names no tissue for the swelling. The seed is 'bitter and yellowish', the only quality given, and the chapter prints no warming, cooling, drying or moistening quality. The root is thin and is named without a use. The sister chapter 4-152 is a different plant by the text's own division and is not read into this entry. The entry maps no organ beyond the bowel and the swellings, and notes that a purge can cause dehydration and harm.
+
 ### Contraindications
 
 A purge of bile and phlegm "downwards" is a use that can cause dehydration and harm, and the chapter gives a measure (half an *acetabulum*) that cannot be converted with confidence. The plant's identity is a translators' suggestion and is divided between two genera, so no wild plant should be gathered or taken on the strength of this entry. Swellings, oedema and digestive complaints need medical assessment. None of the traditional uses above is advice. [USER: verify]

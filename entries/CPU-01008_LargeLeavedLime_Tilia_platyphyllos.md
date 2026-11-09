@@ -71,6 +71,10 @@ Warm and moist in the first degree (some sources: temperate, tending cool-relaxa
 
 ---
 
+### Functional–Anatomical Correlate
+
+Large-leaved lime is said to act on the skin, the nerves, the throat and the heart. Its flower and bract infusion opens the pores and helps a feverish cold to sweat. Unani-era compilers placed the flower among moistening, sedating remedies for palpitation, heat of the heart and wakefulness, which the entry reads as heart and nervous tone. Demulcent mucilage is said to soothe a raw throat and cough. The entry's chemistry is flavonoid and mucilage, with farnesol as the honeyed volatile. An anxiolytic-type flavonoid fraction rich in tiliroside produced a dose-dependent effect in mice from a related American linden, blocked by a 5-HT2A antagonist, which the entry grades as promising but indirect. Antioxidant and anti-inflammatory activity of the T. platyphyllos extract is solid in vitro. The diaphoretic and sleep-inducing claims are recorded as traditional and unverified in human trials, and the calming is described as mild and additive rather than hypnotic. Caution is offered on heavy chronic intake and in pregnancy.
+
 ### Contraindications
 
 - Generally very safe; suitable for children and the elderly at food-like doses.

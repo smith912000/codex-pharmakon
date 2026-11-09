@@ -65,6 +65,10 @@ Nayim et al. (2021), *BioMed Research International* — a methanolic root extra
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry's own claims, Darbha acts on the blood, the bladder and urinary passage, the lung and the stomach, cooling heat in each. In Chinese terms, Bai Mao Gen enters the lung, stomach and bladder, cools the blood to stop bleeding of the nose, blood in the urine and coughing of blood, and clears heat to promote urination for damp-heat and oedema. In Ayurveda it is sweet (madhura rasa) and cooling (sheeta virya), a diuretic and haemostat for burning urination, urinary gravel and raktapitta bleeding, pacifying Pitta. The Unani reading casts it as a cold, dry drainer of the urinary tract for hot dysuria and internal heat and bleeding. Fresh root juice was used for feverish thirst and stomach heat. Preclinical work in the entry reports anti-inflammatory and hepatoprotective effects, but these are in vitro or animal findings and do not establish a human organ action. The entry names no rejuvenative or generative role for the body.
+
 ### Contraindications
 
 - Cold, deficient or damp-cold constitutions may be aggravated by this cooling diuretic; avoid in cold-type diarrhoea and spleen-yang deficiency (TCM framing).

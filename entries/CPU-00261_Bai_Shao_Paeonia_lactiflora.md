@@ -115,6 +115,10 @@ Cho MJ, Kim BY, Park JH, Choi JS, Kim JK, Hamb SS, Lee HJ (2008) "Inhibitory eff
 
 **Practitioner's note.** A middle-grade drug in the Chinese scheme: used for a defined complaint with judgement, not as a long-term life-nourishing tonic. Nothing in the classic supports a daily cultivation routine.
 
+### Functional–Anatomical Correlate
+
+The entry places Bái Sháo mainly in the Liver channel, with Spleen and Lung also listed, and describes it as nourishing Blood, astringing Yin, softening the Liver to stop pain and calming Liver Yang. Its named targets are smooth muscle: calf and abdominal cramps, visceral spasm and dysmenorrhoea, with the uterus and gut as the tissues addressed. The modern correlate offered is paeoniflorin's TRPV1 blockade and calcium-channel inhibition in visceral, vascular and uterine smooth muscle, plus NF-κB reduction of TNF-α, IL-1β and IL-6 in inflammatory states. Albiflorin is linked to central neurological and hormonal effects, and the entry claims PGG inhibits 5α-reductase, so it proposes an androgen-conversion role in the HPG and stress axis, which it relates to Liver Qi constraint with irritability, PMS and breast distension. The Blood-nourishing role is tied to the Yin-astringing action in Sì Wù Tāng and to menstrual and postpartum tissue. The entry lists cold middle-jiao patterns, Blood stasis, and interaction with 5α-reductase inhibitors and anticoagulants as cautions.
+
 ### Contraindications
 
 - **Excess Cold in the Middle Jiao (Spleen/Stomach Yang deficiency):** Bái Sháo is slightly cold and sour-astringent; in individuals with digestive weakness dominated by cold (poor appetite, bloating, loose stools, cold extremities, tongue pale and swollen with tooth marks), it can aggravate digestive stagnation and cold accumulation. Classical TCM: counteract by combining with Gān Jiāng (dried ginger) or by reducing dose.

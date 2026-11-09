@@ -38,6 +38,10 @@ General, well-established facts only. Cobweb is not sterile, and applying cobweb
 
 **Practitioner's note.** A cultivator does nothing with this. It is a short chapter of external applications, one of them reported at second hand, and none is a practice for the cultivation of the person. The honest use of the entry is as a record of what Dioscorides says.
 
+### Functional–Anatomical Correlate
+
+The spider acts, in the Dioscorides entry, on fever, bleeding, skin ulcers and the ear. The spider worked into a plaster and applied to the forehead or temples is said to cure the paroxysms that come every third day in acute fevers, which places the action at the head and the surface of the skull where the plaster lies. Cobweb applied to the skin is said to stop bleeding and prevent inflammation in ulcers on the surface of the skin, which places the action in the blood vessels and the skin. A second spider, in a leather purse hung on the arm, is reported with 'it is said' for the fourth-day fever.A spider boiled with rosaceum and poured into the ears helps earache, which places the action in the ear. The chapter gives no humour, quality or degree and no theory of how the animal works. In modern terms the mapped systems are the skin and surface blood vessels, the ear and the head, and the febrile response.
+
 ### Contraindications
 
 - **Infection:** cobweb or a crushed spider on broken skin can infect the wound, including with tetanus; do not apply them.

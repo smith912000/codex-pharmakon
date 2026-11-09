@@ -67,6 +67,10 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 
 ---
 
+### Functional–Anatomical Correlate
+
+Lovage's entry gives the digestive tract first place: a warming carminative that dispels wind, eases colic and bloating, warms the cold, sluggish stomach and stimulates appetite. The urinary system is the second target: the root is a diuretic that promotes urine and flushes the urinary passages, with the Unani mudirr-e-baul and deobstruent actions named. Smooth muscle is addressed through the phthalide antispasmodic action on spasmodic digestive and menstrual complaints. The reproductive system appears as an emmenagogue that promotes menstruation, which the entry flags as needing verification. The respiratory tract is a minor target: a warming expectorant for cold, catarrhal chest conditions, in the Unani register a kasir-e-riyah carminative. The phthalides are also described as having circulatory activity. Energetically it is Qi on the warming, wind-moving, fluid-opening axis, with a Galenic degree of hot and dry, commonly the third.
+
 ### Contraindications
 
 - **Pregnancy — caution/avoid medicinal doses.** Emmenagogue reputation and furanocoumarins; culinary amounts are food but medicinal preparations are traditionally avoided in pregnancy. [USER: verify.]

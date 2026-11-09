@@ -48,6 +48,10 @@ General, well-established facts only. Marine sponges and soft corals are animals
 
 **Practitioner's note.** Nothing here is a practice for a cultivator beyond the habit the chapter teaches: tell the kinds of a doubtful material apart by sight and smell, and remember that the first of them is named as poisonous. The Codex does not recommend handling or burning an unidentified marine growth. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Alcyonium maps, in the chapter's terms, to the skin, the hair and scalp, the teeth, and the bladder, kidneys, dropsy and spleen. The third kind is named for dysuria, for those who gather gravelly stones in the bladder, for kidney disorders, dropsy and spleen, so the urinary tract, kidneys, fluid retention and spleen are named. Burnt and smeared on with wine, the third kind thickens loss of hair, so the scalp is the site. The first and second kinds go into sebaceous treatments for women and for freckles, lichen, leprosy, vitiligo, black patches and spots on the face and body, so the skin is the main tissue. The fifth kind whitens teeth, and mixed with salt it enters treatments for hair loss. The fourth kind is described but given no use. The first kind is called poisonous. The chapter gives no temperament, humour or energetic term, only physical and sensory qualities. The Codex does not recommend any of these uses.
+
 ### Contraindications
 
 - **Toxicity:** the chapter calls the first kind "poisonous"; marine sponges and corals can contain toxic compounds and can cause skin irritation or allergic reactions on contact.

@@ -58,6 +58,10 @@ No other dose is given in the sources retrieved. [USER: verify before any numeri
 
 **Practitioner's note.** A cultivator has nothing to do with this grass beyond what the texts show: it is cut for roof, forge and grave, it is spared in the sanctuary by the Prophet's own exception, and it is a minor aromatic digestive and urinary medicine in two texts. If used at all, use it as these texts use it, for a stated complaint and for a short course.
 
+### Functional–Anatomical Correlate
+
+The two texts map the grass to several organs. Avicenna's Canon lists its actions as astringent and dissolving, for spitting of blood (flowers), against itch (oil), for hot swellings of the womb (decoction), for pains of the womb, the stomach and liver, and for stone, ascites and vermin stings. It says the root with pepper calms nausea, and that a quarter mithqal drunk with pepper benefits the muscles and spasm. Ibn Qayyim's entry gives it the power to open obstructions and the mouths of the vessels, to move urine and the menses, to break stone, to dissolve hard swellings of the stomach, liver and kidneys, and to fortify the gums and stomach. Its temperament is disputed in the Canon: one source calls the reed-bed kind cooling, another calls all of it cold with a more astringent root, and the flower-heads are said to warm a little. Ibn Qayyim gives it hot in the second degree and dry in the first. No cultivation status and no action on the vital spirit are stated.
+
 ### Contraindications
 
 - **Sanctuary.** The hadith above forbids cutting fresh grass in the sanctuary of Mecca, with this plant excepted; follow local rules on gathering.

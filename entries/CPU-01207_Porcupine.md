@@ -38,6 +38,10 @@ General, well-established facts only. Hair is made of keratin, and applying kera
 
 **Practitioner's note.** A cultivator does nothing with this. There is no recipe to follow beyond a one-line hair remedy whose presumed external use is Bryan's guess, and the Egyptian framework (*ka*, *ba*, *akh*, *ib*, *heka*) gives no basis here for any practice. The entry records that the porcupine appears in Bryan's list of Ebers animals, and nothing more.
 
+### Functional–Anatomical Correlate
+
+Little to map: the only stated use is that porcupine quills, warmed in oil, are used against alopecia, which the text describes as unsightly bald patches on the scalp. The organ named is the scalp and hair. The external route is Bryan's presumption, not the papyrus's statement.
+
 ### Contraindications
 
 - **Injury and infection:** porcupine quills cause puncture wounds that can become infected and are hard to remove; warmed oil adds a burn risk.

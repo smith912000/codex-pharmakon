@@ -43,6 +43,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this tree. It is a list of remedies for the hip nerve, urination, ears and eyes, two reports of ending a pregnancy, and one reported mushroom trick, with a single stated quantity. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Dioscorides's chapter on the leuke tree names several sites. Bark taken as a drink is for sciatica, glossed by the translators as pains in the hips and sciatic nerves, and for slow painful urination, which points to the urinary tract. Bark or leaves taken in a drink, with a mule's kidney or with wine after the menstrual flow, are said to take away conception, which places the action on the uterus and the reproductive organs. Lukewarm leaf juice dropped into the ears is for earache, and filaments from the first sprouting, rubbed on with honey, are for moisture of the eyes. The chapter gives no humoral, doshic or qi term and prints only one temperature, lukewarm, for the ear juice; no taste or quality is printed. Its last sentence is a horticultural report about mushrooms, not a body action. The Codex states these as the text's reports, with no protocol. The abortifacient claim is not one the Codex supports.
+
 ### Contraindications
 
 The chapter prints no warning. Its reported abortifacient uses make the plant unsuitable in pregnancy, and no other safety information was read. Sciatica, difficult urination, earache and eye disease need medical assessment, and a home preparation must not replace it. The identification rests on a translators' suggestion across different genera, so no tree should be used on the strength of this entry, and mushrooms must never be raised or eaten on the strength of a reported trick. None of the traditional uses above is advice. [USER: verify]

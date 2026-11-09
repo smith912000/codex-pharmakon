@@ -49,6 +49,10 @@ General, well-established facts only. Rushes of the genus *Juncus* are widesprea
 
 **Practitioner's note.** An upper-grade drug in the Chinese scheme, which is the grade of substances taken long-term to nourish life. The plant cannot be named with confidence, and the classic gives no dose or preparation. A cultivator should treat this as a textual record and not as something to take.
 
+### Functional–Anatomical Correlate
+
+The entry's indications are stated in the classic's own terms. Evil qi in the heart and abdomen (心腹邪气) comes first. Inhibited urination and dribbling block (小便不利, 淋闭) point to the urinary tract and bladder, which modern anatomy names directly. Wind-damp (风湿) and demonic influx (鬼注) are listed with no organ attached and have no modern anatomical referent in the text. Taken long, the classic says the herb supplements vacuity and emaciation, lightens the body, sharpens the ears and eyes (耳目聪明), and extends years. The eyes and ears are the only organs the long-use promises name. The stem is the part named, and the species is unconfirmed, so no mapping attaches to a verified plant. The entry assigns no organ or channel and the Codex imports none. Read this as a record of the classic's categories, not as a claim about any tissue today.
+
 ### Contraindications
 
 - **Identity.** Unresolved; Yang's *Juncus balticus* is not confirmed. Do not gather or use any rush on the strength of this entry. [USER: verify]

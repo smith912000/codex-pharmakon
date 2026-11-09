@@ -45,6 +45,10 @@ General, well-established facts only. *Pterospermum suberifolium* is a tree of t
 
 **Practitioner's note.** There is nothing here for a cultivator. The record is a single external remedy for a swelling, with an identification that rests on a glossary and a column position. Nothing supports any use on the body, and the plant should not be gathered or used on the strength of this entry. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one external use, a hot plaster of the root, mixed with sugar, applied constantly to a Pittaja Granthi, a glandular swelling of the pitta type, in Sushruta Chikitsa ch. XVIII. That chapter treats Granthi, Apachi, Arbuda and Galaganda, and the plaster is given as an alternative after leeches, affusion and cold decoctions, with the swelling opened once suppurated. In modern anatomy terms the only tissue the text names is the glandular or subcutaneous swelling, and the entry does not say which body system the plaster reaches. The grammar leaves open whether the root applies to Muchukunda or to Trina-sunya (Ketaki). The text gives no taste, virya or vipaka, no internal use, no dose and no duration. The Codex does not translate Granthi into a modern diagnosis, and the entry records the single external use as historical only.
+
 ### Contraindications
 
 - **Identity.** The Latin name rests on Bhishagratna's Appendix glossary and on column position in a damaged e-text; the Sanskrit name may also have been applied to other trees. Do not gather or use any plant on this basis. [USER: verify]

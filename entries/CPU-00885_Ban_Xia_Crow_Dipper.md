@@ -50,6 +50,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** A lower-grade drug in the Chinese scheme: taken, if at all, for a defined complaint and a defined short course, and then stopped. Nothing read supports long-term use, and the tradition's own grading is the warning. The Avicenna, Sushruta and Tibetan tags are unverified.
 
+### Functional–Anatomical Correlate
+
+Little to map: The only system-level statement in the entry comes from the Shennong text. Ban Xia is acrid and balanced, mainly treats cold damage, cold and heat, and hardness below the heart, downbears the qi, and treats swollen and sore throat, head dizziness, chest distention, cough and counterflow, rumbling intestines, and sweating, which it stops. The text places it in the inferior class, described as usually toxic, for treating disease and not for long-term use. The entry notes that raw tubers of arum-family plants are acrid because of calcium oxalate crystals and burn the mouth and throat. No Unani, Ayurvedic or Tibetan locus was found, so the Avicennan, Sushrutan and Tibetan tags map to nothing. No organ, tissue, constituent or clinical effect is stated, and no dose is given.
+
 ### Contraindications
 
 The Shennong text labels the class "usually toxic". The raw tuber of arum-family plants burns the mouth and throat. Do not ingest unprocessed material, and do not self-treat cough, throat or stomach complaints with it. Seek a qualified practitioner, and treat it as unsafe in pregnancy unless a qualified practitioner directs otherwise. [USER: verify]

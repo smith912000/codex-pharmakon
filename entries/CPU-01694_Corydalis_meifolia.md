@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a poison and swelling drug in Clark, its Latin name is not settled, and the Men-Tsee-Khang text lists it by name only. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Clark's materia medica run, in its root-text layer, says that the drug lug.ngal neutralizes poisons and reduces swellings of the limbs. Its commentary, inside square brackets, adds that it is outstanding in relieving pain caused by wind imbalances, and gives it a sweet taste and cool power. The sites the entry can map are therefore the limbs, where swelling is reduced; the pain of wind imbalance, which the text places in its wind-governed domain; and the poison-clearing function, which the text states as systemic rather than organ-specific. The Men-Tsee-Khang running text prints the name in no passage that states an action, so it confirms nothing further. In the entry's own terms the drug is set against limb swelling, wind pain and poison. A modern reader might point to the soft tissue of the limbs, but the entry does not name which tissue is meant and does not connect the swelling to any organ. The identity lies between Corydalis meifolia and Linaria buriatica, so no organ-level finding is attached.
+
 ### Contraindications
 
 The sources read print no warning for this drug, although Clark's line classes it as an antidote to poisons, which is a use and not a safety statement. The identity is uncertain and the genus *Corydalis* is generally known to contain alkaloids, so no plant should be gathered or used on the strength of this entry. Poisoning needs urgent medical care. No safety information for pregnancy was read. [USER: verify]

@@ -51,6 +51,10 @@ General, well-established facts only. *Momordica charantia*, if that is the spec
 
 **Practitioner's note.** A bitter gourd-type drug in a group for Kapha, skin and poison and in two goat's-milk preparations for Vayu. A cultivator has nothing to use from it, and the record carries no long-term or life-nourishing claim.
 
+### Functional–Anatomical Correlate
+
+Per the Sushruta Samhita, Sushavi is listed in the Aragvadhadi group, whose stated properties are that it subdues Kapha and the effects of poison, and that it helps Meha (urethral discharges, the urinary tract), Kushtha (skin disease), fever, vomiting and bodily itching, and acts as an aseptic agent for ulcers. These are group properties, not claims made for Sushavi alone. In Chikitsasthana chapter 5 the drug appears in three prescriptions for disorders of Vayu: a goat's-milk potion, a goat's-milk plaster applied to the seat of the disease, and a decoction offered as an alternative to Karavellaka in Vata-rakta. On the translator's gloss the plant would be bitter gourd, but that identity is unconfirmed, and the text names no organ, tissue or constituent. The entry records these as historical statements only, with no dose or protocol.
+
 ### Contraindications
 
 - **Identity.** The gloss to the bitter gourd rests on a two-column OCR pairing and is unconfirmed; the text itself separates Sushavi from Karavellaka. Nothing may be gathered, bought or used on this entry. [USER: verify]

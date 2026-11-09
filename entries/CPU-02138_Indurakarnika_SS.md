@@ -45,6 +45,10 @@ No identification is possible from the sources read, so no scientific correlatio
 
 **Practitioner's note.** Nothing to do. The drug is an unidentified name in a list, taken (so far as the text says) only as one member of a therapeutic group at a physician's discretion, and there is nothing a cultivator can responsibly use.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry gives only the group-level statement for the Surasa'di group in which Indurakarnika is listed, Sushruta Samhita ch.38. The group as a whole is said to act as a vermifuge and an aseptic agent, to subdue the deranged Kapham, and to prove beneficial in catarrh, non-relish for food, asthma and cough. Those conditions map to the respiratory tract (catarrh, asthma, cough), appetite and digestive function (non-relish for food) and the Kapha humour. Worms are named, so the intestinal tract is the modern correlate for the vermifuge claim. The text does not say which member of the group does what and assigns no part, taste (rasa), potency (virya), post-digestive effect (vipaka) or dosha to Indurakarnika singly. The drug is unidentified, so no organ can be tied to it from its own record. The only guidance on use is the chapter-end rule: the physician chooses plasters, decoctions, medicated oils, ghritas or potions to suit each case.
+
 ### Contraindications
 
 - **Identity.** Unidentified; do not substitute any plant for it.

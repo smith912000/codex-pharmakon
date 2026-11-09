@@ -43,6 +43,10 @@ The text gives no preparation, no part of the plant to use, and no dose. The onl
 
 **Practitioner's note.** The classic promises a long-use effect for this herb, and it is the upper grade's frame that makes the promise a cultivation claim. The Codex cannot turn that into a practice: no part, preparation, dose or course is given, and the plant's identity rests on the later name. The honest use of the entry is as a record of what the classic says. Nothing here is a recommendation to take the plant.
 
+### Functional–Anatomical Correlate
+
+The Shennong text gives the flavour as sweet and the nature as cold, and assigns the drug no organ or channel affinity. Its indications are in the classic's own terms: it governs stagnant blood (yu xue), blood conglomerations (xue jia) to the point of death, and bleeding downward (xia xue). It is also said to stop bleeding (zhi xue) and to free the urine (li xiao bian), so the blood and the urinary passages are the bodily targets named. For long use the classic says it lightens the body (qing shen) and withstands ageing. The entry notes that qing shen is a classical effect category, not weight loss. The Mingyi layer adds habitat and harvest month but names no part of the plant, and the entry gives no preparation or dose. The bleeding and blood-stasis terms need medical assessment in any real case, and no modern anatomical correlate is drawn from the text.
+
 ### Contraindications
 
 - **Identification.** The plant is matched to the Chinese name by later convention; do not gather or use any plant on the strength of this entry.

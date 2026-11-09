@@ -130,6 +130,10 @@ Follow-up work compared preparation types on primary human T lymphocytes and mac
 
 **Practitioner's note.** Nothing for a cultivator. The entry's own sourced content is a European folk and pharmacopoeial skin and cough herb, with the "heartsease" name a folk signature, not a cultivation status.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Viola tricolor maps to the skin and the airways, with a separate heart reading that the entry rejects. Skin: as a mucilaginous demulcent it forms a soothing film on inflamed or weeping skin, and its salicylate derivatives are named as the keratolytic principle acting on seborrhoeic scale, cradle cap and mild eczema. Airways: it is a soothing expectorant for cough and bronchitis, with mucilage on irritated respiratory mucosa. Immune cells: aqueous extracts reduce activated human T-lymphocyte proliferation and IL-2, IFN-gamma and TNF-alpha secretion in vitro, with cyclotides named as the active components, which the entry links to T-cell-driven eczema. The one vehicle-controlled human RCT in atopic dermatitis was negative on its primary endpoint. The heart and love doctrine is assigned no body system at all. Cautions concern salicylate-sensitive people, infants, pregnancy, immunosuppression and heavy-metal uptake from mine soil.
+
 ### Contraindications
 
 - **Salicylate sensitivity — the principal caution.** The herb bears salicylate derivatives. Individuals with aspirin/NSAID hypersensitivity, salicylate intolerance, or aspirin-exacerbated respiratory disease (Samter's triad) should avoid it, topically and internally. Cross-reactivity within the salicylate class is the mechanism.

@@ -38,6 +38,10 @@ General facts only. Wild birds, especially water birds, can carry avian influenz
 
 **Practitioner's note.** Nothing here is a practice. In Sushruta the Sarasa is one of many water birds eaten as food, and the one thing said of it by name is that its flesh is heavy and heating and best avoided in fever unless *Vayu* predominates. A person who does not eat birds has nothing to adopt.
 
+### Functional–Anatomical Correlate
+
+The Sarasa is named only as a member of the Plava (water-bird) family, so the family's properties apply to it by group. The text says its flesh is cooling and demulcent, spermatopoietic, destroys deranged Vayu, is beneficial in haemoptysis (spitting of blood), and is sweet in taste and digestion, laxative and diuretic. Mapped to the body, these point to the lungs and airways, the reproductive tissues, the bowel, and the kidneys and bladder, with Vayu as the governing humour. Uttara chapter 39 instead calls its flesh heavy and heat-making in fever, to be used only where Vayu predominates. The two statements conflict and the text does not reconcile them. No organ-level detail is given for the Sarasa alone, and the entry gives no modern correlate.
+
 ### Contraindications
 
 - **Identity:** the bird is unglossed in the passages read and rests on a list gloss ("crane") and an OCR glossary; do not substitute a species on this basis. [USER: verify]

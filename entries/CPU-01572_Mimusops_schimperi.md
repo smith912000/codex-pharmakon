@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The chapter's 
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this tree. It is an edible fruit and a styptic leaf with no stated quantity, and the text itself passes on a warning about where the tree grew. The useful lesson is Dioscorides' attention to provenance and to what is found on the fruit, and the abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry states only two body-directed claims. The fruit, which Dioscorides calls fit to eat, is said to be good for the stomach, so the stomach is the one organ the chapter names. The dry leaves, pounded small and applied, are said to stop blood breaking out, which places the action on a bleeding surface such as a wound or the skin rather than on any internal tissue. The chapter gives no temperament, taste, humour, doshic or qi term for the tree and names no organ for the leaves. Spiders called cranocolopta are found on the fruit, a fact about its surroundings and not an action. The report that the tree was deadly in Persis but became edible in Egypt concerns toxicity and place, not a body system. The later Canon entry gives the same haemostatic action for sprinkled leaves and assigns no organ. The Mimusops identification is the translators' suggestion.
+
 ### Contraindications
 
 Dioscorides reports that the tree was "deadly" in one place, so the fruit and leaves should not be used on the strength of this chapter. A fruit on which spiders are found should not be eaten without inspection. Bleeding that does not stop needs medical care, and a leaf poultice must not replace it. The identification rests on a translators' suggestion, so no tree should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

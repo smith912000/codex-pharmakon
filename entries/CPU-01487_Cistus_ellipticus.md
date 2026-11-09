@@ -43,6 +43,10 @@ An astringent drink and an astringent poultice are claims about tissue-tightenin
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a wound and dysentery remedy in a text that records both the male and the female kind without choosing between them. The honest use is to learn the described marks, which is the discipline of attention, and to leave the remedies as history.
 
+### Functional–Anatomical Correlate
+
+The chapter gives a single quality, astringent, and three uses, all of the flowers. Taken as a drink twice a day in sharp wine, the flowers are said to be good for dysentery, which maps to the bowel and intestinal tract. Applied as a poultice, they are said to stop gangrenous ulceration of the cheeks, which maps to the oral mucosa and facial skin. With a stiff ointment they are said to heal burns and old ulcers, which maps to skin and superficial tissue. The chapter names no warming, cooling or drying quality and no humoral or qi term. The flowers of the male are said to be like the pomegranate and the female's white, and the text does not say which kind the uses concern. The shrub grows in rocky places with many low branches and round, black, rough leaves. The identity rests on the translators' suggestion and spans several species. No clinical study was retrieved.
+
 ### Contraindications
 
 Dysentery, gangrenous ulceration and old ulcers are conditions that need medical care, and a home preparation must not replace it. The identification rests on a translators' suggestion that spans several species, so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. None of the traditional uses above is advice. [USER: verify]

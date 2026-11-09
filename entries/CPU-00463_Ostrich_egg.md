@@ -61,6 +61,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps several sites. For the ageing face, a daily wash of whipped egg with bullock's bile, oil, dough, natron, resin and fresh milk is applied to the skin, the entry linking it to the loss of youth's bloom. For the head, egg beaten with crocodile-earth is rubbed externally on headache, so the scalp and head. For wounds, egg warmed with tortoise-shell and am-thorns is anointed on a stinking ulcer, in the body and again in the skin chapter; the same egg ground with those two is a check on excessive granulation of flesh. For the eye, egg with red-lead, sulphur, saltpetre, calamine and honey is applied to pterygium, a growth on the eye surface. The entry gives no humoral, doshic or qi terms and no quantities. Modern anatomy terms: facial skin, scalp, ulcerated skin and the surface of the eye.
+
 ### Contraindications
 
 - **Hygiene and infection:** raw egg and other animal material on an ulcer or in the eye risks infection; ulcers and eye disease need medical care.

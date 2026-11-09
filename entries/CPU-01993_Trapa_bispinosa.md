@@ -47,6 +47,10 @@ General, well-established facts only. *Trapa* species are floating aquatic plant
 
 **Practitioner's note.** Nothing to do. If water chestnut is eaten as food, that is food; the texts do not turn it into a practice.
 
+### Functional–Anatomical Correlate
+
+For Sushruta, the text on disk gives S'ringataka, matched to Trapa bispinosa only by position, a set of uses across the reproductive, urinary, nasal and abdominal domains. It is a food for the nursing mother and a kalka for the pregnant woman. It is an astringent substitute in the Prameha chapter on urinary complaints, an ingredient in an oil given as an errhine (a nasal medicine), part of a compound for a vasti, and an aquatic fruit eaten with sugar against Pittaja Sula in the Gulma chapter. Those passages name the nose, the urinary tract, the abdomen and the maternal body, and the Gulma passage supports reading it as a fruit. No rasa, virya or vipaka is printed. The diet framing is therapeutic, not a cultivation status. Dioscorides' malabathron, which the translator suggests may be this plant, is a different substance, a scented leaf with eye, mouth, diuretic and stomach actions, and the entry keeps those actions separate.
+
 ### Contraindications
 
 - **Identity.** The Greek attestation is a guess about another substance. Do not treat malabathron as a water chestnut.

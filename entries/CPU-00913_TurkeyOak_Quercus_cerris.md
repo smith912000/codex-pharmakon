@@ -78,6 +78,10 @@ The chemistry is well supported; the *clinical* claims are not, and this entry g
 
 ---
 
+### Functional–Anatomical Correlate
+
+Turkey oak acts on mucous surfaces and tissue that is weeping, bleeding or lax. The Dioscoridean and Anatolian material points to the throat, gums and skin, where a gargle or wash is used for sore, relaxed or weeping tissue, and to the belly, where a short decoction is used for loose stool and fluxes. The Chinese frame, applied by analogy to the gall wu bei zi, places the action in the intestines and in containing leakage and bleeding, with a stabilising, binding function. Modern anatomy describes the same surfaces: tannins precipitate proteins on the mucosa and skin, forming a condensed layer that reduces exudation and seals the surface. The entry gives no nourishing, warming or moving action for the body and no systemic role. It also warns that the same binding, taken internally or over long periods, can precipitate dietary protein, bind iron and irritate the gastric mucosa, and that the evidence for these uses is chemical and mechanistic, with no clinical trials for this species.
+
 ### Contraindications
 
 - **Chronic internal use is discouraged.** High tannin intake can impair non-heme iron absorption, irritate the gastric mucosa, and — in large or prolonged doses — burden the liver and kidneys. Keep internal use short and dilute.

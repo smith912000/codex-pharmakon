@@ -43,6 +43,10 @@ General statement only: a plant that cannot be tied to a species cannot be linke
 
 **Practitioner's note.** A purslane-like succulent of unknown identity, used in one chapter as a drink for painful urination. Nothing in the record supports a cultivation use. The practical lesson is Dioscorides' own: describe a plant before you use it, and do not use what you cannot name. A cultivator does nothing with this entry.
 
+### Functional–Anatomical Correlate
+
+Kepaia is a low succulent herb like purslane, with darker leaves and a thin root, in Dioscorides' description (3-168). The text gives a decoction of its leaves, drunk with wine, for slow painful urination and for those with a scabbed bladder. In modern anatomical terms that places the action on the urinary tract, the bladder and the urinary passages, the organs the text names. The roots of the plant itself are not said to be used; the text prefers the leaf decoction taken with a root decoction of an asparagus called myacanthus. No constituent, dose or duration is given. The translator marks the plant UNKNOWN, and no qualities are printed for it, so the mapping goes only as far as the organs named. The entry notes that painful urination can signal infection or stones and needs proper care.
+
 ### Contraindications
 
 - **Identity.** The plant is not identified. Do not use any plant on the strength of this entry. [USER: verify]

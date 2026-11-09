@@ -47,6 +47,10 @@ Warm baths and fat-based rubs soothe aching joints by warmth, which is a general
 
 **Practitioner's note.** Nothing to cultivate here; the fox is a joint and chest remedy of a hunting culture, and the cultivator's task would be restraint.
 
+### Functional–Anatomical Correlate
+
+Fox parts, as Avicenna's Canon uses them, are mapped to the joints, the head and ears, the chest and breath, and the skin. The central action is dissolving (taḥlil): the fox is said to draw and dissolve, and the painful joints (al-mafasil) are the main target, treated with the whole fox boiled in water or oil as a wash or bath. Avicenna warns that the drawing action may pull a humour into the joints of an unpurged body, so evacuation and purification come first. In the head, fat dropped into the ear calms ear pain. For the chest, the dried lung is said to benefit the asthmatic (ṣāḥib al-rabw), a breath disorder, at a dose of one dirham. The fur, the warmest of furs, is said to benefit those with moist temperaments, a skin and humoral claim. No temperament degree is printed for the fox, and the entry gives no physiology beyond these organ-level statements.
+
 ### Contraindications
 
 Historical record only. Avicenna's own caution: use after purging, otherwise the drawing action may bring a humour into the joints. General cautions not in the entry: wild foxes can carry rabies, mange and other infections, handling and boiling carcasses is a hygiene risk, and the killing of wild animals is regulated in most countries. Do not treat any use here as medical advice.

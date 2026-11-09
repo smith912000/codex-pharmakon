@@ -83,6 +83,10 @@ Classically split: the **oil/scent** is warming, gladdening, aphrodisiac (Greek�
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps Arabian jasmine onto the central nervous system and autonomic tone, acting through olfaction. Inhaled linalool is described as an anxiolytic, and a human study found low-intensity jasmine odour and (R)-linalool lowered heart rate and raised high-frequency heart-rate variability, a parasympathetic shift. Unani texts call the oil warming and gladdening (mufarrih), while Dioscorides noted its heavy sweetness oppresses the head, so the head and the animal spirits (ruh) are the named sites. A second register is the breast: fresh flowers bound over the breasts act as a cooling, drying astringent on glandular tissue to suppress puerperal lactation, with one old trial comparing it to bromocriptine on clinical endpoints. The entry grades internal aphrodisiac and anticancer claims as preclinical only. Modern terms: central and autonomic nervous system, cardiac vagal tone, mammary glandular tissue, prolactin.
+
 ### Contraindications
 
 - **Lactation:** the topical flower *suppresses* milk — do **not** use on a breastfeeding mother who intends to continue nursing. Correspondingly useful, and correspondingly hazardous if misapplied.

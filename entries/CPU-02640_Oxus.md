@@ -54,6 +54,10 @@ General, well-established facts only. Dilute acetic acid has mild antimicrobial 
 
 **Practitioner's note.** A cooling, astringent household liquid with a long list of external and internal uses, none attested as cultivation. A cultivator can take from it the point that the manner of application changes the use, and nothing else.
 
+### Functional–Anatomical Correlate
+
+Per Dioscorides 5-21, vinegar cools and is astringent, and its listed actions reach many body sites. Taken as a drink or sat in as a bath it staunches excessive bloody discharges; it is good for the stomach and for appetite; boiled with meat it treats discharges of the bowels. Applied to bleeding wounds, and with wool or sponges to inflamed areas, it is used for ulcers and skin diseases such as erysipelas, shingles, psoriasis and a membrane on the eye (pterygium). Its uses extend to the gums, teeth, throat and middle ear, to the ears by steam and drops, to the cough and asthma (airway), and to the vulva and perineum when they have fallen. With sulphur it is said to help gout, and rubbed on it takes away bruises. The chapter also gives it as an emetic and antidote in poisoning and against leeches; these are historical statements only.
+
 ### Contraindications
 
 - **Strength.** Undiluted vinegar and stronger acetic acid irritate and can burn the skin, eyes, mouth and throat. Do not put it in the ears, eyes or on broken skin on the strength of this entry.

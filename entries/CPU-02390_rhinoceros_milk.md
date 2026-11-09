@@ -46,6 +46,10 @@ General, well-established facts only. Milk from different mammals differs in fat
 
 **Practitioner's note.** Nothing here is a practice. This milk is a footnote about external application, and the text gives no cultivation purpose. A cultivator has nothing to do with it.
 
+### Functional–Anatomical Correlate
+
+Little to map: as with the she-mule, the only attestation is a translator's footnote, here for the milk of a female rhinoceros ('cow-rhinoceros'), which 'sometimes prove[s] beneficial for external applications'. No organ, tissue, condition, taste, potency or dosha is named, and the footnote does not say which rhinoceros is meant. The only region implied is the outside of the body. No internal system is mapped, and the milk group's praise of rejuvenation is not transferred to it.
+
 ### Contraindications
 
 - **Not a food or medicine here.** The text does not recommend taking this milk internally.

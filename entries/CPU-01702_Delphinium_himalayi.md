@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is an anti-diarrhoeal drug in the Men-Tsee-Khang text, the genus is toxic, the glossary pairs its name with this binomial only by column order, and there is no preparation and no dose. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts record that the drug named Jhakang, which the Men-Tsee-Khang glossary spells Jakang, stops diarrhoea and is among the medicines that cure diarrhoea. In modern anatomy terms that action is placed on the intestinal tract, the small and large bowel, where diarrhoea and dysentery occur. Clark's entry for the same Tibetan name, bya.rkang, adds that the drug halts dysentery and is beneficial against external parasites and lice, which places part of the claim on the body surface, the skin and hair, rather than the gut. The entry gives no taste, power or channel for the drug and names no organ beyond these. Because the binomial is set against the name only by a glossary column position, and Clark prints other species for the same name, the anatomical mapping rests on the Tibetan name and not on a confirmed plant. It is recorded here as the texts' claim only.
+
 ### Contraindications
 
 The sources read print no warning for this drug. *Delphinium* is generally known to be poisonous, the identity rests on a column position, and no preparation or dose is given, so no plant should be gathered or used on the strength of this entry. Dysentery and persistent diarrhoea need medical care. No safety information for pregnancy was read. [USER: verify]

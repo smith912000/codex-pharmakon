@@ -75,6 +75,10 @@ Handled scrupulously: **quality-of-life and fatigue signals are real but modest 
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, mistletoe maps mainly to the immune system and, in the humoral frame, to cold hard swellings: a warm, dry resolvent that disperses indurations. Its modern action is described as immunomodulatory, with lectin-driven cytokine release and NK-cell and eosinophil activation. The cytotoxic route is described separately: type-2 ribosome-inactivating lectins halt protein synthesis, and viscotoxins permeabilise membranes and generate reactive oxygen intermediates, killing healthy and malignant cells alike. Folk internal uses for the nervous system (epilepsy) and the vascular system (hypertension, vertigo) are recorded as history, not practice. The entry reports quality-of-life and fatigue signals as real but modest and bias-prone, and survival evidence as weak. Raw plant and berries are toxic to the gut and, in serious exposures, systemically. Injectable extracts can cause injection-site and febrile reactions and rare anaphylaxis, and caution applies in acute infection and brain tumours.
+
 ### Contraindications
 
 - **Toxicity:** raw plant and berries are toxic (RIP lectins + viscotoxins) — ingestion can cause gastrointestinal and, in serious exposures, systemic toxicity; **never** self-administer orally.

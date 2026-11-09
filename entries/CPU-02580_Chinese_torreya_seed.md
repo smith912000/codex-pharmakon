@@ -46,6 +46,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identifica
 
 **Practitioner's note.** There is no cultivation practice here. This is a lower-class record of a seed against worms, stings and poisons, whose plant its own early commentator no longer knew, with no dose. Read it as history.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names one bodily region, the abdomen. The Shennong bencao jing says the seed governs evil qi in the abdomen (腹中邪气), and it lists the classic's own terms for what it removes: the three worms (三虫), snake stings (蛇螫), gu poison (蛊毒), guizhu (鬼注, 'ghost infusion') and fushi (伏尸, 'hidden corpse'). None of these terms is defined in the source read, and the Codex does not turn them into modern organs, tissues or diagnoses. The text gives no flavour-to-organ correspondence beyond the sweet, warm taste, and no channel, humour or doshic assignment. Snake stings, poisoning and suspected parasite infection are medical matters, so nothing here maps to a treatment pathway. The identity of the plant is itself uncertain, and the mapping above is only what the classic's own paragraph states.
+
 ### Contraindications
 
 - The classic prints no toxicity statement for this entry, but the preface calls lower-class drugs mostly toxic and not for long taking (line 2935). Treat the grade as the caution.

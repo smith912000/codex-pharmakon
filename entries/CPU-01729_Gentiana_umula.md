@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a cool, bitter drug for poisoning and dysentery in the Tibetan texts, with no preparation and no dose. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Men-Tsee-Khang glossary line 5283 places a scientific name, which the entry reads as an OCR form of Gentiana urnula, against the Tibetan name gang.ga.chhung, but gives no action for it there. The action comes from the running text: Men-Tsee-Khang line 3432 says the drug cures poison and dysentery, and Clark's commentary says it dispels poisoning and dysentery caused by fever, while describing a bitter taste and cool power. The entry names dysentery and poisoning but no organ for either; the gut is the modern system that dysentery concerns, and that link is not the entry's own. Clark's commentary gives the bitter taste and cool power, and no post-digestive taste is printed. The two Tibetan texts agree on the name and the poisoning action and differ on the fever clause. No part used, constituent, dose or route is given. The binomial rests on a glossary column position and an OCR reading, and the Tibetan terms are not modern diagnoses.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Poisoning and dysentery need medical care, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

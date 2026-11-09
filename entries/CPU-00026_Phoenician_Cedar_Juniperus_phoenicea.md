@@ -68,6 +68,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 ---
 
+### Functional–Anatomical Correlate
+
+Phoenician cedar acts chiefly on the skin and on wounds. Its wood-tar, cedria, is described as an antiseptic and antiparasitic applied to skin lesions, scaly or weeping chronic skin disease, and ulcers, and to skin parasites such as lice and mange. The Galenic account reads it as hot and dry, drying out putrefaction in tissue. The embalming use of cedar oil is recorded as preservation of the dead, not as a living constitutional action. Internal targets are less secure: fumigant and vermifuge uses are recorded and flagged for verification, and the tar is described as irritant to skin and mucous membranes. The kidney is a tissue of concern, since juniper-type volatile oils can irritate renal tissue, so internal use is inappropriate in kidney disease. The uterus is a further caution, given a juniper-linked abortifacient reputation that makes pregnancy a contraindication. TCM classes it as warming, drying Qi on the boundary between living tissue and decay.
+
 ### Contraindications
 
 - **Tar irritancy.** The wood-tar is irritant to skin and mucous membranes; dilute and patch-test; avoid broken-barrier overuse.

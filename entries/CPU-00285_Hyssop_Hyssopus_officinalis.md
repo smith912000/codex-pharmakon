@@ -107,6 +107,10 @@ Fresh hyssop sprigs in apple cider vinegar; macerate 2 weeks; 1 tsp in water bef
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, hyssop acts first on the lungs and airways. In the Avicennan frame it is warm in the third degree and dry in the second, indicated for phlegmatic-damp states such as cold bronchitis, asthma with excess mucus and pleurisy. The TCM analogue places it in the Lung, as a Cold-Phlegm disperser, with Spleen-Stomach action as a bitter digestive tonic. Dioscorides adds topical use on bruises and wounds and a diuretic action. The entry's modern correlates are 1,8-cineole and pinocamphone (expectorant, bronchodilator, antimicrobial), and diosmin and hesperidin for venous tone. Its main safety target is the central nervous system: pinocamphone is a GABA-A antagonist and convulsant at high doses, so undiluted oil is contraindicated in epilepsy and under twelve. Emmenagogue and uterotonic activity makes pregnancy a caution. The Hebrew purification use is attested as applied ritual, but the entry judges the scriptural ezov probably a different plant, Origanum syriacum.
+
 ### Contraindications
 
 - **CRITICAL — Epilepsy / seizure disorders:** Pinocamphone is a GABA-A antagonist and documented convulsant; hyssop essential oil overdose causes convulsions; use of the essential oil (especially undiluted) is contraindicated in epilepsy; the herbal tea at normal doses is generally safe

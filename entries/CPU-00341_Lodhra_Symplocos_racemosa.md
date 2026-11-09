@@ -65,6 +65,10 @@ According to PubMed, the evidence for *S. racemosa* is **preclinical and phytoch
 
 **Practitioner's note.** Nothing cultivational follows from the Suśruta text. Lodhra is a bark astringent for short, defined courses against discharge, bleeding or wounds, and the tradition gives it no long-term or rejuvenative role.
 
+### Functional–Anatomical Correlate
+
+Filed as a RESET agent, the entry places Lodhra's action on mucosal and uterine tissue, the wound margin, the eyes and the blood, through its astringent (kaṣāya), styptic (stambhana) and binding (saṃgrāhi) actions. Named indications include leucorrhoea (śveta-pradara), menorrhagia and uterine laxity (rakta-pradara, garbhāśaya), diarrhoea (atisāra), bleeding disorders (raktapitta), eye disease (netra-roga) and skin conditions (kaṇḍughna, kuṣṭhaghna). The entry says its cooling, drying potency (śīta, rūkṣa) is toning rather than stimulating, and it names Strī-roga (gynaecology) as its central use. Modern correlation is preclinical: rats with hyperlipidaemia had lower cholesterol, triglycerides and LDL, with raised HDL and restored hepatic glutathione, SOD and catalase; antibacterial and antibiofilm activity was seen in vitro; and wound and antioxidant endpoints were studied in rodents. No controlled human trials are cited for the gynaecological use. Cautions include constipation, amenorrhoea, pregnancy and hormone-sensitive conditions.
+
 ### Contraindications
 
 - **Constipating/drying:** the strong astringent action can worsen constipation, dryness, and Vāta states; avoid in atonic/dry bowel conditions.

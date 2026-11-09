@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Greek name
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a urinary and warming herb used with honey and water, with no stated quantity. The useful lesson is Dioscorides' method of recognising a plant by comparison with three others, and the abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The entry's Dioscorides claims (DMM, chapter 4-124) act on the urinary tract, the womb, and the spleen, kidneys and bladder. The plant is called urinary, which names the urinary system. It is said to draw out the afterbirth, which names the uterus and the placenta after childbirth. It is said to be properly used for the spleen, kidneys and bladder, so the urinary organs and the spleen are the sites named. The chapter prints one quality, that the plant is warming, and gives no cooling, drying, moistening or astringent quality and no humour, dosha or qi term. The seed is said to have a sweet scent, which names no body part. Modern anatomy terms for the named sites are the urinary organs (kidneys, bladder and urinary tract), the spleen, and the uterus and placenta. The identity is a translators' suggestion, and the Greek name is used for more than one plant, so the mapping is to the text's claims and not to a verified species.
+
 ### Contraindications
 
 Dioscorides gives the plant as a drug that "draws out the afterbirth" and as a urinary, so it should not be self-treated, and no safety information for pregnancy was read beyond that statement. Disorders of the spleen, kidneys and bladder need medical assessment, and a home preparation must not replace it. The identification rests on a translators' suggestion that the text itself does not confirm, so no wild plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

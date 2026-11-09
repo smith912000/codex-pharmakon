@@ -70,6 +70,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Colchicum is mapped onto dividing cells, the immune and inflammatory system, and the joints it treats. The entry's account is that colchicine binds tubulin and stops microtubule assembly, arresting mitosis and disrupting neutrophil motility and inflammasome trafficking. This is the mechanism it links to the calming of gout, familial Mediterranean fever and pericarditis, and it is also what halts division in gut and bone-marrow cells. In poisoning the entry sequences the gastrointestinal tract (nausea, vomiting, diarrhoea) first, then bone marrow (pancytopenia), the heart and circulation, lungs, liver, kidneys and skeletal muscle (rhabdomyolysis). The Unani register classes the corm as a hazardous sam, used cautiously for joint pain and gout, and Dioscorides describes a poisonous bulb that kills by choking. The entry gives no safe plant preparation.
+
 ### Contraindications
 
 **⚠️ THIS IS THE MOST HEAVILY FLAGGED CLASS OF CONTRAINDICATION IN THE CODEX. READ IN FULL.**

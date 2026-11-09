@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** A cultivator does nothing with this drug on the strength of the texts. It is a purgative of the physician's course, and the one thing the rejuvenation chapter says about purging is that cleansing comes before the course, by other compounds. Nothing here supports taking a spurge, which may be a strong irritant, on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the sources name no organ for thar.nu, and state one action. Clark says Jatropha and Euphorbia purge all hot and cold disorders, and Men-Tsee-Khang says Dhurji and Tharnu purge all forms of hot and cold disorders. The commentary, in square brackets, gives a hot taste, the removal of stones and pustules, and anti-emetic use in calcinated form, with no method of calcination. Clark lists the drug among the purgatives, and the texts name no part, form or dose. The identity is open among four Latin names and a glossary spurge, so these claims belong to the Tibetan drug and not to one species.
+
 ### Contraindications
 
 The sources read print no warning for the drug. Many spurges are skin and mucous-membrane irritants and several are toxic when eaten; as the identity is open, no plant should be gathered, handled or taken on the strength of this entry. The texts' own regimen puts purgation under a physician. No conservation information and no safety information for pregnancy was read. [USER: verify]

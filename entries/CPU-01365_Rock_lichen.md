@@ -56,6 +56,10 @@ No clinical studies were retrieved for this entry. [USER: verify] General facts 
 
 ---
 
+### Functional–Anatomical Correlate
+
+Little to map: The Tibetan texts give rock lichen one action each. Clark's Explanatory Tantra says it cures poisoning and chronic fevers, and the Men-Tsee-Khang 2011 text says it is an antidote against poison and cures chronic hot disorders. No organ, tissue, channel or body system is named for either action. The Unani (CM) entry, quoting Galen, says the lichen dries and cools, the cooling coming from its water, and Avicenna's own words are 'drying, cooling', with no degree given. Avicenna declines Dioscorides' claim that it stops blood, so that use is not mapped. Innate heat and radical moisture are not mentioned. The red type is named superior in the Tibetan text, but no organ or humour is linked to any colour. No preparation or taste is given.
+
 ### Contraindications
 
 - **Toxicity and identity:** the botanical identity is uncertain (Clark prints *Parmelia saxatilis* here and the same Latin name under another drug at line 1029). Do not substitute another lichen. Some lichens contain compounds that can irritate or sensitise.

@@ -59,6 +59,10 @@ According to PubMed:
 
 **Practitioner's note.** Nothing. In the Suśruta text Rasna is a short-course remedy for Vāta and Kapha swellings, and the tradition does not grade it for long-term use.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Rāsnā acts on the joints and on Vāta-disturbed channels, particularly the joint tissues of cold, dry, painful and stiff conditions. Its classical indications are āmavāta (rheumatoid-type arthritis), sandhivāta (osteoarthritis), vātavyādhi and śotha (inflammatory swelling). The actions named are śothahara (anti-inflammatory), śūlaghna (analgesic and antispasmodic), āmavātaghna (anti-rheumatic) and vātānulomana (regulating downward Vāta flow), with mild dīpana (digestive kindling). It is used mostly within compounds such as Rāsnā-saptaka. The modern correlate is the triterpene taraxasterol, which reduced TNF-α, IFN-γ and IL-6 in LPS-stimulated rat glial cells, an anti-neuroinflammatory effect in vitro. The entry grades the human evidence for this species as thin. It flags heating potency for high-Pitta or hyperacidic states and the source-plant controversy, since the name Rāsnā has been applied to several species.
+
 ### Contraindications
 
 - **Identity first:** confirm the product is genuinely *Pluchea lanceolata* and not an unspecified "Rāsnā" (*Alpinia galanga*, *Vanda*, etc.) — the substitution changes the pharmacology.

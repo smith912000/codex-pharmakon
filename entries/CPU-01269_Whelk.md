@@ -46,6 +46,10 @@ General, well-established facts only. Calcium carbonate is an antacid and a mild
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The whelk is a burnt-shell tooth powder, a burn salve and a source of quicklime, and the Codex does not recommend any use. If a cultivator takes anything from the chapters it is the habit of testing a preparation by sight and repeating it until the test is met. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The whelk's uses map to the teeth, the skin, the stomach and the bowels, as Dioscorides names them. Burnt with salt, the shell is a toothpaste, and it is rubbed on burns, where its action is on the skin surface. The burnt columella, the central spiral of the shell, is said to be more caustic again. The flesh of the whelk is described as good for the stomach and as not softening the bowels, so the stomach is the only internal organ named and the bowels appear as a contrast. Lime made from the shell is described as fiery, biting and burning and as scab forming, so its action falls on skin and surface tissue. The chapter prints no humour or temperament for the whelk; its qualities are caustic and burning, and the tissues it acts on are teeth, skin, stomach and bowel. Quicklime is a hazard to skin and eyes, and the Codex does not recommend any use.
+
 ### Contraindications
 
 - **Quicklime and burnt shell:** caustic; burns skin, eyes, mouth and airways; do not put on burns or teeth.

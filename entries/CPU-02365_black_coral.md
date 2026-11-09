@@ -53,6 +53,10 @@ General, well-established facts only. Black corals (order Antipatharia) are colo
 
 **Practitioner's note.** Nothing here makes black coral a cultivation substance. The chapter is a note that black coral is a dark, more branched relative of coral, and an ethical cultivator has no reason to harvest it.
 
+### Functional–Anatomical Correlate
+
+Dioscorides (DMM) says black coral, Antipathes, is thought to be a coral that is black and more branched, and that it has the same strength as the coral described in the preceding chapter. By that reference the text carries coral's actions over to black coral: a therapeutic effect on the bowels, gentle cooling, the repression of abnormal growths, the clearing of scars on the eyes, the filling of hollow sores and cracks, the stopping of spitting of blood, relief of painful urination, and the reduction of the spleen when taken as a drink with water. These map to the intestines, the eyes, the skin and its sores, the blood and the urinary tract, and the spleen. No quality beyond gentle cooling is printed. The chapter gives no preparation specific to black coral and no dose, and names no constituent. The black colour and branching are the only features given for identification.
+
 ### Contraindications
 
 - **Conservation and law.** Black corals are slow-growing, protected animals; trade is regulated. Do not take or buy black coral for any purpose here. [USER: verify the current legal status in your country.]

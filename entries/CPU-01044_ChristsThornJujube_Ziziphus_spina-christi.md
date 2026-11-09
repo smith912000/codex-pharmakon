@@ -88,6 +88,10 @@ According to PubMed, the traditional cleansing/antiseptic/wound doctrines have r
 
 ---
 
+### Functional–Anatomical Correlate
+
+Christ's thorn jujube acts on the skin, scalp and wound surface, with the bowel as a secondary target. Its saponins, including christinin-A, are described as surfactant, lathering and degreasing, which the Unani frame calls cleansing (munaqqi) and the entry links to scalp, skin and seborrhoeic dandruff. Tannins precipitate surface proteins to form a sealing astringent layer over broken skin and stop weeping, and flavonoids are described as stabilising capillaries and calming redness around wounds. Leaf poultices are applied to boils, stings and minor wounds. The fruit, cooling and gently binding in Unani terms and kapha-pitta-pacifying in Ayurveda, is nutritive for the bowel and is said to ease thirst and burning. Honey is applied to clean wounds as an antibacterial dressing. Saponin concentrates irritate mucosa and can haemolyse in quantity, so the entry keeps them out of the eyes and open serous cavities. The antibacterial evidence it cites is in vitro only.
+
 ### Contraindications
 
 - **Saponin irritancy / haemolysis.** Concentrated saponin (christinin) preparations are mucosal irritants and haemolytic if taken internally in quantity; keep leaf-wash out of eyes and open serosal cavities.

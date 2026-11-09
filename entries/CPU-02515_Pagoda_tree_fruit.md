@@ -43,6 +43,10 @@ General, well-established facts only. The tree is widely planted; rutin is a kno
 
 **Practitioner's note.** Nothing in the paragraph gives a cultivator a practice. The fruit is an upper-classic drug with a therapeutic indication list and no long-use promise, so the classic's own wording gives no basis for taking it as a tonic. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The fruit's own paragraph names the parts it acts on, mostly in the classic's terms. Its main heat claim concerns the 五内, the five interiors, meaning the zang-fu organs taken as a group, and the evil qi (邪气) lodged there. It acts on the mouth's fluids, stopping 涎唾, drooling and spittle. It mends severed wounds and treats fire sores (火创), which are skin lesions, and the five haemorrhoids (五痔) of the anal region. For women it lists breast lumps (乳瘕) and acute pain of the womb (子藏急痛), so the breast and uterus are its gynaecological targets. Energetically it is bitter and cold (味苦，寒). The Codex does not convert these categories into modern diagnoses, so the mapping stays with the classic's organ names: interiors, mouth and saliva, skin and wounds, anorectal region, breast and womb. The paragraph carries no long-use clause, so the body mapping covers indications only.
+
 ### Contraindications
 
 - **Pregnancy:** the paragraph names womb pain among its uses and says nothing about pregnancy; no safety information was read. [USER: verify]

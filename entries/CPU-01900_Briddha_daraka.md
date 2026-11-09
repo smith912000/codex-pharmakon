@@ -47,6 +47,10 @@ General, well-established facts only. Strong purgatives can cause dehydration, l
 
 **Practitioner's note.** A purgative named in the standard purgative compounds. The tradition's own use is a physician's, in a supervised course for an illness, and nothing in the text supports a cultivation use. A cultivator should leave it alone.
 
+### Functional–Anatomical Correlate
+
+The Sushruta Samhita uses this drug as a purgative (virechana). Its compounds are given for diseases of deranged Kapha (Sutrasthana ch.44, line 161), for Sannipata as a confection (line 195), for persons of dry temperament in clarified butter (line 220), and as a purge in ghee (Uttara ch.43, line 112). The text names no organ, tissue or channel for the drug. Purgation is an action on evacuation of the alimentary canal, which in modern anatomy is the intestine, though the text names only the purge and not the gut. The Kapha frame is the text's own humoral term, and the text does not place it in the chest, head or joints. Dry temperament is a constitutional term, not an anatomy. No rasa, virya or vipaka is given. The drug's botanical identity is unresolved, so no plant-level action is stated, and no quantity or stopping condition is given. The record describes the purgative use only as a physician's compound.
+
 ### Contraindications
 
 - **Purgative.** Strong evacuation can harm the weak, the dehydrated, the pregnant and the very young or old. The text itself limits the compound at line 220 to persons of dry temperament in ghee.

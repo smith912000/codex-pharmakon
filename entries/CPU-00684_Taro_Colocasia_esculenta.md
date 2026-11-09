@@ -74,6 +74,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Taro acts mainly on the digestive tract and the body's staple-nourishing functions, as the entry frames them. In TCM terms it is sweet and acrid, neutral to cooling, entering the Spleen and Stomach, where it supplements the spleen and stomach, moistens, and is said to resolve nodules and swellings. In Ayurvedic terms it is heavy (guru), moist and kapha-increasing, nourishing (brimhana) but aggravating to vata when poorly cooked. The Unani reading calls it cold-moist and nutritive but thickening, producing viscous humour and flatulence if under-prepared. In modern terms the entry ties the demulcent action to the gut lining and to starch and fibre, and reports anti-inflammatory activity from lectins and phenolics in cell and rodent work only. No human therapeutic trial is cited. The raw corm and leaf irritate the lips, mouth, tongue, throat and gut through calcium-oxalate raphides, and raw sap can cause skin dermatitis. The entry also flags oxalate caution for kidney-stone formers and renal impairment.
+
 ### Contraindications
 
 **Raw taro is an irritant hazard.** All parts contain **calcium-oxalate raphides** that cause immediate burning, stinging, and swelling of the lips, mouth, tongue, and throat, and GI irritation if raw or under-cooked material is eaten; skin contact with raw sap can cause dermatitis. **Always cook thoroughly and never consume raw.** Because of its **oxalate content**, caution is warranted in people prone to **calcium-oxalate kidney stones** and in significant renal impairment. Its heaviness makes large amounts inadvisable in weak or sluggish digestion per traditional logic (kapha excess, low agni). Possible **allergy/sensitivity** in those reactive to Araceae or to taro lectins/proteins; occupational handling of raw corms can provoke contact dermatitis. As a starchy staple it carries ordinary glycaemic load — account for it in diabetic diets. Insufficient data to recommend concentrated therapeutic extracts in **pregnancy/lactation**; culinary cooked taro is a normal food. Not a treatment for any disease on its own.

@@ -189,6 +189,10 @@ Mandal AK et al. (2017): Incubation of *T. chebula* tannin extract with human co
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, haritaki acts mainly on the digestive tract, with dose deciding which effect dominates. At low dose its tannins bind the intestinal mucosa and consolidate loose stool, the classical Hē Zǐ indication for the Large Intestine. At medium dose it is carminative and anti-spasmodic, supporting digestive fire. At high dose its anthraquinone traces and osmotic tannin load purge the bowel. The Liver is named as hepatoprotective and anti-fibrotic, and the Lung for chronic cough. In Ayurveda it is described as tridoshic with a Vata focus, and as eye-beneficial (chakshushya), linked to aldose reductase inhibition in lens, retina and neurons. The entry also affiliates it with Kidney Jing preservation and the Middle Dantian. Its tannins are said to shape gut microbiota and to act on immune surveillance against herpes and cytomegalovirus. Uterine smooth muscle is a site of caution at medicinal doses.
+
 ### Contraindications
 
 **Pregnancy:** Harītakī stimulates uterine smooth muscle contractions at medicinal doses — the anthraquinone fraction and the direct stimulant tannin action on smooth muscle create uterotonic risk. Avoid medicinal doses (>500mg) during pregnancy. Food-grade amounts in cooking are generally considered acceptable in traditional practice.

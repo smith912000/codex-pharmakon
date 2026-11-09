@@ -70,6 +70,10 @@ Based on articles retrieved from PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Cornelian cherry acts on the bowel, the stomach and post-meal blood sugar, in the entry's account. Galenic/Unani reckoning classes the fruit as cold and dry in the second degree, astringent (qabid) and styptic, used to strengthen a weak or over-relaxed stomach, to check diarrhoea and bilious flux, and to cool hot dyscrasias. Dioscorides' binding of the belly is the classical bowel indication. In modern terms the entry places the astringency in polyphenols and the sour pucker in iridoids and organic acids, and reports inhibition of alpha-amylase and alpha-glucosidase, which would blunt the post-prandial glucose surge. Anthocyanins and iridoids are described as antioxidant tissue protectors, and rodent studies show lower glycated haemoglobin, with human trials described as early. The entry's SBJ note concerns the related species Cornus officinalis, not C. mas. Cautions cover atonic or constipated bowels and additive glucose lowering with antidiabetic drugs.
+
 ### Contraindications
 
 - **Constipation / atonic bowel:** the astringent, binding action can aggravate a sluggish or dry constipated state.

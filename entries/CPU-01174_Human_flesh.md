@@ -44,6 +44,10 @@ Tibetan: the materia medica line prints actions only (sores, wind disorders, poi
 
 **Practitioner's note.** Nothing. A cultivator does not use this substance. The text records it against wind disorders; the Codex preserves the record and does not carry it into practice.
 
+### Functional–Anatomical Correlate
+
+The Tibetan text gives human flesh several actions and uses. As a materia medica item it heals sores, cures wind (rlung) disorders, poisoning and septic conditions, which map to the skin and wound tissue and to the poisoned or septic state of the whole body. In the diet for wind disorders, human flesh is listed among heavy, oily, smooth and warm-powered foods, beside horse, donkey and marmot meat, old butter, raw cane sugar, garlic and onion. The same list appears in the direct therapeutic techniques for wind, and the entry reads it as a group description, not a property of human flesh alone. A note says the best type is of a hero who died in battle, and any violent person would suffice, with no reason given. No taste, potency, preparation or dose for the flesh itself is stated.
+
 ### Contraindications
 
 Not a recommended practice. Consuming human flesh carries a risk of transmitting prion disease (such as kuru) and bacterial and viral infection. Using human remains is unlawful in most jurisdictions and ethically unacceptable without explicit lawful consent. The source qualifier "a hero who died in battle ... any violent person" (line 1525) is recorded only as history; it is not a standard to follow. For wind-type complaints, seek a qualified clinician.

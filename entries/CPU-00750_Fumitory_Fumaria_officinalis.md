@@ -77,6 +77,10 @@ According to PubMed, the alkaloid chemistry and several bioactivities of *Fumari
 
 **Practitioner's note.** Fumitory is worked with, but as a therapeutic alterative, not a cultivation ally: the "slow clean" — bitter courses taken to lift chronic heat and biliary stagnation out of the blood and liver, then stopped. Its strongest living tradition, Unani *shahtara*, is emphatically a *musaffi* (purifier), and the discipline it asks is course-limitation, because the isoquinoline alkaloids (sanguinarine, protopine) are not for indefinite intake. Clear with it; do not dwell on it.
 
+### Functional–Anatomical Correlate
+
+The entry maps fumitory onto three systems: the liver and bile, the skin, and the digestive tract. In Galenic-Unani terms it is hot and dry, a blood-purifier (musaffi-e-dam) prescribed for chronic skin disease, itching and hot eruptions, and a biliary mover that normalises sluggish and overactive bile flow. In Ayurvedic terms it is a bitter, cooling, pitta-reducing agent for skin, fever and liver heat. The entry names protopine, bicuculline, stylopine, sanguinarine and chelidonine as its alkaloids and ties protopine's antispasmodic action to digestive tract cramp. Evidence is graded low to moderate: antioxidant, anticonvulsant and biliary-relevant activity is documented preclinically, some of it from congeners such as F. schleicheri, and human trials for F. officinalis are limited. The entry records no TCM attestation for this species and no cultivation status in any tradition.
+
 ### Contraindications
 
 - **Biliary obstruction:** Avoid in gallstone obstruction or biliary-tract blockage — a bile-moving herb is inappropriate where flow is mechanically obstructed.

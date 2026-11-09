@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** The only cultivation role the sources give is as one ingredient of compounds made by specialists, with none named and no dose. Nothing here supports a cultivator taking *Ephedra* alone for that purpose, and a stimulant-bearing shrub of uncertain identity is a poor candidate. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Per the entry's own claims, the drug acts on the blood vessels and the liver. The root-text layer, printed outside Clark's brackets, says it stops bleeding from the veins and arteries and cures liver fever; Men-Tsee-Khang gives the liver as the site of a hot disorder. The bracketed commentary layer adds a bitter taste, an expectorant action on phlegm (the chest and airways), dispersal of tumours, and reduction of swellings, with the tumours and swellings left unlocated. The chapter also names the drug a recommended ingredient in essence-extraction compounds (bcud len), a practice the entry places within the Four Tantras and does not tie to any organ. No cool or warm power is printed for it. The mapping describes the drug as these Tibetan texts name it. The entry records that three Ephedra species are given for mtshe.ldum, so no verified plant is identified, and no preparation or dose is given.
+
 ### Contraindications
 
 The sources read print no warning. Ephedrine-type alkaloids can raise blood pressure and heart rate, and *Ephedra* products are restricted in many countries. Bleeding and liver disease need medical care and must not be left to a home preparation. The botanical identity is uncertain (three species in Clark), so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

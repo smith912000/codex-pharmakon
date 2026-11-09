@@ -40,6 +40,10 @@ Arsenic trioxide is acutely toxic, and inorganic arsenic compounds are classifie
 
 **Practitioner's note.** A lower-grade drug in the Chinese scheme: a toxic drug against disease, to be stopped when the disease is hit, and the tradition's own grading is the warning. Arsenic is a poison, and nothing here supports taking it. For a cultivator the entry is a record of a drug the Classic kept out of the "nourish life" class. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Divine Farmer's Classic (SBJ) places this stone on the skin, the flesh and the abdomen. Its named sites are mouse fistulas (a channel opening under the skin), erosive sores and dead muscles, which map to the skin, subcutaneous tissue and the dead flesh of wounds. Wind impediment (feng bi) places a claimed action on the joints and limb muscles, and hardness in the abdomen places one in the abdominal wall and the viscera. Cold and heat, which the stone is said to eliminate, are a whole-body pattern without a named organ, and evil qi is a general category. The entry gives no humoral or doshic term, and its grade is acrid. Yang's footnote notes that other versions add 'greatly hot' to the quality, a variant this version does not print. In modern anatomy the sites are the skin and its sinuses, the subcutaneous tissue, the joints and limb muscles, and the abdominal wall and viscera.
+
 ### Contraindications
 
 Arsenic compounds are poisonous by mouth, by skin absorption and by inhalation; the Classic itself says "It is toxic". Arsenic is cumulative and carcinogenic, and exposure in pregnancy and childhood is of particular concern. Powdered stone sold as a remedy may be a different mineral or may be heavily contaminated. Possession and sale of arsenic compounds are regulated in many places. [USER: verify] the legal status in any given place; the sources retrieved do not address it.

@@ -46,6 +46,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** There is nothing to cultivate here in the Codex's sense. The one Greek account is a short, descriptive and therapeutic one for a plant that is probably not the spine's species, and the Unani and Nahua tags are unsupported.
 
+### Functional–Anatomical Correlate
+
+Little to map: the only organ-level claim is Dioscorides' (3-131) decoction of the chapter's plant, a teaspoonful taken as a drink in wine, which he says dissolves swellings of the vulva. The root is described as somewhat round and sweet when eaten, and the leaves as mallow-like. The chapter's beaked growths on the wing tops are described as having no medicinal use. The entry states that the Unani (Avicenna) and Nahua (Badianus) tags have no textual locus, so no Unani or Nahua physiology is mapped. The genus roots are described as rich in tannins, which would suit astringent action, but that is a general genus statement and was not checked for this species. No clinical study or safety data was retrieved. The entry advises against using any plant on the vulva or in pregnancy on the strength of this text.
+
 ### Contraindications
 
 No safety data were read. Do not treat the traditional use as advice, and in particular do not use any plant on the vulva or in pregnancy on the strength of this entry. Seek ordinary medical care for those conditions.

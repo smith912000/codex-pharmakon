@@ -113,6 +113,10 @@ Acacia is the defining tree of the ancient Egyptian, Mesopotamian, and Arabian p
 
 ---
 
+### Functional–Anatomical Correlate
+
+Acacia acts mainly on mucosal and wounded surfaces, which the entry describes in both modern and traditional terms. Its condensed tannins are credited with precipitating surface proteins to seal wounds, a wound-healing (ropana) action in Ayurveda, and with tightening the intestinal lining against fluid loss, the basis for its anti-diarrhoeal use; the Large Intestine channel is named for this. The mouth and gums are a further target through catechu and babool rinses, and the gum's protective gel coats the stomach and inflamed throat. The gum is also described as feeding Bifidobacterium and Faecalibacterium in the gut, which the entry links to lowered blood urea nitrogen and renal load in chronic kidney disease. Avicenna adds the eye, through washes, and the uterus, through a styptic pod preparation for excessive bleeding. Humorally the bark and pods are cold and dry, astringent (kashaya) and cooling (shita) in Ayurveda, and the entry sets Qi as the primary tier with Jing secondary for tissue regeneration.
+
 ### Contraindications
 
 - **Constipation** — the astringent pod/bark decoction worsens constipation; use for diarrhoea/excess looseness only, not as a daily supplement in those prone to constipation.

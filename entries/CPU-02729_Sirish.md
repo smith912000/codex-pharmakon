@@ -42,6 +42,10 @@ No clinical studies were retrieved for this entry. [USER: verify] Because the pl
 
 **Practitioner's note.** Nothing to do. An unidentified glue-yielding root used on ulcers, skin patches and in antidotal doses; nothing supports any cultivation use.
 
+### Functional–Anatomical Correlate
+
+Sirish, quoted from Dioscorides by the Canon, is hot in the first degree and warming. Its root and leaf are used externally for hot swellings at their start, for dirty malignant ulcers, ulcerating wounds, boils and fire burns. An ash poultice is used for hair loss (alopecia), and for white vitiligo (bahaq) the root with vinegar is smeared on. For the head, a compound dripped into the ear on the side opposite an aching tooth is said to calm pain, and the root water with old wine and myrrh is for eye pains. For the chest, it is said to help pain of the two sides, cough and weakness of the muscle, and the root in wine lees helps breast swellings. Internally it promotes urine and menses. The leaf is used for vermin bites and the fruit and flower in wine for scorpion sting. The plant is unidentified, so no constituent can be assigned.
+
 ### Contraindications
 
 - **Pregnancy.** The passage says it promotes urine and the menses; avoid in pregnancy. [USER: verify]

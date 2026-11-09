@@ -71,6 +71,10 @@ Attribution: findings from PubMed. (The published pharmacological literature on 
 
 **Practitioner's note.** Nothing specific. It is a component root in compound formulas; a cultivator has no separate practice for it. The Caraka and rasayana-literature claims in the tag line were not checked here.
 
+### Functional–Anatomical Correlate
+
+Uraria picta's entry maps its action mainly to fever, inflammation, the gut and bleeding. As a Daśamūla root it is classed as jvaraghna (febrifuge, including tridoshic sannipāta fever), śothahara (anti-oedema), and grāhī and saṃgrāhaka (astringent, anti-diarrhoeal) for atisāra and raktātisāra. It is also raktapitta-hara, checking bleeding disorders, and respiratory use in śvāsa-kāsa is listed. Its sweet-unctuous axis is balya and pacifies Vāta and Pitta, with Kapha neutral owing to its bitter and astringent taste. The entry places its distinctive standing in tridoshic fevers. The Sushrutan group passages describe the compound group rather than the root alone. The only modern data are phytochemical: isoflavanones and triterpenes from the roots that showed antimicrobial activity in vitro. The entry records no clinical activity on any body system and says the Caraka and rasāyana claims were not checked.
+
 ### Contraindications
 
 - Generally well-tolerated in classical doses and within compound formulae. Its astringent (*grāhī*) action means caution in constipation-predominant states or where reduced gut motility is undesirable.

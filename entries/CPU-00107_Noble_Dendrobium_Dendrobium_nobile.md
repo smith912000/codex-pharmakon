@@ -62,6 +62,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 ---
 
+### Functional–Anatomical Correlate
+
+In Chinese Medicine the entry places Shi Hu on the stomach, kidney and eyes. Sweet and slightly cold, it nourishes stomach yin and generates fluids, addressing dry mouth, thirst, a dry tongue and the fluid depletion after fever. It clears deficiency heat, the low-grade warmth of yin deficiency, and nourishes kidney yin, to which the classic 'brighten the eyes' use is attributed. The entry's channel list (Stomach and Kidney, with Lung noted) defines that reach. Its glucomannan polysaccharides are described in research as immunomodulatory and antioxidant, and dendrobine and bibenzyls as pharmacologically of interest, with no clinical claims made. The entry records no Tibetan framing, and its FMT tag is flagged as unsupported. Dampness or an unresolved exterior pathogen is a contraindication, since a moistening tonic can trap them. Cold-damp digestion is less suited to it.
+
 ### Contraindications
 
 - **Damp / unresolved exterior pathogen (CM).** A moistening tonic is contraindicated where there is damp accumulation or an unresolved exterior condition (risk of retaining the pathogen/damp).

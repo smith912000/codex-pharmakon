@@ -68,6 +68,10 @@ Attribution: findings from PubMed.
 
 **Practitioner's note.** In practice this is a warmth-delivery plant: the real cultivator's use is external — moxa driving controlled heat into cold, stagnant channels — with a supervised internal warming-hemostatic and gynaecological use alongside. None of that is a longevity or nourishing-life grade; the festival and doorway uses are protective ritual, and the essential oil's flagged toxicity means internal self-dosing is not a cultivation practice.
 
+### Functional–Anatomical Correlate
+
+The entry places Ài Yè in the Liver, Spleen and Kidney channels as a warm, bitter, acrid herb. Its stated actions are to warm the channels, stop bleeding, dispel cold, relieve pain, regulate menstruation and calm the fetus, so the tissues addressed are the uterus and lower abdomen, in cold-deficient bleeding, dysmenorrhoea and lower-abdominal cold, and the peripheral channels that moxa heat is applied to. The active fraction is an essential oil with more than two hundred volatile constituents, including cineole, camphor, borneol, caryophyllene and terpinen-4-ol, plus flavonoids that the entry links to anti-inflammatory and antioxidant activity. Moxa smoke is described as bioactive but also irritant and particulate. The entry states that the essential oil is toxic in excess and should not be swallowed neat, and that Yin-deficiency and heat patterns are aggravated by its warming, drying nature. Its Kenetica role is external and thermal, with internal decoction a supervised practice.
+
 ### Contraindications
 
 - **Yin-deficiency / heat patterns** — warming, drying nature aggravates heat and dryness.

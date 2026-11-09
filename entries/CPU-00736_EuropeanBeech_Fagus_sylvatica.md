@@ -63,6 +63,10 @@ Beech phytochemistry is reasonably characterised, though clinical data are spars
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, beech acts on slack, weeping or bleeding tissue at the surface: the gum and throat mucosa, the gut lumen, and wound or skin surfaces, through tannin binding. The Galenic and Unani reading is cool and dry in the second degree, astringent (qabid), checking fluxes such as diarrhoea, excessive discharge and lax or bleeding gums. The Dioscoridean stream uses the astringent bark and leaf as a wash for slack, weeping tissue. Ayurvedic correspondence is by analogy only: kashaya rasa with cooling virya, drying damp discharge. The modern chemistry is condensed proanthocyanidins that bind and cross-link proteins, plus flavonoids and phenolic acids with antiradical activity in the leaf. Beechwood creosote is a separate phenolic fraction (guaiacol, creosol) historically used as an antiseptic and expectorant for the chest, which the entry marks caution-only. The entry also notes that prolonged internal tannin use may impair iron and protein absorption and irritate the gut.
+
 ### Contraindications
 
 - **Raw beechnut toxicity:** raw beechnuts contain the bitter principle *fagin*, oxalate and tannins; eating them raw in quantity causes nausea, vomiting and gastrointestinal upset. Roast before eating and keep portions small. Keep away from children and pets, who may consume fallen mast.

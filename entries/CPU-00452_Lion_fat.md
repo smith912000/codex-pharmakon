@@ -54,6 +54,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+Lion fat maps to the scalp and hair in this entry, and to nothing else. Bryan prints it once, as the first of six fats made into one and rubbed on the head of a bald man, in the chapter on the hair. The organ claimed is the scalp, and the goal is hair growth on a bald head. The entry names no humour, temperament, qi or heat for the fat, and no other prescription for the lion appears in Bryan's text. The Egyptian material frames the remedy as a treatment for a complaint, not as a tonic for the person's vital parts; the person as ka, ba, akh or ib is not engaged, and no recitation is printed with the pomade. How the fat was obtained, and whether from a captive or wild lion, is not said. The entry adds only infection risk on the scalp and the legal status of lion products, which are not organ actions.
+
 ### Contraindications
 
 - **Hygiene and infection:** animal fat on the scalp or on broken skin carries infection risk.

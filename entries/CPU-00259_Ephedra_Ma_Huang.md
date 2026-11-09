@@ -174,6 +174,10 @@ The respiratory stimulant action of ephedrine at altitude deserves specific atte
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places Ma Huang in the Lung and Urinary Bladder channels, with its defining action as diffusing the Lung (xuan fei) and calming wheeze. It places the Wei Qi defensive layer at the skin, the pores and the peripheral vascular and immune systems, which Ephedra is said to open. Dantian correspondence is Upper (respiration and alertness) and Middle (Wei Qi and diaphoresis). The modern correlates given are beta-2 bronchodilation of bronchial smooth muscle, improved mucociliary clearance, alpha-1 vasoconstriction of the nasal mucosa, and beta-1 increases in heart rate and contractility. The entry cites carotid body and aortic arch chemoreceptors as the site of an enhanced hypoxic ventilatory response at altitude. The root is distinguished as acting on eccrine sweat glands and the adrenal medulla, opposing the stem. Organs and systems the entry contraindicates include the cardiovascular system, the thyroid, the eye in angle-closure glaucoma, the bladder outlet, and the uterus in pregnancy.
+
 ### Contraindications
 
 **Hypertension:** Ephedrine elevates both systolic and diastolic blood pressure through α1-mediated vasoconstriction and β1-mediated increased cardiac output. In subjects with established hypertension, this pressor effect is clinically significant and unpredictable — the magnitude of blood pressure response to ephedrine is greater in hypertensive individuals due to impaired baroreflex sensitivity. Ephedra is contraindicated in any patient with documented systolic BP >140 mmHg or diastolic BP >90 mmHg at rest, or in anyone with a family history of hypertensive crisis, cerebrovascular accident, or aneurysm. This is an absolute contraindication, not a precaution.

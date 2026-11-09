@@ -45,6 +45,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The text's own verdict is that it is an enemy to the stomach, so the lesson is abstentive: this is a plant Dioscorides describes as harmful to the stomach.
 
+### Functional–Anatomical Correlate
+
+Dioscorides’ chapter 2-148 places this sea-coast herb’s effects on the stomach and the bowels. The whole herb is said to be “an enemy to the stomach, sharp”, and eaten boiled it is “excessively loosening to the bowels” (a laxative, purgative action on the intestine). Its juice is white but scant, and its taste is salty and somewhat bitter with a fatty substance, which are sensory qualities rather than organ actions. Some boil it with ram’s fat to blunt its sharpness, so the fat is a preparation meant to reduce the harm to the stomach, not a remedy. The chapter prints no temperament and no warming, cooling or drying quality, and names no therapeutic use for any other organ, tissue or body system. Its leaves, thin and many, spring from reddish branches off one stalk, which is description only. Because the identity is the translators’ suggestion and the printed plate shows a cabbage, this account records the text’s warning and is not an organ map for a verified species.
+
 ### Contraindications
 
 The chapter itself says the herb is "an enemy to the stomach, sharp" and "excessively loosening to the bowels". Anyone with a gastrointestinal complaint should not take it on the strength of this text, and no safety information for pregnancy was read. The identification is the translators' suggestion, so no wild plant should be gathered or eaten on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

@@ -43,6 +43,10 @@ General, well-established facts only. Heated metal or ceramic instruments applie
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. It is a made cement of stone and glue that Dioscorides records for lash surgery. The Codex does not recommend it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the only body part named is the eyelashes, which the chapter says a heated probe of the mixture can turn back. In modern anatomy this is the margin of the eyelid, where the lash follicles sit, so the claimed site is the eyelid edge and the lashes that grow from it. The chapter names no other organ, tissue, channel or energy, and prints no quality of warming, cooling, astringency or similar. The entry records that the mixture's parts are marble or Parian stone and bull's glue, and that the chapter gives no internal use, no pain or risk statement, and no quality test. The entry notes that the chapter describes the material as a made mixture and not as a dug stone, in a single sentence. The mapped claim is therefore limited to the eyelid margin and its lashes.
+
 ### Contraindications
 
 - **Do not heat any probe and apply it to the eye or eyelid.** Burn and eye injury are the obvious risks.

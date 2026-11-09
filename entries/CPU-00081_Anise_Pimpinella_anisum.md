@@ -62,6 +62,10 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 
 **Practitioner's note.** A cultivator uses anise as a gentle, food-grade warming digestive — the after-dinner settler of the windy gut — and the honest register stops there. Neither tradition on this entry's tag line assigns it a life-nourishing or subtle-body status; the Greek contribution is a discipline of selecting good seed by nose and provenance, and the Unani contribution is a warming carminative that supports digestion without the depleting force of a stronger drug. Nothing here supports treating anise as a tonic of the vital constitution; its value is quiet, culinary and conservative.
 
+### Functional–Anatomical Correlate
+
+Anise's entry places its main action on the digestive tract: anethole is said to relax gut smooth muscle, dispelling flatulence, easing colic and bloating and settling the stomach, with antimicrobial activity noted. The respiratory tract is the second target: as a sweet aromatic expectorant, anise loosens cough and chest phlegm. The reproductive and lactation system is a third: anethole and its dimers are described as mildly oestrogenic and galactagogue, promoting breast milk in nursing mothers, and the entry lists a menstrual antispasmodic use. Griping and infant colic fall under the gut, with caution noted. The Galenic register is hot and dry, commonly hot in the third degree and dry in the second, with the Unani terms kasir-e-riyah (carminative) and mudirr-e-laban (galactagogue). Energetically it is Qi, on the warming, dispersing and wind-moving axis of the aromatic-seed group.
+
 ### Contraindications
 
 - **Hormone-sensitive conditions.** The mild oestrogenic activity warrants caution in oestrogen-sensitive conditions; avoid concentrated medicinal use. [USER: verify.]

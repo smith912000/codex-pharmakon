@@ -55,6 +55,10 @@ General, well-established facts only. Jasmine flowers are used for scent and fla
 
 **Practitioner's note.** Nothing here gives a cultivator a practice with this plant. In the Sushruta scheme the name is a scent in a cooling regimen and in the prognosis of an ulcer, a flower in a head-cleansing list, and an ingredient of ulcer compounds. Nothing should be taken on the strength of a Latin name that the text does not itself give.
 
+### Functional–Anatomical Correlate
+
+The Sushruta text names Jati as a scented flower, a head-cleansing drug, an ulcer ingredient and an eye-salve ingredient. In the errhine list of Sutra 39, the flowers of Jati are among drugs regarded as errhines (Shirovirechanam), a procedure acting on the head and nasal passages, with the flowers as the part named. In Sutra 36, a medicated ghee with Jati roots and a compound with Jati blossoms are applied to an ulcer or open swelling, placing action on wound and skin tissue. In Uttara 11, burnt Jati flowers are part of an eye-salve (Anjana), placing action on the eyes. Sutra 28 lists a sweet, Jati-like smell from an ulcer among signs that it is precursor of death, which the entry records as a scent and not an action. Where the translator glosses Jati as nutmeg, the nutmeg's bitter and pungent qualities are not carried to this drug. No dose, preparation quantity or pregnancy statement is given for Jati itself.
+
 ### Contraindications
 
 The Sushruta passages read print no warning for the drug itself. The errhine use is a physician's procedure and not a household one. Because the Sanskrit word also names the nutmeg in the translator's text, and because the identity rests on a translator's appendix, no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

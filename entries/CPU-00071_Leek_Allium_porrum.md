@@ -71,6 +71,10 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 
 **Practitioner's note.** The leek's one genuine cultivation signal is an *exclusion*, and it comes from the Buddho-Daoist monastic tradition: in Buddhist and Daoist ascetic practice the pungent alliums are the *wǔ xīn* 五辛, the five acrid roots barred from the cultivation diet as stimulants of the passions and cloudiers of clarity. So the honest instruction to a cultivator is abstentive: as food and expectorant the leek is wholesome and useful, but the contemplative diets that most explicitly pursue vital refinement set it aside rather than take it up — the opposite of a tonic.
 
+### Functional–Anatomical Correlate
+
+The leek's entry maps mainly onto the throat, the chest and the gut. Its defining action is expectorant: the Dioscoridean and Unani accounts describe clearing thick phlegm from the chest, easing cough and hoarseness and cleansing the airways, the basis of its singer's-herb reputation. Mucilage is said to soothe the throat. As a warming, dispersing allium in Galenic terms it is hot and dry, and in Unani it expels phlegm and acts as a deobstruent and mild diuretic. Its inulin-type fructans feed gut flora and support a digestive, cleansing role. Traditionally it is recorded as a mild emmenagogue, touching the uterus, and as a folk topical juice for stings, nosebleed and earache, both flagged for verification. Its organosulphur compounds are described as antimicrobial and mildly cardiovascular, milder than garlic. The entry records no rejuvenative or cultivation role. Cautions concern allium sensitivity, fructan-driven IBS, reflux, and mild antiplatelet effects at high medicinal intake.
+
 ### Contraindications
 
 - **Allium allergy / intolerance.** Avoid in known allium sensitivity; the family's FODMAP fructans can aggravate IBS in sensitive individuals.

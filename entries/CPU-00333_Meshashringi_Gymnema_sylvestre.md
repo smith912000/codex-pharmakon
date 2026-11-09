@@ -81,6 +81,10 @@ According to PubMed, *Gymnema sylvestre* has the strongest evidence base of this
 
 **Practitioner's note.** Nothing to cultivate with this: in the sources retrieved it is a therapeutic drug only, and the craving-regulation role in the entry is the entry's own framing, not a tradition's cultivation status.
 
+### Functional–Anatomical Correlate
+
+Meshashringi acts mainly on sweet-taste perception on the tongue, on fat and metabolic function, and on the urinary channels. Its Ayurvedic actions are pramehaghna and madhumehaghna (anti-diabetic pattern), medohara (fat reducing), kaphaghna, krimighna (anti-parasitic), mild dipana-pachana and mutravirecaniya (diuretic). It acts on the medovaha and mutravaha srotas, correcting kleda (excess moisture) and meda (fat), and pacifies Kapha and Pitta, though in excess it may aggravate Vata. Its distinctive prabhava is the temporary abolition of sweet taste. The entry ascribes this to gymnemic acids competing at sweet-taste receptors, with gurmarin also implicated in taste modulation. The modern evidence is the strongest in this batch. Gymnemic acid is identified as the main antidiabetic constituent, with hypoglycaemic, nephroprotective, antioxidant and anti-inflammatory activity reported, and hepatoprotective and anti-hypercholesterolaemic effects cited. Human trials are limited. The entry warns of hypoglycaemia with antidiabetic drugs or insulin and advises avoiding it in pregnancy, lactation and before surgery.
+
 ### Contraindications
 
 - **Concurrent antidiabetic drugs / insulin:** major caution — additive blood-sugar lowering can cause **hypoglycaemia**. Use only with medical supervision and glucose monitoring.

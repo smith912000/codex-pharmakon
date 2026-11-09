@@ -43,6 +43,10 @@ In general knowledge, skinks and geckos are insectivorous lizards, and reptiles 
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. A middle-grade animal-drug for urinary complaints. SHORT entry: the sources give little.
 
+### Functional–Anatomical Correlate
+
+The Shennong paragraph names the urinary tract: five forms of strangury and bound perverse qi (wu long xie jie qi), stone strangury (shi lin), and the free flow of urine and the water passages (li xiao bian shui dao). It also names bleeding in the phrase bring down blood (xia xue), which the text does not localise. The energetic frame is salty and cold (wei xian, han), with middle-class placement and no toxicity statement. The Wu Pu and Mingyi layers add a habitat of sunlit rocky ground and a harvest in the fifth month, but no organ. Stone strangury is read here as a urinary stone in modern terms, a reasonable reading that the text does not spell out. The species is not settled, since a gecko is also possible. Urinary stone and blood in the urine need medical assessment.
+
 ### Contraindications
 
 - **Urinary stone, bleeding.** Need medical assessment.

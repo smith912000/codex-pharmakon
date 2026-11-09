@@ -92,6 +92,10 @@ Attard E, Cuschieri A (2004) "Cytotoxicity of cucurbitacin E extracted from *Ecb
 
 **Practitioner's note.** Nothing. This is a violent purgative the text itself warns against over-dosing; its lesson for a cultivator is assay and adulteration detection, not use.
 
+### Functional–Anatomical Correlate
+
+The entry places squirting cucumber's drastic action in the gut, its fluid balance and the airway mucosa. Its cucurbitacin E, or elaterin, irritates the intestinal lining, stimulating secretion and motility to draw water into the bowel as a hydragogue purge used for dropsy. Systemically, cucurbitacins disrupt the actin cytoskeleton and inhibit JAK/STAT3, underlying the cytotoxicity behind documented fatal cardiac and renal failure. Fresh juice applied to the nasal, oral and pharyngeal mucosa causes marked oedema of the uvula, oropharynx and airway, and the entry records the folk sinusitis and jaundice use as hazardous. In humoral terms it is hot and dry in a high degree, a heroic evacuant for gross excess. The Kenetica tier is Qi primary, driving downward and outward fluid movement, with Shen secondary at toxic exposure. The entry lists narrow margin, mucosal oedema, fluid loss, pregnancy, and GI, cardiac or renal disease as contraindications.
+
 ### Contraindications
 
 - **Narrow therapeutic-to-toxic margin (major — potentially fatal):** the quantity that purges and the quantity that poisons are dangerously close; fatal cardiac and renal failure is documented after ingestion; there is no margin for casual or self-directed use

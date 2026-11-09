@@ -93,6 +93,10 @@ Catmint is a gentle aromatic `[RESET]` herb — carminative, diaphoretic, faintl
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps catmint chiefly onto the gut and the skin, through the aromatic-mint frame. Its primary organ action is carminative: a volatile-oil antispasmodic effect on the gut that settles the stomach and expels wind, described as moving stagnant Stomach Qi. Its diaphoretic action warms the skin and promotes sweating at the start of a chill, the release-the-exterior function in Chinese terms, and Ibn Sina's reading adds sweat and menstruation. Emmenagogue doctrine is tied to the uterus and underlies the pregnancy caution. A mild calmative effect sits at a minor Shen tier, with restlessness as the target, but the entry states it is faint and not a hypnotic. Its best-evidenced action is topical: nepetalactone acts on the TRPA1 sensory channel and drives arthropod aversion. Most organ-level human claims are inferred from Nepeta cataria. Traditional energetics: warm, dry, pungent and aromatic.
+
 ### Contraindications
 
 - **⚠️ Pregnancy — avoid.** The aromatic Lamiaceae emmenagogue tradition (Dioscorides, Ibn Sina) plus the volatile-oil uterine-stimulant caution shared by the catmints make internal use inadvisable in pregnancy; avoid emmenagogue doses. Caution in lactation. `[USER: verify]`

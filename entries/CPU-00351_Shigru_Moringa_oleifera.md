@@ -67,6 +67,10 @@ According to PubMed, *M. oleifera* is among the **best-studied** Ayurvedic plant
 
 **Practitioner's note.** Nothing. Śigru is a pungent, Pitta-generating pot-herb and drug in the Suśruta text, and the tradition records no vital-constitution role for it. The modern reputation of Moringa as a nourishing tree has no basis in the passages read.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Śigru acts on digestion, metabolism and the fat and fluid compartments. It is dīpana-pācana (kindles digestive fire and metabolises āma), lekhana (scraping fat), medohara (anti-fat), śothahara (anti-oedema) and kṛmighna (anthelmintic), and the Varuṇādi gaṇa groups it with gulma, abscess, kapha and aśmarī. Warmed leaf and seed poultices are applied over swellings and painful joints, and the pungent root is a rubefacient. The entry cites a human RCT of 2400 mg daily leaf powder in prediabetes that improved fasting glucose and HbA1c, while a T2DM trial was essentially null after adjustment. Modern correlates named are isothiocyanates and polyphenols for anti-inflammatory and antioxidant signalling, and dense minerals and vitamins for nutrition. The Unani record describes cleansing action on the viscera, hardness of liver and spleen, and root decoction for toothache. The entry flags Pitta aggravation, caution with root and bark in pregnancy, and additive effects with antidiabetic and antihypertensive drugs.
+
 ### Contraindications
 
 - **Pitta excess / heat conditions:** pungent-hot nature can aggravate Pitta, acidity, and bleeding disorders — use moderately in high-Pitta states.

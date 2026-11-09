@@ -43,6 +43,10 @@ General, well-established facts only. The golden rain tree is widely planted in 
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The flower is a lower-grade drug for eye complaints, taken, if at all, for a defined complaint and then stopped, and the tradition's own grading is the warning. The text is short and the Codex adds nothing to it.
 
+### Functional–Anatomical Correlate
+
+The classic's uses for this flower are all directed at the eye (目). It is recorded for eye pain (主目痛), for running tears (泪出), for swelling of the eye (消目肿), and for an injury whose object is a character lost in the transcription (伤 followed by a gap). The flavour and nature are bitter and cold (味苦，寒), which the entry reads as the classic's terms and does not translate into modern diagnoses. The eye is therefore the only organ named, with tears and ocular swelling as the signs the text gives. Sun's note and the Shan hai jing passages describe the tree and its colours, but this is commentary and does not describe the eye. The paragraph has no alias, no long-use clause, and no organ beyond the eye; the Mingyi layer gives only Hanzhong and the fifth month for gathering. The Codex does not recommend applying any preparation to the eye, and states that eye pain, redness, swelling or loss of vision need medical assessment.
+
 ### Contraindications
 
 - **Eye disease:** pain, redness, swelling or loss of vision needs medical assessment; do not put plant preparations in the eye.

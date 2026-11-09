@@ -60,6 +60,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+Powdered granite's claimed sites are the eye, the skin, and an abscess. For leucoma, the white growth on the eye, and for squint, Bryan's eye section gives a poultice of powdered granite, and in the squint case a poultice of onions, granite and resin. For a wheal from blows, a plaster of granite with alabaster dust, statue dust and fresh milk is anointed on the skin. For an abscess, granite with human milk, tortoise-shell and knife-stone trash is used in a remedy said to make the blood fall. In modern anatomy terms the mapped sites are the cornea and eye surface, the eye's alignment for squint, the skin, and the tissue of an abscess. No internal organ is claimed for granite in these passages.
+
 ### Contraindications
 
 - **Eye:** powdered rock is abrasive; it must not be put in the eye.

@@ -68,6 +68,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps bugle's action onto surface and mucosal tissue that is open or bleeding: minor cuts and grazes (fresh poultice on skin), inflamed, spongy, bleeding gums and sore throat (oral and pharyngeal mucosa, as a gargle), and loose or relaxed tissue internally as a bitter-astringent. Galenic and Unani classes it cold and dry, retentive and binding, arresting blood fluxes. Dioscorides places it among consolidators that check haemorrhage and draw wound edges together. The cited extract work is in animals and cells: reduced bleeding time, wound closure by day 9, hepatoprotection in CCl4-induced hepatitis, and mild anti-inflammatory effects. The haemostatic correlate is attributed partly to vitamin K1, and the phytoecdysteroids and phenolics are described as well characterised. The entry stresses that these findings are animal and in vitro, with no controlled human trials. Cautions cover vitamin-K antagonist anticoagulants, pregnancy, and deep or infected wounds.
+
 ### Contraindications
 
 - Internal medicinal use is poorly standardised; keep to short courses and traditional doses. Uncertain material — [USER: verify] any internal protocol.

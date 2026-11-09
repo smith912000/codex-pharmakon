@@ -44,6 +44,10 @@ No clinical studies were retrieved for this entry. [USER: verify] Because the dr
 
 **Practitioner's note.** Nothing to do. An aromatic of uncertain identity whose substitute is given by the Canon itself; nothing here concerns cultivation.
 
+### Functional–Anatomical Correlate
+
+The Canon describes narmushk as flower-buds, husks and calyces, aromatic, subtle and dissolving, and hot and dry in the first degree. It is good for the cold stomach and liver. For the chest, a sip of its water with sugar and almond oil is said to soften the chest by cleansing it, and a wine-moistened poultice is applied to breast swellings. Vinegar poultices are used for hot swellings, for ulcerated scab and wounds, and for scorpion and viper stings. The bowels are named too: it moves them to expel their contents, and its sip softens the belly. It dissolves winds and phlegm. The plant is unidentified, and the Canon gives a substitute of ginger, pistachio and spikenard, which the entry notes is unverified. Historical record only; the sting and purging uses must not be acted on.
+
 ### Contraindications
 
 - **Identity.** Unknown. Do not substitute mace, ginger or anything else except as the Canon's substitute formula, which is itself unverified.

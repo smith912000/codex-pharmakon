@@ -48,6 +48,10 @@ General, well-established facts only. Honey is a concentrated sugar solution wit
 
 **Practitioner's note.** Nothing here is a practice. Sushruta describes this honey as cool and light and names no use. A cultivator would have no way to choose this kind over any other honey, and the text does not attach a cultivation purpose to it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that Kshaudram honey is extremely cool, light and liquefacient (Sushruta ch.45, line 1114). The text names no disease and no organ for it, and sets it beside Bhramaram and Makshikam for comparison. No taste, potency, vipaka or dosha effect is printed for this kind beyond the group heading of honey in general, which calls honey sweet with an astringent after-taste and pacifying of Pittam and Kapham. The translator's footnote defines the kind by small tawny brown bees, with no species named. The general rules forbidding heated honey, honey in a hot body or hot season, and honey with rain-water apply to all kinds and are not assigned to Kshaudram alone. The entry therefore records one set of properties and no mapping to any organ, tissue or system of the body.
+
 ### Contraindications
 
 - **Heat.** Sushruta forbids honey that has been heated, boiled or used in hot weather or a hot body (lines 1183-1203). Treat that as the tradition's own warning.

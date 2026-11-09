@@ -77,6 +77,10 @@ According to PubMed, evidence for *Marrubium vulgare* is largely preclinical, wi
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, horehound's bitter principle, marrubiin with its phenolics, acts on the digestive tract by stimulating salivary and gastric secretion. In Galenic and Unani terms it is hot in the first degree and dry in the second, a deobstruent that cuts cold, viscid humours of the chest and lung. Its expectorant action is the traditional loosening of thick phlegm from the chest, which the entry relates to a mucolytic and expectorant effect on the respiratory tract. Dioscorides names it for orthopnoea, phthisis and cough, and the 'seed of Horus' folk name is recorded as symbolic rather than a secured Ebers identification. The entry also records a digestive role, a bitter that primes gastric secretion and sluggish digestion, and warns that large doses may aggravate gastritis or peptic ulcer. Cardiac and blood-pressure effects, hypotensive and possibly antiarrhythmic, and hypoglycaemic activity are also mapped to the heart and blood glucose, reported only traditionally and preclinically.
+
 ### Contraindications
 
 - **Pregnancy — avoid.** Dioscorides and the traditional record cite horehound to expel afterbirth and provoke menstruation (emmenagogue/uterine action). Its use in pregnancy is contraindicated on this traditional basis.

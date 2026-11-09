@@ -45,6 +45,10 @@ No study of the plant was opened. Pneumonia is an infection that needs medical t
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. Its record is therapeutic and gynaecological only.
 
+### Functional–Anatomical Correlate
+
+The root is the part the chapter addresses. It is described as warming and binding, and as used for the liver and for pneumonia, which map onto the liver and the lungs. Boiled with honey water it is said to cleanse the womb, which maps to the uterus and reproductive tract. The taste is given as not unpleasant and somewhat sour in its sweetness. Warming and binding are the text's own qualities, and no humoral, doshic or qi reading is given. The plant is said to grow in shady, rocky places and to be a small shrub twenty centimetres long. The root is compared to black hellebore in form and to cyprus in taste. The botanical identity is split between a genus and two species, so the mapping is the text's and not a verified one. No dose and no clinical study were retrieved.
+
 ### Contraindications
 
 Pneumonia and liver complaints need medical assessment. The preparation is said to cleanse the womb, so it should not be used in pregnancy. The plant's identity is split, so no wild plant should be gathered or drunk on this basis. None of the traditional uses above is advice. [USER: verify]

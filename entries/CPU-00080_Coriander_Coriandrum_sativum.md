@@ -108,6 +108,10 @@ A research line (not yet RCT-validated) suggests cilantro fresh herb facilitates
 ---
 
 *[1 tradition paragraph(s) removed 2026-07-18 — tag withdrawn per approved attestation ruling; see spine notes.]*
+### Functional–Anatomical Correlate
+
+Coriander's entry splits its actions by part. Seed, digestive: the carminative action relieves gas, bloating and cramping, with Ayurvedic deepana and TCM Stomach Qi-moving named, and Dioscorides cites anthelmintic action against intestinal worms. Seed, metabolic: coriandrin is said to stimulate insulin release from pancreatic beta cells, and PPAR-gamma activation is said to improve glucose uptake, within the Ayurvedic prameha-ghna frame. Nervous system: linalool is described as a GABA-A modulator with anxiolytic and mild sedative effects, and as analgesic through TRPA1. Respiratory: the seed's alpha-pinene and gamma-terpinene are described as bronchodilatory and antimicrobial. Fresh herb: TCM reads it as promoting sweating and unblocking the pores, and dodecenal is described as antibacterial against Salmonella. The Canon warns that excess fresh leaf causes diminished reason. Energetically it is Qi.
+
 ### Contraindications
 
 - **Vitamin K content (fresh herb — anticoagulant interaction)** — cilantro contains extraordinarily high vitamin K (310μg/100g); large quantities of fresh cilantro significantly increase vitamin K intake and can counteract warfarin anticoagulation; patients on warfarin should maintain consistent cilantro intake (not wildly variable) and monitor INR; those on VKA therapy should not start/stop heavy cilantro consumption abruptly

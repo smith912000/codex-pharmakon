@@ -57,6 +57,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+Two uses are given. For pain in the head, cooked fish bone is one of eight or nine ingredients (with onion, am-tree fruit, natron, cooked redfish, cooked crayfish skull and honey), rubbed on the head for four days, so the scalp and head are mapped. For milk, bones warmed in oil are smeared on the backbone of a woman about to suckle, to produce milk; the entry maps this to the spine and to the breast and milk supply. A second remedy for the same aim, a bread eaten, is noted. No humoral, doshic or qi classification is given, and no quantities are printed. Modern anatomy terms: scalp, skull, spine and mammary gland. The natron and other co-ingredients are not assessed by the entry and are not mapped.
+
 ### Contraindications
 
 - **Hygiene and infection:** bone and other animal material put on skin, especially broken skin, risks infection.

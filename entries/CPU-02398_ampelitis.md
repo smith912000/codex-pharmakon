@@ -48,6 +48,10 @@ General, well-established facts only. Ampelite is an old mineralogical name for 
 
 **Practitioner's note.** Nothing for a cultivator to take. The chapter is useful only as an example of the Dioscoridean habit of choosing a material by sight and a small test, and the earth itself has no place in practice.
 
+### Functional–Anatomical Correlate
+
+The chapter's uses are for the eyelids, the hair and the vines. For the eyelids the earth is said to make them beautiful, placing its claimed action on the eyelid skin and its cosmetic surface. For dyeing hair it acts on the hair and scalp. The vine use, rubbing vines when they sprout to kill worms, is a plant site and not a human one. The only quality printed is that it dissolves and cools, given as an action without a degree. No warming, drying or moistening quality is printed, and no humour, dosha or qi frame is applied. No internal organ, route or organ system is named, and the text prints no internal use. The chapter's test, melting slowly under a little oil, marks the good kind and describes a working method rather than a physiological site. The earth's identity is a translator's gloss.
+
 ### Contraindications
 
 - **Do not apply to the eye or eyelid.** The chapter's cosmetic use cannot be made safe without knowing what the earth is; bituminous materials can irritate and contaminate.

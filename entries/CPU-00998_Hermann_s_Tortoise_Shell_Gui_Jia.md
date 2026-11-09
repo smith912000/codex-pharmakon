@@ -44,6 +44,10 @@ Burnt shell is largely mineral ash (calcium phosphate and carbonate) and has no 
 
 **Practitioner's note.** Nothing here for a cultivator to take. The Sanskrit text records the animal as food and as an ingredient of wound, eye and aphrodisiac recipes; none of it is a long-term practice, and the shell, the part the entry is named for, has only an ash-for-swelling use. The Chinese and Unani attestations could not be read. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Sanskrit (Sushruta) entry maps the tortoise to digestion, the bowel and the blood. Flesh of the Kurma and Shankha orders is sweet in taste and digestion, cooling, demulcent and beneficial to stool and Pittam; it destroys deranged Vayu and produces Kapham. Soup of the flesh is given for Rakta-Pitta, bleeding. Burnt shell ash, dusted on an Apachi (a glandular swelling) after oiling with Ingudi oil, targets the glands. Bile soaks a powdered collyrium that pacifies Pitta for the eye. Eggs are named in an aphrodisiac chapter for weak persons, so the reproductive organs. The shell itself has only the ash use. The Divine Farmer's row carries a middle-class note that no readable page confirms, and the Unani attestation is a spine row only. No ojas, tejas or prana claim is printed, and no organ-level claim is made for the Chinese or Unani material.
+
 ### Contraindications
 
 Tortoises and turtles are protected in many places, and trade in wild shell and in live animals is restricted by wildlife law; the status of Hermann's tortoise has not been checked here. [USER: verify] Wild reptile material can carry Salmonella. Burnt shell dusted on a swelling is not sterile. Eggs, bile and shell should not be taken as medicine on the basis of these sources. Hermann's tortoise is a European species, whereas the Chinese drug is a plastron from East Asian freshwater turtles in the older spine row; the merge into one entry does not show that the Sanskrit *Kurma* is the same animal.

@@ -44,6 +44,10 @@ General, well-established facts only. Sedges of this genus are common weeds of w
 
 **Practitioner's note.** Nothing to practise. A name in a glossary is not a recipe, and no passage retrieved shows what Sushruta did with this plant. The responsible cultivator's act is to leave it as a record and to verify the identification before drawing on it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that the Latin name Cyperus pertenuis appears in Bhishagratna's Sanskrit-to-Latin appendix, read from a garbled OCR line and paired by position with the Sanskrit key Nagara-mustaka. No body system, organ or tissue is named, and no taste, potency, post-digestive effect, indication, preparation or dose is printed for the plant in the lines read. The only related chapter passages concern a different Mustaka, and the entry does not assume they are the same plant. Nothing in the rasayana or vajikarana divisions assigns it an ojas, tejas or prana role. The general note that Cyperus is a genus of damp-ground sedges, some with edible or perfume tubers, is marked as general knowledge and not as a claim about this species. The text supplies no safety statement, and the entry warns that look-alike sedges cannot be told apart.
+
 ### Contraindications
 
 - **Identity.** The identification is from a garbled OCR line and a positional pairing of columns, at medium confidence. Do not gather or use a plant on this basis. [USER: verify]

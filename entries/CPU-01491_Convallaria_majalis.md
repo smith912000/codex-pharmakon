@@ -43,6 +43,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The plant the translators propose is poisonous, so the toothache rinse and the leaf wash are history and not a practice. The only use for the chapter is as an example of describing a plant closely enough to tell it from a deadly neighbour.
 
+### Functional–Anatomical Correlate
+
+The chapter maps to a mouth use and a swelling use. The root, used in a mouth rinse, is said to be a remedy for toothache, which maps to the teeth and gums. The leaves, boiled in wine and smeared on, are said to dissolve oedema and tumours without fluid, which maps to superficial swelling and the skin. The root is described as astringent and sweet-smelling, and the flowers as white and bitter. No warming, cooling or drying quality is printed, and no humoral or qi term is used. The plant grows in woods and shady places and is compared with the lily but whiter. The chapter gives no internal use. The identification with Convallaria majalis is the translators' suggestion. The translators' proposed plant is a lily of the valley, which the entry notes is generally known to be poisonous, but that fact is not Dioscorides' claim. No quantity or clinical study was retrieved.
+
 ### Contraindications
 
 Lily of the valley is generally known to be poisonous, and a mouth rinse can be swallowed. Do not use any plant on the strength of this entry. The identification is the translators' suggestion, and the neighbouring chapter in the same text describes a deadly bulb under the same name. None of the traditional uses above is advice. [USER: verify]

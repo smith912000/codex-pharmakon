@@ -55,6 +55,10 @@ General, well-established facts only. *Abies webbiana* is a conifer of the weste
 
 **Practitioner's note.** A leaf used as a nasal drug, an eye-salve ingredient and a minor ingredient in compound ghritas for disease. The record does not support any cultivation use, and a cultivator has nothing to do with it from this text.
 
+### Functional–Anatomical Correlate
+
+In the Sushruta Samhita the leaf of Talisa is used in several places, and each use names a body region or condition. As an errhine it is applied to the nose (Sutra ch.39), and as an eye-salve ingredient it is applied to the eyes (Uttara ch.10 and ch.17). As an oil ingredient in Chikitsa ch.2 it is a healing remedy for traumatic ulcers, so it acts on wound and skin tissue. A ghrita containing it, the Talisadi-ghrita, is said to cure all forms of asthma, placing it with the airways and lungs. The Maha-kalyana ghrita, which includes it, is said to cure gulma, cough, fever, asthma, phthisis and insanity (Uttara ch.62). The Sanskrit terms are the classic's own. The text does not describe the plant, give a dose, or assign a rasa, virya or vipaka. Modern anatomy names the nose, eyes, lungs and skin only to locate the uses, and the entry does not turn them into diagnoses.
+
 ### Contraindications
 
 - **Nasal and eye use.** The classic's errhine and eye-salve uses are medical procedures. Do not apply any preparation of this plant to the nose or eyes on the strength of this entry.

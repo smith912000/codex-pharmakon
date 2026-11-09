@@ -47,6 +47,10 @@ No identification is made on this row, so no scientific correlation is given. No
 
 **Practitioner's note.** The group is described in restorative terms, but the text gives no dose, no course and no instruction for any single member, and the plants behind the names are scarce. A cultivator has nothing sourced to follow here.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry gives only the group-level statement for the Ka'kolya'di group, whose first printed item is the hyphenated string Kakoli-Kshira-Kakoli, Sushruta Samhita ch.38. The group as a whole is said to subdue the deranged Pitta, blood and Vata; to increase the quantity of milk in the breast (galactagogue); to favour the accumulation of Kapham in the body; to be a restorative and an elixir; and to augment virile potency. Those map to the blood, the lactating breast, the reproductive system (virile potency) and the restorative or nutritive state of the body. The text does not say which member does what, and it gives this item no part, taste (rasa), potency (virya), post-digestive effect (vipaka) or dosha singly. The entry reads the string as two drugs, Kakoli and Kshira-Kakoli, by inference from the repeated element and from the separate Codex entries, not from the text. No identification is given, so no organ can be tied to it from its own record, and the Codex gives no protocol.
+
 ### Contraindications
 
 - **Identity.** The printed compound is read by us as two drugs; do not substitute any plant for it.

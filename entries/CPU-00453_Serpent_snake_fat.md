@@ -54,6 +54,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+Serpent fat maps to the scalp and hair. In the Ebers text it is the fifth of six fats, made into one compound and rubbed on the head of a bald man, the same pomade that contains lion, hippopotamus, crocodile, cat and goat fat. The only organ claimed is the scalp, and the aim is hair growth. The snake is not identified, so no species-specific property can be mapped. Serpents elsewhere in the papyrus are a household pest, kept from their holes by dried ant-fish, natron or garlic, and a simile for a swelling; none of these uses a part of the animal, so they are not mapped to the body. No humour, temperament, qi or heat is attached to the fat in the sources retrieved. The entry notes that some snakes are venomous and that animal fat on the scalp carries infection risk.
+
 ### Contraindications
 
 - **Hygiene and infection:** animal fat on the scalp or on broken skin carries infection risk; snakes can carry bacteria.

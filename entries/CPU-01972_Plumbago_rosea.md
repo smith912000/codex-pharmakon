@@ -47,6 +47,10 @@ General, well-established facts only. Plumbagin, from *Plumbago* roots, is a kno
 
 **Practitioner's note.** A name on a list, for a plant whose root is a known irritant. The Samhita text on disk gives no use and no grade for it, so there is nothing for a cultivator to take from this entry. A cultivator should not use it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the appendix gives only the Latin gloss 'Plumbago Rosea', with no use, part used, preparation or dose. The entry's identification as Plumbago indica is its own reading, and the Sanskrit name is not recovered. Its only statement about the body is a note marked as general knowledge and not from the source: the root irritates skin and mucous membranes, and plumbagin, a yellow naphthoquinone, is named as the irritant and is described as toxic in quantity. The entry's toxicity caution says nobody should take this plant. In the sources read, no rasa, virya, vipaka, rasayana, ojas or shodhana is attributed to it. Pregnancy, lactation and children are not addressed. No organ or traditional system is mapped from any source the entry read.
+
 ### Contraindications
 
 - **TOXIC / IRRITANT (general knowledge, not from the source).** The root irritates skin and mucous membranes. Do not ingest it and do not apply it to the skin.

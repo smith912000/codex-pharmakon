@@ -47,6 +47,10 @@ No identification is possible from the sources read, so no scientific correlatio
 
 **Practitioner's note.** Nothing to do. The drug is an unidentified name in a list, taken (so far as the text says) only as one member of a therapeutic group at a physician's discretion, and there is nothing a cultivator can responsibly use.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry gives only group-level statements for two lists in which Kalamala is named, and no statement about Kalamala itself. In Sushruta Samhita ch.38, the Surasa'di group acts as a vermifuge and an aseptic agent, subdues the deranged Kapham, and proves beneficial in catarrh, non-relish for food, asthma and cough. Those map to intestinal worms, the respiratory tract (catarrh, asthma, cough), appetite and digestive relish, and the Kapha humour. In ch.46, a list of spices and herbs names Kalamala, and a separate statement about potherbs in general says they are pungent in taste (rasa), relishing, heat-making in potency (virya), and subdue Vayu and Kapham. The text does not single out Kalamala for that statement. It assigns no part, post-digestive effect (vipaka) or dosha to Kalamala singly. The drug is unidentified, so no organ can be tied to it from its own record. The only guidance on use is the chapter-end rule: plasters, decoctions, medicated oils, ghritas or potions, chosen per case.
+
 ### Contraindications
 
 - **Identity.** Unidentified; do not substitute any plant for it.

@@ -60,6 +60,10 @@ General, well-established facts only. *Feronia limonia* (the wood apple, also kn
 
 **Practitioner's note.** A fruit graded by its ripeness, and an ingredient in local applications. Nothing in the lines read supports a cultivation use. A cultivator who wants the one thing the text does teach about it can use the contrast in chapter 40: a drug is judged by its potency, and not by its taste alone.
 
+### Functional–Anatomical Correlate
+
+Per Sushruta's fruit lists and treatment chapters, kapittha acts on the skin, the hair, the outer ear, the throat and the digestion. The unripe fruit is astringent, increases Vayu, subdues Kapham and produces hoarseness; the ripe fruit is heavy, sweet and acid, and subdues Vayu and Kapham. Its juice or rind enters applications to a scar that has healed black (to restore its colour), a hair-growth plaster, skin blemishes, the ear cavity in karna-sraba, and an anti-poison potion. Chapter 40 cites it as an acid drug that soothes Kapham despite its taste. The entry records no virya or vipaka and no rasayana or vajikarana status. Several recipes also contain copper and iron salts, arsenical minerals and animal urine, which the entry does not recommend. The systems mapped are the integument and scars, hair follicles, the ear, the upper airway (hoarseness) and the gut through the ripe and unripe fruit.
+
 ### Contraindications
 
 - **Compound recipes.** Several of the recipes that name Kapittha include copper and iron salts, arsenical minerals and animal urine; none of these is recommended here.

@@ -46,6 +46,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** In the Chinese scheme this is an upper-grade drug, a grade of long-term nourishing, but the grading belongs to the genus-level drug Chai Hu, and the tag for *B. falcatum* depends on a species identification the text does not make. Nothing read supports a particular long-term regimen or dose. The Dioscorides and Avicenna tags are unsupported.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives one textual passage, the Shennong Bencao Jing as printed by Yang 1998, which says Chai Hu treats bound qi in the heart, abdomen, intestines and stomach, and food and drink accumulation, and that protracted taking may make the body light, brighten the eyes and boost the essence. The drug is recorded as bitter and balanced and placed in the upper grade of the superior class. The entry states that the translation of the term as essence is not checked against the Chinese, so it does not equate this with jing. No Dioscoridean, Unani or other body action is given, and the Chinese reading is attached to the genus-level drug, since the species identification for B. falcatum is unconfirmed. The entry does not read the plant's constituents or any clinical study, and it says its Shennong uses are a historical record only and not a Codex protocol. Nothing further for organs, tissues or systems can be mapped from the entry.
+
 ### Contraindications
 
 No safety data were read. Do not treat the classic's uses as advice, and do not self-prescribe long-term use on the strength of an upper-grade label. Seek a qualified practitioner, and seek ordinary medical care for abdominal pain, fever or digestive illness. Species of *Bupleurum* are numerous, and the drug should not be substituted by wild collection.

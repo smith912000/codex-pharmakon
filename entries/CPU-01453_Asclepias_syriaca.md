@@ -41,6 +41,10 @@ Cardenolide glycosides from milkweeds can affect the heart, a general statement 
 
 **Practitioner's note.** A cultivator learns from the chapter the habit of reading description before name, since the Latin binomial offered cannot be the plant described. No practice is given.
 
+### Functional–Anatomical Correlate
+
+The chapter's claimed actions are on the eye and the skin. Flowers and seeds, pounded with honey and applied, are said to suit ulcers, pannus (the text's term for an opaque thickening of the cornea with veins) and spreading ulcers. For snakebite the text gives a drink with wine and an oil rub. The chapter describes the flowers as sharp and fragrant and the leaves as fragrant, but no warming or cooling quality is printed, and the translator marks the chapter poisonous. The identity is doubtful: the translator's first binomial is a North American milkweed that Dioscorides cannot have described, so the organ claims are the chapter's own and cannot be tied to the milkweed genus. Cardenolide glycosides in milkweeds bear on the heart, but that is a general statement about the genus, not a finding for this chapter. The Codex records these claims and gives no protocol.
+
 ### Contraindications
 
 The translator marks the chapter POISONOUS, and plants of the genus named in the gloss contain cardiac glycosides. Dioscorides' snakebite use is not advice. Do not use in pregnancy. No dose is given.

@@ -62,6 +62,10 @@ According to PubMed, the antidiabetic reputation of *Ajuga iva* has repeated exp
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps Ajuga iva onto metabolic regulation: blood glucose and blood lipids, with a bitter, drying action on sluggish digestion and on obstructed liver and joints. The Galenic and Unani reading is a hot, dry, deobstruent bitter that cuts cold thick humour and opens the passages of liver and joints. Dioscorides' chamaepitys is given in wine for liver and kidney complaints, jaundice, retained fluids and sciatic or chronic aches. TCM and Ayurvedic readings, by analogy, relate it to clearing damp-heat and reducing kapha and meda (fat tissue). The stated constituents are phytoecdysteroids, clerodane diterpenoids and iridoids, with flavonoids adding antioxidant and metabolic activity. The evidence is animal-only: diabetic rats showed lowered blood glucose, cholesterol and triglycerides, and the entry says the rodent doses do not translate to humans. No human trial is cited. Contraindications centre on additive hypoglycaemia, hypotension and surgery, plus pregnancy.
+
 ### Contraindications
 
 - **Diabetes interaction — important:** *Ajuga iva* has demonstrated **hypoglycaemic activity**. Anyone taking insulin or oral hypoglycaemics who uses it risks **additive hypoglycaemia**; blood glucose must be monitored and medical advice sought. Do not replace prescribed diabetes treatment with the herb.

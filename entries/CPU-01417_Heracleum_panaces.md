@@ -45,6 +45,10 @@ Apiaceae gum-resins and furanocoumarin-containing *Heracleum* species are genera
 
 **Practitioner's note.** Nothing in the source read gives a cultivator a practice with this plant. What the chapter offers is the habit of testing a drug before use: the water-rubbing test for adulterated juice. The answer for the person is to abstain, since the uses recorded include abortifacient ones and the identification is unsettled.
 
+### Functional–Anatomical Correlate
+
+Dioscorides' chapter 3-55 acts on many parts, in his own terms. Taken as a drink with honey and water or wine, it is good for acute fevers and chills, convulsions, hernia, pains in the side, coughs, griping, parasitic disease of the bladder, and slow painful urination. Dissolved with honey it induces the menstrual flow, is an abortifacient, and scatters gaseousness and hardness in the womb. The shaved root applied to the vulva is also an abortifacient, and the seed taken with wormwood induces menstrual flow. The juice is applied to hip pains, carbuncles, gout, toothache and the eyes, and with honey to old ulcers and exposed bones. Its wine (5-72) is said to reduce the thickness of the spleen and to help griping, sciatica, slow digestion and dropsy. Traditional terms: warming and softening; the root is hot to the taste, and the best juice is most bitter. The identification as Heracleum panaces is a translators' gloss. The abortifacient and menstrual uses are recorded here, not advised.
+
 ### Contraindications
 
 Historical uses recorded here include abortifacient uses and are not advice. Do not use in pregnancy. Plants of the genus *Heracleum* can cause skin reactions in sunlight. The identity of the plant and of the juice is uncertain, and no safe dose is given in the sources retrieved. Seek qualified care for any of the complaints named.

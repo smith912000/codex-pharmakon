@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. A purgative is a short, supervised intervention if it is anything, and the lines give no preparation and no dose. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan name khron.bu is tied to purging. Clark 1995 gives, outside the commentary brackets, that the drug 'purges bile disorders', and Men-Tsee-Khang 2011 says the name Tronbu 'cleanses tripa disorders'. Clark renders the humour as bile and Men-Tsee-Khang transliterates it as tripa, so the two clauses agree in kind. The texts name bile (and tripa) as the disorder, and the entry names no organ, duct or tissue. Clark's commentary describes a count of three names, a small round green leaf and a taproot, but gives no taste, power or part used. Both editions place the drug among the purgatives, which the entry records as a class of action rather than a taste or power. No preparation, quantity or dose is printed. The name is shared among at least four binomials, so a modern correlation for Physalis peruviana would not bear directly on the drug. Purgatives can cause dehydration and loss of salts, and the entry says no herb should be used this way.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Purgatives can cause dehydration and loss of salts, and should not be taken without medical advice; no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Because the species is one of several candidates, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

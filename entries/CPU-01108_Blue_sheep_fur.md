@@ -40,6 +40,10 @@ General, well-established facts only. Animal fur is not an antidote to any poiso
 
 **Practitioner's note.** Nothing here makes blue sheep fur a substance for cultivation. It is one line in a catalogue of animal parts. A cultivator takes nothing from this entry, and anyone who suspects poisoning seeks medical help. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the one action stated is that the fur neutralises poison, as Clark renders it, or cures poisoning, as the Men-Tsee-Khang 2011 renders it. Both translations agree on the action. The text names no body system, organ or tissue for the fur, and it gives no method, form or amount. No taste, potency or post-digestive taste is printed, and the passage does not assign the fur to rlung, mkhris pa or bad kan. The fur sits in the hair passage of the medicines of animal origin, among the thirteen kinds the chapter names. Clark lists three identifications after the Tibetan name, and the action is the same for the name as a whole. Nothing in the text connects the fur to the kidneys, the blood or any other organ.
+
 ### Contraindications
 
 - **Poisoning:** a suspected poisoning needs emergency care; fur is not a treatment.

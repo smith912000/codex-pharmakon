@@ -46,6 +46,10 @@ Firefly light is a well-studied bioluminescent reaction and the enzymes are used
 
 **Practitioner's note.** There is nothing for a cultivator here. The classic records a lower-class remedy with an unexplained *tong shen* clause, and gives no dose or course. Watching fireflies at night in a clean marsh is not a practice the text records either.
 
+### Functional–Anatomical Correlate
+
+The entry names the eyes, the skin of children and a broad heat category. It says the firefly brightens the eyes (ming mu), which maps to the eyes and optic function in modern anatomy, and that it treats fire sores and wounds in children (xiao er huo chuang shang), which maps to skin and soft tissue. Heat qi (re qi), gu poison (gu du) and guizhu, a ghost-affliction term, are named as general heat and poisoning categories with no organ given. The phrase tong shen (connects with the spirit) is recorded only literally, and the text does not explain it, so no organ is mapped to it. The energetic frame is pungent and slightly warm (wei xin, wei wen), with lower-class placement. The light of the firefly is an enzyme reaction, a general fact, and nothing in the classic links it to the eye. The Codex maps the eye claim to no tested effect. Burns and eye injury in children need medical care.
+
 ### Contraindications
 
 - **Toxicity.** The lower class is "mostly toxic" and not for long use. Some fireflies carry defensive toxins. Do not swallow fireflies as a remedy. [USER: verify]

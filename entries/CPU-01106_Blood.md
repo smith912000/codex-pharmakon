@@ -52,6 +52,10 @@ General, well-established facts only. Blood is a route for bloodborne infection,
 
 **Practitioner's note.** Nothing here supports a practice. The chapter is useful as a record of the range of animal remedies a Greek physician reported, with his own hedging language ("is said", "is thought"), and the edition's "CAUTION" heading. A cultivator takes nothing from this entry. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides' blood chapter maps animal blood onto several organs and tissues, in hedged language. Goose, duck, drake or kid blood is useful mixed with antidotes. Pigeon blood stops bleeding from the meninges, the membranes of brain and spinal cord. Wood-dove, turtle, pigeon and partridge blood, rubbed on, is applied to the eyes for new sores, bloodshot eyes and dull sight. Goat, deer or hare blood, fried and eaten, is said to stop dysentery and discharges of the abdominal cavity, and in wine it is an antidote. Dog blood as a drink is said to help the bites of a mad dog and poisoning. Tortoise blood is said to be good for epileptics, and sea-turtle blood against venomous bites. Bull's blood with polenta disperses hardness. Menstrual blood rubbed on is said to ease gout and erysipelas, a skin infection. The Canon adds that rabbit blood treats vitiligo and freckles, owl blood helps asthma and dried goat blood stops flux. The entry gives no temperament for blood in general and no cultivation status.
+
 ### Contraindications
 
 - **Hygiene and infection:** fresh blood from any animal can carry bloodborne pathogens and bacteria; do not drink it raw, apply it to eyes or broken skin, or handle it without precautions.

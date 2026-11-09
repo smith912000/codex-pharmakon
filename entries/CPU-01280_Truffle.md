@@ -42,6 +42,10 @@ General, well-established facts only. True truffles (the genus *Tuber*) are asco
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The truffle is a food in a Greek vegetable list, and the only usable lesson is the one the chapter embodies: know the thing by its form and its season before eating it. The Codex does not recommend gathering fungi from this description. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the Dioscorides chapter, which the entry quotes in full, says the truffle is a round, pale-yellow root without leaves or stalk, dug in spring and eaten raw or boiled as a vegetable. It names no organ, tissue, humour or action. The Unani Canon entry, which the entry cites, names the joints (palsy feared), head (apoplexy), the eye (its water is said to cleanse the eye), the digestive organs (slow to digest, heavy on the stomach) and the excretory organs (colic, difficult urination). The Greek chapter states no temperament, no quality and no medicinal use for the truffle. The Canon's eye-water is the only therapeutic action named, and it sits beside the stated harms. No cultivation role is stated.
+
 ### Contraindications
 
 - **Identification:** the description is two lines long and would fit several fungi; do not collect or eat wild fungi from this entry. Misidentification can be fatally poisonous.

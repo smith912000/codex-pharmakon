@@ -48,6 +48,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 **Practitioner's note.** Nothing to take from it for cultivation. It is a one-sentence cross-reference to furnace tiles, and it is useful only as a record that the herbal admitted a burnt furnace earth to the materia medica. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The chapter maps the burnt earth to the skin, the joints, the lymph glands and the thyroid, through the uses of the tiles it is said to share qualities with. Rubbed on with vinegar, the tiles are said to heal itching and pustules breaking out on the skin, and to be good for gout, a joint disease, so the skin and the joints are sites. Used with wax ointments they dissolve scrofulous tumours, which the entry glosses as glandular swelling, and goitres, a swelling of the neck, so the lymph glands and the thyroid are named. The earth's own chapter says only that it is well burnt from furnaces and has the same qualities as the tiles. The entry does not transfer the vinegar or wax vehicles to the earth. The chapter prints one quality for the tiles, crustforming, which describes a surface effect, and no heat, cold, wet or dry grade. No humour or channel is named.
+
 ### Contraindications
 
 - **Broken skin:** a non-sterile earth applied to broken skin can introduce infection.

@@ -62,6 +62,10 @@ The nephroprotective and antioxidant/anti-inflammatory findings map onto the cla
 
 **Practitioner's note.** Nothing. A wound-astringent and fat-reducing group-drug used for defined complaints; Sushruta gives it no long-term or vitality-building role.
 
+### Functional–Anatomical Correlate
+
+The entry maps Dhava onto the blood (raktavaha), urinary (mūtravaha), muscle and wound (māṃsavaha) and colon (purīṣavaha) channels. Its actions are wound cleansing and healing (vraṇaśodhana, vraṇaropaṇa), haemostasis (raktastambhaka), binding of loose discharge (grāhī, saṅgrāhī), skin care (kuṣṭhaghna) and adjunct anti-diabetic action. It is framed as acting on raw, leaking and bleeding tissue, contracting it rather than stimulating it, with a cooling potency (śīta) and dryness (rūkṣa). In modern terms, the entry cites a rodent study of an ellagic-acid-standardised stem-bark extract that protected the kidney against gentamicin injury, lowering creatinine, urea, TNF-α and IL-6, and a review of wound-healing, hepatoprotective and antioxidant activity. No human trial was retrieved, and the entry reports dose-dependent toxicity by the intraperitoneal route. Tannins may impair iron and drug absorption, so dosing should be separated. Pregnancy, lactation and children have no established safety data.
+
 ### Contraindications
 
 - Strongly drying/astringent — caution in Vāta constitutions, constipation, dryness, and depletion.

@@ -91,6 +91,10 @@ The emmenagogue application for delayed menses is documented in all five traditi
 
 **Practitioner's note.** ⚠️ Nothing here is a cultivation drug. The one recurring "constitutional" reputation — the emmenagogue/abortifacient action attested across the traditions — is inseparable from lethal toxicity: concentrated pennyroyal oil is hepatotoxic and has killed. A cultivator's honest use of this plant is the culinary-dose carminative and the topical repellent, and otherwise abstention; the reproductive reputation is a documented hazard, not a practice, and carries its own contraindication in full force.
 
+### Functional–Anatomical Correlate
+
+The entry maps pennyroyal onto the digestive tract, the uterus, the liver and the skin. Its pulegone-rich oil is a carminative for the Middle Burner: at culinary doses it is described as relaxing digestive smooth muscle, the Qi-warming and cold-dispersing action. In the reproductive tract it is uterotonic, stimulating uterine smooth muscle as an emmenagogue, which the entry places in the Lower Dantian and calls specialist-only. Its metabolite menthofuran is the hepatotoxin, so the liver is the organ at risk from concentrated oil, with fulminant hepatic failure recorded in case reports. Topically, diluted oil is said to repel insects through external Wei Qi defence. Avicenna rates it warm in the third degree and dry, with a respiratory use for coldness of the chest. The entry lists kidney and liver disease and children as cautions, since pulegone metabolism needs liver function.
+
 ### Contraindications
 
 - **Pregnancy — ABSOLUTE CONTRAINDICATION** — pennyroyal is a documented abortifacient and has caused maternal death; never use in pregnancy in any preparation

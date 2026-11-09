@@ -70,6 +70,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places tobacco's action chiefly in the nervous, cardiovascular and respiratory systems. Its pharmacology is nicotine as a nicotinic acetylcholine receptor agonist, a stimulant and an addictive alkaloid. It cites reviews of neurovascular toxicity that describe disrupted blood-brain-barrier permeability, nicotinic and dopaminergic effects, and developmental harm to pulmonary, cardiorespiratory, auditory-processing and cognitive function. Combusted tobacco adds tar, polycyclic hydrocarbons, nitrosamines and carbon monoxide, linked to cardiovascular and pulmonary disease. Skin absorbs nicotine, so topical contact is a route of action. Traditional Chinese reading (post-contact) gives warm, acrid, slightly toxic: moving qi, transforming phlegm, killing parasites, used topically. Galenic reading: hot and dry, narcotic, purging, stupefying. Ayurvedic analogy: pungent-bitter, sharp and hot, disturbing kapha and vata. Badianus records poultices for pain, fatigue and swelling, with no bodily-cultivation framework in the codex. South American master-plant use is ritual, not mapped to an organ.
+
 ### Contraindications
 
 **This plant is toxic and addictive. Blanket cautions apply.**

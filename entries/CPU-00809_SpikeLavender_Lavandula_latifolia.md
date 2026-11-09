@@ -103,6 +103,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps spike lavender onto the lungs, the head and nerves, and the joints. In Qi terms it is a warming, upward-and-outward disperser acting on the Lung, the head orifices and the channels and joints, and in Unani terms a hot, dry nervine, the broom of the brain that sweeps cold phlegmatic humours from the head and nerves. The chest action is expectorant: it is said to open the chest and expel cold phlegm, which the entry ties to 1,8-cineole, a mucolytic and mucociliary-stimulating compound. For cold, stiff joints and nerve pain, the warming embrocation is linked to camphor's counter-irritant, rubefacient and local analgesic action on the skin. A brief sniff is said to lift a heavy, cold torpor, a stimulating role the entry sets against the sedation of true lavender. Antiseptic use on minor skin infection is also listed. The entry is firm that camphor is a convulsant: the warmth that stimulates and the seizure risk come from the same chemistry, so any mapping onto the central nervous system carries a serious caution.
+
 ### Contraindications
 
 - **⚠️⚠️ Camphor toxicity — the governing safety fact:** spike lavender oil is camphor-rich. Camphor is a documented convulsant; ingestion has caused tonic-clonic seizures (case and animal evidence above). **Never take internally. Never use on or near infants and young children** (facial/chest application can cause laryngospasm and seizures). **Contraindicated in pregnancy and breastfeeding.** Contraindicated in anyone with epilepsy or a seizure history.

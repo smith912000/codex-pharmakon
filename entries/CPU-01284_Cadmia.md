@@ -48,6 +48,10 @@ General, well-established facts only. Zinc oxide is a mild astringent and drying
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. Cadmia is a dangerous metallic furnace product that Dioscorides used for eyes and ulcers; the Codex does not recommend taking, burning or applying it. The chapter's lasting lesson is the chewing, paste and fire tests: how to inspect a material before trusting it, and how readily a stone can pass for a drug. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Eyes: Dioscorides says the botryites and onychitis kinds are useful for eye medicines, and Avicenna's Unani entry says the silver kind helps white spots and the beginning of cataract and strengthens the eye, which maps to the cornea, the lens and the eye's clear surfaces. Skin and wounds: the stone is binding, cleans foulness from sores, stops discharges of the pores, dries, draws to a scab, represses abnormal growths of flesh and forms a new skin on malignant ulcers, and is used in medicines for scabies. Unani adds that the silver kind dusted on helps scab and moist or stubborn ulcers. The pores and skin surface, the epidermis and dermis, the wound bed, and the eye are the claimed sites. Unani temperament is drying and cleansing, in the third degree of dryness. Modern anatomy maps it to skin, pores, ulcerated tissue and the eye.
+
 ### Contraindications
 
 - **Toxicity:** furnace deposits of zinc, lead and cadmium are poisonous; do not swallow, burn, inhale the dust or fumes of, or apply this material, and never put it in or near the eye.

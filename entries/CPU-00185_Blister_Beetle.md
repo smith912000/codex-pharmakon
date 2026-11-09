@@ -36,6 +36,10 @@ Cantharidin, the active principle of blister beetles, is a known toxic vesicant.
 
 **Practitioner's note.** Nothing here for a cultivator to take. The entry is a single line about an action on the channels, and the insect is poisonous. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Tibetan entry (Explanatory Tantra ch.20, animal medicines) gives the blister beetle one action, in the language of the channels: it purges all channel disorders. The Men-Tsee-Khang text gives the same wording. The Divine Farmer's Classic entry, read from Sun Xingyan's edition, gives the beetle an acrid, cold nature and places it in the lower grade, whose preface says such drugs treat disease, are toxic and are not for long use. The Classic says the beetle governs cold and heat, ghost infusion and gu poison, fistulous sores, malignant sores, eroding ulcers and dead flesh, and it breaks stone strangury (urinary block). Mapped onto the body, the entry touches the urinary passage, the skin and deep ulcers, and, through the Tibetan line, the channels generally. The Tibetan text gives no taste, potency or post-digestive taste for the beetle, and no tonic or longevity use is attested.
+
 ### Contraindications
 
 Blister beetles are poisonous. Swallowing or handling them can cause blistering of skin and mouth, kidney and urinary-tract damage, and death. They should not be taken by mouth, put on the skin or handled bare-handed. Dried insect preparations are not standardised in strength. Pregnancy and breastfeeding add risk. Sale of such preparations is regulated in many places. The species identification (*Mylabris phalerata* or *M. cichorii*) is the translator's and the list's, and an uncertain one.

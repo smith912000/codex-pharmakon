@@ -59,6 +59,10 @@ Codex policy: identity flagged uncertain; activity described generally; named ci
 
 **Practitioner's note.** What Dioscorides offers here is a discipline of attention: judge the wood by weight, colour, scent and bitterness, and reject the pale, odourless, bristly kind. Nothing beyond that.
 
+### Functional–Anatomical Correlate
+
+The entry maps Alhagi maurorum chiefly to the bowel, urinary tract, liver and the febrile state, while flagging the identity of the classical aspalathos as unresolved. Its manna (tarangabin) is described as an osmotic, gentle laxative and demulcent, used for children and fevers, and the entry names melezitose and invert sugars as its constituents. Unani and Persian sources treat the aerial parts as cooling, diuretic and astringent, for hot dystemperaments, urinary complaints, and as a liver-soother and febrifuge. The classical wood is named as heating and astringent, given as a wine gargle for an ulcerated mouth, a decoction for discharge, vomiting of blood and painful urination. Flavonoid and alkaloid constituents are listed as unverified, and no citation is supplied. Cautions name pregnancy, loose stools, diabetes and diuretic or renal compromise. The entry assigns no cultivation status.
+
 ### Contraindications
 
 - **Identity uncertainty.** Because the classical *aspalathos* is unresolved, practical use should rest on the well-characterised *Alhagi maurorum*, not on an assumed equivalence.

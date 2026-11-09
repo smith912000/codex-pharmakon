@@ -49,6 +49,10 @@ General, well-established facts only. Nothing can be said of an unidentified mat
 
 **Practitioner's note.** A flower in two antivenom pastes and a name in a pungent group. A cultivator has nothing to use from it until it is identified, and nothing in the record supports use outside the compounds named.
 
+### Functional–Anatomical Correlate
+
+Surasi is named in the Surasadi group and, as flowers, in two Kalpasthana antivenom compounds, and the entry maps no organ to it alone. As a group member, the group is said to act as a vermifuge and aseptic agent, subdue deranged Kapham, and help in catarrh, non-relish for food, asthma and cough. The flowers are one ingredient among many in the Rishabhagada of chapter 5, pasted with honey and the bile of several animals, and in a long compound of chapter 7 pasted with honey, clarified butter and cow's bile. The text attributes the antivenom claims to the compounds as a whole, not to Surasi. The Sushruta terms are not translated into modern diagnoses, and no organ or tissue is named for the flowers. No rasa, virya or vipaka is printed for Surasi alone; its pungent-group placement comes only through the group. Snake-bite is a medical emergency, so no use from the compounds is mapped here.
+
 ### Contraindications
 
 - **Identity.** The material is not identified. Nothing may be gathered, bought or used on the strength of this entry. [USER: verify]

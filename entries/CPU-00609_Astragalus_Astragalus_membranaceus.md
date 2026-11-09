@@ -69,6 +69,10 @@ Mechanistic support for APS's immunomodulatory and anti-inflammatory action come
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, Huang Qi acts first on the spleen and lung, which TCM treats as the organs of qi production and the body's exterior, raising yang qi, securing the exterior and consolidating wei qi (defensive qi) against sweating and external attack. It is said to promote urination and reduce oedema (urinary system and fluid balance), and to support healing of chronic sores and the discharge of pus (skin and wound tissue). Tibetan rGyud-bzhi uses it for strengthening, oedema and wound support. Preclinically, astragaloside IV is described as cardioprotective, anti-inflammatory and antioxidant, supporting the heart. Astragalus polysaccharides modulate innate and adaptive immune cells and the gut microbiota, and one large-animal study linked them to butyrate-producing gut bacteria and lower IL-6. Immunostimulation is a concern in autoimmune disease, and the entry advises caution with immunosuppressants.
+
 ### Contraindications
 
 - **Autoimmune disease and immunosuppressant therapy:** Astragalus is immunostimulating/immunomodulatory; use with caution (and professional advice) in autoimmune conditions or when taking immunosuppressants (e.g. after transplant), where enhanced immune activity may be undesirable.

@@ -156,6 +156,10 @@ Carob pod is food. It has calories and sugar. **That is a nutritional fact, not 
 
 **Practitioner's note.** Nothing for cultivation. The only practice the sources support is attention to preparation: fresh and dried pod are different drugs in Dioscorides.
 
+### Functional–Anatomical Correlate
+
+Carob's mapping is mostly gastrointestinal. Dioscorides and Avicenna place the pod in the stomach and bowel: the dried pod binds the belly and checks looseness, while the fresh pod loosens it. The entry's modern account divides the action by organ. Pulp tannins bind the oral and gut mucosa, and seed galactomannan thickens the stomach contents, which in infants reduces regurgitation without changing gastric emptying. Carob bean juice is described as an adjunct in childhood diarrhoea, shortening it and reducing stool output. Lipids are described as lowered by dietary fibre, a modest effect. Avicenna also gives a mouth rinse for toothache and a pessary for excessive menstrual flow. The entry insists none of this is systemic, because the gum is not absorbed and the pulp polyphenols are largely fibre-bound.
+
 ### Contraindications
 
 **General:** a food-grade drug with a narrow but sharp set of real cautions. None of these are theoretical.

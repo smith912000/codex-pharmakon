@@ -77,6 +77,10 @@ Acrid (warm on the tongue by counter-irritation), drying, dispersing yet astring
 
 ---
 
+### Functional–Anatomical Correlate
+
+Water Pepper acts mainly on sensory nerve endings of the skin and mucosa and on local tissue surfaces. Its traditions describe an acrid, warm, dispersing herb: the Greco-Roman hot and dry rubefacient raises heat on the skin, disperses cold swellings and clears indolent sores; Chinese Shui Liao, acrid and warm, disperses stagnant blood and damp while stopping bleeding and flux, with folk use for uterine bleeding and as an emmenagogue. Modern anatomy maps the pungency to TRPA1 and TRPV1 channels on sensory nerves, which register heat and irritation, through the entry's principal compound polygodial. The astringent haemostatic action is attributed to tannins and flavonoids precipitating surface proteins on bleeding tissue. The entry also notes antifeedant and antimicrobial activity. Cautions cover pregnancy, mucosal irritation of skin, eyes, gut and broken mucosa, and GI-sensitive people. The entry lists no Unani account and assigns no vital-body action.
+
 ### Contraindications
 
 - ⚠️ **Pregnancy — emmenagogue/abortifacient repute.** Avoid internal use in pregnancy; traditionally used to promote menstruation.

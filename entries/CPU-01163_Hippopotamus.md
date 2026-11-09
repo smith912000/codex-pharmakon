@@ -50,6 +50,10 @@ Egyptian / Ebers (EP): the Ebers material is organised by complaint and records 
 
 **Practitioner's note.** Nothing here supports a cultivator's use. The sources give a greasy base for dressings and hair preparations, in a protected species, with no cultivation claim. The honest practice is abstention, and an interest in the entry as a record of how the Ebers scribes used the fats of large animals.
 
+### Functional–Anatomical Correlate
+
+The entry's sources act on the skin, scalp and hair. The fat and hide are used as a base for poultices and unguents on the head for a stubborn headache, and oil is used in a lotion for the same headache. Oil is used on the third day of a four-day course for eczema of the head, and with honey in a salve for a woodlike uha-disease, and oil is in a liniment for suppleness of the limbs, which maps to the joints and muscles. Fat is rubbed on the head of the bald and on superfluous hair, and one fat is said to dry a wound as a poultice. In the Ebers material these are complaints of the head, skin and hair, organised by complaint. The material does not describe the substance's qualities (hot, cold, wet or dry) or any action on the ka, ba or akh. Copper and lead-vitriol are combined in one lotion. The entry gives no dose and no clinical findings.
+
 ### Contraindications
 
 - **Not a recommended practice.** This entry records a historical use of a wild animal's products. Nothing here is advice to use them.

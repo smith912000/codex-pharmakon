@@ -51,6 +51,10 @@ Calcium carbonate neutralises stomach acid and is the main component of limeston
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The monograph is a short list of complaints for a cave stone whose identity and place in the stalactite are disputed between layers of the text. If one is drawn to the entry, the useful lesson is that the Chinese materia medica sorted a single formation into nipple, body and root and gave each its own monograph. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Shennong classic's actions for the middle part of a stalactite map to several body systems. The stomach and digestion: it treats food that is not transformed, which maps to the stomach and the digestive tract. Bound evil qi maps to a stagnation of qi in an unnamed region. The breast and lactation: the classic says it brings down milk, so it acts on the mammary glands and the milk supply. The skin and soft tissue: it treats malign sores and flat abscesses, which map to the skin and the tissue under an abscess. The anus and lower bowel: it treats haemorrhoids and fistulas. The classic says it frees the nine orifices, which the entry does not list. Its nature is acrid and warm; the Wu Pu layer adds salty and sour as alternative flavours and a blue-yellow colour. No organ or channel is printed beyond these sites.
+
 ### Contraindications
 
 - **Identity.** The stone cannot be reliably identified from the text; do not take an unidentified cave stone as medicine.

@@ -63,6 +63,10 @@ In applied Kenetica it belongs to a decongesting/reset block: a low-intensity cl
 
 **Practitioner's note.** Nothing in the attested traditions presents polypody as a long-term vital or life-nourishing substance. A cultivator's use is limited to a mild, short, traditional laxative course, if at all, with the identification care noted under Contraindications. The "oak fern" and rootedness imagery in the Doctrinal layer above comes from older European herbal lore rather than from the Avicennan or Dioscoridean sources cited, and carries no cultivation claim.
 
+### Functional–Anatomical Correlate
+
+Per the entry, common polypody acts mainly on the bowel, with secondary actions on the chest and joints. The rhizome is a mild purgative and laxative (mulayyin) in the Avicennan frame, classed hot and dry in the second degree, and a deobstruent (mufattih) said to evacuate melancholic and phlegmatic humours. Dioscorides records it as a gentle purge for the belly, for phlegm and for bile, and applied externally for dislocations. Unani use also cites an expectorant reputation for clearing chest phlegm, and joint complaints appear among its indications. The Dioscoridean and Avicennan sources give no subtle-body or TCM organ mapping, and the entry says the melancholic humour is a humoral category, not a modern antidepressant claim. Modern correlates are preclinical antioxidant and antimicrobial activity from a fern review, with clinical proof described as scarce. The gut limits are firm: avoid it in bowel obstruction, unexplained abdominal pain and inflammatory bowel disease, and avoid habitual use, which risks fluid and electrolyte disturbance.
+
 ### Contraindications
 
 - **Laxative cautions** — as a purgative it should be avoided in bowel obstruction, acute abdominal pain of unknown cause, and inflammatory bowel disease; avoid prolonged/habitual use.

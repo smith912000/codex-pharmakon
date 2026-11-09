@@ -48,6 +48,10 @@ General statement only: a drug that cannot be tied to a species cannot be linked
 
 **Practitioner's note.** Two fruit-names in a group for *Vayu*, thirst and urinary defects. Nothing in the record supports a cultivation use. A cultivator does nothing with this entry, and the row needs splitting or merging before it is used.
 
+### Functional–Anatomical Correlate
+
+Two fruit-names run together in one row, so the entry covers Kataka-phala and Shaka-phala. Kataka-phala is most probably the clearing-nut, Strychnos potatorum, by conventional identification; Shaka-phala is unresolved. The Parushakadi group's metrical text, under which they sit, says the group subdues the deranged Vayu, allays thirst, acts as a cordial, increases relish for food, and cures diseased or abnormal components of the urine or its defects. In body terms that names the appetite, thirst and the urinary system. A separate Sutra 46 passage lists a Kataka Phalam among aromatic fruits that are bitter and pungent, subdue thirst and Kapham, are light of digestion, and cleanse the mouth, but the text does not say it is the same drug. The plant is not identified in the sources read, and the entry is a historical record only.
+
 ### Contraindications
 
 - **Identity.** The plant is not identified in the sources read. Do not use any plant sold under this name on the strength of this entry. [USER: verify]

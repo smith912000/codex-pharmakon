@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 **Practitioner's note.** Nothing to take from it for cultivation beyond the author's insistence on checking what you are sold. The material is a toxic copper compound, and the chapter's own translator warns of blood poisoning. It is not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Greek (DMM) terms are used as the entry gives them: the rusts are astringent and warming, and the made kind is more biting and astringent. Its claimed sites are the eyes, where it wears off and relieves scars, draws tears, and reduces swollen eyelids after rubbing with honey. The skin and soft tissues come next. It stops gangrenous ulcers, keeps wounds from inflammation, forms a skin over ulcers with oil and wax, and purges pus under a hard skin (callos) and foul ulcers with honey. Taken with ammoniacum, it removes fistulas and their callos. It is good for abnormal growths and for protuberances of the gums. It is also named against leprosy when taken with terebinth resin, brass or saltpetre, a systemic claim. The chapter names no internal organ beyond the gums.
+
 ### Contraindications
 
 - **TOXIC.** Copper corrosion products are poisonous if swallowed and corrosive to the eye and to open wounds. Do not make, swallow or apply them.

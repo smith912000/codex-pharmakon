@@ -83,6 +83,10 @@ Verifiable, species-specific pharmacological literature on *Arenaria kansuensis*
 
 **Practitioner's note.** Nothing. No Tibetan use of this species is attested in the texts checked, and there is no cultivation use.
 
+### Functional–Anatomical Correlate
+
+The entry maps Kansu sandwort's action to the Liver and Lung channels, but says this TCM channel assignment is an integrative mapping for cross-tradition indexing, not a claim from the Tibetan source. In the Tibetan frame (gso ba rig pa) the herb cools fever and poison-heat and balances the tripa (bile/heat) humour. The entry's modern reading of those heat conditions is that they span inflammatory and infectious heat affecting the respiratory tract and the hepatic system. The heat presentations named are an inflamed, hot, irritated respiratory tract, internal heat and congestion, and hepatic-heat signs such as irritability, red eyes and pressure under the ribs. In Five Phase terms it is a Wood and Metal cooling counterweight to the warming Earth herbs. The entry states no constituent, percentage or efficacy figure, because species-specific data are sparse, and it cites no verifiable modern study. Its contraindications cover cold or Yang-deficient patterns (pallor, cold limbs, watery digestion), weak Spleen and Stomach with loose stools, and pregnancy, where safety data are insufficient.
+
 ### Contraindications
 
 - **Cold patterns:** Contraindicated in cold or Yang-deficient presentations — pallor, cold limbs, watery digestion, aversion to cold; a cooling, heat-draining herb worsens these.

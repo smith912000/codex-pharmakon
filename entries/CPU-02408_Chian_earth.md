@@ -48,6 +48,10 @@ General, well-established facts only. White earths of the Aegean region include 
 
 **Practitioner's note.** Nothing for a cultivator to take. The chapter is useful only as a note on how a Greek physician told one white earth from another by sight and by comparison, and the earth itself has no place in practice.
 
+### Functional–Anatomical Correlate
+
+The entry maps Chian earth to the skin, on the face and over the whole body, and to the bath. Dioscorides says that it makes the face and the whole body without wrinkles and clear, which places its claimed action on the complexion and the surface of the skin. In a bath it scours in place of saltpetre, so the skin surface is again the site, with the bath as the means of contact. The chapter prints no internal use for the earth, no organ, no humour and no hot, cold, wet or dry grade. Its one stated comparison is with Samian earth, whose uses in chapter 5-172 are not carried over, since the text does not say they apply to Chian earth. Two plant chapters name the earth as an additive, but those are statements about the plants and not about the earth. Its composition is not stated, so no constituent is mapped to any site.
+
 ### Contraindications
 
 - **Do not eat it, bathe in it or apply it to the skin.** Its composition is unknown, and the chapter's cosmetic claim cannot be made safe on that basis.

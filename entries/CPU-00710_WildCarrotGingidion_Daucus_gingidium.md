@@ -67,6 +67,10 @@ Direct clinical data on *Daucus gingidium* is essentially absent — this is an 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps Gingidion mainly to the digestive tract and the urinary system. As a carminative it is said to settle bloating and flatulence, warm a sluggish stomach and dispel wind from the belly. As a diuretic it promotes urine flow, the urinary-tract action common to the genus. Avicenna's Unani frame, Hot and Dry in the second degree, adds deobstruent action on the liver and kidney, and the seed is described as provoking menses (the uterus). TCM describes a warm, acrid-sweet aromatic that regulates qi and transforms damp, promoting urination. Ayurveda, by analogy to Daucus seed, reads it as digestion-kindling (dipana-pachana) and mutrala (diuretic). The aromatic volatile oil and furanocoumarins are the entry's named constituents, and the entry says no modern clinical data exist for this species, so the mappings are traditional and not clinically confirmed.
+
 ### Contraindications
 
 - **Pregnancy:** avoid medicinal doses — wild-carrot seeds have a traditional emmenagogue/reproductive reputation and are not appropriate in pregnancy. [USER: verify]

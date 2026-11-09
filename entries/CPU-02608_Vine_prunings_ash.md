@@ -47,6 +47,10 @@ General, well-established facts only. Alkaline wood-ash solutions are caustic to
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. It is a caustic ash for external rubs and for a lye, recorded in a book of materials. The Codex does not recommend any of the uses. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Per Dioscorides 5-135, the ash of pruned vine twigs, which he calls caustic, acts on the outside of the body. Smeared on with goose grease or oil it is said to be good for bruised sinews, dislocated joints and knotted nerves. With saltpetre and vinegar it is said to repress fleshy growths in the scrotum, and smeared on with vinegar it is said to heal the bites of snakes or dogs. It is a component of scab-forming (escharotic) medicines. Lye made from the ash is said to be good for precipitations, meaning antidotes to mercury poisoning, and for the effects of mushrooms, used with vinegar, salt and honey. The entry's terms therefore map to the musculoskeletal system (sinews and joints), peripheral nerves, the scrotal skin and tissues, and the skin where bites and scabs occur. The chapter names no internal organ and gives no energetic quality beyond caustic. No dose is given, the Codex does not recommend these uses, and the poisoning uses are historical statements only.
+
 ### Contraindications
 
 - **Caustic.** The ash and its lye burn skin, eyes and the gut. Do not apply to broken skin or ingest.

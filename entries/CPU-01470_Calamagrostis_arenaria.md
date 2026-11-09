@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The modern-tax
 
 **Practitioner's note.** Nothing here gives a cultivator a practice. The plant is not securely identified and Dioscorides gives no use for people. The abstentive answer is the correct one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter's only statement is that the reed grass, eaten, is a killer of labouring beasts, especially the kind that grows in Babylon by the wayside. The body systems it refers to are those of animals that eat the plant, and the chapter does not say what organ is affected or how. It makes no claim about human use, and it gives no preparation, dose, quality or humoral, doshic or qi term. The only description is the comparison in size: it is bigger in every respect than gramen. Dioscorides' statement is recorded as historical record and not as established toxicity. The grass named Calamagrostis arenaria is the translators' suggestion, offered alongside Phragmites australis, and the chapter has no description that could choose between them.
+
 ### Contraindications
 
 The chapter's only statement is that the plant, "eaten, ... is a killer of labouring beasts". This is a statement about animals, and it is reported here as the historical record and not as established toxicity. No human use is recorded, and none is suggested.

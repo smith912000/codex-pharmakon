@@ -53,6 +53,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with this herb beyond its place in recipes for illnesses, and the Latin name behind Arjaka is a translator's appendix pairing. Nothing should be gathered or taken on the strength of it.
 
+### Functional–Anatomical Correlate
+
+The Sushruta text places Arjaka in the Surasadi group, which it says subdues deranged Kapha and helps catarrh, poor appetite, asthma and cough, so the chest and airways are among its named sites. The leaves serve as an errhine, a medicine applied inside the nose and head. Its digestive effect is recorded only as a shared quality: with Surasa and Bhustrina it is light of digestion and Kapha-destroying. Its named uses reach the skin, where its juice is used in washing the body of a patient with Apatanaka, a Vata condition, and the fever chapter applies its leaves as a plaster against shivering from aggravated Kapha or Vayu. The Gulma chapter pairs it with a soup for Kaphaja Shula, abdominal pain, and the eye chapter uses its ash in a salve for Abhishyanda, a Kapha eye discharge. The text gives the herb no site singly.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for this herb. The identity is open, so no plant should be gathered or used on the strength of this entry. An errhine is applied inside the nose, and an eye-salve inside the eye; neither is a home measure. Fever, eye disease and abdominal colic need medical care. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

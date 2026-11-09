@@ -55,6 +55,10 @@ General, well-established facts only. Beans are an ancient staple food of the Ne
 
 **Practitioner's note.** A common food seed used as a filler in poultices and liniments. There is nothing here for a cultivator to take or do, and no cultivation use is attested. If anything, the entry is a reminder that most of the Ebers pharmacy is ordinary kitchen material combined by indication.
 
+### Functional–Anatomical Correlate
+
+Beans are mapped to the skin, the limbs, the urinary system and a body part called the met, and they act as ingredients in outward preparations rather than taken internally. In the thigh remedy for skin diseases, dried beans are crushed into a poultice with onions, natron, sea-salt and sour milk (Ebers, lines 2609-2611). Liniments and salves for suppleness of the limbs combine beans with natron, honey, incense, myrrh, oils or ass's dung (lines 2180-2188). For the urine, roasted beans are put in oil and used to anoint the phallus (line 2425). Bryan does not define the met. No Egyptian humoral or energetic class is given, and the entry places the beans in no plural person. The seed is not named as a species, so favism is noted only as a possible modern risk if it is broad bean.
+
 ### Contraindications
 
 - **Favism.** If the seed is the broad bean, people with a certain inherited enzyme deficiency can become seriously ill after eating it. Identity is open, so treat as a possible risk. [USER: verify]

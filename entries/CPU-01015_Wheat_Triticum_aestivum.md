@@ -103,6 +103,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Wheat's entry maps its actions chiefly onto the gut and the digestive system. Whole-grain bran, arabinoxylan, is described as bowel-regulating and as the opening, drying principle of the classical physicians. The germ, with vitamin E, B vitamins and spermidine, is linked to shifts in gut microbiota, with more Bacteroides and Bifidobacterium in one controlled trial. Gluten, the prolamin, is the antigen of celiac disease and of wheat allergy, so the entry names the small-intestinal mucosa and the immune system as sites of harm. In Ayurveda the grain is brimhana and balya, nourishing and strengthening the tissues and building ojas, with a heavy, kapha-increasing quality. In Chinese medicine it nourishes the Heart and calms the spirit, and floating wheat arrests night sweats. Dioscorides and Avicenna use flour poultices on swellings and wheat starch as a demulcent for eyes, chest and bowel fluxes.
+
 ### Contraindications
 
 - **Celiac disease** — absolute contraindication; gluten (gliadin) triggers the celiac autoimmune enteropathy

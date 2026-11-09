@@ -71,6 +71,10 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 
 **Practitioner's note.** Orris is a craft material before it is a medicine: what a cultivator "does" with it is chiefly the discipline of *making* it — the long ageing that turns an odourless rhizome into the perfumer's violet fixative — plus its bounded medicinal use as a warming expectorant. No tradition here grades it as something taken to nourish life, and its allergen status and the sharper toxicity of the acrid blue/yellow-flag look-alikes are the practical warnings that keep it in the aromatic-and-therapeutic register, not a constitutional one.
 
+### Functional–Anatomical Correlate
+
+The entry maps orris mainly onto the chest and airways. Its Galenic and Unani placement is Hot and Dry, and its traditional action is to expel phlegm (mukhrij-e-balgham), so the intended target is the bronchial tree and the thick phlegm that obstructs it in cough and congestion. The rhizome is also described as a deobstruent and aromatic, a mild diuretic and aperient (recorded traditionally and flagged for verification), and, applied externally, a resolvent for swellings of the skin and the tissues beneath. Its tooth-powder, sachet and hair-scenting uses are cosmetic rather than physiological. In TCM terms it is Qi on the warming, drying, phlegm-resolving axis, with no Shen or Jing action and no organ named beyond the chest. The entry records no vital-constitutional role in the Egyptian, Assyrian, Dioscoridean or Sushrutan material, and treats the perfumery fixative role as non-medical. Its cautions fall on the airways and skin, through allergy to orris, and on the fresh rhizome, which is irritant.
+
 ### Contraindications
 
 - **Allergy / sensitisation.** Orris is a recognised contact and respiratory allergen; avoid in known iris/orris sensitivity; caution in cosmetic use.

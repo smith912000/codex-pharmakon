@@ -63,6 +63,10 @@ According to PubMed, the pharmacology of *Peganum harmala* is well characterised
 
 **Evidence grade: MODERATE mechanistic / HIGH hazard.** The MAOI mechanism and high alkaloid load are firmly established; toxicity and neurotoxicity are well documented. The take-home is not efficacy but danger: a genuine, potent pharmacology that translates directly into serious risk. Science attributed to PubMed.
 
+### Functional–Anatomical Correlate
+
+In Galenic-Unani terms Syrian rue is hot and dry in the third degree, a sharp, strongly opening drug historically used as an emmenagogue, anthelmintic, and for joint and nerve pains. The entry's pharmacology maps most heavily onto the nervous system: harmine and harmaline are reversible MAO-A inhibitors that disinhibit monoamines, and overdose produces tremor, ataxia, seizures and hallucinations, with derivatives of harmine showing marked acute neurotoxicity in animal studies. The cardiovascular system is named through hypertensive crisis with tyramine-containing foods and through bradycardia and cardiovascular effects on overdose. The uterus is the other organ singled out, because vasicine and vasicinone are uterotonic and abortifacient, and pregnancy is absolutely contraindicated. The liver and kidneys are noted as involved in human poisoning. The entry gives no ingestion dose, protocol or preparation for internal use; the seed-burning incense is the only traditional practice it describes.
+
 ### Contraindications
 
 ⚠️ **Extensive — this is a hazardous plant.**

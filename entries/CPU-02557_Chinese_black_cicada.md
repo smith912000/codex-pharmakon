@@ -42,6 +42,10 @@ The identification is ours and weak: the text gives the insect's call and season
 
 **Practitioner's note.** There is no cultivation practice here. The entry is a short middle-class record of a cicada for children's night crying and fright, with a long commentary about how to write its name, and no dose.
 
+### Functional–Anatomical Correlate
+
+Little to map: the Shennong text states that the insect is salty and cold (wei xian, han), and that it governs fright-epilepsy (jing xian) and night crying (ye ti) in children, along with one further illness whose character is lost in the transcription, and cold and heat (han re). The paragraph names no organ, tissue or channel. The Mingyi layer gives only the harvest in the fifth month, followed by steaming and drying. The text ties fright-epilepsy and night crying to no organ, and it supplies no modern anatomy. Most of Sun Xingyan's note concerns how the name is written and which cicada it means, and says nothing about the body. A child with seizures, or with persistent crying, needs prompt medical assessment.
+
 ### Contraindications
 
 The classic does not warn. No safety information for children, allergy or other medicines was read, and none is asserted. Insect material may carry contaminants. Seizures and persistent crying in a child need prompt medical assessment. No conservation information was read. [USER: verify]

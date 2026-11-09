@@ -41,6 +41,10 @@ No claim is made about visceral effects. No clinical studies were retrieved for 
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. As a food plant it asks for good identification before any use, which is Dioscorides' own discipline of attention.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter names the stomach and intestines, and the bladder, kidneys and liver. Eaten raw or boiled, the wild vegetable is good for the intestines and the stomach. A decoction taken as a drink is good for the bladder, kidneys and liver. The one quality given is somewhat sharp and bitter, and no warming, cooling, humoral, doshic or qi term is printed. The chapter gives no description of the plant itself, only taste, use and two Roman names. Its place among the vegetables and its neighbour 2-167 Gingidium are context only. The cross-reference to 4-116 Murris, with its sweet-smelling root and harvest-spider use, is the translators' and is not attributed to this entry. The text gives no dose, and the entry gives no safety statement from the text itself, so none is added here.
+
 ### Contraindications
 
 Wild carrot-family plants are easily confused with poison hemlock and other deadly relatives, and handling the sap of wild umbellifers can irritate the skin. Do not forage from this entry. None of the traditional uses above is advice. [USER: verify]

@@ -46,6 +46,10 @@ Tibetan / rGyud-bzhi (FMT): the chapter 20 line gives actions only (removes, is 
 
 **Practitioner's note.** A cultivator does nothing with this. The line offers no cultivation claim, no dose and no method, and the translator says animal products of this kind are little used now. The honest use is as a record.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that horse hoof removes tumours and is beneficial against nagas (serpent spirits, bracketed in Clark). The tumours are swellings and growths of unspecified kind, and the entry does not place them in an organ. Keratin is the hoof's material, but the entry does not say whether the hoof was used raw, burnt or ground. Its line shares its group and naga clause with the horse ankle bone. The Men-Tsee-Khang rendering agrees on tumours and omits the naga clause. Clark's donkey hoof line gives a colour, an age and a side, but the horse hoof line specifies none. No taste, potency, humour, preparation or dose is printed.
+
 ### Contraindications
 
 - **Not a recommended practice.** This records a Tibetan materia medica entry. Nothing here is advice to use horse hoof.

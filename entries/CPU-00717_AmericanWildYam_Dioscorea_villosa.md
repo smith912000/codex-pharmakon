@@ -73,6 +73,10 @@ Based on articles retrieved from PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps American wild yam to smooth muscle: the gut (colic, biliary and intestinal griping), the uterus (dysmenorrhoea cramp) and, as an anti-inflammatory adjunct, the joints (the rheumatism aches). Its Eclectic and North American tradition describes it as an antispasmodic relaxant, which the entry places in the Softening and Release phase. Its steroidal saponins, dioscin and diosgenin, are plausibly behind the antispasmodic and anti-inflammatory activity. The entry is explicit that the body does not convert diosgenin into progesterone or DHEA: that conversion is an industrial laboratory process, and a placebo-controlled trial of topical wild-yam cream found no change in progesterone, estradiol or FSH, so any hormonal or endocrine mapping is refuted. Energetically it is Cool and Dry, acrid-bitter and relaxant. High doses may irritate the gut, and it is contraindicated in pregnancy and lactation.
+
 ### Contraindications
 
 - **Do not use for hormone replacement or as a "natural progesterone."** The claim is false; relying on wild yam for progesterone support risks leaving a genuine deficiency untreated.

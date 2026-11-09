@@ -43,6 +43,10 @@ General facts only. Donkey milk is consumed in some regions and sold as a specia
 
 **Practitioner's note.** The entry records that a donkey's milk was one of the milks in the papyrus's list of vehicles. There is no cultivation use to report, and the identification is a modern gloss on Bryan's English.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that ass's milk appears in Bryan's list of forms of milk, given in the chapter on vehicles, and that milk in general is described there as a vehicle for other drugs (Ebers, Bryan's translation, line 1131). The Ebers prescriptions read in the entry use the ass's fat, dung and ear for other complaints, but not the milk as a substance acting on a body part. No organ, tissue, system or energetic quality is printed for the milk. The Egyptian frame of ka, ba, akh and ib is named only to say that the milk's effect on these cannot be read from Bryan, since spell and drug form one heka intervention. The entry therefore records no function for the milk in the body, and no anatomical correlate is supported by the text on disk.
+
 ### Contraindications
 
 - **Hygiene.** Raw milk of any animal can carry infection.

@@ -53,6 +53,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with this tree: it is an emetic on a list, a leaf paste for fever, and a word the translator mostly reads as neem. Nothing should be gathered or taken on the strength of a Latin name that the chapters do not give.
 
+### Functional–Anatomical Correlate
+
+The Sushruta text places Arishta on its list of emetic drugs (Sutra 39), so the drug acts on the upper digestive tract by vomiting, and no further action is given for it. As Phenila, the soap-berry, it is in a cold leaf paste for fever with burning of the body (Uttara 39), which maps to the febrile body as a whole. Arishta is also an ingredient of a ghrita for abscesses and tumours (Chikitsa 16), of ghritas and an oil for fever (Uttara 39), of the Eladi-mantha for phthisis (Uttara 41), and of a decoction used as a vehicle for a powder in disorders of Kapham (Sutra 44), which maps to the lungs and the phlegm-related state. The potherb list (Sutra 46) calls potherb leaves curative in haemoptysis, Kushtha, Meha, fever, dyspnoea and cough, a group claim. The translator glosses most Arishta passages as Nimba (neem), and the entry does not carry those claims over to this tree. The identity is open and no virya or vipaka is printed.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for this plant under either name. The identity is open, and saponin-rich fruits are irritant, so no plant should be gathered or used on the strength of this entry; an emetic drug in particular is a poor candidate for use without supervision. Fever with burning of the body needs medical assessment and not a leaf paste. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

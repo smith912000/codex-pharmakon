@@ -145,6 +145,10 @@ Unlike the humoral classifications elsewhere in this volume, this one is **not**
 
 **Practitioner's note.** Nothing. The plant's recorded use is a convalescent chest tea in European folk practice; neither tradition read here gives it a cultivation role.
 
+### Functional–Anatomical Correlate
+
+The entry maps downy hemp-nettle onto the lung and, secondarily, connective tissue, hair and nails. In its traditional reading it is cool-neutral and dry, mildly astringent, a pulmonary strengthener and expectorant given for chronic cough, bronchitis, hoarseness and pulmonary consumption, on the doctrine that silicic acid builds up weakened lung tissue. The entry says that doctrine fails at each step: plant silica is largely insoluble phytolith, only a fraction of orthosilicic acid is absorbed, it is excreted renally rather than targeted to the lung, and tuberculosis is an infection, not a silicon deficiency. Inhaled crystalline silica, which causes silicosis, runs the opposite way. The genus's iridoids and alkaloids were recorded in other species and are not attributed here. The only human signal for the genus is a rhabdomyolysis outbreak from quail that had eaten G. ladanum seeds. No cultivation status is recorded in the Dioscoridean or Unani sources.
+
 ### Contraindications
 
 - **Do not use for tuberculosis, suspected tuberculosis, or any serious respiratory illness.** This is the entry's principal warning and it is a warning about *omission*, not toxicity. TB is communicable, curable, and fatal untreated. Persistent cough, haemoptysis, night sweats, weight loss, or fever require **urgent medical assessment**. The historical indication of this plant is the single most dangerous thing about it.

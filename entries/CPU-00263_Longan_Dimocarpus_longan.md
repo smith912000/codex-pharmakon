@@ -109,6 +109,10 @@ Codex policy: the chemistry (sugars, polysaccharides, phenolics) is securely sta
 
 **Practitioner's note.** Nothing here can be stated about a classical cultivation status for longan. Treat it as a food-like fruit drug whose grade remains to be verified in the classic itself.
 
+### Functional–Anatomical Correlate
+
+The entry places longan in the Heart and Spleen channels, with the classical aim of nourishing Blood and settling the Shen. Its logic is that the Spleen makes Blood from food and the Heart stores it, so Heart-Spleen deficiency produces palpitations, insomnia, disturbed dreaming, forgetfulness and poor appetite. The physiological correlates given are mostly nutritional and biochemical: readily available sugars for energy, water-soluble polysaccharides described as immunomodulatory and antioxidant in macrophage work, and polyphenols concentrated in the seed and pericarp rather than the aril. Adenosine is named as a possible sleep-supportive contributor, although the entry marks it as unverified. Potassium, modest iron and vitamin C are noted. The Kenetica uses cover sleep, convalescent replenishment and cognition. The entry lists Damp-Heat, Phlegm-Heat, fullness, blood-sugar concerns and dental caries as limits, and says the classical pregnancy caution still needs verification.
+
 ### Contraindications
 
 - **Damp-Heat and Phlegm-Heat patterns (TCM):** The sweet, warm, moist quality of longan readily aggravates internal Damp-Heat and Phlegm-Heat. Contraindicated where there is Heat with thick yellow phlegm, oral ulceration, a greasy yellow tongue coating, or constipation from Heat. "Tonifies the deficient, burdens the congested."

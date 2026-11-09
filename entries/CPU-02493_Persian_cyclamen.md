@@ -42,6 +42,10 @@ No clinical studies were retrieved for this entry. [USER: verify] General fact: 
 
 **Practitioner's note.** Not a cultivation substance and not a drug to experiment with. The text describes violent purging, intoxication and miscarriage, which is the warning.
 
+### Functional–Anatomical Correlate
+
+The entry maps cyclamen across much of the body. It describes the root as cleansing, cutting, opening and dissolving, very sweat-inducing when drunk, and intoxicating. For jaundice it prescribes forced sweating, the patient lying covered under many cloths. For the skin it names the blotch (kalaf) and cracks from cold. For swellings it names pustules, hardness, spleen swelling and scrofula. For wounds, the root with vinegar and honey. For the joints, a poultice helps twisted sinew and gout. For the head, its water is snuffed and the decoction poured on the head quiets cold headache. For the eye, its water with honey is said to suit water in the eye and weak sight. For the chest, some give the root to asthmatics. For the excretory organs it purges phlegm and watery chyme, promotes the menses, loosens the bowels, and is claimed to cause miscarriage. It is also given with wine against deadly drugs and poisons.
+
 ### Contraindications
 
 Toxic. Cyclamen tuber is poisonous and the text itself records purging, intoxication and killing the fetus; pregnancy is an absolute exclusion. The jaundice treatment by forced sweating and the purgative doses are historical, not advice. Do not use. The antidote claim for poisons is the Canon's, unverified. [USER: verify]

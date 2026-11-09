@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is an emetic in the Tibetan texts, with no preparation and no dose, and the two editions name two different plants for it. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The texts give this drug an emetic action, which is its only body-linked effect in the lines read. Clark's root-text layer says it acts as an emetic in bile disorders, and Men-Tsee-Khang's running text says the Tibetan name acts as an emetic and brings up tripa disorders. The organs and fluids named are bile, which the entry does not identify with the gallbladder, and tripa, a Tibetan term the entry does not define. Clark's commentary adds that the drug cures poisoning and phlegm-bile combinations, and describes it as bitter, with coarse power; the superior type has a bitter black fruit and the common type a yellow one. In modern physiology vomiting involves the upper digestive tract, but the entry does not map the emetic action onto the stomach or any other organ, and it does not say which part is used. The plant is uncertain between a sponge gourd and a Thladiantha, so the mapping belongs to the Tibetan name.
+
 ### Contraindications
 
 The sources read print no warning for this drug. It is described as an emetic and as acting on poisoning, so it should be treated as a drug that provokes vomiting; poisoning and vomiting need medical assessment, and no preparation or dose is given. No plant should be gathered or used on the strength of this entry. Because the identity is uncertain, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

@@ -49,6 +49,10 @@ General, well-established facts only. *Ficus heterophylla* is a small creeping f
 
 **Practitioner's note.** Nothing to cultivate here. A group-list drug for ulcers, worms and skin disease, with no cultivation status in the sources read. A cultivator has no sourced use for it.
 
+### Functional–Anatomical Correlate
+
+The Lakshadi Gana list in Sutra 38 includes Trayamana, and the group is described as astringent, bitter and sweet in taste, a good vermifuge and purifying agent in bad, malignant or indolent ulcers, amenable to diseases due to deranged Kapham and Pittam, and extending to cutaneous affections (kushtham). Mapped onto the body, the entry places the claimed action on the intestinal tract as a worm-expelling site, on ulcerated wound tissue and on the skin. The bitter-group classification in Sutra 42 places the drug among bitter-taste drugs. The humoral terms named are Kapham and Pittam; Vayu is not named for this group. The claims attach to the group, and the mapping depends on the Trayamana of the group lists being the fig glossed in the appendix, which the entry marks for verification. The Chikitsa mention of Trayantika is not mapped. No dose or preparation of the single drug is given, and no pregnancy statement was read.
+
 ### Contraindications
 
 - **Identity.** The glossary's fig may not be the Trayamana of the group lists. [USER: verify]

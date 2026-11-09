@@ -47,6 +47,10 @@ General, well-established facts only. Medicated wines are plant material steeped
 
 **Practitioner's note.** A cultivator does nothing with this. The record is one line of a recipe for a medicated wine of uncertain content, one of whose possible ingredients is a poisonous plant, and no practice is attached.
 
+### Functional–Anatomical Correlate
+
+The entry maps one wine chapter, Dioscorides 5-73, whose only stated claim is that the medicated wine of acorus and lycoris is effective for the side and chest and for inducing urine. Read literally, that places action on the flank and chest, and on urination through diuresis. The plant behind the name is uncertain: the translator offers four candidates, and the entry adopts Iris pseudacorus at low confidence, while the akoron chapter in Book 1 describes a sweet-flag root. The root claims of Book 1, that it is heating, causes an urge to urinate and is good for pain of the rectum, chest and liver, belong to that chapter and are not carried into the wine, since the wine chapter does not say it is made from the root. Lycoris is unidentified. The text gives no humoral, temperament or four-quality classification for the wine. Iris rhizomes are generally regarded as irritant and poisonous, and wine carries alcohol's ordinary risks. No dose is stated, only batch quantities.
+
 ### Contraindications
 
 - **Poisoning:** the yellow flag is generally regarded as poisonous, and its rhizome can irritate skin and the gut. Do not gather, eat or drink it.

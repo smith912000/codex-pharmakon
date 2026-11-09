@@ -38,6 +38,10 @@ General, well-established facts only. Haemostasis depends on pressure, platelets
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The insect is one short line in a list of small creatures used against bleeding and urinary retention, and the species is not identified. The Codex records it and does not recommend it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the line states one action for the insect, that it stops bleeding 'from the veins [or arteries]' in Clark's translation, and the Men-Tsee-Khang text prints 'Tumai bu stops bleeding'. The veins and arteries are the only body sites named, and the bracketed alternative is Clark's insertion. The insect sits in a list of droppings, insects and small creatures, and the entry states no other use for it. No humour, taste, potency or post-digestive taste is printed, and no preparation, route or dose is given. The chrysalis form is named, but the text assigns it no organ or tissue, and the entry does not link the insect to the moxa therapy mentioned elsewhere in Clark. These are historical claims only.
+
 ### Contraindications
 
 - **Bleeding:** do not rely on any insect or animal preparation to stop bleeding; heavy or uncontrolled bleeding needs emergency care.

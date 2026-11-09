@@ -104,6 +104,10 @@ The "blessed/holy" designation carries no energetic content. It is a name.
 
 **Practitioner's note.** Nothing is cultivated in the inner sense here. The usable practice is sensory: taste the infusion before meals, keep courses short because high doses provoke vomiting, and treat the plague and "holy" claims as names, not attestations.
 
+### Functional–Anatomical Correlate
+
+Blessed thistle is described as acting on the digestive secretory system. Its bitterness engages bitter-taste receptors on the tongue and along the gut, triggering vagal and enteroendocrine secretion of saliva, gastric acid and bile. The entry places its action in the middle: stomach, liver and bile, classed as bitter, dry, cooling and descending in European herbal terms. The traditional bitter-digestive use is for poor appetite, sluggish digestion, dyspepsia and stomach pain. The entry also lists galactagogue use for the breast and an emmenagogue reputation for the uterus, but both are unsupported or conventionally contraindicated. The active principle cnicin has preclinical antinociceptive, nerve-regeneration and antischistosomal findings in rodents and mice, none tested as a tea. The plague and panacea claims map to no organ. Acid-secreting use is contraindicated in active ulcer, gastritis and reflux, where the same secretagogue action causes harm.
+
 ### Contraindications
 
 - **Asteraceae allergy — the primary contraindication.** Sesquiterpene lactones are established contact sensitisers and the Asteraceae/Compositae family is a recognised source of allergic contact dermatitis and cross-reactivity. Anyone reacting to ragweed, chamomile, echinacea, feverfew, arnica, chrysanthemum, marigold or yarrow should avoid blessed thistle. Handling the fresh plant can sensitise as well as ingesting it — gloves when harvesting.

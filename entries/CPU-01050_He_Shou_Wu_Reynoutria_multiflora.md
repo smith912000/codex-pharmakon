@@ -116,6 +116,10 @@ When used, should be standardised for TSG content (minimum 0.5 mg/g); maximum 50
 
 ---
 
+### Functional–Anatomical Correlate
+
+He shou wu acts on the Liver and Kidney channels in Chinese terms, nourishing Liver Blood and Kidney Jing, and the entry's modern correlates are the hair follicle, the brain and the liver. Improved scalp microcirculation and melanocyte preservation are offered for premature greying and hair loss. Stilbene glycoside TSG is described as neuroprotective, supporting BDNF, amyloid clearance and cholinergic signalling in models. The entry links the Liver's blood-nourishing role to the sinews and mind. The liver is also the principal organ at risk: emodin is metabolised by CYP enzymes to reactive quinones that deplete hepatocyte glutathione, damage hepatocyte DNA and trigger apoptosis, producing hepatotoxicity from transient enzyme rises to fatal failure. Raw root is the higher-risk form, and CYP2D6 variants may affect susceptibility. Knees and lower back, seminal emission and leucorrhoea appear among the classical indications. Emodin is also noted as teratogenic in animals.
+
 ### Contraindications
 
 - **Liver disease of any aetiology:** Absolute contraindication — pre-existing hepatic impairment dramatically increases risk of severe liver injury

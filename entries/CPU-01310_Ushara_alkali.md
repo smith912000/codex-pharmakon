@@ -44,6 +44,10 @@ General, well-established facts only. Alkaline salts such as carbonates are irri
 
 **Practitioner's note.** Nothing here is a practice for a cultivator, and the text points the other way. Usharakshara is an alkali the translator describes as heat-making and as detrimental to bodily strength, with no recipe, no gloss and no dose in the sources retrieved. The honest use for a reader is to read the caution, to note that the name is unglossed and appears in three spellings, and to leave it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the sources name no organ for Ushara. The entry states three things. Its potency (virya) is heat-making, an action with no tissue named. It subdues deranged vayu, the principle the tradition ties to movement and nervous activity, though the sentence names no organ. It tends to increase shleshma, the mucous secretions in the organs; in modern terms that would fall on the mucous membranes of the airway and gut, but the text says only in the organs. It is detrimental to bala, the strength of the body, so its stated effect runs against muscular and general vigour. The group statement on alkalis (abdominal glands, piles, mesenteric diarrhoea, bladder stone) is not printed of Ushara in its own sentence and is not mapped here.
+
 ### Contraindications
 
 - **Caustic and irritant:** alkalis burn the mouth, throat and gut when swallowed in strength; do not swallow an unidentified alkaline salt.

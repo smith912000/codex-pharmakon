@@ -46,6 +46,10 @@ General, well-established facts only. An unidentified seed cannot be assessed. N
 
 **Practitioner's note.** Nothing to do. An imported seed we cannot identify; it is not available or safe to use on this record.
 
+### Functional–Anatomical Correlate
+
+The Canon describes this imported seed as hot and dry in the third degree, with dissolving (tahlil) and astringency. Its organ mapping is to the stomach, the liver and the bowels. It is said to enter medicines that set right the cold stomach and liver and to benefit cold bad digestion. For the bowels, it is said to benefit cold diarrhoea and to bind the belly. The seed's comparisons, a chickpea-like form, a mahlab-like grain and a black grain like hemp seed inside, are glosses in the entry, and the place al-Safala is read only as a guess at Sofala. No plant is established, so no constituent or tissue mechanism beyond the Canon's own statements is mapped. The passage gives no preparation beyond entering medicines and no dose. The Codex gives no protocol, notes that an unidentified seed may be toxic, and does not recommend it.
+
 ### Contraindications
 
 - **Identity.** Not established; an unidentified seed may be toxic. Do not substitute another seed. [USER: verify]

@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a drug for jaundice and bile in the Tibetan texts, with no preparation and no dose, and its Latin name is one of three that Clark offers, with a different species in the glossary. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts give zangs.rtsi.wa as curing jaundice and all types of bile disorders (Clark, line 1107). The Men-Tsee-Khang text says it cures tripa disorders and jaundice (line 3476). The organs the texts point to are the liver and bile system, which jaundice and bile disorders concern in modern terms. The Tibetan wording names no organ, and the entry does not equate tripa with bile. Clark's commentary adds that the leaf of the latter type is beneficial in sinusitis, so the paranasal sinuses are the only other site named, and the entry attaches this to one type only. The commentary describes a white type whose seed adheres to clothing and helps produce curd when boiled in milk, and a black type with a strong smell. The entry does not state which Latin name goes with which type. No taste, power or post-digestive taste is printed, and no humoral or doshic classification is given. The plant is open between Galium spurium, Galium aparine and a mugwort. No clinical study was retrieved.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The identity is open between plants of different genera, jaundice needs medical care, and no preparation or dose is given, so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

@@ -46,6 +46,10 @@ Plants of the genus *Zanthoxylum* are widely used as spices and are known for th
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. It is a spice in the Tibetan text, with a stated effect on phlegm and wind, and a minor ingredient of one potion in Sushruta. The abstentive answer is correct as far as practice goes: treat it as a food spice, not as a cultivation drug.
 
+### Functional–Anatomical Correlate
+
+Little to map: Sushruta (SS) names Tumburu once, in a potion for 'apoplectic convulsions' (apatantraka), with five other drugs and a barley decoction. No taste, potency, virya, vipaka or dosha action is printed for it in the passage read. Clark's Tibetan Explanatory Tantra (FMT) gives the spice one action only: it 'opens the mouths of the channels and increases phlegm and wind', which are the only bodily terms in the entry, and it places the plant in the anthelmintic class (worm-expelling) without naming a site. The Men-Tsee-Khang glossary gives the name gyer ma and the common name Guinea pepper but no property. The text itself says the spice increases phlegm and wind, a stated drawback. The entry does not map any organ, tissue or body system for either tradition.
+
 ### Contraindications
 
 No contraindication is printed in the passages read. The Tibetan text itself notes that the spice increases phlegm and wind. As a general caution, pungent spice fruits can irritate the mouth and stomach, and no medicinal use of this plant is advised here. Medical advice should be taken for convulsions, which are an emergency.

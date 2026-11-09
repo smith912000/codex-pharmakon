@@ -51,6 +51,10 @@ General, well-established facts only. Camel milk is a mammalian milk, drunk in N
 
 **Practitioner's note.** Nothing here makes camel's milk a cultivation substance. Sushruta treats it as a drying, heating remedy for dropsy, worms and skin disease, which is the opposite of the "cold, slimy, nourishing" milk of the group description. A cultivator has no use for it beyond ordinary diet where it is an ordinary drink, and the milk-only regimen is a historical record.
 
+### Functional–Anatomical Correlate
+
+Sushruta's Sutrasthana ch.45 gives the camel's milk its own line, describing it as drying, heating and light, palatable and a little saline, and curative of oedema, abdominal glands, ascites, piles, intestinal worms, Kushtha (skin disease), and as an antitoxic. These map to the fluid spaces of the abdomen, the abdominal glands, the haemorrhoidal region, the bowel and its parasites, and the skin. Its curd is pungent in digestion, alkali-charged and purgative, and curative of Vata, piles, cutaneous affections, intestinal worms and abdominal dropsy; its clarified butter subdues Vayu and Kapham. Chikitsasthana ch.14 prescribes milk alone for abdominal dropsy, and a ch.9 passage offers camel's milk after camel's urine for Kushtha. Modern terms for these organs are the abdominal cavity, the glands, the bowel and the skin. The humoral Vata, Vayu and Kapham have no direct modern counterparts, and the entry records no cultivation status and no dose.
+
 ### Contraindications
 
 - **Hygiene and infection.** Raw camel milk carries a risk of brucellosis and other infections, and dromedaries are the animal reservoir of MERS-CoV. Boil or pasteurise; avoid contact with sick animals.

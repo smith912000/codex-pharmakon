@@ -52,6 +52,10 @@ General, well-established facts only. A white growth in the eye may be a catarac
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The tortoise appears in the Ebers material as a source of shell and brain in ordinary remedies, one of them joined to a spell, and the Codex does not recommend the medical uses. What the record does show is that the drug and its recitation were one act, so that taking the brain without the words would have been, for the papyrus, half the prescription. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Ebers recipes name the eye, the skin, the ear and the hair. Tortoise brain, in honey or with abra-ointment, is laid on the eyes for a white growth and for squint; tortoise shell, in ostrich-egg or thorn pastes, is used on a stinking ulcer, and shell appears in an abscess remedy; a mixture with shell is for the ear, to dry wounds there; and shell in oil or fat is rubbed in for the hair, to keep it or remove it. A tail appears once, in a poultice for the women's section. In the Unani Canon, entry sulaḥfāh, the organs are the head and chest: roasted blood of the land kind helps epilepsy, gall is used for aphthae (the mouth) and dropped into the nostrils, egg is given for children's cough, and gall smeared for angina. The sea kind's blood with rennet is for bites and euphorbia poisoning. No temperament is stated, and innate heat and radical moisture do not enter. The Ebers corpus gives no humour or quality for the tortoise.
+
 ### Contraindications
 
 - **Eyes:** do not put animal brain, honey from an unknown source or any unsterile material on the eye; white growths and squint need an eye examination.

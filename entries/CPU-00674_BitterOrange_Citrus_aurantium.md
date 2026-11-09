@@ -80,6 +80,10 @@ Dual by nature: the **sour juice/whole fruit** cool-and-dry (astringent, thirst-
 
 ---
 
+### Functional–Anatomical Correlate
+
+Bitter orange maps onto two systems the entry keeps apart. The aromatic fraction (peel, neroli, petitgrain) acts on the digestive tract as a carminative, settling wind and fullness, with its terpenes credited with the classical gladdening of the heart and calming of mood. The Chinese reading of the immature fruit, Zhi Shi, places it among the qi-regulating drugs that break stagnant qi and drive epigastric and abdominal fullness downward. The synephrine fraction acts on the sympathetic adrenergic system, and the entry reports that prolonged use raised systolic and diastolic blood pressure in a human meta-analysis, though a counter-review finds small effects at label doses. The furanocoumarins are said to inhibit intestinal CYP3A4 and to cause skin photosensitivity. The entry finds no human weight-loss effect and contraindicates the fraction in hypertension, arrhythmia, coronary disease and pregnancy.
+
 ### Contraindications
 
 - **⚠️ Cardiovascular — synephrine fraction.** Raises blood pressure and heart rate on prolonged use (Koncz 2022, [DOI](https://doi.org/10.3390/nu14194019)). Contraindicated in hypertension, arrhythmia, coronary disease, and for anyone with cardiovascular risk. **Do not combine with caffeine or other stimulants** — the risk signal concentrates in stimulant stacks (the typical pre-workout context).

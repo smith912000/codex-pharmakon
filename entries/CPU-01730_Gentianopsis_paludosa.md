@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a bitter drug for fevers in the Tibetan texts, with no preparation and no dose. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Clark's rGyud-bzhi entry says this drug cures wound fevers and infectious fevers in its commentary, and that red gentian and Gentianopsis together cure bile fevers. The Men-Tsee-Khang text pairs Chaagtik with Zangtik for hot disorder associated with tripa. The body-level terms in the entry are the fevers, the bile, which is a Tibetan humour, and the tripa, another Tibetan humoral term left untranslated. The commentary names wound fevers, a fever tied to wounds, but the entry gives no wound-tissue action. Clark's commentary layer prints a bitter taste and no power or post-digestive taste. The entry names no organ, tissue or constituent, no part of the plant, and no dose or route. The Tibetan terms are not modern diagnoses, and the entry does not attach any modern organ system or finding to the drug. The species identity is firmer than in some neighbouring entries because both Tibetan texts print the name.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Fevers need medical assessment, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

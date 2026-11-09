@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is the part-by-part recognition (leaf, stalk, pod, flower, seed, root), which is a good method for any plant. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Dioscorides' chapter places its external uses on the head and skin and its internal uses on the nerves, urinary passage, bowel and spleen. The root, applied, is for wounds in the head and for fractures, which places it on the head and on bone. A plaster of it, mixed with flour of brass, centaury root and honey, draws out prickles and weapons without pain. Applied with vinegar, it is for oedema and inflammation. Internally, the root bruised in raisin wine is for convulsion, hernia, sciatica, slow painful urination and intestinal discharges. Sciatica points to the nerves of the leg, urination to the urinary passage, and intestinal discharges to the bowel. The seed decocted in wine is the strongest diuretic named, and a decoction taken with vinegar reduces the spleen. The chapter uses no humour, dosha or qi term and gives no hot, cold, moist or dry quality. Its colours are visual only, and the text links the flour of brass to no organ.
+
 ### Contraindications
 
 Chapter 4-22 prints no warning, though it includes an internal use of the root and a plaster that contains "flour of brass" (zinc oxide in the translators' bracket). The identification is only the translators' suggestion, and the text's own names (*iris agria*, *iris agrestis*) point to a wild iris while the translators' species are of another genus, so no plant should be gathered or used on the strength of this entry. Wild irises and iris-like plants include poisonous ones, which the chapter does not address. Fractures, embedded weapons and splinters, convulsions and hernia are not conditions to treat with a herb. The text gives two proportions and one quantity and no safety information for pregnancy, children or any medicine taken at the same time. [USER: verify]

@@ -43,6 +43,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It offers a description, a poultice and a list of conditions that no modern reader should treat at home, so it is history and not a practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The chapter maps its plant onto the soft tissue and glands of the body. Leaves, juice, stalk and seed are said to dissolve hard lumps, cancers and tumours, and the translators mark one possible site as goitre, that is the thyroid gland of the neck. The chapter names the parotid gland, which the translators gloss as inflammation of the salivary gland in front of the ear. It names pannus, a veiled thickening of the cornea of the eye, and nomae, a gangrenous disease that eats away muscle, tissue and bone, as well as other gangrenes and rotten ulcers, which act on the skin and deep tissues. A poultice laid on twice a day and a decoction in a warm pack are the methods given. No humoral, doshic or qi quality is printed, the warmth referring to the preparation rather than the plant. The bracketed glosses are the translators' and not Dioscorides'. The identity between a figwort and a hemp-nettle is unsettled, so the mapping is only the text's claims.
+
 ### Contraindications
 
 The chapter prints no warning. A hard lump, a tumour, a gangrenous or rotting wound, or a change in the eye needs medical assessment, and a poultice must not replace it. The identification rests on a translators' suggestion that competes with *Galeopsis tetrahit*, so no wild plant should be gathered or used on the strength of this entry. [USER: verify] None of the traditional uses above is advice.

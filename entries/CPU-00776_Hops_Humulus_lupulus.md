@@ -73,6 +73,10 @@ The mechanistic story (2-methyl-3-butene-2-ol as sedative; α-acids up-regulatin
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, hops acts on the nervous system and the stomach. Its bitter resins are said to raise inhibitory GABA signalling in the CNS, and 2-methyl-3-butene-2-ol, formed from stored alpha-acids, is a demonstrated sedative, so the target is the sleep-onset and restlessness circuitry. Unani terms describe it as calming a hot, restless disposition, and Galenic terms as a nervine relaxant. Traditional Chinese terms describe pi jiu hua as bitter and cool, strengthening the stomach, aiding digestion and calming the spirit (an shen) for insomnia and restlessness. The bitter digestive role acts on the stomach, appetite and a bilious, tense gut. Human data are modest: one study reported shorter sleep latency in nurses, while a placebo-controlled trial of a multi-ingredient supplement showed no between-group difference, so the entry grades the effect as mild and adjunctive, strongest with valerian. The phytoestrogen 8-prenylnaringenin acts on hormone-sensitive tissue. The entry flags sedative and depression cautions.
+
 ### Contraindications
 
 - **Sedation / CNS-depressant additive effect:** hops potentiates alcohol, benzodiazepines, "Z-drugs," barbiturates, opioids, antihistamines and other sedatives — do not combine; caution before driving or operating machinery.

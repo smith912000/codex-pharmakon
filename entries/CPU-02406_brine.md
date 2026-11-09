@@ -48,6 +48,10 @@ General, well-established facts only. Concentrated salt solutions draw water and
 
 **Practitioner's note.** Nothing for a cultivator to take or do. The chapter is a short historical note on a salt-water preparation, and no practice follows from it.
 
+### Functional–Anatomical Correlate
+
+The chapter maps brine to the bowel, the skin and the sciatic nerve. Dioscorides says that muria has the same action as ordinary salts in cleansing. It is used as a suppository for dysentery with gangrenous ulceration, so the lower bowel is the route and the damaged bowel tissue the site. It is also given for sciatica in people with a history of it, which places the claimed site on the sciatic nerve and the hip and leg it runs through. Warm packs, where seawater is effective, act on the skin and the tissue beneath it. Gangrenous ulceration names the damaged tissue. The chapter prints no quality of its own, with no hot, cold, wet or dry grade and no humour, and the astringent and cleansing qualities it cites belong to the salts chapter before it. The entry names no organ beyond these sites and gives no account of how the salt works in the body.
+
 ### Contraindications
 
 - **Do not use as a suppository, enema or pack.** Strong salt solutions can injure the bowel and raw tissue, and the chapter's conditions (dysentery, gangrenous ulcers, sciatica) need medical care.

@@ -46,6 +46,10 @@ General, well-established facts only. The categories in the classic's sentence (
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. At most this is a middle-class drug taken for a defined complaint with care, if the placement is confirmed, and the entry's own sentence is a list of disease actions with nothing about long-term use. The Codex does not recommend it, and the conservation status of turtles is a reason for restraint. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The classic lists the shell for accumulations and abdominal masses in the heart and abdomen, cold-heat, removing glomus, polyps, genital erosion, haemorrhoids, and malign flesh. Mapped to the body, that points to the abdomen and its masses, the heart region in the text's wording, the genital tract (erosion), the anus and rectum (haemorrhoids), and soft-tissue growths (polyps and malign flesh). Glomus, a term the text uses without definition, is not mapped to a specific organ. The flavour is salty and the nature balanced. The entry gives no organ or channel in its lines, and no toxicity statement.
+
 ### Contraindications
 
 - **Contraindications in the classic:** none are printed in the lines read. The preface says that middle-class drugs "may or may not be toxic" and should be weighed (Yang, lines 352-396); that applies to the class and is not a statement about this shell.

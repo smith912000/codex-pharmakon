@@ -84,6 +84,10 @@ Rice is genuinely Old World (domesticated in monsoon Asia) so the tags are not a
 
 **Practitioner's note.** What a cultivator does with rice is feed with it — congee and rice-water to re-lay the foundation of a depleted digestion after illness, fasting or purgation. That is dietetic groundwork and convalescent care, valuable but not a practice of cultivating a vital substance. Even in the tradition that prizes it most (Chinese), its status is that of the neutral nourishing base other medicines are carried on, not a graded life-nourishing drug.
 
+### Functional–Anatomical Correlate
+
+The entry maps rice chiefly onto the digestive centre, which in Chinese terms is the Spleen-Stomach and the Middle Burner, tonified by polished rice as it generates Qi and fluids. In Ayurveda, aged sali rice is sweet and nourishing, strengthening the body's tissues (balya, brimhana) and rekindling agni, the digestive fire, after illness or purgation. In Unani and Dioscoridean readings rice gruel is mildly binding and demulcent to an irritated bowel, and rice-water is used for diarrhoea and gut settling. The folk record also places rice-water on the skin and hair as a rinse. The modern correlates named are the immunomodulatory and anti-inflammatory actions of rice bran arabinoxylan, with antioxidant and hepatoprotective signals, which the authors describe as preliminary and in need of controlled human trials. Polished white rice is noted as high-glycaemic, relevant to metabolic tissue. The entry stresses that congee and rice-water support rather than cure severe fluid loss.
+
 ### Contraindications
 
 - Polished white rice is high-glycaemic; large quantities warrant caution in diabetes and insulin resistance (favour brown/whole rice for metabolic contexts).

@@ -40,6 +40,10 @@ General facts only. Wild bird flesh must be cooked through and handled hygienica
 
 **Practitioner's note.** Nothing here is a practice. In Sushruta the Kulinga is a food with stated qualities, and the one cautionary note a cultivator could take is that the text itself says it increases *Kapham*. The bird cannot be identified from the sources retrieved, so no one can follow this text to a particular animal. A person who eats meat may read the classification as the tradition's own description of the food; a person who does not has nothing to adopt.
 
+### Functional–Anatomical Correlate
+
+The Kulinga belongs to the Pratuda group of birds in Sushruta, and the group's effects are mapped first. The text says the group generates Vayu and produces a parched condition in the body, is cooling, reduces Pittam and Kapham, suppresses the discharge of urine and reduces the quantity of stool. That places the group on the urinary tract, which it suppresses, and on the bowel, which it reduces. The Kulinga itself is said to be sweet and demulcent, soothing to mucous membranes, and spermatopoietic, and to increase Kapham. The domesticated Kulinga is said to be highly spermatopoietic and curative in haemoptysis, bleeding from the lungs and airways. The text contains a tension: the group reduces Kapham while the Kulinga increases it, and the file gives no reconciliation, so both statements are recorded. No post-digestive taste is printed for this bird. The text gives no organ beyond urine, stool, reproductive tissue and the airways.
+
 ### Contraindications
 
 - **Identity:** the bird is not identified; do not substitute a species on this basis. The same name means a rat in *Kalpasthana* ch.6. [USER: verify]

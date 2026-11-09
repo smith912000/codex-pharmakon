@@ -84,6 +84,10 @@ Graded honestly, including nulls:
 
 **Practitioner's note.** Nothing. It is a garden and laboratory plant here; use *H. perforatum* where a St John's wort is wanted.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry states that Hypericum olympicum has no species-specific therapeutic action recorded for any body system, and that antidepressant and nervine activity is null for this species. It states that the folk use as a tea is unquantified and that species-specific indications are sparse. It reports that the acylphloroglucinol olympicin A, isolated from the species, has strong in-vitro activity against methicillin-resistant and multidrug-resistant Staphylococcus aureus, a compound-level result not shown for the whole herb. It reports strong in-vitro antioxidant activity and acetylcholinesterase inhibition as exploratory, with no tissue named. It states that phototoxicity is assumed as a class property of the hypericin-bearing genus, and that CYP3A4 and P-glycoprotein induction is assumed as a genus caution. It notes nickel uptake from soil, a cultivation matter.
+
 ### Contraindications
 
 - ⚠️ **Photosensitisation (class caution).** As a hypericin-bearing species, *H. olympicum* can act as a photosensitiser; avoid pairing internal use with strong sun/UV, and treat fair-skinned or photosensitive individuals with care.

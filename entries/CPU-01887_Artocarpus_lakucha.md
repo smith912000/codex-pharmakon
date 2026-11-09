@@ -52,6 +52,10 @@ General, well-established facts only. *Artocarpus lacucha* is a tree of South an
 
 **Practitioner's note.** A sour fruit, with a rule that it be kept away from milk and milk products, honey and ghee. If a cultivator uses the text at all, the use is the incompatibility rule, which is a restraint and not a practice.
 
+### Functional–Anatomical Correlate
+
+The Sushruta Samhita places Lakucha in the acid (amla) group (Sutrasthana ch.42). The fruit-group account in ch.46 says fruits of this class are acid, heavy of digestion and heat-making in potency, expectorant of Kapha, generators of Pitta and subduers of Vayu. Modern anatomy would read the digestive tract and, for the expectorant claim, the airways, but the text names neither. Ch.20 forbids the fruit with milk, curd, meat soup, honey and clarified butter, and just before or after milk; this is a rule about combining foods, not an action on a tissue. The bark, not the fruit, is used in a plaster and oil for a pierced ear-lobe disorder of the Utpataka type (Sutrasthana ch.16), so the ear lobe is the one body site the text names, and it is a topical site. The text gives no organ-level account of the tree and no tonic action on any tissue, so beyond the digestive, expectorant and ear-lobe claims, nothing further is mapped here.
+
 ### Contraindications
 
 - **Food combination.** Ch.20 forbids it with milk, curd, meat soup, honey and ghee and next to milk. This is the text's rule, recorded as such.

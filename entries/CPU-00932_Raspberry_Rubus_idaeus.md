@@ -82,6 +82,10 @@ In the Western herbal tradition the leaf reads as **cool, dry and astringent** â
 
 **Practitioner's note.** Nothing cultivation-specific is attested. The "partus preparator" role is a later European midwifery tradition and should not be read back into either text.
 
+### Functionalâ€“Anatomical Correlate
+
+The leaf is mapped first to the uterus and the birth process, the Western partus preparator role, where it is taken in later pregnancy as a tone-giving agent. Its classical DMM and CM framing is astringent: tannins draw together relaxed tissue, which the entry ties to the mouth and throat (sore mouths, sore throat) and to bowel fluxes. Smooth muscle is reported in both directions. A guinea-pig ileum extract relaxed gut tissue, while the review literature notes uterine and smooth-muscle effects that can include stimulation, so the tone may mean contraction or relaxation depending on preparation and tissue. The cervix is listed as a possible target of a negative effect on ripening. Tannins may irritate the stomach, and the entry notes that the leaf may reduce absorption of iron and minerals. No Unani humoral, innate-heat or ruh framing is attested for the leaf.
+
 ### Contraindications
 
 - **Pregnancy is a clinician-supervised decision.** Do not self-prescribe timing or dose. First-trimester use is traditionally avoided. Because in-vitro data show the leaf can affect uterine/smooth-muscle activity in *either* direction, and a possible negative effect on cervical ripening has been raised, use in pregnancy must be discussed with a midwife/obstetrician.

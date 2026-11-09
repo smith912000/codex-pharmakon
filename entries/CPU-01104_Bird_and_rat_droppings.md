@@ -40,6 +40,10 @@ General, well-established facts only. Bird droppings can carry the fungus that c
 
 **Practitioner's note.** Nothing here makes droppings a substance for cultivation, and the safe reading of this entry is to leave the material alone. It is a record of what one text listed for pus. A cultivator takes nothing from it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the one action stated is that the droppings of birds and of rats drain pus, which both translations give in the same words. The text thus maps the material to pus-filled swellings, the tissues where an accumulation of pus gathers. Neither translation names a bird or rat species, a Tibetan word, a taste, potency, post-digestive taste or humour. The same passage lists rat skin as draining all pus accumulations, and it lists pigeon droppings separately as suppurating swellings, so the rat and bird items are grouped with the skin remedy by action. The text gives no method, form or amount, and names no organ or body system beyond the tissues where pus collects.
+
 ### Contraindications
 
 - **Hygiene and infection:** the principal risk. Bird and rodent droppings carry pathogens that can cause serious infection through broken skin, the eyes, the mouth or inhaled dust. Do not handle dry droppings without protection, and do not apply them to a wound or swelling.

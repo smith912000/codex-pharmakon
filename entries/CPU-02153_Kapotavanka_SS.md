@@ -45,6 +45,10 @@ General statement only: a drug that cannot be tied to a species cannot be linked
 
 **Practitioner's note.** A name that survives only in one group list, for disorders of *Vata* and of the urinary passages. Nothing in the record supports a cultivation use. A cultivator does nothing with this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives no single-drug effect. It reports only the Viratarvadi group's metrical text, which says the group subdues all disorders of deranged Vata and proves curative in Ashmari, Sharkara, Mutrakrichra, Mutraghata and urinary troubles. The entry notes that Ashmari and Sharkara are the translator's untranslated terms for stone and gravel in the urinary tract, which places the group's stated action on the urinary passages in modern terms. Vata is not translated into a modern system here. The entry gives no description, part used or synonym for Kapotavanka, and the list is of mixed drugs, so no plant or part can be linked to any body system. No preparation, dose or duration is given, and the entry is a historical record only.
+
 ### Contraindications
 
 - **Identity.** The plant is not identified in the sources read. Do not use any plant sold under this name on the strength of this entry. [USER: verify]

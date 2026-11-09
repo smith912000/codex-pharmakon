@@ -50,6 +50,10 @@ General, well-established facts only. Ebony and blackwood are dense, fine-graine
 
 **Practitioner's note.** Nothing to do with it. Ebonywood appears in two eye recipes, with no recorded quantity and no cultivation status. A cultivator reads it as a record of Egyptian eye treatments.
 
+### Functional–Anatomical Correlate
+
+The entry maps to the eye alone. Its two recipes are for eye complaints in Bryan's rendering: leucoma, a white growth or opacity, and what the Ebers text calls the drawing-together of the pupil. Neither the Egyptian term nor a more specific anatomical structure is named in the lines read, so the organ is the eye as a whole. For leucoma the wood is ground with collyrium to a powder and applied, and the sequence goes on to granite powder, a fish-bile paste and a magical remedy, none of which the Codex endorses. For the pupil complaint the shavings are crushed with soda from Upper Egypt in water and used as a frequently applied eye bath. The entry assigns no humoral, vital-constitution or energetic quality to the wood and names no tradition-specific system beyond the Ebers grouping by complaint. The action as presented is local, applied to the eye, and historical. The Codex gives no protocol, and the entry itself warns that wood dust and soda can injure the eye and that eye opacity needs proper medical care.
+
 ### Contraindications
 
 - **Do not use the recipes.** Wood dust and soda in the eye can cause injury. Do not apply any of these mixtures to the eye.

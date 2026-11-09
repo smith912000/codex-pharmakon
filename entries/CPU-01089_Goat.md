@@ -57,6 +57,10 @@ General facts only. Goats are reservoirs of *Brucella melitensis* (brucellosis),
 
 **Practitioner's note.** Nothing to do for cultivation. The Egyptian goat items are fat and dung for dressings and hair, and the Tibetan goat is a food to be chosen by the disorder: cooling and heavy meat and dairy for hot or *tripa* conditions, avoided in *loong*. What the Tibetan text offers a cultivator is that rule of fit, not a claim about vitality. Goat meat and pasteurised goat's milk are ordinary foods.
 
+### Functional–Anatomical Correlate
+
+Ebers places goat parts on wounds, the skin and the hair. Goat's fat beaten with onions and wax is a drying poultice for a wound, goat's dung is part of a second-day burn dressing, and the fat of an Egyptian goat is one of six fats rubbed on a bald scalp. The Tibetan texts map the goat most widely. Goat meat is heavy and cool and activates all three nyepa (Clark: raises the three humours), and goat milk is for asthma. Goat blood is for venereal disease and smallpox, goat brain unites severed ligaments and tendons, and billy-goat pubic hair treats tissue degeneration or muscle inflammation. Goat meat and fresh goat milk are also listed among foods that arouse wind disorder, while cooling goat butter pacifies hot disorders. Dioscorides and Sushruta, not tagged here, add goat milk for the stomach and intestines and goat fat for dysentery and gout. The entry assigns no vitality role to the goat.
+
 ### Contraindications
 
 - **Infection.** Raw goat's milk and fresh cheese can transmit brucellosis, Q fever, *Listeria* and *Salmonella*; use pasteurised or well-cooked products. Never apply dung or raw blood to wounds or burns, and do not eat raw brain.

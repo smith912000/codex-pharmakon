@@ -86,6 +86,10 @@ Galangal is best understood as a short-course intervention timed to symptom onse
 
 **Practitioner's note.** Nothing. A hot, dispersing herb taken for a defined cold-stomach complaint and then stopped; the tradition as recorded here gives no basis for long-term use.
 
+### Functional–Anatomical Correlate
+
+Lesser galangal's entry places its action in the Spleen and Stomach channels and the Middle Burner. It warms the middle and disperses cold, relieving cramping epigastric pain of cold type, with clear-fluid vomiting, hiccup, belching and a preference for warm drinks. In Five Phase terms it acts on Earth, restoring the Spleen and Stomach's ascending-descending movement, and it redirects rebellious Stomach qi downward to stop vomiting, hiccup and belching. In the folk strands the entry mentions, the rhizome was chewed or decocted for motion sickness, morning nausea and cold-damp digestive sluggishness. Modern correlates named are galangin, a flavonol studied in reviews and cell and animal work, and a volatile oil dominated by 1,8-cineole and pinenes that the entry links to carminative and dispersing action. The entry flags that a species-specific antiemetic study was not located, so antiemetic activity may belong to the ginger family rather than this species. Heat signs, yin deficiency and acute high fever are contraindications.
+
 ### Contraindications
 
 - **Heat patterns:** Contraindicated where there are heat signs — burning epigastric pain, thirst for cold drinks, red tongue with yellow coat, or acid reflux of a hot nature. The herb's heat will aggravate these.

@@ -95,6 +95,10 @@ The doctrinal verdict, then: **the tradition's boring doctrine is the true one, 
 
 ---
 
+### Functional–Anatomical Correlate
+
+Summer savory acts on the digestive tract and on microbes in contact with the body. In the Unani frame it is hot and dry in the third degree, hadim (digestive) and tarid li'l-riyah (wind-expelling). The entry links this to carvacrol and thymol, whose phenolic action relaxes gut smooth muscle and eases bloating after heavy meals. The antimicrobial doctrine against putrefaction, worms and foul wounds is recorded only as in vitro membrane disruption, including activity against Candida albicans from oral lesions. Greek texts describe a stomach-warmer and wind-breaker with emmenagogue and diuretic action on the pelvis and urinary tract. The aphrodisiac claim, which would act on the genitals and blood flow, is graded null: no study and no mechanism. Undiluted oil irritates mucosa and skin, and repeated topical use can sensitise.
+
 ### Contraindications
 
 - **Essential oil is a mucosal and dermal irritant.** Carvacrol-rich oils burn undiluted. Never apply neat; never take internally unsupervised. Keep away from eyes and mucous membranes.

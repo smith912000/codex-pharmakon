@@ -57,6 +57,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Sushruta t
 
 **Practitioner's note.** A cleansing drug in the Sushruta scheme, to be given by a physician in a defined recipe and not taken for its own sake. The text itself rates its alkali "extremely irritating". Nothing here supports gathering or taking a root on the strength of a Latin name that the chapters do not give.
 
+### Functional–Anatomical Correlate
+
+The Sushruta text places Dravanti in the purgative group and in the bitter group, and its root is the part named for purgative use. Its action is on the bowels and the stool. The purgative compounds are said to be given for indigestion, pain at the sides, jaundice and enlargement of the spleen, and in diseases of deranged Kapham and Pittam. An oil cooked with it is said to be curative in Meha, Gulma, retention of flatus and obstruction of the bowels, and a ghee made with it in erysipelas, Kaksha and burning sensation of the body. Other uses named are retention of urine, semen and Vayu or faecal matter, malignant sores and ulcers, Apachi (glandular swellings), and cough in a compound with Tilvaka. The text calls the alkali it enters extremely irritating. The entry prints no virya or vipaka for the drug alone.
+
 ### Contraindications
 
 The Sushruta passages read print no warning for the drug itself, but every use is a purgative or irritant one: the text's own phrase for the alkali is "extremely irritating". Purgatives are unsuitable in pregnancy, in dehydration, in children and in the weak without medical supervision. The identity is open, and some purgative roots are toxic, so no root should be gathered or used on the strength of this entry. No conservation information was read. [USER: verify]

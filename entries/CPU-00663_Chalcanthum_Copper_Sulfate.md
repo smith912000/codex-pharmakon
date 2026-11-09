@@ -52,6 +52,10 @@ Copper sulfate ingestion causes nausea, vomiting, gastrointestinal bleeding, hae
 
 **Practitioner's note.** Nothing here for a cultivator to take. The Chinese text puts sublimated copper sulfate in the middle class with a promise of long life and immortality, and its own translator's note says the drug is toxic and erosive. The Greek text treats it as an emetic and a dye-stuff. The honest lesson is the one in the grading: a mixed-grade drug needs weighing and pondering, and for this one the weighing comes out against swallowing it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Blue vitriol's claimed sites are the eyes, the nose, the teeth, the skin, the womb, the bladder, the gut and the head. Yang's Shi Dan (cuprus sulphate) is listed as sour and a little cold, and is said to brighten the eyes, treat eye pain, incised wounds, epilepsy and tetany, genital erosion and pain in women, stone strangury, bleeding and various evil qi. Yang's own footnote limits its use to tooth decay, nasal polyps, sores, flat abscesses and occasionally eye disease. Dioscorides' chalkanthon, taken or licked with honey, is said to warm, form scabs and kill broadworms, to help against mushroom poisoning as an emetic, and, diluted and dropped into the nostrils through wool, to purge the head. The Chinese text also says it makes pregnancy possible. In modern anatomy terms the sites are the eye, the nasal passages and sinuses, the teeth, the skin, the uterus, the bladder, the gut and the head.
+
 ### Contraindications
 
 Copper sulfate is toxic by mouth and corrosive to the eye, skin and nose; it must not be swallowed, licked, or dropped into the nostrils or eyes. Poisoning needs urgent medical care. Preparations labelled "sublimated" or "calcined" in old texts are not standardised and may carry other metals. It is sold as a pesticide and chemical, not as a medicine, and its sale and use are regulated in many places. Pregnancy is a particular concern, though the Chinese text's line that it "makes pregnancy possible" is recorded here as the tradition's claim, not as advice.

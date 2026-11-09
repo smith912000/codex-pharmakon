@@ -83,6 +83,10 @@ Purslane is an Old World cosmopolitan weed, so its Eurasian and Mediterranean ta
 
 **Practitioner's note.** A cultivator uses purslane to cool and clear — a fresh potherb or poultice against damp-heat, hot sores and burning flux, and a nutrient-dense omega-3-rich green. Its work is subtractive (draining heat and toxicity), not the building of a vital substance. Across every tradition that claims it, the honest register is (c): a heat-clearer, not a life-nourisher.
 
+### Functional–Anatomical Correlate
+
+Purslane acts on heat-affected tissue: the large intestine and gut mucosa in damp-heat dysentery and bloody diarrhoea, the blood in heat-caused bleeding, the skin for hot sores and bites when applied fresh, and the urinary passage for burning urination. TCM terms: sour and cold, entering Large Intestine, Liver and Heart, clearing heat, resolving toxicity, cooling blood, stopping dysenteric diarrhoea. Galenic and Unani terms: cold and moist in the second to third degree, refrigerant, moistening, mildly astringent; its seeds are a cooling demulcent for hot fluxes. Ayurvedic terms: cooling, Pitta-pacifying, mildly diuretic. Modern anatomy is applied to the entry's trials: in NAFLD, 700 mg daily for eight weeks was reported to improve liver enzymes, steatosis and stiffness, and seed powder lowered LDL and triglycerides in adolescents. The entry grades the acute-infection use as traditionally robust but less trialled. Cautions: oxalate for stone formers and renal impairment, cold-type diarrhoea, and pregnancy. The entry assigns no vital-body status.
+
 ### Contraindications
 
 - **High oxalate content** — caution or avoidance in oxalate kidney-stone formers and significant renal impairment; excessive intake may aggravate stone risk.

@@ -120,6 +120,10 @@ Not commonly indicated — culinary and tea preparations provide adequate therap
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps fennel onto four systems. Digestive: anethole and fenchone are said to act on intestinal smooth muscle through calcium-channel antagonism, reducing spasm and gas, and the TCM reading has small fennel warming the Middle Burner (Spleen and Stomach) and dispersing Cold. Reproductive and hormonal: trans-anethole is described as a phytoestrogen acting on oestrogen receptors and modulating the hypothalamic-pituitary-gonadal axis, alongside the Canon's note on thickening semen and the TCM Kidney and Lower Dantian reading. Lactation: the entry states that trans-anethole stimulates prolactin, supporting its galactagogue use. Nervous system: anethole is said to show mild anxiolytic and antiepileptic effects in rodent models through GABA-A modulation, which the entry files as Shen-settling. TCM also assigns Liver-channel cold-type hernia pain and Kidney Yang low back pain. Energetically it is Qi with a secondary Shen tier.
+
 ### Contraindications
 
 - **Oestrogen-sensitive conditions** — trans-anethole's phytoestrogen activity; theoretical concern in oestrogen-receptor-positive breast cancer; avoid concentrated fennel preparations (essential oil, high-dose supplements) in hormone-sensitive conditions; culinary use safe

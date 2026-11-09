@@ -49,6 +49,10 @@ General, well-established facts only. Rotting or fermentation of cereal grain in
 
 **Practitioner's note.** An external dressing for a scalp complaint, named once. A cultivator has nothing to do with it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the text names Rotted Cereals once, as a dressing for Eczema-of-the-Head, applied after a graded series of other applications had been tried. The part of the body it is put on is the scalp and head skin, and the entry records nothing about its action beyond being smeared or dressed on that site. The text gives no quality, organ, channel or mechanism, and says nothing about the grain, the method of rotting or the duration. The Codex notes, as a general fact and not the text's claim, that rotting cereal can carry moulds and bacteria, which matters for broken skin. No recipe or dose is given. The entry does not claim a modern correlate for the eczema, and it gives no protocol.
+
 ### Contraindications
 
 - **Identity.** "Rotted Cereals" is Bryan's English phrase, not a specified substance; do not attempt to reproduce it. [USER: verify]

@@ -65,6 +65,10 @@ For the avenanthramide fraction, the evidence is preclinical. According to PubMe
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, oat acts chiefly on the digestive tract and the chest, with a nervous-system restorative role. Dioscorides gives it as a demulcent for coughs and for the belly. Unani (Avicenna) names the chest, throat and bowel, nourishing weakness and gently loosening the gut. The TCM frame places its action on the spleen and qi, tonifying and moistening, and on spontaneous sweating. Oatstraw and milky-oat preparations are said to restore the frayed nervous state, and colloidal oatmeal is applied to irritated skin. The modern correlates the entry cites are strongest for the lipid system: beta-glucan lowers total and LDL cholesterol in randomised trials, which the entry links to cholesterol handling and to post-prandial glucose smoothing. The avenanthramide fraction has preclinical anti-inflammatory work in the colon, where it is reported to act on neutrophils, gut microbiota and bile-acid signalling in mice. Ayurvedic-by-analogy terms give sweet, nourishing, Vata- and Pitta-pacifying action.
+
 ### Contraindications
 
 - **Coeliac disease / gluten cross-contamination:** oat is intrinsically gluten-free, but commercial oats are very commonly cross-contaminated with wheat, barley, or rye during growing, milling, and processing. Coeliac and non-coeliac gluten-sensitive individuals must use **certified gluten-free oats** only. A minority of coeliacs also react to oat avenins themselves — introduce cautiously and under guidance.

@@ -38,6 +38,10 @@ General, well-established facts only. Weevers are venomous fish found in shallow
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The sea dragon is a one-line wound remedy in a book of "living creatures", and the Codex does not recommend it. The most useful thing for a cultivator to take from the chapter is to avoid the hazard: the practical lesson is to avoid the sting in the first place. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one use, that the sea dragon, opened and applied, cures the hurt done by its own prickles. The tissue the text names is the wound itself, where the spines have pierced the skin and the tissue beneath. No organ, system, humour or energetic quality is named, and the chapter gives no temperament, taste or potency for the fish. Two other chapters show the same animal as a source of wounds, one healed by the red mullet and one by a man's own urine applied in hot cloths, but those describe bites and hurts without naming any organ. The only correlate the source supports is local: a puncture by venomous spines, which in modern anatomy is a wound of skin and soft tissue. The entry records what Dioscorides says, and the Codex does not recommend laying a fish on a sting.
+
 ### Contraindications
 
 - **Stings:** a weever sting needs first aid and medical advice, especially if pain spreads, breathing or heart rate change, or the wound is deep.

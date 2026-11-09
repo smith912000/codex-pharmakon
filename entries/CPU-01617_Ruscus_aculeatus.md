@@ -45,6 +45,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It offers a description, a hedged amulet and an unspecified compress, without amounts, so it is history and not a practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: The chapter describes a little shrub like wild myrtle, with thin leaves and prickly filaments, and says the filaments seem to be an effective amulet for headaches. Headache is the only body complaint named, and the head is the site it points to. The root and juice are mixed with warm compresses, but the chapter names no complaint and no organ for the compresses, so no tissue can be assigned. No humoral, doshic, qi or other energetic quality is given, and no taste. The chapter gives no internal use. The alternative names antirrhinon, anarrhinon and lychnis sylvestris are shared with the next chapter, which describes a different plant with purple flowers, so they add no anatomy here. The identity is the translators' suggestion. The entry therefore maps only the head, by a hedged amulet claim that the chapter itself marks as a report.
+
 ### Contraindications
 
 The chapter prints no warning. A headache that is severe, sudden or persistent needs medical assessment, and an amulet or compress must not replace it. The identification rests on a translators' suggestion, so no wild plant should be gathered or used on the strength of this entry. [USER: verify] None of the traditional uses above is advice.

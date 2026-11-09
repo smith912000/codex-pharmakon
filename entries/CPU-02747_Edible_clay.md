@@ -38,6 +38,10 @@ General, well-established facts only. Eating earth (geophagy) is recorded in man
 
 **Practitioner's note.** Nothing to do. The author of the entry himself says he does not like it used.
 
+### Functional–Anatomical Correlate
+
+Under the digestive organs, the Canon says this clay strengthens the mouth of the stomach (fam al-meda) and removes the heaviness (wakhama) of food, and that it has a wonderful property in preventing vomiting. In Unani terms it is obstructing and spoiling to the temperament, so the stomach and its temperament are the claimed sites, and the vomiting reflex is mapped as a function of the stomach. Modern anatomy places these claims in the stomach, its opening and the gastric emptying and nausea pathway. The entry gives no degree of heat, cold, dryness or moisture. The entry is cut off mid-sentence in the e-text, after a clause about pleasing the soul (nafs), so no further site can be mapped. Pregnancy and children are not addressed in the lines read, and no other organ system is named.
+
 ### Contraindications
 
 - **Contamination.** Soil-borne pathogens, parasites and heavy metals; constipation and obstruction (the text's own "obstructing"). Do not eat clay. [USER: verify]

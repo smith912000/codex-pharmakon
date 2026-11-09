@@ -48,6 +48,10 @@ The Shennong text proper gives no preparation. The Mingyi layer gives the harves
 
 **Practitioner's note.** A lower-grade drug for skin heat and itch in the text's own frame, to be used for a defined complaint and then set aside. The anecdote of regular use belongs to a later writer and rests on a name, not a regimen. Nothing in the entry supports a long-term practice, and no dose is given.
 
+### Functional–Anatomical Correlate
+
+The Shennong paragraph ties the herb to the skin and to parasites, and the seed to the lips and mouth. The herb is bitter and slightly cold. It governs evil qi and heat within the skin, and wind-itching of the body, and it is said to kill the three worms, which the Codex does not identify. The seed named cao jue ming has one indication in the text: blue-green lips and mouth. The Mingyi bielu layer adds harvest times and no new body system. Yang's eye use is a later commentary outside the Shennong paragraph, so the eyes and liver are not mapped here. No organ or channel is assigned and modern correlates are not supplied, because the Codex does not translate the three worms or evil qi into modern diagnoses. The entry itself states that itching skin and discoloured lips need medical assessment.
+
 ### Contraindications
 
 The sources read print no warning for this drug beyond the class statement that lower drugs are mostly toxic and not for long use. Nothing should be gathered or taken on the strength of this entry. Skin complaints, itching and discoloured lips need medical assessment. No safety information for pregnancy was read. [USER: verify]

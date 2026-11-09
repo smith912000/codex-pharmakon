@@ -47,6 +47,10 @@ General statement only: a drug that cannot be tied to a species cannot be linked
 
 **Practitioner's note.** A word that appears in two groups, one for *Vayu*, *Kapham*, poison and skin eruptions, the other for bleeding from the lungs. Nothing in the record supports a cultivation use. A cultivator does nothing with this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: no effect is given for Keshara alone. The Eladi group, in which the word is listed, is said to subdue deranged Vayu and Kapham, to neutralise the effects of poison, and to be cosmetic, arresting pimples and other skin eruptions such as rash and urticaria and checking the itching that goes with them. The Anjanadi group, the word's second listing, is said to be curative in haemoptysis, bleeding from the lungs or airways, and anti-toxic, allaying internal burning sensation of the body. In modern anatomical terms these fall on the skin and the respiratory tract. The text gives no part, plant or dose, and the entry notes the word may name a part, filament or flower, or more than one plant. Nothing says whether the two groups concern one drug. It is a historical record only.
+
 ### Contraindications
 
 - **Identity.** The plant is not identified in the sources read. Do not use any plant sold under this name on the strength of this entry. [USER: verify]

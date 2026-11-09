@@ -47,6 +47,10 @@ Rose hips are a general food source of vitamin C and are eaten or made into syru
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. A fruit for sores, treated as an upper-grade drug in one reconstruction and as an inferior one in the other. If used at all, it is as these texts use it, for a stated complaint and a short course. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The paragraph names no organ or channel. Read as the classic's claims, the sour, warm fruit acts on the skin and soft tissues, where it is said to treat welling and deep-rooted abscesses, malign sores and rotten sores that do not heal. It acts on flesh and sinews, releasing flesh bound up and sprained sinews. It is said to free the joints (利关节) and to treat heat qi (热气), a classical term for heat in the body's qi. Genital erosion that does not heal (阴蚀不疗) is named as a further site, so the genital tract is one of the tissues the text names. Yang's footnote adds thorns in the flesh and fish bones stuck in the throat, but Yang doubts that these indications belong to the fruit, and the Codex records them only as Yang's gloss. The text names no mechanism, so the mapping stops at the listed sites.
+
 ### Contraindications
 
 - **Abscesses, spreading sores and joint injuries.** Need medical assessment.

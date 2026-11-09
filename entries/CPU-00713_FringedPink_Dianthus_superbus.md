@@ -70,6 +70,10 @@ Direct clinical trial data on *Dianthus superbus* are sparse; the evidence base 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps Qu Mai mainly to the lower burner: the urinary bladder and urinary passages, with the Heart, Small Intestine and Bladder channels named in TCM. Its classical target is the lin syndrome of painful, dribbling, obstructed urination, which the entry links to dysuria, cystitis, urinary calculi and urethritis. It is also said to invigorate blood and promote menstruation, placing the uterus in its range. The Galenic frame, Cold and Dry at about the second degree, describes it as draining and deobstruent to the urinary passages, and mildly cordial to the heart. The Unani reception uses it to temper heat of the urinary tract. The entry names flavonoid glycosides and saponins as constituents, and cites cell-model antioxidant data. It flags an in-vitro genotoxicity signal at high concentration and cautions in deficient Spleen or Kidney patterns, which its draining action can deplete, and in pregnancy.
+
 ### Contraindications
 
 - **Pregnancy — avoid.** *Dianthus superbus* is a traditional blood-mover and emmenagogue used specifically to promote menstruation; this is a classical contraindication in pregnancy and a caution during heavy menstruation.

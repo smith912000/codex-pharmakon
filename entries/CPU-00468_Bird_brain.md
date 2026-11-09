@@ -58,6 +58,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps to the eyelid and its lash follicles. The brain of an unidentified bird, named by the Egyptian word uuat, is smeared on a vine leaf and placed where an eyelash had been pulled out, to keep the hair from growing into the eye. It closes a series that uses blood, fat and entrails for the same aim, so the lid margin is the only site named. The entry gives no humoral, doshic or qi classification and no organ beyond the eye. The steer backbone named in the spine row is not found in the text and is not mapped. The bird's identity and the tissue's effect are not stated, and the Egyptian material attaches no vital-constitution claim. Modern anatomy terms: eyelid margin, lash follicle and skin at the lid edge.
+
 ### Contraindications
 
 - **Hygiene and infection:** raw animal tissue near the eye risks infection; eye disease needs medical care.

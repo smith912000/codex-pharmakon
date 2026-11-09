@@ -43,6 +43,10 @@ Thymol is a well-known antiseptic compound, and thyme is widely used as a culina
 
 **Practitioner's note.** Nothing in the source read gives a cultivator a practice with this plant. As a kitchen herb it needs no cultivation framing.
 
+### Functional–Anatomical Correlate
+
+The entry gives two traditions. Dioscorides (3-46) records the garden kind as expelling the menstrual flow and urging urination; helping griping, hernia, convulsions, liver inflammation and snakebite; soothing headaches when boiled with vinegar and applied to the head; good for lethargy and frenzy; and four teaspoonfuls of its juice with vinegar stopping blood-vomiting. His thyme vinegar (5-24) is for a weak stomach, arthritis and those inflated with wind, and it extracts thick black fluids. The Unani entry (CM, from Avicenna's Canon) names the wild kind as strongest, with temperament 'hot and dry in the third degree' and actions of dissolving, dispersing and subtilising. It lists hip pains (joints); chewed, it quiets toothache and heals slack gums (teeth and gums); its oil benefits the chest and lungs; it benefits the liver and stomach; it promotes urine and the menses; and it expels worms and pumpkin-seed tapeworm. The entry notes that this heat is therapeutic, not innate.
+
 ### Contraindications
 
 The medicinal uses recorded include menstrual-expelling uses; do not use medicinally in pregnancy. Concentrated thyme essential oil is an irritant and should not be taken internally. The traditional uses are not advice.

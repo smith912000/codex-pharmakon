@@ -43,6 +43,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The root regimen is gynaecological and the quantity is large, so it is history and not a practice.
 
+### Functional–Anatomical Correlate
+
+The entry's organ mapping rests on two uses. The three or four white, sweet-smelling, warming roots, bruised and steeped in sweet wine, are said to cleanse the womb, which maps to the uterus and the menstrual system. The seed, taken in liquids and sipped, is said to draw down milk, which maps to lactation and the breast. The chapter gives a warming quality for the root only and no humoral or qi term. Its leaves are compared with garden black nightshade and its seed with millet. The plant is said to grow in rocky, windy, open sunny places. The dose given is large: as much as three pounds of root in three pints of sweet wine, taken for three days, with the measures being the translators' renderings that were not checked. The identity as Circaea lutetiana is a translators' suggestion. No clinical study was retrieved.
+
 ### Contraindications
 
 A preparation said to clean the womb must not be used in pregnancy. The plant's identity rests on the translators' suggestion, and the leaf comparison is with a poisonous nightshade, so no wild plant should be gathered or drunk on this basis. None of the traditional uses above is advice. [USER: verify]

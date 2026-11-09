@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identifica
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with these plants. The lesson is protective: the one who handles the juice prepares his own body first and works away from the wind. The text offers nothing more, and no spurge juice should be handled on its strength.
 
+### Functional–Anatomical Correlate
+
+Under the Dioscorides chapter the seven tithymals act mainly on the bowels, the throat and the skin. The first kind purges the lower bowels, and its juice taken with honey and water induces vomiting, so the stomach and gut are the organs acted on. The juice is put into tooth cavities against toothache, and the root boiled with vinegar is a wash for it. Applied externally the juice is said to remove hair, take off warts, growths and lichen, and help pterygium (an eye growth), carbuncles, spreading ulcers, gangrene and fistulas, so the skin, the eye and wounds are the sites named. The chapter prints no hot, cold, moist or dry quality and no doshic or humoral term. The Avicenna section of the entry concerns the gum euphorbium, not these leafy spurges, and is kept separate: it lists joints (sciatica, bone splinters), the eye (cataract), and the kidneys and colic (dropsy), and warns that three dirhams kill by ulcerating the stomach and gut.
+
 ### Contraindications
 
 The chapter's own instructions show the hazard: the gatherer must keep out of the wind, keep his hands from his eyes and protect his skin, and the juice "irritates a sore throat". Spurge latex burns skin and eyes and mucous membranes, and swallowing it can cause violent vomiting and purging, so no part of these plants should be taken or applied. The platyphyllos kills fish according to the text. The identification is only the translators' heading-level suggestion, so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. None of the traditional uses above is advice. [USER: verify]

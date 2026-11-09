@@ -99,6 +99,10 @@ The **essentiality of sodium and chloride** to extracellular fluid volume, osmot
 
 **Practitioner's note.** Salt is food before it is medicine, and the sources read lean toward restraint. Sushruta's *rasayana* recipes withdraw it from the meals that follow the medicine, the Tibetan texts tie excess to loss of strength, grey hair and baldness, and the Chinese classic grades it as a lower-grade drug. Nothing sourced here supports taking more salt for cultivation, and three of the eight tags (AT, CM, BM) rest on list rows or merged spine rows with no text read. For a cultivator the honest use is ordinary seasoning, with the restraint the recipes themselves model. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Salt's entry maps first onto fluid, nerve and muscle physiology, and in its traditional frame onto the Kidney, Stomach and Large Intestine. In Chinese terms it is cold and salty, is said to soften hardness and dissipate nodules, cool the Blood, purge the bowel and guide other medicines to the Kidney. Ayurvedic terms give it a kindling action on digestion, a downward-moving action on wind and a cutting action on phlegm. The modern correlates named are extracellular fluid volume, osmotic balance and the sodium gradient that drives nerve impulses and muscle contraction, with chloride as a component of gastric hydrochloric acid. Its osmotic action on wounds, the gums and the throat underlies saline gargle and irrigation. The entry's main physiological caution concerns the blood vessels and kidneys: excess sodium raises blood pressure and cardiovascular and renal risk, and aggravates oedema.
+
 ### Contraindications
 
 - **Hypertension / cardiovascular / renal disease — the dominant caution:** excess dietary sodium raises blood pressure and cardiovascular and renal risk; salt restriction is standard in hypertension, heart failure, chronic kidney disease, and cirrhosis with oedema. This is the single most important safety point.

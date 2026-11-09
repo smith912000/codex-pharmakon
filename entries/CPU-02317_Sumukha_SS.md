@@ -51,6 +51,10 @@ General, well-established facts only. Nothing can be said of an unidentified mat
 
 **Practitioner's note.** A herb named in three lists, with one sentence that makes it a Surasa-like drug that also answers poisons. A cultivator has nothing to use from it until it is identified, and the record carries no long-term or life-nourishing claim.
 
+### Functional–Anatomical Correlate
+
+Sumukha is named in three chapters, and the text says little about its body action beyond a few lines. As a member of the Surasadi group, the group as a whole is said to subdue deranged Kapham and to help in catarrh, non-relish for food, asthma and cough. The spice list gives Sumukha alone the properties of Surasa, which the text says generate Pittam and relieve colic and pain at the sides, with one difference: Sumukha is said to neutralise poisons that arise from the combination of incompatible substances in the organism. The entry does not translate Pittam, colic or the sides into modern organs, and the Sushruta terms are not turned into modern diagnoses. The text places Sumukha in the pungent group, and it gives no rasa, virya or vipaka. Nothing is said of the plant's part used, habitat or tissue, so the entry maps only to the functions named and to no organ.
+
 ### Contraindications
 
 - **Identity.** The material is not identified. Nothing may be gathered, bought or used on the strength of this entry. [USER: verify]

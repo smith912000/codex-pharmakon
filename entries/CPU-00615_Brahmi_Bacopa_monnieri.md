@@ -67,6 +67,10 @@ Verma et al. (2025), *Journal of Ayurveda and Integrative Medicine* — a double
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, Brahmi acts principally on the brain, and specifically on memory and learning. Ayurveda, in the Sushruta lineage, places it as a medhya rasayana that sharpens smriti, dhi and dhriti, with a role in mind and nerve disorders and in insomnia. The Unani frame has it tempering heat and dryness that disturb the ruh and the faculties of the brain, calming agitation and clearing the sensorium. The adjacent TCM framing says it calms the spirit (an shen) and clears heat. The modern correlate the entry relies on is the hippocampus, the memory organ: bacosides are said to modulate cholinergic transmission and to support synaptic density and antioxidant defence there, and trials show gains in delayed verbal recall and reduced anxiety without a stimulant edge. Cardiac and endocrine contact is flagged rather than claimed: heart-rate reduction was noted in one trial, and preclinical data suggest thyroid-stimulating activity. Nausea, cramping and altered stool frequency are the listed gastrointestinal effects. The entry also notes that the rasayana grade cannot be pinned to this species rather than Centella.
+
 ### Contraindications
 
 - **Bradycardia / cardiac conduction concerns:** the Calabrese trial noted heart-rate reduction; use caution with bradycardia or rate-lowering drugs.

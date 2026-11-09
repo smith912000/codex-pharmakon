@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a wound drug in the Tibetan texts, its Latin name is not settled, and the Men-Tsee-Khang glossary appears to pair its name with another plant. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: Clark 1995's line for brag.lcham, whose first Latin name is Bergenia ciliata, says in the root text that the drug heals wounds (line 1093). The Men-Tsee-Khang text, reading the name as Drak cham by spelling and sound, says it closes wounds (line 3457). Wounds are the only site the entry names, which in modern anatomy is the skin and the soft tissue beneath it. The bracketed commentary describes a rock-growing plant with thick, glossy, green leaves and a red or white flower, but gives no organ or tissue. The same Men-Tsee-Khang sentence assigns a channel-sealing action to Tamik, a different drug that is not mapped here. No taste, power or channel is printed for the drug. The Men-Tsee-Khang glossary pairs Drakcham by column position with Cortusa, not with Bergenia, so that pairing cannot support an organ claim. The entry therefore maps the wound only, and gives no mechanism.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The identity is uncertain, so no plant should be gathered or used on the strength of this entry. A wound that does not close, or that shows signs of infection, needs medical care. No safety information for pregnancy was read. [USER: verify]

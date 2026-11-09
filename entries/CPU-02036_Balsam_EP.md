@@ -47,6 +47,10 @@ General, well-established facts only. The word "balsam" has been used in several
 
 **Practitioner's note.** A resin or oil whose identity the text does not give, used once, in the text read, as a vehicle for a bird's blood on grey hair. There is nothing here for a cultivator to take or do. The practical lesson is about reading: a translator's English plant name in the Ebers papyrus is a hypothesis, and the entry stays unresolved until a scholarly source says otherwise.
 
+### Functional–Anatomical Correlate
+
+Little to map: the sources read state one use only. Real Balsam is the vehicle in which the blood of a gabgu-bird is rubbed on to prevent grey hairs (Ebers, lines 4044-4045). The hair is the only tissue named. The text gives no taste, humour, energetic class or constituent for the balsam, and it assigns no place in the ka, ba, akh or ib, nor in heka. Bryan's comment that the recitation shows the medicament overcomes the disease is recorded as his commentary only. The balsam's identity is unresolved, with Commiphora opobalsamum a candidate, and the entry does not establish any hair-colour effect. The Codex gives no protocol and does not recommend this remedy.
+
 ### Contraindications
 
 - **Identity unknown.** Several resins have been called balsam, and some are irritants or sensitisers. Do not apply an unidentified resin to skin or scalp. [USER: verify]

@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** The sources give a cultivator no practice with this drug. It is a remedy for sores and eye disease with no stated preparation or amount, and its identity is uncertain between a sedge and a lily relative, so the honest answer is that there is nothing here to take up.
 
+### Functional–Anatomical Correlate
+
+The Tibetan rGyud-bzhi texts, read through Clark's 1995 translation and the Men-Tsee-Khang 2011 summary, name a.wa for chest sores or, in the Men-Tsee-Khang rendering, wounds of the abdomen, and for eye diseases. The organs the root text claims are therefore the chest or abdominal wall and the eyes. Clark's bracketed commentary layer adds that the drug stimulates tooth growth, which places an action on the teeth and gums, and that it dispels spirits, an action against spirit agents rather than on a tissue. The two renderings disagree on the site of the sore, and the Tibetan words are not shown. The entry gives no taste, no cool or warm power and no temperament for the drug. Clark's description of a flowerless, fruitless grass with hollow stalks on north-facing rocks is form and habitat only. No essence-extraction status is assigned. These are the texts' claims, and the Codex gives no protocol.
+
 ### Contraindications
 
 The sources read print no warning. Eye disease and sores need medical care and must not be left to a home preparation. The botanical identity is uncertain (two genera in Clark), so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

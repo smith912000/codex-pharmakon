@@ -43,6 +43,10 @@ General, well-established facts only. *Callicarpa macrophylla* is a shrub of the
 
 **Practitioner's note.** A bitter herb for liver and stomach fevers and for bleeding and wounds, unresolved between two plants. Nothing here supports any cultivation use, and the plant should not be gathered on this entry's authority.
 
+### Functional–Anatomical Correlate
+
+The entry's organ-level statements are for fevers of the stomach and the liver, with all types of liver fever named. The Explanatory Tantra's materia medica entry, as Clark renders it, gives a bitter-sweet taste and calls the drug hemostatic, wound-healing and drying of lymph accumulations; 'inconceivable qualities' is the commentary's phrase and is not an effect. In the body terms the entry uses, the tissues addressed are the liver, the stomach, the blood (bleeding is checked), wounds, and the lymph accumulations. The tradition's own fever categories, liver fever and stomach fever, are kept untranslated, and the entry does not convert them to modern diagnoses. The herb sits in the fever section of the materia medica, within a frame in which the three nyes pa derive from the three poisons and medicine is the third of four treatment branches. Clark's endnote says this section was not fixed in the original text. The part used, preparation and dose are not stated, and the identity between two plants is unresolved. Pregnancy, lactation and children are not addressed.
+
 ### Contraindications
 
 - **Identity.** Two plants are named; do not choose one and use it on this entry's authority.

@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a chest-fever and common-cold drug in two short sentences, one of several candidate species for a Tibetan name, with no preparation and no dose. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: Clark 1995 gives the Tibetan name lug.mur as a Phlomis with a sweet-tasting fruit. Its actions are that the fruit 'cures lung disorders' (Clark's commentary, inside brackets), and that the drug 'cures chest fevers and common cold' (Clark's root-text clause, which the same line shares with the preceding drug). Men-Tsee-Khang 2011 gives the same name 'heart bum and the common cold', with 'bum' as printed. The lung and the heart are the only organs named, and the entry does not say which part of the plant is taken. The commentary describes furry, yellowish-green leaves, square petioles and brown flowers, and the sweet taste is given for the fruit only. No power, preparation, quantity or dose is printed. The name is shared among at least three binomials, and no clinical study was retrieved.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Fevers and lung illness need medical care; no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Because the species is one of several candidates, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

@@ -58,6 +58,10 @@ Evidence grade: **preclinical.** The neutrophil/anti-inflammatory data give a me
 
 **Practitioner's note.** Nothing to cultivate; a bitter cooling remedy for bile heat, used for a defined disorder.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Gentiana straminea is a Qín Jiāo source and shares its identity: a bitter, acrid, cooling wind-damp herb for hot, inflamed joints and sinew stiffness with heat, for deficiency heat, and for damp-heat jaundice, entering the Stomach, Liver and Gallbladder channels. Its distinctive emphasis is the liver and gallbladder. In Tibetan medicine (rGyud-bzhi, Ji-ma) it is a cold-natured bitter for liver and gallbladder heat, fever, inflammation and jaundice-type conditions, and the Tibetan texts the entry read place it among medicines for bile disorders and vessel-organ fever. The entry reports that five root secoiridoids, including gentiopicroside, sweroside and swertiamarin, suppressed stimulus-induced superoxide generation in human neutrophils in vitro. That cell-level mechanism underpins the cooling anti-inflammatory account; no human clinical efficacy is established for this species.
+
 ### Contraindications
 
 As for Qín Jiāo (see I_315): avoid in cold-type / deficiency-cold *bi* without heat and in Spleen/Stomach deficiency-cold with loose stools; caution with marked qi/blood deficiency and in pregnancy [USER: verify]. Isolated secoiridoids are experimental constituents with no established standalone human safety profile.

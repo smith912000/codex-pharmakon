@@ -66,6 +66,10 @@ According to PubMed, *M. paradisiaca* has a **preclinical evidence base** for me
 
 **Practitioner's note.** Nothing. The banana is ordinary food and a source of astringent and cooling remedies in the Suśruta text; the tradition records no vital-constitution role for it, only the rule not to combine the fruit with milk.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Kadalī acts mainly on the digestive tract and on nutritive tissue. The ripe fruit is described as bṛṃhaṇa (nourishing), snigdha (unctuous) and śīta (cooling), used to quench thirst (tṛṣṇā-hara) and calm burning (dāha) in a Pitta-inflamed gut, with demulcent protection of raw mucosa. The unripe fruit and the kadalī-kṣāra (plant ash) carry an astringent, absorbent (grāhī) action for diarrhoea and mucosal complaints. The stem-pith juice is given as a diuretic and lithotriptic (mūtrala, aśmarī-hara) for urinary stones, the fresh leaf as a cooling dressing for wounds and burns, and the flower in women's-health and dysentery preparations. Modern terms in the entry: resistant starch, fibre and pectin support gastroprotection and glycaemic moderation, and flavonoids and phenolics support antioxidant and bone signals. The bone and antidiabetic effects are shown in rodents only. The entry also notes Kapha aggravation and that the ripe fruit is potassium-rich and high in glycaemic load.
+
 ### Contraindications
 
 - **Kapha & Meda excess / obesity / heavy Kapha states:** ripe fruit is guru-snigdha-Kapha-aggravating; limit in Kapha disorders, congestion, and weight-loss contexts.

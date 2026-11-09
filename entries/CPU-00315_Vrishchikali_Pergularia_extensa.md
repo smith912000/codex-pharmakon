@@ -67,6 +67,10 @@ These support the traditional anti-inflammatory/anti-rheumatic and CNS-modulatin
 
 **Practitioner's note.** Nothing. Suśruta frames this as a drug of a disease-oriented group, with no long-term or rejuvenative use recorded.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Vṛścikālī acts on the channels that carry obstructed flow. In the digestive tract it kindles digestion (dīpana-pācana), clears āma from sluggish kapha-laden digestion, and is an anthelmintic (krimighna). In the respiratory tract its expressed juice is an expectorant and decongestant for boggy chest catarrh, and its anti-cough and anti-asthmatic actions (kāsahara, śvāsahara) appear in its karma list. In the uterus it is an emmenagogue (ārtavajanana) and a folk uterotonic, which the entry links to smooth-muscle effects. It is also a folk lactagogue. Cold, immovable joint swellings are its musculoskeletal target (śothahara), with rat arthritis data cited for a flavonoid-rich extract. Ayurvedically it moves wind downward and outward (vātānulomana), lowers kapha and vāta, and may raise pitta in excess. Mouse kindling-seizure and neuroinflammation work is cited as CNS-modulating evidence at animal level only. Evidence is graded LOW. Pregnancy is an absolute contraindication, and cardenolide content makes the heart a concern.
+
 ### Contraindications
 
 Pregnancy — **absolute contraindication** (uterotonic/emmenagogue, documented folk abortifacient use). Cardenolide content: caution with any cardiac-glycoside therapy (digoxin), in cardiac disease, and in electrolyte disturbance. Not for high pitta, ulcer, hyperacidity, or inflammatory GI states (heating, sharp). Not for children, the debilitated, or the dehydrated except under expert supervision. Overdose risk: vomiting, purging, cardiac effects. Lactation — folk lactagogue use notwithstanding, avoid without supervision.

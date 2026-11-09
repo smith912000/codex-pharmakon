@@ -46,6 +46,10 @@ General, well-established facts only. The categories "cold disorder" and "waist 
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The text lists the flesh of an animal that cannot be securely identified as a remedy for cold waist and kidney disorders, and Clark notes that few animal products are still used. The Codex does not recommend it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The flesh of the snow frog, according to both Clark and Men-Tsee-Khang, cures cold disorders of the waist and kidneys. That maps onto the lower back (waist) and the kidneys, under the Tibetan category of cold disorders. The Men-Tsee-Khang text gives the same action in a different word order. The commentary attaches a remark that the urine is a highly recommended aphrodisiac, which concerns a different part of the animal and is not mapped here. The text names no humour, temperament, channel, or organ beyond the kidneys and waist. In the Tibetan frame, dry-land flesh is cool, light and coarse and aquatic flesh is oily, heavy and warm, but the entry does not say which applies, and the animal is not securely identified.
+
 ### Contraindications
 
 - **Identity:** the animal is not securely identified; Clark and MTK point to different genera, so do not substitute any frog, toad, salamander or lizard.

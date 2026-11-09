@@ -43,6 +43,10 @@ General, well-established facts only. *Eupatorium fortunei* is used in modern Ch
 
 **Practitioner's note.** The classic grades this as a long-use, life-nourishing herb, and that grade is the whole of its cultivation status. A modern cultivator should not read it as licence to take an uncertainly identified aromatic composite for long periods: the plant behind the name is itself debated in Sun's note, some thoroughworts carry liver-toxic alkaloids, and no dose is given. The honest use of the entry is as a record of how the classic framed the drug.
 
+### Functional–Anatomical Correlate
+
+The Shennong paragraph gives the drug a pungent, even flavour and nature, and assigns it no organ or channel. Its actions are named in the classic's terms. It frees the water passages (li shui dao), which the entry does not map to a modern organ. It also kills gu poison and wards off the inauspicious. For long use the classic says it benefits qi, lightens the body, prevents ageing and opens through to the spirit-light. The entry does not translate these into modern organs or diagnoses. The Mingyi layer adds only a habitat and harvest months. Sun Xingyan's note debates whether the plant is this thoroughwort or ze lan, so the species is not fixed for mapping. No part, preparation or dose is given in the sources read, and no modern pharmacological correlate is drawn from the classic's claims.
+
 ### Contraindications
 
 - **Identity:** plants sold under lan cao, pei lan or ze lan are not interchangeable; the note itself argues that lan cao and ze lan are two things.

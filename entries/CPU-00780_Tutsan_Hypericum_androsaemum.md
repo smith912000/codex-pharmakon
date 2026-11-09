@@ -138,6 +138,10 @@ The entire clinical literature on *Hypericum* for depression belongs to ***H. pe
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, tutsan acts on two tissues in two directions. Applied outside, it is a vulnerary acting on skin and breached surface: in mediaeval terms it draws the lips of a wound together, dries weeping and resists corruption. Berry extracts were reported to increase human fibroblast migration and inhibit collagenase, the cellular events of wound closure. Taken inside, the Iberian folk tea is described as a hepatobiliary and diuretic drainer acting on liver, gallbladder, urinary channel and gut. The entry says its active principle is unidentified, since chlorogenic acid alone did not reproduce the extract's effect on gut-line cells. The humoral frame places it among cool, dry, astringent drugs. The entry explicitly assigns it no mood or nervine action, that reputation belonging to H. perforatum. The sources it cites relate to skin and gut tissue, and nothing in the entry maps it onto the mind.
+
 ### Contraindications
 
 - **⚠️ Photosensitisation — genus-level caution.** *Hypericum* species are the archetypal photosensitising genus, and phototoxicity is documented as a species-variable property across the genus (Napoli et al., 2018, which found *H. perfoliatum* and *H. tetrapterum* the phototoxic candidates and assayed all eleven species by photocytotoxicity in NIH/3T3 fibroblasts). *H. androsaemum* berry extracts were separately found **photostable across UVA/B** (Antognoni et al., 2016) — a genuinely reassuring result for the topical use. **Nonetheless, treat photosensitisation as a live genus caution and avoid strong sun exposure during internal use.** The presence of herniarin (a coumarin) in the fruit is an additional, if minor, reason for that caution.

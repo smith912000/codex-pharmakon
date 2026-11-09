@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a fever, blood and poison drug in the Tibetan texts, with no line outside Clark's commentary layer describing the plant, and nothing more can be said from them. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts map this drug to fever, blood and poison, and the entry is careful about which layer each claim comes from. Clark's commentary, in square brackets, says the plant cures infectious fevers of the small intestine and, in its second type, urinary disorders, polyuria and fever of the urinary bladder. The root-text layer of Clark names only the drug. The Men-Tsee-Khang text says it cures infectious diseases and "chronic hot disorder", and is an antidote against poisoning. Clark's chapter 21 places it among the medicines for blood disorders and among those that neutralize poisons. The commentary layer gives a bitter taste, and the Men-Tsee-Khang text states no taste. No humoral, doshic or qi term is printed, and no power (hot, cool, heavy or light) is printed for the drug. The botanical identity is uncertain between two binomials, so these describe what the texts claim only.
+
 ### Contraindications
 
 The sources read print no warning. Infectious fever and suspected poisoning need medical care, and the Codex gives no treatment for either. The botanical identity is uncertain (two binomials in Clark, and the description is commentary), so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

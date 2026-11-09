@@ -86,6 +86,10 @@ Cold and dry in the extreme (Avicenna's "cold in the highest degree"); a *mukhad
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, Egyptian henbane acts on the nervous system, the eye and the secretory and smooth-muscle systems through antimuscarinic action. In the Canon's terms it is cold and dry in the extreme, a mukhaddir (narcotic) and hypnotic that dulls intractable pain and cough and induces sleep, with mind-deranging effects. Dioscoridean doctrine places madness and heavy sleep in the dark-seeded kind, and assigns the milder white-seeded sort to topical anodyne use for pain, inflammation, and eye and ear pain. The entry maps the dry temperament onto peripheral muscarinic blockade: dry mouth, anhidrosis, mydriasis, ileus and urinary retention. The mania pole maps onto central blockade producing delirium, and scopolamine's greater CNS penetration onto the heavy-sleep and amnesia pole. Dermal and smoke absorption are noted as routes to systemic poisoning. The entry records no self-administration register; its legitimate role is as a feedstock for regulated tropane manufacture.
+
 ### Contraindications
 
 **⚠️ Category: DEADLY — anticholinergic deliriant. Not for any self-use.**

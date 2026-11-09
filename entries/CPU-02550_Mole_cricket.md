@@ -43,6 +43,10 @@ In general knowledge the mole cricket is a burrowing, soil-dwelling insect that 
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. A lower-grade insect-drug for a short list of acute complaints; the lower grade is by the classic's own preface not for long use. SHORT entry: the sources give little.
 
+### Functional–Anatomical Correlate
+
+The mole cricket, in the Shennong bencao jing, is mapped to the womb and childbirth, the flesh and skin, and the throat. Its flavour is salty and cold (xian, han). The paragraph names difficult childbirth (chan nan), splinters in the flesh (chu rou zhong ci), abscesses and swellings (kui yong zhong), choking (xia geng ye), and malign sores (chu e chuang). These place the action on the reproductive system at delivery, the soft tissues, the skin and the throat. The insect is also said to resolve poison (jie du). The entry names no channel, organ or tissue beyond these, and no constituent. The Mingyi layer adds only the origin and a summer solstice harvest. Its short entry gives nothing further about the body.
+
 ### Contraindications
 
 - **Obstructed labour, choking, abscess.** Emergencies; need medical care.

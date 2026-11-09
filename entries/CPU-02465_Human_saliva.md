@@ -42,6 +42,10 @@ Saliva contains antibacterial and enzyme components, and wounds of the mouth hea
 
 **Practitioner's note.** Nothing is asked of a cultivator. The one observation worth keeping is the text's own: it ties the strength of a bodily substance to the state of the person (fasting, hot temperament, particular person). It does not turn this into a practice. Today the sensible course is not to apply saliva to anything.
 
+### Functional–Anatomical Correlate
+
+The Canon's two saliva entries map its uses to the skin, the eye, the ear and the response to poisons, and name no internal organ. For the skin, saliva is rubbed with camphor on ringworm (qawba'), and cleanses freckles, lentigines and 'dead blood', which the entry reads as a bruise. For the eye, it is said to benefit a blood-spot or blow (tarfa) and a white opacity (bayad). For the ear, saliva of a fasting person dropped into an ear troubled by worms is said to kill them and bring them out. For poisons, saliva is said to resist venom, and spitting on a scorpion repeatedly is said to kill it. In the Canon's terms saliva ripens and dissolves, and its strength varies with the species and the temperament of the person, a hot temperament raising it in the first entry. Modern anatomy would name the skin, eye and ear. The system mapped is the external surface and the sense organs, with no internal system.
+
 ### Contraindications
 
 - **Infection.** Saliva carries mouth bacteria and may carry viruses; do not apply it to another person's wounds, eyes or ears, or to your own broken skin.

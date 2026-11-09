@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing here for a cultivator. The tradition is represented by one list row that cannot choose between two species, and no text read says what was done with the plant or why. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Assyrian row names burasu / burashu and offers Juniperus excelsa or J. oxycedrus, flagged uncertain, with no use, tablet or complaint stated. The organ-level material comes from the Unani / Avicennan (CM) entry on 'ar'ar, the mountain cypress, matched to juniper by its Arabic name alone. Its temperament is hot and dry, the berry hot in the first degree and dry in the second, with heating, subtilising and dispersing actions and some astringency in the fruit. Named systems and organs: the joints, for bruised muscle; the chest, for chest pains and cough; the liver and spleen, whose obstructions it cleanses and opens; the stomach, as a drink, and very good for wind in the stomach; the urinary passages, which it promotes; the menses; and the womb, for suffocation of the womb. Its smoke is said to drive off vermin and flies and to counter stings. The entry says nothing of innate heat or radical moisture, so no constitutional role is attributed. Cultivation status is not given.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, juniper preparations should not be taken in pregnancy, and strong preparations may irritate the kidneys. Other junipers, such as savin, are poisonous. This is general caution and is not found in the row. [USER: verify]

@@ -80,6 +80,10 @@ Ajwain is unusual among traditional carminatives in that its lead molecule is ph
 
 ---
 
+### Functional–Anatomical Correlate
+
+Ajwain is mapped chiefly to the digestive tract. In Ayurveda it kindles agni and digests ama, and relieves anaha (bloating) and shula (colic), actions the entry ties to thymol and carvacrol relaxing gut smooth muscle and stimulating digestive secretion. Its katu and ushna qualities are described as warming the stomach and drying wind and damp, the vata and kapha humours. Krimighna, worm-killing, is the anthelmintic action on the gut. The Unani frame calls it hot and dry in the third degree, a carminative for wind and a digestive. The entry records thymol's membrane-disrupting antimicrobial action against gut dysbiosis and, by steam, against oral and respiratory infection. The gastric and oral mucosa can be irritated, and in overdose thymol affects the liver and central nervous system. The entry also notes possible additive effects with antiplatelet, anticoagulant and hypotensive drugs.
+
 ### Contraindications
 
 **Thymol mucosal irritation & overdose:** ajwain oil and high seed doses can irritate the gastric and oral mucosa and, in overdose, thymol is toxic (nausea, vomiting, and in severe exposure hepatic/CNS effects) — **never self-dose neat essential oil.** **Pregnancy:** traditionally used cautiously as a post-partum digestive but higher doses are considered heating/emmenagogue and are **best avoided in pregnancy** [USER: verify with practitioner]. **Peptic ulcer / hyperacidity / GERD:** the pungent, heating action may aggravate — use cautiously. **Infant colic ("ajwain water"):** a common domestic practice but essential-oil-containing preparations are inappropriate for infants; use only under guidance. Possible additive effect with antiplatelet/anticoagulant or hypotensive agents (traditional reports of hypolipidemic/antihypertensive activity) — monitor. Discontinue if oral/gastric burning occurs.

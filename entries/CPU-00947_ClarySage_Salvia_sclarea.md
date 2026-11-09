@@ -98,6 +98,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Clary sage acts on three systems in the entry. The eye is first: seed-coat mucilage swells on contact with tear fluid and lifts grit from the ocular surface. The entry calls this hydrogel physics, not pharmacology, documented but not practised. The nervous system is the calmative target: inhaled or diffused flower oil, rich in linalyl acetate and linalool, is framed as a parasympathetic-leaning wind-down aid. A randomised trial of a three-oil blend containing clary improved sleep quality, though clary's own contribution cannot be separated. The uterus is the classical gynaecological target: Unani texts class the plant as a warm, dry emmenagogue and uterine aromatic, and the entry frames menstrual comfort as an aromatherapy tradition, not an evidenced treatment. The oil is markedly sedating and cautioned against in pregnancy.
+
 ### Contraindications
 
 - **Pregnancy (until term):** avoid — traditional emmenagogue and uterine aromatic; do not use for calming or menstrual purposes while pregnant.

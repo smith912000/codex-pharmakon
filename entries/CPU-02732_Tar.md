@@ -44,6 +44,10 @@ No clinical studies were retrieved for this entry. [USER: verify] General fact: 
 
 **Practitioner's note.** A pitch-like sap used by the text for parasites, skin disease, ears and worms, with antifertility statements. Nothing supports a cultivation use, and it is not something to swallow or instil.
 
+### Functional–Anatomical Correlate
+
+Tar, per the Canon, is hot and dry in the fourth degree, and the entry sorts its uses by body part, all as reported by the text. On the skin and scalp it is said to kill lice and nits and to help scab, and it is said to heal bruised muscle and gathered blood and pus in the joints. For the head, smeared on, it is said to help cold headache. Dropped into the ear it is said to kill worms, and with hyssop water it is said to help ringing in the ears and a painful tooth. For the eye it is said to sharpen sight. For the chest, a licked dose is said to heal lung ulcers and chronic cough. In the digestive and excretory organs the entry names intestinal worms, an enema, the menses, the fetus and semen, and it names antifertility effects. Against poisons it is named for horned viper bites and sea hare poisoning. The text also says its tree's fruit harms the stomach. The entry is historical only, and modern organ names are used here only as labels.
+
 ### Contraindications
 
 - **Toxic and irritant.** Tar is an irritant and the tar itself is not a food. The text's own statements that it kills the fetus and spoils semen, and that its tree's fruit harms the stomach, mark it as a drug to avoid.

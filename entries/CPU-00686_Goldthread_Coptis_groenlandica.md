@@ -172,6 +172,10 @@ Graded honestly. **The headline is a data gap.** PubMed searching this run retur
 
 **Practitioner's note.** Nothing for cultivation. It is a short-course mouth rinse or tasted bitter at most, and the plant is a slow-growing bog species that should be grown, not wild-collected.
 
+### Functional–Anatomical Correlate
+
+Goldthread acts mainly on the mouth and oral mucosa, which the entry gives as its primary indication: the rhizome is chewed or decocted as a rinse for mouth sores, canker sores, sore or inflamed gums and sore throat. Bitter-tonic use is aimed at appetite and the stomach. The settler and Eclectic folk-Galenic reading calls the root cold, dry and bitter, a cholagogue that opens the liver and cleans the stomach; the entry declines to vindicate the liver claim, calling it a colour-based category error. Its protoberberine alkaloids, chiefly coptisine and epiberberine, are described as bitter, antimicrobial in vitro, and concentrated in the rhizome rather than the leaf. The entry explicitly does not map it onto glycaemic, lipid, liver or blood-purifying targets. No TCM classification applies to this species, since the Huang Lian doctrine belongs to Coptis chinensis. Clinical evidence for any oral use is recorded as null in the retrieved literature.
+
 ### Contraindications
 
 **General caution: this species has no human safety data whatsoever.** Nothing was retrieved this run on *C. trifolia*'s toxicology, pharmacokinetics, or long-term use. Cautions below are drawn from **protoberberine alkaloid class behaviour and congener precaution** — that is an inference, and it is named as such. **Conservatism is warranted precisely because the data are absent.**
