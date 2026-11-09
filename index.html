@@ -285,8 +285,9 @@ function loadSubstances(){
   dataLoaded=true;
   fetch('codex_index.json').then(r=>r.json()).then(d=>{
     DATA=d.substances.sort((a,b)=>a.name.localeCompare(b.name)); ALIAS=d.aliases||{};
-    document.getElementById('s-count').textContent=d.count;
-    document.getElementById('s-conv').textContent=DATA.filter(s=>s.sources.length>1).length;
+    const U=DATA.filter(s=>s.status!=='duplicate');
+    document.getElementById('s-count').textContent=U.length;
+    document.getElementById('s-conv').textContent=U.filter(s=>s.sources.length>1).length;
     render();
     const h=location.hash.slice(1);
     if(h.startsWith('materia/')) show(h.split('/')[1]);
