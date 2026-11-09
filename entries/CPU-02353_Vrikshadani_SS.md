@@ -54,6 +54,10 @@ General, well-established facts only. Because Vrikshadani has no secure botanica
 
 **Practitioner's note.** Vrikshadani is a name in a list. The tradition's text gives the drug a place among therapeutic groups and little more, and nothing in the record supports a cultivation use. A cultivator can learn from it only how Sushruta organises drugs into groups by action, and that some names in that classification are no longer certainly identified. Nobody should try to find a plant to match the name.
 
+### Functional–Anatomical Correlate
+
+The entry records a few physiological claims. Sutrasthana ch.46 states that the leaves of Vrikshadani subdue Vayu, so the leaf is said to act on the Vata system, the tradition's governing principle of movement and nervous activity. The same chapter lists the leaves, among several plants, as astringent, sweet and bitter and curative in haemoptysis (blood from the lungs or airways), but that property is given to the group, not to this plant alone. The Viratarva'di group, to which the plant belongs, is said to subdue Vata disorders and to help Ashmari, Sharkara, Mutrakrichhra, Mutraghata and urinary troubles, which points to the kidneys, bladder and urinary tract. The plant also appears in a Vataja Asmari ghee and in an Amatisara (diarrhoea with ama) recipe, mixtures in which no effect is given to it alone. The text does not say what the plant is, how the leaf is taken, or what dose to use.
+
 ### Contraindications
 
 - **Identity.** The drug is not securely identified; a wrong match could be harmful. Do not substitute any plant for it. [USER: verify]

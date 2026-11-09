@@ -43,6 +43,10 @@ In general knowledge *Taxillus* mistletoe stem (*sang jisheng*) is a standard ar
 
 **Practitioner's note.** The cultivation promise belongs to the fruit, but the later layer names only the stem as the part gathered, and the plant is a parasite whose host may change what it is. No practice follows from the entry. Treat it as a record of the classic's claim.
 
+### Functional–Anatomical Correlate
+
+The entry maps the drug's indications onto the lower back, through the lumbar pain it treats (腰痛), and onto the back in children (小儿背强), a stiffness given without further detail. Abscesses and swellings (痈肿) mark the skin and soft tissue. It names the fetus, which the drug is said to steady (安胎), and says the drug fills the flesh and skin (充肌肤), firms hair and teeth (坚发齿) and lengthens beard and eyebrows (长须眉). For the fruit, the paragraph names the eyes (明目) and says the fruit communicates with the spirit (通神), a claim the entry does not translate. Energetically the drug is bitter and balanced (味苦，平), and no organ or channel affinity is printed. The part gathered is the stem, from the later Mingyi layer, while the fruit's claims belong to the Shennong paragraph, and the entry keeps them apart. The Codex does not recommend the plant in pregnancy on the strength of the fetal claim.
+
 ### Contraindications
 
 - **Identification.** Several mistletoes share the name and the host matters; do not gather or use any on the strength of this entry. Some mistletoes (for example *Viscum album*) are toxic if eaten; the Codex has not read a source on this plant. [USER: verify]

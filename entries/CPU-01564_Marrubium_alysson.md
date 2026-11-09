@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant, apart from the observation habit of the description. The amulet is a recorded belief, and the abstentive answer is the right one: nothing here to take up.
 
+### Functional–Anatomical Correlate
+
+The entry's Dioscorides claims (DMM, chapter 3-105) touch several sites, none given a traditional organ system. A decoction drunk is said to dissolve 'afflictions' in people without fever; the chapter does not say which afflictions or which body part they affect. Held or smelled, the plant is said to have a similar effect, so the route is by the nose and airway rather than an organ. With honey it is said to clean freckles, so the skin of the face is the tissue named. Pounded into meat and given to a dog, it is thought to cure madness in the dog, which is a disorder of the animal's nervous system in modern terms, though rabies is not named. Hung in a house it is said to be wholesome, and hung on cattle with a purple cloth it is said to drive away sores, which again names the skin. The chapter gives no humour, dosha, qi or temperament, and prints no taste. The identity is a translators' suggestion between two genera, so none of these claims is verified.
+
 ### Contraindications
 
 Chapter 3-105 prints no warning. A mad dog, and any person bitten by one, needs urgent professional care. Freckles and "afflictions" need no home remedy from an unidentified shrub. The identification is only the translators' suggestion, with a second suggestion from a different genus on the same page, so no plant should be gathered or used on the strength of this entry. The chapter gives no dose, and no safety information for pregnancy was read. [USER: verify]

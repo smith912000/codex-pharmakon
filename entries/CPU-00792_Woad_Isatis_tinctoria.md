@@ -72,6 +72,10 @@ According to PubMed, woad has a substantial modern evidence base. Speranza et al
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places woad on heat-clearing and skin-inflammation targets. In Chinese terms the leaf, root and processed indigo clear heat and resolve toxicity in febrile epidemic disease, sore throat, mumps and eruptive fever, entering the Heart, Stomach and Lung channels to cool the blood. Galenic and Unani texts call it cold and dry, an astringent applied to hot swellings, ulcers and haemorrhage. Dioscorides directed the leaves onto wounds, spreading sores and inflammations. The modern evidence sits in skin and inflammatory pathways: a randomised human trial found a topical lipophilic extract reduced irritant contact dermatitis, with less transepidermal water loss, and tryptanthrin inhibits COX-2 and 5-LOX. Antiviral and anti-tumour action is in vitro, and the UVB erythema model showed no benefit. Cautions concern the spleen and stomach in cold deficiency, the gastrointestinal tract, and pregnancy, where data are insufficient. Modern terms: skin, gastrointestinal tract, immune-inflammatory mediators.
+
 ### Contraindications
 
 - **Spleen/Stomach cold-deficiency (TCM):** As a strongly bitter-cold drug, Ban Lan Gen/Da Qing Ye can injure a cold, weak digestion — avoid or use cautiously with abdominal cold, loose stools, and no genuine heat signs.

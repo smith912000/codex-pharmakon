@@ -40,6 +40,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** A food chapter on the milk-filled udder as a thick, strong meat. Nothing supports a cultivation use.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the udder of a milk animal, which the Canon does not name by species, is cold and dry because of the great nerve, or sinew, in it. Its only function given is nourishment: when digested, the udder filled with milk is near flesh in nourishment, and the best kind is the one with milk in it. Eaten with spices, which the passage says hasten its descent, it is of very good flesh, good in humour, thick and strong. The systems named are the sinews and the digestive passage, and no other part of the body, humour or faculty is touched. The passage gives no medicinal use, no recipe and no dose, and the spices are the only preparation named.
+
 ### Contraindications
 
 Meat-hygiene cautions apply. The text states no contraindication. [USER: verify]

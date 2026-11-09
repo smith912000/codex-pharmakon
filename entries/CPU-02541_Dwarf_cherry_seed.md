@@ -46,6 +46,10 @@ The identification is ours; the candidates are listed above. No clinical studies
 
 **Practitioner's note.** There is no cultivation practice here, and the tradition's own grading argues against long use. The entry is a drug for water swelling and for the root's dental use, with no preparation and no dose.
 
+### Functional–Anatomical Correlate
+
+The kernel's paragraph names the great belly with water swelling (大腹水肿), the face, eyes and four limbs with puffy swelling (面目四肢浮肿), and the urine and water passages (利小便水道). In modern terms the water passages and the urinary system are the tissues named for the kernel, and the swelling is a fluid-retention pattern, but the classic names no organ and describes no mechanism. The root is a separate target: swollen gums and decayed teeth (齿龈肿、龋齿), so the gums and teeth are the tissues named for it. The line after the paragraph (坚齿, firm the teeth) sits where a habitat would be and looks displaced from the root's indications, so the Codex records it without building on it. The energetic terms are sour and level (味酸，平). Great-belly water swelling is a classical category with no modern finding set beside it, and dropsy and limb swelling need medical assessment.
+
 ### Contraindications
 
 The preface warns that lower-class drugs are mostly toxic and not for long use. The Codex read no safety information for this drug in particular, and none for pregnancy, children or other medicines. Rosaceous kernels in general can release cyanide, and no preparation or dose is known here, so no kernel should be eaten on the strength of this entry. [USER: verify] Dropsy and swelling need medical assessment. No conservation information was read.

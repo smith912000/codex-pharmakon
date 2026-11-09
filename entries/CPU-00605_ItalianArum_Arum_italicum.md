@@ -71,6 +71,10 @@ Peer-reviewed pharmacology of *A. italicum* is thin and mostly exploratory.
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, the processed root is an expectorant that draws and disperses cold, thick phlegm, and Avicenna's Unani stream uses it against phlegmatic congestion, cold swellings and skin lesions. These are the body sites the therapeutic claims name. The lungs and chest are reached through phlegm clearance and the skin through swellings and lesions. Raw, the plant injures the lips, mouth, tongue, throat and gut, where calcium-oxalate raphides and irritant proteins cause burning, swelling and, in severe cases, airway obstruction, and sap causes skin and severe eye irritation. The entry's Galenic reading is hot and dry in the third degree, acrid and caustic when raw. Modern evidence is limited to an exploratory lung-cancer cell screen, with no human trials and no established safe dose. Nothing in the entry supports a longevity or vital-body action.
+
 ### Contraindications
 
 ⚠️ **TOXIC RAW — SERIOUS HAZARD. Every part of the raw plant is dangerous. This entry documents the hazard; it is NOT a recommendation to ingest.**

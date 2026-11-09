@@ -125,6 +125,10 @@ This must be stated plainly. **A targeted search returned zero studies of *Pulic
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps fleabane onto the gut mucosa and lower bowel, the tissue named by the classical dysentery indication of bloody flux and looseness. In Greco-Roman humoral terms it is a cold, dry, astringent binder that draws together a hot, wet, loose bowel. The tannins and polyphenols are said to tighten mucosal tissue, and the caffeoylquinic acids are cited as anti-inflammatory. The chemistry offers two partly supported extras: antimicrobial action against enteric organisms and antispasmodic action on gut smooth muscle. The rat hemorrhoid model suggests the anti-inflammatory branch may extend to the lower bowel and anorectal tissue. The essential oil is linked to acetylcholinesterase inhibition, but the entry states that no study tested it against any insect, so the fumigant branch is mapped to no tested tissue. Turkish folk practice uses decoctions for gastrointestinal and inflammatory complaints. No human data are reported.
+
 ### Contraindications
 
 - **⚠️ Asteraceae allergy — absolute caution.** Anyone sensitised to Compositae (ragweed, chamomile, arnica, feverfew, chrysanthemum) should not use this plant internally or topically. Cross-reactivity within the family is well established.

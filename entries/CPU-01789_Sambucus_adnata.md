@@ -53,6 +53,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a wound and poison-fever drug, with a commentary-layer note on spirits, no preparation and no dose, and its Latin name is the last of five. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Clark's line for yu.gu.shing, read by name, says the drug heals wounds and cures fever caused by poisoning. The bracketed commentary adds that the white type subdues spirits by its pungent odour and that the drug dispels spirits, so spirit-caused disorder is a category the tradition names here rather than an organ. The Men-Tsee-Khang text, tied to the name by position, says Yugu shing joins cuts and cures hot disorder associated with poisoning. Cuts and wounds are injuries to skin and the tissue beneath it, and poisoning is a whole-body state that the text does not localise to an organ. The commentary's bitter taste and cool power describe the white type and are not organ claims. The entry names no part of the plant for this drug. Its Latin name is the last of five binomials Clark gives, and the others belong to other genera and families, so the tissue claims attach to an identity the texts do not settle. Historical record only; poisoning and open wounds need medical care, and no dose or protocol is given.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Poisoning, fever and wounds need medical care; the identity is open among five species of three families, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Poisoning in particular is an emergency and is not treated with a herb from a catalogue. No conservation information and no safety information for pregnancy were read. [USER: verify]

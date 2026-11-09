@@ -50,6 +50,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** There is nothing to cultivate here in the Codex's sense. The one real Greek account is a therapeutic and descriptive one, and the Egyptian and Unani tags are unsupported by anything read. A gardener may grow the plant for its leaf, and a practitioner should treat the four-tradition tag line as an unverified inheritance from an index.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry records only that Dioscorides' akantha erpekantha root is applied to burns and dislocations and taken in a drink to encourage urine, stop bowel discharges, and treat lung tuberculosis, hernia and convulsions (urinary and bowel function, lungs, hernia, nerves). Chapter 3-15 separately calls a different acantha astringent. The Ebers material lists Acanthus-tree resin, dough, nuts and thorns in a tapeworm poultice and a burns series, but gives no bodily target, and the entry marks its identity with Acanthus mollis as doubtful. No Assyrian or Unani locus was found. The entry states no active constituent, mechanism, human data or dose, and says the Dioscoridean uses are recorded as his and not recommended.
+
 ### Contraindications
 
 No safety data were read. Do not treat the traditional burn, hernia or lung uses as advice. Seek ordinary medical care for those conditions.

@@ -92,6 +92,10 @@ Synthesis: the warming–cooling paradox is vindicated at the receptor level (TR
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, water mint is warm in the second degree and dry in the second-to-third, a carminative and stomachic acting on the stomach and gut, while its cool taste is a TRPM8 sensory effect. Its warming action is smooth-muscle relaxation of the gastrointestinal tract, stimulation of bile and gastric secretion, and local counter-irritant hyperaemia. In Galenic and Unani terms it is a warming stomachic, strengthening the stomach, relieving flatulence and checking vomiting, as Dioscorides and Avicenna both record. The entry's caveat is menthofuran, the safety-limiting constituent, a relative of pulegone that the entry links to hepatotoxicity through reactive metabolites in the liver. Its wild oil is chemotype-variable, with carvone or menthone in place of menthol, and the entry reports a 2022 study of gastroprotection that did not change gut motility. Its water infusion is mapped to the polyphenols, with in-vitro radical-scavenging and α-glucosidase inhibition, and erythrocyte protection.
+
 ### Contraindications
 
 - **Menthofuran / essential-oil caution.** Do not use concentrated *M. aquatica* essential oil internally or in prolonged high doses: menthofuran is a defined (if variable and generally mild) hepatotoxicant and a relative of pulegone. Avoid entirely in liver disease. Leaf infusion and culinary use carry a far lower volatile load and are the appropriate forms.

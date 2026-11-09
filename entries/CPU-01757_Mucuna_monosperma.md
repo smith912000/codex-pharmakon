@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a spleen-fever drug in the Tibetan texts, with a likeness-of-shape rationale in Clark's introduction, no preparation and no dose, and the plant behind the name is uncertain. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts place this drug's action in the spleen. Men-Tsee-Khang 2011 says that three drugs cure hot disorders of the heart, kidneys and spleen respectively, and in that order Laagor shho sha is the spleen drug. Clark 1995 says that gla.gor.zho.sha 'cures spleen fever'. Clark's introduction explains the three zho.sha fruits as shaped like and named after the kidney, spleen and heart, which he calls a doctrine of signatures; the entry notes that a likeness of shape is not a pharmacological finding. Clark's commentary says the spleen-shaped seed is 'of superior quality', which grades the seed and does not give a taste or power. No taste, power or post-digestive taste is printed for the drug in the lines read. The plant is open between two legume genera, Mucuna and Entada, so the organ claim attaches to the Tibetan drug name, not to a confirmed species.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The identity is open between two legume genera and the seeds are large and hard, so no plant should be gathered or used on the strength of this entry. It is a general fact that the pod hairs of some *Mucuna* species are skin irritants. Fever of any organ needs medical care. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

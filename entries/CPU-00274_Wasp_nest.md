@@ -38,6 +38,10 @@ A wasp nest is an inert paper-like material with no established medical use. Ven
 
 **Practitioner's note.** Nothing here for a cultivator to take. The row shows that the Classic names a wasp nest among its animal drugs and, by position, probably in its lowest class, the class for short courses against disease; what it said of the nest cannot be said until the Animals pages are read. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: no text read says what the Divine Farmer's Classic used the wasp nest for. The attestation is one list row, Lu Feng Fang, in characters only, with no species and no monograph read. Row position suggests the Inferior Class, which matches the spine's low note, but the entry marks this as an inference from row order. If the class holds, Yang's preface says the inferior class mainly treats disease and corresponds to earth, is usually toxic, and cannot be taken for a long time; that is the preface's general statement and does not name this drug. A separate list row, bee-young, is a different item and is not claimed here. The entry states no action, flavour, qi, channel, organ or tissue for the nest, and nothing in it maps the nest to a body system.
+
 ### Contraindications
 
 Wasps sting, and venom allergy can be life-threatening; nests should not be handled by the untrained, and old nests may carry mould and microbes. Wasp-nest products sold as medicines are unstandardised and may be contaminated. The species is not known from the sources read, and the legal status of collecting the nest has not been checked here. [USER: verify]

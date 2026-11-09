@@ -93,6 +93,10 @@ The Shennong Bencao Jing classified Epimedium as a medium-grade herb (*zhong pin
 
 ---
 
+### Functional–Anatomical Correlate
+
+Epimedium acts chiefly on the kidneys and liver in Chinese terms, tonifying Kidney Yang and Jing and strengthening sinews and bones. The entry maps the reproductive side onto the testes: icariin is said to sensitise Leydig cells to luteinising hormone, raising testosterone synthesis without suppressing the hypothalamic-pituitary-gonadal axis. The bone side is mapped to osteoblasts, where epimedium flavonoids are reported to upregulate BMP-2 and Wnt/beta-catenin signalling and so promote bone formation. Sinew and joint effects are linked to NF-kB inhibition and chondroprotection in arthritis models, matching the Wind-Cold-Damp Bi category. Icariin is also a PDE5 inhibitor that raises nitric oxide and cGMP in vascular endothelium and erectile tissue, which the entry links to vasodilation. Ayurvedic terms name asthi (bone) and majja (marrow) tissues. Neuroprotection appears only in Alzheimer-type cell and animal models. The entry warns against combining it with PDE5 inhibitors and in hormone-sensitive disease.
+
 ### Contraindications
 
 **CLINICAL PRIORITY — PDE5 INHIBITOR INTERACTION:**

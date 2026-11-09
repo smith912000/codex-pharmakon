@@ -66,6 +66,10 @@ Earlier, Shkondrov et al. (2018), *Natural Product Research*, characterised a ne
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, the root and sweet leaf of this milk-vetch act on the whole body as a gentle, nourishing tonic, a warm and moist restorative in the Galenic reading. Dioscorides' astringent root decoction was taken for loose bowels, so the gut is one target. European folk use names it a galactagogue for milk flow, which places the breast and lactating body, and a mild diuretic for the urinary system. Its convalescent use restores depleted, dry or weak states. Preclinical work on its cycloartane saponins and flavonoids reports neuroprotective and antioxidant effects on isolated rat brain synaptosomes and mitochondria, with weak MAO-B inhibition in vitro. The entry grades all of this as preclinical or traditional, with no human trials for its tonic or milk-flow claims. Saponin-rich intake may irritate the gut, and pregnancy and lactation require supervision.
+
 ### Contraindications
 
 - **Generally regarded as a gentle, low-toxicity tonic**, but its saponin content warrants moderation — high or prolonged intake of saponin-rich material may irritate the gut.

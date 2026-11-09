@@ -46,6 +46,10 @@ General, well-established facts only. Nothing can be said of an unidentified mat
 
 **Practitioner's note.** A name in one group list. A cultivator has nothing to use from it until it is identified.
 
+### Functional–Anatomical Correlate
+
+Kunduruka is named in the Eladi group (Sutra ch. 38), which the text describes as subduing Vayu and Kapham and neutralising the effects of poison. The metrical text calls the group a cosmetic that arrests the eruption of pimples and other growths on the skin, such as rash and urticaria, and checks the itching that goes with them. Those are the skin and its eruptions in the text's terms. The group also contains resins and fragrant woods, which suggests the material may be a resin or aromatic, but the sources do not say so for Kunduruka and no constituent is named. No single-drug quality is printed, and no organ, tissue, part of the plant or preparation is stated for it. The material is not identified, so the skin mapping is the group's and is not extended to the drug.
+
 ### Contraindications
 
 - **Identity.** The material is not identified. Nothing may be gathered, bought or used on the strength of this entry. [USER: verify]

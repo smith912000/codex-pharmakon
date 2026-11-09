@@ -38,6 +38,10 @@ General, well-established facts only. *Mugil cephalus* is a coastal and estuarin
 
 **Practitioner's note.** A cultivator does nothing with this. There is no recipe to follow, the identification itself is uncertain, and the Egyptian framework (*ka*, *ba*, *akh*, *ib*, *heka*) gives no basis here for any practice. The entry records that a fish of this name appears in a project list of Ebers materials, and nothing more.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states no function. The only source on disk is a row in the project's Ebers list that names the fish Mugil cephalus, flagged as an uncertain identification, and cites a 1987 translation that is not on disk. Bryan's 1930 English, which is on disk, does not name mullet, and the fish names he does use, Shadfish and Redfish, are not identified with it. No indication, organ, humour, energetic quality, preparation, route or dose is attached to the mullet in any source read. The entry describes the fish as a coastal species that is an ordinary food in many countries, which is a food use and not an Ebers practice. Its Contraindications section records fish allergy, parasites and contaminants in raw fish, and that fishing rules vary by place.
+
 ### Contraindications
 
 - **Fish allergy:** fish is a common food allergen.

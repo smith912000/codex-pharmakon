@@ -44,6 +44,10 @@ General, well-established facts only. Milk is a nutritious fluid; lactose intole
 
 **Practitioner's note.** Nothing here is a practice. The text names a remedial use for the milk of the single-hoofed animals and no cultivation purpose, and it gives no way of obtaining or preparing the milk. A cultivator should not draw a rejuvenation claim for the mare from the general praise of milk.
 
+### Functional–Anatomical Correlate
+
+The Sushruta Samhita passage on the milk of the animals with unbifurcated hoofs (Ekashapha), such as the mare, names its use in one line: the milk is curative in rheumatism restricted to the extremities. The body system mapped is the musculoskeletal system, the joints and limbs, which is where the complaint is placed. The text calls the milk tonic and light, sweet and acid in taste with a saline after-taste, and it gives no potency and no post-digestive effect for it. Within the chapter's frame, milk is described as heavy, sweet, slimy and cold, but that description belongs to milk as a group and is not transferred to the mare here. The chapter's general praise of milk as rejuvenating and life-prolonging is not assigned to the mare by its own paragraph. No internal organ, tissue or dosha is named for the mare's milk. The English 'mare, etc.' leaves open which other animals are included, so the mapping applies to this milk as printed only.
+
 ### Contraindications
 
 - **Spoilage.** Sushruta's own rule: milk with a fetid smell, discolouration, an acid taste or curdling is unwholesome (lines 550-553).

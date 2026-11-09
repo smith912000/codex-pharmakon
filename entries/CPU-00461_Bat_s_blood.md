@@ -57,6 +57,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps to the eyelid margin and its lash follicles, the site of trichiasis (ingrowing eyelashes), which the Egyptian text places in its diseases-of-the-eyes chapter. Bat's blood appears twice. In the first, with myrrh and lizard's blood, it is applied after the hairs are torn out; in the second, powdered with honey and the rim of a hennu vessel, it is placed where the hair was pulled out. The eye and lid are the only organs the entry names. It gives no humoral, doshic or qi classification, because the Ebers material is organised by complaint and not by the qualities of a substance, and no vital-constitution claim (ka, ba, akh, ib) is attached. A bat used as a poultice for an itch of the neck appears in the skin chapter as a different item and is not counted here. The mapped action is local and external on the lid, with no internal organ or systemic effect claimed. Modern anatomy terms: eyelid margin, lash follicles, skin at the lid edge.
+
 ### Contraindications
 
 - **Infection:** bats can carry rabies and other zoonotic viruses; handling bats or their blood is a hazard.

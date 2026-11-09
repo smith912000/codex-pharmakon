@@ -52,6 +52,10 @@ Zinc oxide is a mild astringent and skin protectant, used today in skin preparat
 
 **Practitioner's note.** Nothing here for a cultivator to take. Zinc in the sources is a wound-drying earth (Greek), a metal in a list and a foreign body (Sanskrit), and a name on two lists. The discipline Dioscorides offers, testing for the true material, is genuine, but it is applied to a furnace product that is harmful to breathe and not to swallow. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides' cadmia (5-84) is said to bind, fill sores, clean their foulness, stop discharges from the pores, dry, draw to a scab, repress flesh growths, and form new skin on malignant ulcers. Its eye preparations (botryitis, onychitis) are for the eyes. Pompholyx (5-85) is astringent, cooling, filling, purging and somewhat drying, which claims the bowel. Sushruta's zinc, in the Metal group, is said to be vermifugal (intestinal worms), liquefacient and corrosive, with a saline taste. Chikitsasthana ch.18 lays zinc leaves on a superficial tumour before cautery, which reaches the skin and subcutaneous tissue. A zinc foreign body is said to be melted by Pitta and assimilated, which claims the body's digestive heat. The Assyrian, Chinese and Unani sources name no zinc action. No rasayana status and no ojas, tejas or prana claim is printed.
+
 ### Contraindications
 
 Zinc fumes from heating zinc or brass cause metal-fume fever, and cadmia of the Greek kind may contain cadmium and lead; heating such materials, as the chapters describe, is dangerous. Soluble zinc salts are irritant and emetic, and excess zinc interferes with copper uptake. Do not apply metals or "cadmia" preparations to the eye or to open sores. Purchase and use of traditional metal preparations are regulated in many places.

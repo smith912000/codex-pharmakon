@@ -48,6 +48,10 @@ General, well-established facts only. Honey is a concentrated sugar solution wit
 
 **Practitioner's note.** Nothing here is a practice. The only property the text gives for this kind is that it is heating and aggravating, so on the tradition's own account it is the kind to avoid in a *Pitta* or hot condition. A cultivator has no use for it.
 
+### Functional–Anatomical Correlate
+
+Pauttikam honey, from hives of large yellow bees, is described in the text as hot and parchifying, intoxicating and acid in its reaction, and as tending to aggravate Vayu, blood and Pittam, acting as a liquefacient or discutient agent (Sushruta ch.45, lines 1103-1110). The entry maps the aggravation of blood (rakta) and of Pittam, the heat humour, to the circulating blood and the body's heat regulation. The intoxicating action is mapped to the nervous system as a modern label on the text's word, and the effect on Vayu, the movement humour, to the nervous and circulatory systems in the same way. The liquefacient or discutient action is named as an action, but the text does not say on which tissue it works. The entry gives no disease for which the honey is used. The honey is therefore mapped mainly as a caution toward blood, heat and the nervous system, with no beneficial organ action stated.
+
 ### Contraindications
 
 - **Heat.** Sushruta forbids honey that has been heated, boiled or used in hot weather or a hot body (lines 1183-1203). Treat that as the tradition's own warning.

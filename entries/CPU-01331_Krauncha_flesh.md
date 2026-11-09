@@ -40,6 +40,10 @@ General facts only. Wild waterbirds can carry avian influenza viruses and enteri
 
 **Practitioner's note.** Nothing here is a practice. In Sushruta the Krauncha is a name in a list of water birds, a heavy flesh to be careful of in fever, and a bone powder for gravel. A cultivator can take only the caution, and with the bird unidentified there is no reason to seek it out.
 
+### Functional–Anatomical Correlate
+
+In Sushruta the Krauncha belongs to the swimming-bird (Plava) group, and the group's properties are the ones mapped here. The flesh is said to be cooling and demulcent, soothing to mucous membranes, and spermatopoietic, promoting the formation of seed and reproductive tissue. It is said to subdue the deranged Vayu, the humour of movement and nervous activity, and to be beneficial in haemoptysis, bleeding from the lungs and airways. The group is laxative for the bowels and diuretic for the urinary tract. The bones of the Krauncha, pounded with other drugs and given in wine or hot water, are said to break down gravel (Sarkara) in the urinary tract, which places the bird in the treatment of urinary calculus (Asmari). The fever passage counts the flesh as heavy and heat-making, so several authorities advise against it in fever, though moderate quantity may be allowed when Vayu predominates. The text gives no further organ for the bird's bone or flesh.
+
 ### Contraindications
 
 - **Hygiene and infection:** wild waterbirds can carry avian influenza viruses and enteric bacteria; do not handle sick or dead wild birds, and cook any flesh through.

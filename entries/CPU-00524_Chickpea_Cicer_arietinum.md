@@ -121,6 +121,10 @@ The liquid from cooking or canning chickpeas; contains significant saponin and p
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps chickpea onto the digestive tract, the vascular system, the reproductive and hormonal axis and the kidneys, in both traditional and modern terms. In TCM it enters the Spleen-Stomach, where it nourishes digestive Qi, and the Kidney, where it is said to build Jing and promote Kidney Qi flow. Unani classes it as warm and moist and restorative, reputed to increase shukr. Ayurveda names it cooling, balya (strength-giving), shukrala (reproductive-fluid improving) and kaphagna. Modern correlates named are the colon, where resistant starch and oligosaccharides feed fermentation and butyrate supports colonocytes; the endothelium, through arginine-derived nitric oxide; the gut bile-acid pool, through saponins; and the hypothalamic-pituitary-gonadal axis, through biochanin A. Dioscorides and Ibn Sina ascribe diuretic and kidney-stone effects, which the entry presents as traditional claims.
+
 ### Contraindications
 
 - **IBS / SIBO / FODMAP sensitivity** — the stachyose and raffinose oligosaccharides are high-FODMAP fermentable carbohydrates; produce significant gas, bloating, and cramping in susceptible individuals; soaking + rinsing reduces oligosaccharide load 25–30% but does not eliminate it; begin with small quantities (30–50g cooked) and increase gradually; canned chickpeas (pre-soaked commercially) have lower FODMAP load than home-cooked from dry

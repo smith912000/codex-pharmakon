@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] Erysipelas and
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant beyond the charms it records, which the Codex neither recommends nor treats as a cultivation practice. It offers a description of three kinds, one skin remedy and a set of amulets, so it is history and not a practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: Dioscorides' chapter 1-119 names one medicinal action, that the leaves of the thorny shrub, rubbed on, are effective for erysipelas and herpes. Both are skin conditions, so the mapping stops at the skin surface where the leaves are applied, and no internal organ, tissue or system is named. The chapter gives no humoral, doshic, qi or other energetic quality, and no taste. Its fruit is described only by shape, as broad, white, thin and pouch-like, and the fruit is not the part used. The text also states that branches laid in gates or windows, and the plant picked while the moon is decreasing, are said to ward off witchcraft, poison, mischief, headaches and devils. These are amuletic claims with no organ attached and are not mapped to any body system here. The identity is the translators' choice between a gooseberry and a buckthorn, so no anatomy can be carried over from either species.
+
 ### Contraindications
 
 The chapter prints no warning. Erysipelas and herpes need medical assessment, and a charm is not protection against poison. If the plant were the buckthorn, its berries are a general, well-established laxative with a risk of dehydration, and the Codex does not recommend eating any part. The identification rests on a translators' suggestion that allows two different shrubs, so no wild plant should be gathered or used on the strength of this entry. [USER: verify]

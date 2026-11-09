@@ -45,6 +45,10 @@ General, well-established facts only. The long-pepper plant is a climber of Sout
 
 **Practitioner's note.** A pungent root listed with the digestive kindlers, and used as a compound ingredient. Nothing here makes it a cultivation substance.
 
+### Functional–Anatomical Correlate
+
+The root is placed in the Pippalyadi group, which the Sushruta Samhita calls a good appetiser and an absorbent of intestinal mucous and unassimilated lymph chyle. The group's stated range is catarrh, deranged Kapha and Vata (the tradition's doshic terms), non-relish for food, abdominal glands, colic and gastralgia, which point to the digestive tract and abdomen. The root is named in several compounds in Volumes II and III, including a medicated takra and a child's ghrita, though the entry says those passages were not read in full chapter context. No rasa, virya or vipaka is printed for the root alone, and it has no effect of its own in the text. The chapter 46 remarks that dried Pippali, the fruit, subdues Vayu and Kapha, acts as a spermatopoietic and slightly soothes Pitta belong to the fruit and are not transferred to the root. The text places the unripe fruit as heavy and Kapha-generating, so the parts are not interchangeable. The root's chemistry is not described, and no dose or pregnancy statement is given.
+
 ### Contraindications
 
 - **Pungent, heating drug.** The group is for Kapha and Vata conditions; the text itself places the unripe fruit as heavy and Kapha-generating, so the parts are not interchangeable.

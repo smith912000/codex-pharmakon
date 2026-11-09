@@ -55,6 +55,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a lower-body cold drug and one of the five roots of a wind-pacifying butter in the Tibetan texts, with no recipe and no dose, and the plant behind the Tibetan name is uncertain inside the Men-Tsee-Khang glossary itself. The longevity sentence in the same passage is said of other roots, not of this one. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts place this drug's action in the lower body, in lymph and in the chhuser, a Tibetan term the entry does not translate. Clark's root-text layer, as his brackets mark it, says Asho genda 'cures cold disorders of the lower body, lymph disorders'. Men-Tsee-Khang 2011 says it 'cures cold disorders of the lower body and chhuser disorders'. Clark's bracketed commentary adds that winter cherry cures wind disorders, first stage oedema and calculi, dissolving the calculi, and that it has hot and sweet tastes. The entry records these as the texts' claims and does not translate them into modern organ names. Men-Tsee-Khang also names the drug as one of five roots used in a medicinal butter that is named among the pacifying medicines for wind (loong) disorders, a therapeutic grouping and not an organ claim. The energetic qualities printed are the hot and sweet tastes from the commentary and no power. The glossary's scientific name and its English names point at different plants, so the claims attach to the Tibetan name.
+
 ### Contraindications
 
 The sources read print one caution, in Clark's commentary: "The dark flowered type is not suitable for use in medicine" (line 1145). Lower-body cold complaints and lymph disorders need medical assessment; no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Because the identity is uncertain, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

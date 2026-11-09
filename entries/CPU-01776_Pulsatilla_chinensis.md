@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Shennong t
 
 **Practitioner's note.** In the Chinese scheme this is a lower-grade drug, taken for a defined complaint and then stopped, and the tradition's own grading is the warning. The entry's "nontoxic" is recorded and not endorsed, because the preface sets the class's usual character against it and the identity rests on a name matched by stem. Nothing here supports long-term use.
 
+### Functional–Anatomical Correlate
+
+The Shennong entry lists its indications in its own terms: warm malaria, mania, cold and heat, concretions and conglomerations, accumulations and gatherings, and goiter qi. It says the drug expels blood stasis, relieves pain and heals incised wounds. On those claims the drug acts on the blood and its stasis, on pain, on the skin and tissue of an incised wound, on the neck through goiter qi, and on the mind through mania. Malaria and cold and heat are whole-body states with no single organ named, and concretions and accumulations are masses with no site given. Yang's note 225 is the translator's modern commentary and not the classic. It adds wind troubles, cold pain of the knees, nosebleed, baldness and swollen testicles, and the entry does not treat these as the classic's claims. The body-system mapping above uses modern anatomy beside the classic's terms.
+
 ### Contraindications
 
 The Shennong entry prints no warning beyond "It is nontoxic". The inferior class is described in the preface as "usually toxic" and not to be taken for a long time, and this is a general statement about the class and not about this plant. Plants of the family are generally known to irritate the skin and mucous membranes when fresh. The identity is a name matched by stem, so no plant or root should be gathered or used on the strength of this entry. Malaria, mania, goitre and tumour-like swellings need medical care. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

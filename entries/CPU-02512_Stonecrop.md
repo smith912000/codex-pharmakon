@@ -44,6 +44,10 @@ Stonecrops are succulent garden plants, widely grown for their late-summer flowe
 
 **Practitioner's note.** A cultivator has nothing to do with this plant on the strength of the text beyond growing it, as Tao Hongjing reports people did. The text does not say how the flower is taken, in what amount or for how long, so there is no course to follow. Do not read the "lighten the body" clause as a promise.
 
+### Functional–Anatomical Correlate
+
+The Shennong paragraph gives the herb a bitter, balanced flavour and nature and places it in the upper class, with no channel affinity printed. Its named targets are heat and fire in the body: great heat, fire sores, bodily heat with vexation, and evil bad qi. The flower alone is said to govern women's leaking below, red and white, and to lighten the body and brighten the eyes, so the eyes and lower genital discharge are the organs named. Fire sores are the skin. The entry does not translate these into present-day diagnoses. Tao Hongjing's note records a household practice of keeping the plant on a roof against fire, which is a protective custom and not an anatomical action. The species is not fixed by the text, and no preparation, dose or course is given, so no tissue action beyond the named ones is claimed.
+
 ### Contraindications
 
 - **Identification.** The species is not fixed by the text. Stonecrop species differ and some *Sedum* plants are acrid. Do not eat or apply a plant on a guess. [USER: verify]

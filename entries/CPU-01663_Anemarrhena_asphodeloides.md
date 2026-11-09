@@ -51,6 +51,10 @@ The entry's own words fit that frame and go no further: "supplements insufficien
 
 **Practitioner's note.** A middle-class entry in the Chinese scheme: for controlling disease and supplementing, weighed before use, and not the class of long-term life-nourishing drugs. The entry does not promise a cultivation outcome, and the translator's own note warns that too much may damage yin. Nothing here supports taking this rhizome as a cultivation practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+In its own terms the Shennong text acts on the thirst and heat of the centre, on the limbs and on water in the body. It names wasting thirst and heat in the centre, which the entry does not tie to an organ, and says the herb eliminates evil qi in puffy swelling of the limbs, precipitates water and supplements insufficiency. It also says the herb boosts the qi. The entry gives its taste as bitter, its nature as cold, and its nontoxicity, and names no meridian. Yang's note is a translator's commentary and not the classic: it says the herb drains fire through disinhibiting urination and that taking too much may damage yin. That reading is kept apart from the entry's own claims. No preparation, quantity or clinical study is given, and the identity rests on a translator's Latin name. The correspondences are historical record only.
+
 ### Contraindications
 
 The Shennong entry prints "It is nontoxic" and no other warning. The preface says of the middle class generally that it "may or may not be toxic" and calls for weighing before use. Yang's note 156 says that "taking too much of it may actually damage yin". The identity rests on a translator's Latin name, so no plant should be gathered or used on the strength of this entry. Wasting thirst and swelling need medical care. No safety information for pregnancy was read. [USER: verify]

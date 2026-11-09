@@ -55,6 +55,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Sushruta t
 
 **Practitioner's note.** Nothing here gives a cultivator a practice with this plant. In the Sushruta scheme the name is an emetic root and an antidote-plaster ingredient given by a physician, and a flower that tells the season and a colour. Nothing should be gathered or taken on the strength of a Latin name that the chapters do not give.
 
+### Functional–Anatomical Correlate
+
+Under the Sushruta Samhita (SS) the drug Vandhujivaka is listed among emetic drugs, and the entry records that its root is the part used, so the text maps it to the stomach and the act of vomiting. In a plaster against poisoned cosmetics applied to the face, Vandhujiva acts on the facial skin, and the recipe is followed by a drink of honey and clarified butter. In a collyrium, the juice of Bandhuka flower is applied to the eyes in the case of a poisoned anjana, so the eye is the target. The bright red Bandhujiva flower is used only as a colour comparison for a pricking pain and blood-streaked secretion in Raktaja Adhimantha, an eye disease, and the chapters do not say the flower itself acts on the eye. The chapters give no rasa, virya or vipaka and no organ-by-organ account. The Latin Pentapetes phoenicea is the appendix's positional pairing, and the five spellings are treated as one drug only on that pairing.
+
 ### Contraindications
 
 The Sushruta passages read print no warning for the drug itself. The one oral use is as an emetic (Sutra 39), which is a physician's procedure and unsuitable for the weak, the pregnant and the very young without supervision. The uses against poison and in the eye describe emergencies that need medical care, not a household remedy. The identity is open, so no plant should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

@@ -57,6 +57,10 @@ General, well-established facts only. *Bauhinia variegata* is an ornamental and 
 
 **Practitioner's note.** A group-head drug in the Sushruta lists, used as an emetic root and as a leaf and flower food-drug. Nothing in the record supports a cultivation use.
 
+### Functional–Anatomical Correlate
+
+The entry maps Kovidara onto the stomach, the chest and airways, and the doshas Kapha and Vata. The root is an emetic: the sutra lists it among emetic drugs and directs that roots be used from Kovidara onward (Sutra 39), so the stomach and vomiting reflex are the sites named. The leaf is astringent, sweet and bitter, curative in haemoptysis (coughing of blood from the chest), subdues Kapha, generates Vata and is light to digest (Sutra 46). The flower is sweet in taste and digestion and curative in haemoptysis (Sutra 46). Those leaf and flower lines use etc. within group lists, so they describe the group more than the single plant. The text gives no modern anatomy and no channel. The Appendix pairs Kanchana with the same plant, but the chapter text does not equate the two names, so no organ is mapped to Kanchana itself. The root is an emetic and should not be self-administered, and coughing blood is a medical emergency.
+
 ### Contraindications
 
 - **Emetic use.** The text lists the root as an emetic; vomiting is a medical procedure and not for self-use.

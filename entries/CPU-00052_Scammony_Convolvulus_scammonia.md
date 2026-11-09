@@ -71,6 +71,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps scammony to the bowel and its fluid balance. Its resin glycosides irritate the intestinal mucosa and provoke a large outpouring of water and violent peristalsis, a hydragogue catharsis of the lower gut. In Galenic and Unani terms the resin is hot and dry in a high degree and is said to evacuate phlegm, bile and gross humours, with the colic and griping noted as the reason it is always corrected in compounds. Dioscorides' phlegm and bile and the Unani mushil (purgative) role are the traditions' terms for what modern anatomy describes as intestinal secretion and motility. The entry also notes fluid and electrolyte loss, which bears on the renal and cardiac systems, and it lists the uterus as a site of contraindicated stimulation in pregnancy. The entry assigns no action to the liver, blood or nervous system, and says its purgative chemistry is not psychoactive.
+
 ### Contraindications
 
 - **Pregnancy — absolute.** Drastic purgatives are uterine-stimulant/abortifacient-risk; contraindicated.

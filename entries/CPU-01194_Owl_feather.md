@@ -38,6 +38,10 @@ Tibetan: the line prints an action only ("cures oedema"), with no taste, power o
 
 **Practitioner's note.** Nothing. A cultivator does not use owl feather. The text records it against oedema, and the Codex keeps the record without carrying it into practice.
 
+### Functional–Anatomical Correlate
+
+Little to map: the text states one action only, that owl feather 'cures oedema' (Clark), rendered as 'cures ascites' in the Men-Tsee-Khang edition. The body system named is fluid retention, which the entry links to possible heart, kidney, liver or vein disease that needs diagnosis. The feather is classed in the Tibetan 'Hair' group of animal medicines, and no taste, potency or post-digestive taste is printed for it. The line gives no spirit-related, protective or essence-extraction role, and no preparation or dose. No organ or subtle-body channel is mapped to the feather. The owl species is unspecified in the text. The Codex records the line as history and does not recommend it.
+
 ### Contraindications
 
 Owls are legally protected in many jurisdictions, and possessing or trading their feathers can be an offence; check the law of the jurisdiction before holding any owl material. [USER: verify] Wild feathers can carry parasites and microbes. Oedema needs medical assessment, since it can mark serious organ disease. This entry gives no medical advice.

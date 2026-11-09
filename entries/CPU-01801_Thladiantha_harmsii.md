@@ -53,6 +53,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is an emetic with no preparation and no dose, and its Latin name differs between the two editions. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The rGyud-bzhi gives this drug an emetic action on bile and on tripa. Clark 1995 says, outside the brackets, that it acts as an emetic in bile disorders, and chapter 21 lists it among the emetics. Men-Tsee-Khang 2011 says Sergyiphuebu acts as an emetic and brings up tripa disorders, which names vomiting as the route of action. The commentary inside Clark's brackets adds uses against poisoning and phlegm-bile combinations, and describes the taste as bitter with a coarse power. Bile and tripa are two translators' terms that the Codex does not treat as one. The entry names no organ or tissue beyond the bile and the tripa, and the drug's identity is open between Thladiantha harmsii and the Luffa of the other edition. Vomiting can cause dehydration and aspiration, so the emetic action is a hazard here, and no dose or protocol is given.
+
 ### Contraindications
 
 The sources read print no warning for this drug beyond the commentary's bitterness and "coarse power". It is an emetic, and inducing vomiting can be dangerous: it can cause dehydration and aspiration, and it is not appropriate for poisoning, pregnancy or weak persons without medical advice. The identity is open between two genera, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. It is a general fact that many bitter gourd-family plants are toxic in quantity. No conservation information was read. [USER: verify]

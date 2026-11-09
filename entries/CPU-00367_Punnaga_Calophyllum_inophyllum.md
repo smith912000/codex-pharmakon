@@ -72,6 +72,10 @@ Evidence grade: **preclinical (in vivo rodent wound model with defined molecular
 
 **Practitioner's note.** Nothing: the sources read give no cultivation or rejuvenative role for this tree.
 
+### Functional–Anatomical Correlate
+
+Acts mainly on the skin and surface tissues, which the entry places under tvak, rakta and māṃsa, and it is described as a bāhya, external remedy. Its unctuous oil (snigdha) is said to restore the surface after wounds, so the main use is vraṇaropaṇa, wound-healing, for vraṇa, ulcers and kuṣṭha skin disease. The cooling potency (śīta vīrya) addresses dāha, burning, and surface inflammation, and the entry names kaṇḍūghna for itch and topical vedanāsthāpana for soothing pain. Varṇya, improvement of complexion, is listed through the same oil, which the entry links to scars and dry or damaged skin. The entry's modern correlates are a mouse wound model of calophyllolide, which reduced fibrosis, MPO activity and pro-inflammatory cytokines while raising IL-10 and shifting macrophages toward a pro-healing phenotype, and a review of tamanu oil in atopic dermatitis that calls for clinical validation. Internal use is not advised, and the entry flags a nut-allergy caution.
+
 ### Contraindications
 
 - **Nut allergy / sensitisation:** patch-test before use; tamanu oil can sensitise; avoid on those with known tree-nut sensitivities. [USER: verify]

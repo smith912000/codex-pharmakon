@@ -63,6 +63,10 @@ According to PubMed, common privet leaf is a genuine reservoir of olive-type sec
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps privet leaf onto the mucous membranes of the mouth, throat and gums, and onto weeping superficial skin. In Galenic and Unani terms the leaf is cold and dry, second degree, astringent and binding to hot fluxes and inflamed mucosa, which the entry links to mouth ulcers (aphthae), spongy or bleeding gums, sore throat and a relaxed uvula. The modern correlate is the leaf's secoiridoid and phenylethanoid content, which the entry says gives an anti-inflammatory and antioxidant rationale, with a rat diabetic-neuropathy study reporting reduced hyperalgesia and allodynia. In TCM, by analogy only, it is a bitter, cool astringent that clears heat and restrains leakage of the mucosa. The berries are the sharp contrast: the ripe fruit causes nausea, vomiting, abdominal pain, diarrhoea and weakness, and in severe cases fluid loss, cardiovascular depression and hypotension. Children are the main risk. The leaf is for topical, spit-out use only.
+
 ### Contraindications
 
 ⚠️ **THE BERRIES ARE TOXIC — DO NOT INGEST.** The ripe black fruit of *Ligustrum vulgare* contains secoiridoid glycosides together with the glycosides historically named ligustrin and syringin. Ingestion causes nausea, vomiting, abdominal pain, diarrhoea, weakness and hypotension; poisonings are documented particularly in **children** attracted to the berries, and severe cases can involve significant fluid loss and cardiovascular depression. Livestock poisonings are also recorded. **Any suspected berry ingestion — especially by a child — is a medical emergency; contact poison control immediately.**

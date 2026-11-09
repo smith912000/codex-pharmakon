@@ -50,6 +50,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As a general f
 
 **Practitioner's note.** A vegetable that the classic files in the middle class with a short, promising paragraph and no dose. A cultivator has no preparation to follow here. If the vegetable is eaten, it is eaten as food.
 
+### Functional–Anatomical Correlate
+
+The entry names wounds and sores as its main sites: incised wounds (金创), which are cut wounds, and rotting sores (创败), which the classic lists together. The wound is the tissue the text names, and it names no deeper layer. A second group of claims concerns the whole body: the classic says the drug lightens the body (轻身), that one is not hungry (不饥), and that it endures ageing (耐老). These concern appetite and the body generally, not a named organ. The flavour is acrid and warm, and the entry gives no organ or channel affinity. No part of the plant is named as the part used. The Mingyi layer names only the habitat, and the Wu Pu layer has no paragraph for this drug. Nothing is mapped beyond the wound, the appetite and the whole-body claims.
+
 ### Contraindications
 
 - The classic does not warn, and the preface says middle-class drugs may be toxic or not (line 1677).

@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a warming herb used as an antidote and for many ailments. The useful lesson is Dioscorides' habit of tying a use to a quality ("It is warming; as a result"), and the abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The chapter maps the herb to many body sites and gives 'warming' as its one quality, from which the first use follows 'as a result'. Named sites are the skin, through bites from poisonous beasts and through psoriasis, prurigo and itching in a bath; the liver and bile in modern terms, through jaundice; the bowels, where a dried dose is said to expel black fluids; the lower abdomen, through hernia; the fluid compartments, through dropsy; the menstrual flow; the lungs and airway, through coughs; the throat, through tonsils, the uvula and aphthae; the nostrils, through a nasal drop; and the ear, through earache with milk. A vomitory preparation and a snake-repelling herb are also given. Antidotes are named for hemlock, meconium, gypsum and ephemerum poisoning, and convulsions are treated with a fig. No cooling, drying or moistening term is printed, and the identification is a single translators' suggestion.
+
 ### Contraindications
 
 The chapter prints no warning. Poisoning (including hemlock) is an emergency; this chapter is no substitute for emergency care. The vomitory medicine and the purge are of unknown strength. Jaundice, hernia, dropsy and convulsions need medical assessment. The identification rests on a translators' suggestion, so no plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

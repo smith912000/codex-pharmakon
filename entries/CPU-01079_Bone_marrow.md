@@ -50,6 +50,10 @@ General facts only. Marrow is high in fat; the fat of ruminants is mostly satura
 
 **Practitioner's note.** Nothing to do. Marrow is a sourced ingredient in three traditions, but each uses it as a salve, a fat or a snuff base for a defined complaint, not as a vital tonic. The seductive reading, that marrow feeds the deepest tissue, is a chain of inferences the Codex does not make: Sushruta states the tissue sequence and states the properties of the animal fat, and does not join them. A cultivator can take from the entry how carefully Dioscorides prepared and stored the stuff, and Sushruta's observation that marrow suits the strong of digestion, and leave the rest.
 
+### Functional–Anatomical Correlate
+
+Bone marrow maps to the bones, the reproductive system, ulcers and wounds, the eyes, the womb and the nose. Sushruta's physiology has marrow filling the internal cavities of the bones and forming the source of semen; its loss gives aching in the bones and breaking pain in the bone-joints, and it is the sixth of seven dhatus. As an oleaginous substance it is one of four Snehas, used as a snuff for combined Vayu and Pitta, and in ear-lobe unguents. Dioscorides (2-95) calls all marrow softening, purifying and healing, filling hollow ulcers. The Unani Canon uses calf and deer marrow for hardnesses and stony swellings and as a pessary for a hard womb, but says it smears the stomach and removes appetite. Bryan's Ebers puts ox marrow into an eye salve with collyrium.
+
 ### Contraindications
 
 - **Infection.** Animal marrow and bone broths can carry bacteria and parasites; cook thoroughly. Never apply raw marrow to wounds or ulcers.

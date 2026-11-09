@@ -45,6 +45,10 @@ General, well-established facts only. Teak is best known as a timber; its sawdus
 
 **Practitioner's note.** A name on a list, for a tree best known as timber. The Samhita text on disk gives no use and no grade for it, so there is nothing for a cultivator to take from this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the appendix gives only the Latin gloss 'Sectona grandis', which the entry reads as a misprint of Tectona grandis, teak, with high confidence at species level. The appendix states no use, part used, preparation or dose. The only other mention of teak in the Sushruta text read is a simile for a rough tongue, which compares it to a leaf and names no drug action. The entry's general-knowledge note, not from the source, says teak is best known as timber and that its dust can irritate skin and airways. In the sources read, no rasa, virya, vipaka, rasayana, ojas or shodhana is attributed to it. The entry's safety caution says not to take any part of the tree on the strength of it. Pregnancy, lactation and children are not addressed. No organ or traditional system is mapped from a source.
+
 ### Contraindications
 
 - **No safe-use statement exists in the sources retrieved.** Do not take any part of the tree on the strength of this entry.

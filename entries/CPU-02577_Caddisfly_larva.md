@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identifica
 
 **Practitioner's note.** There is no cultivation practice here. This is a lower-class record of a water creature, of uncertain identity, for urinary complaints, which the classic itself says causes the fetus to drop. Read it as history.
 
+### Functional–Anatomical Correlate
+
+The entry maps to the urinary tract and the womb. It names five forms of urinary blockage (wu long) and five forms of dribbling (wu lin), frees the water passages (li shui dao), dissolves bound qi internally (nei jie jie qi) and removes heat (chu re). It states that it causes the fetus to drop (duo tai), which maps to the uterus and pregnancy, and the Codex reads this as a warning, not a use. The energetic frame is salty and cold (wei xian, han), with lower-class placement. The Wu Pu layer gives sour and non-toxic (suan, wu du), which conflicts with it. The creature's identity is uncertain, since the commentary on its alias links it to a red, skin-entering louse, so no organ can be mapped to the animal itself. Pregnancy is a clear contraindication, and urinary retention needs prompt medical care.
+
 ### Contraindications
 
 - **Pregnancy.** The classic states that the drug makes the fetus drop (堕胎; line 3927). Do not use in pregnancy, or while pregnancy is possible.

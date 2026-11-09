@@ -84,6 +84,10 @@ According to PubMed, a comprehensive pharmacognostic review by Bhadoriya et al. 
 
 **Practitioner's note.** A cultivator does little with tamarind that is cultivational. Across the traditions that received it, it is a corrective — a cooling, descending, bile-cutting drug taken for a defined hot-and-costive state and then stopped. Its own sour-descending signature is the instruction: it grounds and evacuates an overheated system, and nothing in the record supports taking it to nourish or extend the vital constitution.
 
+### Functional–Anatomical Correlate
+
+Tamarind is mapped chiefly to the digestive tract and to heat and fluid states. TCM places it in the Spleen, Stomach and Liver channels, where it generates fluids, relieves thirst and summerheat, harmonises the stomach and gently loosens the bowels. Ayurveda gives it dominant amla rasa, with ripe pulp deepana and pachana, kindling and digesting agni, relieving flatulent colic and moving a costive bowel. Unani (Galenic) grades it cold and dry and says it cuts and evacuates yellow bile in choleric fevers, thirst and nausea of hot temperament. Siddha uses puli for gastric heat, constipation and biliousness. In Ayurvedic terms the pulp pacifies vata and kapha and aggravates pitta in excess. The entry's contraindications name hyperacidity, reflux, dental enamel and pitta-type inflammation as sites of risk. Its Unani cultivation section says tamarind is not recorded as strengthening the innate heat or radical moisture, and no rejuvenation or ojas standing is recorded in Ayurveda.
+
 ### Contraindications
 
 - **Sour/pitta-aggravating excess:** may worsen hyperacidity, reflux, or pitta-type inflammation in sensitive individuals.

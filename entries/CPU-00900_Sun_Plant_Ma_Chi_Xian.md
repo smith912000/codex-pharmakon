@@ -50,6 +50,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. Both tags rest on a name and a genus and not on a text about *P. grandiflora*. The honest answer is to do nothing with it on the strength of this entry, and to look to I_440 for the purslane material.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives no organ or body-system action for Portulaca grandiflora. It states that the Shennong tag has no locus (no Ma Chi Xian entry was found in Yang 1998), so no san pin class or cultivation status is attached. The only Sushruta locus is a potherb list (Lonika, Sutra ch.46), described as sweet and cooling in potency, subduing Kapha, not generating Pitta, leaving a saline after-taste, dry in the organism, alkaline and laxative, and generating Vayu. The entry notes that this potherb group is not tied to P. grandiflora, and that the appendix line prints P. oleracea. No clinical studies, dose, preparation or safety data were retrieved. It advises against eating an ornamental Portulaca because a potherb of the same genus is eaten, and treats the row as a probable duplicate of CPU-00901.
+
 ### Contraindications
 
 No safety data were read for *P. grandiflora*. Do not eat an ornamental *Portulaca* because a potherb of the same genus is eaten. Species and cultivars differ, and the plants called "Ma Chi Xian" and "Sun Plant" are not the same species. Purslane leaves are known to be rich in oxalate, which matters for people prone to kidney stones. Seek a qualified practitioner before any medicinal use.

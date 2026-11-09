@@ -65,6 +65,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry's main target is the bowel. Cassia fistula pulp is a sweet, cooling, mild purgative (Ayurvedic mridu virechana) that softens and bulks stool and relieves constipation. The entry attributes this to anthraquinone glycosides, with pulp sugars and mucilage adding bulk, and says it is gentle enough for children, the elderly and the delicate. Cooling is applied to biliousness, heat and mild fever. The Unani khiyar shambar entry says the pulp purifies the liver and helps jaundice and liver pain, loosens the bowel and expels burnt bile and phlegm, eases painful joints and gout when smeared on, and eases quinsy when used as a throat gargle. Ayurveda uses the leaf paste on skin disease, including ringworm and inflammatory skin conditions. The Tibetan use is an evacuant, heat-clearing purge for imbalance of the three nyes pa. The entry gives no rasayana, ojas or rejuvenative role. Its cautions concern obstruction, inflammatory bowel disease and prolonged use.
+
 ### Contraindications
 
 - **Intestinal obstruction / inflammatory bowel disease / undiagnosed abdominal pain.** As with all stimulant laxatives.

@@ -49,6 +49,10 @@ General, well-established facts only. Southernwood is a shrubby aromatic plant o
 
 **Practitioner's note.** Nothing here supports any cultivation use. What a cultivator can take from the chapter is the habit of knowing exactly which kind of a plant is in the hand, where it grew, and how it was prepared before it was used, which is the attention the chapter itself shows.
 
+### Functional–Anatomical Correlate
+
+The chapter names the breath and lungs first: the seed in drink is said to help difficult breathing. It then lists hernia, convulsions, sciatica, painful urination and stopped menstrual flow, which place the abdominal wall, nerves, urinary tract and uterus in view. Applied with oil as an ointment the plant is said to treat chills, and with boiled quince or bread the herb is said to help inflammation of the eyes. The seed pounded and boiled with barley meal is said to dissolve pannus, the thickening with veins on the cornea. Bites and stings from snakes, spiders and scorpions are named, and the seed in wine is said to be an antidote for deadly poisons. The leaf in oil is said to warm and to bring down the menses and afterbirth, which concerns the womb directly. Dioscorides prints no humour, potency or flavour beyond a bitter taste and a sweet smell. The chapter gives no dose, and pregnancy is named as a contraindication.
+
 ### Contraindications
 
 - **Pregnancy.** The text lists the plant for bringing down the menses and afterbirth (3-29 and 1-60). Do not use any preparation of this plant in pregnancy.

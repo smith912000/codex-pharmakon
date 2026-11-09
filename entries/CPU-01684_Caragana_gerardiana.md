@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. The binomial stands against two different Tibetan drug names in the two texts, and both are therapeutic drugs for heat and blood disorders. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+This binomial reaches two Tibetan drugs, and the entry maps each separately. Under the glossary's column pairing, 'Drama' is a root that 'cures hot disorder of the muscle tissues and the channels' (Men-Tsee-Khang), the same tissue and channel map as gra.ma. Under Clark's pairing, the drug mdzo.mo 'dissolves blood clots and cures blood fever', which places its action on the blood and its circulation, in the blood-disorder class of chapter 21 in both texts. In modern anatomy terms the first maps to skeletal muscle tissue and channels and the second to the blood and its clotting. The commentary layer adds a thorny tree covered in white fur, with a yellow flower and red-sandalwood-like heartwood, and calls the tree larger than gra.ma; it names no organ. No humoral, doshic or qi assignment is printed for either drug. Because each link rests on a column position or a list position, the mapping is tentative and the entry claims no verified action on the body.
+
 ### Contraindications
 
 The sources read print no warning. The identity rests on a column position and on a second binomial in a list, so no plant should be gathered or used on the strength of this entry. Fever and bleeding disorders need medical care. No safety information for pregnancy was read. [USER: verify]

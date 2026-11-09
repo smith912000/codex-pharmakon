@@ -48,6 +48,10 @@ General fact only: plant ashes rich in alkali carbonates are caustic and irritan
 
 **Practitioner's note.** An alkali cleanser that the Canon itself marks as lethal at ten dirhams and as an abortifacient at five. Nothing in the passage supports any cultivation use.
 
+### Functional–Anatomical Correlate
+
+The Canon's entry gives this alkali material actions of cleansing, purifying and opening (jalla, munaqqi, muftahh), and maps it to the urinary organs, the womb and dropsy, with its green kind's smoke said to make vermin flee. For the urinary organs, half a dirham is said to dissolve difficulty of urine. For the womb it is said to bring on the menses at half a dirham of the Persian kind to one dirham. For dropsy, three dirhams are said to draw off the watery matter. At five dirhams the passage says it expels a child, living or dead, which is the abortifacient claim. Ten dirhams is named a deadly poison. No temperament is printed, and the species is not stated. These doses are the historical record only. The Codex does not recommend the material, and no dose from this entry should be used.
+
 ### Contraindications
 
 - **TOXIC.** The source gives a lethal weight. Do not ingest.

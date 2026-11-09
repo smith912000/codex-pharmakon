@@ -44,6 +44,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The translator
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with these plants. It offers two descriptions, external and internal remedies and a reason for the name, so it is history and not a practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The chapter gives two plants, and each is mapped to a different part of the body. The first has a thick leaf that "cools and is therapeutic", and it is said to be good for itches and for "feeding ulcers, and old ulcers", so its claimed field is the skin and the surface of the body. The second kind is "binding" when eaten, and when pounded with wine and drunk it helps "dysentery and the abdominal cavity" and stops women's excessive bloody discharges, which the translation glosses as menstrual flow. On this reading the claimed areas are the bowel, the abdominal cavity and the uterine flow. The text uses the energetic terms "cools" and "binding" and no humoral, doshic or qi term, and it prints no taste. The chapter does not link either plant to any further organ. The identity of the plants is the translators' suggestion, so these correlations describe Dioscorides' claims only.
+
 ### Contraindications
 
 The chapter prints no warning. Dysentery, abdominal complaints, chronic ulcers and heavy menstrual bleeding need medical assessment. Aquatic plants from marshes may carry contamination, and the plant is not securely identified, so none should be gathered, eaten or drunk on the strength of this entry. [USER: verify]

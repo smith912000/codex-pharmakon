@@ -80,6 +80,10 @@ The broader *Brassica* isothiocyanate–Nrf2 mechanism reviewed for the cabbage 
 
 **Practitioner's note.** Two parts, two uses — cooked root as building ballast, greens and seed as a lighter scour — but both are food registers, not cultivation grades. The turnip's nearest cultivation-adjacent charge is provision: the stored winter root as reserve against scarcity. Nothing here is taken long-term to nourish a vital constitution; the honest practice is dietary, and in the Greek key, careful selection.
 
+### Functional–Anatomical Correlate
+
+Turnip's entry splits the plant into two organ-level registers. The cooked root is nourishing, warm and moist in the first degree in Galenic and Unani terms, building and warming but wind-producing, and in the Ayurvedic dietary analogy it is sweet, heavy and kapha-building, to be cooked with carminative spice. The greens are cooler and lighter. TCM places turnip as sweet-pungent-bitter and cool to neutral, acting on the lung, spleen and stomach to resolve food stagnation, aid digestion and generate fluids. The seed is described as a sharper remedy for the chest and for cold conditions, and mashed root is used topically for chilblains and cold swellings. The modern correlate is a phytochemical review of the greens cataloguing glucosinolates, isothiocyanates and flavonoids such as quercetin and kaempferol, linked to antioxidant activity and enzyme regulation, though the entry calls direct clinical outcome data thin. Bloating, thyroid and vitamin K cautions are given.
+
 ### Contraindications
 
 - **Digestive:** The cooked root is notably wind-producing; caution in bloating-prone or cold-stomach constitutions — cook thoroughly with carminatives.

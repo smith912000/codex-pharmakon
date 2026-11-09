@@ -72,6 +72,10 @@ Codex policy: chemical class (daphnane/tigliane diterpene esters, biflavonoids) 
 
 **Practitioner's note.** Nothing cultivation-specific. A toxic purgative, used in the tradition only as physician-prepared medicine; there is no self-directed cultivation use.
 
+### Functional–Anatomical Correlate
+
+Stellera's entry maps its action mainly to the lungs, the skin and the digestive and eliminative tract, and it treats toxicity as the mechanism. The Shennong classic, in the lower grade, describes the drug as acrid and neutral, governing cough with rising qi, breaking accumulations and masses, and treating water qi and malignant sores and ulcers. Chinese Medicine (Lang Du) classes it as an acrid, toxic dispersing and purging drug for accumulations and parasites, used only in minute processed amounts. Tibetan medicine describes the root as hot and coarse, healing sores, purging septic disorders and used as a suppository. Pastoral folk use applies it externally to scabies and ringworm-type lesions. The entry's chemical account is of daphnane and tigliane diterpenoid esters, described as severe skin, eye and mucous-membrane irritants and as tumour-promoting in their chemical family. Its cautions cover raw root, pregnancy, children and the depleted, and its anti-tumour activity is research-stage only.
+
 ### Contraindications
 
 - **Raw/unprocessed root — absolute prohibition.** Toxic and caustic; never to be ingested in any unsupervised context.

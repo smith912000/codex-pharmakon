@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** A cultivator should read this as a text and not as a practice. The classic gives an upper-class promise and a madness warning for the same plant, with no part, no preparation and no dose. Nothing here supports taking the plant. The honest use of the entry is as a record of how the Shennong tradition graded it.
 
+### Functional–Anatomical Correlate
+
+The Shennong paragraph gives an acrid, warm drug that governs diarrhoea and dysentery, the gut (one character is missing in the transcription), worms and gu poison, bound evil qi, pain and heat. It also names a clause on seeing ghost-spirit things, which the entry keeps in the classic's words. The bodily targets are therefore the bowel, the worms, the seat of pain and the mind, the last through the spirit clauses and the madness warning. Eaten in quantity, the text says, it makes a person run mad. For long use it is said to lighten the body and open through to the spirit-light. The Wu Pu layer gives other authorities' flavours, salty and bitter among them. The text supplies no modern anatomy, no part used and no dose, and the madness warning stands beside the long-use promise without reconciliation.
+
 ### Contraindications
 
 The text itself warns that eating much of it makes a person run mad (多食，令人狂走). The Codex has no source that tells how much that is, and no safety information for pregnancy, children or other medicines was read. The identification is ours: plant material sold under the Chinese name may be a different *Caesalpinia* or another legume. Diarrhoea, dysentery, worms and pain need medical assessment. No conservation information was read. [USER: verify]

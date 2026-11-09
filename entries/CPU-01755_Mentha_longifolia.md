@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a wound and infection drug in the Tibetan texts, with no preparation and no dose, and the plant behind the Tibetan name is uncertain between the glossary's horsemint and Clark's *Elscholtzia*. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts place this drug's action in wounds, sores and infection. Clark's root-text layer, as his brackets mark it, says that byi.rug 'heal[s] wounds and sores infected by parasites, worms, etc.'. Men-Tsee-Khang 2011, under the name Jeruk, says that it 'prevents wound infections and cures rectal abscesses in children'. Only the Men-Tsee-Khang sentence names a region of the body, the rectum, and it names it in children. Clark's commentary gives all three types of the plant 'hot and astringent tastes', which is the only energetic quality printed; neither edition gives a power or a post-digestive taste. The entry records that Clark's 'sores infected by parasites' and Men-Tsee-Khang's 'wound infections' share a concern with wounds and infection but are not the same claim, and it does not equate them. Because the plant is uncertain between a horsemint and an Elsholtzia, the organ and tissue claims attach to the Tibetan name, and nothing here should be applied to a wound or to a child.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Infected wounds, abscesses and parasitic infestation need medical assessment, particularly in children; no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Because the identity is uncertain, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

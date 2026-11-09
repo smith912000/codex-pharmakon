@@ -85,6 +85,10 @@ Across the Greek (DMM) and Arabic/Unani (CM) streams the sorb is read as **cold,
 
 **Practitioner's note.** Nothing cultivation-specific is attested. The practice is knowing when to use the fruit: unripe and dried as a binding remedy for flux, bletted as food.
 
+### Functional–Anatomical Correlate
+
+The entry places service tree on the bowel and gut. In the Greek and Arabic streams the fruit is cold, dry and astringent, used to check looseness of the bowel, flux and a relaxed stomach, with a dried-fruit decoction as the binding form. The modern correlate offered is tannin astringency, plausible but unproven in humans. Bletted, softened fruit is described as a nutritive food carrying pectin, potassium, iron and phenolics. The entry also records the genus sorbitol, an osmotic polyol that can produce the opposite effect (bloating, cramping, osmotic diarrhoea), especially in those with fructose or polyol malabsorption or IBS. Preclinical in-vitro work shows alpha-glucosidase inhibition from leaf extract and radical scavenging from fruit, but no human antidiabetic effect. A reported effect on Meniere's disease (the inner-ear vestibular system) is graded as uncontrolled and not endorsed. Tannins can bind iron and co-administered drugs, so spacing is advised.
+
 ### Contraindications
 
 - **Do not eat raw, un-bletted fruit as food:** intensely astringent and GI-irritating; can cause nausea and gut upset.

@@ -48,6 +48,10 @@ General, well-established facts only. Water-lilies are aquatic plants of the gen
 
 **Practitioner's note.** A water-lily flower and a gana member, close to Utpala and Kumuda. It is recorded in the tradition for cooling and for Pitta. No cultivation status is attested.
 
+### Functional–Anatomical Correlate
+
+The Utpaladi group (Sutra ch. 38) is described as allaying thirst, correcting deranged Pittam and vitiated blood, and assuaging the burning sensation of the body. The metrical text adds that it cures vomiting, Hridroga (angina pectoris), syncope, haemoptysis and poisoning. Those map to the stomach, the heart, the blood, the lungs and the general burning of the body in the text's terms. In the flower chapter (ch. 46), Kuvalayam and Utpalam are described as two varieties of one species that slightly differ from the preceding flowers, Padma and Kumuda, which are called cooling and subduing of Pittam and Kapham. The text does not say how Kuvalaya differs. No rasa, virya, vipaka or single-drug action is printed for Kuvalaya itself, and the Latin identity is open.
+
 ### Contraindications
 
 - **Identity.** The Latin identification is open and is the audit's, not the text's. Nothing may be gathered, bought or used on the strength of this entry. [USER: verify]

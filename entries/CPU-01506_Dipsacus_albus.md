@@ -45,6 +45,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. Its uses are a perineal ointment, a wart remedy and a charm for fevers, with no amounts, so it is history and not a practice. Its lasting value is as a model of how to describe a plant closely enough to recognise it.
 
+### Functional–Anatomical Correlate
+
+The chapter maps to the perineum, the skin and recurrent fevers. Its root, boiled with wine and pounded to the thickness of a wax ointment, is put in to heal cracks and fistulas of the perineum, and the ointment must be stored in a brass box. The text says, with 'they say', that it cures protruding and hanging warts, a surface-tissue complaint. Worms taken from the heads, bound in a purse and hung around the neck or arm, are said to cure fevers with recurrent paroxysms, so the fever is mapped to the body as a whole and to no organ. The chapter prints no temperament, humour, dosha or qi and no taste. Its description of the stalk, paired leaves, water-catching hollows and white dried head is botanical. The worms claim is Dioscorides' own and is not explained in the chapter. The translators' identification covers several species, so the mapping goes no further than this chapter says.
+
 ### Contraindications
 
 Fistulas of the perineum, protruding warts and fevers with recurrent paroxysms need medical care, and a home preparation must not replace it. The charm of hanging a purse of insect contents on the body does not treat a fever. The identification rests on a translators' suggestion covering several species, so no wild plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

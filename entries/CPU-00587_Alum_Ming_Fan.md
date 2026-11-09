@@ -56,6 +56,10 @@ Alum is a well-established astringent and styptic for minor cuts. Aluminium salt
 
 **Practitioner's note.** Alum carries an upper-grade listing in the Chinese classic, but the sentence that earns it is a conditional about a sublimated form, and the rest of the entry is about diarrhoea, sores and the eyes. The Greek text treats it as an external astringent whose first lesson is how to choose a good piece. Nothing sourced supports taking alum for cultivation. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Alum's claimed sites are the skin, the mucous membranes, the gums, the eyes and the womb. Dioscorides gives it, as an astringent, for creeping ulcers, bloody discharges, moist gums, loose teeth, aphthae of the mouth, pustules, ear discharges, leprosy, itches, rotten nails, pterygium of the eye, chilblains, gangrenous ulceration, dandruff, nits and burns, and for oedema and odours in the armpits and groins. Its best kind is said to purge what darkens the eyesight and consumes the flesh of the eyelids. Alum laid at the mouth of the womb is said to prevent conception. The Chinese Fan Shi is sour and cold, treats diarrhoea and dysentery, white discharge, genital erosion, malign sores and eye pain, and is said to strengthen bones and teeth. In traditional terms the sites are the eyes, the gut, the genital tract, the bones and teeth, and the skin and mucous membranes.
+
 ### Contraindications
 
 Do not take alum internally or place it in the vagina on the strength of this entry. Large doses irritate the gut and can cause vomiting. Alum used as an abortifacient is dangerous. On the skin it can sting and dry. Aluminium compounds are a concern in people with kidney failure.

@@ -253,6 +253,10 @@ Ayahuasca's constitutional action corresponds most closely to a Tridoshic *rasay
 
 ---
 
+### Functional–Anatomical Correlate
+
+Ayahuasca's entry maps most densely onto the brain, with the gut wall and liver as the site of its enzyme interaction and the cardiovascular system as the sympathomimetic site. Harmine and harmaline inhibit MAO-A in the gut and liver, so DMT reaches the brain, where DMT acts on 5-HT2A receptors in prefrontal cortex and reduces default mode network activity, the self-referential network. Sigma-1 agonism is described as neuroprotective and anti-apoptotic, and a BDNF rise is linked to hippocampal neurogenesis. Tetrahydroharmine is described as a serotonin reuptake inhibitor, and the entry links the lasting mood effect to that action plus 5-HT2A downregulation. Harmine is reported to stimulate human beta-cell proliferation in the pancreatic islets, from one 2015 study. The Yuan-Shen frame, with Yuan as primary and Shen as co-primary, names the Ayurvedic tissues Asthi (bone), Majja (marrow and nervous system) and Shukra as constitutional sites, and Medha Rasayana for mind and memory. Blood pressure elevation and tachycardia are the named cardiovascular risks, along with seizure and hyperthermia risk.
+
 ### Contraindications
 
 **— The Absolute List —**

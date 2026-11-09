@@ -64,6 +64,10 @@ According to PubMed, *Nuphar lutea* extracts and their nupharidine alkaloids sho
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps yellow water lily onto the mucous membranes, the bowel and the skin, with an anaphrodisiac note reaching the reproductive sphere. The rhizome is astringent and refrigerant, classed cold and dry in the Galenic and Unani frames, and its main use is local: a wash or compress for inflamed, weeping or lax tissue and for topical antimicrobial action on infected skin. Internally it is recorded for checking fluxes and dysentery. Unani and Dioscoridean texts say it tempers excess sexual heat, an anaphrodisiac reputation the entry treats as doctrinal rather than shown. Palpitations of hot origin fall in the heart's frame. The sesquiterpene thioalkaloids are bioactive at low doses, and the entry warns of cardiovascular and neurological toxicity with internal use. Modern evidence is preclinical, from cell and animal models. Traditional energetics: cold and dry, with Ayurvedic analogue pitta-pacifying action.
+
 ### Contraindications
 
 - **⚠️ Alkaloid toxicity.** The sesquiterpene thioalkaloids are bioactive at low doses; internal use carries a real risk of **cardiovascular and neurological toxicity** and must not be self-administered. Prefer external preparations; keep internal use expert-supervised or avoid entirely.

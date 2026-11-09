@@ -68,6 +68,10 @@ According to PubMed, the modern literature on *Echium vulgare* is dominated by *
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps Echium vulgare to the liver as its principal hazard. Its 1,2-unsaturated pyrrolizidine alkaloids, echimidine and relatives, are activated by hepatic cytochrome P450 into reactive pyrroles that form DNA and protein adducts, driving sinusoidal obstruction, irreversible liver injury and failure. Development and milk are also named: PAs are developmentally toxic and pass into milk. The historical traditions mapped the plant to other systems: Dioscorides' antidote for snakebite, a demulcent for the chest and cough, and, in the Galenic-Unani frame, a warm, moist mufarrih cordial meant to strengthen the heart and vital spirit and correct melancholic humour. The entry notes these attributions rest on signature or family resemblance rather than species-specific evidence. Food-chain transfer occurs through honey and bee pollen. Internal use is contraindicated in all cases, and topical use still carries some absorption concern.
+
 ### Contraindications
 
 **⚠️ MAJOR HAZARD — PYRROLIZIDINE ALKALOID HEPATOTOXICITY. READ IN FULL.**

@@ -74,6 +74,10 @@ According to PubMed, Kim et al. showed that an aqueous extract of *Phragmitis rh
 
 ---
 
+### Functional–Anatomical Correlate
+
+In the Chinese frame Lu Gen enters the Lung and Stomach channels, where it clears heat, generates fluids (sheng jin), relieves irritability and thirst, stops vomiting and promotes urination. The entry maps this onto the stomach (heat-type vomiting and belching, thirst in febrile disease), the lungs (lung-heat cough with thick sputum) and the bladder (hot painful urination). Avicenna's Unani frame places its cooling, diuretic action on the heat of the stomach and bladder, and Dioscorides' Galenic frame describes the root as soothing and drawing when applied as a poultice. The entry's modern correlates are the rhizome's polysaccharides, phenolic acids and flavonoids, with antioxidant and anti-inflammatory action. In the Kim study an aqueous rhizome extract protected bone-marrow and thymic structure during docetaxel myelotoxicity and restored haematopoietic colony-forming units and white, red and neutrophil counts, with p-hydroxycinnamic acid reproducing part of the effect. The Awais study addressed SH-SY5Y neuronal cells in vitro. All of this is preclinical, and no controlled human trial is cited.
+
 ### Contraindications
 
 - **Cold / deficiency-cold patterns:** As a cold, fluid-generating herb, Lu Gen is unsuitable for those with spleen-stomach deficiency-cold, watery diarrhoea, or cold-type vomiting without heat signs; it may aggravate a cold, weak digestion.

@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The useful lesson is that Dioscorides sets a minor plant beside a major one and says plainly which is the lesser, and the abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: Dioscorides' chapter 3-33 names no organ, body system or use of its own. It says the plant is paler in the leaves than the Heracleotic origanum, resembles hyssop more, and has seed like berries hanging together. Its actions are said to match those of the Heracleotic origanum of chapter 3-32, but it is not altogether as effective. The chapter prints no taste, and no warming, cooling, drying, moistening or astringent quality for this plant. It gives no preparation, no dose, no habitat and no other name. The Heracleotic chapter is described as warming, but that quality is not carried over to 3-33 by the chapter itself. The identification of this plant as Origanum onitis is the translators' suggestion only. Any mapping of this herb to a body system would therefore come from the comparison, not from a description of its action.
+
 ### Contraindications
 
 The chapter prints no warning. The identification rests on a translators' suggestion, so no plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

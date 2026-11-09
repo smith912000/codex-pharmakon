@@ -68,6 +68,10 @@ For biological context — explicitly **not** species-specific to *L. siler* —
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps sermountain to the gut and the reproductive tract through its warming, dispersing action. In Galenic-Unani terms it is hot and dry to the third degree: a carminative and stomachic that warms a cold stomach, disperses wind and relieves flatulent colic. The Avicennan frame adds warming the stomach and uterus, dissolving windy swellings and opening obstructions. Its emmenagogue reputation is recorded, which is the basis of the pregnancy avoidance. The modern correlate the entry names is a volatile terpene oil, whose smooth-muscle relaxing and gas-dispersing action on the gut is an analogy from related umbellifers. Ayurvedic katu, ushna and vata-kapha reducing qualities are labelled inference only. The entry records only insecticidal evidence for the species, with no human trials. Concentrated oil may irritate mucous membranes and, in excess, stress the kidneys, and photosensitisation is a theoretical risk.
+
 ### Contraindications
 
 - **Pregnancy — avoid.** Traditional emmenagogue reputation; warming aromatic seeds of this class are classically used to promote menstruation and are inappropriate in pregnancy.

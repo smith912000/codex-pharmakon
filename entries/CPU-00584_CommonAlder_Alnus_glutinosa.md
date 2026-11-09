@@ -70,6 +70,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Common alder is classed as cold and dry in the second degree, a drying, binding, astringent agent in the Galenic-Unani scheme. Its mapped sites are mucous and tissue surfaces: the throat and gums (gargles and mouthwashes), inflamed skin, weeping sores and minor wounds (washes and compresses), and the bowel, where bark decoction is used for diarrhoea, with folk use against fever. In modern correlates the entry cites diarylheptanoids, chiefly oregonin, with anti-inflammatory and antioxidant effects, and shikimic acid, which in rodent models showed wound-healing and anti-inflammatory action; the tannins drive the tissue-binding effect. The evidence is preclinical and no human trial was found. Internally, the tannins may constipate, irritate the stomach and bind minerals and co-administered drugs. Birch-family pollen cross-sensitivity is noted, and internal use is not established as safe in pregnancy or lactation.
+
 ### Contraindications
 
 - **Astringent load / constipation:** high-tannin decoctions can cause constipation, nausea, and gastric irritation; avoid prolonged or high-dose internal use.

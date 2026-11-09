@@ -57,6 +57,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Sushruta t
 
 **Practitioner's note.** Nothing here gives a cultivator a practice with this plant. In the Sushruta scheme Choraka is a group member and a component of a physician's oil and antivenom, and the identity of the plant is not settled. Nothing should be gathered or taken on the strength of a Latin name that the chapters do not give.
 
+### Functional–Anatomical Correlate
+
+Choraka, the one Sanskrit name the chapters print for this grass, sits in the Eladi group, which the text says subdues Vayu and Kapha and neutralises poison. Of the same group it says it is a cosmetic that arrests pimples, rash and urticaria on the skin and checks the itching that goes with them, so the skin is the organ named. An injection oil with about thirty drugs, Choraka among them, is cooked with milk and oil and called highly efficacious in disorders of the deranged Vayu. The drug is also one of the Ekasara Agada antidotes against snake poisons, to be applied singly or in combination of two or three. No rasa, virya or vipaka is printed for Choraka, and the chapters print nothing for Amarapushpi. The identification of Choraka with Andropogon acicularis is the appendix's alone and is open, since other entries read Choraka as a different plant. The text gives no part used and no dose.
+
 ### Contraindications
 
 The Sushruta passages read print no warning for the drug itself. The antivenom use describes an emergency that needs medical care, and the injection use is a physician's procedure. The identity is open, so no plant should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

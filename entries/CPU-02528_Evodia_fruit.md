@@ -44,6 +44,10 @@ Evodia fruit is a recognised drug in Chinese pharmacy today and its alkaloids ha
 
 **Practitioner's note.** A cultivator has no regimen here. The classic places the drug among those to be "weighed as appropriate", gives no dose and no course, and says nothing about taking it for long. Treat it as a course drug for a defined complaint, if at all, and stop when the complaint is gone.
 
+### Functional–Anatomical Correlate
+
+The paragraph names the drug, and the root separately, so the mapping applies to the drug as the Codex reads it. It warms the middle (温中) and brings qi down (下气). It stops pain and cough with counterflow (咳逆), and it acts on the body's surface and tissues: it removes damp and blood-obstruction (血痹), drives out wind evil (风邪), and opens the couli (凑理), the texture or interstices of the flesh, a reading the entry notes varies between texts. The root alone is said to kill the three worms (三虫), and the text does not say which worms or where they lodge. Energetically the drug is pungent and warm (味辛，温). The classic places it in the middle grade, which its preface ties to weighing toxicity and use, and the paragraph gives no long-use clause. The Codex records these as categories and does not translate them into modern indications.
+
 ### Contraindications
 
 - **Toxicity and dose.** The classic's middle class is "toxic or non-toxic, to be weighed as appropriate". The fruit is a pungent drug with alkaloids; no safe dose can be stated from the text. Do not take it on this entry's authority. [USER: verify]

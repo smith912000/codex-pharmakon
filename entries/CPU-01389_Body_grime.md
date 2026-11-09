@@ -62,6 +62,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As a general f
 
 ---
 
+### Functional–Anatomical Correlate
+
+Dioscorides (DMM) gives three kinds of grime, named by their place of gathering: from the public baths, from the wrestling school and from the gymnasium walls or statues. The bath grime heats, softens and disperses fluids, and serves splits in the perineum and rubbing on joints, which maps to the joints, the perineal tissues and fluid collections. The wrestling-school grime helps the joints, applied as a warm compress. The gymnasium-wall grime warms and dissolves slow-ripening growths (tubercles) and helps abrasions, scaly skin and old ulcers, mapping to the skin and the growths beneath it. No quality such as dryness or moistness is printed for any kind, and the text does not say what the grime consists of. The entry's modern note is that such material is skin residue carrying skin organisms, a general fact and not the author's claim. The chapters have no subtle-body frame, and the Codex records them without endorsement.
+
 ### Contraindications
 
 - **Infection:** used grime from shared bathing and exercise places can carry bacteria and fungi; it should never be applied to open sores, ulcers or the perineum.

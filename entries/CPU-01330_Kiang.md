@@ -40,6 +40,10 @@ General facts only. Wild game can carry zoonotic infections and parasites, and e
 
 **Practitioner's note.** Nothing here is a practice. Wild ass is one name in a list of game animals and one in a sentence on rump meat; a cultivator has no regimen to take from it.
 
+### Functional–Anatomical Correlate
+
+The Tibetan rGyud-bzhi frame places the kiang's flesh on the kidneys and waist, the lumbar region and its organs. The Tantra's wording is that the rump meat of horse, wild ass and donkey dries pus, eliminates disorders of the kidneys and waist, and removes cold disorders and lymphatic ailments. The lymphatic system and the suppurative exudate that pus names are the modern counterparts the entry's terms suggest, though the text itself gives no anatomy. The Men-Tsee-Khang version adds that the meat stops pus formation and helps against chhuser disorders; that term is not explained in the lines read, so it is quoted and not mapped. The wild ass sits in the group of larger hill and game animals, whose meats are sweet tasting and have a sweet post-digestive taste. The Tantra's wider dry-land qualities cannot be assigned to it, because the relevant group line is unreadable in the OCR. Nothing is said about any tissue beyond the kidneys, waist and lymph, and no mechanism is offered.
+
 ### Contraindications
 
 - **Hygiene and infection:** wild game must be cooked through; equid meat can carry parasites.

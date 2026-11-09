@@ -40,6 +40,10 @@ General facts only. Wild game must be cooked through and handled hygienically, a
 
 **Practitioner's note.** Nothing here is a practice. In Sushruta this is a venison with stated qualities, given to the sick and counted safe for all people, and the animal cannot be identified. A person who eats meat may read the classification as the tradition's own description of the food; a person who does not has nothing to adopt.
 
+### Functional–Anatomical Correlate
+
+The Mriga-matrika is a venison of the high-ground Janghala group, which the text describes as sweet and astringent, light, keen, laxative and diuretic, and as subduing Vayu and Pittam. The bowel and urinary tract are the sites of the group's laxative and diuretic action. For the Mriga-matrika itself, the text says the flesh is cooling and curative in haemoptysis, bleeding from the lungs and airways; in Sannipata disease, meaning disorders of all three humours together; in consumption, which maps to the lungs and wasting; in dyspnoea, which is laboured breathing; in cough; and in hiccough, which maps to the diaphragm and the reflex of the breath. It is also said to create a relish for food, which maps to appetite and the stomach. The entry gives no tissue beyond the airways, lungs, bowels, kidney output and the appetite.
+
 ### Contraindications
 
 - **Identity:** the animal is not identified, and "doe" in the glossary rests on a variant spelling; do not substitute a species on this basis. [USER: verify]

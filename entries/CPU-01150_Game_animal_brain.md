@@ -44,6 +44,10 @@ General, well-established facts only. Acute diarrhoea is treated with oral rehyd
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The line is a record of a remedy for diarrhoea, the tradition itself has largely replaced animal products with herbs, and the Codex does not recommend it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one organ and one action. In Clark's translation of the Explanatory Tantra, the brain of game animals (e.g. deer) halts diarrhoea, and Men-Tsee-Khang's 2011 text says the brain of herbivorous wild animals stops diarrhea. The bowel, in terms of diarrhoea, is the only body system named, and the passage describes no other organ, stool or intestinal structure. Neither translation prints a taste, potency, post-digestive taste or humoral quality for this brain, and Clark's line gives no Tibetan name. The two translations describe the class of animal differently, and the entry notes that their species lists disagree. It gives no preparation, route or dose. Both translators say animal products have largely fallen out of use, and the entry records that statement without reconciling it with the remedy.
+
 ### Contraindications
 
 - **Prion disease:** do not eat the brain of deer, elk, moose or any other animal; it can carry infectious prions.

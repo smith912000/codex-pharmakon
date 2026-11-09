@@ -91,6 +91,10 @@ The codex flags that these assignments here come through the modern secondary tr
 
 **Practitioner's note.** Nothing. The text offers the cultivator no regimen with Shalmali: it is a surgical teaching board, a styptic ingredient and a dream sign, and any tonic or vitality claim in the entry is not Sushrutan on the evidence read.
 
+### Functional–Anatomical Correlate
+
+The entry separates the tree's parts by the organs each tradition names. The gum, mocharasa, is the astringent article: in Ayurvedic terms kashaya, cooling and drying, given for diarrhoea and dysentery, so the bowel lining, and for excessive menstrual bleeding, so the uterus. The root, semul musli, is classed as vajikarana and tonic, which the entry links to reproductive vitality, though it records no supporting study. Flowers are the one part with a food role, and a powder containing them is rubbed on an incision to check excessive bleeding, which names wound surfaces. Leaves have no traditional organ claim in the entry; the organ-level findings there are preclinical, with the leaf compound shamimin lowering blood pressure in rats and leaf mangiferin giving analgesic results in mice. The entry confirms none of these, and no tonic or aphrodisiac effect, in humans. The traditional organs are therefore the bowel, the uterus, the reproductive system by claim only, and bleeding wound surfaces.
+
 ### Contraindications
 
 - **The evidence base is preclinical only.** No human trial of any part of *Bombax ceiba* was retrieved. Every pharmacological claim here is rodent or cell-culture. Nothing in this entry establishes safety or efficacy in a person.

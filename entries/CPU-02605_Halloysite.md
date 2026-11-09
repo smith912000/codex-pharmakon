@@ -47,6 +47,10 @@ General, well-established facts only. Halloysite is a kaolin-group clay mineral 
 
 **Practitioner's note.** Nothing to take from it for cultivation. It is a white, brain-like stone that the tantra lists for maintaining the brain and promoting flesh growth, with no preparation or dose. The likeness in the name is a descriptive label, not an instruction. It is not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the line names two sites and one non-site. It is said to maintain the brain, which in modern anatomy is the brain and central nervous system, and to stimulate flesh growth, which maps to the soft tissues and flesh of the body. The Tibetan name, stone brain (rdo.klad), carries the likeness, and the commentary's white, pimply appearance is description, not an organ claim. The chapter arranges the stone medicines by action on a condition rather than by the three nyes pa, and the entry says no taste, potency or post-digestive taste is printed for it at this line. No channel, organ system or humour beyond the brain is named, and the stone is not described for use in essence extraction. The mapped claim is therefore the brain and the soft flesh tissue only.
+
 ### Contraindications
 
 - **Ingestion of mineral material.** Unknown mineral stones can carry heavy metals or other contaminants. The text gives no preparation. Do not swallow any stone on the strength of this entry.

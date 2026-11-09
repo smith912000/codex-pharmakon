@@ -50,6 +50,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 **Practitioner's note.** Nothing to take from it for cultivation. It is a yellow stone or clay that the tantra lists for fractures, swollen glands and flesh growth; no preparation is given. It is not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The tantra's own actions for yellow halloysite, per Clark, are curing fractures and glandular growths and stimulating flesh growth. Fractures map to the bones and their healing. Glandular growths map to the glands and the lymph nodes, and Men-Tsee-Khang reads the action as decreasing the swelling of lymph nodes, which maps to the lymphatic system. Flesh growth maps to the soft tissue, and Men-Tsee-Khang's version, regenerating damaged tissues, maps to repair of damaged tissue in general. Men-Tsee-Khang's fracture action is joining fractured bones, which maps to the same skeletal sites. The two colour types, pale yellow and yellowish brown, are commentary and map to no site. No wind, bile or phlegm site is printed, and no taste, potency or channel is named for the stone.
+
 ### Contraindications
 
 - **Fractures; swollen lymph nodes:** medical conditions; see a doctor.

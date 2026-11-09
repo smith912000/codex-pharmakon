@@ -43,6 +43,10 @@ General facts only: raw hide laid on a wound is a source of infection and has no
 
 **Practitioner's note.** A grab-bag of animal-skin remedies, several of them reported with 'it is said'. No cultivation status is attested, and the entry is a record.
 
+### Functional–Anatomical Correlate
+
+The Canon maps animal skin onto bleeding, sores, burns, hair, the feet and thighs, piles, stomach pain and viper bites. Scrapings of goat skin laid on a bleeding stop it. Burnt viper skin, as a salve, is recorded for alopecia, named in the text as dāʾ al-thaʿlab. Skin of the water-horse, laid on a pustule, is said to disperse swellings. Ashes of mules and the like, burnt on fire, are used on burns and hot sores without swelling, for chafing of the foot and thighs, and for piles. Skin flayed from a sheep and laid at once on a blow prevents injury and helps malignant sores, scab and gangrene. The dried inner lining of cocks' gizzards, drunk with grape syrup, benefits stomach pain. A warm flayed goat skin laid on a viper bite draws out venom. The Canon gives no temperament, saying only that the nourishment of skin is little and viscous, and reports these uses with 'it is said'.
+
 ### Contraindications
 
 - **Infection.** Raw or unclean hide on an open wound risks infection.

@@ -48,6 +48,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The one genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It offers one comparison, one preparation and one quality, so it is history and not a practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter prints one quality, that the flower of the wild pomegranate is "astringent". It names no organ, tissue or body system, and no humoral, doshic or qi term. It says the flower is "good for the same purposes as hypocistis and cytini", two drugs described in other chapters, 1-127 and 1-152. The entry notes that those chapters name wounds, gums and teeth, colic, dysentery, blood-spitting and women's excessive discharges, but 1-154 itself does not repeat them. It also states that the flowers come in white, red and rosy kinds, a difference of colour and not of body action. The species is uncertain, so the astringency describes the chapter's claim only.
+
 ### Contraindications
 
 The chapter prints no warning. A drug described only as astringent and for the same purposes as other drugs gives no guidance on safety, and the Codex gives none. Bleeding, dysentery, mouth sores and other complaints that persist need medical assessment. The identification rests on a translators' suggestion that may name a species Dioscorides did not know, so no plant should be gathered or used on the strength of this entry. [USER: verify]

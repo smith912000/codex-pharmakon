@@ -100,6 +100,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps spinach to the blood, the intestines and the vascular system. In Chinese medicine it is cool and sweet, entering the Intestines and Stomach to nourish Blood and Yin, moisten dryness, lubricate the bowel for constipation and quench thirst. Unani reads isfanakh as cold and moist, demulcent and gently laxative, for the chest, throat and hot, bilious or feverish states. Ayurveda calls palak sheeta and madhura, pitta-pacifying and blood-nourishing. The modern correlates offered are dietary nitrate feeding a nitrate-to-nitric-oxide pathway linked to vascular and blood-pressure effects; lutein and zeaxanthin in the macula of the eye; and folate, iron and vitamin K for blood and coagulation. Oxalate binds calcium and iron, so the entry flags calcium-oxalate stone formers and hyperoxaluria, and advises cooking to reduce it. Vitamin K interacts with warfarin, and high-nitrate greens are not advised for very young infants.
+
 ### Contraindications
 
 - **Oxalate / kidney-stone risk** — high oxalate content; contraindicated in calcium-oxalate stone formers and hyperoxaluria; always cook/blanch and moderate quantity; do not consume large raw quantities

@@ -42,6 +42,10 @@ General, well-established facts only. Nothing can be said of a plant that has no
 
 **Practitioner's note.** Nothing to do. An unidentified fruit in an eye medicine cannot be gathered, bought or used.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter states only that Akakalis is the fruit of a shrub growing in Egypt, similar to the fruit of the myrica, and that a dilution of it is mixed with eye medicines which are good for sharpening the sight. The translator marks the plant UNKNOWN, so no species is named, and no humoral, energetic or qualitative term is given for it. The only body system the entry can map is the eye, through the stated use in eye medicines. Dioscorides does not say what the drug does to the eye or to any other organ. No subtle-body or cultivation framing is attested. Nothing here maps to a modern organ or to a traditional energy, and the Codex adds no claim. The identity is open, so any comparison with the myrica or with another fruit is a reader's inference, not the text's claim. No dilution, proportion or application method is given.
+
 ### Contraindications
 
 - **Eyes.** Do not put any unidentified preparation in the eye; eye infections can cause permanent harm. Seek proper medical care.

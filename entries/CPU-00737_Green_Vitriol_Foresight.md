@@ -56,6 +56,10 @@ Ferrous sulphate is an astringent and an iron source, and the astringent action 
 
 **Practitioner's note.** Nothing here for a cultivator to take. Green vitriol is, in these sources, a cleansing and astringent dressing and eye material, with no cultivation status in any tradition read. If the tradition of a metal-sulphate mineral is of interest, the discipline on offer is Dioscorides': provenance, look and adulteration. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Green vitriol's claimed sites are the wound and ulcer surface, the teeth, the bladder and abdomen, the skin, and the sciatic region. In Sushruta's Ushakadi group, kasisa (iron sulphate) is said to destroy kapha, absorb the body's fat and relieve stone or gravel in the bladder, dysuria and abdominal glands. Its uses in the text are as a plug and plaster for cleansing an ulcer or open swelling, as an oil against polypus, as a powder applied to a part after clarified butter and honey, and, with honey, in cases of hiccup. Dioscorides' candidate chapters give soru for toothache when put into the cavity, for loose teeth, and as a suppository with wine for sciatica; it extinguishes smallpox pustules and is used to dye hair. Melanteria is sharp like misy. In modern anatomy terms the mapped sites are the ulcers and skin, the teeth and gums, the bladder, the abdomen, the nerves of the sciatic region and the hair.
+
 ### Contraindications
 
 Iron sulphate is an irritant to the gut and in overdose is a serious poison, particularly to children. The ancient name "vitriol" covers other metal sulphates (copper, zinc), which are also toxic. Traditional preparations are unstandardised. The Dioscorides soru chapter itself says it is "more poisonous and causes nausea". Do not use in place of medical care.

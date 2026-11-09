@@ -51,6 +51,10 @@ Hirudotherapy is used in modern medicine to relieve venous congestion in reattac
 
 **Practitioner's note.** Nothing here for a cultivator to take. If the sources offer a discipline, it is the Sanskrit one: choose the right animal (non-venomous, from named places), keep it clean, apply it only where the patient cannot bear the knife, and make the animal disgorge so that it does not sicken. That discipline belongs to a physician, not to self-treatment. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Sanskrit (Sushruta, Sutrasthana ch.13) entry maps the leech to the blood. Leeches are the gentlest means of drawing blood, for the old, the weak, women, infants and the timid. Blood vitiated by Vayu, Pittam and Kapham is drawn by horn, leech and gourd respectively; the leech is used for bile-vitiated blood and is said to be of sweet (madhura) property. The chapter sorts venomous from non-venomous kinds and describes how the leech is applied to the skin, how it is made to take, and how it is made to vomit the blood before the wound is dressed. The Greek (Dioscorides) text maps leeches to the throat and to blood discharge: a leech stuck in the throat is expelled by gargling silphion or vinegar, a leech taken in drink by sipping vinegar, and bleeding from leech bites is stopped with bean. Those are leeches as a hazard, not as a drug. The Assyrian, Unani and Divine Farmer's sections give no reading.
+
 ### Contraindications
 
 Leech application carries risk of prolonged bleeding (especially in people on anticoagulants or with clotting disorders), anaemia, allergic reaction and wound infection, including by the gut bacteria of the leech; wild-caught leeches are not sterile. The Sanskrit text itself warns of venomous kinds and of the dying leech. Trade in and collection of wild medicinal leeches is regulated in many places, and the species used in medicine is believed to be protected under international wildlife-trade rules; the status of any given species has not been checked here. [USER: verify]

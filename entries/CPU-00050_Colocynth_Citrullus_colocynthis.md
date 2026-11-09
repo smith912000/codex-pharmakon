@@ -76,6 +76,10 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry locates colocynth's drastic action in the intestinal mucosa and in the fluid balance of the gut. Its cucurbitacins and bitter glycosides irritate the bowel lining, provoking violent peristalsis and fluid secretion, a forcible evacuation with griping and potentially bloody diarrhoea. In quantity the entry says the same compounds cause systemic toxicity. In humoral terms it is hot and dry in a high degree, used in the old scheme to evacuate phlegm and black bile and in dropsy, and in the Unani correction (islah) aromatics and gums are added to restrain griping. The Kenetica tier is Qi at the extreme of the downward-eliminating axis. The entry notes the abortifacient folk use, which it says causes serious maternal harm. Because catharsis shifts fluid and electrolytes, it lists dehydration, renal and cardiac compromise, the frail and the elderly as contraindicated, alongside inflammatory bowel disease, obstruction and haemorrhoids.
+
 ### Contraindications
 
 - **Pregnancy — absolute.** Drastic purgative and traditional abortifacient; serious harm; contraindicated.

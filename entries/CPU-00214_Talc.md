@@ -47,6 +47,10 @@ Talc is a magnesium silicate; swallowed, it passes through the gut without absor
 
 **Practitioner's note.** The Chinese text places talc in the grade of substances taken long-term to nourish life, and that is a real fact about the tradition, but nothing sourced here supports swallowing talc for cultivation, and the text's own claim of harmlessness is not borne out by what is known of inhaled talc. A cultivator can take from the sources the idea of a long-term, nontoxic regimen, and then ask whether this mineral is a sound member of it; on the evidence in the file, it is not recommended. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Yang's Classic describes Hua Shi as sweet and cold, mainly treating generalised fever, afflux diarrhoea, difficult lactation in women and dribbling urinary block. It disinhibits urination and flushes accumulations and gatherings in the stomach, and it boosts the essential qi. Footnote 42 adds that it clears summerheat and heat both internal and external, quenches vexatious thirst, and cures fulminant diarrhoea, dysentery with pressure on the rectum, and vaginal discharge. Mapped to the body, the claimed sites are the whole body for fever, the stomach, the bowel and rectum, the urinary tract, the breast and milk supply in lactation, and the vagina. The Sanskrit and Greek attestations print no physiological action in the lines read. No humoral, doshic or temperament classification is given.
+
 ### Contraindications
 
 Talc dust must not be inhaled; breathing it causes lung disease (talcosis). Talc from natural sources may be contaminated with asbestos; cosmetic and pharmaceutical grades are controlled for this and other grades are not. Swallowing talc has no sourced benefit. Do not give powdered talc to infants or use it on broken skin. A "long-term nourishing" claim rests on the Chinese grade above and has no safety record in these sources.

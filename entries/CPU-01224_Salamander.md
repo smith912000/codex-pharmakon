@@ -40,6 +40,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The only gener
 
 **Practitioner's note.** There is nothing in the source for a cultivator to use. The remedy is an irritant and a depilatory; the one thing the chapter models is a refusal to repeat the fireproof story, which is a small piece of the Dioscoridean discipline of attention and not a practice.
 
+### Functional–Anatomical Correlate
+
+The entry maps to the skin and hair. Dioscorides calls the salamander antiseptic, ulcerating and heating, and says it is mixed into antiseptic and leprosy medicines, so the skin, its ulcers and the skin disease the Greek term covers are the sites. Moistened with oil it removes hair, so the hair follicles are the part the depilatory use acts on. The printed triplet of antiseptic, ulcerating and heating is the only quality, and no Galenic humoral degree is given. It describes the material's effect on tissue rather than a temperament in the body. The chapter names no internal organ and does not record taking the animal by mouth. The entry notes that nothing is claimed for the leprosy use in modern terms, and gives no mechanism for the depilatory.
+
 ### Contraindications
 
 Dioscorides himself calls the material ulcerating and heating, which is reason enough to keep it off the skin. Salamanders handled or prepared whole can carry skin toxins, and the animals are protected in various places. Taking it internally is not recorded in the chapter and is not suggested. Hygiene (wild animal material), toxicity and conservation are reasons enough for abstention.

@@ -92,6 +92,10 @@ Rank it accordingly: **a food with a credible and mechanistically coherent anti-
 
 ---
 
+### Functional–Anatomical Correlate
+
+In TCM the corm is mapped to the Lung, Liver and Spleen channels: it moistens the Lung and stops cough, including coughing of blood; it moves blood and dissipates nodules in the Liver; and it enters the Spleen, where cold-deficient Spleen and Stomach patterns are cautioned. Painful urinary dribbling (lin) is a urinary target. Topically, the cooled leaf is applied to hot inflammations, burns, erysipelas and swellings. The preclinical studies add organs the entry lists without human confirmation: the lung in a COPD mouse model, the colon in colitis (tight-junction proteins claudin-1, occludin and ZO-1), the lens in cataract models, and the retina in diabetic retinopathy. These are mapped to inflammatory signalling (TLR4, MyD88, NF-kB) rather than to organ function. The raw corm is acrid and irritant to the mouth, pharynx and stomach.
+
 ### Contraindications
 
 - **⚠ NEVER EAT THE CORM RAW.** The raw corm is **acrid and irritant** — a consistent traditional warning across the Chinese record, and consistent with the irritant diterpenoid chemistry of the Alismataceae. Peel and cook thoroughly. Raw ingestion risks oral, pharyngeal and gastric irritation.

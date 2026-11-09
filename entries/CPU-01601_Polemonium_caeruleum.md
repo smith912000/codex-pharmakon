@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It offers a description, a list of root remedies and a reported amulet, so it is history and not a practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The chapter maps onto the body's response to venom, the bowel, the urinary passage, the sciatic nerve, the spleen and the teeth. The root, drunk in wine, is said to act against venomous creatures. Drunk with water it is given for dysentery, painful urination and sciatica. A teaspoonful with vinegar is given for the spleen, and chewed it eases toothache. The root carried about the person is said to prevent scorpion strikes, and the chapter reports that those who have it shall not be bitten, a belief introduced with 'they say'. The root is described as whitish and a foot long, and the habitat as hilly and rough. The text gives no humour, temperament or energetic quality, and no tissue or channel beyond the organs named. The translators class the amulet among superstitious practices, and the Codex does not extend it to any body system.
+
 ### Contraindications
 
 The chapter prints no warning. Venomous bites and stings need emergency medical care, and the amulet must not be taken as protection. Dysentery, urinary pain, sciatica and persistent toothache need medical assessment. The identification rests on a translators' suggestion, so no wild plant should be gathered or used on the strength of this entry. [USER: verify]

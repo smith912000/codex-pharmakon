@@ -67,6 +67,10 @@ Separately, according to PubMed, Ragucci et al. (2025), *International Journal o
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, garden orache acts on the bowel and the skin as a cooling, moistening, emollient food-herb. Dioscorides places it on the belly, where it softens and loosens the bowel, and applied externally as a poultice to hot swellings and inflamed skin. The Unani account (Avicenna) classes it as cold and moist, a mulattif and mild laxative that eases constipation, cools hot temperaments and softens indurations. Ayurvedic-by-analogy terms give sweet, cooling, Pitta-pacifying and Vata-moistening action, with a possible Kapha increase. The modern correlate is in vitro and preclinical: betalain pigments from the red variety reduced prostaglandin E and nitric oxide output in LPS-stimulated macrophages and lowered the expression of Il6, Il1b, Nos2 and Cox2, which maps onto the cooling-of-inflammation reading. The kidney and urinary tract enter as a caution rather than a target: the oxalate load is flagged for calcium-oxalate stones, hyperoxaluria, gout and impaired renal function, and for calcium and iron absorption. The seed proteins are a reason to keep food use to the leaf.
+
 ### Contraindications
 
 - **Oxalate content:** as a goosefoot-family green, orache accumulates oxalates. This is the primary caution — avoid large or raw quantities in anyone with a history of **calcium-oxalate kidney stones, hyperoxaluria, gout, or impaired renal function**. Cooking and discarding the water reduces oxalate load; keep raw intake modest.

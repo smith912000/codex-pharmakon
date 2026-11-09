@@ -78,6 +78,10 @@ Mallow's physical demulcent mechanism is on secure ground; its *biochemical* ant
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, dwarf mallow is a Yin, cool and moist demulcent whose action is physical: its mucilage coats, moistens, lubricates and loosens irritated membranes of the throat, chest, gut and urinary passages. Dioscorides prescribes the cooked leaf and root to loosen the belly, leaf poultices for stings, swellings and hardened tissue, and decoctions as a gargle. Avicenna's Unani scheme gives it emollient, relaxant and gently laxative action, easing dry cough and softening indurations. The entry's modern correlates are the mucilage polysaccharides, which a 2025 food study used as a film-forming coating, confirming the coating property, and the polyphenols. The anti-inflammatory action sits with the polyphenol fraction. The isolated mucilage increased cytokine secretion in a congener assay, and an orabase of the congener M. sylvestris showed no wound-healing effect in rats. The entry grades the demulcent action as well supported and the anti-inflammatory and wound-healing extensions as weak, mixed or negative.
+
 ### Contraindications
 
 - **Mineral/drug absorption timing.** As with any bulk mucilage, large medicinal doses may slow absorption of concurrently taken oral drugs; separate dosing.

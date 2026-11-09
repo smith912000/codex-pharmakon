@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The one thing to take from it is the habit of recognising a plant by where it grows and by a plain physical trait (here, seeds that cling to cloth). The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Dioscorides' chapter 4-86 maps the leaves and the juice onto the skin, the eye, the throat, the ear and the joints. The leaves are called astringent and cooling. Smeared on, they are said to heal erysipelas, venereal warts, the beginning of pannus, a thickening of the cornea with veins, all inflammations, and oedema. Juice mixed with white lead ore, which the Codex flags as poisonous, is said to help erysipelas and herpes. Juice taken with cyprinum and goat's grease is said to help gout in the feet. A wine cupful of the juice, sipped, is said to help a long cough. As a gargle and ointment it is said to help inflamed tonsils, and dropped in the ears with rosaceum it is said to help earache. The chapter names no temperament beyond astringent and cooling, and no drying or moistening quality. Modern anatomy would place these actions in the skin, cornea, airway, middle ear and joints, but the chapter names only the uses, not a mechanism.
+
 ### Contraindications
 
 One preparation in the chapter contains white lead ore, which is poisonous; do not use it. Erysipelas, eye disease, tonsillitis and earache need medical care. People with hay fever or asthma should be aware that the plant's pollen is a common allergen. The identification rests on a translators' suggestion between two distinct plants, so no plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

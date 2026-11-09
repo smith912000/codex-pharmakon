@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The text offers only a plain statement that it is food. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter states that the plant has a short stalk, leaves similar to saffron, a long sweet root, a big cup on the stalk with black fruit at the top, and that it is an edible herb. It names no organ, tissue, system or fluid that the plant acts on. It records no medical use, no purge, no remedy and no effect on the body. The only quality is that the root is 'sweet', a taste and not a function. No humour, dosha or qi term is given. The one body-related statement is that the plant is food, and the chapter does not say which part is eaten or how it is prepared. The identity is only a suggestion, and the translators print three species, so nothing further can be mapped from this entry.
+
 ### Contraindications
 
 Chapter 2-173 prints no warning. The identification is only the translators' suggestion, and the translators offer three species, so no plant should be gathered or eaten on the strength of this entry. Many wild plants with a milky sap or a similar leaf are not edible, and the chapter does not help to tell them apart. The text gives no dose and no safety information for pregnancy or children. [USER: verify]

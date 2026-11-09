@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing here gives a cultivator a practice. A wild vine, a purging root, a skin wash and a salted vegetable are recorded, and its identity is unresolved. The abstentive answer is the correct one.
 
+### Functional–Anatomical Correlate
+
+The chapter's uses map to three sites and one food. Internally, the root, boiled in wine and taken with two cups of seawater, purges out watery matter, and the same root is given for dropsy. No organ is named for either action. Externally, the fruit clusters clean away sunburn and every spot, so the skin is the site. The new shoots, preserved in salt, are eaten with meat as a food use. The chapter describes a long, woody, rough climbing stem with chapped bark, leaves broader than those of the garden strychnos, a mossy flower with filaments, and red grape-like clusters with round seeds. No humoral, doshic or qi term is given. The text does not name the kidneys, liver or heart, and none is attributed to this plant. The identity among wild vines is unsettled, and the next chapter on white bryony is not attributed here.
+
 ### Contraindications
 
 The root is recorded as a purge, and purgatives can cause dehydration and electrolyte loss. Drinking seawater, as the chapter directs with the root, is harmful. Dropsy needs a clinician. The plant is not securely identified, and wild vines should not be confused with poisonous climbers such as the white bryony of the next chapter. None of the uses above is advice.

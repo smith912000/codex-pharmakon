@@ -42,6 +42,10 @@ General, well-established facts only. Bone from any animal is a calcium phosphat
 
 **Practitioner's note.** Nothing here supports cultivation use. The bone appears as one sentence in a list of bones, with an action on the bone itself, in a section of the materia medica that Clark says is little used today. A cultivator has nothing to take from this entry; the honest practice is abstention, which also spares an endangered animal.
 
+### Functional–Anatomical Correlate
+
+The entry maps one tissue, bone. Clark's translation says tiger bone 'increases bone resin', and the Men-Tsee-Khang text says it 'protects the spongy bone'. Both place the action on the bone itself, so the skeleton is the body system named. Clark does not define 'bone resin', and this entry does not equate it with the pine resin or the bodily constituents Clark lists, so the target is named only as the translation gives it. The two translations agree on the bone and differ in verb and object, and the Tibetan is not printed in either, so which rendering is closer is not decided here. The text gives bone no taste, potency or humour, and no neighbouring bone's action is extended to the tiger's. The entry names no organ beyond bone and no essence-extraction site. In general terms, bone is a calcium phosphate mineral on a collagen framework, with marrow; that is general knowledge, not a text claim. The entry adds that bone disease needs medical assessment.
+
 ### Contraindications
 
 - **Law and conservation:** the tiger is an endangered species and trade in its bone is prohibited in most countries; possession or purchase is unlawful and drives poaching. A product sold as tiger bone is also likely to be something else.

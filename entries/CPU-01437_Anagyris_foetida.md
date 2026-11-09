@@ -39,6 +39,10 @@ Quinolizidine alkaloids such as cytisine act on nicotinic receptors and are toxi
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a toxic shrub in the general knowledge of its genus, and the honest practice is to recognise it from Dioscorides' description and leave it alone.
 
+### Functional–Anatomical Correlate
+
+The chapter's uses fall on the skin and tissues, the lungs, the head, the womb and the stomach, with the reproductive uses most prominent. The pounded tender leaf applied to the body represses oedema, a swelling of tissue. A teaspoonful of the leaf in raisin wine is given for asthma, and for headache with wine. The same teaspoonful is given for expulsion of the afterbirth and menstrual flow, and as an abortifacient, which acts on the womb. The juice of the root is said to dissolve and ripen, with no site named. The seed, eaten, encourages vomiting excessively, an action on the stomach. A birth amulet is hung for hard labour and must be removed at once after delivery. The chapter gives no humoral, doshic or qi category and no warming or cooling quality. Its description of the shrub, with its very strong scent and kidney-shaped seed in horns, serves identification.
+
 ### Contraindications
 
 Plants of this genus contain toxic alkaloids, and the seeds in particular have caused poisoning. Dioscorides' own uses (abortifacient, strong emetic) are hazardous. Do not use in pregnancy. None of the traditional uses above is advice, and no home preparation is safe. [USER: verify]

@@ -52,6 +52,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. The honest answer is to do nothing with it on the strength of this entry, and to read I_836 for the rest of the genus.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that no Dioscorides chapter and no Avicenna locus was found for Rhinanthus crista-galli, and that its four attached chapters concern other plants. It states that no active components, preparations, doses or clinical studies were read. Its only biological statement is that Rhinanthus species are root hemiparasites of the family Orobanchaceae, generally reported to contain iridoid glycosides such as aucubin and catalpol, with this species' composition unread and flagged for verification. Its only use statement is historical record only, with no use given for a yellow rattle, and the Codex gives no protocol for it. The Latin crista galli, cock's comb, appears in a Dioscorides chapter for a different herb, so the name resemblance is not evidence. The entry says the row probably duplicates CPU-00926. It advises against collecting or ingesting a wild plant on the strength of this entry. No body system, organ or tissue is mapped.
+
 ### Contraindications
 
 No safety data were read. Do not collect or ingest a wild plant on the strength of this entry. Yellow rattle is a meadow plant that is hard to tell from its relatives without botanical help.

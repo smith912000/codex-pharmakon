@@ -41,6 +41,10 @@ Acrid aroids can cause burning and swelling of mouth and skin on contact, a gene
 
 **Practitioner's note.** Nothing here gives a cultivator a practice. The record is a caustic root with a warning attached, and the abstentive answer is correct.
 
+### Functional–Anatomical Correlate
+
+Dioscorides places this plant among the herbs with a sharp quality, a term the entry gives without a warming or cooling reading. The text's claimed sites of action are the cheeks, the fistulas and the genitals. Rubbed on the cheeks, the root is said to prevent gangrenous ulceration there. Salves made from it are said to be effective for fistulas. When put in or applied, the plant is said to destroy the genitals of any living creature, so the text records a caustic action on that region. No internal organ or bodily humour is named. The family's calcium-oxalate irritancy is a general statement from the entry's own notes and was not checked against this species. The Codex records these as historical claims and gives no protocol.
+
 ### Contraindications
 
 Acrid and caustic. Do not eat or apply. The text itself says it destroys the genitals of any living creature when put in or applied. Contact with the plant's sap can blister skin and mucous membranes, a general statement about the family. No traditional use above is advice.

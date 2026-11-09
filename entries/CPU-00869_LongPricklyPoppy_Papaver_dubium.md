@@ -93,6 +93,10 @@ Net honest picture: the ancient "gentle, cooling, non-narcotic quieting" doctrin
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps long-headed poppy onto the mind and sleep, where it is used for restlessness, light sleep-onset and mild evening calming, framed in Galenic and Unani terms as cold and moist, a demulcent softener rather than a stupefacient. The airways and throat are the second target, with its mucilage and demulcent polysaccharides soothing a dry, tickling cough and hot coughs, and Avicenna also directs it to pleuritic irritation. Dioscorides records the petals as a mild hypnotic and soother of inflammation. The redness is linked to cyanidin-based anthocyanins, which the entry describes as antioxidant pigments rather than the calming principle. The modern correlate is the rhoeadine-type isoquinoline group, which is non-morphinan, and whose congener sedation in mice was not reversed by naloxone or flumazenil. The entry states that P. dubium itself is essentially unstudied, so any efficacy claim rests on P. rhoeas data and is an inference. Alkaloid-bearing latex, capsules and foliage are not advised.
+
 ### Contraindications
 
 - **CRITICAL — do not confuse with opium poppy (*Papaver somniferum*).** *P. dubium* contains **no morphine, codeine, or thebaine** and is not a narcotic or opioid substitute; its (congener-inferred) sedation is naloxone-insensitive. Equally, this entry does **not** license *P. somniferum* material. Do not represent field-poppy preparations as delivering opioid analgesia.

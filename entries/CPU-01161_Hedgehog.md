@@ -44,6 +44,10 @@ General, well-established facts only. Keratin applied to the scalp does not supp
 
 **Practitioner's note.** A cultivator does nothing with this. The chapter is a record of what a first-century physician reported, and a protected wild animal is not a source of medicine. The one transferable point is the attention to preparation and storage: material is dried, kept and given, not used raw.
 
+### Functional–Anatomical Correlate
+
+Dioscorides' entry names two sites of action. The burnt skin, rubbed on with moist pitch, is said to treat alopecia, so its action is on the hair and scalp. The dried flesh, drunk in honey or in vinegar and honey, is said to help inflamed kidneys, water under the skin (dropsy), convulsions, elephantiasis and cachexy (general wasting of nutrition), and to dry up discharges from the bowels and liver, which places it on the urinary, digestive and hepatic organs. In the Unani Canon the flesh is called strongly dissolving and drying. Its fat and sun-dried liver are said to prevent matter pouring into the viscera. Salted land flesh is given for elephantiasis, leprosy, the joints, palsy, spasm and diseases of the sinew, and, salted with oxymel, for dropsy and pains of the head and kidney. The Canon also gives it for chest consumption, chronic fevers and bed-wetting in boys. The Dioscorides chapter prints no temperament, and the Canon makes no reference to innate heat or radical moisture. The sources give no doses, and the translator's bracketed disease names are not confirmed.
+
 ### Contraindications
 
 - **Conservation and law:** hedgehogs are protected by law in many countries, and some populations are declining; capturing or killing one may be an offence. [USER: verify]

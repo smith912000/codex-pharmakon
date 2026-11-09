@@ -40,6 +40,10 @@ General facts only. Wild foxes can carry rabies, the fox tapeworm *Echinococcus 
 
 **Practitioner's note.** Nothing to do. A cultivator might note the Tibetan rule of organ to organ as an example of how a tradition reasons about animal medicines, and then set it aside, since no source read ties it to cultivation and the animal carries disease.
 
+### Functional–Anatomical Correlate
+
+Little to map: the sources name two sites, the lungs and the ear. Dioscorides (2-41) gives the dried lung of a fox in a drink for the asthmatic, and the grease of the same animal melted and poured into the ears for earache. The Tibetan Explanatory Tantra, as Clark translates it, says fox lung, with a swallow's lung, heals punctured lungs; Men-Tsee-Khang says it stops haemoptysis, coughing of blood. Clark's general rule in the same paragraph is that the lungs, heart, liver, spleen, kidneys and flesh of various animals cure diseases of those respective organs, which, as written, extends the same organ-to-organ correspondence to other organs. No humour, temperament, taste or potency is printed for the fox lung.
+
 ### Contraindications
 
 - **Zoonoses.** Wild foxes carry rabies and the fox tapeworm (*Echinococcus multilocularis*) among other pathogens; handling or eating fox tissue is unsafe. [USER: verify specifics]

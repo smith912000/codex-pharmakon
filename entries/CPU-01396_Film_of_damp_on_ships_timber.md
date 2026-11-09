@@ -64,6 +64,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+Little to map: the one site the entry gives is the womb. A recipe in Bryan's chapter on women's diseases is for a womb that has slipped out of its place, and the drug is rubbed in with yeast of fermented beer and drunk. Mapped to anatomy, that is the uterus and its position in the pelvis. Bryan's overview also gives the same drug as a draught for 'falling of the womb'. Bryan glosses the drug '(mould)', a parenthesis of his own, and the entry does not treat mould as a tissue or as a mapped action. The list files the drug as a mineral remedy, and that classification names no organ. No temperament, humour, dosha or qi is printed for it, since the Ebers material is organised by complaint, and no spell is printed with this recipe in Bryan's rendering. The Egyptian frame names no other body site for this drug, so nothing further is mapped.
+
 ### Contraindications
 
 - **Mould and surface growths:** swallowing scrapings from wet timber risks allergy, infection and toxin exposure.

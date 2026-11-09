@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a sour fruit drug for phlegm and fever, named in three places in Clark and three in the Men-Tsee-Khang text, with a Latin name that is not settled. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Clark's root-text clause for bse.yab says it 'cures phlegm and fever', which maps the drug to phlegm and fever in the Tibetan system and names no organ. The Men-Tsee-Khang text, under the name Seyab, says that it 'cures baekan and hot disorders' and places it among the medicines for hot disorder associated with baekan. The sour group places it in the sour taste class, which both texts print. The bracketed commentary, quoted from the hKhrungs.dpe text, gives a sour and slightly sweet taste and says the drug is 'of nectarlike benefit in ear diseases', so the ear is the one organ the entry names, and only in the commentary. Clark also lists it among the phlegm-fever medicines in chapter 21. In modern anatomy terms the entry does not map beyond the ear, the fever and the phlegm, and it gives no part used, power or post-digestive taste. The botanical identity is not settled between C. tibetica, C. lagenaria and C. speciosa, so the mapping is the texts' claim.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The identity is uncertain, so no plant should be gathered or used on the strength of this entry. A fever that does not settle, or an ear disease, needs medical care. No safety information for pregnancy was read. [USER: verify]

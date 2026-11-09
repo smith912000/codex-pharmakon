@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] In general bot
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. A lower-grade drug for skin heat and involuntary urination, to be used (by the text's own words) as a bath-decoction. SHORT entry: the sources give little.
 
+### Functional–Anatomical Correlate
+
+Little to map: the paragraph names no part. It states an acrid, cold flavour and nature (味辛，寒) and says the drug governs heat within the body and the skin (身皮肤中热), removes perverse qi (除邪气) and stops involuntary urination (止遗溺). The skin and urinary control are the only body sites the text names. It adds that the drug can be made into a bath-decoction (可作浴汤), which places the use on the body surface as a bath rather than a drink. The Mingyi layer gives only the alias 巨骨, the origin Mount Xiong'er and the fourth month for gathering. Sun's note quotes Li Dangzhi's description of a red winter fruit like wolfberry, which the entry says does not clearly fit a Deutzia. No organ, channel or tissue beyond skin and urinary function is stated, and the entry asserts no mechanism. Involuntary urination calls for medical assessment, as the entry says.
+
 ### Contraindications
 
 - **Identification.** The classic's plant may not be the modern *Deutzia*; do not use any plant on the strength of this entry.

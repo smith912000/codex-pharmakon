@@ -48,6 +48,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 **Practitioner's note.** Nothing to take from it for cultivation. It is a salt the tantra names for goitre, of uncertain identity and with no preparation given, and goitre needs medical assessment. It is not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one site of action. Clark's tantra text says the salt dispels goitre, and Men-Tsee-Khang says it cures and prevents goitre. Goitre is an enlarged thyroid gland in the neck, which maps to the thyroid and the front of the neck. The commentary calls the salt extremely salty in taste and Men-Tsee-Khang calls it extremely bad tasting; the tradition places salty taste among the tastes that pacify wind (rlung) in general, but no organ, humour or channel is printed for this salt. The commentary's substitute, salt from cave floors, names no site.
+
 ### Contraindications
 
 - **Goitre and neck swellings:** medical conditions; see a doctor.

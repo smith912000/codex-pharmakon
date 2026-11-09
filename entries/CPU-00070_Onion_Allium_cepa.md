@@ -108,6 +108,10 @@ Caramelized/sautéed onion as regular dietary component; cooking reduces the vol
 
 **Practitioner's note.** Onion is a cultivator's substance chiefly by its *absence* from the cultivator's plate: excluded as a pungent root from the Daoist and Buddhist ascetic diet, and as *rajasic* from the yogic one — too stimulating for stillness. As food-medicine it disperses cold and moves Qi and does it well; nothing attests it as a longevity, essence-building or spirit-settling substance. The honest cultivation fact about onion is the exclusion, and it is well sourced.
 
+### Functional–Anatomical Correlate
+
+The onion's entry maps mainly onto the airways, the cardiovascular system, blood sugar and the gut. For the airways it is an expectorant that liquefies mucus, and its volatile thiosulfinates are described as antimicrobial against respiratory pathogens; the TCM Cong Bai Tang is given at the first stage of Wind-Cold illness, opening the Exterior and promoting sweating through the Lung channel. For the circulation, cepaene thiosulfinates and diphenylamine-derived compounds are described as inhibiting platelet aggregation, quercetin as NO-enhancing and vaso-protective, and the Ayurvedic hridya as cardiac. Allyl propyl disulfide is said to lower blood glucose by slowing insulin degradation. Quercetin is described as stabilising mast cells and reducing histamine release. In the gut its fructooligosaccharides feed Bifidobacteria. Skin use is topical for boils, abscesses and dandruff, and raw onion can irritate the cornea. The Canon also records a vasodilatory reproductive effect. Cautions cover FODMAP-sensitive guts, anticoagulants and hypoglycaemic drugs.
+
 ### Contraindications
 
 - **IBS / FODMAP-sensitive individuals** — onion is the highest-FODMAP common vegetable; the FOS that makes it prebiotic also produces significant gas and bloating in those with intestinal dysbiosis or SIBO; fermented onion (pickling) reduces but does not eliminate FODMAP content

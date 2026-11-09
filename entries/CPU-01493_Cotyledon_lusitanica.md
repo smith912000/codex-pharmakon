@@ -43,6 +43,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The uses are skin, urinary and gynaecological remedies with no stated amounts, and the love-medicine remark is reported practice. It is history and not a practice.
 
+### Functional–Anatomical Correlate
+
+Dioscorides’ chapter 4-92 maps this round, hollow-leaved plant onto the skin of the genitals, inflamed and eruptive skin, the urinary and kidney passages, the stomach and the body’s fluid retention. Its juice and leaves, rubbed on with wine or squirted in, are said to loosen obstructions of the skin in the genitals. Applied, the plant is used for inflammation, erysipelas (a superficial skin infection), chilblains, tumours (which the translators suggest may be goitre) and a burning stomach. The leaves, eaten with the root, are said to break stones (urinary or kidney stones) and to induce urine (diuresis). Given with mead, honey wine, it is used for dropsy. The chapter prints no temperament or quality for the plant. The phrase “they also use it for love medicines” reports what others do, not an endorsement. The identity is the translators’ suggestion, so this is a map of the text’s claims for an uncertain plant, not of a verified species.
+
 ### Contraindications
 
 Fluid in the abdomen, kidney or urinary stones, suspected goitre and genital skin conditions need medical care, and a home preparation must not replace it. A liquid "squirted in" to the genitals is not a safe thing to try, and no safety information for pregnancy was read. The identification is the translators' suggestion, so no plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

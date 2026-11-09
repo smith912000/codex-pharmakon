@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing here for a cultivator. The tradition is represented by one list row, and no text read says what was done with the plant or why. No dose is given in the sources retrieved. This is a historical record only and not a recommended practice. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names one Assyrian list row (imhur-lim) for red bryony, Bryonia multiflora, and says the plant is attested on Assyrian tablets. The row's note names two groups of tablets, Nineveh Uruanna and a therapeutic corpus, but the entry did not read them and adds nothing about them. The row gives no tablet, period, preparation, use or complaint, so no body system, organ or tissue is attributed to it. The row does not flag the identification as uncertain, but nothing on disk could confirm it. The constituents were not read. The attestation rests on a list row whose cited sources, Böck et al. 2024 and a website, are not on disk. The entry states that bryony is generally regarded as poisonous and records no use. No anatomical claim is made.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, bryony is generally regarded as poisonous, and no preparation of it should be taken. Medical advice is needed for any exposure, and pregnancy, breastfeeding, childhood and prescription medicines are all reasons for particular care. Legal and conservation status of the plant were not checked. This is general caution and is not found in the row. [USER: verify]

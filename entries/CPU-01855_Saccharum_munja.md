@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with Munja grass: it is a material for wrapping a body. The similar-sounding Soma species Munjavan is a different thing in the text. Nothing should be gathered or taken on the strength of a Latin name that the chapters do not give.
 
+### Functional–Anatomical Correlate
+
+Little to map: the Sushruta chapters name Munja grass once, in the anatomy chapter (Sharira 5), where its outer sheaths cover a body left to decompose for dissection, in a list with Kusha grass, hemp and rope. The passage gives the grass no property, action or medicinal use, and no organ or system is mapped to it. Munjataka and Munjata in Sutra 39 and Chikitsa 17 are names in lists of drugs that the text does not tie to this grass, and Munjavan in Chikitsa 29 is a Soma species with a garlic-like leaf, not identified with it. The Latin Saccharum munja is a positional appendix pairing. No constituent, dose or energetic classification is given.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for this plant. The identity is open, so no plant should be gathered or used on the strength of this entry. The one use named, handling a decomposing body, carries the hazards of infection and of the law on human remains, which are general facts and not findings of the text. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

@@ -61,6 +61,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Sushruta t
 
 **Practitioner's note.** Nothing here gives a cultivator a practice with this plant. In the Sushruta scheme the name is a plaster ingredient, a group member and a component of recipes given by a physician for stated complaints. Nothing should be gathered or taken on the strength of a Latin name that the chapters do not give, and the name Rasna is not settled.
 
+### Functional–Anatomical Correlate
+
+Sushruta (SS) maps Rasna across the humours and several body systems. Its Arkadi group is said to destroy Kapha, fat and the effects of poison, to act as a vermifuge and an aseptic for ulcers, and to cure skin disease. Rasna is in a plaster for swellings from deranged Vayu, in oils and enemas for Vata disorders, in a gargle for diseases of the mouth, and in a milk recipe for a threatened miscarriage in the fourth month. It is among the drugs said to restore the deranged Shleshma. Nakuli is in a spider-bite remedy whose stated syndrome includes black blood from the bite, an open ulcer, deafness, impaired or cloudy vision and burning in the eyes, applied as snuff, drink, enema and ointment. The name Rasna is disputed in the Codex, and the Latin Vanda roxburghii is an appendix pairing by position.
+
 ### Contraindications
 
 The Sushruta passages read print no warning for the drug itself. The pregnancy recipe (Sharira 10) is given for a threatened miscarriage under a physician and is not advice for a healthy pregnancy. The spider-bite and plaster uses describe emergencies that need medical care. Wild orchids are widely protected, and collecting them may be illegal. [USER: verify] The identity is open, so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy beyond the recipe above was read.

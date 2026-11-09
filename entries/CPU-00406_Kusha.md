@@ -65,6 +65,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with the grass as a drug. As a seat or mattress it is the text's own ritual frame, which the Codex records and does not prescribe. The abstentive answer is the correct one for the root: any medicinal use is a matter for a qualified practitioner.
 
+### Functional–Anatomical Correlate
+
+Per the entry's own claims, Kusha acts on the urinary tract and the bowel, and touches the blood and skin. In Sushruta it sits in the Viratarvadi group, said to subdue all disorders of deranged Vata and to cure Ashmari (stone), Sharkara (gravel), Mutrakrichhra (painful urination), Mutraghata (suppressed urination) and urinary troubles, and in the Pancha-Trina group, said to kill deranged Pitta and to help cases of haemoptysis (blood from the lungs) and renal defects. Its root is named as a purgative, so the bowel is the stated site there. A ghee cooked with its decoction is given for Pittaja Asmari (calculi), and a ghee containing its roots is said to cure dushta-vrana (malignant ulcers), to purify sinus and recent ulcers, and to treat burns, scalds and deep sores. The text prints no rasa, virya or vipaka for it. Its ritual uses as a seat, bedding and fomentation mattress act on no body system and are recorded as the text's own frame, not as physiology.
+
 ### Contraindications
 
 No safety data were read. Grass blades have sharp edges (Sushruta names a surgical blade after them), so handle them with care. The purgative, urinary, ulcer and eye uses above are conditions needing medical care, and none of them is advice. Do not use a root as a purgative at home, do not apply a dressing to an ulcer or burn, and do not put anything in the eye. The collyrium kept in a dead cobra's mouth (Uttara ch.17) is history only. Do not use in pregnancy.

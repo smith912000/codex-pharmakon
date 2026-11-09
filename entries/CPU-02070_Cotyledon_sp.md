@@ -53,6 +53,10 @@ General, well-established facts only. With the identity open, no pharmacology ca
 
 **Practitioner's note.** A lower-grade drug, unidentified, named for skin-level cold and heat and for the gut and bladder. The tradition's own grading is the warning, and nothing in the record supports any cultivation use. A cultivator should not use it, and could not identify it.
 
+### Functional–Anatomical Correlate
+
+The classic names two stated targets. The first is the skin, where alternating cold and heat (皮肤往来寒热) is treated. The second is the small intestine and the bladder, whose qi the drug is said to disinhibit (利小肠膀胱气). In modern anatomy these map to the skin and to the lower digestive and urinary tract, and the bladder claim is the nearest the entry comes to a urinary function. The text gives no organ beyond these, no tissue and no channel. Its flavour is sweet and cold (味甘，寒), and Yang 1998 agrees. The lower class in which the classic files it is, by its own preface, mostly toxic, and the drug's own toxicity is not stated. The plant is unidentified, so no pharmacological correlation is possible, and the mapping above describes only the text's claims, not any action of a plant. Historical record only, not a practice.
+
 ### Contraindications
 
 - **Possible toxicity.** The lower class is "mostly toxic" by the classic's own preface; this drug's own toxicity is not stated. Do not ingest it. Do not gather it.

@@ -46,6 +46,10 @@ General, well-established facts only. Hair loss has many causes, and a mineral g
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The entry records that a Greek physician gave four uses for the residue of a Naxian whetstone: for baldness, to stop breast growth, and, with vinegar, for spleen and epilepsy. The Codex does not recommend repeating any of them. The thing a reader can take is the care of the naming: a particular whetstone, a particular way the material was obtained. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides maps the residue to four sites. On the scalp, applied externally, it is said to fill bald patches with hair, which places it on the hair follicles and scalp skin. On the breasts of young women, also external, it is said to prevent their growth, which places it on the mammary tissue. Taken as a drink with vinegar it reduces the spleen, the organ in the upper left abdomen, and the same drink is given for epilepsy, a disorder of the brain and nervous system, with no separate vehicle named. Avicenna's Canon adds two surface sites: its scrapings are applied to the breast and testicle to keep them from enlarging, and they are good for hot swellings of the breast. The Canon gives no temperament and no organ beyond these. In every case the chapter gives the residue, not the stone, as the carrier of the action.
+
 ### Contraindications
 
 - **Epilepsy:** needs medical diagnosis and prescribed treatment; stopping prescribed medicine for a stone-dust drink risks seizures.

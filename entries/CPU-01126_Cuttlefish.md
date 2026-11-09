@@ -50,6 +50,10 @@ General, well-established facts only. Cuttlebone is a source of calcium carbonat
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The cuttlefish appears in Dioscorides as a skin, tooth and eye powder and a laxative food, and the honest use of the entry is as a record. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides (DMM 2-23) gives the ink of boiled cuttlefish as hard to digest and as softening the bowels; this is a food effect on the bowel, with no therapeutic use attached. The burnt, pounded shell cleans vitiligo (the editor glosses a form of leprosy), dandruff, teeth and sunspots, so skin, scalp and teeth. Washed and mixed into eye medicines, or blown into the eyes of cattle, it is good for white spots on the cornea, and applied with salt it removes pterygium, a membrane on the eye. The Shennong bencao jing (SBJ) gives the cuttlebone (wu zei yu gu) as salty and slightly warm, governing in women leaking red and white discharge and menstrual fluid, blocked blood, genital erosion with swelling and pain, cold and heat, abdominal lumps and childlessness. Mapped systems: the bowels, the skin and scalp, the teeth, the cornea and eye membranes, and the female genital and menstrual system as the SBJ paragraph names it. The entry records no other quality for the cuttlefish.
+
 ### Contraindications
 
 - **Eyes:** do not put burnt shell or any animal-derived powder into the eye; the tradition's own eye use is not a safe modern practice.

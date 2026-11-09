@@ -45,6 +45,10 @@ General, well-established facts only. *Berberis* shrubs are grown in gardens and
 
 **Practitioner's note.** A name on a list. The Samhita text on disk gives no use and no grade, so there is nothing for a cultivator to take from it. Nothing is to be done with this entry beyond treating it as a pointer to look for the Sanskrit name.
 
+### Functional–Anatomical Correlate
+
+Little to map: Appendix No. 3 of the Bhishagratna translation gives the Latin gloss 'Berberis Asiatica' and, separately, 'Extract of Berberis Asiatica' among a run of Latin names. The Latin names are translator's glosses, not words of the Samhita, and the Samhita text does not print the name. The gloss shows that an extract of the plant was a drug, but gives no indication, preparation, dose or duration. No rasa, virya or vipaka is printed for it, and no rasayana, vajikarana or ojas action is stated. The text therefore names no organ, tissue, channel or dosha for this substance and states no body system acted on. No safe-use statement exists, and no pregnancy, lactation or child statement is found in the sources read. The identity is uncertain, since 'Berberis Lycium' stands beside it. No mapping is drawn.
+
 ### Contraindications
 
 - **No safe-use statement exists in the sources retrieved.** Do not take an extract of any barberry on the strength of this entry.

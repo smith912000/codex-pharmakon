@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. As a general fact, the carote
 
 **Practitioner's note.** Nothing. A cultivator has nothing sourced to do with this entry: the record is a list row. This is a historical record only and not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the list row gives the Nahuatl name cempoalxochitl, the gloss Aztec marigold and the species Tagetes erecta, and cites the Badianus (1552) and a mexicolore.co.uk page, neither of which was read. It names no folio, preparation, use, complaint, body system, or energetic classification, and no cultivation status is recorded. The entry's general background, not a claim about this row, is that Tagetes plants are aromatic and that the carotenoid pigments of marigold flowers are used commercially as a colourant and feed additive. Plants of the daisy family can cause contact dermatitis in sensitive people. The Mexican hot and cold categories are left unresolved, no clinical study was retrieved, and the attestation rests on the row alone.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, a plant known only from a list row should not be taken internally, and plants of the daisy family can cause contact dermatitis in sensitive people. Pregnancy and breastfeeding are not covered by any source read. This is general caution and is not found in the row. [USER: verify]

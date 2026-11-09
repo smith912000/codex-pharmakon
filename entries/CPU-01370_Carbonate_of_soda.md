@@ -58,6 +58,10 @@ No clinical studies were retrieved for this entry. [USER: verify] General facts 
 
 ---
 
+### Functional–Anatomical Correlate
+
+Sushruta's ch.42 places Suvarchika in the saline group, and the group's saline taste is described as acting on the tissues. Per the chapter, the taste is corrective (purgative and emetic), favours suppuration and the bursting of swellings, loosens an affected part such as an ulcer, and is heat-engendering. Taken to excess it is said to bring scabies and urticaria on the skin, oedematous swellings, loss of complexion, loss of virile potency and similar troubles. Those sites belong to the taste and reach this salt only through group membership. Within the compounds, Suvarchika sits in pastes and oils for ulcers and wounds (the wound and skin surface), in an antidote for slow chemical poisoning, and among the drugs of the strong kshara, the alkali the chapter describes as extremely irritating. The entry gives no rasa, virya or vipaka for it.
+
 ### Contraindications
 
 - **Caustic:** sodium carbonate solutions and strong alkalis burn skin and eyes and injure the gullet and stomach if swallowed; the "strong kshara" is described by Sushruta himself as "extremely irritating".

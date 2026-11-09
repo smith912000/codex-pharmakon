@@ -44,6 +44,10 @@ General, well-established facts only. Lean game meat is a source of protein and 
 
 **Practitioner's note.** Nothing here makes this a cultivation substance. The entry rests on a name in a list and a line in the hiccough chapter whose own translator offers a bear as the alternative reading. A cultivator takes nothing from it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Sushruta text places blue-deer venison, the Rishya, in the Janghala high-ground group, which the chapter calls sweet and astringent in taste, light, keen, pleasant, laxative and diuretic, subduing Vayu and Pitta. The entry's one specific use is for hiccough, a disorder of breathing and the diaphragm, treated by a soup of this meat taken lukewarm with the juice of acid fruits, rock salt and a fat such as ghee. The text lists the Rishya's burnt skin, taken with honey, for asthma of the lungs and airway, and its bile, ground into black earth, for a plaster against the effects of poison on the head. The Rishya's tongue gives the name of a skin disease, a name rather than a use. The English prints no virya, vipaka, ojas, tejas or prana claim, and the translator's note offers a bear as an alternative reading, so the animal is uncertain.
+
 ### Contraindications
 
 - **Conservation and law:** wild deer and bears are protected or regulated in many places; killing, possessing or trading in them can be restricted or illegal. The modern identity of the *Rishya* is not settled by the text. [USER: verify]

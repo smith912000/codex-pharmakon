@@ -77,6 +77,10 @@ On the Kanglaite derivative: Zhan et al. (2012), *Asian Pacific Journal of Cance
 
 ---
 
+### Functional–Anatomical Correlate
+
+Job's tears is mapped onto the fluid and damp-handling systems rather than one organ. In TCM it acts on the Spleen, Stomach and Lung channels, draining dampness, strengthening the spleen, clearing heat, expelling pus and relaxing sinews. It is given for oedema, damp painful obstruction (bi), diarrhoea from spleen weakness, and lung or intestinal abscess. The Ayurvedic reading (gavedhuka) is a cooling, drying, kapha-reducing grain taken as gruel. The Galenic-Unani reading is a demulcent yet desiccating food that thins phlegmatic matter in the stomach and chest. The Tibetan Four Tantras place it among cooling, damp-clearing cereals for joint and channel complaints and for disordered bad-kan. The modern correlates are analgesic and anti-inflammatory polysaccharides and coixol, shown in mice and in macrophage assays. The entry's cautions are pregnancy in classical usage and dry or constipated constitutions.
+
 ### Contraindications
 
 Contraindicated in pregnancy in classical Chinese usage — *yi yi ren* is traditionally avoided as it is held to be downward-draining and potentially destabilising to pregnancy; avoid medicinal doses if pregnant [USER: verify]. Its cooling-draining nature is unsuitable for those who are already dry, constipated, or deficient-cold without damp. The **Kanglaite injectable is a hospital-only prescription product** carrying infusion-related risks (including reported hypersensitivity/anaphylactoid reactions) and must never be self-administered or improvised from culinary seed oil. As a food, whole Job's tears grain is well tolerated.

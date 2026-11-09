@@ -45,6 +45,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing here gives a cultivator a practice. It is a note on a weaker second form of a poisonous scorpion remedy, so it is history and not a practice.
 
+### Functional–Anatomical Correlate
+
+Little to map: Dioscorides’ chapter 3-85 is three sentences and gives no use of its own. It says this “other delphinium” is much more slender in the leaves and branches than the chapter before, has “the same properties as that previously mentioned, but it is not altogether as effective”, and is also called hyacinthum, with the Roman name bucinus. The properties the text points to are those of chapter 3-84, which the entry for Delphinium oxysepalum covers. The chapter itself names no organ, body system or tissue, and prints no warming, cooling, drying or moistening quality and no taste. The translators’ note that the genus is poisonous is theirs and was not sourced. The identification rests on the translators’ suggestion alone, so no organ map is assigned here.
+
 ### Contraindications
 
 The genus is marked poisonous by the translators and is generally known as toxic, so no part of any larkspur should be eaten or drunk on the strength of this entry. A scorpion sting needs medical care. The identification rests on a translators' suggestion with no description to check it against, so no wild plant should be gathered or used. None of the traditional uses above is advice. [USER: verify]

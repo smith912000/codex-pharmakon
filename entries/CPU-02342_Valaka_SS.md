@@ -53,6 +53,10 @@ General, well-established facts only. Because Valaka has no secure botanical ide
 
 **Practitioner's note.** Valaka is a name in a list. The tradition's text gives the drug a place among therapeutic groups and little more, and nothing in the record supports a cultivation use. A cultivator can learn from it only how Sushruta organises drugs into groups by action, and that some names in that classification are no longer certainly identified. Nobody should try to find a plant to match the name.
 
+### Functional–Anatomical Correlate
+
+Little to map: the sources state that Valaka is one of the drugs of the Elardi (Eladi) group, which is said to subdue Vayu and Kapha, neutralise poison, and act as a cosmetic against pimples, rash, urticaria and itching of the skin. These are group properties. Valaka also appears in one Uttarasthana chapter 40 recipe for a disorder called Amatisara, with Abhaya, Dhanyaka, Musta and Vilva, whose form is not printed. The name recurs in later compounds that were not read to the end. No part used, taste, potency, description or dose is given, and the plant is not identified. A bird called Valaka in another chapter is a different thing and is not mapped here. Apart from the skin and the bowel disorder named in the recipe, the text states no organ or tissue for it.
+
 ### Contraindications
 
 - **Identity.** The drug is not securely identified; a wrong match could be harmful. Do not substitute any plant for it. [USER: verify]

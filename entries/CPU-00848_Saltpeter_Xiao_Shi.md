@@ -57,6 +57,10 @@ Potassium nitrate is an oxidising salt; in the body, nitrates are reduced to nit
 
 **Practitioner's note.** Nothing here for a cultivator to take. Saltpetre is, in these sources, an adjuvant, a drawing and cleansing salt, and in the Chinese list a superior-class entry whose line the translator himself suspects. The honest cultivator's use is attention: the Greek text's way of choosing and testing the salt is the only discipline on offer. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides' two chapters (5-130, 5-131) claim that saltpetre soothes the gut's griping, heals gaseousness, and draws fluids from the depths. Its infusion is said to heal noises in the ears and their suppuration, so the ears are a claimed site. With fat it heals dog bites (the skin), with figs it is a poultice for dropsy (fluid retention), and with posca it is an antidote for mushroom poisoning. Egyptian lists name it as an adjunct in poultices and liniments for bone pains, an eye pterygium, and a neck growth. Yang's entry for Xiao Shi, which the translator says is not this salt, is said to treat accumulated heat in the five viscera, stomach distension and block, and to flush accumulated drink and food. Sushruta's yavakshara, in the alkali group, is said to treat abdominal glands, piles, bladder stone and mesenteric diarrhoea, to reduce Kapham, and to remove Vibandha (constipation); whether it is this salt is unsettled. Avicenna gives no action.
+
 ### Contraindications
 
 Potassium nitrate is a strong oxidiser, and a gut and kidney irritant in quantity; large doses are poisonous. The older lists may mean other salts (natron, mirabilite, potash) under the same name, with their own risks. It must not be heated or stored with combustible material. The Chinese superior-class "nontoxic" wording is the text's claim and is not a safety guarantee. Ritual and spoken uses are ritual, not therapy.

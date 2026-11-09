@@ -67,6 +67,10 @@ The safety-limiting side of the same family is equally documented. Kopp et al. (
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps common bugloss to three domains. Externally, it is a softening, cooling application for inflamed, chafed or reddened skin, given as an infused oil or poultice. Its Galenic and Unani classification is warm and moist in the first degree, a sanguine, blood-friendly herb, and Avicenna's lisan al-thawr is described as gladdening the heart and lifting the spirits as an exhilarant cordial, which the entry treats as a therapeutic use within the humoral scheme, not a cultivation status. Dioscorides gives the red root in wine for jaundice and kidney complaints, which the entry records as traditional. Ayurvedic placement is by analogy only, pitta-pacifying topically. Modern anatomy in the entry gives rosmarinic acid and caffeic esters as anti-inflammatory and antioxidant action on surface tissue, and mucilage and allantoin as demulcent softening. The entry notes the liver hazard of pyrrolizidine alkaloids and that no clinical trials of this species were retrieved, so internal use is withheld.
+
 ### Contraindications
 
 - **Pyrrolizidine-alkaloid hepatotoxicity — do not take internally on a repeated or habitual basis.** As a member of the Boraginaceae, *Anchusa officinalis* contains pyrrolizidine alkaloids capable of causing hepatic veno-occlusive disease, and with genotoxic and potentially carcinogenic activity. Regulatory tolerable-intake limits are extremely low.

@@ -43,6 +43,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The one transferable point is a modest one, that Dioscorides notes which flowers a honey comes from and judges it by that. The text offers nothing more.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter states one medical use. Its leaves and flowers, applied as a poultice, are said to heal snakebites, so the site of action is the skin and wound at the bite. It also says the bees use its flowers and make honey of them that is not good, a remark about the honey and not a body action. The chapter describes the plant as a shrubby tree like myrica but much smaller, which names no organ. It prints no hot, cold, moist or dry quality and no taste, so no humoral, doshic or qi classification can be drawn. No internal organ, tissue or mechanism is named, and no preparation or quantity is given beyond the poultice. Snakebite needs medical care, and the identification as heath is only the translators' suggestion.
+
 ### Contraindications
 
 The chapter prints no warning. Snakebite is a medical emergency and a poultice must not delay care. The identification is only the translators' suggestion, so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. None of the traditional uses above is advice. [USER: verify]

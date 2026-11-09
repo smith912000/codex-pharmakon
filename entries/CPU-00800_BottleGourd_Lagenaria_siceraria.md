@@ -80,6 +80,10 @@ Saurabh, Ghosh and Sanyal (2022, *Journal of Food Science and Technology*) devel
 
 **Practitioner's note.** A cultivator uses non-bitter bottle gourd as a cooling, hydrating, mildly draining food during heat and fluid-regulation phases — and, more importantly in this volume, as the designated teacher of discernment: the substance one never takes on reputation but must taste-test at the point of use. Its cultivation "status" is really a cultivation *discipline* — read the bitter signal every time. The immortality-gourd is a symbol to admire, not a status the drug confers.
 
+### Functional–Anatomical Correlate
+
+The entry maps the non-bitter gourd to the water passages and the digestive tract. TCM describes it as cool and sweet, draining damp and promoting urination, with channels Lung, Stomach and Small Intestine, used against oedema, difficult urination and damp-heat swelling. Ayurveda describes pitta-pacifying, light, laxative and diuretic action against burning urination, thirst and biliousness. Unani terms make it cold and moist in the second degree, a coolant for hot temperaments and an inflamed stomach. The modern correlates the entry gives are high water content and fibre, pectic polysaccharides supporting a mild diuretic and laxative reputation, and a seed oil used as an external cooling emollient on scalp and skin. The central teaching is toxicological: cucurbitacins in bitter fruit cause rapid vomiting, bloody diarrhoea, gastrointestinal bleeding and hypotension, with no antidote. The entry flags cold, damp or vata constitutions as aggravated by its watery nature.
+
 ### Contraindications
 
 - **⚠ BITTER-FRUIT POISONING (primary hazard).** Any bottle gourd — or its juice — that tastes bitter may contain toxic cucurbitacins and must **never** be consumed. Onset is minutes; symptoms include severe vomiting, bloody diarrhoea, GI bleeding and hypotension; there is no antidote. Fatalities from bitter-gourd juice are reported in the literature.

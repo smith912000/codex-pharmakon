@@ -105,6 +105,10 @@ Filed energetically alongside thyme rather than alongside pennyroyal. The reclas
 
 **Practitioner's note.** Nothing. It is a pleasant aromatic tea with no cultivation status, and the entry's own caution about thin data applies.
 
+### Functional–Anatomical Correlate
+
+The entry maps the traditional carminative and stomachic use onto the digestive tract, specifically gas and stasis in the stomach and intestine, taken as a tea after heavy food. Occasional use as a throat rinse and mild expectorant points to the airways. The Dioscoridean doctrine of dispersing cold wind is explicitly not attributed to this species, because the entry says the classical plant was probably a different calamint. Its volatile oil, dominated by germacrene D with thymol, is described as weakly warming and only lightly dispersing, filed as first degree at most. In vitro antioxidant and antimicrobial results on methanol extracts are noted as preliminary and are not body effects. The classical emmenagogue and abortifacient reputation, which concerns the uterus, is described as unsupported and unresolved. No toxicology exists, including hepatic and reproductive data. The main hazard of wild material is heavy-metal accumulation (zinc, cadmium), which the entry treats as a sourcing matter.
+
 ### Contraindications
 
 Stated with the honesty the evidence demands: **there is no toxicological literature for this species. Every item below is precautionary reasoning, not established risk.** The absence of documented harm reflects the absence of study, not the presence of safety.

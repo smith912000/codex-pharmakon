@@ -74,6 +74,10 @@ The umbelliferone / coumarin calcium-channel-modulating smooth-muscle mechanism 
 
 **Practitioner's note.** Nothing for a cultivator to do. The only usable discipline is the sensory test for colour, smell and sharpness, and the caution that the resin's botanical source is not secure.
 
+### Functional–Anatomical Correlate
+
+Sagapenum maps onto the Middle Burner (the digestive tract and lower abdomen), the chest, and the nervous and muscular systems. Its Qi action disperses cold-damp stagnation in the gut: umbelliferone and sesquiterpene coumarins give smooth-muscle relaxant activity against gas-driven intestinal spasm, colic and carminative relief. The classical old-cough indication is a chest action, thinning congealed phlegm and easing tightness of breath, which the entry presents as tradition-grounded support, not a substitute for asthma care. The Shen register (antispasmodic, nervine) covers the Canon's uses for palsy, torn muscles, cold joint pains, epilepsy and cold headache. The Canon's uterine and menstrual uses sit in the same deobstruent family, and the entry makes pregnancy an absolute contraindication. The eye ('water descending') and liver pain are named classical uses. Modern anatomy terms in the entry: intestinal smooth muscle, bronchi, the lower abdomen and the uterus. The Greek and Unani sections record no cultivation status.
+
 ### Contraindications
 
 - **ABSOLUTE — Pregnancy:** classically an emmenagogue/deobstruent acting on retained menses; the Ferula gums as a class carry uterine-stimulant warnings. Contraindicated in pregnancy.

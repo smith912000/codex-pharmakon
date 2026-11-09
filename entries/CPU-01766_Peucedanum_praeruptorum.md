@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a poison-antidote drug in Men-Tsee-Khang, a fever drug in Clark, with no preparation and no dose, and the two editions identify it as different plants. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry gives two actions, under two different plants. Men-Tsee-Khang 2011 says 'Tsed, Guthup and Dhumtak are antidotes to poison', and lists the name in the group of medicines that cure poisoning. Clark 1995 gives 'cures all types of fevers' for the Tibetan name rgu.thub, but identifies that name with Scutellaria baicalensis, a different plant, and the taste ('bitter and astringent') and cool power in its commentary belong to that plant. The texts name no organ, body system or tissue for either. The part used is not stated, and the root, leaves, flowers and fruit appear only in the description of Clark's plant. No preparation or dose is printed. The identity is open between a carrot-family plant and a skullcap, and no clinical study was retrieved. In the entry's words, poisoning and fever need medical care.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Poisoning and fever need medical care. The identity is open between two genera, no preparation or dose is given, and because many carrot-family plants contain skin-sensitising furanocoumarins, no plant should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

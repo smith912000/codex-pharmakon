@@ -109,6 +109,10 @@ The TCM *tan jie* (Phlegm nodule) application — mustard seed's ability to disp
 
 **Practitioner's note.** Mustard is purely a treating substance — a counter-irritant plaster, a Cold-Phlegm cough seed, a digestive-fire spark. Nothing in any tradition supports taking it to cultivate the person, and its own gradings are the warning: hot in the fourth degree, "dilute four-to-one or it burns," off the skin inside twenty minutes. Used against a defined complaint and then stopped.
 
+### Functional–Anatomical Correlate
+
+Mustard maps onto the skin, the joints and nerves, the lungs and the digestive tract. Its signature action is counter-irritant: allyl isothiocyanate activates TRPA1 and TRPV1 on skin nociceptors, producing local hyperaemia and heat, which the entry explains as a competing signal that dulls deeper pain. So the plaster is applied to the chest for pleurisy and bronchitis, to joints for arthritis, and to muscles and the sciatic region. In Ayurveda it is katu and ushna, Kaphagna and Vedanasthapana, and warm mustard oil is massaged in for Vata disorders. In TCM white mustard seed warms the Lung, resolves Cold-Phlegm and disperses phlegm nodules and lymphatic swellings. The Canon extends it to paralysis and to inhaled use in unconsciousness and fits. Digestively it stimulates appetite and eases flatulence. The cautions concern the skin (chemical burns), the stomach lining and acid conditions, pregnancy, and the erucic acid of cold-pressed oil.
+
 ### Contraindications
 
 - **Skin sensitivity / chemical burns** — AITC causes genuine chemical burns at full concentration; always dilute mustard powder before topical use (minimum 4:1 flour:mustard ratio); check skin every 5 minutes; do not leave on longer than 20 minutes; do not use on broken skin, face, or genitalia

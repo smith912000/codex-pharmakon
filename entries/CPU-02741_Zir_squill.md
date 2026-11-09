@@ -42,6 +42,10 @@ No clinical studies were retrieved for this entry. [USER: verify] General fact: 
 
 **Practitioner's note.** A weaker squill used in place of rat's squill, noted for scorpion and spider bite. Nothing supports a cultivation use.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the squill-like bulb resembles rat's squill in power and taste but is weaker, and that it is used in its place. It is said to help against poisons, and against the sting of the scorpion and of a venomous spider called the rutayla, when drunk or applied as a poultice mixed with figs. The Canon names no organ, tissue or system; the bites and stings are the only conditions named, and the body is affected through the poisoning rather than a named part. No temperament is printed. The text does not explain the name al-zir and assigns no species. Its relation to rat's onion is the Canon's own comparison, and the rat's onion entries were not read. The entry gives no dose and no contraindication.
+
 ### Contraindications
 
 If the bulb is squill-like, it is cardiotoxic in general terms, and the text calls it a substitute for a drug with that character; do not ingest. The text states no contraindication. [USER: verify]

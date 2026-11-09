@@ -93,6 +93,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+This entry maps cucumber onto the urinary tract, the stomach and the skin. Dioscorides and Avicenna place the flesh and seed on the bladder and urinary passages as a diuretic and demulcent, and Avicenna classes it as cold and moist, a refrigerant that cools a heated temperament and quenches thirst. Chinese medicine, by analogy, describes it as cool and sweet, clearing summer heat and damp-heat of the urinary tract and generating fluids. Ayurveda (Sushrutan lineage) says it pacifies pitta, relieves thirst (trishna) and promotes urine (mutrala), while its heaviness and cold can burden a weak digestive fire (agni). Every tradition warns of the stomach limit: a weak or cold stomach may bloat or chill. The modern correlates the entry cites are the roughly 95 percent water content, potassium-bearing hydration, mild diuresis, silica and flavonoids for skin and connective tissue, and topical cooling of inflamed or sun-stressed skin. The entry stresses that this cooling rests on the water, silica and flavonoid matrix, not on the bitter cucurbitacins.
+
 ### Contraindications
 
 - **Weak or cold digestion:** every tradition warns that cucumber's cold-moist nature can burden a weak digestive fire, causing bloating, indigestion, or chilling in susceptible individuals; pair with warming spices or reduce intake.

@@ -40,6 +40,10 @@ General, well-established facts only. Hair is keratin and is not a source of any
 
 **Practitioner's note.** Nothing here makes this a substance for cultivation. It is a single line in a catalogue of animal parts, with an action and no method. A cultivator takes nothing from this entry. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the text states one action for this hair, that it cures infectious tissue degeneration in Clark's rendering or cures inflammation of muscle tissues in the Men-Tsee-Khang rendering. The tissue named is therefore muscle or the general tissue of the body, and the two translations disagree about the disease. No organ, channel or humour is named, and no temperament, taste or potency is printed. The passage does not assign the hair to rlung, mkhris pa or bad kan. The hair sits in the section on hair and feathers, among the thirteen kinds of animal medicine the chapter lists, and the entry records no further action. The text names no body system for the hair and gives no method, form or amount for its use.
+
 ### Contraindications
 
 - **Hygiene and infection:** hair from the genital region of an animal can carry bacteria, fungi and parasites; it should not be put on broken skin or swallowed.

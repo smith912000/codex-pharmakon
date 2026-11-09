@@ -46,6 +46,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** There is nothing to cultivate here in the Codex's sense. The one Greek account is therapeutic and descriptive, and it comes with an adverse-effect warning and a long fixed course. The Assyrian and Unani tags are unsupported.
 
+### Functional–Anatomical Correlate
+
+The entry maps common honeysuckle onto the spleen, the breath, the urinary tract, the uterus and the skin, all from Dioscorides' own account. A teaspoonful of the seed in a drink, for forty days, is said to reduce the spleen, dissolve weariness, ease difficult breathing and hiccups, and, after the sixth day, to make one pass blood in the urine. The leaves are said to hasten birth. A decoction for thirty-seven days is said to make men unfit for generation, a reproductive effect the entry records as a report. An oil rub on the skin is said to drive away the shivering of recurring fever fits. No hot, cold, moist or dry quality is printed, and no Assyrian or Unani locus was found. The entry treats each use as Dioscorides' report, not a Codex recommendation, and warns against use in pregnancy and in children.
+
 ### Contraindications
 
 Dioscorides himself records that the seed drink makes one "urinate blood" after six days and that a decoction is said to make men unfit for generation. These are reasons for caution and not recommendations. The berries of honeysuckles are generally not eaten. Do not use any part of the plant in pregnancy or for children on the strength of this entry, and seek ordinary medical care for spleen, breathing or fever complaints.

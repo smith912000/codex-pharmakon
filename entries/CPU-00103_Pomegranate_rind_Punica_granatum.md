@@ -101,6 +101,10 @@ The classic EP/AT/DMM/CM/SS anthelmintic application for tapeworm uses the root 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places pomegranate rind and root bark as acting mainly on the intestines and the gut lining. In Chinese Medicine and Ayurveda the rind is astringent and cooling: it binds the bowel in diarrhoea and dysentery, cools Damp-Heat and Blood in the Lower Burner, and is assigned to the Large Intestine and Stomach channels. In Ayurveda it is grahi (absorbent), kapha-pitta reducing and krimi-ghna (parasite-killing). The ellagitannin punicalagin is said to act against gut pathogens including H. pylori in the stomach, relevant to gastritis, and the root bark's pelletierine alkaloids are the anthelmintic fraction acting on intestinal worms, with neuromuscular paralysis described for tapeworms. Ibn Sina's Canon adds uterine haemorrhage. The entry notes constipation, CYP3A4 inhibition and pregnancy as cautions.
+
 ### Contraindications
 
 - **Root bark preparation — CAUTION** — pelletierine alkaloids in the root bark are toxic at overdose; traditional anthelmintic doses require accurate measurement; not for self-treatment; only the rind (not root bark) for general use

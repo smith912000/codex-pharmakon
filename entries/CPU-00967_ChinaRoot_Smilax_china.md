@@ -107,6 +107,10 @@ Ruangnoo et al. (2012, *Asian Pac J Allergy Immunol*, PMID 23393906) isolated en
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places China root on the joints and sinews, the lower burner and the skin. In Chinese medicine (Ba Qia) it is a wind-damp dispeller for bì obstruction of joints and sinews, a drug for damp-heat pouring downward into the urogenital and pelvic region, and a swelling-disperser for sores and boils, entering the Liver and Kidney channels and freeing the network vessels. The Unani reading (chob-i chīnī) is a resolvent and deobstruent of joint and liver obstructions, a promoter of sweat and urine, and a blood-purifier for chronic skin corruption. The Ayurvedic chopchini is used in āmavāta joint disease and vātarakta, a late and indirect attribution. The entry's modern account is that flavonoid and saponin fractions damp innate-immune signalling (TLR-4, NF-κB, COX-2) in inflamed tissue, which fits the joint and swelling claims. The syphilis use, which the entry treats as a historical failure, is mapped to no tissue.
+
 ### Contraindications
 
 - **Pregnancy and lactation:** avoid. No safety data. The saponin content and the traditional "moving/dispersing" action both argue against use.

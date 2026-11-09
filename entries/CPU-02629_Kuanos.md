@@ -52,6 +52,10 @@ General, well-established facts only. Copper sulphates and related copper salts 
 
 **Practitioner's note.** A corrosive copper product recorded for its caustic and scab-forming action. There is no cultivation use, and a cultivator should not handle it, burn it, or take it. Treat the entry as a record of how a first-century materia medica described a mineral drug.
 
+### Functional–Anatomical Correlate
+
+Little to map: the text names no body part, organ, tissue or disease. Its actions are given as to repress, to be a little corrosive, to form scabs, and to be ulcerating. In modern terms these describe an effect on surface tissue, such as skin or a mucous lining where a salt would be applied, but the chapter itself places none of them in an organ. The entry records that the chapter gives no quality of the hot, cold, moist or dry kind and no taste, so the classical energetic frame is absent. The only other statement is that the material is burnt and washed in the manner of two other substances, which is a finishing method and not a body claim. No channel, humour or cultivation centre is named, and no part of the body is named as its target.
+
 ### Contraindications
 
 - **TOXIC.** The text marks it corrosive and ulcerating; copper salts are toxic if swallowed. Do not ingest it. Do not apply it to broken skin or the eyes.

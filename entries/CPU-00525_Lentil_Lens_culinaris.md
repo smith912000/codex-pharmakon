@@ -122,6 +122,10 @@ Cooked lentil paste applied to inflamed skin, burns, and eye conditions; the tra
 
 **Practitioner's note.** A cultivator treats lentil as exactly what every tradition here treats it as: a dense, cheap, easily-digested food eaten to rebuild after depletion or illness — soaked or sprouted and cooked with carminative spices to make it sit lightly. Six traditions attest the food; none assigns it a cultivation status, and the Esau's-pottage and granary associations are culture and economy, not a claim on the body's vital constitution. The honest answer is nutrition, plainly stated.
 
+### Functional–Anatomical Correlate
+
+The entry maps lentil onto the digestive tract, the blood and the muscle. In TCM it enters the Spleen-Stomach, where it tonifies Qi, strengthens the Spleen-Stomach and resolves Damp, and the organ-channel map also places it at the Liver-Heart for blood and iron building. Ayurveda classes it as balya (strengthening), grahi (binding) and lekhana (scraping, reducing Kapha excess). Dioscorides and Ibn Sina give the whole seed an astringent, antidiarrhoeal action, which the entry ties to seed-coat tannins, and the broth a laxative one. Modern correlates named are protein and lysine for muscle protein synthesis, iron for oxygen transport, folate for cell division, soluble fibre and resistant starch for blood glucose and the gut microbiome, and polyphenols for inflammation. Topically, the entry records lentil paste or poultice for inflamed skin and the eye, and Ibn Sina's decoction as an eye wash for conjunctivitis.
+
 ### Contraindications
 
 - **Flatulence / IBS** — lentil oligosaccharides (raffinose, stachyose) are potent gas-producers; soaking, sprouting, and cooking with carminative spices (cumin, fennel, ginger — exactly as traditionally prescribed) significantly reduces gas; those with severe IBS-D may need to start with small quantities and build up

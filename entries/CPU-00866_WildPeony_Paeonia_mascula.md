@@ -94,6 +94,10 @@ The synthesis is therefore a genuine and rather beautiful case of doctrine-meeti
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps wild peony onto the nervous system and smooth muscle. The classical and Avicennan record places the root against epilepsy (the falling sickness), nightmares, lunacy and melancholy, which the entry reads as claims about quieting abnormal excitation in the brain and mind. Smooth muscle is named through uterine cramp and menstrual retention, and Dioscorides also lists the root for jaundice, kidney and bladder pain and gastric complaints. In Galenic and Unani terms it is warm and dry, attenuating and opening, antispasmodic and emmenagogic. The modern correlate offered is paeoniflorin, which the entry describes as anticonvulsant, neuroprotective, anti-inflammatory and smooth-muscle relaxant in animal models, acting through calcium-influx inhibition. The entry separates two gaps: the worn amulet delivers no active compound, and the oral evidence is for isolated paeoniflorin or P. lactiflora rather than P. mascula, with none of it clinical for epilepsy. Gallotannins are noted for mild antiplatelet activity in vitro.
+
 ### Contraindications
 
 - **NOT a treatment for epilepsy or seizures.** Under no circumstances substitute peony for prescribed antiepileptic medication or use it to self-treat a seizure disorder; the anticonvulsant data are preclinical and compound-level only. Abrupt reliance on an unproven herbal in place of medication risks status epilepticus.

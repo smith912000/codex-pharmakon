@@ -53,6 +53,10 @@ General, well-established facts only. Ziziphus fruits are edible and sweet. Noth
 
 **Practitioner's note.** Nothing to do with it. A fruit bread in a pair of abdominal recipes, with no recorded quantity, no preparation and no cultivation status. A cultivator reads it as a record of what Egyptian physicians put on and in a patient, not as something to take.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the bread appears in two Ebers abdominal recipes and in one internal remedy. The plaster is for a hardening in the abdomen, made from the bread with cat's dung and red lead, and in the longer list with watermelon, sweet beer and wine. The internal remedy is for what Bryan prints as the met of the left side of the Body, and combines the bread with figs, grapes, onions, cucumber blossoms, incense, wine and sweet beer, taken for four days. The entry names no organ or tissue beyond the abdomen and the left side, and gives no qualities, humour or channel for the bread. It states that the amount, the method of making and the reason for use are not recorded, that the plant identity is a modern hypothesis, and that red lead is poisonous. The Codex does not recommend any part of these recipes.
+
 ### Contraindications
 
 - **Do not use the recipes.** The abdominal plaster contains cat's dung (an infection risk on skin) and red lead (a lead compound; poisonous).

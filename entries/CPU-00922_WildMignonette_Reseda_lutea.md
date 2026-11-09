@@ -81,6 +81,10 @@ The honest position: **there are essentially no human clinical data on *Reseda l
 
 ---
 
+### Functional–Anatomical Correlate
+
+On the entry's own account this plant acts on the skin and the superficial tissue it is laid upon, not on any internal organ. Dioscorides places the reseda-type herbs among the dispersing (diaphoretikon) discutients, bruised and applied to hard swellings, bruises and inflamed glands. Avicenna's Unani scheme classes it as hot and dry, attenuant (mulattif) and resolvent (muhallil), with only a weak diuretic (mudirr al-bawl) role at low internal dose, which the entry does not endorse. The Assyrian link is to the dye-and-salve class only and is unverified for this species. The proposed mechanism is local: bruising lets myrosinase convert glucosinolates into isothiocyanates, which cause rubefaction and sting. The entry grades this as traditional, with no human clinical data, and calls the plant a counter-irritant, not a systemic drug. Tissues named: skin, subcutaneous swellings and glands, and the urinary tract only as a weak traditional claim.
+
 ### Contraindications
 
 - **Skin.** Isothiocyanate-releasing plants are rubefacient and can blister. Do not apply to broken skin or leave a poultice in place beyond the point of stinging. Patch-test first.

@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The abstentive answer is the honest one: the chapter is a habitat, a comparison and a single poultice.
 
+### Functional–Anatomical Correlate
+
+Little to map: Dioscorides' chapter 4-54 states one use and names one area of the body. The shrub, bruised and applied to all, is said to heal whitlows and favus, two skin conditions, the first a nail-fold infection and the second a scalp disease. The chapter prints no temperament: no taste, and no warming, cooling, drying or moistening quality. It names no internal use, no organ beyond the skin, and no preparation other than the bruised shrub. The plant is described only by its habitat among rocks and by comparison with peplus, a plant of similar form. The chapter gives no season, no dose and no mechanism, and the translators' identification is only a suggestion. Any mapping of this herb to the skin is therefore the reader's, drawn from the diseases named rather than from any description of the herb's action.
+
 ### Contraindications
 
 Whitlow and favus are infections for medical care; a bruised plant laid on a nail-fold or scalp sore is a hygiene risk. The identification rests on a translators' suggestion, and the chapter's description is too short to identify a plant, so no plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

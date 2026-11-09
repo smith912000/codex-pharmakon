@@ -43,6 +43,10 @@ General facts only. Deer are wild or farmed ruminants and their milk is not a re
 
 **Practitioner's note.** There is nothing here for a cultivator. The row records that the translator, reading the Sanskrit, allowed deer milk into the list of milks, and no more.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that the doe's milk, added by the translator's footnote to the list of milks, sometimes proves beneficial for external applications (Sushruta Samhita ch.45, line 442). No body system, organ, tissue, taste, potency or dosha is printed for it. The text does not name the species, the disease or the preparation for which external use is meant. The group paragraph on milk in general, with its heavy, sweet and slimy qualities and its statements on rejuvenation and ojas, is not assigned to this animal, and the entry expressly declines to carry those words across. The Sushrutan terms rasayana, vajikarana and ojas are not applied to the doe's milk. Beyond external application, the source offers no anatomical or functional correlate, and any attempt to name one would be an addition by the Codex rather than something the text supports.
+
 ### Contraindications
 
 - **Hygiene and zoonosis.** Wild-animal milk can carry infection; no safe handling is described in the source.

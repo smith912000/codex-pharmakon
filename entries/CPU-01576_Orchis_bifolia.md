@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a sweet orchid root drunk in wine, with no stated quantity, and a reputation Dioscorides passes on with "they say". The useful lesson is Dioscorides' method of telling a root by colour, size and taste, and the abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: The chapter names two actions and only one body function. The root, drunk in black hard wine, is given for severe spasms, which points to the muscular or nervous system but names no organ. The second statement concerns sexual desire: a man who wishes to lie with a woman may use it, and the text says that 'they say' the plant is an aphrodisiac, which places the claim in the reproductive and sexual sphere. Neither statement is confirmed by the chapter. The root is described as sweet to the taste and pleasant in the mouth, with a bulb-like shape as big as an apple, red outside and white within, but no temperament, humour, doshic or qi term is given, and no energetic quality is printed for 3-143. The leaves in threes are compared with rumex or lily, and the chapter gives a naked stalk a foot long and a white lily-like flower. No dose or preparation beyond the wine is stated. The identification as Orchis bifolia is one of four names the translators offer.
+
 ### Contraindications
 
 The chapter prints no warning. Wine with a root of unknown dose is not harmless, and severe spasms need medical assessment. Many wild orchids are protected by law in many places and their tubers must not be dug; the particular status was not researched. The identification rests on a translators' suggestion, so no wild plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

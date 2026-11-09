@@ -47,6 +47,10 @@ Copper minerals and their roasting products are irritant and toxic, and calcium 
 
 **Practitioner's note.** Nothing here for a cultivator to take or do. Chalcitis is, in the one text that treats it, an astringent mineral for eyes, gums and ulcers, whose identification is uncertain even in the edition that prints it. The honest lesson is the assay discipline: know exactly what the material is before using it, and where that cannot be known, do not. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides (5-115) places chalcitis first on the eyes and their margins: it is said to purge filth from the eye corners and the eyes, and to reduce rough, hardened eyelids, and burnt and mixed with honey it is a medicine for the eyes. Its claimed reach extends to the skin, where it treats erysipelas and herpes, and to the womb and nose, where it is said to check discharges of blood. Its powder is said to repress abnormal growths of the gums and gangrenous ulceration of the cheeks and tonsils, so the mouth and throat are the claimed sites. As a suppository it is said to treat fistulas. In the Greek terms it is astringent, warming and scab-forming, and mildly astringent. The other traditions name no action for it. No humour, dosha, qi or subtle body is assigned. Its colour and mineral identity are uncertain in the text, so the sites above are the claims of one Greek chapter.
+
 ### Contraindications
 
 If the material is copper-bearing, it is toxic and corrosive; it must not be put in the eye, swallowed or placed in the vagina or rectum as the Greek suppository uses describe. Roasting sulphide minerals releases irritant and toxic fumes. Because the identity of Dioscorides' chalcitis is uncertain, modern materials sold under the name cannot be assumed to be the same thing. Purchase and use of traditional mineral preparations are regulated in many places.

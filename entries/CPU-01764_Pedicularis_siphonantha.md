@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a poison and meat-poison drug in the Tibetan texts, with no preparation and no dose, and the species is the glossary's by a positional reading. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan name 'Lugru mukpo' is tied in the texts to toxin and to meat poisoning. Men-Tsee-Khang 2011 says it 'nutrilizes toxin and cures meat poison'. Clark 1995 has, outside the commentary brackets, that the brown Pedicularis 'collects poisons, cures meat poisoning'. Inside the brackets, Clark's commentary adds brown phlegm, channel fever, dysentery with fever, and a claim that the drug stimulates hair growth and turns grey hair black. The only body part the entry names is hair. The other items (channels, phlegm, fever, dysentery) are the texts' own categories, and the entry gives them no anatomical location. The commentary gives bitter taste and fluid power for this brown type; the entry records these and does not carry them over to the species. No part used, preparation or dose is printed. The species is a positional reading of the glossary, and no clinical study was retrieved for the hair or dysentery claims.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Poisoning needs medical care; no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Because the species is uncertain, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

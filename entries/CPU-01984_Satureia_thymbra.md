@@ -51,6 +51,10 @@ General, well-established facts only. Savories and thymes are culinary herbs, an
 
 **Practitioner's note.** A warming herb and its wine, chosen by origin. A cultivator takes from the chapter only the habit of asking where a material was grown and which kind it is.
 
+### Functional–Anatomical Correlate
+
+The entry maps Dioscorides chapter 3-35 on the shrub tragoriganos and two wine chapters, 5-55 and 5-60, all under the translator's suggested name. The shrub is 'warming, urinary, and good for the intestines', and its uses name the spleen, the menstrual flow, and the chest, where linctuses are given for coughs and pneumonia. The stomach is named for gastric disorders, belching, seasickness, nausea and heartburn, and a poultice 'dissolves oedema', meaning fluid held in the tissues. The wine 5-55 is said to be good for griping, convulsions, hernias, pains of the side, 'the movement of winds', and difficulty to digest, which map to the abdomen, the nervous system and the digestive tract. Chapter 5-60 is 'good for whatever thymites is'. The chapter calls a liquid medicine of the herb 'mild'. The entry gives no humoral, doshic or qi term and no mechanism, and it does not say which species the shrub is.
+
 ### Contraindications
 
 - **Pregnancy.** The text says the herb expels the menstrual flow; avoid in pregnancy.

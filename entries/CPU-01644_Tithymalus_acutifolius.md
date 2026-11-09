@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a purgative, and a purge is the opposite of a conserving practice. The transferable point is the text's willingness to say that a plant is classed with a group while seeming to differ from it. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The entry's only functional claim is that the plant purges downward, so it acts on the bowels, the lower part of the digestive tract. Three parts are named: the root, given as two teaspoonfuls with honey water; the seed with as much of the juice, taken with meal in a pill; and the leaves, three teaspoonfuls. The chapter names no other organ, no tissue and no fluid. It prints no hot, cold, moist or dry quality and no taste, and it gives no traditional humour, dosha or qi term. The text offers no link to the lungs, blood, nerves or skin. The milky latex common to spurges is not mentioned in the chapter at all; that comes from the translators' genus only. The identity is a suggestion, so this mapping is Dioscorides' description of one shrub and not a confirmed plant.
+
 ### Contraindications
 
 Chapter 4-166 prints no warning. For safety on the group the Codex can point only to a neighbouring chapter: 4-165a, on the first of the seven tithymals, directs that one "must not stand against the wind, nor put his hands to his eyes" when juicing it, and that the body be rubbed beforehand with grease or oil and wine, "especially the face, neck and scrotum". That is a precaution for a different plant, and nothing here says that it applies to this one. The identification is only the translators' suggestion, so no plant should be gathered or used on the strength of this entry. The text gives no safety information for pregnancy, children or any other medicine, and gives doses only as quoted. [USER: verify]

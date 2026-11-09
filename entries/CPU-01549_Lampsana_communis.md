@@ -43,6 +43,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a one-sentence record of a boiled wild green. The sources support nothing more, and the abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter states that Lampsana is a wild vegetable, one that is well known, more nourishing and more agreeable to the stomach than lapathum, and that its stalks and leaves are eaten boiled. The only organ it names is the stomach, and the only action is comparative: it is said to agree with the stomach better than the comparison plant. The chapter gives no description, habitat, season or medicinal use. Its one preparation is the boiled stalks and leaves, with no quantity. Dioscorides gives two foreign names, napium for the Latins and euthmoe for the Egyptians. The comparison plant lapathum is the subject of chapter 2-140, which is medicinal, while this chapter says nothing medicinal. The identity Lampsana communis is the translators' suggestion, and the Codex gives no protocol for it. No hot, cold, moist or dry quality and no humour is printed.
+
 ### Contraindications
 
 The chapter prints no warning. The identification rests on a translators' suggestion, and wild greens should not be gathered or eaten on the strength of this entry. No safety information for pregnancy was read. None of the traditional uses above is advice. [USER: verify]

@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Sushruta t
 
 **Practitioner's note.** Nothing here gives a cultivator a practice with this plant. In the Sushruta scheme Manaka is a food bulb with a recorded heaviness and drying quality, and the text rates it among the hard-to-digest bulbs. Nothing should be gathered or eaten on the strength of a Latin name that the chapters do not give.
 
+### Functional–Anatomical Correlate
+
+Sushruta (SS) places Manaka in the bulb list of the food and drink chapter, so the text maps it to the digestive tract. The prose gives its taste as slightly astringent and pungent, its effect as drying, and its digestion as heavy, the bulb being retained in the stomach in an undigested state. The text says the bulb subdues Pittam. The metrical verses give a sweet, cooling potency for Manaka and again call it heavy of digestion, and the entry records this sweet taste alongside the astringent and pungent taste given for the group without resolving the difference. The chapters name no rasayana, vajikarana, ojas, tejas or prana role for it and give no preparation, use or dose. The Latin Arum indicum is the appendix's positional pairing, and the Codex does not state the botanical identity as certain.
+
 ### Contraindications
 
 The Sushruta passages read print no warning for the drug itself beyond its being "heavy of digestion" and "long retained in the stomach in an undigested condition". Aroids as a family can burn the mouth and throat when raw, and some are poisonous, and the identity here is open between *Arum indicum*, a *Colocasia* and the Codex's taro, so no plant should be gathered or eaten on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

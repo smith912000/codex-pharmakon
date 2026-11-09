@@ -107,6 +107,10 @@ The mucilage demulcent coating of inflamed intestinal mucosa, combined with the 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps flaxseed onto the intestines, the cardiovascular system and the hormonal axis, with skin and joints as secondary targets. The mucilage is described as a demulcent that coats inflamed intestinal mucosa, softens stool, slows glucose absorption and binds bile acids, which the entry links to lower LDL. ALA omega-3 is said to reduce platelet aggregation, and lignans, converted to enterolactone, to act as a weak estrogen receptor modulator in female hormonal balance. In Traditional Chinese terms it nourishes Liver Blood and Kidney Jing and lubricates the Large Intestine. Ayurveda classes it as unctuous, warm and Vata-Kapha balancing, and the warm poultice is applied to stiff, cold joints and to the chest in pleurisy. Egyptian and Assyrian uses are recorded for wounds, eyes and chest. The entry notes that whole seed passes undigested, so only ground seed delivers its ALA, lignans and mucilage.
+
 ### Contraindications
 
 - **Whole seed — must be ground for systemic benefit** — whole flaxseed passes through the GI tract without significant nutrient release; only ground seed provides ALA, lignans, and mucilage absorption; however, whole seeds are useful as a gentle mechanical laxative (intact mucilage layer)

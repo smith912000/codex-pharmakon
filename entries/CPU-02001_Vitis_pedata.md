@@ -45,6 +45,10 @@ General, well-established facts only. *Vitis* in its older, wide sense included 
 
 **Practitioner's note.** Nothing to do. A name printed twice against two Sanskrit words, with no use of its own, is a research note, not a practice.
 
+### Functional–Anatomical Correlate
+
+For Sushruta, the text supports one body mapping, and it is for a group, not for this plant. The Appendix pairs the Latin name with Hamsa-padi by position, and Hamsa-padi appears once in the Vidari-gandhadi group in Sutrasthana chapter 38. The metrical text says that group subdues the deranged Vayu and Pitta and proves beneficial in phthisis (shosha), Gulma, aching of the limbs, urdhva shvasa (upward-moving breath) and cough. In the entry's own terms these are wasting, abdominal, limb, breathing and chest complaints. The entry records that the Latin name's identity is uncertain and that the Godha-padi pairing has no other occurrence. No rasa, virya or vipaka is printed for either name, and no preparation or dose is given.
+
 ### Contraindications
 
 - **Identity.** The Latin name is the translator's, and each Sanskrit pairing is positional. Do not use a plant on the strength of this entry.

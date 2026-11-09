@@ -76,6 +76,10 @@ The honest summary: robust genus tonic pharmacology and genomic authentication t
 
 **Practitioner's note.** Nothing: no regimen for the individual substance is recorded, and the group description cannot be transferred to this species.
 
+### Functional–Anatomical Correlate
+
+Acts on the nourishing dhatus the entry names as all seven, with emphasis on medas (fat and cushioning tissue), māṃsa and śukra, through the rasavaha, medovaha and śukravaha srotas. Its heavy, unctuous, cooling and sweet qualities are aimed at śoṣa and kṣaya, the dry, emaciated, brittle state of wasting, and at rājayakṣmā, daurbalya (debility), raktapitta and burning catabolic heat. Its prabhāva is vayaḥsthāpana, stabilising age, and its reproductive role is śukrala and balya. The entry's Kenetica reading ties it to the lunar, moistening deep-rebuilding phase. It pacifies Vāta and Pitta and may raise Kapha, so āma, obesity and weak agni are contraindications. The entry also links it to the Chinese Polygonatum yin-nourishing tonic lineage as a cross-cultural parallel. The modern correlates are formula-level and in vitro: a Polygonatum-containing kidney-tonifying formula protected dopaminergic cells against oxidative damage. The entry notes that species-specific pharmacology is absent, and that genomic work is cited only for authentication against adulterants.
+
 ### Contraindications
 
 - **Āma, low Agni, high Kapha:** heavy, unctuous, cooling — can worsen congestion, obesity, metabolic sluggishness and *āma*. Avoid in these states.

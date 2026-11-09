@@ -52,6 +52,10 @@ General, well-established facts only. Palms are a large family of tropical and s
 
 **Practitioner's note.** Nothing here for a cultivator. A palm product is an ingredient in two wound and swelling remedies, and the tradition's text assigns it no role in nourishing or conserving the person.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives two organ-level references and no physiology for the palm. Palm-fibres appear in a fourth-day plaster in a burns series, so the stated target is burned skin and the wound surface. Palm-juice appears as one ingredient in a remedy for a growth of the neck with moving matter inside it, and no structure within the neck is named. The list of plant remedies names the palm-tree, palm-juice and palm-fibres as bare entries with no indication. The entry does not say which palm is meant, and it gives no taste, temperature, humour, qi or doshic correlate for any palm product. The Ebers material is organised by complaint rather than by the constitution, so it assigns the palm no role in nourishing or conserving the person.
+
 ### Contraindications
 
 - **Burns and swellings.** These are medical conditions; use proper care. Do not apply an animal-fat and dung dressing to a burn.

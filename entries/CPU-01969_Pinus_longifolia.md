@@ -47,6 +47,10 @@ General, well-established facts only. Turpentine is a skin and airway irritant a
 
 **Practitioner's note.** A name, and the name of its resin, on a list. The Samhita text on disk gives no use and no grade, so there is nothing for a cultivator to take from this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the appendix is a name list. Its only resin line gives 'Resin of Pinus longifolia' as a named drug, and the entry states that the appendix gives no use, preparation or dose. The chir pine identification is the entry's own reading of the Latin name through a synonym, with medium confidence because the appendix has no description. The entry says the Sanskrit names for these lines cannot be read from the e-text. In the sources read, no rasa, virya, vipaka, rasayana, vajikarana, ojas or shodhana is attributed to it. The entry states, as general knowledge, that turpentine is an irritant of skin and airways and that rosin can cause contact allergy, and that no safe-use statement exists in the sources retrieved. Pregnancy, lactation and children are not addressed. No organ, body system or tissue is named for the substance in any source the entry read.
+
 ### Contraindications
 
 - **No safe-use statement exists in the sources retrieved.** Turpentine and crude resin are irritants; do not take them on the strength of this entry.

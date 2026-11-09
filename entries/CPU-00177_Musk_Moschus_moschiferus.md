@@ -81,6 +81,10 @@ Consistent with the traditional "orifice-opening" (brain-reaching) action, musco
 
 ---
 
+### Functional–Anatomical Correlate
+
+Musk maps mainly onto the heart, the brain and the blood. In Chinese terms it enters the Heart to open the orifices and revive the Shen, is also assigned to the Spleen, and invigorates the Blood, dispels stasis, relieves pain and reduces swellings. Unani terms describe it as a strengthener of the heart and brain (muqawwi qalb wa dimagh) that dispels palpitation and faintness and clears the senses. Ayurvedic correspondence places it on cardiac and nervous function (hrdya, medhya). The modern tissues the entry names are the blood-brain barrier, with muscone reported in cerebrospinal fluid and associated in preclinical cerebral-ischaemia models with raised tight-junction proteins ZO-1, occludin and claudin-5, and the coronary arteries and left ventricle, where a musk-containing formula showed fewer major adverse cardiovascular events and better ejection fraction in a meta-analysis graded low to moderate certainty. Tibetan terms add settling of wind (rlung) and antidotal action against poison.
+
 ### Contraindications
 
 - **Pregnancy — ABSOLUTE contraindication:** musk is a classic strong Blood-invigorating, orifice-opening abortifacient/uterine stimulant; it is emphatically contraindicated throughout pregnancy.

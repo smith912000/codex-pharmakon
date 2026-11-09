@@ -66,6 +66,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+In the Ebers text, goose fat is claimed for many organs, always as a vehicle with other drugs. For the eye it is used in salves for fat-in-the-eyes, cataract and a flow of matter. For the ear, a discharge of foul matter is treated with it, and a chewed remedy places it in the mouth. For the skin, it is cooked into a mixture for scabs on every limb. For the heart, a drink is meant to put the Heart into proper working order and make it take up nourishment. For digestion, a honeyed drink treats indigestion, and the neck is poulticed for a mattery tumour. Bryan files one item under the Nervous System, a remedy to make the met supple, where the term met is not glossed. In the Divine Farmer's Classic, read as the Chinese name 雁肪, the fat is said to treat wind-related spasm and tightness, one-sided withering and qi that does not pass freely, mapping to the sinews, limbs and qi channels, though the species rests on the name alone.
+
 ### Contraindications
 
 - **Hygiene and infection:** rendered animal fat on broken skin, in the eye or ear, or in a poultice can carry bacteria and, when rancid, cause irritation; the eye and ear passages are not recommended.

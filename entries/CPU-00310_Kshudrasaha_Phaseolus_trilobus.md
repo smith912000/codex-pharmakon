@@ -66,6 +66,10 @@ According to PubMed, there is **very little pharmacological literature specific 
 
 **Practitioner's note.** Nothing. It is a group-listed drug with an unsettled identity; the tradition's text records no long-term or vitality-building role for it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the plant is a cooling, light, sweet-astringent pulse that pacifies Pitta and Kapha, and may mildly raise Vāta if very dry. It acts on the annavaha (digestive) and rasavaha (nutrient-fluid) srotas, and secondarily the raktavaha (blood) channel. Its named actions are tarpaṇa (nourishing), śītala (cooling), dāhapraśamana (relieving burning) and a fever-appropriate diet (jvara-anukūla), for convalescent bodies where digestive fire is delicate. Its fever and burning claims are extrapolated from the Mudgaparṇī group rather than from this species. The entry names no organ or tissue beyond these channels. Its PubMed literature is cytogenetic and microbiological, and it states that no medicinal effect is demonstrated. It is a dietetic pulse, not a validated therapeutic agent.
+
 ### Contraindications
 
 - Being cooling, light and Vāta-tending-dry, it is less suited to cold, low-agni, heavily Vāta-aggravated states unless well-cooked with warming, unctuous adjuncts.

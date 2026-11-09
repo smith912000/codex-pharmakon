@@ -40,6 +40,10 @@ General, well-established facts only. A tooth that hurts has a cause (decay, inf
 
 **Practitioner's note.** A cultivator does nothing with this. It is a single remedy for toothache using a dangerous animal part, with no preparation and no dose. The honest use of the entry is as a record of what Dioscorides says.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that the spine from the tail of the sea sting ray lessens a painful tooth, which it breaks and expels. The one site the text names is a tooth, and the one effect is on its pain. Dioscorides gives no organ beyond the tooth, no humour, no temperament and no quality for the spine. The part is named by its place on the animal, with its scales turned backward, so the text distinguishes the spine from the whole fish, but it places no action in the gum, jaw or nerve. The sea dragon, scorpion and spider are named in other chapters as causes of injury that the red mullet is said to heal, and they concern injury and not the sting ray's action. The Codex records the tooth and its pain, and the text does not say whether the pain lies in the tooth or the gum, so the mapping stops there.
+
 ### Contraindications
 
 - **Injury and infection:** a sharp, serrated barb used in the mouth can wound and infect; do not use it.

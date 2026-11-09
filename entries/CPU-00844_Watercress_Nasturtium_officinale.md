@@ -70,6 +70,10 @@ According to PubMed: Gill et al. (2007, *American Journal of Clinical Nutrition*
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps watercress onto the blood and the body's own detoxifying enzyme systems. In the Unani frame it is a hot, dry depurative and deobstruent that cleanses impure blood, opens obstruction, stimulates appetite and digestion, and acts as a diuretic and emmenagogue against cold, phlegmatic stagnation. The Greek account adds clearing of the chest and a stimulant, diuretic action on a sluggish system. In Ayurvedic analogue terms it is katu, pungent, kindling digestion and reducing Kapha. The modern organ-level claim is that its isothiocyanate PEITC induces phase II detoxifying enzymes and protects lymphocyte DNA from oxidative damage, with raised plasma lutein and beta-carotene. The entry grades this as moderate, from one human trial. Its mucous-membrane irritancy is noted for the stomach and, in older texts, the bladder and kidneys. Traditional energetics: hot and dry in the second degree.
+
 ### Contraindications
 
 - **⚠️ Wild-gathered fascioliasis (liver-fluke) risk.** Watercress harvested from wild waterways grazed by sheep or cattle can carry the encysted metacercariae of *Fasciola hepatica* (liver fluke). **Only eat commercially/hydroponically grown or reliably clean-source watercress; do not eat wild watercress raw** from pasture-fed catchments. This is the single most important practical hazard of the plant.

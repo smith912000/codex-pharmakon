@@ -47,6 +47,10 @@ General, well-established facts only. Nothing can be said of an unidentified mat
 
 **Practitioner's note.** A name in one group list among resins and fragrant woods. A cultivator has nothing to use from it until it is identified.
 
+### Functional–Anatomical Correlate
+
+Little to map: the sources state only that Turushka is one of the drugs in the Eladi group, which is said to subdue Vayu and Kapha, neutralise poison, and act as a cosmetic that arrests skin eruptions, pimples, rash, urticaria and itching. These are group properties and are not assigned to Turushka alone. It stands among resins and fragrant woods and is printed without a Latin name, description, part used or habitat. No organ, tissue, preparation or dose is stated for it. A later identification as an incense resin is only a lead and was not found in any text read. The group is also reckoned by Dallana in the heat-making list of Uttaratantra chapter 39, a classification the translator reports in a footnote. The regions reached are the skin and the surface of the body.
+
 ### Contraindications
 
 - **Identity.** The material is not identified. Nothing may be gathered, bought or used on the strength of this entry. [USER: verify]

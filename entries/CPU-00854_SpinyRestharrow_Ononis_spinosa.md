@@ -67,6 +67,10 @@ According to PubMed, the traditional diuretic and urinary-tract indications now 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps restharrow root chiefly onto the urinary tract: the kidney, the bladder and the lower urinary passages, with a function of opening and flushing (aquaretic, diuretic, deobstruent, lithontriptic). Dioscorides and the Unani physicians cite raised urine volume, breaking the stone, clearing gravel, and root-bark in oxymel for urinary retention. The Western complaint named is dropsy of the legs. The Galenic reading is warm and dry in the second degree, while the Ayurvedic analogue (mutrala) is flagged as provisional. The modern correlates are anti-adhesive activity of the aqueous extract against uropathogenic E. coli on bladder cells, which reduces adhesion and internalisation without affecting bacterial growth, and inhibition of human hyaluronidase-1, offered as a candidate mechanism for renal extracellular-matrix modulation. The entry states human diuretic efficacy is not established, treats the root as a clearing agent rather than a tonic, and warns that extra fluid is dangerous in cardiac or renal oedema.
+
 ### Contraindications
 
 - **Oedema from cardiac or renal insufficiency — do NOT self-treat.** Irrigation/flushing therapy with any aquaretic is explicitly contraindicated where oedema results from impaired heart or kidney function; increasing fluid load in these states is dangerous and requires medical management. Restharrow is for minor, otherwise-healthy urinary complaints only.

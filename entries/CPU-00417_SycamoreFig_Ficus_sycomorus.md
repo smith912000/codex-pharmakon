@@ -70,6 +70,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry's own claims, sycamore fig acts on the digestive tract, the skin and surface tissues, and swelling sites, and in rodents on the brain and oxidative stress load. The ripe fruit is a moistening, nourishing food that is mildly laxative, so the bowel is its named target. Its latex and leaf are a drawing, ripening plaster for hard swellings and slow-healing surface tissue, and the sap is a local irritant to broken skin and mucosa. Dioscorides and Avicenna both place the sap as softening and dispersing hard swellings. Ayurveda, by analogy, assigns sweetness and astringency to bark and latex and a settling effect on pitta and vata. In rodent studies, a stem-bark extract improved stress-induced anxiety, depression and memory, and raised glutathione in the temporal lobe. The entry grades these findings as preclinical.
+
 ### Contraindications
 
 - Latex is a **local irritant** to broken skin, eyes, and mucous membranes — restrict to intact-margin surface use and spot-test.

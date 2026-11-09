@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The one well-e
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It offers a description, external and internal remedies and an expelling juice, so it is history and not a practice. The abstentive answer is the honest one, and the plant should not be eaten or drunk.
 
+### Functional–Anatomical Correlate
+
+The chapter names the body areas its remedies are said to reach. Pounded and smeared, the leaves are said to help "headaches and burning of the stomach", so the claimed fields are the head and the stomach. Taken as a drink with wine, the leaves "cease griping", which points to the bowel. The juice, drunk with wine, is said to expel "the menstrual flow and urine", and the chapter adds that applied in a pessary "it does the same", which places the claimed effect on the uterus and the urinary tract. Dioscorides gives no humoral, doshic or qi term and no warming, cooling or moistening quality; the only quality noted is that the leaves are "much smoother, thinner and greener" than the bay. The entry's Contraindications section records that the leaves are poisonous, and the Codex gives no protocol for any of these uses. The identity is the translators' suggestion, so the mapping describes the chapter's claims only.
+
 ### Contraindications
 
 The chapter prints no warning. It is a general, well-established fact that cherry laurel leaves and seeds are poisonous because of cyanogenic compounds, so none of the drinks above should be tried. A drink or pessary said to "expel the menstrual flow" would endanger a pregnancy, and the Codex gives no advice on it. Headaches, stomach burning and griping that persist need medical assessment. The identification rests on a translators' suggestion, so no wild plant should be gathered or used on the strength of this entry. [USER: verify]

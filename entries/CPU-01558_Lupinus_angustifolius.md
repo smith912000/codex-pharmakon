@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity i
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is one sentence that sends the reader back to the sown lupin, so the honest answer is that there is nothing here to take up.
 
+### Functional–Anatomical Correlate
+
+Little to map: The chapter states only that a wild lupin exists, which the Latins call lupinus agrestis, that it is similar to the sown lupin, and that it is in every way less effective for the same purposes. It names no organ, system, tissue or body part and gives no use of its own. No humoral, qi or doshic term, and no quality, temperament or taste, is printed for it. The chapter's only link to the body runs through 2-132, the sown lupin, which it points to and whose uses the entry does not carry over to this plant. The comparison is one of strength, not of action. The identity is the translators' suggestion. The Codex records nothing about the wild plant's effect on any organ and gives no protocol. Lupin seed can be bitter and toxic when not properly prepared, a point the entry makes as a general fact and not as a finding about this plant.
+
 ### Contraindications
 
 Chapter 2-133 prints no warning. Lupin seed can be toxic when it is bitter and not properly prepared, the identification here is only the translators' suggestion, and the chapter gives no preparation, so no plant should be gathered or used on the strength of this entry. Lupin is also a known food allergen in people allergic to other legumes, as a general fact. No safety information for pregnancy was read, and 2-132 records the sown lupin as an abortifacient in a pessary. [USER: verify]

@@ -77,6 +77,10 @@ According to PubMed, banyan's traditional antidiabetic reputation has attracted 
 
 **Practitioner's note.** Nothing to cultivate: in the classic it is an astringent, cooling wound and fracture drug. Its place in the Sushrutan frame is surgical and therapeutic, not rejuvenative.
 
+### Functional–Anatomical Correlate
+
+The entry maps Nyagrodha onto surfaces that leak or fail to close: wounds and ulcers (vraṇaśodhana and vraṇaropaṇa, cleansing and healing), mucosa, teeth and gums, and skin. Its bowel action is grāhī (bowel-binding), used for atisāra (diarrhoea) and pravāhikā (dysentery). Its blood action is raktastambhaka (haemostatic) and stambhana (arresting flow), for raktapitta and excessive menstrual flow (pradara). Varṇya (complexion) is also named. Metabolism is mapped through prameha and medas (fat) disorders, with a traditional antidiabetic action. The Sushrutan group description names uterine and vaginal ulcers and union of fractures, which the entry attributes to the Nyagrodhādi group. Doṣa action is Kapha-Pitta-hara, with possible Vāta aggravation if used dry. Modern correlates are animal, in-vitro and network-pharmacology studies of bark extract on glucose and hepatic enzymes, plus one small multi-herb clinical study. No monotherapy human trial was established.
+
 ### Contraindications
 
 - **Vāta aggravation / constipation:** its dry, astringent, binding nature can worsen constipation, bloating, and Vāta-dryness — combine with unctuous adjuvants and avoid in Vāta-predominant dryness.

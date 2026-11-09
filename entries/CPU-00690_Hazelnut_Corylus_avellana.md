@@ -74,6 +74,10 @@ Based on articles retrieved from PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Hazelnut is described as a nourishing, warming food that builds the body's base tissues rather than acting on one organ. The Avicennan Unani reading calls it warm and moist, fattening, and benefiting the chest and cough, with honey and pepper for pectoral use and later use as a nervine and brain restorative. The TCM Shennong-lineage reading takes zhen zi as sweet and neutral, tonifying the spleen and stomach and boosting qi. Dioscorides records it as nourishing but heavy on the stomach. In modern terms the entry names the kernel's lipid (about 60 percent, mostly oleic acid), vitamin E and skin phenolics as the material basis for tissue repair and steady energy. Its paclitaxel-producing capacity is limited to cell culture and leaf tissue, and the entry says no clinical claim attaches to the kernel. The main hazard it names is anaphylaxis in tree-nut allergy, with cross-reaction to birch pollen in oral allergy syndrome.
+
 ### Contraindications
 
 - **⚠ Tree-nut allergy (potentially fatal):** hazelnut is a major tree-nut allergen and a recognised cause of IgE-mediated reactions up to and including **anaphylaxis**. It also cross-reacts with birch pollen in oral allergy syndrome. Anyone with tree-nut allergy, or birch-pollen sensitisation with nut symptoms, must **strictly avoid** hazelnut in all forms (kernel, meal, oil, skin extract). Cross-contamination in shared processing is common — read labels.

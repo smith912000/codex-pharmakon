@@ -36,6 +36,10 @@ Cantharidin is a vesicant. In modern medicine a purified topical preparation, ap
 
 **Practitioner's note.** Nothing here for a cultivator, and a firm warning: this is a poison, and a cultivation practice built on conservation of the body's vital endowment has no place for it. The row shows only that the project's list counts cantharides among the *Canon*'s simples. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the Avicenna attestation rests on one list row (Canon II, with no chapter), and no Canon text on disk gives what cantharides was used for, so no action, temperament or humour can be mapped under the Unani frame. The entry states only what the substance does to the body. On contact, cantharidin blisters the skin and mucous membranes. Swallowed, it burns the lining of the mouth and gut and damages the urinary tract, with blood in the urine and kidney failure as outcomes, and death as the worst. Its use as a supposed aphrodisiac is described as a cause of poisoning, and the genital irritation it causes is an inflammation rather than arousal. The entry records no cultivation role, no innate heat or radical moisture, and no beneficial organ action.
+
 ### Contraindications
 
 Cantharides and cantharidin are dangerous poisons. Contact blisters skin and mucous membranes; swallowing causes burning of the mouth and gut, vomiting, blood in the urine, kidney failure and death, and the poisoning is a medical emergency. Products sold as Spanish fly are unregulated and often adulterated. It must not be given to others without their knowledge, which is a crime. Possession and sale are restricted in many places; the legal status has not been checked here. [USER: verify]

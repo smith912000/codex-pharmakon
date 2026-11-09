@@ -36,6 +36,10 @@ Ammonium chloride is used as a flux in soldering, as a component of dry-cell bat
 
 **Practitioner's note.** Nothing here for a cultivator. The row names a salt that the texts on disk do not name; for the salts the Tibetan text does record, read Clark lines 927-935. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Tibetan citation is a list row with no text locus, so no Tibetan site is mapped. The Unani entry for nushadir, which the Codex attaches to this salt, gives its temperament as hot and dry at the end of the third degree, with an action described as attenuating and dissolving. For the eye it is said to help whiteness of the eye, the sclera in modern anatomy. For the organs of breath it is said to lift a fallen uvula and to help against swellings of the throat, the khanaqir. The entry does not place the salt in the digestive, excretory or poison headings, and it does not mention innate heat, radical moisture or the conservation of life. The mapping therefore rests on two sites alone, the eye and the upper airway.
+
 ### Contraindications
 
 Swallowed ammonium chloride irritates the gut and can cause vomiting and acid-base disturbance, and it is harmful in liver or kidney disease. Mixed with alkalis (lime, soda, wood ash) it releases ammonia gas, which burns the eyes and airways. The salt is not safe to take as a home remedy. Mineral medicines sold unregulated may be contaminated with other metals.

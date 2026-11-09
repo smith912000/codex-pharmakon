@@ -36,6 +36,10 @@ Keratin is a protein that humans digest poorly; as a food or drug it is largely 
 
 **Practitioner's note.** Nothing here supports using ram horn for cultivation. The one thing the sources say about it, an action on the womb, is a reason for caution, not for use, and the tradition's own modern editor notes that animal medicines have largely fallen out of use. For a cultivator the honest entry is a record: the Tibetan materia medica lists horn first among its thirteen animal medicines, and the ram's is named in it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the only stated action is that ram horn is ecbolic, an action on the womb, in both Tibetan texts. Clark does not define the term in this passage. No other organ or system is named, and the horn's composition is not given.
+
 ### Contraindications
 
 - **Pregnancy:** the texts call the horn ecbolic; treat it as a hazard to pregnancy.

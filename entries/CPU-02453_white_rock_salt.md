@@ -50,6 +50,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 **Practitioner's note.** Nothing to take from it for cultivation. It is a cave salt the tantra lists for wounds and small stones, with no preparation given, and it should not be mistaken for ordinary rock salt. It is not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Both texts record this salt as dissolving blood clots and draining lymph, chhuser, from wounds. In modern terms that maps to the blood and its clotting at a wound site, and to the lymph and the fluid that collects in the tissue around a wound. Men-Tsee-Khang's soil summary says it helps digest and dissolves small calculi, which maps to stones forming in the body; the texts do not place those stones in a particular organ. Men-Tsee-Khang's salt summary says it dilutes blood, which maps to the circulating blood in general. The salty taste pacifies wind in general, but that is not a printed action for this salt. No organ, humour or channel is named for it in either text read.
+
 ### Contraindications
 
 - **Wounds with clots or drainage; urinary or biliary stones:** medical conditions; see a doctor.

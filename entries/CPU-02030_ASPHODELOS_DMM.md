@@ -55,6 +55,10 @@ General, well-established facts only. Asphodel is a Mediterranean perennial with
 
 **Practitioner's note.** A sharp, warming, emetic root that the ancient pharmacy used for many outward and inward complaints. A cultivator takes nothing from it except the habit of noting how Dioscorides identifies a plant, when he says to cut it, and what he says it does to the bowels. It is not a cultivation substance and should not be taken.
 
+### Functional–Anatomical Correlate
+
+The entry ties the root of asphodel to many organs. The root is said to move urine and the menstrual flow, and to relieve side pain, cough, convulsion and hernia. Its emetic effect is recorded, and the seed and flowers are said to purge the intestines excessively. Other claims reach the urinary tract (stones, kidney and urinary), the breast (inflammation), the skin (ulcers, boils, chilblains, burns, vitiligo alba), the ears (purulent ears, earache, toothache), the eyes (a juice rubbed on them) and the hair (ashes said to thicken it). The seed and flowers are a remedy against millipede, centipede and scorpion bites, and the root against snakebite. A claim that it reduces sexual appetite is attributed to others and recorded as reported, not endorsed. The chapter names no humour, qi or temperament; only sharp and warming are printed for the root. The entry treats the root as an emetic and purgative and advises avoiding it in pregnancy.
+
 ### Contraindications
 
 - **Emetic and purgative.** Dioscorides says the root causes vomiting and the seed and flowers purge the intestines "excessively". Do not ingest.

@@ -43,6 +43,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It offers a careful description and a set of remedies without amounts that may belong to another chapter's plant, so it is history and not a practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The uses that follow the chapter's description act on the mouth and teeth, the skin, the nerves and the urinary tract. Root and seed boiled in wine and held in the mouth are given to lessen toothache, placing the action in the teeth and gums. The root applied with hot cloths is given for burns and chilblains, which act on the skin and peripheral tissues. A drink in wine is given for sciatica, a nerve pain of the leg, and for painful urination, which acts on the bladder and urinary passage. These uses sit inside a passage the chapter shares word for word with the next chapter, arction, so the text does not settle whether they belong to aithiopis at all. The only physical features given are the roots, which are gluey to the taste and turn black and hard when dried, and a foursquare rugged stalk. No humoral, doshic or qi quality is printed, and the chapter names no organ for the root itself. The identity is the translators' suggestion, so no species-level anatomy follows.
+
 ### Contraindications
 
 The chapter prints no warning. Toothache that persists, sciatica and painful urination need medical assessment, and a home remedy must not replace it. The identification rests on a translators' suggestion, so no wild plant should be gathered or used on the strength of this entry. [USER: verify] None of the traditional uses above is advice.

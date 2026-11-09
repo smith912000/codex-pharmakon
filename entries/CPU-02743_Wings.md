@@ -42,6 +42,10 @@ General, well-established facts only. Poultry wings are a common food rich in fa
 
 **Practitioner's note.** Nothing to do beyond ordinary food. The Canon's own reading is that hen and goose wings are good food. The feather-and-*banj* bread is reported by hearsay and is not for use.
 
+### Functional–Anatomical Correlate
+
+The Canon maps the bird's wing onto digestion, nourishment and the bowels. Chicken and goose wings are said to be the best, good for digestion and nourishment, because they are light from much movement and exercise, and because their nourishment is abundant from much flesh and their nearness to the heart. The heart is named only as a reason for this nourishment, and no other organ is linked to the wing in the passage. A second, hearsay remedy uses wing feathers of the warshan, a pigeon-type bird, mixed with banj, burned, and made into bread, which is said to loosen the belly and purge very much. No temperament is printed. Banj is glossed as henbane, a plant that carries tropane alkaloids, and the Codex flags the remedy as possibly poisonous and gives no protocol for it.
+
 ### Contraindications
 
 - **Feather and *banj* remedy.** Possibly poisonous (henbane) and strongly purging by the text's own account. Do not use.

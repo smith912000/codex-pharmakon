@@ -50,6 +50,10 @@ General, well-established facts only. The identity is open, so no pharmacology c
 
 **Practitioner's note.** An unidentified name in a group list. Nothing supports cultivation use, and without an identification nothing can be gathered or used. A cultivator reads it as a name in a record.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry rests on a group list in Sushruta chapter 38, the Rodhrardi group, and states only group-level virtues. The group is said to act against deranged Kapha and fat, to be astringent, to remove vaginal and uterine disorders, to counter poison, and to act as a styptic and purifying agent in ulcers, arresting the secretions and excretions of the body. The entry therefore maps the group's claimed action to the vagina and uterus, to ulcers, to the discharges of the body generally, and to fat as the thing Kapha is said to affect. No rasa, virya or vipaka is printed for Elabaluka itself, so the drug's own organ action is not given. No dose, part or preparation is recorded, and the entry places the drug in no ojas, rasayana or vajikarana framework. Because the plant is unidentified, the action cannot be tied to any tissue of the drug itself, and the conditions named need medical care.
+
 ### Contraindications
 
 - **Identity.** The plant is unidentified. Do not substitute any herb for it.

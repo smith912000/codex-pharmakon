@@ -41,6 +41,10 @@ No temperament or degree is given in the Book II entry for the hyena.
 
 **Practitioner's note.** Nothing to cultivate or do.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives one body system only. The Book II text says the hyena is useful for gout and for joint pain (wajaʿ al-mafasil), which places its action on the joints in the entry's terms. It refers the reader to a Book III discussion for the measure of that benefit, which the entry did not locate, so nothing is added from it. The entry names no organ, tissue, temperament, humour or preparation. The side-evidence the entry cites from elsewhere in the Canon, a bath of boiled fox and hyena and a rub with hyena fat, points to the same joints and adds no other system. No dose is given, and nothing else in the entry is attributed to the body.
+
 ### Contraindications
 
 Historical record only. Wild hyenas are protected or declining in many countries and are carrion feeders that can carry disease; handling and boiling carcasses is a hygiene risk. Do not treat any use here as medical advice.

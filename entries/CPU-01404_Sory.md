@@ -61,6 +61,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+The claimed sites are the teeth and their cavities, the rectum, the stomach, the skin, the hair, and the sciatic region of hip, buttock and leg. Put into the cavities of aching teeth, it is said to ease toothache and strengthen loose teeth. Given as a suppository with wine it helps sciatica, and smeared on with water it is said to extinguish smallpox pustules, a skin action. Mixed with other ingredients it is used to dye hair black, a hair and scalp use. The chapter states that it overturns the stomach and causes nausea, so the stomach is a claimed site of action. Its printed qualities are astringency and a nauseating effect, with no warming, cooling, drying or moistening degree. The text says it shares the properties of the chalcitis and misy group, but which of them it means is not stated, so no further classification is carried across. The material is unidentified, and no humour or dosha is assigned.
+
 ### Contraindications
 
 - **Poisonous by the text's own account:** the chapter calls sory "poisonous to taste or smell" and "more poisonous" than melanteria, and says it "overturn[s] the stomach". Do not taste, smell closely, swallow or insert it.

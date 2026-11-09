@@ -50,6 +50,10 @@ General, well-established facts only. The identity is open, so no pharmacology c
 
 **Practitioner's note.** An unidentified name in a group list. Nothing supports cultivation use, and without an identification nothing can be gathered or used. A cultivator reads it as a name in a record.
 
+### Functional–Anatomical Correlate
+
+Little to map: the sources read give no description of Dhyamaka on its own, and no part, taste or potency. The only statements are group-level, for the Eladi group, in which it stands fifth. The group's metrical virtue is said to subdue the action of Vayu and Kapha (tradition humours) and to neutralise poison. It is described as a cosmetic that arrests the eruption of pimples and other skin growths, rash and urticaria, and checks the itching that goes with them. The entry therefore maps the group's claims to the skin and surface, to the eruptions and the itching, and to the humour terms Vayu and Kapha, which the text gives without an organ. No channel, organ or modern anatomy is stated for Dhyamaka itself. The identity is unresolved, so no pharmacology is possible. Historical record only.
+
 ### Contraindications
 
 - **Identity.** The plant is unidentified. Do not substitute any herb for it.

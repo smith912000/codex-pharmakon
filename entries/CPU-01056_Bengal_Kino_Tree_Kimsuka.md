@@ -58,6 +58,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this tree. In Sushruta it is a flower used in remedies and similes, and in the Tibetan texts a bitter-sweet anthelmintic. The abstentive answer is the correct one: use is a matter for a qualified practitioner, and the texts supply no long-term regimen.
 
+### Functional–Anatomical Correlate
+
+The Sushruta passages touch the skin and the eyes; the Tibetan account touches the gut and the joints. A Pittaja ulcer is compared in colour and secretion to the flower's washings, the only skin reference. A rat-bite poisoning remedy uses the flower-ash washings, with vomiting of blood among the signs described. An eye-salve of the flowers rubbed with honey sits in the eye chapter. The Tibetan account gives ma.ru.tse a bitter and sweet taste and calls it an anthelmintic, so it acts on intestinal worms, and it is said to cure phlegm and rheumatism, which maps onto the phlegm humour and the joints. Clark's ch.21 places it in the anthelmintic class. The Ayurvedic lines name no rasa, virya or vipaka and no dhatu. The Tibetan frame is therapeutic and constitutional, not a subtle-body practice, and the entry warns against the eye-salve at home.
+
 ### Contraindications
 
 No safety data were read. The flowers are used as a dye and a traditional remedy, and the seeds and gum are different materials about which nothing was read here. None of the traditional uses above is advice, and the eye-salve passage in particular must not be tried at home. Seek a qualified practitioner, and seek ordinary medical care for eye disease, poisoning or worm infection. Do not use in pregnancy.

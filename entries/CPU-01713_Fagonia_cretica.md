@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a drug for infectious fever, poisoning and kidney fever in the Tibetan texts, with no preparation and no dose, and the plant behind the name is open between a desert shrub and a burr-bearing weed. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts give this drug as curing infectious fever, poisoning and kidney fever (Clark, line 1080), and as curing epidemic diseases, acting as an antidote against poison and eliminating hot disorder of the kidneys (Men-Tsee-Khang, line 3456). Clark's commentary adds that it relieves urinary retention, so the organs the texts name are the kidneys and the urinary passage. Fever and poisoning are named as systemic conditions. Clark's chapter 21 counts the drug among medicines for infectious fevers. The commentary also gives the drug a bitter taste and coarse power. The entry records these words and does not link them to the kidneys, since no humoral or doshic reasoning is given. No constituent is named in the sources. The plant behind the name is open between Fagonia cretica and Xanthium species, and no clinical study was retrieved, so the mapping is the texts' claim about a drug whose identity the sources do not settle.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The identity is open between *Fagonia* and *Xanthium*, and *Xanthium* is generally known to be poisonous, so no plant should be gathered or used on the strength of this entry. Poisoning and fever need urgent medical care. No safety information for pregnancy was read. [USER: verify]

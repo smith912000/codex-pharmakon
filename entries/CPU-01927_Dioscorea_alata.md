@@ -46,6 +46,10 @@ General, well-established facts only. *Dioscorea alata* is a cultivated yam of t
 
 **Practitioner's note.** Nothing to cultivate here. The record is a glossary line, and a cultivator has no sourced use for it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives no body system, organ or tissue for this plant. Its only source is an Appendix 3 gloss, 'Dioscorea Alata.', against a Sanskrit name read in the OCR as Dandalu. The name is not found in the main Samhita text, so the pairing rests on a column count and the appendix alone. The appendix gives no part used, no taste, potency or after-taste, no use, no preparation and no dose. The entry's general note, not attributed to Sushruta, is that tubers of Dioscorea species are starchy, that some species contain saponins, and that wild yams are generally cooked before eating. No cultivation status is attested. Nothing is said on pregnancy, lactation or children, and the Codex makes no claim for this plant and gives no protocol.
+
 ### Contraindications
 
 - **Identity.** The Sanskrit name is garbled in the OCR and absent from the main text; the pairing with the Latin is ours. [USER: verify against the page scan]

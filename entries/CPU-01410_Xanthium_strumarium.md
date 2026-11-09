@@ -48,6 +48,10 @@ The cocklebur plant is a recognised toxic plant for livestock and people when ra
 
 **Practitioner's note.** In the Shennong frame this is a middle-class drug, to be weighed against the complaint and taken for a purpose, not a long-term tonic, and the text's remark that protracted taking has benefits is the text's, not a recommendation. The plant has toxic parts and the Codex offers no preparation. The Tibetan record gives a cultivator no practice.
 
+### Functional–Anatomical Correlate
+
+The Shennong text (SBJ) gives Xi Er Shi, sweet and warm, for wind and cold headache, wind-damp generalised impediment, hypertonicity and pain of the limbs, and malign flesh and dead muscles. The bodily sites named are the head, limbs, muscles and flesh, and the text adds that protracted taking may boost the qi, sharpen the ears and eyes, strengthen the will and make the body light. Its middle-class grade is the text's own placement. The Tibetan Explanatory Tantra (FMT) lists byi.tsher for infectious fever, poisoning and kidney fever, with urinary retention in brackets, so the kidneys are the only organ named. But the line's bitter taste and coarse power are stated of Fagonia, the first-listed plant, not of Xanthium, so the taste and potency cannot be assigned to this drug. Neither tradition gives a humoral term or a preparation for it, and the Shennong text's claim that protracted taking boosts the qi is the text's own, not an endorsement.
+
 ### Contraindications
 
 Raw cocklebur seedlings and seeds are toxic (general knowledge, not read in the sources). The Shennong preface itself says that middle-class medicinals "may or may not be toxic" and call for care. Do not use in pregnancy. Do not self-prescribe for poisoning or fever. None of the traditional uses above is advice.

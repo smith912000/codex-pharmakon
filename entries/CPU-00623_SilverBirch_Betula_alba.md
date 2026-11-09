@@ -74,6 +74,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Silver birch's entry maps it chiefly onto the urinary tract, the joints and the skin, as a cool, dry, drying and depurative tree. European folk practice uses birch leaf as a diuretic spring cure for the urinary tract and for arthritis, rheumatism and joint complaints, and birch bark triterpenes are applied topically to inflamed skin. The Galenic or Unani reading gives a drying, cleansing action on chronic skin disease, with birch tar used dermatologically. The Chinese bitter-cool frame, drawn from the congener Betula platyphylla, clears heat and resolves damp-heat and toxin in skin sores and in throat and respiratory heat. The modern correlates are the anti-inflammatory and antiproliferative activity of betulin-rich bark in vitro and in animal models, and the traditional diuretic use of leaf flavonoids. Human trials are limited, and the entry flags birch-pollen cross-allergy as the key caution.
+
 ### Contraindications
 
 **Birch-pollen cross-allergy is the key caution:** birch is a major aeroallergen, and pollen-allergic individuals may react to birch preparations and to oral-allergy-syndrome cross-reactive foods — avoid or use with medical guidance. Diuretic leaf preparations are inappropriate in significant renal or cardiac impairment without supervision and require adequate hydration; use caution alongside diuretic drugs. Concentrated betulin/betulinic-acid extracts lack established human dosing — do not self-dose. Avoid in pregnancy and lactation given insufficient safety data. Birch tar is for external use only.

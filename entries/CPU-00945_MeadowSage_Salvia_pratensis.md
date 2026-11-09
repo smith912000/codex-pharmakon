@@ -83,6 +83,10 @@ The Warm–Dry classification carried in the header is an **inference by genus a
 
 **Practitioner's note.** Nothing. Neither stream supports a cultivation use of meadow sage; the Greek chapter is a therapeutic note on a different, cultivated sage.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry assigns meadow sage no organ or system of its own. It states only in vitro, species-specific activity: radical scavenging from rosmarinic acid and other phenolics, weak to moderate antimicrobial action, and inhibition of seed germination in model plants. Anti-cholinesterase and anti-alpha-glucosidase signals are genus-level, and the alpha-synuclein anti-aggregation effect was seen only in extract screening. The Dioscoridean and Avicennan tags are name inheritance, since the attested sages are officinalis-type and fruticosa-type plants, and no Warm-Dry grading is attested for this species, only inferred by genus. No human trial is recorded, and the entry says internal use stays at food-herb or tisane level.
+
 ### Contraindications
 
 - **Thujone (genus/precautionary note, not measured for this species):** high-thujone sage essential oils are neurotoxic and abortifacient in excess and are restricted in food use. *S. pratensis* oil is reported as linalool-dominant and its thujone level is **not assumed**; nonetheless, until species-specific quantification is confirmed, avoid concentrated essential-oil ingestion and prolonged high-dose use, especially in pregnancy and epilepsy — the standard precaution applied across aromatic *Salvia*.

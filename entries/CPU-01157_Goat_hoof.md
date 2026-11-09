@@ -38,6 +38,10 @@ General, well-established facts only. Keratin is a structural protein of hair, n
 
 **Practitioner's note.** A cultivator does nothing with this. The chapter is a record of what a first-century physician reported for baldness, not a practice, and it offers neither an observational method nor a vital claim. Its use today is as a window onto how Book Two treats the parts of animals.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one tissue and one complaint. The Osbaldeston and Wood Dioscorides says the hooves of goats, burnt and rubbed on with vinegar, cure baldness, so the scalp and hair are the only body site named. The entry gives no humoral, temperamental or energetic quality, and the chapter gives none for any part of the animal. The preparation is burning and external application, with no quantity, number of applications or degree of burning. The entry does not describe the composition of the burnt material. The chapter sits among other hoof remedies in Book Two, for epilepsy and for scrofulous tumours, which the entry mentions only to show the pattern of burning animal parts and applying them to the scalp. No source read connects the hoof to any organ beyond the scalp.
+
 ### Contraindications
 
 - **Not a treatment for hair loss:** no evidence was retrieved that it works; hair loss can be a sign of an underlying condition and may warrant a clinician's assessment.

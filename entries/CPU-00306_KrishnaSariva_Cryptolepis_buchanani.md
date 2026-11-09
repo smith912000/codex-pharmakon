@@ -61,6 +61,10 @@ According to PubMed:
 
 **Practitioner's note.** Nothing beyond a therapeutic use within a named drug group. The tradition records no long-term or vitality-building role for black Sariva, and the species identity is itself uncertain.
 
+### Functional–Anatomical Correlate
+
+In the entry's Ayurvedic frame, Kṛṣṇa-sāriva acts on blood and Pitta as its white partner does, but with a drying, tissue-binding edge from its bitter-astringent taste, which the entry says also checks Kapha. Its named targets include dāha (internal burning), kaṇḍū (itch), jvara (fever) and heat in the mūtravaha channel, and the entry lists it as mūtrala. Its reach extends to the musculoskeletal system: the entry describes it as śothahara (anti-inflammatory) for hot, painful joints and soft-tissue inflammation, and as sandhi-supportive. Folk practice uses it for wounds (vraṇaropaṇa) and as a galactagogue (stanya). In modern anatomical terms the entry's claims point to joints, cartilage and connective tissue, soft tissue, skin wounds and the lactating breast. The evidence is preclinical: rodent, in vitro and cartilage-explant data, with no human trials. The entry says its blood-clarifying use rests on tradition and mechanistic corroboration.
+
 ### Contraindications
 Cooling and, in its astringent aspect, drying — may aggravate Vāta-cold and Kapha-cold digestive sluggishness with prolonged use. The genus carries alkaloid and cardenolide/pregnane chemistry, so avoid high or prolonged dosing without supervision; safety in pregnancy/lactation not established `[USER: verify]`. Human safety data limited. Confirm botanical identity: multiple plants are traded as "Sāriva," and *Cryptolepis buchanani* must not be confused with white Sāriva (*Hemidesmus indicus*) or with the African *Cryptolepis sanguinolenta*.
 

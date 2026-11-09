@@ -48,6 +48,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 **Practitioner's note.** Nothing to take from it for cultivation beyond the model of sensory assay: look, feel, listen, taste, and test in water. The earth itself is not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Greek (DMM) terms are used as the entry gives them. The chapter prints one taste quality: the earth dries the tongue gently, and it is like alum in quality but somewhat weaker, as the taste also shows. Its claimed sites are the skin and hair. It makes the body clean and of good colour (complexion), thins hair (hair and scalp), and wears off alphos, which the translator glosses as non-contagious leprosy, and psoriasis, both skin conditions. The tongue is the one mucosal site named, through its drying taste. Painters use it to make their colours more permanent, and it is helpful in green (herbal) plasters, which are external applications. The chapter names no warming or cooling quality and gives no degree beyond gently and somewhat weaker. No internal organ or systemic function is claimed.
+
 ### Contraindications
 
 - **Skin:** a drying, hair-thinning earth can irritate or burn skin; do not apply it to broken skin, the face or the eyes.

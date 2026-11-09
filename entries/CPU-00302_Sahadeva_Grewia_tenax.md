@@ -70,6 +70,10 @@ Attribution: findings from PubMed.
 
 **Practitioner's note.** Nothing. As a food-medicine the fruit is a regional dietary matter, not a rasayana practice. Do not credit any Sushrutan rejuvenative standing to this species.
 
+### Functional–Anatomical Correlate
+
+Grewia tenax's entry maps its main action to the blood and the gut. In African and Arabian folk use the fruit is a remedy for anaemia and childhood iron deficiency, with liver complaints and general weakness also listed. Ayurvedic terms give it balya (strengthening) and raktavardhaka-adjacent (blood-building) action, grāhī (astringent) binding of excess gut motility and diarrhoea, and snigdha demulcent soothing of irritated mucosa. Cough and chest conditions are listed as respiratory-soothing. It is said to pacify Vāta and Pitta, and a mild Kapha increase is noted in excess. Preclinical data cited concern gut motility (antispasmodic action on isolated rat ileum and protection against castor-oil diarrhoea in mice) and the liver (lower liver enzymes and lipids and higher haemoglobin in CCl4-treated rats). The entry notes that its name is shared with unrelated plants and that the Sushrutan identity is unconfirmed.
+
 ### Contraindications
 
 - Generally regarded as safe (widely eaten as food). Being sweet, unctuous, and mucilaginous, use cautiously in marked Kapha excess, sluggish digestion, or heavy congestion.

@@ -136,6 +136,10 @@ Taste: bitter, slightly astringent. Direction: downward and inward. Tissue state
 
 **Practitioner's note.** Nothing. The reputation as a memory or divination plant is poorly substantiated, and the documented use is a plain cooling folk remedy, not a discipline.
 
+### Functional–Anatomical Correlate
+
+Traditional folk use points to fever and inflammation, diuresis, wound washing and gynaecological complaints. The entry frames the plant as cooling, descending, bitter and astringent, addressing heat and irritation. The solar doctrine (golden light in the visual field, distant and pitch-shifted hearing, ancestral memory) is recorded as unsubstantiated, with no controlled human study showing it. The mapped correlate is anti-inflammatory: cryogenine and nesodine inhibited prostaglandin synthetase in vitro at about 2.5 and 2.2 times aspirin's potency. The alkaloids are absorbed: the one documented human intoxication produced myalgia of the limbs and tongue with slight fever, not visual or auditory effects. In animal work the hypotensive and hypothermic cardiovascular profile is the most consistent thread, with bradycardia in descriptive literature, so the entry cautions people on antihypertensives or with low blood pressure, and against combining with NSAIDs. Pregnancy and breastfeeding are to be avoided, given the gynaecological use and the class's teratogenic concern. Chronic effects are unassessed.
+
 ### Contraindications
 
 - **Pregnancy and breastfeeding — avoid absolutely.** Quinolizidine alkaloids as a class carry teratogenic concern, and *H. salicifolia* has folk gynaecological use, which is itself a warning flag. There is no safety data. Do not use.

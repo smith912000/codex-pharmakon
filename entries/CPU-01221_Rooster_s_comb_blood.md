@@ -36,6 +36,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The only gener
 
 **Practitioner's note.** Nothing here supports a cultivation use. The sources give tissue-level actions for a material that is hard to obtain safely, and the tradition's own modern translator says animal medicines have largely dropped out of use. The honest entry is a record.
 
+### Functional–Anatomical Correlate
+
+The entry records two tissue actions, both taken from the Tibetan Four Tantras. Clark's rendering says the blood stimulates flesh growth and maintains bone resin; the Men-Tsee-Khang edition says it heals muscle tissue and protects spongy bone. Taken together the claims map to the flesh (muscle tissue) and to the spongy bone. The seven bodily constituents of the same text run from essential nutriment to semen, with flesh and bone among them, which is the tradition's own frame for these tissues. Neither translation prints a taste, potency or humour for this blood, and the entry finds no passage tying it to the three poisons. The calf-muscle condition in the commentary portion of Clark's line falls outside the root-text claim and is not mapped here. No organ beyond flesh and bone is named. Nothing in the entry supports a cultivation use.
+
 ### Contraindications
 
 - **Hygiene and infection:** poultry blood can carry *Salmonella*, *Campylobacter* and avian influenza viruses, and blood-borne pathogens; drinking or applying untreated blood is unsafe.

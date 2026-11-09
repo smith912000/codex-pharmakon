@@ -40,6 +40,10 @@ Greek / Dioscorides (DMM): no quality (warming, cooling, drying, astringent) is 
 
 **Practitioner's note.** A cultivator does nothing with this. There is no cultivation claim, no dose and no method, only a one-line treatment of snakebite that no longer applies. The honest use of the entry is as a record, and as a reminder that the right response to a snakebite is a hospital.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one action, against snakebite, when the dried and pounded testicles are taken in a drink of wine. The organ is a testicle, a reproductive gland, but the text does not connect it to any reproductive or other system, and it names no organ of the bitten body. No taste, quality or potency is printed in the chapter. Neighbouring chapters give the same use for beaver and deer organs, and the translator's gloss adds only the word testicles for stones. The entry gives no dose and no quantity of wine. Its only action is against venom, which is an effect on the whole body rather than a named organ, so no organ system can be drawn from it.
+
 ### Contraindications
 
 - **Not a recommended practice.** This is a historical record of a Greek remedy. Nothing here is advice to use an animal organ.

@@ -54,6 +54,10 @@ No quality is printed for pig's eyes in any of the six traditions' texts read. S
 
 **Practitioner's note.** Nothing here supports a cultivation use. The record is a single Egyptian remedy for blindness whose ingredients (lead included) and route (injection into the ear) are not safe, and whose identity as pig's eyes rests on Bryan's reading of a scrambled recipe. A cultivator reads it as part of the history of eye medicine and does nothing with it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The one organ claim here is the eye, in an Ebers remedy for blindness. The mixture is delivered through the ear. As Bryan reads the scrambled recipe, the two eyes of a pig, with the water removed, are crushed with true collyrium, red-lead and wild honey and injected into the patient's ear, followed by a spoken formula. The mapping therefore runs from the ear canal (the route) to the eye (the stated target), with red-lead as a lead hazard. The entry describes the eye's gel, lens, cornea, sclera, retina and pigment in general anatomy, not as the text's own claims. No temperament, qi or heat is printed for pig's eyes in the traditions read: Dioscorides has no eye chapter for the pig, the Avicenna and Shennong rows give none, and the Sushruta boar entry concerns flesh, not eyes.
+
 ### Contraindications
 
 Do not use animal eye tissue, red-lead or any non-sterile material in or near the eye or ear. Raw animal tissue can carry bacteria and parasites. Lead compounds are cumulatively toxic. Pigs are livestock; slaughter-derived parts raise ordinary food-safety, ethical and religious-dietary questions, and no conservation status applies to the domestic pig. Anyone with sudden or progressive loss of sight needs prompt examination by an eye clinician.

@@ -53,6 +53,10 @@ General, well-established facts only. Because Vrishchikah has no secure botanica
 
 **Practitioner's note.** Vrishchikah is a name in a list. The tradition's text gives the drug a place among therapeutic groups and little more, and nothing in the record supports a cultivation use. A cultivator can learn from it only how Sushruta organises drugs into groups by action, and that some names in that classification are no longer certainly identified. Nobody should try to find a plant to match the name.
 
+### Functional–Anatomical Correlate
+
+Little to map: Vrishchikah is named only as a member of the Vidarigandha'di group. The group's metrical text says it subdues the action of deranged Vayu and Pittam and helps phthisis (Shosha), Gulma, aching of the limbs, Urdha Shvasa and cough. These are group-level claims pointing to the chest and lungs, the abdomen, and the limbs, not to Vrishchikah alone. The entry notes that the printed name differs from Vrishchikali, a separate entry in the Arkadi group, and that the two may or may not be variants. No part used, no preparation, no dose and no identification are given, and the translator prints no rasa, virya or vipaka for it.
+
 ### Contraindications
 
 - **Identity.** The drug is not securely identified; a wrong match could be harmful. Do not substitute any plant for it. [USER: verify]

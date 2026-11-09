@@ -54,6 +54,10 @@ General facts only. Reptiles commonly carry *Salmonella* and other bacteria, and
 
 **Practitioner's note.** Nothing to do. The lizard is in three traditions for plain reasons: a splinter-puller and tooth remedy in Greece, blood and dung in eye remedies in Egypt, and a worm and poison medicine in Tibet. None of the three assigns it a cultivation role, and none of the uses is safe to repeat.
 
+### Functional–Anatomical Correlate
+
+Lizard maps to the skin, the teeth, the eyelids, the gut and the body in poisoning. Dioscorides (2-69) uses the pounded head to draw out splinters and to take away anthill-shaped warts, hanging warts and corns; puts the liver in a tooth cavity to stop pain; and applies the cut lizard to a scorpion sting. Bryan's Ebers uses lizard blood with myrrh and bat's blood for trichiasis, an ingrowing eyelash, and lizard dung with incense and collyrium in eye remedies, one for pterygium; a black lizard enters a hair remedy. The Tibetan Explanatory Tantra, as Clark translates it, gives the lizard (Eremias argus) as anthelmintic and as neutralizing poisons; Men-Tsee-Khang says it cures ein disorders and poisoning, a word the entry could not read. The Unani Canon gives a weak external action on wounds and ulcers, and removes hair with the boiled tail.
+
 ### Contraindications
 
 - **Infection.** Lizards carry *Salmonella*; do not handle reptile blood or dung near eyes, mouth or wounds. Eye remedies made from animal material can blind.

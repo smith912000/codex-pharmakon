@@ -44,6 +44,10 @@ General facts only. Raw blood from wild or farmed deer can carry bacteria (*Bruc
 
 **Practitioner's note.** Nothing to do. In Ebers the stag's blood is one of five bloods in an eyelash compound, and in the Tibetan text it is a drug for a complaint. The antler entry is where the Codex's deer material for cultivators sits, and what it says is not transferable to the blood. This entry gives no reason to take deer blood.
 
+### Functional–Anatomical Correlate
+
+Ebers places stag's blood among five bloods ground with incense and collyrium and laid on the eyelid where a lash has been plucked, so the eyelid margin is the site. The Tibetan Explanatory Tantra gives deer blood as anthelmintic (Clark) or as curing ein disorders (Men-Tsee-Khang), and as halting bleeding from the womb; Clark's commentary adds prevention of hangover. Deer fat is protective against poison in both translations and anthelmintic in Clark. The Tibetan texts assign no taste, potency or humour to the blood. Dioscorides, not tagged here, gives the blood of goat, deer or hare, fried and eaten, for dysentery and discharges of the abdominal cavity, and as an antidote in wine against poison. The mapping is therefore the eyelid, the uterus, the bowel and the parasites, and the sources do not say how the blood acts on any of them. No dose is given.
+
 ### Contraindications
 
 - **Infection and prion disease.** Raw deer blood and offal can carry bacterial, parasitic and viral infections, and chronic wasting disease occurs in deer and elk in several countries; never drink raw blood or apply it to the eye or broken skin. [USER: verify specifics]

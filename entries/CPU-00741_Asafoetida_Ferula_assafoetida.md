@@ -93,6 +93,10 @@ According to PubMed, the evidence is real but thin — a modest, honest signal f
 
 **Practitioner's note.** Across all six traditions asafoetida is a corrective, not a cultivational, drug — you reach for it when the gut is cold, windy, and stalled, in seasoning-milligram doses tempered in hot fat, and you stop when the complaint clears. Nothing here supports taking it to build or conserve a vital endowment, and the one genuinely cultivational act it offers is upstream of dosing: verifying that the fetid mass in your hand is really *Ferula* resin and not the flour-and-gum counterfeit that dominates the trade.
 
+### Functional–Anatomical Correlate
+
+Asafoetida's targets are the gut and digestive system, wind states of the abdomen, and intestinal parasites. Unani (Avicenna) classes it as a hot, dry, third-degree resolvent and carminative for flatulent colic and sluggish digestion, and as an antispasmodic and emmenagogue. Ayurveda (hing) kindles agni, moves apana vayu downward and is anti-vata, which fits relief of bloating and colic. Chinese awei is pungent, bitter and warm, entering the Spleen and Stomach channels, and is said to dissolve accumulations and masses, disperse food stagnation and kill parasites. Tibetan shing kun warms and tames rlung for colic, indigestion and worms. The modern correlates are gut smooth-muscle relaxation and antimicrobial action from sesquiterpene coumarins and sulphur volatiles, and a 2025 RCT in functional dyspepsia reporting less bloating, early satiety and heartburn. The mass-dissolving claim is deflated as preclinical. Bleeding, anticoagulant and pregnancy cautions apply.
+
 ### Contraindications
 
 - **Pregnancy — caution/avoid at medicinal doses.** Traditionally emmenagogue and uterine-stimulant; culinary pinches are generally regarded as food, but concentrated/therapeutic doses in pregnancy should be avoided pending better data.

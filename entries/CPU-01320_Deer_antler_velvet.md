@@ -38,6 +38,10 @@ General, well-established facts only. Antler is the fastest-growing mammal tissu
 
 **Practitioner's note.** Nothing here supports a cultivation practice. The only sourced facts are a list row and an unverified line; the grade, if confirmed as middle, would mean a drug taken for a defined purpose and not for the long term. The Codex does not recommend taking velvet antler. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The entry's only qualities come from an unverified project-file line for the Divine Farmer's Classic, not from a text read, so every action here is provisional. As that line prints them, the antler acts on abnormal bleeding (lou xia e xue, discharge of malign blood, which the entry glosses as abnormal vaginal bleeding), on cold-heat alternation (han re, fever with chills), and on fright epilepsy (jing xian, seizures and the nervous system). It is also said to grow teeth (sheng chi), which maps to the teeth and bone, to boost qi and strengthen the will (zhi), and to retard ageing (bu lao). No organ is named for the will or for ageing. The growing velvet is cartilage-like antler tissue rich in collagen and minerals, but the entry says nothing that links those constituents to the actions. The middle grade the project file gives is also unconfirmed.
+
 ### Contraindications
 
 - **Hormone-sensitive conditions:** velvet products can contain sex hormones; people with hormone-sensitive cancers or conditions should avoid them.

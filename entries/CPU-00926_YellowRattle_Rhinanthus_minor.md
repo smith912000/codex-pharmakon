@@ -83,6 +83,10 @@ No temperament can be sourced to a named classical authority for this species (s
 
 **Practitioner's note.** Nothing. Neither tradition attests this plant; its teaching value is ecological (a root hemiparasite and meadow-management plant), not medicinal.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states no human safety or pharmacological data for Rhinanthus minor, and says that neither the Dioscorides nor the Avicenna tag is substantiated. What it does state is ecological. The plant is a facultative root hemiparasite that taps host roots through haustoria, and its prehaustoria lay down lignin-rich deposits at the host interface. Its chemistry is therefore variable and partly host-derived, which the entry gives as the reason no internal dose can be set. The family-level iridoid expectation (aucubin and catalpol) is labelled as unmeasured in this species and drawn from other plants; the entry notes these iridoids are irritant and, in quantity, laxative and mildly toxic. European folk lore records only that the rattling seed capsules signalled hay ready to cut. No organ or tissue of the human body is given a therapeutic action. The only body-facing caution is to avoid internal use, and pregnancy, lactation and children are to be avoided entirely.
+
 ### Contraindications
 
 - **Do not use internally.** There is no human safety data for *Rhinanthus minor*.

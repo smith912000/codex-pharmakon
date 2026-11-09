@@ -210,6 +210,10 @@ The Inferior Class in the *Shén Nóng Běncǎo Jīng* system does not mean infe
 
 ---
 
+### Functional–Anatomical Correlate
+
+Garlic maps most broadly onto the cardiovascular system, the immune system and the gut. In the vessels, allicin's ACE inhibition, DATS's hydrogen-sulfide vasodilation and ajoene's platelet blockade are described as lowering pressure and viscosity, and aged garlic extract is said to slow coronary calcification. Its immune reach is NK cells and mucosal defence against respiratory pathogens. In the stomach it is credited as an adjunct against H. pylori, and in the gut its fructooligosaccharides feed Bifidobacteria while it acts against intestinal parasites. The liver is mapped through glutathione and Phase II enzyme induction. In TCM it moves Qi, disperses stagnation and clears the six bowels, with the Spleen, Stomach and Lung channels; in Ayurveda it is katu and ushna, with Kapha-pacifying and cardiac actions. The cautions are bleeding with anticoagulants and antiplatelets, saquinavir levels, the stomach, the Pitta constitution, and G6PD-deficient red cells.
+
 ### Contraindications
 
 **DANGEROUS interaction — Anticoagulants (warfarin, heparin, rivaroxaban):** Ajoene's anti-platelet mechanism is additive with pharmaceutical anticoagulant therapy. High garlic intake combined with anticoagulants can produce clinically significant bleeding risk. INR monitoring is mandatory in anticoagulated patients who consume therapeutic garlic doses. Discontinue garlic supplements at least 7 days before elective surgery.

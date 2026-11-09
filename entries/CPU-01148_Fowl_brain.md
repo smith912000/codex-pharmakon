@@ -42,6 +42,10 @@ General, well-established facts only. No home remedy treats a venomous bite; tre
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The chapter is a list of remedies, mostly broths and organs of the fowl, and the Codex does not recommend taking the brain. The honest use of the entry is as a record. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides' chapter on poultry gives brains of fowl, taken in a drink with wine, for those bitten by venomous creatures, and says the brain stops discharges of blood from the meninx, which the edition glosses as the membranes of the brain and spinal cord. Its functional targets are the blood, the brain's membranes and bites. The chapter goes on to the stomach and bowels. A horn-like membrane of the cock, dried and powdered, is good for the stomach. Chicken broth restrains foul fluids and suits hot burning stomachs. Broth of old cocks purges the body, and salted, dried fowl stomach stops excessive evacuation after purging medicines. The broth is said to be good for long-enduring acute fevers, the asthmatic, the arthritic and stomachs labouring with gas, and it draws out thick, raw, gluey black fluids. The text gives no humoral quality for any part. The entry says the Codex does not recommend these uses, and that bites need emergency care.
+
 ### Contraindications
 
 - **Venomous bites:** an emergency; seek medical care immediately. Do not rely on any drink.

@@ -91,6 +91,10 @@ Because clinical dosing data do not exist for this species, the table below refl
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps the classical actions onto the kidneys and urinary tract, as a diuretic, and onto the chest, as an expectorant, but records both as traditional and untested in this species. The Galenic reading is warm and dry, and the entry calls the aquaretic and secretomotor effects of aromatic umbellifer seeds mechanistically plausible in general. The modern studied activities are antioxidant. The essential oil modulated reactive oxygen species and the antioxidant enzymes SOD and CAT in neutrophils in vitro, and leaf extract inhibited lipid peroxidation in brain tissue in vitro. The spring green is credited with aromatic-oil digestive stimulation. The skin is named for phytophotodermatitis: coumarins, presumed to include furanocoumarins, can cause burning and long-lasting pigmentation after contact with the sap and sun exposure. Seven isolated coumarins showed antiproliferative effects against carcinoma cell lines, a cell-culture finding that does not establish a human toxic dose.
+
 ### Contraindications
 
 **Furanocoumarin photosensitisation (primary safety concern).** As an Apiaceae carrying coumarins — a class that in this family very often includes phototoxic furanocoumarins (psoralens) — *Tordylium apulum* should be assumed capable of causing **phytophotodermatitis**: contact with the sap or plant, followed by UV/sunlight exposure, can produce burning, blistering and long-lasting hyperpigmentation. Foragers handling large quantities of the fresh plant in sun are at particular risk. Internal photosensitisation is also theoretically possible. Avoid strong sun exposure after heavy handling or ingestion.

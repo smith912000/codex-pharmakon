@@ -55,6 +55,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a urinary, diarrhea and thirst drug in the Tibetan texts, with no preparation and no dose, and the plant behind the Tibetan name is uncertain. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Clark's root-text line for lcham.pa names urinary retention, diarrhea, thirst and, in the commentary, kidney fever and the drying of wound pus. These map to the urinary tract, the kidney, the bowel and the surface of a wound. The commentary adds the male type's flower against nocturnal emission, a male reproductive state; the root pa.la for consumption and anorexia; and, in chapter 21, the leaf among oedema medicines. Men-Tsee-Khang's running text gives the matching sentence, 'clears obstruction of urine, relieves thirst and stops diarrhea'. The Divine Farmer's Classic, for winter mallow seed, grades it upper, sweet and cold, says it governs cold and heat in the five zang and six fu organs, and says it frees the urine and treats the five forms of strangury. Its long-use clause on firming bones and growing flesh is cut off in the transcription. The sources give no preparation, and the identity is uncertain, so the organ profile attaches to the Tibetan name and not to Malva verticillata alone.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Urinary retention, oedema and diarrhea need medical assessment; no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Because the identity is uncertain, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

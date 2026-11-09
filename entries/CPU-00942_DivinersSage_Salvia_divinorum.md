@@ -59,6 +59,10 @@ On the **risk** side, the clinical literature is cautionary. According to PubMed
 
 **Practitioner's note.** Nothing. No cultivation role is attested under either tag; the Mazatec curandero practice sits outside both codes.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives no organ or body-system effects. It states that salvinorin A acts at the kappa-opioid receptor, the principal receptor for dynorphin peptides, and that KOR/dynorphin signalling counter-modulates dopaminergic reward pathways, which in preclinical models tends to produce aversion and anhedonia. The reported acute experience is strongly dissociative, with distorted perception of body and space and loss of contact with reality. The entry notes possible precipitation of psychiatric symptoms, adverse effects on cognition, and risk of falls and injury from disorientation. No human therapeutic indication is demonstrated. No tradition assigns it a humoral or energetic temperature, and the Mazatec use is recorded as oracular and divinatory, with no organ mapping given.
+
 ### Contraindications
 
 - **Legal status — restrictive and patchwork.** The plant and/or salvinorin A are **scheduled, banned, or otherwise controlled in many U.S. states, in Australia, and in several European countries**, while remaining unscheduled or legal elsewhere. Status changes and varies sharply by jurisdiction; possession or supply may be a criminal offence where you are. Verify current local law before any handling. (No jurisdiction-by-jurisdiction "where it's legal" list is provided by design.)

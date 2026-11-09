@@ -39,6 +39,10 @@ Avicenna gives no heat or dryness for it; only the qualities of the food: little
 
 **Practitioner's note.** Nothing to practise. It records an ordinary food as poor food.
 
+### Functional–Anatomical Correlate
+
+Little to map: the passage states that the paunch, karsh, is little in nourishment, bad in chyme, and slow to digest. It compares the viscera with one another, saying that though their digestion is good they are more nourishing than the lung. The bellies of birds, when digested, are called the best food, especially hens' and geese. The organs named are the digestive tract and the lung, the latter only as a comparison, with no action given on either. No temperament, dose, preparation, humour or faculty is given, and the animal is not named. The text describes ordinary food and nothing else about the paunch.
+
 ### Contraindications
 
 - Hygiene: tripe is a high-risk raw material for bacterial contamination if not properly cleaned and cooked.

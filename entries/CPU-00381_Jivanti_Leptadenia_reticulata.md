@@ -80,6 +80,10 @@ According to PubMed, the modern evidence base is real but early-stage and domina
 
 **Practitioner's note.** In the classic it is mainly a food herb and a group ingredient, not a stand-alone elixir. Any long-term tonic use rests on later texts and was not confirmed here.
 
+### Functional–Anatomical Correlate
+
+The entry maps Jīvantī onto the whole depleted body, with tissue (bṛṃhaṇa, dhātu) and ojas (vital essence) as the main targets, and balya (strength) and rasāyana as restorative actions. Wasting (kṣaya), emaciation, tuberculosis, haemorrhage and post-surgical convalescence are named indications. The breast and lactation are a specific target: stanyajanana (galactagogue) action is recorded in Caraka and in folk use. The eyes are another: cakṣuṣya (eye-tonic) action for night-blindness, burning and tired eyes, and Pitta-heat of the head. Cough, dyspnoea, fever and burning sensation (dāhapraśamana) are listed as traditional uses. Vṛṣya (reproductive tonic) is named for reproductive vitality. Doṣa action is Vāta-Pitta pacifying, with a possible mild Kapha increase in excess, and the entry names no specific srotas. Modern evidence is preclinical and mostly crude extracts; the galactagogue and rasāyana claims are traditional and not clinically shown in the retrieved literature.
+
 ### Contraindications
 
 - **Kapha excess / āma (undigested toxin) states:** its heavy, sweet, unctuous nature can aggravate Kapha, congestion, and sluggish digestion — use cautiously in obesity, oedema, and low agni.

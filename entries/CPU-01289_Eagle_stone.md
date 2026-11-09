@@ -48,6 +48,10 @@ General, well-established facts only. Iron oxide concretions are common in sedim
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The eagle stone is a rattling nodule that Dioscorides records as an amulet for childbirth, a test of a thief and an ointment for epilepsy. The Codex does not recommend any of those uses. What the chapter teaches is how a hollow stone is recognised, and how a physician reports what is said of a stone without vouching for all of it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Uterus: the stone is tied on the left arm to prevent miscarriage when the womb is slippery, and in delivery it is moved to the thigh so the woman brings forth without pain. Those sites map to the uterus in pregnancy, and to the pelvic birth passage and the thigh in labour. Brain: pounded into a warming wax ointment, the stone is said to help epilepsy considerably, which maps to the brain and the nervous system. Throat and gut: as a test for a thief, the stone put into bread, or boiled with meat, is said to stop the suspect swallowing, which maps to the throat and gullet, and to the stomach that receives the food. The text gives no other organ, temperament or humour for the stone. Modern anatomy therefore maps the eagle stone's claimed sites to the uterus, the pelvis and thigh, the brain, the throat and the stomach.
+
 ### Contraindications
 
 - **Pregnancy and labour:** a stone tied to the arm or thigh does not prevent miscarriage or ease delivery; bleeding, pain or slow labour needs a midwife or doctor, not an amulet.

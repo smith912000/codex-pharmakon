@@ -60,6 +60,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 **Practitioner's note.** Nothing beyond a bitter for bile-heat disorders under a physician; the tradition gives no cultivation role.
 
+### Functional–Anatomical Correlate
+
+The entry maps chirata chiefly onto the liver and gallbladder, the digestive tract and the blood. Its bitter principles, secoiridoid glycosides such as amarogentin and swertiamarin, are described as stimulating digestion and bile flow, the cholagogue and hepatoprotective action. In Ayurveda it is Kiratatikta, a bitter, cooling, fever-lowering herb (jvaraghna), digestive (dipana, pachana) and blood-purifying (raktashodhaka), used for jaundice and inflammatory hot-blood skin conditions. Unani calls it chirayata, cold-dry, a febrifuge and deobstruent for the liver. Tibetan texts place it against bile fever (mkhris pa heat) and bile disorders. In Traditional Chinese Qi-tier terms it clears damp-heat from the liver and blood. The entry also gives a metabolic use in diabetes, linked to xanthone hypoglycaemic activity and marked as unverified, and antimalarial activity for intermittent fever. Weak digestion, loss of appetite and worms are named digestive targets. Pregnancy and deficiency-cold digestion are contraindicated, and the entry notes hypoglycaemia with antidiabetic drugs.
+
 ### Contraindications
 
 - **Pregnancy — caution/avoid.** Bitter, uterine-reputation; medicinal use cautioned. [USER: verify.]

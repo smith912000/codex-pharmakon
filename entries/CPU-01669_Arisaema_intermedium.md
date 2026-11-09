@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a hot-tasting, anthelmintic and bone-setting drug and the plant of a stew in the Tibetan texts, and its species is not settled. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts name several systems for this drug. Clark 1995 gives, outside his brackets, a root that is anthelmintic and removes bone excrescences, so worm infestation and bone are the conditions named. Inside the brackets, a fruit is said to be beneficial in poisoning. A separate Clark sentence on a stew of Typhonium, the first of his four binomials, says it cures wind disorders, dries wounds and increases phlegm and bile; that sentence belongs to Typhonium and is not assigned here to the drug. The Men-Tsee-Khang text says cooked Dhawa pacifies loong disorders and dries up abscesses but aggravates baekan and tripa disorders, and that the root removes bone fragments from comminuted fractures. Both texts place the drug in the hot-tasting group, and neither prints a power in the root layer. The Men-Tsee-Khang glossary gives a different Arisaema for the name, so the species is not settled. No preparation, dose or clinical study is given.
+
 ### Contraindications
 
 The sources read print no warning, except that the Men-Tsee-Khang text says cooked *Dhawa* aggravates *baekan* and *tripa* disorders (line 3046). Plants of the arum family are generally known to irritate the mouth and skin when raw, a general fact about the family and not a finding about this plant, and the botanical identity is uncertain, so no plant should be gathered or used on the strength of this entry. Worm infestation, fractures and poisoning need medical care. No safety information for pregnancy was read. [USER: verify]

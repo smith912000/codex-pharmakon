@@ -54,6 +54,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry's one organ claim for antelope dung is the eye. In Bryan's chapter on diseases of the eyes it is one ingredient in a paint for bleary eyes, beaten up with myrrh, onions, verdigris, Cyperus-from-the-North, clear oil and the entrails of the qadit-animal, painted on with a vulture's feather. The eye and its lids are the mapped site, with bleary eyes as the complaint. The text gives no humour, temperament or qi for the dung, no quantity, and no reason for choosing it. Bryan's remark that the poor used an ass in place of an antelope and vulture is about cost, not about the dung's action. The Egyptian material frames the complaint as one for the eye and not for the person's vital constitution, and no spell is printed with this mixture. The entry adds only infection and injury risk when dung and verdigris are applied to the eye.
+
 ### Contraindications
 
 - **Eye safety:** dung, verdigris and other raw ingredients applied to the eye risk infection and injury; this mixture must not be reproduced.

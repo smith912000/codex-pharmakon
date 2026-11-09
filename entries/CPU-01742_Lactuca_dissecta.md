@@ -53,6 +53,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a purgative in the Tibetan texts, with no preparation and no dose, and the plant behind the Tibetan name is uncertain between two texts. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry records one action for this drug, purging. Clark's root-text line says it 'purges lymph disorders', and Clark's chapter 21 places it in the category of medicines inducing purgation. Men-Tsee-Khang's running text, for the Tibetan name Ngonbu, says it 'cleanses chhuser disorders' and lists it among the purgatives. Neither text names an organ, tissue or body system that the purge acts on, and neither gives a taste, power, part used or preparation. Clark's commentary describes only the plant: it grows in high meadows, has a green furry leaf spreading on the ground, a blue bell-shaped flower with a reddish tint, and milky sap. The Tibetan terms lymph disorders and chhuser disorders are not modern diagnoses, and the entry does not map them onto the gut, the lymphatic system or any other system. The plant behind the name is uncertain across three Lactuca names and a different genus in the glossary.
+
 ### Contraindications
 
 The sources read print no warning for this drug. It is recorded as a purgative, and purgatives can cause harm, particularly dehydration; no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Because the two texts point to different plants, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

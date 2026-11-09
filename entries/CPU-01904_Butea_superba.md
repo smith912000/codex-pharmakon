@@ -45,6 +45,10 @@ General, well-established facts only. *Butea superba* is a woody climber of the 
 
 **Practitioner's note.** A name on a list, with no use stated. The Samhita text on disk gives no grade, no preparation and no dose, so the entry offers a cultivator nothing to practise.
 
+### Functional–Anatomical Correlate
+
+Little to map: Appendix No. 3 gives one gloss, 'Butea Superba', in a list of Latin names, with no description, English name, part used or use. The Samhita proper does not print the Latin name. The appendix states no indication, preparation, dose or duration, and assigns no rasa, virya, vipaka, rasayana or vajikarana status. No ojas action and no shodhana is described. The text therefore names no organ, tissue, channel or dosha for the plant and states nothing about any body system. Butea frondosa appears separately in the same appendix as a different glossed plant, so it adds no body-system claim. The only plant detail given is that the species is a climber with a tuberous root, and nothing is said about that root or its action on the body. No body system is mapped from this entry.
+
 ### Contraindications
 
 - **No safe-use statement exists in the sources retrieved.**

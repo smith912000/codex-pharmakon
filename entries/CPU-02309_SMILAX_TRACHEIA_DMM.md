@@ -51,6 +51,10 @@ General, well-established facts only. *Smilax aspera* is a prickly evergreen cli
 
 **Practitioner's note.** A prickly climber named in an antidote claim. Nothing supports cultivation use. The useful lesson is the one the text itself teaches: identify by description, and do not trust a hearsay antidote.
 
+### Functional–Anatomical Correlate
+
+The chapter gives the plant one use, as an antidote, and names no organ it acts on. A decoction of the leaves and fruit is taken as a drink, beforehand or afterwards, against deadly poisons. Dioscorides also records, as hearsay (it is said), that the herb beaten and given to drink to a newborn small child prevents hurt from any poisonous medicine. The text names no organ, tissue or system, and gives no warming, cooling, astringent or drying quality; the only property it gives is the taste of the fruit, described as somewhat gently biting. The root is described as hard and thick, but the chapter names leaves and fruit as the parts used. The Codex maps no body system to it. The claim concerns poisoning, which the entry treats as an emergency, and it is a record of an old herbal's claim, not evidence of an effect on the body.
+
 ### Contraindications
 
 - **Poisoning.** An emergency; seek medical care. Do not rely on any plant decoction.

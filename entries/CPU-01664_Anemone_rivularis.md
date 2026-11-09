@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a hot, bitter drug for necrosis, digestive heat, lymph and cold phlegm in the Tibetan text, and nothing more can be said from it. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan text, as Clark 1995 gives it, names three actions outside his square brackets: the drug halts necrosis, increases digestive heat and drains lymph. Digestive heat maps to the digestive system and lymph drainage to the lymphatic system, while necrosis names a tissue state rather than an organ. Inside the brackets, which Clark's preface says come from commentary, the drug is given hot and bitter tastes and is said to remove cold tumours. The hot taste is also listed in the group of hot-tasting medicines and in the cold-phlegm class, but those lines name the drug without a function. The text prints no power for it in the root layer. The identity is uncertain between two binomials and a bare genus name, and the Codex does not state the species. No preparation, dose or clinical study was read, so these correspondences are the text's claims alone.
+
 ### Contraindications
 
 The sources read print no warning. The botanical identity is uncertain (two binomials and a bare genus name in Clark), so no plant should be gathered or used on the strength of this entry. Plants of the buttercup family are generally known to irritate the skin and mouth. Necrosis and tumors need medical care. No safety information for pregnancy was read. [USER: verify]

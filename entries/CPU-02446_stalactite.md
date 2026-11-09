@@ -52,6 +52,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 **Practitioner's note.** Nothing to take from it for cultivation. It is a stone of uncertain identity that the tantra lists for fractures and lymph; no preparation is given. It is not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Tibetan rGyud-bzhi gives the white frog's-back stone the same powers as the brown one, and these map to the lymphatic system, the skeleton and the brain. Clark's tantra text says it dries and extracts lymph, maintains bone resin, heals fractures and sustains the brain. The lymph is the tradition's chhuser, so drying it maps to the lymphatic vessels and the fluid they carry. Bone resin maps to the marrow and bone tissue, and Men-Tsee-Khang places the action in spongy bone, meaning the cancellous bone inside the skeleton, and in joining fractured bones. Sustaining the brain maps to the brain and central nervous system, and Men-Tsee-Khang adds stopping cerebro-spinal fluid discharge, which maps to the spinal fluid and its membranes. The stupa and lotus markings describe appearance and map to no site. No wind, bile or phlegm site is printed for this stone, and no other organ is named.
+
 ### Contraindications
 
 - **Unsettled identity:** the glosses stalactite, hematite and pyrolusite name different minerals; if manganese-bearing, dust is hazardous to inhale.

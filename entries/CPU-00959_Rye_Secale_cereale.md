@@ -88,6 +88,10 @@ No firm classical species-level energetic citation is established here. Within t
 
 **Practitioner's note.** Nothing. Rye as bread grain is food, and ergot-contaminated grain is a poison; neither tradition offers a cultivation use.
 
+### Functional–Anatomical Correlate
+
+Rye's entry maps the grain, the ergot and the pollen extract onto different body systems and insists they be kept apart. The whole grain acts on the bowel: the entry reports an RCT in which whole-grain rye bread shortened transit, softened stool and raised faecal butyrate, which it links to colonic metabolism. The pollen extract (Cernilton) is claimed for the prostate and lower urinary tract, with modest self-rated nocturia and symptom relief but no change in flow rate, residual volume or prostate size. The ergot sclerotium, a Claviceps contaminant, acts on the vasculature, producing vasoconstriction and gangrenous limb ischaemia in ergotism, and on the nervous system, producing convulsions and psychosis. Purified ergometrine acts on the uterus for postpartum haemorrhage, and ergotamine on migraine vasculature. The humoral reading of rye as cool and dry is inferred from the grain group, not attested, and the CM and DMM tags are placements rather than species citations. For coeliacs the secalin gluten is a small-intestinal hazard.
+
 ### Contraindications
 
 - ⚠️ **Ergotism from contaminated grain** — never consume rye (or any cereal) with visible dark ergot sclerotia; gangrenous (vasoconstrictive limb ischaemia) and convulsive (seizure/psychosis) forms can be fatal. This is a food-safety hazard, managed by clean grain.

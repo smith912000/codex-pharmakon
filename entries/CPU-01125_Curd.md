@@ -48,6 +48,10 @@ General, well-established facts only. Curd is a fermented dairy food; its protei
 
 **Practitioner's note.** Nothing here is a cultivation practice. Curd is a food whose use the text governs by season and by humour: avoided in spring, summer and autumn, allowed in the rains and the cold months, and avoided in an ulcer. The honest use of the entry is as a record of those rules. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Sushruta (Sutrasthana ch.45) calls milk curd demulcent, heat-making, spermatopoietic, vitalising and curative in Pinasa (nasal catarrh), intermittent fever, dysentery, poor appetite, difficult urination and general cachexia. Sweet curd increases the slimy secretions of the organs, fat and Kapham; acid curd deranges Pittam and Kapham; extremely acid curd vitiates the blood. Cow's curd subdues Vayu; woman's curd is especially beneficial to the eyes, and mare's curd injurious to them; ewe's curd aggravates Vayu, Kapham and piles. Takram, the whey, is curative in oedema, dysentery, diarrhoea, jaundice, piles, enlarged spleen, abdominal glands, poor appetite, thirst, vomiting and colic. Its sediment, mastu, is a speedy purgative that purifies the internal channels. Curd of boiled milk increases strength and the root principle of life. Mapped systems: the nose and sinuses, the blood, the spleen and abdominal glands, the bowels and urinary tract, the eyes, appetite and digestion, and reproductive (spermatopoietic) function.
+
 ### Contraindications
 
 - **Dairy allergy and lactose intolerance:** curd retains milk protein and some lactose.

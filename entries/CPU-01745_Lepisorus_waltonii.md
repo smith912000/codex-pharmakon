@@ -53,6 +53,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a wound and pus drug in the Tibetan texts, with no preparation and no dose, and the species behind the Tibetan name differs between the two editions. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Clark's line for brag.spos gives this drug's organ and tissue terms in the root-text layer: it 'heals wounds, dries pus, sustains bone resin'. Its commentary adds that it 'cures channel fevers and is beneficial for injuries and enlargement of the diaphragm', so the diaphragm (the breathing muscle in modern terms) is the one organ the commentary names. Men-Tsee-Khang's running text, for the spelling Drakpoe, says it 'treats wounds, dries up pus and protects spongy bone'. This agrees with Clark on wounds and pus and differs on the bone term, which the Codex does not treat as one term. The entry gives no taste, power, part used or preparation. Clark's commentary describes the leaf as swordlike, narrow and yellow, with four lobes at the base covered with dewdrops, and records in an oral remark that at least two similar subtypes have been classified. The rank queen fern among three ferns is a ranking and not a quality. The species here is Clark's first name, and the glossary's species differs, so the mapping belongs to the Tibetan name.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Wounds, pus and fever need medical assessment; no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Because the editions differ on the species, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

@@ -36,6 +36,10 @@ Calcium carbonate is a common antacid and calcium source; quicklime and slaked l
 
 **Practitioner's note.** A lower-grade drug in the Chinese scheme: for a defined complaint and a short course, and the tradition's own grading is the warning. Lime burns tissue, so for a cultivator this entry is a record of how the Classic placed a caustic stone among the drugs that "attack disease". No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Divine Farmer's Classic (SBJ) places this stone on the surface of the body. Its named sites are the skin and subcutaneous tissue (flat abscesses, scabs, malign sores, and the itching of dead muscles, which Yang glosses as formication), the eyebrows (falling eyebrows, mapped to the hair follicles of the brow), and the pigmented and growing lesions of the skin (black moles and polyps). The lai disease it treats is leprosy in Yang's footnote, a disease of skin and peripheral nerves. Hemorrhoidal worms place a claim on the anal canal and rectum, though Yang notes the phrase may mean healing hemorrhoids. Heat qi is a whole-body pattern without a named organ. The entry gives no humoral or doshic term, and its grade is acrid and warm. In modern anatomy the sites are the epidermis and dermis, the subcutaneous tissue, the peripheral nerves, the brow hair follicles, and the anal canal and rectum.
+
 ### Contraindications
 
 Quicklime and slaked lime are caustic: they burn skin, eyes, mouth and gut, and swallowing them is dangerous. Raw limestone dust irritates the lungs. Lime should not be applied to moles, polyps or sores; skin growths and persistent sores need medical diagnosis. Leprosy (Hansen's disease) is a curable infection treated with modern antibiotics, not a condition for a mineral remedy. The Classic's grade for this class says it cannot be taken for long. [USER: verify]

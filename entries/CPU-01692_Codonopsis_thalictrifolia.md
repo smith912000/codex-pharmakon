@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] Because no act
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant, or even a use for it. It is a glossary name paired with a binomial by column position. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the sources state only that the Men-Tsee-Khang glossary lists a drug named Looh dhue dorje, paired by column position with the binomial Codonopsis thalictrifolia. No body system, organ, tissue, action or indication is printed for it in the lines read. Clark's materia medica run does not print the name, and the Men-Tsee-Khang running text of chapters 19 to 21 does not mention it, so no taste, power or site of action can be read. The Tibetan frame of the entry is therefore a name only. Nothing on the glossary line links this drug to any organ, humour, channel or energetic site, and the Codex does not supply one. The identification itself rests on order within the glossary and has not been checked, so the absence of any mapped correlate should be read as a gap in the sources, not as a finding about the plant or about the body.
+
 ### Contraindications
 
 The sources read print no warning for this drug and no use. The identity rests on a column position, so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

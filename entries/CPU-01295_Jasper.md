@@ -44,6 +44,10 @@ General, well-established facts only. Jasper and chalcedony are silica, which is
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. Jasper is in Dioscorides as a stone to look at and wear, and the chapter's one use is hearsay about childbirth that the Codex does not recommend relying on. Wearing a stone as an ornament is a personal choice, not a treatment. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides records jasper as said to speed delivery in childbirth when tied to the thigh, so the sites he names are the thigh and, through labour, the uterus and birth passage. The chapter lists the stone's looks (emerald-like, crystal-like, smoky, air-coloured, glittering with white partitions) but assigns it no organ, taste, heat or moisture. The Unani Canon entry, citing Galen, says a necklace of jasper of stomach length, worn, benefits the gullet and the stomach, and the entry adds that it is very beneficial to the stomach. The Canon gives no temperament, no heading for the head or eye, and no link to innate heat, radical moisture or prolonging life. Dioscorides' use is stated as hearsay and the Unani use is by wearing, not swallowing, so both map as external contact with the body.
+
 ### Contraindications
 
 - **Childbirth:** labour and delivery need a midwife or clinician; do not rely on a stone, amulet or any tied object to hasten or ease delivery, or delay seeking help.

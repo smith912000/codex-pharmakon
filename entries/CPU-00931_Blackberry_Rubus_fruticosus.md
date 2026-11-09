@@ -68,6 +68,10 @@ Cold and dry (Galenic); cooling, drying, and strongly astringent (Western energe
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps blackberry to the mucous membranes and the weeping surfaces they cover. Dioscorides' leaves and shoots, chewed or gargled, strengthen the gums, heal mouth ulcers and treat throat complaints, while a decoction holds back the belly and the menstrual flux. Culpeper adds loose bowels and bloody flux, sore mouths, swollen gums, quinsy, and wounds, running sores and haemorrhoids treated outwardly. Avicenna's Unani scheme classes it as cold, dry and astringent, a stopper of fluxes that strengthens slack, weeping tissue. The Assyrian record names bramble-like thorn plants for flowing complaints, but the identification is unverified. The modern correlate is tannin and ellagic acid precipitating surface proteins and mucosal glycoproteins, a local effect on the gut lining, mouth, throat and skin. The entry grades that STRONG at the chemical level and NULL for clinical trials. Its safety section names iron absorption, where the same tannin chemistry reduces non-heme iron uptake, and states that the ripe fruit is a different, nutritive register.
+
 ### Contraindications
 
 - **Iron-deficiency anaemia / low iron status:** tannin astringents inhibit non-heme iron absorption; separate from iron-rich meals and supplements, and avoid habitual high-dose use (evidence above).

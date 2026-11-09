@@ -62,6 +62,10 @@ Based on articles retrieved from PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps ju hua chiefly to the eyes and the liver. In the Shennong tradition (TCM) it enters the Lung and Liver channels, clears the Liver and brightens the eyes, pacifies Liver yang, disperses wind-heat, and relieves wind-dizziness, swelling, pain and tearing; the white cultivar is favoured for the eyes and the yellow for heat. Avicenna's Unani frame places it as a refrigerant resolvent for hot disorders of the head and eyes, relieving headache from hot vapours. The Tibetan rGyud-bzhi uses it against heat and Liver and eye disturbance. Ayurvedically it is a Pitta-pacifying profile, by inference only. The entry's modern link is oxidative and inflammatory stress in the eye and liver, with luteolin and chlorogenic acids, supported only by in vitro and Drosophila work; there are no human trials. Its cold quality may aggravate a cold, weak digestion.
+
 ### Contraindications
 
 Chrysanthemum flower tea is generally very well tolerated as a food-grade beverage. Cautions:

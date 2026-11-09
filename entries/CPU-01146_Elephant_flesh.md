@@ -46,6 +46,10 @@ General, well-established facts only. The *doṣa* terms (*vayu*, *pittam*, *kap
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The text classifies elephant flesh as a food with heating, parching effects, and the two *rasayana* mentions of elephant strength are similes, not recipes. The Codex does not recommend the meat. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Per the entry's Sushruta passage, the flesh of the elephant is a food with effects on the three doshas and on the body's heat and moisture rather than on a named organ. The text says it tends to produce extreme parchedness in the system and is liquefacient and heat-making in its potency. It vitiates pitta and destroys vata and kapha, and it has a palatable acid and saline taste. Its marsh-dwelling shore group, the Kulacharas, is described as cooling and sweet and as increasing kapham, which the entry notes contrasts with the elephant's own description and does not resolve. The text names no organ, tissue or disease for the flesh. The only body system it implicates is the whole organism's fluid and heat balance, described in Ayurvedic terms. The Codex does not recommend eating elephant meat.
+
 ### Contraindications
 
 - **Conservation and law:** elephants are protected in law in most of their range, and trade in their parts is restricted internationally; do not obtain any elephant product.

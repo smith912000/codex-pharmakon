@@ -59,6 +59,10 @@ The Shennong text gives no preparation and no dose. The Mingyi layer gives only 
 
 **Practitioner's note.** A lower-grade drug for defined, severe swelling and accumulation. The tradition's own grading is the warning, and nothing in the record supports any cultivation use. A cultivator should not use it.
 
+### Functional–Anatomical Correlate
+
+The classic lists swelling and fullness with acute pain (肿满急痛), accumulations and gatherings (积聚), wind stroke (中风), skin pain (皮肤疼痛) and counterflow vomiting (吐逆), along with gu poison and the twelve waters (十二水). Swelling and fullness, and the vomiting, point to the abdomen and stomach in modern anatomy terms. Skin pain points to the skin. Accumulations and wind stroke name no organ. Yang's footnote reads the twelve waters as all categories of swelling. The energetic terms are bitter and cold (味苦，寒), and no channel or organ is assigned. The part named is the root, gathered in the twelfth month and dried in the shade. The entry describes the drug as drastic and irritant, and no organ beyond these is named.
+
 ### Contraindications
 
 - **TOXIC AND IRRITANT.** The latex and root of Euphorbia species injure skin, eyes and gut. Do not ingest or handle without protection.

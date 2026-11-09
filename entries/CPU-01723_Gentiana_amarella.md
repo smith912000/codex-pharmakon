@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a drug for liver and bile fever in the Tibetan texts, with no preparation and no dose, and its Latin name is one of two that Clark offers, the first from another family. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Clark's rGyud-bzhi entry says this drug cures liver fever and bile fever, and the Men-Tsee-Khang text says it cures hot disorders of the gall bladder and liver. The organs the entry names are therefore the liver and the gall bladder, with bile as the humour the Tibetan terms concern. Clark's commentary layer describes habitat, leaves, flowers and stems and prints no taste, power or post-digestive taste, so no energetic property is available to map. The identification is unsettled: Clark's two Latin names point to a gentian and to a saxifrage of another family, and the commentary does not say which it describes, so a finding about one would not bear on the other. The sources give no part used, dose or route, and no tissue-level action beyond the organ names above. The Tibetan terms are not modern diagnoses, and no modern liver or biliary finding is attached to this entry. Liver disease is a medical matter for assessment.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The identity is open between plants of different families, liver disease needs medical care, and no preparation or dose is given, so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

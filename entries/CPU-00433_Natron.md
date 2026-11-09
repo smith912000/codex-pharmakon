@@ -64,6 +64,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+Bryan's Ebers passages place Natron mainly on the skin and the surface of the body. It appears in poultices and plasters for the head (a headache), the limbs (made supple), the skin (itching and a body wash for beautifying), and the thigh (a poultice said to heal at once). A remedy under the nervous system heading, for the met, includes it, and a drink of it with milk and wormwood is given for a thigh complaint filed under the heart and circulatory system. A worm-cake of herbs and cow's bile is for tapeworm, filed under the abdomen. Natron-water is sprinkled to drive out vermin. In modern anatomy terms the mapped sites are the scalp and head, the limbs, the skin, the vessels of the thigh, the nerves, the heart, and the abdomen and gut. The eye appears only under Soda, which the entry does not count as Natron.
+
 ### Contraindications
 
 - **Alkalinity:** natron-type salts are caustic in strong solution; contact with eyes, broken skin or mucous membranes causes injury, and swallowing a concentrated solution is dangerous.

@@ -46,6 +46,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing here supports a cultivation practice. Horseradish may be grown as a hardy kitchen perennial, but the texts read do not say that the plant they describe is the modern one, and two of the three tags are unsupported.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that Dioscorides (2-138) describes the wild radish, armoracia, with a slender, soft, somewhat sharp root and leaves boiled as vegetables, and calls it warming, diuretic and burning. The entry itself notes the identification with horseradish is the translator's and not secure. It names no organs or body systems beyond that diuretic quality (urinary system), and it records no Assyrian or Avicennan locus. No clinical studies were retrieved. The contraindication section, which is not a source claim, notes that raw root and fumes irritate the mouth, eyes and airways and advises caution with active stomach ulcers and in pregnancy. Its only energetic statement is the Dioscoridean warming quality, with no degree printed. No medicinal action is claimed in the Codex.
+
 ### Contraindications
 
 Horseradish and its relatives are strong mucosal irritants, so raw root and fumes can burn the mouth, eyes and airways. Keep amounts to ordinary culinary use, and avoid it with active stomach ulcers or when pregnant unless a clinician advises otherwise. [USER: verify] Dioscorides' own word for the plant is "burning".

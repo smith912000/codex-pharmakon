@@ -61,6 +61,10 @@ According to PubMed, the modern evidence is **preclinical (animal)** and centres
 
 **Practitioner's note.** Nothing. It is a group-listed drug against kushtha, kapha and meha, with no rejuvenative use recorded.
 
+### Functional–Anatomical Correlate
+
+Salasara acts on the skin and wounds, the bowel, the fat and Kapha balance, and inflamed tissue. The resin (rala, sarja-rasa) is classed as vranaropana (wound healing), kushthaghna (anti-dermatosis), grahi and stambhana (astringent, anti-diarrhoeal, used in atisara dysentery) and shothahara (anti-inflammatory), pacifying Kapha and Pitta with a cooling virya. The heartwood, as a Salasaradi group member, is classed as lekhana and kapha-medohara, acting on deranged fat and Kapha and on prameha and pandu. Dhupana (fumigation) is its action on the air. The modern evidence is a single rat study of a 70% ethanolic resin extract at 100-300 mg/kg, which showed anti-inflammatory and antipyretic effects in carrageenan oedema, granuloma and yeast-fever models. PubMed assigned no DOI to that record. The entry grades the evidence preclinical and traditional. Resin dressings need a patch test, and incense should be avoided in asthma.
+
 ### Contraindications
 
 Resin dressings: patch-test; discontinue on irritation. Incense/dhūpa smoke — avoid in asthma and respiratory sensitivity. Internal use of heartwood/bark decoctions only under qualified supervision; high tannin content can cause constipation and gastric upset. Pregnancy/lactation: internal use best avoided without guidance.

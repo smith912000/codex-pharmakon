@@ -51,6 +51,10 @@ General, well-established facts only. *Achyranthes aspera* is a common weedy her
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. Apamarga appears in the Sushruta text as a working drug of the nose, the bitter group and the alkali recipe. The Codex does not recommend it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+In the Sushruta passages read, apamarga (Achyranthes aspera) acts on the nasal passage, on fissures, and through the ash and alkali preparations the text describes. As an errhine, a drug given into the nose, it is used in the nasal passage, and the text counts it among the bitter-group drugs, the only quality the entry records; no rasa, virya or vipaka is printed. Its burnt ash is used to prepare an alkali, and sticks or rods are placed into fissures for expansion, which the entry classes as surgical use. Seed juice given with madhuka-sara appears in a Chikitsa footnote, and a juice mixed with shirisha and honey appears in Uttara ch. 54, with no organ named. The entry assigns no ojas, tejas or prana role and no rasayana use. Preparations are listed, but no dose is printed, and the entry warns that plant-ash lye is caustic and must not be used on the body.
+
 ### Contraindications
 
 - **Alkali from ash.** Plant-ash lye is caustic; do not use it on the body.

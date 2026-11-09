@@ -51,6 +51,10 @@ Nothing can be said of this drug's pharmacology because the plant is not identif
 
 **Practitioner's note.** Nothing here makes this a cultivation substance. It is a name in a list whose identity is open.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only a group-level virtue. The Sushruta Samhita lists white Surasa second in the Surasadi group, and says the group as a whole acts as a vermifuge and an aseptic agent, subdues the deranged Kapham, and proves beneficial in catarrh, non-relish for food, asthma and cough. No line is given to white Surasa alone. No part used, organ, tissue or body system is named for it, and the plant is unidentified, so no organ can be tied to the drug itself. Kapham is the tradition's own term, left untranslated in the entry. The plain Surasa is discussed in other chapters, but those lines are not transferred to this drug, so nothing further can be mapped from the entry.
+
 ### Contraindications
 
 - **Identity.** The plant is unidentified. Do not substitute any basil or other herb on the strength of the name.

@@ -111,6 +111,10 @@ Filed energetically alongside tarragon and sweet basil — its actual phenylprop
 
 **Practitioner's note.** Nothing. It is a sweet, aromatic tea and sweetener, with no cultivation status in either tradition as tagged.
 
+### Functional–Anatomical Correlate
+
+The entry maps the plant's sweet warm aromatic action onto the chest, airways and skin. Plains uses are for cough, chest complaints and fever, with the tea used as a diaphoretic to bring on sweat (skin surface and sweat response), and as a sweetener for other medicines, a palatability role on the taste and oral route. The entry ties the sweetness and relaxing character to estragole, and the lifting character to limonene. Its one wound finding is topical essential oil on mouse skin wounds, with improved closure, tensile strength and collagen markers and reduced MDA and TNF-alpha, a preliminary animal result. The liver is the entry's main target for harm: estragole is activated by hepatic cytochrome P450 and sulfation into DNA adducts, and rodent liver carcinogenicity follows. A breast cancer cell result is noted but not treated as anticancer activity. No human respiratory data exist, and pregnancy, infants and liver disease are flagged.
+
 ### Contraindications
 
 - **⚠️ ESSENTIAL OIL, INTERNAL USE — ABSOLUTELY CONTRAINDICATED.** At 88–95% estragole ([DOI](https://doi.org/10.3390/plants10061061), [DOI](https://doi.org/10.3390/ijms24010828)), internal use of this oil is functionally the ingestion of near-neat estragole, a genotoxic hepatocarcinogen requiring only CYP-mediated hydroxylation and sulfation to form hepatic DNA adducts ([DOI](https://doi.org/10.1016/j.tox.2020.152566)). There is no dose of this oil the codex will offer for internal use.

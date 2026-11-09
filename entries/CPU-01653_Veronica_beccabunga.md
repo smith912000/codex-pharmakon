@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is the use of two descriptions side by side, the author's and the earlier writer's, to hold a recognition. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Dioscorides' chapter names no humour, dosha or qi and gives no energetic quality beyond the leaves being aromatic. Its stated actions fall on the urinary system, the reproductive system and the bowel. The plant is said to break stones in the kidney or bladder and discharge them, and to induce the movement of urine, which places its action on the kidneys and bladder. It is called abortifacient and to expel the menstrual flow, which places it on the uterus. It is also said to be good for dysentery, a bowel action. The text does not name the liver, blood, nerves or any other organ. Its only route of entry named is eating, boiled or raw. The translators give several unlike water plants as candidates, so these correlates describe what the chapter claims about an unidentified water plant and not one known species.
+
 ### Contraindications
 
 Chapter 2-154 prints no warning, though it calls the plant "abortifacient" and says it expels the menstrual flow, so pregnancy is a clear concern that the text does not otherwise address. The identification is only the translators' suggestion, and the translators offer several unlike plants, so no plant should be gathered or eaten on the strength of this entry. Water plants can carry contamination, and some water-side plants are poisonous, which the chapter does not address. The text gives no dose and no safety information for children or for any medicine taken at the same time. [USER: verify]

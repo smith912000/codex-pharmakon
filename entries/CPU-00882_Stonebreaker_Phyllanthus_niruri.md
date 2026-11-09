@@ -77,6 +77,10 @@ Cool, drying, bitter with a sweet undertone; draining and clearing. Given to *da
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places stonebreaker on two organs, the liver and the urinary tract, and on the eyes. In the Chinese frame (Ye Xia Zhu) it clears damp-heat, promotes urination and benefits the liver and eyes, used for jaundice, hepatitis, urinary strangury and stones, and hot red eyes. Ayurveda (Bhumyamalaki) calls it a yakrit (liver) and mutrala (diuretic) herb that pacifies pitta and kapha, given for kamala (jaundice), liver disorders, urinary calculi and burning micturition. The Amazonian tradition uses it for kidney and gallbladder stones. In modern terms the one human study concerns the urinary tract. Twelve weeks of whole-herb infusion in 56 patients with small stones was associated with higher urinary magnesium and potassium, lower urinary oxalate and uric acid, and fewer stones. A Cochrane subgroup found no effect on urinary calcium. The lignans phyllanthin and hypophyllanthin are named as constituents, and the entry states the herb alters the crystallising milieu rather than dissolving stones. For the liver, the entry records preclinical hepatoprotective signals, but controlled hepatitis B trials are rated weak or insufficient, so only an adjunct liver role is kept.
+
 ### Contraindications
 
 - ⚠️ **Hypoglycaemia / diabetes.** *Phyllanthus* may lower blood glucose; monitor and use caution with antidiabetic drugs to avoid additive hypoglycaemia. *[USER: verify current interaction data.]*

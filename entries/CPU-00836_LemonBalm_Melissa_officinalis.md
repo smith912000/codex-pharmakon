@@ -65,6 +65,10 @@ For the antiviral use: lemon balm essential oil showed potent in-vitro inhibitio
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, lemon balm is a warm, dry, gladdening nervine and carminative, acting on the heart in the Unani sense of cheering it and on the stomach to settle it. Under Avicenna's bādranjbūyah it is an exhilarant for melancholy, palpitation of nervous origin, and a sharpened mind, so the heart and mind are targets. Its modern correlate is rosmarinic acid, which the entry links to GABA transaminase inhibition, a plausible basis for the calming and sleep-supporting effect on the nervous system. Controlled human trials in the entry report reduced insomnia severity and more slow-wave sleep, and lower depression, anxiety and stress scores, which the entry ties to sleep and mood function. Topically, its essential oil and extract are mapped to the skin and to herpes simplex virus at the lip, with in-vitro inhibition of HSV-1 and HSV-2 before viral adsorption. Its carminative action is mapped to the stomach and gut, and the entry warns of sedative potentiation, thyroid signalling in vitro, and additive CNS depression before surgery.
+
 ### Contraindications
 
 ⚠️ **Generally very well tolerated. Note the following cautions.**

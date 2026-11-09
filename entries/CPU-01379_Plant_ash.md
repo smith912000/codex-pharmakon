@@ -58,6 +58,10 @@ No clinical studies were retrieved for this entry. [USER: verify] General facts 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The chapter's one quality is caustic, and the sites are mostly external with some internal. Smeared on with goose grease or oil, the ash is for bruised sinews, dislocated joints and knotted nerves, placing it on the tendons and ligaments, the joints and the nerves. With saltpetre and vinegar it represses fleshy growths in the scrotum. With vinegar, applied to the skin, it heals the bites of snakes or dogs. It is mixed with scab-forming medicines, acting on the skin. Lye made from it is said to be good against precipitations (glossed as mercury poisoning) and against the effects of mushrooms, used with vinegar, salt and honey; those are systemic poisonings, with no organ named. The chapter names no plant, so its qualities cannot be assigned beyond caustic.
+
 ### Contraindications
 
 - **Caustic injury:** wood ash and especially lye burn skin, eyes and mucous membranes; swallowing lye can damage the gullet and stomach.

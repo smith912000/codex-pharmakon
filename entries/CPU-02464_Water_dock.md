@@ -38,6 +38,10 @@ Tannin-rich astringents are known generally to tighten tissue and are used in mo
 
 **Practitioner's note.** Nothing is asked of a cultivator. The entry is honest about not knowing what the plant is ("it was said…, and it was said…"), and that is the lesson to keep: a plant known only by a transmitted name should be held as a name.
 
+### Functional–Anatomical Correlate
+
+The entry maps the herb onto the surface of wounds and ulcers and onto the mouth and throat. Its leaf is said to be extremely astringent, and it heals wounds and ulcers. Its juice, made into a rob, is named for old ulcers of the mouth and for thrush (qulaʿ), so the mouth and throat are the organs named. Astringency is given without a degree of heat or dryness, and no other tradition is tagged. The plant is not identified in the text: it was said to be a plant called bustan afruz, and said to have leaves like wild sorrel but darker and finer, so the identity of the herb the entry describes is open. The entry uses no innate heat, radical moisture or ruh, and no dose is given. The one preparation named is the juice made into a rob for thrush.
+
 ### Contraindications
 
 - **Identification.** The plant is not secure. Do not take unidentified docks internally.

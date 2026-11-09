@@ -61,6 +61,10 @@ According to PubMed:
 
 **Practitioner's note.** Nothing to cultivate with it: its attested place is therapeutic, in gynaecological practice, and no rasayana status is recorded. Verified *S. asoca* bark is hard to source and often substituted.
 
+### Functional–Anatomical Correlate
+
+The entry places Ashoka's main action on the uterus (garbhāśaya) and the menstrual channel (ārtavavaha srotas), with blood (raktavaha) as a secondary channel, and names it a haemostatic for excess uterine bleeding (asṛgdara, raktapradara). Its karma includes burning relief (dāha-praśamana), anti-oedema action (śothahara), gynaecological correction (strī-roga-hara) and external wound cleansing. The entry states its dhātu focus is rakta and rasa. It is described as a hold-and-cool agent: its astringent-cooling taste (kaṣāya, śīta) is said to contain bleeding and damp inflammation without stimulating flow. Modern correlation is two rodent studies that point in opposite directions: a flower extract showed estrogenic (uterotrophic) activity in ovariectomised rats, and a bark extract reduced estradiol-induced endometrial change and uterine COX-2. The entry grades the evidence low to moderate, with no human trial cited, and warns that market bark is often substituted with Polyalthia longifolia. Cautions include hormone-sensitive conditions, pregnancy, and the drying effect on Vāta.
+
 ### Contraindications
 - Given the phytoestrogenic signal, use caution in **hormone-sensitive conditions** (estrogen-dependent tumours, etc.) and avoid casual self-medication in such contexts — `[USER: verify with clinician]`.
 - **Pregnancy:** not for self-directed use; classical use is peri-menstrual/uterine, and safety in pregnancy is not established from the evidence here.

@@ -42,6 +42,10 @@ General, well-established facts only. Snakebite is treated with antivenom and su
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The weasel is a snakebite and epilepsy remedy in a book of "living creatures", prepared by gutting, burning, salting and long keeping, and the Codex does not recommend it. If anything is to be taken from the chapter it is the habit of recording exactly how a substance was prepared and how long it was kept. No dose beyond the translator's "two teaspoonfuls in wine" is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The weasel's uses reach several body systems, each named in Dioscorides' chapter. Its blood, rubbed on, is said to help scrofulous tumours, which the translator glosses as glandular swelling and which map to the lymphatic glands. The whole animal, burnt and its ash rubbed on with vinegar, is given for gout, a disorder of the joints. A drink of the preserved animal, or of its coriander-stuffed belly, is given against snakebite, the bites of poisonous beasts and poisoning in general, a condition the chapter does not assign to any organ. Epilepsy, a disorder of the brain and nervous system, is named both for the belly drink and as a remedy in its own right. The chapter prints no humoral, warming, cooling or energetic term for the weasel, so no temperament is mapped. The correlate the text supports is the lymph glands, the joints, the nervous system and, through the belly preparation, the gut.
+
 ### Contraindications
 
 - **Snakebite and poisoning:** emergencies; call emergency services; do not delay for an animal remedy.

@@ -48,6 +48,10 @@ No clinical studies were retrieved for this entry. [USER: verify] Because the id
 
 **Practitioner's note.** There is no cultivation practice here. This is a lower-class record of a bitter, cold plant against fevers and malign sores, of contested identity, with no dose, and the tradition's own grading says it is not for long taking.
 
+### Functional–Anatomical Correlate
+
+The paragraph names the skin and the whole body as its sites, through the sudden redness of the body (身暴赤色) and the wind-water accumulations and gatherings (风水积聚), which the Codex records as classical terms without a modern equivalent. It names malign sores (恶疡), and it treats fever in children with the phrase removes heat in children (除小儿热). A lost glyph before the word heat in Sun's text leaves the object of the heat claim unclear; Yang reads it as fulminant fever. The classic gives no organ or channel affinity, and the entry names no part of the plant used. The body effects the text names are therefore limited to whole-body redness, accumulations and water states, sores, and children's heat. The identity of the plant is contested between a vine and a tree, so a tissue map from this text cannot be checked against any modern study. Historical record only.
+
 ### Contraindications
 
 - The classic prints no toxicity statement for this entry, but the preface calls lower-class drugs mostly toxic and not for long taking (line 2935). Treat the grade as the caution.

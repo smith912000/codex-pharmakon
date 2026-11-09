@@ -43,6 +43,10 @@ In general knowledge the northern snakehead is a freshwater predatory fish eaten
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The upper-grade placement is a frame and the paragraph lists only complaints; the identity of the fish is unsettled by Sun's own note. The entry is a record.
 
+### Functional–Anatomical Correlate
+
+The snakehead, in the Shennong bencao jing under the name liyu, is mapped to the joints, the face and eyes, and the water passages of the body. Its flavour is bitter and cold (ku, han). The paragraph's indications are damp bi (shi bi, a painful obstruction of the joints), swelling of the face and eyes (mian mu fu zhong), and great water (xia da shui), a term for widespread fluid retention. In the classic's terms these are obstruction in the joints and fluid stagnation in the face, eyes and body. No organ, channel or tissue is named beyond these. The entry gives no part of the fish, no preparation and no toxicity statement. Its identity is unsettled, because Sun Xingyan's own note lists conflicting fishes, so the body mapping belongs to the entry's drug and not to a confirmed species.
+
 ### Contraindications
 
 - **Identification.** Do not take a fish as this drug on the strength of this entry.

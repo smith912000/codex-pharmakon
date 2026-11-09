@@ -113,6 +113,10 @@ Net: the tradition read a shape and got, by luck of chemistry, a plant that genu
 
 **Practitioner's note.** Nothing beyond the therapeutic use. The phallic form is a mnemonic only; the entry's own contraindications on hormone-sensitive conditions and pregnancy apply.
 
+### Functional–Anatomical Correlate
+
+The entry maps Suo Yang onto the kidney and the large intestine, with the lumbar spine and knees as the structural tissue it is said to support. In Chinese medicine it is warm and sweet, entering the Kidney and Large Intestine channels, tonifying kidney-yang and moistening the bowel for dry constipation in the elderly and debilitated; it retains rather than raises yang, so emission, incontinence and lumbar or knee weakness are addressed. The modern correlates are preclinical. In a rescue model of cyclophosphamide and bisphenol-A damage it restored serum testosterone, LH, GnRH and FSH and steroidogenic enzyme expression, which the entry reads as action on the hypothalamic-pituitary-gonadal axis. In castrated rats with induced prostate enlargement it inhibited growth and 5-alpha-reductase expression. In ovariectomised female rats it preserved bone mineral density and reduced resorption markers. The moistening and laxative action in the bowel was not supported by any study the entry retrieved.
+
 ### Contraindications
 
 - **⚠️ PREGNANCY — avoid.** No safety data in pregnancy was retrieved. A drug with demonstrated activity on steroidogenic enzymes, oestrogen receptors, and the HPG axis in animals is exactly the class to exclude in pregnancy by default. Also avoid in lactation and in children.

@@ -83,6 +83,10 @@ Gypsum's chemistry is unambiguous (hydrated calcium sulfate; calcination drives 
 
 **Practitioner's note.** In the one tradition with a read locus this is a lower-grade stone, or a middle-grade one if the fibrous kind is the classic's Lì Shí: taken for a defined course against a defined heat complaint and then stopped. Dioscorides' only advice is a warning that it chokes when drunk. Nothing here supports taking gypsum for cultivation, and the other four tags are unverified. The practical answer is abstention, and the tradition's own grading is the caution. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Gypsum maps mainly onto the Lung and Stomach, and onto the skin in its calcined, topical form. In Chinese terms it clears heat at the Qi level, clears Lung heat to calm wheezing, and clears Stomach fire, which the entry links to high fever with profuse sweating and thirst, toothache and bleeding gums. Its listed actions also eliminate irritability and stop thirst. Calcined, it is said to astringe and generate flesh on weeping, damp-heat sores and to stop minor bleeding. Dioscorides, read in the entry, calls gypsum astringent, closing pores and restraining bleeding and sweating, and warns that it chokes when taken in a drink. The entry says the mechanism of its febrile effect remains under-explained. Its bone-setting use in Tibetan medicine was not confirmed by any passage the entry found, so that tissue is not mapped.
+
 ### Contraindications
 
 - **Cold / deficiency patterns; Stomach cold; no genuine heat:** contraindicated — gypsum is very cold and only for true excess-heat; misuse injures Stomach/Spleen yang.

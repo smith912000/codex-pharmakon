@@ -42,6 +42,10 @@ General, well-established facts only. Horn is keratin, which the human body does
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The wild sheep's horn is a one-line fever remedy in a list of thirteen kinds of animal product, and the tradition's first precept is against taking life. The Codex does not recommend using it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one action, that the horn of the wild sheep cures infectious fevers, which Men-Tsee-Khang renders as epidemic diseases. The text names no organ, tissue, humour or channel for the horn, and prints no temperament, taste or potency for it, so no wind, bile or phlegm is assigned. The fever is the only condition named, and the text places it in no body part. The same line gives the takin's horn a heat-increasing action and the ram's horn an ecbolic action, but neither is carried over to the wild sheep. Modern anatomy describes horn as keratin over a bony core, and nothing in the text ties the horn to a tissue it acts on. The entry records what the Tantra says, and the Codex does not recommend the horn.
+
 ### Contraindications
 
 - **Fever:** a fever that is high, prolonged, accompanied by stiff neck, rash, confusion or breathing difficulty needs urgent medical assessment, not horn.

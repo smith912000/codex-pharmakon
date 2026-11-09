@@ -40,6 +40,10 @@ General, well-established facts only. Many millipedes secrete defensive chemical
 
 **Practitioner's note.** There is nothing here for a cultivator to do. The millipede is a name in a glossary row whose recipe and purpose were not available. The Codex does not recommend collecting or using it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Divine Farmer's Classic (Shennong bencao jing) gives the millipede, malu, as acrid in taste and warm in nature, a lower-grade drug. Its stated actions map to the abdomen: it governs large hard masses in the belly, breaks up accumulations and gatherings, and treats polyps. The skin receives one action, malignant sores, and the hair one, white baldness. The alias 'hundred feet' and the habitat in river valleys are given with no organ attached. The preface, as the entry reports it, says lower-grade drugs treat disease, are toxic and are not for long use, and the paragraph has no 'taken long' clause. The Egyptian side maps nothing: the one Ebers row naming a millipede gives no indication, route or organ. The entry cites no humour and makes no present recommendation; these are historical records.
+
 ### Contraindications
 
 - **Toxicity and irritation:** millipede defensive secretions can burn or stain skin and injure the eyes; some are toxic if swallowed. Do not ingest or apply.

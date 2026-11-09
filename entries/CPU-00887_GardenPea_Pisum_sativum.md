@@ -95,6 +95,10 @@ According to PubMed, a review of the health benefits of peas (Dahl, Foster & Tyl
 
 **Practitioner's note.** The pea is eaten, not cultivated-with: a Foundation-phase food for rebuilding the depleted and steadying the Middle. Its nearest cultivation-adjacent notes — the Chinese fortifying of the acquired constitution, the Ayurvedic *balya* quality — are dietary strengthening, not a longevity grade or a subtle-body practice, and are honestly left at that level.
 
+### Functional–Anatomical Correlate
+
+The pea's entry maps most strongly onto the gut and the metabolic system. Traditional Chinese framing places it in the Spleen and Stomach channels, harmonising the Middle Burner, disinhibiting urine and gently moving the bowels, a food that fortifies the acquired constitution (houtian). Galenic and Unani frames call it cool and moist, nourishing and mildly demulcent, and Ayurveda calls it balya (strength-giving) for building tissue in the convalescent, while noting it can aggravate vata wind. In modern anatomical terms the entry describes seed fibre supporting the gastrointestinal tract, galacto-oligosaccharides acting as prebiotics in the large intestine, starch with a lower glycaemic response that moderates blood glucose, and saponins with reported cholesterol-lowering activity. Hydrolysed pea protein may yield ACE-inhibitory and antioxidant peptides, which the entry treats as in vitro and hydrolysate-dependent. Topically, pea flour poultices are used as an emollient for chapped and inflamed skin. The entry grades the nutrition claims moderate and the peptide pharmacology preliminary.
+
 ### Contraindications
 
 - **Flatulence / IBS-type sensitivity:** the galacto-oligosaccharide (FODMAP) content can provoke bloating and wind; thorough cooking, soaking, and modest portions mitigate this.

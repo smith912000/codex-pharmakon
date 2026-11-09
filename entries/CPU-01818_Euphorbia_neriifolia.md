@@ -53,6 +53,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Sushruta t
 
 **Practitioner's note.** Nothing here gives a cultivator a practice with this plant. In the Sushruta scheme the milky juice is a purgative whose strength is the reason it is reserved for the trained physician, and the text says so itself. Nothing should be gathered or taken on the strength of a Latin name that the chapters do not give.
 
+### Functional–Anatomical Correlate
+
+The Sushruta text (SS) maps the milky juice of Snuhi, Sudha and Mahavriksha chiefly to the bowels, calling it the strongest of purgatives, and to the abdomen in Udara, where the Kaphaja type is treated with clarified butter cooked with the juice and with Pippali soaked in it. Its ghritas are given for a month or a fortnight. Outside the gut, the juice is used on fistula-in-ano and haemorrhoids, on a sinus, on the Sannipataja type of swelling, and as a depilatory, and it is applied to the scalp of a newly delivered woman whose placenta is retained (Sharira 10). It is in a ghrita for phthisis, a disease of the lungs, and in a lambative against a rat bite. Energetically the text gives its action as purgative and says its virtue lies in its milky exudation rather than its taste. It warns that the juice is dangerous in an ignorant practitioner's hands. The Latin Euphorbia neriifolia is the appendix's pairing.
+
 ### Contraindications
 
 The Sushruta text warns that the milky juice, "imprudently used by a medical ignoramus, may be attended with dangerous consequences" (Sutra 44, lines 524 to 528). Spurge latex is a general irritant to skin, mouth and eyes, and the juice should not be handled or swallowed. The identity is open, so no plant should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read, although the text itself applies the juice to the scalp of a newly delivered woman with a retained placenta in one passage (Sharira 10, lines 322 to 340). [USER: verify]

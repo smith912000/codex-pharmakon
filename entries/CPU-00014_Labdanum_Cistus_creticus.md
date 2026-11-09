@@ -92,6 +92,10 @@ The peer-reviewed literature on labdanum/*Cistus* is modest compared with franki
 
 **Practitioner's note.** Nothing here asks a cultivator to grow or take the resin for vitality. What the text teaches is assay: judge the gum by smell, colour, softness and absence of sand, and distrust its stated origin.
 
+### Functional–Anatomical Correlate
+
+The entry maps labdanum onto skin, the womb, the throat and the settled state of mind, rather than onto named organs with a stated mechanism. Dioscorides' DMM reading is warming and softening: in plasters and pessaries it softens indurations, relieves earache, checks hair loss and warms the womb. The Unani Canon entry (lādhan) gives a hot-dry temperament, drawing and opening the mouths of the vessels, dissolving thick humours and, as a pessary, dissolving womb tumours. Topically, the occlusive resin film and labdane fraction act on dry, indurated or chapped skin with mild antimicrobial and astringent action. Cistus leaf tea (the herb, not the resin) is a folk astringent gargle and gut remedy. The Qi action is centripetal and consolidating, and the Shen action is a settling of scattered or over-elevated states through its aroma. Modern anatomy terms in the entry: skin, oral and throat mucosa, the uterus and the gut.
+
 ### Contraindications
 
 - **Skin sensitisation (fragrance allergy):** Labdanum absolute and cistus oil are recognised fragrance materials with potential for contact sensitisation in susceptible individuals; patch-test before topical use; observe IFRA dermal limits. **[USER: verify current IFRA status.]**

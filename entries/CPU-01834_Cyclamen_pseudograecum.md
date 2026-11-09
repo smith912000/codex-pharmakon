@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identifica
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The useful lesson is Dioscorides' method of fixing a plant by leaf, stalk, flower and fruit, and of saying which part to discard. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The text names the fruit, not the root, as the part that acts, and calls the root useless. The fruit, taken in a drink with white wine over a long course, is said to melt the spleen and bring the intestines down by urine. The same fruit is taken in a drink for asthma, and in a drink to purge the afterbirth after childbearing, so the chapter maps the spleen, the intestines, the airways and the uterus with its afterbirth. The fruit is described as sharp to the taste and viscous. The translators group the chapter among herbs with a sharp quality, a heading of the book and not a quality stated in the chapter. No rasa, virya or vipaka is printed. The chapters name no ojas, tejas or prana for it, and the vajikarana and rasayana chapters do not name it. The identity is the translators' suggestion, which the description does not clearly bear out.
+
 ### Contraindications
 
 The chapter records that the fruit expels the afterbirth and acts on the spleen and the intestines; it prints no warning. The identification is a translators' suggestion that the description does not clearly bear out, so no plant should be gathered or used on the strength of this entry. Berries sharp to the taste and taken for forty days in wine are a poisoning risk if the identity is wrong. No conservation information was read. No safety information for pregnancy beyond the text's own use after childbirth was read. [USER: verify]

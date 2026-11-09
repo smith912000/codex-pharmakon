@@ -46,6 +46,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identifica
 
 **Practitioner's note.** There is no cultivation practice here. This is a lower-class record of a herb for wounds, abscesses and fits, with no description of the plant, no dose, and a grade that two editions give differently.
 
+### Functional–Anatomical Correlate
+
+The classic's paragraph is bitter and slightly cold and assigns no organ or channel. Its indications are fright-epilepsy (a seizure-type condition), cold and heat, evil qi, and heat, which the herb is said to remove. It also names incised wounds, flat abscess, haemorrhoids, mouse fistula, malign sores and head sores. Read as body sites, the entry names fits (fright-epilepsy), wounds and abscesses, haemorrhoids, fistula, and the head through head sores. Yang's edition prints the same paragraph under another romanisation and places it in a different grade, and the entry records both. The Mingyi layer adds habitat and harvest, gathered in the eighth month and dried in the shade, with no part named. Sun's note links the name to a plant of the luomo type, so a modern cinquefoil identity would not bear on the classic's statements. The entry states no toxicity or long-taking clause, but the lower-class preface calls such drugs mostly toxic and not for long taking. No dose, form or pregnancy statement is given.
+
 ### Contraindications
 
 - The classic does not warn for this herb, but the preface calls lower-class drugs mostly toxic and not for long taking (line 2935). The grade as printed in Sun's edition is a caution in itself.

@@ -46,6 +46,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. It is a sour fruit and a group-member in a classical Sushruta list, and the abstentive answer is the right one. Use in any preparation is a matter for a qualified practitioner, and the texts give neither a regimen nor a quantity.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that Karamarda is a sour fruit that is relishing, allays thirst and generates Kapha (Sutra ch.46), and that it is placed in the acid flavour group (Sutra ch.42). It is an ingredient of a drink given for the effects of drinking excess (Uttara ch.47). Its only organ-level claims come from the thorny-shrub group Pancha-kantaka (Sutra ch.38), which the text says is curative in haemoptysis and in the three types of oedema, arrests urethral discharges and is a potent remedy for seminal disorders. The root-group summary says the Kantaka group subdues deranged Kapha. The entry notes that no passage names Karamarda alone for these claims. The plant is not described, and no vipaka is printed.
+
 ### Contraindications
 
 No safety data were read. The texts name Karamarda as a fruit that "generates the Kapham", which is a Sushruta caution about the humours and not a medical one. The botanical identity is uncertain, so no fruit or shrub should be gathered or eaten on the strength of this entry. None of the traditional uses above is advice. Seek a qualified practitioner for any urinary, seminal, bleeding or swelling complaint, and seek ordinary medical care for these. Do not use in pregnancy.

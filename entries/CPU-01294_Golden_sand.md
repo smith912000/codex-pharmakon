@@ -40,6 +40,10 @@ General, well-established facts only. Kidney disease, urinary obstruction and oe
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The record is that a Tibetan medical text listed a lake-shore sand for urinary and kidney complaints, and that its commentary admits the substance was once confused with a plant seed. The honest conclusion is a gap: the sand is unidentified, and there is no sourced dose or method. A person with kidney or urinary symptoms needs a clinician. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Kidneys: the root text says that both types of golden sand cure kidney disorders, which maps to the kidneys themselves and their filtering tissue. Urinary tract: it also cures urinary retention, which maps to the bladder and the urinary outflow. Fluid balance: the Men-Tsee-Khang text lists it among diuretics, and Clark's chapter 21 lists it among oedema medicines, so the claimed site extends to fluid retention and the swelling of oedema in the tissues. The commentary adds that the superior kind is yellow and the common kind smoky, with a bitter, hot taste, which the Tibetan frame treats as a taste and a quality rather than a site. No potency or humour is printed for either kind. Modern anatomy therefore maps golden sand to the kidneys, bladder and urinary tract, and to fluid retention in the tissues.
+
 ### Contraindications
 
 - **Kidney disease, urinary retention, oedema:** these can be signs of kidney failure, obstruction, heart failure or infection and need prompt medical assessment; do not substitute a sand.

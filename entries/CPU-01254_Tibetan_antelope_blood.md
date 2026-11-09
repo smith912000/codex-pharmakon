@@ -42,6 +42,10 @@ General, well-established facts only. Diarrhoea can cause dehydration and loss o
 
 **Practitioner's note.** Nothing here supports cultivation use. The blood appears in the sources as one line in a list of animal bloods, with a single action, in a part of the materia medica that Clark says is little used today. A cultivator has nothing to take from this entry; the honest practice is abstention, which also spares a protected animal.
 
+### Functional–Anatomical Correlate
+
+The entry maps one bowel action. The blood of the Tibetan antelope, grouped with the blood of the wild yak, is said to halt diarrhoea, so its action is placed on the bowel, the site of diarrhoea. Clark's list of anti-diarrhoeal medicines places the blood in a class with plant remedies, and the Men-Tsee-Khang text gives the same action in its own words, for the blood of wild yaks and antelopes. Neither translation prints a humour, a temperament, a taste or potency for this blood, and the Tibetan system's three nyes pa are not named in connection with it in the passages read. The text names no organ beyond the bowel and no mechanism. Diarrhoea itself is a loss of fluid and salts, so the system the entry touches is the gut and its fluid balance. The blood's physical tissue of plasma, red cells and clotting components is general knowledge, not an entry claim, and is not mapped here. No cultivation or essence-extraction site is named.
+
 ### Contraindications
 
 - **Law and conservation:** the Tibetan antelope is a protected species and trade in its products is prohibited in most countries; taking its blood is not lawful or ethical, and a product sold as such cannot be trusted to be what the text means.

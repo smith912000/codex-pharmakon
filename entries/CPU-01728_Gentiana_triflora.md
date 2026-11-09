@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a bitter drug for throat disorders and poisoning fever in the Tibetan texts, with no preparation and no dose. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Clark's rGyud-bzhi entry names this binomial only as the second of two Latin names for spang.rgyan.dkar.po, and gives it no description of its own. The drug is said to cure throat disorders and fever caused by poisoning, with the commentary layer adding a bitter taste. The body region the entry names is the throat, and the systemic element is febrile state tied to poisoning. The Men-Tsee-Khang text gives the same action as laryngitis and hot disorder associated with poisoning, but it pairs the Tibetan name with Gentiana algida, not with this binomial, so the throat action is attached to this species name by Clark alone. No power or post-digestive taste is printed, and no organ, tissue, constituent or part used is given. The Tibetan terms are not modern diagnoses, and the entry does not map them onto any modern organ or measured outcome. Poisoning is an emergency, and the entry offers no protocol.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Poisoning needs emergency medical care, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

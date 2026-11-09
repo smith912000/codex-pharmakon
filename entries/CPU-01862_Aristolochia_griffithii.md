@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a fever-curing drug in the Tibetan texts, its species is not settled, and the genus it may belong to is a known kidney and cancer hazard. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts name three organ groups for Bhaleka. The Men-Tsee-Khang line says it cures hot disorders of the lungs, liver and vessel organs, and Clark's commentary layer adds phlegm, painful infectious fever and blood disorders. In the entry's own terms, the claims cover the lungs, the liver, the vessels and the blood, with heat and phlegm as the disorders named. No part of the plant, no preparation and no taste is given to connect the drug with those organs. Read against modern anatomy, the lungs, liver and vascular system are the organs the sentence names, but the entry says the texts give no mechanism. The drug's species is unsettled, and the genus Aristolochia is noted in the entry for aristolochic acids, a kidney and urothelial hazard. That is a general fact about the genus, not a finding of the Tibetan texts, and the entry does not link the kidneys to any indication for Bhaleka.
+
 ### Contraindications
 
 The sources read print no warning. Plants of the genus *Aristolochia* contain aristolochic acids, a general, well-established hazard to the kidneys and a cancer risk, and the Tibetan drug may or may not be such a plant. The botanical identity is uncertain, so no plant should be gathered or used on the strength of this entry. Fevers of the lungs, liver and vessel organs need medical care. No safety information for pregnancy was read. [USER: verify]

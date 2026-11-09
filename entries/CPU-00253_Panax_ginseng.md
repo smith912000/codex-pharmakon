@@ -87,6 +87,10 @@ The androgenic axis effect operates through ginsenoside Re's direct stimulation 
 
 **Practitioner's note.** One tradition here grants this root a real cultivation status and three do not. The Chinese grading is the usable one, and it is also the one that argues against how ginseng is generally taken: upper grade means long, quiet, low, and unhurried — 養生 is conservation. That sits in genuine tension with the 4–8 week cycling and pre-training dosing given above, which is a performance protocol answering to a different logic. A cultivator should know which of the two he is following, and not mistake the second for the sanction of the first.
 
+### Functional–Anatomical Correlate
+
+The entry maps Ren Shen to the Heart, Lung, Spleen and Kidney channels, with its primary anchoring in the Middle Dantian. It says the root both raises sinking Qi and anchors Yuan Qi at the Ming Men, and the classical Shennong text is cited for tonifying the five viscera and quieting the Shen. The modern correlates offered are as follows. Ginsenoside Rg1 raises BDNF and NGF through TrkA and activates endothelial nitric oxide synthase, which the entry links to muscular perfusion. Rb1 is linked to acetylcholine synthesis and reduced amyloid processing, and Re to Leydig-cell testosterone synthesis. The HPA axis is the main adrenal-brain target: Rg1 acts as a partial glucocorticoid-receptor agonist and Rb1 reduces CRH expression in the hypothalamic paraventricular nucleus. Rg3 is linked to AMPK and cytochrome c oxidase in mitochondria. The entry contraindicates use in heat-excess patterns with rising Yang, and it records a ginseng abuse syndrome with hypertension, insomnia and morning diarrhoea.
+
 ### Contraindications
 
 **Constitutional conflicts:** Strongly contraindicated in any active heat-excess pattern — hypertension with rising Yang, headache, red face, agitation, constipation, and rapid full pulse. The ascending action of Yang ginsenosides will worsen these conditions. Contraindicated in acute febrile illness of any kind.

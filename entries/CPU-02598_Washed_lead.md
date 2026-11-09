@@ -47,6 +47,10 @@ General, well-established facts only. Lead is a toxic heavy metal with no safe e
 
 **Practitioner's note.** There is nothing here for a cultivator. The record is a mineral-pharmacy method for external use, and the safe practice is to leave lead alone.
 
+### Functional–Anatomical Correlate
+
+The chapter's claimed sites are the skin and its pores, the wound and ulcer surface, the eyes, the blood, and the perineum. The material is said to close the pores, to fill sores and wounds, and to check the fluids that gather in the eyes and the fleshy overgrowth of ulcers, so the sites are the skin surface, the open wound bed, and the eye and its fluids. It is described as a blood stauncher, which maps to bleeding and the vessel walls at the wound. With rose oil it is applied to ulcers of the perineum, venereal warts and haemorrhoids, placing the claim in the anogenital region and the anal veins. Sores that do not heal are the last of its named conditions. In its energetic terms the chapter says the material is able to cool and is an astringent, and it is compared with spodium. Unmixed, it is rubbed on the site of a sea scorpion or sea dragon sting, which is the skin at the bite.
+
 ### Contraindications
 
 - **TOXIC.** Do not make, handle, apply or swallow. Lead accumulates in the body.

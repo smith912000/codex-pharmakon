@@ -42,6 +42,10 @@ No clinical studies were retrieved for this entry. [USER: verify] General fact: 
 
 **Practitioner's note.** A hair wash and a spleen and jaundice decoction in the text, with an emmenagogue and purgative action. Nothing supports a cultivation use, and the identity of the tree is unsettled.
 
+### Functional–Anatomical Correlate
+
+The Canon's entry for filarhark, which it says is the hudud tree, names several organ-level actions, all as the text reports them. Applied as a paste alone or with oil, it is said to strengthen the hair, which maps to the scalp and hair follicles. Its branches boiled in vinegar and drunk are said to benefit the spleen, and likewise jaundice, a condition of the liver and bile in modern terms. A decoction of its leaves and branches is said to promote the menses, which the text ties to the uterus and reproductive tract. A quantity of its fruit, in a wording the text leaves obscure, is said to purge much phlegmatic humour, which in the Unani scheme is a humoral action on the digestive tract. The entry assigns no temperament, so no hot-cold or humoral degree is mapped. The identity of the tree is only the Canon's report, so the organ claims belong to the text, not to any species.
+
 ### Contraindications
 
 A decoction that promotes the menses and purges phlegm is to be avoided in pregnancy as a general precaution. The text states no contraindication. The plant is unidentified; do not substitute any species. [USER: verify]

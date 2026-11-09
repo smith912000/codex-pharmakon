@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a fever drug defined by its likeness to another drug, with no preparation and no dose, and its Latin name is a positional guess among several. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry's sources state only a few things for this drug. Clark's line for ga.dra says that it too is beneficial in infectious fever, and the bracketed commentary adds wind fever. The Men-Tsee-Khang text, by column position only, says Ga dra has the same effect as Laetae and Kanta kari and is effective against contagious diseases. No organ, tissue, body system or part of the plant is named for this drug in either text. No taste, power, post-digestive taste or preparation is printed for it. Clark gives four Latin names for the Tibetan name, and the binomial here is set against the name by glossary column position only. The English raspberry in the glossary is not evidence that the Tibetan drug is that fruit. Historical record only; fever and infection need medical care, and no dose or protocol is given.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Fever and infection need medical care; the identity is open among plants of different families, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. No conservation information and no safety information for pregnancy were read. [USER: verify]

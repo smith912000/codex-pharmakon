@@ -41,6 +41,10 @@ Avicenna: hot in the first to the second degree, dry in the second (line 14163).
 
 **Practitioner's note.** There is nothing here to practise. A cultivator may read the entry for its own caution: the same seed that fattens the thin is said to carry a bad humour and to need correction, as lupin does.
 
+### Functional–Anatomical Correlate
+
+The entry maps the seed onto the body's wasting, the skin, the breast, the bowel and urinary passages, the ulcers and the bite site. The seed meal is said to remove emaciation when eaten as much as a nut. As a paint it is said to improve the colour in vitiligo, freckles, leucoderma and scars, and its decoction is said to cure chilblains. It softens hardness of the breast and makes thick expectoration easy. It is said to clean ulcers with honey, and in excess it makes one pass blood in the urine through strong diuresis, and it relaxes the bowels. Ground with vinegar it is said to benefit difficult urination and colic. Temperament is hot in the first to second degree and dry in the second. The Canon says the seed carries a bad humour, corrected as lupin is corrected, and that cooking twice reduces its polishing and leaves it nourishing with a dry nourishment. The entry names no constituent, and its one dose is as much as a nut.
+
 ### Contraindications
 
 - The Canon itself says the seed has a bad humour and needs correcting, and in excess it passes blood in the urine (line 14172).

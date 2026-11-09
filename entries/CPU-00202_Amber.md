@@ -36,6 +36,10 @@ Amber is valued as a gem and for jewellery and is not a recognised medicine in c
 
 **Practitioner's note.** Nothing here for a cultivator. The row names a fossil resin; the texts on disk mention amber once, as the colour of a grade of sulphur. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Tibetan text on disk gives no use for amber, so the mapping here comes from the Unani entry the Codex attaches to it, Avicenna's kahruba, which the entry reads as the same substance. Its temperament is given as slightly hot and dry in the second degree, and its action is astringent, above all on blood from any site. Under the organs of the head it stops nosebleed and catarrh running from head to lung, and it enters eye medicines. For the chest it is said to help palpitation and strongly prevent spitting of blood. In the digestive organs it stops vomiting and, with mastic, strengthens the stomach. Among the excretory organs it stops uterine and rectal bleeding and dysentery. Hung on hot swellings it is said to help. The entry notes that innate heat and radical moisture are not mentioned. The Tibetan citation is a single list row with no text locus and maps nothing.
+
 ### Contraindications
 
 Amber is not a standard medicine and no safe preparation is described. Swallowed lumps and beads are a choking hazard, and ground fossil resin is unstandardised and may be adulterated with plastic or copal. The legal status of trade in a given piece has not been checked here. [USER: verify]

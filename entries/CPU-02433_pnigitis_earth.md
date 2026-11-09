@@ -48,6 +48,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 **Practitioner's note.** Nothing to take from it for cultivation beyond the model of assay by touch and tongue and the warning that a lesser earth is sold under a better name. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter states no use, organ or condition for pnigitis earth. Its only physical claims are that it is cooling when touched by the hands, which concerns the skin surface, and that it adheres so strongly to the tongue that it hangs on it. These are tests of the material. The hand and the tongue are where the chapter checks the earth, not sites it is said to act on. The Greek (DMM) frame prints one quality, cooling to the touch, and no warming, drying or moistening quality. The chapter says it has the properties of fuller's earth except in strength, but gives those properties no sites of its own. The entry notes that the bracket naming fuller's earth is the translator's, and that some sell the earth as Eretrian earth, a note about substitution rather than a claim about the body.
+
 ### Contraindications
 
 - **Unidentified earth:** the chapter gives no medical use; do not swallow or apply any earth on the strength of this entry.

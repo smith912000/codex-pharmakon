@@ -102,6 +102,10 @@ What can be said honestly: guayusa's traditional classification is **temporal an
 
 **Practitioner's note.** The documented practice is behavioural: rising early and drinking the infusion communally to stay awake and recount dreams. The sources read support no further regimen.
 
+### Functional–Anatomical Correlate
+
+Guayusa's mapped action is on the central nervous system and the cardiovascular system. Its xanthines, caffeine at about 2.27% of raw leaf and theobromine, act on the brain. One randomised crossover trial in 25 adults found 600 mg extract improved mood disturbance, fatigue-inertia, perceived energy and psychomotor speed, while jitteriness rose with dose in women. In the cardiovascular system both 600 mg and 1200 mg raised systolic and diastolic pressure by 4 to 5 mmHg, with no significant QTc change. The entry records no humoral or energetic classification from the Kichwa tradition; a 'warming' gloss is an inferred Western label. The traditional function is temporal and social: a pre-dawn communal infusion that keeps people awake to recount dreams. The entry finds no oneirogenic pharmacology. Glucose-enzyme and dental-enamel effects are preclinical or in vitro only, and there is no human glycaemic trial. Caffeine clearance depends on CYP1A2, and pressor, anxiety, sleep and pregnancy cautions apply in full.
+
 ### Contraindications
 
 - **Caffeine, in ordinary quantity.** Every caffeine contraindication applies fully. Guayusa is not a caffeine-free or caffeine-light plant: 2.27% of raw leaf by weight.

@@ -102,6 +102,10 @@ Start with 1 long pepper berry/day in warm milk with ghee and honey; increase by
 
 ---
 
+### Functional–Anatomical Correlate
+
+Long pepper maps onto the stomach, the lungs, the liver, the nervous system and the reproductive organs. Its digestive field is the Middle Burner and the Stomach and Large Intestine channels of the Bencao, with the Ayurvedic deepana, anulomana and balya. Dioscorides adds an anti-fever, diaphoretic action. The lungs are the main respiratory target: as a warming expectorant it is used for cold-type asthma, bronchitis and cough, with Ayurvedic shvasahara. The Canon adds a warming tonic for the liver, an anti-epileptic action against cold-Phlegm in the brain, and a warming effect on the reproductive system. Its Yuan role is to kindle the Mingmen fire, the Gate of Life. Piperlongumine, present only in this species, is described through ROS and STAT3 effects on cancer cells and through anxiolytic and anti-platelet actions, all pre-clinical. Tibetan medicine classes it among warming spices for cold-type conditions and wind-type pain. The cautions concern the stomach and reflux, Pitta-excess states, and pregnancy.
+
 ### Contraindications
 
 - **Heat excess constitution (Pitta-dominant, inflammatory conditions)** — long pepper is more thermogenic than black pepper (classified fourth degree hot vs. black pepper's third degree); contraindicated in active gastritis, peptic ulcer, esophageal reflux, high fever; reduce *Trikatu* dose significantly in Pitta constitutions

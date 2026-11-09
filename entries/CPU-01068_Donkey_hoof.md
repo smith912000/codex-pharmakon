@@ -40,6 +40,10 @@ General facts only. Keratin is a structural protein, not known to have any syste
 
 **Practitioner's note.** Nothing to do. In both traditions this is a drug for a complaint, taken for a short, defined purpose, and in the Greek text the claim is hearsay. A cultivator's reading is the attention to specification: which animal, which part, how prepared, for how long.
 
+### Functional–Anatomical Correlate
+
+Donkey hoof maps to the brain and nerves, the lymph glands, the skin and the urinary tract. Dioscorides (2-44) gives burnt hoof, two spoonfuls in drink daily for many days, for epilepsy, which he reports as said to be cured; hoof steeped in oil for scrofulous tumours (glandular swellings, goitres); and hoof sprinkled on for chilblains. The Tibetan Explanatory Tantra files the hoof under nails among the thirteen animal medicines: the right hoof of a one-year-old black donkey cures urinary retention, with infectious fevers added in Clark's brackets from the commentary. Men-Tsee-Khang says donkey hooves cure obstruction of urine. No humour, temperament or qi is assigned, and the Tibetan lines give no taste or potency.
+
 ### Contraindications
 
 - **Epilepsy.** Do not substitute burnt hoof for anticonvulsant medicine; stopping prescribed medicine can cause seizures. Seizures and urinary retention need medical care.

@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a lung-fever drug in a short list, one of four identifications Clark offers for a Tibetan name, with no preparation and no dose. The strength-giving reputation that *Rhodiola* carries in modern markets has no support in the lines read, and the abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Clark's root-text line says the drug's two types "cure lung fevers". The bracketed commentary says the white type "cures lung diseases and dysentery". The Men-Tsee-Khang text says Solo and Sugdra "cure hot disorders of the lungs" and lists Solo among medicines for disorders of the lungs. On the entry's claims the drug acts on the lungs and the respiratory system, through fevers, lung diseases and hot disorders, and, in the white type alone, on the bowel through dysentery. The lungs are the one organ the entry names, and the dysentery claim belongs to the commentary layer. The entry prints no taste or power. The two editions agree on the lungs but not on the plant: Men-Tsee-Khang sets Rhodiola crenulata against the name, while Clark gives four identifications from several families.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Lung illness and dysentery need medical care, the identity is open between plants of several genera and families, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Several of the plants named (*Rhodiola* among them) are high-altitude species of which wild collection is a conservation concern in some regions; that is a general statement and no conservation information was read for this entry. No safety information for pregnancy was read. [USER: verify]

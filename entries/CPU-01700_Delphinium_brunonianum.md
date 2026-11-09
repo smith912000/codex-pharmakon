@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a drug against spirits, poisoning and contagious fever in the Tibetan texts, the genus is toxic, and there is no preparation and no dose. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Clark's root-text layer says the drug dispels spirits, infectious fever with poisoning and heals insect bites. The Men-Tsee-Khang text says Jagoepoe cures disorders caused by evil spirits and poisoning, and relieves contagious hot disorder. The sites the entry maps are the skin, in the sense of insect bites that the text names as a wound to be healed; the febrile and infectious state; and poisoning, which the texts treat as systemic. Spirits appear as a cause the drug dispels, not as an organ. No organ, tissue, taste or power is printed in the lines read, and Clark's commentary gives a scent but no taste. The genus is generally known to be toxic, which is a general fact added here as a caution and not a tradition claim. No modern anatomy is attached to the fever or the poisoning, and the identity between the two Latin names is not settled.
+
 ### Contraindications
 
 The sources read print no warning for this drug. *Delphinium* is generally known to be poisonous, the identity is not settled, and no preparation or dose is given, so no plant should be gathered or used on the strength of this entry. Poisoning and fever need urgent medical care. No safety information for pregnancy was read. [USER: verify]

@@ -98,6 +98,10 @@ Sleep research using randomized, double-blind placebo-controlled trials demonstr
 
 **Practitioner's note.** Of the substances in this volume this is among the small number with a genuine, textually attested cultivation status — upper grade, taken long and taken quietly, on the conservational *yang sheng* 養生 logic rather than a curative one. What that licenses is duration, not dose: the tradition's own warrant is for protracted, unhurried use in a life already ordered, not for a loading protocol. It does not license the neidan overlay (煉精化氣, dantian work) that cultivators often bring to it; that is an overlay, not a bencao category, and this entry does not attest it.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Líng Zhī acts first on the Heart and Shen, the organizing intelligence, with the Heart as primary seat and the Liver secondary for emotional clearing. Its classical indications are Heart-Shen disturbance with insomnia, anxiety from depleted Shen failing to anchor in the Blood, and dimming consciousness after exhaustion. The Shennong Bencao Jing assigns the red zhi to the Heart, and the other colour varieties to the liver (green), spleen (yellow), lung (white) and kidney (black), with purple boosting essence qi. The entry's modern mapping covers the autonomic nervous system (vagal tone and heart rate variability), immune cells through beta-glucan receptors, liver protection in injury models, and sleep latency and total sleep time in a placebo-controlled trial in neurasthenia. Adenosine and triterpenoids are also noted as inhibiting platelet aggregation. The HRV and immune claims carry no separate evidence grade in the entry, and the liver data are preclinical.
+
 ### Contraindications
 
 **Constitutional conflicts:** Generally one of the safest herbs in the codex. Primary caution in Yin-deficiency with dryness: the bitter, drying nature of high-dose triterpenoid fractions can exacerbate dryness symptoms. Pair with moistening herbs or use polysaccharide-dominant preparations in such constitutions.

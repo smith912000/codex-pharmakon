@@ -53,6 +53,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a wound-fever drug with no preparation and no dose, and its Latin name is a positional choice among three species. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Clark's line for sho.mang, read by name, says that dockleaf cures wound fevers, which is the root-text claim. The bracketed commentary adds that it is beneficial in infectious fevers and gives sweet and bitter tastes for the main type. The Men-Tsee-Khang running text, by position, says Shomang cures hot disorder of the wounds, so the wound is the one bodily site the sources name. Wounds are injuries to skin and the tissue beneath it, and a hot wound in modern terms is an inflamed one; the texts do not describe any mechanism. No internal organ or system is named. The Latin name is a positional choice among three species Clark gives, and the glossary's Rumex is a second one, so the wound claims attach to an uncertain identity. The tastes are commentary-layer and describe the plant, not the tissue. Historical record only; no part, preparation, dose or protocol is given, and a wound that is hot, swollen or discharging needs medical care.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Wounds and fevers need medical care; the identity is open among three species, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. It is a general fact that sorrels and docks contain oxalates, which are a known concern in quantity for people prone to kidney stones, and this is a statement about the genus and not about the Tibetan drug. No conservation information and no safety information for pregnancy were read. [USER: verify]

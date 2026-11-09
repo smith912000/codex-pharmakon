@@ -38,6 +38,10 @@ General, well-established facts only. Haemorrhoids are swollen vascular cushions
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The sourced use is a dietary one for piles, in a food chapter, and the Codex does not recommend taking the flesh of a protected, wild constrictor. If piles are the concern, the honest advice is to have them assessed. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Ajagara flesh maps, in Ayurvedic terms, to the anorectal region and to the doshas Vayu, Pittam and Kapham. Its one named use is in piles, the haemorrhoidal condition of the anal canal, which the chapter lists among foods. The chapter places the animal in the Vileshaya group, the hole-dwellers, and gives the group's qualities: it increases the consistency of stool and urine, is heat-making in potency and sweet in digestion, subdues Vayu, generates Pittam and Kapham, is demulcent, and is beneficial in cough, dyspnoea and cachexia. The lungs, through cough and dyspnoea, and body wasting are the tissues these terms touch. These are group qualities applied by membership, not a statement about the animal. No rasayana, ojas or prana claim is made for the flesh, and the Codex does not recommend eating a protected constrictor.
+
 ### Contraindications
 
 - **Hygiene and infection:** flesh of wild reptiles can carry *Salmonella* and parasites; it should not be eaten raw or undercooked, and wild-caught meat is not recommended.

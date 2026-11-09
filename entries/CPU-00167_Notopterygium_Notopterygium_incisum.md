@@ -69,6 +69,10 @@ Evidence grade: **preclinical.** The anti-inflammatory mechanism is well charact
 
 **Practitioner's note.** Nothing in the retrieved sources makes this a cultivation substance in either tradition. A cultivator uses it, if at all, as a short-course, practitioner-guided remedy for cold-damp stiffness of the neck and shoulders, then stops. There is no long-term or nourishing-life use to build on.
 
+### Functional–Anatomical Correlate
+
+Notopterygium is classed in TCM as acrid, bitter and warm, entering the Kidney and Urinary Bladder (tai-yang) channels and directed to the upper body: the neck, shoulders and occiput. Its named actions are releasing the exterior, dispersing wind-cold-damp, and unblocking painful bi obstruction, which the entry links to aching joints, stiffness, occipital headache and body aches with chills. The Tibetan rGyud-bzhi frame gives it the same role as a warming plateau anti-obstruction herb for wind-cold-damp aches. The entry's modern correlates come from cell and animal work. Notopterol is reported to inhibit NF-kB signalling in periodontal tissue, suppressing IL-1beta, IL-8 and IL-32 in gingival fibroblasts and limiting osteoclast-driven bone loss in vivo. A 2017 review is cited for traditional use in headache, rheumatoid arthritis and as a diaphoretic. The entry says these findings are preclinical and do not establish human efficacy. Contraindications include heat or deficiency-dryness patterns, excessive dosing causing nausea, furanocoumarin photosensitivity, and caution in pregnancy.
+
 ### Contraindications
 
 - **Yin deficiency / blood deficiency with heat (CM).** An acrid-warm, drying, dispersing herb is inappropriate where there is heat or dryness from deficiency; it can aggravate.

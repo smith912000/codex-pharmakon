@@ -105,6 +105,10 @@ The one traditional read that survives scrutiny is functional and non-energetic:
 
 **Practitioner's note.** Nothing. The Egyptian record supports no practice for this tree; its value to a cultivator in this Codex is as a hardy survivor crop and for its saponin chemistry.
 
+### Functional–Anatomical Correlate
+
+The entry maps Balanites mainly to the blood, the intestines and the parasites that live in them, with its steroidal saponins as the active principle. Saponins are described as haemolytic, lysing red blood cells on contact, and as gut irritants that cause nausea, vomiting, abdominal pain and diarrhoea in quantity. Anthelmintic and antischistosomal effects are shown in mice infected with Schistosoma mansoni and in goats with haemonchosis, where fruit extract reduced egg counts and worm burden, though albendazole outperformed it. Antidiabetic action is reported only in rodents, and anti-tumour work is preclinical. The Egyptian material gives no organ mapping, and no classical energetic classification is assigned. Human use is not established, and the same molluscicidal saponin fraction also acts on fish and aquatic invertebrates.
+
 ### Contraindications
 
 - **Saponin haemolysis.** Steroidal saponins are haemolytic — they lyse red blood cells on contact — and are membrane-active surfactants. Concentrated saponin fractions must never be taken parenterally, and concentrated oral preparations are not safe self-experimentation material.

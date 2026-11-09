@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 **Practitioner's note.** Nothing to take from it for cultivation. It is a waste product of metal-working that the herbal lists as a plaster ingredient, and it is not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Greek (DMM) terms are used as the entry gives them. The chapter prints two qualities, extractive (drawing out) and astringent, and gives them as the reason for its use in plasters. Its claimed sites are the skin and wound surfaces, where it is mixed into black plasters and into plasters for forming new skin. Its strength is stated to be the same as plumbago (5-100), a chapter the entry notes describes material that promotes flesh growth in wounds and sores. No warming, cooling, drying or moistening quality is printed for the slag. No internal organ, system or condition is named, and the plasters are the only route stated. The chapter gives no dose, quantity or preparation, so the sites listed are only the surfaces the plasters are applied to.
+
 ### Contraindications
 
 - **TOXIC by association.** Slag from smelting may contain lead and other toxic metals. Do not ingest, handle without gloves, or apply to broken skin.

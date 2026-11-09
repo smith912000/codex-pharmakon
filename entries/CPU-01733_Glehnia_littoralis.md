@@ -49,6 +49,10 @@ The entry's own words fit that frame and go a little further than a bare indicat
 
 **Practitioner's note.** A middle-class entry in the Chinese scheme: for controlling disease, weighed before use, and not the class of long-term life-nourishing drugs, although this entry does carry a "protracted taking" sentence. The entry promises no cultivation outcome beyond "benefit" and gives no dose. Its identity as *Glehnia* rather than *Adenophora* is the translator's. Nothing here supports taking this root as a cultivation practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+In the Shennong Bencao Jing as Yang 1998 prints it, this root is said to act on the center and the lungs. The text says it 'supplements the center' and 'boosts the lung qi', that it 'mainly treats blood accumulation and fright qi', and that it 'eliminates cold and heat'. The center is a Chinese term that the entry does not map to any named organ, and the entry names the lungs only through the phrase 'lung qi'. Blood accumulation and fright qi are the text's own categories and name no modern tissue. The entry links no action to any other organ. It says protracted taking 'brings benefit to people' but does not say which system that benefit reaches. The translator's footnote on yin is a later commentary and is not counted here. In modern anatomy terms the only organ the entry names is the lung.
+
 ### Contraindications
 
 The entry prints no warning and calls the drug "nontoxic"; the preface says the middle class "may or may not be toxic" and that one should "weigh and ponder before putting them to their appropriate use" (line 387 onward). No dose, preparation or safety information is given for this root, and the entry's identity is the translator's pharmaceutical Latin. Do not gather or take a coastal plant on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

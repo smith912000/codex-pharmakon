@@ -34,6 +34,10 @@ Pearl and shell are mostly calcium carbonate; as a powder they are a calcium sou
 
 **Practitioner's note.** Nothing here for a cultivator to take. The text calls pearl precious and gives it a poison and fluid-loss use, and then moves on. The text's own gloss, that the pearls come from many strange origins, is a caution against assuming a single material. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the Tibetan entry (Explanatory Tantra ch.20, as printed in Clark 1995) states two actions for pearl: it prevents loss of cerebral fluid, and it cures all types of poisoning. The cerebral fluid is the only bodily substance the text names, so the brain and its fluid space are the only anatomy the entry supports. The poison action names no organ or channel. No humour, taste, potency or post-digestive taste is printed for pearl, and the text gives no longevity or rejuvenation action, unlike gold in the same section. The mother-of-pearl line says only that its power is not unlike that of pearl, and the Men-Tsee-Khang text says shells have the same potency. Pearl is not assigned to any channel, wind, bile or phlegm. Where the commentary describes the seven types and their origins, that describes where the substance comes from, not what it does in the body. Nothing in the entry maps pearl to the heart, lung, eye or skin.
+
 ### Contraindications
 
 Pearl powder and shell powders are unstandardised and may be contaminated with heavy metals or bacteria; they should not be taken as an antidote to any poisoning, and a poisoning needs emergency care. Collecting pearl oysters and mussels may be restricted for conservation reasons, and the freshwater mussel (if the list's identification is right) is at risk in some places; the status has not been checked here. [USER: verify] The traditional origins of some pearl types from a snake's brain or an elephant's skull are not a basis for sourcing anything from those animals.

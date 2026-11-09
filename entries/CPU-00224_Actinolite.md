@@ -38,6 +38,10 @@ Inhaled asbestos fibres, among them fibrous actinolite, are a well-established c
 
 **Practitioner's note.** A middle-grade drug in the Chinese scheme: not a "nourish life" drug for long use, but a drug for controlling disease and supplementing vacuity under care. Nothing in the sources supports taking actinolite, and the asbestos hazard of its fibrous form is a reason against. For a cultivator the entry is a record of how the Classic ranked a white fibrous stone. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Divine Farmer's Classic (SBJ) places this stone in the uterus and the reproductive vessels. Yang's footnote explains flooding and leaking as damage to the chong and ren vessels, so the claimed site is the uterine bleeding of the female reproductive tract, and the classic says it breaks blood in the uterus. It also treats concretions and conglomerations that bind qi (abdominal masses), and abdominal pain. Infertility and impotence map to the reproductive organs of both sexes. The entry says it supplements insufficiency, a general deficiency claim with no named organ. Its taste is sour, and no temperature is printed. In modern anatomy the claimed sites are the uterus and its lining, the pelvic organs, the lower abdominal cavity, and in men the penis and testes. The Greek and Indian traditions are not represented for this stone, so no humoral or doshic term applies.
+
 ### Contraindications
 
 Fibrous actinolite is an asbestos mineral; inhaled fibres cause serious lung disease. Powdered stone sold as a remedy may be a different mineral or may be contaminated. Mineral medicines are unstandardised and their sale is regulated in many places. The Classic's "nontoxic" is not a claim of fact. [USER: verify] the legal status of asbestos-form minerals and of collecting actinolite; the sources retrieved do not address it.

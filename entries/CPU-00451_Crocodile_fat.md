@@ -63,6 +63,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+Crocodile fat has two mapped sites. In the Ebers text it is the third of six fats rubbed on the scalp of a bald man, so the hair follicles and scalp are the claimed target. In the Avicenna Canon, as the entry reads Book II entry timsah, the fat applied as a poultice on the crocodile's bite quiets the pain at once, which maps to the skin and local tissue at a bite wound and to pain as the symptom. The other crocodile claims in that entry concern the dung (for white spots of the eye) and a part taken from around the kidney (said to rouse desire), and they are not the fat. The Canon entry gives no temperament by degree, does not mention innate heat or radical moisture, and assigns the fat no life-prolonging or restorative role. Bryan prints no spell with the fat.
+
 ### Contraindications
 
 - **Hygiene and infection:** animal fat on the scalp or on broken skin carries infection risk; crocodilians can carry *Salmonella*.

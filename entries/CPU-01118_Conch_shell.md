@@ -40,6 +40,10 @@ General, well-established facts only. Calcium carbonate is an antacid and a calc
 
 **Practitioner's note.** The conch gives a cultivator nothing to do. The Tibetan sources record it as a precious-class medicine for pus, abscess and bone fever, and as a simile for speaking plainly. If a practitioner takes anything from the entry it is the simile: in the section on the physician's conduct, the Four Tantras ask for open speech, "like blowing a conch in the market place". No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Under the Explanatory Tantra's precious-class medicines (FMT; Clark 1995 and the Men-Tsee-Khang 2011 translation), conch shell dries pus and cures bone fever. Clark's bracketed commentary adds that it punctures whorls of pus and helps the eyes; Men-Tsee-Khang has it break swollen abscesses and cure hot disorders of the bone. The systems the text names are therefore the suppurating tissue (pus and abscess, in modern terms infected soft tissue), the bone, and, by commentary alone, the eyes. The line prints no taste, power or post-digestive taste, and names no organ beyond these. A simile for open speech, blowing a conch in the marketplace, is not a bodily action and maps nothing. No essence-extraction use is recorded for the conch in the lines read.
+
 ### Contraindications
 
 - **Contamination:** shell from unknown sources, or powdered shell not prepared to a recognised standard, can carry heavy metals and microbes; the Codex does not recommend taking shell material.

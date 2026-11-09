@@ -40,6 +40,10 @@ Sodium carbonate and bicarbonate are well-known alkaline compounds: the bicarbon
 
 **Practitioner's note.** A lower-grade drug in the Chinese scheme: a drug against disease, here fever and vomiting, to be taken for a defined course and stopped, and the tradition's own grading is the warning. Nothing here supports taking crude alkali. For a cultivator the entry is a record of a drug the Classic kept out of the "nourish life" class. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Divine Farmer's Classic (SBJ) places the substance in the whole body (great fever and wasting thirst), the mind (manic vexation), the stomach and bowel (vomiting and diarrhoea), and the muscles and flesh, which it is said to soften. It eliminates gu toxins, a category tied in the Chinese scheme to parasitic and wasting disorders of the gut. Avicenna's Canon (CM) reaches the same substance only through its borax cross-reference: it cleanses and scales the skin, thins hair and improves complexion, helps itch and scab on wounds, acts on the stomach, loosens the bowel, and eases colic and worms. It is also named against mushroom poisoning. The Canon's temperament for it is hot and dry, in the Unani humoral frame, and the Chinese grade is bitter, salty and cold. In modern anatomy the claimed sites are the skin and hair, the muscles, the stomach, the large bowel and intestinal worms.
+
 ### Contraindications
 
 Concentrated alkali burns the mouth, throat and gut. Natural crude alkali can be contaminated, and powder sold as a remedy may be a different salt. Mineral medicines are unstandardised and their sale is regulated in many places. The sodium load of crude alkali is a concern for people on salt restriction. [USER: verify] the legal status of crude alkali preparations; the sources retrieved do not address it.

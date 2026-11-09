@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing here for a cultivator. The tradition is represented by one list row that cannot say what the seed is, and no text read says what was done with it or why. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that a seed called kammantu is attested on Assyrian tablets, on the strength of one list row, and that the plant is unidentified, with only a family-level guess of Leguminosae. It names no body system, organ or tissue, and gives no tradition term for what the seed does to a person. The Assyrian frame it describes classifies illness by causal agency, such as a divine hand, a ghost or an oath, but the entry says no classification of kammantu by agency is attested. No constituent is stated, because the plant is not identified. No preparation, dose, use or clinical study is given, and no safety data were read for the source. Any organ-level mapping would go beyond what the entry supports, so none is offered here.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. Because the seed is unidentified, no specific hazard can be named; some seeds are poisonous, and an unidentified seed should not be eaten. As a general caution, unidentified plant preparations should not be taken in pregnancy, while breastfeeding, by children, or alongside prescription medicines without medical advice. This is general caution and is not found in the row. [USER: verify]

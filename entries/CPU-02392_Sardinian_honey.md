@@ -43,6 +43,10 @@ General, well-established facts only. Honey applied to skin is a humectant and h
 
 **Practitioner's note.** Nothing here is a practice. The lesson that survives is Dioscorides' habit of asking where a honey came from and what the bees fed on, and the text itself records a cosmetic use. A cultivator has no use for it.
 
+### Functional–Anatomical Correlate
+
+Little to map: Dioscorides gives one use, that the honey is 'rubbed on the face for sunburn and spots'. The system mapped is the facial skin, as a topical application for sun damage and blemishes. He also says the honey is bitter because the bees feed on wormwood, which describes taste and origin rather than an action on the body. No internal use, organ, humour or temperature is named.
+
 ### Contraindications
 
 - **Allergy** to bee products or to the plants in a honey.

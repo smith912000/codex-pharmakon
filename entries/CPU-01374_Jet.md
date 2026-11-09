@@ -64,6 +64,10 @@ No clinical studies were retrieved for this entry. [USER: verify] General facts 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry's sites are the airway and lungs, the nervous system, the womb and the joints. Dioscorides says that when its smoke is inhaled it induces epilepsy, which places the action on the brain by the respiratory route, and that the smoke calms women who are hysterical, which the Greek term places in the uterus and nervous system. It is mixed with medicines for gout, a disorder of the joints, and for fatigue, which the entry names with no organ. The chapter's closing parenthetical, given as hearsay ('they say'), adds that a perfumed vapour heals hidden disorders of women, placing the action in the female reproductive tract; the chapter does not vouch for it, so it is mapped only as a reported claim. The smoke's supposed effect on snakes concerns no body tissue. The Canon's short entry, identified with it only by a property, gives no organ.
+
 ### Contraindications
 
 - **Smoke inhalation:** the chapter's main use is to inhale the smoke; smoke from burning carbonaceous material is a respiratory hazard and carbon monoxide is poisonous, especially in closed rooms.

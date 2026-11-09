@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this shrub. The only thing a student can take from it is the habit of noting the condition of a seed (here, blackened with fungus) before judging a material. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Dioscorides' chapter 1-121 maps the seed, leaves and root onto several organs. The seed, taken in a drink, is said to help coughs, to break stones in the bladder, and to be good for snake stings. The leaves and root are called astringent, and a decoction of them is said to regulate the bowels, draw out urine, and be good against poison and the bites of venomous beasts. The root, pounded and applied as a plaster, is said to dissolve new nodules and oedema. The one quality named is astringency, which in traditional terms tightens tissues, and the chapter gives no temperament of warming, cooling or moistening. The organs in its uses are therefore the airway, the bladder, the bowel, the urinary flow, the skin and the swelling beneath it. Modern anatomy would place the astringent action in the mucous membranes and skin, but the chapter names only the uses and gives no mechanism.
+
 ### Contraindications
 
 Urinary stones, snakebite and poisoning are conditions for urgent medical care, not for a thorny shrub's seed or root. The chapter's uses to "draw out urine" and to regulate the bowels are not something to attempt on this identification. The plant is spiny, so handling it risks puncture wounds. The identification rests on a translators' suggestion among four binomials, so no plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

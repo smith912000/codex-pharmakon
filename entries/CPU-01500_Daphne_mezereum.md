@@ -43,6 +43,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. Its uses are emetic, purgative and sneezing remedies of a plant that burns the mouth, so it is a record to read and not a practice to follow. The sensory test it describes is itself the warning.
 
+### Functional–Anatomical Correlate
+
+Dioscorides’ chapter 4-148 maps this shrub’s action onto the digestive tract, the nasal passages, the uterus and the mouth. Leaves taken in a drink, dried or fresh, are said to expel phlegm through the bowels, and to encourage vomiting (the stomach) and the menstrual flow (the uterus). Chewed, the leaves draw mucus from the head (the nasal and sinus passages) and encourage sneezing. A decoction of as much as eleven grains of the fruit purges. The leaves are said to bite and burn the mouth and the jaws, a sensory test that also records local irritation of the mouth. The chapter prints no warming, cooling, drying or moistening quality and no named degree. The root is “useless”, and the plant grows in mountainous places. Every use given is a forced evacuation, so this is an account of Dioscorides’ claims for a burning plant whose identity the translators list among several candidates.
+
 ### Contraindications
 
 The plant described is a burning, purgative and emetic one, and the Daphne genus is generally known to be poisonous; no part of it should be chewed, drunk or applied on the strength of this entry. Dioscorides' uses to bring on the menstrual flow and to purge are not safe self-treatment, and no safety information for pregnancy was read. The identification rests on a long list of translators' candidates, so no wild plant should be gathered or used. None of the traditional uses above is advice. [USER: verify]

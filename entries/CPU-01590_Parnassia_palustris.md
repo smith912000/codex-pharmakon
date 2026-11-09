@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The useful lesson is Dioscorides' method: to name a plant by its place, to describe the root as carefully as the leaf, and to note where the same plant is harmful. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Dioscorides' chapter 4-32 maps the plant onto the eyes, the urinary tract, the bowels and vomiting. Its juice, boiled with wine, honey, myrrh, pepper and frankincense, is called an excellent medicine for the eyes, and a root decoction is said to be good for the same disorders. The seed is called strongly diuretic, meaning it draws out urine, and it is said to stop vomiting and flowing bowels. The roots are described as white, soft and strong, and the plant as having a sweet scent. The chapter names no warming, cooling, drying or moistening quality and no subtle body. A Cilician form of the plant is said to inflame rude beasts, meaning grazing animals, when they feed on it while moist. Modern anatomy would place these actions in the eye, the urinary system and the digestive tract, but the chapter gives no mechanism and the entry does not supply one.
+
 ### Contraindications
 
 Eye medicines made at home are an infection risk and should not be put in the eye. The chapter warns that the plant growing in Cilicia inflames grazing animals when moist, which is a reminder that the plant may be harmful; the chapter's diuretic and anti-vomiting uses should not be tried.  The identification rests on a translators' suggestion, so no plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

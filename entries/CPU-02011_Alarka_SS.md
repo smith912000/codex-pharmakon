@@ -51,6 +51,10 @@ General, well-established facts only. Calotropis latex is irritant and cardiotox
 
 **Practitioner's note.** A group-listed, probably toxic drug used in unguents, errhines and decoctions for worms, ulcers and skin disease. Nothing in the record supports any cultivation use. A cultivator should not use it.
 
+### Functional–Anatomical Correlate
+
+The Arkadi group, which the Sushruta Samhita says destroys Kapha and fat and the effects of poison, acts as a vermifuge and an aseptic agent for ulcers, and cures skin disease. Alarka also appears as a nasal errhine (a drug for the nose, Sutra ch. 39), in a decoction for an ear-lobe unguent, in an oil for a polypus, and in a decoction for worms in a diseased skin locality. Mapped onto the body, this covers the nasal passages, the ear lobe, the skin and ulcerated wounds, the fat and Kapha humour, and the worms the text names. The Vata-soothing list places it among drugs that restore deranged Vata. The text gives no rasa, virya or vipaka, and no part used or dose for this drug. The identification with Calotropis gigantea is an unverified positional pairing, and Calotropis latex is irritant and cardiotoxic in general terms. The word Alarka also names a rabid dog in Kalpasthana ch. 6, which is not evidence for the plant.
+
 ### Contraindications
 
 - **TOXIC, probably.** If the identification as Calotropis is right, the latex is caustic and poisonous. Do not ingest it, and keep it from the eyes and skin.

@@ -73,6 +73,10 @@ Provisionally: bitter and cool, dispersing — the generic profile of an alkaloi
 
 **Practitioner's note.** Nothing. This is a study specimen and a family-caution exemplar; neither tradition read here supports gathering or growing it for use.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry says the traditional record for this species is thin and gives no independent indication. It records only that Dioscorides' isopuron, identified at genus level only, was decocted in honey water for chest disorders, coughs, spitting of blood and liver complaints, and that the Ranunculaceae family carries protoanemonin irritancy of skin and mucosa, unconfirmed for this species. Its isolated alkaloids are described as modulating the complement system, reducing paw oedema in mice, and showing antimalarial activity against Plasmodium falciparum in vitro. The energetic classification is inferred, not attested, and no human data are reported.
+
 ### Contraindications
 
 - **Ranunculaceae irritancy caution:** the buttercup family characteristically carries ranunculin/**protoanemonin**, an acrid vesicant liberated on tissue damage that can irritate skin and mucosa; although protoanemonin content was not confirmed for this species in retrieved data, handle fresh material as potentially irritant. [USER: verify species-specific protoanemonin content.]

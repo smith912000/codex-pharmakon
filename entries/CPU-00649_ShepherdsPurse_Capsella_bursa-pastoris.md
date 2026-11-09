@@ -67,6 +67,10 @@ According to PubMed: Łukaszyk, Kwiecień & Szopa (2024), *Nutrients*, reviewed 
 
 ---
 
+### Functional–Anatomical Correlate
+
+Shepherd's Purse is described as a staunching astringent acting on blood flow, the uterus and the digestive system. Its Galenic and Unani frame (cold and dry) places it in the astringent, styptic class for haemorrhage, excessive discharge and relaxed tissue. Dioscorides records it for checking flux and haemorrhage. The entry's most-cited action is uterine: traditional haemostatic and uterotonic use after childbirth and for heavy menstrual bleeding. In TCM terms (Ji Cai, sweet and cool) it benefits the eyes, supports the liver and spleen, stops bleeding and clears damp-heat of the lower body. The constituents named are flavonoids, phenolic acids, amino acids and vitamin K activity in fresh material, which the entry links to coagulation-supporting folk use. Acetylcholinesterase inhibition and anti-inflammatory activity are reported in vitro and in review. Human clinical data for the haemostatic and gynaecological indications are limited, so the organ claims are traditional to preclinical.
+
 ### Contraindications
 
 ⚠️ **PREGNANCY — UTEROTONIC CAUTION.** Shepherd's purse has a strong traditional reputation as a **uterine stimulant/haemostatic used around childbirth**, and this same action makes it a concern in pregnancy.

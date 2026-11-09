@@ -48,6 +48,10 @@ Tannin-rich barks are astringent, and this is the general basis of their use on 
 
 **Practitioner's note.** Nothing is asked of a cultivator. The practice in the entry is plain: a tree is known by its galls, its bark is used for dressing wounds, and the physician records the Syrian and Iraqi names side by side. The entry shows that a single tree was taken by Avicenna from Dioscorides with the regional names attached.
 
+### Functional–Anatomical Correlate
+
+The entry maps the elm onto the face, the sight, the wounds and skin, the bones and the phlegm. Its pods' moisture is said to clean the face, and its fresh bark with vinegar is said to clean the sight. The bark wound round as a bandage heals blows and wounds, and the powder from the bark, mixed with anise, is said to prevent the spread of malignant ulcers. A decoction of root and leaf is poured over broken bones. A mithqal of the thick bark drunk with boiled wine or cold water is said to expel phlegm, the matter named, and the entry names no organ for it. The actions are binding and cleansing, with the bark binding. The Divine Farmer's Classic entry for the Chinese elm bark is sweet and neutral, governs blockage of urine and stool, frees the water passages and removes evil qi, and is said to lighten the body and reduce hunger when taken for a long time. The Unani entry gives no temperament degree, and the innate heat and radical moisture are not named.
+
 ### Contraindications
 
 - **Identification.** Elms are variable and hybridise; the species of Avicenna's drug is not stated.

@@ -150,6 +150,10 @@ Da Huang's pharmacological profile maps most closely to the Ayurvedic category o
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps rhubarb chiefly to the large intestine, the liver and gallbladder, and the bile and blood. Sennosides are converted by colonic bacteria to rheinanthrone, which drives chloride and water secretion via prostaglandin E2 and stimulates the myenteric plexus, giving a delayed purge of six to twelve hours. Emodin is said to reduce hepatic fibrosis through TGF-beta, and rhein acts on the renal proximal tubules, protective at low dose and nephrotoxic at high dose. Stilbenes act on platelets and COX-2; wine-processed rhubarb moves blood for bruising and lower-abdomen stasis, while charred rhubarb is hemostatic for gut bleeding. The entry gives sepsis and gut-barrier data on endotoxin translocation. Avicenna's rawand clears bile from the liver, with jaundice and liver heat as its targets. Spleen, Stomach and Heart appear in the TCM organ list, and pregnancy, electrolyte loss and kidney impairment are contraindications.
+
 ### Contraindications & Safety
 
 - **Pregnancy: absolutely contraindicated.** Da Huang is one of the strongest uterine stimulants in the Chinese materia medica. The anthraquinone sennosides stimulate smooth muscle, including uterine smooth muscle, through the same PGE2-mediated mechanism responsible for their intestinal purgative action. Use at any dose during pregnancy risks uterine contraction, premature labor, and miscarriage. This is an absolute contraindication without exception.

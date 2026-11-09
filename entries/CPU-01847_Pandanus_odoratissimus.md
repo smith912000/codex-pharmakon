@@ -53,6 +53,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with this plant: it is a season marker and a plaster and ash for a swelling and for deranged *Vayu*. Nothing should be gathered or taken on the strength of a Latin name that the chapters do not give.
 
+### Functional–Anatomical Correlate
+
+Under the names the chapters print, the plant (if it is this one) acts on glandular swellings, the abdomen and the Vayu. A hot plaster of its roots, with sugar, is applied to the affected part in the Pittaja type of Granthi, a glandular swelling, within the chapter on Apachi, tumour and goitre, which in modern terms covers the lymph nodes and neck glands. An ash of it, with Sarjika-Kshara and Kushtha and taken with oil, is a compound for an attack of deranged Vayu in the Gulma chapter. Under the name Trinashunya a fruit is given a sweet, bitter and pungent taste and is said to subdue Vayu and Kapham. The chapters print no rasa, virya or vipaka for Ketaki, and the link between the two names is a translator's bracket.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for this plant under either name. The identity is open, so no plant should be gathered or used on the strength of this entry. Glandular swellings and attacks of abdominal pain need medical assessment and not a plaster or an ash. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

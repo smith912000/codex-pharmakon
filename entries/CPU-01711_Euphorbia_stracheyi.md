@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a purgative for bile or *tripa* disorders in the Tibetan texts, with no preparation and no dose, and its Latin name rests on a glossary column position that the other Tibetan text does not confirm. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Men-Tsee-Khang text records that Tronbu cleanses tripa disorders and lists it among the purgatives, and Clark's khron.bu entry says the drug purges bile disorders. In modern anatomy terms the purge is placed on the digestive tract, and the bile disorders on the bile system of the liver and gallbladder, though the entry does not name those organs and the Tibetan tripa is not defined. Clark's commentary describes a small round green leaf and a taproot, which is description and not action. The entry gives no taste, power or post-digestive effect for Tronbu. The identity is contested: Clark's identifications for khron.bu are Physalis peruviana, Clerodendron fortunatum and Euphorbia sieboldiana, while the glossary's Euphorbia stracheyi rests on a column position, so the action belongs to the Tibetan name more than to any one plant. It is recorded as the texts' claim only.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The latex of *Euphorbia* species is generally known to be an irritant, a purgative drug can cause dehydration, and the identity is not settled, so no plant should be gathered or used on the strength of this entry. Latex that touches the eyes needs urgent medical care. No safety information for pregnancy was read. [USER: verify]

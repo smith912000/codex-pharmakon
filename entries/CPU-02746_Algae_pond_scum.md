@@ -48,6 +48,10 @@ General, well-established facts only. Pond growth can carry bacteria and, in som
 
 **Practitioner's note.** Nothing to do. A cold external remedy for hot swellings; it is not a food or a cultivation material in this text.
 
+### Functional–Anatomical Correlate
+
+In the Canon, tuhlub is cold, and the sea kind is stronger in astringency, with an action of stopping blood wherever it is applied as a coating. The entry maps its actions onto the skin, joints, nerves and the intestinal wall. Applied to hot swellings, to humra (erysipelas-like redness) and to namla (a spreading skin sore), it is said to help, and the lens-like kind mixed with barley meal is also named. On hot gout and hot pains of the joints, boiled in old oil, it is said to soften the nerve, which maps to the peripheral nerves. A poultice is said to shrink an intestinal hernia (qila), which maps to the abdominal wall and bowel. The text also names blood-stopping in every place it is applied, which maps to local bleeding control. Its rock cousin is said to be discussed elsewhere in the Canon and is not read here. The entry gives no species and states no internal use.
+
 ### Contraindications
 
 - **Wild-collected algae.** Contamination and cyanobacterial toxins in stagnant water; do not apply to broken skin. [USER: verify]

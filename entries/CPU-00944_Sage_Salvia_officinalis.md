@@ -75,6 +75,10 @@ The neuropharmacological rationale is shared across the sage/rosemary clade: a r
 
 **Practitioner's note.** A cultivator uses sage for clarity and consolidation — to sharpen focus and to staunch excess loss (sweat, discharge, over-dispersion) — in short courses, capped by thujone. Its towering "*Salvia salvatrix*" saviour-and-longevity reputation, including the couplet *"Cur moriatur homo cui salvia crescit in horto?"*, is European folk proverb and medieval garden doctrine — **not** a subtle-body cultivation status in any of the tagged traditions, and it must not be read as one. Modern cognition trials only tentatively support the memory claim; treat the longevity fame as recorded reputation, not an attested cultivation assignment.
 
+### Functional–Anatomical Correlate
+
+Sage acts on the brain, the secretory glands and the mouth and throat in the entry's account. Kenetica places it in the upper dantian, governing clarity, memory and sensory acuity. The modern correlate is that several constituents inhibit acetylcholinesterase, raising available acetylcholine, and the entry summarises clinical trials in healthy and demented subjects as moderate evidence. The Galenic and Unani texts call it a nerve-strengthening, drying astringent that checks excess sweat, saliva, milk, mucus and discharge; the entry ties this to tannin and flavonoid astringency and notes its use for hot flushes and night sweats. A gargle treats sore throat and gum inflammation. Digestive use after rich meals is listed without a stated organ mechanism. TCM assigns Lung, Stomach and Liver, but the entry says this is an analogue, not an attestation. Thujone, a convulsant, caps safe dosing.
+
 ### Contraindications
 - **Pregnancy & lactation:** traditional emmenagogue; **suppresses milk** (used deliberately to wean) — avoid when breastfeeding is intended; thujone risk in pregnancy.
 - **Epilepsy / seizure disorders:** thujone is a convulsant — avoid concentrated/oil preparations.

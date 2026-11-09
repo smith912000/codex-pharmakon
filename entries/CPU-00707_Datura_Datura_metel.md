@@ -77,6 +77,10 @@ According to PubMed:
 
 **Practitioner's note.** Nothing here is cultivated with. Across every tradition that genuinely holds it, *Datura metel* is a bounded poison: the Ayurvedic answer is *shodhana* under specialist control, the Chinese and Unani answer is minimal, dose-restricted or external therapeutic use, and the cultivator's answer is abstention. The plant teaches containment — the sacred gate that is not opened. Do not prepare, dose, or ingest by any route.
 
+### Functional–Anatomical Correlate
+
+The entry maps dhattura onto the nervous system and the airways, with a clear warning that these are poison actions rather than practice targets. Its tropane alkaloids, scopolamine, atropine and hyoscyamine, act as competitive antagonists at muscarinic acetylcholine receptors, producing the anticholinergic syndrome of delirium, hyperthermia, tachyarrhythmia and seizures that the entry treats as the central hazard. Traditional sources assign the plant to the lung and liver in Chinese medicine (warm, acrid, toxic), where it was used for wheezing, cough and pain. Ayurveda (upavisha, sub-poison) names asthmatic breathing, cough, pain and skin disease, admitted only after shodhana purification. Galenic-Unani writing places it as hot and dry to the third or fourth degree, a narcotic used mainly as an external anodyne. The entry's modern correlate is the biosynthesis of these alkaloids and documented poisoning cases. The Codex assigns no dose, no preparation and no practitioner-use phase, and no internal use by any route.
+
 ### Contraindications
 
 - **ABSOLUTE:** Not for self-administration by any route. All parts toxic.

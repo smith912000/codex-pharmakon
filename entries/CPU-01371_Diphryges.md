@@ -60,6 +60,10 @@ No clinical studies were retrieved for this entry. [USER: verify] General facts 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry gives this material actions on the skin, the flesh and the abscess. Dioscorides describes it as astringent and cleansing, and as repressing abnormal growths of the flesh, which maps to proud flesh and fleshy overgrowth in wounds. He says it forms new skins on malignancies and creeping sores, placing its action on the skin surface of ulcers and spreading sores. Taken with turpentine or wax ointments, it dissolves abscesses, a local action in the tissue around a collection of pus. Taken together these are external, topical sites: wound and ulcer surfaces, skin, flesh and abscess cavities. The chapter prints no hot or cold degree for diphryges. The warming and purging qualities of the nearby pyrites chapter belong to pyrites and are not mapped here. The sources name no internal organ for it.
+
 ### Contraindications
 
 - **Toxicity:** furnace residues of brass and roasted sulphide ores can contain copper, lead, arsenic and other toxic metals; the roasting releases sulphur dioxide and, from ores with arsenic, arsenic fumes.

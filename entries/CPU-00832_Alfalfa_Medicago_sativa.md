@@ -81,6 +81,10 @@ According to PubMed, alfalfa has a genuine — if double-edged — evidence base
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, alfalfa is a nourishing, cooling green in Galenic, Unani and Ayurvedic terms, with mineral and vitamin density supporting depletion and convalescence. Its Chinese mùxu placement, sweet and cool, is to clear damp-heat and benefit the bladder and small intestine as a mild diuretic, so the urinary tract and small intestine are its named targets. Its Greek and Unani standing is nutritive rather than potent, and its phytoestrogens, coumestrol and isoflavones, are mapped to the breast, uterine and ovarian tissues where the entry advises caution. The seed lipid effect, a fall in LDL and total cholesterol in a small trial, is mapped to gut bile-acid binding by saponins and to hepatic CYP7A1 in a multi-herb mouse model. The lupus hazard sits in the immune system: L-canavanine, an arginine mimic, is incorporated into proteins and can trigger or reactivate an SLE-like autoimmune syndrome. Vitamin K in the leaf is mapped to clotting, where it antagonises warfarin.
+
 ### Contraindications
 
 - **⚠️ SYSTEMIC LUPUS ERYTHEMATOSUS / AUTOIMMUNE DISEASE — DO NOT USE.** The non-protein amino acid **L-canavanine** (concentrated in seeds and sprouts) can **trigger a lupus-like (SLE) syndrome and reactivate existing lupus**. This is demonstrated in primates (Malinow 1982) and reviewed with human case reports (Akaogi 2006). Alfalfa seed, sprout and high-dose leaf products are contraindicated in anyone with SLE, a history of lupus, or other autoimmune disease. This is the governing hazard of the entry.

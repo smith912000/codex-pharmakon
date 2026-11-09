@@ -130,6 +130,10 @@ Hesperidin's human clinical base is thinner than its ubiquity in supplement mark
 
 ---
 
+### Functional–Anatomical Correlate
+
+Chen pi is mapped onto the middle burner, the Spleen, Stomach and Lung channels the TCM text names. Its four actions are regulating qi, drying damp, transforming phlegm and harmonising the middle. The digestive picture is distension and fullness after eating, belching, poor appetite, nausea, loose stool and a greasy tongue coat; the lung picture is productive white sputum with chest oppression. The entry's modern correlates are nobiletin, which changes isolated rat jejunal contractility in both directions depending on the enteric nervous system, interstitial cells of Cajal and calcium signalling, and aged peel, which improved a spleen-deficiency mouse model across fatigue, D-xylose absorption, gastrin, colonic occludin and gut microbiota. The Kampo lineage keeps the qi-regulating role. Contraindications are dry cough, yin deficiency, qi deficiency without stagnation, and heat patterns with scanty sticky sputum.
+
 ### Contraindications
 
 - **Yin deficiency / dry cough.** Chen pi is warm and drying by classification and by chemistry. In dry, hacking, unproductive cough or in yin-deficient heat, it is the wrong direction and will aggravate. This is the tradition's own caution and it is internally coherent.

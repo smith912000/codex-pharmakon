@@ -44,6 +44,10 @@ General, well-established facts only. Copper silicate and carbonate minerals wer
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The chapter is a lesson in two things: how to separate a good drug from a poor one by origin and washing, and that a drug listed among the emetics can also kill. The Codex does not recommend taking or applying it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides assigns chrysocolla to the skin, to scar tissue and to the growth of flesh. It is said to wear off scars and repress fleshy abnormal growths, and to act as cleansing, astringent, warming and gently corrosive, a little biting in its action. These qualities are printed for the drug in the text's own words, and they map to the skin surface and the dermis, where scars form and where fleshy overgrowth forms. The text also places it among the medicines that cause vomiting, so the claimed site of its action extends to the stomach and the vomiting reflex. The text says nothing of the liver, kidneys or blood, and it gives no temperament by degree beyond the warming quality. The Armenian stone of the next chapter is said to act in the same way. Modern anatomy therefore maps it to the skin and scar tissue, the stomach, and the vomiting reflex.
+
 ### Contraindications
 
 - **Toxicity:** the text itself says it can kill; copper compounds are poisonous when swallowed and corrosive to skin, wounds and the eye. Do not swallow, burn, inhale the dust of, or apply it.

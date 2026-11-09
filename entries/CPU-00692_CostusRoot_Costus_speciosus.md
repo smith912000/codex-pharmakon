@@ -80,6 +80,10 @@ Based on articles retrieved from PubMed (all on *Costus speciosus* specifically)
 
 **Practitioner's note.** A cultivator has almost nothing traditional to do with *this* plant: five of its six tradition tags are name-inheritances from the unrelated *Saussurea costus* and carry no attestation for the Costaceae species at all. Only Ayurveda actually names *kebuka*, and there it is a heating metabolic mover taken against *prameha* and stagnation — worked, not nourished with, and stopped when the load is cleared. The modern diosgenin/antidiabetic evidence is on this species; the ancient cultivation reputation is on the other one.
 
+### Functional–Anatomical Correlate
+
+Costus speciosus, the Ayurvedic kebuka, is described as acting on metabolism, digestion and the glucose and lipid axis rather than on a single organ. Ayurveda reads its rasa as bitter-pungent, its virya as heating and its vipaka as pungent, using it against prameha (the diabetic and urinary cluster), fevers, worms and skin disease as a deobstruent that clears kapha and vata. The Galenic/Unani costus (qust) is described as hot and dry, deobstruent, carminative and emmenagogue, but the entry notes that this profile was built on Saussurea costus rather than this species. The modern claims are the entry's own: the diosgenin-rich rhizome, with eremanthin and raffinose lowering plasma glucose, HbA1c, cholesterol and triglycerides in diabetic rodents, and raffinose described as acting on PPAR-gamma, adiponectin and GLUT4 translocation in liver, fat and muscle cell models. The entry states human clinical data are lacking. Cautions cover pregnancy, hypoglycaemia with antidiabetic drugs and steroidal saponin load.
+
 ### Contraindications
 
 - **Pregnancy:** traditional emmenagogue/deobstruent "costus" roots are cautioned against in pregnancy; avoid *C. speciosus* medicinally in pregnancy absent safety data [USER: verify].

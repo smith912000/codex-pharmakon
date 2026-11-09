@@ -51,6 +51,10 @@ General, well-established facts only. *Clitoria ternatea* is a tropical climbing
 
 **Practitioner's note.** A minor ingredient in compound formulae for poisoning and skin disease, identified only through the translator. Nothing in the record supports a cultivation use.
 
+### Functional–Anatomical Correlate
+
+The entry maps white Aparajita onto poisoning, the intestines, the skin, the airways and the mind. In a poisoning gruel (Kalpa 2), the plant, identified only through the gloss white Aparajita, is one of several decoctions described as beneficial in cases of animal and vegetable poisoning. In the Siddharthaka ghrita (Uttara 61), the compound ghee is said to cure poisoning, worms in the intestines, Kushtha (a skin disease), asthma, derangements of Kapha, Vishama-jvara, Bhuta-graha, insanity and Apasmara. These are the compound's stated actions, not the plant's alone. The Kapha reference is a humoral term, and the organ sites are those the list names in the text's own terms. No rasa, virya or vipaka is printed for the plant. The gloss white may denote a different form, and the Appendix identification is the translator's. Cow's urine ghee and poisoning are not for self-preparation.
+
 ### Contraindications
 
 - **Poisoning, Kushtha, insanity.** Medical conditions; use proper care.

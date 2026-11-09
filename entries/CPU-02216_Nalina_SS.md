@@ -51,6 +51,10 @@ General, well-established facts only. The identity is open, so no pharmacology c
 
 **Practitioner's note.** A name in a group list, and in a list of aquatic plants. Nothing supports cultivation use, and without an identification nothing can be gathered or used.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names no organ, tissue or body system for Nalina beyond the Anjanadi group as a whole. That group, in the metrical Sushruta text, is said to cure haemoptysis, to be anti-toxic, and to allay the internal burning sensation of the body. Haemoptysis is bleeding from the airways, so the group's stated action touches the respiratory tract and the blood, while the burning is described as internal and is not localised. Nalina's own appearance in chapter 13 is as a name in a list of aquatic plants, beside lotus-type plants, in a passage on the origin of leeches, and that passage gives no physiological action. The plant is not identified to species, so no organ or tissue can be attached to the drug itself. The entry assigns no rasa, virya, vipaka, humoral or qi correlate to Nalina.
+
 ### Contraindications
 
 - **Identity.** The plant is not identified to species. Do not substitute any lotus or water lily for it.

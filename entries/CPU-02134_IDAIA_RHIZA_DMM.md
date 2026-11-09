@@ -45,6 +45,10 @@ No identification is possible from the sources read, so no scientific correlatio
 
 **Practitioner's note.** Nothing to do. An unidentified astringent root for bleeding and discharges, with no instructions a modern reader could follow safely, and no cultivation use.
 
+### Functional–Anatomical Correlate
+
+The entry's own claims map this root to three sites of discharge. The text names discharges of the intestines (gastrointestinal tract), women's excessive menstrual discharges (uterus and female reproductive tract) and all discharges of blood (bleeding at any site). The only quality printed is that the root is 'especially astringent', and the drink is the manner of use. The text's terms are not humoral or doshic, and it uses no qi or other energetic vocabulary for this root. The leaf is compared with oxymyrsine, a plant the text names but which is not identified here, and the leaf, tendril and flower are given no organ role. The entry does not say which organ the astringency acts on, whether it acts locally or systemically, or by what mechanism. Because the plant is unidentified, these are the claims of the Dioscoridean text alone and do not establish an anatomical target for any preparation. Heavy menstrual or intestinal bleeding needs medical assessment.
+
 ### Contraindications
 
 - **Identity.** Unidentified; do not substitute any plant for it.

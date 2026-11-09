@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is an oedema-purging and lymph-drying drug in the Tibetan text, and its species is not settled. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Clark 1995 line for srad.dkar.wa, whose first Latin name is Astragalus yunnaneansis, says in its root-text layer that the drug purges the first and third stages of oedema (line 1098). Oedema is fluid collecting in the body's tissues, so fluid is the site the entry names. In the bracketed commentary, the white type cures phlegm disorders, and the third type, byehu.srad.ma, dries lymph accumulations, which places an action on the lymph. The description of byehu.srad.ma is printed outside the brackets, and the Codex reports it as printed without deciding its layer. The Men-Tsee-Khang text, under the name Saekar read by sound, calls the drug a diuretic that drains generalized oedema and ascites (line 3464), which adds diuresis, the passing of urine, and the abdominal cavity as sites. The entry names no organ by name, no taste and no power. The Codex maps only fluid, lymph and abdominal fluid, and does not map the phlegm.
+
 ### Contraindications
 
 The sources read print no warning. The drug is described as one that "purges", and purgatives can cause dehydration, a general fact and not a finding about this plant. Plants of the genera *Astragalus* and *Oxytropis* include known livestock poisons, and the botanical identity is uncertain, so no plant should be gathered or used on the strength of this entry. Oedema needs medical care. No safety information for pregnancy was read. [USER: verify]

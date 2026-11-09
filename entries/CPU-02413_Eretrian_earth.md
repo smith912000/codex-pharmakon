@@ -44,6 +44,10 @@ General, well-established facts only. Washing a ground earth by repeated settlin
 
 **Practitioner's note.** A cooling dressing earth of the ancient shop, notable for the care of its assay and its washing. Nothing here supports ingestion or any cultivation use, and the gloss that names barium is a reason for caution. The Codex takes from it the habit of testing a material before use and distrusting a substitute.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter names two sites, both of the skin and soft tissue. It says Eretrian earth is astringent, cooling and gently softening, and that it fills up hollow sores and closes open cuts and bleeding wounds. The hollow sore is a site of tissue loss, and the open cut and bleeding wound are sites where blood escapes through broken skin, so these are the claimed tissue targets. The chapter prints three qualities, astringent, cooling and gently softening, and no degree and no humour. It names no internal site, no organ, no channel and no drink, and it gives no dose. The washing and roasting described in the chapter are preparation methods only and say nothing about the body. The entry's account of the earth's origin is not a body system and is not mapped.
+
 ### Contraindications
 
 - **Toxic possibility.** The translator's gloss includes barium and strontium oxides. The identity is not established, so treat any "Eretrian earth" of unknown composition as unsafe.

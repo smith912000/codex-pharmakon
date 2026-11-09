@@ -69,6 +69,10 @@ Together these support antioxidant and COX-2-directed anti-inflammatory activity
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps lungwort's action onto the respiratory tract, the chest and the throat. Traditional terms read it as cool and moist, a second-degree demulcent that soothes hot, dry, irritated chest and throat conditions such as a burning dry cough, hoarseness and rawness. Its mucilage is described as a soothing film over irritated pharyngeal and bronchial mucosa, and its tannins as tightening and protecting inflamed tissue. Phenolic acids show antioxidant and COX-2-inhibiting activity in vitro, pointing to anti-inflammatory action on the airway. Allantoin is noted for soothing, tissue-supportive action, and the entry mentions topical use over broken skin. The entry states there are no robust human respiratory trials. The main body-level hazard is hepatic: pyrrolizidine alkaloids can injure the liver through hepatic veno-occlusive disease, so the entry bars internal use in pregnancy, breastfeeding, infants and anyone with liver disease.
+
 ### Contraindications
 
 ⚠️ **PYRROLIZIDINE-ALKALOID (PA) HEPATOTOXICITY — INTERNAL USE.** *Pulmonaria officinalis* is a member of Boraginaceae, the plant family that includes comfrey and borage and is notorious for hepatotoxic 1,2-unsaturated pyrrolizidine alkaloids. These PAs are cumulative hepatotoxins linked to hepatic veno-occlusive disease (sinusoidal obstruction syndrome), and are genotoxic/potentially carcinogenic. Even where individual lungwort samples test low, the family-level risk means **internal use should be short-term, limited to PA-tested material, and avoided entirely in:**

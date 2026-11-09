@@ -51,6 +51,10 @@ Many spurge roots are used in East Asian medicine and have been studied in the l
 
 **Practitioner's note.** A lower-grade, toxic drug in the Chinese scheme: a caustic for a defined complaint, for a short course under skilled hands, and then stopped. Nothing here supports long-term use, and the classic's own grading is the warning. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Shennong paragraph names flesh and skin: it is said to eat away malign flesh (蚀恶肉) and dead flesh (死肌), and to treat rotten sores (败创). It names the blood and pus, expelling pus and malign blood (排脓恶血), and itch worms (杀疥虫), which the entry glosses as scabies-type parasites. Its other claims are wind and mind: it removes great wind (除大风), and it treats forgetfulness and joylessness (善忘不乐), which map to the mind and mood. The Wu Pu layer adds a description of the root, which describes the plant, not the body. The flavour is acrid and cold in Sun's text, and sour, salty and toxic in the Wu Pu citation of Qibo. The classic's own use of the drug to eat away flesh describes a caustic action, and the entry gives no safe organ-level effect. No organ or channel affinity is printed.
+
 ### Contraindications
 
 - **Toxic and caustic.** Do not take or apply any spurge root. The latex burns skin and eyes and can cause severe vomiting and diarrhoea if swallowed.

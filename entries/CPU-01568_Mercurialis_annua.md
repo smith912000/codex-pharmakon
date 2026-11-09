@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a bowel-moving herb with a reported folk belief attached, and no quantity. The useful lesson is Dioscorides' method of telling two kinds apart by their seed and branches, and the abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The entry's Dioscorides claims (DMM, chapter 4-191) act on the bowels, the bile and the reproductive organs. Eaten as a vegetable, or boiled and drunk, the plant is said to move the bowels, which names the intestine as the site. The water from boiling it is said to expel bile and watery stuff, a function of bile and fluid evacuation that names no organ. The leaves of the female plant, pounded and drunk and applied to the genitals after the menstrual flow, are said, on report ('It is thought that'), to lead to the conception of a female child, and the male leaves to a male child; the uterus, genitals and menstrual cycle are the sites the text names. The chapter prints no humour, dosha, qi, temperament, cooling or astringent quality for this plant. Modern anatomy terms for the named sites are the intestine, bile and fluid excretion, and the female genitals with the menstrual cycle. The sex-of-child claim is a recorded belief, the entry says it has no pharmacological basis, and no quantity is given.
+
 ### Contraindications
 
 Dioscorides gives the plant as a bowel-mover that "expels bile and watery stuff", and records leaves applied to the genitals after the menstrual flow, so none of these should be self-treated, and no safety information for pregnancy was read. Species of *Mercurialis* are generally regarded as harmful when eaten in quantity, and the same author notes that mercury in a pasture upsets milk. The identification rests on a translators' suggestion that the text itself does not confirm, so no wild plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

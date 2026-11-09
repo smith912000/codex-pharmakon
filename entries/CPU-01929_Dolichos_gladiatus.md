@@ -50,6 +50,10 @@ General, well-established facts only. *Canavalia gladiata* is a cultivated bean 
 
 **Practitioner's note.** Nothing to cultivate here. A bean named in a glossary, with no cultivation status in the sources read. A cultivator has no sourced use for it, and the raw bean is a hazard.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry gives no organ or tissue claim for Simbi itself. The appendix glosses the name as Dolichos gladiatus with no use, part or preparation, the identification is of low to medium confidence, and the main text does not contain the form Simbi. The only nearby material is for the related Shimva beans, which the entry says may not be the same bean. For those Shimva beans the chapter states that they are astringent, produce parchedness in the system, are antitoxic and discutient, reduce Kapham and the power of sight, are imperfectly digested, and cause evacuation of the bowels and emission of flatus. Pungent heat-making is stated for their digestion. The sources read give no pregnancy statement and no dose, and the entry notes that raw beans are unsafe to eat.
+
 ### Contraindications
 
 - **TOXIC when raw.** Raw or undercooked sword beans are generally regarded as unsafe. Do not eat them.

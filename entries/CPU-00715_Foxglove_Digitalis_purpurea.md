@@ -128,6 +128,10 @@ This is, unusually, a serviceable *phenomenology* wrapped around a false *mechan
 
 **Practitioner's note.** Nothing from this tradition. The plant lies outside the Dioscoridean record.
 
+### Functional–Anatomical Correlate
+
+The entry maps purple foxglove to the heart and to blood potassium balance, with the eye and gut as early toxic signs. Its cardenolides (digitoxin, purpurea glycosides A, B and E) inhibit the myocyte Na+/K+-ATPase, strengthening contraction and slowing the pulse; the entry notes digitoxin clearance is hepatic rather than renal. Its folk doctrine of dropsy (swelling and breathlessness) read the effect as a diuretic action on the water passages, but the entry says the kidney is not the target: diuresis is secondary to better cardiac output. Withering's 1785 account maps the responders to heart failure. Folk use also applied the leaf externally to ulcers and sores, which the entry marks as unsupported. Toxicity is listed as nausea and abdominal pain first, then xanthopsia, then hyperkalaemia, brady- or tachyarrhythmia and cardiac arrest. The entry assigns Cold and Dry folk energetics and gives no safe internal target.
+
 ### Contraindications
 
 **⚠️ ABSOLUTE — no ingestion, by anyone, in any preparation, at any dose, for any reason.**

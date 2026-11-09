@@ -46,6 +46,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a purgative drug for lymph accumulations and oedema in the Tibetan texts, and nothing more can be said from them. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Within the Tibetan texts this drug acts on the fluid and lymphatic system and on the bowel. Clark's root-text line says it purges lymph accumulations and oedema, which maps to the lymphatic circulation and to the tissue spaces where fluid gathers as swelling. The Men-Tsee-Khang text uses the untranslated term chhuser and says the drug drains chhuser and ascites, so the abdominal cavity and the fluid held in it are the stated target. Chapter 21 places it in the purgative class, which in modern anatomy means the intestines and their emptying action. The Explanatory Tantra also groups it among drugs of two or more combined tastes, though no single taste is printed for it. The texts name no organ beyond these, and they do not equate chhuser with lymph, so the modern terms here are a mapping and not the texts' own words. The entry's identity is uncertain between three binomials, so no species-level anatomy can be assigned.
+
 ### Contraindications
 
 The sources read print no warning. Purgatives can cause dehydration and cramping, and oedema or swelling that persists needs medical care. The botanical identity is uncertain (three binomials in Clark, two of them other plants, and commentary that lists three identifications Clark's source calls erroneous), so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

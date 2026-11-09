@@ -52,6 +52,10 @@ General, well-established facts only. Because the translator's glosses point to 
 
 **Practitioner's note.** A name whose identity the translator himself gives two ways. Nothing supports cultivation use, and without an identification nothing can be gathered or used.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names no organ, tissue or body system for Nalada alone. The only action it states belongs to the Anjanadi group as a whole: the metrical Sushruta text says the group cures haemoptysis, is anti-toxic in character, and allays the internal burning sensation of the body. In the translation, Nalada appears as an ingredient in an eye-salve and snuff against the vapours of poisoned food, in a compound in the bites chapter, in a plaster, and in medicated oils and ghee, but these are compounds and the text does not say which part of the body each element acts upon. The drug's identity is unresolved, so no tissue can be attached to it with confidence. The entry does not state a humoral, doshic or qi correlate for Nalada, and none is imported from the group.
+
 ### Contraindications
 
 - **Identity.** The plant is unresolved. Do not substitute spikenard, vetiver or any other herb for it.

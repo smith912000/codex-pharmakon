@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. The answer is to do nothing with it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that curare-type arrow poisons are generally known to act by blocking nerve signals to skeletal muscle, and its contraindications say such material paralyses muscle, including breathing muscles, and can kill. The row names calabash or pot curare from Strychnos toxifera and gives no people, region, preparation or use. It joins two container words under one species, which the entry marks as unexplained. The composition of this species was not read. The entry adds that the genus Strychnos is generally known to include other highly poisonous plants. The only body systems named are therefore the neuromuscular junction, skeletal muscle and the breathing muscles, and no humoral, doshic or Qi classification is printed.
+
 ### Contraindications
 
 No safety data were read. Curare-type preparations are arrow poisons that act by paralysing muscle, including the muscles of breathing, and they can kill. The genus *Strychnos* is also generally known to include other highly poisonous plants. No one should handle, prepare or ingest such a material on the strength of this entry. Seek emergency medical care for any exposure. Legal status varies and is unchecked. [USER: verify]

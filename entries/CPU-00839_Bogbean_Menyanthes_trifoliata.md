@@ -64,6 +64,10 @@ Graded honestly, bogbean is **chemically well-characterised but clinically data-
 
 **Practitioner's note.** A small, tasted dose before meals is the whole practice; more is not better and it irritates the gut. Nothing in the sources supports long-term use as a vitality substance.
 
+### Functional–Anatomical Correlate
+
+The entry maps bogbean chiefly onto the stomach and the digestive secretory apparatus, within the Operative bitter-tonic frame of Kenetica. Taken shortly before food, its intense bitterness is held to act through taste: the bitter receptors of the tongue provoke salivary flow, gastric acid and enzyme secretion, appetite and bile flow, which the entry calls a cephalic-phase digestive response. The bitter principles are secoiridoid glycosides. The entry states that this stomachic action is a class-level inference from gentian-type bitters, not a trial result for this species in people. Folk use reaches the joints and blood through an antirheumatic and cleansing reputation, which the entry supports only with preclinical anti-inflammatory and antioxidant work in cell models. Diarrhoea, dysentery, gastritis, peptic ulcer and colitis are named as conditions where the bowel or stomach is already loose or irritated and should not be stimulated. Traditional energetics: cold, dry and intensely bitter.
+
 ### Contraindications
 
 - **Avoid in diarrhoea, dysentery or loose stools** — bogbean can be laxative/purgative and will worsen them.

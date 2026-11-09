@@ -46,6 +46,10 @@ General, well-established facts only. *Vaccaria hispanica* is an annual weed of 
 
 **Practitioner's note.** The classic gives this seed an upper-grade, long-use promise alongside a wound-and-bleeding profile, and then gives no part, preparation, dose or course. That is a record of wording, not a practice. Nothing here supports taking it long as a regimen; the later menses-and-lactation use in Yang's footnote is a different matter and is not a cultivation use.
 
+### Functional–Anatomical Correlate
+
+The classic's bitter, balanced seed is recorded for incised wounds and for stopping bleeding, which places it on the skin and the bleeding at the wound. It is said to drive out pain, to bring out thorns, meaning splinters or foreign bodies in the flesh, and to remove wind impediment and internal cold (除风痹内寒). Impediment is in general a complaint of the joints and tissues, a modern mapping the classic does not make, and internal cold refers to the inner body in traditional terms. Taken long, the classic says it lightens the body, bears old age and increases longevity, which are the classic's wording and not organ claims. Yang's footnote adds menses, lactation and delivery, but that is a modern commentary and not the classic. No channel or organ assignment is given, and the entry notes a general pregnancy caution from current Chinese pharmacy, which is not part of the classic. No dose is given.
+
 ### Contraindications
 
 - **Pregnancy.** The only sources that speak to the menses and delivery are Yang's footnote and current Chinese pharmacy, where the seed is cautioned in pregnancy; avoid it in pregnancy. This is a precaution from general knowledge and not from the classic. [USER: verify]

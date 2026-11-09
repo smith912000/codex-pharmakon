@@ -38,6 +38,10 @@ General facts only. Antler is bone with a velvet covering while it grows. Game m
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The roe deer is in the tradition as a horn that stands in for rhino horn and as a game meat, and the honest reading is historical.
 
+### Functional–Anatomical Correlate
+
+The sources place the deer horn in the stomach and torso, as a horn of similar action to rhino horn. Clark's Explanatory Tantra says the two deer horns act similarly to rhino horn, which dries accumulations of pus, blood and lymph in the stomach and is beneficial in poisoning. The Men-Tsee-Khang edition gives the same action as drying pus, blood and chhuser of the torso. The horn is described by size (bulky, about fifteen centimetres) and by this action only. As meat, the deer belongs to the larger dry-land game animals. Clark describes the flesh as sweet tasting, with cool, light and coarse powers that eliminate wind and phlegm fevers. Men-Tsee-Khang describes it as cool, light and rough, bringing down hot disorders associated with loong and baekan. Those two named winds or humours are the only systemic terms given, and no organ beyond the stomach and torso is named.
+
 ### Contraindications
 
 - **Identity:** the animal is named "Spotted Deer" and "roe deer" in the two books, with a muntjac alternative in the meat list; do not rely on the English names. [USER: verify]

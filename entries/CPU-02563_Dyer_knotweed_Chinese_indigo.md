@@ -47,6 +47,10 @@ Indigo-yielding plants are the source of the dye indigo, which is old and widely
 
 **Practitioner's note.** The Chinese scheme classes this seed with the drugs for long-term life-nourishing use, with the promise of a dark head of hair and a light body. The cultivator's use of the entry is mostly to read the claim for what it is: a grading made by the classic and not a result. The plant is a dye plant first, and the identification of the seed is not secure. If used at all, use it only as the text allows. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Shennong paragraph names no organ or channel. Its claims are against poisons and against several conditions the classic groups under gu and ghost afflictions: it says the seed resolves various poisons, kills gu (a character is lost in the transcription, and Yang reads worms), treats zhu-ghost influx, and counters stinging poisons, which Yang glosses as insect bite toxins. On long use it says the head does not turn white, meaning the hair does not go grey, and that the body is lightened. Lightening the body (qing shen) is a classical effect term, not weight loss, and has no modern anatomical referent. The paragraph gives no mechanism. The Mingyi layer's note that stems and leaves dye blue concerns the plant as a dye, not the body. On the entry's own account the tissues touched by these claims are the hair, the site of a bite or sting, and the body as a whole. No source read shows any of them affected.
+
 ### Contraindications
 
 - **Identity.** Several different plants carry the name *lan*; seed sold as 蓝实 may not be *Persicaria tinctoria*.

@@ -46,6 +46,10 @@ General, well-established facts only. Plants of the borage family often contain 
 
 **Practitioner's note.** Nothing to practise. A name in a glossary is not a recipe, and no passage retrieved shows what Sushruta did with this plant. The responsible cultivator's act is to leave it as a record and to verify the identification before drawing on it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that Bhishagratna's appendix lists the Latin name Heliotropium indicum against a Sanskrit key by position, from the OCR line Helistropium Indicura, and that the chapter files give no passage using the plant as a drug. The nearby name Nagadanti appears in a drug list with no link to this Latin name. No body system, organ or tissue is named, and no rasa, virya, vipaka, preparation or dose is printed. No rasayana, vajikarana or cultivation context is attested. The entry's general fact is that plants of the borage family often contain pyrrolizidine alkaloids, which damage the liver, and that the genus is generally listed among them. The entry says it cannot establish the amount or whether this species contains them, and it advises against ingestion.
+
 ### Contraindications
 
 - **Identity.** The identification is from a garbled OCR line and a positional pairing of columns, at medium confidence. Do not gather or use a plant on this basis. [USER: verify]

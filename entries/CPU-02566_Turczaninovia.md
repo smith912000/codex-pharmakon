@@ -49,6 +49,10 @@ The aster family includes many medicinal and food plants, and the *Aster* group 
 
 **Practitioner's note.** A middle-grade drug in the Chinese scheme: a remedy for a defined set of complaints, taken for a course and then stopped, and nothing here supports long-term use. The entry is a record, and its main caution is that the paragraph is damaged. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The surviving paragraph is cut off at the word cold, so the sites it names are incomplete. The sites it does name are the intestines and gut, where it names rumbling bowels (肠鸣) and cholera-like vomiting and diarrhoea (霍乱泄利). The stomach is implied by the vomiting but not named. It also names a moving pain that goes up and down with no fixed place, which is a claim about the course of pain rather than a fixed organ. Its wind-chill phrase and its fright-epilepsy claim (惊痫) are not mapped by the text to any body surface or to the nervous system. The flavour is acrid and warm, and the entry gives no organ or channel affinity. Yang's completion, hundreds of diseases with cold and heat, is his own and is not used to map any tissue. No long-use claim is visible in the surviving text.
+
 ### Contraindications
 
 - **Gut illness.** Vomiting and diarrhoea with dehydration need medical care; do not self-treat with this root.

@@ -76,6 +76,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Wild safflower is placed as a warm, dry deobstruent acting on the bowel, the menses and stagnant states. Dioscorides records the seed as an aperient that moves the belly, and the florets as stimulating menstruation and evacuating phlegm. Unani (usfur, qurtum) and the Qanun use it as a resolvent, emmenagogue and seed laxative to move stagnant humours. The TCM register for the cultivated relative, hong hua, is to invigorate blood and dispel blood stasis, which the entry explicitly does not transfer to this wild taxon. Modern correlates concern the seed oil, not the florets: a linoleic-rich fixed oil with antioxidant, antibacterial and antifungal activity against skin pathogens, supporting skin-barrier and wound use. Those findings are in vitro and largely on the cultivated C. tinctorius. The uterus and anticoagulated blood are the tissues to guard, given the emmenagogue reputation and possible potentiation of anticoagulant and antiplatelet drugs.
+
 ### Contraindications
 
 - **Pregnancy — avoid.** Safflower florets and seed preparations are traditional emmenagogues and are reputed to stimulate uterine activity; the cultivated species (*hong hua*) is a classic Chinese herb contraindicated in pregnancy for its blood-moving action. Avoid therapeutic floret/seed preparations in pregnancy and during heavy menstrual bleeding.

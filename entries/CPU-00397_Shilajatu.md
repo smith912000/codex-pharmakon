@@ -77,6 +77,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+The Sushruta text maps Shilajatu mainly onto the urinary tract, the abdomen, the body's fat and the channels. In the Ushakadi group its printed actions are to destroy kapha, absorb the fat of the body and relieve stone or gravel in the bladder, dysuria and abdominal glands (gulma). Sutrasthana ch.15 lists it among anti-fat compounds that clear channels blocked by fat deposits. The diabetes chapter credits it with curing madhu-meha, meha, kushtha, epilepsy, insanity, elephantiasis, phthisis, oedema, haemorrhoids, jaundice and chronic fever, and with dissolving long-standing gravel in the bladder. Chikitsa ch.5 names heart-disease, aversion to food, gulma and internal abscesses, and says it subdues vayu aggravated by fat and kapha. In modern anatomy terms the claimed sites are the bladder and urinary tract, the heart, the abdomen, the lungs, the brain and nerves, the skin, and the fat stores of the body.
+
 ### Contraindications
 
 - **Identity and purity:** the substance as the text describes it is a mountain exudate, and what is sold today may be adulterated or contaminated with heavy metals or microbes; the text itself says the metals are present in it.

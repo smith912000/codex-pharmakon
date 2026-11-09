@@ -45,6 +45,10 @@ General, well-established facts only. Acetic acid and strong salt solutions are 
 
 **Practitioner's note.** Nothing for a cultivator. Salted vinegar is a kitchen item, and the chapter's wound uses are not for the home. The only transferable lesson is attention to timing.
 
+### Functional–Anatomical Correlate
+
+The chapter maps onto the skin and wounds, the blood, the bowel and rectum, the pelvic floor, the mouth and throat, and the scalp. It is applied hot to gangrenous and rotten ulcers and to dog and venomous bites (skin and tissue); poured warm into a wound after castration to stop a discharge of blood; used for a fallen perineum (pelvic floor); given as a suppository for dysentery with gangrenous ulceration, followed by a milk enema (bowel and rectum); sipped and gargled to kill leeches (mouth and throat); and used to clean dandruff and running ulcers on the head (scalp). Dioscorides names no humour, dosha or qi channel and prints no quality for the preparation beyond the instruction that it be applied or poured warm. The entry records these as historical indications only. Acid brine is caustic to damaged tissue and to mucous membranes, so the entry advises against rectal, throat and eye use, and wounds, dog bites and venomous bites need prompt medical care.
+
 ### Contraindications
 
 - **Wounds and bites.** Do not pour acid brine into wounds; clean with water and seek care. Dog and venomous bites are emergencies.

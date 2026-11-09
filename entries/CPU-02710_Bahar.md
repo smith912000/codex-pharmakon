@@ -43,6 +43,10 @@ General facts only: the daisy family contains many plants with aromatic flowers,
 
 **Practitioner's note.** A one-line Canon entry for a daisy-like flower smelled for head winds. No cultivation framing, and too little text to say more.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one function, that smelling the flower benefits coarse winds in the head. In modern anatomy terms the only system the text names is the head, reached through smell, which the entry does not describe further. Its temperament is hot in the second degree and dry in the first, and that humoral frame is the only energetic classification the entry gives. The entry gives no other use, no preparation, no part of the plant beyond the flower, and no dose. No authority is named for it. The Persian name kawjashm, cow's eye, is noted in the entry, and the botanical guess Buphthalmum is not in the text. The Codex records this single claim as historical only and does not recommend the flower.
+
 ### Contraindications
 
 - **Daisy-family allergy.** People allergic to the family should avoid it. [USER: verify]

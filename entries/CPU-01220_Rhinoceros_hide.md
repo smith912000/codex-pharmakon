@@ -36,6 +36,10 @@ No clinical studies were retrieved for this entry. [USER: verify] Smallpox is ca
 
 **Practitioner's note.** Nothing here supports a cultivation use, and a cultivator has two reasons to leave it alone: the disease it names is gone, and the animal is endangered. The honest entry is a record of what the Tibetan materia medica listed.
 
+### Functional–Anatomical Correlate
+
+Little to map: the only stated claim is that the hide cures smallpox, in both Tibetan texts, where it is paired with ox hide. The organ is the skin. No preparation, route or other system is named.
+
 ### Contraindications
 
 - **Legal and conservation status:** all rhinoceros species are protected, and international trade in rhinoceros parts is prohibited or tightly restricted under CITES. Possessing or trading hide, horn or derivatives can be a serious offence, and the demand drives poaching. [USER: verify]

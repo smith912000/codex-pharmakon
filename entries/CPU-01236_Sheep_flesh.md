@@ -38,6 +38,10 @@ General, well-established facts only. Cooked lamb and mutton are a dense source 
 
 **Practitioner's note.** A cultivator does nothing special with this. In Sushruta, mutton is a heavy, building food that suits some conditions and is forbidden in others, and the same chapters that praise its constructive quality list it among things to avoid when ulcerated, when *Pittam* is aggravated, and with milk. If it is eaten, it is eaten as food, cooked and with attention to the person's state, and not as a substance for cultivation.
 
+### Functional–Anatomical Correlate
+
+Sheep flesh acts on the body as a food, and the Sushruta entry maps its effects through the tradition's own terms. The chapter calls it constructive and tonic, which it links to bodily strength, complexion and the ojas principle, and it calls the flesh heavy. The flesh is said to generate Pittam and Kapham, and the domestic-animal group as a whole is described as sweet in taste and digestion and as destroying the deranged Vayu. In modern anatomical terms the systems in play are digestion and the tissues the food is said to build, chiefly muscle and blood. The text's own cautions mark where it should not act: mutton is listed among unwholesome articles for a person with an ulcer, as a possible aggravator of Pittam, and as harmful when eaten with milk. No single organ is named as the target.
+
 ### Contraindications
 
 - **Hygiene:** mutton must be cooked through; undercooked or poorly stored sheep meat can carry bacteria and parasites, and raw sheep offal is a particular risk.

@@ -47,6 +47,10 @@ General, well-established facts only. *Barringtonia acutangula* is a tree of the
 
 **Practitioner's note.** A name in a glossary and nothing more. A cultivator has nothing to do with it from this text, and it is not to be gathered or used on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the Appendix to Bhishagratna's Volume III gives the name Hijjala against the identification Barringtonia aculangula, and nothing else. The lines read name no part of the tree, no preparation, no dose and no use, and assign no rasa, virya or vipaka. The name does not appear in the Sushruta chapters on disk, including the flavour groups of Sutrasthana ch.42, the food chapter ch.46 and the tonic-remedy chapter Chikitsa ch.30. The text therefore links the plant to no organ, tissue, channel, dosha or humour, and states nothing about the digestive, respiratory, skin, nervous or reproductive systems. The only other statement in the record is that the pairing is read from a damaged scan and may not hold. Because the name Hijjala may stand for other plants in later practice, no body-system correlate is drawn here, and none should be read into the name.
+
 ### Contraindications
 
 - **Unknown properties.** The text gives no use, so no use is safe to infer. The genus includes fish-poison plants, so do not eat or apply any part of the tree. [USER: verify]

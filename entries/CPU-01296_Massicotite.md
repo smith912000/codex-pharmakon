@@ -42,6 +42,10 @@ General, well-established facts only. Stones glossed as lead oxides are toxic wh
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The record is a short description of a black, needle-breaking stone and one shared statement about bone colour, with a name whose English rendering is doubtful. If the stone is a lead mineral, as one of its companions is glossed, it is toxic. The honest conclusion is a gap: no identification, no preparation and no dose can be taken from the sources. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one bodily site, the bone. Clark's Explanatory Tantra line lists stang.zil among three zil stones and says that all three together remove discoloration of the bone, which Men-Tsee-Khang renders as give color to bones. The stone itself is described as black, very dark, and breaking into sparkling needle-like pieces, with a comparison to the hair of the Lord Buddha for its darkness. Chapter 20's powers list gives it no taste, no potency (hot or cool, heavy or light) and no post-digestive taste. No channel, humour, wind, subtle-body site or organ beyond bone is named, and no other tradition is tagged. Its mapped action is therefore one colour-related effect on bone tissue within the rGyud-bzhi frame, with no route of use, no mode of working and no other organ system named.
+
 ### Contraindications
 
 - **Possible lead content:** an item in the same list is glossed as a lead oxide, and lead is a cumulative poison; do not take or apply an unidentified lead-bearing stone, powder or "traditional medicine".

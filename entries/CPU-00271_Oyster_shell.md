@@ -48,6 +48,10 @@ Calcium carbonate neutralises stomach acid and is a source of calcium; burnt she
 
 **Practitioner's note.** Nothing here for a cultivator to take. The Chinese text's grade could not be read, and the Sanskrit shell is a caustic alkali used for particular complaints, and not a tonic. If the sources offer a discipline, it is the Sanskrit one of preparing the alkali by burning, filtering and giving it in milk under a physician, for a defined condition. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+In the Sanskrit (Sushruta) text the burnt shell is an alkali (kshara) given in milk for an enlarged spleen after cleansing, and it is plastered with other alkalis on a non-suppurated Aja-gallika after leeches. It is also a paste ingredient for a black cicatrix, a powder dusted on a bleeding wound edge, and a vessel for pouring errhines (nasal medicines). Mapped onto the body, these claims touch the spleen, the skin and wounds, and the nose. The Greek Dioscorides chapters are remedy lists: burnt shells of sea urchin and snail are said to clean foul ulcers, leprosy and the teeth, and the fossil oyster stone (ostrakites) is said to soothe inflamed breasts, stop gangrenous ulceration of the cheeks and stop the menstrual flow. The Sanskrit text gives no rasa, virya or vipaka for the shell itself. The flesh of the shellfish, which is a food claim and not a claim for the shell, is described as sweet, cooling and demulcent. The Unani and Chinese layers name no organ or channel in the sources read.
+
 ### Contraindications
 
 Calcined shell and its alkali are caustic and can burn the mouth, gut and skin; raw shell powder is not sterile and can carry contaminants from the water it grew in, including heavy metals. High calcium intake can cause kidney stones and interfere with some medicines. The Greek menstrual and contraceptive uses are unsafe to follow. Wild oyster reefs and shell middens may be protected or regulated in some places; the status of any given source has not been checked here. [USER: verify]

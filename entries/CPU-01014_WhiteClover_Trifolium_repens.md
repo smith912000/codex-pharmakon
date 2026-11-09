@@ -74,6 +74,10 @@ Cool-and-moist, mildly astringent/emollient, temperate — a gentle "cleansing" 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places white clover's folk actions on the skin and wounds, as a cool poultice for minor inflammation, sores and swellings, and in a gentle depurative infusion, though it records no clinical trial of these uses. Its chemistry acts on tissue mainly when that tissue is damaged. In cyanogenic plants, crushing, wilting, frost or chewing lets linamarase release hydrogen cyanide from linamarin and lotaustralin, a hazard for the whole body, particularly in grazing animals and large raw intakes. Coumarin-type compounds in mouldy clover can generate dicoumarol-type anticoagulants, so the blood-clotting system is a site of risk, particularly with warfarin or DOACs. The entry states that white clover is not a meaningful phytoestrogen source, unlike red clover. Pregnancy and breastfeeding are named as data-sparse. The entry sets the cleansing doctrine against the plant's real chemical-defence biology.
+
 ### Contraindications
 
 - **⚠️ Cyanogenic chemotype / HCN.** Cyanogenic morphs release **hydrogen cyanide** when tissue is crushed, wilted, frosted, or chewed (linamarin/lotaustralin + linamarase → HCN). Avoid consuming **large quantities of raw or wilted plant of unknown chemotype**; the risk is dose- and chemotype-dependent. Modest dried-herb infusions are low-risk, but bulk fresh intake is not advisable. This is primarily a **livestock/grazing and large-raw-intake** hazard, not a concern at aromatic/culinary trace levels — but it is a real cyanogenic plant and must be treated as one.

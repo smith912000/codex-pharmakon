@@ -45,6 +45,10 @@ General, well-established facts only. Olive oil is a common carrier for aromatic
 
 **Practitioner's note.** A scented, warming ointment from a craft recipe, with nothing in the record about cultivation. A cultivator reads it as an example of Dioscorides' attention to preparation and does not make or use it for any vital purpose.
 
+### Functional–Anatomical Correlate
+
+The chapter names three bodily targets: chills, sinewy diseases, and disorders of the vulva. The text gives the action as warming, softening and relaxing, which is the only quality it prints, and it claims the ointment is more effective than acopon in being softening. The route of use is not stated in this chapter. The section's opening chapter says ointments are effective when mixed with other medicines, dropped on, poured on, or smelled, so the entry cannot say which of these, if any, applies here. No humoral, organ or channel assignment is made. The entry offers no modern anatomical term for sinewy diseases or the vulva, because the Codex does not translate them into modern diagnoses. The one body-level correlate it supplies is general: an aromatic oil applied to the skin is a long-established form of preparation. Its warming and softening effects are not assessed.
+
 ### Contraindications
 
 - **Disorders of the vulva.** The text names these as a use; they are medical conditions and call for proper care. No statement of safety in pregnancy is made in the chapter. [USER: verify]

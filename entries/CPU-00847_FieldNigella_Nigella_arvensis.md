@@ -78,6 +78,10 @@ The controlling honesty of this entry: the pharmacology is *sativa*-heavy, *arve
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps field nigella onto the digestive tract, the uterus, the intestines and the airways. Its primary organ action is carminative: the warming, pungent seed is said to disperse wind from the gut and ease colic and digestion. The Greek and Unani accounts extend this to the womb, as an emmenagogue that moves the menses, which is the basis of its pregnancy caution. Anthelmintic use targets intestinal worms. As a resolvent, the crushed seed is applied to catarrh, a cold mucous condition, and the Dioscoridean text adds skin complaints. The Unani frame calls it hot and dry, a deobstruent that opens obstructions of the liver and spleen. The volatile oil carries the pungent, dispersing action, and the saponins are described as expectorant and deobstruent. The entry notes that this mapping is inherited from cultivated Nigella sativa and not measured in N. arvensis. Traditional energetics: hot, dry and pungent-aromatic.
+
 ### Contraindications
 
 - **⚠️ Pregnancy — avoid.** Emmenagogue reputation across the genus; nigella seed is traditionally contraindicated in pregnancy. Do not use medicinally while pregnant. [USER: verify.]

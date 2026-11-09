@@ -107,6 +107,10 @@ Warm bay berry oil (commercially available from Levantine producers) applied top
 
 **Practitioner's note.** What a cultivator does with bay is cook with it daily and rub the warm berry oil into cold, aching joints — a modest, warming, everyday food-medicine. The one place it looks like a "cultivation" plant, the Greek laurel of oracle and victory, is culture and cult, not a vital-body grade; the honest reading keeps the wreath in the temple and the leaf in the pot.
 
+### Functional–Anatomical Correlate
+
+Bay laurel's entry maps its action onto the digestive tract, the joints and muscles, and the nerves. Ibn Sina classes it as warm in the third degree and dry in the second, and the berry oil is used topically for joint pain, muscle pain and headache, with nerve pain and paralysis named as a nervous-system application. The Chinese framing places it in the Stomach (digestive Qi) and the Spleen (carminative action), warming the Middle Burner, and in the joints, where it disperses Wind-Cold-Damp when applied to the skin. Ayurvedically the leaf is Katu-Tikta and Ushna, with Deepana-Pachana digestive action, Shula-prashamana relief of colic, and Hridya listed as a cardiac tonic. The entry ties the topical analgesia to eugenol's action on cyclooxygenase enzymes and to the relaxing of intestinal smooth muscle by the leaf's terpenes. The berry is described as holding higher concentrations of active compounds than the leaf. Dioscorides' use of the berry oil for earache and nerve pain is recorded alongside, and the laurel's cultic and civic meanings are recorded as culture rather than as an action on the body.
+
 ### Contraindications
 
 - **Bay berry oil internal use** — the concentrated berry oil is for topical use only; internal use at therapeutic doses can cause toxicity; culinary leaf preparations are safe

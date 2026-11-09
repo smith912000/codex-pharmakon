@@ -43,6 +43,10 @@ General, well-established facts only. Animal blood applied to skin is a source o
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The stag appears in the papyrus as one item in a list of animals and one of six bloods in a depilatory salve. The honest use of the entry is as a record. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Egyptian text, as Bryan summarises it, uses the stag in two external remedies. Stag's blood is one of six animal bloods, mixed with incense, collyrium and lizard's-dung incense, and placed on the spot from which an eyelash has been pulled, to prevent the hair growing back into the eye; this maps to the eyelid margin and lash follicles, in a condition of the eye (trichiasis, in modern naming). A horn of a fawn, warmed in oil, is rubbed on the head against grey hair, so the scalp and hair; the entry does not equate the fawn with the stag. Bryan also lists the stag among animals securely identified and sacrificed in the healing art, and his list of parts taken from animals includes blood, horns, hide, eyes and fat, but no part is assigned to the stag. The text gives no temperature, humour or quality. Systems mapped: the eyelids and eye, and the hair and scalp.
+
 ### Contraindications
 
 - **Eye:** do not apply animal blood, or any animal product, near or in the eye.

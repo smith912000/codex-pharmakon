@@ -65,6 +65,10 @@ Cold and dry in the humoral schema — the archetypal astringent: binding, dryin
 
 **Practitioner's note.** Nothing cultivation-specific is attested for either tradition. The practical use is as a short-course astringent for a defined complaint, not a long-term tonic.
 
+### Functional–Anatomical Correlate
+
+The entry maps tormentil's tannin-rich rhizome onto the lax, weeping and flowing tissues it is said to tighten: the gut (acute non-specific and infectious diarrhoea, historically dysentery), the throat and mouth (a gargle for inflamed or ulcerated mucosa), and the haemorrhoids and minor wounds (a topical wash). The mechanism described is luminal and topical: tannins precipitate surface proteins into a protective coagulum and tighten mucosa, and no tannin was detectable in serum, consistent with action at the gut surface rather than systemic absorption. In traditional terms the herb is cold and dry, the archetypal astringent, with its blood-red cut surface read as a sign of its governance over haemorrhage and flux. The Greco-Unani class attribution is marked for verification. Human evidence is limited to one small paediatric rotavirus diarrhoea trial, which was positive, and an open-label study in active ulcerative colitis with no control arm.
+
 ### Contraindications
 
 - **High tannin load:** GI irritation and nausea if taken on an empty stomach; take with or after food.

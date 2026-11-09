@@ -46,6 +46,10 @@ General, well-established facts only. Gypsum is calcium sulphate; it is used in 
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The entry records that a Greek physician reported a white, transparent stone from Arabia, gave its dust in a drink for epilepsy, and noted that women wore it as an amulet. The Codex does not recommend using selenite as a medicine; the one thing a reader can take from it is the habit of describing a stone by place, look and weight before saying what it does. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one bodily site, the nervous system and brain in epilepsy. Dioscorides says the filed stone's dust is given in a drink to the epileptic, and that the stone is white, transparent and light, found at night during the waxing moon in Arabia. Women are said to hang it about themselves as an amulet, a custom that names no organ. It is thought that bound to trees the stone makes them bear fruit, a claim about plants and not the body. The chapter prints no warming, cooling, drying or astringent quality and no degree. No humour, channel or subtle-body site is named, and no other tradition is tagged. The mapped sites are therefore the brain through epilepsy, the skin by an amulet worn on the body, and the fruiting of trees. Nothing in the chapter names the stomach or any other organ.
+
 ### Contraindications
 
 - **Epilepsy:** needs medical diagnosis and prescribed treatment; a stone dust does not replace it, and stopping prescribed medicine risks seizures.

@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identifica
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is the habit of describing a flower by its count and its colour at each flowering. The text offers nothing more, and the abstentive answer is the right one.
 
+### Functional–Anatomical Correlate
+
+The chapter maps this plant to three groups of tissue, in the text's own words. The root, taken as a drink or placed as a pessary with honey, is said to draw out water and blood; the organ is not named, though a pessary implies the genital tract. Leaves pounded and applied are said to lessen inflammation of the breasts that comes with childbirth, which acts on mammary tissue after delivery, and inflammation of the eyes, the ocular surface. Root and leaves applied to burns act on the skin. The chapter gives no humour, hot or cold quality or taste; its only qualities describe appearance, green leaves and ochre flowers. The identity is the translators' suggestion, so these organ links are Dioscorides' reported claims, not confirmed actions. No other system, such as the liver, blood or nerves, is named.
+
 ### Contraindications
 
 Chapter 3-137 prints no warning. The identification is only the translators' suggestion, so no plant should be gathered or used on the strength of this entry. A pessary used "for drawing out water and blood" must not be used in pregnancy. Breast and eye inflammation, and burns, call for medical care. None of the traditional uses above is advice. [USER: verify]

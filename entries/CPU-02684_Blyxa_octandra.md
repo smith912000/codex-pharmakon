@@ -43,6 +43,10 @@ General, well-established facts only. Blyxa species are small submerged or emerg
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. Shaivala is a minor listed ingredient in the Sushruta plaster and drug lists. The Codex does not recommend it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the only functional line the entry gives is a plaster in Chikitsa ch. 05, in which Saivala is one listed ingredient among many, pasted with dhanyamla, mixed with clarified butter and applied lukewarm to the affected part, including in Vata-rakta. The entry says that passage assigns no separate action to Saivala, and that it is not settled whether the plant is Blyxa octandra at all, since other works use the name for a pond-weed or algae. Sutra ch. 39 lists it among drugs without any stated action. No body system, organ or tissue is named as the target of the plant itself, and no rasa, virya, vipaka, rasayana or ojas role is printed. The Codex's general note says only that Blyxa species are small freshwater plants of tropical Asia, and no clinical study was retrieved. No quantity is given for the plaster.
+
 ### Contraindications
 
 - **Water plants.** Wild aquatic plants can carry contamination from the water they grow in.

@@ -38,6 +38,10 @@ General, well-established facts only. Blood clots through platelets and the clot
 
 **Practitioner's note.** Nothing here is a practice for a cultivator, and menstrual blood is not a substance to take or apply. The Tibetan text records it for bleeding and flesh growth; the Codex records that and stops. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Tibetan text maps this blood to bleeding, to flesh and to the channels. Clark's translation says womb blood 'constricts the mouths of the channels, regenerates flesh [around wounds, and is beneficial for warts]'. The Men-Tsee-Khang rendering says it 'stops bleeding and facilitates the growth of normal tissue'. The sites are therefore the channels, the flesh around wounds and the skin in warts. The embryology passages place the blood in the womb and the uterine tubes: each month blood accumulates from the essential nutriment and for three days is expelled through the door of the womb by the downward voiding wind. The text links the blood to conception and to the monthly cycle, but it does not say that the item acts on the womb when used as a drug. No taste, potency or post-digestive taste is printed in the lines read, and the three humours (rlung, mkhris pa, bad kan) are not assigned to it.
+
 ### Contraindications
 
 - **Not a recommended practice:** do not ingest, inject, apply to wounds or otherwise use menstrual blood or any other person's blood or body fluid as a medicine.

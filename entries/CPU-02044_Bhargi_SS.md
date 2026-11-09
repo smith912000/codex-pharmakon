@@ -51,6 +51,10 @@ General, well-established facts only. *Clerodendrum* is a large genus of shrubs 
 
 **Practitioner's note.** A plant that appears in groups against Kapha, Vata, skin disease and colic, and as "Padma (Bhargi)" in astringent recipes for bloody stool. It is a Vata-soothing member of a list, not a rejuvenative. A cultivator takes nothing from it, and should not use a plant sold under a similar name on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Bhargi maps to the digestive tract, the intestinal mucous and lymph, the skin and the bowel through three groups. The Arka'di group is said to counter Kapha, fat and poison, to act as a vermifuge and an aseptic for ulcers, and to cure skin disease. The Pippalya'di group is an appetiser that absorbs intestinal mucous and unassimilated lymph chyle, and is said to help catarrh, colic and gastralgia. The Vata-soothing list in chapter 39 names it among drugs that restore a deranged Vata. In Uttara-tantra, a 'Padma (Bhargi)' decoction is given for bloody stool and dysenteric discharges. The text states no taste, potency or post-digestive taste for Bhargi alone, and the part used is not stated. The plant is identified as a Clerodendrum by the translator at medium-low confidence. The Codex does not recommend it.
+
 ### Contraindications
 
 - **Identity is open.** Two species are named in this entry (the translator's and the first-pass guess); do not substitute one for another. [USER: verify]

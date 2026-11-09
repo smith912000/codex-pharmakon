@@ -40,6 +40,10 @@ General facts only. Muscone is a recognised odorant; musk has been used in tradi
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. Musk is a poison-antidote and anthelmintic in the tradition's materia medica, and wild musk deer are endangered. The honest reading is a historical one: the tradition valued the product, and the modern consequence is to leave it alone.
 
+### Functional–Anatomical Correlate
+
+In the Tibetan materia medica musk (gla.rtsi) is said to cure poisoning, worms, disorders of the kidneys and liver, septic conditions and infectious disorders including infectious fevers, disorders of the eyes and channels, diseases caused by nagas and spirits, and urinary retention. The organs named are the kidneys, liver, eyes and urinary bladder, together with the intestinal worms, the septic tissue of infection, and the tradition's channels (rtsa), which the entry does not define. The product is placed in the bitter-taste group, and it is listed first among the poison-neutralising medicines and the anthelmintics. The Men-Tsee-Khang text describes it as an antidote to poison that cures disorders of the kidney, liver and infectious diseases. No potency, cool or warm, is printed in the lines read, and no tissue is assigned to the spirit-caused disorders beyond their being named as disorders.
+
 ### Contraindications
 
 - **Conservation and law:** musk deer are endangered, listed under CITES, and protected in the countries where they live. Trade in natural musk is restricted or illegal. [USER: verify]

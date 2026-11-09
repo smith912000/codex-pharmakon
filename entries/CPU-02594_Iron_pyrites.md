@@ -51,6 +51,10 @@ General, well-established facts only. Pyrite is a common iron sulphide mineral. 
 
 **Practitioner's note.** A prepared mineral for diabetic and skin disorders, jaundice and wasting, from a text that gives the method only by pointing back to another drug. A cultivator has no safe way to use a raw sulphide, and the tradition's own demand for preparation is the warning. Nothing here supports its use.
 
+### Functional–Anatomical Correlate
+
+The Sushruta passage claims efficacy in decrepitude (jara, the wasting of age), kushtha (skin disease), meha (urinary disorders, which the chapter treats under the heading of madhu-meha, sweet urine), jaundice and consumption (yakshma). Mapped to modern anatomy, these fall on the skin, the urinary tract and the metabolic system in diabetes-like states, the liver and bile ducts, and the lungs. The Uttara formula places the material in a preparation for pandu-roga, the pale and anaemic condition, which points at the blood. The two colour classes carry different tastes, the gold-coloured sweet (madhura) and the silver-coloured acid (amla), and the entry notes that no virya, vipaka or dosha action is printed. The claimed sites are therefore the skin, the urinary and metabolic tract, the liver, the lungs, the blood, and the body generally in decrepitude.
+
 ### Contraindications
 
 - **Raw mineral.** Not to be eaten; the text itself requires preparation. Do not heat pyrites indoors; the fumes are harmful.

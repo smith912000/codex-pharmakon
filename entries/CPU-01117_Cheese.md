@@ -52,6 +52,10 @@ General, well-established facts only. Cheese is a concentrated source of milk pr
 
 **Practitioner's note.** Nothing here makes cheese a cultivation substance. The text's lesson is ordinary and practical: the same food does different things new or old, plain or salted, and the one fault it names, salt upsetting the stomach, is worth taking at face value. A cultivator eats cheese as food and pays attention to what a given cheese does. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides (DMM 2-79) says new cheese eaten without salt is nourishing, good for the stomach, easy to digest, increases the flesh and mildly softens the bowels. Boiled, strained and roasted, it is astringent in the intestines and, applied, good for inflammation and bruises of the eyes. New salted cheese is more nourishing but bad for the stomach, upsetting the intestines and bowels; older cheese is therapeutic for the intestines. Avicenna's Canon (CM) gives cheese a temperament that changes with age and salt: fresh cheese is cold and moist, aged salted cheese hot and dry, and aged cheese bilious in humour. It is listed for bad ulcers, light fresh wounds, inflamed eyes (unsalted, as a poultice), and a nursing woman's milk (cheese boiled in water). Its stone-forming risk falls on the kidney and bladder, especially with fresh cheese, and roasted cheese helps intestinal ulcers and stops diarrhoea. In modern terms these are the stomach, intestines, eyes, breast, kidney and bladder, and skin wounds.
+
 ### Contraindications
 
 - **Allergy and intolerance:** milk-protein allergy contraindicates all cheese; lactose intolerance varies with the cheese.

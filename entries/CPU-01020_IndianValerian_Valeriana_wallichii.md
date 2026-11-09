@@ -91,6 +91,10 @@ The sedative/anxiolytic and preclinical anticonvulsant reputation of the valeria
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places Tagara in the nervous system and the mind. Ayurveda classes it as medhya, mind-steadying, and nidrajanana, sleep-promoting, directed at disordered mind, seizure-type disorders, sleeplessness and vata-driven agitation. Tibetan medicine reads it as a warm aromatic that settles disturbed rlung, the nervous and breath principle behind insomnia, restlessness and racing thought. Unani practice classes it as a hot and dry brain tonic and calmative for palpitation, nervous agitation and cold-wind headache. The modern anatomy the entry names is the GABAergic inhibitory tone of the brain, which the valerian group is generally thought to modulate, with valeranone, patchouli alcohol and valepotriates as candidate actives. Preclinical anticonvulsant work bears on the apasmara claim, but the entry states that no human antiepileptic effect and no species-specific human sedation trial are established. Valepotriates are cytotoxic in vitro and decompose on storage, so aged rhizome is weaker.
+
 ### Contraindications
 
 - **Do not treat as interchangeable with European valerian (*V. officinalis*).** Different chemotype (Himalayan material is valepotriate/sesquiterpene-rich, not valerenic-acid-defined), different classical energetics (heating vs cooling). Dose and expectation should not be transferred between the two.

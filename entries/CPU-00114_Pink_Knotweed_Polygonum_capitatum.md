@@ -62,6 +62,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 **Practitioner's note.** Nothing. This is a short-course herb for a defined urinary complaint, not a substance for long-term cultivation.
 
+### Functional–Anatomical Correlate
+
+The entry's main target is the urinary tract. Tou Hua Liao, bitter and cool, enters the Kidney and Bladder to clear damp-heat from the urinary system. It is applied to painful or difficult urination, the lin syndromes, urinary tract infection and inflammation, and urinary stones (urolithiasis), and it promotes urine flow as a diuretic. The review the entry cites covers pyelonephritis and urinary calculus. Its flavonoid and phenolic constituents are described as anti-inflammatory and antimicrobial in study. The blood-cooling and toxin-resolving action is applied to inflammatory and toxic-heat conditions, and topically to sores and inflamed skin. The contraindications concern the cooling action: cold or deficiency urinary patterns, and loose stool from Spleen-yang deficiency with cold-damp digestion. Serious or febrile infection needs medical assessment. The entry assigns it a therapeutic role only, with no tonic or cultivation use.
+
 ### Contraindications
 
 - **Cold / deficiency urinary patterns.** A cooling, draining herb is contraindicated where dysuria is from cold or deficiency rather than damp-heat.

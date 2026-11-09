@@ -42,6 +42,10 @@ General, well-established facts only. Woodlice are not known to be a source of a
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The woodlouse is a four-use entry in the animal section of a Greek materia medica, with no dose and an open identification. The only usable lesson is the one the chapter embodies: know the creature by where it lives and what it does before naming it. The Codex does not recommend taking it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The woodlouse's four uses map to the urinary passages, the liver and bile system, the tonsils and the ear. Taken in wine as a drink, the creature is said to help painful urination and yellow jaundice, which map to the urinary tract and to the liver and bile. Rubbed on with honey, it is for tonsillitis, a condition of the tonsils at the back of the throat. Warmed in a pomegranate rind with rosaceum, which the translator glosses as oil of roses, and dropped into the ears, it is for earache. The chapter gives no humoral, warming, cooling or energetic term, so no temperament is mapped. Its habitat under water vessels and its habit of rolling up when touched describe the creature, not an organ it acts on. The identity as common woodlouse is the translator's, not the text's, so the body map rests on the translation as printed. The Codex does not recommend it.
+
 ### Contraindications
 
 - **Infection and hygiene:** wild invertebrates can carry bacteria, moulds and parasites; do not swallow them or apply them to the skin or tonsils.

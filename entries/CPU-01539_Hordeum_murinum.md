@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is the habit of noting where a plant grows as part of recognising it. The amulet is reported, not recommended. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The chapter links the wine decoction to three discharges and flows: intestinal discharges, which acts on the bowel; excessive bleeding from the womb, which the text places in the uterus; and excessive urine, which acts on the urinary system. It is the only preparation named, drunk in hard wine, and the text does not say which part is boiled. A separate claim is introduced by 'some say': that the plant, bound in red wool and hung about a person, stops bleeding. Dioscorides reports this saying and does not adopt it in his own voice, so it is recorded, not endorsed. The chapter prints no humour, hot or cold quality or taste. Its only qualities are physical, the leaves shorter and narrower than barley, and the strength of the wine. The identity is a translators' suggestion. No other body system is named.
+
 ### Contraindications
 
 Chapter 4-43 prints no warning. The identification is only the translators' suggestion, so no plant should be gathered or used on the strength of this entry. Heavy bleeding, intestinal discharges and excessive urine need medical care and must not be left to a drink or an amulet. The preparation is in hard wine, which is not suitable for everyone. The text gives no dose, and no safety information for pregnancy was read, though the text itself uses the plant for bleeding from the womb. [USER: verify]

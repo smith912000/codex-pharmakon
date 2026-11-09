@@ -53,6 +53,10 @@ General facts only. Red lead and verdigris are poisonous metal compounds and mus
 
 **Practitioner's note.** An unidentified imported wood powder named in two eye remedies. Nothing here supports any cultivation use, and the recipes are unsafe. A cultivator has no use for it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry's sources name only the eyes. The Ebers recipes use the wood against bloodshot eyes, in a poultice with onions, verdigris, collyrium, ink and water, and against pterygium, in a mixed application that is applied to the eyes. The text gives no organ beyond the eye and no tradition-specific quality for the wood. Bryan prints no humoral, qi or energetic term for it, and the material is organised by complaint rather than by constitutional quality, so no vital-constitution frame is mapped. The companions in the recipes, including red lead, verdigris, calamine and sulphur, are harmful in the Codex's own caution, not functions of the wood. The identity of the wood is unresolved, so no tissue-level action can be attributed to it. The entry states nothing about other organs, pregnancy or dosing. Nothing from this entry should be applied to the eyes.
+
 ### Contraindications
 
 - **Eyes.** Do not apply any recipe in this entry to the eyes. The companions (red lead, verdigris, calamine, sulphur) are harmful.

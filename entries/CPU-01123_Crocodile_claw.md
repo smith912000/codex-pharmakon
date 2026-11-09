@@ -42,6 +42,10 @@ General, well-established facts only. Claws are keratin; there is no established
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The crocodile claw is one line in a table of animal products, with a substitute named in the same line, and its own tradition describes animal products as largely replaced. The honest use of the entry is as a record. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the text names one part and one action. Clark's line gives the claw, with the bracketed commentary set aside, as curing bone fevers, so the only body tissue named is bone. Men-Tsee-Khang renders the same item as curing a hot disorder of the bone, which agrees on the bone. The text prints no taste, potency or post-digestive taste, and no organ or system beyond bone. Its substitute is na.gi, which the translator calls an ingredient in compounded incense; what na.gi is, and whether it acts on bone, is not stated in the lines read, so it maps nothing. The entry gives no cultivation practice, no essence extraction and no subtle-body link. In modern terms the claw is keratin, a structural protein, and the entry names no body system for it.
+
 ### Contraindications
 
 - **Infection and hygiene:** an unprepared animal claw is an infection risk, and nothing in the sources gives a safe preparation.

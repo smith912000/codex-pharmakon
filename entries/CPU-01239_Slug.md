@@ -40,6 +40,10 @@ General, well-established facts only. Slugs and snails are the intermediate host
 
 **Practitioner's note.** A cultivator does nothing with this. It is a single indication with no preparation and no dose, the two translations disagree about both the animal and the discharge, and eating slugs or snails carries a real parasite risk. The honest use of the entry is as a record of what the Tantra says.
 
+### Functional–Anatomical Correlate
+
+The slug acts, in the Tibetan entry, on the discharge of fluid from the head. Clark's Tantra states that it stops discharge of sinus fluid, and Men-Tsee-Khang reads the same line as stopping cerebrospinal fluid, so the mapped site is the nasal sinuses or, on the second reading, the fluid spaces of the brain and spinal cord. The Shennong classic entry, which the project also records for this item, maps the slug onto the sinews and nerves: it names wind-thief with a twisted face or mouth, sinew spasm or slackening, prolapse of the rectum, and fright epilepsy with contracted limbs. Its taste is salty and its nature cold. The Tibetan line gives no humour, taste or potency. In modern terms the systems involved are the nasal sinuses and head, the facial and limb nerves and muscles, and the rectum. Because the two translations disagree about which fluid is meant, the head mapping cannot be fixed beyond that.
+
 ### Contraindications
 
 - **Parasites:** raw or undercooked slugs and snails can carry rat lungworm and other parasites; do not eat them, and wash produce well.

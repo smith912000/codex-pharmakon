@@ -46,6 +46,10 @@ The identification is ours. No clinical studies were retrieved for this entry. [
 
 **Practitioner's note.** There is no cultivation practice here. The entry is a short lower-class record of a household insect used for women's and children's complaints, with a single rubbing instruction and no dose.
 
+### Functional–Anatomical Correlate
+
+The classic names the lower abdomen and the female reproductive tract through shan and jia (lower-abdominal pain and masses, kept untranslated), and it names difficult urination (xiao bian bu li), which maps to the urinary tract. In children it names wind-strike (zhong feng) with stiff neck (xiang qiang), which maps to the neck and the nervous system. It gives one instruction, rub where the back rises (bei qi mo zhi), which points to external use on the skin and back muscles. The energetic frame is salty and warm, and non-toxic (wei xian, wen, wu du). The Codex records this as stated and does not confirm it, since the lower-class preface describes such drugs as mostly toxic, so the two statements disagree. The Wu Pu and Mingyi layers add nothing on organs. A child with a stiff neck, difficulty passing urine, or a lower-abdominal mass needs prompt medical assessment.
+
 ### Contraindications
 
 The classic's paragraph calls the material non-toxic, but the Codex read no source that confirms this, and no safety information for pregnancy, children or other medicines was read. A household insect may carry dirt or moulds. Pain, masses, urinary difficulty and a stiff neck in a child need medical assessment. No conservation information was read. [USER: verify]

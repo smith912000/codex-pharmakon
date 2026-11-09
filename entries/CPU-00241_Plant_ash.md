@@ -38,6 +38,10 @@ Plant ash and the lye leached from it are alkaline and caustic; lye has long bee
 
 **Practitioner's note.** A lower-grade drug in the Chinese scheme: for a defined complaint and a short course, and the tradition's own grading is the warning. There is no cultivation use here. Ash is an everyday material, and the Classic's entry records only that it was placed among the drugs that remove growths. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Divine Farmer's Classic (SBJ) places the ash on the skin: black moles, polyps, warts, flat abscesses, erosive sores and scabs, all surface sites. Avicenna's Canon (CM) gives a wider field for the ash and lye of several woods and plants. Its sites are the ulcers and sores of the skin and flesh (malignant ulcers, proud flesh, deep sores); the joints and nerves (with oil, the vein, nerve pain and palsy); the gums, which oak-ash lye firms; the stomach, where it helps clotted blood; and the lower bowel, given as an enema for gut ulcer, chronic flux, haemorrhoids and fistula. A tarantula's bite is a further named site. The Canon gives no temperament or degree for ash, and its own property is cleansing and drying. The Chinese grade is acrid and slightly warm. In modern anatomy the claimed sites are the skin and its lesions, the subcutaneous tissue, the peripheral nerves and joints, the gums, the stomach, and the rectum and anal canal.
+
 ### Contraindications
 
 Wood ash and lye are caustic; they burn skin, eyes and mouth, and swallowing them is dangerous. Ash from treated or painted wood, plastics or household waste may carry toxic metals and other contaminants. Moles, polyps and warts should be assessed by a doctor, because a changing mole can be a skin cancer and must not be burnt off at home. The Classic's grade for this class says it cannot be taken for long. [USER: verify]

@@ -41,6 +41,10 @@ Ferns have no well-established antivenom or antidiarrhoeal action in modern medi
 
 **Practitioner's note.** A cultivator takes the chapter's description of a plant seen in its place, front and back of the leaf. The uses are for snakebite and dysentery and give no practice for the self.
 
+### Functional–Anatomical Correlate
+
+The chapter's claims fall on the bowels, the bite site and the spleen, with a veterinary use. A leaf decoction in wine is said to help snakebite, and a drink is said to help dysentery and diarrhoea. Given through the mouth, it is said to help four-footed beasts. Avicenna's Canon, cited under the Unani tradition, gives the plant the temperament hot in the first degree and dry in the second, and calls it fine and dissolving, without much heat. Under the digestive organs it is said to benefit the spleen when taken as an oxymel made with vinegar in which its leaves were boiled, and to help hiccup and jaundice. Under the excretory organs it is said to break stone in the kidney and bladder, and to prevent conception when hung on a person. The Canon names no head, eye, chest, cosmetic or poison use. The chapter itself prints no quality. Snakebite needs emergency medical care, and the Codex gives no practice.
+
 ### Contraindications
 
 Do not rely on any herb for snakebite; it needs emergency medical care. No traditional use above is advice. Dysentery and diarrhoea with blood, fever or dehydration need medical care. No dose is given.

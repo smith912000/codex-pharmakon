@@ -93,6 +93,10 @@ A note of scientific honesty on the joint result: all three pooled trials were *
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps the rose hip to the gut, the connective tissue and the joints. Dioscorides describes the hips as astringent, for fluxes of the belly. The Unani tradition adds cold and dry, binding loose bowels, strengthening the stomach and stemming haemorrhage. Ayurveda classes it as kashaya and cooling, for bleeding and digestive laxity. The modern correlate for the astringency is tannin and proanthocyanidin protein precipitation at the mucosa, a local effect. For tissue repair the entry cites ascorbate as a cofactor for collagen synthesis, the nutrient whose absence impairs healing and capillary integrity. For joints, the entry reports that standardised hip powder (galactolipid GOPO) reduced osteoarthritis pain in a meta-analysis of three RCTs, effect size 0.37, though all three were manufacturer-supported and the effect is small. Dietary tannin and ascorbate also affect iron absorption, which the entry lists as a caution in haemochromatosis. The entry names no nervous or cardiac role.
+
 ### Contraindications
 
 - **Seed-hair irritant:** the fine hairs surrounding the seeds are a mechanical irritant — the traditional "itching powder." Always strain syrups/infusions; avoid inhaling powdered raw hips.

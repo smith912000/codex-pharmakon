@@ -41,6 +41,10 @@ Ferns have no well-established spleen action, and the spleen is not a modern tar
 
 **Practitioner's note.** A cultivator takes from the chapter a method of identifying a plant that has no flower or seed, and the caution not to take reported beliefs for facts. No practice is given.
 
+### Functional–Anatomical Correlate
+
+The entry maps its uses onto the spleen and the urinary tract, with a few other organs. Leaves boiled in vinegar and taken as a drink, and pounded leaves in wine rubbed on the spleen, are said to reduce the spleen. The text also lists slow painful urination, hiccups, jaundice and the breaking of stones in the bladder. In modern terms jaundice is a liver and bile complaint and hiccups involve the diaphragm, but the text names no organ for either. The entry records that the fern is thought to cause barrenness, a belief reported with 'they say' and not endorsed. The chapter gives no temperament, warming or cooling quality, and no humour. Ferns of this genus are spore-bearing plants without flowers, which fits the text, but the chemistry was not read. The Codex records these as the text's claims only.
+
 ### Contraindications
 
 The text records that the plant is thought to cause barrenness; do not use in pregnancy or when seeking pregnancy. No traditional use above is advice, and the forty-day course is not a recommendation.

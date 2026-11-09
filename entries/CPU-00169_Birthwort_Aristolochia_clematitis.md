@@ -100,6 +100,10 @@ The traditional applications that reflect genuine pharmacology (now deliverable 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps birthwort to the uterus (uterotonic and emmenagogue action, labour and afterbirth), the Lung (Madouling for cough and wheeze), and the Bladder (diuresis). In TCM terms it clears heat from the Lung, drains damp-heat from the Lower Burner and moves Blood stasis. Ayurvedic terms given are Ushna virya and Vata-Kapha shamaka. The wound and antimicrobial effect is attributed to the magnoflorine and cepharanoline alkaloids, and topical use of an acid-depleted extract is the only application the entry sees as having a plausible benefit-risk balance. The modern target is the kidney: aristolochic acids cause renal tubular necrosis and fibrosis, form DNA adducts that lead to TP53 and HRAS mutations and urothelial carcinoma, and inhibit the OAT1 and OAT3 renal transporters. The entry describes the Belgian nephropathy outbreak as the defining case. Contraindications: any internal use, since no safe dose is documented, pre-existing renal impairment, and pregnancy as an absolute contraindication. The entry's own position is that it is documented for historical record only.
+
 ### Contraindications
 
 - **Internal use — confirmed aristolochic acid accumulation risk** — there is no documented safe internal dose; cumulative exposure from multiple short courses may exceed nephrotoxic threshold without acute symptoms until fibrosis is advanced

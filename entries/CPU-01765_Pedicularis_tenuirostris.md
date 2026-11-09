@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a poison-and-pus drug in Clark's commentary layer, one of three candidate species for a Tibetan name, with no preparation and no dose. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: Clark 1995 gives this binomial as the second of three for the Tibetan name lug.ru.ser.po. Its commentary, inside brackets, says the yellow type 'collects poisons and dries reservoirs of pus'. The root-text layer names only the Tibetan name and the identifications. Men-Tsee-Khang 2011 gives the same name the action 'dries up chhuser', a term the translators leave untranslated. Neither text names an organ, body system or tissue for this drug. The commentary's only description is of a plant in shady meadows with a yellow flower similar to the brown type's. No taste, power, part used, preparation or dose is printed for it. The species is one of three Clark gives and is not printed by Men-Tsee-Khang, so the entry does not match it to the Tibetan drug. No clinical study was retrieved.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Poisoning and pus-forming infections need medical care; no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Because the species is one of several candidates, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

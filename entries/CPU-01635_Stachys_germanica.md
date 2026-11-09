@@ -45,6 +45,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The text describes a plant by comparison with another and then gives one use that follows from its quality. The use is an obstetric one and the abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The entry maps the chapter’s one use onto the reproductive tract. A decoction of the leaves, taken as a drink, is said to expel “the menstrual flow and afterbirth”, which places its action in the uterus and its lining, and in the postpartum uterus for the afterbirth. The chapter also gives the plant a quality, “warming and sharp”, which the entry reads as the traditional energetic basis for that action. It names no humour, dosha or qi, so “warming” is Dioscorides’ own term and the entry gives it no modern equivalent. The description is by comparison with horehound, and it names the ground the plant grows on (rough hilly places) but no other organ. The sweet scent is stated as a feature of the leaf, not as a drug quality. Because the identity rests on a translators’ suggestion and a cross-referenced comparison, the mapping is to the text’s report only. The entry’s own caution is that such a drink is dangerous in pregnancy, a point the chapter does not make.
+
 ### Contraindications
 
 A drink that expels the menstrual flow and afterbirth is dangerous in pregnancy and is not a matter for self-treatment; late or absent periods and retained afterbirth need medical assessment. The chapter states no caution of its own. The identity of the plant rests on a translators' suggestion and a comparison with a plant whose own identity is cross-referenced oddly, so no wild plant should be gathered or taken on the strength of this entry. None of the traditional uses above is advice.

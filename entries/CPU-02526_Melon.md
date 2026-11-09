@@ -43,6 +43,10 @@ In general knowledge, melon stalk is a strong emetic in Chinese pharmacy, and th
 
 **Practitioner's note.** The seed carries the classic's long-use promise, and the text itself says it is the winter-melon kernel; the stalk is an emetic and has no place in any long practice. Nothing in the entry tells a cultivator what to do; eating melon or winter-melon seeds as food is ordinary food and is not a practice drawn from the text. Never use the stalk.
 
+### Functional–Anatomical Correlate
+
+The two monographs map onto different parts of the body. The stalk acts on the whole body in swelling of the body, face and limbs (身面四肢浮肿), on cough with counterflow and rising qi (咳逆上气), and on the illness of the chest and abdomen that follows eating fruit, where its action is to make the patient vomit and purge (吐下). It is classed bitter and cold (味苦，寒). The seed maps onto the face through its colour (好颜色), and onto qi and appetite (益气不饥). Its long-use clause names lightening the body and withstanding ageing. It is classed sweet and balanced (味甘，平). Neither monograph gives an organ-level mechanism, and the seed's phrase 阅泽 is printed unclear in the file. The Codex does not treat the two as one drug, and the stalk's emetic action is recorded as historical record only, with a warning against use.
+
 ### Contraindications
 
 - **Stalk.** An emetic whose action rests on bitter, toxic compounds in general knowledge; do not use it. Induced vomiting is dangerous, and swelling and cough need medical assessment.

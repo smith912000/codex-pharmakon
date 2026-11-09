@@ -55,6 +55,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a purgative in the Tibetan texts, with no preparation and no dose, and the plant behind the Tibetan name is uncertain. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the only action the entry states is that Jatropha and Euphorbia, read as the pair with thar.nu on the next line, purge all hot and cold disorders (Clark, line 1134), and that Men-Tsee-Khang's text says Dhurji and Tharnu purge all forms of hot and cold disorders (line 3495). Men-Tsee-Khang's chapter 21 places the name among the purgatives (line 3661). Clark's commentary gives the root, petioles, leaf, flower and fruit, but no taste, power or part used. The entry names no organ, tissue or body system that the purging acts on. Its five candidate plants belong to different families, so no modern anatomy can be joined to the Tibetan drug from this entry.
+
 ### Contraindications
 
 The sources read print no warning for this drug. It is recorded as a purgative, and strong purgatives can cause serious harm; the plants among Clark's five candidates include spurges, whose latex is irritant in general. No preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Because the identity is uncertain, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

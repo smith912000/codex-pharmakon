@@ -114,6 +114,10 @@ Polysaccharide fractions from *Eupatorium* species have been investigated for im
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, hemp agrimony acts on three territories. The first is the surface: as a warming diaphoretic it is said to move Wei Qi outward and drive a fever through its sweating phase, so the target is skin and sweat function in early febrile illness. The second is the liver and bowel: as a Galenic bitter and cholagogue it is said to stimulate bile flow and digestion, and to resolve Damp-stagnation in the TCM frame the entry applies. Externally it is a vulnerary for slow-healing wounds and ulcers, though the entry notes that pyrrolizidine alkaloids are absorbed across broken skin. Its immunostimulant framing rests on polysaccharide fractions and is flagged as unverified. The main systemic consequence is hepatic: 1,2-unsaturated pyrrolizidine alkaloids are activated in the liver and can cause sinusoidal obstruction (veno-occlusive disease), with genotoxic and carcinogenic risk in the entry's sources. No Jing or constitutional tier is assigned, so the action is placed on the acute surface and the bowel, not on deep restorative organs. Internal use is contraindicated in pregnancy, lactation and pre-existing liver disease.
+
 ### Contraindications
 
 **⛔ Pyrrolizidine-alkaloid hepatotoxicity (overriding contraindication):** *Eupatorium cannabinum* contains 1,2-unsaturated pyrrolizidine alkaloids that are hepatotoxic, genotoxic, and carcinogenic. Internal use carries a risk of hepatic veno-occlusive disease on cumulative or high-dose exposure. Internal use is **contraindicated** as a routine practice and is restricted or prohibited for sale in several regulated markets. This contraindication overrides all traditional indications.

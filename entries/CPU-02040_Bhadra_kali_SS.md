@@ -42,6 +42,10 @@ No botanical identification is made, so no modern scientific statement can be ma
 
 **Practitioner's note.** A name in an index and a "see" arrow that stops. There is nothing here for a cultivator to take or do, and the entry is held open only so that a later reader who finds the plant in the Sanskrit can attach it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the sources read name the plant only in the Appendix No. 3 index of Bhishagratna's Sushruta Samhita, where the entry is a cross-reference, 'See Prasarani'. No body system, organ, tissue or action is given for it. No chapter of the translation uses the name for a drug, so the text states no tissue, drug group, humour (rasa, virya, vipaka) or relation to ojas, tejas or prana. The pairing of the name with its equivalent is the entry's own reading of the index columns and is marked for verification. A gloss of Prasarani in Volume II is not assumed to be this plant. The Codex gives no protocol and does not recommend any plant on the strength of this entry.
+
 ### Contraindications
 
 - **Identity unknown.** Do not use any plant on the strength of this entry.

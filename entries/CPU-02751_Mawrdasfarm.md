@@ -50,6 +50,10 @@ General, well-established facts only. Epilepsy is a medical condition with prope
 
 **Practitioner's note.** Nothing to do. A plant whose own commentators disagreed about what it was; there is nothing safe to do with it.
 
+### Functional–Anatomical Correlate
+
+The Canon's entry places this plant, hot and dry in the second degree, mainly on the head and the digestive organs. For the head it says it is useful for epilepsy and for moistures in the brain. For the digestive organs it says it strengthens the stomach and liver and benefits a fall upon the viscera. Its only named form for the excretory organs is a suppository, inserted for the dilan of the anus, a word the e-text leaves unclear. Some hold its power is like that of badhaward. The entry notes varieties tending to whiteness and to yellowness. Its identity is disputed within the passage: Ibn Masa says wild myrtle, others say Roman afar, and the third opinion breaks off. The Codex records these as the Canon's claims, not established effects, and does not adopt an identification, so no organ action is attributed to a particular plant.
+
 ### Contraindications
 
 - **Identity.** Disputed even in the Canon; do not substitute myrtle or any other plant. [USER: verify]

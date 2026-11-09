@@ -40,6 +40,10 @@ Fossil bone is mineral matter of mostly calcium phosphate and calcium carbonate;
 
 **Practitioner's note.** Nothing here for a cultivator to take. The row shows that the Classic names a "dragon bone" among its animal drugs and, by position, probably in its upper class; whether it counted as a drug for nourishing life cannot be said until the Animals pages are read. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the Classic's own line for Long Gu was not read, so the entry states no action, flavour, qi, channel or organ for it. The attestation is one project list row, Long Gu, in the animal block, with no class heading read. Row position suggests the Superior Class, which the entry marks as an inference only. The spine's label fossilised mammal bone is not stated by any source read. Yang's rendering of the superior-class preface says those drugs mainly nourish life and correspond to heaven, and are nontoxic, but the preface speaks of classes and not of this drug, so no claim is made for it. No Tibetan, Ayurvedic or Unani text on disk is attributed to it. Nothing in the entry maps the drug to any body system, tissue or organ.
+
 ### Contraindications
 
 Powdered fossil or bone material sold as a remedy is unstandardised and may be contaminated, or may be a different mineral or an animal product that is protected. Fossils can be protected heritage, and export or sale is restricted in many places; the status of the material has not been checked here. [USER: verify] The identification as fossil bone is the spine's and not the list's.

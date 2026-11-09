@@ -56,6 +56,10 @@ General, well-established facts only. The chicken is *Gallus gallus domesticus*,
 
 **Practitioner's note.** The classic's list is a catalogue of parts of one bird, with remedies for bleeding, deafness, diarrhoea and fever, and a ritual use of the head. A cultivator has nothing to do with it beyond the record. It is no licence to eat or apply any of the parts named, and the grade is a frame, not an instruction.
 
+### Functional–Anatomical Correlate
+
+The Shennong bencao jing's paragraph on the red rooster and its parts maps several systems in its own terms. The whole bird is 'sweet, slightly warm'; it supplements depletion, warms the centre, stops bleeding, and governs women's flooding and red and white discharge, which places the action on the uterus and the blood. Each part has its own indication. The fat is for deafness (the ear); the intestine for involuntary urination (the bladder); the yellow lining that wraps the gizzard, a reading the entry marks as uncertain, for diarrhoea (the bowel); the droppings for wasting thirst and for cold-damage fever with chills. The black hen is for wind, cold and damp impediment (bi, the joints and limbs) and for quieting the foetus. The flight feathers are for blocked blood, and the egg for removing heat, fire sores and spasm with epilepsy, which involve the skin and the nervous system. The head is said to kill ghosts, a ritual claim with no anatomy. Modern anatomy would name the ear, bladder, bowel, uterus, joints and nervous system.
+
 ### Contraindications
 
 - **Hygiene and infection:** raw poultry, eggs, droppings and heads can carry *Salmonella*, *Campylobacter* and other pathogens; do not apply or eat them raw. Do not handle sick or dead poultry without protection, since avian influenza viruses exist.

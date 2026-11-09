@@ -77,6 +77,10 @@ Evidence grade: **preclinical, with a genuine ethnobotanical signal.** The antim
 
 **Practitioner's note.** A cultivator uses quassia as a short-arc corrective — a bitter cup before food to wake sluggish digestion, or a supervised anthelmintic course — and then stops. Only one tradition here (South American) genuinely owns it, and even there it is a medicine, not a teacher-plant; the other four tags are adoptions or shelving markers. Nothing in the record supports daily or long-term use, and its quassinoid cytotoxicity makes the tradition's own restraint the correct instruction: a scalpel, not a food.
 
+### Functional–Anatomical Correlate
+
+Quassia acts mainly on the digestive tract and on intestinal and blood parasites. The entry's doctrinal layer states that bitter receptors (T2R family) line the tongue and gut and drive digestive secretion and motility, which it reads as the stomachic reflex. Quassinoids (quassin, neoquassin, simalikalactone D) are described as antiparasitic, with in-vitro antiplasmodial activity against Plasmodium falciparum and anthelmintic use against intestinal worms. The same molecules are cytotoxic: large doses irritate the gastric mucosa, causing nausea and vomiting, quassin is reported to affect cardiac function, and quassinoids are reported to affect fertility and reproductive tissue. Chinese reading (adopted): cold, bitter, clears heat and dries damp. Ayurvedic (adopted): bitter, cooling, kindles digestive fire, anthelmintic, pitta-neutral to reducing, strongly kapha-reducing. Galenic and Unani: cold and dry, a stomachic and fever-reducing bitter. The South American and Surinamese maroon use is therapeutic, as febrifuge, anthelmintic and stomachic, and no cultivation status is attested in any tradition.
+
 ### Contraindications
 
 - **Toxicity — flag heavily:** quassinoids are cytotoxic. Simalikalactone D, the principal antimalarial constituent, is also the principal cytotoxic constituent (Houël et al. 2009). High or prolonged dosing is unsafe. This is not a gentle tonic.

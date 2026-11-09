@@ -38,6 +38,10 @@ Calcium carbonate is an antacid and a dietary calcium source in general; it is t
 
 **Practitioner's note.** A middle-grade drug in the Chinese scheme: not a "nourish life" drug for long use, but a drug for controlling disease and supplementing vacuity under care. Nothing in the sources supports taking a stalactite, and removing one damages a cave. For a cultivator the entry is a record of how the Classic ranked a stalactite's tip. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Divine Farmer's Classic gives this stone its action in the lungs and airway, where it treats cough and counterflow qi ascent (qi rising against its course). It is said to brighten the eyes, boost the essence (jing) and quiet the five viscera (heart, liver, spleen, lungs and kidneys). Its joint action is to free the hundreds of joints (bai jie), which maps to the articular and synovial system, and it disinhibits the nine orifices (jiu qiao), the sense openings and the lower outlets of the body. It promotes lactation, so the breast and its milk-producing glands are the named site; Yang's footnote, reporting Li Shizhen, compares the stalactite to a breast. The entry gives no humoral or doshic term, and its grade is sweet and warm. In modern anatomy the sites are the respiratory tract, the eyes, the joints, the mammary glands and the sense organs.
+
 ### Contraindications
 
 Powdered stone sold as a remedy may be a different mineral or may be contaminated. Mineral medicines are unstandardised and their sale is regulated in many places. Cave formations are protected in many countries and collecting them is restricted or prohibited. [USER: verify] the legal status in any given place; the sources retrieved do not address it. A large dose of calcium carbonate can cause constipation and, over time, excess calcium.

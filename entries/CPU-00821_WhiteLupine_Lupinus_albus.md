@@ -78,6 +78,10 @@ According to PubMed, the toxic principle and its risk profile are well character
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, white lupine is hot and dry in Galenic-Unani terms, bitter, deobstruent, detergent and anthelmintic. Its traditional targets are the liver and spleen (opening obstructions), intestinal worms, and the skin (scaly eruptions, ulcers and swellings). Ayurveda places it in the tikta-kashaya (bitter-astringent) group as anthelmintic (krimighna) and skin-clearing (kushtaghna). The debittered seed is a protein food for building tissue. The entry's modern correlate is toxicological: quinolizidine alkaloids, chiefly lupanine and sparteine, produce an anticholinergic toxidrome (dry mouth, dilated pupils, blurred vision, flushing, tachycardia, tremor, confusion) and affect cardiac electrical conduction, with sparteine as the EFSA reference compound. Lupin allergens cross-react with peanut. The vermifuge and skin-clearing uses are stated as historically attested but not validated by controlled human trials. Pregnancy, lactation and cardiac or anticholinergic-drug users are cautioned.
+
 ### Contraindications
 
 - **⚠️ HAZARD — quinolizidine alkaloids.** Bitter (undebittered) lupins contain **lupanine and sparteine**, which produce an **anticholinergic-type toxidrome**: dry mouth, dilated pupils, blurred vision, flushing, tachycardia, tremor, confusion, and — because sparteine affects cardiac conduction — potentially dangerous cardiac effects at higher exposures. Poisonings ("lupin bean poisoning") occur when the debittering step is skipped or incomplete. **The bitter taste is the warning sign: if the seed tastes bitter, it is not safely debittered — do not eat it.** Only fully debittered seed is food.

@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is an emetic in the Tibetan texts, with no preparation and no dose, and its Latin name differs between the two Tibetan texts. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the Men-Tsee-Khang text says that Drita sazin drains pus, blood and chhuser (line 3446) and lists the name among the emetics (lines 3659 to 3660). The lines read give no organ, tissue, taste, power or post-digestive taste for this drug, and the running text gives no Latin name. The only Latin name is the glossary's Fragaria nubicola, set against the Tibetan name by column position. Clark's species for the same Tibetan name is a different one. Chhuser is left untranslated because the sources do not define it. The Dioscorides and Sushruta texts on disk name no Fragaria, so nothing outside the Tibetan texts bears on the species. No clinical study was retrieved, and the Tibetan terms are not modern diagnoses. Inducing vomiting is a hazard, and no practice is recommended here.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Emesis can cause dehydration and, in some conditions, harm; the identity is open between *Fragaria* species; and no preparation or dose is given. No plant should be gathered or used on the strength of this entry. Pus, blood and upper-body disorders need medical care. No safety information for pregnancy was read. [USER: verify]

@@ -80,6 +80,10 @@ Graded honestly, including nulls:
 
 **Practitioner's note.** Nothing. Grow it as ground cover if you like, but do not use it in place of *H. perforatum*; whatever is claimed for that species does not transfer.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry states that Hypericum calycinum is a bitter, faintly astringent, cool-to-neutral, drying plant in folk and genus-doctrine terms, with wound and nervine signatures inherited from the genus. It records no species-specific therapeutic action on any body system. It states that antidepressant and clinically meaningful nervine activity is null for this species. It reports modest in-vitro antimicrobial activity of the essential oil and antioxidant activity shared across the genus. It states that hypericin-class pigments are photoactive, giving phototoxicity on UV-exposed skin. It states that CYP3A4 and P-glycoprotein induction is assumed as a class caution, not measured for this species. Its prenyltransferase biosynthesis work is a laboratory matter, not a body-system action.
+
 ### Contraindications
 
 - ⚠️ **Photosensitisation (class caution).** As a hypericin-bearing species, *H. calycinum* can act as a photosensitiser; avoid combining internal use with strong sun/UV exposure, and treat fair-skinned or already photosensitive individuals with particular care. This is documented phototoxicity, not a theoretical worry.

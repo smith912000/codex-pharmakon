@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a wound-and-poison drug of uncertain identity, one of four candidate species for a Tibetan name, with no preparation and no dose. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Clark's root-text line says the drug "heals wounds, cures septic disorders and poisoning". The bracketed commentary adds that it halts dysentery, reduces swellings, acts as an emetic and, by its sweet fragrance, subdues spirits. The Men-Tsee-Khang text gives "heals wounds, is anti-inflammatory and acts as an antidote against poison". On the entry's claims, the drug acts on wounds and the tissue around them, on septic and inflamed states, on the bowel through dysentery, on swellings, on vomiting (the emetic action, where the modern organ concerned is the stomach), and on poisoning. The "spirits" claim is about a mind-directed affliction and names no organ. The entry names no organ or tissue itself; the systems above are the texts' own categories set beside modern anatomy. The identity is open among four binomials of three genera, so the mapping rests on the Tibetan name.
+
 ### Contraindications
 
 The sources read print no warning for this drug. One of the candidate genera, *Oxytropis*, is generally known to include plants that poison livestock, and the plant behind the Tibetan name is uncertain; no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Wounds and poisoning need medical care. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

@@ -45,6 +45,10 @@ No study of the plant was opened. Bladder stones and difficult urination need me
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a wound-and-urinary remedy in the record, with a doubtful identity, and the answer is to leave it as history.
 
+### Functional–Anatomical Correlate
+
+The chapter's own claims map to several body areas, in the entry's terms. Externally, the leaves, seed and fluid 'applied with wine' are said to draw out arrowheads, splinters and things fastened within, which is a wound and soft-tissue claim. Internally, a decoction 'taken as a drink' is said to cure slow painful urination, break stones in the bladder and induce the menstrual flow, so the urinary tract and the womb are the organs addressed. The chapter prints no quality (no warming or cooling) and no humoral or energetic term. The fluid resembles gum, and the plant is said to grow only in Crete. The only dose printed is a teaspoonful, of an unstated substance. The final goat anecdote is hearsay and maps to no organ. The identity as a goosefoot is the translators' and is doubtful, so none of this is a current claim.
+
 ### Contraindications
 
 The internal use is said to induce the menses, so it must not be used in pregnancy. Painful or obstructed urination and suspected bladder stones need medical assessment. The plant's identity is doubtful, so no wild plant should be gathered or drunk on this basis, and a wound with something lodged in it needs clinical care. None of the traditional uses above is advice. [USER: verify]

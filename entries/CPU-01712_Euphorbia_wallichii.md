@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a purgative in the Tibetan texts, with no dose, and its Latin name rests on a glossary column position and on a differently spelled epithet in Clark. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts name this drug as a purgative. The Men-Tsee-Khang text says that Dhurji and Tharnu purge all forms of hot and cold disorders (line 3495) and lists Thamu among the purgatives (line 3661). Clark's commentary for the name thar.nu adds that the drug removes stones and pustules and, in calcinated form, is anti-emetic. The organ-level effects the entry can state are therefore on the bowel, as the site of purgation, and on the vomiting reflex, as the site of an anti-emetic action. Pustules and stones are named without any organ. No humoral or doshic classification is printed for the drug. The hot taste that Clark gives belongs to his entry for the Euphorbia and is not carried to the glossary's species. The wording hot and cold disorders is a Tibetan category, not a modern diagnosis, and no clinical study was retrieved. The attachment of this Tibetan name to Euphorbia wallichii rests on a glossary column position and a differently spelled epithet in Clark, so the mapping describes what the texts claim for the drug and does not confirm a plant.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The latex of *Euphorbia* species is generally known to be an irritant, a purgative drug can cause dehydration, and the identity is not settled, so no plant should be gathered or used on the strength of this entry. Latex that touches the eyes needs urgent medical care. No safety information for pregnancy was read. [USER: verify]

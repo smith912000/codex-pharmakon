@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the source read gives a cultivator a practice with this plant. This is a short record of an unsettled identity, and nothing is to be done with it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry's Dioscorides chapters state only the following. Chapter 2-115, the grain, says the seed is hard to digest and softens the bowels, and that it is much less nourishing than zea because it has much chaff. Chapter 4-51, the seashore shrub, says its red kernels are sharp on top and especially astringent to taste, and that ten kernels taken in wine help the abdomen and women's discharges, meaning the menstrual flow. Some beat the seed into tablets for storage. The entry maps these to the bowels (2-115), the abdomen and menstrual flow (4-51), and taste (astringent). No warming, cooling, temperament, humour or degree is printed in either chapter. The identity of the plant is doubtful, and no constituent or clinical information was read.
+
 ### Contraindications
 
 The identity is doubtful and no safe preparation can be stated. 4-51 is recorded as acting on women's discharges; do not use in pregnancy. The traditional uses are not advice.

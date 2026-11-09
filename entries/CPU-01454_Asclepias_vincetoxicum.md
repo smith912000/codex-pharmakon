@@ -41,6 +41,10 @@ Many members of the milkweed family contain toxic glycosides, a general statemen
 
 **Practitioner's note.** Nothing here gives a cultivator a practice. The record is a poisonous plant with a root decoction for gripes and bites, and the abstentive answer is correct.
 
+### Functional–Anatomical Correlate
+
+The chapter's claims fall on three regions: the gut, the site of a bite, and the breast and womb. A decoction of the roots, taken as a drink in wine, is said to help griping (colicky pain in the bowel) and those bitten by poisonous beasts. The leaves are applied to malignant sores in the breasts and womb, so the text places these sores on the breast and uterus. The root is described as sweet-scented and the flower as strong-smelling, and no warming or cooling quality is printed; the translator marks the chapter poisonous. The milkweed family is generally known for milky juice and toxic glycosides, but the plant of Dioscorides' chapter was not analysed here, so that link is a general statement. The entry itself treats snakebite as needing medical care, and the Codex records these claims without any protocol.
+
 ### Contraindications
 
 The translator marks the chapter POISONOUS. Do not use. The traditional uses recorded are not advice, and snakebite needs medical care. Do not use in pregnancy. No dose is given.

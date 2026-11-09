@@ -47,6 +47,10 @@ Herbaceous elders of East Asia are used in folk medicine for bone and joint comp
 
 **Practitioner's note.** A lower-grade drug in the Chinese scheme, to be taken for a defined complaint and for a short course, if at all. Nothing here supports long-term use, and the classic's own grading is the warning. The additional lesson of the entry is that the old commentators could not agree whether the plant and its toxic companion were one drug or two. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Following the Shennong bencao jing, Lu Ying (identified here, with medium confidence, as the herbaceous elder Sambucus javanica) is recorded as acting on the bones and joints, in the classic's words the various impediments within the bones (骨间诸痹), together with cramping and aching of the four limbs, cold pain in the knees, and swelling of the feet. The classic also lists impotence, literally yin wilting, which maps to the genitals and reproductive function, and short breath and insufficiency, which maps to the breath and lungs. Its nature is bitter and cold, and no channel or organ affinity is printed. The Mingyi layer gives a separate companion drug, shuo diao, as sour, warm and toxic, and the entry does not merge it with Lu Ying. These are the classic's categories rather than modern diagnoses, and the entry records them as historical claims only.
+
 ### Contraindications
 
 - **Toxicity.** The Mingyi layer calls the companion *shuo diao* toxic. Do not take any elder plant material, particularly the raw leaf, stem or root, as medicine. Raw parts of elders can cause nausea and vomiting.

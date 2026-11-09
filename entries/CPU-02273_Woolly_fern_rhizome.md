@@ -50,6 +50,10 @@ General, well-established facts only. *Cibotium barometz* is a tree fern of sout
 
 **Practitioner's note.** A middle-class drug for the back, joints and knees, with a clause that it helps old people and nothing that promises longer life. No part, preparation, dose or course is given, and the plant behind the early name is itself uncertain. A cultivator has no practice to take from this entry.
 
+### Functional–Anatomical Correlate
+
+The classic's claims for this rhizome are for the lower back and back, the joints, the knees and whole-body impediment. The Shennong paragraph says it governs the lower back and back (腰背), strengthens the joint-pivots (强关机) and slackens what is tense (缓急). It treats all-round impediment from cold and damp (周痹寒湿) and knee pain (膝痛), and benefits old people considerably (颇利老人). The Mingyi layer adds aliases such as 强膂 and 扶筋, which the entry gives as names only. Yang's edition gives the same indications, and his footnote links the drug to the liver and kidneys and to sinews and bones; that is modern commentary, not the classic, and the Codex does not adopt it. The classic names no channel or organ, and the Wu Pu flavours are not a grade. Because the identity is doubtful, the entry maps only what the text says.
+
 ### Contraindications
 
 - **Identity.** The early plant is uncertain and the modern drug is the tree-fern rhizome; do not treat any hairy or thorny rhizome as this drug. [USER: verify]

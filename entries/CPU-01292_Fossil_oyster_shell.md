@@ -48,6 +48,10 @@ General, well-established facts only. Calcium carbonate is the main ingredient o
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The fossil shell is a depilatory stone and a doubtful drink for the menses that Dioscorides lists without comment. The Codex does not recommend using it as a contraceptive or to stop bleeding. What the chapter shows is how an ancient physician sets a stone beside a more familiar one (pumice) to say how it is used. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Uterus and menses: taken as a drink in wine, the stone is said to stop the menstrual flow, which maps to the uterine lining and menstrual bleeding. Taken after the flow, it is said to prevent conception, which maps to the reproductive tract and fertility. Breasts: applied with honey, it soothes inflamed breasts, which maps to the mammary glands and breast tissue. Face and skin: applied with honey it stops gangrenous ulceration of the cheeks, which maps to the facial soft tissue and skin, and used in place of pumice it removes hair from the skin, which maps to the hair follicles. The text names no organ beyond these, and no temperament, taste or potency is printed. Dioscorides gives no humour or subtle-body claim. Modern anatomy therefore maps the entry to the uterus and reproductive tract, the breast, the facial skin and the hair follicles.
+
 ### Contraindications
 
 - **Contraception:** the text says two teaspoonfuls prevent conception; there is no evidence for this and it must not be relied on. Use an established contraceptive method.

@@ -44,6 +44,10 @@ Gleditsia pods have been used as a natural soap because of their saponins; that 
 
 **Practitioner's note.** There is nothing for a cultivator here. A lower-class drug is not for long taking, the text gives no dose, and the pod's saponins make casual internal use unwise. If it matters at all, it matters as a record of how the tradition ranked it.
 
+### Functional–Anatomical Correlate
+
+The paragraph's targets are numbness-obstruction (风痹, wind numbing-obstruction), dead flesh (死肌), evil qi, wind in the head with tearing (风头、泪出), and opening the nine orifices (利九窍). The nine orifices are the classic's term for the body's openings, which in modern terms would include the eyes, nose, ears and mouth, but the text does not name them and the Codex does not assign them. Tearing points toward the eyes and the head toward the brain, yet the classic names no organ. The text also says the pod kills jingwu (杀精物), which the Codex reads as uncanny beings and does not translate. The energetic terms are pungent, salty and warm (味辛、咸，温). The Mingyi layer's pig's-tooth shape is the only description of the pod. Saponin irritation of the mouth, throat and gut is general knowledge and not a claim of the text, and the Codex advises against taking the pod on this entry's authority.
+
 ### Contraindications
 
 - **Toxicity.** The lower class is "mostly toxic". Saponin-rich pods can irritate the mouth, throat and gut and can cause vomiting or diarrhoea if swallowed in quantity. This is general knowledge and the text says nothing of it. Do not take the pod on this entry's authority. [USER: verify]

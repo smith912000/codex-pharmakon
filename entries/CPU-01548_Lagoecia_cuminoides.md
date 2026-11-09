@@ -43,6 +43,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a short list of digestive, urinary and antidote uses with no stated amounts, so it is history and not a practice. The useful lesson is the care the chapter takes over place of origin and over which of two wild cumins is meant.
 
+### Functional–Anatomical Correlate
+
+The first wild cumin is said to act on the gut and the urinary tract. Its seed in water treats griping and gaseousness, which are abdominal complaints. With vinegar it soothes hiccups, a diaphragm reflex. With wine it is used against the poison of venomous creatures and against moisture of the stomach. Chewed and applied with honey and grapes it takes away bruises, and applied with the same things it cures inflammation from stones, which the chapter glosses as urinary and kidney stones. The second kind, similar to the cultivated cumin, is drunk for snake bite, for slow painful urination, for stones, and for those who pass drops of blood in the urine, with boiled apium seeds drunk afterwards. The organ mapping is therefore the stomach and gut, the diaphragm, bruised soft tissue, the bladder and kidney, and the urine. The text prints no hot, cold, moist or dry quality for 3-69.
+
 ### Contraindications
 
 Snake bite, the poison of venomous creatures, urinary stones and blood in the urine are conditions for medical care, and a home preparation must not replace it. No safety information for pregnancy was read. The identification rests on a translators' suggestion for a chapter with two kinds, so no wild plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

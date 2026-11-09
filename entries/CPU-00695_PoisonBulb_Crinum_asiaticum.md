@@ -113,6 +113,10 @@ The honest use case is narrow: it is a plant a cultivator in the tropics can gro
 
 **Practitioner's note.** Nothing. This is an external poultice plant and a poison; there is no vitality or longevity use to cultivate, and the bulb should not be taken internally.
 
+### Functional–Anatomical Correlate
+
+Poison bulb acts on the skin and on the soft tissue and joints beneath it when used externally, as a warmed leaf poultice over swelling, sprains, joint pain and inflamed tendons. Ayurveda frames the action as vata-kapha-hara applied locally, with heat and oil carrying the drug through the skin. Thai practice specifies grilling the leaf before applying it to inflamed and osteoarthritic joints, and TCM describes it as invigorating blood and dispersing stasis over trauma and boils. The entry reports that isolated flavan-3-ols and flavans inhibited LPS-induced NF-kB p65 phosphorylation and IL-6 in macrophage cells, a preclinical route to reduced local inflammation. Internally, the entry describes cytotoxic and emetic alkaloids and galanthamine-type acetylcholinesterase inhibition, with a delayed cholinergic crisis in a congener case. The entry treats the intact epidermis as the only dosing control, so broken skin is excluded, and it cautions the eyes, pregnancy and children.
+
 ### Contraindications
 
 **⚠️ TOXIC PLANT. EXTERNAL USE ONLY. THE BULB IS GENUINELY POISONOUS.**

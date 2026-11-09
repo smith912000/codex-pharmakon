@@ -80,6 +80,10 @@ Codex policy: secure mechanism over invented specifics. The sodium-channel and B
 
 **Practitioner's note.** ⚠️ There is nothing here to cultivate with. *Veratrum album* is a steroidal-alkaloid cardiotoxin with a lethal, unpredictable margin; every tradition that names it treats it as a heroic evacuant or an outright poison, and two of its cultivation-bearing traditions (Unani, Ayurveda) point away from it. The correct cultivator's action is abstention and identification — knowing the plant well enough never to ingest it and never to confuse it with gentian or ramsons. The *melampode* story is history to be read, not a practice to be revived.
 
+### Functional–Anatomical Correlate
+
+The entry places white hellebore's action in the sensory nerves of the heart and stomach, and in the nasal lining and skin. Its steroidal alkaloids, chiefly protoveratrine, hold voltage-gated sodium channels open in sensory nerves, which the entry says drives the Bezold-Jarisch reflex, bradycardia and hypotension through cardiac vagal afferents, and intense vomiting. The upward emetic action is the defining effect, set against black hellebore's downward purge. Powdered root in snuffs provokes sneezing through the nasal mucosa, and externally it was used as a parasiticide on lice and scab. In humoral terms the entry records it as hot and dry in the third to fourth degree, a violent upward evacuant. Its Chinese congener Li Lu is classed as an emetic and an external agent for parasites and skin disease. The entry gives its Qi tier as a gross expeller acting on emesis and reflex cardiovascular collapse. Cardiac disease, pregnancy, gastrointestinal disease, and the eighteen-incompatibility rule with ginseng are listed as contraindications.
+
 ### Contraindications
 
 - **Cardiac disease — absolute.** Reflex bradycardia, hypotension and conduction disturbance; can be fatal.

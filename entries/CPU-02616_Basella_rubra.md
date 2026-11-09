@@ -47,6 +47,10 @@ General, well-established facts only. *Basella alba* and *B. rubra* are eaten as
 
 **Practitioner's note.** An ordinary leafy vegetable of the diet lists. Nothing here supports any cultivation use beyond its place as food, and nothing in the lines read is a dose. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Per the Sutrasthana pot-herb passage, Ashvavala is a laxative and diuretic pot-herb with a sweet and alkaline taste that slightly generates Vayu and Kapha and cures haemoptysis (bleeding from the lungs or airway). Its action is therefore mapped to the bowel (laxative), the kidney and urinary tract (diuretic), and the lungs and airway (haemoptysis). In the Chikitsa it is one of the pot-herbs that may appear in a patient's meal, chosen according to the Doshas involved. The spermatopoietic, anti-narcotic, tonic and cooling qualities that the passage prints belong to Upodika, a different herb named beside it, and the entry does not carry them across to Basella. The Latin name Basella rubra is only Bhishagratna's appendix equivalent, with the Sanskrit name OCR-garbled. The entry gives no dose and no energetic classification beyond the group statement for pot-herbs.
+
 ### Contraindications
 
 - **Identity.** The Sanskrit name is OCR-garbled and its link to *Basella rubra* is Bhishagratna's appendix only. [USER: verify]

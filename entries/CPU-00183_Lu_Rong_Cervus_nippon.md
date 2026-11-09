@@ -133,6 +133,10 @@ The two varieties of this parent come from one text, the Tibetan *rGyud-bzhi* (F
 
 ---
 
+### Functional–Anatomical Correlate
+
+Deer velvet maps mainly onto the Kidney system and the skeletal, reproductive and connective tissues. In Chinese terms it is chiefly a Kidney tonic governing bone, marrow and reproduction, with a secondary action on the Liver's sinews and entry into the Governing Vessel and the extraordinary vessels. Its stated effects are to strengthen sinews and bones, warm the extraordinary vessels and replenish the Blood. Ayurvedic correspondence places it on the tissues of bone (asthi), marrow (majja), muscle (mamsa), reproductive tissue (shukra) and blood (rakta). Modern tissue correlates named in the entry include osteoblast differentiation through BMP-2 and BMP-7, muscle satellite cells responding to IGF-1, cartilage and connective tissue through collagen types I and II and chondroitin sulfate, and Leydig cell stimulation within the hypothalamic-pituitary-gonadal axis. Prostaglandin-driven local perfusion is cited for soft-tissue recovery. The entry's Varieties section notes that the Tibetan loci it reads describe horn rather than velvet, so that tradition is not mapped here.
+
 ### Contraindications
 
 - **WADA and anti-doping compliance (CRITICAL):** Exogenous IGF-1 is listed on the WADA Prohibited List (S2: Peptide Hormones and Growth Factors). While oral velvet antler is NOT currently an explicitly named prohibited substance, the IGF-1 content creates a theoretical compliance ambiguity. Athletes subject to WADA-compliant testing should consult their national anti-doping authority before use; some anti-doping programs take a strict "product caution" approach to IGF-1-containing supplements

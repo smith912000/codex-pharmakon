@@ -40,6 +40,10 @@ General facts only. Raw pig blood and offal can carry hepatitis E virus, *Salmon
 
 **Practitioner's note.** Nothing to do. In both traditions pig's blood is a drug for a complaint, and in Ebers it is only one of five blood ingredients. A cultivator can take from the Tibetan lines that the pig's products are listed together for "collecting" poison, which is a statement about disease and not about vitality. Pig blood cooked as food is an ordinary dish, and this entry gives no reason to eat it for cultivation.
 
+### Functional–Anatomical Correlate
+
+Little to map: the eyelid and, in the Tibetan text, poisoning and phlegm. In the Ebers, pig's blood is one of five bloods (with donkey's, cow's, dog's and stag's), rubbed with collyrium and incense and placed where an eyelash was pulled out so that the hair does not grow again; the site is the eyelid margin. The Tibetan Explanatory Tantra, as Clark translates it, says pig blood collects poisoning and brown phlegm; Men-Tsee-Khang says it assembles poison and baekan mukpo, a disorder the entry notes is a concept of that tradition and not translated here. Other pig products are named for phlegm and poison, but pig blood is named for no organ. Dioscorides' blood chapter does not name the pig. No humour, temperament, taste or potency is printed for pig blood.
+
 ### Contraindications
 
 - **Infection.** Raw pig blood and offal can carry hepatitis E, *Salmonella*, *Streptococcus suis* and other pathogens; never apply raw blood to the eye or broken skin or drink it. [USER: verify specifics]

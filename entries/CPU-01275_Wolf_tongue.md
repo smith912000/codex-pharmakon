@@ -42,6 +42,10 @@ General, well-established facts only. Swelling of the tongue (glossitis or angio
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The wolf's tongue is a one-line remedy for swelling of the tongue in a run of organ entries, and the tradition's own first precept is against taking life. The Codex does not recommend it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one action, that the wolf's tongue removes swelling of the tongue, and both translations agree on it. The organ the text names is the tongue itself, and the swelling is in that same organ, so the correlate is the tongue and the mucous membrane that covers it. The text prints no temperament, taste, post-digestive taste or potency for the organ, and the Tantra's rule that meats are sweet in taste is about flesh and is not carried over. No humour, wind, bile or phlegm is assigned. The neighbouring pig tongue is read two ways in English, so the translations are not fully reliable on the line. Modern anatomy adds that tongue swelling can threaten the airway, which the source does not mention. The Codex does not recommend the organ.
+
 ### Contraindications
 
 - **Infection and hygiene:** organs of wild carnivores can carry parasites and pathogens; do not eat, handle or apply them.

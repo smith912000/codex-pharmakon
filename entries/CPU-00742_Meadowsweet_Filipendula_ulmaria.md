@@ -120,6 +120,10 @@ The energetic reading is coherent: astringency and cooling are exactly what tann
 
 **Practitioner's note.** Nothing in the cultivation sense. It is a salicylate-bearing herb used for a complaint and then stopped; the daily-tea custom is no warrant for long-term use, especially given the salicylate caution in the entry.
 
+### Functional–Anatomical Correlate
+
+The entry maps meadowsweet onto fever, pain, rheumatism and the stomach. In the European folk frame it is cool, dry, astringent and relaxing, descending: it works at the skin in fever through a diaphoretic release, and binds in the gut. The classical indications are fever, pain, rheumatic inflammation and stomach complaints including hyperacidity, heartburn and ulcer. For fever, pain and rheumatism the modern correlate is salicylate pharmacology from salicylaldehyde, methylsalicylate and salicylic acid, graded by mechanism rather than trial. For the stomach, four petal ellagitannins inhibit histidine decarboxylase in vitro, reducing the histamine that drives acid secretion, but the entry records no clinical trial and one probable paediatric case of gastrointestinal bleeding with salicylates. Rat data report reductions in colon and other tumours, and antioxidant and DNA-protection data are in vitro. The organs named are stomach, joints and skin.
+
 ### Contraindications
 
 **⚠️ This is a salicylate plant. Every salicylate caution applies, and they are not theoretical.**

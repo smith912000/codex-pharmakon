@@ -43,6 +43,10 @@ General facts only: kidney stone and opium poisoning are medical emergencies, an
 
 **Practitioner's note.** A hot, dry plant with stone-breaking and antidote reports, many of them 'it is said'. No cultivation status is attested.
 
+### Functional–Anatomical Correlate
+
+In the Canon's terms this plant is hot and dry, perhaps at the beginning of the second degree, and it is said to resolve irritation. Galen is reported to have found that its boiled liquid, salaqa, breaks up stone in the kidney, so the kidney is the named target. Some report benefit to ulcers of the intestines, to colic, and to pains of the womb, and that it promotes urine and menses. It is also said to benefit ruptures, which our reading takes as hernia. As an antidote, a mithqal or two is said to be useful against sea hare and opium. The entry names the kidney, intestines, womb, urine and menses, and no other organ. The Galen attribution is the Canon's own, and no Galen text was read. Historical record only; the stone, poison and menstrual uses must not be acted on.
+
 ### Contraindications
 
 - **Promotes menses.** The text says it induces menses; it is unsafe in pregnancy. [USER: verify]

@@ -63,6 +63,10 @@ According to PubMed, balloon-flower root has a coherent, if still largely precli
 
 ---
 
+### Functional–Anatomical Correlate
+
+Balloon Flower acts on the upper airway: the throat, the bronchial tree and the lungs. In TCM terms it disperses lung qi, resolves phlegm, benefits the throat and discharges pus, entering the Lung channel with an ascending, guiding action. Tibetan rGyud-bzhi uses it as a lung- and channel-clearing, phlegm-moving agent in compound formulas for cough and chest congestion. Unani and Galenic framing calls it a warming-drying expectorant that thins viscous humours of the chest. Modern anatomy maps the claimed effect to bronchial secretion: the entry says platycodin saponins stimulate bronchial secretion, thinning and mobilising phlegm, and cites antitussive and expectorant activity in preclinical work. The same saponins are described as locally irritant to gastric mucosa and membrane-active, which the entry raises as gastrointestinal and haemolytic cautions. It is for productive, phlegm-laden coughs and sore throat, not dry coughs. The entry gives no cultivation or vital-body action.
+
 ### Contraindications
 
 ⚠️ **Saponin cautions — haemolysis and gastrointestinal irritation.**

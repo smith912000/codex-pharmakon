@@ -39,6 +39,10 @@ No heat, cold, moisture or dryness is printed. The root's taste word is unclear 
 
 **Practitioner's note.** Nothing to practise. It is a lost Greek plant with a carminative root.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names two organ targets, and both are wind in the gut or womb. A drachm's weight of the round root taken in wine is said to dissolve winds, and a later passage says the same drachm dissolves the winds that inflate the womb. The text names no other organ, tissue or body system. No temperament, humour, or degree of heat or dryness is printed, and the taste word for the root is unclear in the text. The Canon's account of this plant is organised by complaint and says nothing about innate heat, radical moisture or the ruh. A second kind is described by its branches and beak-like head, and the text says it has no use in medicine. The plant is not identified, so no modern anatomical or pharmacological link can be drawn. Pain, swelling or bloating of the womb or gut needs medical care, and the entry records no protocol or modern dose.
+
 ### Contraindications
 
 - The plant is not identified; do not eat wild roots on the strength of this entry.

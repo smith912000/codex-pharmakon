@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing. A cultivator has nothing sourced to do with this entry: the record is a list row and the species is not given. This is a historical record only and not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names metl, glossed maguey or agave, with the genus Agave and no species, flagged id-uncertain because several Agave species are probable. The plant is attested by list row to the Badianus manuscript of 1552, with no folio, preparation, use or complaint. The entry notes, without relying on it, a Latin arrow-wound recipe listing agave juice in a file it judges unreliable. The Active Components section gives a general statement that agaves are succulents whose leaves are known to contain saponins and whose sap can irritate the skin, but says which of this applies to the species was not retrieved. No organ, tissue or body system is named as acted on, and no humoral or doshic classification is read. The cultivation register is absent, and no clinical study was retrieved. The entry's only general caution is that a plant of unspecified species should not be taken internally.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, a plant of unspecified species should not be taken internally, and fresh agave sap is generally known to irritate skin. Pregnancy and breastfeeding are not covered by any source read. This is general caution and is not found in the row. [USER: verify]

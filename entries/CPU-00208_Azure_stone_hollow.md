@@ -46,6 +46,10 @@ Azurite and malachite have been used since antiquity as pigments, and copper com
 
 **Practitioner's note.** Four upper-grade entries and one middle-grade entry for a blue copper ore, in a tradition that held upper-grade stones safe for long use. The Codex cannot repeat that claim for a copper salt. Nothing here supports taking azurite; its use as a cultivator is as a record of the Daoist elixir aim. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Classic's Qing entries for this ore name these sites. Kong Qing treats clear-eye blindness and deafness, brightens the eyes, disinhibits the nine orifices, frees the flow of the blood vessels, and nurtures the essence spirit. Ceng Qing, sour and a little cold, treats eye pain, tearing, wind impediment of the joints, and concretions and gatherings. Bai Qing, sweet and balanced, brightens the eyes, disinhibits the nine orifices, treats deafness and evil qi below the heart, and kills the three kinds of worms. Bian Qing, a little cold, treats eye pain, brightens the eyes, heals fractures from falls and welling abscesses. Fu Qing, acrid and Middle class, treats toxins and malign wounds. In modern terms these map to the eyes, the ears, the orifices, the blood vessels, the joints, the bones, the skin and the intestinal worms. Yang's footnote says the Qing entries are one ore in different shapes.
+
 ### Contraindications
 
 Copper compounds are toxic by mouth, and powdered mineral preparations are unstandardised and may be contaminated with arsenic, lead or other metals. Identification is uncertain (Yang's footnote 60), so azurite, malachite and similar blue-green stones cannot be treated as the same substance. Purchase of mineral medicines is regulated in many places. The Classic's statements that the ore turns base metals into gold are alchemical and are not claims of fact.

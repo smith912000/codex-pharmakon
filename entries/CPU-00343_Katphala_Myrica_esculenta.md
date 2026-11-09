@@ -56,6 +56,10 @@ According to PubMed:
 
 **Practitioner's note.** Nothing here supports a cultivation use. In the Suśruta text Katphala is a bark drug for Kapha-type complaints of the head, chest and wounds, taken for a defined course.
 
+### Functional–Anatomical Correlate
+
+The entry places Katphala's action on the upper airway and chest, the prāṇavaha (respiratory) channels and the head and throat srotas, covering the nose, throat (kaṇṭha), voice (svara) and chest. It is named for cough (kāsa), breathlessness (śvāsa), rhinitis and catarrh (pīnasa, pratiśyāya), hoarseness (svarabheda) and inflamed throat tissue; its warm, sharp, astringent bark is used as a gargle, nasal application or fumigation. Classical actions include Kapha- and Vāta-pacifying effects, digestive kindling (dīpana-pācana) and anti-inflammatory action (śothahara), with a Pitta-increasing risk noted. Modern correlation covers in vitro work: a bark triterpenoid, 3-acetylmyricadiol, reduced nitric oxide, IL-6 and TNF-α in LPS-stimulated macrophages, and a review describes myricitrin as antioxidant, anti-inflammatory and anti-nociceptive. The entry grades this as low, with no human clinical trial cited for the respiratory or ENT use. Cautions cover Pitta-predominant states, heat-driven bleeding, inflammatory gut conditions and pregnancy.
+
 ### Contraindications
 - **Uṣṇa-tīkṣṇa nature:** contraindicated or used cautiously in Pitta-predominant states, hyperacidity, bleeding disorders driven by heat, and inflammatory GI conditions.
 - Not for prolonged high-dose use — the sharpness can irritate mucosa and aggravate Pitta over time.

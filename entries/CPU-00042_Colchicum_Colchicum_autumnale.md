@@ -71,6 +71,10 @@ Codex policy: mechanism stated securely; named citations to be supplied and veri
 
 **Practitioner's note.** For the cultivator the honest answer is *nothing*. This is a metaphase poison with a razor-thin margin and no antidote; not one of the five traditions assigns it a life-nourishing or vitality-building role, and the traditions that engage it at all do so as poison (Dioscorides) or as a supervised therapeutic (the hermodactyl gout strand and its modern colchicine descendant). It belongs to the physician and the laboratory, never to a personal cultivation practice.
 
+### Functional–Anatomical Correlate
+
+The entry places colchicum mainly on the joints and the inflammatory system. Its Qi classification, set against the Galenic reading of it as a poison, is framed around inflammatory heat and swelling stagnating in the gouty joint, which the Byzantine and Arabic hermodactyl strand treated for acute gout. Modern anatomy locates this in neutrophils: the entry says colchicine disrupts their microtubule-dependent motility and their inflammasome response to urate crystals, damping the acute attack. The same mechanism is extended to familial Mediterranean fever. The entry's Shen tier reflects a systemic, cell-level reach, since colchicine binds tubulin and arrests dividing cells at metaphase, the basis of its use in chromosome analysis. For toxicity, the entry names the gut first, with delayed GI symptoms, then multi-organ failure, bone-marrow suppression at toxic levels, and renal and hepatic impairment as clearance limits. It gives no dose.
+
 ### Contraindications
 
 - **Narrow therapeutic index — absolute.** Toxic dose near therapeutic dose; overdose frequently fatal; no antidote.

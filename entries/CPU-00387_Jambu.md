@@ -57,6 +57,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this tree. In Sushruta it is an astringent used for washes and for bowel and bleeding complaints. The abstentive answer is the correct one: any use is a matter for a qualified practitioner, and the text supplies no long-term regimen.
 
+### Functional–Anatomical Correlate
+
+Sushruta lists Jambu chiefly as an astringent, so the tissues it is said to bind are the bowel and the bleeding vessels. Bark or dried fruit taken with honey is given for diarrhoea, and a decoction of its bark is named for bleeding in Rakta-pitta. The Jamvava wine is described as anuretic, reducing the quantity of urine, which places its action on the urinary tract, and as enraging Vayu. Leaf decoctions wash ulcers and serve as eye washes, and clarified butter is dropped into the eye, so the skin of ulcers and the eye are the named surfaces. Leaves cooked in oil are applied to affected parts. Flowers appear in a preparation that follows a passage on an oil that arrests premature greyness of the hair, though the purpose of that preparation is not stated. The fruit is said to subdue Pitta and Kapha, while the Jamvava fruit generates Vayu. A verse on the Nyagrodhadi group says the group cures disorders of the uterus and vagina, but that is a claim about the group, not about Jambu alone. No virya or vipaka is printed for Jambu, so its energetic terms are astringent and Vayu-disturbing.
+
 ### Contraindications
 
 No safety data were read. Astringent preparations may constipate, and Sushruta itself says the Jamvava fruit and wine "generate" or "enrage" the Vayu (Sutra ch.45 and ch.46). The eye, ulcer and bleeding uses above are conditions needing medical care, and none of them is advice. Do not put plant decoctions in the eye. Do not use in pregnancy. Seek a qualified practitioner, and ordinary medical care for diarrhoea with blood or for any wound that does not heal.

@@ -47,6 +47,10 @@ No identification is possible from the sources read, so no scientific correlatio
 
 **Practitioner's note.** Nothing to do. The drug is an unidentified name in a list, taken (so far as the text says) only as one member of a therapeutic group at a physician's discretion, and there is nothing a cultivator can responsibly use.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry gives only the group-level statement for the Viratarva'di group in which I'ala is listed in Sushruta Samhita, ch.38. The group as a whole is said to subdue all disorders of the deranged Vata and to prove curative in Ashmari (stone), Sharkara (gravel), Mutrakrichhra (painful urination), Mutraghata (urinary obstruction) and urinary troubles. The text does not say which member acts on which tissue, and it assigns no part, taste (rasa), potency (virya), post-digestive effect (vipaka) or dosha to I'ala singly. The drug is unidentified, so no organ can be tied to it from its own record. The only guidance on use is the chapter-end rule that the physician chooses plasters, decoctions, medicated oils, ghritas or potions to suit each case, using two, three or four drugs of one group or the group entire. The only modern correlate the conditions support is the urinary tract.
+
 ### Contraindications
 
 - **Identity.** Unidentified; do not substitute any plant for it.

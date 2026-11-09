@@ -69,6 +69,10 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps beetroot onto several systems. Vascular: dietary nitrate is said to be reduced to nitrite and then nitric oxide, a vasodilator, which underlies the studied effects of beetroot juice on blood pressure and exercise performance. Hepatic and splenic: classical texts treat beet as a mild deobstruent that opens the liver and spleen, the Unani mufattih action. Digestive: beet is a mild aperient and gut soother, with the white beet the more laxative. Blood and nutrition: beet is called blood-nourishing, with folate and minerals supporting the depleted, though this is a traditional rather than a verified claim. Topical: leaves are applied to inflammations and burns, and juice is used in the nose for headache and catarrh in folk practice. Betalain pigments are described as antioxidant. Energetically it is Qi on the cooling-moistening, opening and nutritive axis, with the vascular action sitting on the circulation-supporting register.
+
 ### Contraindications
 
 - **Oxalate / kidney stones.** Beet (especially leaves) is relatively high in oxalate; caution in calcium-oxalate stone formers.

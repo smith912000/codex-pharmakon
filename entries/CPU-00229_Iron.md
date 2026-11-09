@@ -57,6 +57,10 @@ Iron deficiency anaemia is common and treatable with iron salts; iron overload a
 
 **Practitioner's note.** Two sources give iron a place beyond treatment: Sushruta's longevity line for the prepared *Ayaskriti* (inside a skin-disease chapter, with a strict meal rule) and the Chinese classic's middle-grade listing, which has no longevity line. Nothing sourced supports taking iron for cultivation. Iron in the body is a nutrient with a ceiling, and a cultivator who suspects deficiency should be tested, not guess. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Divine Farmer's Classic (SBJ) places iron's action in the sinews (jin), which it strengthens with endurance to pain, in the skin and surface sores (malign wounds, sores, flat abscesses, scabs and the qi within the skin), and in the eyes for Tie Jing. Sushruta (SS) gives humoral terms: iron generates Vayu, is cooling, allays thirst and subdues the deranged Pitta and Kapha, and its prepared form is said to act on skin disease (kushtha), urinary disorders (meha), oedema, jaundice, and the brain (insanity, epilepsy). Dioscorides (DMM) places its rust on the uterus and menstrual flow, the gums, the spleen and abdominal cavity, the gut (dysentery, diarrhoea, cholera), the eyelids and membrane of the eye (pterygium), the scalp (alopecia), the joints (gout) and the skin (whitlows, warts, rashes). The Ebers text names the eye and the scalp. In modern anatomy the sites are the connective tissue, skin, eyelids and conjunctiva, gums, uterus, gut, spleen, joints, scalp and brain. The Chinese grade is acrid and balanced.
+
 ### Contraindications
 
 Iron supplements and iron-containing preparations are a leading cause of poisoning in young children. Taking iron without a documented deficiency risks overload, especially in people with haemochromatosis. Traditional "bhasma" or burnt-iron preparations are not standardised and may contain other metals. Rust on open wounds carries infection risk. The Greek note that an iron-rust decoction "causes inconception [birth control]" is recorded as a report, not as a method.

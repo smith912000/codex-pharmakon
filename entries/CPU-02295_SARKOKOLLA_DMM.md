@@ -56,6 +56,10 @@ General, well-established facts only. A gum-resin such as this one is a hardened
 
 **Practitioner's note.** A traded gum-resin for wounds and eyes, with a test of look and taste and a warning about gum. Nothing supports cultivation use, and the eye use is unsafe. A cultivator takes from it the habit of checking provenance and fraud.
 
+### Functional–Anatomical Correlate
+
+The chapter names the body sites the gum-resin is said to act on. For wounds, it is said to close open cuts and sore wounds, which places it on the skin and soft tissue. It is also said to stop fluids in the eyes, the translator's wording, which the entry does not turn into a modern diagnosis, so the eye and its discharges are the one organ named. It is mixed into plasters, which are external applications. Dioscorides gives no temperament or energetic quality beyond a somewhat bitter taste, and no channel, organ or constitutional affinity is printed. The source is a tree growing in Persia, whose genus is not named, and the chapter says the drug is counterfeited with gum. No internal organ, circulation, humoral or pneumatic system is claimed. The entry treats these as historical claims only, gives no protocol, and warns against putting an unsterile resin into the eye or into a wound.
+
 ### Contraindications
 
 - **Eyes.** Do not put any unsterile resin or gum into the eye.

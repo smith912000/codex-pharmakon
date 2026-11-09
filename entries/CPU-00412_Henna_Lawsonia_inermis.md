@@ -79,6 +79,10 @@ According to PubMed:
 
 **Practitioner's note.** A cultivator does with henna what the skin allows and no more: it is a topical, and internal use is contraindicated (G6PD haemolysis). Across every tradition that names it, henna is a surface medicine and an adornment — cooling, binding, marking — not a substance taken to lengthen or refine a life. The blessing the prophetic tradition lays on it is real to those who hold it, but it is worn, not ingested.
 
+### Functional–Anatomical Correlate
+
+Per the entry's own claims, henna acts on the skin, hair, scalp, nails and the outer periphery of the body (palms, soles and the fevered head), cooling and binding it. Dioscorides and Unani both use the leaf as an astringent for hot swellings, sores, burns, ulcers and boils, and Unani adds cracked, inflamed hands and feet. Ayurveda, as mehndi, applies a cooling paste to the palms, soles and scalp for heat headache, and treats burning skin and wounds, with a Pitta-pacifying, cooling potency. The Chinese reading (zhi jia hua) cools blood-heat and resolves toxicity in skin sores. The entry's preclinical work links lawsone to the aryl hydrocarbon receptor in skin and reports both anti-irritant and impaired-regeneration effects. Its safety section names a haemolytic hazard in G6PD-deficient people, where it can cause haemolytic crisis, so it is treated as a topical medicine only.
+
 ### Contraindications
 
 - **⛔ G6PD deficiency — serious hazard.** Lawsone can trigger oxidative haemolysis; henna (especially applied to large areas or to infants/neonates) has caused **haemolytic crisis in G6PD-deficient individuals**. Do not apply extensively to G6PD-deficient people or young infants. This is the single most important safety point for henna.

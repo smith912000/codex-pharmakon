@@ -57,6 +57,10 @@ The Shennong text gives no preparation and no dose. The Mingyi layer gives only 
 
 **Practitioner's note.** A lower-grade, toxic emetic leaf for malaria and abdominal masses. The tradition's own grading is the warning, and nothing in the record supports any cultivation use. A cultivator should not use it.
 
+### Functional–Anatomical Correlate
+
+The Shennong paragraph places its claims in the abdomen, in the breath (cough and counterflow), and in the general qi, though it assigns no organ or channel. It names malaria, cough and counterflow with cold and heat, hard concretions and binding glomus (pi) in the abdomen, accumulations and gatherings, evil qi, gu toxins and demonic influx. The abdominal claims are the most concrete, while gu toxins and demonic influx have no modern site in the entry. The Codex does not translate these into modern diagnoses. The Wu Pu layer marks the drug toxic and Yang prints the same word; the strong emetic action comes from the Codex's own Scientific Correlation, not from the classic. The entry therefore places the drug's danger in the vomiting reflex, which the classic does not claim. Malaria is a medical condition, and nothing here supports use.
+
 ### Contraindications
 
 - **TOXIC AND POTENTIALLY DANGEROUS.** The Wu Pu layer marks it toxic, and the plant is strongly emetic. Do not ingest it. Do not gather it.

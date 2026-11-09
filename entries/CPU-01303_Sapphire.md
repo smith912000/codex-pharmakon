@@ -42,6 +42,10 @@ General, well-established facts only. Corundum is among the hardest minerals and
 
 **Practitioner's note.** Nothing here is a practice for a cultivator beyond what the text itself says: a gem worn as an ornament and a protection. The Codex does not recommend taking a sapphire internally or applying it. For a reader the useful result is the limit of the record: one sentence in one chapter, a list of gems, a translator's English word, and no way to tie it to a Sanskrit name from the lines on disk. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Sushruta names sapphires in a list of gems alongside pearls, corals, diamonds, Vaidurya and crystals, and says the list is beneficial to the sight, which places the eyes as the claimed site. The list is given a cooling potency, a point the text states for the whole group. It is called anti-toxic and liquefacient or corrosive, which the text attaches to action on fluids and on the body's substances rather than to a named organ. The gems are said to have sacred prophylactic virtues, to bring good luck to those who wear them and to cleanse wearers from all impurities, a protective and purificatory claim rather than a bodily site. The text gives the sapphire no rasa, no vipaka, and no link to ojas, tejas or prana, and no preparation. The mapped sites are the eyes, the body's fluids by the anti-toxic and liquefacient claims, and the wearer by contact with the stone.
+
 ### Contraindications
 
 - **Do not swallow or grind a gemstone:** it is abrasive and indigestible, and powdered mineral can scratch the gut and the eye.

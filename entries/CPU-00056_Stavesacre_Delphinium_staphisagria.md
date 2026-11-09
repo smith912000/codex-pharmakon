@@ -65,6 +65,10 @@ Codex policy: mechanism stated generally; named citations to be supplied and ver
 
 **Practitioner's note.** Nothing to take for vitality. The text's own use is a dangerous emetic and a topical; the transferable discipline is identification by seed and flower, and respect for dose.
 
+### Functional–Anatomical Correlate
+
+The entry maps stavesacre chiefly to the skin and scalp, where its alkaloids kill lice and nits and act against scabies, and the seed is absorbed through broken skin and mucosa. Taken internally it was an emetic and purgative, causing burning of the mouth and jaws and vomiting, and a vermifuge use is recorded as dangerous. The alkaloids act on voltage-gated sodium channels and neuromuscular transmission, producing paraesthesia and, in poisoning, cardiac and neuromuscular effects. Avicenna's Canon entry, the mountain raisin, is hot and dry in the third degree. It lists a louse-killer, chewing to draw phlegm and moisture from the brain, a vinegar mouthwash for toothache and moist gums, vomiting of sticky chyme, and a danger to the bladder, which it ulcerates. The homeopathic Staphysagria picture, tied to suppressed anger and grief, is recorded separately and not as a claim about the seed.
+
 ### Contraindications
 
 - **Internal use — avoid.** Toxic aconite-type alkaloids; obsolete and dangerous internally; no antidote in the field.

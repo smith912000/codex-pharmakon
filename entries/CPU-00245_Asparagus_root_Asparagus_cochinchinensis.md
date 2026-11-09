@@ -99,6 +99,10 @@ Standardised extract per manufacturer guidance, typically equivalent to several 
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, Tiān Mén Dōng is a sweet, bitter, very cold Yin-fluid root that enters the Lung and Kidney channels. It nourishes Yin, moistens dryness, clears Lung heat, generates body fluids (Jin Ye) and quells deficiency heat. The mapped tissues are the airways and throat: mucilage and saponins are said to soothe a dry, unproductive cough and a parched throat. The entry also says it descends to moisten the intestines and ease dry-stool constipation. The target pattern is chronic Yin depletion, with thirst, night sweats and wasting heat. The Spleen-Stomach cold-deficiency pattern with diarrhoea is excluded, and the entry says wet, phlegmy cough and external wind-cold are not suitable. The Ayurvedic parallel to shatavari is described as a resemblance of action only. The anti-inflammatory and antitussive claims rest on journal citations the entry itself marks for verification, so they remain unconfirmed.
+
 ### Contraindications
 
 - **Spleen/Stomach cold-deficiency with diarrhoea:** as a cold, moistening herb, it can worsen loose stools, poor appetite, and cold-type digestive weakness; combine with warming, drying herbs or avoid in these patterns

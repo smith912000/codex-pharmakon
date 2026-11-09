@@ -48,6 +48,10 @@ General, well-established facts only. *Ligusticum* is a genus of the carrot fami
 
 **Practitioner's note.** A middle-class, acrid, warm root for women's cold and pain, abdominal urgency and wind headache, with a clause on skin and complexion. No part beyond "root", and no preparation, dose or course, is given. A cultivator has no practice to take from this entry.
 
+### Functional–Anatomical Correlate
+
+The Shennong paragraph maps this drug's action mostly to the lower abdomen, the genital region and the head. It treats mounting-conglomeration (疝瘕) in women, cold in the genital region (阴中寒) with swelling and pain (肿痛), and urgency in the abdomen (腹中急). It removes wind headache (除风头痛). The last two clauses concern the skin: it grows the flesh and skin (长肌肤) and makes the complexion pleasing (悦颜色). The classic assigns no organ or channel, so the Codex names none. The Yang edition gives the same indications, and its modern footnote, that the main action is to eliminate wind, cold and dampness, is Yang's commentary and not the classic's. The entry does not assert any modern anatomy for the uterus, pelvis, abdomen, head or skin. The skin and complexion clause is a cosmetic benefit in the classic's own terms.
+
 ### Contraindications
 
 - **Identity.** Several umbellifers carry the Chinese name; do not use any plant on the strength of this entry. Do not confuse the *Ligusticum* roots with water hemlock and other poisonous umbellifers, which resemble them. [USER: verify]

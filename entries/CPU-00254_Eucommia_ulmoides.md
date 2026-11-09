@@ -70,6 +70,10 @@ Anti-fatigue studies in mice demonstrate that Eucommia polysaccharides reduce bl
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry assigns Du Zhong to the Kidney and Liver channels and to a structural root domain governing bones and sinews, with its Lower Dantian and Ming Men focus at the L2-L3 level. The classical text is cited for action on the lumbar region, sinews and bones, and later doctrine reads this as a warming, consolidating tonic of the lower body. Kenetica maps it onto the lumbar-sacral connective matrix: tendons, ligaments, the annulus of the intervertebral disc and the periosteum of the lumbar vertebrae. Its kidney-yang action is said to support contractile force in the psoas and erector spinae. The modern correlates offered are aucubin's promotion of BMP-2 signalling, collagen synthesis and osteoblast differentiation, and geniposidic acid's eNOS-mediated vasodilation of periosteal and peritendinous microcirculation. Chlorogenic acid suppresses NF-κB, and polysaccharides reduce lactate and glycogen depletion in skeletal muscle in mice. The Tibetan rus pa link is recorded only by functional correspondence. The entry contraindicates use in Yin-deficiency heat patterns.
+
 ### Contraindications
 
 **Constitutional conflicts:** Contraindicated in Yin-deficiency heat patterns with significant deficiency fire — the warming action of Eucommia may exacerbate internal heat symptoms (night sweats, redness in the cheeks, rapid thin pulse, thirst with preference for cold). In such cases, use only in formula with Yin-nourishing herbs.

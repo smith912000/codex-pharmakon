@@ -58,6 +58,10 @@ No clinical studies were retrieved for this entry. [USER: verify] With the ident
 
 ---
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives no body system, organ, tissue or function for the shore stone. The only statement is that a drug named 'Stone-from-the-Shore' appears in Bryan's alphabetical list of mineral remedies in the Ebers Papyrus, among variant forms such as Stone-from-the-Meeting-of-Waters and Knife-stone. The list names no indication, complaint or preparation, so no organ can be attached to it. The Egyptian frame is recorded here as absent: no complaint, recitation or deity is linked to the stone in the text read. The person, in the Egyptian terms ka, ba, akh and ib, is not engaged by this entry. The practice of heka, in which spell and drug are one intervention, is noted as a general frame only and is not attached to this stone. No temperament, humour, dosha or qi is given, because the Ebers material is organised by complaint and this item has none recorded. The entry therefore maps nothing to a body site and states nothing about its effect.
+
 ### Contraindications
 
 - **Unidentified material:** the identity is unknown; an unidentified stone should not be ingested or applied to the eye or to wounds.

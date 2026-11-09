@@ -82,6 +82,10 @@ Calcite is unambiguously **calcium carbonate**, whose **antacid** (acid-neutrali
 
 **Practitioner's note.** Nothing sourced here makes raw calcite a cultivation substance. The Tibetan record places it as one ingredient in compounded essence-extraction preparations, a context of the trained physician's compounding and not of self-dosing; the Chinese grade attaches to a stone whose identity is disputed; the Greek, Assyrian, Unani and Ayurvedic tags are either therapeutic or unverified. The honest use for a cultivator is none: it is an antacid and a calcium salt, with the interactions listed below, and no tradition read here asks it to do more. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry places calcite in the Stomach, where it is said to clear Stomach fire, and it describes calcium carbonate as an antacid that neutralises stomach acid and as a source of calcium. Its traditional heat-clearing action, for febrile heat, thirst and Stomach-fire patterns, is cold and heavy in character, and the entry states that the mechanism by which it would act systemically is not established. Its chemistry is the well-defined part of the entry, a poorly soluble carbonate whose antacid action and calcium content are established, while its heat-clearing role rests on tradition. The Tibetan line the entry reads says calcite halts diarrhoea, cures phlegm fever and is an ingredient of essence-extraction compounds, and the entry flags its difference from the Origin section's cooling account for review. No other organ, tissue or system is named.
+
 ### Contraindications
 
 - **Cold / deficiency patterns; Stomach cold; no true heat:** contraindicated — a cold-draining mineral only for genuine heat/excess.

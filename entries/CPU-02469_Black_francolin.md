@@ -44,6 +44,10 @@ Wild game is a lean protein source. There is no established effect of francolin 
 
 **Practitioner's note.** A cultivator eats the francolin as the texts present it: a light, quickly digested game meat in moderation. Both texts promise more than they can show (brain, understanding, semen), and the honest use is as food, taken in measure, since Ibn Qayyim's own warning is that much of it harms the sight.
 
+### Functional–Anatomical Correlate
+
+Avicenna credits the flesh with increasing the brain and understanding, which maps to the head and the brain, and says it greatly increases the semen, which maps to the reproductive organs. Ibn Qayyim calls the flesh hot and dry in the second degree, light, fine and quickly digested, generating moderate blood, so blood is named as a product of digestion. He adds that eating much of it sharpens the sight, so the eyes are named as affected, with the direction left unstated. Avicenna's comparison of the flesh as more temperate, finer and drier is damaged in the printed text and is not used for mapping. The entry's systems are therefore the brain and understanding, the eyes, the blood, the digestive tract and the reproductive organs. In these texts the effect runs through temperament and digestion. No liver, heart or other organ is named, and the texts give no evidence for the brain or semen claims.
+
 ### Contraindications
 
 - **Game safety.** Wild birds carry parasites and bacteria; cook thoroughly.

@@ -77,6 +77,10 @@ According to PubMed, *Ficus racemosa* has the most consolidated modern review ev
 
 **Practitioner's note.** Nothing to cultivate: in the classic it is an astringent wound, fracture and obstetric drug, and a ritual wood. No rejuvenative status is attested for it.
 
+### Functional–Anatomical Correlate
+
+The entry maps Udumbara onto the same leaking surfaces as its fig siblings: wounds, ulcers and mucosal lesions (vraṇaropaṇa, as a Panchavalkala component), and the bowel, with grāhī and saṃgrāhī action against atisāra (diarrhoea) and dysentery. Bleeding is covered by raktapitta, raktastambhaka and stambhana, and excessive menstrual flow (pradara) is named. Metabolism is mapped through prameha, with a traditional antidiabetic action linked to β-sitosterol. Dāhapraśamana and Pitta-cooling relieve burning and inflammatory heat, and an antipyretic use is noted. Its fruit is described as cooling and mildly nutritive. Doṣa action is Kapha-Pitta-hara, possibly Vāta-aggravating if dry. Modern review-level data report blood-glucose reduction, antidiarrhoeal and anti-inflammatory activity and an early clinical signal, but robust human RCTs are absent; the hepatoprotective and neuroprotective reports come from review and animal listings, not from the traditional mapping.
+
 ### Contraindications
 
 - **Vāta aggravation / constipation:** the dry, astringent, binding quality can worsen Vāta-dryness and constipation — pair with unctuous adjuvants.

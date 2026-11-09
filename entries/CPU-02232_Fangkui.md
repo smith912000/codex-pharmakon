@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] Because the bo
 
 **Practitioner's note.** An upper-grade entry in the classic's own scheme, but an entry whose plant is disputed and whose neighbour in the *Bowuzhi* is a toxic root. Nothing here supports taking a plant on the name alone. A cultivator can read it as a record of what the classic promised for long taking, and should not act on it.
 
+### Functional–Anatomical Correlate
+
+The entry names several body sites through the classic's own terms. The root is said to govern mounting-and-conglomeration (疝瘕), which concerns the lower abdomen and its masses, and intestinal diarrhoea, so the lower bowel is named. Heat bound in the bladder, with urine not passing, places the action on the urinary bladder. Counterflow cough touches the lungs, and warm malaria, epilepsy and fright-evil with manic running concern fevers, the nervous system and the mind. Taken long, the classic says, it firms the bone marrow, boosts the qi and lightens the body, so the skeleton, the marrow and the qi are the stated sites. The root is acrid and cold, and Wu Pu records some authorities as calling it bitter. The identity is disputed, and a neighbouring root, wild wolf-bane, is named as toxic in the same classic, so no organ correlate can safely be attached to this plant.
+
 ### Contraindications
 
 - **Identity and look-alike.** Sun's note records that the *Bowuzhi* held 防葵 and 野狼毒 to be similar (line 389). In the same classic 野狼毒 is a lower-classic drug (line 3429) described as able to "kill flying birds and running beasts" (杀飞鸟、走兽), and a quoted passage lists it first among five poisons with their antidotes (line 4147). Sun gives the likeness alone; the sources read say nothing of how a mix-up arose or whether one was made. Misidentified root material is a real hazard. Do not collect or use roots of umbellifers on the strength of a name.

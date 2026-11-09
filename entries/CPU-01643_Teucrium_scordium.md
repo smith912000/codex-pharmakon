@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is the combination of a smell check, a taste check and a stalk check to recognise a plant, and the note that some supplies are better than others. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+On the entry's own claims, Teucrium scordium reaches many systems. Taken by mouth, the pounded herb is 'warming and diuretic', pointing to the urinary passage. Two teaspoonfuls with honey water are given for hunger pangs of the stomach, dysentery and frequent painful urination, which names the stomach, the bowel and the bladder. The chapter says it expels purulent thickenings from the chest and helps old coughs, so the airways and lungs are named, and it says that mixed into a linctus it helps hernias and convulsions. In a stiff ointment it 'relaxes hypochondrium', which the translators gloss as a nervous gastric disorder. Smeared with sharp vinegar it is 'good for gout', a joint condition. Applied, it 'induces the menstrual flow', a uterine action, and on the skin it heals wounds, cleans old ulcers and restrains abnormal flesh growths. The qualities given are astringent, bitter and warming, and no body humour is named.
+
 ### Contraindications
 
 Chapter 3-125 prints no warning, and it includes an internal use for snakebite and poisons that the Codex does not endorse. The identification is only the translators' suggestion, so no plant should be gathered or used on the strength of this entry. Germanders as a group have been linked to liver harm when taken by mouth. The chapter also brings on the menstrual flow, so pregnancy is an obvious question that the text does not answer. The text gives one quantity and no safety information for children or for any medicine taken at the same time. [USER: verify]

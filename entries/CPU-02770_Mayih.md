@@ -41,6 +41,10 @@ No heat, cold, moisture or dryness is printed in this entry.
 
 **Practitioner's note.** Nothing to practise. It is a lost Greek plant with hiccup and amulet uses.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names three bodily targets, and no organ is named for any of them. Hiccup (fawaq) is the first: a decoction drunk quiets it when there is no fever, and the entry says holding the plant or looking at it does the same. Skin is the second, with freckles (kalaf) and vitiligo-type patches (baraq), cleaned when the ground plant is mixed with honey and smeared on them. The third is a dog bite, where the plant pounded into food is said to benefit it. The text also reports a household and herd effect from hanging the plant, which is amuletic rather than anatomical. Avicenna passes these on as 'it is said' and 'it is thought'. No temperament, humour, or degree of heat or dryness is printed, and no internal organ or tissue is named. The plant is unidentified, so no modern link can be drawn. A dog bite needs medical care, and no dose is given.
+
 ### Contraindications
 
 - A dog bite requires immediate medical care; this plant is no treatment.

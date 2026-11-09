@@ -39,6 +39,10 @@ No claim is made. No clinical studies were retrieved for this entry. [USER: veri
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. This is a chapter of recognition and warning, and the honest practice is to take the warning.
 
+### Functional–Anatomical Correlate
+
+Little to map: Dioscorides, the only source, states two effects on the body for the fruit of this tree: it is bad for the stomach and it causes headaches when eaten. In modern anatomy these map to the stomach and the head, but the chapter names no mechanism and no other organ. The chapter gives no therapeutic use, no preparation and no dose. Its only other body-related content is the description of a fruit that is somewhat yellowish or reddish when ripe and has no kernel, which describes the plant rather than an effect. No energetic quality is printed beyond the harm to stomach and head, and no humoral, doshic or qi term appears. The translators give two species for this Greek chapter, Arbutus andrachne and Arbutus unedo, and the text does not choose between them, so the stated effects cannot be tied to a single checked species. The Codex makes no correlation, and the entry advises against foraging.
+
 ### Contraindications
 
 Dioscorides records the fruit as bad for the stomach and a cause of headache. Whether the species is edible in general was not read. Do not forage from this entry. None of the traditional uses above is advice. [USER: verify]

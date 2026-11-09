@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The chapter's 
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is the habit of telling the parts of a plant apart and not treating them as one drug. The text offers nothing more, and the abstentive answer is the right one.
 
+### Functional–Anatomical Correlate
+
+The Dioscorides text maps the upper root to the skin, the eye, the uterus and sexual function. Applied with wine and frankincense, the upper root is said to draw out prickles and splinters from the skin, and with meal of lolium and honey water it is said to dissolve the pannus, an opaque veined thickening of the cornea. As a pessary it draws out the menstrual flow. A decoction of the upper root drunk with wine is reported to encourage sexual intercourse, and the lower root is reported to bring about a lack of desire. The upper root is also given to children whose foreskin or hymen is broken, in a liquid medicine with water, the bracketed gloss being the translators'. The chapter prints no hot, cold, moist or dry quality and no taste; its qualities describe form, a fibrous leaf and a slender and a fuller root. The aphrodisiac and anaphrodisiac claims are introduced by 'they say' and are recorded as reported.
+
 ### Contraindications
 
 Chapter 4-20 prints no warning. The identification is only the translators' suggestion, so no plant should be gathered or used on the strength of this entry. A pessary that "draws out the menstrual flow" is an abortifacient-class claim and must not be used in pregnancy or as a home remedy. Nothing should be applied to the eye on the strength of this entry. The children's use is recorded without a dose and is not advice. [USER: verify]

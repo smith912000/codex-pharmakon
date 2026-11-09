@@ -81,6 +81,10 @@ Cold and dry; a bitter *muṣaffī-i-dam* (blood-purifier) and *muftaḥ-i-sudad
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps fine-leaved fumitory onto the liver and bile, the skin, and the smooth muscle of the gut. In Unani terms it is cold and dry, a blood-purifier (musaffi-i-dam) and deobstruent (muftah-i-sudad) that opens hepatic obstruction and corrects bile and black bile. Its protopine, coptisine, stylopine and cryptopine are said to carry antispasmodic, smooth-muscle and choleretic activity, which the entry links to the biliary limb of the doctrine. The skin limb rests on reported antimicrobial, antioxidant, anti-inflammatory and antipruritic activity, with some clinical skin testing. The entry states that no controlled human evidence supports blood-cleansing as such, and grades the hepato-biliary and dermatological claims as supportive but preclinical. Protopine's cardiovascular and CNS effects are noted as relevant to its cautions. In Ayurvedic analogy it is a cooling, pitta-clearing bitter, with no rasayana status attested. No cultivation status is claimed in any tradition.
+
 ### Contraindications
 
 - **Alkaloid load / overdose caution:** fumitory is an isoquinoline-alkaloid-bearing herb (protopine et al.); large or prolonged doses may cause drowsiness, GI upset, or (with protopine) cardiovascular/CNS effects. Keep to conservative traditional doses; avoid heroic dosing.

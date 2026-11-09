@@ -48,6 +48,10 @@ General, well-established facts only. Honey is a concentrated sugar solution wit
 
 **Practitioner's note.** Nothing here is a practice. The kind is named for vomiting and *Meha* and carries no cultivation purpose in the text. Its identity is uncertain, so there is nothing a cultivator could source or use.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that Dalam honey is parchifying and proves beneficial in cases of vomiting and Meha (Sushruta ch.45, lines 1164-1165). Parchifying is the text's word for its action and is not defined further. Vomiting maps in modern terms to the stomach and the emetic reflex, and Meha is the Sushrutan term for urinary disorders, left untranslated here. No taste, potency, vipaka, dosha effect or dose is printed for this kind. The text describes it as found accumulated in the leaves of honey-bearing plants rather than in a hive, so the source itself gives no bee to map. The general rules on heated and undigested honey apply to every kind. Any further body correlate would be the Codex's addition, and the text does not support one.
+
 ### Contraindications
 
 - **Heat.** Sushruta forbids honey that has been heated, boiled or used in hot weather or a hot body (lines 1183-1203). Treat that as the tradition's own warning.

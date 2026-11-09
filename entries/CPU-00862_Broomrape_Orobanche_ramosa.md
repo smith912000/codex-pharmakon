@@ -73,6 +73,10 @@ According to PubMed, evidence specific to *Orobanche ramosa* as a medicine is ve
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps branched broomrape chiefly onto the Kidney, which in the TCM frame (by analogy) is warmed and reinforced, with its essence (jing) firmed and leakage checked. The tissues named are the low back and knees, and the urinary and seminal tracts, where involuntary loss such as incontinence or spermatorrhoea is the target. Unani and Dioscoridean readings treat it as an astringent, mildly warming binder for loose tissue and fluxes, and it is also described as a gentle pot-herb. The Ayurvedic frame gives no attested assignment. The modern correlate is the phenylethanoid glycoside (acteoside/verbascoside) class, with antioxidant and immune-modulating activity, though the entry says presence in O. ramosa is inferred from the genus rather than richly documented. The entry flags androgenic and immune-modulating activity in the genus and states that the pharmacology reviewed does not yet justify the traditional uses. Pregnancy, lactation and hormone-sensitive conditions call for caution.
+
 ### Contraindications
 
 Data are insufficient to define a safety profile; treat as **traditional-use only, not clinically validated**. Correctly identify the plant and its host before any use — broomrape draws its substance from whatever it parasitises (tobacco, solanaceous crops), so material grown on a toxic or pesticide-treated host may carry host-derived contaminants; **never harvest from herbicide-treated fields**, given that this species is a primary target of agricultural herbicides. Avoid in pregnancy and lactation (no safety data). Because genus members show androgenic and immune-modulating activity, exercise caution in hormone-sensitive conditions. [USER: verify] all medicinal use with a qualified practitioner, and prefer the far better-characterised *Cistanche* where a kidney-tonic action is actually wanted.

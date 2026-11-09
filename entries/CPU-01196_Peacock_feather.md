@@ -42,6 +42,10 @@ Tibetan: the line prints actions only ("cures poisoning, pus accumulation in the
 
 **Practitioner's note.** Nothing. A cultivator does not swallow peacock feathers. The text records the feather against poisoning and as a poison test, and the Codex keeps the record without carrying it into practice.
 
+### Functional–Anatomical Correlate
+
+The Tibetan line gives the crown feather of the peacock action on poisoning and on pus accumulation in the lungs (Clark; Men-Tsee-Khang reads 'poisoning and lung abscesses'). The lungs are the named organ, and the poison concern is systemic. The bracketed commentary adds ear diseases and 'subdues nagas', which the entry treats as commentary-derived and not root text, so the ears appear only in that bracket. A parenthesis in the peacock flesh line describes swallowing the feather in the evening and checking it for discoloration the next day as a test for poisoning, with the text's inference that discoloration points to other disease. The feather is classed in the 'Hair' group, with no taste, potency or humoral quality. No cultivation or essence-extraction role is printed. The Codex records the line but does not recommend swallowing a feather.
+
 ### Contraindications
 
 Do not swallow a feather as a test for poison or as a remedy: it can lodge in the throat or gut, and a "negative" result gives false reassurance in a real poisoning. For suspected poisoning, contact emergency services or a poison-control centre. Lung abscess needs medical care. Peacock feathers from protected wild populations may be regulated; the legal status varies by country and species. [USER: verify] This entry gives no medical advice.

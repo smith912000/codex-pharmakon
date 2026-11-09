@@ -39,6 +39,10 @@ Avicenna prints no degree for it. It "gathers the heat" and so makes thirsty; co
 
 **Practitioner's note.** Nothing to practise. The text reads as a caution about eating snow and ice.
 
+### Functional–Anatomical Correlate
+
+Avicenna's properties for snow and ice name several sites. In the head, snow-water is said to quiet hot toothache, which maps to the teeth. In the nerves, snow is said to be harmful because it shuts in the hot vapours moving in them and holds them from dissolving, so the nerves and the moving hot vapours are the claimed targets. In the digestive organs it is harmful to the stomach, most of all in a stomach where cold humours are generated, and it causes thirst because it gathers the heat, so the stomach and the body's heat and fluid balance are mapped. The entry also says it is bad for the old (mashaykh) and for a person in whom cold humours are generated, so age and a cold constitution are named as sites of harm. No degree is printed. Modern anatomy would place these claims on the teeth, nerves, stomach and the thirst response, which the passage names but does not explain.
+
 ### Contraindications
 
 - The text itself says it is bad for the old, for the stomach and for the nerve.

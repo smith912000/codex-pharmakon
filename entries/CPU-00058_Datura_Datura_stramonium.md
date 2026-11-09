@@ -76,6 +76,10 @@ Codex policy: mechanism stated securely; named citations to be supplied and veri
 **Practitioner's note.** A cultivator does nothing with this plant. Across every tradition that genuinely attests it, *Datura* is a poison or a specialist divinatory agent handled only by initiated specialists — never a nourish-life or constitution-building substance. The one attested ritual register (Nahua) belongs to a closed specialist role, and this entry's own toxicology is the reason: a deliriant with a lethal margin. The register's answer is abstention.
 
 *[1 paragraph(s) removed 2026-07-18 — tag withdrawn per attestation ruling; see spine notes.]*
+### Functional–Anatomical Correlate
+
+The entry maps datura to the airways, the smooth muscle of the bronchi and gut, the eyes, the bladder and the brain. Its tropane alkaloids, atropine and scopolamine, competitively block muscarinic receptors, relaxing bronchial and gut smooth muscle and drying secretions; the inhaled-leaf asthma smoke is the entry's defining medical use, described as an antecedent of modern bronchodilators. Centrally, toxic doses produce anticholinergic delirium, hallucination and amnesia, which the entry files under Shen, the consciousness side of its energetic tiers. Pupils dilate, heart rate rises, urination is retained and sweating is blocked, leading to hyperthermia. In Ayurveda, dhattura is a toxic visha purified by shodhana and used for respiratory and painful conditions, with its ushna classification flagged for checking. The Galenic and humoral mapping places it among the cold, narcotic, stupefying nightshades. The entry assigns no rejuvenating or cultivation status to any tradition.
+
 ### Contraindications
 
 - **Recreational/self-administered use — absolute prohibition.** Narrow margin, variable potency, frequent fatal/severe poisoning.

@@ -40,6 +40,10 @@ General, well-established facts only: unidentified mineral dust is an eye irrita
 
 **Practitioner's note.** Nothing to do. An unidentified stone for eye films, recorded for the record only.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one organ, the eye. The stone is said to benefit the film (ghishāwa) over the eye when it is not with swelling and ophthalmia, to benefit the scars of ulcers in the eye, and to benefit the soft pterygium (ẓufra). In modern anatomy these map to the cornea and front surface of the eye, where a film or opacity sits, and to the conjunctiva, where a pterygium grows. The scraping is described as stinging the tongue and resembling milk, so the tongue appears only as a sensory description, not as a site of action. The entry gives no temperament, humour or degree, and no preparation beyond scraping the stone to a powder. Its cited sites stop at the eye and its surface structures, and no other body system is named.
+
 ### Contraindications
 
 - **Eye.** Do not put any unidentified mineral powder in the eye; infection and corneal injury. The text itself says the powder stings.

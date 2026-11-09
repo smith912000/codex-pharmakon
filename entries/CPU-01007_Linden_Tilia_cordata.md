@@ -75,6 +75,10 @@ Despite enormous, centuries-long traditional use, rigorous human clinical trials
 
 ---
 
+### Functional–Anatomical Correlate
+
+Linden's traditional targets are the skin, the nervous system, the throat and the heart-spirit. The warm flower infusion is said to open the pores and sweat out a fever, which the entry ties to warm fluid, volatile terpenoids and flavonoid vasomotor effects in the skin. The calming claim is placed in the nerves and sleep, and Chinese folk use calls the tea heart-quieting. The throat is served by mucilage, which coats irritated mucosa. The entry's modern findings are a GABA-A and benzodiazepine-receptor effect of Tilia tomentosa bud extracts in vitro, linked to tiliroside and flavonoids, plus antioxidant and phytochemical data from Tilia flowers. It grades the anxiolytic mechanism as moderate, since it rests on related species and animal or in vitro work, and the diaphoretic claim as low, since it lacks controlled clinical confirmation. Traditional texts warn cardiac patients against very heavy, prolonged intake, and the sedative flavonoids may add to other CNS depressants.
+
 ### Contraindications
 
 Generally very safe and food-grade. Cautions: **cardiac patients** — traditional texts warn against very frequent, heavy, long-term consumption of linden-flower tea (historic concern regarding cardiac effects with chronic high intake); use ordinary tea quantities, not concentrated daily excess. Possible **allergy/contact sensitivity** to *Tilia* pollen/flowers in sensitised individuals. Its diaphoretic action means attention to **fluid intake** during fever. No robust safety data in pregnancy/lactation at medicinal (concentrated) doses — occasional food-level tea is traditionally regarded as acceptable, but **[USER: verify]** before recommending therapeutic dosing. Sedative flavonoid content may **add to** other CNS depressants — mild but note the interaction.

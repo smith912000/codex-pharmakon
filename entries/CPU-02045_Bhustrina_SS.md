@@ -48,6 +48,10 @@ General, well-established facts only. Aromatic grasses of this type are used as 
 
 **Practitioner's note.** A heating, Kapha-reducing herb in a list of kitchen spices, whose botanical identity is not settled. It is not a rejuvenative in Sushruta, and the text gives a cultivator nothing to take beyond the classification of the spice by its effect on Kapha and Pitta. A reader should not use a lemon-grass product on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Bhustrina maps to the respiratory tract, the digestive tract and the Kapha humour. In the Surasa'di group, with its stated action of vermifuge and aseptic, it is said to subdue deranged Kapha and to help catarrh, non-relish for food, asthma and cough. In the chapter on foods and drinks, Bhustrina is listed with Surasa and Arjaka among spices and herbs that destroy Kapha, are light of digestion and generate Pitta. These three are called heat-making in potency and pungent in taste and digestion, which the entry records as the translator's wording. The text gives no part used, no preparation and no tissue beyond these. The lemon-grass identity is a low-confidence guess from an index spelling, and the pairing of demulcent with parchedness is marked as unchecked. The Codex does not recommend it.
+
 ### Contraindications
 
 - **Heating (the text's word).** The herb is said to generate Pittam and to be heat-making; where Pitta is already aroused the text itself implies caution. This is a reading of the lines above and not a statement in them. [USER: verify]

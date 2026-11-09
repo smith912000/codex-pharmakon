@@ -47,6 +47,10 @@ Thymelaeaceae shrubs are widely regarded as poisonous, and several are used as f
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. A lower-grade purgative flower, at most a short course against a defined complaint, as the preface's grading warns. The Codex does not recommend it.
 
+### Functional–Anatomical Correlate
+
+The paragraph names the stomach and intestines, from which it is said to wash away lodged matter, both food and abiding rheum (癖饮), and cold and heat evil qi. It names the accumulations, hard masses and concretions (积聚、大坚、症瘕) that it says it breaks. It says it precipitates the twelve waters (下十二水), and Yang's footnote 203 glosses this as swelling of the abdomen, the face and the limbs; the entry records that gloss as Yang's. It frees the water passages (利水道). It treats cold damage and warm malaria, a periodic fever pattern, with the fever terms (寒热) as the classic prints them. Its gut effect is a purge. The entry gives no organ or channel affinity beyond these named sites. Historical record only: the classic calls the drug purgative and mostly toxic.
+
 ### Contraindications
 
 - **Toxic plant.** Thymelaeaceae shrubs are poisonous and irritating to skin and gut; do not take this plant by mouth and do not handle it casually.

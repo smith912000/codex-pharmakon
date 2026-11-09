@@ -45,6 +45,10 @@ Pungent crucifer roots are generally known as skin irritants (rubefacients) when
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice. It is a counter-irritant poultice for a physician's use, from a plant that cannot be placed between several crucifers. The abstentive answer is the correct one.
 
+### Functional–Anatomical Correlate
+
+The chapter names sciatica as the condition its roots address, “for those diseased with sciatica”. In modern anatomy that places the claim along the sciatic nerve and the hip, thigh and leg tissues, though Dioscorides names no anatomy himself. The site of application is the skin of the affected places, where a root poultice made like a plaster with salted sow’s lard is laid on and left for four hours, after which the patient is bathed and rubbed with oil and wine dipped in wool. In the chapter’s own terms the roots are “warming and caustic”. The entry reads “caustic” as an irritant, rubefacient action on the surface, which fits the crucifer family the translators suggest. No internal organ, body fluid, humoral, doshic or qi system is named, and the chapter gives no framework beyond these two words. Nothing is said about the blood, bowel, lungs or any other system. The identity of the plant is uncertain, and no dose is given.
+
 ### Contraindications
 
 The chapter calls the roots "caustic". Any caustic poultice left on skin for hours can blister or burn it, and none of the above is advice. The identification is uncertain, so no plant should be gathered or applied on the basis of this chapter.

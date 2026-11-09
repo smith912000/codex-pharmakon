@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is the habit of describing a plant by comparison with a neighbouring one (the great and the little heliotropium). The text offers nothing more, and the abstentive answer is the right one.
 
+### Functional–Anatomical Correlate
+
+The chapter links this plant to two sites, the intestines and the skin. A decoction of the herb and seed, taken as a drink with saltpetre, hyssop, nasturtium and water, is said to drive out broadworms and roundworms, so the claimed site is the intestinal tract where those worms live. Smeared on with salt, the herb is said to take away hanging warts, which acts on the skin. The seed is described by an image, round and hanging like warts, but no organ is attached to the seed. The chapter prints no humour, hot or cold quality, or taste, so no traditional energetic class is given. The identity as Heliotropium amplexicaule is the translators' suggestion, and the chapter is a single short passage. Dioscorides records these claims; the Codex does not endorse them. No other body system, such as the blood, liver or nerves, is named for this plant.
+
 ### Contraindications
 
 Chapter 4-194 prints no warning. The identification is only the translators' suggestion, so no plant should be gathered or used on the strength of this entry. Plants of the genus *Heliotropium* are generally known to contain liver-toxic alkaloids, and the drink is not advice. Intestinal worms call for medical treatment. [USER: verify]

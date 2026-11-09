@@ -90,6 +90,10 @@ Honest evidence-grade summary: the **soporific, analgesic, antispasmodic and del
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, white henbane acts on the central nervous system, smooth muscle and secretory glands through tropane antagonism of muscarinic receptors. Scopolamine, the CNS-penetrant limb, produces the soporific, sedative-amnesic and antiemetic effect behind the medieval spongia somnifera used for surgical insensibility. In Greek and Unani terms it is a cold, dry narcotic-soporific that dulls pain. Ayurvedic terms record it as madakari (intoxicant) and nidrajanana (sleep-inducing), flagged as visha. The antispasmodic doctrine maps onto relaxation of visceral smooth muscle in gut, biliary and urinary spasm, and the topical anodyne onto local pain relief. The toothache smoke is treated as a false aetiology, the tooth-worm, attached to a real local analgesic effect. The deliriant limb produces central anticholinergic delirium, hallucination and the sensation of flight. The entry gives no safe self-dose, and every part is toxic in overdose.
+
 ### Contraindications
 
 ☠️ **SEVERELY TOXIC — POTENTIALLY DEADLY. DO NOT INGEST.**

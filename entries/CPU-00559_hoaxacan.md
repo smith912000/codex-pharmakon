@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. As a general fact, guaiac res
 
 **Practitioner's note.** Nothing. A cultivator has nothing sourced to do with this entry: the record is a list row and its own note doubts both the species and the provenance. This is a historical record only and not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names hoaxacan, glossed guayacan, with the species Guaiacum sanctum, which the row itself flags as id-uncertain. The row says the plant is attested in the Badianus manuscript of 1552, but gives no folio, preparation, use or complaint. Its own note says the Caribbean distribution makes Aztec provenance debated, and the entry adds that neither the species nor the plant's place in the Nahua world is settled. No organ, tissue or body system is named as acted on. The Active Components section gives only a general statement that Guaiacum wood yields a resin, guaiac, and states that the composition of this plant was not read. No humoral or doshic classification is read, the hot and cold categories are left unresolved, and the cultivation register is absent. No clinical study was retrieved. Its only general caution, marked as not found in the row, is that a plant of unrecorded use should not be taken internally.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, a plant whose use is unrecorded here should not be taken internally. Guaiacum species are slow-growing trees that are listed under the CITES convention; that listing is general knowledge and was not checked here, so it is marked for verification. Pregnancy and breastfeeding are not covered by any source read. This is general caution and is not found in the row. [USER: verify]

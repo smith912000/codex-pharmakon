@@ -93,6 +93,10 @@ Honest evidence-grade summary: the **anaesthetic/sedative/deliriant/lethal** axi
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places mandrake's tropane alkaloids, hyoscyamine, atropine and scopolamine, at muscarinic acetylcholine receptors, both peripheral and central. Peripherally it lists mydriasis, tachycardia, dry secretions and ileus, the antimuscarinic effects on the eye, heart, glands and gut. Centrally, scopolamine is the agent of sedation, amnesia, antiemesis and delirium, which the entry links to the witch's 'flight' and to Circe's transformations of the self. Its surgical use, the root boiled in wine before cautery or amputation, is read as central narcosis and the ancestor of anaesthesia, in the Unani and Ayurvedic narcotic and analgesic class. The fertility and love doctrine touches the reproductive organs only as signature; the entry finds no pharmacological support and notes anticholinergics would impair sexual and secretory function. Overall, the entry maps mandrake to the central nervous system and the autonomic glands, eye, heart and gut, as a cold-dry narcotic in Galenic terms, with lethality the same action at toxic dose.
+
 ### Contraindications
 
 ☠️ **SEVERELY TOXIC — POTENTIALLY DEADLY. DO NOT INGEST.**

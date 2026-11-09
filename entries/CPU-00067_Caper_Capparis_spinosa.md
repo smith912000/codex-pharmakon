@@ -69,6 +69,10 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 
 **Practitioner's note.** The caper is food and medicine, not a cultivation substance. The nearest thing to a practice is dietary and behavioural: the sharp bitter bud taken before a meal to rouse appetite and digestion — a stomachic ritual, legitimate as an abstentive/behavioural move but not a vitality tonic. Its stronger identity, the root-bark deobstruent of the enlarged spleen, is a physician's remedy applied against a defined complaint and then stopped, with no tradition assigning it a life-nourishing grade.
 
+### Functional–Anatomical Correlate
+
+The caper's entry maps chiefly onto the spleen and liver. Its defining classical action is deobstruent: the bitter, warming, drying root-bark is said to resolve a hardened, enlarged, obstructed spleen and liver, an indication the entry ties to chronic endemic disease. Its digestive reach is the stomach, where the pickled bud is a stomachic that rouses appetite. Through the Unani mapping, kabar is a resolvent of indurations and a digestive, and it is used for cold rheumatic and sciatic pain, placing the joints and nerves within its field. Traditional diuretic and emmenagogue actions are recorded, touching the urinary tract and the uterus, though the entry marks them for verification. Applied to the gums, the bark is used for toothache. The flavonoids rutin and quercetin are described as capillary-protective and anti-inflammatory. The entry records no vital, rejuvenative or cultivation role. Its cautions are pregnancy with the bark, the high salt of commercial pickles for hypertension, gut irritation from strong bark, and possible sensitivity in those allergic to mustard-family plants.
+
 ### Contraindications
 
 - **Pregnancy — caution.** Emmenagogue/deobstruent reputation; medicinal bark doses traditionally avoided (pickled buds are ordinary food). [USER: verify.]

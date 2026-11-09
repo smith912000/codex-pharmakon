@@ -52,6 +52,10 @@ Oleander is a recognised poisonous plant whose cardiac glycosides can cause seri
 
 **Practitioner's note.** There is nothing here for a cultivator to take. The plant is a poison in both texts' terms and by general knowledge. The honest practice is to learn it so as not to be harmed by it, and to leave it alone.
 
+### Functional–Anatomical Correlate
+
+Dioscorides (DMM) records the plant as poisonous to animals, able to kill dogs, asses, mules and most four-footed creatures, and gives a wine decoction taken as a drink against the bites of venomous creatures. No organ is named. Avicenna's Canon (CM) gives the temperament as hot in the third degree and dry in the second, and the action as greatly dissolving. Its leaf laid on hard swellings, its juice for itch, scab and spreading sores, and a poultice for old pain of the back and knee are external uses; its blossom is an errhine for the head. Sushruta (SS), under three Sanskrit names, gives an errhine, an ulcer wash, a hair oil for alopecia, a bursting plaster for swellings, and a burnt ash for alkali, with no rasa, virya or vipaka printed. The Canon calls the plant a poison and warns that its flower harms men, beasts and dogs. The entry records that every part is dangerously poisonous, and that the internal uses are warnings, not regimens.
+
 ### Contraindications
 
 Every part of the oleander shrub is dangerously poisonous, and ingestion can be fatal and needs urgent medical care. Do not use in pregnancy. None of the traditional uses above is advice.

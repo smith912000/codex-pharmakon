@@ -44,6 +44,10 @@ General, well-established facts only. Reptile fats and oils are animal lipids; t
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The crocodile appears in the papyrus as an ingredient in oils, fats and poultices, as a named enemy in one recitation, and as the cause of a wound. The honest use of the entry is as a record, and as a reminder that the same animal can be remedy, danger and subject of a spell in one text. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Ebers text on disk (Bryan 1930) uses the crocodile in external applications, and the entry maps what Bryan states. Crocodile oil in a liniment makes the limbs supple, so the limbs and joints. Fat of the crocodile in a hair-restorer is rubbed on a bald head, so the scalp and hair. Crocodile-earth, an unidentified ingredient, appears in a poultice for headache (the head), a cataract remedy (the eye), a poultice for pterygium (an eye membrane) and a remedy for grey eyebrows. A crocodile's bite is treated as a wound of the flesh, with raw meat laid on it the first day, and a recitation in the eye section names the crocodile as weak and powerless. The Egyptian frame is heka, in which spell and drug are one intervention, but no organ or humour is assigned. Modern systems mapped: the limbs and joints, scalp and hair, the eye and its membranes, the head, and the skin and flesh of a bite. No temperature or other quality is printed.
+
 ### Contraindications
 
 - **Wounds and bites:** a crocodile bite is a medical emergency; do not treat it with raw meat or any animal product.

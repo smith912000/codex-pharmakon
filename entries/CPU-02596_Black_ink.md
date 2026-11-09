@@ -49,6 +49,10 @@ General, well-established facts only. Carbon black and gum arabic are the classi
 
 **Practitioner's note.** Nothing for a cultivator to do with it as a medicine. If one makes ink, it is a craft and the chapter is a recipe. Do not apply it to the body.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter names one site, the burn. Rubbed on thickly with water and left alone, the preparation is said to form new skin over the burn and to fall off once the sores have healed, so the claimed tissue is the damaged skin of the wound surface, where new epidermis forms. The chapter also includes the ink among antiseptic medicines, which is a class of action and names no organ or tissue. The text prints no quality of the warm, cold, moist or dry kind, no taste and no temperament. No dose, frequency or vehicle beyond water is printed. The mapped claim is the surface of a burn and its healing, and nothing deeper in the body is named.
+
 ### Contraindications
 
 - **Burns.** Do not use. Cool the burn with running water and seek care.

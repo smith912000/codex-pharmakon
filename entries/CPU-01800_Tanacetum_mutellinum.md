@@ -55,6 +55,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a lung-fever drug with no preparation and no dose, whose Latin name rests on a column count and differs from every name Clark prints for it. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The rGyud-bzhi places this drug's action on the lungs. Men-Tsee-Khang 2011 says in its running text that Atong cures hot disorder of the lungs, and its chapter 21 group of medicines that cure disorders of the lungs includes Atong. Clark 1995 says the a.krong drug cures lung fever, in the root-text marks outside the brackets. The two editions agree on the organ and on the sense of the disorder, though the translators' words, fever and hot disorder, are kept apart. The commentary in Clark's brackets describes four types and their leaves and stalks, and it names no organ beyond the lung. The entry gives no taste, power, part used or channel. The Latin binomial is read only by a column count in the glossary, and Clark's name is linked by transliteration, so the lung mapping is open to the same identity doubt. Lung disease and fever need medical care, and no dose or protocol is given.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Lung disease and fever need medical care; the identity is open, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. It is a general fact that some members of the daisy family cause allergic skin reactions in sensitive people, which is a further reason to leave the plant alone while its identity is unsettled. No conservation information and no safety information for pregnancy were read. [USER: verify]

@@ -159,6 +159,10 @@ The Mesoamerican classification is the one worth sitting with: a cosmology that 
 
 **Practitioner's note.** Nothing for cultivation. The grain is food and the silk a mild urinary remedy, with no cultivation role in the sources read.
 
+### Functional–Anatomical Correlate
+
+Corn silk acts, in the entry's account, on the urinary tract and fluid balance. Chinese medicine enters it into the Bladder, Liver and Gallbladder channels, where it promotes urination, drains damp, reduces oedema and clears damp-heat benefiting the Gallbladder, with jaundice among its classical indications. In modern anatomy the entry maps this onto the kidneys and bladder: potassium-driven natriuresis, and a mucilage that coats irritated urothelium to soothe painful urination. That is a demulcent action on the lining of the urinary tract, not an antimicrobial one. The grain's relevant tissues are the gut, skin and nervous system. Chinese terms say it tonifies the Middle and harmonises the Stomach, but the entry's main point is biochemical: niacin bound in the grain is liberated only by alkaline cooking. Without that step, niacin deficiency produces pellagra, described as dermatitis, diarrhoea, dementia and death, linking the skin, digestive tract and brain. The entry states that maize itself has no drug action.
+
 ### Contraindications
 
 **Corn silk:**

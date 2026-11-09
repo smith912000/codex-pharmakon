@@ -45,6 +45,10 @@ Southernwood-group plants, like other *Artemisia*, are aromatic bitter herbs wit
 
 **Practitioner's note.** The chapters give a cultivator a method of making a medicated oil and a rule for when to cut the herb, both exercises in the discipline of attention and neither a practice for the self. The uses printed are for named complaints. Nothing here supports taking it as a tonic.
 
+### Functional–Anatomical Correlate
+
+Dioscorides ties this plant to the reproductive organs, the urinary tract, breathing, the eyes, the stomach and the liver and bile. A warming oil of the plant is said to close up or harden the vulva and to expel the menstrual flow and afterbirth, which concerns the female reproductive tract. The seed, pounded and taken in water, is said to help difficult breathing, hernia, convulsions, sciatica, painful urination and stopped menses. In wine it is said to be an antidote to deadly poisons. Applied with boiled quince or bread it is said to help inflamed eyes, and with barley meal to dissolve pannus of the cornea. The wine made from it is said to be urinary and good for stomach disorders, lack of appetite and jaundice. The chapter prints 'warming' for the oil and 'bitter in taste' and 'some strength' for the herb, and no humoral, doshic or qi term appears. Several uses are emmenagogue, and the Codex does not recommend any of them.
+
 ### Contraindications
 
 Southernwood-group herbs are emmenagogue in the record and are not for use in pregnancy. Dioscorides' uses for snakebite, scorpion sting and deadly poison are not advice, and delay of proper medical care for envenoming can be fatal. No dose is given.

@@ -45,6 +45,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is, in Dioscorides' own words, food and not medicine.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry states only what Dioscorides writes in the single-sentence chapter 2-143. He says the plant is eaten as a vegetable and that it has no medicinal use, so no body system, organ or tissue is mapped to it as a remedy. The chapter gives no description of leaves, stems, habitat, preparation or dose. It names the plant in four tongues: Egyptian eclotoripam, others' riplam, Latin blitum and Dacian bles. No warming, cooling or other quality is printed for it. The binomial Chenopodium polyspermum is the translators' suggestion, offered alongside Amaranthus blitum, a different genus, so the anatomical reading cannot be settled. The chapter sits among Book Two's vegetables, after 2-142 Lampsane and before 2-144 Malache agria. No clinical study was retrieved, and the entry is flagged for verification.
+
 ### Contraindications
 
 The chapter says nothing of harm. As a general matter, a wild green should be identified with certainty before eating, and oxalate-rich greens are unsuitable in large amounts for people prone to kidney stones. None of the traditional uses above is advice. [USER: verify]

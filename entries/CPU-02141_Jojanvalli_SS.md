@@ -45,6 +45,10 @@ No identification is possible from the sources read, so no scientific correlatio
 
 **Practitioner's note.** Nothing to do. The drug is an unidentified name in a list, taken (so far as the text says) only as one member of a therapeutic group at a physician's discretion, and there is nothing a cultivator can responsibly use.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry gives no statement for Jojanvalli's own group. The Priyangvardi group in which it is listed has no Metrical Text of its own in Sushruta Samhita ch.38, and the text that follows covers two groups together. That combined statement says the groups prove beneficial in deranged Pitta, favour the healing of ulcers, bring about the adhesion of fractured bones, and prove curative in dysentery where the stools consist of thick, matured mucus (Pakvatisara). Modern correlates for those named conditions are the skin and ulcerated tissue, bone, and the large intestine. The text does not say which group or member acts on which of these, and it assigns no part, taste (rasa), potency (virya), post-digestive effect (vipaka) or dosha to Jojanvalli singly. The drug is unidentified and the spelling may be damaged, so no organ can be tied to it from its own record. The only guidance on use is the chapter-end rule that the physician chooses preparations per case.
+
 ### Contraindications
 
 - **Identity.** Unidentified; do not substitute any plant for it.

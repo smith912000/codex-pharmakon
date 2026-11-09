@@ -48,6 +48,10 @@ No clinical studies were retrieved for this entry. [USER: verify] In general, no
 
 **Practitioner's note.** Nothing. The lion is a protected animal, the only sourced use is an Egyptian hair pomade of unknown effect, and the Tibetan mention is a food warning whose animal is itself disputed. A cultivator takes no practice from this entry. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the scalp, the Tibetan name and a food warning. Ebers names the lion once in a baldness pomade, one of six fats (lion, hippopotamus, crocodile, cat, serpent, Egyptian goat) rubbed on the head of a bald person; the site is the scalp and hair, with no quantity and no outcome reported. Bryan's list of animal sources opens with the lion and gives no use. The Tibetan Glossary on Animals pairs the name Sengye with lion. Clark's running text lists lion's meat roasted on barberry wood among unwholesome foods, while the other translation calls the item haritra and disputes its identity. Dioscorides, not tagged here, says lions' fat is somewhat astringent and an antidote against those who intend treachery. Sushruta, not tagged, places the lion in a cave-dwelling family, sweet, heavy and heat-making, for diseases of the eyes and anus. No temperament, humour or vitality role is attributed to the lion itself.
+
 ### Contraindications
 
 - **Conservation and law:** the lion is a protected species (listed on the CITES appendices and assessed as threatened by the IUCN, with Asiatic and African populations treated differently). Trade in its fat or parts is restricted or illegal in most countries. [USER: verify current status]

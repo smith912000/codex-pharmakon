@@ -54,6 +54,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. In the Tibetan texts it is a bitter seed used against one family of disorders and added to compounds under a physician's direction. The honest answer for a cultivator is to do nothing with it.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry states that the Tibetan texts place this seed among medicines that dry lymph (accumulations) and treat chhuser disorders, and that Clark's class for lymph disorders names it alongside Cannabis. The body systems are not named beyond these disorders, and the entry says the rendering of chhuser as lymph is unverified. It describes the plant as having a slightly bitter taste, and no potency or post-digestive taste is recorded. The entry also notes that the Shennong drug jue ming zi, usually identified as Senna obtusifolia rather than this species, is ascribed eye complaints, which is not a claim about this plant. No dose, preparation or clinical study is recorded. Contraindications stated: no safety data were read; senna-group plants can act as stimulant laxatives, so the seed must not be used as a purgative or cleanse, and those with abdominal pain, bowel disease, pregnancy or a child to care for should not experiment.
+
 ### Contraindications
 
 No safety data were read. Plants related to the senna group can act as stimulant laxatives, so this seed must not be used as a purgative or "cleanse", and anyone with abdominal pain, bowel disease, pregnancy or a child to care for should not experiment. None of the traditional uses above is advice. Seek a qualified practitioner for any real disorder, and ordinary medical care for infection or swelling.

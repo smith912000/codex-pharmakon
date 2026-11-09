@@ -67,6 +67,10 @@ Attribution: findings from PubMed.
 
 **Practitioner's note.** Pistachio is a nutritive substrate, and every tradition that names it treats it as food or nourishing aliment rather than as a graded cultivation drug. The most a cultivator honestly does with it is eat it — as a fat- and protein-dense aliment taken over time within a whole diet. The nearest thing to a vital framing is the Unani reading of a strengthening food that conserves the constitution by good nourishment; that is dietetics, not a tonic grade, and it should not be inflated into one.
 
+### Functional–Anatomical Correlate
+
+Per the entry, pistachio is a food-medicine that acts on the whole nourishing and metabolic economy rather than on one organ. The Greco-Arab (Avicennan) reading calls it a warming, nourishing, strengthening aliment that benefits the liver and stomach and restores vigour, within the humoral scheme. The TCM food-therapy reading places it in the warm, sweet, Kidney and Spleen nourishing register, and the Dantian placement is lower and middle, for nutritive tonification. Its modern correlates are cardiometabolic: a meta-analysis of RCTs reported lower systolic blood pressure, triglycerides and fasting glucose, and higher HDL, with waist circumference, diastolic BP and BMI unchanged. A 12-week RCT found no weight gain at 42 g or 70 g daily. The entry links the lipid effects to monounsaturated fat and phytosterols. It states that the humoral and tonic claims are traditional and that the cardiometabolic effects are clinical but modest. Salted forms may cancel the blood-pressure benefit.
+
 ### Contraindications
 
 - **Tree-nut allergy** — pistachio is a tree nut; anaphylaxis risk in sensitised individuals. *Pistacia* (Anacardiaceae) shares family with cashew/mango — cross-reactivity possible.

@@ -50,6 +50,10 @@ No clinical studies were retrieved for this entry. Maidenhair ferns are widely g
 
 **Practitioner's note.** Nothing is asked of a cultivator. The entry is a good example of the *Canon* reporting two authorities who disagree on the bowel (Galen on temperament, the many against Ibn Māsawayh on binding or loosening) and leaving the disagreement standing.
 
+### Functional–Anatomical Correlate
+
+The entry maps the herb across many organs in the Canon's own sequence. On the skin and hair, its ash with vinegar and oil is used for alopecia, and with myrtle oil and wine it is said to lengthen the hair. Swellings, abscesses, scrofula, fistulae and ulcers are the external sites. The head and eye are named for scurf and an eye complaint, and the chest for cough, the lung being said to be cleansed greatly. The spleen and liver are named for pain and jaundice, and the bowel and stomach for flux of superfluities. The urinary passages and womb are named for moving urine and the menses, expelling the afterbirth and stopping bleeding after childbirth. Temperament is Galen's moderate, with Avicenna's view that it leans to a very slight heat and dryness. Actions are dissolving, subtilising, opening, with some binding. On the bowel, authorities differ. No innate heat or radical moisture is used.
+
 ### Contraindications
 
 - **Pregnancy and the womb.** The text says it moves the menses, expels the afterbirth and stops bleeding after childbirth; avoid in pregnancy as a precaution. [USER: verify]

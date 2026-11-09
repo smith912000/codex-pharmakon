@@ -51,6 +51,10 @@ General, well-established facts only. Basil and its relatives are familiar aroma
 
 **Practitioner's note.** A pungent, heat-making kitchen herb with errhine and plaster uses for Kapha complaints. Nothing in the record supports any cultivation use; it is a therapeutic and culinary herb in the text.
 
+### Functional–Anatomical Correlate
+
+Within the Surasadi group the Sushruta Samhita places Arjaka among drugs that destroy Kapha and benefit catarrh, loss of appetite, asthma and cough, and act as vermifuge and aseptic agents; the group is also said to cleanse ulcers. Sutra chapter 46 calls it light of digestion, Pitta-generating, heat-making and pungent, and says it tends to produce parchedness. As an errhine it acts through the nose, since the leaf is the part used in the nasal drug. Its leaf plaster is applied in fever from aggravated Kapha or Vata, and an equal part of it is taken with soup for Kaphaja colic, which places the abdomen in the record. The organ-level claims therefore reach the nose, the airways, digestion and appetite, the abdomen and the wounds, with Kapha and Pitta as the humours named. The text prints no rasa, virya or vipaka beyond the Sutra 46 qualities. The entry's caution that the herb generates Pitta stands, and the identity is a positional OCR pairing, so no modern anatomy is attached beyond what the classic names.
+
 ### Contraindications
 
 - **Pitta.** The text says the herb generates Pitta, and is heat-making. Take that as a warning in its own terms.

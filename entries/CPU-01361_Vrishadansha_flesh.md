@@ -40,6 +40,10 @@ General, well-established facts only. The terms *vayu*, *pittam* and *kapham* an
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The text names the Vrishadansha once, in a list, and gives only the properties of its group. The Codex does not recommend the meat. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Sushruta Samhita (SS) gives no separate statement for the Vrishadansha, which is named only in the hole-dwelling (Vileshaya) group of game animals, so the group's flesh properties are the only mapping available. The text says this flesh increases the consistency of stool and urine, which places its action in the bowel and the urinary tract. Its potency is heat-making and its post-digestive taste sweet. It subdues Vayu and generates Pittam and Kapham, the humoral and doshic frame of Ayurveda. It is described as demulcent, soothing to mucous membranes, and beneficial in cough, dyspnoea (breathlessness, the airways and lungs) and cachexia (wasting of the whole body). Modern anatomy would name the lungs and airways, the gut, and the kidneys and bladder for the stool and urine statements, while the Vayu, Pittam and Kapham terms have no direct modern organ counterpart. The list row marks the identification as uncertain, so none of this can be tied to a particular species, and the chapter names no constituent.
+
 ### Contraindications
 
 - **Identity:** the animal is not identified in the sources read; do not substitute any animal.

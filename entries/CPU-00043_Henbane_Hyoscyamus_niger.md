@@ -162,6 +162,10 @@ Traditional preparations included:
 ---
 
 *[1 tradition paragraph(s) removed 2026-07-18 — tag withdrawn per approved attestation ruling; see spine notes.]*
+### Functional–Anatomical Correlate
+
+The entry's central claim is that henbane acts on the nervous system through one mechanism, muscarinic acetylcholine receptor blockade. In modern anatomy this affects the heart (vagal tone removed), the pupil and ciliary body, exocrine glands and airway smooth muscle, gut and bladder, and the central nervous system, where it produces sedation, amnesia and delirium. The Canon of Medicine places it as extinguishing vital heat in the affected part and preventing the spirit from reaching it, which causes numbness, and classes it cold in the fourth degree. Bencao Gangmu applies seed powder to dental caries as an analgesic. The entry's energetic mapping gives organ channels: Heart-Pericardium for consciousness suppression, Liver for muscle spasm and Lung for drying secretions. Ayurvedic texts classify it as Vishaghna and Vedanasthapana, used cautiously. The entry lists glaucoma, urinary retention, tachycardia, myasthenia gravis and pregnancy among contraindications, and it records no training use.
+
 ### Contraindications
 
 - **Glaucoma** — raises intraocular pressure by blocking ciliary muscle; acute angle-closure glaucoma emergency if administered

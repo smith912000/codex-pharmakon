@@ -47,6 +47,10 @@ The phrase "make the body light" is *qing shen* 輕身, which the cultivation sp
 
 **Practitioner's note.** A superior-class entry in the Chinese scheme, whose class the preface calls nontoxic and for long taking. The grade is the classic's; the plant is not known with certainty, and the Codex has no dose, no preparation and no clinical record to set beside it. Nothing here supports taking a tree fruit on the strength of this entry. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Shennong text, as Yang 1998 prints it, lists actions that touch several body systems, all in its own terms. It names impotence, which concerns sexual and reproductive function, and says the herb boosts the qi, a vital-energy term the entry does not localise to any organ. It says the herb replenishes the skin and muscles, so the integument and musculature are named, and that it brightens the eyes, so the eyes are named. It relates the herb to wisdom and foresight, which the entry does not place in any organ. Protracted taking, the text says, may free one from hunger, prevent senility and make the body light; the entry names no organ for these. The entry gives its taste as bitter and balanced and its nature as nontoxic. The plant's identity rests on a translator's Latin name, and no preparation, dose or clinical study is given, so these correspondences are the text's claims and not tested findings.
+
 ### Contraindications
 
 The Shennong entry prints no warning. The preface calls the superior class "nontoxic", which is a statement about the class and not a safety finding for this plant or for the tree's fruit. The identity rests on a translator's Latin name, so no plant should be gathered or used on the strength of this entry. Impotence and eye complaints need medical care. No safety information for pregnancy was read. [USER: verify]

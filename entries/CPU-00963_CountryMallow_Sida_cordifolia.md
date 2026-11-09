@@ -74,6 +74,10 @@ Ayurveda classifies Bala as **sweet (madhura) in taste, cooling (sheeta) in pote
 
 **Practitioner's note.** Nothing cultivation-specific should be inferred from the name. Bala contains ephedrine-type alkaloids according to the entry's own sourced content, so its traditional "strengthening" label is no warrant for habitual use.
 
+### Functional–Anatomical Correlate
+
+Bala's entry maps two layers onto different systems. In Ayurveda it is sweet and cooling, balya (strengthening), brimhana (nourishing) and vata-pacifying, acting on the nervous system, the neuromuscular and joint tissues, and used in oils for massage and basti; the entry lists neuromuscular weakness, tremor, rheumatic pain, wasting and convalescence. Preclinical rodent findings cited are analgesia in orofacial and writhing models, partly naloxone-sensitive, anti-inflammatory and antioxidant effects, accelerated wound healing with lower mitochondrial ROS, and liver regeneration after partial hepatectomy. The second layer is cardiovascular and central: the entry says Bala contains ephedrine and pseudoephedrine, so it acts on the sympathetic system, raising blood pressure and heart rate and stimulating the CNS, with risk to the heart, thyroid, the eye in closed-angle glaucoma, the prostate and bladder in urinary retention, and sleep. The rasayana and rejuvenative claims remain traditional, with no robust human trial.
+
 ### Contraindications
 
 - **Cardiovascular disease** (hypertension, ischaemic heart disease, arrhythmia, heart failure): contraindicated — ephedrine/pseudoephedrine raise blood pressure and heart rate.

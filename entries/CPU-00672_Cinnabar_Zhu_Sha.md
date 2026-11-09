@@ -61,6 +61,10 @@ Mercury and its compounds are toxic to the nervous system and kidney; this is we
 
 **Practitioner's note.** The one tradition that grades cinnabar highly, the Chinese classic, does so for a poisonous mineral, and its own preface calls the grade nontoxic. Nothing sourced supports taking cinnabar for cultivation, and the Greek text shows workers masking their faces against its fumes. For a cultivator the honest use is none: the entry is a record of what was written. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Cinnabar's claimed sites are the nerves and bone, the channels, the lungs, the liver, the blood vessels, the wounds, the skin and the eyes. The Chinese Dan Sha is sweet and slightly cold, treats hundreds of diseases of the five viscera and the body, nourishes the essence spirit, quiets the ethereal and corporeal souls, boosts qi and brightens the eyes. The Dioscorides chapter says cinnabar is like haematite for eye medicines, more astringent and blood-staunching, and that taken with wax ointment it heals burns and pustules. The Tibetan Explanatory Tantra says the red type maintains the channels and bone resin, the white type cures smallpox fever, and the mtshal type heals wounds and cures fevers of the lungs, liver and channels. The Men-Tsee-Khang text adds protection of the nerves and spongy bone and treatment of hot disorders of the lungs, liver and blood vessels. In modern anatomy terms the mapped sites are the nervous system, bone, lungs, liver, blood vessels, skin and eyes.
+
 ### Contraindications
 
 Cinnabar is a mercury compound; heating it releases toxic mercury vapour. Do not take it by mouth, burn it or sublimate it. Mercury poisoning damages the nervous system and kidneys, and the unborn child is especially at risk. Sale and use of mercury-containing medicines are restricted in many jurisdictions. "Sublimated" or "roasted" preparations named in the old texts are not standardised.

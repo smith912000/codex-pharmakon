@@ -54,6 +54,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As a general f
 
 ---
 
+### Functional–Anatomical Correlate
+
+Little to map: the one passage with mouse urine is a granary device in Bryan's domestic hints, to stop rodents eating durra. Mouse excrement and urine are spread over the wall and floor of the granary, after gazelle dung has been burnt there. The entry states no body system, organ, tissue, temperament or qi for the urine, and it states that the sources do not say the urine was ever taken or applied as a medicine. Other urine in the text is a farmer's or a human's, or names no animal. Its only safety statements are that rodent urine and droppings can carry bacteria, viruses and parasites, so they must not go on food stores or on the body, and that spreading them on grain contaminates it. Nothing in the entry maps mouse urine to a body system, and no Egyptian quality, Unani humour or Sushruta reading is given for it.
+
 ### Contraindications
 
 - **Hygiene and infection:** rodent urine and droppings can carry disease and must not be put on food stores or on the body.

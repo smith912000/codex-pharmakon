@@ -46,6 +46,10 @@ General, well-established facts only. Organ meats are nutrient-dense; kidney is 
 
 **Practitioner's note.** Nothing to do. By the Canon's own judgement, a food to be eaten sparingly, if at all.
 
+### Functional–Anatomical Correlate
+
+Little to map: the passage states that the kidney, of which the kid's is the most laudable, is moderate in temperament and inclines to dryness, and that its humour is bad. It is hard to digest, greasy and slow to descend, which are the only actions named. The Canon treats kidney as a food and records no remedy use in the lines read, so no organ beyond the digestive passage is mapped. The entry is a food assessment with no statement about the kidney's own function. No preparation, dose, faculty or cultivation status is given. One word of the choice sentence is corrupt in the text and is not translated, and the passage names no other organ or system that the kidney touches.
+
 ### Contraindications
 
 - **Gout and high uric acid.** Organ meat is purine-rich. [USER: verify]

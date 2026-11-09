@@ -38,6 +38,10 @@ General, well-established facts only. Tapeworms are intestinal parasites of mamm
 
 **Practitioner's note.** A cultivator does nothing with this. It is a list entry and a hair-dye ingredient from a corpus of complaints, with an uncertain identity, no dose and a real infection hazard. The honest use of the entry is as a record of what Bryan reports.
 
+### Functional–Anatomical Correlate
+
+The entry maps two sites. As a hair ingredient, the tapeworm is part of a scalp preparation: Bryan's hair-dye prescription has it cooked in oil and gum and rubbed well into the scalp, placing the action on the scalp skin and the hair it bears, in the chapter on greying hair. As a disease, the tapeworm is an intestinal worm, and Bryan's chapter on indigestion treats roundworms and tapeworms, the affected site being the gut. The worm there is a condition to be driven out, not a drug, so the gut is the body system the sources touch by complaint. The Ebers text gives the tapeworm no humour, temperament or quality, and the Egyptian person (ka, ba, akh, ib) is not tied to it in the lines read. Scalp and bowel are the only organs named, and the identity of the animal rests on Bryan's English word.
+
 ### Contraindications
 
 - **Parasite infection:** tapeworm material can carry eggs or larval cysts; do not handle or apply it.

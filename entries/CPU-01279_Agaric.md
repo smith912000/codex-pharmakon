@@ -53,6 +53,10 @@ General, well-established facts only. Bracket fungi are the fruiting bodies of w
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. Agaric is a bitter-tasting drug, a purge in the larger amount, given for many conditions, with doses in the translator's units and an identification that is not settled. The habit the chapter teaches is to grade the material by sight and taste and to match the dose to the person's strength and age. The Codex does not recommend taking it, and nothing in the chapter supports long-term use. No modern dose is given here. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides' agaric is mapped by its actions onto many systems. Its astringent, warming quality is said to answer griping, indigestion, hernias and falls, and the chapter lists the liver, the lungs, the spleen, the kidneys and bladder, the womb and the joints. It is given for liver ailments, asthma, jaundice, dysentery, nephritis and dysuria, womb constriction and sickly looks, tuberculosis of the lungs, and splenetic conditions. It is said to stop the throwing-up of blood, for sore hips and joints, epilepsy, and to encourage menstrual flow. The Unani Canon adds the sciatic nerve and muscle weakness, the brain's superfluities in epilepsy, the lung and the spleen, and the thick humours, black bile and phlegm, which it purges. Its body targets are thus the liver, lung, spleen, kidney, bladder, womb, joints, brain and gut, with the humours named as the Greek and Unani frame. The identification is open, so the organ map is the text's own.
+
 ### Contraindications
 
 - **Identification:** the material the text describes is not securely identified; do not collect or consume wild fungi on the basis of this entry. Misidentified fungi can be fatally poisonous.

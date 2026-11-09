@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant as a medicine. The transferable point is the method: know the source, test the root by hand (it breaks easily) and by nose (it smells), and distrust a root that fails the test. That is a method of attention that is useful for any bought root. The abstentive answer for the plant itself is the honest one.
 
+### Functional–Anatomical Correlate
+
+Dioscorides' chapter names no humour, dosha or qi, so its organ correlates rest on his stated uses. The dried root, given in drinks, is said to be warming and to encourage urine, and a decoction is said to do the same, which places its action on the urinary passage. The text says it is good for a painful rectum, which points to the lower bowel and anus, and that it encourages the menstrual flow, which points to the uterus and its monthly bleeding. The root is also mixed with antidotes, so it enters compounded preparations. Its only energetic quality is warmth, and the sensory notes are a pleasant smell close to nardus with a poisonous heaviness. No other organ, tissue or system is named. The identification to any modern valerian is only the translators' suggestion, so these correlates describe the text and not a known plant.
+
 ### Contraindications
 
 Chapter 1-10 prints no warning, though it notes "a certain poisonous kind of heaviness" in the smell and says the root brings on the menstrual flow, so pregnancy is an obvious question that the text does not answer. The identification is only the translators' suggestion, so no root should be gathered or used on the strength of this entry, and a root bought as "valerian" is not the plant of this chapter. The chapter warns of adulteration with another root. It gives no dose and no safety information for children or for any medicine taken at the same time. [USER: verify]

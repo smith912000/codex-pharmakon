@@ -52,6 +52,10 @@ General, well-established facts only. Clay is absorbent and was widely used as a
 
 **Practitioner's note.** A building-site clay used as the vehicle of external poultices. Nothing here supports ingestion or any cultivation use. What the record shows is the care to name where the clay came from, not what the clay does to the person.
 
+### Functional–Anatomical Correlate
+
+The entry maps the four clays to the skin, the eyes and the back. The Ebers recipes, as Bryan renders them, put clay-from-the-gate in a poultice for itching that has spread to all the limbs, so the skin of the limbs is the site. Clay-from-the-wall is in a poultice for scabs in every limb, again the skin. Clay-from-a-statue is ground in honey with castor-oil-tree leaves and applied to the eyes for a flow of matter from both eyes, so the eyes and their discharge are the site. Mason's clay is in a plaster for wheals from blows, which is surface skin and bruising, and in a back remedy for a complaint in the abdomen that has spread to the back, which places the site in the abdomen and back. The entry assigns no hot, cold, wet or dry quality, no humour and no channel to clay. The Egyptian frame of the person's parts (ka, ba, akh, ib) is named by the entry, but not assigned to these clays.
+
 ### Contraindications
 
 - **Open skin and eyes.** Do not put clay from a wall, gate or statue on broken skin or in the eye; it risks infection, including tetanus.

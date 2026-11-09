@@ -50,6 +50,10 @@ General, well-established facts only. *Erythrina variegata* is a tropical tree w
 
 **Practitioner's note.** Nothing to cultivate here. A tree whose ashes and wood serve in alkali and antivenom recipes, with no cultivation status in the sources read. A cultivator has no sourced use for it, and its seeds are a hazard.
 
+### Functional–Anatomical Correlate
+
+Little to map: The sources read give Paribhadra no organ or tissue action. The wood, leaves, roots and fruits of a tree of this name are burnt to ashes as one of many alkali-bearing materials in the Sutrasthana chapter on alkali preparation. The Kalpasthana lists its wood among the first part of a Ksharagada, an alkaline antivenom compound, with no stated effect on any body part. The Samhita also names the tree in a list of dreams that are portents, with the end of the sentence unread. The text states no taste, potency or after-taste, and no internal use, dose or duration. The entry says the tree in these lines may not be the species glossed in the Appendix, and that the alkali is caustic with no procedure given. No pregnancy statement was read.
+
 ### Contraindications
 
 - **TOXIC.** Do not eat the seeds or take the bark. Do not gather the plant for ingestion.

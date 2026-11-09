@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan ca
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a name in a glossary and in a list of anthelmintics, with no preparation and no dose. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one use only, Clark's placing of 'Heracleum (candicans)' in the category of anthelmintics, given in the chapter 21 list at line 1221. The Men-Tsee-Khang glossary prints the Tibetan name 'Tukar' beside this binomial and the English name 'Hogweed', but gives no action. The entry names no organ, tissue or body system. An anthelmintic is a drug for expelling worms, and the entry does not say which part of the body the drug is held to act on. It gives no taste, power or humour. Because the Tibetan name is paired with the binomial by column position only, nothing anatomical can be joined to it from this entry.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Worms need medical assessment, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. As a general caution, handling some umbellifers can irritate the skin, and the Codex has read nothing that says whether this species does. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

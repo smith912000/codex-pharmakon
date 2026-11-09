@@ -63,6 +63,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places kurchi chiefly on the bowel. In Ayurveda the bark and seed (kutaja, indrayava) are bitter-astringent and cooling, acting as grahi, a bowel-binding drug for atisara and pravahika, diarrhoea and dysentery, including bloody, mucoid amoebic and bacillary forms. The Unani account likewise describes it as cold-dry, astringent, anti-dysenteric and antiparasitic. Its steroidal alkaloids, conessine chief among them, are described as antiprotozoal and antibacterial against dysentery organisms, while tannins supply the astringency that binds the inflamed, over-loose or bleeding intestinal lining. The entry also lists bitterness as acting on sluggish, inflamed digestion, and intestinal worms and protozoa as targets. The Tibetan tag is not supported by any Sowa Rigpa account in the entry. Cautions are constipation and a very dry bowel, and pregnancy.
+
 ### Contraindications
 
 - **Constipation / very dry bowel.** The astringent action can over-bind; inappropriate in constipation.

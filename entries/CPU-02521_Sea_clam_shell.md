@@ -42,6 +42,10 @@ The identification is ours. Sun's note itself shows that the old texts used 海�
 
 **Practitioner's note.** The classic offers a cultivator nothing to do with this shell beyond reading its place. It is a bitter, level remedy for cough and chest complaints, in the class the preface calls life-nourishing, with no promise attached to it and no dose.
 
+### Functional–Anatomical Correlate
+
+The sea clam shell, in the Shennong bencao jing, is mapped to the breath and chest. Its flavour is bitter and level (ku, ping). The classic's paragraph names cough with counterflow qi rising (ke ni shang qi), wheezing breath with vexation and fullness (chuan xi fan man), chest pain, and cold and heat (xiong tong han re). These place the action on the breathing passages and the chest in the terms of qi movement. Wu Pu records a sweet flavour for Shennong and a salty one for Bian Que, and describes the shell's ridged surface. The entry names no organ, no tissue and no channel, and gives no part of the shell. The species is not fixed by the text, so any mapping applies to the material the classic meant, not to a confirmed bivalve.
+
 ### Contraindications
 
 The text gives no warning. No safety information for pregnancy, children or other medicines was read. The material is a marine shell and may carry contaminants; the origin of any modern material should be known. The species is not fixed. No conservation information was read. [USER: verify]

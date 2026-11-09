@@ -118,6 +118,10 @@ Medjool date paste used as natural sweetener in training foods and recovery ball
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry's own claims, dates act on the Spleen-Stomach as Qi-building nourishment, on the Kidney through pollen and Jing support, and on the Heart through calming tryptophan and Hridya action. Ayurveda classes the fruit as sweet and cooling, a cardiac tonic and a strengthening, nourishing (Brimhana) drug, and by analogy as a Vata-Pitta settler that increases Kapha in excess. Its potassium and magnesium are linked to electrolyte replacement, muscle function and recovery, and its tryptophan and magnesium to sleep. The sugars and polyphenols are said to replenish glycogen after training and to act anti-inflammatory through COX and 5-LOX pathways. Dioscorides and the Canon place the unripe fruit as astringent and haemostatic and the dried fruit as expectorant for cough. Date pollen is said to support sperm motility and testosterone precursors, rated by the entry as small-study or rodent-level.
+
 ### Contraindications
 
 - **Diabetes / insulin resistance** — high glycemic index requires careful management; the fiber moderates but does not eliminate the blood sugar spike; diabetics should count dates in carbohydrate load and avoid post-sedentary consumption

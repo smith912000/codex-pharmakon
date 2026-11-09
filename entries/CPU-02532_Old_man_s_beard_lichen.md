@@ -46,6 +46,10 @@ The text gives no preparation and no dose; the Mingyi layer gives the place of g
 
 **Practitioner's note.** There is nothing here to cultivate. The classic offers a bitter, balanced lichen for a short list of complaints and gives no dose or course. Treat it as a record. Do not read the "rage and anger" clause as an instruction for anger management.
 
+### Functional–Anatomical Correlate
+
+Under the name songluo the Shennong text maps this lichen to a short list of body sites and states. Its governing of the "evil qi of rage and anger" is a disorder of mood and qi that the text does not locate in an organ. "Deficiency sweating" places it on the skin and the sweat-regulating surface, and "head-wind" on the head, in the classic's sense of wind-pattern headache. For women the text names "cold in the yin and swelling illness", which points to the lower body and the genital region, with swelling as a general tissue sign. The text gives the flavour as bitter and the nature as balanced, and no meridian, organ system or channel is assigned; the middle-class placement is its only structural frame. In modern anatomical terms the claims therefore touch the skin and its sweat function, the head, the female pelvic region and soft-tissue swelling, plus an unlocated mood claim. The entry itself says the identification as Usnea is ours, that no constituent or study links the lichen to any of these sites, and that the record is historical only. Nothing further about organs or systems is supported by the text.
+
 ### Contraindications
 
 - **Identification.** The text names the thing only as *songluo* or *nüluo*; the commentary tradition confused it with dodder. Do not substitute one for the other.

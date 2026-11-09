@@ -44,6 +44,10 @@ General, well-established facts only. Fish sauce is high in salt, which in stron
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. Garum is a salted-fish liquid used by Dioscorides on ulcers, bites and bowel complaints; what survives of the discipline is the plain habit of knowing what the material is and how it was made before using it, and the text gives neither. The Codex does not recommend the medicinal use. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides' garum acts on five sites, each named in the chapter's own words. Applied to the cheeks, it represses gangrenous ulcers of the mouth and face, the soft tissue inside the cheek. Applied to a dog bite, it is said to heal the skin and the wound beneath it. Given as a suppository, it is used for dysentery, an inflammation of the large bowel, and for sciatica, pain along the sciatic nerve in the back and leg. Inside the bowel it is said to repress ulceration in some patients and to encourage ulceration of the parts not yet ulcerated in others, which maps to the lining of the gut. Finally, it is said to remove fluids that trouble the hips, which the text places in the hip region. Dioscorides prints no humoral, temperature or moisture quality for garum, and names no organ system as such. The translator's gloss identifies the substance with Roman fermented fish sauce.
+
 ### Contraindications
 
 - **Wounds and bites:** do not apply fish sauce to an open wound or a dog bite; a bite needs medical care, including assessment for rabies and tetanus.

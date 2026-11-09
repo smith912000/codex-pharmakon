@@ -49,6 +49,10 @@ General, well-established facts only. "Zhi" 芝 is a Chinese group name for cert
 
 **Practitioner's note.** An upper-grade drug in the classic's own scheme, the kind taken long-term for nourishing life, but with no identified species, no dose and no preparation in the record. A cultivator can read it as the tradition's own account of an upper-grade fungus and should not act on it by eating any fungus.
 
+### Functional–Anatomical Correlate
+
+The entry places white zhi in the lung and in the mouth and nose. The classic says it governs cough with counterflow qi ascent (咳逆上气), boosts lung qi (益肺气), and frees and disinhibits the mouth and nose (通利口鼻). It also strengthens will and intent with courage and sturdiness (强志意，勇悍), and quiets the po soul (安魄). Its flavour is acrid (辛) and its nature balanced. The lung link is the classic's own phrase. The metal and lung correspondence in Yang's footnote is a modern five-phase gloss, not the classic's wording, and the entry keeps it apart. No channel is printed, and the entry does not translate po or will into anatomy. The paragraph also says that long use lightens the body and prolongs years, which the entry reads as a claim of the classic. Persistent cough is a medical condition for a clinician.
+
 ### Contraindications
 
 - **Identity.** The white zhi has no settled species. Do not gather or eat wild fungi on the strength of this entry; many are poisonous and some are lethal.

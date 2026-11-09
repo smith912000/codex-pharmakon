@@ -80,6 +80,10 @@ Filed under **Circulation / Waterworks**: a traditional urinary-tract flushing a
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places the winged caltrop's main action in the urinary tract, as a warm, drying, dispersing diuretic for gravel, dysuria and irritable bladder. The Ayurvedic and Unani readings extend this to sexual function. The entry cites clinical trials of the related T. terrestris, not T. alatus: a modest libido effect in women with a small rise in free testosterone, and no raised testosterone in men in controlled trials. The Chinese reading of the related fruit places it on the Liver channel, calming Liver yang and brightening the eyes, so the traditions differ on the organ at the centre. The entry names the liver as a safety organ, since high-dose supplement reports link T. terrestris to hepatotoxicity, and livestock develop hepatogenous photosensitisation through saponin crystals in the liver. The spined fruit injures skin, feet and mouth. The pregnancy caution refers to hormonal and uterine activity in animal models.
+
 ### Contraindications
 
 - **The testosterone myth — flag explicitly.** Do not market or prescribe *Tribulus* as a testosterone booster or anabolic aid; controlled human evidence does not support raised testosterone in men. Athletes should note supplement products carry contamination/adulteration risk.

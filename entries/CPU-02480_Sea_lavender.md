@@ -40,6 +40,10 @@ Avicenna: the fruit astringent and dry (line 14689). No degree of heat is given.
 
 **Practitioner's note.** There is nothing to practise here. The entry shows the Canon repeating a Greek drug in its own shorter form.
 
+### Functional–Anatomical Correlate
+
+Little to map: the Canon's entry names one organ system and a few tissues. It says the fruit, which it calls astringent and dry, benefits looseness of the bowels and the flux of blood when drunk in wine, and it gives the same benefit for bleeding of the menses, with a draught called iksūthāfan. In the entry's own frame this is a binding action on the bowel and on uterine bleeding. The entry records no temperament beyond dryness, no degree of heat, and no description of the plant, so no further organ is stated. No Unani terms for the humours or vital faculties appear. The identification as sea lavender is the modern reading and the entry does not fix it, so nothing here identifies the material. Dysentery and bleeding from the gut are conditions the entry itself places for medical care.
+
 ### Contraindications
 
 - Bleeding and dysentery need medical care.

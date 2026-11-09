@@ -127,6 +127,10 @@ Cold-pressed neem seed oil; apply directly to skin infections, tinea, folliculit
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, neem acts on the skin, blood, liver, gut and mouth. In the skin it treats tinea, folliculitis and fungal overgrowth, and is cited as anti-pruritic (kaṇḍūghna) and skin-healing (kuṣṭhaghna). Blood purification (raktaprasādana) is mapped to lower inflammatory cytokines (TNF-α, IL-6), endotoxin clearance and hepatic detoxification, with TCM placing it in the Liver-Gallbladder channel. The gut receives its anthelmintic (krimighna) and digestive kindling (dīpana) actions. Oral health (Streptococcus mutans, gingivitis) is a further target. Polysaccharides are said to stimulate macrophage and NK-cell activity, an immune effect. Ayurvedically it is a cooling bitter, pitta-kapha-śāmaka and vāta-neutral. Its contraindications centre on reproduction: the entry cites abortifacient activity and reversible sperm suppression in animals. It also warns that immunostimulation may worsen autoimmune disease and that the bitter, dry profile aggravates vāta. Most evidence is in vitro or animal, with some clinical oral-health data.
+
 ### Contraindications
 
 - **Pregnancy** — neem has documented abortifacient properties; azadirachtin disrupts implantation; strictly contraindicated in pregnancy; also documented as male contraceptive at high doses

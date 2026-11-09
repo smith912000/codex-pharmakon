@@ -43,6 +43,10 @@ General, well-established facts only. Eating the raw gall bladder of carp (inclu
 
 **Practitioner's note.** There is nothing here for a cultivator to do. The classic's wording for this organ is a long-use clause that does not carry a life-nourishing promise, and the practice it describes is hazardous in the light of what is known today. The honest use of the entry is as a historical record. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Carp gall bladder, in the Shennong bencao jing, is mapped to the eyes and to the will and qi. Its flavour is bitter and cold (ku, han). The paragraph names heat, redness and pain in the eyes (mu re chi tong) and blue-blindness (qing mang), the classic's term for blindness with a normal-looking eye, and gives an action of brightening the eyes (ming mu). Taken long, it is said to strengthen and benefit the will and qi (qiang han yi zhi qi), a mental and vital-energy claim. The entry names only the gall, not any tissue or channel, and gives no preparation. The eye mapping rests on the entry's own text alone. Its contraindications note that raw carp gall is a recognised cause of kidney and liver injury, so the entry is recorded as history and not as a working effect.
+
 ### Contraindications
 
 - **Do not eat or apply carp gall.** Ingestion of raw carp gall bladder is a recognised cause of acute kidney and liver injury and can be fatal; the traditional "eye" use is not a reason to try it.

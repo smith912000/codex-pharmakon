@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a bitter fever drug in the Tibetan texts, with no preparation and no dose, and the plant behind the Tibetan name is uncertain. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the drug 'cures infectious fevers' (Clark, line 1008), that with the neighbouring lchags.tig it helps 'bile fevers' (line 1009), and that Men-Tsee-Khang's running text says zangtik 'cure[s] hot disorder associated with tripa' (line 3428). Clark's commentary adds only a bitter taste and the plant's habitat and appearance. Bile and tripa are Tibetan humoral categories, and the entry does not tie either to a named organ, gland or tissue. The entry names no modern body system, and no body part is stated as acted on. Because the plant behind the Tibetan name is uncertain, no anatomical correlate for any species can be drawn from this entry.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Fevers need medical assessment, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Because the identity is uncertain, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

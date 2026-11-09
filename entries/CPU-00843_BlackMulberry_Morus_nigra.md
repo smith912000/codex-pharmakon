@@ -92,6 +92,10 @@ The *M. alba* / *M. nigra* distinction deserves a closing emphasis, because it i
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps black mulberry chiefly onto the oropharynx: the mouth, throat, tonsils and gums. The ripe fruit is a cooling demulcent for an inflamed throat and mouth, its anthocyanin-rich boiled syrup, diamoron, used as a gargle for sore throat, tonsillar inflammation and aphthous ulcers. The unripe fruit is an astringent for lax, bleeding gums and relaxed tonsils. Systemically the Unani frame calls the ripe fruit a blood-cooler and gentle laxative acting on the bowel, and the Ayurvedic reading lists it as a refrigerant for thirst, burning and throat soreness. The entry classes the blood-nourishing claim as signature-thinking on the blood-dark juice, with no evidence that it treats anaemia. Antidiabetic action belongs to white mulberry leaf and is not transferred here. Cited data are anti-inflammatory and antinociceptive in animal models, but no throat-specific human trial was found. Traditional energetics: cooling and moist when ripe, astringent when unripe.
+
 ### Contraindications
 
 - **Do not overclaim antidiabetic action:** *M. nigra* fruit is not a substitute for the DNJ-bearing *M. alba* leaf; patients on hypoglycaemics should not treat black-mulberry fruit as blood-sugar therapy.

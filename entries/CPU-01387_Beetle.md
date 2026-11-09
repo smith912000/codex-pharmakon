@@ -54,6 +54,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+Little to map: the Ebers Papyrus entry states only that the beetle appears in Bryan's list of animals of the materia medica, with no species, no Egyptian word and no use. The one passage that prescribes it is a poultice of crushed beetle shell mixed with tortoise tail, sefet-oil, sert-juice and oil, given in the chapter on women's diseases between a vaginal remedy and a breast remedy, for a complaint the summary does not name. The site of application is not stated, so no organ or system can be tied to the shell. The entry gives no humoral, qualitative or energetic class, no cultivation framing and no dose. The separate beetle-wax used in an eye remedy is a different drug and is not mapped here. Modern anatomy adds nothing the papyrus itself states, and the text does not say whether the shell is the whole insect or a wing-case.
+
 ### Contraindications
 
 - **Unidentified insect:** the species is unknown; some beetles carry blistering or poisonous compounds, and an unidentified insect should not be ingested or applied to skin.

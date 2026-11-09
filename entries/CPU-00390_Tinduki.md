@@ -56,6 +56,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this tree. In Sushruta it is an astringent fruit and a bark or seed in remedies, and in one disease regimen a forest food. The abstentive answer is the correct one: any use is a matter for a qualified practitioner, and the text supplies no long-term regimen.
 
+### Functional–Anatomical Correlate
+
+Sushruta places Tinduki among astringent fruits and gives it an unripe fruit that produces Vayu and a ripe fruit that is sweet and subdues Kapha and Pitta. The organ claims follow its uses. For over-burnt skin the text dusts the area with rice, or applies a plaster made from the pulverised skin of Tinduki with clarified butter, so the skin and its surface are the target. For sores on the penis, an oil cooked with the bark is applied, which names the genital surface. Several urinary disorders are treated with decoctions with honey, including Sonita-meha and Hasti-meha, so the urinary tract is the named organ in the Prameha passages. A bark powder with honey and Kapittha juice is given for internal ulcers, and bark is among the drugs in a diarrhoea remedy, which names the bowel. A regimen for a rich man with Prameha sets Tinduka among his foods as part of a disease treatment, not a rasayana. The text gives no virya or vipaka.
+
 ### Contraindications
 
 No safety data were read. Astringent preparations may constipate, and Sushruta says the unripe fruit "produces Vayu". The burn, sore, urinary and diarrhoea uses above are conditions needing medical care, and none of them is advice. A burn must not be dressed with bark and ghee at home, and the human-cranium preparation recorded in the footnote to Sutra ch.12 is history only, is not a remedy, and must not be reproduced; human remains are legally and ethically protected. Do not use in pregnancy.

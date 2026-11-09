@@ -69,6 +69,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 **Practitioner's note.** A cultivator uses sandalwood as a **cooling and quieting aromatic** — paste on hot skin or brow, diluted oil or incense for a restless mind before meditation or devotion — and its most loaded role is genuinely spiritual: the *chandana* of temple and *tilaka*. But that is **devotional practice, not an attested vital-cultivation status** in any of the tagged materia-medica traditions, and the cooling (SS) versus warming-qi (SBJ) readings must be kept apart, never merged. Given the species' Vulnerable status, the honest practitioner's first act is to verify authentic, cultivated (not wild-stripped) source. Note for the ATTESTATION_QUEUE: the DMM, EP and AT tags are chronologically/philologically doubtful for *S. album* (a post-Dioscoridean trade aromatic with no secure Egyptian or Assyrian identification) and should be reviewed for removal or down-grading.
 
 *[1 paragraph(s) removed 2026-07-18 — tag withdrawn per attestation ruling; see spine notes.]*
+### Functional–Anatomical Correlate
+
+The entry's Ayurvedic account places sandalwood (chandana) as a pitta-pacifying, cooling agent acting on the skin and the urinary tract: a paste applied to hot, inflamed or irritated skin, and internal use for burning, inflammatory urinary complaints such as cystitis. In Chinese Medicine, Tan Xiang is an acrid, warm, aromatic qi-mover entering the Spleen, Stomach, Heart and Lung, used for cold-type chest and epigastric pain, so the entry records that the two traditions diverge in temperature and does not reconcile them. The fragrance is also said to calm the spirit (shen) and the restless mind, the basis of its meditative use. Tibetan medicine, per the entry, uses white sandalwood against heat and fever. The entry marks the urinary, clinical and santalol antimicrobial claims as needing verification.
+
 ### Contraindications
 
 - **Kidney disease.** Internal use cautioned in renal disease (the urinary-irritation concern with concentrated oil). [USER: verify.]

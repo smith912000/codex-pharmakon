@@ -61,6 +61,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is an astringent oak fruit placed with the anti-diarrhoeals, with no preparation and no dose. The abstentive answer is the honest one: nothing here supports gathering or taking it.
 
+### Functional–Anatomical Correlate
+
+The Tibetan rGyud-bzhi places this drug in the astringent taste group and in the class of medicines that halt diarrhoea. Clark's text names it, with Bael fruit, Schizandra, pine root and acorn, as halting all types of hot and cold diarrhoea, so the system it acts on is the bowel, the lower digestive tract. The hot and cold diarrhoea are the text's own categories and not modern diagnoses, so the modern term given here marks only where the claim sits. The Men-Tsee-Khang 2011 edition gives the same taste group and class, and the entry lists no other organ, tissue or channel for it. The leaf, thorns, fruit and resin in Clark's square brackets belong to the commentary layer and are not used to map any system. The botanical identity is open, and the sources give no constituent, part used, preparation or dose. Persistent or bloody diarrhoea needs medical care, as the entry itself notes.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Astringent, tannin-rich plant material can constipate and irritate the stomach (a general fact about the class and not a finding of the text). Diarrhoea that is bloody, prolonged or in a child needs medical care and not an astringent. No preparation or dose is given, and no plant should be gathered or used on the strength of this entry. No conservation information and no safety information for pregnancy were read. [USER: verify]

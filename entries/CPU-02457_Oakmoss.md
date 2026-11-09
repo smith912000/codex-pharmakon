@@ -46,6 +46,10 @@ Lichens produce characteristic secondary compounds, among them usnic acid in *Us
 
 **Practitioner's note.** Nothing is asked of a cultivator here. In the *Canon* this is a gentle outer and inner drug for swellings and slack flesh. If anyone handles lichen today, the real practice is identification (host tree, colour, scent), since Avicenna's own quotation from Dioscorides ranks it by host tree and scent.
 
+### Functional–Anatomical Correlate
+
+Avicenna's Canon places oakmoss in the skin and flesh, the joints, the head and eye, the chest, stomach and liver, and the womb. Its actions are astringent, dissolving and softening. The oak kind is said to open obstructions and brace slack flesh. Applied as a paint it calms hot swellings and dissolves hard lumps, and in oil or decoction it dissolves joint stiffness. Steeped in wine it makes the drinker sleep, and it is said to clear the sight. For the chest it is useful in palpitation; for the stomach it stops vomiting, strengthens the stomach and removes its wind, and it helps pain of a weak liver. For the womb it opens obstructions, and sitting in its water helps womb pain and moves the menses. Its temperament is slightly cold tending to tepid with moderate astringency, although some hold it hot in the first degree and dry in the second. The Canon makes no statement about the vital spirit or the innate heat.
+
 ### Contraindications
 
 - **Allergy.** Oakmoss extracts are well-known skin sensitisers; patch caution applies.

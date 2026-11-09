@@ -83,6 +83,10 @@ European folk practice treats the Wayfaring Tree as **cooling and astringent** â
 
 **Practitioner's note.** Nothing. Neither stream gives this shrub a cultivation role; it is a hedgerow astringent of European folk use at most.
 
+### Functionalâ€“Anatomical Correlate
+
+The entry maps the Wayfaring Tree onto the oral and mucosal lining, where bark and leaf tannins are used as a gargle or mouthwash, and onto bleeding or lax tissue, where it is used as a styptic. European folk practice classes it as cooling and astringent, a label the entry says is inferred from its astringent use rather than quoted from a classical text. Its astringency is attributed to tannins, a chemical-class inference with no species-specific clinical trial. Antioxidant activity is shown only in vitro for leaf and branch extracts, and cholinesterase inhibition is weak. The entry explicitly denies the antispasmodic and uterine action that belongs to the congeners V. opulus and V. prunifolium, and names no smooth-muscle target for this shrub. The raw fruit is mildly toxic or emetic and is not to be eaten. Internally, high tannin loads may irritate the gut and impair iron absorption, and no internal dose is established.
+
 ### Contraindications
 
 - **Raw fruit is mildly toxic / emetic.** The genus contains cyanogenic and other irritant/toxic constituents in unripe or raw fruit; do not eat raw berries.

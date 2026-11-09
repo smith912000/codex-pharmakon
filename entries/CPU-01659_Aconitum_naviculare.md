@@ -47,6 +47,10 @@ Aconite alkaloids are generally known to be potent cardiac and neurological toxi
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a fever, bile and poison drug in the Tibetan texts, from a genus in which one named type is called highly toxic, and nothing more can be said from them. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The root-text line, outside Clark's brackets, says the white aconite cures infectious fever with poisoning and bile fever. Those are fevers and bile disorders, and the text names no organ for them. The bracketed commentary calls the white type bitter-tasting and poison-neutralising, and it gives it no power. Clark's compounding chapter lists the white aconite among the bile-disorder, infectious-fever and poison-neutralising medicines. The Men-Tsee-Khang text says it cures contagious diseases, poisoning and hot disorders associated with tripa disorders, and lists it among bitter-tasting substances. Nothing read names a liver, blood, nerve or digestive part. Aconites are generally known to be deadly poisons, and the identity is uncertain between three binomials, so no plant can be tied to these correlates.
+
 ### Contraindications
 
 The only warning in the lines read is Clark's bracketed statement on this entry: "The black type is highly toxic" (line 965). No statement says the white type is safe. Aconites are generally known to be deadly poisons and must not be gathered or taken on the strength of this entry; the botanical identity is unsettled. No safety information for pregnancy was read. [USER: verify]

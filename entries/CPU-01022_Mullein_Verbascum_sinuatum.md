@@ -68,6 +68,10 @@ The anti-inflammatory half of the demulcent doctrine is the best-supported. Acco
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps the wavy-leaved mullein onto the respiratory mucosa, the pharynx and bronchi, along with inflamed skin and the ear. In Unani terms, under Avicenna's cold and moist humoral frame with the degree left for verification, the leaf and flower are mulattif, softening and cooling, against a hot, dry, barking cough and a raw membrane. Dioscorides places the leaves against cough, hoarseness and inflamed passages, and as a poultice for eye, skin and mucosal irritation. The cough-soothing action is attributed to a mucilage film over the mucosa, while verbascoside and iridoids are described as anti-inflammatory, with a Verbascum leaf extract reported to reduce inflammatory markers in cell models. The entry grades the cough claim as weak, since no human antitussive trial of this species was found. Saponins, concentrated in the seed and piscicidal, act on fish gill membranes and are excluded from internal use. The Assyrian attribution is group-level only.
+
 ### Contraindications
 
 - **Fine leaf hairs are throat-irritant** — always strain infusions through fine cloth; the unstrained "hairy" tea can worsen the very cough it is meant to soothe.

@@ -43,6 +43,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. Its uses are a catalogue of lung, kidney, bowel and wound remedies with no stated amounts, so it is history and not a practice. The cross-reference to a different chapter under the same suggested name is itself a reminder that the identification is not settled.
 
+### Functional–Anatomical Correlate
+
+Dioscorides’ chapter 4-9 names the lungs, kidneys, bowels, uterus, throat, skin and wounds as the sites of this sweet-smelling rock plant’s action, in the text’s own terms. Taken boiled in honey water it is said to clear “vile stuff from the lungs” (the respiratory passages). Given in water it is used for those who spit blood and for inflammation in the kidneys. Boiled in wine it is drunk for dysentery (the bowel) and for women’s excessive bloody menstrual discharges (the uterine bleed). Boiled with vinegar and honey it is given for convulsions and hernias. Chewed, it quenches thirst. As a poultice it is laid on the roughness of a sore throat (pharynx), on new wounds and on vaginal hernias, and the text adds that it “joins together broken flesh” (soft-tissue repair). The chapter prints no temperament, only a sweet smell and a sweet taste for the whole plant. Because the identity is the translators’ suggestion, these are claims about an uncertain plant, not an assigned organ map.
+
 ### Contraindications
 
 Spitting blood, kidney inflammation, dysentery, convulsions and hernias are conditions that need medical care, and a home preparation must not replace it. The remedy for heavy menstrual bleeding and the poultice for vaginal hernias should not be self-treated, and no safety information for pregnancy was read. The identification rests on a translators' suggestion shared with another chapter, so no wild plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

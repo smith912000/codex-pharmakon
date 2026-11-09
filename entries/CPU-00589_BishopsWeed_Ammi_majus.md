@@ -78,6 +78,10 @@ According to PubMed: the folk-to-pharmacology lineage is directly documented —
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps Bishop's Weed to the skin, specifically to pigmented skin. Its Unani classification is hot and dry in the third degree, and it is prescribed for baras and bahaq (leucoderma and pigment loss), which in modern anatomy corresponds to loss of melanocyte function in the epidermis. The entry states the drug acts only as a photosensitiser: its furanocoumarin 8-MOP intercalates DNA and forms cross-links on UVA absorption, so the action is directed at epidermal tissue under sunlight. The Egyptian tradition pairs crushed fruit with sun exposure, and the Ayurvedic and Siddha placement is for safed daag, white spots. The named risks map onto the lens of the eye (psoralens photosensitise the lens), the liver (hepatic impairment), and the skin (burns, hyperpigmentation, and skin-cancer risk with cumulative PUVA). The entry grades the vitiligo use as established in dermatology broadly, while the anticancer cell-line signalling is preclinical only. Pregnancy and lactation are contraindicated.
+
 ### Contraindications
 
 - **Phototoxic — flag.** Concurrent sun/UV exposure with the drug on board can cause severe phototoxic burns, blistering, and hyperpigmentation.

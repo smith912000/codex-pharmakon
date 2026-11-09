@@ -88,6 +88,10 @@ According to PubMed, the cough/soothing and wound doctrines have meaningful — 
 
 ---
 
+### Functional–Anatomical Correlate
+
+Ribwort plantain acts on two surfaces in the entry: broken skin and the raw mucosa of the throat and airway. Galenic and Unani frames call it cool and dry, astringent (qabid) and anti-inflammatory, used to stop haemorrhage and fluxes, consolidate wounds and ulcers, and quiet hot coughs. Ayurvedic terms (kashaya, sheeta virya, pitta-hara, raktastambhaka, vranaropana) place the Plantago group as cooling, haemostatic, wound-healing agents for bleeding and inflamed mucosa. In modern anatomical terms the entry links tannins to tightening weeping tissue and haemostasis, the iridoids aucubin and catalpol to antimicrobial and anti-inflammatory action, and mucilage to a demulcent film over inflamed pharyngeal mucosa. Mice wound models showed better epithelialisation, vascularisation and collagen deposition with leaf-extract ointments. A syrup trial in children with cough improved cough scores, though it tested a multi-herb formula. The entry notes aucubin's poor oral bioavailability, so the local contact effect on mucosa likely does much of the work. Contact dermatitis is a stated risk for the skin.
+
 ### Contraindications
 
 - **Aucubin / iridoid & rare allergy.** Contact dermatitis and rare hypersensitivity to *Plantago* leaf are reported; discontinue on rash. Plantain pollen is allergenic (hay-fever cross-reactivity).

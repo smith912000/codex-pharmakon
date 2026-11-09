@@ -55,6 +55,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** A cultivator has one thing in this text: a pot-herb the tradition counts among wholesome foods and invalid diets, fried in ghee and rock-salt. That is a dietary note, not a practice, and the plant behind the name is a translator's pairing. Nothing here supports gathering a wild water plant.
 
+### Functional–Anatomical Correlate
+
+In the Sushruta text the herb is a pot-herb, a food in several chapters. Its one singular statement (Sutra 46) says it is easily digested, free of acid reaction, astringent, tends to subdue the three deranged bodily humours, and arrests the evacuations of the bowels. It is counted in the astringent group (Sutra 42). It appears in an ulcer patient's diet (Sutra 19), among wholesome foods (Sutra 20), among edibles said to be invigorating to eye-sight (Uttara 17), and in a haemorrhage diet (Uttara 45). The potherb group it belongs to is said to cure haemoptysis, kushtha, meha, fever, dyspnoea and cough (Sutra 46). The sites mapped are the bowels, the eyes, the lungs and airways, the skin, and the urinary tract, framed by the three doshas. The text prints no virya or vipaka for it, and no ojas, tejas or prana. The identity rests on a translator's pairing.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for the herb. The identity is open, so no plant should be gathered or eaten on the strength of this entry. A water plant growing in still or polluted water can carry bacteria and parasites; this is a general hygiene point and is not from the text. Haemorrhage and ulcer need medical care. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

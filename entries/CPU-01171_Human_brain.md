@@ -44,6 +44,10 @@ Tibetan / rGyud-bzhi (FMT): the chapter 20 line gives actions only (reduces swel
 
 **Practitioner's note.** A cultivator does nothing with this. The text lists human brain as a medicine among thirteen animal categories, with no cultivation claim and no method. It is recorded here as history only.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states two actions for human brain: it reduces swellings, and it cures lymph disorders. The Men-Tsee-Khang text gives the same swelling action and says the brain treats disorders of the chhuser, a term the entry does not define, so the lymphatic system is the only system the text names. Human brain is the last of five brains listed, the others being goat, sheep, game-animal and rabbit brain, and each has its own action. No taste, potency, post-digestive taste, humour, preparation or dose is given in the lines read. The bracketed commentary does not apply to the human-brain line, which carries no bracket.
+
 ### Contraindications
 
 - **Not a recommended practice.** This records a historical entry in a Tibetan materia medica. Nothing here is advice to obtain, handle or take human tissue.

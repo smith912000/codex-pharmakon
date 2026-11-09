@@ -58,6 +58,10 @@ The nearest adjacent evidence concerns the **plant genus rather than the concret
 
 **Practitioner's note.** Nothing cultivable here: the classic uses it as an ingredient in cough and wasting remedies. Any rejuvenating reputation rests on the compound in which it is taken, not on the substance itself.
 
+### Functional–Anatomical Correlate
+
+The entry maps Vaṃśalocana onto the respiratory tract, prāṇavaha srotas, where it is kāsahara and śvāsahara, easing cough, dry irritable cough and dyspnoea. It acts on blood and plasma, rasavaha and raktavaha srotas, as a haemostatic in rakta-pitta bleeding. Its cooling, burning-relieving (dāhapraśamana) action addresses inflamed mucosa, fever sequelae, burning sensations and thirst (tṛṣṇā). The urinary tract, mūtravaha srotas, is named, with a demulcent, soothing action on respiratory and urinary mucosa. For the tissues, the entry names kṣaya (wasting) and general debility, with balya and rasāyana restorative action in convalescence. Its Unani and folk accounts add a cooling cardiotonic and haemostatic role and a nutritive tonic for children and convalescents. Doṣa action is Pitta- and Kapha-pacifying, Vāta-soothing in convalescence. Modern evidence for the concretion itself is absent; the entry grades it very low and traditional-only, and its silica chemistry is plausible but unproven.
+
 ### Contraindications
 
 Generally regarded as benign in classical use. Cooling and drying potency means caution in strong Kapha-cold, congestive states and in low agni (weak digestion) if used alone and in excess. Commercial adulteration/substitution is common — sourcing integrity matters. Not a substitute for medical treatment of fever, haemoptysis, or respiratory disease; bleeding and persistent cough require diagnosis. Pregnancy/lactation and paediatric use: `[USER: verify with practitioner]`.

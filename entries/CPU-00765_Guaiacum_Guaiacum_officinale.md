@@ -68,6 +68,10 @@ According to PubMed, direct clinical evidence for therapeutic guaiacum is sparse
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, guaiacum is a hot, dry, resinous agent that the Galenic and Unani texts direct at cold, damp, chronic conditions of the joints and skin, aiming to open obstructions and resolve cold phlegmatic swellings. Its diaphoretic action is a sweating effect on the skin, and the Mesoamerican use targeted skin eruptions and ulcers. In modern terms the entry cites lignan-mediated suppression of nitric-oxide and inflammatory signalling in rat liver cells in vitro, which it links to the traditional rheumatic and cutaneous reputation. The resin is a gastrointestinal irritant affecting the stomach and bowel, causing nausea and gastric burning, and it is a skin sensitiser that can cause contact dermatitis. The entry states that the antisyphilitic reputation was overstated and that there are no robust human efficacy trials. Pregnancy and lactation are flagged for avoidance.
+
 ### Contraindications
 
 - **⚠️ Conservation — CITES Appendix II.** *Guaiacum officinale* is listed on **CITES Appendix II**, and the genus *Guaiacum* is protected; the species is threatened by overexploitation for its dense timber and resin. Any sourcing must be legal, documented and sustainable — this is an ethical and legal contraindication to casual use, not merely a clinical one.

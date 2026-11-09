@@ -42,6 +42,10 @@ General, well-established facts only. Seawater is about 3.5 per cent dissolved s
 
 **Practitioner's note.** Nothing here is a practice for a cultivator beyond what any bather already knows: a warm sea or salt-water bath, if the water is clean and the skin intact, is the use closest to what the chapter describes. The chapter's purge and suppository are not a regimen to repeat, and the sources retrieved give no dose or duration for them. The useful habit in the text is its care about how the water is kept and what follows a purge (broth for the hunger it leaves). No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides states seawater's qualities as hot and sharp, bad for the stomach, troubling the bowels and expelling phlegm, so the claimed sites are the stomach, the bowels and the phlegmatic humour. Warm on hot cloths or plasters it is said to extract and dissolve, and it is named for disorders of the nerves and for chilblains before ulceration. As a wash it is said to help parasitic skin diseases, itches, lichen, nits and breasts swollen with milk. Applied hot it dissolves bruises, and it is named for bites from scorpions, harvest spiders and snakes. A hot bath is said to help long-lasting disorders of the body and the strength, and steam to ease dropsy, headaches and hardness of hearing. As a suppository or purge it acts on the lower bowel, and hunger pangs after the purge are eased by hen or fish broth. The mapped sites are the stomach, bowels, nerves, skin, breasts, ears, head and the whole body in a bath.
+
 ### Contraindications
 
 - **Drinking seawater:** dehydrates; contraindicated in kidney disease, heart disease, high blood pressure, pregnancy, in children and in anyone already short of fluid.

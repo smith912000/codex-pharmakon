@@ -40,6 +40,10 @@ General, well-established facts only. Eating an animal's lung does not repair a 
 
 **Practitioner's note.** A cultivator does nothing with this. It is a list entry for an organ of a small wild bird, with no preparation and no dose; blood in the cough and a chest wound need a clinician. The honest use of the entry is as a record of what the Tantra says.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that the lungs of a swallow, a small bird, heal punctured lungs in Clark's wording, or stop coughing of blood in Men-Tsee-Khang's. The one organ the text names is the lung, and the one action is healing of injury or bleeding there. The Tantra's general line on offal says that the lungs, heart, liver, spleen and kidneys each cure disorders of that same organ, and this entry is the lung case of that rule. No humour, taste, potency or temperament is printed for the lung, and the sweet post-digestive taste that Clark gives meats in general is not applied to an organ of the bird. The lung is the organ of breathing, and the coughing of blood and the punctured lung are the conditions the text names. Nothing further is mapped, and the lines do not say how the lung of one bird would act in the lung of another person.
+
 ### Contraindications
 
 - **Emergency conditions:** coughing blood and chest injury need urgent medical care; do not rely on this line.

@@ -34,6 +34,10 @@ No preparation is given in the sources retrieved, other than the division of the
 
 **Practitioner's note.** Nothing here for a cultivator. The row names a venomous snake; the texts on disk name a harmless snake (*Elaphe dione*) and give its parts for external and internal complaints. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Tibetan text (Explanatory Tantra ch.20, as Clark prints it) names a snake, not a krait, and its parts act on several body systems. Snake meat dissolves growths and tumours, clears obstruction, dispels urinary retention and benefits the eyes. In the bracketed commentary it also helps painful fevers in children, lung disease, leprosy, infected wounds and bone warts. Snake fat expels foreign bodies such as bullets or shrapnel, and in the commentary cures anterior transposition of the calf muscle. Snake skin cures leucoderma and glang.shu, a skin disease, and in the commentary is beneficial against bhuta spirits. Mapped onto anatomy, these claims touch the urinary passage, the eye, the lung, the skin and its pigment, the bone surface, the calf muscle and wound tissue. The entry prints no taste, potency, humour or post-digestive taste for snake parts, and no cultivation status is attested; the text treats them as therapies for complaints.
+
 ### Contraindications
 
 The banded krait is dangerously venomous; handling the live animal, its venom or its raw tissues is hazardous, and a bite is a medical emergency. Snake products can carry bacteria and parasites. Wild snakes are protected or restricted in many places, and the legal and conservation status of *Bungarus multicinctus* has not been checked here. [USER: verify] The identification is uncertain, so a krait cannot be assumed to be the animal the Tibetan text meant.

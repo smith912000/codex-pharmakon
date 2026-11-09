@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. The Tibetan name behind the binomial is a "five roots" drug that the Men-Tsee-Khang text says prolongs life, and the link to *Asparagus adscendens* rests on a column position. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: The Men-Tsee-Khang text, under the name Nye shing, places the drug in the sweet-tasting group (line 3204) and among the five roots (line 1144). It says the drug prolongs life and cures chhuser disorders (line 3502). The entry does not explain chhuser disorders, so no organ or tissue can be drawn from that phrase. Clark 1995 lists three other binomials for nye.shing, Asparagus filicinus, Asparagus racemosus and Polygonatum falcatum, and does not print Asparagus adscendens at all. Its xiphoid process clause belongs to the filicinus row, and its longevity clause to racemosus, so neither is mapped here. The bitter and astringent tastes Clark prints are commentary and disagree with the sweet group. The Codex names no organ, tissue, channel or mechanism for this binomial, and the link to it rests on a column position in the glossary.
+
 ### Contraindications
 
 The sources read print no warning. The identity rests on a column position and the species is not certain, so no plant should be gathered or used on the strength of this entry. *Chhuser* disorders need medical care. No safety information for pregnancy was read. [USER: verify]

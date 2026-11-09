@@ -45,6 +45,10 @@ No study of the wood was opened. No clinical studies were retrieved for this ent
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this wood in the sense of the spec. What it gives a reader is a sound example of judging a material by looking, tasting and burning it, and of knowing the usual fakes. Its medical uses are eye and skin remedies with no amounts, so they are history and not a practice.
 
+### Functional–Anatomical Correlate
+
+The chapter maps to the eyes and skin. Scrapings steeped in wine or water and made into eye salves or suppositories are said to clean away what darkens the pupils and to help old discharges and pustules, and burnt wood washed like burnt lead is good for itching eyes and dry inflammation. The Unani entry, drawing on Avicenna's Canon, classes ebony as hot and dry in the second degree and as attenuating and cleansing, and says some hold it to quench blood heat. Its chief organ is the eye: it clears film and whiteness, and burnt sawdust helps chronic eye ulcers, dry ophthalmia, eye scab and chronic flux. Under the excretory organs it is said to break up kidney stone and to dissolve belly flatulence. The Canon gives no account of innate heat or radical moisture, and the translators' two candidate plants are not reconciled.
+
 ### Contraindications
 
 Eye inflammation, itching and anything darkening the pupils need medical assessment, and eye preparations made at home from scraped wood are not safe. Wood dust is a general irritant. Ebony timbers may be protected or traded under restrictions in many places. The identification rests on a translators' suggestion of two different plants, so no wood should be obtained or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

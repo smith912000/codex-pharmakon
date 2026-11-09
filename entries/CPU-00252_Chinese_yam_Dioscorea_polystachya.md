@@ -86,6 +86,10 @@ This is firmly a `[GENERAL]` herb. Its food-grade safety profile, gentle action,
 
 **Practitioner's note.** One of the few drugs here with a recorded long-term, life-nourishing grade in the classic itself. A cultivator may treat it as a gentle, food-like drug taken over time, and should not read anything further into the classic than the passage above.
 
+### Functional–Anatomical Correlate
+
+The entry assigns Chinese yam to three channels at once: the Spleen (digestion and Qi transformation), the Lung (Qi, the defensive exterior and fluid distribution) and the Kidney (Essence, Jing and constitution). Its classical functions are to strengthen the Spleen and Stomach, augment Lung Qi and Yin, and consolidate Kidney Essence. Specific indications are chronic diarrhoea from Spleen deficiency, chronic cough from Lung deficiency, and the thirst-and-wasting of Xiao Ke. The modern correlates the entry gives concern the gut and airway linings: mucilage is demulcent to the Lung and gut lining, digestive enzymes such as amylase support nutrient extraction, and allantoin is cited for mucosal soothing. Polysaccharides are reported to lower blood glucose in animal models. The entry warns against use in acute fullness, food stagnation or dampness excess, and it states that hormonal effects from eating the yam are not supported.
+
 ### Contraindications
 
 - **Excess/stagnation patterns:** because Shān Yào is a tonic and mildly astringent, it is contraindicated where there is acute fullness, abdominal distension from food stagnation, or active dampness/phlegm excess — tonifying an excess pattern aggravates it.

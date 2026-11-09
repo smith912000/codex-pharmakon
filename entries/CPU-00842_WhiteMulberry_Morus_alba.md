@@ -69,6 +69,10 @@ According to PubMed: Kimura et al. (2007, *J Agric Food Chem*) showed in healthy
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry divides the tree into two organ-directed actions. The leaf, cool and sweet-bitter in Chinese terms, is said to disperse wind-heat and clear the eyes, cooling the upper body through the Lung and Liver channels. Its principal modern-mapped action is on the small intestine: the iminosugar 1-deoxynojirimycin inhibits intestinal alpha-glucosidase, slowing carbohydrate breakdown and blunting the postprandial glucose and insulin rise. The fruit, sweet and cool, is a Heart, Liver and Kidney nourisher that generates fluids and moistens dryness, relieving thirst and wasting-thirst (xiao ke). In Ayurvedic terms the fruit pacifies Pitta and Vata and soothes a dry throat and gut. Adverse effects are bloating, flatulence and loose stools, from undigested carbohydrate reaching the colon. The entry also flags caution with glucose-lowering drugs.
+
 ### Contraindications
 
 - **⚠️ Hypoglycaemia risk with antidiabetic drugs.** Because mulberry leaf actively lowers postprandial (and modestly fasting) glucose, combining it with insulin, sulfonylureas, meglitinides, acarbose or other glucose-lowering agents can produce **additive hypoglycaemia**. Anyone on antidiabetic medication should use it only with clinician oversight and glucose monitoring, and doses may need adjustment. Watch for shakiness, sweating, confusion.

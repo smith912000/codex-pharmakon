@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a bitter, cool-powered medicine for fevers and poisoning in the Tibetan texts and nothing more can be said from them. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+In the Tibetan texts, the drug lug.chhung is recorded as acting on fever, phlegm, the channels and wounds. Clark's materia medica says it cures infectious fevers, poisoning, brown phlegm and channel fevers, and that it heals infected wounds. The Men-Tsee-Khang text adds epidemic poisoning and hot disorder of the channels. The text's 'channels' and 'brown phlegm' have no modern anatomical referent in the entry, which gives none, so they are reported in the tradition's own terms only. The plant is described as slightly malodorous, bitter in taste and cool in power, and the text says it disperses spirits. The three binomials Clark prints mean the botanical identity is uncertain, so this entry stands for the Tibetan drug and not one species. The Codex records these as the texts' claims and gives no protocol for fever or poisoning, which need medical care.
+
 ### Contraindications
 
 The sources read print no warning. The Tibetan texts record the drug for poisoning and infectious fevers, which need medical care, and a home preparation must not replace it. The botanical identity is uncertain (three binomials in Clark), so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read.

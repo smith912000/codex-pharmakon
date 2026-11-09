@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing here for a cultivator. The tradition is represented by one list row, and no text read says what was done with the plant or why. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names one Assyrian list row (sisnu / samsisanu) for flowering rush, Butomus umbellatus, and says the plant is attested on Assyrian tablets. It names no tablet, region, period, preparation, use or complaint, so no body system, organ or tissue is attributed to it. The only tradition-level frame stated is that Assyrian medicine classified illness by causal agency, and no classification of this plant by agency is attested in the sources retrieved. The constituents were not read. The attestation rests on a list row whose cited source, Thompson 1949, is not on disk, and nothing on disk could confirm the identification. Other traditions' name lists were searched and gave no locus for this plant. The entry makes no anatomical claim for it, and no organ mapping should be added on its behalf.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, an unidentified plant preparation should not be taken in pregnancy, while breastfeeding, by children, or alongside prescription medicines without medical advice. This is general caution and is not found in the row. [USER: verify]

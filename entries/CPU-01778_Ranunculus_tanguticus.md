@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a drug for cold tumours and swellings in short sentences, with no preparation and no dose, and the Latin name is a positional guess among at least three. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Clark's root-text line says the drug "removes cold tumors, diphtheria and quinsy, etc., and dries oedema fluid". The Men-Tsee-Khang text says it "heals necrosis, generates heat and drains chhuser", with the same efficacy as Subka. On the entry's claims the drug acts on tumours and swellings, on the throat through diphtheria and quinsy, on oedema fluid in the tissues, and on necrosis of tissue. The Men-Tsee-Khang text places it in the group for cold disorders associated with baekan, a humoral term the editors leave untranslated. Clark's commentary describes leaves and flowers and names no organ. In modern anatomy the throat is the pharynx and tonsils, and oedema and necrosis are tissue states. These conditions need medical care, so this maps the texts' claims and is not a recommendation.
+
 ### Contraindications
 
 The sources read print no warning for this drug. It is a general fact that many buttercup-family plants blister skin on contact and are toxic if eaten fresh, but that is not shown for this species in the lines read. Diphtheria, quinsy and tumours need medical care, the identity is open, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

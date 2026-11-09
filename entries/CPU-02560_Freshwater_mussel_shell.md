@@ -46,6 +46,10 @@ Calcium carbonate shell powder is an antacid and calcium source; that is a gener
 
 **Practitioner's note.** There is nothing here for a cultivator. The classic records a lower-class shell, reported toxic by the Wu Pu layer, with no dose or course. Do nothing with it.
 
+### Functional–Anatomical Correlate
+
+The Shennong paragraph names the lower genital tract through leaking below (lou xia) with red and white discharge, which maps to abnormal vaginal discharge, and cold and heat (han re). It names urinary stone (shi lin). It also says the shell kills birds, beasts and thieving rats (sha qin shou, zei shu), a poisoning use that maps to no organ of the human body. The energetic frame is pungent and slightly cold (wei xin, wei han). The Wu Pu layer gives salty and toxic, which conflicts, and it is the only place where a toxicity statement appears. The animal is not fixed by the text, so the soft body of the mollusc cannot be mapped. Calcium carbonate, the mineral of the shell, is a general fact, and its use as an antacid is not a finding about this shell. Abnormal discharge and urinary stone need medical care, and the shell is not recommended.
+
 ### Contraindications
 
 - **Toxicity.** The Wu Pu layer reports the shell as toxic ("greatly toxic" for Bian Que). Do not take it. Shellfish bodies can also carry bacteria and algal toxins.

@@ -44,6 +44,10 @@ General, well-established facts only. Raw or lightly cooked eggs may carry *Salm
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The ostrich is the source of an egg and an oil used as a base in a handful of remedies for skin, head, ulcer and eye, and the Codex does not recommend them. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Ebers recipes, as Bryan renders them, apply ostrich egg and ostrich oil to several body regions. A face-cream of egg, bile and fresh milk is washed on the face, aimed at a complexion lost with youth, so the skin is the system named. The headache poultices act on the head. The stinking ulcer and the excessive granulation unguents act on open soft tissue, with ulcer and granulation as the named conditions. The pterygium recipe is applied to the Eyes, placing it on the eye. The text gives no humoral or energetic classification of the ostrich, its egg or its oil, and the Ebers material is organised by complaint rather than by organ system. No spirit, cultivation or rejuvenation role is attached to the ostrich. The Codex records these uses as history and does not recommend applying egg or animal fat to ulcers or the eye.
+
 ### Contraindications
 
 - **Eyes:** do not apply eggs, animal fats or any of the mixtures above to the eye; the lead, saltpetre and sulphur compounds in the pterygium recipe are harmful there.

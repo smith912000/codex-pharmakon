@@ -47,6 +47,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The honest use of the chapter is as an exercise in recognising a plant by its square stalk, whorls and seed, and as a reminder that a plant can carry many names for different people. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The entry maps the chapter’s use onto the skin and the wound, with inflammation as a second target. The leaves, applied, are said to “close open cuts and sore wounds, and reduce inflammation”, which places the action in the skin and the underlying soft tissue. For the stalks the text gives a taste, “not unpleasant to the taste, and somewhat gently astringent”, and the entry records astringency without linking it to any action. The square stalks and round whorls are the chapter’s marks for recognition, and the entry’s modern note is only that the mint family has square stems. No humour, dosha or qi term appears, and the chapter prints no hot, cold, moist or dry quality. The leaves are described as “smaller and sharp”, which the entry does not read as a quality. The list of other names is not a body-system claim. Because the identity rests on a translators’ suggestion covering several species, the mapping is to the text’s own report.
+
 ### Contraindications
 
 The chapter states no caution. The identity of the plant rests on a translators' suggestion that lists several species, and three different plants share the name *sideritis* in the text, so no wild plant should be gathered or applied to a wound on the strength of this entry. Open wounds and inflammation need medical assessment, and the risk of infection and tetanus from a soiled plant dressing on an open wound is real. None of the traditional uses above is advice.

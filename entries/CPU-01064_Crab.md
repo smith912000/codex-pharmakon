@@ -48,6 +48,10 @@ General facts only. Crustacean shell is chitin and calcium carbonate; shellfish 
 
 **Practitioner's note.** Nothing to do. Across the three texts the crab is a remedy for a complaint, and two of the three lines are one-liners. A cultivator would use the chapter, if at all, to see how Dioscorides graded two kinds of crab and matched form to complaint, and then leave it on the page.
 
+### Functional–Anatomical Correlate
+
+Crab maps to a few sites across the three texts. Dioscorides (2-12) uses crab ash in wine against a mad-dog bite, which the entry flags as rabies and not a treatment; boiled honey for cracks in the feet and perineum, chilblains and corneal disease; raw crab with ass's milk for snakebite and harvest-spider and scorpion strikes; and boiled crab with broth for consumption, or wasting. The Tibetan texts place crab on the urinary tract, to dispel urinary retention (Clark) or cure obstruction of urine (Men-Tsee-Khang). The Divine Farmer's Classic calls it salty and cold, and says it governs evil qi in the chest and heat-bound pain, with a swelling whose site is illegible in this transcription. Bryan's Ebers gives only a hair remedy applied to the outside of the head for grey hair. The entry assigns crab no humour, temperament or channel.
+
 ### Contraindications
 
 - **Shellfish allergy.** Crab can cause severe allergic reactions including anaphylaxis.

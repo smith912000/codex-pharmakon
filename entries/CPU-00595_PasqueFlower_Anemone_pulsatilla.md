@@ -109,6 +109,10 @@ Cool and dry. Dispersing rather than tonifying — the old readings place it as 
 
 **Practitioner's note.** Nothing to cultivate in the inner sense. The lasting discipline is preparative: the dried herb only, in small doses, never the fresh plant, and not as a course taken for its own sake.
 
+### Functional–Anatomical Correlate
+
+The entry's own Western herbal tradition maps Pasque Flower to the nervous system, the reproductive tract, the mucous membranes and the eyes, as a relaxant for spasm and a settler of a tearful, changeable state, and cites eye complaints, nervous states and menstrual or spasmodic complaints. Its energetics are cool and dry and dispersing, but the entry says the fresh plant is hot and corrosive, and drying creates the cool quality. Modern anatomy in the entry concerns the mucosa and skin: fresh tissue releases protoanemonin on crushing, a vesicant that blisters skin and mucosa and causes gastrointestinal injury on ingestion, with renal irritation for the class. Dried material yields anemonin, which in cell and animal models shows anti-inflammatory action on the colon and intestinal barrier. The entry grades the eye, nervine, mood and menstrual claims as no evidence for this species, and its anti-inflammatory data are for the molecule, not P. vulgaris. The homeopathic constitutional picture is a separate line and is not mapped here.
+
 ### Contraindications
 
 ⚠️ **TOXIC FRESH — PROTOANEMONIN VESICANT.**

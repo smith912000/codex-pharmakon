@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this tree. It is a hot, dry drug for cold-type disorders in one short sentence in each edition, one of four candidate species for a Tibetan name, with no preparation and no dose. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names no organ, tissue or body system. The root-text layer, as Clark's marks stand, says the drug cures "wind-phlegm combinations" and "cold lymph disorders". The commentary, in square brackets, adds that it dispels tumours and that its root is beneficial in gynaecological disorders. The Men-Tsee-Khang text gives one line: Doen shing cures the combined disorder of baekan and loong, and chhuser disorders associated with cold disorders. Phlegm, wind, lymph, baekan, loong and chhuser are the texts' own humoral and Tibetan terms, and the Codex does not equate them with modern anatomy. Only "lymph" and "gynaecological" point toward a bodily system, and the entry does not say which tissue or organ either one means. Tumours are a clinical term, not a site. The entry does not settle which of four pine species the name refers to.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The commentary calls it hot in taste, and the texts give it for cold-type disorders; no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Tumours and gynaecological disorders need medical care. Pine resin and turpentine can cause skin irritation and allergic reaction. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

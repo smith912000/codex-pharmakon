@@ -42,6 +42,10 @@ General, well-established fact: silica is chemically inert and is not absorbed i
 
 **Practitioner's note.** Nothing to do. A cooling, astringent drug for bilious heat; there is no cultivation use, and the material itself is not securely identified.
 
+### Functional–Anatomical Correlate
+
+The Canon describes this drug as burnt cane roots. Its powers are astringency, expulsion and a little dissolving, with cooling greater than its other qualities, and its drying is strong. In the Canon's terms it is compound in powers, like the rose. For the head, it is said to help thrush (qulaʿ) and a state the entry marks as uncertain. For the eye, it helps hot swellings. For the chest, it strengthens the heart and helps hot palpitation and the fainting that comes from bile pouring into the stomach. For the digestive organs, it helps thirst, vomiting, inflammation and weakness of the stomach, and prevents bile from pouring into it. Under excretion, it prevents the bilious humour, and it is said to prevent acute fevers. The bamboo-silica identification is ours and does not match the burnt-root wording. Historical record only.
+
 ### Contraindications
 
 - **Identity.** Our identification (bamboo silica) rests on the name and the setting in India; the Canon's own description (burnt roots of cane) is different. [USER: verify]

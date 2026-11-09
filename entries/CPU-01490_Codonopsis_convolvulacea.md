@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a sweet-rooted medicine for fevers and colds in the Tibetan texts and nothing more can be said from them. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts name the drug snyi.wa and give it a sweet-tasting root and several effects. Clark's materia medica says the root has a predominantly sweet taste and that it improves appetite and the sense of smell, which map to the digestive tract and the olfactory system. It is also said to cure fevers of the channels and heart, which the entry gives in Tibetan terms without a modern equivalent. Jointly with lugmur it is said to cure chest fevers and the common cold, which maps to the chest and upper respiratory tract. The Men-Tsee-Khang glossary text gives the same drug the efficacy of Nyiwa and Lugmur in curing heart disorders and the common cold. No power (cool or warm) is printed. The climber has a thin green leaf and a bell-shaped flower. The botanical identity is uncertain, with two genera in Clark, so the mapping is the text's own. No clinical study was retrieved.
+
 ### Contraindications
 
 The sources read print no warning. The Tibetan texts record the drug for fevers of the heart and chest, which need medical care, and a home preparation must not replace it. The botanical identity is uncertain (two genera in Clark), so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read.

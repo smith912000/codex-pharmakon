@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a short description with one remedy for the bowel and the groin, so the honest answer is that there is nothing here to take up.
 
+### Functional–Anatomical Correlate
+
+The entry's Dioscorides claims (DMM, chapter 3-164 as printed) act on two sites. A root decoction, taken as a drink with wine or water, is said to cure dysentery, which points to the intestinal tract. The same decoction is said to cure hernias, which the entry places in the body wall and groin, where a protrusion of tissue occurs. The chapter names no organ, humour, dosha, qi or temperament for either action, and gives no taste or energetic quality for the plant. Its only bodily description concerns the leaves, stalks, flower and roots, which are not tied to any system. Modern anatomy terms apply only to the sites named: the intestines for dysentery and the abdominal wall and groin for hernia. The entry itself adds that a hernia is a mechanical condition a drink does not correct and that dysentery needs medical assessment. It does not map either condition onto a traditional organ system, and the identity of the plant rests on the translators' suggestion.
+
 ### Contraindications
 
 Chapter 3-164 prints no warning. Dysentery needs medical care and must not be left to a home decoction, and a hernia that cannot be pushed back or is painful is an emergency. The identification is only the translators' suggestion, so no plant should be gathered or used on the strength of this entry. The chapter gives no dose, and no safety information for pregnancy was read. [USER: verify]

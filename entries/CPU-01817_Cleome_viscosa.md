@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with a plant under these names. Nothing should be gathered or taken on the strength of a Latin name that the chapters do not give.
 
+### Functional–Anatomical Correlate
+
+Little to map: the Sushruta chapters retrieved do not name this plant under either Sanskrit name that the appendix pairs with it, Aditya-vaktra or Surya-varta, so the entry states no body system, organ, tissue or action. The appendix gives only the Latin Cleome viscosa, paired by position. The word Suryavarta occurs in the chapters only as the name of a head disease, and the entry does not use that passage for the plant. Adityaparnini, a different name in Chikitsa 30, is not counted. No constituent, preparation, dose, rasa, virya or vipaka is printed for the plant in the sources read, and no conservation or safety information was read.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for this plant under these names. The identity is open, so no plant should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

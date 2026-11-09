@@ -61,6 +61,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+Dioscorides (DMM) gives four parts of the land hare, each with its own use. The brain, eaten roasted or rubbed on, is good for trembling from fear and for teething, mapping to the nervous system and the teeth. The head, burnt and rubbed on with bears' grease or vinegar, is said to cure baldness, mapping to the scalp and hair follicles. The curds, taken in a drink, are reported to cause sterility, and the text also says the curds stop excessive discharges of the womb and bowels; the sterility claim is marked as hearsay. Taken as a drink with vinegar the curds act against poisons and against curdled milk in breastfeeding, and they help those with falling sickness (epilepsy). The blood rubbed on while warm cures sunspots, vitiligo and freckles, mapping to the skin. Avicenna (CM) adds that the blood of the wild hare cleans freckles, its head ash grows hair, and its roasted brain benefits tremor after illness. The entry gives no quality, preparation quantity or dose.
+
 ### Contraindications
 
 - **Zoonotic infection:** handling wild hares, their blood and brain, carries the risk of tularemia and other infections; raw or lightly cooked brain carries additional risk of infectious agents.

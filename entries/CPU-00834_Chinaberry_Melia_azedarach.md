@@ -66,6 +66,10 @@ According to PubMed: a systematic review of *Melia* limonoids (Fan et al., *Fron
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, chinaberry's bitter fruit and bark are cold and dry, purgative and vermifuge, acting on the intestines and against intestinal worms in Unani terms. In Chinese terms the fruit, chuan lian zi, is bitter and cold, entering the Liver, Stomach, Small Intestine and Bladder channels to course Liver qi and stop flank and hypogastric pain. The modern map is the presynaptic neuromuscular junction: toosendanin is described as an irreversible neuromuscular blocker, and the toxidrome reaches the nervous system, heart and liver. In Ayurveda, as mahānimba, it is a bitter, cold, sharp antiparasitic and skin drug, with rasa tikta, vīrya śīta and vipāka kaṭu, used mainly on the skin. Its Galenic and Dioscoridean use is external for parasitic skin and scalp, with a corrected, marginal internal role. Toxicity is recorded across the body: gastrointestinal colic and bloody diarrhoea, cardiac bradycardia and arrhythmia, hepatotoxicity, and, in children, fatal berry ingestion.
+
 ### Contraindications
 
 ⚠️ **SEVERE HAZARD — POTENTIALLY LETHAL PLANT. FLAG IN FULL.**

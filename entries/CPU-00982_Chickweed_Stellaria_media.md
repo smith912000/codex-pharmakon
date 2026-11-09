@@ -88,6 +88,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Chickweed is mapped to the skin surface. Galenic, Unani and Chinese readings all place it on hot, inflamed, itching and weeping skin: boils, folliculitis, an adjunct in eczema, and hot swellings, with inflamed eyes in the Galenic account. Chinese medicine gives it Liver and Large Intestine channels, with clearing heat, cooling the blood and dispersing abscess. Mucilage is mapped to a demulcent, film-forming surface that reduces water loss from the skin and damps the mechanical part of itch. Saponins are mapped to surfactant action that loosens the thickened matter of boils and crusted plaques. Phenolic and flavonoid fractions supply the anti-inflammatory component. Internal 'blood cooling' is the weakest mapping, linked to vitamin C and flavonoids. The entry limits use to intact or superficially abraded skin, because saponins are membrane-active and can haemolyse broken skin. Internal use is not recommended: saponins irritate the gastric and intestinal mucosa, and nitrate accumulates in the plant. No clinical trial supports any indication.
+
 ### Contraindications
 
 - **Saponin gastrointestinal irritation.** Chickweed's saponins are the same molecules responsible for its useful surfactant action topically. Eaten in quantity, they irritate gastric and intestinal mucosa and can cause nausea, cramping, and diarrhoea. **Culinary garnish quantities only; do not consume by the bowlful, and do not use as a "detox" green in bulk.**

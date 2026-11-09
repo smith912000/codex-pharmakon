@@ -54,6 +54,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+Little to map: the sources read name yellow ochre only in the spine row and in two Codex project files that were not used as authority. Bryan's text on disk has no yellow earth in its mineral list and no prescription that names one, so no organ, tissue, system or traditional quality is claimed for it. One unverified project note places yellow ochre in a paste for a tooth, with malachite, fresh dates and honey, but the entry does not treat that note as a verified site, and the sources give no other body reference. The spine row's hydrated iron oxide label describes the pigment and is not a claimed action. No Assyrian, Greek, Chinese, Sanskrit, Tibetan or Unani text on disk names a yellow earth as acting on any part of the body. The entry records a gap, so nothing further can be mapped.
+
 ### Contraindications
 
 - **Unspecified earth:** natural earths can carry heavy metals and other contaminants; nothing here defines a safe material.

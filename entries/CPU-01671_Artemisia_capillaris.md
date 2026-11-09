@@ -49,6 +49,10 @@ The entry's own words go further than the class heading: it says "It is nontoxic
 
 **Practitioner's note.** A middle-class entry in the Chinese scheme, whose class the preface says is weighed before use and used to control disease. The entry itself says "nontoxic" and carries a long-taking sentence, with no preparation, no quantity and no duration, and the Codex has no dose and no clinical record to set beside it. Jaundice is a condition for medical assessment and not for self-treatment with a classic's herb. Nothing here supports taking this herb as a cultivation practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the Shennong text names wind, damp, cold, and hot evil qi, and bound heat jaundice, as the conditions it treats. Protracted taking, it says, may make the body light, boost the qi and slow aging. The entry gives its taste as bitter and its nature as nontoxic, and it names no organ, no meridian and no system of later Chinese medicine. Jaundice is the only named condition that shows in the body, and the entry does not say which organ it concerns. The translator's note, which is not the classic, discusses yin and yang jaundice and names combinations with other herbs; the Codex keeps those out of this entry's claims. The class heading is a running heading and not a heading printed for this entry alone. No preparation, dose or clinical study is given.
+
 ### Contraindications
 
 The Shennong entry says "It is nontoxic" and prints no warning. The preface says of the middle class generally that it "may or may not be toxic" and calls for weighing before use. The identity rests on a translator's Latin name, so no plant should be gathered or used on the strength of this entry. Jaundice needs medical care. No safety information for pregnancy was read. [USER: verify]

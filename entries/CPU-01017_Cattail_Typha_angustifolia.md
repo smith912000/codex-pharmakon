@@ -77,6 +77,10 @@ The **anti-stasis / analgesic** (raw) direction is supported by effect-directed 
 
 ---
 
+### Functional–Anatomical Correlate
+
+Cattail's pollen maps onto the blood and the vessels. In the Chinese frame raw Pu Huang invigorates blood and dispels stasis, aimed at stuck blood in the lower burner, including dysmenorrhoea, post-partum abdominal pain and painful urinary dribbling. Charred pollen stops bleeding, in the uterus, the urine and the stomach. The entry ties the raw fraction's flavonoid glycosides to anti-nociceptive and anti-inflammatory effects, including inhibition of the NLRP3 inflammasome in macrophages, and ties charring to a change in thrombin activity, pointing to a clotting effect. Typhaneoside also acts on presynaptic glutamate release in cortical nerve terminals, an off-target finding. The Chinese channels named are the Liver and Pericardium. On the skin, the down and pollen dry burns and weeping sores. Pollen is an aeroallergen for the airways, and pregnancy is a caution for raw blood-movers.
+
 ### Contraindications
 
 - **Pregnancy — caution/avoid.** The blood-invigorating (raw) action is traditionally contraindicated in pregnancy on uterine grounds; classical texts warn against blood-movers in the gravid state. Treat as a pregnancy-caution herb.

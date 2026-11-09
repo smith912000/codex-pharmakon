@@ -54,6 +54,10 @@ The Shennong text proper gives no preparation. Wu Pu gives the first month for g
 
 **Practitioner's note.** A cultivator does nothing with this plant. It is a lower-grade drug in the text's own scheme and a lethal poison in the commentary, and its identity as medicine was doubted even by a Song writer. The honest practice is to read the entry as a record and keep away from the plant.
 
+### Functional–Anatomical Correlate
+
+The Shennong paragraph gives Gou Wen's claims across wounds, the nursing mother, the wind-struck body, breath and water swelling. It names incised wounds, a breast-related tetany with a lost character that Yang reads as breast-feeding tetany, malign wind, cough with counterflow and rising qi, and water swelling, and says the drug kills demonic influx and gu toxins. The entry gives no organ or channel. The Wu Pu layer and Shen Kuo give a darker picture: Lei Gong calls it toxic and says it kills people, and Shen Kuo calls it the most poisonous thing among people. As a general fact, the plant's indole alkaloids act on the nervous system and respiration, and poisoning can cause respiratory failure. Those are the Codex's own general statements, not classic claims. The Codex does not translate ghost influx or gu poison into modern terms, and no use is recommended.
+
 ### Contraindications
 
 **Potentially lethal. Do not use.** Wu Pu records that Lei Gong called it "toxic, kills people" (line 3203); the later commentary calls it "the most poisonous thing among people" (Shen Kuo, line 3209) and Yang calls it "fatally poisonous" (note 204). All parts of the plant are poisonous. Poisoning is a medical emergency: contact emergency services at once. The plant must not be used in pregnancy, by children, or in any preparation, and the early record itself doubts which plant the drug name meant. Legal restrictions apply in some places.

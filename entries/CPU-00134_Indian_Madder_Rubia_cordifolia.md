@@ -71,6 +71,10 @@ Codex policy: anthraquinone/cyclic-peptide chemistry stated securely; named cita
 
 **Practitioner's note.** Nothing cultivation-specific. In the tradition it is a physician's remedy for fevers and blood disorders; no long-term or rejuvenative use is attested.
 
+### Functional–Anatomical Correlate
+
+Indian madder's entry maps it mainly to the blood (rakta dhatu) and the skin, with the circulatory and urinary systems also named. In Ayurveda (Manjishtha) it is a raktaprasadana and varnya drug for chronic skin disease, discolouration and eruptions read as heat in the blood, and the entry notes lymphatic decongestion only as a contemporary herbalist framing. In Chinese Medicine (Qian Cao Gen, Liver channel) the charred root cools blood and stops bleeding from the nose, urine, stool and uterus, while the raw root invigorates blood and dispels stasis, relevant to immobile pain, masses and menstrual disorders. Unani texts describe diuretic and emmenagogue action on the urinary tract and spleen. The Tibetan (btsod) attestations are for fevers of the lungs and kidneys and for blood disorders. The entry's modern anchor is anthraquinone pigments, with a flagged genotoxicity concern for some madder constituents, and it advises against use in pregnancy.
+
 ### Contraindications
 
 - **Pregnancy.** Traditionally an emmenagogue and blood-mover; avoid in pregnancy unless directed by a qualified practitioner.

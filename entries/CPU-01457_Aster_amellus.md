@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant beyond learning to recognise it. The abstentive answer is the honest one: the text describes external applications and an amulet, and the Codex does not build on them.
 
+### Functional–Anatomical Correlate
+
+The chapter's claims span the stomach, eyes, thighs, perineum, throat, the nervous system and a bite site. Smeared on, the plant is said to help an inflamed stomach, eye inflammation, thigh inflammation and prolapse of the perineum. A decoction of the purple flower, taken with water, is said to help the synanchic (an abscessed throat) and epilepsy in children; modern medicine files epilepsy under the nervous system. The green plant, pounded with old swine's grease on Crateuas' report, is said to help a swollen throat and a mad dog's bite, and inhaled it is said to drive away snakes. A dry plant hung on the thigh is said to free the pained party of pain. The chapter gives no warming, cooling or drying quality. The identity with Aster amellus is one of several names the translators offer. The Codex records these as historical claims only; epilepsy, abscess, rabies and snakebite need medical care.
+
 ### Contraindications
 
 The chapter prints no warning. Nothing in the text read says the plant is toxic, but the remedies recorded are for conditions (epilepsy in children, an abscessed throat, a bite from a rabid dog, snakebite) that need medical care, and a home remedy must not replace it. The identity of the plant is uncertain, so no plant should be gathered or used on the strength of this entry. Avoid in pregnancy as a general precaution, since no safety information was read.

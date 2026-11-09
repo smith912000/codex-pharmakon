@@ -107,6 +107,10 @@ Practitioner-facing use is limited to: recognising sympathomimetic load in a per
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps the plant's doctrines onto three adrenergic receptor populations and the systems they serve. The haoma wakefulness doctrine maps to the central nervous system and sympathetic system: ephedrine crosses into the CNS and releases noradrenaline, giving alertness, appetite suppression and raised heart rate. The opening doctrine (cough, chest) maps to beta-2 receptors on bronchial smooth muscle. The binding doctrine (astringency, flux) maps to alpha-1 receptors on vascular smooth muscle, where mucosal vessels constrict and swollen membranes shrink. The Chinese reading of the eastern species Ma Huang, cited only for contrast, gives Lung and Bladder affinity, a hot and dry humoral reading, and warnings in deficiency. The entry states that the same receptors elsewhere produce hypertension, arrhythmia and stroke, and its serious signal is cardiovascular and cerebrovascular toxicity. The plant is not administered in Kenetica in any phase.
+
 ### Contraindications
 
 **⚠️ HIGH-RISK SUBSTANCE. Kenetica issues no protocol for this plant.**

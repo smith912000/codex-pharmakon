@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity i
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is that the seed and the root are judged separately. The text offers nothing more, and the abstentive answer is the right one.
 
+### Functional–Anatomical Correlate
+
+The chapter names several sites. Smeared on with white wine, the root is said to keep boys hairless, a claim introduced by 'is thought', so it is reported rather than asserted and concerns the skin and hair. The bowels are named as a site the plant is therapeutic for. A decoction drunk induces urine, which is the urinary system, and is said to help those bitten by harvest spiders, a skin and bite site. The seed, which the chapter calls more astringent, is put in treacles. A decoction drunk with wine is said to cleanse jaundice, a yellowing condition the text names without an organ. The chapter judges the seed more astringent than the rest of the plant; that is its only quality. The identity is a suggestion among three different plants, so these are reported claims about an uncertain plant. No other body system is named.
+
 ### Contraindications
 
 Chapter 4-63 prints no warning. The identification is only the translators' suggestion among three different plants, so no bulb should be gathered or eaten or used on the strength of this entry. Some bulbs of this kind are toxic. Jaundice and spider bites need medical care. The text gives no dose, and no safety information for pregnancy was read. [USER: verify]

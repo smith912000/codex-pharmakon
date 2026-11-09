@@ -60,6 +60,10 @@ No clinical studies were retrieved for this entry. [USER: verify] General facts 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry's main action sites are the tissues of necrosis and tumour. The root sentence says the black and yellow minerals halt necrosis and extract tumors, which maps to dead or dying tissue (gangrene, in the Men-Tsee-Khang wording) and to swellings. Clark's bracketed commentary adds that they are beneficial for falling hair, which points to the scalp and hair follicles. The Canon entry on vitriols, which this entry ties to the mineral by gloss only, is wider: it gives a temperament of hot and dry in the third degree and says the vitriols burn and produce an eschar. Its claimed sites are the skin (erysipelas, moist scab, ringworm), the nose (nosebleed), the gums and mouth (gum ulcers), the teeth (the red suri is said to firm loose teeth), the ear (sores), the eyelids (hardness and roughness), and the lung, which it is said to dry. No Tibetan humoral category is printed for nag.mtsur.
+
 ### Contraindications
 
 - **Toxicity:** metal sulphates (iron, copper) and aluminium sulphates are irritant and, in quantity, toxic when swallowed; they should not be taken internally. Vitriol in particular is a corrosive historical name.

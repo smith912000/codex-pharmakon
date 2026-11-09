@@ -43,6 +43,10 @@ General, well-established facts only. The dried insect is used in modern Chinese
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The paragraph is a list of conditions and of actions that break and bring down, without a long-use clause, and the Codex does not recommend taking animal bodies. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The earth-turtle insect (zhe chong, also tu bie), in the Shennong bencao jing, is mapped to the abdomen, the heart, the blood and the menses. Its flavour is salty and cold (xian, han). The paragraph names chills and fever with shivering in the heart and abdomen (xin fu han re), blood accumulations and lumps (xue ji zheng jia), breaking hard masses (po jian), and bringing down blocked blood (xia xue bi). In the classic's terms the action falls on the blood, the abdominal lumps and the menstrual flow, with the heart and abdomen named as the seat of the chills. The Mingyi layer places the insect in damp soil and under house walls. The entry gives no channel, tissue or organ beyond these terms. Its Sun Xingyan note concerns a different grass insect, so the mapping rests only on the alias and the paragraph.
+
 ### Contraindications
 
 - **Pregnancy:** the paragraph names breaking hard masses and bringing down blocked blood among its actions, which are not actions for pregnancy; no safety information was read. [USER: verify]

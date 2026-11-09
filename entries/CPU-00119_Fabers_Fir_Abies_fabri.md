@@ -60,6 +60,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 **Practitioner's note.** Nothing. The tradition's texts give a cultivator no use for this tree.
 
+### Functional–Anatomical Correlate
+
+The entry's targets are the lungs and airways, the muscles and joints, and the skin. Needle oil and resin, inhaled or rubbed on, are described as loosening phlegm and acting as a mild bronchial antiseptic for coughs, bronchial congestion and catarrh, with monoterpene vapours as the stated mechanism. A warming rub is applied to rheumatic and muscular pain. The resin serves as an antiseptic dressing for wounds and skin, and fumigation cleanses the air. The fresh balsamic scent is listed as aromatic and mood-lifting. Bark is a minor astringent. The energetic frame is warming, drying, resinous-antiseptic and expectorant, a folk and regional classification rather than a rGyud-bzhi one, and the entry says the Tibetan link rests on Sichuan sources. Cautions concern undiluted internal use, asthma and sensitive airways, skin sensitisation and pregnancy.
+
 ### Contraindications
 
 - **Essential oil — diluted/external.** Not for undiluted internal self-use; conifer oils can be irritant and renally taxing internally.

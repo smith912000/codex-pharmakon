@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. The honest answer is to do nothing with it on the strength of this entry, particularly as the row links it to a poison.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that the list row places Abuta grandifolia in Menispermaceae and links it to curare admixture and traditional Peruvian Amazon use. It names no people, admixture target, part used, preparation or complaint. No body system, organ or tissue is named. No constituent, dose or clinical study was read; alkaloids are noted only as common in the family, not as this species' constituents. The entry records no humoral or energetic classification and no cultivation status for the South American tradition. Because the row ties the plant to an arrow and dart poison, the entry frames it as a toxic-plant record. Its general caution, which the row does not state, is that curare-type preparations are paralysing poisons, that nothing shows the plant is safe by mouth, and that it should not be used in pregnancy. Legal status is unchecked.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, curare-type preparations are paralysing poisons, and nothing in the row says that this plant is safe by itself or taken by mouth. Do not use in pregnancy. This is general caution and is not found in the row. Legal status is unchecked. [USER: verify]

@@ -42,6 +42,10 @@ General facts only. Beeswax is used in candles, polishes, cosmetics and as an oi
 
 **Practitioner's note.** Nothing to do. Wax earns its place as a base for plasters and salves, the carrier of other things, and not as something to take. A cultivator can take from the entry Dioscorides's care in grading and preparing a material, and the plain observation that in the Egyptian prescriptions read wax appears mostly in plasters and salves with oils, fats, honey and incense.
 
+### Functional–Anatomical Correlate
+
+Beeswax maps to the bowels, the breast milk and the womb, the toes, fingers, ears, skin and face, and, in the Chinese text, to qi and the lifespan. Dioscorides (2-105) calls all wax warming, softening and reasonably filling; he gives it mixed into broths for dysentery, and swallowed in a dose of ten grains of millet to stop the milk curdling in a woman who suckles. In Bryan's Ebers, wax is a plaster base for diseased toes, tremblings in the fingers, burns, wounds, ear complaints and wrinkles of the face; burnt as an ibis figure, its fumes are sent into the sex-organs to set a displaced womb. The Divine Farmer's Classic files honey wax (sweet, slightly warm) for diarrhoea with pus and blood, for supplementing the middle, joining sword cuts and wounds, adding to qi, ending hunger and enduring old age. No humour, temperament or channel is assigned in the Greek or Egyptian texts.
+
 ### Contraindications
 
 - **Dysentery.** Bloody diarrhoea needs medical care; swallowing wax is not a treatment.

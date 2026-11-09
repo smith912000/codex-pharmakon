@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a drug that the Men-Tsee-Khang text compares to another poison-related drug, with no action of its own and no dose, and its Latin name rests on a glossary pairing. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the Men-Tsee-Khang text says once, in the efficacy passage of chapter 20, that Pagoe has the same potency as Khyungdher, and that Khyungdher cures hot disorders associated with poisoning. Pagoe is given no action, site, taste or power of its own, and the sentence does not place it in any of the categories the chapter names. The Latin name Curcuma zedoaria rests on a glossary pairing, and that printed row gives no English name for Pagoe. Clark prints no line for the name or the species. The entry therefore maps only to hot disorders associated with poisoning, offered as a comparison with another drug, and names no organ, tissue, channel or humour. No modern anatomy can be attached, since the drug itself is not described.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The identity rests on a glossary pairing and the text names the drug beside poison-related medicines, so no plant should be gathered or used on the strength of this entry. Poisoning needs urgent medical care. No safety information for pregnancy was read. [USER: verify]

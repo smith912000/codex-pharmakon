@@ -44,6 +44,10 @@ General, well-established facts only. Flies are mechanical carriers of disease-c
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The fly is the source of one ingredient in one infant-soothing recipe, and the recipe is dangerous. The Codex does not recommend it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the fly appears in one Ebers recipe, a remedy to stop the crying of a child, made from poppy pods (opium) and fly-dirt scraped from a wall, taken for four days. The source names no organ, tissue or body system for the fly or its droppings, and gives no traditional energetic quality for either. The only function stated is the one attributed to the recipe, quieting a crying infant, and the source does not say which part of the child it acts on. Bryan's own gloss says the mixture acts at once, and he compares it with a modern opium-containing powder given with a dummy, but that comparison is his and not an Egyptian text. The entry gives no spell, deity or dose. The ingredient is the fly's droppings, not the insect's body.
+
 ### Contraindications
 
 - **Infants and children:** opium and its derivatives must never be given to a crying infant; they can stop breathing. Seek medical care for a baby who cries persistently.

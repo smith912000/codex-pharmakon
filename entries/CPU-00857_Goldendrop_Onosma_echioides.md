@@ -78,6 +78,10 @@ The traditional profile — a red root-pigment that dresses wounds, closes burns
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps goldendrop to the skin and wound surface and to the blood in its 'cooling the blood' sense. Avicenna classed the alkanet-complex red roots as cold and dry (mubarrid, mujaffif), detergent and cicatrising, applied to burns, ulcers, erysipelas and inflamed skin. Dioscorides gives the root in wax or oil for burns, spreading sores and ulcers, and attaches a reputed menstrual-stimulating action with an abortifacient caution to onosma. Energetically it sits in the Blood tier as cooling, drying and astringent-detergent. The modern correlates are naphthoquinones of the alkannin and shikonin type, which the entry says inhibit bacterial ATP synthase (congeneric data, not O. echioides), family-level wound and burn healing in animal models, and topoisomerase-I inhibition by synthetic analogues. Pyrrolizidine alkaloids are presumed present on family grounds and are hepatotoxic, so internal use and any internal blood-cooling claim are excluded.
+
 ### Contraindications
 
 - **⚠️ Internal use — pyrrolizidine-alkaloid hepatotoxicity.** As a Boraginaceae member, *Onosma* must be presumed to contain hepatotoxic pyrrolizidine alkaloids. According to PubMed, Fan et al. (2024, *Frontiers in Pharmacology*) document that Boraginaceous PAs (in *Cynoglossum amabile*) drive hepatotoxicity linked directly to their PA content [DOI](https://doi.org/10.3389/fphar.2024.1325283), and Kimel et al. (2023, *Molecules*) show comfrey PA levels can exceed safe daily doses [DOI](https://doi.org/10.3390/molecules28166171). **Do not use internally.**

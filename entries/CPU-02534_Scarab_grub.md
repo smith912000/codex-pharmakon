@@ -43,6 +43,10 @@ In general knowledge the larvae of scarab beetles are soil-dwelling pests of cro
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The middle grade carries the classic's own note that some drugs in it are toxic, though this paragraph states none. The Codex does not recommend taking the animal.
 
+### Functional–Anatomical Correlate
+
+The scarab grub, in the Shennong bencao jing, is mapped to the blood, the lower ribs and abdomen, the menses, and the eyes. Its flavour is salty and slightly warm (xian, wei wen). The paragraph names malign blood (e xue), blood stasis (xue yu), obstructed qi (bi qi), blood below the ribs that is hard, full and painful, and closed menses (yue bi), which place the action on blood, the hypochondrium and the menstrual system in classical terms. In the eye it is said to treat spreading skin (yin fu) and blue-green opacity with a white membrane, an action on the eye's surface, which modern anatomy would place in the cornea. The Mingyi layer adds only the habitat and a remark about walking backwards. The entry names no organ beyond the eye and no channel, and gives no toxicity statement.
+
 ### Contraindications
 
 - **Toxicity and hygiene.** The Shennong paragraph states no toxicity, but the middle grade is stated by the classic to include toxic drugs, and a grub from manure carries bacteria and parasites. Do not take it.

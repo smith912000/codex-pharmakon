@@ -62,6 +62,10 @@ Whether the material called *du ruo* in the old texts is *Pollia japonica* is un
 
 **Practitioner's note.** The classic gives this root the standing of a long-term drug, but its own commentary tradition cannot say with certainty which plant it is. A cultivator who wanted to act on the entry would first have to settle the identity, and the sources retrieved cannot do that. Nothing here supports taking any plant on the strength of the name.
 
+### Functional–Anatomical Correlate
+
+The classic's claims for this root fall on the chest and ribs, the centre, the head and the eyes. The Shennong paragraph says it treats counterflow qi below the chest and ribs (胸胁下逆气) and warms the centre (温中). It treats wind entering the brain door (风入脑户), with head swelling and pain (头肿痛) and copious snivel and tears (多涕泪出). Taken long, it is said to benefit the essence (益精), brighten the eyes (明目) and lighten the body (轻身). Sun notes that the Yiwen leiju reads 'benefits qi' (益气) for 'benefits the essence', so the jing claim is not secure. The centre is the classic's own term, and the entry does not identify it with a modern organ. The head, brain door, eyes, nose and tear flow are the regions the indications name. Because Sun's note shows the plant itself is disputed, no modern organ mapping is supported. Yang's edition gives the same indications and has no note on identity.
+
 ### Contraindications
 
 - **Identity.** Do not take any plant on the basis of the name *du ruo* or *du heng*; the name has been applied to different plants (see the note by Sun Xingyan). [USER: verify]

@@ -47,6 +47,10 @@ General, well-established facts only. Oil exposed to sun, air and repeated agita
 
 **Practitioner's note.** Nothing to practise. This is an oil-working recipe whose product is an input to another oil. It is of interest for how the source describes a process judged by eye, and for nothing about the person's vital constitution; no source retrieved says otherwise.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the chapter describes a procedure, not a plant, for making olive oil white. The starting oil must be clear and not over a year old. It is sunned and poured daily for eight days, and then fenugreek, pinewood, melilot corolla and iris are added in stages across sixteen days. The chapter names no body system, organ or tissue, and gives no property, quality or therapeutic use for the finished oil. The only use found is as an ingredient of Sicyonian oil (chapter 1-33), and the effects described there belong to that oil, not this one. The general statement that oil is warming and softens flesh belongs to oil as a class and is explicitly not assigned here. The entry's cautions concern rancidity and mould in home-held oil, and it gives no dose and no route of use.
+
 ### Contraindications
 
 - **Ingestion and skin.** The chapter gives no use for the oil, so no safe use is established. Home-prepared oil held warm and wet for sixteen days is a hygiene risk (rancidity, mould, bacterial growth).

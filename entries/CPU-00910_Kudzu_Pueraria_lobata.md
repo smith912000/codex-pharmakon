@@ -72,6 +72,10 @@ Clinical anti-alcohol studies used a kudzu **extract standardised to isoflavone 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps kudzu's root onto the surface and the neck. In Chinese and Kampo terms it releases the muscles of the nape and shoulders, vents the exterior at the onset of a chill with a stiff neck, vents rashes, and generates fluids to relieve thirst. The muscle-release reading is linked to puerarin's vasoactive effect on vascular tone and microcirculation. Its anti-intoxication action is placed on the mitochondrial enzyme ALDH-2, which clears acetaldehyde in alcohol metabolism, through daidzin's inhibition of that enzyme. Human trials, however, showed reduced drinking without the expected acetaldehyde flush or reduced craving, so the entry says the effect is better described as changed drinking behaviour. Puerarin's cardiovascular and glycaemic actions are preliminary. The phytoestrogens daidzein and genistein bear on hormone-sensitive tissue such as breast, uterus and ovary. Energetically the herb is cool, fluid-generating, ascending and releasing.
+
 ### Contraindications
 
 - **Estrogenic caution:** daidzein/genistein are phytoestrogens. Caution in hormone-sensitive conditions (some breast, uterine, ovarian pathologies) and with hormonal therapies. *[USER: verify with a clinician for at-risk individuals.]*

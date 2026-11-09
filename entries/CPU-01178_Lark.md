@@ -42,6 +42,10 @@ Greek: the chapter prints no warming, cooling, drying or moistening quality. Non
 
 **Practitioner's note.** Nothing. There is no cultivation role for the lark in this text.
 
+### Functional–Anatomical Correlate
+
+Little to map: the Greek text names one site and one use. Eaten roasted, the whole bird is said to be good for colic, which places the claimed action in the bowel and abdominal cramping. The Unani entry, filed under the digestive organs, says the lark (qubbar) is a food: if it is well digested it nourishes abundantly, but it is slow to digest. That is the only organ-level claim in the entry, and it sits in digestion and nutrition. Neither source gives a warming, cooling, drying or moistening quality for the bird in the lines read, and the Unani entry gives no temperament by degree. Nothing is said of the head, eye, chest, innate heat or radical moisture, and the colic use is not repeated in the Unani text, so it is not attested there. The crest is the only physical feature named.
+
 ### Contraindications
 
 Wild songbirds are legally protected in many countries, and taking or eating them can be an offence. Wild-caught birds can carry pathogens, and undercooked wild bird meat can cause food-borne illness. Colic with fever, vomiting, a rigid abdomen or blood in the stool is an emergency. This entry gives no medical advice.

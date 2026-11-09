@@ -44,6 +44,10 @@ Rubus fruits are eaten fresh and as preserves. Whether the fruit affects strengt
 
 **Practitioner's note.** The classic's grading is clear, but its guidance is not: no dose, no preparation, no season and no length of course. The fruit is ordinarily a food, so the honest practice is to eat the fruit when it is in season and to treat the classic as a statement of how the tradition ranked it. Tao Hongjing's distinction between root and fruit is a warning that the name has been used for more than the fruit.
 
+### Functional–Anatomical Correlate
+
+The paragraph assigns the fruit to the five viscera (五脏), which it says it settles (安五脏), and to the jing and qi (精气), which it benefits. It names the yin, which it says it lengthens and firms (长阴令坚). The entry does not say which organ or tissue the word yin refers to, and the Codex does not assume one. The fruit is also said to strengthen the will (强志), double strength (倍力) and enable having children (有子). Energetically it is sour and balanced (味酸，平). The long-use clause names lightening the body and not ageing. Guo Pu's remark in Sun's note says the fruit may also be eaten, which is a remark on food use and not a claim of the Shennong text. Tao Hongjing's note that the name may belong to the root means the body mapping may not hold for the fruit alone, and the Codex does not assume which part is meant.
+
 ### Contraindications
 
 - **Identification.** The text names a bramble but not a species. A wild bramble should be identified by an expert before any use. The spine has separate entries for *Rubus idaeus* (I_837), *Rubus phoenicolasius* (I_247) and others; nothing is transferred. [USER: verify]

@@ -45,6 +45,10 @@ The entry carries no sentence on protracted taking, no mention of making the bod
 
 **Practitioner's note.** An inferior-class entry in the Chinese scheme, listed for a throat and cough complaint and for binding in the abdomen, with no preparation and no dose. The class warns against long use. Nothing here supports taking this plant as a cultivation practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Shennong text describes She Gan as bitter and balanced, and says that it mainly treats cough and counterflow qi ascent, throat impediment, and sore throat affecting breathing. Cough and counterflow qi ascent point to the lungs, in modern terms the respiratory tract. Throat impediment and sore throat point to the throat, and the entry adds that the sore throat affects breathing, which points to the airway. It also says the drug disperses binding qi and counterflow evil in the abdomen, which names the abdomen, and great heat due to food and drink, which points to the digestive tract. These are the text's own terms, and the modern anatomy here is the Codex's reading of them, not the classic's. The entry names no channel, meridian or tissue, and gives no part of the plant used. The translator's note on draining fire and swelling is commentary and is not mapped here.
+
 ### Contraindications
 
 The Shennong entry prints no warning, and its silence is not a statement of safety; the preface says of the inferior class that it is "usually toxic and cannot be taken for a long time". The identity rests on a translator's Latin name, so no plant should be gathered or used on the strength of this entry. A sore throat that affects breathing needs medical care. No safety information for pregnancy was read. [USER: verify]

@@ -65,6 +65,10 @@ According to PubMed, the modern evidence for *Platanus orientalis* is real but l
 
 ---
 
+### Functional–Anatomical Correlate
+
+Oriental Plane acts on the body surface. Its traditions place it on wounds, weeping lesions, minor inflamed swellings and burns, and the gums: Dioscorides gives bark boiled in vinegar for gum complaints and toothache, and leaves and bark for wounds and inflammations. In humoral terms (Galenic and Unani) it is cold, dry and astringent (qabid), a drying wound-binder that closes and knits tissue. Modern anatomy maps this to the oral mucosa and damaged skin, where the entry's tannins and kaempferol-type flavonoids are said to underwrite the binding. The documented hazard is irritation of the respiratory passages, eyes and ears by leaf and seed-ball trichomes, with asthmatic airways needing care. The internal leaf infusion has only folk standing for tooth and knee pain and stomach discomfort. The entry assigns no action on vital constitution.
+
 ### Contraindications
 
 ⚠️ **Trichome (leaf-hair) irritation — the primary documented hazard.**

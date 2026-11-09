@@ -45,6 +45,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It offers an astringent tree, a list of remedies without amounts, and a contraceptive report, so it is history and not a practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The chapter maps the plant onto several parts of the body, all through the text's own complaints. Its leaves pounded in a drink with pepper and wine are given for iliaca passio, a painful intestinal obstruction, which places the action in the bowel. The leaves alone with water are said to cause inconception, which concerns the womb. The fruit and bark drunk are given for spitting blood, which acts on the lungs or airways. The bark burnt in vinegar and rubbed on calluses and corns acts on the skin at those spots. Juice of leaves and bark warmed with rosaceum in pomegranate is given for sores in the ears, and a decoction as a warm pack for gout, a joint complaint. The chapter also cleans away scurf, a skin scale, and a juice from the cut bark at flowering clears things that darken the pupils, which reaches the eye. The only energetic quality printed is astringent, given for all four parts. No humoral or qi terms appear, and the identity is a translators' suggestion.
+
 ### Contraindications
 
 The chapter prints no warning. It reports that the leaves taken with water "cause inconception", so use in pregnancy or when conception is wanted is a question the text raises and does not answer. [USER: verify] Bark and leaf preparations of willow are generally thought to need care in people who are sensitive to aspirin or who take blood-thinning drugs; this is a general statement and not a finding of the chapter. Blood spitting, intestinal obstruction and sudden loss of sight need urgent medical assessment, and none of these remedies must replace it. The identification rests on a translators' suggestion among several names, so no wild plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice.

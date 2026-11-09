@@ -44,6 +44,10 @@ The identification is ours and weak at species level. The Chinese names cover so
 
 **Practitioner's note.** There is no cultivation practice here. The entry is a short lower-class record for deafness, cough and thorns, in a material whose name the transcription has lost.
 
+### Functional–Anatomical Correlate
+
+The potter wasp, in the Shennong bencao jing, is mapped to the ears, the breath and chest, and the surface of the body. Its flavour is acrid and level (xin, ping). The paragraph names long-standing deafness (jiu long), which places the action on the ear, and cough with counterflow qi (ke ni). It also states an action of drawing out thorns (chu ci) and bringing out sweat (chu han), which the entry places on the skin and surface. A phrase about poison gas is unreadable in the transcription and is not used. The entry names no part of the wasp or its nest and no channel. The Mingyi layer gives only the alias earth bee. Nothing else is stated about organs, tissues or the humours.
+
 ### Contraindications
 
 The preface warns that lower-class drugs are mostly toxic and not for long use. No safety information for this material in particular was read. Wasps sting, and stings can be dangerous to people with allergy; nests may harbour other insects and moulds. No conservation information was read. [USER: verify]

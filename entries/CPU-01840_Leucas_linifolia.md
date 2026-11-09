@@ -49,6 +49,10 @@ Two published studies are nonetheless worth recording, as science about the plan
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with a plant under this name. Nothing should be gathered or taken on the strength of a Latin name that the chapters do not give.
 
+### Functional–Anatomical Correlate
+
+Little to map: no chapter prints the name Drona-pushpi, so the Sushruta text attaches no body system, organ, tissue, quality or action to this plant. The only source is the translator's appendix pairing with the Latin Leucas linifolia, which carries no description, use or reference. The vajikarana (Chikitsa 26) and rasayana (Chikitsa 27 to 30) chapters do not name it, and the text says nothing of ojas, tejas or prana for it. No rasa, virya or vipaka, preparation, quantity or contraindication is given under the name in the sources read. The identity is open, and the entry records that the Latin is a positional pairing from two OCR columns. No mapping beyond this is possible from the Sushruta text.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for this plant under this name. The identity is open, so no plant should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

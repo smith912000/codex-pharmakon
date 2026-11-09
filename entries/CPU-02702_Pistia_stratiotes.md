@@ -47,6 +47,10 @@ General, well-established facts only. *Pistia stratiotes* is a free-floating aqu
 
 **Practitioner's note.** There is nothing here for a cultivator. The identification is a glossary pairing by column position, and the plant cannot be tied to a use in the text. Do not use any plant on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states no organ, tissue, action or body system for this drug. The Appendix gives only the Latin name Pistia stratiotes against the Sanskrit Kumbhika, by column position in a damaged glossary, so the identification itself is medium confidence. The word appears in the Priyangvadi group of Sutra ch. 38, a thirteen-drug group whose actions the chapter gives for the group as a whole, and the entry does not assign those actions to this plant. The same Sanskrit word is also a disease name in the Uttara-tantra, which the entry notes as a reason the Appendix may not refer to the drug at all. No taste, potency, post-digestive effect, preparation or part used is given. The entry therefore maps nothing to the body, and the Codex does not recommend the plant.
+
 ### Contraindications
 
 - **Identity.** The pairing rests on a damaged glossary; the Sanskrit word has other senses. Do not gather or use any plant on this basis. [USER: verify]

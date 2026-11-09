@@ -42,6 +42,10 @@ Hair is keratin, which is poorly digested and is not a nutrient. There is no est
 
 **Practitioner's note.** There is nothing here for a cultivator to do. The classic's own commentator says the drug was taken from trimmings out of reluctance to use human hair, and criticises the later use of human bone. The practice the entry supports is abstention.
 
+### Functional–Anatomical Correlate
+
+The entry names the urinary tract and the water passages most clearly: five forms of urinary blockage (wu long) and blocked and closed passages (guan ge), with the claim that it makes urine and the water passages flow (li xiao bian shui dao). It also names the nervous system, treating children's epilepsy (xian) and adult spasm (jing), which maps to seizure activity and involuntary muscle contraction. The energetic frame is bitter and warm (wei ku, wen), with upper-class placement. The last clause, returns to spirit transformation (reng zi huan shen hua), is unexplained and names no organ. Modern anatomy adds a limit: keratin, the protein of hair, is not digested as a nutrient, and no source shows that swallowed hair acts on the kidneys, bladder or nerves. The Codex records the claims as the classic's and does not treat them as functional. Urinary retention and seizures need medical care.
+
 ### Contraindications
 
 - **Infection and contamination.** Hair carries lice, fungi and bacteria, and may carry metals or drugs absorbed from the body. Do not swallow it.

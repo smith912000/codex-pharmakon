@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is the method of recognition by comparison, which asks the reader to know several other plants first. The text offers nothing more, and the abstentive answer is the right one.
 
+### Functional–Anatomical Correlate
+
+The chapter maps the plant onto many sites, none of which it names as a system. The seed, taken in a drink, is said to purge phlegmy matter through the bowels, and to cure the liver, jaundice, asthma, epilepsy and a constricted womb. The plant inhaled is said to revive those who faint, which acts on breathing and consciousness. Its head, moistened with oil, is said to help fever of the brain, lethargy and headache. Applied with rue it is said to restrain herpes, a skin infection. The root, given to the jaundiced and liverish, and shaved and inserted, is said to remove the hardness of fistulas, which are ulcers. The fresh juice of the flower is said to help ulcerated and purulent ears. The chapter gives no humour or quality beyond the seed's strong scent and the marsh where the plant grows. The identity is one of four translators' names. The translators' capitalised heading warns of blistering and lasting purple staining of the skin, a warning the chapter does not print itself, and the Codex does not treat these claims as verified actions.
+
 ### Contraindications
 
 The translators' heading to chapter 3-90 states that the juice causes blisters and permanent purple pigmentation; the chapter text itself prints no warning. On that heading alone the plant should not be handled or applied on the skin on the strength of this entry. The identification is only a suggestion among four names. Epilepsy, jaundice, liver disease, asthma and fever of the brain need medical care. The text gives no dose, and no safety information for pregnancy was read, though the text itself uses the seed for "constriction of the womb". [USER: verify]

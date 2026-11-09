@@ -69,6 +69,10 @@ In Brazilian and colonial-era folk practice ipecacuanha is a **downward-rooted e
 
 **Practitioner's note.** Nothing cultivation-specific. The entry treats the root's historical emetic and antidysenteric uses as sharply curtailed, and the tradition supplies no regimen role to revive.
 
+### Functional–Anatomical Correlate
+
+Ipecacuanha acts on the gastrointestinal tract and the central vomiting centre. Its entry describes emetine and cephaeline as irritating the stomach and stimulating the chemoreceptor trigger zone to produce emesis, and as inhibiting protein synthesis in Entamoeba histolytica and in mammalian cells. The gut is the target of both its emetic action and its historical antidysenteric use, which Indigenous Brazilian peoples applied to dysentery and bloody flux. In folk practice it was a downward-rooted expellant used upward, and the entry maps it onto the Codex grid as cold, dispersing and strongly evacuant, marked as inferred. Dilute preparations were once used to loosen chest secretions. The entry's main body-system warning is the heart: emetine causes dose-cumulative cardiomyopathy, conduction abnormalities and arrhythmia through sodium-channel blockade. It also lists skeletal-muscle weakness and myopathy with chronic exposure, and states that emetic use is now deprecated.
+
 ### Contraindications
 
 Ipecacuanha's alkaloids are protein-synthesis inhibitors with a genuinely narrow toxic margin. Real safety flags:

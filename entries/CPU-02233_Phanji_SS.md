@@ -45,6 +45,10 @@ No identification, so no general fact can be stated. No clinical studies were re
 
 **Practitioner's note.** An unidentified leaf and group-member in the Sushruta lists, astringent and used for ulcers, flux, catarrh and cough. Nothing here supports any cultivation use, and without an identification nothing should be gathered or taken.
 
+### Functional–Anatomical Correlate
+
+Little to map: the Sushruta Samhita places Phanji in two drug groups and once among leaves, and the entry states only group-level and leaf-level effects, not organ actions for the plant itself. The Rodhradi group is antidotal to deranged Kapha and fat, astringent, removes vaginal and uterine disorders, neutralises poison, and acts as a styptic and purifying agent in ulcers while arresting all secretions and excretions of the body. The Surasadi group is a vermifuge and aseptic agent that subdues deranged Kapha and benefits catarrh, non-relish for food, asthma and cough. As a leaf, Phanji is listed among leaves that are astringent, curative in haemoptysis, subduing Kapha, generating Vayu and light of digestion, and the leaves are slightly tonic. That phrase is the translator's and is not a rasayana status. Its clinical mentions are a diet in Atisara and a plaster for a poisoned-unguent case. The identity is unresolved, the translator glossing it as a kind of Patha in one place and Bhargi in another. No constituent, dose or cultivation use is given.
+
 ### Contraindications
 
 - **Identity.** Unresolved. Two different glosses are printed; do not use any plant on the strength of this entry.

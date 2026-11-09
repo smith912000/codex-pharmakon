@@ -52,6 +52,10 @@ Sodium and potassium carbonates are alkaline salts; they are caustic in strong s
 
 ---
 
+### Functional–Anatomical Correlate
+
+Avicenna's Canon entry for qili, as the entry reads it, places alkali on the skin and on the surface of wounds. Under the cosmetic heading it is said to help vitiligo (bahaq, a patchy loss of skin colour). Under wounds and ulcers it helps mange (jarab, a scabby skin disease) and eats away excess flesh, meaning overgrown tissue at a wound. Its temperament is hot, burning, cleansing, eroding and stronger than salt, and it is graded against salt rather than by degree. The entry gives no organ heading, no internal use and no claim about innate heat or radical moisture. The Assyrian list row ties the material to poultices and to soap-making with plant resin, but no tablet was read, so no Assyrian organ or causal agency is mapped. In modern anatomy terms the mapped sites are the skin, the patches of skin colour loss, and the granulating wound surface.
+
 ### Contraindications
 
 - **Caustic injury:** strong alkali burns skin, mouth and eyes and is dangerous if swallowed.

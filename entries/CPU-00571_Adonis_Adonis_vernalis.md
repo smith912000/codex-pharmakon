@@ -62,6 +62,10 @@ According to PubMed, the cardenolides characteristic of *Adonis* are pharmacolog
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps Adonis vernalis onto the heart. Its cardenolides inhibit cardiac Na+/K+-ATPase, raising intracellular sodium and, through exchange, calcium, which the entry describes as increasing myocardial contractile force (positive inotropy) while slowing conduction. The Galenic term is a hot and dry, penetrating heart-strengthener (muqawwi-e-qalb) for weak pulse and watery accumulation. TCM and Ayurvedic readings are given only by analogy, as strengthening heart yang and dispersing water. Dioscorides' acrid buttercups are described as blistering skin externally and, taken in excess, disordering the heart and breathing. Related Adonis species are cited for cytotoxicity and inflammasome effects, which the entry says extend the action beyond the heart. The stated hazards are bradycardia, heart block, fatal ventricular arrhythmia and hypokalaemia-linked toxicity, and the entry classes the herb as study-only.
+
 ### Contraindications
 
 **⚠️ SEVERE HAZARD — POTENTIALLY FATAL. This plant contains cardiac glycosides (cardenolides) with a narrow therapeutic index, mechanistically identical to digitalis/digoxin.**

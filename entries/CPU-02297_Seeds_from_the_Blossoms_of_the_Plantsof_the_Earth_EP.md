@@ -50,6 +50,10 @@ General, well-established facts only. The material is unidentified, so no pharma
 
 **Practitioner's note.** A descriptive label for an unidentified seed, used once in a salve with cream and an ass's hoof. Nothing supports cultivation use, and nothing can be gathered or used. A cultivator reads it as a reminder that much of the Ebers pharmacy is no longer recoverable.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names one salve for the woodlike uha-disease, which Bryan renders in English and does not translate into a modern diagnosis. The text names no organ, tissue, site or system for the disease or the salve. The salve combines the seed with fresh cream and the hoof of an ass, and Bryan gives no ratio, method or outcome. No humour, quality or constitutional term is attached to the seed, and the Ebers material is organised by indication rather than by a system of vital parts, so no ka, ba, akh, ib or heka is linked to this ingredient. The label is a descriptive phrase for seeds from blossoms and names no plant, so no body system can be mapped to a substance. Bryan's own tone is sceptical. The Codex records only the classic's historical claim, gives no protocol and no dose, and does not treat the salve as a practice.
+
 ### Contraindications
 
 - **Identity.** The label names no plant. Do not substitute any seed for it.

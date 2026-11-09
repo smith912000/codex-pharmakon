@@ -38,6 +38,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** There is nothing to do with this entry. The attestation is a single list row that the retrieved Ebers text does not confirm, and no use is recorded. A cultivator should treat it as an open question for the Ghalioungui glossary, not as a substance.
 
+### Functional–Anatomical Correlate
+
+Little to map: the sources name no part of the raven, no complaint and no action. The only statement is a list row attributing the raven to the Ebers Papyrus, flagged uncertain. The Men-Tsee-Khang text names the raven as a bird of prey and does not give it a medicinal use.
+
 ### Contraindications
 
 - **Not usable:** no part, preparation or purpose is sourced; nothing here can be applied.

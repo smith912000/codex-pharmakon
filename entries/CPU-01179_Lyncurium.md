@@ -45,6 +45,10 @@ Greek: no warming, cooling, drying or moistening quality is printed for lyncuriu
 
 **Practitioner's note.** Nothing. The material cannot be identified from the text, and the text itself distrusts it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter states one use and one pair of sites. Taken as a drink with water, lyncurium is said to be good for 'a stomach and intestines troubled with excessive discharge', so the claimed sites are the stomach and the intestines, with the discharge read as a flux from the bowel. The entry also records the report that the substance hardens into a stone as soon as lynx urine is passed, which names urine as its source, but Dioscorides calls it 'only a foolish report' and the entry does not carry that account into a use. The second name, pterygophoron, refers to drawing feathers, an attraction and not a bodily action. No quality, humour, taste or tradition classification is printed, and no preparation or dose is stated.
+
 ### Contraindications
 
 The identity of any product sold under this name cannot be verified, so its safety is unknown. Lynx are protected or endangered in many places, and collecting their urine or parts can be illegal. "Excessive discharge" from stomach or intestines (persistent diarrhoea) risks dehydration and may signal infection; see a clinician. This entry gives no medical advice.

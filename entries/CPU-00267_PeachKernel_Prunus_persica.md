@@ -63,6 +63,10 @@ Attribution: findings from PubMed.
 
 **Practitioner's note.** Nothing can be said about a classical cultivation status for peach kernel. It is a blood-moving drug of the therapeutic register, and its grade in the classic remains to be verified.
 
+### Functional–Anatomical Correlate
+
+The entry places peach kernel in the Heart, Liver and Large Intestine channels, with a neutral, bitter-sweet, slightly toxic profile. Its stated action is to invigorate blood and break blood stasis, which it links to fixed stabbing pain, masses, amenorrhoea, postpartum retention and traumatic injury, so the tissues addressed are the blood, the uterus and the abdominal and traumatised soft tissue. The bowel is a second target, where its fixed oil is said to moisten the intestines and ease dry constipation. The chemistry is amygdalin and prunasin, which yield cyanide, so the entry lists pregnancy, bleeding tendency, anticoagulant use and children as cautions. It cites a pharmacokinetic study in which amygdalin reached plasma within a classical decoction, which shows bioavailability rather than clinical benefit. The colon-cell anti-proliferative signal is preclinical, and the Cochrane review found no anti-cancer benefit. Tibetan and Dantian correspondences are given only as unverified framings.
+
 ### Contraindications
 
 - **Pregnancy — contraindicated.** Blood-breaking action can threaten pregnancy; classical caution.

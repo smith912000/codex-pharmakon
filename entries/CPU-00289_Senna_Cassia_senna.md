@@ -93,6 +93,10 @@ Senna combined with *haritaki* (Terminalia chebula) and *trivrit* (Operculina tu
 
 ---
 
+### Functional–Anatomical Correlate
+
+Senna's entry maps its main action to the large intestine. Sennosides, converted by gut bacteria to rhein anthrone, stimulate colonic peristalsis and increase fluid secretion into the colon. TCM enters it through the Large Intestine channel to clear heat-stagnation and treat hot constipation, with dry hard stools and heat signs. The entry's Liver-fire pattern (irritability, red eyes, headache with hard stools) is linked to the liver through the intestinal route. Ayurveda classes it as a Virechana purgative that clears Pitta and digestive fire, and links constipation, biliary conditions and skin disorders to intestinal toxin load. Ibn Sina describes it as purging phlegm and bile from the intestines, with ginger and mastic added against griping. The safety section names melanosis coli on long use, hypokalaemia with arrhythmia risk, inflammatory bowel disease and obstruction as contraindications, and avoids use in pregnancy and lactation and under 12.
+
 ### Contraindications
 
 - **Chronic/daily use** — the most important contraindication: habituation, electrolyte imbalance (hypokalaemia), melanosis coli, potential laxative dependency; use for maximum 5–7 consecutive days only

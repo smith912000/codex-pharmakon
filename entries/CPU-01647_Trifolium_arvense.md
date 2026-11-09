@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The chapter is a very short drug note, and the abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+On the entry's own claims, Trifolium arvense acts on the bowels and on the groin. The decoction is 'restrictive to the intestines', an astringent, binding action on the gut, given as a drink with wine, or with water for those with a fever. The chapter then says the plant is 'hanged about one for inflammation of the groin', so the groin, the crease where the thigh meets the trunk, is the site named for a local inflammation. The fever changes the vehicle of the drink but is not tied to any organ in the text. The chapter prints one quality, restrictive, and no hot, cold, moist or dry quality, and it names no humour, dosha or qi channel. It describes the plant only by its growing place, among the corn, and by a second name. The hanging is recorded without its method, and the Codex does not explain it. The identity is a suggestion, and the translators print a different plant for the other usage.
+
 ### Contraindications
 
 Chapter 4-17 prints no warning. The identification is only the translators' suggestion, and the translators offer two unlike plants, so no plant should be gathered or used on the strength of this entry. The drink is for looseness of the bowels, and persistent diarrhoea, particularly with fever, needs medical assessment and should not be treated by an unidentified plant. The chapter gives no dose and no safety information for pregnancy or children. [USER: verify]

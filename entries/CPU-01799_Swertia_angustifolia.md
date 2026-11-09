@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a bitter fever-and-bile drug in a commentary, with no preparation, no dose, no counterpart in the other edition and an identity left open among three species. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names no organ, tissue or channel for this drug. The root-text layer of Clark 1995 prints no action at all. The only action is inside Clark's square brackets, where the commentary says the plant is bitter and cures disorders of blood, bile and infectious fevers. Those are the commentary's humoral terms, kept as printed. The bitter taste is also commentary, and the leaf and flower descriptions name two birds and carry no organ. Men-Tsee-Khang 2011 has no passage naming the drug, so the second edition neither confirms nor contradicts the claim. The identity is open among three Swertia species, and the Codex does not choose between them. Blood, bile and infectious fever are mapped only as the commentary's own categories, and the entry gives no modern anatomical correlation.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Fevers and disorders of the blood need medical care; the identity is open among three species, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. No conservation information and no safety information for pregnancy were read. [USER: verify]

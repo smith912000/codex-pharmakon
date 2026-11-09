@@ -67,6 +67,10 @@ According to PubMed, the pharmacology of wild basil is now moderately well chara
 
 ---
 
+### Functional–Anatomical Correlate
+
+Wild basil is mapped onto the stomach and bowel, the skin and the mucosa. In the Galenic-Unani reading it is hot and dry, astringent (qabid) and dispersing (muhallil), a carminative for cold phlegmatic stomachs, colic and flatulence that tightens loose, gurgling digestion. Dioscorides directs the calaminth group at flatulence and sluggish digestion, and externally to draw and dry. The strong external wash is mapped onto weeping skin, minor ulceration and inflamed gums, consistent with the folk use for wounds and ulcers. The modern correlates are rosmarinic, caffeic and chlorogenic acids, astringent protein-binding phenolics, and a volatile oil that is carminative and antimicrobial. The entry cites COX-2 expression reduced in murine neutrophils. Evidence is preclinical, with no controlled human trials; cautions are pregnancy, possible effects on iron absorption, and Lamiaceae allergy.
+
 ### Contraindications
 
 Generally regarded as a low-risk food-grade aromatic when used in culinary and traditional infusion amounts. Aromatic Lamiaceae with volatile oils are conventionally avoided in concentrated or essential-oil form during pregnancy; use only culinary/infusion amounts if pregnant or breastfeeding [USER: verify]. Astringent phenolics may reduce absorption of iron and some minerals if taken heavily with meals. No robust human safety data exist for high-dose or extract-concentrated use — do not assume the safety of a tea extends to concentrated extracts. Discontinue if allergic reaction (Lamiaceae cross-sensitivity) occurs.

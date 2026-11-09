@@ -118,6 +118,10 @@
 
 **Practitioner's note.** Across all six traditions cardamom is the same thing: a warming aromatic carminative and breath-sweetener, prized and expensive but never assigned a cultivation station. What a cultivator actually does with it is culinary-medicinal — a pod chewed after a meal, a seed simmered in milk before sleep, a pre-meal digestive — and the one transferable discipline is Dioscorides' grading of provenance and freshness. Nothing here supports treating cardamom as a tonic of vital essence; its honest register is the daily kitchen, and that is enough.
 
+### Functional–Anatomical Correlate
+
+The entry maps cardamom mainly to the digestive tract and the lungs, across the middle and upper burners. Chinese terms place it in the Lung, Spleen and Stomach channels: it warms the middle burner, moves Qi stagnation, transforms cold-damp and descends rebellious Stomach Qi. Ayurveda classes it as deepana and pachana, kindling digestive fire and aiding digestion, with hrdya as a cardiac-supportive action and use as an oral cleanser. Avicennan sources cite flatulence, cold stomach, diuresis and cold-phlegm cough. Respiratory effects are attributed to 1,8-cineole's bronchodilatory smooth-muscle action and mucus clearance. A clinical study is cited for blood-pressure reduction, linked to calcium-channel modulation in vessels. Oral bacteria and gum inflammation are mapped to the mouth. Linalool and terpinyl acetate are said to act on GABA-A signalling and on the gut. Cautions name the stomach lining, the gallbladder and anticoagulant users.
+
 ### Contraindications
 
 - **Active gastric ulcer or severe gastritis:** Pungent volatile fraction may irritate inflamed gastric mucosa at supplemental doses; discontinue if GI discomfort increases

@@ -53,6 +53,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Sushruta t
 
 **Practitioner's note.** In the Sushruta scheme *Karkaru* is a food and an oil for a defined complaint, with no rejuvenation or vitality status in the chapters read. A cultivator does nothing special with it. The Latin identification is the translator's appendix pairing and the chapters do not confirm it.
 
+### Functional–Anatomical Correlate
+
+The Sushruta food and liquids chapters give Karkaru its sites in the digestive tract and the urinary passages. The fruit is said to be heavy in digestion and long retained in the stomach in an undigested state, and to increase the slimy secretions of the organs and help the copious evacuation of stool and urine. The seed oil is said to pacify deranged Vayu and Pittam. The chapter on oleaginous substances names the expressed oil of Karkaruka for Mutra-sanga, a urinary obstruction, so the urinary passages are the named site of that use. The entry's doshas are Vayu, Pittam and Kapham. The fruit is cooling in potency and sweet in taste, and ripe Karkarus are said to generate Vayu and Kapham. The text names no tissue of the blood, no channel and no sense organ for the drug.
+
 ### Contraindications
 
 The Sushruta passages read print no warning beyond the qualities above: the fruit is "heavy in digestion", "long retained in the stomach in an undigested state", and generates Kapha. Urinary obstruction is a condition that needs medical care. The identity is a translator's pairing, so no fruit should be gathered or eaten on the strength of this entry; it is a general fact that bitter wild members of the gourd family can be toxic. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

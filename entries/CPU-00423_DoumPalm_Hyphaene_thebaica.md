@@ -89,6 +89,10 @@ Doum is not natively a humoral substance and this entry declines to invent a Gal
 
 **Practitioner's note.** Nothing. The papyrus offers a few external and local uses for the fruit, none of them a long-term practice, and the identity of the plant is itself an inference.
 
+### Functional–Anatomical Correlate
+
+The entry maps doum mainly to the cardiovascular system and kidney, with analgesic and kidney-protective effects that are preclinical. The folk use is for high blood pressure. Ex vivo, mesocarp extract relaxed isolated rat aorta rings, placing its proposed action on arterial smooth muscle. One observational human study, using a doum and olive-leaf combination in 32 patients, reported lower systolic and diastolic pressure; the entry grades this weak. In mice, extract protected the kidney from gentamicin-induced injury via Nrf2, NF-κB and TGF-β1 pathways. Mouse analgesia is said to involve opioid and vanilloid receptor pathways. Tannins concentrate in the pericarp, and strong brews are noted to be astringent and to reduce non-haem iron absorption. The Arabic-Egyptian folk framing is cooling and drying, which the entry labels an inferred attribution. The Ebers remedies name the fruit for limb tremblings, eye blood and tooth strengthening, which the entry calls therapeutic attestations only.
+
 ### Contraindications
 
 - **Antihypertensive medication.** If the vasorelaxant activity is real — and the ex vivo aortic data suggest it may be — habitual heavy consumption alongside prescribed antihypertensives risks additive hypotension. Anyone on BP medication who begins drinking doum regularly should monitor their blood pressure and tell their prescriber. This is the single most practically important flag in the entry.

@@ -87,6 +87,10 @@ Full Āyurvedic energetic block for *Betula utilis* bark:
 
 **Practitioner's note.** Nothing. The bark and leaf appear only as clinical applications.
 
+### Functional–Anatomical Correlate
+
+Bhurja acts on the skin, on wounds, on the ear, and, through its smoke, on the air of a room. Its Ayurvedic actions are samgrahi (binding), vranashodhana-ropana (external wound cleansing and healing), kaphaghna, kandughna (anti-itch skin action) and dhupana (fumigant and purifying), and it is classed as cooling, pacifying Kapha and Pitta. The classical texts apply it to kashta (skin) conditions and ear disease (karna-roga). The Sushruta snake-bite chapter records a bark decoction or powder on scalp incisions. The entry names rasavaha and twak (skin) channels as its srotas, acting externally, with fumigatory action on the sthana. Its manuscript and amulet use is a symbolic layer that the entry does not place in any body system, so it is not mapped here. The modern evidence is one invertebrate study. An ethanolic extract extended Caenorhabditis elegans lifespan by about 36% and lowered reactive oxygen species, with effects dependent on daf-16, hsf-1 and skn-1. The entry notes that betulinic acid is unverified for this species. Caution applies in Vata states, cold depletion and asthma.
+
 ### Contraindications
 
 - **Vāta-predominant constitutions / conditions:** the cooling, drying, astringent profile can aggravate Vāta; use cautiously or with anupāna that offsets dryness.

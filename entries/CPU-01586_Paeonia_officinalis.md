@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The useful lesson is Dioscorides' method of telling two forms of one plant by leaf, pod and root, and of fixing the hour and the season of gathering. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Dioscorides' chapter 3-157 maps the root and seed mainly onto the womb, the bowels and the urinary tract. The root is given to women not cleansed after childbirth, a small decoction is said to induce menstrual flow, and a decoction of red seed grains stops excessive bloody discharges in women. The decoction is also said to help pains in the intestines, bowel discharges, jaundice, inflamed kidneys and bladder pain. Eaten, the seed is said to help gnawing at the stomach, and children who take it are said to lose the beginnings of stones. A black-part decoction is said to ease suffocation from nightmares and suffocation of the womb. The male root is called astringent, the only quality given. Avicenna, in the Codex's Unani entry, gives the peony a temperament of hot but not strongly, with drying and astringent action. He says it clears dark marks from skin, helps gout, steadies the stomach, opens liver obstructions and stops uterine bleeding. These are Avicenna's claims, not Dioscorides', and the entry keeps them apart.
+
 ### Contraindications
 
 The translators print "POISONOUS" for the plant. Using the root or seed for the menses, post-natal bleeding, jaundice, kidney pain or suffocation of the womb needs medical care, and the chapter's use for "disorders of the mother" (which the translators gloss as pregnancy) is not something to attempt. The chapter's menstrual and post-partum uses are emmenagogue in kind, which are a risk in pregnancy. The identification rests on a translators' suggestion, so no plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

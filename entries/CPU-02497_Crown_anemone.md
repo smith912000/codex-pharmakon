@@ -42,6 +42,10 @@ No clinical studies were retrieved for this entry. [USER: verify] General fact: 
 
 **Practitioner's note.** A drawing and cleansing plant for sores, scalp, eye and breast milk. Nothing for a cultivator beyond reading the text.
 
+### Functional–Anatomical Correlate
+
+In the Canon's terms, crown anemone is hot in the second degree and moist, and it works by polishing, washing, drawing and ripening, a list the entry quotes from Galen. The entry maps it onto the skin and hair: mixed with walnut husks it is said to blacken the hair, and the leaf and stem to improve it. Cooked, it is applied to soft hot swellings and boils. The dry plant is said to clean and heal dirty ulcers, scaling and running scab. For the head, the juice taken as snuff is said to cleanse the head and brain, and the chewed root to draw moisture from the head and remove ringworm (qūbāʾ). For the eye, juice with honey is used for dimness, whiteness and scars, and a poultice boiled in wine for hard swellings around the eye. For the chest, leaves and stems boiled with thyme are said to bring on milk, and as a pessary the plant promotes menses. The entry gives no modern anatomy and no dose, and its contraindications section notes that the fresh plant is an irritant.
+
 ### Contraindications
 
 Fresh anemone is an irritant (blistering skin and mouth) and the whole Ranunculaceae family is regarded as poisonous when eaten fresh. The menses- and milk-promoting uses make pregnancy a general concern. No safe internal use can be derived from the text. [USER: verify]

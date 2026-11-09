@@ -44,6 +44,10 @@ General, well-established facts only. Dung from wild herbivores carries bacteria
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The gazelle appears in the Ebers material as a source of ears and dung used in three ordinary remedies, one of them against rodents, and the Codex does not recommend the medical uses. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Ebers material, as Bryan prints it, gives the gazelle's ears as one ingredient in a remedy for a discharge in the ear region, which he says very frequently stops it completely. The entry also records gazelle dung in a hair concoction, which Bryan calls revolting, and which is for hair restoration, so the scalp and hair are targets. A third recipe uses the dung burnt in a granary against rodents eating durra, and is not a human body function. The entry gives no humoral quality for the gazelle or its parts, no method for either remedy and no dose. The body sites it maps are therefore the external ear, with its discharge, and the hair and scalp, with the granary use noted as pest control and not medicine. Its own Contraindications section warns against putting animal material or dung into the ear or onto the scalp, and against burning dung indoors.
+
 ### Contraindications
 
 - **Ear discharge or pain:** needs examination; do not put animal material or dung into the ear.

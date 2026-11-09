@@ -90,6 +90,10 @@ Because both actions are warming and dispersing, Aromatic Ginger is suited to co
 
 ---
 
+### Functional–Anatomical Correlate
+
+Aromatic ginger's entry gives two registers. Internally, its TCM frame places it in the Stomach and Spleen, in the Middle Burner: it warms, moves qi, disperses cold and turbid dampness, and relieves epigastric distension, cold-type pain and poor appetite; in Five Phase terms it acts on Earth and rouses a damp-burdened Spleen. The Javanese jamu tradition, where the plant is kencur, uses it as a warming digestive and carminative for bloating and cold, and as a warming tonic for fatigue. Topically, the entry applies it over sore muscles, sprains and aching joints as a warming poultice or oil. Its principal constituent, ethyl-p-methoxycinnamate, is cited for anti-inflammatory and analgesic activity, which is the stated rationale for that route. The Ayurvedic deepana-pachana comparison is described only as a loose parallel. Modern citations remain placeholders in the entry. Contraindications: heat and yin-deficient patterns, broken skin, and patch-testing for sensitive skin.
+
 ### Contraindications
 
 - **Heat and Yin-deficiency patterns:** Contraindicated where there are heat signs or Yin-deficient heat (dry mouth, night sweats, red tongue with scant coat); a warm, aromatic, drying herb aggravates these.

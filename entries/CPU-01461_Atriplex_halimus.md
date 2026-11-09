@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is generall
 
 **Practitioner's note.** A cultivator learns from this chapter to recognise a coastal hedge shrub and that its leaf was a food. It does not support a vitality practice. The abstentive answer is the honest one for the root drink.
 
+### Functional–Anatomical Correlate
+
+Dioscorides' chapter places this shrub's uses in the chest and digestive organs through a root drink, with the leaves used as food. One teaspoon of the root in honey and water is said to ease convulsions, hernias and griping, and to increase milk in nursing women, so the milk-producing claim touches the lactating breast. The leaves, boiled as a vegetable with meat, are a food and not a remedy. The Unani Canon's entry, under the Arabic name mulayh, says the plant has saltiness, astringency and a raw moisture 'by which it causes wind', and gives no temperament. Under the chest-organs, a drink is said to bring on milk, and under the digestive organs a drink in water is said to calm colic. The entry names no head, eye, cosmetic or poison use and makes no claim about innate heat or radical moisture. Salt-accumulating plants may carry a heavy salt load for anyone on a salt-restricted diet, a general statement not from the text. The Codex records these as claims only.
+
 ### Contraindications
 
 The chapter prints no warning. The root drink is recorded to increase milk and for hernia and convulsions, which need medical care, and it should not replace it. Salt-accumulating plants may carry a heavy salt load, which matters for anyone on a salt-restricted diet. This is a general statement and not from the text. The identification is only the translators' suggestion, so no plant should be gathered or eaten on the strength of this entry. No safety information for pregnancy was read.

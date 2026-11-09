@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The PNAS 2019 
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. The honest answer is to do nothing with it on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the row gives the names Vilca and cebil for Anadenanthera colubrina, from the southern Andes, and says it belongs to 'the same ritual complex as yopo'. The row does not say what the ritual was, which plant part was used, or how. It names no people, preparation, constituent or dose, and maps no organ, tissue or body system. It is described as a historical and ethnobotanical record only, with unchecked legal status. No clinical studies were retrieved; the cited PNAS 2019 paper was not opened. No quality is printed, so no humoral, doshic or qi correlate is given. The contraindications (pregnancy, mental-health conditions, prescription medicines) are general caution the entry says is not found in the row. The cultivation register is absent, and 'ritual complex' is not treated as a cultivation grade.
+
 ### Contraindications
 
 No safety data were read for this row. The plant is tied by the row to a ritual use, and use outside a qualified setting is unsafe in general terms. Do not use in pregnancy, and take medical advice, especially with any mental-health condition or prescription medicine. This is general caution and is not found in the row. Legal status varies and is unchecked. [USER: verify]

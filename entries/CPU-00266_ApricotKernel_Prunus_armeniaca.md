@@ -66,6 +66,10 @@ Attribution: findings from PubMed.
 
 **Practitioner's note.** Nothing here supports long-term or nourishing use. Bitter kernel contains a cyanogenic glycoside and is a short-course, processed, practitioner-supervised remedy at most, and raw kernels are not a cultivation food. For a cultivator the answer is to leave it alone outside that supervised use.
 
+### Functional–Anatomical Correlate
+
+The entry places apricot kernel in the Lung and Large Intestine channels, where it is said to descend rebellious Lung qi to stop cough and wheeze, and to moisten the intestines to unblock dry stool. The organs addressed are the airway, where cough and wheeze arise, and the bowel, where dryness-type constipation sits. The seed's fixed oil, about 40 to 50 percent, is named as the basis of the bowel-moistening action. Its main chemistry is amygdalin, which the entry says is hydrolysed to glucose, benzaldehyde and hydrogen cyanide; cyanide inhibits the mitochondrial electron-transport chain, the body's respiratory metabolism. This is why the entry treats cyanide poisoning as the primary hazard, especially in children and during pregnancy, and why bitter kernels are classically processed. An in vitro anti-proliferative signal on colon cancer cells is reported as preclinical only, and the entry cites a Cochrane review finding no anti-cancer benefit from amygdalin. A Unani Canon note on the kernel's oil for hemorrhoids is recorded as a traditional claim, not a supported one.
+
 ### Contraindications
 
 - **Cyanide toxicity — primary hazard.** Raw bitter kernels can be lethal; poisoning is documented (Sauer 2015, above). Never self-dose raw kernels; never treat "vitamin B17" as safe.

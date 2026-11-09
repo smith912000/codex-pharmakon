@@ -46,6 +46,10 @@ General facts only. Edible snails are a food in several cuisines. Raw or underco
 
 **Practitioner's note.** Nothing to do. The snail is in two traditions for a few plain reasons: a food and poultice in Greece, a shell for worms and oedema in Tibet. Neither text assigns it a cultivation role. A cultivator can take from the Greek chapter the habit of asking where a food comes from and which kind it is, and from the Tibetan text the reminder that its own translators disagree on whether its "snail" is a snail or a slug.
 
+### Functional–Anatomical Correlate
+
+Snail maps to the stomach and intestines, the eyes, the skin and wounds, the uterus, the bladder and the nose. Dioscorides (2-11) says earth and sea snails are good for the stomach, the live flesh eaten eases stomach pains, and the field snail upsets the intestines while the river snail is poisonous. Burnt shell and flesh rubbed on with honey take away eye scars, corneal white spots and sunspots; raw snail with its shell dries dropsy tumours; flesh with myrrh and frankincense heals wounds around the tendons; pounded snail expels the menstrual flow; the whole snail in wine and myrrh treats colic and bladder pain; and vinegar with the flesh stops nosebleeds. The Tibetan texts say the shell is anthelmintic and purges oedema fluid, and that the slug or snail stops sinus or cerebrospinal fluid discharge. No humour or temperament is assigned to snails.
+
 ### Contraindications
 
 - **Parasites and poisoning.** Raw or undercooked snails can carry parasites such as the rat lungworm; Dioscorides warns that the river snail is "poisonous" and the field snail causes vomiting. Do not eat wild snails raw.

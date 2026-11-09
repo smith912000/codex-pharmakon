@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is an antidote-class drug of uncertain identity, from a genus generally regarded as toxic, with no preparation and no dose. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan name dpab.wo is given a fever-and-poison action. Clark 1995 says, outside the brackets, that it 'cures fever caused by poisoning'. Its commentary, for the yellow type only, says the drug 'neutralizes poison' and gives 'bitter taste, cool power' and a 'hollow yellow root'. Men-Tsee-Khang 2011 lists the name's group among medicines that cure poisoning, with the same potency as Khyungdher, and prints no potency for that drug. The texts name no organ, body system or tissue. The white type, to which this binomial is tied, has no taste or power printed. The commentary also calls the yellow type beneficial in horse and mule diseases, a veterinary remark the entry records as stated. No part used beyond the root's description, and no preparation, quantity or dose, is printed. The entry notes that pokeweeds are generally regarded as poisonous when eaten raw, and it gives no safe use.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Pokeweeds are generally regarded as poisonous when eaten raw, and the plant behind the Tibetan name is uncertain; no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Poisoning needs medical care. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

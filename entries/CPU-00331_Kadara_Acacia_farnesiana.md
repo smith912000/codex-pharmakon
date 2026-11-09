@@ -60,6 +60,10 @@ According to PubMed, the modern evidence is **preclinical (in-vitro / phytochemi
 
 **Practitioner's note.** Nothing. Its recorded use is clinical.
 
+### Functional–Anatomical Correlate
+
+Kadara acts on the gut and its flux, on wounds and skin, on the gums and mouth, and on microbial load at these surfaces. Its Ayurvedic actions are grahi and stambhana (astringent, anti-diarrhoeal), vranashodhana-ropana (wound cleansing and healing), kushthaghna (anti-dermatosis), dantya (dental and gum care), krimighna or antibacterial (traditional), and raktaprasadana (blood cleansing, as a group action), pacifying Kapha and Pitta with a cooling virya. The cassie flower is aromatic and is a refining note rather than a main action. Folk use covers dysentery and diarrhoea, skin infection, wounds, sore throat and, traditionally, tuberculosis. The twig serves as a datun. The modern evidence is preclinical. Methyl gallate, gallic acid and prunin from fruit extracts showed in-vitro activity against Mycobacterium tuberculosis, including a multidrug-resistant strain, and against dysentery bacteria. The entry grades it preclinical and not human-validated. High tannin means constipation and gastric irritation on prolonged internal use, and the essential material is for external aromatic use only.
+
 ### Contraindications
 
 High tannin content: constipation and gastric irritation on prolonged/high internal use; avoid in constipation-predominant Vāta states. Pregnancy/lactation: internal use best avoided without qualified guidance. Cassie absolute/essential material is for external aromatic use only, not ingestion; patch-test for skin sensitivity. Botanical-identity caution: "Kadara/Ari-mēda" covers several thorny *Acacia*/*Vachellia* species — confirm the species before sourcing.

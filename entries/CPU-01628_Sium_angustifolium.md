@@ -45,6 +45,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It supports the observation that a wild water plant is not a garden plant, which is a reason for restraint. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter states no use of its own and no body site. It says only that the plant 'has similar effects to the garden kind', which the chapter does not define. The entry does not credit the uses of the garden selinum to this plant, since those belong to the neighbouring chapter 3-74. The only other statements are the habitat, watery places, and the size, bigger than the cultivated kind. No temperament, taste, quality, humour, organ or tissue is printed for the plant, and the constituents were not read. Its names are campestre, water smallage and the Roman apium rusticum, and these are names only. Nothing in the chapter reaches the stomach, skin, eyes or any system, and the entry claims no body system for it.
+
 ### Contraindications
 
 The chapter says nothing of harm. As a general matter, wild plants of the carrot family that grow in water include dangerous poisons, and several resemble edible ones; the identification here rests on a translators' suggestion, so no wild plant should be gathered, eaten or applied on the strength of this entry. None of the traditional uses above is advice.

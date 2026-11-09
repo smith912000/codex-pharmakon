@@ -55,6 +55,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a poison drug in the Tibetan texts, named together with a fern, with two different tastes in the two editions, no preparation and no dose, and the species is the glossary's alone. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts place this drug's action in poisoning, bile and external sores. Clark's root-text layer, as his brackets mark it, says that Myricaria, with Adiantum, 'neutralize[s] meat poison and compounded poison'. Men-Tsee-Khang 2011 says that Vombu 'cure[s] meat poisoning and compounded poisoning' and lists it among the group of medicines that cure poisoning. Clark's bracketed commentary adds that the drug 'cure[s] bile fevers' and that 'external application of Myricaria is beneficial for sur.ya sores', which Clark's note glosses as metastatic cancer. The entry records these claims in the texts' own terms and does not translate them into modern organs. The energetic classification differs between the editions: Clark's commentary gives a bitter-sweet taste, while Men-Tsee-Khang places Vombu in the astringent taste group. Neither prints a power or a post-digestive taste. The species is uncertain between three, so the claims attach to the Tibetan name.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Poisoning and suspected cancer both need medical assessment; no preparation or dose is given, and no shrub should be gathered or used on the strength of this entry. Because the species is uncertain, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

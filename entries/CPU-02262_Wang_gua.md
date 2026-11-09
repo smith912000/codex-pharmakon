@@ -46,6 +46,10 @@ Several *Trichosanthes* roots are used in modern Chinese pharmacy; *T. cucumeroi
 
 **Practitioner's note.** A middle-grade drug taken, in the text's frame, for a defined complaint and then set aside. Nothing in the entry supports a long-term practice, the plant behind the name is not firmly identified, and no dose is given. The honest practice is to read the entry and leave the plant alone.
 
+### Functional–Anatomical Correlate
+
+The classic's indications for this root are internal and mostly concern the blood and the thirst. The Shennong paragraph names wasting-thirst (消渴), internal impediment (内痹), static blood (瘀血), closure of the monthly flow (月闭), cold and heat (寒热) and aching pain (酸疼). It says the drug boosts the qi (益气) and cures deafness, where the Codex reads the printed 俞 as 愈, 'to heal', and notes that this is a reading. In terms of the body, the entry maps to thirst, the menstrual system, the hearing and the blood. The classic gives no channel or organ assignment and no flavour beyond bitter and cold. Yang's note says the drug drains heat, moves the blood and expels stasis, and precipitates water and promotes lactation; the Codex records these as later commentary. The entry treats pregnancy as a contraindication by default, and its thirst, menstrual and hearing complaints need medical assessment.
+
 ### Contraindications
 
 The sources read print no warning. Gourd-family roots can be strongly active (some *Trichosanthes* roots are known to be unsafe in pregnancy), but that is a general statement about the genus and not something the sources say about this species, and the text itself lists "closure of the monthly [flow]" as an indication. Pregnancy should be treated as a contraindication unless a source says otherwise. [USER: verify] Nothing should be gathered or taken on the strength of this entry; a plant could not be matched to the name from the text read.

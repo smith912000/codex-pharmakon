@@ -62,6 +62,10 @@ The neuropharmacology of magnolol and honokiol is **well developed preclinically
 
 **Practitioner's note.** Nothing can be said about a classical cultivation status for magnolia bark. It is a drug of the later qi-moving, damp-transforming category, and its grade in the classic remains to be verified.
 
+### Functional–Anatomical Correlate
+
+The entry places Hòu Pò in the Spleen, Stomach, Lung and Large Intestine channels as an aromatic Qi-regulating, damp-transforming herb. Its stated actions are to move Qi and relieve fullness and distension of chest and abdomen, to resolve phlegm-damp, and to descend rebellious Qi, which it ties to wheeze, cough, hiccup, nausea and the throat constriction it calls plum-pit qi. The digestive targets are the stomach and intestine, where bloating and stagnation sit. The modern correlate offered is magnolol and honokiol, which the entry says cross the blood-brain barrier and act through GABAergic modulation and anti-inflammatory and neuroprotective pathways, with anxiety and depression among the psychiatric targets studied in preclinical work. On that basis the entry assigns a sleep wind-down role where somatic anxiety or chest and throat tightness blocks rest. It describes a volatile oil with digestive, Qi-moving action and notes magnocurarine, a curare-type alkaloid with possible neuromuscular effects at high exposure, and sedative interaction risk.
+
 ### Contraindications
 
 - **Qi/Yin deficiency without stagnation:** As a warm, drying, Qi-moving herb, it can further deplete in true deficiency states or dryness — classically contraindicated where there is no real stagnation to move.

@@ -90,6 +90,10 @@ This is a near-ideal result for the Codex's purposes: it *confirms* the ancient 
 
 ---
 
+### Functional–Anatomical Correlate
+
+In Galenic-Unani terms the corn poppy is cold in the first degree and moist, a mulaṭṭif (softening, demulcent) and mildly munawwim (sleep-promoting) agent, graded well below the opium poppy. Its target is the chest and throat: mucilage and demulcent polysaccharides form a soothing film on an irritated throat, the basis of the dry-cough and children's syrup tradition. For the nervous system the entry names restlessness, shallow sleep and wakeful children as the calming targets. The modern anchor is a 2001 mouse study in which a petal extract reduced locomotor, exploratory and postural activity. Thin-layer chromatography of the petals found anthocyanins but no alkaloids, and the sedation was not reversed by flumazenil, naloxone, sulpiride or atropine, so the receptor site is undefined. Rhoeadine-type alkaloids, concentrated in latex, capsule and green parts, are the proposed but unproven basis. The petal pigment (mecocyanin) is antioxidant rather than sedative, and the blood and heart symbolism is cultural only.
+
 ### Contraindications
 
 - **CRITICAL — do not confuse with opium poppy (*Papaver somniferum*).** *P. rhoeas* contains **no morphine, codeine, or thebaine** and is not a narcotic or an opioid substitute. Equally, the reverse must be respected: this entry does **not** license use of *P. somniferum* material. Do not represent field-poppy preparations as delivering opioid analgesia; they do not, and the sedation is naloxone-insensitive.

@@ -46,6 +46,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing here supports a cultivation practice. A gardener may grow Bergenia as an easy evergreen perennial, but the texts read do not establish that the Tibetan drug is this species, and two of the three tags have no locus.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry records one sourced use. Clark 1995's Tibetan entry for ga.dur gives balanced hot and cold power and hot and sweet tastes, and says the plant cures lung disorders, reduces swellings, and cures infectious fevers, lung fevers and channel fevers. Within the Tibetan frame, disease arises from the three poisons, producing wind, bile and phlegm, and the plant works on that humoral result rather than as a root-level cure. The entry warns that the Tibetan name carries five Latin identifications, so the lung and channel targets cannot be firmly tied to Bergenia crassifolia. No Unani or Shennong locus was found. It adds that Bergenia rhizomes are known in general for tannins and bergenin, but the proportions in this species were not read. No organ-level mechanism, dose or clinical study is recorded.
+
 ### Contraindications
 
 No safety data were read. Do not treat the traditional lung-fever and swelling uses as advice. Seek ordinary medical care for fever and respiratory illness. Tannin-rich plant material can upset the stomach, and the Tibetan entry shares its name with several unrelated plants, so do not substitute one for another.

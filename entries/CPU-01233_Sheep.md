@@ -48,6 +48,10 @@ General, well-established facts only. Burns are treated by cooling with clean ru
 
 **Practitioner's note.** A cultivator does nothing with this. It is two ingredients in two prescriptions, one for a burn that a clinician should see and one for a complaint whose name Bryan himself cannot translate with confidence. The one thing worth carrying away is the structural lesson of the burn passage: in this tradition the recitation and the drug are parts of one intervention, and reading the ingredient without the words loses half of it.
 
+### Functional–Anatomical Correlate
+
+The entry maps to the skin, to nerves or vessels, and to the bile. In the Ebers burn prescription ram's hair is applied to a burn, so the skin and wound tissue are the site, though Bryan frames the remedy within an incantation to Horus, which the entry treats as part of one intervention. The met, which Bryan says undoubtedly refers to the nerves in one reading and to the blood-vessels in another, is treated with a poultice that includes ram's fat, and the text does not decide between the two organs. In Avicenna's Canon the sheep's bile has the power of the ox's bile, and the general entry on biles calls bile hot, dry in the fourth degree and cleansing, so the gall is the organ named. Neither tradition gives a temperament for the sheep itself, and the Canon makes no claim about innate heat, radical moisture or the length of life.
+
 ### Contraindications
 
 - **Burns and wounds:** do not apply animal hair, fat or other raw animal material to a burn. Cool it with clean running water and seek care for anything large, deep, on the face, hands or genitals, or in a child.

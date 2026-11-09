@@ -40,6 +40,10 @@ General, well-established facts only. Goitre has several causes, including too l
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The vulture appears as a medicinal meat and as a warm, light food for phlegm disorders; for a cultivator the tradition's own lesson is the first of the ten negative actions, and the Codex does not recommend taking a vulture's life or its flesh. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Tantra's meat line gives vulture flesh 'increases [digestive] heat' and 'removes goiters' (both bracketed in Clark's rendering), so the sites are digestion and the neck, where the goitre lies. The Men-Tsee-Khang text reads 'generates heat and removes goitres', without the spirits clause. Vulture flesh is also in the group of birds of prey, whose flesh is said to raise digestive heat, disperse tumours, increase flesh and eliminate cold disorders; the vulture falls under that group by classification, so the qualities apply by inference. It is also among the meats listed as a food for phlegm disorders, placing it in the phlegm regimen. The text gives no taste, potency or humour for the flesh itself. The Tantra's wider frame, that the three humours are rooted in attachment, hatred and obscuration, and that the first negative action is taking life, adds no organ. No essence-extraction site is named.
+
 ### Contraindications
 
 - **Hygiene and infection:** flesh of a wild carrion-eating bird can carry bacteria and parasites; it should not be eaten or applied.

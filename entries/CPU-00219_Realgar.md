@@ -62,6 +62,10 @@ Arsenic is a recognised poison and carcinogen, and chronic exposure damages skin
 
 **Practitioner's note.** Nothing sourced here supports taking realgar for cultivation. The one tradition that grades it highly, the Chinese classic, does so inside an elixir literature whose own preface says the superior class is nontoxic, which the mineral is not. A cultivator can read the record for what it shows (a feared poison used by the ancients externally and in alchemy) and leave it alone. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Yang's Classic, bitter and balanced, treats cold and heat, mouse fistulas, malign sores, flat abscesses, haemorrhoids and dead muscles, and it addresses spirit-caused illness, evil qi and worms and insects. Mapped to the body, the claimed sites are the skin and sores, the anal region for haemorrhoids, the fistula tracts, the muscles and the whole body for cold and heat. The Dioscorides chapter gives antiseptic, astringent and scab-forming action, and says it represses abnormal growths and makes the hair fall out, so the skin and scalp are claimed sites. Sanskrit texts apply the mineral externally as plasters, medicated lint, oil and smoke for cough. The Tibetan orpiment entry, with realgar as its red kind, checks malignant glandular growths and necrosis, and the Men-Tsee-Khang reading adds gangrene of an inflamed lymph node. No Egyptian or Assyrian site is found, and the Avicenna citation is spine-only.
+
 ### Contraindications
 
 Realgar is an arsenic compound: toxic by mouth and by inhaled fumes, with long-term risks including cancer. Roasting or sublimating it releases arsenic oxides. Not for internal use, not for children or in pregnancy. Sale and use of arsenic-containing products is restricted in most jurisdictions; check the local rules. Skin contact with preparations can irritate and be absorbed.

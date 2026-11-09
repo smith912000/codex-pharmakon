@@ -96,6 +96,10 @@ Then the same plant poisons its own doctrine. Coltsfoot contains **hepatotoxic p
 
 ---
 
+### Functional–Anatomical Correlate
+
+Coltsfoot's cough action maps onto the respiratory tract. Its mucilage coats the irritated pharyngeal and tracheal mucosa, and its flavonoids and tussilagone terpenoids are described as anti-inflammatory and as acting on the airways. In the Chinese frame the flower bud moistens the Lung and descends rebellious Qi to stop cough. The entry's central safety concern is the liver. Pyrrolizidine alkaloids, chiefly senkirkine and senecionine, are bioactivated in the liver to reactive pyrroles that injure the hepatic sinusoidal endothelium, causing hepatic veno-occlusive disease with portal hypertension and ascites. The documented human case was an infant. The entry notes that PAs cross the placenta and enter milk, so pregnancy and breastfeeding are absolute avoidance. People sensitised to ragweed, chrysanthemum, chamomile or feverfew may cross-react. Existing liver disease and concurrent hepatotoxic drugs are also named as avoidance groups.
+
 ### Contraindications
 
 **PYRROLIZIDINE-ALKALOID HEPATOTOXICITY — the governing safety concern.** Coltsfoot contains hepatotoxic PAs (senkirkine, senecionine and N-oxides) that are bioactivated in the liver to reactive pyrroles which injure hepatic sinusoidal endothelium and can cause **hepatic veno-occlusive disease (sinusoidal obstruction syndrome)**, portal hypertension, ascites and, in severe or chronic exposure, irreversible liver failure. Toxicity is **cumulative and dose/duration-dependent**. A documented human case describes **veno-occlusive disease in an infant** exposed via a "coltsfoot" tea (Sperl et al., 1995). Because of this, coltsfoot is **restricted or effectively banned in several jurisdictions (e.g. Germany)** except as PA-free/low-PA preparations, and regulatory bodies set strict ceilings on total PA intake.

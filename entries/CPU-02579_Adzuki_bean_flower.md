@@ -44,6 +44,10 @@ The adzuki bean is a legume (Fabaceae) widely cultivated in East Asia for its se
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. A lower-grade flower, taken if at all for a stated complaint and a short course; the plant's seed, a food, is a different matter and a different entry of the classic.
 
+### Functional–Anatomical Correlate
+
+The paragraph names no organ, but it lists the conditions the classic treats. Malaria (疟) and agues with cold and heat (寒热) are fever patterns. Diarrhoea and dysentery (泄利) point to the gut. The yin does not rise (阴不起), which the entry glosses as a sexual weakness, maps to the genitals and reproductive function. Wine sickness (病酒) maps to the effects of alcohol, and headache (头痛) to the head. The Wu Pu layer adds that the drug stops thirst (止渴), and it calls the Shennong version sweet and toxic, which disagrees with the paragraph's balanced flavour. The tissue action of the flower is not shown, and the seed of the same plant is a food, not part of this entry. No channel, organ or mechanism is printed. The map is to the symptoms named, not to organs shown to be affected.
+
 ### Contraindications
 
 - **Lower-grade drug.** The Classic says lower drugs are mostly toxic and not for long use, and the Wu Pu layer calls this drug toxic; no toxicity is established here.

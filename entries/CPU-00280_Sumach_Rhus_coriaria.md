@@ -68,6 +68,10 @@ The genuinely modern layer is glycaemic and lipid support: pooled trial evidence
 
 **Practitioner's note.** There is nothing to cultivate with this in the subtle sense. It is a food seasoning and an astringent, taken in culinary amounts, and the attentive practice is correct identification and sourcing (not poison sumac).
 
+### Functional–Anatomical Correlate
+
+Per the entry, sumach acts on loose, over-relaxed tissue, which the Galenic and Avicennan frame calls cold and dry in the second degree, a strong astringent (qabid). Its named targets are the bowel (flux, looseness and a weak stomach), the gums and throat (relaxed gums, sore throat, gargle), and bleeding surfaces as a haemostatic. Dioscorides records the same internal and external uses, for flux, bleeding, weeping sores and mouth wash. The entry ties these to high tannin content as the mechanism of contraction. Its modern correlates are metabolic rather than astringent: pooled trials in metabolic syndrome report lower fasting glucose, insulin and HOMA-IR, with no effect on weight, HbA1c, lipids or blood pressure. One RCT reported raised HDL and Apo-A1, while the lipid meta-analysis was null, so the entry grades these as emerging or inconclusive clinical evidence. Large tannin doses may reduce non-haem iron absorption, and glucose-lowering drugs may add to hypoglycaemia.
+
 ### Contraindications
 
 - **Anacardiaceae family** — related to poison ivy/oak/sumac (*Toxicodendron*) and to cashew/mango; *R. coriaria* is the edible, non-urushiol culinary sumach, but genuine tree-nut/Anacardiaceae-sensitive individuals should approach with caution. (Do **not** confuse with toxic North American *Toxicodendron vernix*, "poison sumac.")

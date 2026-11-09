@@ -46,6 +46,10 @@ General, well-established facts only. Milk from different mammals differs in fat
 
 **Practitioner's note.** Nothing here is a practice. This milk is a footnote about external application, and the text gives no cultivation purpose. A cultivator has nothing to do with it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the only attestation is a translator's footnote saying that the milk of a she-mule 'sometimes prove[s] beneficial for external applications'. The text names no organ, tissue, disease, taste, potency or dosha. The one region it implies is the outside of the body, since the use is external, but no site or condition is given. The footnote does not carry over the milk group's praise of rejuvenation or ojas, and no internal system is mapped.
+
 ### Contraindications
 
 - **Not a food or medicine here.** The text does not recommend taking this milk internally.

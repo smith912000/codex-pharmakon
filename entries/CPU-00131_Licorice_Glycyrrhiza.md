@@ -196,6 +196,10 @@ Qiu F et al. (2014) and multiple Chinese pharmacokinetic studies document that g
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps licorice chiefly onto the adrenal cortex and kidney, the stomach, the liver and the lungs. Glycyrrhizin is said to inhibit renal 11beta-HSD2, keeping cortisol active, which the entry frames as adrenal-root support and, at high dose, as pseudoaldosteronism with sodium retention and potassium loss. In Traditional Chinese terms it is the Qi harmonizer for the Spleen and Stomach, the raw form acting on the Lung and Stomach and the honey-prepared form adding the Heart. Ayurveda gives it cooling, sweet, Rasayana and Medhya actions and a throat (Kanthya) role, and Tibetan medicine a lung and harmonising role. Its polysaccharides stimulate gastric mucin, and glycyrrhetic acid derivatives are said to reduce hepatocyte apoptosis and stellate cell activation. Liquiritin is described as acting on serotonin, GABA and hippocampal BDNF for mood. The entry names hypertension, hypokalaemia, digoxin, diuretics, pregnancy and chronic kidney disease as the limits.
+
 ### Contraindications
 
 **Hypertension (direct contraindication):** The 11β-HSD2 inhibition mechanism causes sodium retention and potassium excretion (aldosterone-mimicking effect). In hypertensive individuals, this will reliably elevate blood pressure further. Whole licorice root in any significant dose is directly contraindicated in diagnosed hypertension. Blood pressure should be monitored if initiating licorice use in normotensive individuals.

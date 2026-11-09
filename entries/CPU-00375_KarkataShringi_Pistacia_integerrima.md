@@ -75,6 +75,10 @@ Honest summary: the galls have a genuine, isolable flavonoid/tannin pharmacology
 
 **Practitioner's note.** Nothing to cultivate in the Sushrutan sense: a short-course cough and paediatric respiratory drug, attested in the classic only as an ingredient in remedies and one group.
 
+### Functional–Anatomical Correlate
+
+The entry maps Karkata-Shringi chiefly onto the respiratory system, which the tradition files under prāṇavaha srotas, and onto the digestive system, annavaha srotas. Its kāsahara and śvāsahara actions are aimed at cough and breathlessness, the kāsa-śvāsa complex, with productive, Kapha-type cough named as the best fit. Its paediatric home is childhood respiratory illness that comes with loose stool, so the respiratory and gut actions are read together. The grāhi (astringent, gripping) quality is said to check loose secretions and mild diarrhoea, while dīpana-pācana actions are described as digestive support. The dhātu given is rasa, glossed as respiratory and digestive mucosa. Doṣa action is Kapha-Vāta śāmaka, with a mild Pitta-increasing effect in excess. Chardighna (anti-emetic) and jvaraghna (antipyretic) actions are listed without a named organ. The modern correlate is limited to isolated gall flavonoids showing in-vitro xanthine oxidase inhibition, which the entry does not link to the respiratory use, and no controlled human antitussive trials were retrieved.
+
 ### Contraindications
 
 - **Pitta excess / heat states:** its uṣṇa (warming), rūkṣa (drying) nature can aggravate high Pitta, dryness, and inflamed/bleeding conditions; use cautiously in hot, dry constitutions.

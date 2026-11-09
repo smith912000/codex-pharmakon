@@ -44,6 +44,10 @@ General, well-established facts only. Bed bugs are common household pests that b
 
 **Practitioner's note.** Nothing. A cultivator takes no practice from this entry; the only lesson is historical, that a Greek physician listed vermin among his drugs. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides' uses reach several body systems, each given only as a use. Quartan fever, a periodic fever, is treated by seven bugs swallowed in meat with beans before a fit; the text names no organ. The bite of an asp, a venomous snake, is treated by the same bugs swallowed without beans. Fainting from constriction of the vulva, a female genital complaint, is treated by smelling the bugs, which revives consciousness through the nose and nervous system. Horseleeches, which the English says the bugs release when drunk with wine or vinegar, are said to be lodged at a site the text does not state. Painful urination is treated by crushed bugs placed in the urethra, the urinary tract. Avicenna's Canon adds a throat use, where a drink with vinegar or wine brings a leech out of the throat, and a womb use, relieving suffocation of the womb. No temperament, humour or cultivation role is given, and no reason is offered for any use.
+
 ### Contraindications
 
 - **Infection and allergy:** swallowing or handling crushed insects risks bacterial contamination and allergic reaction, and the insect is a household pest with an unsanitary habitat.

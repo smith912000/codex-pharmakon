@@ -47,6 +47,10 @@ Lead white was the main white pigment of European and Asian painting and a cosme
 
 **Practitioner's note.** A lower-grade drug in the Chinese scheme, to be taken for a defined complaint and for a short course, if at all, and in this case never: a lead compound has no place in a practice that aims to keep a person well. The classic's own grading is the warning. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Shennong text, in its lower class, gives the flavour acrid and the nature cold (wei xin, han), and its claims fall on the abdominal viscera, the bowel and the reproductive tract. The first item, hidden-corpse illness (fu shi), is described in the commentary as spells of pricking pain in the heart and abdomen with swelling, distention and panting, thought to be a hidden evil lying deep in the five viscera, so the mapping runs to the heart and the abdominal organs. Poisonous stings map to the skin at the bite. Killing the three worms is a claim about intestinal parasites in the gut. The second item, the tin mirror knob, is assigned to women's blood block (xue bi) in the reproductive tract, to concretions and masses (zheng jia) lying hidden in the bowel, and to cutting off pregnancy, which points at the uterus and menstrual blood. Modern terms for these sites are the heart, the abdominal cavity, the intestines, the uterus and the skin at a wound. The text names no other organ or channel.
+
 ### Contraindications
 
 - **Do not ingest or apply.** Lead white is a poison. Do not swallow it, put it on the skin, on wounds, or on the face as a cosmetic.

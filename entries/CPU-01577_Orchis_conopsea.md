@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a sweet orchid root with a reputation that Dioscorides passes on at a distance. The useful lesson is his method of telling a root by colour, bark and taste, and the abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: The chapter names only sexual and reproductive claims, each framed as a report. The root, held in the hand, is said to encourage venereal diseases, and a decoction of it drunk with wine is said to do so even more. The plant is also said to be an aphrodisiac, like scincus. The entry's translation renders the target as 'venereal diseases'; the text names no organ and no mechanism. The seed is described as like flax seed but big, firm, glittering and smooth, and the bark of the root as somewhat thin and red, with a white, sweet inside that is pleasant to the mouth. The habitat is sunny, hilly places. No temperament, humour, doshic, qi or energetic quality is printed for 3-144, and no leaf, stalk or flower is described. The chapter gives seven Greek names and one Roman name, which the Codex records as names only. No dose or preparation beyond these two routes is stated. The identification as Orchis conopsea is one of three suggested plants of two genera.
+
 ### Contraindications
 
 The chapter prints no warning. Wine with a root of unknown dose is not harmless. Many wild orchids are protected by law in many places and their tubers must not be dug; the particular status was not researched. The identification rests on a translators' suggestion that includes a plant of another genus, so no wild plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

@@ -42,6 +42,10 @@ General, well-established facts only. Copper compounds are irritant to the eye a
 
 **Practitioner's note.** Nothing here makes turquoise a substance for cultivation. The Greek text uses a stone, probably not even turquoise, as a sharp eye remedy; the Tibetan texts list it as a precious antidote and liver-heat remedy and give the longevity and rejuvenation lines to gold. A cultivator takes no practice from this entry. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Greek and Tibetan sources map different sites. Dioscorides' thyites, which the entry notes is only suggested as turquoise, is said to clean away things that darken the pupils, so its claimed target is the eye, in modern terms the pupil and the clear front of the eye. He calls it extremely biting, an acrid quality acting on that surface. The Tibetan rGyud-bzhi text lists turquoise among the precious substances and says it cures poison-fever and liver-fever; the 2011 Men-Tsee-Khang rendering calls it an antidote against poison and a cure for hot disorders of the liver. The liver is therefore the one organ the Tibetan texts name, with heat in the liver as the traditional pathology. Poisoning is a whole-body claim, and the text does not localise it. No tissue, humour or qualitative grade beyond these is given.
+
 ### Contraindications
 
 - **Toxicity:** turquoise contains copper; swallowing powdered stone or placing it in the eye risks irritation and copper poisoning, and unprocessed mineral may carry other metals.

@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this grain. It is a plain statement that it is food, ranked against another food. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter states that the grain is very similar to zea but somewhat less nourishing, that it is made into bread, and that a porridge called crimnum is similarly made from it. It names no organ, tissue, system, humour, dosha or qi term, and it records no medical use or effect on the body. Its one graded statement is about food value, the grain being less nourishing than zea, which is a judgement of nutrition and not a body action. The chapter gives no description of the plant, no habitat and no taste. No dose or preparation beyond bread and porridge is given. The identity is the translators' suggestion, credited to Bedevian, and the neighbouring chapters on zea and crimnum make their own claims that the Codex does not attribute to this grain.
+
 ### Contraindications
 
 Chapter 2-113 prints no warning. The identification is only the translators' suggestion, so no grain should be bought or eaten on the strength of this entry. Wheat-family grains contain gluten and are unsafe in coeliac disease and wheat allergy. The chapter gives no dose and no safety information for pregnancy or children. [USER: verify]

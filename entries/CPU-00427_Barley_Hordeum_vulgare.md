@@ -107,6 +107,10 @@ Germinated barley (barley malt) is rich in diastases, amylases, and proteases �
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps barley mainly to the digestive tract, the bladder, the cholesterol and glucose systems and the immune system. In TCM it benefits the Spleen-Stomach, cools Stomach heat, and as malted mai ya resolves food stagnation; through the Bladder channel it promotes urination and drains Damp that causes swelling. Ayurveda calls it cooling, light and dry, Kapha-reducing and anti-diabetic. The modern mechanisms given are beta-glucan in the gut, which forms a viscous gel, lowers LDL, blunts postprandial glucose and is fermented into butyrate for colonocytes, and barley tocotrienols that inhibit HMG-CoA reductase, the cholesterol-synthesis enzyme. Beta-glucan is also said to activate macrophages and dendritic cells through dectin-1, the entry's account of its antipyretic immune effect. On the skin, Dioscorides describes a flour poultice and Avicenna a poultice for inflammation.
+
 ### Contraindications
 
 - **Celiac disease / gluten intolerance** — barley contains hordein, the barley prolamin related to wheat gliadin; triggers celiac autoimmune response; absolutely contraindicated in celiac disease and likely in non-celiac gluten sensitivity; barley grass (the young leaf) does not contain gluten if harvested before grain formation — but commercial barley grass powder may be contaminated

@@ -79,6 +79,10 @@ According to PubMed, the phytochemistry is well characterised and supports the l
 
 ---
 
+### Functional–Anatomical Correlate
+
+Mapping runs through two channels. The root acts on the large bowel: its anthraquinone glycosides are cleaved by colonic bacteria and stimulate motility and secretion, which the entry names as the chemistry behind the Western downward purge. TCM places the root in the Heart, Liver and Large Intestine channels, to cool the blood, stop bleeding, clear heat, kill parasites and move the stool. The skin is the second target: eruptions, itch, sores and ringworm are treated through the bowel and topically, with antimicrobial and anti-inflammatory polyphenols given as a plausible basis. Galenic texts add the belly and hot skin. The seed is read as binding in dysentery, a contrasting action. The blood is described as cooled in TCM and cleansed in Western language, but the entry rejects iron supply to the blood, so no haematological mapping is supported. Oxalate in the leaves bears on the kidney and gout risk.
+
 ### Contraindications
 
 - **⚠️ OXALATE — the leaf hazard.** *Rumex crispus* leaves are high in soluble oxalates. Large or repeated ingestion risks nausea, and in extreme cases oxalate nephropathy and hypocalcaemia; livestock poisonings are documented. Avoid in oxalate-type kidney stones, renal impairment, and gout; keep culinary use of leaves small and always cooked.

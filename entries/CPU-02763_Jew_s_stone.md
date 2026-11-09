@@ -44,6 +44,10 @@ General fact only: a fossil of calcium carbonate would dissolve slowly in acid, 
 
 **Practitioner's note.** A mineral remedy for kidney stone that Avicenna also says weakens the stomach. Nothing in the passage bears on conserving innate heat. Nothing to practise.
 
+### Functional–Anatomical Correlate
+
+Under the digestive organs, Avicenna says the stone weakens the stomach, does not suit it and drops the appetite, so the stomach and appetite are the claimed sites. Under the excretory organs, the kidney is the claimed target: it is said to benefit kidney stone and bring it out. The bladder is named for bladder stone, a claim the text itself records and then rejects ('it is not so'). The rectum is named as a site the stone is said to cut. The draught is taken in hot water. The passage gives no temperament, so no hot or cold quality is mapped. In modern anatomy the claimed sites are the stomach, the kidney and ureter, the bladder, and the rectum, which together form the digestive and urinary tracts. The shape described has scale-like facets; the identity as a fossil is ours and only of medium confidence.
+
 ### Contraindications
 
 - **Stomach.** The source says it weakens the stomach and drops appetite.

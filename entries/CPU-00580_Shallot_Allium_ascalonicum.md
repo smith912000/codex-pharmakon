@@ -75,6 +75,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Shallot is classed by the entry as hot and dry in the third or fourth degree in the Galenic-Unani scheme, an opening, attenuating bulb. Its traditional sites are the digestive tract (stirring digestion, opening the bowels, stimulating appetite), the urinary passage (provoking urine), and the chest, where it is said to cut thick phlegm. Dioscorides also applies it with vinegar or honey to skin and wounds. Modern correlates named by the entry are antioxidant, antimicrobial and antiallergic actions from organosulfur compounds and quercetin-type flavonols, with a small trial showing added benefit for nasal and ocular symptoms in allergic rhinitis, and adjuvant roles in cardiovascular and glycaemic contexts per a systematic review. In TCM analogy it is acrid, warm and dispersing of qi and blood. Ayurvedic analogy reads it as pitta-aggravating in excess. For Buddho-Daoist monastics it belongs to the wu xin acrid roots to be avoided, held to inflame desire and anger and to cloud meditative clarity.
+
 ### Contraindications
 
 - **Anticoagulant/antiplatelet interaction:** organosulfur *Allium* compounds can inhibit platelet aggregation; caution with warfarin, aspirin, or other blood-thinners, and around surgery, at high or supplemental intake.

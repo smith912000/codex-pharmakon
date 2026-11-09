@@ -66,6 +66,10 @@ A separate study on the closely related *S. indicum* ssp. *distichum* (Bahgat et
 
 **Practitioner's note.** Nothing specific. It is a root used in compound formulas such as the Dashamula; a cultivator has no separate practice for it.
 
+### Functional–Anatomical Correlate
+
+The entry maps Bṛhatī chiefly onto the respiratory channel (prāṇavaha srotas) and the digestive channel (annavaha srotas), with the raktavaha secondary. Its karma lists kāsahara (anti-tussive), śvāsahara (anti-dyspnoeic), dīpana and pācana (kindling and digesting the fire), aruci-ghna (against loss of appetite), kṛmighna (against worms), hṛdya (cardiac tonic) and jvaraghna (antipyretic). In modern terms the claimed targets are the airway and lungs, the digestive tract and appetite, the heart, and intestinal parasites. Its Kapha-Vāta-pacifying action is set against Pitta excess, which it may aggravate. The metabolic and blood-pressure effects described are animal-only: a fruit extract in streptozotocin-diabetic rats lowered glucose and lipids, and a related subspecies lowered blood pressure in L-NAME rats. The entry grades the evidence as low and preliminary, with no controlled human trial for this species. Its contraindications include hyperacidity and peptic ulceration.
+
 ### Contraindications
 
 - Heating, sharp and kindling — caution in Pitta excess, hyperacidity, peptic ulceration and active GI inflammation.

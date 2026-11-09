@@ -158,6 +158,10 @@ González et al., IC₅₀ 2.8–21.5 µM ([DOI](https://doi.org/10.1016/j.fitot
 
 **Practitioner's note.** Nothing. The entry classes this as a deliriant poison, and no cultivation use is supported.
 
+### Functional–Anatomical Correlate
+
+The entry places the plant's action in the central nervous system, specifically the muscarinic cholinergic traffic that underwrites attention, sensory integration, reality-monitoring and new memory encoding, which tropane blockade is said to hold shut. It describes the tradition's reading as an oracular, sister-of-ololiuhqui revelation, but records the pharmacology as the reverse, a subtraction of signal. In Mexican folk-humoral terms it is fria (cold), wet, heavy and downward-moving, and the Badianus-tradition use for pain and cold swellings is named as genus-level at best. Its analgesic doctrine is called class-plausible but species-unevidenced. Peripheral effects named across the congener literature include mydriasis, hyperthermia, tachycardia, urinary retention, absent bowel sounds, rhabdomyolysis and respiratory failure, and the entry notes that tropanes are absorbed through skin and broken skin. No use is endorsed.
+
 ### Contraindications
 
 ☠️ **ABSOLUTE — USE IS PROHIBITED IN ALL PERSONS, BY ALL ROUTES, AT ALL DOSES, IN ALL PREPARATIONS. THERE ARE NO EXCEPTIONS AND NO QUALIFYING CONDITIONS.**

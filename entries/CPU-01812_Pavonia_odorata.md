@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Sushruta t
 
 **Practitioner's note.** Nothing here gives a cultivator a practice with this plant. In the Sushruta scheme Hrivera is a drug of the Pitta-soothing list, applied or taken in recipes prescribed by a physician. Nothing should be gathered or taken on the strength of a Latin name that the chapters do not give.
 
+### Functional–Anatomical Correlate
+
+Per the Sushruta Samhita (SS), Hrivera belongs to the Pitta-soothing group, so the text maps it onto the Pitta-disordered body, and its recorded uses reach the skin, the blood, the lungs and the gut. In recipes it appears in plasters and pastes for Pittaja Visarpa, a spreading inflammatory eruption of the skin, and for Svitra, a patchy loss of skin colour, where it is used burnt and mixed with peacock's bile. A decoction with honey treats the Pittaja type of diarrhoea (Atisara), and a compound licked up with honey and ghee is given for vomiting in fever, which the text says is equally useful for water-brash, hiccough, Rakta-pitta (bleeding from the lungs) and asthma. Ambu, glossed as Valaka, is one ingredient in a cough recipe taken with milk. The chapters do not assign these effects to named organs beyond the terms quoted, and the Latin Pavonia odorata is the appendix's positional pairing.
+
 ### Contraindications
 
 The Sushruta passages read print no warning for the drug itself. Several uses are for conditions that need medical care (fever with vomiting, *Rakta-pitta* or bleeding from the lungs, a spider bite, diarrhoea in the weak, a child said to be possessed). The identity is open, so no plant should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

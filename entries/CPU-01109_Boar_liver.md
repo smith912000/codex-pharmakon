@@ -38,6 +38,10 @@ General, well-established facts only. Liver from pigs and wild boar can carry he
 
 **Practitioner's note.** Nothing here supports a practice. The one thing the chapter teaches a practitioner is the physician's discipline of naming a material, the state in which it is taken (fresh, then dried and pounded) and the vehicle (wine). A cultivator takes nothing from this entry. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the one use stated is that boar liver, taken fresh, then dried, pounded and drunk in wine, is a remedy against the bites of snakes and beasts. The text names the liver as the material and the bites of snakes and wild beasts as the condition, and it names no body system or tissue beyond these. It gives no quality for the liver, no warming, drying or other quality, and no humour, taste or potency. The chapter gives no amount, time or ritual. Dioscorides' other liver chapters, for goat and for mad dogs, are separate entries with their own actions, and the boar-liver chapter gives no reason for its use.
+
 ### Contraindications
 
 - **Bites and stings:** snakebite and bites from animals that may carry rabies need immediate medical treatment; liver is not a substitute.

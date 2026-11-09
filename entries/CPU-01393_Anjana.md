@@ -74,6 +74,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+The claimed sites are the lungs, the eyes and the internal body. The Sushruta Anjana'di group, of which Anjana is first, is credited as a group with relieving haemoptysis, which maps to the bronchial and lung airways, with being anti-toxic, and with allaying the internal burning sensation of the body. The entry does not assign that burning to a dosha. Where anjana is an eye-salve, the chapters name the eyelids, the eyelashes and the eye itself: growth of eyelashes and cleansing of unhealthy secretions. Applied to a sutured ulcer, and in a plaster for a Pitta-type upadamsha (a term the entry does not expand), the skin and wound are the sites. The doshas, Vata, Pitta and Kapha, govern the choice of anjana by purpose and by the taste of its ingredients; that is a compounding rule, not an action of the drug. Sushruta gives no rasa, virya or vipaka for Anjana, and the entry's note on the group concerns the whole group, not the first member alone.
+
 ### Contraindications
 
 - **Toxic metals:** the translator's usual gloss ("black Antimony", "Antimony") is a heavy-metal material; antimony and lead compounds are poisonous.

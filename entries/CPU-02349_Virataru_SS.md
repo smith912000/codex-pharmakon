@@ -53,6 +53,10 @@ General, well-established facts only. Because Virataru has no secure botanical i
 
 **Practitioner's note.** Virataru is a name in a list. The tradition's text gives the drug a place among therapeutic groups and little more, and nothing in the record supports a cultivation use. A cultivator can learn from it only how Sushruta organises drugs into groups by action, and that some names in that classification are no longer certainly identified. Nobody should try to find a plant to match the name.
 
+### Functional–Anatomical Correlate
+
+Little to map: Virataru is named in the Viratarva'di group, said to subdue all disorders of deranged Vata and to help Ashmari (stone), Sharkara (gravel), Mutrakrichhra, Mutraghata and urinary troubles, which points to the urinary tract and bladder. That claim belongs to the group, not to Virataru alone. Sutrasthana ch.39 lists it among drugs that soothe deranged Vayu. Chikitsa ch.15 says oils may similarly be prepared with Virataru among other drugs, in the manner of the Vala-Kalpa oil, whose claims about strength and complexion belong to that oil and not to Virataru. Uttarasthana ch.40 includes it in an Amatisara (diarrhoea with ama) recipe, a mixture in which the text gives no effect for the drug alone. No part of the plant and no organ action specific to Virataru is stated.
+
 ### Contraindications
 
 - **Identity.** The drug is not securely identified; a wrong match could be harmful. Do not substitute any plant for it. [USER: verify]

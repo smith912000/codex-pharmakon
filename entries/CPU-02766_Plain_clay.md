@@ -44,6 +44,10 @@ General fact only: clay applied to skin is a drying, adsorbent paste; it does no
 
 **Practitioner's note.** A cooling, drying clay painted on the body. Nothing in the passage bears on conserving innate heat. Nothing to practise.
 
+### Functional–Anatomical Correlate
+
+Avicenna classes this clay as wholly cooling (mubarrid), drying and cleansing. Its claimed sites are the skin and body surface, where it is painted on, and the swollen (rahil) body, which it is said to dry without stinging. It firms flabby flesh, which maps to skin and subcutaneous tissue. For scrofula (khanazir) and hard swellings, applied with cerate, the sites are the glands and swollen tissue under the skin, which modern anatomy would call lymph nodes. Under the digestive organs the Canon names dropsical and wasted people, so the claimed sites are fluid retention (dropsy) and general wasting, and the entry says the clay heals much of the flesh. Washing the clay a second time is said to moderate it, balancing hot and cold. The entry names no organ beyond these surfaces, glands and the digestive heading, and no internal dose.
+
 ### Contraindications
 
 - **Hygiene.** Field clay can carry tetanus spores and other infection; never apply to broken skin.

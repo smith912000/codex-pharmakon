@@ -59,6 +59,10 @@ General, well-established facts only. Salts of various kinds have been obtained 
 
 **Practitioner's note.** A plant-derived salt, ranked with rock salt as a superior salt, taken for its place in the taste scheme and for the eyes. There is no cultivation use recorded. A cultivator can learn from the entry how the tradition reasons from taste to post-digestive taste (a hot, salty substance with a sweet after-taste that does not harm bile), but should not treat the entry as guidance for using any salt.
 
+### Functional–Anatomical Correlate
+
+Per Clark's rendering of the rGyud-bzhi and the Men-Tsee-Khang 2011 translation, wood salt is applied in the same way as rock salt and is said to be beneficial for the eyes, the Men-Tsee-Khang text saying it treats eye problems. By reference to rock salt, its uses are phlegm-wind combinations, indigestion and cold disorders. Its taste is salty, its potency normally hot, its post-digestive taste sweet and its power heavy. Among the salts it does not increase bile (tripa), and excess of it increases phlegm. The eyes are the one organ named directly. The other terms (phlegm, wind, bile) are the tradition's humoral categories, which the text does not assign to any organ, and none is imported here. The entry gives no channel, dose or preparation, and no method of applying it to the eye.
+
 ### Contraindications
 
 - **Excess.** Clark states that excess of wood salt and rock salt, through their heavy power, increases phlegm (line 783).

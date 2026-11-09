@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identifica
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a prickly thistle with drug uses by part and a reported amulet, with no stated quantity. The useful lesson is Dioscorides' method of naming the part used for each purpose, and the abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The entry maps the root and the seed to several body sites, by part. The root, taken in a drink, is given for those who spit blood, for gastritis (the stomach) and for the abdominal cavity, and it is said to encourage urine, which points to the urinary tract. Laid on the body as a poultice, the root is for oedema, a fluid swelling of tissue. A decoction of the root used as a mouth rinse is for toothache, so the teeth and gums are the named site. The seed, taken in a drink, helps convulsed children and those bitten by snakes, which points to the nervous system and to envenomation. The amulet statement, that the plant worn alone drives away poisonous creatures, is reported with 'They say' and names no organ. The chapter gives no temperament, taste, humour, doshic or qi term for 3-14. Its comparisons with chamaeleon and cnicus lead to other plants that the Codex does not read as this one. No dose is stated, and the identification is the translators' suggestion.
+
 ### Contraindications
 
 The chapter prints no warning. Spitting blood, convulsions in children and snakebite are medical emergencies, and a home preparation must not replace care. A prickly thistle must be handled with care. The identification rests on a translators' suggestion that the text itself does not confirm, and other chapters treat related thistles, so no wild plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

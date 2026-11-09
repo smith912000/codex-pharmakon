@@ -40,6 +40,10 @@ No clinical studies were retrieved for this entry. [USER: verify] General fact: 
 
 **Practitioner's note.** Shrimp is food with a warning in the text about salted and aged seafood. A cultivator has nothing here beyond that warning.
 
+### Functional–Anatomical Correlate
+
+Shrimp, in Avicenna's Canon quoting Galen, is mapped to the skin and blood, the swellings, the stomach and nourishment, and the generative system and bowel. Salted and aged shrimp are said to generate black bile (sawda) and a bad itch, which the entry places in the humoral account of the skin and blood. Galen is quoted as saying the shrimp dissolves hard swellings (al-awram al-sulba), a tissue-level action on masses. The shrimp is said to give good nourishment (ghidha salih), linking it to the stomach and the assimilation of food. Its generative claims are that it increases semen (al-mani) and increases coitus, relating it to the reproductive organs. It is also said to soften the belly (yulayyin al-batn), an action on the bowel, and to expel ḥabb al-qarʿ, which the entry glosses as tapeworm segments, a reading it marks for user verification. No temperament degree is given. The Galen comparison sends the reader to the crab entry for the state of the substance.
+
 ### Contraindications
 
 Shellfish allergy can be severe. Raw or poorly stored shellfish carry bacterial and parasite risks. The text itself warns that salted, aged shrimp "generate black bile and a bad itch" (line 18023). Fisheries are subject to sustainability and farming-practice concerns; these are general, not from the text.

@@ -51,6 +51,10 @@ General, well-established facts only. Water-lily flowers and rhizomes are used a
 
 **Practitioner's note.** Nothing here gives a cultivator a practice with this plant. In the Sushruta scheme it is a cooling water-lily in a list of its family, and an ingredient in recipes a physician prescribes. Nothing should be gathered or taken on the strength of a Latin name that the text does not itself give.
 
+### Functional–Anatomical Correlate
+
+The flower is described in Sushruta's terms as acting on the Pittam and Kapham, and the bulbs on digestion. The flower is sweet, slimy, demulcent, pleasing and cooling in potency (Sutra 46, line 1800), and the bulbs of the aquatic plants, Kumuda among them, are astringent, sweet after digestion and cooling (lines 1996-1999). Its place in the Utpaladi group (Sutra 38) carries group actions only. In Chikitsa 17 it is one drug in the Kalka of a medicated ghee for erysipelas, a skin infection in modern terms; in Kalpa 7 it is one item in an antivenom compound; and in Uttara 18 the leaves that wrap a cooking dish are named with it. No organ, tissue or channel is named for the plant itself, and the text assigns it no role apart from the compounds. Modern anatomy gives only the gloss that a demulcent soothes mucous surfaces, which the text does not state for this plant. No virya, vipaka, ojas, tejas or prana status is attested. The entry gives no preparation or dose for the plant alone, and the species identity rests on a positional pairing.
+
 ### Contraindications
 
 The Sushruta passages read print no warning for the drug itself. The identity rests on a translator's appendix and a positional pairing, so no plant should be gathered or used on the strength of this entry. Water plants can carry parasites and bacteria from the water they grow in. No pregnancy or conservation information was read. [USER: verify]

@@ -45,6 +45,10 @@ General, well-established facts only. Lotuses and water lilies are aquatic plant
 
 **Practitioner's note.** A lotus bloom in the cooling group, used against thirst, heat and bleeding, and as a scent in a fever room. Nothing here makes it a cultivation substance.
 
+### Functional–Anatomical Correlate
+
+The entry places Pundarika in the Utpaladi group, which the Sushruta Samhita says allays thirst and corrects deranged Pitta and vitiated blood. The group assuages the burning sensation of the body and is curative in vomiting, in Hridroga (angina pectoris), in syncope, in haemoptysis and in poisoning. In the stated terms the sites are the heart (Hridroga), the blood and its bleeding, the stomach (vomiting), the body surface (burning heat) and consciousness (syncope). Pitta and blood are the tradition's doshic and humoral terms. The flower appears in the Uttaratantra fever chamber, where it is used for scent, and it is not given an effect of its own there. No rasa, virya or vipaka is printed for it alone; the cooling quality belongs to the group. The entry flags the identity as unresolved between a sacred lotus and a water lily, and notes that the translator's red-lotus gloss conflicts with the usual white-lotus reading. No constituent, dose or pregnancy statement is found.
+
 ### Contraindications
 
 - **Identity.** Unresolved; the "red-lotus" gloss conflicts with the usual white-lotus reading. [USER: verify against a commentary.]

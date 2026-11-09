@@ -45,6 +45,10 @@ No identification is possible from the sources read, so no scientific correlatio
 
 **Practitioner's note.** Nothing to do. The drug is an unidentified name in a list, taken (so far as the text says) only as one member of a therapeutic group at a physician's discretion, and there is nothing a cultivator can responsibly use.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry gives only the group-level statement for the Arkardi group in which Indrapushpi is listed, Sushruta Samhita ch.38. The group as a whole is said to destroy Kapham (the text's Kaphani, bracketed as Kapham), fat and the effects of poison; to act as a vermifuge against worms; to act as an aseptic agent in an ulcer; and to prove curative in diseases of the skin. The text does not say which member does what, and it assigns no part, taste (rasa), potency (virya), post-digestive effect (vipaka) or dosha to Indrapushpi singly. The name is unidentified, so no body system can be tied to the drug itself from its own record. The OCR's 'ii' is a probable scan error for 'u', and the spelling is unverified. The chapter-end rule is the only guidance on use: the physician chooses plasters, decoctions, medicated oils, ghritas or potions to suit the case. Modern correlates the wording permits are skin and ulcerated tissue, intestinal worms, and fat.
+
 ### Contraindications
 
 - **Identity.** Unidentified; do not substitute any plant for it.

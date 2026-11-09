@@ -44,6 +44,10 @@ Tibetan / rGyud-bzhi (FMT): the chapter 20 line gives actions only (cures gall s
 
 **Practitioner's note.** A cultivator does nothing with this. The text lists human excreta as a medicine in a group of droppings, with no cultivation claim and no method. It is recorded here as history only.
 
+### Functional–Anatomical Correlate
+
+The Tibetan text gives human excreta three plain actions and one bracketed action. It is said to cure gall stones, which maps to the gallbladder and bile ducts, to neutralise poisons, and to reduce swellings. The bracketed clause says it subdues spirits. The Men-Tsee-Khang version agrees on gallstones (cholelithiasis), poisons and swelling, and has no spirit clause. The Tibetan frame names the three humours (wind, bile, phlegm), but the lines read do not tie this substance to any one of them. The sources give no taste, potency or humour for it, and no preparation, route or dose. The entry lists the material in a group of droppings, and the translator notes that such animal products are little used now.
+
 ### Contraindications
 
 - **Not a recommended practice.** This records a historical entry in a Tibetan materia medica. Nothing here is advice to take or apply human faeces.

@@ -43,6 +43,10 @@ No study of the plant was opened. There is no established treatment effect of a 
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The text's own comparison with hemlock is the practical lesson: do not use any wild carrot-family root without certain identification.
 
+### Functional–Anatomical Correlate
+
+The chapter maps its root onto several body systems. For the bite of harvest spiders, a decoction taken as a drink with wine is the stated action after the bite, reaching the skin and bloodstream, though the chapter names no tissue. The uterus and reproductive tract are the target of the claim to purge the menstrual flow and afterbirth, which the entry records as an emmenagogue action. For pulmonary consumption, a boiled liquid is sipped, which places the claim in the lungs and respiratory tract. For infection, the chapter reports on hearsay, “some say”, that a drink with wine twice or three times a day guards against infection in pestilential seasons, a whole-body and environmental claim with no organ named. The root is described as tender, round, sweet-smelling and pleasant to eat, a sensory quality. The chapter prints no warming, cooling, drying or humoral or qi framework. The plant is compared with hemlock in stalk and leaf. Its identity is the translators’ suggestion, with sweet cicely as an alternative, so the mapping is only to the text’s own claims. No amount is given.
+
 ### Contraindications
 
 Wild carrot-family plants are easily confused with poison hemlock and other deadly relatives. A preparation that brings on the menses and afterbirth is an abortifacient risk and must not be used in pregnancy. Do not forage from this entry. None of the traditional uses above is advice. [USER: verify]

@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. The honest answer is to do nothing with it on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the row names Chiric sanango or chiricaspi, Brunfelsia grandiflora, with 'documented shamanic use Putumayo' attributed to Schultes 1967 and a ResearchGate item. Neither source is on disk or was opened. Putumayo is the narrowest place given. The row names no people, plant part, preparation, constituent or dose, and the entry records that whether the plant is toxic was not read. It maps no organ, tissue or body system. No clinical studies were retrieved, and no quality is printed, so no humoral, doshic or qi correlate is given and no subtle-anatomy model is imported. The cultivation register is absent. Legal status is unchecked. The contraindications (pregnancy, medical advice with mental-health conditions or prescription medicines) are general caution the entry says is not found in the row, and it adds that nothing here means the plant is safe.
+
 ### Contraindications
 
 No safety data were read for this row. Because the plant is tied to shamanic use, use outside a qualified setting is unsafe in general terms. Do not use in pregnancy, and take medical advice, especially with any mental-health condition or prescription medicine. This is general caution and is not found in the row. Legal status varies and is unchecked. [USER: verify]

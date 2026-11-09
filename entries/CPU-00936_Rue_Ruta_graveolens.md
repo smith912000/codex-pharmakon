@@ -77,6 +77,10 @@ Separately, **Bernardo et al. (2002), *Cellular and Molecular Biology (Noisy-le-
 
 **Practitioner's note.** A cultivator does nothing internal with rue — the entry's toxicity, phototoxicity and abortifacient contraindications stand unsoftened, and no dose or route is offered. Its only living practice is apotropaic-ritual, where a culture attested it, and even that handles a poisonous, phototoxic plant. Rue carries no cultivation status in any tradition; it is catalogued for lineage and doctrine, contraindicated for practice.
 
+### Functional–Anatomical Correlate
+
+The entry maps rue first to the uterus and pelvis: it is an abortifacient, emmenagogue and uterine stimulant, and a violent mover of the reproductive sphere, which the Kenetica lower dantian note records without prescribing. Dioscorides adds libido suppression. Skin is the second target: furanocoumarins become DNA cross-linking agents in skin cells when activated by sunlight, causing phytophotodermatitis and blistering, and the fresh plant was used as a topical antiseptic. Internally the historical record lists the digestion and gut (carminative, colic, worms), the chest and joints (Dioscorides), and the Galenic resolvent action against cold nervous complaints. Overdose toxicity is recorded for the gastrointestinal tract, liver, kidneys and nervous system, with convulsions reported in poisoning. Furanocoumarins can alter drug metabolism through CYP interactions.
+
 ### Contraindications
 - **PREGNANCY — absolute:** documented abortifacient and uterine stimulant; potentially fatal to mother and fetus.
 - **Phototoxicity:** skin contact plus UV → severe phytophotodermatitis (blistering, hyperpigmentation). Avoid handling fresh plant in sun.

@@ -53,6 +53,10 @@ General, well-established facts only. *Fritillaria* is a genus of bulbous lilies
 
 **Practitioner's note.** A middle-class root taken for a defined complaint, by the classic's own account, and no more. Nothing in the record supports long-term use. The later reading of it as a lung remedy is Yang's modern gloss. A cultivator has nothing to do with it beyond reading it as a record.
 
+### Functional–Anatomical Correlate
+
+Per the Divine Farmer's Classic as Sun Xingyan prints it, Bei Mu is acrid and balanced and is listed for cold damage with vexing heat, dribbling urination, evil qi, mounting conglomeration (shan jia), throat impediment, difficult lactation, incised wounds and wind tetany. Read against body systems, the entry's own list touches the febrile state (cold damage with vexing heat), the urinary tract, the throat, lactation, the skin where wounds are, and the muscles and nerves in wind tetany. Mounting conglomeration has no modern equivalent in the entry and is not translated. The classic gives no channel or organ assignment; the lung and phlegm reading comes from Yang 1998's footnote and a later gloss by Zou Shu, and the entry does not import it. Only the root is named. The later Mingyi layer gives its harvest in the tenth month and sun-drying. No dose, preparation or duration is given, and the drug-relations table listing aconite as opposing it is a later layer.
+
 ### Contraindications
 
 - **Toxicity.** Several fritillaries are toxic, and the classic itself says the middle class may be toxic or not. Do not ingest bulbs gathered from the wild or from gardens. Many ornamental fritillaries are poisonous.

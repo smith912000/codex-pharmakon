@@ -97,6 +97,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places black nightshade in the liver, the skin and the eyes. Dioscorides' garden strychnon is a cooling crushed-leaf poultice for erysipelas, shingles, inflamed eyes, headache applied to the temples, and burning stomach. The Unani (ʿinab al-thaʿlab) frame calls it cold and dry in the second degree, a cooling repellent (radd) against hot fluxes of the stomach, liver, skin and eyes. Ayurveda's kākamācī is tikta-kaṭu, a liver, spleen and skin herb for shotha (swelling) and kuṣṭha. The Chinese lóng kuí is bitter and cold, cooling the blood, reducing swelling and promoting urination in heat-toxin and damp-heat states. The entry's modern reading is that a berry fraction rich in solasodine glycosides protects HepG2 liver cells in vitro, the basis for the liver claim. The unripe berry and raw mature leaf carry solanine and chaconine, which irritate the gut and, in quantity, act on the nervous and cardiac systems through cholinesterase inhibition.
+
 ### Contraindications
 
 - **Unripe (green) berries and raw mature foliage — POISON.** High solanine/chaconine content; ingestion causes GI distress, and in quantity, neurological and cardiac toxicity. Never consume green fruit. This is the single most important warning for the plant.

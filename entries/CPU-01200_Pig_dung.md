@@ -40,6 +40,10 @@ Tibetan: the line prints actions only, with no taste, power or post-digestive ta
 
 **Practitioner's note.** Nothing. A cultivator does not use pig dung. The text records it against indigestion and fevers, and the Codex keeps the record without carrying it into practice.
 
+### Functional–Anatomical Correlate
+
+Little to map: the text states actions only, that pig's stool 'cures indigestion, septic disorders, infectious fevers and bile tumors' (Clark). The Men-Tsee-Khang edition reads 'cure indigestion, epidemic and cholelithiasis', so the digestive tract, the bile and gallstones, and fever are the systems the two translations name between them. No taste, potency, post-digestive taste or humoral quality is printed for the stool. The line gives no spirit, protective or cultivation role, and no preparation, route or dose; it does not say whether the stool is taken or applied. The entry notes that other pig parts are classed separately. The Codex records the stool as a historical claim and does not recommend faeces as a remedy.
+
 ### Contraindications
 
 Do not ingest or apply pig or any animal faeces: the risk of bacterial, viral and parasitic infection is high. Fevers, sepsis ("septic disorders") and gallstones are conditions that need medical assessment. Pig products are prohibited in some religious traditions; respect them. This entry gives no medical advice.

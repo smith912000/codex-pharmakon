@@ -57,6 +57,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with Amla-vetasa: it is a sour ingredient in compounds for illness, and the Latin name is not the text's. Nothing should be gathered or taken on the strength of it.
 
+### Functional–Anatomical Correlate
+
+The Sushruta text places Amla-vetasa in the acid (amla) group, which is the only quality printed for it. Its uses are in compounds for several systems. A potion for Apatantraka and boluses for deranged Vayu (Chikitsa 5) concern the Vayu of the body as a whole. It is an acidifier of barley mantha for cutaneous affections (Chikitsa 10), so the skin is one system it touches. A head plaster is given for heat in the head, delirium, vomiting, hiccough and shivering in fever (Uttara 39), which maps to the head and the febrile state. Ghees with it are given for Vataja Gulma with colic and suppressed stool and urine (Uttara 42), and for Gulma with enlargement of the spleen (Uttara 42), which maps to the abdomen, spleen and the bowel and urinary passages. The text gives no virya or vipaka and no action singly. The identity is positional and open, and the sources give no constituent or dose. Gulma and persistent fever need medical care.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for this plant. The identity is open, so no plant should be gathered or used on the strength of this entry. Sour leaves rich in oxalic acid are a general hazard for people prone to kidney stones, which is a general fact about the dock family and not a finding of the text. Apoplectic convulsions, abdominal tumours and persistent fever need medical care. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

@@ -120,6 +120,10 @@ Seed extract lowered arterial pressure in anaesthetised rats (1–10 mg/kg) via 
 
 **Practitioner's note.** Nothing for a cultivator. This is a skin remedy used against a defined complaint, and the name *indrajao* is shared with a different drug (*Holarrhena*), so no regimen should be inferred.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Wrightia tinctoria maps primarily to the skin. Ayurveda places it in kushtha, the classical skin-disease category, as a bitter, astringent, cooling and drying drug for hot, wet, scaling lesions, and Siddha uses the leaf oil for padai and plaque-forming conditions. The latex is described as wound-sealing in Siddha practice. The seed (Indrayava) is assigned to the bowel for diarrhoea and dysentery, but the entry says that indication belongs to Holarrhena, not Wrightia. The modern correlate is an IL-17 and IL-23 reduction in an imiquimod psoriasis mouse model, and latex proteases that the entry names as the active principle in a mouse excision model of healing. Tryptanthrin and indigoid pigments are named as chemistry, not evidence. No human trial is retrieved. Cautions cover Apocynaceae latex, neat latex on mucous membranes and open wounds, antihypertensive interactions and pregnancy.
+
 ### Contraindications
 
 - **Apocynaceae latex caution — primary.** *W. tinctoria* is a copiously lactiferous member of a family notorious for cardiotoxic glycosides (*Nerium*, *Thevetia*, *Cerbera*). *W. tinctoria* is not among the family's classical cardiotoxins, and no cardiac glycoside toxicity was retrieved for it in this search — but **absence of retrieved evidence is not evidence of safety**, and the family-level prior is adverse. Neat latex should not be regarded as benign.

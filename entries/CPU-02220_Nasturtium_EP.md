@@ -50,6 +50,10 @@ General, well-established facts only. Watercress is a common edible aquatic plan
 
 **Practitioner's note.** A modern translator's English plant name in an Egyptian list and in one heart remedy. Nothing supports cultivation use, and the identity is a hypothesis.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives one organ system, and it does so only through Bryan's chapter heading and summary. Bryan's chapter XX is headed The Heart and Circulatory System, and in his summary a dozen remedies are described as meant to put the heart into proper working order and make it take up nourishment. Nasturtium appears only as one ingredient in a compound drink for those remedies, alongside figs, berries, incense, caraway, goose-grease, writing-fluid and sweet beer, and no quantity or method is given. The plant on its own is named in the list of plant remedies with no indication. Bryan's summary is not the papyrus formula, so the organ assignment is his and not the papyrus's. No temperature, taste, humour or channel is stated for the plant, and the identification as a cress is a modern hypothesis.
+
 ### Contraindications
 
 - **Identity.** The plant is not established. Do not substitute any cress, or the garden nasturtium, for it.

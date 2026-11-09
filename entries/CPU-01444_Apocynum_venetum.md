@@ -41,6 +41,10 @@ Cardiac glycosides in the dogbane family are well-established poisons in general
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a bait poison in Dioscorides, and the correct practice is to learn it so as not to be harmed by it.
 
+### Functional–Anatomical Correlate
+
+Little to map: Dioscorides, the only source, records the plant solely as an animal poison. Leaves put into bread and set out are said to kill dogs, wolves, foxes and panthers, and immediately to dissolve their lips. The lips are the only body part the chapter names, and it names them as affected in animals, not as a site of human action. The chapter gives no medicinal use for a person and no dose. Its energetic content is a 'heavy scent' and the translators' POISONOUS marker. The juice is described as yellow and somewhat viscous and the seed as small, hard and black, but the text does not say which system either acts on. No humoral, doshic or qi term is printed. The identification with A. venetum is the translators' suggestion, and the dog-and-wolf-killer names are shared with other chapters. The plant is poisonous, and the Codex makes no correlation to these claims.
+
 ### Contraindications
 
 Plants of the dogbane family can be dangerously poisonous, and the chapter records the leaves as killing dogs, wolves, foxes and panthers. Do not ingest it. Do not use in pregnancy. None of the traditional uses above is advice. [USER: verify]

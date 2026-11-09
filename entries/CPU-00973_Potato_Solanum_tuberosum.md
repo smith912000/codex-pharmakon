@@ -108,6 +108,10 @@ Kenetica's own classification: **Nutritive Base — Partitioned.** The defining 
 
 **Practitioner's note.** Nothing. The potato is a staple food in the frames tagged here; neither supplies a cultivation practice for it.
 
+### Functional–Anatomical Correlate
+
+The entry maps the potato onto the digestive tract, the blood sugar system and the skin, with a separate toxic action on the nervous system. The eaten tuber's starch and resistant starch are said to lower early postprandial insulin and GIP in one trial of overweight women with raised fasting glucose, with no change in glucose AUC, GLP-1, PYY or satiety. In post-Columbian Chinese materia medica the tuber is sweet and neutral, acting on the spleen and stomach, supplementing qi and harmonising the middle burner, which the entry says is inferred rather than sourced. The European folk reading holds the raw tuber cool and moist, used as a poultice on burns, scalds, bruises and swollen skin, and the cooked tuber warm and grounding. Toxicity maps onto two systems: glycoalkaloids disrupt gut membranes, causing nausea, vomiting and diarrhoea, and inhibit acetylcholinesterase, causing neurological signs. The entry says these concentrate in tops, skin, sprouts and greened tissue.
+
 ### Contraindications
 
 - **Never eat green, greening, sprouted, soft, shrivelled or bitter potatoes.** Bitterness and a burning or stinging sensation on the tongue are the practical warning signs of high glycoalkaloid content. Discard rather than trim. Cooking does not reliably destroy glycoalkaloids.

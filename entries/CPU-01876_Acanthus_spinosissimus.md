@@ -47,6 +47,10 @@ General, well-established facts only. *Acanthus* species are spiny herbs of the 
 
 **Practitioner's note.** Nothing here supports any cultivation use. The chapter's one lesson is to keep a wild plant and a garden plant apart even when the text says their roots do as much.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter gives no use of its own for the wild acantha. It says only that its root affects as many things as the root of the garden acantha in 3-19, so the uses are by reference to that chapter. Those uses are burns, dislocations, urine, loose discharges from the bowels, tuberculosis of the lungs, hernia and convulsions, which place the skin, joints, urinary tract, bowel, lungs, abdominal wall and nervous system in view. The chapter names no temperament, flavour or humour, and gives no quality such as warming or cooling. It describes the plant only as prickly and shorter than the garden kind, and compares it with a thistle-like plant. No preparation or dose is stated, and the species is an editorial suggestion of medium confidence, so the mapping rests on a reference to another chapter, not on this plant.
+
 ### Contraindications
 
 - **Identity.** The species is an editorial suggestion of medium confidence, and many unrelated spiny plants might fit "prickly, shorter". Do not gather a plant on the strength of this entry. [USER: verify]

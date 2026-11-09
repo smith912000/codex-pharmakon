@@ -49,6 +49,10 @@ General, well-established facts only. The identity is open, so no pharmacology c
 
 **Practitioner's note.** A three-sentence record of a Cypriot tree with no use and no identification. Nothing to do with it; a cultivator reads it as an example of an honest gap.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter, Dioscorides 1-182, says only that a tree grows in Cyprus that differs from the two trees before it. The chapter says it is an elm, which the translator queries as ash, with leaves similar to sycamine and fruit the size of prunes and sweeter, and in all other things similar to the two trees named before it. The chapter names no organ, tissue or system, and gives no use, part used, preparation or quality such as warming, cooling, astringent or drying. No rasa, humoral or doshic term appears in it. The translator marks the tree as UNKNOWN and the heading is transliterated Greek with no gloss. The entry therefore maps nothing to the body and draws no body correlate from the neighbouring chapters, which are separate entries.
+
 ### Contraindications
 
 - **Identity.** The tree is unidentified; do not substitute a fig, mulberry or elm for it.

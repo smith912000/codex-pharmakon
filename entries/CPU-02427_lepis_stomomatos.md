@@ -46,6 +46,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 **Practitioner's note.** Nothing to take from it for cultivation. The chapter is a short cross-reference to brass scales and its substance is unidentified. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the only body site the chapter states is the bowels. It says the scales of stomoma have the same strength as brass scales, that their washing and storage are the same, but that in purging the bowels they are less effective than brass scales. The purging, an evacuating action on the intestines, is the one function named. The chapter prints no quality of its own in Greek (DMM) terms, so no warming, cooling, drying or moistening quality is attached. Its comparison is to brass scales (5-89), whose claims include noma, dry rough eyelids and the expulsion of fluids; the entry says those are that chapter's claims and are not carried to the stomoma. The material itself is unidentified, and the chapter gives no other organ, tissue or condition.
+
 ### Contraindications
 
 - **Metal scales:** copper and brass compounds are irritant and toxic when swallowed; do not ingest them.

@@ -43,6 +43,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a foraged coastal vegetable and a short list of urinary, jaundice and menstrual remedies with no stated amounts, so it is history and not a practice. The chapter's useful lesson is its method of recognition by place, leaf, fruit and root.
 
+### Functional–Anatomical Correlate
+
+Dioscorides’ chapter 2-157 maps this coastal herb onto the urinary passages, jaundice and the menstrual system. Seed, root and leaves boiled in wine and drunk are said to help “frequent painful urination” and jaundice (modern: a bile-pigment condition of the liver and blood), and to “induce the menstrual flow” (the uterus). As a food the plant is eaten boiled or raw, which the chapter does not tie to any named organ. Its leaves are salty to the taste, its fruit sweet-smelling, and its roots fragrant and pleasant to taste, all sensory qualities rather than actions. The chapter prints no warming, cooling, drying or moistening quality; the word “warming” belongs to a different chapter, 3-88. The identity is the translators’ suggestion, shared with 3-88, so this is a map of Dioscorides’ claims for an uncertain plant, not a verified one.
+
 ### Contraindications
 
 Painful, frequent urination and jaundice are symptoms that need medical care, and a home preparation must not replace it. The use to induce the menstrual flow should not be self-treated, and no safety information for pregnancy was read. The identification rests on a translators' suggestion that is shared with another chapter (3-88), so no wild plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

@@ -81,6 +81,10 @@ Evidence grade: **preclinical.** The demulcent use is mechanistically shared wit
 
 ---
 
+### Functional–Anatomical Correlate
+
+Hollyhock is classed as cooling and moist, a demulcent with a mild astringency. Its mapped sites follow the traditions: the throat, chest and intestine, and the urinary passage, where it promotes urination, with the flowers, seeds and root used in Chinese practice for clearing heat and for menstrual and urinary complaints. The flower is the distinctive organ. The entry links its pigments and flavonoids to glucose handling in KK-Ay diabetic mice, through hepatic AMPK, IRS2, PI3K, AKT and GLUT4 signalling, and to increased glucose uptake in HepG2 liver-cell cultures. These are animal and cell findings, and no human trial was retrieved. Mucilage supplies the demulcent film over mucosa and the soothing skin poultice. The entry also notes in vitro cytotoxicity of isolated flower flavonoids, which applies to concentrated extracts rather than gentle infusions.
+
 ### Contraindications
 
 - **Absorption interference:** as with all mucilaginous demulcents, hollyhock can slow or reduce absorption of oral drugs taken at the same time — separate by 1–2 hours.

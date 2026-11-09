@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identifica
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The useful lesson is Dioscorides' habit of reporting disputed identities as disputed, and the abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Dioscorides' chapter 2-213 maps one use onto one organ: the eye. The substance called othonna, whether a juice, a mixture, a lozenge or a stone, is juiced and put into eye medicines for cleansing the eyes. The chapter says it has a biting nature and removes all things that darken the pupils. A lozenge made from a fluid that flows from the herb, washed and cleared of its stones, is named for the same use. The stone is described as biting to the taste, with a certain burning and astringency. The herb is described by its few holed leaves and a saffron-coloured flower, and the text notes that some think it an anemone, so the identity is disputed. Biting and astringent are the only temperament terms given. No other organ, dose or season is named. Modern anatomy would place this action in the eye, but the chapter gives no mechanism and the entry does not supply one.
+
 ### Contraindications
 
 The chapter prints no warning beyond the "biting nature" it ascribes to the substance. Anything biting put into the eye can injure it, and the chapter's own candidates include *hyoscyamus* and poppy. The identification is doubtful on the translators' own caution, so no plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

@@ -62,6 +62,10 @@ The indexed literature on *Kadenia dubia* is effectively limited to plant biolog
 
 ---
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that no species-specific pharmacology exists for Kadenia dubia, so no organ or tissue action is claimed for it. Its only functional content is inherited by family class. The Apiaceae aromatic umbels are described in the Galenic frame as warm and dry in the second degree, aromatic, dispersive and thinning, and the Dioscoridean doctrine for umbel seeds is that they are warming, carminative, diuretic and emmenagogue. The entry says family volatile terpenes are expected to relax smooth muscle and move stagnant gut, but it labels this as inference, not measurement. Ayurvedic katu and ushna qualities are marked as inferred, and TCM assigns no channel. The entry names furanocoumarin photosensitisation of the skin as the tissue-level hazard and advises avoidance in pregnancy and lactation. It records no cultivation status and no organ-specific claim beyond these class-level statements.
+
 ### Contraindications
 
 Because the phytochemistry is unknown, err strongly toward caution. Apiaceae commonly contain furanocoumarins that cause phototoxic dermatitis and can interact with drug-metabolising enzymes; assume this risk until proven otherwise. Avoid in pregnancy and lactation (umbel emmenagogue tradition and unknown constituents). Do not use internally without professional guidance. **Critical safety point:** correct identification is unreliable in this genus — misidentification among wetland umbellifers can be fatal (several Apiaceae are deadly poisonous). Never wild-harvest or ingest an uncertainly-identified marsh umbel.

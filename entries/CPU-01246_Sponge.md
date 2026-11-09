@@ -44,6 +44,10 @@ General, well-established facts only. A natural sponge is absorbent and holds ba
 
 **Practitioner's note.** A cultivator does nothing with this. It is a wound-care entry; the lasting lesson is Dioscorides' attention to which sponge, how old, how washed and how prepared, and not any benefit to the person. The honest use of the entry is as a record of what Dioscorides says.
 
+### Functional–Anatomical Correlate
+
+The sponge acts, in the Dioscorides entry, on wounds and ulcers, the flow of blood and the eyes, and in the Canon on the bladder. Dioscorides places its action at the surface of the body where a wound, contracted ulcer or callus sits, and in the bleeding vessels, since the sponge is said to restrain excessive discharges of blood and the burnt form with pitch is given for them. Burnt with vinegar it is used for dry sore eyes, and the chapter's only printed quality is astringent. In the Canon's Unani terms the fresh sponge is hot in the first degree and dry in the second, strong in drying, and it dries phlegmatic swellings and tumours, which places it in the tissues of the swelling. Its stone is said to break up bladder stones, placing one action in the urinary bladder, though the Canon treats that claim as unlikely. In modern anatomy the systems named are the skin and wound bed, the blood, the eye, tissue fluid and the bladder.
+
 ### Contraindications
 
 - **Infection:** a natural sponge or its ash in a wound, ulcer or eye is an infection risk; do not use them.

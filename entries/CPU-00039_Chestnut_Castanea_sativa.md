@@ -72,6 +72,10 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 
 ---
 
+### Functional–Anatomical Correlate
+
+Sweet chestnut's entry maps its action onto the respiratory tract, the intestines, the throat and gums, and the skin and mucous surfaces. The leaf and bark are described as astringent and drying, with ellagitannins (castalagin, vescalagin) and flavonoids said to tighten tissue and soothe the airways, which the entry ties to a soothing antitussive effect for spasmodic cough and whooping cough. Tannins are described as checking diarrhoea in the bowel, as a gargle for relaxed throats and spongy gums, and as a wash over lax tissues and minor bleeding. The nut is described as nourishing and starch-rich but binding, and the entry records that it can constipate when eaten in quantity. Galenically the nut is warm-temperate and dry and the leaf and bark cool-to-temperate and dry. The entry notes that high-tannin decoctions can impair non-haem iron absorption in the gut. Its Chinese (SBJ) tag is said to belong to a different species, so no Chinese organ map is assigned here, and European folk practice is recorded as food and therapy without a vital-body map.
+
 ### Contraindications
 
 - **Constipation / dryness.** The binding nut and astringent decoctions can aggravate constipation and dry conditions.

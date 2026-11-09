@@ -42,6 +42,10 @@ General, well-established facts only. Wool fibre absorbs a large amount of water
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. Wool is a dressing, a pad and a carrier in a Greek materia medica. The only lesson the chapter teaches is the habit it models: judge the material by touch and by taste before using it, and choose the softest. The Codex does not recommend raw fleece on wounds. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Wool maps, in the chapter's terms, to the skin and soft tissue of wounds and bruises, the bones, the stomach and the head. Unwashed wool, moistened in vinegar and oil or wine, is laid first on wounds, bruises, peeling skin, black and blue bruises and broken bones; the chapter attributes its use to absorbency and to the lanolin it contains, which softens. Applied with vinegar and rosaceum, it is given for headaches and for pains of the stomach or any other place. Burnt wool is described as scab forming, repressing excess flesh and drawing ulcers to a scar, so its action falls on ulcers and proud flesh of the skin. The washed ash is for eye medicines. The unwashed fleece has no humour, warming or cooling quality printed, and in Avicenna's Canon burnt wool is beneficial for ulcers and excess flesh, with no temperament. The Codex does not recommend raw fleece on wounds.
+
 ### Contraindications
 
 - **Wounds and fractures:** raw fleece is not sterile; open wounds, deep injuries and broken bones need clinical care and clean dressings.

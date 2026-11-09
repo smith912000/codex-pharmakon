@@ -161,6 +161,10 @@ The energetic classification is retained only for structural completeness. **A t
 
 **Practitioner's note.** Nothing. This is an identification and toxicology entry; there is no cultivation use, and no tradition retrieved supports one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the plant's only well-evidenced effect is local harm to the mouth and pharynx, where chewed calcium oxalate raphides are ejected into mucosa, causing burning, vesicles, oedema and dysphagia. It names airway oedema as the life-threatening route. It states that sap exposure injures the eye, cornea and conjunctiva, and that irritant contact dermatitis follows skin contact, worse on broken skin. The southern African folk poultice on intact skin is recorded as unvalidated. The entry states that the classical Mediterranean acrid 'arum' is not this plant. It states no medicinal use for any organ is supported, and that the species is studied for its genome, breeding and wastewater biofiltration. Children and pets are named as the at-risk groups.
+
 ### Contraindications
 
 ⚠️ **The entire plant is contraindicated for internal use in all persons, at all ages, in all conditions, in all phases. There are no exceptions and no protocol.**

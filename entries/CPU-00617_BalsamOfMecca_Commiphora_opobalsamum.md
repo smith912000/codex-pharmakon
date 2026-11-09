@@ -70,6 +70,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, balsam of Mecca acts on the skin, wound tissue and the airway, as a warm, dry resolvent. Dioscorides rates it warming and thinning, an emmenagogue acting on the uterus, and a wound-cleanser. Avicenna, in the Unani frame, places it on cold catarrhs, on clearing obstructions and on strengthening the viscera, as a desiccant. The Egyptian and Assyrian records are noted only as indication and ritual use of resins for wounds and fumigation. The modern correlates the entry cites are topical and extract-based: in mouse excision wounds a methanolic extract increased wound contraction, re-epithelialisation and collagen deposition and reduced Staphylococcus aureus colonisation, consistent with a skin-barrier and wound-matrix action that the entry links to its ceramide content. In vitro and mouse work reports inhibition of MRSA and Pseudomonas aeruginosa and reduced MRSA-related mortality. Aromatic fumigation is said to clear cold, damp catarrh. The entry states that no human trial establishes efficacy, and it cautions against pregnancy, mucosal irritation and resin sensitivity.
+
 ### Contraindications
 
 Aromatic resins can irritate skin and mucosa — patch-test before topical use. The warming/emmenagogue reputation and absence of safety data mean it should be avoided in pregnancy and lactation. No established safe internal human dose; do not ingest research-grade extracts. Burseraceae/resin sensitivity is possible in atopic individuals. Discontinue on any allergic reaction.

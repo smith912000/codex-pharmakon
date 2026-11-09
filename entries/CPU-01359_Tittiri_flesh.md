@@ -46,6 +46,10 @@ General, well-established facts only. The *dosha* terms (*vayu*, *pittam*, *kaph
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The text records the partridge-like Tittiri as a sweet, astringent, slightly heavy and heat-making bird meat, ranked among the best of its kind for food, taken in the diet after purgation, and used with care in fever. The Codex does not recommend it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The partridge-like Tittiri is named in the Vishkira group of birds, whose flesh is described as light, cooling, sweet and astringent, pacifying the humours. The Tittiri itself is slightly heavy and heat-making, sweet, spermatopoietic and appetising, and it improves the intellect and complexion and subdues the three deranged humours. The yellow Tittiri is curative in hiccough and dyspnoea and subdues Vayu. Mapped to the body, that points to the reproductive tissues (spermatopoietic), digestion and appetite, the skin's complexion, the mind, the diaphragm and upper airway (hiccough, dyspnoea), and the humours as a whole. The fever caution sets the flesh aside as heavy and heat-making unless Vayu predominates, and permits it only in moderate quantity.
+
 ### Contraindications
 
 - **Hygiene and infection:** wild-bird meat can carry bacteria, parasites and viruses (including avian influenza); thorough cooking is essential, and the Codex does not recommend sourcing it from the wild.

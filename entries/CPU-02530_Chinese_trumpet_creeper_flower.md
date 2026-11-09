@@ -45,6 +45,10 @@ In general knowledge the trumpet creeper flower is an article of Chinese pharmac
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. A middle-grade drug for a defined set of women's complaints, with an identity that Sun himself leaves open. Do not use a plant on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+The classic's paragraph maps this drug onto women's reproductive and blood systems: lingering illness after childbirth and nursing (妇人产乳余疾), 崩中 flooding (heavy uterine bleeding), concretions, masses and blocked blood (症瘕血闭), and the fetus (养胎, nourishes the fetus). It also names cold and heat with emaciation (寒热羸瘦), which concerns the whole body rather than one organ. In modern anatomical terms the first three point to the uterus, the blood and the postpartum tissues, but the text names no organ and the Codex does not assign one. The energetic terms are sour, or salty according to the Yulan, and slightly cold (味酸，微寒). The identity of the classic's plant is open: the Codex files the entry under trumpet creeper, but Sun Xingyan does not accept that identification, so the map applies only to the classic's plant as the text describes it. The nourishes-the-fetus claim conflicts with cautions about the modern flower in pregnancy, and the Codex advises no use in pregnancy.
+
 ### Contraindications
 
 - **Pregnancy.** The classic says "nourishes the fetus"; the modern flower is, in general knowledge, avoided in pregnancy. The two statements conflict, and the Codex advises no use in pregnancy. [USER: verify]

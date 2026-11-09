@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It may be said
 
 **Practitioner's note.** Nothing to cultivate: a cooling, astringent, wound-binding plant and diuretic. The nearest thing in the text to a discipline is Dioscorides' observation, relayed by Avicenna, that a plant which heals may kill the herds that graze it (the road-side kind from Babylon). Provenance matters.
 
+### Functional–Anatomical Correlate
+
+Avicenna describes Bermuda grass as cold and dry in the first degree, especially its fresh root, with an astringent strength and a sting. Its juice is said to prevent the pouring of matters to the viscera. Applied as a poultice, especially of the fresh root, it is said to close fresh bad wounds and bring them to scar. The juice is said to prevent all catarrhs (nawāzil) of the head. The seed and root are said to stop vomiting and check the flow to the stomach. The seed, licked, is a diuretic said to break stone, because of dryness joined to bitterness. The root does the same, and a decoction of both is said to help bladder ulcers. Drinking the decoction is said to be good for colic, difficult urination and ulcers arising in the bladder. For the eye, juice cooked with wine and honey, with myrrh, frankincense and aloe, is called a good eye medicine. The organs named are wound tissue, the head, the viscera and stomach, the bladder and the eye. No dose is given.
+
 ### Contraindications
 
 Historical record only. The entry reports that one Dioscorides kind kills the livestock that eat it and that cattle swell from eating another kind in quantity; no toxicity of the first, medicinal kind is stated. The recipes mix the plant with myrrh, frankincense, pepper and wine; no safety information on any is given. Do not treat any use here as medical advice.

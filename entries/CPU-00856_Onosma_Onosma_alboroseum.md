@@ -72,6 +72,10 @@ According to PubMed, the red-root wound tradition is the best-substantiated of t
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps Onosma onto the skin and superficial tissues: wounds, burns, ulcers and inflamed skin eruptions, with a blood-related reading in the traditional humoral sense. The Unani reading is cool and dry, a drying, drawing vulnerary for quruh (ulcers), burns and skin heat. Ebers material records red root pigments in salves for wounds, burns and skin eruptions, and Dioscorides describes the allied anchousa (alkanet) for ulcers and burns. The entry relates the red colour to the naphthoquinones alkannin and shikonin, which it says have wound-healing, anti-inflammatory and antimicrobial activity, with Gram-positive bacteria sensitive and Gram-negatives resistant. Zi Cao is cited as a cross-reference for cooling the blood. Internally, the entry places the pyrrolizidine alkaloids as hepatotoxic, with hepatic veno-occlusive disease as the risk, so the liver is excluded as a target. Species-specific clinical data are graded as absent.
+
 ### Contraindications
 
 - **⚠️ Pyrrolizidine-alkaloid hepatotoxicity — do NOT take internally.** *Onosma*, like other Boraginaceae, contains hepatotoxic pyrrolizidine alkaloids that can cause hepatic veno-occlusive disease (sinusoidal obstruction) with cumulative or high exposure. Internal use of the root or herb is not safe; reserve strictly for external/topical application, and prefer purified alkannin/shikonin preparations where possible.

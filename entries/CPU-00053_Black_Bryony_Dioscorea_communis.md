@@ -64,6 +64,10 @@ Codex policy: mechanism stated generally; named citations to be supplied and ver
 
 **Practitioner's note.** Nothing. The chapter is both uncertain in identity and marked poisonous, so it supports no cultivation practice.
 
+### Functional–Anatomical Correlate
+
+The entry maps black bryony mainly to the skin and the superficial tissues beneath it. Grated fresh root applied to intact skin is a counter-irritant that reddens and warms the surface and draws blood there, which the traditions read as dispersing cold stagnation; this underlies its use on bruises, black eyes, chilblains, swellings and rheumatic joints. The irritant action is attributed to calcium oxalate raphides and saponins acting on skin and mucosa. The Dioscoridean chapter, of uncertain identity, describes urinary, emmenagogue and spleen-reducing action and use for epilepsy and vertigo. Avicenna's Canon entry, which defers to fashra and gives no temperament of its own, lists relief of palsy in the joints, epilepsy and chest clearing in the head and chest, and the provocation of urine and menses in the excretory organs. Internal emetic and purgative use is recorded as obsolete, and the red berries are toxic to children.
+
 ### Contraindications
 
 - **Broken/sensitive skin.** The irritant root blisters and inflames; do not apply to broken skin or leave on long.

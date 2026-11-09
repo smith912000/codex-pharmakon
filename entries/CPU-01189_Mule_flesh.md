@@ -42,6 +42,10 @@ General, well-established facts only. Red meat is a source of protein, iron and 
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The mule is an ordinary meat in a food chapter, with the properties of mutton, and the Codex does not recommend eating it. Where a cultivator wants the Sushruta framework for diet, the chapter's grouping of foods by taste, potency and effect on the *doshas* is the thing to read, not this one animal. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Sushruta chapter maps mule flesh, with the horse and the ass in the unbifurcated-hoof (ekashapha) group, to digestion and the three doshas. The group verse says domestic-animal flesh is constructive, tonic and appetising, sweet in taste and digestion, destroys deranged vayu and produces kapha and pitta. The equine flesh, mule included, is given a slightly saline taste and the properties of mutton, which are constructive, tonic and heavy, generating pitta and kapha. The text names no particular organ for it, and no ojas, tejas or prana claim is made. In the Uttaratantra, a phthisis diet (a wasting disorder, modern tuberculosis) may include the flesh of the mule, variously prepared and well cooked. Powdered mule dung, in a chapter on prameha (urinary disease), is given as food. No dose is given.
+
 ### Contraindications
 
 - **Legal and cultural:** the sale and consumption of equine and mule meat is prohibited or restricted in many countries and is forbidden in several religious dietary laws; check the law and the person's own rules before offering it.

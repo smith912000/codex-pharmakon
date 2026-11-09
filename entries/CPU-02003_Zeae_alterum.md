@@ -46,6 +46,10 @@ General, well-established facts only. Einkorn is one of the oldest cultivated wh
 
 **Practitioner's note.** Nothing to do. This is a grain.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the chapter describes the single-grained kind of zea as a grain, more nourishing than barley and less nourishing than wheat when made into bread, and that the translator suggests einkorn. It names no organ, tissue, humour or quality, and no warming or cooling property. The neighbouring chapters, which the entry gives only as context and not as this kind's own claims, mention zea meal as more astringent to the bowels and zea starch as not fit for bodily use. The Codex notes that wheat-group grains contain gluten and are unsuitable for coeliac disease and wheat allergy. No preparation as a drug and no dose is given. The entry links the grain to no system of the body and no humoral or qi function beyond these food comparisons.
+
 ### Contraindications
 
 - **Gluten.** Wheat-group grains are unsuitable for coeliac disease and wheat allergy.

@@ -49,6 +49,10 @@ The entry's own words fit that frame: "Protracted taking may sharpen the ears an
 
 **Practitioner's note.** A superior-class entry in the Chinese scheme, and the only class the preface ties to long-term, life-nourishing use. The entry itself is brief and gives no dose, no preparation and no duration, so nothing here supports taking the fruit as an ongoing practice on the strength of the grade. A cultivator can read the entry for what the classic says (a superior-class drug whose long use "may" sharpen the ears and eyes and slow aging) and leave it there. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The entry maps the bladder, the center, the ears and eyes, and the body as a whole. The Shennong text says the drug 'mainly treats bladder heat, disinhibits urination, supplements the center, and boosts the essence qi'. Protracted taking 'may sharpen the ears and eyes, make the body light, and slow aging'. The bladder and urination are the organ and function named most directly. Center is a Chinese term that the entry does not map to a named organ. The ears and eyes are named as the sites of the protracted effect. Make the body light is the Shennong effect category and is not weight loss. The translator's footnote lists later urinary, reproductive and skin uses, which is a later layer and not the classic's claim, so it is not counted here. In modern anatomy terms the entry names the bladder and urinary tract, the ears and the eyes.
+
 ### Contraindications
 
 The entry prints no warning and no toxicity statement; the preface says the superior class is nontoxic and will not harm people even in large amounts and for a long time, a general statement about the class and not a safety finding for this fruit. No dose, preparation or safety information is given for it, and the identity is the translator's pharmaceutical Latin. Do not gather or take a plant on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

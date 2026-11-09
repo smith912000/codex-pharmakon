@@ -39,6 +39,10 @@ Avicenna: "in it is some heat" (line 13427); the "power of *shādanaj*"; like th
 
 **Practitioner's note.** There is nothing to practise here. The entry is an example of a Canon drug known only by its likeness to another.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry says the stone is like the milk stone in all its actions and has some heat and the power of shadanaj. The milk stone, as the Canon gives it, benefits the beginning of hot swellings and, as a kohl of its scrapings with water, prevents the flow of superfluities to the eye and the ulcers that befall it. Those map to the eye and eyelids, and to swellings, meaning inflamed tissue at the start of a hot swelling. The comparison with shadanaj is not explained in the entry and maps to no site. No temperament, humour, organ or channel is named for the honey stone itself.
+
 ### Contraindications
 
 - Identity unknown; do not infer safety from the word "honey."

@@ -49,6 +49,10 @@ General, well-established facts only. Nothing can be said of an unidentified mat
 
 **Practitioner's note.** A tree whose root is in the major five roots and whose oil colours a scar. A cultivator has nothing to use from it until it is identified.
 
+### Functional–Anatomical Correlate
+
+Tuntuka is a tree whose root is one of the five roots of the Mahat Panchamula group. The group is called bitter, with a sweet after-taste, light and appetising, and is said to subdue Kapha and Vata. In the combined Dashamula, with the other five-root group, the roots are said to destroy Vata, Pitta and Kapha and to help asthma and difficult breathing, so the chest and airways are the body regions the text names. In Chikitsasthana chapter 31 the expressed oil of Tuntuka is listed among oils used to give a yellow colour to a cicatrix, which places the action on the skin surface of a scar. The text ties the drug to no internal organ and names no constituent. The tree is unidentified, and no Latin name, description, habitat, or preparation method for the oil is printed.
+
 ### Contraindications
 
 - **Identity.** The tree is not identified. Nothing may be gathered, bought or used on the strength of this entry. [USER: verify]

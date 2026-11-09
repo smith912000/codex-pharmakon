@@ -44,6 +44,10 @@ General, well-established facts only. Grains of this species are eaten as a food
 
 **Practitioner's note.** Nothing to practise. A coarse grain eaten as food in the season the text names; the cultivator's act is dietary, within the text's own caution that the genus tends to produce retention of urine, and nothing here supports a cultivation use beyond that.
 
+### Functional–Anatomical Correlate
+
+Per the Sushruta Samhita (SS) passages cited in the entry, Kodrava is a grain of the Kudhanya genus, and its claims reach the skin, the urinary tract, the humoral balance and the sinus tract. Sutra ch. 46 gives its taste as sweet and astringent and says it is curative in Sheeta pitta, which the entry renders as urticaria, a skin condition. The same passage says the genus tends to cause retention of urine and to enrage Vayu and Pittam, and that it is heating and subdues Kapha. Kalpa ch. 8 uses its straw in a fumigation against the poison of a venomous insect. Chikitsa ch. 17 lists its seeds among drugs pounded for a sinus, a Nadi, but the entry notes that this activity cannot be assigned to Kodrava alone given its companion drugs. The entry states no virya or vipaka for Kodrava by itself. The Codex records these passages as historical, not as practice.
+
 ### Contraindications
 
 - **Identity.** The Latin pairing rests on the appendix's position and on the grain context of the chapters. Do not gather or use a plant on this basis. [USER: verify]

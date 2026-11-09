@@ -46,6 +46,10 @@ General, well-established facts only. *Achillea ptarmica* is a European perennia
 
 **Practitioner's note.** Nothing to cultivate here. The record is of a sneeze-inducing plant and a poultice for bruising. A cultivator can take from Dioscorides the habit of identifying a plant by its form, place and smell, and nothing more.
 
+### Functional–Anatomical Correlate
+
+Dioscorides' Ptarmike, read here as the sneezewort Achillea ptarmica, is mapped by the entry to two sites. The leaves, smeared on together with the flowers, are said to take away bruises below the eyes, so the claimed action is on the skin and soft tissue of the area under the eye socket. The flowers are said to induce sneezing most effectively, which places the claimed action on the nasal lining and the sneeze reflex of the upper airway, through a sharp smell. The chapter gives no humoral, temperament or four-quality classification; Dioscorides describes the head only as sharp according to the smell. No dose, timing or preparation beyond smearing is stated. The entry notes that sneezing powders irritate the nose and eyes, so this is a record of a claim, not a recommendation.
+
 ### Contraindications
 
 - **Irritant.** Sneezing powders irritate the nose and eyes. Avoid any such use.

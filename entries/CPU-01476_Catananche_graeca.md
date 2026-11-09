@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice. The only use is a reported love-charm, and no illness is treated. The abstentive answer is the correct one.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry states only that both kinds of the plant are “good for liquid love medicines”, a report Dioscorides attributes to some unnamed authors and to the Thessalian women. No body system, organ or tissue is named, and no illness is treated. The chapter’s description gives parts rather than actions: a long-leaved kind with a thin root and rush-like heads, and a second kind the size of a little apple with olive-like leaves and small red seed. The seed is said to be similar to ervum and like cicer, which are comparisons, not effects. The chapter gives no warming, cooling, drying or humoral quality, and no doshic or qi framework. No preparation, part or dose is given for the love medicine, and nothing is said about its effects on mind or body. The Codex maps no body system to this entry. The identification as Candy Lionsfoot is a translators’ suggestion, and the Codex records the love-charm report without endorsing it.
+
 ### Contraindications
 
 None is printed in the chapter. The plant is not securely identified, and the only recorded use is as an ingredient in a "love medicine", which should not be given to anyone without their knowledge and consent. Do not use in pregnancy.

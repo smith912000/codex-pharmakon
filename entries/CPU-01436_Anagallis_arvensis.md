@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing here gives a cultivator a practice. A weed with two flower colours is recorded, with local and internal remedies attached and a translator's warning that it is poisonous. The abstentive answer is the correct one.
 
+### Functional–Anatomical Correlate
+
+The chapter's uses map to skin and wound tissue, the head and nose, the teeth, the eyes, the kidneys and liver, and viper bites. The plant draws out splinters or thorns that have run into the body, drives away inflammation, and represses gangrenous ulcers. The juice gargled is said to purge the head of mucus, and the juice put into the nostril opposite a sore tooth stops toothache. With Attic honey it helps the moisture of the eyes and small white corneal ulcers. Drunk with wine it is good for kidney and liver ailments, for dropsy and for viper bites. The Canon of Avicenna, which the entry cites under the Unani tradition, adds that gargled or taken as snuff it brings down much phlegm from the head, helps kidney pain, and suits wounds. The Canon makes no statement about innate heat or moisture for this plant. The disputed use, prolapse of the perineum, is attributed to one kind by some and to the other kind by others.
+
 ### Contraindications
 
 The translators mark the plant POISONOUS and note anaemia and dermatitis. Handling can irritate the skin, and the juice put into the nose or eyes, or the plant drunk in wine, is not safe to try. Viper bite, dropsy, and kidney and liver disease need a clinician. Do not use in pregnancy. None of the uses above is advice.

@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing here for a cultivator. The tradition is represented by one list row, and no text read says what was done with the plant or why. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names only the genus Quercus, from one list row, and gives the Assyrian name as allanu, with the Sumerogram allanum and a further form haluub, without saying which tree part or which text each form comes from. Its one mechanistic statement is a general fact, that oak bark and galls are rich in tannins, and the entry does not tie tannins to any organ of a person. No body system, organ or tissue is named for the Assyrian use, and no tradition term for its action is given. The Assyrian frame is described as classifying illness by causal agency, but no classification of oak by agency is attested. No preparation, dose, use or clinical study is given. The entry's general caution, marked as not found in the row, says tannin-rich preparations may irritate the stomach.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, oak bark, acorn and gall preparations are rich in tannins and may irritate the stomach, and they should not be taken in pregnancy, while breastfeeding, by children, or alongside prescription medicines without medical advice. This is general caution and is not found in the row. [USER: verify]

@@ -45,6 +45,10 @@ General, well-established facts only. *Convolvulus* is a genus of twining and tr
 
 **Practitioner's note.** A name on a list, with no use stated. The Samhita text on disk gives no grade, no preparation and no dose, so the entry offers a cultivator nothing to practise.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives no body system, organ or tissue for this plant. Its one source is an Appendix 3 line printed 'Convobrelus repens', which the entry reads as a corrupted Convolvulus repens, with the epithet shared by several plants and no English name. The line gives no part used, no use, no preparation and no dose, and no rasa, virya or vipaka is printed for it. The entry's general note, not a claim about the Sushruta drug, is that the morning-glory family includes some plants whose resins are purgative and others eaten as vegetables. No analytical source was retrieved, and no cultivation status is attested. Nothing is said on pregnancy, lactation or children. The entry's own instruction is not to gather or use anything on the strength of this record, and the Codex gives no protocol for it.
+
 ### Contraindications
 
 - **No safe-use statement exists in the sources retrieved.**

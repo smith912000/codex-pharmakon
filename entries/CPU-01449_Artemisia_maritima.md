@@ -41,6 +41,10 @@ Wormwoods in general have a long history as bitter herbs against intestinal worm
 
 **Practitioner's note.** A cultivator takes from the chapter the habit of identification by habitat and sensory assay, and its caution. A bitter herb the text itself calls bad for the stomach is a short-course vermifuge in the record and nothing more.
 
+### Functional–Anatomical Correlate
+
+Dioscorides places the effect of this herb in the bowels and the stomach. Boiled by itself, or with rice, and taken with honey, it is said to kill threadworms and roundworms and to loosen the bowels gently, which maps to the intestinal tract and its parasites. Boiled with sapa or with lentils it is said to do the same. The chapter also says it is bad for the stomach, so the stomach is named as a site of harm. Its qualities are printed as 'somewhat bitter', 'astringent with some heating' and 'strong smell', and no humoral, doshic or qi term appears. Cattle grow very fat on it, a fodder note rather than a claim about human anatomy. The identification with A. maritima is the translators' suggestion, and the santonicum name may overlap with the next chapter. These are historical claims, and the Codex makes no correlation to them.
+
 ### Contraindications
 
 Dioscorides himself says the herb is bad for the stomach. Wormwood-group herbs in large amounts can cause toxicity, which is a general statement. Do not use in pregnancy. No traditional use above is advice, and no dose is given.

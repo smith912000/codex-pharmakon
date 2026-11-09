@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a heart-fever and gynecological drug in the Tibetan texts, with no preparation and no dose, and the plant behind the Tibetan name is uncertain between four candidates. The abstentive answer is the honest one; the goji berry's reputation as a tonic is not a Tibetan claim for this name in the lines read.
 
+### Functional–Anatomical Correlate
+
+The texts map this drug to the heart and to the female reproductive system. Clark's root-text layer says the seed 'cures heart fevers and gynecological disorders', and Men-Tsee-Khang's running text says the fruit 'cures cardiac hot disorder and gynecological disorders'. The heart (cardiac) and the gynecological sphere, which in modern terms covers the uterus and the female reproductive tract, are the organ areas named, and fever and hot disorder are the states named. The entry does not define the Tibetan heart-fever term or say which gynecological conditions are meant. The part is the seed in Clark and the fruit in Men-Tsee-Khang, and neither gives taste or power in the line. Clark's commentary alone describes a sweet-tasting reddish-brown seed. The glossary's English name for the same place, Motherwort, belongs to a mint-family herb of a different genus. The entry does not match any of the four candidate plants to these organ actions.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Heart complaints and gynecological disorders need medical assessment; no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Because the identity is uncertain, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read, and the drug is recorded for gynecological disorders, so pregnancy is a question this entry cannot answer. [USER: verify]

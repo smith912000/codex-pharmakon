@@ -40,6 +40,10 @@ General facts only. Peafowl and other game birds must be cooked through and hand
 
 **Practitioner's note.** Nothing here is a practice. In Sushruta the peacock is a food whose stated benefits are to skin, hair, voice and the senses, and the passages that bear on a cultivator are the cautions: some authorities avoid it in fever as heavy and heating, it is taken unsalted in diarrhoea, and it is never boiled in castor oil. A person who eats meat may read the classification as the tradition's own description of the food; a person who does not has nothing to adopt.
 
+### Functional–Anatomical Correlate
+
+The Mayura, the peacock, is placed by Sushruta in the Vishkira group, described as light and cooling, and the bird's own statement lists the body parts it reaches. Its flesh is said to be astringent and saline in taste, beneficial to the skin, helpful for the growth of hair, improving the voice, intellect, appetite and relish for food, and imparting strength and vigour to the organs of sight and hearing. The skin, hair, larynx, mind, digestive appetite, eyes and ears are the sites named. Some authorities hold the peacock's meat heavy and heat-making in fever, so it is avoided except in moderate quantity. The diarrhoea diet allows an unsalted soup of peacock, and the king's anti-poison diet counts its flesh among poison-destroying foods. The text gives no mechanism, and the flesh is not stated to act on any other organ.
+
 ### Contraindications
 
 - **Food safety:** poultry-type birds carry *Salmonella* and *Campylobacter*; cook through and keep raw and cooked foods apart.

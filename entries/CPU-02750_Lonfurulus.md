@@ -48,6 +48,10 @@ General, well-established facts only: absorbent clays and chalky minerals dry wo
 
 **Practitioner's note.** Nothing to do. An unidentified drying stone, recorded for the record only.
 
+### Functional–Anatomical Correlate
+
+In Avicenna's terms this drying, astringent stone (drying without stinging, preventing the flow of matter to the organ) is mapped to several sites. For wounds it is useful for ulcers and abscesses, especially those in the soft organs. In the eye it is said to benefit gharab, the lacrimal swelling or fistula, and it enters eye medicines for ulcers. The excretory heading names the chest and lungs (spitting of blood), the bowel (chronic diarrhoea), the bladder (pain), and a bleeding site to which it is borne as a suppository to cut off bleeding. Modern anatomy maps these to skin and soft tissue, the lacrimal apparatus of the eye, the lungs, the large intestine and the bladder. The suppository route is used, but the text does not name its site. The passage gives no degree of heat or cold, and the stone's identity is not fixed.
+
 ### Contraindications
 
 - **Identity.** Not established; do not substitute Cimolian earth or any other clay. [USER: verify]

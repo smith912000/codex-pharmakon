@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a urine, thirst and diarrhea drug, and once a cooked vegetable, in the Tibetan texts, with no dose, and the binomial behind the Tibetan name is uncertain. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The texts give this drug actions on the urinary tract, on thirst and on the bowel. Men-Tsee-Khang's running text for Champa says it 'clears obstruction of urine, relieves thirst and stops diarrhea', and it lists Nyiga among the diuretics, which act on urine. Clark's line for the cognate name lcham.pa gives 'cures urinary retention, diarrhea' and thirst, which agrees in kind. Diarrhea is a bowel state in both texts, and the entry does not name the bowel part. In the diet passage the cooked plant is said to 'generate heat and stop diarrhea', which is the only quality, heat, that the texts print for the name. Clark's commentary gives sweet and astringent tastes for the drug, and no power. The part used in the drug sentence is not stated. The glossary sets the English Blue mallow against the binomial Malva botka by column position. The organ map therefore covers urine, thirst and bowel, and attaches to the Tibetan name.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Urinary obstruction and diarrhea need medical assessment; no dose is given, and no plant should be gathered or used on the strength of this entry. Because the identity is uncertain, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

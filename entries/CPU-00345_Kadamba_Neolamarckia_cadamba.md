@@ -60,6 +60,10 @@ According to PubMed:
 
 **Practitioner's note.** Nothing to cultivate with it. Its attested place is therapeutic, and no rejuvenative status is recorded in the sources read.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Kadamba acts on the digestive and excretory channels, which it names as the purīṣavaha (faecal) and mūtravaha (urinary) srotas, and on the rasa and rakta dhātus. Its astringent-cooling action (kaṣāya-śīta, stambhana) is aimed at the bowel: bark and fruit are given for atisāra (diarrhoea and flux) and pravāhikā (dysentery-type states), where it is said to gather and bind excess discharge. The tradition also assigns śothahara (anti-oedema), dāha-praśamana (relief of burning) and vraṇaropaṇa (wound healing, as an external decoction), plus mūtrala (diuretic) and prameha-hara actions for polyuric states, which the entry marks as traditional only. In modern terms the entry links its tannins to astringency and its phenolics and flavonoids to antioxidant and antibacterial effects, all from laboratory work. The entry maps the physiology to gut mucosa and the urinary tract, and keeps its devotional symbolism separate from the body mapping.
+
 ### Contraindications
 - Astringent-dry character can **aggravate Vāta**, constipation, and dryness — combine with appropriate anupāna in Vāta constitutions.
 - The **antidiabetic use is not scientifically validated** here; anyone using it for glycaemic control must not substitute it for prescribed treatment and must monitor with a clinician — `[USER: verify with clinician]`.

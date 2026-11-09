@@ -55,6 +55,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a pox-fever drug in one short line of each edition, with no preparation and no dose, and its Latin name is a positional choice among at least three. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry's sources state only a little for this drug. Men-Tsee-Khang's running text says Yhershingpa cures hot disorder associated with small pox, with the translators' words kept as printed. Clark's line for gyer.shing.pa, read by name, says that it cures all types of pox-fever; the bracketed commentary describes a superior type that is dense and black and an inferior type that grows in damp areas with a red petiole, yellow flower and seed. The petiole, flower and seed are plant parts named in the commentary, not organs of the body. No organ, tissue or body system is named for the drug, and no taste, power, preparation or dose is given. The Latin name is a positional choice: Clark prints Scrophularia incisa, Scrophularia ningpoensis and Tournefortia sibirica for this Tibetan name, and the glossary's Scrophularia decomposita is set against the name by column count only. The claims attach to an uncertain identity. Historical record only; pox and fever need medical care, and no protocol is given.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Pox and fever need medical care; the identity is open among at least three species, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. No conservation information and no safety information for pregnancy were read. [USER: verify]

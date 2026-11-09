@@ -55,6 +55,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Sushruta t
 
 **Practitioner's note.** The Sushruta text gives a cultivator a plain thing to do with this pulse and nothing more: it is cooked as a soup and eaten, and in the rasayana chapter it is the unsalted soup that follows the medicine. No special status is claimed for it, and nothing should be taken as an elixir on the strength of a Latin name the chapters do not give.
 
+### Functional–Anatomical Correlate
+
+The Sushruta text (SS) maps the pulse Mudga chiefly to digestion and the three humours. Of the pulses together it says they generate Vayu, arrest the flow of urine and the evacuation of stool, and subdue Pittam and Kapham. Mudga alone does not excessively generate Vayu and tends to purify and invigorate the organ of vision, so the eye is the one organ the text names, and the green variety is the best. Mudga soup subdues Kapha and is wholesome after purgation and emesis and in ulcers. With Mulaka it is said to remove dyspnoea, cough, catarrh and fever, and with Patola or Nimba it reduces fat and is curative in Kushtha, a skin disease, and in parasitic disease. In the rasayana chapter it is the unsalted soup that follows the medicine, the text crediting the added years to the medicine. The Latin Phaseolus mungo is a positional pairing.
+
 ### Contraindications
 
 The Sushruta passages read print no warning for the pulse itself, and the text counts Mudga among the pulses that do not distend the abdomen (Sutra 46, lines 228 to 230). As a general fact, a person with a legume allergy should avoid pulses, and raw or undercooked seeds are not a safe food. The identity is open, so no plant should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

@@ -111,6 +111,10 @@ Clove 1g + ginger 1g + black pepper 0.5g decoction; drink for cold-type conditio
 
 ---
 
+### Functional–Anatomical Correlate
+
+Clove's entry maps its action onto the mouth and teeth most directly, then the Middle Burner, Kidney and Lung. For dental pain it describes eugenol as a local anaesthetic through sodium-channel blockade on exposed pulp and nerve, and as antimicrobial against oral pathogens such as Streptococcus mutans, Candida and Porphyromonas gingivalis. In Chinese Medicine (Spleen, Stomach, Kidney and Lung channels) it warms the Middle Burner, descends Stomach qi to stop cold-type hiccup and vomiting, and warms Kidney yang in the Lower Dantian, which the entry links to eugenol's peripheral vasodilation and beta-1 adrenergic effect on the heart. Ayurveda (Lavanga, katu-tikta, ushna) names it deepana-pachana for digestive fire, krimighna for oral microbes, vedanasthapana for analgesia and hridya as a cardiac tonic. The entry also gives anti-inflammatory action in gut and neural tissue through COX inhibition and CB2 agonism by beta-caryophyllene. Lavangadi Vati, a clove compound, is cited for cough and bronchitis.
+
 ### Contraindications
 
 - **Clove essential oil internal ingestion** — CRITICAL: undiluted clove oil ingested internally causes severe hepatotoxicity (eugenol liver toxicity at high doses); eugenol is safe at food/spice doses but concentrated oil is dangerous

@@ -106,6 +106,10 @@ Rou Cong Rong 12 g + Yin Yang Huo (Epimedium) 9 g + Ba Ji Tian (Morinda) 9 g + D
 
 ---
 
+### Functional–Anatomical Correlate
+
+Cistanche is mapped chiefly onto the Kidney and Large Intestine. In TCM it tonifies Kidney Yang and Essence and warms the Ming Men, the Gate of Life, with the Kidney governing reproductive tissue and sinew; it also moistens the Intestines and facilitates bowel movement. The Ayurvedic reading places it in the Vata-pacifying, warming and unctuous category, and the Tibetan account in warming, rlung-pacifying tonics that support the lower channels. The modern correlates the entry offers are androgen support through Leydig-cell stimulation (serum testosterone and sperm parameters in aged rats), protection of dopaminergic neurons and BDNF in the hippocampus (in mouse models), and mild prebiotic and osmotic laxative effects of mannitol and polysaccharides on gut motility. The entry names cautions for Yin deficiency with Heat and for loose stool from Spleen Qi deficiency or Cold Dampness.
+
 ### Contraindications
 
 - **Yin deficiency with Heat:** Warming Yang action may exacerbate Heat signs (night sweats, red tongue, rapid pulse) in constitutions with insufficient Yin to balance Yang augmentation

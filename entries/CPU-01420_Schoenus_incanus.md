@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the source read gives a cultivator a practice with this plant. The sensory assay in 1-16 is the lasting element; the plant itself is not recommended.
 
+### Functional–Anatomical Correlate
+
+The entry's chapters act on the urinary tract, the menstrual flow, the bowels, the stomach, the head and the lungs, in Dioscorides' terms. Schoinos (1-16) is called diuretic, brings down the menstrual flow, dissolves gaseousness, and causes catarrh in the head. It is mildly astringent, with a breaking, digesting and opening strength. Its flowers are good for bloody vomiting, a painful stomach, and the lungs, liver and kidneys. The root is more astringent and is given for a squeamish stomach. One teaspoonful is good for dropsy and convulsions, and a hip-bath decoction helps inflammation around the vulva. The seed of the second kind (4-52) stops intestinal and bloody discharges, induces urine and is good for headaches, and the Ethiopian kind is warned against because it encourages sleep excessively. The binomial Schoenus incanus is a translators' gloss across two chapters that describe different plants.
+
 ### Contraindications
 
 The identity is doubtful and no safe preparation can be stated. Dioscorides himself warns of too much Ethiopian rush seed for sleep (4-52) and that the 1-16 aromatic "causes catarrh in the head". It is recorded as bringing down the menstrual flow; do not use in pregnancy. The traditional uses are not advice.

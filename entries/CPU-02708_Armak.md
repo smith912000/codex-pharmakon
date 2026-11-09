@@ -43,6 +43,10 @@ General facts only: aromatic woods are used for fragrance, and tannins are astri
 
 **Practitioner's note.** A fragrant Yemeni wood used for the mouth, sores and loose bowels. No cultivation status is attested and none is invented.
 
+### Functional–Anatomical Correlate
+
+Per Avicenna's Canon, Armak is a fragrant wood whose actions reach the mouth and breath, the gums, the brain, the eyes, spreading sores and the bowels. The entry lists sweetening the breath and a benefit for diseases of the mouth, and says it tightens the gums. It is said to strengthen the brain in the head, to benefit ophthalmia when eaten, and to bind the bowels altogether. Externally a plaster is given for hot swellings, and the dry wood is carried on spreading sores to dry them and to prevent putrefaction of the members. The entry gives no temperament and no degree, so no humoral frame is mapped. The Canon names no authority for it. Because it binds the bowels, the Codex flags constipation as a reason for care. The plant is unidentified, so these organ claims are the text's own and are recorded as historical only.
+
 ### Contraindications
 
 - **Binds the bowels.** The text says it constipates; avoid in constipation.

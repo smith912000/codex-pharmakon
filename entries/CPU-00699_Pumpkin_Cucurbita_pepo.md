@@ -81,6 +81,10 @@ The governing fact for this entry is chronological: *Cucurbita pepo* is a New Wo
 
 **Practitioner's note.** A cultivator does nothing "cultivational" with pumpkin in any of these traditions. It is used two ways — the seed to expel worms and ease an over-full ageing prostate, the flesh as cooling convalescent food — both therapeutic or dietary, neither a practice of nourishing life. The honest answer here is uniformly (c): a New World food-medicine wearing an inherited Old-World gourd-role, with no cultivation register of its own.
 
+### Functional–Anatomical Correlate
+
+This entry maps pumpkin onto three systems. The seed acts on the intestinal tract as an anthelmintic against tapeworm and roundworm, with cucurbitin credited, and Chinese medicine enters the seed into the Stomach and Large Intestine. The seed oil is linked to the lower urinary tract and prostate: the entry reports that its phytosterols ease flow and the sense of obstruction in benign prostatic hyperplasia, and a small single-blind trial in ageing men found symptom improvement, though less than tamsulosin. The flesh acts on the spleen, the lung and fluid balance. Chinese medicine describes it as sweet and neutral-to-warm, tonifying Spleen-Qi and moistening the Lung; Galenic and Unani writing describes it as cold and moist, a moistener useful in bilious fevers and heat-related insomnia; Ayurveda treats it as cooling to pitta. The entry's Kenetica role is grounding and convalescent nourishment, with the seed used for clearing.
+
 ### Contraindications
 
 - Seeds are calorie-dense and oily — large anthelmintic doses may cause GI upset. Seed allergy is possible.

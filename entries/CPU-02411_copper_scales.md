@@ -46,6 +46,10 @@ General, well-established facts only. Copper is an essential trace element, but 
 
 **Practitioner's note.** A toxic metal scale of the ancient eye-salve maker's shop. Nothing here supports taking it by mouth or any cultivation use. The Codex takes from the chapter the care of selection and washing, and nothing else.
 
+### Functional–Anatomical Correlate
+
+The chapter maps the scale to damaged tissue down to muscle and bone, to the body's fluids and to the eyelids. For noma, which the entry glosses as a spreading destruction of muscle, tissue and bone, the scale is said to be contractive, to reduce the intensity of the symptoms, to repress putrefaction and to form new skins, so the site is the ulcerated tissue itself. A decoction taken as a drink with honey and water is said to expel fluids, so the body's fluid balance is the claimed site of that route. A paste made with meal and given as a pill is a further internal route with no organ named. For the eyes, the scale is mixed into medicines that dry rough eyelids and remove rheum, which is excess fluid, so the eyelids and the eye surface are the named sites. The chapter prints one quality, contractive, and no heat or moisture grade. No humour or channel is given.
+
 ### Contraindications
 
 - **TOXIC.** Do not swallow copper or brass scale or its washings. The chapter's drink and pill are history.

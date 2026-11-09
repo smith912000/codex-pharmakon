@@ -77,6 +77,10 @@ Based on articles retrieved from PubMed, ashwagandha has a genuinely stronger cl
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, ashwagandha maps to the endocrine stress axis and the nervous system. Ayurveda calls it a rasayana and balya tonic that builds tissue, restores the wasted and pacifies vata and kapha. The Tibetan frame treats it as a warm, oily pacifier of rlung, the wind humour governing mobility, mind and sleep. The Unani frame classes it as hot and dry, a strengthener for cold nervous debility and the reproductive faculty. The modern correlate is the HPA axis: the entry reports that root extracts lower cortisol in stress RCTs and a meta-analysis, and that testosterone sometimes rises, a result it calls inconsistent. Sleep onset and efficiency improved in a controlled study. The thyroid is named because T4 and T3 may rise, with caution in hyperthyroidism and on replacement therapy. Autoimmune disease, the liver (rare injury reports), sedative interaction and pregnancy are also named.
+
 ### Contraindications
 
 - **Thyroid.** Ashwagandha can raise thyroid hormone output (case reports and mechanistic data of increased T4/T3). **Caution or avoid in hyperthyroidism and in those on thyroid-hormone replacement** (risk of additive thyrotoxic effect). Reassuringly, the dedicated safety RCT by Verma et al. (2020), 300 mg twice daily for 8 weeks in 80 healthy adults, found *no* statistically significant change in thyroid parameters, hepatic or haematological markers, and no adverse events ([DOI](https://doi.org/10.1016/j.ctim.2020.102642)) — so the thyroid risk is a real but dose/host-dependent signal, not a universal effect. Monitor in thyroid patients.

@@ -76,6 +76,10 @@ According to PubMed, *C. procera* has a **preclinical** pharmacology base — st
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, Arka acts on the skin, the joints and obstructed channels, and its internal action is described as purificatory. The Suśruta frame gives it kuṣṭha (skin disease), kaṇḍū (itch), kṛmi (worms), gulma and medo-kapha obstruction. The latex serves as a bhedana/recanā (purgative-breaking) and vamana (emetic) adjunct and as a caustic for warts, ringworm and abscesses. The warmed leaf is applied over painful, swollen joints and the abdomen. The entry's anti-inflammatory signal comes from the latex protein fraction, which in animal models reduced neutrophil migration, paw oedema, PGE2, TNF-α and myeloperoxidase in arthritis. The entry describes cardenolide glycosides in the latex acting on the heart, producing digitalis-type nausea, bradycardia and arrhythmia, and the latex as a severe eye irritant (keratitis, corneal oedema) and a skin vesicant. The entry therefore maps Arka to skin, eye, heart and joints, with internal use gated to practitioners.
+
 ### Contraindications
 
 - **⚠️ Cardiotoxicity:** contains digitalis-type cardiac glycosides — **do not ingest.** Deadly in overdose; contraindicated with any heart disease, arrhythmia, or cardiac-glycoside/digoxin therapy.

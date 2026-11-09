@@ -80,6 +80,10 @@ According to PubMed, chemical work on the Apiaceae *Opopanax chironium* supports
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps opopanax chiefly onto smooth muscle and spasm, the uterus and menstruation, the liver and spleen, the chest and flanks, and hardened skin swellings. Dioscorides lists it for indurations and hard swellings, spasms and convulsions, chest and side pains, and as an emmenagogue for suppressed menses. Avicenna classed it as hot and dry in the third degree, a resolvent and attenuant that opens obstruction of the liver and spleen, relieves colic and spasm, and provokes the menses. Ebers and Mesopotamian material record aromatic resins as fumigants and wound dressings. The modern correlates are phthalides such as ligustilide and butylidenephthalide, reported as antispasmodic and smooth-muscle relaxant, and furanocoumarins with pro-apoptotic activity in leukaemia cells in vitro. The entry grades clinical evidence as absent, notes that its coumarins make the root poisonous, and excludes use in pregnancy and lactation and in children.
+
 ### Contraindications
 
 **Pregnancy — contraindicated.** Traditional emmenagogue use implies uterine/menstrual stimulation; do not use in pregnancy or when attempting to conceive. **Furanocoumarin content** (imperatorin, heraclenin) confers photosensitising and irritant/toxic potential — a cited study explicitly links the plant's coumarins, especially in the root, to poisonous properties — so avoid photosensitising exposure and treat internal use as high-risk. Furanocoumarins are also classic inhibitors of drug-metabolising enzymes, so assume potential interaction with medications metabolised by CYP enzymes. Avoid in children and lactation. Distinguish clearly from *Commiphora* "sweet myrrh" before sourcing, as the two carry different safety profiles. [USER: verify] any internal use with a qualified practitioner.

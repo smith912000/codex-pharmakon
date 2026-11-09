@@ -40,6 +40,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The general fa
 
 **Practitioner's note.** There is nothing in the source for a cultivator to use. The chapter is a short note on a digestive and skin remedy from a wild marine animal, and the honest practice is to read it as history.
 
+### Functional–Anatomical Correlate
+
+The entry maps to several sites. The creature is called good for the stomach and the intestines and diuretic, so the digestive tract and the urinary system are the organs named, with no preparation given for that internal use. The raw shell, roasted well, is an ingredient in washing medications for psoriasis, so the skin is the site of that use. The chapter does not describe the condition the translator calls psoriasis. The burnt shell cleans foul ulcers and represses abnormal growths on the flesh, so the skin and soft tissues of wounds are named again. The chapter gives no humour, taste, temperature or potency and states only actions. The hedgehog's chapter shares the Greek word for the name but is a separate substance, and the entry maps only the sea urchin.
+
 ### Contraindications
 
 Raw or poorly handled shellfish and echinoderms carry bacterial and algal-toxin risks, and wild-gathered urchins can be contaminated. Burnt shell is caustic and should not be applied to ulcers or raw flesh. Some sea urchin species have venomous spines, and several are over-harvested. The roe of some species is a common allergen. These are general cautions and not claims from the text.

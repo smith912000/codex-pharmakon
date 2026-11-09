@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing. A cultivator has nothing sourced to do with this entry: the record is a list row and the identification is flagged uncertain. This is a historical record only and not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the list row gives the Nahuatl name matlalxochitl, the gloss dayflower and the genus Commelina with no species, and flags the row as identification-uncertain. The name is not read in any other source. The row names no folio, preparation, use, complaint, body system, energetic classification or cultivation status. The composition of the plant was not read, and no statement about the chemistry of the genus is made. No clinical studies were retrieved. The Mexican hot and cold categories are left unresolved, and the Badianus text itself was not readable on disk. The entry adds general caution, not drawn from the row, that a plant of uncertain identity should not be taken internally, and it notes that pregnancy and breastfeeding are not covered by any source read.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, a plant of uncertain identity should not be taken internally. Pregnancy and breastfeeding are not covered by any source read. This is general caution and is not found in the row. [USER: verify]

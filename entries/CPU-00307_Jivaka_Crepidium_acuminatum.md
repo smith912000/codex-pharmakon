@@ -60,6 +60,10 @@ According to PubMed:
 
 **Practitioner's note.** Nothing to do with the plant itself: it is a scarce, threatened orchid whose identity in trade is uncertain. In the tradition it is a component of compound restoratives, not a stand-alone cultivation practice.
 
+### Functional–Anatomical Correlate
+
+The entry maps Jīvaka onto the body's dhātu (tissue) as a whole rather than onto one organ. It is described as bṛṃhaṇa and jīvanīya, building depleted tissue (dhātukṣaya), countering emaciation and debility, and supporting ojas. Its karma lists balya (strength), vṛṣya and śukrala (reproductive tonic and semen-promoting) and dāhapraśamana (anti-burning). Its heavy, sweet, unctuous quality is said to pacify Vāta and Pitta, and the entry adds that it can raise Kapha and weaken digestion (mandāgni). In modern terms the claimed targets are body mass, reproductive tissue and the body's tissue reserves. The entry attributes the Aṣṭavarga and rasāyana framing to the classical tradition, but its own Suśruta check did not find that assignment for this plant. The evidence is preclinical: in vitro antioxidant, skin-enzyme and anti-inflammatory assays, with no clinical trial on the isolated drug.
+
 ### Contraindications
 Heavy, sweet, unctuous — may aggravate Kapha, low digestive fire (*mandāgni*), *āma* (undigested-toxin) states, obesity, and diabetes/metabolic sluggishness; not for congested or high-Kapha conditions without processing. Safety in pregnancy/lactation not established `[USER: verify]`. **Overriding caution: conservation status** — genuine *Crepidium acuminatum* is a threatened wild orchid; use only sustainably/legally sourced material or classically-sanctioned substitutes, and beware widespread commercial adulteration.
 

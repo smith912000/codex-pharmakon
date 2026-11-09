@@ -42,6 +42,10 @@ General, well-established facts only. Kidney stones form from substances in the 
 
 **Practitioner's note.** A cultivator does nothing with this. It is a list entry for a human calculus used against stones, with no preparation and no dose, and the Codex does not recommend using human tissue. The honest use of the entry is as a record of what the Tantra says. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The calculus acts on stone disorders, which the text gives as its only named condition. The examples in the bracketed commentary are kidney and gallstones, so the organs the text points to are the kidneys, the urinary tract and the gall bladder. The verse as Clark gives it says a stone from a woman cures stone disorders in men, and the rule given is that a stone from one sex serves the other. The bracketed commentary also gives a smooth river-bank stone, used cold as a fomentation for blood clots and stone poisoning, which maps to the blood, the circulation and the skin under a cold application. Nearby stone medicines, coal and saltpetre, are said to dissolve stones and constrict channels, and belong to other entries. The Men-Tsee-Khang line names no organ and says only that the stone cures calculus. The text gives no temperature, taste or potency for the calculus itself.
+
 ### Contraindications
 
 - **Infection:** human tissue can carry blood-borne and other infections; a calculus from another person should not be handled or taken.

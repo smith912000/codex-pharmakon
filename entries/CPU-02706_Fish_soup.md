@@ -45,6 +45,10 @@ General, well-established facts only. Fish broth is a food rich in water, protei
 
 **Practitioner's note.** There is nothing here beyond a plain fish broth. It is a food, and a cultivator who eats fish may eat it. The Codex draws no vital or spiritual claim from it, and the "soothing" of the bowels is the text's phrase and not a clinical statement.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that a broth of fresh fish, drunk alone or with wine, is able to soothe the bowels. That is the only organ and the only action the chapter names. It gives no account of the stomach, the liver or any other organ, and no humour, temperament or quality of heat or cold. The fish is chosen by kind, being tender rock fish and not of a poisonous nature, and the broth is made with nothing but water, oil, anise and salt. The chapter does not say what those ingredients do in the body. The recipe and the rule for choosing fish are the only content, and the chapter gives no dose, no cooking time and no condition for which the broth is given beyond the bowels.
+
 ### Contraindications
 
 - **Fish allergy.** Anyone allergic to fish or shellfish must avoid it.

@@ -43,6 +43,10 @@ General facts only. Honey is a sweet food made by bees from nectar; the Sushruta
 
 **Practitioner's note.** The tradition sets this honey apart from the other seven by its eye-benefit and its bitterness, which is the nearest the text comes to singling it out. A cultivator has nothing to act on beyond the group rules on honey, above all that honey is never heated.
 
+### Functional–Anatomical Correlate
+
+The Arghya honey is said to be highly beneficial to the eye, and to lower Pittam and Kapham more than any other kind of honey (Sushruta ch.45, lines 1154-1158). Its taste is astringent, its digestive effect pungent (vipaka), and the text calls it a bitter tonic that does not generate Vayu. The eye is the single organ the text names, and the entry maps the honey there. The Pittam and Kapham terms are not localised in the text, so any reading of them as gut or mucous structures is the Codex's modern label and not the source's. The group rule that fresh honey is constructive and aphrodisiac is not carried to this kind. The text is also explicit that rain-water does not spoil this honey, which is a statement about handling rather than the body. No dose, disease or preparation is given for the eye or for any other system.
+
 ### Contraindications
 
 - **Heated honey.** The text forbids hot or boiled honey and says it can be fatal like poison (lines 1183-1200).

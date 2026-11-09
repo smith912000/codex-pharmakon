@@ -66,6 +66,10 @@ According to PubMed, asafoetida has **documented preclinical antispasmodic and h
 
 **Practitioner's note.** Nothing. Hiṅgu is a pungent kitchen and digestive drug in the Suśruta text, taken in small amounts for wind, colic and sluggish digestion, with no long-term or rejuvenative role recorded.
 
+### Functional–Anatomical Correlate
+
+Hiṅgu acts on the gut and the nervous system through its antispasmodic and Vāta-moving actions. The entry places its main target in the abdomen: the śūla (spasmodic pain), ānāha (distension and obstruction), gulma (abdominal spasm) and flatulent colic of the intestine. Its dīpana and pācana actions reach digestion, and its vāta-anulomana action moves wind downward through the intestinal tract. The smooth muscle of the gut is the tissue the entry names, with an animal study cited as relaxing isolated ileum. For the nervous system, the entry gives a medhya and nervine-settling action in the wind-scattered, cramped, tense state (Vāta-vitiated), as a traditional and preclinical claim. Kaphaghna and śvāsahara (expectorant, anti-asthmatic) actions place it in the respiratory passages for cold, spasmodic, productive complaints. The entry also reports a blood-pressure-lowering effect in animals, which it treats as a caution for the cardiovascular system, and flags Pitta, pregnancy and anticoagulant contexts.
+
 ### Contraindications
 
 - **Pitta excess / hyperacidity:** heating pungent aggravates gastritis, hyperacidity, peptic ulcer and heat/bleeding states.

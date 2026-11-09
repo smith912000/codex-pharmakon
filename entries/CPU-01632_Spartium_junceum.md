@@ -43,6 +43,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. What the chapter shows is a purge that its own author compares to hellebore, and the discipline that applies is restraint. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The entry maps Dioscorides’ claims onto the gut, the sciatic nerve region and the throat, using the text’s own terms. A decoction of seed and flowers is said to purge “upward with violence like hellebore”, which the entry reads as an emetic action on the upper gastrointestinal tract, and the seed alone is said to purge downwards, acting on the lower bowel. For sciatica the stems are steeped and used as suppositories in brine or seawater, a route that reaches the rectum and anal region, and the text says this expels “bloody and strimentous stuff”. The stem juice, taken fasting, is said to help sciatica and an “abscessed throat”, which points to the pharynx. The chapter uses no humoral, doshic or qi terms and prints no taste or temperature. It calls the purge “without danger” in the same sentence that calls it violent, and the entry records both without deciding. The plant’s identity rests on a translators’ suggestion, so these are reports from the text, not established physiology.
+
 ### Contraindications
 
 The chapter describes a purge "upward with violence", that is, an emetic, and broom-group plants are generally known to contain active alkaloids; vomiting and strong purging can cause dehydration and harm, and the text's amounts (fifty grains, a winecupful) cannot be converted with confidence. The identity of the plant rests on a translators' suggestion, so no wild plant should be gathered or taken on the strength of this entry. Sciatica and abscessed throat need medical assessment. None of the traditional uses above is advice. [USER: verify]

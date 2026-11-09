@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a sour, expectorant fruit drug in the Tibetan texts, with no method of preparation and no dose. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+In the Tibetan texts this drug acts on the lungs, the blood and the phlegm. Clark's root-text sentence says it is 'expectorant, dissolves blood clots, disperses phlegm', and Clark's chapter 21 places it among medicines for lung disorders. Men-Tsee-Khang's running text says it is an expectorant that 'dilutes blood and controls production of phlegm', and lists it among the medicines for lung disorders and for hot disorder associated with baekan. Clark's commentary gives a sour taste and says the plant cures lung disorders. The entry therefore names the lungs as the organ, the blood as the tissue the drug is said to work on, and phlegm as a fluid category of the Tibetan scheme. Baekan is not defined in the entry and is not mapped to any organ. In modern anatomy terms the entry names the respiratory tract and the blood, and nothing else.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Lung disease and any drug said to act on the blood need medical assessment, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

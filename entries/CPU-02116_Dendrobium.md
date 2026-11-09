@@ -48,6 +48,10 @@ General, well-established facts only. *Dendrobium* is a very large genus of orch
 
 **Practitioner's note.** The classic grades this stem as a long-use, life-nourishing drug, and that grade is its whole cultivation status. It is no licence for long use of any product sold as dendrobium: no dose, preparation or course length is given, and the species behind the name is not settled by the text. The honest use of the entry is as a record of how the classic framed the drug.
 
+### Functional–Anatomical Correlate
+
+The Shennong paragraph places its action in the centre and the five storehouse organs (wuzang). It is said to govern damaged centre (shang zhong) and to supplement depletion-taxation and emaciation of the five storehouse organs. It removes impediment (bi), which the classic leaves undefined, and brings the qi down. It strengthens yin, a term the text does not explain. Taken long, it is said to thicken the intestines and stomach and to lighten the body. The gut claims are the closest the text comes to a digestive correlate, and the body-lightening claim has no modern equivalent. Yang's footnote 96 names the spleen and stomach, and generating fluids, but that is later commentary and not the classic. The Mingyi layer gives aliases, habitat and harvest only. The Codex does not translate these categories into modern anatomy or diagnoses, and no organ or channel assignment is made beyond the five storehouse organs as the classic names them.
+
 ### Contraindications
 
 - **Identity:** many *Dendrobium* species and mixtures are sold as shi hu, and they are not interchangeable; a product's botanical identity should be checked before any use.

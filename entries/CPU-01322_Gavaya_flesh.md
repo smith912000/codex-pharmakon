@@ -42,6 +42,10 @@ General, well-established facts only. Cough has many causes and is assessed by c
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The sourced use is a dietary one for cough, with a remark on sexual capacity, in a food chapter, and the animal's identity is uncertain between two bovines. The Codex does not recommend taking the flesh of a protected wild animal. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The gavaya's flesh has its own sentence in the Sushruta food chapter. It is demulcent, sweet in taste and sweet in digestion (rasa and vipaka), which maps to the soothing of the mucous lining of the gut and to the digestive tract. It is beneficial in cough, which maps to the airway and lungs, and it tends to increase sexual capacity, which the text places in the generative system, the semen and reproductive organs. The shore-dwelling group it belongs to adds that the flesh is spermatopoietic, tonic, cooling and diuretic, destroys deranged Vayu and Kapham, and increases Kapham. Those group qualities apply by membership, not by a sentence about the gavaya. The text gives no potency (virya) and names no organ beyond the lungs and generative system. Whether the animal is the gaur or the gayal is open in the entry, and the text does not settle it.
+
 ### Contraindications
 
 - **Hygiene and infection:** wild-animal meat can carry bacteria and parasites; it should be fully cooked, and wild-caught meat is not recommended.

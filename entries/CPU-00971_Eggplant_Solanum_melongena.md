@@ -89,6 +89,10 @@ On the **cholesterol** folk claim specifically: the mechanistic hint that surviv
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places eggplant in the gut, the blood and the complexion. In the Chinese dietetic frame (qie zi) it is cooling and sweet, entering the Spleen, Stomach and Large Intestine, used to cool the blood, reduce swelling and ease intestinal heat and bleeding haemorrhoids. The Unani (bādinjān) reading is cold and dry in the second degree, generating black bile and windy vapours, which in excess were held to darken the complexion, thicken the blood and obstruct. It is a depurative for the plethoric and sluggish only when corrected with vinegar and heating spices, cutting thick phlegm and moving the bowel. Ayurveda (vartaka) kindles agni in small amounts but aggravates vāta and, in excess, disturbs sleep and mind. The entry's mapping is that flesh chlorogenic acid and insoluble fibre carry the bowel-moving and depurative effect, and peel nasunin carries an antioxidant effect in cells. The mood and sleep claims have no chemical correlate, and the cholesterol folk claim is weakly supported.
+
 ### Contraindications
 
 - **Nightshade glycoalkaloids:** avoid green, unripe, over-mature seedy, or visibly sprouting/greened fruit — these carry the highest solasonine/solamargine load. Marked bitterness is a warning sign; discard.

@@ -51,6 +51,10 @@ General, well-established facts only. *Trichosanthes kirilowii* is a perennial c
 
 **Practitioner's note.** A middle-grade drug in the Chinese scheme, recorded for thirst, heat and vexation. Nothing in the text supports a long-term or life-nourishing use. A cultivator has nothing to do with this entry beyond reading it.
 
+### Functional–Anatomical Correlate
+
+The classic's paragraph assigns Gua Lou no organ or channel, so its body reach has to be read from the indications alone. Those are wasting thirst (消渴 xiao ke), generalized heat with vexatious fullness (身热烦满), and great heat, which the Codex does not render into modern diagnoses. The text says the drug supplements vacuity (补虚), quiets the centre (安中), and joins broken injuries (续绝伤). Yang's footnote 158 names the upper burner, the lungs, phlegm and the throat, but that is modern commentary and not part of the classic, so it is recorded only as commentary. Because the classic does not say whether root or fruit is meant, the tissue acted on cannot be fixed by this entry. Modern anatomical terms are therefore not supplied from the text; the entry offers only the traditional categories listed above.
+
 ### Contraindications
 
 - **Identity.** The part used (root or fruit) is not fixed by the classic's paragraph; do not assume. [USER: verify]

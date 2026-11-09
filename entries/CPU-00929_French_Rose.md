@@ -56,6 +56,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** A cultivator may grow the rose and follow Dioscorides' care in picking and drying, but should not read a longevity or vital-endowment claim into any of it. Dioscorides gives cooling, astringency and fragrance, nothing more. Two of the four tags are unverified, and the Avicenna row belongs to a different rose.
 
+### Functional–Anatomical Correlate
+
+The entry's body mapping is the Dioscorides list, recorded as the author's claims and not as current advice. Rose petals are described as cooling and astringent, with the dried flower taken in drink for loose intestines and blood-spitting, and boiled for headaches, eye, ear and gum complaints, pain of the perineum, intestine, rectum and vulva, inflammation below the ribs, moistness of the stomach and erysipelas. The oil of roses is astringent and cooling, rubbed on penetrative ulcers, catarrh in the head and heated eruptions, and loosens the bowels when drunk. Body pomanders were worn to mask sweat odour. No Egyptian or Assyrian locus was found, and the Avicenna row belongs to Rosa damascena. The entry records no clinical study and no dose for taking any of these by mouth. It notes that the petals' fragrant oil and tannins fit the astringent description, but the proportions in R. gallica were not read. The Codex recommends only ordinary food and fragrance use.
+
 ### Contraindications
 
 Rose petals and hips are ordinary foods, and the main cautions are those of any plant material: allergy, thorns and pesticide residues on bought or garden flowers. The traditional eye, ear and ulcer washes are not advice. Do not put homemade infusions or oils in the eye or ear. Seek ordinary medical care for infection.

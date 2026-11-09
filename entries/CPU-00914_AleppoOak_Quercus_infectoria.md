@@ -90,6 +90,10 @@ Supporting the broader gallotannin-astringent wound rationale (in the kindred oa
 
 **Practitioner's note.** A cultivator treats the oak gall as a third-degree astringent tool — dilute, short-term, external by preference — for what will not stop flowing. There is no cultivation status to invoke; the one transferable practice is Dioscorides' discipline of attention, the blue-versus-white gall judgement at gathering. Therapeutic power here is not a vital-cultivation claim, and the tannin load is the standing warning against treating it as anything taken long-term.
 
+### Functional–Anatomical Correlate
+
+The gall acts on mucosal and surface tissue that is lax, weeping or bleeding. Dioscorides and the Unani-Ayurvedic tradition point to the gums, mouth and throat, to the bowel in flux and dysentery, to prolapse and haemorrhage, and to the genital and perineal tissue, where a wash is used for leucorrhoea and after childbirth. In the Chinese frame, by kinship with wu bei zi, the drug enters the Lung, Large Intestine and Kidney, and secures chronic cough, diarrhoea, sweating and seminal leakage. Modern anatomy maps the same surfaces: the entry cites the pharynx, skin wounds and haemorrhoids, and describes a tannin-driven antimicrobial effect against Streptococcus pyogenes, the bacterium of pharyngitis, in the laboratory. The entry is clear that the evidence for the gynaecological and internal uses is traditional, with limited human trials, and that the bowel and kidney claims rest on kinship and tradition rather than on clinical study of this species. External use is preferred, with any internal use brief and dilute.
+
 ### Contraindications
 
 - **Very high tannin load:** internal use can cause nausea, constipation, and (chronically) impaired iron and micronutrient absorption; keep internal use brief and dilute.

@@ -110,6 +110,10 @@ The one traditional read that is both indigenous and defensible is non-energetic
 
 **Practitioner's note.** Nothing cultivation-specific beyond the Tsáchila and Amazonian body-paint custom as reported; no regimen is attested.
 
+### Functional–Anatomical Correlate
+
+Annatto's mapped actions fall mainly on the skin and the immune system. In the South American tradition the entry tags, the aril paste is applied to the skin as body and face paint, as a barrier against sun and biting insects, and to skin complaints. The entry records no humoral classification from that tradition and treats a 'cooling' quality as a later creole overlay. Ingested, the seed works as a food colourant rather than a medicine. The documented bodily effect is IgE-mediated hypersensitivity: urticaria, angioedema, severe hypotension and one reported anaphylaxis, with the allergen probably residual seed protein. Contact dermatitis is also recorded. Antioxidant activity is in vitro only, and the sunscreen claim is contradicted, since in-vitro SPF collapsed after irradiation. Internal targets (blood sugar, cancer, microbial, inflammatory and analgesic action) rest on preclinical or animal work, with no established human efficacy or medicinal dose.
+
 ### Contraindications
 
 - **Hypersensitivity — the principal real risk.** Annatto is a documented cause of IgE-mediated food-colour hypersensitivity, with urticaria, angioedema and at least one case of anaphylaxis with severe hypotension. Confirmed by placebo-controlled oral challenge. Anyone with a known annatto reaction must avoid it — and must be warned that avoidance is difficult, because E160b is pervasive in cheese, butter, margarine, smoked fish, cereals and snack foods and is not always conspicuous on labels.

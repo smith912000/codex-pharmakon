@@ -49,6 +49,10 @@ General, well-established facts only. Thyme-type herbs are common culinary herbs
 
 **Practitioner's note.** A small wild thyme-like herb that Dioscorides tells the reader to treat as thyme. A cultivator uses it as a herb for food and learns to tell the wild from the cultivated kind; nothing here supports more than that.
 
+### Functional–Anatomical Correlate
+
+Dioscorides gives Thymbra no effects of its own. The chapter says it can do the same things as thyme, taken the same way, so its uses are those given for thyme in the preceding chapter. Thyme is said to drive phlegmy matter out through the bowels when drunk with salt and vinegar, to help orthopnoea and asthma when decocted with honey, to expel worms, the menstrual flow and the afterbirth, and to be an abortifacient and a urinary. As a linctus with honey it brings matter up, applied with vinegar it dissolves new swellings and clots of blood, and it removes thymos and hanging warts. With wine and polenta it eases hip pains, and eaten with meat it aids poor vision. The bowels, chest, womb, urinary tract, joints, eyes and skin are the regions touched, by reference only. No dose, constituent or humoral quality is given for Thymbra, and the uses concerning abortion and the menstrual flow are recorded as the text states them, not recommended.
+
 ### Contraindications
 
 - **Pregnancy.** The text lists the menstrual flow, the afterbirth and abortion among the uses of thyme, and Thymbra is said to do the same; avoid medicinal amounts in pregnancy. This is general caution and is not a source claim for Thymbra.

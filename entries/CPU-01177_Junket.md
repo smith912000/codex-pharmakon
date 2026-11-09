@@ -43,6 +43,10 @@ Greek: the chapter prints no warming, cooling, drying or moistening quality for 
 
 **Practitioner's note.** Nothing specific. Junket and whey are, in this text, ordinary preparations. A cultivator may treat dairy as food if it suits them; the text does not support anything beyond that.
 
+### Functional–Anatomical Correlate
+
+The Greek text maps the whey and the milk to several sites. Whey, the separated liquid, is drunk in measured amounts and is 'fitter for purging'. The preceding whey chapter adds depression, epilepsy, leprosy, elephantiasis and pustules over the whole body, which touch the mind, the nervous system and the skin. Milk is said to help ulcers and inflammation caused by deadly medicines, and it is gargled for ulcers of the mouth and tonsils. Asses' milk gargled in the mouth is said to strengthen the gums and teeth. Milk heated with hot flints is said to stop discharges with ulceration, and it is given as a suppository or enema for gnawing of the intestines and squirted into an ulcerated vulva. The chapter prints no warming, cooling, drying or moistening quality for junket and no humoral, doshic or qi term. The frame is therapeutic only, and the entry records these claims as historical.
+
 ### Contraindications
 
 Milk and its derivatives are unsuitable for people with milk allergy or lactose intolerance. Raw milk can carry pathogens and should be heated properly. Do not use milk as an antidote to poisoning; call emergency services or a poison-control centre. The chapter's own listing of toxic agents (cantharis, aconitum, hyoscyamus and others) records danger, not a safe practice. Enemas and vaginal application of home-made preparations risk infection and injury.

@@ -51,6 +51,10 @@ General, well-established facts only. Asbestiform amphiboles, including actinoli
 
 **Practitioner's note.** A stone for the ligaments and tendons, and a hazard if it is fibrous. A cultivator should not handle it. Nothing in the record supports a cultivation use.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives one claimed site, the ligaments and tendons. Clark's 1995 translation, in the root sentence on the stone medicines, says that carbonate of chalk and the three types of actinolite heal disorders of the ligaments and tendons. The Men-Tsee-Khang 2011 text says that Bhanu, Dhogyue and Thinggyue heal ligament. The blue type is named mthing.rgyus (indigo tendon), and the entry links the Tibetan name to the stone by sound, so the sites are the connective tissue that binds bones and muscles. No taste, potency, post-digestive taste, humour, channel or organ is printed for the stone, and no tradition's energetic grade is imported. The entry names no route of action and no constituent, and the Tibetan frame gives this stone no place in essence-extraction or any practice.
+
 ### Contraindications
 
 - **HAZARDOUS (asbestiform mineral).** Do not grind, burn, inhale or swallow it.

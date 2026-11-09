@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The text does not say what the plant looked like, so there is nothing to look for. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter names three routes and three conditions. A decoction of seed and leaves is said to be given as a suppository for dysentery, which places the action in the bowel and its lower end, and dropped into “purulent ears”, which places it in the ear. The leaves, applied, are said to help “bloodshot eyes caused by a stroke”, which places it in the eye, and to “stop excessive bloody discharges”, with no site given. The only quality printed is that the seed and leaves are “astringent”. The chapter has no description, since “Stoebe is well known” stands in for one, so the entry has no plant features to map. No humour, dosha or qi term appears. The text gives no binomial, and the Codex does not assert one. The entry notes that the chapter gives no dose and no pregnancy or child safety information.
+
 ### Contraindications
 
 Chapter 4-12 prints no warning. The plant is not identified, and the text gives no description, so nothing should be gathered or used on the strength of this entry. The routes named (suppository, ear drops, eye application) are routes where an unidentified plant carries a real risk. The text gives no dose and no safety information for pregnancy or children. [USER: verify]

@@ -131,6 +131,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places Zhe Bei Mu in the lung and airways. In TCM terms it is bitter and markedly cold, descending and dispersing, entering the Lung and Heart channels, a point the entry flags for verification. It clears heat and transforms phlegm for acute, productive cough with thick yellow sputum. The stated mechanism is mucokinetic: its isosteroidal alkaloids, peimine, peiminine and related compounds, are described as thinning sputum or speeding mucociliary movement, and in rat trachea and bronchi total alkaloid content tracked smooth-muscle relaxation. The second target is the nodes and masses of scrofula, goitre and breast abscess, which the entry grades as computational only and keeps at archival status. Its bitter cold action is said to injure Spleen yang and to worsen cold-phlegm and dry deficient cough, the territory of Chuan Bei Mu. The entry records no human trial for any respiratory or nodule claim.
+
 ### Contraindications
 
 ⚠️ **ABSOLUTE — the Eighteen Antagonisms:** **Never combine with aconite** — *Wu Tou* (乌头), *Fu Zi* (附子), *Cao Wu* (草乌), or any aconite-containing formula. Classical prohibition; plausible P-gp-mediated mechanism (Liu et al., 2021). This is not negotiable and not a "relative" caution.

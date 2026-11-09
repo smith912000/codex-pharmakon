@@ -40,6 +40,10 @@ Avicenna: astringent in taste and power, like pomegranate flower; no degree of h
 
 **Practitioner's note.** There is nothing here to practise beyond reading. The entry is a clear example of Avicenna's use of "as is said" for claims he reports but does not own.
 
+### Functional–Anatomical Correlate
+
+The entry maps the drug onto the joints, the stomach and liver, the blood and its vessels, and the bowel. It is said to strengthen slackened joints and to benefit slackness of the stomach and liver. Its astringency is said to prevent the movement of blood in all the organs, as is said, and it holds back haemorrhage. It is drunk in cooked goat's milk for dysentery and for excess menstrual flow, the Arabic word for which the edition leaves unclear. The drug is described as astringent in taste and power, like pomegranate flower, and dusty grey. No temperament degree is printed, and no other tradition is tagged. The entry names no constituent and no innate heat, radical moisture or ruh. Substitutes are given by weight: half its weight of burnt, washed eggshells, a sixth of its weight of oak gall, and a tenth of its weight of gum. No dose is given.
+
 ### Contraindications
 
 - Bleeding or bloody dysentery is a reason to seek care, not to self-treat.

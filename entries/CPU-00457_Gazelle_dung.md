@@ -57,6 +57,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+Gazelle dung maps to the hair in one of its two uses. Bryan prints it, with writing-fluid and hippopotamus fat, in a hair concoction he calls revolting. The sentence around it speaks of remedies that preserve the hair and remove grey hairs, so the hair and its greying are the claimed site, though the complaint for this mixture is not named. The second use is a granary device, not a body mapping: dung is put on the fire in the granary against rodents, so no organ is claimed. The entry gives no humour, temperament, qi or heat for the dung, and it names no species. Gazelle's ears, a different item in a wound remedy, is not mapped to the dung. The entry's further points are infection from dung on the scalp, smoke in a closed store, and writing-fluid among the co-ingredients.
+
 ### Contraindications
 
 - **Hygiene and infection:** animal dung on the scalp or on broken skin carries infection risk.

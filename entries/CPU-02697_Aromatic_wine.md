@@ -48,6 +48,10 @@ General, well-established facts only. Alcohol is a central nervous system depres
 
 **Practitioner's note.** Nothing to practise. This is a spiced medicinal wine from an indication-organised chapter, and the sources read tie it to complaints, not to the person's vital constitution. The responsible reading is historical.
 
+### Functional–Anatomical Correlate
+
+The uses printed for this spiced wine name the chest, side and lungs first, then painful urination and complaints of the bladder and kidneys. It is also listed for chills, for restrained menstrual flow (recorded as a historical report, not a method), for thick fluids, and for pain and sleep. The text says it is good for those who travel in extreme cold and for those who produce thick fluids, and that it causes a good colour. The chapter gives no humoral, doshic or qi term and no quality such as warming for this wine. The general line that unmixed wine is warming belongs to chapter 5-11 and is not assigned here. Its active part is fermentation alcohol plus the volatile aromatics, which the text does not analyse. The entry's contraindications cover alcohol in pregnancy, liver disease and with interacting medicines, and it warns that the restrained-flow use is not a method.
+
 ### Contraindications
 
 - **Alcohol.** Avoid in pregnancy, breastfeeding, liver disease, alcohol-use disorder, and with sedating or interacting medicines. The text itself calls continual drunkenness pernicious (5-11).

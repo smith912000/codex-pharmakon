@@ -123,6 +123,10 @@ The energetic reading worth keeping: sundew is a plant that **holds moisture whe
 
 **Practitioner's note.** Nothing for cultivation. It is a convalescent-airway remedy at most, and the plant is a protected bog species that should not be wild-harvested.
 
+### Functional–Anatomical Correlate
+
+The entry maps sundew to the airway, meaning its smooth muscle and ciliated lining, and specifically to the paroxysmal, unproductive, spasmodic cough. Its traditional European use, as Herba Droserae, targets convulsive cough in whooping cough, bronchitis and laryngitis, and the entry says it is not for productive congestion. Three ex vivo mechanisms match that presentation: relaxation of airway smooth muscle in mouse tracheal slices, increased ciliary beat frequency through PDE1A and PDE4D inhibition (speeding mucociliary clearance), and damping of inflammation through neutrophil elastase inhibition and suppressed mast cell gene expression. On the entry's account the active principles are flavonoids such as quercetin and hyperoside, not the naphthoquinones. The alchemical claims of vitality and anti-wasting are unsupported. No human trial was found. The entry also excludes pertussis in children and advises against handling the fresh plant.
+
 ### Contraindications
 
 - **⚠️ WHOOPING COUGH IN A CHILD IS A MEDICAL EMERGENCY, NOT AN HERBAL INDICATION.** This is the single most important line in the entry. Pertussis kills infants. It is vaccine-preventable and antibiotic-treatable. The classical indication that gave sundew its entire reputation is the one context where using it as a primary treatment is indefensible. Sundew has **no human trial data for pertussis**. Adjunctive symptomatic use in an adult with a diagnosed, medically-managed post-viral cough is a different proposition from treating a coughing child with a bog plant.

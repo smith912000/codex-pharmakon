@@ -67,6 +67,10 @@ According to PubMed, the traditional hepatoprotective reputation is supported by
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, ridge gourd acts mainly on the liver, the digestive tract and body heat and congestion. Ayurveda frames it as pitta-pacifying, with the bitter cultivar used as a bitter cholagogue to move bile in liver-heat and sluggish digestion. Chinese medicine assigns it to the Lung, Liver and Stomach channels, and the dried fibrous vascular bundle Si Gua Luo is used to clear heat, cool the blood and unblock the collaterals in painful channel obstruction. Galenic-Unani sees it as a cold, moist, detergent and mildly aperient vegetable. The entry's modern correlate is hepatoprotection in animals: an ethanolic pericarp extract protected rat liver from ethanol-induced chronic injury, preserved hepatocyte architecture on histology, and was traced to luteolin and gallic acid. Human clinical evaluation is stated as still required. Bitter, cucurbitacin-rich fruit acts on the gastrointestinal tract as an emetic and purgative, and the entry lists this as toxic.
+
 ### Contraindications
 
 - **⚠️ Bitter cultivars / cucurbitacin toxicity.** Wild or accidentally over-bitter ridge gourd concentrates **cucurbitacins**, which cause severe, sometimes violent gastrointestinal toxicity — cramping abdominal pain, profuse vomiting and diarrhoea, and dehydration. Any ridge/sponge gourd that tastes markedly bitter should be discarded, not eaten. Do a small taste-test of an unfamiliar fruit before cooking; if it is strongly bitter, do not consume.

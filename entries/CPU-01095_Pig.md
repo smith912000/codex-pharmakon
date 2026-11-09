@@ -49,6 +49,10 @@ General, well-established facts only. Pork is a source of complete protein, thia
 
 **Practitioner's note.** Nothing here makes the pig a substance for cultivation. The Egyptian texts use parts of it as a drug for a complaint, one with a spoken formula, and the Tibetan texts cool and soothe with the meat while naming it a dietary cause of wind disorder. A cultivator who eats pork eats it cooked, as food, and takes no practice from this entry. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Ebers names the hog among its animal sources and uses its parts for indigestion (a tooth crushed in sugar-cakes), hardenings (hog's fat in a salve), a wound (fat as a poultice), the vulva (a douche of hog's bile with dates) and blindness (eyes, collyrium and red lead injected into the ear with a spoken formula). These map to the gut, skin, wound, vulva, eye and ear. The Tibetan texts call pork cool and light, healing wounds and eliminating brown phlegm (baekan mukpo). They treat pig bone for phlegm, the tongue for bone warts or fragmented bones, and the stool for indigestion, bile tumours and epidemic fevers. The tradition also names pork as a dietary cause of wind disorder. Clark's group line gives the sweet taste of all meats, but no quality is printed for bone, tongue or stool. The entry records no outcomes and no dose for any of these uses.
+
 ### Contraindications
 
 - **Hygiene and infection:** raw or undercooked pork carries trichinosis, *Taenia solium* and bacterial risks; stool, bile, eyes and unwashed teeth are infection sources and are not to be used.

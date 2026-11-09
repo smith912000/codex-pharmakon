@@ -44,6 +44,10 @@ The paragraph gives no preparation and no dose (leaf: none; flower: applied to p
 
 **Practitioner's note.** There is nothing for a cultivator here. The leaf is a lower-class remedy for sores and haemorrhoids, with no dose, and the flower clause concerns pigs. Do nothing with this entry beyond reading it.
 
+### Functional–Anatomical Correlate
+
+The leaf is recorded for malignant eroding sores (恶蚀) and for sores that cling to the skin of the yin parts (创着阴皮), which places the target on that skin, a term the entry does not expand. The same leaf is named for the five haemorrhoids (五痔), a claim about the anal region, and for killing the three worms, a classic category the entry does not place in any organ. The flower's clause concerns pig sores and the fattening of pigs; the entry calls this a farming remark that is not a human use, so no human body system is mapped from it. The paragraph gives bitter and cold as flavour and nature and files the drug in the lower class, which the preface calls mostly toxic and not for long use. The sources describe no mechanism and name no organ beyond the skin, the haemorrhoidal region and the worm category. The entry says eroding sores and haemorrhoids need diagnosis before any herb is applied.
+
 ### Contraindications
 
 - **Identification.** The tree called *tong* is not settled by the text, and Sun's note points to *wutong*. Do not use a field-collected leaf on the basis of a name.

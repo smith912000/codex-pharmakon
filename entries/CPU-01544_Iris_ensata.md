@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is an anthelmintic and cramp-relieving drug in the Tibetan texts and nothing more can be said from them. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts map the drug onto the gut and the muscles. Clark gives the petals as anthelmintic, meaning expelling intestinal worms, and as relieving cramps, and places the seed in the anthelmintic class in the compounding chapter. In the commentary layer, which Clark brackets, the plant is said to neutralise poisons and to act as a general purgative, so the bowel and the body's toxic load are both named. The Men-Tsee-Khang text says the gesar of the drug destroys ein and relieves abdominal cramps, placing the action in the abdomen. The term ein is left untranslated in the text and is not resolved here. A further group of medicines is said to cure what the printed text reads as cm disorders, which the entry says is probably an OCR error for ein. Modern anatomy terms for the mapped systems are the gastrointestinal tract for worms and purging, the smooth muscle of the gut for cramps, and whole-body poisoning. The texts print no taste or power for the drug in these lines.
+
 ### Contraindications
 
 The sources read print no warning. A purgative and a poison-neutralising claim, in the commentary layer, are reason for caution. Fresh iris plants can irritate, and worms, cramps and poisoning need medical care. The botanical identity is uncertain (three species in Clark), so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

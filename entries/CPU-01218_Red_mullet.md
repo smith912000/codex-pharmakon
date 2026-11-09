@@ -36,6 +36,10 @@ No clinical studies were retrieved for this entry. [USER: verify] Nothing retrie
 
 **Practitioner's note.** There is nothing to do with this entry for cultivation. The fish has no recorded role in nourishing life, and the only advice the chapter gives about eating it is to avoid doing so often. If the passage teaches anything, it is the discipline of separating what Dioscorides reports as belief from what he states as method.
 
+### Functional–Anatomical Correlate
+
+Dioscorides records a belief that often eating this fish dulls the sight, so the eyes are the organ named. Its external use is the raw flesh cut open and applied to the hurt, said to heal wounds from a sea dragon, a scorpion or a spider. In modern terms those are the skin and subcutaneous tissue at the sting or bite site. The editors cross-refer the sea dragon to chapter 2-15, which they suggest is a spiny-finned fish of the weever family. The chapter gives no temperature, humour or other quality for the fish beyond its use. Its stated sites are therefore the eyes, through the dietary caution, and the skin and wound tissue, through the external application. The text gives no quantity or duration for either use, and does not say how often 'often' is.
+
 ### Contraindications
 
 - **Hygiene and infection:** raw fish applied to broken skin can introduce bacteria; raw or undercooked marine fish can carry parasites, and an untreated sting needs proper care.

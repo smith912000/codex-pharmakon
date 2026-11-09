@@ -40,6 +40,10 @@ General, well-established facts only. Keratin is a structural protein; swallowed
 
 **Practitioner's note.** A cultivator does nothing with this. It is a one-line indication in a list of animal medicines that the translator says is little used now, the identity of the bird is uncertain between two translations, and no practice is attached. The "dispel spirits" gloss is a commentary's addition and is recorded, not endorsed.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one action, that the feathers relieve urinary retention, which maps to the bladder and urethra. Clark's bracketed commentary adds that they dispel spirits, a spirit frame and not an organ. The Men-Tsee-Khang rendering gives the same urinary indication, saying a cormorant's feather cures obstruction of urine, and names no other action. No taste, potency, humour or preparation is printed in the sources read, and the bird is uncertain between heron, gull and cormorant. The entry does not say whether the feather was burnt, powdered or used whole, and gives no dose or route. Clark places the feather under hair in the animal section of the materia medica, and that is the only other structural fact the entry supports.
+
 ### Contraindications
 
 - **Urinary retention:** needs prompt medical assessment; do not rely on this line.

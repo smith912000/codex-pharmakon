@@ -46,6 +46,10 @@ General, well-established facts only. The genera *Hedysarum* and *Uraria* are pe
 
 **Practitioner's note.** Nothing to cultivate here. A glossary line with an uncertain Sanskrit name. A cultivator has no sourced use for it.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry states that the Appendix gives Gangeruki no use, part, preparation, quality or dose, and that the name is garbled in the OCR and paired by column count with Hedysarum lagopodioides. The main text does not contain the name. The near form Gangeruka appears in a list of cooling and astringent tree fruits in Sutra 46, which the entry says should not be taken as the same plant, because the listed items are trees and this is a small herb. That list states that such fruits subdue Pittam and Kapham, produce parchedness and have a sweet and astringent taste, but the entry does not carry these claims to this herb. No organ or tissue is named for it. No clinical study, pregnancy statement or dose was retrieved.
+
 ### Contraindications
 
 - **Identity.** The Sanskrit name is garbled in the OCR and the pairing is ours. [USER: verify against the page scan]

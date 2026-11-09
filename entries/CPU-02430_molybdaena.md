@@ -50,6 +50,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 **Practitioner's note.** Nothing to take from it for cultivation beyond the model of sensory and oil-boil assay. The material is a poison and is not identified. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Greek (DMM) terms are used as the entry gives them. The chapter prints no humoral quality. Its only claimed site is the wound and the skin surface. The material is mixed with gentle plasters called lipara, which it suits when they are not corrosive, promoting the growth of flesh in a wound or sore and forming new skin. It is not suitable for plasters that close open cuts and clean them. The chapter ties it by comparison to litharge and lead slag, which have properties like its own. Its tests of quality are colour and glitter, tawny colour when pounded, and a liver colour after boiling in oil. No warming, cooling, drying or moistening quality is printed. No internal organ, system or condition is claimed.
+
 ### Contraindications
 
 - **TOXIC.** Lead compounds are poisonous. Do not ingest, inhale or put this material on wounds.

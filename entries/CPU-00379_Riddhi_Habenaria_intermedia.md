@@ -57,6 +57,10 @@ According to PubMed, direct science on Ṛddhi as such is **very thin** — a se
 
 **Practitioner's note.** Nothing to cultivate from the classic: Ṛddhi is a named member of a restorative, milk-promoting group. The entry's rare, substituted material means a cultivator cannot assume the plant in hand is the one the text names.
 
+### Functional–Anatomical Correlate
+
+The entry maps Ṛddhi onto deep tissue and vitality. Its bṛṃhaṇa (tissue-building) and jīvanīya (life-promoting) actions address the depleted body, with the targets named as dhātu, ojas (vital essence and immunity) and śukra (reproductive tissue). Srotas named are rasavaha and raktavaha (plasma and blood), śukravaha (reproductive), and the ojas/immunity channel, plus mucosa. Its indications are kṣaya (wasting), debility and rakta-pitta. Balya (strengthening) and vayaḥsthāpana (age-sustaining) are listed as actions. Doṣa action is Vāta-Pitta pacifying, and the entry notes it increases Kapha, which suits a heavy, unctuous, sweet drug. Modern evidence is a single preclinical study of H. intermedia tubers, reporting immunomodulatory activity (spleen-cell proliferation, cytokine secretion, reversal of cyclophosphamide-induced immunosuppression) and anti-NLRP3-inflammasome activity. No human trials were retrieved, and the entry warns that most traded material is substituted, so product identity is unverified.
+
 ### Contraindications
 
 Heavy, sweet, unctuous and Kapha-increasing — contraindicated or used with care in obesity, diabetes/āma-medas conditions, congestion, high Kapha, and weak digestion (mandāgni) where it can cause heaviness and sluggishness. Not for acute infection or high-āma states. Because authentic material is rare, **adulteration and misidentification are the primary practical hazard** — an incorrectly substituted "Riddhi" carries unknown effects. Conservation: wild sourcing is discouraged/regulated. Pregnancy/lactation and paediatric use: `[USER: verify with practitioner]`.

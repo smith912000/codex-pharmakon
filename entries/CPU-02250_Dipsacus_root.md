@@ -50,6 +50,10 @@ General, well-established facts only. *Dipsacus asper* (teasel family, Caprifoli
 
 **Practitioner's note.** The classic frames this root as an upper-class drug whose long use is said to boost qi and strength, and mends sinews and bones after breaks and falls. That is a record of the classic's wording, not a practice. No dose or course is given, and the plant behind the name is not settled by the text. A cultivator should take from it only the grade and the wording.
 
+### Functional–Anatomical Correlate
+
+The entry's own claims place the root's action mainly on the sinews and bones and on the injured body. The Shennong paragraph says it joins the sinews and bones (续筋骨), mends breaks and falls (折跌), and treats metal-inflicted wounds and abscess injuries (金创痈伤). It is said to govern cold damage (伤寒) and to supplement insufficiency (补不足). For women it names difficulty with milk (妇人乳难); Sun notes a Yulan reading of breast abscess (乳痈), and flooding and spotting (崩中、漏血) appear in the text as later additions, which the Codex reads as such. Taken long, the classic says it boosts qi and strength (益气力), a general tonic claim. The entry gives no channel or organ assignment and no energetic terms beyond bitter and slightly warm. It adds no modern anatomy, and the classic's categories are not turned into diagnoses.
+
 ### Contraindications
 
 - **Identity:** commentary on the name (Yang's note 146) allows more than one plant; do not treat products sold as xu duan as interchangeable.

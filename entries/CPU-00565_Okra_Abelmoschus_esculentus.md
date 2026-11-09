@@ -76,6 +76,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Okra is mapped by the entry to the gut: its mucilage coats irritated gastric and intestinal mucosa, and its soluble-fibre gel slows carbohydrate absorption to steady post-meal glucose. Its bowel effect is bulking and lubrication, softening stool and easing passage. Unani places it as cool and moist, easing dry, hot irritation of stomach and bowel. In Chinese terms it moistens dryness and clears heat from the stomach and intestines, supporting the digestive and urinary tracts. In Ayurveda, as bhindi, it is picchila and guru, pacifies pitta and vata, and is mildly diuretic, its gel soothing the stomach, intestines and urinary passages. The cited preclinical rat studies report lower glucose, insulin, cholesterol and inflammatory markers, but the entry grades human trial evidence as limited.
+
 ### Contraindications
 
 Generally very safe as a food. Cautions: its high soluble-fibre/mucilage load can cause bloating or loose stools if intake is increased abruptly — build up gradually and maintain hydration. Okra is relatively high in **oxalates**, so those with a history of calcium-oxalate kidney stones should moderate intake. Its viscous gel can **slow the absorption of co-administered oral drugs** (including metformin in some reports) — separate dosing by ~2 hours. Diabetics using okra alongside glucose-lowering medication should monitor for additive hypoglycaemia and adjust with clinical guidance. No significant toxicity is reported at food doses.

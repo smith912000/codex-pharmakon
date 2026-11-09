@@ -68,6 +68,10 @@ According to PubMed, direct clinical or phytochemical research on *Ligusticum mu
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps mountain lovage onto the digestive tract and its smooth muscle, with some reach toward the head and the joints. In Galenic and Unani terms it is warm and dry, a carminative and stomachic that dispels wind and warms a cold, sluggish stomach, with diuretic action listed as well. The relaxation of gut smooth muscle is linked to the phthalides of the genus, which the entry describes as antispasmodic and mildly sedative in congeneric species, so the claim rests on genus-level evidence rather than on this species. Tibetan medicine groups it with warming high-altitude umbellifers used for cold digestion, wind, blood-moving and headache. In TCM, by analogy with chuanxiong, it is acrid and warm, moving qi and blood. Ayurvedic placement is only loose, as a warm pungent digestive. The entry records no direct clinical evidence for this species. Its cautions name the uterus, treated as uterine-active in pregnancy, and the skin, through furanocoumarin photosensitivity when sun exposure follows.
+
 ### Contraindications
 
 ⚠️ **Cautions (moderate; data-sparse species).**

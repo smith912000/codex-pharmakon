@@ -55,6 +55,10 @@ General, well-established facts only. The name covers more than one thing in the
 
 **Practitioner's note.** A name that the text uses for several things and a plant it does not identify. For a cultivator the only point of practice in the record is the dietary one, that a Rohini pot-herb is not to be combined with milk and honey, and even that cannot be applied while the plant is unknown.
 
+### Functional–Anatomical Correlate
+
+Rohini is a plant or several, and the text gives its action largely through group membership. In the Nyagrodhadi group it is listed among the astringent drugs, and the group is said to benefit ulcers, disorders of the uterus and vagina, fractures, secretions of the body and haemoptysis, and to reduce fat and burning. The modern correlates are the skin and wound, the uterus and vagina, bone, the lungs and airway (haemoptysis), and the body's fat. In the bitter group the text lists Rohini among bitter drugs, which is a separate placement. In recipes the bark is strewn on soft ulcers, and the fruit is soaked in goat's milk and pasted on the skin to restore its colour. The text also warns against eating a Rohini pot-herb with milk and honey. The plant is not identified, and a translator's footnote offers two readings. The Codex maps only the sites the text names and gives no dose.
+
 ### Contraindications
 
 - **Identity.** The plant cannot be identified from the text, and a footnote offers two different readings; do not guess a species. [USER: verify]

@@ -45,6 +45,10 @@ General, well-established facts only. Honey in water is a mild sugar solution an
 
 **Practitioner's note.** Nothing for a cultivator to add. A honey-and-water drink is a plain food, and the chapter's own advice (note the age and the cases for which it is unsuitable) is the lesson.
 
+### Functional–Anatomical Correlate
+
+The chapter maps honey water onto the bowels, the chest, the pulse, the stomach and the appetite. Boiled, it is said to soften the bowels, and with oil it is given to cause vomiting, which the text gives for those who have taken a drink of poison. For feeble pulses, the weak, coughers, pneumonia and those who faint with sweating, it is used boiled. The middle-aged hydromel is said to restore strength, which the translator glosses as adynamon, lacking vital powers, and to resemble second-pressed wine in suiting inflammation in some part. The older kind is not allowed where there is inflammation and constipation. A sore stomach and loss of appetite are also named as suitable. The comb-made kind is said to be unsuitable for the sick because of its waxy matter. Dioscorides frames these actions in terms of strength, softening and loosening, in the chapter's own words. The Codex adds no temperament, quality or subtle-body status to this entry.
+
 ### Contraindications
 
 - **Infants under one year.** No honey, in any form.

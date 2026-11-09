@@ -47,6 +47,10 @@ General, well-established facts only. *Grewia asiatica* is a small tree of South
 
 **Practitioner's note.** A sour-sweet fruit and cooling drink in the Sushruta scheme, used for thirst and for Pitta and Vata complaints. Nothing here makes it a cultivation substance.
 
+### Functional–Anatomical Correlate
+
+The entry links Parushaka to several body systems through the group's virtue and the fruit's stated effects. The Parushakadi group is said to subdue deranged Vayu, allay thirst, act as a cordial, increase relish for food, and cure diseased or abnormal components of urine, so the stated targets are the appetite and digestion, the thirst response, and the urinary tract. The raw fruit is described as acid, light of digestion, raising Pitta and subduing Kapha, while the ripe fruit is sweet, cooling in potency, and subduing Vayu and Pitta. The ripe fruit is also said to be curative in haemoptysis, which is bleeding from the lungs or airways. In the clinical passages the branches are used for fanning a patient after surgery, and a decoction is used as a gargle in a Pitta type of a condition called Rohini, which reaches the mouth and throat. These are the tradition's terms, and the botanical identification is the Codex's own, of medium confidence.
+
 ### Contraindications
 
 - **Unripe fruit.** The text itself says the raw fruit raises Pitta.

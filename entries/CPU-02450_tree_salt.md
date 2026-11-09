@@ -50,6 +50,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 **Practitioner's note.** Nothing to take from it for cultivation. It is a wood-derived salt the Men-Tsee-Khang note warns can turn poisonous, whose very identity is disputed between two translations. It is not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry places the salt among the salty-taste substances and, in the Men-Tsee-Khang group list, among the medicines that cure cold disorders associated with baekan. Baekan is the tradition's phlegm humour, which in modern terms maps loosely to the cold and mucus-related states of the body. No organ, channel or tissue is named for the salt itself, and the Explanatory Tantra's statement that salty taste pacifies wind is a general statement about tastes, not a printed action for this salt. The Men-Tsee-Khang note gives no action beyond these group memberships.
+
 ### Contraindications
 
 - **Possibly TOXIC.** The Men-Tsee-Khang note says it "becomes poisonous" if not exposed to the sun. Do not make or ingest.

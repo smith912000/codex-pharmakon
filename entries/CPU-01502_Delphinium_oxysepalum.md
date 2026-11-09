@@ -43,6 +43,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a single stated use against scorpion stings and a reported tale, with no amounts, so it is history and not a practice. The poisonous-genus note is the translators' and is the sole safety statement.
 
+### Functional–Anatomical Correlate
+
+Little to map: Dioscorides' chapter names one use, against scorpion stings. The seed, taken as a drink in wine, is said to help those bitten by scorpions, and the text says nothing else does this as well. A second claim, introduced with 'They also say', reports that scorpions grow faint, inactive and numb when the herb is applied to them, and recover when it is taken away. No body system, organ or tissue of the patient is named, and no tradition term such as humour, dosha or qi is given. The rest of the chapter (shoots two feet long, cut-in leaves like dolphins, a purple flower like a white violet, seed in pods like milium, rough sunny habitat) is botanical description. The translators' note that the genus is poisonous is their own and is not an account of the body. Any link to the sting site or to the nerves would be an inference the entry does not make.
+
 ### Contraindications
 
 The genus is marked poisonous by the translators and is generally known as toxic, so no part of any larkspur should be eaten or drunk on the strength of this entry. A scorpion sting needs medical care. The identification rests on a translators' suggestion, so no wild plant should be gathered or used. None of the traditional uses above is advice. [USER: verify]

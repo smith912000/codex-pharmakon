@@ -108,6 +108,10 @@ In any TCM-based protocol combining multiple bitter, pungent, or potentially tox
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps liquorice to the throat and airways, the adrenal-cortisol axis, the kidney and blood pressure, the stomach lining, the liver and the brain. Glycyrrhizin and glycyrrhetinic acid inhibit 11-beta-HSD2, so cortisol persists, causing sodium retention, potassium loss and raised blood pressure at high chronic doses; Avicenna's description of limb swelling matches this. Its mucilage coats irritated throat and bronchial mucosa for cough and hoarseness, which the Canon calls warm and moist. Deglycyrrhizinated liquorice (DGL) is cited for gastric mucosal protection, as is carbenoxolone, the synthetic derivative of glycyrrhetinic acid. Liquiritin is said to act on the brain and glabridin on cholinesterase and oestrogen receptors, and Ayurvedic medhya rasayana places the root among the faculties of memory and recall. In TCM it harmonises the Lung, Spleen-Stomach and Heart, with honey-fried liquorice used for arrhythmia. Hypokalaemia, pregnancy and hormone-sensitive tissues are recorded contraindications.
+
 ### Contraindications
 
 - **Hypertension** — glycyrrhizin-induced pseudohyperaldosteronism (sodium retention, potassium excretion, blood pressure elevation) at doses >100mg glycyrrhizin/day (approximately 50g liquorice candy/day or 10g root/day); contraindicated in uncontrolled hypertension; use DGL form instead

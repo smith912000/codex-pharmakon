@@ -40,6 +40,10 @@ General, well-established facts only. Raw and undercooked bivalves are a recogni
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The chama is a name, a translator's gloss and a broth. For someone who eats bivalves the sensible lesson is the ordinary one: know where they come from and cook them. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter names one organ and one action. A broth of the chama, boiled in a little water and taken with wine, stirs the bowels (Dioscorides 2-9). The bowels, in modern terms the intestinal tract, are the only body part the text names. It gives no temperature, moisture, taste or other quality, no tissue, no humour and no energetic term. It does not say which bivalve a chama is, and the neighbouring tellinae chapter, with its own broth for the bowels, concerns a different animal. The entry itself calls the broth an ordinary preparation of a food. Nothing else in the entry's text is attributed to the chama, so no further body system can be mapped from it.
+
 ### Contraindications
 
 - **Infection and toxins:** raw or lightly cooked bivalves can carry viruses, bacteria and algal toxins; harvest-area warnings (red tide, sewage) apply. Boiling reduces some but not all of these risks, and does not remove algal toxins.

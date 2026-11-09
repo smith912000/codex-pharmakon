@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identifica
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is a modest one, the habit of learning a plant by its habit of growth and by what it lacks (no flower, no stalk, a useless root). The text offers nothing more.
 
+### Functional–Anatomical Correlate
+
+The chapter's claims cover the womb, the bowels, the skin, the eyes and the body as a whole. The branches pounded with wine are said to lessen pains about the womb. Applied as a pessary and smeared on, they take away swelling, hanging warts and myrmecias, a wart resembling an anthill. Eaten boiled, or with the juice, they loosen the bowels. Smeared on, they help a scorpion's sting. Rubbed on with honey, they are given for dullness of sight, darkening of the vision, new liquid discharges from the eyes, scars and specks or clouds in the eye. The chapter prints no hot, cold, moist or dry quality and no taste, and the entry reads its only printed quality as the bowel-loosening action, so no humoral, doshic or qi classification can be drawn. The entry also notes that the chapter calls the branches full of juice but does not call the juice milky.
+
 ### Contraindications
 
 The chapter prints no warning. Spurge juice is an irritant of skin, eyes and mucous membranes, so it should not be put in the eye, taken by mouth or used as a pessary. A scorpion sting, eye disease and womb pain need medical care. The identification is only the translators' suggestion, so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read, and a pessary used for womb pain is a reason for caution. None of the traditional uses above is advice. [USER: verify]

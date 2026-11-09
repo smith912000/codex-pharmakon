@@ -55,6 +55,10 @@ General, well-established facts only. Because Vanjula has no secure botanical id
 
 **Practitioner's note.** Vanjula is a name in a list. The tradition's text gives the drug a place among therapeutic groups and little more, and nothing in the record supports a cultivation use. A cultivator can learn from it only how Sushruta organises drugs into groups by action, and that some names in that classification are no longer certainly identified. Nobody should try to find a plant to match the name.
 
+### Functional–Anatomical Correlate
+
+Vanjula is one of the drugs of the Nyagrodhadi group, which the text says helps ulcers, cures disorders of the uterus and vagina, favours the union of fractured bones, is astringent, aids the body's secretions, cures haemoptysis (coughing of blood), is anti-fat, and eases the burning of the body. These are group properties and not the drug's alone. Chikitsasthana chapter 5 includes it in a plaster that may be applied lukewarm even in Vata-rakta marked by aggravated Vayu, which places it on the skin of the affected part. Kalpasthana chapter 8 names it among ingredients of two antidotes for spider bites, the Svetaka and the Ala-visha, but the text describes no body region for it there. The entry names no part used and no constituent, and no dose is printed. The plant is unidentified, and nothing in the record supports a cultivation use.
+
 ### Contraindications
 
 - **Identity.** The drug is not securely identified; a wrong match could be harmful. Do not substitute any plant for it. [USER: verify]

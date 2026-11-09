@@ -40,6 +40,10 @@ No clinical studies were retrieved for this entry. [USER: verify] Because the pl
 
 **Practitioner's note.** Nothing to do. A short, unidentified entry; nothing here concerns cultivation or can be sourced.
 
+### Functional–Anatomical Correlate
+
+Little to map: the passage, quoting Dioscorides through Avicenna's Canon, lists three sites. A poultice of the leaf with oil is said to promote sweating, which maps to the skin and sweat glands. Pounded and applied, the plant is said to dissolve abscesses and inflamed pustules, which maps to the skin and subcutaneous tissue. Drunk in wine, it is said to cure dribbling of urine, which the Canon files under the excretory organs, meaning the urinary tract. The Canon prints no temperament and no hot, cold, dry or moist quality, so none can be mapped here, and no humoral term is attached to it. The text marks the report as second-hand, since Avicenna writes that Dioscorides 'claimed' the plant. Nothing is said of the heart, brain, digestive system or any other organ. The plant is unidentified, so no tissue-level claim can be attached to a species.
+
 ### Contraindications
 
 - **Identity.** Unknown; the lentil-like leaf and red flower fit many plants. Do not substitute.

@@ -75,6 +75,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Italian bugloss is mapped by the entry chiefly to the skin, applied externally. Its Galenic and Unani classification is cold and moist, first to second degree: a demulcent, emollient, refrigerant for hot, dry or inflamed states. The Ebers and Assyrian material is read as cooling poultices for burns, hot swellings and ulcers, and Dioscorides describes the root worked in oil for burns, ulcers and inflammations. In modern anatomy the entry names allantoin as a tissue-repair compound, rosmarinic acid and flavonoids as antioxidant phenolics, and shikonin-type naphthoquinones in the root as wound-relevant. The topical wound-healing data come from rats, showing collagen deposition and re-epithelialisation of burn wounds, and remain preclinical. The internal blood-cooling use is recorded as traditional only. Its main internal target is the liver, because pyrrolizidine alkaloids can cause hepatic veno-occlusive disease, and pregnancy, lactation and liver disease are contraindicated for any internal form.
+
 ### Contraindications
 
 **⚠️ PYRROLIZIDINE-ALKALOID HEPATOTOXICITY — THE PRIMARY INTERNAL HAZARD.** As a member of the **Boraginaceae**, *Anchusa azurea* belongs to a family well documented to contain **pyrrolizidine alkaloids (PAs)**, a class of compounds that are hepatotoxic and can cause **hepatic veno-occlusive disease (sinusoidal obstruction syndrome)**, are genotoxic/carcinogenic in animal models, and are teratogenic. Regulatory limits on PA intake exist for exactly this reason.

@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identifica
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable lesson is a modest one: Dioscorides tells the reader when and how to gather and dry a plant and which part to ignore, and he says in the same chapter that it harms digestion in food. The text offers nothing more.
 
+### Functional–Anatomical Correlate
+
+The Dioscorides chapter maps to the bowels and to the humours of phlegm and bile. Its one medical use is a decoction of the seed or herb, drunk with honey water, which the text says expels phlegm and bile, so the digestive tract is the area the text points to. The same chapter warns that the herb, mixed into meats, disturbs the digestion, which names the stomach and gut again as the area it affects. The text prints no hot, cold, moist or dry quality, no taste, and no doshic or qi category, and it names no other organ or tissue. The milky white juice is described as a feature of the shrub, and the text does not say what it does to skin or eyes. The general fact that spurge latex irritates skin and eyes comes from outside the chapter and is not a claim of Dioscorides. The plant's identity is only the translators' suggestion.
+
 ### Contraindications
 
 The chapter itself warns that the herb "mixed in meats ... disturbs the digestion". Spurge latex is an irritant of skin, eyes and mucous membranes, and a purge made from spurge can cause vomiting and dehydration, so no part of this plant should be taken or applied. The identification is only the translators' suggestion, so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. None of the traditional uses above is advice. [USER: verify]

@@ -132,6 +132,10 @@ Direction: upward and outward — to the surface and to the breath. Tissue state
 
 **Practitioner's note.** Nothing. This is a topical and inhalant resin remedy from European folk practice, not a cultivation substance in either tagged tradition.
 
+### Functional–Anatomical Correlate
+
+The entry maps silver fir mainly to the airways and skin. Traditionally it is a chest remedy for catarrh, cough and bronchial congestion, and a wound and boil balm, with needle baths for rheumatic and muscular complaints. Its doctrine is warm and dry, opening to the chest and resolvent to the surface, acting on cold damp stagnation in the chest and on laxity and infection at the skin. The entry separates three claims. Antiseptic action of its monoterpene oils is real but weak in absolute terms, shown in vitro and once in an uncontrolled hospital air-disinfection study. The feeling of easier breathing is attributed to TRPM8 cold sensation rather than airway widening, and reflex apnoea and laryngospasm are named as the infant hazard. The respiratory doctrine is recorded as untested, the drawing of boils is treated as an occlusion effect, and anxiolysis is not established.
+
 ### Contraindications
 
 - **Infants and young children — do not use camphoraceous or monoterpene inhalants. This is the most important line in this entry.** Application of camphoraceous/menthol-type volatile preparations near the face or nostrils of infants and small children is associated with reflex apnoea, bronchospasm, and **laryngospasm**. The TRPM8 cold-sensation mechanism that makes these preparations *feel* decongestant to an adult can, in a small airway with brisk reflexes, produce the opposite of a patent airway. Do not apply fir oil to an infant's chest, do not put it near the face, and do not steam-inhale a child over a bowl. [USER: verify — the laryngospasm/reflex-apnoea contraindication for camphoraceous inhalants in infants is standard paediatric and regulatory guidance, but no retrieved study this run tested *Abies alba* specifically; source a current paediatric reference before printing.]

@@ -83,6 +83,10 @@ According to PubMed, Street, Sidana & Prinsloo (2013), *Evidence-Based Complemen
 
 **Practitioner's note.** The one thing a cultivator might genuinely do continuously with chicory is drink the roasted root — a low-dose daily bitter-and-prebiotic that tends the gut terrain. That is a defensible standing practice, but it rests on the plant's nourishing-descent (inulin) and hepatic actions, not on any attested vital-cultivation grade in any of these traditions. Above, it drains heat; below, it feeds the ground — taken as food, not as an elixir of long life.
 
+### Functional–Anatomical Correlate
+
+Chicory's entry maps onto the liver, gallbladder, bile flow and the gut. In Unani (hindba) it is a cardinal cooling hepatic and deobstruent for hot liver, jaundice and bilious states. Galenic and TCM readings have it clear heat and benefit the liver and gallbladder, moving bile and promoting urination, with Liver, Gallbladder and Stomach channels. Ayurveda calls it tikta, pittahara and deepana-pachana (digestion), a diuretic and febrifuge, used for liver complaints and sluggish digestion. Its sesquiterpene lactones provide the bitter, cholagogue activity. The root's inulin passes to the large intestine, where bifidobacteria ferment it into short-chain fatty acids, so the gut flora are the entry's target for prebiotic effect. The entry warns that a cholagogue should be used cautiously with gallstones or bile-duct obstruction, that high inulin can cause bloating, and that traditional uterine cautions apply in pregnancy.
+
 ### Contraindications
 
 - **Asteraceae allergy:** cross-reactivity with ragweed/daisy/marigold family — avoid in sensitised individuals.

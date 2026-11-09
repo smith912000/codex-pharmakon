@@ -45,6 +45,10 @@ The entry's own words fit that frame: "Protracted taking may sharpen the wits, i
 
 **Practitioner's note.** A superior-class entry in the Chinese scheme, and the only class the preface ties to long-term, life-nourishing use. The entry itself is brief and gives no dose, no preparation and no duration, and the root is very bitter, so nothing here supports taking it as an ongoing practice on the strength of the grade. A cultivator can read the entry for what the classic says (a nontoxic superior-class drug whose long use "may" sharpen the wits and slow aging) and leave it there. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Shennong Bencao Jing entry for Long Dan calls the root bitter and astringent, though the translator notes the second word may be a typographical error. It mainly treats cold and heat in the bones, fright epilepsy and evil qi, mends expiry and damage, settles the five viscera, and kills gu toxins. The body regions named are the bones, the five viscera as a group, and the seizure-like condition called fright epilepsy; the entry does not say which of the five viscera it means. Protracted taking is said to sharpen the wits, improve the memory, make the body light and slow aging, which the entry places in the mind and general vitality rather than in a named organ. The translator's footnote is a later layer and is not used here. The entry prints no constituent, part used, dose, temperature or meridian, and no tissue-level mechanism. Its terms are not modern diagnoses, so no modern finding is attached.
+
 ### Contraindications
 
 The entry prints no warning and no toxicity statement; the preface says the superior class is nontoxic and will not harm people even in large amounts and for a long time, a general statement about the class and not a safety finding for this root. No dose, preparation or safety information is given for it, and the identity is the translator's pharmaceutical Latin. Do not take a plant or root on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

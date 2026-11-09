@@ -65,6 +65,10 @@ Attribution: findings from PubMed.
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, Yù Zhú enters the Lung and Stomach channels as a sweet, neutral to slightly cool Yin tonic that moistens dryness, generates fluids and clears deficiency heat. Its target tissues are the Lung and Stomach fluids, moistened in dry cough, dry throat and mouth, and thirst. Its classical pattern is xiāo kě, the wasting-and-thirsting pattern that the entry says overlaps with diabetes-type dryness. The entry places its action in the Middle Dantian, over Stomach and Lung fluids. The modern mapping is metabolic and gut-related: a saponin-rich fraction produced glucose lowering and improved glucose uptake in diabetic rats, a flavonoid-rich fraction raised antioxidant enzymes (SOD) and lowered MDA, and polysaccharides are reviewed for hypoglycaemic, immunomodulatory and gut-microbiota activity. These findings are preclinical, and the entry does not establish human antidiabetic use. Dampness and loose stools are the listed contraindications.
+
 ### Contraindications
 
 - **Damp/phlegm and Spleen-deficiency with loose stools:** the moistening, sweet, cloying tendency is inappropriate where there is internal dampness or weak digestion with diarrhoea.

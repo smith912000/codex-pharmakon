@@ -66,6 +66,10 @@ Evidence for Polygala tenuifolia is **preclinical-dominant** — animal and mech
 
 **Practitioner's note.** Upper-grade status is recorded in the classic for this drug. Later "calms the spirit" language belongs to post-classical materia medica and is not part of this record; the classic speaks of memory, will and not ageing.
 
+### Functional–Anatomical Correlate
+
+The entry places Polygala in the Heart, Kidney and Lung channels, with its classical target as the Shen (spirit) and the Heart. It names restoring Heart-Kidney communication (心肾相交) as the vertical axis on which clear, grounded cognition depends. In the entry's Chinese frame the herb also expels phlegm and clears the orifices (祛痰開竅), a category it says spans productive cough and clouded thinking, and it records a topical use for reducing abscess and swelling. The modern correlates given are neurochemical rather than organ-specific: saponins and oligosaccharide esters act on cholinergic tone, neurotrophic signalling and HPA-axis modulation. The entry also cites neurite outgrowth and autophagy in cell work, and an expectorant action on the airway. The same saponins irritate the gastric and airway mucosa and cause emesis at higher doses, which the entry offers as one chemistry with two faces. Evidence for the isolated herb is stated as preclinical only.
+
 ### Contraindications
 
 - **Mucosal / gastric irritation:** Raw root can cause nausea, vomiting and gastric upset via saponins — hence the standard honey/liquorice processing. Avoid or reduce in gastritis, peptic ulcer, or gastro-oesophageal reflux.

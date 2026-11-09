@@ -34,6 +34,10 @@ Sodium sulphate is an osmotic laxative: it draws water into the gut and loosens 
 
 **Practitioner's note.** An upper-grade drug in the Chinese scheme which the translator himself describes as "a very good cathartic". A cultivator should read the grade as the Classic's, and the pharmacology as a purge. Nothing here supports taking it for long periods. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Yang prints this bitter and cold Superior-class salt for accumulated heat in the five viscera, and for stomach distention and block. It is said to flush away accumulated drink and food and to weed out the old, which maps to the stomach and intestines. It eliminates evil qi. Protracted taking is said to make the body light. In modern anatomy the claimed sites are the five viscera, the stomach and the bowel, where the printed indications describe a purge. The translator's footnote suspects these indications belong to Slaked Lime, the entry before, and not to this salt, so the mapping is the text's and the identity of the substance remains open. No preparation beyond sublimation into a paste is printed, and no humoral or doshic classification is given.
+
 ### Contraindications
 
 Salt purges are not for continued use: they cause dehydration and electrolyte loss, and are unsafe in kidney, heart or bowel disease, in pregnancy and in children without medical advice. If the substance were saltpetre it would be harmful by mouth in more than small amounts. Powdered mineral products are unstandardised, and the identity of what is sold under "Xiao Shi" cannot be assumed. The Classic's "light body" is not a claim of fact.

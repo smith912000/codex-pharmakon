@@ -47,6 +47,10 @@ The entry carries no sentence on protracted taking, no mention of making the bod
 
 **Practitioner's note.** An inferior-class entry in the Chinese scheme, listed for abscesses, sores and wasted tissue, with no preparation and no dose. The class warns against long use. Nothing here supports taking this plant as a cultivation practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Shennong text describes Bai Ji as bitter and balanced. It mainly treats welling abscesses and swellings, malign sores, putrid flat abscesses, damaged yin, dead muscles, evil qi in the stomach, bandit wind, ghost stroke, and disablement of slackening and inability to contract. Abscesses, sores and flat abscesses point to the skin and the soft tissue beneath it. Dead muscles and disablement of slackening point to the muscles and to their ability to contract. Evil qi in the stomach names the stomach. Bandit wind and ghost stroke are the entry's own terms and are not given a modern organ here. Damaged yin is glossed by the translator in note 221 as impotence in males and prolapse of the uterus in females, so the reproductive organs enter only through that gloss. The entry names no channel or meridian. Lung bleeding, bone fracture and nosebleed appear in the translator's note 220, not in the entry, and are not mapped.
+
 ### Contraindications
 
 The Shennong entry prints no warning, and its silence is not a statement of safety; the preface says of the inferior class that it is "usually toxic and cannot be taken for a long time". The identity rests on a translator's Latin name, so no plant should be gathered or used on the strength of this entry. Abscesses, spreading sores and bleeding need medical care. No safety information for pregnancy was read. [USER: verify]

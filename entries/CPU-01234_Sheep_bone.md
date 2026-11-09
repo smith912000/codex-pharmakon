@@ -38,6 +38,10 @@ General, well-established facts only. Bone broth contains protein from collagen 
 
 **Practitioner's note.** A cultivator does nothing with this. It is a short indication in a list, with no preparation or dose, and the cooked bone soup that the diet chapters mention is food. If the complaint is urinary retention, the answer is a clinician, not a bone.
 
+### Functional–Anatomical Correlate
+
+The entry maps to two indications and one unmapped frame. Sheep bone is said to cure wind disorders, which Clark renders as wind and Men-Tsee-Khang as loong, the disorder class of rlung in the Tibetan frame. The entry notes that this is not a single modern diagnosis, so no organ is attached in the text. The head of the sheep's femur, the spherical end of the thigh bone, is said to dispel urinary retention, so the urinary tract and bladder are the organs named. Bone soups from a sheep's knee-bone or head appear in the diet and in wind treatment, but they are food, not the bone medicine. The chapter gives no taste, potency or humoral action for bone and no preparation, route or dose. The entry does not connect the bone to any essence-extraction practice.
+
 ### Contraindications
 
 - **Urinary retention is not self-treatable:** inability to pass urine needs urgent assessment; do not rely on this line.

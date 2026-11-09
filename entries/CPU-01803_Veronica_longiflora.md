@@ -53,6 +53,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a wound-and-poison-fever drug with no preparation and no dose, and its first Latin name is one of five, with no label saying which kind of the drug it is. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The entry's sites are wounds, fever and spirits, and it names no internal organ. The Men-Tsee-Khang line says the drug joins cuts and cures hot disorder associated with poisoning, so its tissue of action is the cut or wound. Clark's line says it heals wounds and cures fever caused by poisoning, which places its action on the fever of a poisoned body. The bracketed commentary in Clark adds that the white type subdues spirits by its pungent odor and dispels spirits, and gives it a bitter taste and cool power. The Codex keeps those commentary words apart from the root text, and the Men-Tsee-Khang lines print no taste, power or post-digestive taste for the drug. The two editions agree only in kind, and fever and hot disorder are two translators' words. The first Latin name is not settled, so these sites are the Tibetan texts' claims about a drug of uncertain identity.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Wounds, fevers and poisoning need medical care; the identity is open among several genera, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. It is a general fact that some of the genera named, notably *Senecio*, can contain liver-toxic alkaloids, which is a further reason to leave the plant alone while its identity is unsettled. No conservation information and no safety information for pregnancy were read. [USER: verify]

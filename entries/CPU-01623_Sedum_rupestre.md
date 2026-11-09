@@ -43,6 +43,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It offers a description and a reference to another plant's strength, without a use or an amount, so it is history and not a practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter gives no use, site or organ for this plant. Dioscorides describes its form: many thin stalks from one root, full of little round, fat leaves that are sharp on the top, and a central flowering stalk about twenty centimetres high with thin green flowers. The text places it on walls, rocks, mounds and somewhat shady ditches. Its only statement of power is that its leaves have 'the same strength as the previous one', which the chapter does not name. No temperament, taste, humour or body part is printed for this plant, and no constituents are read. The link to the previous chapter is a reader's reading, not a claim of the text, so no body system can be mapped from this entry on its own terms.
+
 ### Contraindications
 
 The chapter prints no warning. The identification rests on a translators' suggestion, so no wild plant should be gathered or used on the strength of this entry. [USER: verify] Nothing above is advice.

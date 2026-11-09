@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with a plant under this name. Nothing should be gathered or taken on the strength of a Latin name that the chapters do not give.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapters retrieved do not print the name Sthala-padma, so no Sushruta statement is attached to this plant. The only source is the translator's Appendix No. 3, which pairs the Sanskrit name with the Latin Hibiscus mutabilis by position, with no description, use, reference, rasa, virya or vipaka. The vajikarana chapter (Chikitsa 26) and the rasayana chapters (Chikitsa 27 to 30) do not print the name, and the text says nothing of ojas, tejas or prana for it. The entry names no body system, organ or tissue. The chapters print no Latin, so the appendix is the only place the plant is named. No preparation, quantity or contraindication is given under the name in the sources read. The identity is open, and the entry states that nothing should be gathered or taken on the strength of this Latin pairing.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for this plant. The identity is open, so no plant should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

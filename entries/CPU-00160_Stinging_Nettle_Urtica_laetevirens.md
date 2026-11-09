@@ -72,6 +72,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 **Practitioner's note.** A cultivator uses this plant on two honest registers and no third: the cooked greens as a dense mineral food eaten to rebuild after depletion, and the fresh sting as a deliberate counter-irritant lashed on cold, stiff joints. Neither is a longevity discipline. The tag line's four western/Near-Eastern traditions (EP, AT, DMM, CM) most likely belong to the European nettle *U. dioica* and have been carried onto an Asian species — treat them as a botanical mis-tag to resolve, not as attestation.
 
 *[4 paragraph(s) removed 2026-07-18 — tag withdrawn per attestation ruling; see spine notes.]*
+### Functional–Anatomical Correlate
+
+Himalayan nettle, by the entry's account, acts on the skin and joints, the blood and mineral supply, the kidney and urinary tract and the bleeding surfaces. Its energetic frame is Qi for warming, circulation-stimulating and counter-irritant action, with Jing for blood and mineral nourishment. Joints and circulation: the fresh stinging plant is applied to cold, stiff, aching joints as a counter-irritant that rouses local circulation (urtication), which the Sowa Rigpa frame links to pacifying cold rlung. Blood and minerals: cooked or dried greens are a food rich in iron, calcium, magnesium and chlorophyll, linked to the blood-building tradition. Kidney and urinary tract: a diuretic and blood-cleansing reputation. Bleeding: the dried leaf has a traditional styptic reputation. Connective tissue: silica is linked to hair, skin, nail and connective tissue. The Ayurvedic genus relative Vrishchikali is pungent, warming and anti-rheumatic, reducing vata and kapha. Cautions are hot, inflamed or gouty joints, sting allergy, vitamin K and warfarin, diuretics and antihypertensives, diabetes drugs, and iron overload. The entry's Chinese use is folk practice rather than a graded bencao entry.
+
 ### Contraindications
 
 - **Hot/inflamed (acute, swollen, red) joints:** urtication and warming use are for *cold* stiff joints; do not apply the counter-irritant sting to acutely inflamed, hot, or gouty joints.

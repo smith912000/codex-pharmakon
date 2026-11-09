@@ -47,6 +47,10 @@ General, well-established facts only. The *dosha* terms (*vayu*, *pittam*, *kaph
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The text records hare's flesh as a light, moderately cooling food for the sick, taken after purgation, in fever or in diarrhoea, and as a food with effects on the *doshas*. The Codex does not recommend it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The hare (Shasha) is named in the hole-dwelling group, whose general statement is that its flesh increases the consistency of stool and urine, subdues Vayu, generates Pittam and Kapham, and is demulcent and beneficial in cough, dyspnoea and cachexia. The Shasha is then singled out as sweet and astringent, moderately cooling, reducing Pittam and Kapham without producing or subduing Vayu. Its uses point to the digestive tract, through the light diet after purgation, and to the febrile body, through the fever diet. In diarrhoea the blood-stained flesh is cooked with Samanga and curd, which points to the bowel. The lungs and airways appear in the group's cough and dyspnoea claim, and nutrition in its cachexia claim. No organ, channel or constitution beyond these is named.
+
 ### Contraindications
 
 - **Hygiene and infection:** wild hare meat can carry bacteria and parasites, including those that cause infection through skin contact during skinning; thorough cooking and care in handling are essential, and the Codex does not recommend sourcing it from the wild.

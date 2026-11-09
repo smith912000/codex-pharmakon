@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is an antidote-and-epidemic drug in the Men-Tsee-Khang text, and the link to *Aster himalaicus* rests on a column position. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: The Men-Tsee-Khang text, under the name Metok lugmig, says that the drug is an antidote against poison and cures epidemic diseases (line 3448). No organ, tissue or body system is named for it. The poison and the epidemic diseases are not identified further. The same chapter's sentence on Metok Serchhen, which treats wounds and necrotic channels, concerns a neighbouring glossary name and is not read as this drug. Clark 1995 gives the same Tibetan name under three other Aster binomials, with a commentary-layer taste described as slightly bitter, and with the root-text action of neutralizing poison and curing contagious fevers (line 1077). The two texts agree on poison and fever, but neither names an organ, so the agreement maps nothing anatomical. The glossary pairs the name with this binomial only by column position, and no English name is matched to it. The entry therefore maps no site, channel or tissue.
+
 ### Contraindications
 
 The sources read print no warning. The identity rests on a column position and the species is not certain, so no plant should be gathered or used on the strength of this entry. Poisoning is a medical emergency, and a plant should not be taken as an antidote on the strength of a materia medica. No safety information for pregnancy was read. [USER: verify]

@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identifica
 
 **Practitioner's note.** An upper-grade entry with a plain life-nourishing clause, a secure plant and no dose. A cultivator can read it as a record of the classic's promise for long taking, and should not take it as a recipe: nothing in the sources says how much, in what form, or for how long.
 
+### Functional–Anatomical Correlate
+
+The paragraph names the heart and abdomen (心腹) as the sites of evil qi (邪气), which the text treats as the cause of illness there, and the eyes, which it says it brightens and treats when red, painful and tearing with injury. Heart and abdomen are the only organs the classic names, and the entry gives no channel mapping beyond these words. The Wu Pu layer adds supplementing the centre (补中), a term the text does not explain, and strengthening the will (强志), which is attributed to Wu Pu rather than the classic. Taken long, the classic says the body is lightened, the qi is boosted and one is not hungry, so appetite and whole-body qi are named as systemic tissues. The eye claims are historical record only. No study was retrieved, and the entry states no mechanism for any organ.
+
 ### Contraindications
 
 - The classic does not warn, and the preface calls the upper class non-toxic (line 43). The Codex does not infer safety for any preparation from this.

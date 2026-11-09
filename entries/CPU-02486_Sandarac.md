@@ -44,6 +44,10 @@ No clinical studies were retrieved for this entry. [USER: verify] General fact: 
 
 **Practitioner's note.** Sandarac is a resin for smoke and tooth remedy in the text, with a wrestlers' use. Nothing is supported for long-term cultivation, and the weight-reducing dose is a warning, not a practice.
 
+### Functional–Anatomical Correlate
+
+The entry maps sandarac onto the blood, the chest, the head, the eye and the bowel. Its temperament is hot and dry in the second degree, and it is astringent and holds the blood (yuḥbis al-dam). For the chest it helps palpitation, prevents bleeding, and prevents moist asthma by drying; the entry gives this as the reason wrestlers use it, to be light, strong and not to pant. For the head, its smoke prevents catarrhs, it quiets toothache and corrects the gums. For the eye, dissolved in wine and used as a kohl, it clears marks. For the bowel, it is good for chronic diarrhoea, and its smoke helps haemorrhoids. The entry also names a strongly emaciating effect when three-quarters of a dirham is drunk daily with oxymel, and a fumigation that dries fistulas. The attribution to Dioscorides is quoted but not checked, and the identity of the resin is doubtful.
+
 ### Contraindications
 
 No contraindication is given in the text, though the entry itself calls the daily drink strongly emaciating. Do not ingest resin of uncertain species. Fumigation smoke irritates airways. Resin allergy is general knowledge. [USER: verify]

@@ -77,6 +77,10 @@ According to PubMed:
 
 **Practitioner's note.** A cultivator does the same thing with this root in every tradition that actually names it: takes it, warm and drying, against a defined cold-and-stagnation complaint of the digestion or chest, then stops. Nothing in the retrieved sources supports long-term self-cultivation use, and the plant's CITES Appendix I status makes casual or prolonged use indefensible regardless. The honest cultivation reading is a short, purposeful, well-sourced course — and Dioscorides' assaying discipline as the transferable practice.
 
+### Functional–Anatomical Correlate
+
+The entry maps costus chiefly to the digestive tract, chest and skin, through warming and Qi-moving actions. In Chinese terms it is a mu xiang-class Qi-mover that moves stagnant Qi of the Middle Burner, relieves distension and harmonises the stomach. Ayurveda classes kushtha as a warming, Vata- and Kapha-reducing agent for cold digestive, respiratory and skin complaints. Galenic sources give a hot-dry, pungent action for the stomach and chest. Respiratory use targets cold, damp cough and chest congestion. The entry names sesquiterpene lactones as anti-inflammatory and smooth-muscle relaxant, applied to cramping digestive complaints. A 2024 animal study is cited for effects on carbohydrate metabolism and lipids in diabetic rats, presented as experimental only. Skin sensitisation is a named risk for the lactones and the oil. Tibetan medicine uses ru rta against cold and stagnation.
+
 ### Contraindications
 
 - **CITES Appendix I:** wild-collected material is prohibited in international trade; use only cultivated, documented sources.

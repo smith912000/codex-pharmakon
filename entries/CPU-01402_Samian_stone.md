@@ -58,6 +58,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry claims four sites. In drinks, the stone is said to help stomach disorders, which places its action in the stomach and gut lining; the text also says it dulls the senses, a nervous-system effect. Applied with milk, it is said to be good for discharges and ulcers of the eyes, so the action falls on the eye surface and lids. Tied around a woman, it is thought to hasten delivery and prevent miscarriage, which places the claimed action on the uterus and the birth passage; the chapter records this as reputation and does not endorse it. The energetic frame is two printed qualities, astringent and cooling, given without degree; no warming, drying or moistening quality is printed. The text names no dosha or humour, and no organ system beyond these sites. The stone is unidentified, so its tissue action cannot be tied to a known substance.
+
 ### Contraindications
 
 - **Pregnancy:** the chapter records an amulet "thought" to hasten delivery or prevent miscarriage; nothing here supports either claim, and a threatened miscarriage or difficult labour needs urgent medical care. An unidentified mineral should not be swallowed in pregnancy.

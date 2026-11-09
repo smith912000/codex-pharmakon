@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with a drug of this name, because it never names it.
 
+### Functional–Anatomical Correlate
+
+Little to map: no chapter of the Sushruta text names Maha-vala or Maha-bala, so the entry has no organ, tissue or function to map. The name appears only in the translator's appendix, paired with this Latin by position from an OCR-garbled line, and the appendix prints no second name for the Latin. The chapters name Vala, Ativala and Nagavala, which are separate entries and are not assigned to this name. The sources give no preparation, dose, constituent or energetic classification for it.
+
 ### Contraindications
 
 The Sushruta text prints no warning, because it does not name the drug. The identity is open and some species of *Sida* are reported to contain stimulant alkaloids, so no plant should be gathered or used on the strength of this entry. [USER: verify]

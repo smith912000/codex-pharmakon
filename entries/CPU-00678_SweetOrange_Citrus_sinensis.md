@@ -156,6 +156,10 @@ The internal tension — one plant, two opposite temperaments — is not a flaw 
 
 ---
 
+### Functional–Anatomical Correlate
+
+Sweet orange divides by organ according to its part. The flesh is mapped onto the Stomach and fluid system: cool, sweet-sour, generating fluids, quenching thirst and settling counterflow for nausea and dry mouth, and in the Indian reading a pitta-pacifying, appetite-restoring fruit. The aged peel is mapped onto the Spleen and Lung, regulating qi and drying damp to transform phlegm, for distension, poor appetite, nausea and productive cough; the Ayurvedic dried peel is a dipana-pachana digestive. The entry's modern correlates are d-limonene's carminative action in the gut, and ascorbate as the cofactor for collagen cross-linking, the basis of its antiscorbutic action on connective tissue. The entry states that no tradition anticipated hesperidin's vascular effects, which are not established at dietary intake. Its real harms are sugar load, enamel erosion and reflux.
+
 ### Contraindications
 
 **Genuine cautions:**

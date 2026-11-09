@@ -85,6 +85,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+In the five traditions the entry gives, rocket acts on the digestive tract, the reproductive and sexual system, the circulation and the urinary tract. Dioscorides and Avicenna both describe it as a heating aphrodisiac, digestive stimulant and diuretic, with excess said to heat the blood and cause headache. Ayurveda (Sushruta) places it among heating, digestive-kindling and reproductive-leaning foods, with a caution in pitta-dominant constitutions. By analogy, Chinese medicine reads it as warm, disposing of cold, moving qi and stimulating digestion and circulation. The modern correlate is chemical: glucosinolate breakdown into isothiocyanates, especially erucin, which the entry describes as a hydrogen-sulfide donor with antioxidant and cytoprotective activity. Preclinical rat and cell data cover sperm count, morphology, hormone levels and cardiac ischaemia, and the entry states that the human aphrodisiac claim is unconfirmed. Thyroid iodine uptake is its key caution.
+
 ### Contraindications
 
 - **Goitrogenic / thyroid caution:** as a glucosinolate-rich crucifer, high or sustained intake can interfere with iodine uptake and thyroid hormone synthesis, especially in iodine deficiency or existing hypothyroidism. Those with thyroid disease should keep intake moderate and ensure adequate iodine; this is the entry's key caution.

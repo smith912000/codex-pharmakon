@@ -40,6 +40,10 @@ General, well-established facts only. Goat meat is a source of protein, iron and
 
 **Practitioner's note.** Nothing here is a practice. Goat flesh in Sushruta is a food with stated qualities, and the passages that bear on a cultivator are the cautions: avoid it in an ulcer regimen, and do not combine it with milk. A person who eats meat may read the classification as the tradition's own description of the food; a person who does not has nothing to adopt.
 
+### Functional–Anatomical Correlate
+
+In Sushruta's food chapter, goat flesh is a domestic-animal meat that is moderately cooling in potency, heavy and demulcent, and does not increase the secretions of the internal organs. It subdues pitta and kapham and is said to be beneficial in nasal catarrh, so the nasal passages and upper airway are the organs named. The text states that domestic-animal flesh in general is constructive, tonic and appetising, sweet in taste and digestion, and that it destroys vata and produces kapham and pitta. The goat's specific entry says it subdues both, and the entry records that tension without resolving it. In the regimen chapters, goat flesh is a food to avoid in an ulcer patient's diet, a combination that acts as a deadly poison when eaten with milk, and a food that may aggravate a condition if taken injudiciously, without naming the condition. The text gives no preparation or dose for goat flesh.
+
 ### Contraindications
 
 - **Food safety:** undercooked goat meat can carry bacteria and parasites; brucellosis and Q fever are goat-associated zoonoses.

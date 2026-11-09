@@ -144,6 +144,10 @@ The galactagogue function — while outside the standard athletic performance ap
 
 **Practitioner's note.** Fenugreek is a food that works. Across seven traditions it is claimed hard and claimed consistently — warming, digestive, galactagogue, resolving — and in not one of them, on the evidence retrieved here, is it given a status in that tradition's own vital or spiritual scheme. What a cultivator does with fenugreek is therefore ordinary and daily: eat it, at culinary or low therapeutic dose, as the South Asian tradition has done continuously for millennia, and take the results as metabolic rather than constitutional. Do not carry it as a longevity drug; nothing in any of these seven systems asks you to.
 
+### Functional–Anatomical Correlate
+
+Fenugreek's entry maps it onto the gut, the pancreas and liver, the endocrine axis and the breast. In the gut, galactomannan fibre slows gastric emptying, binds bile acids to lower LDL-cholesterol and feeds colonic Bifidobacterium and Lactobacillus. At the pancreas, 4-hydroxyisoleucine stimulates beta-cell insulin secretion only when glucose is high and sensitises peripheral tissue, while trigonelline activates hepatic glucokinase. The entry's hormonal account is at the pituitary and gonads: furostanolic saponins are said to raise LH and inhibit aromatase, with about +12% free testosterone in one trial. The entry states that diosgenin is not converted to testosterone in the human body. Mammary galactagogue action is attributed to diosgenin's oestrogen-receptor-beta activity. In Ayurveda (Methi) it pacifies vata and is classed as vrishya, acting on the rasa, meda, shukra and asthi dhatus. In Chinese Medicine (Hu Lu Ba) it warms Kidney yang in the Kidney and Liver channels. Unani describes it as hot and dry, a poultice for resolving hardness and swellings.
+
 ### Contraindications & Safety
 
 **Absolute Contraindications:**

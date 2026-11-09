@@ -34,6 +34,10 @@ Mica is an industrial mineral used as an electrical insulator, a filler and a pi
 
 **Practitioner's note.** An upper-grade drug in the Chinese scheme: the Classic held it safe for long use. Mica is an inert silicate and the Classic's claims have no established support, so nothing here supports taking it. For a cultivator the entry is a record of how the Han-period elixir tradition ranked a shiny, layered stone among the "nourish life" drugs. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Yang's Classic names these sites for Yun Mu, a sweet and balanced Superior-class stone. It mainly treats dead muscles and skin in the body, which the footnote glosses as a crawling itch in the flesh, the sensation of formication. It also treats wind stroke with dizziness and sickness, as if on a cart or boat, which maps to the balance organs and the nervous system. It eliminates evil qi, quiets the five viscera, and boosts the fetal essence, which the translator glosses as semen and maps to the reproductive system. It brightens the eyes and makes the body light. In modern anatomy terms the claimed sites are the skin, the skeletal muscle, the balance organs, the viscera, the reproductive organs and the eyes. The entry prints no preparation and no humoral or temperament classification.
+
 ### Contraindications
 
 Powdered mica can irritate the lungs if inhaled, and powdered stone sold as a remedy may be a different mineral or may be contaminated. Mineral medicines are unstandardised and their sale is regulated in many places. Ethical sourcing of mica is a concern in some producing regions, and this has not been examined here. [USER: verify] The Classic's "prolongs life" is not a claim of fact.

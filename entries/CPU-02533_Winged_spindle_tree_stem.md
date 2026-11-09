@@ -44,6 +44,10 @@ The identification is ours; Tao's three-vaned stalk is the main descriptive supp
 
 **Practitioner's note.** A cultivator has no practice here. The classic offers a bitter, cold material for women's bleeding and worm-illness in the middle class, with no long-use claim, no preparation and no dose.
 
+### Functional–Anatomical Correlate
+
+The paragraph's targets are uterine flooding and bleeding in women (女子崩中下血), the full belly with sweating (腹满汗出), evil qi (除邪), and ghost-poison and chongzhu (杀鬼毒、虫注, a worm-infestation illness the Codex leaves untranslated). In modern anatomical terms the bleeding corresponds to the uterus and the belly fullness to the abdominal cavity and gut, but the classic names no organ and the Codex does not assign one. The skin is implied only by sweating. Wu Pu's layer calls the plant bitter and non-toxic and describes its leaf, which gives no body map. Tao Hongjing's three-vaned stalk is a plant description, not an organ claim. The energetic terms are bitter and cold (味苦，寒), with no channel or organ affinity printed. Uterine bleeding needs medical assessment, and the classic's removes evil and kills ghost-poison are not translated into modern pathology.
+
 ### Contraindications
 
 The classic gives no warning, and Wu Pu says "non-toxic". The Codex did not read any source that confirms this for the plant. The Codex has not retrieved a safety source on this species. Modern Chinese sources are generally cautious about the drug in pregnancy, which the Codex states from general knowledge and not from a source read. [USER: verify] Uterine bleeding needs medical assessment. No conservation information was read.

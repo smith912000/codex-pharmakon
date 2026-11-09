@@ -43,6 +43,10 @@ General, well-established facts only. The roof iris is a widely grown ornamental
 
 **Practitioner's note.** A lower-grade drug in the Chinese scheme, taken, if at all, for a defined complaint and then stopped. Nothing here supports long use, and the tradition's own grading is the warning. The plant behind the name is also not settled by the texts.
 
+### Functional–Anatomical Correlate
+
+The classic's uses for this iris concern poison and accumulations rather than a named organ. It is recorded for gu poison (蛊毒), evil qi, ghost infusion (鬼注), the various poisons (诸毒), lumps, masses and accumulations (症瘕积聚), removing water (去水) and bringing down the three worms (下三虫). Flavour and nature are bitter and even (味苦，平). The Wu Pu layer gives only that it treats gu poison. The entry names no organ, channel or tissue in these terms, and the Codex does not render accumulations or water as anatomical sites. The entry's general notes mention the rhizome, which in general terms contains isoflavones and irritant substances; the Contraindications section says iris rhizomes are generally irritant to the mouth and stomach, a claim the entry marks for verification rather than a finding of the classic. The text names no mechanism and no body system beyond the categories given.
+
 ### Contraindications
 
 - **Lower-grade drug:** the classic's preface calls the lower medicines mostly toxic and not for long use (line 2935); the paragraph does not say this plant is toxic, and no safety information was read. [USER: verify]

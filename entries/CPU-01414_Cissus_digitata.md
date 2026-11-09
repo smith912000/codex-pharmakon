@@ -45,6 +45,10 @@ Astringent plant materials rich in tannins are generally known to tighten tissue
 
 **Practitioner's note.** The practice in these chapters is the infusion and the test by smell. Nothing gives a cultivator a practice for the person, and the identification is doubtful, so no use is recommended.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives two chapters with short claims. Oil of unripe olives infused with the dried shoots or buds of the wild grape is called astringent and is said to be equal to rosaceum, except that it neither loosens nor softens the bowels. Black wine from the wild grape is astringent and is good for flowing intestines and the stomach, and for many things that require astringency and contraction. Dioscorides' 2-210 ivy chapter says all cissus is sharp and astringent, but its ivy uses are not attributed to this entry. The text names no other organ, system, humour or doshic term, and gives no composition beyond astringency. The identification with Cissus digitata is a translators' gloss, doubtful and unverified.
+
 ### Contraindications
 
 No contraindication is printed in the chapters read. Astringent preparations are generally unsuited to constipation, and wine is a problem for anyone avoiding alcohol. The identification is doubtful, so the plant should not be gathered on the strength of these chapters. None of the traditional uses above is advice.

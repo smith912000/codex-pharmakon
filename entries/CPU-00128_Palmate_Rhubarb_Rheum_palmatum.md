@@ -67,6 +67,10 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 
 **Practitioner's note.** A cultivator reads Da Huang's own tradition as the instruction: a **lower-grade, disease-attacking drug** — taken for a specific excess-heat or accumulation pattern, in the right dose and preparation, and then stopped. Its power is precisely why it is not a daily tonic: the *xia pin* grading, the pregnancy and deficiency-cold contraindications, and the ban on prolonged anthraquinone use all say the same thing. The therapeutic purge is real and useful; it is not a cultivation practice, and the tradition's grading is the honest signpost.
 
+### Functional–Anatomical Correlate
+
+The entry maps palmate rhubarb chiefly onto the large intestine, stomach and liver, and onto the blood. In Traditional Chinese terms Da Huang is bitter and cold, entering the Stomach, Large Intestine, Liver, Spleen and Heart channels, where it drains heat and purges accumulation, especially the yangming bowel-excess pattern of constipation with high fever. It also drains damp-heat for jaundice and dysentery, invigorates blood and dispels stasis for trauma and fixed pain, and, in small or charred doses, stops heat-type bleeding. Topically it is applied to burns and sores. The purgative fraction is described as sennosides and anthraquinones such as rhein and emodin, opposed by astringent tannins. Electrolyte loss from purging is noted as relevant to cardiac glycosides. Pregnancy, breastfeeding and menstruation are contraindicated for its uterine and blood-moving action, and prolonged use is cautioned for dependence and melanosis coli.
+
 ### Contraindications
 
 - **Pregnancy, breastfeeding and menstruation — avoid.** Strong downward-draining and blood-moving action; uterine-stimulant; passes into breast milk. [USER: verify.]

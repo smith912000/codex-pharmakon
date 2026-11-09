@@ -58,6 +58,10 @@ According to PubMed, the evidence for *B. cristata* is **review-level and precli
 
 **Practitioner's note.** Nothing. It is a group-listed drug for urinary and kapha complaints, not a rejuvenative.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Kuruṇṭaka's core target is the vāta-governed frame: the joints and nerves that carry movement and sensation. Its classical Sahacara taila is used for vāta-vyādhi joint and nerve pain, and the entry says the plant steadies the moving body and settles the nerves in restorative work. The respiratory tract is named for lung disorders and kāsa-śvāsa (cough and breathlessness), and dental pain (toothache, vedanāsthāpana) is listed as an analgesic use. Inflammation (śotha) and wound support (vraṇaropaṇa) are classical karma. The Viratarvādi group links it to stone, gravel and urinary retention. Folk uses such as anaemia, diabetes and tuberculosis have no clinical support in the entry, and snakebite and tuberculosis must not replace medical care. Energetically it is bitter, astringent, light and unctuous with a warming virya; it pacifies vāta and kapha. Evidence is LOW, review-level and preclinical, with mechanisms and safety largely unmapped. Pitta excess and inflammatory heat warrant caution.
+
 ### Contraindications
 
 - Heating potency (Uṣṇa vīrya): caution in Pitta excess and inflammatory-heat states.

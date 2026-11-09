@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is that a long list of names for a plant is a reason to check the description before trusting the name. The text offers nothing more, and the abstentive answer is the right one.
 
+### Functional–Anatomical Correlate
+
+The chapter ties this plant to three sites, none of them named as a body system. Pounded and smeared on, the herb is said to dissolve tubercles, meaning growths, so the claimed site is the local tissue where a growth sits. A decoction taken as a drink with wine is said to cure slow, painful urination, which places the action on the urinary passage. Rubbed on with oil, the plant is said to bring on sweating, which acts on the skin and its sweat glands. Dioscorides gives no humour, quality or taste for these actions, and the Codex prints no energetic term for them. The identity is only the translators' suggestion, so these are the chapter's reported claims about a plant not secured, not established organ actions. Nothing is said of the blood, liver or nerves.
+
 ### Contraindications
 
 Chapter 3-170 prints no warning. The identification is only the translators' suggestion, so no plant should be gathered or used on the strength of this entry. Painful or slow urination needs medical assessment, and nothing here is advice. [USER: verify]

@@ -45,6 +45,10 @@ General, well-established facts only. The root of *Asarum* species is used in mo
 
 **Practitioner's note.** The classic grades this root as a long-use, life-nourishing drug, and that grade is its whole cultivation status. A cultivator reading the entry should not take it as licence for long use: no dose, preparation or course length is given, the plant belongs to a family with known toxic constituents, and the species behind the name is not settled by the text. The honest use of the entry is as a record of how the classic framed the drug.
 
+### Functional–Anatomical Correlate
+
+The classic's upper-grade root acts on the cough, the head and the joints. Its Shennong clauses name counterflow cough (咳逆), headache with stirring of the brain (头痛脑动), cramping of the hundred joints (百节拘挛), wind-damp painful obstruction (风湿痹痛) and dead flesh (死肌). The long-use clause adds brightening the eyes (明目), freeing the nine orifices (利九窍) and lightening the body and lengthening the years (轻身、长年). Where the entry names organs, they are the brain (脑), the joints (节), the eyes and the orifices. Flavour and nature are pungent and warm (味辛，温), and the Wu Pu layer gives the same for Shennong. The appendix's pairings, opposed to li lu and fearing certain minerals, are historical pairings and not an interaction list. The entry itself raises the aristolochic acids of the family as a safety concern for the root of any species used. No mechanism is given for any of these organ claims.
+
 ### Contraindications
 
 - **Aristolochic acids:** the genus is in the family Aristolochiaceae, in which kidney-damaging and carcinogenic aristolochic acids occur; the extent in the root of any species used here is not stated in any source read. Do not take wild ginger long-term on the strength of this entry. [USER: verify]

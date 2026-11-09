@@ -45,6 +45,10 @@ General, well-established facts only. *Wedelia calendulacea* is a creeping herb 
 
 **Practitioner's note.** There is nothing here for a cultivator. The record is a glossary pairing, and the plant has no stated use in the Samhita passages on disk. Nothing is to be done with it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the only attestation is one line in Bhishagratna's Appendix No. 3, which pairs the Sanskrit name Markava, OCR-garbled, with the Latin Wedelia calendulacea. No chapter passage names the plant. The entry states no part used, preparation, disease, organ, tissue, humoral or energetic classification, dose or contraindication. The only description is the botanical gloss, and the entry notes that the name is not connected to the Bhringaraja prescriptions in the text. Nothing in the text maps to a body system, and the Codex gives no protocol and recommends nothing from this entry.
+
 ### Contraindications
 
 - **No warning is printed** for Markava in the lines read. That is not evidence of safety. [USER: verify]

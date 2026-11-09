@@ -42,6 +42,10 @@ General, well-established facts only. The terms *vayu* and *pittam*, and qualiti
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The text names the Shvadanstra in lists of game and gives one group statement for it; it does not identify the animal for the reader. The Codex does not recommend the meat. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the text lists Shvadanstra in the Janghala (high-ground game) group and gives only the group statement for it. That statement says the flesh is sweet and astringent in taste, light, keen, pleasant, laxative and diuretic, and that it subdues Vayu and Pittam. The bowel (laxative) and the kidneys and bladder (diuretic) are the only body parts those properties name. Chapter 20 lists the flesh among foods safe for all people. The animal itself is not identified in the sources read, and the name also appears as a plant drug in other chapters, which is not this entry.
+
 ### Contraindications
 
 - **Identity:** the animal is not identified in the sources read; do not substitute any animal or any plant drug of the same name.

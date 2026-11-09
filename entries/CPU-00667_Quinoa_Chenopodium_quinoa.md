@@ -105,6 +105,10 @@ Graded honestly, and the honest grade is unusual for this codex: **the nutrition
 
 **Practitioner's note.** Nothing beyond the food. Wash the grain as the entry directs; neither tradition tagged here supplies a cultivation practice for it.
 
+### Functional–Anatomical Correlate
+
+Quinoa's entry maps to the digestive tract and nutritional status rather than to a therapeutic organ. Its seed protein, described as complete with essential amino acids, supplies the body's building needs, and its bran fibre and phenolics act in the gut. Andean practice ('mother grain', chisiya mama) is nutritive, not remedial. The seed-coat saponins are anti-nutritional and, in the entry's account, haemolytic, meaning they can damage red blood cells, which is why washing matters and isolated saponin extracts are not a food form. Oxalate is a renal caution for stone formers. The bran fraction shows alpha-glucosidase inhibition relevant to postprandial blood glucose, but only in mice; the entry records no human trial, so no effect on blood sugar in people is claimed. The TCM classification is modern, not classical, and the entry assigns no organ or channel from the classical stratum.
+
 ### Contraindications
 
 - **Never eat unwashed.** Saponins are seed-coat-localised, bitter, and characterised in the literature as anti-nutritional with "potential toxicity" (Villagomez et al., 2025, [DOI](https://doi.org/10.1021/acsomega.5c01812)). Wash until the foam stops. This applies to grain sold as "pre-rinsed" — verify with your own water.

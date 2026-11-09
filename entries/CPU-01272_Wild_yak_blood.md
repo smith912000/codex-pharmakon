@@ -40,6 +40,10 @@ General, well-established facts only. Fresh animal blood can carry bacteria, vir
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The wild yak's blood is a one-line diarrhoea remedy in a list of thirteen kinds of animal product, of an animal the English texts do not fix, and the tradition's first precept is against taking life. The Codex does not recommend it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one action, that the blood of the wild yak halts diarrhoea, and the Men-Tsee-Khang reading adds the blood of antelopes. The bowels are the only organ the text implies, through the diarrhoea. No temperament, taste, post-digestive taste or potency is printed for the blood, and the Tantra's classification of meats, with its sweet taste and its warm or cool powers, is about flesh and not blood. Neither translation gives a humour or a wind, bile or phlegm term for it. The Tantra's remark that wild yak meat eliminates cold disorders of the stomach and liver belongs to the meat and is not carried over. The animal is uncertain, since the text may mean the takin rather than a bovine yak. The correlate the source supports is the intestinal tract alone, and the Codex does not recommend the blood.
+
 ### Contraindications
 
 - **Infection and hygiene:** raw blood of wild animals can carry pathogens; do not drink or apply it.

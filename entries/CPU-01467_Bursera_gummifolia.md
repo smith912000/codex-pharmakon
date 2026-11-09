@@ -43,6 +43,10 @@ Mastic resin from *Pistacia lentiscus* is a long-used chewing resin, and resins 
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice. It records a topical and gynaecological ointment for a physician's use and a provenance check. The abstentive answer is the correct one, and the plant name on this row is in any case unreliable.
 
+### Functional–Anatomical Correlate
+
+The chapter, which is about an oil of mastic and not a plant, names the womb, the stomach, hardened swellings, the abdominal cavity, dysentery and the skin of the face as sites. It is said to be good for disorders in the womb, a gynaecological site, and it is laid on the stomach for hardened swellings, the abdominal cavity and dysentery, which maps to the digestive tract and abdominal wall. It is also said to clean spots from the face and give a good colour, which maps to facial skin. The qualities printed are gently warming, astringent and softening, and no humoral, doshic or qi term appears. The chapter gives no description of a plant and does not say how the oil is applied to the womb. The name Bursera gummifolia is a plate caption, so the body mapping belongs to the mastic product the chapter describes and not to any species. Neighbouring chapters on the tree and its resin are not attributed to this row.
+
 ### Contraindications
 
 No contraindication is printed in the chapter. As a general caution, resins and resin-bearing plants cause allergic contact dermatitis in some people, and a preparation "for disorders in the womb" is not advice for use in pregnancy. Do not infer from this entry that any *Bursera* species is a safe source of mastic.

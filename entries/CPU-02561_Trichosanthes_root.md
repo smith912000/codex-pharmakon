@@ -48,6 +48,10 @@ The only preparation given is in the Mingyi layer: the root is gathered in the s
 
 **Practitioner's note.** A middle-grade root for thirst and heat, in the text's own frame, to be taken for a defined complaint and set aside. Nothing in the entry supports a long-term practice, and no dose is given. The honest practice is to read the entry for its indications and leave the root alone.
 
+### Functional–Anatomical Correlate
+
+The Shennong paragraph names a root for wasting-thirst (消渴), bodily heat with vexation and fullness (身热烦满) and great heat (大热), and says the drug supplements vacuity and calms the centre (补虚安中) and joins severed injuries (续绝伤). Flavour and nature are bitter and cold (味苦，寒). The centre (中) is the classic's term for the central body, and the entry does not translate it into a named organ. Thirst, fever and injury are the body-level signs given, and the entry says these need medical assessment. The Mingyi layer names the fruit as a separate part, huang gua, which the entry does not use here. The entry's general notes say the root contains trichosanthin, which has abortifacient activity, and the Contraindications section therefore says root preparations should not be used in pregnancy. The reproductive system is thus a site of concern in the entry's own cautions, not a claimed effect. No organ-level tissue or mechanism is named in the sources.
+
 ### Contraindications
 
 The sources read print no warning. As a general fact, trichosanthin has abortifacient activity, so root preparations of this species should not be used in pregnancy. [USER: verify] Sun's later appendix lists an opposition to 乌头 (line 4375), a reason in the tradition's own terms not to combine them. Persistent thirst and fever need medical assessment, and nothing should be gathered or taken on the strength of this entry.

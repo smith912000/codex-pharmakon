@@ -60,6 +60,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 **Practitioner's note.** Nothing. No cultivation use is attested; as medicine, the species-level identification is itself uncertain.
 
+### Functional–Anatomical Correlate
+
+The entry maps the blue Meconopsis mainly onto the liver and the lungs, which the Tibetan framework treats as hot in disease. The core use is clearing heat and inflammation in liver and lung disorders, along with fever and inflammatory or infectious conditions. Pain and headache are listed as analgesic targets, and congeners in the rGyud-bzhi are described for bone and traumatic conditions such as bone fever and skull fractures. In Traditional Chinese terms it is a Qi-tier cooling herb, distinct from the opium poppy's narcotic register. The active fraction is described as Papaveraceae isoquinoline alkaloids such as protopine, with flavonoids and phenolic acids, and anti-inflammatory, analgesic and hepatoprotective activity is given as the traditional correlate. The entry says the species-level data are unverified and that the genus is not an opium source. Cold or deficiency patterns are contraindicated, and pregnancy warrants caution.
+
 ### Contraindications
 
 - **Cold / deficiency patterns.** A cooling herb is contraindicated in cold-from-deficiency conditions.

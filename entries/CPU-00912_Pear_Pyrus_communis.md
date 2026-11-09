@@ -79,6 +79,10 @@ These confirm the pear's phenolic identity (chlorogenic acid, arbutin, quercetin
 
 ---
 
+### Functional–Anatomical Correlate
+
+Pear acts on the chest, throat, stomach and bowel, by the entry's own account. In the Chinese scheme (lí) it enters the Lung and Stomach channels, moistens the Lung, transforms phlegm-heat, generates fluids and relieves thirst, and the entry ties these to a dry, unproductive cough and a parched throat. In Galenic and Unani terms it is cool and moist with a binding note, settling a hot stomach and quenching thirst. Modern anatomy for the same effects: sorbitol is osmotically active in the gut, giving the mild laxative action, and soluble fibre and pectin support bowel regularity. The phenolic fraction, concentrated in the skin, is described as antioxidant and tissue-soothing. The entry stresses that the cooling and moistening reputation is a traditional shorthand, with clinical efficacy for cough, thirst and constipation not established, and that sorbitol can cause bloating or osmotic diarrhoea in sensitive people, especially those with IBS.
+
 ### Contraindications
 
 - ⚠️ **Sorbitol / FODMAP GI caution.** Pear is one of the highest-sorbitol common fruits. In sensitive individuals — especially those with irritable bowel syndrome (IBS), fructose malabsorption, or on a low-FODMAP protocol — pear (and particularly pear juice) can trigger bloating, cramping, flatulence, and osmotic diarrhoea. Introduce in small amounts and monitor; juice concentrates the effect.

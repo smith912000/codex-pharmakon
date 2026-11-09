@@ -43,6 +43,10 @@ Resin glycosides of the jalap type are irritant purgatives; this is a general, w
 
 **Practitioner's note.** A cultivator does nothing with this. A drug whose own entry warns that it dries the body is a drug that works against conservation of the body's moisture; the text's own remedy for that drying is another substance, almond oil.
 
+### Functional–Anatomical Correlate
+
+In the Canon, turpeth is drying and desiccating to the body (yabsan wa-jafāfan), because it expels thin moistures, which is why it is mixed with almond oil. Its excretory action (ālāt al-nafḍ) is mainly on phlegm, and less on burnt humours (muḥraq) when taken powdered; cooked, the action is reversed. Avicenna records the disagreement of Māsarjawayh, who said it purges thick sticky humours, and of others who said it purges raw humour from the hips. Avicenna prefers the burnt phlegm. Strengthened with ginger or another sharp drug, it is said to purge thick and raw matter, while alone it purges thick matter only once that matter is already loosened in the stomach and intestines. The entry gives no temperament degree. Its terms, phlegm, burnt humour and the drying of the body, are humoral categories and are not mapped onto modern organs here. The dose as printed is up to two dirhams for a draught and up to four in decoctions, with no modern conversion.
+
 ### Contraindications
 
 Historical record only. Turpeth is a purgative; the entry itself says it dries and desiccates the body, and the dose it gives is a ceiling ("up to"). Resin-glycoside purgatives in general cause cramping and fluid loss and should not be used in pregnancy, which is a general statement, not one in the entry. Do not treat any use here as medical advice.

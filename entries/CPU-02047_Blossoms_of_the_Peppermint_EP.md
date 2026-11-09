@@ -47,6 +47,10 @@ General, well-established facts only. Aromatic volatile oils from mints are used
 
 **Practitioner's note.** One fragrant flower in a four-ingredient poultice for worms, under an English name that cannot be literally correct. There is nothing here for a cultivator to take or do, and the entry serves mainly as a warning that Bryan's plant words are hypotheses.
 
+### Functional–Anatomical Correlate
+
+Little to map: the sources read give one outward use. The blossoms are one of four ingredients in a poultice 'to drive out the diseases caused by the tapeworm' (Ebers, lines 1984-1992). The poultice is applied externally, and the text does not say it reaches the gut. The other ingredients are resin of acanthus, wild lettuce and a plant Bryan leaves untranslated. No taste, humour, energetic class, organ or tissue is named beyond the tapeworm complaint. The plant is not identified, so modern peppermint cannot be assumed. The Codex does not recommend the poultice.
+
 ### Contraindications
 
 - **Identity unknown.** Do not substitute modern peppermint oil or any other plant on the strength of this entry. Concentrated mint oils can be harmful, especially to infants and small children.

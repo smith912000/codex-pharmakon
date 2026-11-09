@@ -118,6 +118,10 @@ Adimoelja A (2000) "Phytochemicals and the breakthrough of traditional herbs in 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps Tribulus onto the Kidney and the reproductive system, using Ayurvedic terms (shukravaha and mutravaha channels, rasayana and vajikarana as organ-specific vitality). In TCM it is mapped onto the Liver, where Ji Li calms Liver Yang and disperses Wind for headache, vertigo and red painful eyes. In modern terms the entry places protodioscin's action on the hypothalamic-pituitary-gonadal axis, raising GnRH, LH and FSH, which sensitises testicular testosterone output where baseline androgen is low. Penile vasculature is reached through endothelial nitric oxide synthase and vasodilation. The entry also lists vasodilation and antiplatelet effects on the cardiovascular system. Urinary effects are diuresis, citrate excretion and anti-lithiasis. Mild COX-2 and 5-LOX anti-inflammatory action reaches the joints. Tissue cautions cover androgen-sensitive prostate, the uterus in pregnancy, the liver at high dose and kidney disease. The entry records no testosterone response in eugonadal young men.
+
 ### Contraindications
 
 - **Prostate conditions (BPH and prostate cancer):** Androgen-sensitive prostate tissue may be adversely stimulated by testosterone elevation; contraindicated in documented prostate cancer; use with caution in BPH with elevated PSA; PSA monitoring recommended for men over 45 using Tribulus as an ongoing testosterone-support protocol.

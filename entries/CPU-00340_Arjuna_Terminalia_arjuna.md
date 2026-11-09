@@ -69,6 +69,10 @@ The honest synthesis: Arjuna has a strong traditional cardiac reputation and a p
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places Arjuna's primary action on the circulatory channels, rasavaha and raktavaha, with secondary action on muscle (māṃsavaha) and fat (medovaha), and names it the heart-supporting agent (hṛdya), its signature action. It is described as strengthening the heart muscle and vessel wall, with a specific cardiotonic prabhāva, and the bark's astringency is said to stop bleeding (raktastambhaka) and aid wound healing (vraṇaropaṇa). Other listed actions are fat reduction (medohara), restoration after wasting or chest injury, and aid to fracture union. The entry gives the bark cooked in milk as a classical cardiac decoction, buffered with milk or ghee for its dryness. Modern correlation rests on saponins (arjunic and arjunolic acids) cited for cardiotonic action, and on a 2014 systematic review that found the angina trials poor quality with no significant benefit demonstrated. A long-term adjunct study in coronary artery disease patients reported no significant haemogram, liver or kidney derangement, with minor gastric and constipation effects.
+
 ### Contraindications
 
 - Drying/astringent — caution in Vāta constitutions, dryness, constipation; classically buffered with milk/ghee.

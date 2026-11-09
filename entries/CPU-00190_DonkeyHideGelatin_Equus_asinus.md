@@ -68,6 +68,10 @@ A review of Colla corii asini (Zhang et al., 2025, *Animal Models and Experiment
 
 ---
 
+### Functional–Anatomical Correlate
+
+Donkey-hide gelatin maps most directly onto the blood-forming system and the Lung. In Chinese terms it enters the Liver to nourish the Blood, the Kidney to nourish Yin and the Lung to moisten, and it is said to tonify the Blood, stop deficiency-type bleeding including uterine bleeding and blood in stool or urine, calm the fetus and moisten dryness in dry cough and dry throat. The patterns it addresses include pallor, dizziness, palpitations, anaemia, insomnia and Yin-deficiency irritability. The modern review the entry cites reports haematopoietic, lung-nourishing, immunomodulatory and anti-infective activity, and proposes a role in chronic obstructive pulmonary disease. The haematopoietic claim is tied to collagen-derived glycine, proline and hydroxyproline and to trace iron relevant to red-cell formation. The entry also notes that a rich, cloying gelatin burdens a weak Spleen and digestion when damp is present.
+
 ### Contraindications
 
 - **Weak digestion / Spleen deficiency with damp; poor appetite; loose stool:** the rich, cloying, sticky gelatin burdens weak digestion — use cautiously or with digestive herbs; avoid in damp-encumbered states.

@@ -89,6 +89,10 @@ The Consolidation placement reflects the phase where practitioners have enough d
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry's traditional claims place the plant as a bitter for the belly and liver-region. The Dioscoridean and Mediterranean tradition gives it for sluggish digestion, visceral obstruction, chronic intermittent fevers and gout-type joint disease, and European folk use adds a stomachic and an antiseptic wash for wounds and mouth complaints. Humorally it is hot and dry in the second degree, incising and aperient, with tissue affinity to the digestive corridor and, nominally, the hepatobiliary system, which the entry rejects as a therapeutic target. The mapping the entry accepts is narrow. Bitterness at the tongue can stimulate the digestive corridor, and an external wash is a folk use on skin and mouth. The modern findings are aromatic (a sesquiterpene essential oil) and bitter (neo-clerodanes), with no cytotoxicity against three cancer cell lines and only one weak nitric-oxide inhibitor out of fifteen compounds. For the liver, the entry cites the genus-level furan neo-clerodane injury and notes that no case was retrieved for this species, so species safety is data-sparse and is treated as hazardous by inheritance.
+
 ### Contraindications
 
 ⚠️ **HEPATOTOXICITY — CLASS WARNING, GENUS *TEUCRIUM*.** This is the governing constraint of the entry.

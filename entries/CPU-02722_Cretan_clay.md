@@ -40,6 +40,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing to do. A weak clay for eye ulcers and, as an amulet, for childbirth; "as it is said" is the Canon's own distance.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names the eye, where the clay helps its ulcers and a further eye condition whose name is garbled in the text. It is said to weaken the senses, which the entry does not place in any organ. Childbirth is the only other site: the clay is said to ease labour and to protect pregnant women when hung upon them, a claim the Canon introduces as 'as it is said'. The entry gives no temperament, humour or degree. Its only qualities are that it is very airy, weaker than the other clays of the chapter, and that it cleanses without stinging. The name points to Crete, but the entry does not say which earth is meant. Modern anatomy would place the claimed sites in the eye, the senses, and the uterus and pregnancy, though the text itself names only the eye and childbirth.
+
 ### Contraindications
 
 - **Identity.** Which Cretan earth is meant is not established. Do not substitute another clay.

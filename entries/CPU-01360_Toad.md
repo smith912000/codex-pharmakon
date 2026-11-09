@@ -46,6 +46,10 @@ General, well-established facts only. Many toads secrete skin toxins, including 
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The sources name the animal in a glossary and a classification and give no use for it. The Codex does not recommend it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Under the Divine Farmer's Classic (SBJ) the Chinese drug xia ma, which the entry identifies as the Asiatic toad, is acrid and cold. The text says it governs evil qi, breaks hard abdominal masses, treats blood disorders, swollen abscesses and genital sores, and that a person who takes it does not suffer heat illness. In modern anatomy this points to the abdominal cavity and its masses, the blood and the blood-forming tissues, the skin and subcutaneous tissue where abscesses form, and the external genitals. The text places the animal in pools and marshes and gives no organ or channel for its action. The Tibetan Four Tantras list the frog only among burrowing animals and give it no medicinal use, so that tradition maps nothing. The entry names no constituent and no mechanism. Any skin toxins that toads carry are a modern general fact, not the text's claim, and the Codex does not recommend handling or taking toad material.
+
 ### Contraindications
 
 - **Toxicity:** many toads carry skin toxins that can be dangerous when handled or ingested; the animal's species is not securely established from the sources.

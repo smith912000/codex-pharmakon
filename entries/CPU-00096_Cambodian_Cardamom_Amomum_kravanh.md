@@ -62,6 +62,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 **Practitioner's note.** Nothing beyond ordinary culinary use. No regional cultivation practice is recorded in the sources available.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Cambodian cardamom acts on the middle burner, meaning the Spleen and Stomach in Chinese Medicine. Its warm, acrid, aromatic oil is said to wake the Spleen, disperse cold-damp stagnation, move stagnant Qi and harmonise the Stomach, so the digestive tract is the principal target. Poor appetite, a greasy-coated, heavy and cold epigastric fullness, and bloating are the named presentations. Stopping nausea and vomiting arising from damp-cold or Qi stagnation is the stomach-side effect claimed. The Lung channel is also listed in the Bai Dou Kou mapping. The cineole-rich volatile oil is described as carminative and antimicrobial, and the entry notes an effect on gut motility. Unani and folk mapping place it as hot-dry, a stomachic. The entry names heat patterns, yin-deficiency dryness, and blood-deficiency without damp as contraindicated, and flags allergy in ginger-family sensitivity.
+
 ### Contraindications
 
 - **Heat patterns / yin-deficiency with dryness (CM).** A warm, drying aromatic is contraindicated where there is heat or dryness from yin deficiency.

@@ -47,6 +47,10 @@ In general knowledge the root of *Cimicifuga* species is a long-standing article
 
 **Practitioner's note.** A record, not a practice. The classic's long-use promise ("not dying young") is attached to the upper-grade drug, but the plant's identity within the genus is open, no preparation or dose is given, and the text's own concern is "poisons" and ill influences. Nothing here supports a cultivator taking the root.
 
+### Functional–Anatomical Correlate
+
+The Shennong paragraph, in Sun Xingyan's edition, gives a sweet, acrid drug with no channel affinity printed. Its named targets are poisons in general, the 'hundred old things' and calamity-ghosts, warm epidemic illness, perverse poison and gu worms. These are the classic's categories, and the entry does not render them as modern organs. The root is named as the part used only in the later Mingyi layer. For long use the classic promises that one does not die young, which is a claim about the span of life and not an organ action. The Dadguan edition reads the flavour as sweet and balanced, and Wu Pu quotes only sweet, so the flavour is itself part of the uncertainty. No preparation, dose or course is given, and the species within Cimicifuga is open.
+
 ### Contraindications
 
 - **Identity.** Several *Cimicifuga* species are candidates; do not use a plant on the strength of this entry.

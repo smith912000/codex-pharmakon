@@ -77,6 +77,10 @@ Codex policy: chemical class (triterpenoid saponins) and the surfactant/expector
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, soapnut acts externally on the skin, scalp and hair, and internally on the respiratory mucus and the stomach. Its triterpenoid saponins are described as amphipathic surfactants that lower surface tension, foam and emulsify oils, and as antimicrobial and antifungal on scalp and skin. Small internal amounts are described as an expectorant that loosens respiratory phlegm. Larger amounts irritate the gastric lining and provoke vomiting, which Ayurvedic shodhana uses as clearance. Ayurveda gives arishtaka katu-tikta taste, ushna potency and a kapha-reducing action for the scalp and phlegm. Unani sources call it hot and dry, purging black bile, phlegm and yellow bile, and used as a snuff for headache and facial palsy. In TCM the related Wu Huan Zi is classed among cleansing and dispersing fruits. Saponins sting mucous membranes, so the entry flags eye contact and pregnancy as cautions.
+
 ### Contraindications
 
 - **Eye contact.** The lather stings; keep soapnut wash out of the eyes and rinse thoroughly if exposed.

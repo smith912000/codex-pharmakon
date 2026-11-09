@@ -82,6 +82,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+The yew's entry maps its toxicity onto the heart's conduction system. Taxine alkaloids block cardiac sodium and calcium channels, producing bradyarrhythmia, ventricular tachycardia, hypotension and cardiac arrest, and the entry cites a case that needed more than six hours of CPR. Gastrointestinal disturbance is among the early presentations. The Galenic-Unani frame matches this with poisons that extinguish innate heat and stop the pulse. The entry's second target is dividing cells: paclitaxel stabilises microtubules and arrests cells in G2/M, which is why it acts on tumours, and one study adds oxidative DNA damage. Those anticancer actions belong to isolated, dose-controlled taxanes only. Every part except the aril flesh is deadly, the seed within the aril is lethal, and no specific antidote exists. Taxine cardiotoxicity can be prolonged.
+
 ### Contraindications
 
 **☠️ DEADLY — NO SELF-USE OF ANY KIND.**

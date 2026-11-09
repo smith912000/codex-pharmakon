@@ -140,6 +140,10 @@ Small piece of pine resin dissolved in near-boiling water; steam inhalation 5–
 
 ---
 
+### Functional–Anatomical Correlate
+
+Pine acts on several systems, and the entry separates them by part. Maritime pine bark procyanidins are credited with activating endothelial nitric oxide synthase, so the vessel wall dilates, and the entry links this to endurance and reduced post-exercise soreness. The airway is a further target: alpha-pinene from resin is described as bronchodilating, and resin inhalation is given as an expectorant and antiseptic, in Ayurveda as kasahara (antitussive) and in TCM as opening Lung Qi. Pine knots are given for cold-damp joint pain, a Wind-Damp Bi pattern. Pollen, dusted on wounds and skin, is taken in TCM as a male reproductive tonic, a claim the entry rests mainly on in vitro and animal brassinosteroid data. Pine seed nourishes Liver and Kidney Jing and moistens the intestines. Pine needle tea is a vitamin C source. The entry flags yew confusion and Ponderosa pine abortifacience.
+
 ### Contraindications
 
 - **Pine needle tea species verification** — CRITICAL: *Taxus* (yew) is lethal and resembles pine in needle form; always verify species as *Pinus* before consuming pine needle tea; Ponderosa pine (*Pinus ponderosa*) needles are abortifacient and must be avoided during pregnancy; only confirmed *Pinus sylvestris*, *P. strobus*, *P. pinaster* needles are safe

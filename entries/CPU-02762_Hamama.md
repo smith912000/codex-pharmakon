@@ -48,6 +48,10 @@ General fact only: the Dioscorides identification of amomon is itself unsettled,
 
 **Practitioner's note.** An aromatic Dioscorides drug with hot-dry temperament and a sleep-inducing action. Nothing in the passage bears on conserving innate heat or the *ruh*. Nothing to practise.
 
+### Functional–Anatomical Correlate
+
+The Canon gives this aromatic, hot and dry plant in the second degree, with astringency, and says it thins and ripens. Its actions reach the head, eye, chest, liver, womb and kidneys. For the head the passage says it burdens the head, gives headache and induces sleep, and is among the intoxicants and soporifics, while painting it on the forehead is said to remove headache. For the eye, a decoction is a wash for hot ophthalmia. For the chest, it is used for cold pleurisy. For the liver, it opens obstructions when drunk as a decoction, and is more digesting than wajj. For the womb and excretory organs, it is said to bring the menses, help womb pain and ulcers, and act as a sitting-bath for kidney pain. It is also said to ripen hot swellings and, with basil, to help scorpion stings. The plant is not firmly identified, and the Codex does not recommend it.
+
 ### Contraindications
 
 - **Sedative / intoxicant.** The source says it induces sleep and burdens the head; avoid.

@@ -40,6 +40,10 @@ General facts only. Liver is a concentrated source of preformed vitamin A. Vitam
 
 **Practitioner's note.** Nothing to do for cultivation. Both traditions name the liver for the eyes. The ordinary use of liver as a food is for the cook, not the cultivator, and the sources read give no basis for a tonic or longevity use. The one transferable habit is Dioscorides's care to separate what drips, what smokes and what is eaten.
 
+### Functional–Anatomical Correlate
+
+Little to map: the eyes, and, by the Tibetan rule, the liver. Dioscorides (2-47) uses the fluid dripping from a roasting goat's liver, rubbed on, for night blindness; the smoke of the liver as it boils, received with the eyes open; and the liver eaten roasted. He adds that epilepsy may be discerned by eating the liver of a buck goat, as they say, a report and not his endorsement. The Tibetan Explanatory Tantra says goat liver is supremely beneficial in eye diseases (Clark) or excellent for eye problems (Men-Tsee-Khang), with an anthelmintic use in Clark's brackets from the commentary. The same meat paragraph says the liver and other organs cure diseases of the matching organs. No humour, temperament, taste or potency is assigned to goat liver in the texts read.
+
 ### Contraindications
 
 - **Vitamin A toxicity.** Large or frequent amounts of liver can cause hypervitaminosis A; it is a particular risk in pregnancy. [USER: verify specifics]

@@ -51,6 +51,10 @@ General, well-established facts only. General, well-established facts only. The 
 
 **Practitioner's note.** A named group of ten roots, set down in a classification and used to prepare a purgative. It is not a plant to be gathered, and the record gives no basis for any cultivation use. A cultivator reads it as the name of a classical formula element.
 
+### Functional–Anatomical Correlate
+
+As a group the ten roots are said to act on the three deranged humours of the tradition (Vata, Pitta and Kapha, doshic terms) as a whole, which is a systemic claim rather than an organ claim. Two organ-level statements are made. Asthma and difficult breathing map to the airways and lungs, and the digestion of undigested lymph chyle maps to the digestive tract and the chyle process. Fever is named as treated in all its types, a systemic claim. The minor five-root group is described as having a mixed astringent, bitter and sweet taste, and is called a tonic and aphrodisiac in Bhishagratna's English; the major group is bitter and light. The chapter 44 use is a purgative of Lodhra bark, which concerns the bowel. The entry gives no modern anatomy and no organ assignment for the group as a whole, and these are group-level virtues only, not the properties of any member.
+
 ### Contraindications
 
 - **Identity.** The ten member roots are not identified here. Do not gather or substitute any root on the strength of the group name.

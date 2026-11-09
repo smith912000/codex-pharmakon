@@ -42,6 +42,10 @@ General, well-established facts only. Clay minerals are fine, hydrated aluminium
 
 **Practitioner's note.** An ordinary cooling earth for swellings and burns in the ancient scheme. Nothing here supports ingestion or any cultivation use. The lesson that the chapter gives is the old one of knowing the real from the counterfeit before trusting a material, and the Codex does not turn that into a practice.
 
+### Functional–Anatomical Correlate
+
+The entry maps Cimolian earth to the parotid gland, the skin and the urinary tract, with a general claim against inflammation. The root text says that both sorts, diluted with vinegar, dissolve inflammation of the parotid gland, the salivary gland in front of the ear, and that the second type dissolves lesser tumours. For burns the earth is rubbed on by hand to keep the affected parts from blistering, so the skin and its surface layers are the site. It also suppresses hardness from stones in the urinary or kidney tract, and inflammation on any part of the body, so the kidney and bladder passages are named with no finer site. The text says the earth withstands erysipelas, a streptococcal skin infection. The one quality printed is that the purplish, fatty sort is somewhat cold to the touch, which describes the material and is not a graded temperament. No humour, channel or dose is given.
+
 ### Contraindications
 
 - **Burns, skin infection, swellings.** These need proper medical care. Do not put earth on a burn or an open wound.

@@ -52,6 +52,10 @@ General, well-established facts only. Picrotoxin, the principal poison of the fr
 
 **Practitioner's note.** Nothing to practise. A poisonous fruit named once on a list, and a Greek chapter that is about something else. Do not take it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry's Sushruta line names the fruit, Cocculus indicus, with no use stated. The Dioscorides chapter it lists describes dye grains (kermes), not this fruit, and its astringent, wound and strength-restoring uses belong to those grains. The entry's one body-level note is a general fact it does not attribute to either text: the fruit's poison picrotoxin blocks inhibitory GABA receptors in the nervous system and causes convulsions. Otherwise the entry is a toxicity caution. It states the fruit is poisonous, must not be ingested, prepared or gathered, and that its use as a fish poison is restricted in some places. It gives no preparation or dose for the fruit. Pregnancy, lactation and children are to be avoided, with no safe-use statement in the sources. Confidence is low for the Dioscorides identification and medium for the Sushruta gloss.
+
 ### Contraindications
 
 - **TOXIC.** Picrotoxin causes convulsions. Do not ingest this fruit or any preparation of it. Do not gather it.

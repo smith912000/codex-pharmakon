@@ -49,6 +49,10 @@ General, well-established facts only. The three fruits are astringent, tannin-ri
 
 **Practitioner's note.** A fruit compound that Sushruta calls a panacea with a rejuvenating virtue when the powder is taken regularly with ghee, and which is also an ordinary purgative and wound-wash. A cultivator can treat it as a gentle, long-used digestive and cleansing medicine, but nothing in the text gives a dose or a course. The claim is the translator's English for a single sentence and should be read as that.
 
+### Functional–Anatomical Correlate
+
+Triphala is a compound of three fruits, Haritaki, Amalaka and Vibhitaka, and the Samhita assigns effects both to the compound and to the groups it sits in. The fruits chapter calls the mixture acid-astringent with a shade of bitter and sweet, and says that the powder, taken regularly with ghee in a stated weight ratio, acts as a regular panacea with a rejuvenating virtue (the translator's English). The Parushakadi and Triphaladi groups say that it subdues Vayu, Kapha and Pitta, cures Meha and skin disease, improves appetite and eyesight, and helps chronic intermittent fever. Other compounds use it as a purgative for the bowels, and for enlarged spleen, Gulma, chlorosis, abdominal dropsy and the washing of wounds. The body regions the text names are the digestive tract and bowels, the spleen, the abdomen, the urinary tract, the skin, the eyes and wounds. No constituent is named for it, and no dose, duration or season is given for the plain powder.
+
 ### Contraindications
 
 - **Purgative effect.** The text uses the compound in purgatives (ch. 44); it can loosen the bowels. Avoid with diarrhoea or dehydration. General caution.

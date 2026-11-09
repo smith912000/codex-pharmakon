@@ -42,6 +42,10 @@ General, well-established facts only. *Kaempferia rotunda* is a gingerlike herb 
 
 **Practitioner's note.** Nothing. A cultivator has no practice from this entry; it records that Bhishagratna lists a Sanskrit name and glosses it as a *Kaempferia*.
 
+### Functional–Anatomical Correlate
+
+Little to map: the sole attestation is one line in the translator's Appendix No. 3, which prints a Sanskrit name (OCR 'Bhuchampaka') against the Latin Kaempferia rotunda. The chapters do not print the name under any spelling searched. The entry states no use, part, organ, tissue, humoral or energetic classification, preparation, dose or contraindication. The only description is the botanical gloss, and the entry notes that it is not the same plant as Kaempferia galanga (CPU-00164). Nothing in the text maps to a body system, and the Codex gives no protocol.
+
 ### Contraindications
 
 The text prints no warning. Identity rests on one OCR pairing in a translator's appendix, so no plant should be gathered or used on the strength of this entry. Do not confuse it with *Kaempferia galanga*, the aromatic ginger of CPU-00164. No safety information for pregnancy or lactation was read. [USER: verify]

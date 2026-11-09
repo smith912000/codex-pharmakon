@@ -45,6 +45,10 @@ General statement only: a drug that cannot be tied to a species cannot be linked
 
 **Practitioner's note.** A tree-name that appears in an astringent group, an antivenom wood list and a thirst cordial. Nothing in the record supports a cultivation use, and with the tree unidentified there is nothing to do with it. A cultivator does nothing with this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: no single-drug effect is given. The Nyagrodhadi group's metrical text, under which the tree is filed, says the group is beneficial in ulcers, cures disorders of the uterus and vagina, favours the adhesion of fractured bones, and is curative in haemoptysis (bleeding from the lungs). It is called astringent and said to relate to all sorts of bodily secretions, and to assuage burning sensation of the body. The tree's two other appearances are an antivenom wood in an alkali preparation for poisoning and a fruit cordial for thirst, neither with a dose. The tree is not identified, so no organ can be tied to the drug itself, and the organs listed are the translator's terms for the group. The entry is a historical record only, and the antivenom recipe needs medical care, not home use.
+
 ### Contraindications
 
 - **Identity.** The plant is not identified in the sources read. Do not use any plant sold under this name on the strength of this entry. [USER: verify]

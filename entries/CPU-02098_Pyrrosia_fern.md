@@ -44,6 +44,10 @@ General, well-established facts only. *Pyrrosia lingua* is an epiphytic and rock
 
 **Practitioner's note.** The classic gives this fern leaf a urinary indication and no long-use promise. A cultivator has nothing to do with it beyond the record. The entry is no licence for any use.
 
+### Functional–Anatomical Correlate
+
+The entry maps to the urinary passages. The classic lists taxation heat and evil qi, the five dribbling blocks (五癃闭不通), and freeing urination and the water passages (利小便水道). Dribbling and closed, non-passing urine is the action named, which by plain reading concerns the urinary tract, though the classic does not name the bladder or kidney. The entry gives no organ or channel assignment and no flavour beyond bitter and balanced (味苦，平). Taxation heat (劳热) and evil qi are named as causes. The Mingyi layer adds a rule about hearing water or human voices, which the text does not explain. Yang's footnote glosses the dribbling blocks as retention of fluids, but that is his commentary and not the classic's. Modern anatomy appears only as a general note: retention of urine and burning or bloody urine need medical assessment. The drug's identity is not settled, so no tissue action of the plant itself can be stated. No dose and no safety information for pregnancy are recorded.
+
 ### Contraindications
 
 - **Urinary symptoms:** retention, pain or blood in the urine need medical assessment; do not treat them with this entry.

@@ -48,6 +48,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 **Practitioner's note.** Nothing to take from it for cultivation. Lake salt appears as a practical salty, hot-tasting medicine in the Tibetan list, with uses against specific complaints, and the record carries no cultivation status. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Tibetan terms come first. The entry prints one taste, hot, similar to mtsbur (alunite), and no potency. In the classes of medicine lake salt is the example of the salty taste for wind disorders, and it is listed among medicines for cold phlegm and for oedema. Its claimed sites of action are the gut, where it is a vermifuge that expels worms; the channels, where it purges what the line calls channel disorders (the line does not define them); the throat, against quinsy and diphtheria; the soft tissues, where it removes waste-growths of the flesh; and the urinary tract, where it cures urinary retention. It is also said to neutralize all types of poisons, a systemic claim with no organ named. The bracketed wording is Clark's, not attributed to a named author.
+
 ### Contraindications
 
 - **Poisoning, diphtheria, quinsy, urinary retention:** these are medical emergencies or conditions needing assessment; no salt is an antidote to "all types of poisons".

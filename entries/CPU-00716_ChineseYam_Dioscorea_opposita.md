@@ -77,6 +77,10 @@ Modern work concentrates on the **mucilage polysaccharides**, which carry much o
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps Chinese yam mainly to three organ groups in TCM terms: the Spleen and Stomach, which it is said to tonify for digestion and to arrest diarrhoea; the Lung, which it moistens for dry cough and wheeze; and the Kidney, which it consolidates for spermatorrhoea, frequent urination and vaginal discharge. Its TCM energetics are sweet, neutral to slightly warm, entering the Spleen, Lung and Kidney channels, tonifying qi and yin. Modern correlates in the entry are gut-directed: a galactan acts as a prebiotic raising Bacteroides and short-chain fatty acids, and bulbil polysaccharides are reported to improve the intestinal barrier and reduce colitis in animal models. Ayurveda (Sushruta) reads the moistening tuber as balya and brmhana, restoring a dried-out constitution, and Avicenna's Unani frame treats it as a demulcent that soothes the chest and gut and builds substance in convalescence. Its raphides irritate the skin during raw handling.
+
 ### Contraindications
 
 - **Skin-contact irritation (needle crystals):** the raw fresh rhizome and peel contain needle-shaped calcium oxalate raphides that can cause intense itching, stinging, and contact dermatitis on the hands during peeling/grating. Wear gloves, or briefly acidify (vinegar) / heat the hands; cooking destroys the effect.

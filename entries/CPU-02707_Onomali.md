@@ -43,6 +43,10 @@ General facts only: honey-like exudates from trees are usually resin, gum or sug
 
 **Practitioner's note.** A thick purgative and salve oil from an unnamed tree, which the Canon itself says makes the person sluggish and sleepy. Nothing in the lines supports a cultivation use. The honest entry is a record.
 
+### Functional–Anatomical Correlate
+
+Per Avicenna's Canon, Onomali is a hot and moist material, with heat greater than moisture and no degree printed. Its stated actions reach the skin, the joints, the head, the eyes and the bowels. As a salve or plaster it benefits ulcerated scab, and the entry lists joint pains as a use. The Canon says it causes drowsiness and sluggishness, which the text places in the head. Applied as a kohl it is said to help dimness of the eye. The purge is said to expel raw humours and to slacken, an effect on the bowels. The entry assigns this material no place in preserving innate heat or radical moisture. The temperament and the purge belong to the Canon's humoral language, and the Codex records them as historical only, with no mapping to any modern condition.
+
 ### Contraindications
 
 - **Purgative and sedating.** The text says it causes drowsiness and sluggishness and purges strongly. Do not use it.

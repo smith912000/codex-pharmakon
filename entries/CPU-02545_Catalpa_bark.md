@@ -44,6 +44,10 @@ The identification is ours. No clinical studies were retrieved for this entry. [
 
 **Practitioner's note.** There is no cultivation practice here. The entry is a bitter, cold bark for heat and worms, with a leaf use for pigs; the tradition's own grading counsels a short course if any.
 
+### Functional–Anatomical Correlate
+
+Little to map: the paragraph names heat (主热) and the three worms (去三虫) as what the bark governs, with the flavour and nature bitter and cold (味苦，寒). It names no organ, tissue or channel for the bark. The leaf alone carries a second use: pounded and applied to pigs' sores and fed to pigs to make them fat and large, a farming claim the entry records and does not endorse. The Mingyi layer adds only that the tree grows in Henei. The entry's preface places the lower class as mostly toxic and not for long use, and the paragraph itself says nothing of toxicity. The Codex does not turn heat into a modern diagnosis, does not map the three worms to any organ, and notes that the tree's identity between Catalpa species is unsettled. Worm infestation needs medical assessment, as the entry says. Nothing further is stated about any body system.
+
 ### Contraindications
 
 The preface warns that lower-class drugs are mostly toxic and not for long use. The classic's paragraph for this bark says nothing of toxicity, and no safety information for pregnancy, children or other medicines was read. The identification is not settled between *Catalpa* species. No conservation information was read. [USER: verify]

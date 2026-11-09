@@ -36,6 +36,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The only gener
 
 **Practitioner's note.** Nothing here supports a cultivation use. The text records an aphrodisiac action, nothing about long-term nourishment or restraint, and the tradition's own translator says animal medicines have largely dropped out of use. For a cultivator the honest entry is a record, and the practical answer is to leave it as one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the only stated action is that ram testicle is an aphrodisiac, in both translations. The organ named is the testicle, a reproductive organ. The sources name no mechanism, hormone or other system.
+
 ### Contraindications
 
 - **Hygiene and infection:** raw or undercooked reproductive-organ tissue from livestock can carry brucellosis and other zoonoses; the tissue of any slaughtered animal must be fresh, cooked and from inspected stock.

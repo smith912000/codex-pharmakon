@@ -52,6 +52,10 @@ Only preparations the texts give. DMM 2-13: the scorpion pounded raw and applied
 
 **Practitioner's note.** Nothing here for a cultivator to take or do. The scorpion is, in the sources read, a hazard to be treated and a like-for-like folk remedy. If the sources offer a discipline, it is the Sanskrit one of grading the poison and not fomenting the bite; for a real sting, seek medical care. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Greek (Dioscorides) entry maps to the sting itself: the ground scorpion, taken raw and pounded or roasted, is applied to the hurt it causes, so the skin and wound at the bite. The Sanskrit (Sushruta) toxicology maps the venom to the nervous system and the blood. Mild venom brings pain, shivering, numbness of the limbs and flowing blackish blood; the middle class brings swelling of the tongue, difficulty swallowing and violent epileptic fits; the keen class brings pustular eruptions, vertigo, burning, fever and black blood, and a rapidly fatal bite. A middle or strong bite is to be treated as a snake bite, with oils, poultices, rubbing powders and tail-feather fumigation. Scorpions are graded by poison, not by a humoral, doshic or qi classification. The Assyrian, Unani and Divine Farmer's sections give no doshic or qi terms and no vital-constitution claim.
+
 ### Contraindications
 
 Scorpion stings can be dangerous, and children and people with allergy are at greatest risk. Whole-animal and venom preparations are unstandardised and may be adulterated or contaminated; they are not safe to take. Scorpions are collected from the wild, and some species are listed under international wildlife-trade rules; the status of any particular species has not been checked here. [USER: verify] Ritual and fumigation uses are ritual, not therapy.

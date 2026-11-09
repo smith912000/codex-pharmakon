@@ -46,6 +46,10 @@ General, well-established facts only. *Enhydra fluctuans* grows in wet places an
 
 **Practitioner's note.** Nothing to cultivate here. A glossary name for a marsh herb. A cultivator has no sourced use for it.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry states that the Appendix gives Hilamochika no use, part, preparation or quality, and that the name is found in no chapter of the Samhita searched, so attestation rests on one glossary line. The Latin Enhydra Heloncha is the translator's gloss, paired with the name by a count of columns that the entry calls a reconstruction from OCR. The entry describes the plant as a water-loving herb of the daisy family. A note that it is eaten as a leaf vegetable in parts of South and South-East Asia is general, from outside the sources. No organ, tissue, humoral or energetic claim is made for it in the sources read. No dose, preparation or clinical study was retrieved. The contamination caution, that marsh plants can carry pathogens or pollutants, is a general note and not a claim from the text.
+
 ### Contraindications
 
 - **Identity.** The Sanskrit name is garbled in the OCR and the pairing is ours. [USER: verify against the page scan]

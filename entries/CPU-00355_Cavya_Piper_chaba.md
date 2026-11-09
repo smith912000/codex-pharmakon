@@ -65,6 +65,10 @@ According to PubMed, evidence for *Piper retrofractum* (≡ *P. chaba*) is **pre
 
 **Practitioner's note.** Nothing. Cavya is a pungent digestive stimulant in the Suśruta text, used in compounds for a defined complaint, and carries no long-term or rejuvenative status there.
 
+### Functional–Anatomical Correlate
+
+Cavya acts mainly on the gastrointestinal tract, which the entry frames as the agni (digestive fire) and the channel to be warmed. Its dīpana (kindling) and pācana (toxin-digesting) actions target gastric and intestinal digestion, the āma residue it is said to burn off. Its vāta-anulomana action is directed at intestinal gas and distension, the downward flow of Vāta, and its rucya (appetiser) action at appetite. The entry reads its target doṣas as Kapha and Vāta, with Kapha stagnation and abdominal heaviness as the presenting picture. It also lists a kaphahara (expectorant, decongestant) action, placing it in the respiratory passages, and a kṛmighna (anthelmintic) action in the gut. Piperine is described as an absorption enhancer for co-administered agents, graded as plausible rather than proven. The entry flags Pitta aggravation in excess, with acid reflux, gastritis, peptic ulcer and inflammatory heat states as the caution area.
+
 ### Contraindications
 
 - **Pitta excess / hyperacidity:** the pungent-heating profile can aggravate acid reflux, gastritis, peptic ulcer and inflammatory heat states.

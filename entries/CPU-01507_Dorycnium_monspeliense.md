@@ -43,6 +43,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. What the text teaches is recognition and restraint: a shrub to be known and not eaten. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that the root 'seems also to have a sleepy quality' and that taken too much it kills. That is the one bodily effect the chapter names, and it is given without any organ, system or tissue. Dioscorides also reports, on the authority of 'some', that the seed is taken for love medicines, which names no body part. The chapter prints no hot, cold, moist or dry quality and no taste, and it gives no humour, dosha or qi. The leaves are described as coarse and the flower as white, which are plant descriptions and not physiology. The genus Dorycnium belongs to the pea family, a botanical fact the entry does not link to the body. No modern pharmacology was read, and the identification is the translators' suggestion among several species.
+
 ### Contraindications
 
 Dioscorides' own text says the root "taken too much ... kills", and the translation labels the plant "POISONOUS". The identification is only the translators' suggestion, so nothing should be gathered or taken on the strength of this entry. Love-medicine use is reported only as hearsay. No safety information for pregnancy was read. None of the traditional uses above is advice. [USER: verify]

@@ -69,6 +69,10 @@ The modest sedative reading holds up; the panacea does not. According to PubMed,
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places vervain in the nervous system, the liver and spleen, the uterus and the skin. The Western sacred-herb reputation is deflated against chemistry. The iridoids verbenalin and hastatoside are described as giving a mild sedative and sleep-promoting effect in the brain, while verbascoside gives antioxidant and anti-inflammatory action at wounds. Galenic-Unani placement is cool and dry, resolvent and mildly astringent, for inflammations, liver and spleen complaints and headache. The Chinese Ma Bian Cao is classed bitter and cool and channelled to the Liver and Spleen, with actions to clear heat, invigorate blood, dispel stasis and promote urination, plus a traditional anti-malarial use that the entry says was not tested. Its uterine and emmenagogue reputation makes pregnancy a caution. Mouse studies showed anticonvulsant, anxiolytic and sedative effects at high whole-extract doses. The entry gives no chemical basis for the plague, snakebite or fever claims.
+
 ### Contraindications
 
 - **Pregnancy — caution/avoid.** Vervain has a traditional **uterotonic** reputation and is a classical emmenagogue (amenorrhoea use in TCM); avoid in pregnancy.

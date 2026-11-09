@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** A cultivator has no practice to take from this entry. The one thing the texts say is that an eye drug of this name exists; the plant is not fixed, and the glossary's genus may not be the plant Clark's physicians meant. Nothing here supports taking or gathering a mint-family herb on the strength of the entry.
 
+### Functional–Anatomical Correlate
+
+The sources map zhim.thig.le onto the eyes. Men-Tsee-Khang says it removes lingthok, which the glossary defines as an eye disorder with pimple-like growth in the eyes, and Clark's root-layer clause says it dispels cataract. In the entry's terms the site is the eye and the disorders are lingthok and cataract, which the Codex does not treat as one term. The bracketed commentary adds other eye diseases and an anthelmintic use, which in modern terms means action against intestinal worms, and gives a square stem and sweet and oily qualities for the black type. The botanical identity is open: the glossary prints Rabdosia, while Clark gives five other Latin names, so the eye claims belong to the Tibetan drug. The entry frames the drug as therapeutic only, with no part used, preparation or dose.
+
 ### Contraindications
 
 The sources read print no warning for the drug. The identity is uncertain, so no plant should be gathered or taken on the strength of this entry, and nothing should be put in the eye on it. No conservation information and no safety information for pregnancy was read. [USER: verify]

@@ -48,6 +48,10 @@ Rhizomes of several *Dioscorea* species sold as *bi xie* are used in current Chi
 
 **Practitioner's note.** A middle-grade drug for back and joint complaints, in the text's own frame. Nothing in the entry supports a long-term practice, and the species behind the name varies in practice. If anything is done, it is to read the entry for its indications and leave the rhizome where it grows.
 
+### Functional–Anatomical Correlate
+
+The stated targets are the lower back and the joints. The text names pain in the lumbus and back (腰背痛) and the strengthening of the bones and joints (强骨节). Wind, cold and damp (风寒湿) and generalized impediment (周痹) are named as disorders of the limbs, which the entry leaves without an organ and which map loosely to the joints and soft tissue in modern terms. The text also names malign sores that do not heal (恶创不瘳) and heat qi (热气), which map to the skin and to a general heat state. Its flavour is bitter and balanced (味苦，平), and the classic gives no channel or organ assignment and no toxicity word. Yang 1998 agrees in substance, but his note that the drug expels wind dampness and normalizes urination is later commentary, not classic text, and is not mapped here. The species behind the name varies in practice, so the mapping describes the text only. Historical record only.
+
 ### Contraindications
 
 The sources read print no warning. Several *Dioscorea* species contain active saponins, and wild-gathered tubers can be mistaken for edible yams or for other roots (the *Bowuzhi* note above records an early example of confusion), so identification matters. Persistent back pain and non-healing sores need medical assessment. No safety information for pregnancy was read. [USER: verify]

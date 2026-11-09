@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identifica
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this resin, and the text itself shows why. Its most useful lesson is about attention: a drug whose taste test blinds the tester should not be bought on the tester's say-so, and the one who handles it keeps his distance. The text offers nothing more.
 
+### Functional–Anatomical Correlate
+
+The chapter's claims concern the skin, the bones and the surface of the body, and the resin's qualities are given as sharp and very hot. Rubbed on, the juice is said to dissolve liquids. A decoction taken as a drink burns for a whole day, and the resin is mixed with honey and eye or suppository preparations depending on its sharpness. Taken as a drink it is good for sore hips, and applied to the bones it removes scales from them the same day, with the flesh around the bone protected in linen or stiff ointment. A snakebite report, that pouring the resin into a cut to the bone prevents harm, is recorded as the claim of 'some' and not as the text's own. The men who gather the resin are said to fear its heat and keep their distance, and its taste burns the tongue for a long time. The chapter prints no humoral, doshic or qi classification, and the species is only the translators' suggestion.
+
 ### Contraindications
 
 The chapter prints no formal warning, but it says the men who gather it are afraid of its heat and keep a distance, and that tasting it leaves a long burning of the tongue. Spurge latex and resins are irritants of skin, eyes and mucous membranes, and swallowing them can be dangerous, so no preparation of this plant should be taken or applied. The traditional snakebite report is not a treatment, and a snakebite needs urgent medical care. The identification is only the translators' suggestion, so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. None of the traditional uses above is advice. [USER: verify]

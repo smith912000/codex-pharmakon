@@ -68,6 +68,10 @@ According to PubMed, guava has some of the better clinical support among traditi
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps guava's astringent leaf onto the gut: the loose, leaking or inflamed bowel, with diarrhoea, dysentery and stomach cramps as its consistent indications. Quercetin's antispasmodic action calms intestinal cramp, while the tannins reduce fluid loss. Traditional terms place it as cool and dry, astringent and repercussive, binding the intestines and clearing damp-heat of the lower burner (TCM), and as a grahi binding agent for loose apana, mouth ulcers and sore gums (Ayurveda). A secondary link is to the glycaemic system: folk leaf use in diabetes shows a hypoglycaemic signal in preclinical work, with limited human evidence. Randomised trial data in infantile rotaviral enteritis support the antidiarrhoeal use. The vitamin-C-rich ripe fruit is classed as nourishing. Triterpenoid acids and the anti-inflammatory and antimicrobial findings remain preclinical or review-level.
+
 ### Contraindications
 
 - **Constipation:** the astringent action can worsen it; avoid in sluggish bowels.

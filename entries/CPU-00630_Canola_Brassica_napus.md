@@ -73,6 +73,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Rape's entry separates two uses by organ and tissue. Traditional high-erucic rapeseed was a pungent, warming, dispersing agent: Dioscorides used the crushed seed as a rubefacient poultice and its oil as a base, and Avicenna classed the seed as hot, carminative and emmenagogue, and a resolvent for swellings. The Chinese yun tai is pungent-warm, moves blood, disperses stasis and resolves swellings and abscesses topically, and the Ayurvedic analogy gives katu, tikshna and ushna qualities. Modern low-erucic canola is a dietary lipid for the cardiovascular and metabolic system: the entry cites a meta-analysis of 13 RCTs with lower LDL, total cholesterol and LDL/HDL ratio compared with olive oil, and a 12-week trial in non-alcoholic fatty liver disease in which it reduced hepatic steatosis, ALT and GGT, triglycerides, insulin resistance and fasting glucose. Internal use of high-erucic oil is not endorsed, because erucic acid is linked to cardiac lipidosis in animal models, and the skin is the site of irritant poultice reactions.
+
 ### Contraindications
 
 - **⚠️ Erucic acid (historical/HEAR oil):** high-erucic traditional rapeseed oil is associated with cardiac lipidosis in animal models and is regulated in food; **do not use high-erucic oil internally** — only modern low-erucic canola is food-safe.

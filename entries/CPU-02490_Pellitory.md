@@ -44,6 +44,10 @@ No clinical studies were retrieved for this entry. [USER: verify] General fact: 
 
 **Practitioner's note.** A strong, burning root for tooth and nerve complaints in the text. Not a cultivation substance.
 
+### Functional–Anatomical Correlate
+
+The entry maps pellitory onto the head, the mouth and teeth, the nerves and joints, and the fever cycle. Its temperament is hot and dry in the third degree, and the entry calls its power burning and opening of obstructions. Chewed, the root draws phlegm, and rubbed on with oil it brings sweat. For the head, it strongly opens the obstructions of the nasal passages. For the teeth, its decoction helps toothache, especially the cold kind, and the root boiled in vinegar and held in the mouth firms loose teeth. For the nerves and joints, rubbing with it, its decoction and its oil helps chronic relaxation of the nerve and its numbness, and prevents tetanus (kazāz) in one in whom it is arising. For fevers, rubbed on the body with oil before the fit of rigor, it helps rigor with and without fever, a claim the entry attributes to some people. No dose or cultivation status is given.
+
 ### Contraindications
 
 The root is a strong irritant of mouth and skin (the text says it burns the tongue). Third-degree heat in the text's own terms means caution in hot temperaments. Do not use on broken skin or mucosa. [USER: verify]

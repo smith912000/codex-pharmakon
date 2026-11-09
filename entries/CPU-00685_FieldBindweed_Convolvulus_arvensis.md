@@ -68,6 +68,10 @@ According to PubMed, the chemistry supports the traditional purgative identity w
 
 ---
 
+### Functional–Anatomical Correlate
+
+Field bindweed acts on the bowel. The entry describes it as a drastic purgative that moves matter downward and out, and the Assyrian and Dioscoridean record places it among evacuant roots that draw watery and bilious humours through the gut. Galenic/Unani reckoning reads it as cold, dry and bitter, a drastically cathartic agent that must be corrected with mastic or almond oil to blunt its griping. The entry names the mechanism as resin glycosides that irritate and stimulate intestinal secretion and motility. An Ayurvedic reading is given only by analogy, as bitter, cooling and downward-moving. The contraindications map further organs: the uterus, which the purgative is said to stimulate in pregnancy and breastfeeding; the inflamed or fragile bowel; and fluid and electrolyte balance, since violent griping, watery diarrhoea and dehydration are the stated harms. Cytotoxic and antioxidant activity is noted in vitro only, and the entry records no human therapeutic data.
+
 ### Contraindications
 
 **⚠️ Toxicity and purgative hazard.** Field bindweed is a drastic cathartic containing irritant resin glycosides; internal use can cause violent griping, cramping, watery diarrhoea, dehydration, and electrolyte disturbance, with risk of toxicity in overdose. It is **contraindicated in pregnancy and breastfeeding** (purgatives can stimulate the uterus and are unsafe), in children, in the elderly or frail, and in anyone with inflammatory bowel disease, intestinal obstruction, or bowel fragility. Do not combine with other laxatives, cardiac glycosides, or potassium-depleting drugs. The plant is also reported to be **toxic to grazing livestock** (notably horses) and contains trace tropane alkaloids.

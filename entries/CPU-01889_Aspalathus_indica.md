@@ -49,6 +49,10 @@ General, well-established facts only. The genus *Aspalathus* today is a group of
 
 **Practitioner's note.** Nothing here supports any cultivation use. What a cultivator can take from the chapter is the test: heavy, reddish or purple, thick, fragrant, bitter is the good wood, and the pale, bristly, scentless kind is the poor one.
 
+### Functional–Anatomical Correlate
+
+Dioscorides (De Materia Medica 1-19) names several sites for this wood. Boiled in wine and gargled, it is for an ulcerated mouth and for gangrenous ulceration of the genitals, so the oral cavity and the genital region are named. An infusion is for unclean discharges and fetid nasal discharges, which points to the genital and nasal passages. A decoction stops the bowels and, drunk, stops bloody vomiting, which points to the bowel and stomach. It dissolves painful urination and gas, placing the urinary tract and gut in the account. Set as a pessary it is an abortifacient, acting on the womb. His nature term is 'heating and astringent', and the best wood is described as bitter. Dioscorides uses no humoral, doshic or subtle-body frame here, so no channel is assigned beyond the sites he lists. The wood's other role, as a thickener in perfume and wine, does not act on the body in the text. The chapter names no constituent, dose or duration.
+
 ### Contraindications
 
 - **Pregnancy.** The text lists a pessary as an abortifacient. Do not use any preparation of this wood in pregnancy.

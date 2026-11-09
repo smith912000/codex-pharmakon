@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a bone and lymph drug in the Tibetan texts, with no preparation and no dose, and the plant behind the Tibetan name is uncertain among three names, of which the glossary agrees with the first and not with this entry's. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The texts map this drug to bone and to lymph and chhuser, which are fluid-like terms the entry does not define. Clark's root-text line says it 'maintains bone resin and drains lymph accumulations', and Men-Tsee-Khang's running text, for Tapak, says it 'preserves spongy bone and dries up chhuser'. Bone is the tissue both texts name, and the two agree in kind. Clark's commentary divides the plant by growing place: the hill type has bitter-sweet taste and treats worm infestations, a condition the entry does not locate in any organ, and the plains type has warm, dry power. The part used and any preparation are not stated. The glossary sets the name Tapak by column position against Phlomis rotata, while the key binomial, Marrubium incisum, is printed only by Clark. The identity is uncertain among three names of the mint family, so the bone and lymph map belongs to the Tibetan name.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Bone injury, lymph complaints and worm infestation need medical assessment; no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Because the identity is uncertain, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

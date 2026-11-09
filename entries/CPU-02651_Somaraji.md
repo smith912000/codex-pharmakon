@@ -51,6 +51,10 @@ General, well-established facts only. *Vernonia anthelmintica* is an Asian herb 
 
 **Practitioner's note.** An antidote ingredient, named by its parts and nothing more. The record supports no cultivation use, and a poisoning is a medical emergency, not a practice. A cultivator does nothing with it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the text names Somaraji only in the Ekasara Agada, an antidote compound for poison, in the chapter on snake-bite (Kalpa ch.5, verse 31). It names the seeds and the flowers as the parts used. The entry states no organ, tissue or body system, no humoral or energetic classification, and no use other than against poison. A translator's footnote mentions Somaraji a second time in a commentators' reading, with no stated use. No dose is given, and the verse says only that the drugs are applied singly or in combination of two or three. No contraindication is printed. Snake-bite is a medical emergency, and the Codex gives no protocol.
+
 ### Contraindications
 
 - **Snake-bite and poisoning.** These need urgent medical care. Do not treat them with this plant.

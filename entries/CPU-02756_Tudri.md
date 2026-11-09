@@ -44,6 +44,10 @@ General fact only: the plant is unidentified, so no constituent or action can be
 
 **Practitioner's note.** A herb the Canon describes by Dioscorides' account and uses for hard swellings and gout. Nothing in the passage bears on conserving innate heat, and the plant cannot be identified, so there is nothing to practise.
 
+### Functional–Anatomical Correlate
+
+The Canon's entry describes this herb as hot in the second degree and moist in the first, with a pungency like that of hirf (garden cress, per the entry's gloss). Its main mapping is to the skin, the joints and the senses of the head and eye. For non-ulcerated cancers (saratanat) it is said to benefit as a paint with water and honey, and it is said to benefit all hard swellings, applied as a poultice to inflammation. For the joints and nerves, it is a poultice for the hardness of gout. For the head, it benefits swellings at the roots of the ears. For the eye, with honey as a salve, it cleans eye ulcers. For the chest, in linctuses, it helps the spitting out of humours after it is soaked, boiled, pouched, dough-coated and roasted. For the excretory and sexual organs, it benefits al-bah, especially when cooked in wine. The sense of taqrij is not settled. The plant is not identified, so the Codex does not adopt these claims.
+
 ### Contraindications
 
 - **Identity.** The plant is not identified; do not substitute any other.

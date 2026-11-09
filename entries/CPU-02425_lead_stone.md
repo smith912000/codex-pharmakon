@@ -52,6 +52,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 **Practitioner's note.** Nothing to take from it for cultivation. It is a one-line cross-reference to lead slag. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter is one sentence and names no organ, tissue or body system. Its only claim is that the lead stone has the same properties as lead slag and is washed in the same way. The entry's Greek (DMM) frame places any astringent quality there only through that cross-reference, and the chapter prints none of its own. No warming, cooling, drying or moistening quality is stated. No use is given, so no body site, function or condition can be attached to the stone from its own text. The lead slag chapter (5-97) names the astringent quality and the same uses as burnt lead, and this entry does not reproduce them here. The heading is the Greek Molubdoeides Lithos, glossed by the translator as Lead Stone, and no other claim is made for it, so the mapping stops at the cross-reference.
+
 ### Contraindications
 
 - **TOXIC.** Lead compounds are poisonous. Do not ingest, inhale or apply this material.

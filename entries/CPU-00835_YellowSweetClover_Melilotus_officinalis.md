@@ -64,6 +64,10 @@ According to PubMed: an experimental study of *Melilotus* extract on high-protei
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, melilot is warm and dry, mollient and discutient in Galenic and Unani terms, acting on congested swellings of soft tissue, the eyes and the stomach. Avicenna's lineage adds headache and spasm and colic, so the head and gut musculature are named targets. In Kenetica it is the venous and lymphatic conditioning herb: reducing high-protein oedema, supporting venous return, and dispersing soft-tissue swelling and bruising. Its modern correlate is coumarin, which the animal data tie to anti-inflammatory activity and the oedema models, with downregulated serum TNF-α. Dicoumarol, formed only when the herb moulds, is the anticoagulant that thins blood, so the entry maps the bleeding risk onto the clotting system and onto the liver under long coumarin exposure. Use is limited to sound, dried material; the entry names bleeding disorders, perioperative use and the warfarin and antiplatelet drugs as contraindicated.
+
 ### Contraindications
 
 ⚠️ **BLEEDING HAZARD — FLAG IN FULL.**

@@ -43,6 +43,10 @@ Greek: no warming, cooling, drying or moistening quality is printed for the *mae
 
 **Practitioner's note.** Nothing. A cultivator has no use for this substance beyond ordinary fish as food, and the text does not claim more.
 
+### Functional–Anatomical Correlate
+
+The Greek text maps two external sites. The burnt head of the maena, pounded into small pieces and sprinkled on, is said to mend hard-skinned fissures in the perineum, which places the action on the skin and soft tissue of the perineal region. The fermented fish sauce, garum, rolled up and down around the mouth, is said to lessen rotten ulcers there, which places the action on the oral mucosa. Both are topical applications. The chapter says nothing about internal organs, circulation or the humours, and it prints no warming, cooling, drying or moistening quality for the fish. The entry maps only the perineal skin and the mouth, and it does not extend either use to the digestive tract or any other system. No quantity, frequency or duration is stated.
+
 ### Contraindications
 
 Fish allergy is common and can be severe. Raw or poorly handled fish carries bacterial and parasite risks, and fermented fish products are high in sodium and, if badly made, in histamine. Do not apply ash or fish sauce to broken skin or to mouth ulcers; infection risk is high. Persistent perineal fissures or mouth ulcers need a clinician. This entry gives no medical advice.

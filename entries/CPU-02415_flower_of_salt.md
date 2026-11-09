@@ -46,6 +46,10 @@ General, well-established facts only. Salt in strong solution irritates and dehy
 
 **Practitioner's note.** A pungent natural salt crust of the ancient shop, graded by nose, colour and a solubility test. Nothing here supports ingestion or any cultivation use. What the Codex takes from it is the habit of testing a material for adulteration with simple means.
 
+### Functional–Anatomical Correlate
+
+The chapter maps flower of salt to the skin and ulcers, the genitals, the ears, the eyes, the scalp, the sweat glands, the stomach and intestines, and general fatigue. It is said to be good for malignancies, spreading erosive ulcers and gangrenous ulcers on the genitals, so the skin and soft tissue of the ulcers and of the genital region are sites. Purulent ears are named, and dullness of sight, scars and cataracts for the eye. Taken with wine and water it promotes sweating, which is a skin action, and it disturbs the intestines and is bad for the stomach, the text's own words for its effect on the gut. It is mixed into remedies for fatigue and into sebaceous treatments for the scalp. The chapter prints the quality as sharply burning, biting to the taste and somewhat fat, with no heat or moisture grade, and no humour or channel.
+
 ### Contraindications
 
 - **Ears, eyes, ulcers.** Do not put an impure salt crust in the ear or the eye or on an ulcer.

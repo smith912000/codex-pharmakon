@@ -47,6 +47,10 @@ General, well-established facts only. Marjoram and oregano belong to the genus *
 
 **Practitioner's note.** Nothing here supports a cultivation use. It is a two-line pointer to a thyme-wine recipe, and the recipe is the only practical content. A cultivator can take from it the habit of tracing a thin chapter back to the entry that carries its method.
 
+### Functional–Anatomical Correlate
+
+The wine has no bodily claims of its own. Dioscorides sends the reader to the thyme wine (5-59), so its indications are the thyme chapter's: digestive difficulty and lack of appetite (the digestive tract), dysentery (the bowel), disorders of the nerves and hypochondria (the nervous system, with the translator's gloss "nervous gastric disorder"), winter shivering (chill and fever) and bites of venomous creatures that chill and putrefy (wounds and tissue). Dioscorides uses no humoral, doshic or qi terms here and prints no warm, cool, moist or dry quality for the wine. The word "warming" appears at 3-32, but it describes the herb, so it is not carried over to the wine. The Codex records these as historical indications and does not map them onto any organ for use. As an alcoholic preparation, the wine is a risk to the liver, to pregnancy and to anyone on medication, and bites and fevers are emergencies.
+
 ### Contraindications
 
 - **Alcohol.** A fermented wine; the usual cautions for alcohol apply (pregnancy, liver disease, medication, driving, dependency).

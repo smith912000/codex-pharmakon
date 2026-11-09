@@ -40,6 +40,10 @@ Tibetan: the line prints an action only ("cure smallpox"), with no taste, power 
 
 **Practitioner's note.** Nothing. A cultivator does not use ox hide as a remedy. The text records it against smallpox, a disease that no longer circulates, and the Codex keeps the record without carrying it into practice.
 
+### Functional–Anatomical Correlate
+
+Little to map: the text states one action only, that ox hide, named together with rhinoceros hide in one sentence, 'cure[s] smallpox' (Clark; the Men-Tsee-Khang edition reads 'cure small pox'). The system named is the skin, through an infectious disease. The hide sits in the Tibetan 'Skin' group of animal medicines, and the line gives no taste, potency, post-digestive taste or humoral quality. The sentence carries no spirit reference and no cultivation or rejuvenation role. The text does not say which animal 'ox' renders, and gives no preparation or dose. The Codex records the claim as history only. The entry notes that the disease is eradicated, and that raw hide can carry pathogens such as anthrax spores.
+
 ### Contraindications
 
 Raw or poorly treated hide can carry anthrax spores and other pathogens, and handling hide from an animal that died of disease is hazardous. Do not use any animal product to treat a suspected infectious disease; seek medical care. Cattle products have religious and cultural restrictions in some communities; respect them. This entry gives no medical advice.

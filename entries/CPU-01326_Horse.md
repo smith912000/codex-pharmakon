@@ -48,6 +48,10 @@ General facts only. Horse meat and offal must be cooked and handled hygienically
 
 **Practitioner's note.** Nothing here is a practice. Horse meat is one of the warm, heavy, oily foods the Tantra lists for a wind disorder, and the other horse items are ordinary animal medicines recorded in a list. A cultivator has no regimen to take from them, and the tradition's own comment that few animal products are used today argues for leaving them as history.
 
+### Functional–Anatomical Correlate
+
+The horse acts on several systems by the entry's own citations. Horse meat is listed in a diet for wind disorders (loong), which the Tibetan text pairs with heavy, warm, oily foods. The rump meat dries pus and removes disorders of the kidneys and waist, cold disorders and lymphatic ailments, which map to the kidneys and lower back, the lymphatic system and pus-forming tissue. The milk heals lung diseases and increases mental dullness. Hoof removes tumors; the ankle bone cures cramps of the calf muscle; dung is anthelmintic and anti-emetic, which maps to intestinal worms, the calf muscle and vomiting. Avicenna's Canon gives the foal's skin for pustules, growths on the knee for headache, and rennet for chronic diarrhoea, intestinal ulcers and dysentery. The Divine Farmer's Classic's entry for the white horse's penis, a different part of the animal, names the centre and the vessels, the member's erection, qi and flesh. Most actions are historical statements, and no dose is given.
+
 ### Contraindications
 
 - **Hygiene and infection:** horse flesh and offal must be cooked through; dung, hoof and bone preparations carry infection risks and are not suitable for internal use.

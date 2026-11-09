@@ -43,6 +43,10 @@ No study of the plant was opened, and "disorders of the loins" is too loosely de
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. With so brief a description and no dose, the honest answer is to do nothing with it.
 
+### Functional–Anatomical Correlate
+
+Little to map: The chapter states one target only, “disorders of the loins”. The translators’ bracketed gloss offers “digestive or procreative” for that phrase, and it is their gloss, not Dioscorides’ own. The loins are read here as the lower back and the abdominal and pelvic region in modern anatomy, but the chapter names no organ or system. The preparation is the plant pounded into small pieces and taken as a drink in water, so the stated route is internal, through the digestive tract. The description gives the herb as green throughout, with little crumpled leaves and branches, and flowers like roses. It names no habitat, season, part or amount. The chapter prints no warming, cooling, drying or humoral, doshic or qi quality. The identity is the translators’ suggestion of a fishbone thistle, and the text describes no spines, so the link to thistles is itself doubtful. Nothing else is mapped.
+
 ### Contraindications
 
 Nothing in the chapter warns of harm, and it gives no information on safety. An unidentified wild plant should not be drunk on the strength of a two-sentence description. None of the traditional uses above is advice. [USER: verify]

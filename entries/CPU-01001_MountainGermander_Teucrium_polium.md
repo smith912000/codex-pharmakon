@@ -96,6 +96,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+The traditional indication is a bitter digestive and metabolic tonic. Avicenna's Unani frame places the plant hot and dry in the second degree, as a stomach tonic, a deobstruent for liver and spleen, a carminative for wind and an emmenagogue. Dioscorides adds indigestion, visceral obstruction and dropsy. Folk practice extended it to blood sugar, using strong infusions of the flowering tops for type-2 diabetes and dyspepsia. The entry maps the bitter onto the digestive tract, and its flavonoid and phenylethanoid fractions onto antioxidant and possible hypoglycaemic effects seen in animal models. The hepatic record runs in the opposite direction. A man of about seventy developed jaundiced acute hepatitis after roughly a month of large quantities of the tea taken as a hypoglycaemic aid. The entry links the furano-diterpenes to CYP3A-activated liver injury, by extrapolation from T. chamaedrys, and judges rodent hepatoprotection studies not to show human safety. It therefore admits only occasional, culinary-strength digestive priming and rejects the glycaemic use.
+
 ### Contraindications
 
 - **Any pre-existing liver disease, or concurrent hepatotoxic drugs/alcohol:** absolute contraindication — documented human hepatitis, occasionally fulminant.

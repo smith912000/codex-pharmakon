@@ -51,6 +51,10 @@ General, well-established facts only. A moist poultice of soft plant material ho
 
 **Practitioner's note.** Nothing to do with it. Soaked chaff on a crushed leg is a record of a plain wound dressing, with no recorded quantity and no cultivation status.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one use only. The Ebers recipe lays soaked, chopped chaff on a squashed leg as a poultice, to heal it at once, and says it may be used on any limb. So the body parts named are the leg and any limb. The entry notes that the lines read do not print the earlier remedy that the word 'Another' refers to, and that Bryan's comparison with the bran poultice is his own. No organ, tissue, quality, humour or channel is given. The cereal is not named, and no amount, duration or time of application is recorded. The entry says the Ebers material is organised by complaint rather than by the person's vital constitution, and that no spell or recitation is shown with this recipe. Its own cautions are that a crushing injury needs proper medical care, that plant waste is not a clean dressing, and that chaff or straw should not be put on an open wound.
+
 ### Contraindications
 
 - **Wounds.** Do not put chaff, straw or similar plant waste on an open wound; it can introduce infection and spores. A crushed limb needs medical care.

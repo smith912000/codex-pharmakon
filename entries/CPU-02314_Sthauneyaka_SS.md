@@ -50,6 +50,10 @@ General, well-established facts only. The identity is open, so no pharmacology c
 
 **Practitioner's note.** An unidentified name in a group list and in one anti-venom recipe. Nothing supports cultivation use, and without an identification nothing can be gathered or used. A cultivator reads it as a name in a record.
 
+### Functional–Anatomical Correlate
+
+Sthauneyaka is named in two places, and neither ties it to an organ. In the Eladi group, the group as a whole is said to subdue Vayu and Kapham and to counteract poison, and it is called a cosmetic that checks skin eruptions such as rash and urticaria, and the itch that goes with them. In the Kalpasthana snake-bite chapter it is one of some twenty-four ingredients in the Tarkshyagada, a compound pasted with honey that the text says can neutralise even the poison of a Takshaka serpent. The text does not say what Sthauneyaka itself contributes. The regions the entry can name are therefore the skin and, through the group's virtue, the doshas Vata and Kapha, which the text does not place in any organ. No rasa, virya or vipaka is given. Snake-bite is a medical emergency, and the Codex's mapping stops at what the text states.
+
 ### Contraindications
 
 - **Identity.** The plant is unidentified; do not substitute any herb or spice for it.

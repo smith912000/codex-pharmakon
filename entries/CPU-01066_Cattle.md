@@ -50,6 +50,10 @@ General facts only. Beef is a source of complete protein, iron and vitamin B12. 
 
 **Practitioner's note.** There is nothing to cultivate with cattle as such in these sources. The Egyptian text uses the animal's parts as ingredients, and the Tibetan text uses its flesh, hide, bile and urine as foods and drugs for named disorders; the one word of rejuvenation attaches to milk, not to the animal. A cultivator who eats beef or dairy does so as food and should follow the cooling, oily qualities the Tibetan text prints, not look for a hidden tonic.
 
+### Functional–Anatomical Correlate
+
+Cattle map to wounds, the skin, the eyes, the hair, the breast, the vulva and anus, and the limbs. In the Ebers (Bryan's terms), fat or flesh of cow or ox goes on wounds and flesh growth, brain on wheals and a diseased breast, horn in a vulval douche and an anal suppository, blood at the eyelid to stop a plucked hair regrowing, and baked ox-liver as an eye-cooler. Ox fat refreshes the 'met', a term the translation leaves unexplained, and fat-cow flesh strengthens the limbs. The Tibetan texts (Explanatory Tantra) call beef cool and oily, dispelling wind fever and curing hot disorder associated with loong (wind); hide treats smallpox; the bile duct of a bull is a source of gi.wam; and red-brown cow urine purges lymph disorders and chronic fevers. The entry gives cattle no humour or qi of their own.
+
 ### Contraindications
 
 - **Prion disease (BSE).** Brain, spinal cord and some other tissues of cattle can carry the agent of bovine spongiform encephalopathy; eating or applying them is unsafe where that is a risk.

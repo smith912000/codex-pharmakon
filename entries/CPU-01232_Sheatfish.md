@@ -40,6 +40,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The only gener
 
 **Practitioner's note.** There is nothing in the source for a cultivator to use. The nourishing food in the chapter is the fresh fish, which is simply a meal, and everything else is a salted-fish remedy for a complaint. The one thing the chapter models is the habit of saying which form of a material is meant.
 
+### Functional–Anatomical Correlate
+
+The entry maps to several organs through the different states of the fish. Fresh, the fish is nourishing and good for the stomach, so the digestive tract is named. The chapter says that salted fish yields no nourishment but cleans the arteries and makes the voice clear, so the blood vessels and the voice are named. Salted flesh draws out splinters, so the skin and the tissue where a splinter lodges are the site. Brine in baths is good for dysentery at the first sign, drawing discharges outward, so the bowel is the site of that use. A brine suppository is said to cure sciatica, which places the action on the sciatic nerve and the lower back and leg, though the chapter names no nerve. The chapter gives no humour, taste or potency, and the entry gives no mechanism.
+
 ### Contraindications
 
 Salted fish and brine carry a high sodium load and are unsuitable for anyone on a salt-restricted diet. A brine suppository would irritate the bowel and is not advised. Dysentery and sciatica need medical assessment. Freshwater fish carry parasites if eaten raw or undercooked, and the European wels catfish, the species the translator suggests, is a large predatory fish. These are general cautions and not claims from the text.

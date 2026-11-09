@@ -50,6 +50,10 @@ General, well-established facts only. Juniper berries, pine and fir needles and 
 
 **Practitioner's note.** A group of resinous wines with a plain warning attached: they are medicines, not drinks for the healthy. There is no cultivation status attested, and the Dioscoridean answer to "should I take this for wellbeing" is no.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that wines made from cut cedar, juniper, cypress, bay, pine or fir wood, and from cedar berries, are warming, urinary and somewhat astringent, with bay the most warming. The text gives these as the wines' qualities and calls them medicinal and unfit for the healthy. It names no organ, tissue or illness for this chapter; the illnesses listed in the next chapter, for a different cedar-rosin wine, cannot be carried over to this one. The urinary quality is the only system-level term, and it is the text's own. No humoral, doshic or elemental classification is printed beyond these qualities, and no dose or duration is given. The entry adds that jars must be kept full or the wine grows sour, which is a rule of making rather than a body action. The tree species is not fixed by the text, so no particular plant can be assigned an action.
+
 ### Contraindications
 
 - **Healthy people.** The text states these wines are "unfit for the healthy" (line 10013).

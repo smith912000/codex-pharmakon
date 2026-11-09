@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The contracept
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is the habit of tasting and describing a plant and of noting what trade names it. The text offers nothing more, and the abstentive answer is the right one.
 
+### Functional–Anatomical Correlate
+
+The chapter maps to the stomach and to conception. A decoction, drunk, is said to be good for the stomach, and the seed is mixed into antidotes, which is a preparation use and not an organ. The chapter prints one quality, that the plant is bitter to one who tastes it, and no hot, cold, moist or dry quality. Taken as a pessary with honey before intercourse it is thought to hinder conception, so the reproductive tract is the area named, though the text gives this as a thought and not as an established effect. The chapter describes a shrub with little leaves like cicer and horn-shaped pods holding a red seed like a double-edged axe, growing among barley and wheat. It names no other organ, tissue, humour or doshic term. The identity is one of four candidates on the translators' line, so the chapter's organ claims cannot be pinned to a specific plant.
+
 ### Contraindications
 
 Chapter 3-146 prints no warning. The identification is only the translators' suggestion among four candidates, so no plant should be gathered or used on the strength of this entry. A pessary "thought to hinder conception" is not a reliable or safe contraceptive and is not advice. The decoction is recorded without a dose. [USER: verify]

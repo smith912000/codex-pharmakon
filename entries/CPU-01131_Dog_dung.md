@@ -44,6 +44,10 @@ General, well-established facts only. Dog faeces can carry the eggs of roundworm
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. Dog faeces are one clause in a list of droppings, with the action stated by a commentary, and the tradition describes animal products as largely replaced. The honest use of the entry is as a record. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Per the entry’s own claims, dog faeces act on swellings. The Men-Tsee-Khang English says they “reduce swelling”, listed with wolf and snow cock droppings, while Clark’s bracketed commentary gives “especially beneficial against spirits” and a bracketed “all three reduce swellings”, which the entry reads as including the dog. No body system, organ or tissue is named for the dog. The neighbouring droppings are assigned digestive, bile and pus actions, but none of those is stated for the dog. In modern anatomy the attested target is abnormal soft-tissue swelling, not a specific organ. No Tibetan energetic term, taste, potency or humoral category is printed for the dog. The “spirits” action has no anatomical correlate, and the entry does not gloss the word. No cultivation framing is attested. Nothing further can be mapped from the sources read.
+
 ### Contraindications
 
 - **Infection and parasites:** dog faeces can carry *Toxocara* and other worm eggs, *Salmonella*, *Campylobacter* and other pathogens; do not ingest them or apply them to skin, wounds or the eye.

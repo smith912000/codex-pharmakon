@@ -66,6 +66,10 @@ Codex policy: mechanism stated securely; named citations to be supplied and veri
 
 **Practitioner's note.** Nothing. This is a highly toxic root; where the tradition uses aconites it is as physician-prepared medicine, and there is no self-directed cultivation use.
 
+### Functional–Anatomical Correlate
+
+The entry's Tibetan account places processed bong-nga (aconite) against hot disorders: fever, inflammation and infection, including epidemic febrile disease, within the rGyud-bzhi framework. Its toxic reach is described at the heart and nervous system. Diterpenoid alkaloids hold voltage-gated sodium channels open, producing cardiac and neuromuscular toxicity, with perioral numbness, paraesthesia, vomiting and arrhythmia as the poisoning picture. Traditional processing is said to convert the diester alkaloids to less toxic forms. Laboratory and animal work cited in the entry, including inhibition of nitric oxide and TNF-alpha in LPS-treated RAW 264.7 cells and reduced lung inflammation in rats, is described as modest and not evidence of clinical effect. Cardiac disease is an absolute contraindication. The entry does not place this species within the rGyud-bzhi materia medica.
+
 ### Contraindications
 
 - **Raw/unprocessed material — absolute prohibition.** Lethal; small margin.

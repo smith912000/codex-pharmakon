@@ -44,6 +44,10 @@ General, well-established facts only. Electric rays (order Torpediniformes) prod
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The chapter is a pair of remedies for a chronic sore and a displaced part, and the Codex does not recommend them. The honest use of the entry is as a record. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides names two external uses for the sea torpedo (narke). It is applied to long-standing sores around the head, to lessen the fierceness of the suffering, which maps to the scalp and skin of the head, and it is applied to a perineum “overturned or else fallen down”, lifting it, which maps to the pelvic floor and perineal region. The text gives no mechanism and does not mention the animal’s electric discharge. Avicenna’s Unani entry on the numbing fish (ra’ada) adds a claim for the head of a headache sufferer, in which Galen doubts that a dead fish works; a claim for joints, where Paul says the oil in which the fish is cooked quiets recent joint pains; and a claim for the excretory organs, where the anus is tightened and piles drawn in when the fish is applied. That entry gives no temperament and does not use innate heat or radical moisture, and none of its uses concerns the eye, chest or digestion. No Greek quality is printed.
+
 ### Contraindications
 
 - **Sores that do not heal:** need examination; do not apply animal tissue.

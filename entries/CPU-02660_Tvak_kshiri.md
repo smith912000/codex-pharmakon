@@ -46,6 +46,10 @@ General, well-established facts only. *Curcuma angustifolia* is a plant of the I
 
 **Practitioner's note.** A starchy powder named once, in a fever compound, with no dose. A cultivator has nothing here to act on, and the identification is uncertain.
 
+### Functional–Anatomical Correlate
+
+Per the Sushruta Samhita, Tvak-kshiri is one of four powders in a compound licked with honey and clarified butter for a fever with thirst and a burning sensation of the body (Sutrasthana ch.44). The passage is systemic rather than organ-specific: it names the whole body's burning and thirst, which the Codex does not translate into a modern diagnosis. The chapter where it stands is on purgatives, but the passage prints no organ or tissue for Tvak-kshiri. No part of the plant is named, and no taste, potency or post-digestive effect is printed for it alone. The fever is the only condition given. Starch from the rhizome, the common name's arrowroot, is a general fact about the species and not a claim the entry makes. No contraindication is stated in the passage read.
+
 ### Contraindications
 
 - **No contraindication is stated in the passage read.** [USER: verify]

@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing. A scientific name in a glossary, with no drug named beside it, gives a cultivator nothing to do. The abstentive answer is the only one the sources allow.
 
+### Functional–Anatomical Correlate
+
+Little to map: the Men-Tsee-Khang 2011 glossary lists the scientific name Anemone tatrasepala in its scientific-name column, and nothing else. The line carries no phonetic name, no Tibetan transliteration, no English common name and no taste, power or action. The binomial does not appear in the Explanatory Tantra chapter on the efficacy of medicinal substances, in the compounding chapter or in the index, and Clark 1995 does not print it. The extraction note records that the Tibetan name was not paired because of a column split in the OCR, and the pairing is unresolved. The entry therefore names no body system, organ or tissue that the text ties to this plant, and the Codex draws no correspondence. No preparation, dose or clinical study exists in the sources read for it.
+
 ### Contraindications
 
 The sources read print no warning, since they print no use. The identity is not settled by any line read, so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

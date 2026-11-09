@@ -46,6 +46,10 @@ General, well-established facts only. Human milk is the natural food of infants.
 
 **Practitioner's note.** Nothing. A cultivator has no use for this chapter beyond reading what the author says about milk; the one caution it records, that milk is "worthless" in several conditions, is the one to keep.
 
+### Functional–Anatomical Correlate
+
+The chapter maps milk to the stomach, to wasting illness, to the eyes and to the joints. Sucked, it is good for hunger pangs in the stomach and for consumption, which in modern terms is wasting illness. Mixed with frankincense and dropped into bloodshot eyes after a blow, it is used for the eye; rubbed on with meconium and wax ointments, it is used for gout in the joints. Drunk, it is an antidote for sea hare poisoning and for poisonous medicines. Milk in general is called worthless for the spleen and liver, vertigo, epilepsy, tendon trouble, fever and headache, unless whey is given for purgation. The chapter gives sweetest and most nourishing as its only quality. The subject of its final sentence is unclear. The text gives no dose. Human milk from a donor can carry infection and drugs, and it should not be put in the eyes.
+
 ### Contraindications
 
 - **Infection.** Human milk from an unscreened donor can transmit infections; do not put it in the eyes or give it to others.

@@ -48,6 +48,10 @@ General, well-established facts only. *Typha* (Typhaceae) grows in wetlands acro
 
 **Practitioner's note.** The classic gives this marsh plant an upper-grade, long-use promise, and the only practical hint is a pickled spring shoot in Sun's note. That is a record of wording, not a practice. No part, preparation, dose or course is given, and nothing here supports taking cattail as a regimen.
 
+### Functional–Anatomical Correlate
+
+The classic's indications are given in organ terms. Evil qi in the five viscera and below the heart (五脏心下邪气) names the five viscera and the region below the heart. Rotting foul smell in the mouth (口中烂臭) points to the mouth. Firming the teeth (坚齿) names the teeth, brightening the eyes (明目) names the eyes, and sharpening the hearing (聪耳) names the ears. On long taking, the text says it lightens the body and bears old age (轻身，耐老), a whole-body claim with no organ given. The energetic terms are sweet and balanced (味甘，平), and no channel is assigned. Sun's note describes the tender spring leaf-shoot, which fits the herb part, but the text gives no preparation. The five viscera are not broken into named organs in the text.
+
 ### Contraindications
 
 - **Identity.** *Xiang pu* (the herb) and *pu huang* (the pollen) are different drugs and are not interchangeable here; the species is our identification, of medium confidence. [USER: verify]

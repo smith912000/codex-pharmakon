@@ -46,6 +46,10 @@ No scientific statement can be made about an unidentified material. Acacia-type 
 
 **Practitioner's note.** An imported fragrant material the Canon says strengthens the organs but disturbs the mind. Nothing in the passage bears on conserving innate heat. Nothing to practise.
 
+### Functional–Anatomical Correlate
+
+The Canon describes this imported fragrant material as hot and dry in the first degree, with some holding it cold in the first. Its main stated action is that it strengthens the organs (yuqawwi al-a'da), without naming which organs. On the skin and body it is said to clean the skin, dry the moistures beneath it, perfume the body and cut the smell of lime (nura). For the stomach it is said to be good. For the head it is said to disturb the mind and intellect, a warning the Codex carries as a contraindication. The best kind is the yellow, light, sweet-smelling one, and the white heavy kind is bad. The source is unsettled between India, Yemen and the roots of umm ghaylan. No constituent, preparation or dose is given. The Codex records these as the Canon's claims and does not recommend the material.
+
 ### Contraindications
 
 - **Mind.** The source says it disturbs the intellect; avoid.

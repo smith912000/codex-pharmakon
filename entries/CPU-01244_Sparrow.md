@@ -40,6 +40,10 @@ General, well-established facts only. Wild-bird meat can carry bacteria such as 
 
 **Practitioner's note.** A cultivator does nothing with this. It is a list entry for wild-bird meat, with no preparation and no dose; the action named for it (more semen) is not a cultivation claim, and no benefit is supported. The honest use of the entry is as a record of what the Tantra says.
 
+### Functional–Anatomical Correlate
+
+The sparrow's flesh, in the Tibetan entry, acts on the reproductive system and on wounds. Clark's Tantra gives it, together with a barley-feeder bird and a mountain lizard, as increasing semen, and its bracketed additions say it is aphrodisiac, tonic and anodyne and drains pus. The food chapter repeats that the flesh of chicken and sparrow increases semen and is beneficial for wounds. Men-Tsee-Khang gives the increase of semen and, in the food sentence, the healing of wounds, so both translations agree on those two sites. The sparrow also belongs to the Tantra's group of birds that dig with their beaks, whose meat is described in general as sweet in taste and post-digestive taste, but the lines do not say which habitat class it falls under, so no potency is assigned. In modern anatomy the systems are the reproductive tract, since semen is named, and the skin and soft tissue where wounds heal. The text does not say how either effect would reach the body.
+
 ### Contraindications
 
 - **Infection and parasites:** wild-bird meat can carry bacteria and parasites; it must be cooked through.

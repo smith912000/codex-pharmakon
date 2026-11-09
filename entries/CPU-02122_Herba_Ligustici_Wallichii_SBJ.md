@@ -51,6 +51,10 @@ General, well-established facts only. The genus *Ligusticum* is in the carrot fa
 
 **Practitioner's note.** An upper-grade drug in Sun's reconstruction, with a long-taking promise that is spirit-related and not a bodily one, and a middle-grade drug in Yang's edition. The record gives no dose, no preparation and no duration, and nothing here supports acting on it. A cultivator reads it as a record of grading.
 
+### Functional–Anatomical Correlate
+
+The classic's indications are mostly respiratory and mental in their categories. Cough and counterflow (咳逆) maps to the respiratory system, and the qi counterflow term reads to the lungs and airways in modern anatomy. Settling fright qi (定惊气) points to the mind, but the classic names no organ for it. Warding off evil and malignancy (辟邪恶), removing gu toxin and demonic influx (鬼注), and expelling three kinds of worms (去三虫) are listed with no organ attached. On long taking the text says it communicates with spirits (通神), a promise with no bodily referent. The leaf, not the root, is the part named, and the identification rests on one commentary layer. The entry assigns no organ or channel, and the Codex imports none.
+
 ### Contraindications
 
 - **Identity.** The identification with the Xiong Qiong plant rests on one layer of the commentary. [USER: verify]

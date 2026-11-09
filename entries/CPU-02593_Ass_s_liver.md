@@ -47,6 +47,10 @@ General, well-established facts only. Liver is an organ food in many cuisines. B
 
 **Practitioner's note.** Nothing for a cultivator to do. The record is a one-line food-medicine for a seizure disorder, with no cultivation framing, and it should not be used as one. If the line teaches anything, it is the habit of attending to how a thing is prepared and in what state the person takes it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that an ass's liver, eaten roasted and taken while fasting, is good for epilepsy. That is the only indication, and the text names no organ, humour, temperament or channel through which the liver would act. The one body system the chapter touches is the nervous system in epilepsy, but Dioscorides gives no location for it, such as head or heart. The fasting is stated as a condition of the person taking the food, not as an action on any organ. The chapter says nothing of the liver's own function, its vessels, digestion or any second use, and it describes neither the liver nor the animal. Only the indication and the two conditions of preparation and taking are recorded here, and no further body mapping is supported by the chapter.
+
 ### Contraindications
 
 - **Epilepsy.** A medical condition. Do not replace treatment with any food.

@@ -120,6 +120,10 @@ The empty cells are the finding. A responsible codex prints the gaps.
 
 **Practitioner's note.** Nothing. No cultivation or vital use is attested for hound's tongue here, and nothing in the text supports internal use of this species.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states no supported body-system action for this species. It points only to the skin and wound surface, where a genus-level classical record of poultices for burns, ulcers and wounds, and an assumed family mucilage film, are described as possibly soothing, but the entry says this is untested for C. cheirifolium and the classical identification is uncertain. It names the internal, mouth, throat and dog-bite indications drawn from the leaf's shape as false. The only organ it maps with evidence is the liver: the isolated open-chain diester heliosupine and related pyrrolizidine alkaloids are reported as genotoxic class data, with DNA damage in primary human hepatocytes before visible cell death, and as cumulative, silent injury. No energetic classification, training phase or cultivation status is assigned, and internal use is contraindicated in any form.
+
 ### Contraindications
 
 **⚠️ CONTAINS PYRROLIZIDINE ALKALOIDS — CONFIRMED IN THIS SPECIES, INCLUDING AN OPEN-CHAIN DIESTER (HELIOSUPINE). HEPATOTOXIC AND GENOTOXIC CLASS. INTERNAL USE IS UNSAFE.**

@@ -45,6 +45,10 @@ General, well-established facts only. *Cocculus* is a genus of twining shrubs of
 
 **Practitioner's note.** A name on a list, with no use stated. The Samhita text on disk gives no grade, no preparation and no dose, so the entry offers a cultivator nothing to practise.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives no body system, organ or tissue for this plant. Its only source is one joined Appendix 3 line, 'Cocculus Suberosus; Solanum Indicum', which gives no part used and no use. The entry identifies it tentatively as Cocculus hirsutus, a synonymy it says no source confirms, and Solanum indicum is not a separate attestation for this entry. Its general notes, not attributed to Sushruta, are that Cocculus is a genus of twining shrubs of the moonseed family, and that the family is rich in alkaloids, with some poisonous members. The entry therefore treats the plant as unsafe, since no safety data are given. No rasa, virya, vipaka, ojas or cultivation status is stated, and no dose is given. Nothing is said on pregnancy, lactation or children, and the Codex gives no protocol and does not recommend it.
+
 ### Contraindications
 
 - **No safe-use statement exists in the sources retrieved.**

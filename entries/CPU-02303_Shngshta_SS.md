@@ -49,6 +49,10 @@ General, well-established facts only. The identity is open, so no pharmacology c
 
 **Practitioner's note.** A damaged name in a group list, with no identification. Nothing supports cultivation use, and without an identification nothing can be gathered or used. A cultivator reads it as a name in a record.
 
+### Functional–Anatomical Correlate
+
+Little to map: the name is damaged in the text and appears only in the Aragvadhadi group list of chapter 38, so the claims below are the group's and not the drug's. The group is said to calm deranged Kapha and counteract poison, and to help in meha, which the Sushruta text describes as morbid discharges from the urethra, in kushtha, fever, vomiting, and itching of the body, and to act as an aseptic purifier in ulcers. No part used, taste, potency, channel or organ is given for this drug, and no identification is made. The Sushruta terms are not translated here into modern diagnoses. The entry declines to equate the name with the bulb Shringataka, a similar word in the food chapters, and notes that the spelling comes from OCR of a 1907 translation. No preparation or dose is given, and nothing can be attributed to the plant until the list is checked against a Sanskrit edition.
+
 ### Contraindications
 
 - **Identity.** The plant is unidentified; do not substitute any herb for it, and do not assume it is the water-chestnut bulb *Shringataka*.

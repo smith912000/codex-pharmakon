@@ -65,6 +65,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places bael on the bowel and the digestive tract, with the action split by ripeness. The unripe fruit is astringent and bitter-warm: in Ayurveda it is a grahi, bowel-binding, and deepana, digestive-fire-kindling, remedy for chronic diarrhoea, dysentery and loose or irritable bowels, and an intestinal restorative after infection. Its tannins provide the binding action. The ripe fruit is sweet, mucilaginous and cooling, a demulcent that soothes the gut and mildly loosens it for constipation. The Unani tradition, per the entry, follows the same split. Marmelosin, a furanocoumarin, and mucilage and pectin are named as the constituents. The entry records furanocoumarin photosensitivity of the skin as a caution, along with the reversed effect if ripeness is confused. No Tibetan use is recorded, and no rejuvenative or bcud len status is attested.
+
 ### Contraindications
 
 - **Ripeness confusion.** Use the unripe fruit for diarrhoea and the ripe for constipation — the reverse aggravates.

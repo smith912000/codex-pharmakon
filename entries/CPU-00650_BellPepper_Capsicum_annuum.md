@@ -93,6 +93,10 @@ The pungent-cultivar classification — acrid, hot, dispersing, entering Spleen 
 
 **Practitioner's note.** Nothing. Bell pepper is a food in both frames; the cultivation-relevant record belongs to pungent chilli, not this cultivar group.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry makes no therapeutic claim about any organ. It states a nutritive role only: ascorbate and mixed carotenoids support collagen synthesis, non-haem iron absorption when eaten with plant iron sources, and general antioxidant status. Carotenoid absorption is said to rise with dietary fat and cooking, while vitamin C falls with heat and drying. The entry explicitly denies analgesic, rubefacient, circulatory-stimulant and thermogenic action for sweet cultivars, since those are capsaicin effects. The TCM and Badianus tags are recorded as late or unattested for this cultivar group, so no humoral or classical organ assignment is claimed. Its stated tissue cautions are the digestive tract, where peppers are reported triggers for reflux and IBS, and the skin and joints, where nightshade-sensitivity reports are recorded without an established mechanism. Pepper allergy is noted as IgE-mediated and oral.
+
 ### Contraindications
 
 - **Nightshade sensitivity.** A subset of individuals report symptom aggravation (joint pain, GI upset, skin reactivity) with Solanaceae. The mechanism is not established and controlled evidence is thin — the Codex neither endorses the nightshade-elimination doctrine nor dismisses the reports. Where a person consistently reproduces symptoms on exposure, that is their data and should be respected without being generalised.

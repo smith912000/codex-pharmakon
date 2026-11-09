@@ -39,6 +39,10 @@ The irritant character of fresh buttercup-family plants is well established in g
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The useful lesson of the chapter is the attention to wild and cultivated forms. Do not use the fresh plant.
 
+### Functional–Anatomical Correlate
+
+The chapter's actions map to the nose and head, the eyes, the skin and ulcers, the milk supply, and the menstrual tract. Its sharp root juice poured into the nostrils purges the head, and the chewed root draws out mucus. The root boiled in raisin wine and applied cures inflammation of the eyes, mends scars and eye moisture, and cleans the filthiness of ulcers. Leaves and stalks boiled with barley water and eaten draw out milk, which the chapter glosses as breastfeeding. A pessary encourages the menstrual flow. Rubbed on, it takes away leprosy, a skin condition. The only quality term is sharp, given for both wild and cultivated kinds. No warming, cooling, humoral or doshic term is printed. The chapter distinguishes wild from cultivated forms by size, leaf and flower colour, and says one kind with black leaves is sharper. The identity is not fixed by the text, and the entry flags a probable overlap with another chapter.
+
 ### Contraindications
 
 The fresh plant is an irritant that can blister skin and mucous membranes, and the chapter's snuff, pessary and eye uses are hazardous. The translators mark the chapter POISONOUS. Do not use in pregnancy. None of the traditional uses above is advice.

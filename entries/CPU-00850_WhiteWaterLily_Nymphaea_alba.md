@@ -74,6 +74,10 @@ The plant's sedative/anaphrodisiac reputation therefore rests on a long, strikin
 
 **Practitioner's note.** A cultivator uses *N. alba* for restraint and cooling — the deliberate, chosen banking of sexual heat and the quieting of an overheated heart during continence or retreat. That is a behavioural-abstentive practice, legitimate in its own right, not a tonic one. Its only cultivation-adjacent standing is the Unani conservational reading (cool-moist, moisture-preserving), and even that is framed rather than sourced. Three of its tags (EP, SBJ, SS) rest on other species; the honest cultivation record for the European white water lily is thin, and restraint — doing less — is the practice.
 
+### Functional–Anatomical Correlate
+
+The entry maps the white water lily chiefly onto the heart, the nervous system and the reproductive region, read through cooling and sedative terms. In Unani terms (cold and moist, second to third degree) it is a refrigerant and cardiac/nervine sedative that cools hot temperaments, calms palpitation and an overexcited heart, eases hot headache and insomnia, and tempers excessive sexual heat. The TCM allied-aquatic reading (sweet, cool) assigns heart-clearing and spirit-calming action (shen) with a restraining, consolidating quality. Dioscoridean sources describe cooling of the loins, dampening of involuntary emission, and checking of fluxes and dysentery. The modern anatomy terms in the entry are flavonoid and tannin astringency of flower and rhizome, and mucilage soothing mild binding. Nupharine-type alkaloids are named as the reputed sedative principles, but the entry states that clinical pharmacology is essentially absent and grades the evidence low and traditional-only.
+
 ### Contraindications
 
 - **Cold constitutions, low libido, depressive or hypotensive states:** the cooling, sedating, desire-damping action is inappropriate and may aggravate.

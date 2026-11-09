@@ -47,6 +47,10 @@ General, well-established facts only. Nothing can be said of an unidentified mat
 
 **Practitioner's note.** A name in one group list. A cultivator has nothing to use from it until it is identified.
 
+### Functional–Anatomical Correlate
+
+Little to map: the sources state only that Tapasha-Vriksha is one of the drugs in the Arkadi group, whose stated properties are that it destroys Kapha, fat and the effects of poison, acts as a vermifuge, works as an aseptic agent in ulcers, and cures skin disease. These are group properties and are not assigned to this drug singly. The name is printed without a Latin name, description, part used or habitat, and it appears in no other chapter or in the Latin appendix. No organ, tissue or constituent is attributed to it. Because the material is unidentified, nothing can be said of its action beyond the group list. The only regions the text reaches are the fat tissue, the intestinal worms, the skin and the ulcered surface of the body. No preparation or dose is given.
+
 ### Contraindications
 
 - **Identity.** The material is not identified. Nothing may be gathered, bought or used on the strength of this entry. [USER: verify]

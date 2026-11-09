@@ -88,6 +88,10 @@ Codex policy: monoterpene-rich aromatic carminative chemistry is securely stated
 
 **Practitioner's note.** Nothing is attested for this species in the Tibetan texts; it is a culinary spice with no cultivation use in this tradition.
 
+### Functional–Anatomical Correlate
+
+Per the entry, tsao-ko acts on the Spleen and Stomach, the digestive centre. In TCM it is acrid and warm, entering the Spleen and Stomach channels, where it dries dampness and dispels cold in the Middle Burner, warming and unblocking digestion. It is also used in formulae for turbid damp-cold fever-and-chill patterns of malarial disorders. The entry describes the picture as epigastric fullness, nausea, a thick white greasy tongue coat and poor appetite. Its monoterpene-rich essential oil, with 1,8-cineole, is described as carminative, prokinetic and antimicrobial, and its diarylheptanoids as anti-inflammatory. Ayurveda is given as a parallel to deepana-pachana digestive spices against mandagni and ama. Tibetan sources do not name this species. The entry frames it as a short-course corrective rather than a tonic, contraindicated in yin deficiency and damp-heat.
+
 ### Contraindications
 
 - **Yin deficiency / heat patterns:** tsao-ko's warm, drying, aromatic nature is contraindicated where there is dryness, thirst, red tongue without coat, night sweats or interior heat — it will aggravate Yin depletion.

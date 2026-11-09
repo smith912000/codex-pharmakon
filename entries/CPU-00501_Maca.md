@@ -74,6 +74,10 @@ Maca operates as a food-grade Jing tonic — its safety profile allows doses tha
 
 **Practitioner's note.** Nothing cultivation-specific can be taken from the sources read: maca is treated here as a highland food crop, and its use as a daily food is not a practice with an attested regimen.
 
+### Functional–Anatomical Correlate
+
+Maca is mapped chiefly onto the endocrine and reproductive systems, with bone and energy metabolism as secondary targets. In the entry's classification it is a food-grade Jing tonic, the earth Jing, and a secondary Qi endocrine activator, aligned with the Kidney and Spleen channels and the Lower Dantian as a slow base reservoir. The entry says it acts on both oestrogen and testosterone systems, that glucosinolates show aromatase-inhibiting activity, and that it does not directly raise testosterone in men with normal levels but improves fertility markers. Libido and sexual function are the best-documented effects. Bone mineral density is linked to glucosinolates in postmenopausal women. For the nervous system, macamides are proposed to inhibit FAAH, raising endocannabinoid tone, and trained cyclists showed reduced fatigue. Altitude is addressed through improved oxygen utilisation. Thyroid tissue is at risk from goitrogenic glucosinolates at high doses, and oestrogen-sensitive tissue calls for caution.
+
 ### Contraindications
 
 - **Thyroid disorders** — glucosinolates are goitrogenic at very high doses; limit to moderate amounts with hypothyroidism

@@ -71,6 +71,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+This entry maps artichoke leaf onto the liver, gallbladder and upper digestive tract. Its bitter sesquiterpene lactones, such as cynaropicrin, provoke reflex gastric and biliary secretion, and cynarin is associated with choleretic and hepatoprotective action, so the target is bile flow and fat digestion. The entry describes easing upper-abdominal heaviness, bloating and nausea of functional dyspepsia. Galenic and Avicennan writing calls it warm and dry in the first degree, a deobstruent that opens obstructions of the liver and spleen. TCM describes it as bitter and cooling to damp-heat of the Liver and Gallbladder, draining stagnant bile; Ayurveda (Sushrutan lineage) treats it as tikta, reducing kapha congestion in the liver and kindling agni. The lipid links are luteolin and cynarin, which the entry reports inhibit cholesterol biosynthesis in cell models; trial results are mixed, with one combination product lowering LDL and visceral fat and another finding no LDL benefit. Bile-duct obstruction and gallstones are listed as risks.
+
 ### Contraindications
 
 - **Bile-duct obstruction and gallstones:** Contraindicated in known biliary obstruction. As a choleretic, artichoke stimulates bile flow, which may precipitate biliary colic in patients with obstructing gallstones or a blocked common bile duct. Use in cholelithiasis only under medical supervision.

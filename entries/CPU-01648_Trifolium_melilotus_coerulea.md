@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is the smell check at two stages of growth and the habit of marking which statements the author makes himself and which he reports from others. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+On the entry's own claims, Trifolium melilotus-coerulea reaches several systems. Seeds and leaves taken in water are said to help pleurisy, a disorder of the lung lining, frequent painful urination, epilepsy, and 'those beginning to have dropsy', meaning fluid build-up. Womb congestion and the menstrual flow place it in the uterus. Venomous bites are treated with a leaf decoction with vinegar and honey, and some say the whole shrub applied as hot cloths soothes snakebite pains. Recurrent fevers are given three leaves in a drink, and the root is 'mixed with antidotes', with no organ named. The chapter keeps its own statements apart from those attributed to 'Some say' and 'Some give', and the mapping follows that split. It names no humour or qi channel and gives no quality beyond smells.
+
 ### Contraindications
 
 Chapter 3-123 prints no warning, though it records a dose and says the plant "expels the menstrual flow", so pregnancy is an obvious question that the text does not answer. The identification is only the translators' suggestion, and the SUGGESTED line prints several plants, so no plant should be gathered or used on the strength of this entry. The uses for epilepsy, pleurisy, dropsy, venomous bites and fevers are not treatments the Codex endorses, and none of them should wait for a herb. The text gives no safety information for children or for any medicine taken at the same time. [USER: verify]

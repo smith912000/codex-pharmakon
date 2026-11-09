@@ -65,6 +65,10 @@ The safety-relevant interaction is also documented in the clinical literature. C
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, goji is a neutral-to-slightly-warm, sweet, moistening tonic that TCM directs to the Liver, Kidney and Lung channels. Its stated actions are to nourish Liver and Kidney yin, benefit essence (jing) and blood, brighten the eyes and moisten the Lung. Tibetan medicine frames it as blood-building and sight-supporting. The entry's clearest modern correlate is ocular: dietary zeaxanthin raised macular pigment optical density in the retina's macula in a small RCT of 54 high-myopia patients at the high dose. Lycium barbarum polysaccharides are credited with antioxidant, immunomodulatory and neuroprotective activity, graded preclinical. Systemic tonic claims beyond the eye are graded as traditional only. The interaction data concern anticoagulation: a raised INR and bleeding in warfarin patients, noted at doses above roughly 6 to 12 g and with goji wine or tea, with a possible CYP-mediated mechanism.
+
 ### Contraindications
 
 - **⚠️ Warfarin / anticoagulant interaction.** Multiple case reports link goji (especially at doses >6–12 g, and notably as goji wine or strong tea) to a **raised INR and bleeding** in patients on warfarin. A plausible mechanism is inhibition of warfarin metabolism (CYP-mediated). Patients on warfarin or other anticoagulants should avoid medicinal quantities of goji, or use only under close INR monitoring, and should be asked about herbal intake when anticoagulation destabilises.

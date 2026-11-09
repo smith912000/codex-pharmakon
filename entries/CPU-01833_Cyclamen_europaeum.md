@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The useful lesson is Dioscorides' method of fixing a plant by leaf, stalk, flower, root and place, and of stating a measure with the instructions for the patient who takes it (lie warm, covered, until the sweat comes). The abstentive answer is the honest one: the text describes a root that drives fluids downward and produces abortions.
 
+### Functional–Anatomical Correlate
+
+The root, as Dioscorides records it, acts on phlegm and water, the bowels, the uterus, the spleen, the nasal passages and head, the skin, the eyes and the joints. Taken in honey water it drives phlegm and water downward. Taken in a drink or placed below, it brings on the menses and produces abortion, and the text reports that a pregnant woman who walks over it miscarries. In wine it is given against poisons, and applied against snakebite. For yellow jaundice the patient is made to lie warm and covered to sweat, the sweat being bile-coloured. Juice in the nostrils with honey purges the head; juice on wool placed in the perineum brings down the bowel's contents; juice rubbed on the navel and lower bowels softens them. With vinegar the root cleans the skin, stops pustules, heals wounds, softens the spleen and eases dislocation, gout and chilblains. The chapter prints no rasa, virya or vipaka; its sharp-quality grouping comes from the translators' heading.
+
 ### Contraindications
 
 The chapter itself records that the root induces menstruation and abortion, that mixed with wine it causes drunkenness, and that jaundice treatment requires the patient to sweat under covers. Cyclamen tubers are toxic if eaten (a general fact), and the sources read say nothing of its conservation. The identification here is a translators' suggestion, so no plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. No safety information for pregnancy beyond the text's own abortion reports was read. [USER: verify]

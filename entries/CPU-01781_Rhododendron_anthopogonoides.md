@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** The lines read give a cultivator no practice with this plant: no preparation of an essence-extraction compound, no dose and no instruction. The one note is that a later commentary lists da.li as a recommended ingredient of such compounds, and a compound of that kind is a matter for a trained physician of the tradition and not for a reader of this entry. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Clark's root-text line says the flower "cures phlegm disorders, hot and cold reactive conditions". The bracketed commentary adds that it helps "lung diseases, first stage oedema and hoarseness caused by any of the three humors". The Men-Tsee-Khang text says Bhalu "eases the confrontation of hot and cold baekan disorders". On the entry's claims, the drug acts on phlegm, on the lungs, on the larynx and voice through hoarseness, on oedema in its first stage, and on hot and cold reactions. The three humours are the tradition's own, and the entry names no organ for them. Clark's Root Tantra also lists the white flower as a calcinated powder for phlegm disorders. The commentary alone calls it an ingredient of essence-extraction compounds, and the entry names no body system such a compound acts on. The glossary gives only the genus Rhododendron, so the species is open.
+
 ### Contraindications
 
 The sources read print no warning for this drug. It is a general fact that *Rhododendron* leaves and flowers of several species are poisonous and that honey from their nectar has caused poisoning; this is not shown for this species in the lines read. The identity is open, the calcination method is not given, and no plant should be gathered or used on the strength of this entry. Lung disease, hoarseness and oedema need medical care. No safety information for pregnancy was read. [USER: verify]

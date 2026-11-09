@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing here for a cultivator. The tradition is represented by one list row with an uncertain identification, and no source read says what was done with the plant or why. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the plant is attested in the Badianus manuscript of 1552 under the name cocoxihuitl, glossed as plume poppy, with the species Bocconia arborea flagged as uncertain. It names no organ, tissue or body system, no tradition term for its action, no preparation, dose, use or complaint. The Badianus material on disk is project-prepared and was not used, and the Mexican hot and cold categories are left unresolved, with no tonalli, teyolia or ihiyotl model applied. No constituents were read. The entry's general caution, marked as not found in the row, says an unverified plant preparation should not be taken in pregnancy, while breastfeeding, by children or with prescription medicines, and that poppy-family plants can contain active alkaloids, though this species' content was not read.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, an unverified plant preparation should not be taken in pregnancy, while breastfeeding, by children, or alongside prescription medicines without medical advice. Plants of the poppy family can contain active alkaloids, but the content of this species was not read. This is general caution and is not found in the row. [USER: verify]

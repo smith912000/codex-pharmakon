@@ -45,6 +45,10 @@ Slug-moth caterpillars (Limacodidae) sting through their spines, and the stings 
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The entry is a record of a lower-grade insect drug for a child's complaints, and the Codex gives it for information only. The one durable point in the text is Sun's: the name is a likeness (a sparrow's egg, a pupa), which is the only reason any reader can tell what the drug is. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The entry maps to the child's nervous system and to the body's heat and qi. It names fright epilepsy of small children (xiao er jing xian), which maps to seizures, and cold and heat with bound qi (han re jie qi). It names gu poison and ghost zhu, two classical affliction names with no organ given. The energetic frame is sweet and balanced (wei gan, ping), and the entry sits in the lower class, whose preface calls such drugs mostly toxic and not for long use. The Mingyi layer adds only that the cocoon is found on tree branches and is steamed. The cocoon is a silk case, and the text names no organ or tissue in it. The Codex maps the seizures to the nervous system and claims no effect on it. A child's seizure is an emergency, and the entry gives no dose.
+
 ### Contraindications
 
 - **Children.** The classic's chief use is for small children's seizures; do not give insect material to children. A child's seizure needs urgent medical care.

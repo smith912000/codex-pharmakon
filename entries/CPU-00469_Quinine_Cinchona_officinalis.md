@@ -96,6 +96,10 @@ Lindegardh N, Annerberg A, White NJ, Day NP (2007) "Development and validation o
 
 **Practitioner's note.** Nothing cultivation-specific. Cinchona is a specialist-only antimalarial drug in this entry and carries no attested regimen role in an Indigenous tradition.
 
+### Functional–Anatomical Correlate
+
+Cinchona's entry maps onto the blood and the malaria-infected red cell, skeletal muscle, the heart, the digestive tract and the central nervous system. Quinine accumulates in parasitized erythrocytes and blocks heme polymerization in the Plasmodium food vacuole, which the entry treats as a root-cause action on the fever-chill cycle. The Andean Quechua use was for fever, cold shivers and cramps, and the Kenetica frame places the heat-and-rigor alternation in Shao Yang, the hinge between exterior and interior. For muscle, quinine inhibits Na+/K+-ATPase in skeletal muscle, reducing spontaneous motor nerve discharge and easing nocturnal leg cramps. Quinidine, from the same bark, is described as a class IA antiarrhythmic acting on sodium and potassium channels to affect conduction, refractory period and the QT interval. In the gut, low bitter doses act on bitter receptors to stimulate gastric acid, digestive enzyme secretion and bile flow. At toxic levels the entry places tinnitus, visual disturbance and delirium, the cinchonism syndrome, at the Shen boundary, and lists blackwater hemolysis with kidney injury as a harm.
+
 ### Contraindications
 
 - **Cardiac arrhythmia and QT prolongation (major — potentially fatal):** Quinine and especially quinidine prolong the QT interval on ECG; at toxic plasma concentrations this produces torsades de pointes (polymorphic ventricular tachycardia) which can degenerate to ventricular fibrillation and sudden death; contraindicated in patients with long QT syndrome, hypokalemia (which exacerbates QT prolongation), or concurrent use of other QT-prolonging drugs (macrolide antibiotics, fluoroquinolones, antipsychotics, methadone); baseline and monitoring ECG is mandatory for any therapeutic quinine course

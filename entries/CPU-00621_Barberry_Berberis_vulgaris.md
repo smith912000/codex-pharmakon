@@ -83,6 +83,10 @@ According to PubMed, Imenshahidi & Hosseinzadeh (2019), *Phytotherapy Research*,
 
 **Practitioner's note.** Barberry is a clearer, not a cultivator's tonic. Everywhere it is named it drains and cools — bile, damp-heat, hot flux — and the sour fruit consolidates afterward. A cultivator reaches for it to remove an excess, on a defined course, then stops; berberine's pregnancy, neonatal and drug-interaction cautions reinforce that this is targeted therapeutics, not something taken long-term to nourish life.
 
+### Functional–Anatomical Correlate
+
+Barberry's entry maps its action onto the liver-gut axis and the bile. In Unani and Persian practice (zereshk, ziryar) it is a cold-dry hepatic and cardiac drug, a musaffi blood-purifier and bile corrective, and an astringent for hot fluxes. Ayurveda (the daruharidra complex, tikta and kashaya, ushna) places it as a pittahara and kaphahara acting on the eyes (lids and conjunctiva, as wash and collyrium), the skin, wounds, and hepatic and menstrual complaints. TCM frames it as bitter-cold, draining damp-heat and fire through the liver, gallbladder, stomach and large-intestine channels, indicated for damp-heat diarrhoea and dysentery, hot eyes and toxic sores. The entry's phase language is clearing damp-heat, bile and liver regulation as a cholagogue, and astringent consolidation through the sour, tannin-rich fruit. The modern correlates it names are berberine's lipid-lowering and insulin-sensitising effects, and it notes that most trials use isolated berberine rather than whole barberry.
+
 ### Contraindications
 
 - **Pregnancy & lactation:** berberine is a uterine stimulant and crosses to the neonate — **contraindicated in pregnancy and breastfeeding** (risk of kernicterus/displacing bilirubin in neonates). This is a firm caution.

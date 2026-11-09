@@ -51,6 +51,10 @@ General, well-established facts only. Mint-like plants are common aromatic herbs
 
 **Practitioner's note.** A plant whose English name survives and whose identity does not, named in a protective four-day mixture and a headache poultice. Nothing in the record supports any cultivation use, and the mixtures contain poisonous minerals. A cultivator should leave it as a historical curiosity.
 
+### Functional–Anatomical Correlate
+
+Little to map: Bryan's paraphrase gives this plant two uses, both inside mixtures. In a four-day protective mixture, cooked in oil and wax, strained and swallowed, it is one component, meant to protect the limbs against everything. In a headache poultice it is dissolved in hippopotamus oil with copper and lead-vitriol and rubbed on, not taken internally. The text therefore names the head, through headache, and the limbs, through protection, but gives no organ for the plant itself. It gives no part of the plant, no preparation of it alone, and no quality. Its companions include mineral scrapings, copper and lead-vitriol, which are poisonous and should not be swallowed or applied.
+
 ### Contraindications
 
 - **TOXIC COMPANIONS.** The recorded mixtures include copper and lead-vitriol (poultice) and mineral scrapings; do not swallow or apply them.

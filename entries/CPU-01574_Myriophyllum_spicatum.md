@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Greek name
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a marsh herb applied with vinegar and drunk with salt water, with no stated quantity. The useful lesson is Dioscorides' habit of describing a plant by a leaf-likeness and a habitat, and the abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: The chapter names two sites and nothing more. Smeared on, green or dry with vinegar, the plant keeps the later sores of ulcers from becoming inflamed, which places its action on the skin and on ulcerated surface tissue. Given to drink with water and salt, it is said to be for falls, which points to an injury from a fall but names no organ. The entry prints no temperament, taste or energetic quality for 4-115, and no doshic, qi or humoral term. The description is of a single tender, somewhat hollow stalk from one root, many smooth leaves compared with marathrum, and a marsh habitat. The Greek name is shared with other chapters, notably 4-103 (yarrow), which the entry says is a separate plant and is not to be merged. The identification as Myriophyllum spicatum is the translators' single suggestion, so the body action is not tied to a verified species.
+
 ### Contraindications
 
 The chapter prints no warning. Ulcers and falls need medical assessment, and a home remedy must not replace it. Drinking salt water is not harmless, and the chapter gives no amount. The identification rests on a translators' suggestion, and the Greek name shares names with another plant (4-103), so no wild plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

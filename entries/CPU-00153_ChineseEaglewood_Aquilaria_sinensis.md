@@ -79,6 +79,10 @@ A review of agarwood's signature **2-(2-phenylethyl)chromones** (Yu et al., 2022
 
 **Practitioner's note.** Nothing to cultivate in the Tibetan source read; the incense and grounding claims in this entry are not drawn from it.
 
+### Functional–Anatomical Correlate
+
+Chen Xiang, by the entry's account, acts on the Kidney, which it helps to grasp the Qi and anchor the breath, on the Spleen and Stomach, where it directs rebellious Qi downward against vomiting, hiccup and belching, and on the Lung, whose Qi it descends to calm wheezing. Its TCM actions are to move Qi and relieve pain, warm the centre and stop vomiting, and grasp Qi to calm wheezing. In the rGyud-bzhi frame the entry describes settling rlung (wind), which it equates with Ayurvedic vata, for anxious, palpitating, sleepless and over-activated states; the entry notes that the Tibetan text it cites for the congener Aquilaria agallocha records therapeutic, not rejuvenative, uses. The Dantian affiliation is the descent from Upper to Lower Dantian, drawing floating Qi and spirit down to the root. The sesquiterpene agarofuran fraction is linked to calming, spasmolytic and Qi-moving activity, a preclinical finding. Cautions cover Yin deficiency with heat, Qi deficiency without stagnation, and pregnancy.
+
 ### Contraindications
 
 - **Yin-deficiency with heat / empty-fire:** the warm, dry, descending aromatic is contraindicated where there is heat or yin deficiency.

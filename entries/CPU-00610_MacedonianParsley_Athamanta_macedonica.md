@@ -64,6 +64,10 @@ Direct clinical evidence for *Athamanta macedonica* is essentially absent, and t
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, Athamanta macedonica is a warm, dry, carminative seed-drug in the Galenic and Unani frame (mudirr, diuretic and emmenagogue; muhallil, resolvent), aimed at the digestive tract and the urinary tract. Its named target is the gut: trapped wind, colic and sluggish digestion in a cold, damp, distended belly, where the seed is said to relax smooth muscle and disperse gas. Dioscorides records the seeds as provoking urine and the menses, which places the action on the bladder and the uterus. The Unani account adds the liver and spleen, held to be obstructed by thick humours that the seed thins and opens. The Ayurvedic-by-analogy reading is katu and ushna, reducing Kapha and Vata-stagnation and possibly aggravating Pitta in excess. The entry grades all of this as traditional. Its modern correlate is genus-level only: a myristicin-rich essential oil from a different Athamanta species, studied in vitro, with no human data for this species. The organ mapping therefore rests on classical text, not on demonstrated effect in people.
+
 ### Contraindications
 
 - **Myristicin content:** the active oil is myristicin-rich; concentrated seed extracts or the essential oil carry a narrow safety margin and are not for internal use. Culinary-scale seed use only.

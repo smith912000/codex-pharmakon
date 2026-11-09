@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Shennong t
 
 **Practitioner's note.** In the Chinese scheme this is a lower-grade drug: taken for a defined course against a defined complaint and then stopped, if taken at all. The class's own warning ("usually toxic ... cannot be taken for a long time") is the operative one, the entry gives no dose and no statement of its own toxicity, and the identity rests on a name matched by stem. Nothing here supports long-term use.
 
+### Functional–Anatomical Correlate
+
+The entry names three sites in the classic's own terms. Heart pain points to the heart, and blood impediment points to the blood and its passage, which the entry does not describe further. Hundreds of diseases in the face place a group of complaints on the face, and the entry does not say which tissues they involve. Its one printed property is that the rhizome is able to carry the strength of other medicinals; the translator's note 236 reads this as leading other medicinals upward, and that gloss is his, not the classic's. Note 235, Yang's modern commentary, reports use on the face as a cream for patches, blemishes and papules, and for genital itching; those uses are not part of the classic's account. The entry prints no taste, nature or toxicity and names no channel or organ system of later Chinese medicine.
+
 ### Contraindications
 
 The Shennong entry prints no warning and no statement of toxicity. The inferior class is described in the preface as "usually toxic" and unfit for long use, and this is a general statement about the class and not about this plant. Heart pain, and any disease of the face that is a sore or an eruption, need medical care. Raw aroid tubers are irritant, and the arum family includes plants that are poisonous; this entry's identity is a name matched by stem, so no rhizome should be gathered, applied to the skin or taken by mouth on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

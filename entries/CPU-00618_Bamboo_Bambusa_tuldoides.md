@@ -131,6 +131,10 @@ Graded honestly. **This is a data-sparse entry, and the sparsity is concentrated
 
 **Practitioner's note.** Nothing cultivational. Zhu Ru is a short-course drug for a defined heat-and-phlegm complaint, used within a formula and then stopped; Zhu Li is an acute-crisis drug that this book does not recommend.
 
+### Functional–Anatomical Correlate
+
+Per the entry, the two bamboo drugs act on the heart's orifices, the stomach, the gallbladder and the lung, within the TCM frame of heat and phlegm. Zhu Li, the fire-extracted sap, is said to reach the channels and orifices of the heart and lung and to settle convulsion in acute wind-stroke with phlegm; the entry rejects any reading of that as a home remedy for stroke. Zhu Ru, the shaved middle culm wall, is classed with the Lung, Stomach and Gallbladder channels. It treats rebellious stomach qi, nausea, vomiting and hiccup, and gallbladder heat harassing the heart, which produces restless sleep and disturbing dreams. It also appears in pregnancy for morning sickness and calming the fetus, a use the entry flags as having no modern safety data. The modern correlates are preclinical and do not map cleanly: bamboo-shaving hemicelluloses enhanced macrophage phagocytosis in vitro, and BSH-1 increased gut transit in loperamide-treated mice, a prokinetic effect the entry says is not what Zhu Ru is classically for. Cold weakness of the stomach is the named contraindication.
+
 ### Contraindications
 
 - **Cold-deficiency patterns.** Both drugs are cold. In a person with a cold, weak stomach — loose stools, aversion to cold, poor appetite, pale tongue — Zhu Ru will worsen the picture and Zhu Li markedly so. This is the tradition's own stated caution and it is the reason ginger-processed Zhu Ru exists.

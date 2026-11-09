@@ -40,6 +40,10 @@ General facts only. Wild game must be cooked through and handled hygienically. N
 
 **Practitioner's note.** Nothing here is a practice. In Sushruta this is one of the hole-dwelling animals, with a few stated properties and a place in a soup for hiccup. A person who does not eat porcupine has nothing to adopt.
 
+### Functional–Anatomical Correlate
+
+The Shalyaka is named in the hole-dwelling (Vileshaya) group, which the text says increases the consistency of stool and urine, subdues Vayu, generates Pittam and Kapham, and is demulcent and beneficial in cough, dyspnoea and cachexia. Taken singly, its flesh is tasteful, light of digestion, cooling in potency, anti-toxic, and subdues deranged Pittam. That maps onto the digestive tract (digestion and stool), the kidneys and bladder (urine), the lungs and airways (cough, dyspnoea), the nutritional state (cachexia), and the bile and heat-regulating function the text assigns to Pittam, with Vayu and Kapham as the other humours. The Uttara hiccup soup points to the diaphragm and upper digestive tract. The group's heat-making description conflicts with the single cooling statement, and the text does not reconcile them.
+
 ### Contraindications
 
 - **Identity:** the animal is unglossed in ch.46 and rests on a near spelling in ch.50 and a glossary; do not substitute a species on this basis. [USER: verify]

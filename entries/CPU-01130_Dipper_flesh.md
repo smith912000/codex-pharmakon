@@ -44,6 +44,10 @@ General, well-established facts only. Eating more meat does not treat food poiso
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The dipper's flesh is one clause among small animals at the end of an animal list, and its tradition describes animal products as largely replaced. The honest use of the entry is as a record. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: according to Clark's line, the flesh of the white-throated dipper, with that of the water rat, cures meat poisoning. Men-Tsee-Khang pairs the dipper with water birds in general. No organ, tissue or body system is named; meat poisoning is the only complaint, and it is a condition of the food rather than of a body part. The line prints no taste, power or post-digestive taste, and the chapter on diet gives class powers for aquatic animals that the text does not apply to the dipper. It does not say whether the flesh is eaten fresh, dried or burnt. Its Tibetan name is rba.byi, and the scientific name Cinclus cinclus is given in both translations. No quality, humour or dose is stated.
+
 ### Contraindications
 
 - **Meat poisoning:** food poisoning with severe vomiting, blood in the stool, fever or dehydration needs medical care; do not treat it with wild-bird flesh.

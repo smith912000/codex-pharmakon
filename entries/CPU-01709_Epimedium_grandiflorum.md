@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. In the Tibetan texts it is a drug that constricts or seals the openings of the channels, with no preparation and no dose, and its Latin name is one of four that Clark offers. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts record that this drug constricts the openings of the channels, and the Men-Tsee-Khang text says it seals the aperture of channels. The only body-level term is channels, the Tibetan rtsa system, which the entry leaves undefined, so no organ, vessel or tissue can be named from it. The Clark commentary describes a lobed leaf and a yellow flower shaped like a horse's hoof, a habitat at the base of rocks, and sessile growth, which are description and not action. The entry prints no taste, power, part used or preparation for the drug. The Men-Tsee-Khang sentence that names Tamik sits beside Drak cham, which it says closes wounds, a different drug. Clark's list of four names includes Aristolochia, whose genus the entry says is generally known to be nephrotoxic, so the uncertain identity is itself a hazard the entry does not resolve.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Clark's list includes an *Aristolochia*, and aristolochic acids are generally known to injure the kidney, so the open identity is itself a hazard. No plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

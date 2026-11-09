@@ -42,6 +42,10 @@ General, well-established facts only. Heat applied to the body makes a person sw
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The entry records a Greek external treatment for swelling of the body, a covering of sun-warmed shore sand, and a use of roasted sand in place of millet or salt for dry warm packs. It is a plain warming measure, not a regimen, and the Codex does not recommend burying the body in hot sand. The one practical lesson is the limit of the record: the chapter is short and gives no quantities. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides says sun-heated shore sand dries up the moisture of dropsy in bodies covered all over with it, except the head, so the claimed site is the whole body surface and the fluid held in the body, with the head excluded. The sand is roasted for dry warm packs in place of millet or salt, which places the action on the skin and the warmed outer layers. The chapter gives one quality, drying of moisture, and prints no taste, no heat or cold rating and no organ. No internal use is recorded. The Ebers mentions of sand are not part of this entry's claims. The mapped body is the skin and whole surface, the fluid of the dropsical body (oedema), and the head, which is the one part left uncovered. The entry names no organ beyond these.
+
 ### Contraindications
 
 - **Burns and heat illness:** sun-heated or roasted sand can burn skin and cause heat stroke; covering the body is unsafe for the very young, the old, those with diabetes or poor sensation, and anyone with a heart or circulatory condition.

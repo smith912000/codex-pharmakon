@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** In the Sushruta scheme the drug named Naga-vala is a rasayana taken under a physician, after cleansing, as a powder in honey and with the regimen of the Vala-Kalpa, which the text spells out only under Vala. The Latin identification is a translator's appendix pairing and the chapters do not confirm it; nothing here supports gathering or taking a plant on the strength of the Latin name.
 
+### Functional–Anatomical Correlate
+
+In the Sushruta rasayana chapter (Chikitsa 27) Naga-vala is named beside Vala as a powder taken with honey, under the Vala-Kalpa regimen and after prior cleansing, for persons seeking strength or suffering haematemesis or haematochezia, which maps to the blood and the bleeding passages. Elsewhere the text names it in contexts that touch the lungs and the lower limbs. Taken with milk, it is given for phthisis (consumption, Uttara 41), and cooked in ghrita with Satavari and Vala for cough (Uttara 52), which maps to the lungs. In an oil used as a Vasti (enema) it is recommended for deranged Vayu localised in the thighs and legs (Chikitsa 37). A draught with Karpasa roots and Suvarchala is given for alcohol-related disorders (Uttara 47), which the text does not locate in an organ. The text gives only the group's sweet taste (Sutra 15) and no virya or vipaka. The Latin is OCR-garbled and positional, so the identity is open.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for Naga-vala. The text itself makes the rasayana course conditional on cleansing by emetics and purgatives, and speaks of seclusion in a room for the Vala-Kalpa; these are not minor steps and should not be skipped on the strength of this entry. The identity is open, and some species of the genus *Sida* are reported to contain stimulant alkaloids, so no plant should be gathered or used on the strength of this entry. Phthisis, cough and the disorders of alcohol need medical care. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

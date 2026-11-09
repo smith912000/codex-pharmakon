@@ -51,6 +51,10 @@ General, well-established facts only. Millets are cereal grains eaten as food in
 
 **Practitioner's note.** Nothing here gives a cultivator a practice with this grain. In the Sushruta scheme it is an inferior grain whose class is heating, parching and Vayu-aggravating, and it is named in a list of anti-fat agents. Nothing should be gathered or eaten in order to follow this entry.
 
+### Functional–Anatomical Correlate
+
+Shyamaka is a minor grain of the Kudhanya class, and the text places it by the Sushruta humoral terms. The Kudhanyas generate heat, have a sweet and astringent taste, and are parchifying and pungent of digestion; they subdue Kapham, tend to retain urine, and enrage Vayu and Pittam. Shyamaka, with Kodrava, Nivara and Shantanu, is said to be sweet and astringent and to prove curative in Sheeta pitta, which the translator glosses as urticaria, a skin condition. Shyamaka is also named in an anti-fat list (Sutra 15), where the medicated compositions are said to cleanse the internal channels, and in a diet (Sutra 21) said to aggravate Vayu. In modern anatomy the entry's claims touch the urinary tract (urine retention), the skin (urticaria) and fat tissue (the anti-fat list), with Vayu and Pittam as the Sushruta categories. The chapters give no organ for the grain itself, no rasayana status, no ojas, tejas or prana, and no preparation. The identity rests on a positional pairing with the little millet or a related millet.
+
 ### Contraindications
 
 The Sushruta passages read warn that the Kudhanya class retains urine and aggravates Vayu and Pittam, and that Shyamaka is in a diet that aggravates Vayu. The identity rests on a translator's appendix and a positional pairing; millet is a food, and no medicinal use should be taken from this entry. Millets can carry mould toxins if stored damp. No pregnancy information was read. [USER: verify]

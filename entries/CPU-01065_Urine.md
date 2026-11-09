@@ -74,6 +74,10 @@ General facts only. Urea is a well-established, mild topical keratolytic and moi
 
 **Practitioner's note.** Nothing here supports drinking or applying urine for cultivation. The sources use cow urine as a purgative and cleansing agent, and the strongest sentence about it, Sushruta's "to the exclusion of that of any other animal", is a ranking among urines, not a claim about vitality. The Tibetan text puts cleansing before rejuvenation, and Dioscorides's own heading says "CAUTION". For a cultivator the useful lesson is the order of work in the Tibetan chapter: clear first, then build.
 
+### Functional–Anatomical Correlate
+
+Urine spans many sites. Sushruta's Urine Group is said to be light, purifying and cardiac-stimulating (Hridyam), subduing deranged Vayu and Kapham, and useful for worms, obesity, poisoning, abdominal glands, piles, ascites, skin affections, oedema, jaundice and poor appetite. Cow's urine serves colic, ascites, purging and enemas; goat's, cough, dyspnoea, consumption and jaundice; ewe's, enlarged spleen and dropsy; horse's, ringworm and intestinal worms; elephant's, leucoderma; camel's, oedema, leprosy and piles; human urine is strong anti-toxic. The Tibetan texts name human urine for septic and ein disorders, and cow urine for lymph and chhuser disorders and chronic fevers. Dioscorides (2-99) uses urine on the scalp, the ears, the eyes (corneal ulcers, dim vision), the bladder (stones), the kidneys (inflamed kidneys, from ass's urine), the chest (asthma, from a boy's urine) and the womb.
+
 ### Contraindications
 
 - **Infection.** Animal and human urine can carry bacteria, parasites and viruses, including the agent of leptospirosis. Never put it on wounds or in the eyes or ears. [USER: verify specifics]

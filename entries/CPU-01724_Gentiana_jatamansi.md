@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] A plant that t
 
 **Practitioner's note.** There is nothing here for a cultivator to do. The entry exists because the spine row exists; the sources read do not describe a plant by this name, and the honest answer is that there is no practice, no action and no dose. The row itself should be reviewed by the owner (see the report).
 
+### Functional–Anatomical Correlate
+
+Little to map: the Men-Tsee-Khang 2011 glossary line 5657 reads 'Gentiana Jatamansi Meadow grass'. The entry reads these words as English-column cells that belong to other drugs rather than as a binomial, so no Latin name is printed for this Tibetan drug. No text read names a drug called Gentiana jatamansi, and no organ, body system, tissue, taste, power, post-digestive taste or action is printed for it. The actions in the neighbouring material belong to the entries on Nardostachys jatamansi (CPU-00001) and Gentiana algida (CPU-01722), not to this name. The sources give no part used, no preparation and no dose. The entry therefore maps no body system, organ or tissue, and it offers nothing modern to set beside a plant the sources do not describe.
+
 ### Contraindications
 
 The sources read print no warning because they describe no drug under this name. Nothing should be gathered or used on the strength of this entry. [USER: verify]

@@ -40,6 +40,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The general fa
 
 **Practitioner's note.** Nothing in the source is for a cultivator. The remedy is an emergency measure for a bite, and its method (wine, then forced vomiting) is not something to repeat. The one practical lesson of the neighbouring chapters is that Dioscorides treats salted flesh as a distinct material from fresh, which is a small point of attention and not a practice.
 
+### Functional–Anatomical Correlate
+
+The entry maps to two sites and one systemic claim. For the bite of the prester viper, the chapter has the patient eat the salted flesh, drink a great amount of wine and then vomit, so the stomach is the organ the remedy works through, and the bitten body is to be emptied by vomiting. For dog bites the flesh is applied, so the skin and the tissue at the wound are the local site. The phrase 'the same purposes as eating sharp meats' compares the fish to a remedy set the chapter does not list, and gives no organ of its own. The chapter prints no humour, taste, temperature or potency for the salted tunny. No quantity of fish or wine is given, and the viper bite is the only systemic claim.
+
 ### Contraindications
 
 Salted tunny is a preserved food, and a heavy sodium load is unsuitable for anyone told to restrict salt. Forced vomiting after a large drink of wine, as the text prescribes, risks aspiration and alcohol toxicity and must not be copied. A venomous or infected bite needs medical care, not this. Tunny stocks are under pressure in some fisheries and mercury accumulates in large predatory fish; these are general cautions and not claims from the text.

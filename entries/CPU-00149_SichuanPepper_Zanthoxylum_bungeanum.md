@@ -84,6 +84,10 @@ The distinctive *má* numbing is not folklore but a defined neuropharmacological
 
 **Practitioner's note.** Nothing to cultivate: a culinary and anthelmintic spice, with no practice role in the Tibetan source read.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Sichuan pepper acts on the digestive tract, on the sensory nerves of the mouth and skin, and on the teeth. In TCM, a warm Yang pepper, it warms the Middle Burner, disperses cold and stops pain, through the Spleen and Stomach channels, with the Kidney and Large Intestine as further channels. Its sanshool alkylamides are described as acting on sensory neurons by inhibiting KCNK-family leak potassium channels with TRP-channel involvement, producing the má tingling numbness and local anaesthesia that the entry links to toothache use. In preclinical work they potentiated nerve-growth-factor-mediated neurite outgrowth. Its essential oil monoterpenes are described as carminative, antimicrobial and warming. Traditional roundworm action is noted and superseded. Tibetan medicine uses the genus as a warming carminative for cold digestive disorders and as a toothache and gum remedy. Yin deficiency, heat patterns and pregnancy are contraindications.
+
 ### Contraindications
 
 - **Yin-deficiency / Heat patterns:** contraindicated — the warming, drying, pungent action aggravates heat and dryness.

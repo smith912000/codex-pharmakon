@@ -65,6 +65,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Sushruta t
 
 **Practitioner's note.** Nothing here gives a cultivator a practice with this plant. In the Sushruta scheme it is a group member and an ingredient in a physician's emetics, applications and antivenoms. The pot-herb diet in haemorrhage is the only place it is eaten, and it is a diet for a stated disease, not a regimen. Nothing should be gathered or taken on the strength of a Latin name that the chapters do not give.
 
+### Functional–Anatomical Correlate
+
+The Sushruta text places Nirgundi in the Surasadi group, which it says subdues the deranged Kapha and helps catarrh, loss of appetite, asthma and cough, so the chest and upper airway are the parts its claims reach. Sindhuvara, a flower in the same text, is said to destroy Pitta. As a strong emetic the drug acts on the stomach and upper digestive tract in glandular swellings and scurvy. Local uses reach the bladder (a plug pasted with the juice and cow's urine), the eye (ash in an eye-salve) and the ear (expressed juice with oil and honey, for fetid discharge). Sushruta also lists it in a pot-herb diet for haemorrhage (Rakta-pitta) and in antivenoms. The Unani Canon, under this entry's identification, speaks of the head, the chest, the liver and spleen, and the digestive and excretory organs, in terms of heat, dryness and dispersing wind. The Latin identity is the translator's and is marked as open, so these are claims about a Sanskrit name.
+
 ### Contraindications
 
 The Sushruta passages read print no warning for the drug itself. The one oral use is as an emetic (Chikitsa 18), which is a physician's procedure and unsuitable for the weak, the pregnant and the very young without supervision. The antivenom, eye and bladder uses describe emergencies that need medical care, not a household remedy. The identity is open, so no plant should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

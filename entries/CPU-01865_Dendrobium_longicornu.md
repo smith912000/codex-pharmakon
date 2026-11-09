@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is an anti-emetic and phlegm-fever drug in the Tibetan texts, its species is not settled between a grass, an iris relative and two orchids, and the orchid's place in essence extraction is attested only for a different orchid. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the sources name no organ for Pushel. The Men-Tsee-Khang line says it is anti-emetic, meaning it checks vomiting, and cures hot disorders associated with baekan disorders. Clark's root-layer clause says it halts vomiting and cures phlegm fever, with baekan rendered as phlegm. The bracketed commentary adds hemorrhoids and urinary retention, and describes a river-bank plant with kusha-like stalks and a camphor-smelling root. Its species is unsettled among a grass, an iris relative and two orchids, so these actions belong to the Tibetan drug and not to one plant. The texts give no part used, preparation, taste or potency, and the entry gives no protocol or dose.
+
 ### Contraindications
 
 The sources read print no warning. The identity is uncertain, so no plant should be gathered or used on the strength of this entry. Persistent vomiting and fevers need medical care. Many orchids are protected under international trade rules; no conservation information on this species was read. No safety information for pregnancy was read. [USER: verify]

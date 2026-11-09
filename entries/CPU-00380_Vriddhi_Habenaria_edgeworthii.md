@@ -59,6 +59,10 @@ The closest available evidence is from its **pair-species and near-taxonomic twi
 
 **Practitioner's note.** Nothing to cultivate from the classic: Vṛddhi is a named member of a restorative, milk-promoting group. The entry's rare, substituted material means a cultivator cannot assume the plant in hand is the one the text names.
 
+### Functional–Anatomical Correlate
+
+The entry maps Vṛddhi onto the same deep tissue and vitality systems as its twin Ṛddhi. It is bṛṃhaṇa (tissue-building) and jīvanīya, with ojas (vital essence and immunity) and śukra (reproductive tissue) named as targets, and wasting (kṣaya), debility, seminal depletion and rakta-pitta as indications. Srotas named are rasavaha and raktavaha, śukravaha, and the ojas/immunity channel with mucosa. Vātapitta pacifying is its doṣa action, with a Kapha-increasing effect noted for the heavy, unctuous profile. Balya and vayaḥsthāpana (age-sustaining) actions are listed. The entry says Kenetica uses it chiefly as a formulary member usually replaced by a substitute. Species-specific evidence for H. edgeworthii is absent from PubMed. The only supporting data are adjacent findings on H. intermedia, which the entry explicitly declines to treat as direct evidence for this species. The main practical hazard it names is adulteration and misidentification.
+
 ### Contraindications
 
 Heavy, sweet, unctuous and Kapha-increasing — use with care or avoid in obesity, diabetes/medas disorders, congestion, high Kapha and weak digestion (mandāgni); can cause heaviness and sluggishness. Not for acute infection or high-āma states. The dominant practical hazard is **adulteration/misidentification**, since authentic material is rare and routinely substituted. Conservation: wild collection is discouraged/regulated. Pregnancy/lactation and paediatric use: `[USER: verify with practitioner]`.

@@ -43,6 +43,10 @@ A seed drink that "drives phlegm and bile downwards" is a claim of purging, and 
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. A sharp, ulcerating climber taken as a purgative is history and not a practice. The repetition of the description under 4-7b with a warning label is itself a reason for caution.
 
+### Functional–Anatomical Correlate
+
+The chapter's organ mapping is thin and rests on three claims. A seed decoction, taken with water or honey water, is said to drive phlegm and bile downwards, a purging action on the digestive tract. The leaves, applied, are said to remove leprosy, which maps to the skin and the peripheral nerves in modern terms. The leaves are described as especially sharp to the taste and ulcerating, a claim about the mouth and any skin they touch. The plant has reddish, pliant branches and winds around trees like smilax. The chapter prints no warming, cooling or drying quality and no humoral or qi term. The preserving in salt with lepidium, to be eaten, names no organ. The near-identical chapter 4-7b carries a POISONOUS label, which this chapter does not. The identification is the translators' suggestion, attributed to Mabberley, and no clinical study was retrieved.
+
 ### Contraindications
 
 The plant is described as sharp and ulcerating, and a near-identical chapter carries the label POISONOUS. Fresh plants of the buttercup family can blister skin and mouth, and a purgative seed drink is not safe to take unsupervised, least of all in pregnancy. The identification is the translators' suggestion, so no wild plant should be gathered or taken on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

@@ -69,6 +69,10 @@ De Giuseppe et al. (2023), *The Journal of Nutrition, Health & Aging*, ran a ran
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, camelina is a temperate, warm and moist nourishing fixed oil whose Kenetica role is nutritive foundation. It supplies structural omega-3 (alpha-linolenic acid) as membrane and nervous-system substrate, supplies tocopherols, and softens internal dryness. The Galenic and Avicenna frame places it among nourishing oils that build substance and restore a depleted constitution. The Ayurvedic and TCM analogies, offered as analogy only, read it as sweet and unctuous, Vata-pacifying, and moistening to Yin, Blood and Dryness. The entry's human trial evidence concerns serum lipids: a randomised trial in hypercholesterolaemic adults raised serum alpha-linolenic acid and its EPA and DPA metabolites and lowered LDL cholesterol by 12.2 per cent, and a pilot in older adults raised serum ALA, while inflammatory markers and the lipid profile did not reach significance. The entry notes a possible mild antiplatelet effect of omega-3 relevant to anticoagulant therapy.
+
 ### Contraindications
 
 - Generally **well tolerated as a food**; camelina oil has a long dietary history and no significant toxicity in the cited human trials.

@@ -47,6 +47,10 @@ General, well-established facts only. Eye salves of the ancient world often cont
 
 **Practitioner's note.** Nothing to practise. The entry preserves a name and a recipe context. Never put an unidentified material in the eyes.
 
+### Functional–Anatomical Correlate
+
+Little to map: the only body part given is the eye. The substance appears as one of five ingredients in an eye salve, and the chapter's aim is stated as the improvement of sight and the treatment of eye disease. In modern terms the claimed site is the eye and its surface, and the visual function that depends on it. The text does not say what the resin contributed, so no specific tissue, layer or chamber can be mapped to it. The entry prints no energetic quality, temperament or humour for the substance, and the Egyptian person frames (ka, ba, akh, ib, and heka) are not attested for it. No deity is named. The entry notes that the chapter lists the salve's ingredients only, and that the salve is one of several for the eyes in the same chapter, so the mapping stays at the eye as a whole.
+
 ### Contraindications
 
 - **Eyes.** Nothing unidentified or unsterile belongs in the eye.

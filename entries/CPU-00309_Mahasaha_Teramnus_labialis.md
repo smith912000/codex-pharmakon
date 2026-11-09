@@ -58,6 +58,10 @@ According to PubMed:
 
 **Practitioner's note.** Nothing. It is a minor component of compound formulas, with no stand-alone cultivation practice attested.
 
+### Functional–Anatomical Correlate
+
+The entry places Mahāsahā in the Vāta-pacifying and strength-giving group. It states that the drug builds the flesh and nerve tissue (bṛṃhaṇa) that aggravated Vāta wastes and dries, and its karma lists balya (strengthening), vātahara, rasāyana (mild restorative) and stanya (galactagogue). Its sweet, unctuous, nourishing quality may aggravate Kapha and weak digestion if overused. Folk use applies the herb to nervous and rheumatic complaints, and the entry names a general tonic role in debility. In modern anatomical terms the claimed targets are muscle and nervous tissue, joints in rheumatic complaints, and the mammary gland. The one lactogenic study cited is a methanolic fruit extract in nursing rats, which the entry reports increased milk yield, mammary glycogen and serum prolactin. The entry grades the evidence as preclinical and nutritional, with no human clinical trials.
+
 ### Contraindications
 Heavy, unctuous, nourishing — may aggravate Kapha, weak digestion (*mandāgni*), and *āma* states if over-used. As a legume, ordinary pulse cautions apply (gas/bloating in weak agni; standard legume anti-nutrient handling — cook seeds). Safety in pregnancy at therapeutic (non-food) doses not established `[USER: verify]`. Human clinical safety data absent. Confirm botanical identity given the classical ambiguity around Mahāsahā/Sahā.
 

@@ -44,6 +44,10 @@ General, well-established facts only. Reptiles, including tortoises and turtles,
 
 **Practitioner's note.** Nothing here supports cultivation use of the flesh. It is a food in Sushruta's scheme and a diet article in a bleeding condition, and a cultivator has no claim to take from it. The one cultivation-adjacent record, the eggs in the *vajikarana* chapter, concerns a different material. The honest practice is abstention, which also spares an animal that is widely protected. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The entry maps the digestive tract, the blood and the three doshas. The flesh of the Shankha and Kurma orders is said to be sweet in taste and in digestion (vipaka), cooling in potency (virya), demulcent, and beneficial to stool and to the Pittam. It is said to destroy the deranged Vayu and to produce Kapham. In the Uttaratantra chapter on Rakta-Pitta (bleeding), a soup of tortoise with pigeon and conch meat, mixed with Dhatri and pomegranate juice and much clarified butter, is given as diet, so the blood and bleeding are the site of that use. Pitta and Vata are named as the doshas acted on, and Kapha as produced. The stated qualities belong to the order, not the tortoise alone. The entry names no humour outside the doshas, and no essence-extraction (bcud len) or subtle-body site. Egg, shell and bile are different materials and are not mapped here.
+
 ### Contraindications
 
 - **Infection and hygiene:** reptile meat carries *Salmonella* and other pathogens; do not eat wild tortoise or turtle meat or use it as medicine.

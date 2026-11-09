@@ -49,6 +49,10 @@ General facts only. Antimony compounds are toxic and must not be put in the eyes
 
 **Practitioner's note.** An unresolved drug whose name also means the eye-salve. Nothing in the record supports any cultivation use. A cultivator should not use it.
 
+### Functional–Anatomical Correlate
+
+Anjana heads the Anjanadi group, whose statements in the Sushruta Samhita are that it cures haemoptysis (coughing of blood, a respiratory and vascular concern), is anti-toxic, and allays the internal burning sensation of the body. The group also contains Rasanjana, which the text names separately. Elsewhere the drug is a dusting powder for a sutured ulcer, mapped to the wound surface, and the general word anjana names a collyrium for the eyes, which the translator reads as black antimony in an eye compound in Uttara ch. 11. The body systems the entry can map are therefore the airway and blood, the internal heat of the body, the wound surface, and the eyes. The text prints no rasa, virya or vipaka for Anjana, no part used and no dose. The plant identity is unresolved, and if black antimony is meant the material is toxic, so no eye use is implied.
+
 ### Contraindications
 
 - **Eyes.** Do not apply any collyrium material from this entry to the eyes.

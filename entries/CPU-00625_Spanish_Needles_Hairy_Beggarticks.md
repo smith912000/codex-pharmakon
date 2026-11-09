@@ -45,6 +45,10 @@ None is given. No locus was found in any tagged tradition, and no quality is pri
 
 **Practitioner's note.** There is nothing for a cultivator to do with this entry. None of the three tags is supported by a locus, and the spine tags should be checked or removed before the entry is relied on.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry records no locus in any tagged tradition, so it states no organ, tissue or system that the plant acts on. Its only pharmacological line is general knowledge, not a finding from the tagged texts: Bidens pilosa is known in general for polyacetylenes and flavonoids. No quality, humoral or doshic classification is given, and no preparation, dose or clinical study was retrieved. It notes that the Shennong Niu Xi entry is Achyranthes bidentata, a different plant whose class does not transfer, and that the Sushruta and Badianus searches returned nothing, so absence from an extract is not proof of absence from the text. The only safety statement is that daisy-family members can cause allergic reactions in sensitive people, and wild plants should not be eaten or applied on an index tag.
+
 ### Contraindications
 
 No safety data were read. As a general rule, members of the daisy family can cause allergic reactions in sensitive people, and wild plants should not be eaten or applied on the strength of an index tag. Seek ordinary medical care for the conditions for which such plants are said to be used.

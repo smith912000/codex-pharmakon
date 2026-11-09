@@ -75,6 +75,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 **Practitioner's note.** Nothing. The entry itself marks this a specialist-only material, and no regional practice of cultivation is recorded in the sources available.
 
+### Functional–Anatomical Correlate
+
+Padauk's red heartwood and kino act on the mucosal and skin surface and on the gut lining, in the entry's account. Its energetic frame is Qi, blood-cooling, astringent and stasis-resolving, with a secondary Jing ascription for connective tissue. The kino's condensed tannins are described as protein-precipitating, tissue-binding and styptic, applied to bleeding or lax mucosa, mouth and throat ulcers and skin sores, and taken for diarrhoea and dysentery. The Ayurvedic genus-adjacent frame places it as blood-clearing (rakta-prasadana), astringent (kashaya) and reducing to Pitta and Kapha. Folk decoctions of bark and leaf are used for blood sugar; the entry links the genus to glycaemic activity while noting that evidence for this species is limited. The Kenetica uses are surface haemostasis, gut binding and topical wound support. Cautions are cold-deficiency and dry-stool patterns, binding of dietary iron, co-ingested drugs, additive effects with diabetes medication, and pregnancy. The entry warns against substituting the CITES-listed P. santalinus.
+
 ### Contraindications
 
 - **Cold-deficiency / dryness patterns:** a cooling astringent can aggravate cold, dry, or atrophic presentations; not a tonic for the depleted-and-cold athlete.

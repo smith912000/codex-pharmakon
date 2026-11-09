@@ -63,6 +63,10 @@ According to PubMed, the evidence base for *Premna integrifolia* is **preclinica
 
 **Practitioner's note.** Nothing for cultivation. In the passages read it is a therapeutic and surgical-pharmacy ingredient with no rejuvenative standing.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Agnimantha acts on digestive fire (jāṭharāgni), metabolic residue (āma) and oedematous tissue. Its dīpana and pācana actions kindle digestion and metabolise āma, its śothahara action reduces swelling, and its mūtrala action promotes urine flow. The traditional indications named are āmavāta (rheumatic-inflammatory disorder), pāṇḍu (anaemia), arśas (haemorrhoids) and medoroga (fat-tissue disorders). The entry describes the root as one of the Bṛhat-pañcamūla within the Daśamūla, used with other roots in post-partum, respiratory and convalescent formulae. Its phytochemicals include luteolin, premnazole, premnine and betulin, which the reviews report as anti-inflammatory, antioxidant and hepatoprotective in animal and cell work. The entry states that no human randomised trial is cited for this species. It notes Pitta aggravation and caution in high-heat and Pitta-predominant states and in dry or Vāta-depleted tissue, and it records no clinical safety data for pregnancy or paediatric use.
+
 ### Contraindications
 
 Uṣṇa-vīrya and pungent–bitter–astringent — potentially aggravating in high Pitta states, active inflammation with heat, or Pitta-predominant constitutions. Dryness (rūkṣa guṇa) may not suit already-depleted, dry, or Vāta-vitiated tissue if used unbalanced. Pregnancy, lactation, and paediatric use: defer to a qualified practitioner — no clinical safety data cited. As with all Daśamūla members, intended for combined/formulaic use rather than high-dose single-herb use.

@@ -96,6 +96,10 @@ The pharmacology of atropine and scopolamine is among the most extensively docum
 **Practitioner's note.** Nothing. Belladonna is among the most toxic plants in the European flora, with a therapeutic margin too narrow for any self-directed practice. No tradition in the tagged set assigns it a cultivation or nourish-life status; every one that records it records a poison. The register's answer is abstention.
 
 *[3 paragraph(s) removed 2026-07-18 — tag withdrawn per attestation ruling; see spine notes.]*
+### Functional–Anatomical Correlate
+
+The entry maps belladonna mainly to the pupil, heart, bladder and mind, and it presents that mapping as toxicity, not practice. Atropine blocks muscarinic acetylcholine receptors, which the entry lists as dilating the pupil, raising heart rate, drying the mouth, retaining urine, constipating and raising temperature by blocking sweating; higher doses produce delirium and hallucination. Scopolamine is described as more central, sedative and amnestic. The entry's energetic classification gives the organ-channel map as Heart (tachycardia), Bladder (urinary retention) and Shen or Mind (delirium), where Shen is the consciousness the drug dissolves. Dioscorides' mad nightshade and the Canon's banj are cited for sedative, analgesic and anticholinergic toxidrome descriptions, including hot-dry skin and dilated pupils. Contraindications follow the same map: glaucoma, prostatic and urinary retention, arrhythmia and hyperthermia. No cultivation role is assigned.
+
 ### Contraindications
 
 - **All routine applications** — the primary contraindication is the plant itself at full concentration for non-clinical use

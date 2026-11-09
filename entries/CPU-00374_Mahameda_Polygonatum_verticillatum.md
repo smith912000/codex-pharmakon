@@ -76,6 +76,10 @@ Honest summary: measurable antioxidant/DNA-protective activity and constituent p
 
 **Practitioner's note.** Nothing specific to cultivate: the classic names the drug only as a member of a nourishing, pitta-pacifying group. Because the species is endangered and routinely substituted, a cultivator should not assume any sample is the plant the text means.
 
+### Functional–Anatomical Correlate
+
+Acts on the same nourishing dhatus as its couplet partner, with emphasis on medas, māṃsa and śukra, through rasavaha, medovaha and śukravaha srotas. Its heavy, unctuous, cooling and sweet qualities are aimed at śoṣa and kṣaya, dry wasting and emaciation, at rājayakṣmā and respiratory wasting, at daurbalya, and at raktapitta and burning heat. The entry frames its prabhāva as vayaḥsthāpana, age-stabilising, and its actions as balya, brṃhaṇa and śukrala, reproductive-tissue building. In the Kenetica frame it is the deepest restorative reservoir. Pitta and Vāta are pacified, while Kapha and āma can be aggravated. The modern correlates are preclinical: saponins, flavonoids and diosgenin, with measured FRAP, DPPH and ABTS antioxidant activity and DNA-damage prevention reported across Himalayan populations. The entry also mentions an ethnobotanical report of rhizomes used for COVID-19 symptoms, and states this is not endorsed as clinical evidence. It notes the species is endangered and often substituted.
+
 ### Contraindications
 
 - **Āma, low Agni, high Kapha:** heavy, unctuous, cooling — aggravates congestion, obesity, metabolic sluggishness and *āma*. Avoid in these states.

@@ -68,6 +68,10 @@ Sugiaman et al. (2024), *PeerJ* — a brazilin topical cream reduced NF-κB prot
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, Su Mu is a blood-invigorating wood entering the Heart, Liver and Spleen channels in the Chinese reckoning, where it invigorates blood, dispels stasis, reduces swelling and stops pain, applied to bruising and trauma, fixed masses and post-partum stagnation with pain. The Ayurvedic account calls it a raktaprasadana, a blood-clearing drug for raktapitta, skin conditions and wounds, and the Unani account treats it as an astringent, styptic wood used in dysentery and haemorrhagic complaints. The entry cites modern work in which a brazilin-rich extract showed antioxidant and anti-inflammatory activity, and a brazilin cream in a rat gingivitis model reduced NF-kB, IL-1 beta, IL-6 and TNF-alpha expression and promoted angiogenesis, all preclinical. The entry reads these as support for its swelling and blood-stasis claims, and warns against use in pregnancy, in bleeding disorders and with anticoagulant or antiplatelet therapy, because of its blood-moving character. Human clinical data are noted as limited.
+
 ### Contraindications
 
 **Contraindicated in pregnancy** by long traditional consensus — as a strong blood-invigorating, stasis-dispelling agent it is classed among the herbs to avoid during gestation because of the theoretical risk to the pregnancy, and this caution is explicit in the classical Chinese and Ayurvedic literature. Use cautiously in anyone with bleeding disorders or on anticoagulant/antiplatelet therapy, given its blood-moving character. Discontinue before surgery. As with any potent heartwood remedy, keep to defined courses at customary doses; high-dose or prolonged self-administration is not supported by evidence. [USER: verify local regulatory status and practitioner scope]

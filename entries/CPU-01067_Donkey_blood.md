@@ -42,6 +42,10 @@ General facts only. Blood carries a risk of transmitting blood-borne and zoonoti
 
 **Practitioner's note.** Nothing to do. Donkey blood in these sources is a plain drug for a plain complaint. A cultivator would take from the entry only that the Tibetan text lists blood by animal and by disorder, and that the Egyptian compound sets five bloods side by side with no distinction.
 
+### Functional–Anatomical Correlate
+
+Little to map: the sources name two sites, the eyelid and the joints. In the Ebers, donkey blood is one of five bloods (with cow's, pig's, dog's and stag's) rubbed with collyrium and incense onto the place where an eyelash was pulled out, so that it does not regrow; that is the eyelid margin. No remedy with donkey blood alone was found. The Tibetan Explanatory Tantra, as Clark translates it, says donkey blood cures rheumatism and lymph disorders in the joints; Men-Tsee-Khang says arthritis and an excess of chhuser in the joints. Dioscorides' blood chapter does not name the ass. No organ, humour, temperament, taste or potency is assigned to donkey blood in the texts read.
+
 ### Contraindications
 
 - **Infection.** Raw animal blood can carry bacteria, viruses and parasites; never apply it to broken skin or the eye, or drink it. [USER: verify specifics]

@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing here gives a cultivator a practice with this plant. The honest answer is abstention: the text does not name it, and the genus carries a well-established toxicity.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapters read name neither Sanskrit name, Ahigandha or Arka-mula, and the entry states no body system, organ, tissue or tradition statement for this drug. What it states is that Bhishagratna's appendix prints Aristolochia indica, with the English Indian birthwort, against Ahigandha, and the bare Latin against Arka-mula, by position, and that the Codex has not checked the identification. It states that no rasa, virya or vipaka is printed for either name, and that no preparation, dose or cultivation status is given. Its only other content is a general statement, labelled as about the genus Aristolochia and not the drug, that aristolochic acids are kidney and urinary-tract toxins and carcinogens, and its contraindication that no Aristolochia should be taken internally.
+
 ### Contraindications
 
 Do not use any *Aristolochia* internally. Aristolochic acids are recognised as kidney-damaging and cancer-causing, and the genus is restricted or banned as a medicine in many countries. Nothing in the Sushruta text retrieved offsets that. No conservation information was read. No safety information for pregnancy was read, and the genus should be avoided in pregnancy. [USER: verify]

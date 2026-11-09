@@ -40,6 +40,10 @@ General, well-established facts only. Wild and feral pigeons (*Columba livia* an
 
 **Practitioner's note.** A cultivator does nothing with this. There is no recipe to follow beyond one abscess ointment that Bryan himself calls useless, the bird's identification is only an English word, and the Egyptian framework (*ka*, *ba*, *akh*, *ib*, *heka*) gives no basis here for any practice. The entry records that the pigeon appears in Bryan's list of Ebers animals, and nothing more.
 
+### Functional–Anatomical Correlate
+
+Little to map: the sources give one indication, that the blood of a dove, with that of a goose, a swallow and a vulture, anointed on an abscess of uncertain type (the uases) is a remedy that Bryan himself calls useless. The system named is the skin, at the site of an eruption, and the blood is the applied substance. The Ebers material as read gives no taste, temperature or humoral qualities for the pigeon, and no cultivation, amulet or spirit role is attached to the bird in the passage read. The pigeon appears in Bryan's list of identifiable Ebers animals, but no part of the bird is tied to a use there. No quantity, vehicle or duration is given. The Codex records the attestation and does not recommend anointing animal blood on an abscess.
+
 ### Contraindications
 
 - **Infection:** blood and droppings of pigeons and doves can carry pathogens, and animal blood applied to broken skin is a route for infection.

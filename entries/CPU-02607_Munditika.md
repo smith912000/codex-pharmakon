@@ -45,6 +45,10 @@ General, well-established facts only. *Sphaeranthus* is a genus of the Asteracea
 
 **Practitioner's note.** Nothing to do. It is an appendix name with a likely botanical equivalent and no recorded use. It is not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that Appendix 3 of Bhishagratna's Sushruta Samhita pairs the Sanskrit name Munditika with a botanical equivalent, Sphaeranthus hirtus, and that the pairing rests on column position. Nothing in the treatise, as read, names the drug or assigns it a use, so no body system, organ or tissue is mapped. The entry records no active constituent, no energetic classification (no rasa, virya, vipaka or dosha action is printed) and no cultivation status, and it states that the name is attested only in an appendix name list. Under the Codex's own reading, the entry is a lexical record and not a materia medica entry, and it gives no action to attach to any body part. The entry adds that a second appendix line gives Sphaeranthus indicus against another Sanskrit name, but whether the two are one plant is left undecided.
+
 ### Contraindications
 
 - **No use is recorded**, so none is recommended; unknown herbs should not be taken on the strength of a name list.

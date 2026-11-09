@@ -53,6 +53,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with this tree. It is a group member and a recipe ingredient, and the Latin name behind it is a translator's appendix pairing that his own chapter bracket contradicts.
 
+### Functional–Anatomical Correlate
+
+Sushruta names Nandi-Vriksha only as the last member of the Nyagrodhadi group and as one ingredient of a sprinkling decoction for a child. The group, the text says, proves beneficial in ulcers, cures all disorders of the uterus and vagina, favours the adhesion of fractured bones and all secretions of the body, is astringent (sangrahi), is curative in haemoptysis, is an anti-fat, and assuages the burning sensation of the body. Other passages use the group after purification of an ulcer, in the purification of semen, and as a vaginal plug in the care of pregnant women. The child's decoction reads Nandi with the bracket Vata, which the translator takes as the banyan in that chapter. The text prints no rasa, virya or vipaka for Nandi, and says nothing of ojas, tejas or prana. The sites mapped are the skin and ulcers, the uterus and vagina, bone, the lungs and airways, and the body's fat and burning sensation. The identity is open between two figs.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for this plant. The identity is open between two figs, so no plant should be gathered or used on the strength of this entry. Ulcers, bleeding in pregnancy and a child's illness need medical care. No conservation information was read. No safety information for pregnancy beyond the text's own use of the group's juice in a pregnant woman (Sharira 10) was read. [USER: verify]

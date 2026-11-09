@@ -83,6 +83,10 @@ Doses are traditional-scale and not standardised in modern clinical practice; tr
 
 ---
 
+### Functional–Anatomical Correlate
+
+Figwort's entry places it in the skin, the lymphatic glands, the blood and the lower bowel. Its traditional role is an alterative and depurative for hot, stagnant, eruptive tissue, read in blood-cooling, node-dispersing terms that the entry links to Xuan Shen. Its Galenic and Greek description gives bitter, mildly astringent, cooling and drying qualities, with organ affinity for skin, lymphatics and glands, and for the lower bowel in piles. Folk uses are chronic dermatoses such as eczema and psoriasis-type eruptions, minor benign glandular swelling, and piles and minor sores as ointment or wash. The entry's correlates are compound-level and preclinical: harpagoside inhibiting 5-lipoxygenase and the P2X7 receptor, and aucubin suppressing NF-κB signalling, with poor oral bioavailability named as a real limit. The entry rejects the anti-tubercular claim outright, since no evidence supports action on scrofula or mycobacterial infection. It also flags the heart, where cardioactive constituents make internal use a caution.
+
 ### Contraindications
 
 - **Cardiac caution:** *Scrophularia* contains cardioactive constituents — **avoid in patients with heart conditions or on cardiac glycoside therapy** (e.g. digoxin). This is the principal internal-use warning.

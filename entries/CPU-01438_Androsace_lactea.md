@@ -39,6 +39,10 @@ No claim is made about diuretic or gout effects of this plant. No clinical studi
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The text is a short therapeutic note, and the answer for cultivation is to learn how it was recognised and do nothing further.
 
+### Functional–Anatomical Correlate
+
+The chapter's only bodily actions are on urine output and on the joints. A decoction of two teaspoonfuls, taken as a drink with wine, is said to encourage much urine in dropsy, and a decoction of herb and seed taken as a drink does the same. Urine output is the urinary system, though no organ is named. The herb, smeared on, is useful upon gout, a joint condition. The only quality printed is bitter, given for the branches. No warming, cooling, drying or moist quality is given. The herb's habit (thin, slender, leafless bitter branches with a seed pod on the head) and its sea-bordering habitat in Syria are given for identification, not as a site of action. The chapter names no heart, liver or lung effect. The identification with Androsace lactea is the translators' suggestion, and a second binomial, A. obtusifolia, is offered on the same line.
+
 ### Contraindications
 
 The identity of the plant is uncertain, so no safety statement can be made for it. Dropsy and gout are conditions for a physician, and a diuretic taken for dropsy can be harmful without supervision. None of the traditional uses above is advice. [USER: verify]

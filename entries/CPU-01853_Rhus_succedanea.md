@@ -59,6 +59,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with Karkata-s'ringi: it is a member of a group whose description includes words that sound like rejuvenation, and an ingredient in remedies for cough and ear complaints. The group description is not a ground for taking it, and the Latin name is not the text's.
 
+### Functional–Anatomical Correlate
+
+Under the Sushruta name Karkata-s'ringi the plant appears in several contexts, and the text gives its action only as part of a group. The Kakolyadi group, in the classification chapter, is said to subdue deranged Pittam, blood and Vayu, to increase milk in the breast (galactagogue), and to favour the accumulation of Kapham (phlegm) in the body. Singly, the chapters place the drug in a plaster for Kaphaja Visarpa (erysipelas, skin), though that reading rests on a commentator's gloss, in an oil for discharge from the ear (Karna-srava), and in a smoke and lambatives for cough and asthma (respiratory system). The text assigns no organ or action to the plant alone, and the entry does not extend the group's claims to it. The identity rests on a positional Latin pairing and is open. No rasa, virya or vipaka is printed for the drug. Discharge from the ear, persistent cough and asthma need medical care.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for this plant. The identity is open between two species and a commentator's reading, so no plant should be gathered or used on the strength of this entry. Several members of the cashew family carry irritant sap that can injure the skin, which is a general fact about the family and not about this plant. Discharge from the ear, persistent cough and asthma need medical care. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

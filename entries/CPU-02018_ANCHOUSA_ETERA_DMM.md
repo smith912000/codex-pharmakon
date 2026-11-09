@@ -49,6 +49,10 @@ General, well-established facts only. No herb is a reliable treatment for snakeb
 
 **Practitioner's note.** A red-rooted plant of the bugloss group used in antiquity for snakebite and broadworms. Nothing here supports any cultivation use, and the identity is unsettled. A cultivator should not use it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the two chapters state that the root and leaves, eaten, taken as a drink or hung about the person, help those bitten by venomous creatures, especially vipers, and that the root taken as a drink with hyssop and nasturtium draws out broadworms. They add that the plant, chewed and spat into a venomous beast's mouth, kills it, and that the root looks blood-like around harvest time. The text names no organ, tissue or humoral quality, and prints no hot, cold, dry or moist property. The body contact the text implies is the bitten site and the bloodstream after a bite, and the gut for the broadworms, but the chapters describe neither. The plant is identified only as a member of the alkanet and bugloss group, so no constituent or modern organ can be assigned. Venomous bites need emergency care, and the Codex does not treat this plant as a remedy.
+
 ### Contraindications
 
 - **Snakebite.** An emergency; seek care. Do not rely on this plant.

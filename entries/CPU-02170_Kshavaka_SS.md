@@ -52,6 +52,10 @@ General, well-established facts only. Nothing can be said of the pharmacology of
 
 **Practitioner's note.** A seasoning herb or sprout and an ingredient in a dysentery ghee. The tradition records no more, and an unidentified plant gives a cultivator nothing to act on.
 
+### Functional–Anatomical Correlate
+
+In the Surasadi group (Sutra ch. 38) Kshavaka shares actions described as vermifuge and aseptic, subduing deranged Kapham and benefiting catarrh, loss of relish for food, asthma and cough. These map to the respiratory tract, appetite, and intestinal worms in the text's terms. As a sprout (ch. 46) the sources say it generates Kapham and tends to increase the discharge of stool and urine, helps the germination of worms in the intestines, and tends to increase the secretions of the internal organs, generating Vayu without inordinately increasing Pittam and Kapham. These two passages do not agree about Kapham, and the entry does not reconcile them. As a potherb it is pungent and heat-making and subdues Vayu and Kapham. In a ghee cooked with dry ginger it is named for Pravahika, a dysentery condition. The plant is unidentified, so no organ-level claim beyond these terms is made.
+
 ### Contraindications
 
 - **Identity.** The plant is not identified. Nothing may be gathered, bought or used on the strength of this entry. [USER: verify]

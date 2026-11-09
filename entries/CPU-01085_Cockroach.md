@@ -40,6 +40,10 @@ General facts only. Cockroaches carry bacteria including *Salmonella* and *Esche
 
 **Practitioner's note.** Nothing to do. In both traditions the cockroach is a drug for a small complaint, and the translator in one of them warns against it. A cultivator can take the bakehouse rule as a reminder that old materia medica was selective about where its animal materials came from, and can leave the insect alone. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides places the cockroach in the ear, and the translator's capitalised note says these insects carry many diseases. The inner parts of the bakehouse and mill-house kind, pounded in oil or boiled, are dropped in to lessen earache, so the ear is the site and pain the complaint. The Tibetan texts name the insect for spasm: Clark calls it antispasmodic and Men-Tsee-Khang says it relieves abdominal cramps, so the action falls on the gut and abdominal muscles. Clark's bracketed commentary adds septic fevers and a children's disease, with no organ given for either. The Tibetan identity is unsettled between a cockroach, the American cockroach and a dung beetle, which limits any anatomical reading. No temperament, humour, taste or potency is assigned in the lines read, and no vitality or subtle-body role is attested.
+
 ### Contraindications
 
 - **Infection.** Cockroaches carry pathogens; never put crushed or boiled insect into an ear, wound or mouth. Ear pain with discharge, fever or hearing loss needs a clinician.

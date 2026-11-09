@@ -39,6 +39,10 @@ Copper salts are astringent and antimicrobial in general and are also irritant a
 
 **Practitioner's note.** A lower-grade drug in the Chinese scheme and, in the Egyptian text, an eye paint and a few pills with a spell. Nothing here supports taking it for cultivation, and the Chinese grading is itself the warning: a defined complaint, a short course and then stop. The Egyptian side offers a different point, that the recitation belonged to the prescription. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Divine Farmer's Classic (SBJ) places the stone on the skin and flesh: itching of the body, burns, welling abscesses, sores, scabs and dead muscles, which maps to the subcutaneous tissue and the body surface. The Egyptian text (EP), which names verdigris rather than malachite, puts its action on the eyes: bleary and bloodshot eyes, and cataract, where it is applied as an eye paint. It also names a mattery tumour of the neck, a swelling in the neck's soft tissue, and a remedy for constipation that reaches the bowels. The entry gives no humoral, doshic or innate-heat term, and the Chinese grade is acrid and balanced. In modern anatomy the claimed sites are the skin and subcutaneous tissue, the eyelids, conjunctiva and lens, the neck's soft tissue and lymph nodes, and the large bowel.
+
 ### Contraindications
 
 Copper salts are poisonous by mouth and irritant to the eye, so neither the Egyptian pills nor the eye paint should be copied. Powdered mineral preparations are unstandardised and may carry arsenic, lead or other metals. Because the identification is uncertain, a text's malachite, verdigris, azurite and turquoise cannot be treated as the same substance. Purchase of mineral medicines is regulated in many places. Ritual recitation is recorded as ritual.

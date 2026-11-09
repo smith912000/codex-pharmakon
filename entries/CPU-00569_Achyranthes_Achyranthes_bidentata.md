@@ -78,6 +78,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Achyranthes is described as acting on the lower body: the lumbar region (lower back), knees, legs and sinews. Its TCM actions are to tonify liver and kidney, strengthen sinew and bone, invigorate blood, unblock the channels and guide blood downward, and the entry links this to stagnant circulation and pooled swelling in joints. In Ayurvedic genus-doctrine, via Achyranthes aspera, it acts on swellings, joints and the lower body as a deobstruent. Unani places it among resolvent and deobstruent drugs for blocked joints and lower limbs. The modern correlates the entry cites are bone effects in murine osteoclasts (suppressed bone resorption, via c-Fos/NFATc1 and MAPK signalling) and kidney protection in diabetic mice through gut microbiota and short-chain fatty acids. Both are preclinical and graded as such. The downward, blood-moving pull is the stated reason for the pregnancy caution, with further cautions for uterine bleeding and anticoagulant use.
+
 ### Contraindications
 
 **⚠️ PREGNANCY CAUTION — traditionally contraindicated in pregnancy.** Achyranthes is a blood-invigorating, **downward-guiding** herb with a traditional reputation for descending, potentially uterus-affecting action; classical practice avoids it during pregnancy for fear of dislodging the fetus, and it should not be used by pregnant women without expert supervision. Avoid during heavy menstrual bleeding or in bleeding disorders, given its blood-moving nature. Use cautiously with anticoagulant or antiplatelet drugs (theoretical additive effect). Not appropriate for those with spleen/stomach deficiency with diarrhoea in the TCM framework. Use within a practitioner-guided formula rather than self-prescribed.

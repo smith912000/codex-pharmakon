@@ -42,6 +42,10 @@ General, well-established facts only. The categories "channel disorders" and "ur
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The text records a small insect as a remedy for urinary retention, and the tradition's own preface notes that few animal products are still used. The Codex does not recommend it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The insect is said to dispel urinary retention, together with the crab, and, in the commentary layer, to be a mild purgative of channel disorders. Mapped to the body, that points to the urinary tract (retention) and the bowel (purgation). The Tibetan term for channel disorders is used without an anatomical definition, so no specific vessel or nerve is named. The Men-Tsee-Khang text places the insect in the same urinary sentence as the crab. No humour, potency, taste or organ beyond the urinary and bowel functions is named, and the insect itself is not identified (an ant in Clark, a water beetle in Men-Tsee-Khang).
+
 ### Contraindications
 
 - **Identity:** the insect is not identified (an ant in Clark, a beetle in MTK), so do not substitute any insect, and especially not a blister beetle, which MTK and Clark list separately and which is irritant and toxic.

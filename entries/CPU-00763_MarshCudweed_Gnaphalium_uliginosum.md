@@ -76,6 +76,10 @@ The evidence base is **genuinely sparse**, and this must be stated plainly rathe
 
 **Practitioner's note.** Nothing. This is a short-course astringent and clinical herb in its tradition; nothing supports long-term "cultivation" use, and the entry itself calls the evidence data-sparse.
 
+### Functional–Anatomical Correlate
+
+In the Russian phytotherapy frame that carries this plant, marsh cudweed is an astringent that seals weeping tissue and is used for early or mild arterial hypertension, which the tradition describes as "lowering" pressure. Its other named targets are the stomach and duodenum (gastric and duodenal ulcer), and, used topically, wounds, burns and varicose or trophic leg ulcers. Western folk use adds loose bowels and mouth and throat complaints. The entry maps the astringent action to tannins, which precipitate proteins and tighten tissue, and the antihypertensive claim to flavonoids and the essential-oil fraction, a candidate rationale it says is asserted rather than shown for this species. The modern evidence is old Russian clinical reports with no retrievable abstracts, plus a single in-vitro antimicrobial study framed as agricultural. The entry grades the wound and astringent use as plausible but unvalidated, and the blood-pressure claim as a traditional claim awaiting pharmacology.
+
 ### Contraindications
 
 - **Not a substitute for hypertension or ulcer treatment.** Hypertension and peptic ulcer disease are serious and require proper diagnosis and medical management. Marsh cudweed may only be considered supportive/adjunctive, and internal use for these indications should be under professional supervision — never as a replacement for prescribed therapy.

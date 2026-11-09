@@ -49,6 +49,10 @@ General, well-established facts only. No animal organ is an established treatmen
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The donkey's tongue is one clause in a list of organs, and its tradition describes animal products as largely replaced. The honest use of the entry is as a record. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The entry gives the donkey’s tongue one attested action: it halts diarrhoea (Clark) or cures diarrhea (Men-Tsee-Khang). The count of fourteen names is a commentary interpolation and is not an action. The organ is the tongue, a skeletal muscle covered by mucous membrane, and the action is on the bowel, the intestinal system where diarrhoea arises. No Tibetan energetic term, taste, potency or post-digestive taste is printed for the tongue. The Men-Tsee-Khang meat list places donkey among heavy, oily, smooth and warm foods for a loong disorder, but that is a statement about the meat, not the tongue, and is not carried over. Donkey blood and hoof, which the translations give for joints, lymph and urinary obstruction, are other materials and are not carried over. No cultivation framing is attested, and the Men-Tsee-Khang preface records a Buddhist objection to harming any being as the reason animal products are replaced by herbs.
+
 ### Contraindications
 
 - **Diarrhoea:** replace fluids; seek medical care for blood in the stool, fever, dehydration, or illness in a young child or older person.

@@ -128,6 +128,10 @@ Apply fresh white latex from broken stem or unripe fig directly to wart; cover; 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps the fig mainly onto the digestive tract. Its pectin and insoluble fiber are said to act as a prebiotic and to speed bowel transit, the Large Intestine laxative action in TCM terms. In TCM the fig also enters the Lung channel, where it moistens the Lung and eases dry cough and hoarse voice, and it tonifies Spleen-Stomach Qi. Ayurveda describes it as brinhana and balya, nourishing body tissue and building strength, and Avicenna gives it as a warm, moist liver (kabd) tonic. Its minerals, calcium and potassium, are linked to Jing and bone-building. Topically the entry places fresh latex on warts and corns, where its ficin is said to digest the skin's protein, with the warning that furanocoumarins cause phototoxic skin reaction in sunlight.
+
 ### Contraindications
 
 - **Fig latex phototoxicity** — the furanocoumarin content (psoralen, bergapten) in fresh fig latex causes phototoxic dermatitis when applied topically and exposed to UV; avoid sun exposure after topical fig latex use; this reaction does not occur with ripe fruit consumption

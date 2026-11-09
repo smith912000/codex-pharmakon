@@ -72,6 +72,10 @@ The Shennong text gives no preparation and no dose. The Mingyi layer says the br
 
 **Practitioner's note.** A middle-grade drug with an unsettled identity and no stated duration. There is nothing here for a cultivator to do with it beyond reading the record; the one effect named on the person, memory, is not a basis for taking either plant.
 
+### Functional–Anatomical Correlate
+
+The Shennong drug tong cao, in Sun Xingyan's 1799 text, is acrid and balanced and is said to remove evil worms, clear cold and heat of the spleen and stomach, free and open the nine orifices, the blood vessels and the joints, and make a person not forget. Mapped to the body, the classic's claims touch the spleen and stomach (pi wei), the nine orifices, the blood vessels, the joints and memory, which the text states as an effect on the person. The worms are not placed in any organ. The Wu Pu layer adds that it stops sweat, and the Mingyi layer names the branches as the part gathered; both are later layers. Yang 1998's footnote, which speaks of freeing the heart orifices and promoting lactation, quotes a Song author and is not in the Shennong text. The identity is open: Guo Pu's tall, white-pithed plant points to Tetrapanax papyrifer, while Yang's note points to the Akebia climber, so the map applies to the name, not to one settled plant. No channel, humour, dose or toxicity statement is given.
+
 ### Contraindications
 
 - **Identity.** The name has been used for two different plants (see Varieties). Do not take either on the strength of the name. [USER: verify]

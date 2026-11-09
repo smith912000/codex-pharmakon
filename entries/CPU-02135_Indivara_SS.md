@@ -49,6 +49,10 @@ The identification is tentative, so no scientific correlation is made. In genera
 
 **Practitioner's note.** Nothing to do. A water-plant of uncertain identity, used for stones and bleeding in the text and listed among nourishing bulbs. The commentators themselves disagreed on the plant, and a cultivator has no sourced course to follow.
 
+### Functional–Anatomical Correlate
+
+The entry records four places. Taken singly, the text gives two targets. The seeds, in a paste with other drugs, are used in Pittaja Ashmari (pitta-type stone), so the urinary tract and urinary stone. The ashes, made into an alkaline water taken with honey, are given for Rakta-pitta (a disorder of blood and pitta), so the blood and bleeding. Two group-level statements also name Indivara. The ch.38 Viratarva'di group subdues Vata and treats urinary disorders. The ch.46 bulb group, of which Indivara is one, is said together to alleviate a bleeding complaint, to be cooling in potency (virya), sweet in taste (rasa) and heavy of digestion, to increase semen and to augment milk in a mother's breast, which maps to the reproductive system and the lactating breast. None of these is assigned to Indivara alone. The commentators disagree on the plant, so the map rests on the text alone. No constituent is named, no dose is given, and the Codex gives no protocol. Stone and bleeding need medical care.
+
 ### Contraindications
 
 - **Identity.** Disputed (Jejjata and Gayadasa differ). Do not substitute a plant for it.

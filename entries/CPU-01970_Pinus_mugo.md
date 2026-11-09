@@ -49,6 +49,10 @@ General, well-established facts only. Pine pitch and resin are irritants, and th
 
 **Practitioner's note.** Medicinal wines flavoured with cones and pitch. A cultivator takes from them only the habit of preparing a material carefully and noting the condition on its use.
 
+### Functional–Anatomical Correlate
+
+The entry maps two Dioscorides wine chapters, 5-44 (pine-cone wine) and 5-48 (pitch wine), under the translator's suggested name for the pine. The pine-cone wine is 'good taken copiously as a drink for pulmonary tuberculosis', which places its stated action on the lungs and respiratory tract. The pitch wine is 'warming, digesting, cleansing, and purging', the chapter's own quality terms, and is named for disorders of the chest, bowels, liver and spleen, and of the womb 'if there is no fever'. Its other named uses are 'deep ulcers' and 'long-lasting discharges' (deep tissue and discharge), 'coughs' and 'asthmas' (airways), 'slow digestion' and 'gaseousness' (digestive tract), and 'dislocations', applied with unwashed wool, a joint and musculoskeletal use. Chapter 5-44 gives no quality of its own beyond 'the same effects as resinatum'. The entry gives no humoral, doshic or qi classification and no modern mechanism, and it does not say which tree is meant.
+
 ### Contraindications
 
 - **Alcohol.** Not suitable in pregnancy, for children, for people with liver disease, or before driving.

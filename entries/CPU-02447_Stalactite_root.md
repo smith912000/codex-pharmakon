@@ -45,6 +45,10 @@ Calcium carbonate is an antacid and a dietary calcium source in general; it is t
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. A middle-grade stone-drug for wounds and fluxes, with no promise of long use. The Classic's editor himself thought it belonged with Kong Gong Nie.
 
+### Functional–Anatomical Correlate
+
+The Shennong classic's actions for Yin Nie, the root of the stalactite, map to the skin and soft tissue, the blood, the intestines, and the body's alternating chill and fever. It treats rotting wounds and static blood, which maps to open wounds and to blood that stagnates in the tissue. Diarrhoea and dysentery map to the intestines and bowel. Cold and heat map to the body's chills and fever as a whole. Mouse fistulas, which Yang renders simply as fistulas, map to abnormal channels through the skin and soft tissue that drain. Concretions, conglomerations and bound qi map to lumps and stagnant qi in a region the entry does not name. The stone is acrid and warm and sits in the middle grade, with no organ or channel affinity printed. The Mingyi layer calls it the root of the stalactite, which is a relation to another stone and not a site.
+
 ### Contraindications
 
 - **Wounds, dysentery, fistulas and lumps.** Need medical assessment.

@@ -90,6 +90,10 @@ In the Greek stream carried through Dioscorides (DMM) and into Avicenna's Unani 
 
 **Practitioner's note.** Nothing. The Greek chapter offers a therapeutic frame only; its value to a cultivator is the discipline of identification, since even the plant's species is unsettled.
 
+### Functional–Anatomical Correlate
+
+The entry maps dark mullein onto the upper airway and mucosa, the kidney and urinary tract, and the skin and eyes. Tradition, read by genus analogy rather than attested for this species, classes mullein as cooling, moistening and relaxing to the respiratory mucosa, a demulcent for dry, tickly cough and catarrh. Greek herbal sources, with a suggested identification, also list an astringent root for flux, hernia, convulsions and old cough, a mouthwash for toothache and leaf poultices for eye inflammation. The Slavic folk use for kidney complaints rests on a presumed diuretic action, and the entry reports a single rat study in which urine output rose, most strongly with the stem extract, with a saluretic effect. Flower oil for earache touches the ear canal, but the entry forbids any instillation into a possibly perforated eardrum. No human respiratory, renal or ear trial for V. nigrum was retrieved.
+
 ### Contraindications
 
 - **Never instil oil, or any liquid, into an ear with a perforated or possibly perforated eardrum.** This is absolute. Ear pain is a symptom requiring otoscopic examination before anything enters the canal; instillation through a perforation risks middle-ear and ototoxic injury. If the drum has not been visualised by a clinician, no mullein oil goes in the ear.

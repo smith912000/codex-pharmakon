@@ -41,6 +41,10 @@ The grains are "astringent" (قابض). No degree of heat or dryness is printed.
 
 **Practitioner's note.** Nothing to practise. It is a coastal astringent grain of unknown species, quoted from Dioscorides.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names two organ targets only. Its excretory organs are the bowel and the womb. Ten grains mixed with wine are recorded, on Dioscorides' claim, as helping long-lasting diarrhoea and a long-lasting flow of moisture from the womb. The grains are called astringent (qabid), the only quality the entry attaches to them, and it prints no temperament, humoral balance, or degree of heat or dryness. No other body system, organ or tissue is mentioned, and the Canon gives no cultivation or innate-heat framing for the plant. The plant is not identified, so no modern anatomical or pharmacological link can be drawn from the text. Pounded grain tablets are mentioned only as a way of storing the remedy, with no organ target. Both conditions are presented as historical report, and the entry itself says they need medical care.
+
 ### Contraindications
 
 - Chronic diarrhoea and uterine discharge need medical care.

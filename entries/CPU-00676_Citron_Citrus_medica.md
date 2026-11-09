@@ -87,6 +87,10 @@ Honest evidence-grade summary: the digestive/carminative and aromatic doctrines 
 
 **Practitioner's note.** Across all six tagged traditions the citron lands at (b) or (c): everywhere a real drug, nowhere assigned a cultivation status in its own tradition's terms. What a cultivator actually does with it is Dioscoridean — carry it, smell it, candy the peel, use the fragrance as an olfactory practice and the sourness as an appetite-cue — a discipline of attention, food-grade and low-stakes. The one non-therapeutic cultivation that is real is horticultural, not spiritual: the growing of a perfect etrog.
 
+### Functional–Anatomical Correlate
+
+Citron is mapped mainly onto the stomach and gut, with the heart and the Liver, Spleen and Lung channels as further territories. In Ayurveda it is a dipana-pachana agent that kindles agni and aids the cooking of food, hrdya (good for the heart) and rucya (restoring appetite and taste). Its rind is used against flatulence and colic, and its juice against anorexia, nausea and belching. The TCM reading has the fruit course Liver qi, harmonise the Stomach and transform phlegm, for chest and epigastric distension and cough. The modern correlates named in the entry are limonene and citral acting on gastric acid and gastro-oesophageal tone, and peel oil antimicrobial activity in vitro. The entry marks the literal antidote claim for the seeds as unsupported. Its cautions are peel-oil phototoxicity of the skin, acid erosion of the teeth and mucosa, and possible aggravation of heat-type gastrointestinal inflammation.
+
 ### Contraindications
 
 - **Furocoumarin phototoxicity (peel).** The expressed peel oil contains bergapten-class furocoumarins that photosensitise skin; topical application followed by UV/sun exposure can cause phytophotodermatitis — burning, blistering, and lasting hyperpigmentation. Never apply neat citron/citrus peel oil to skin before sun exposure. Handle fresh peel with care in bright sun.

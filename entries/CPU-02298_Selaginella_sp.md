@@ -53,6 +53,10 @@ General, well-established facts only. *Selaginella* is a genus of spike-mosses i
 
 **Practitioner's note.** An upper-grade herb whose own paragraph promises a lightened body on long use, in a classic whose grading is a cultivation hierarchy. The classic gives no dose, no duration and no plant description, and the species is uncertain. A cultivator cannot responsibly act on that; the practical lesson is the grade and the missing identification, not a recipe.
 
+### Functional–Anatomical Correlate
+
+In the upper classic, juan bai is said to govern evil qi in the five viscera (五脏), a general term for the internal organs that the text does not name one by one. In women it treats cold and heat and pain within the vagina, concretions and conglomerations, blood block and cut-off offspring, meaning infertility, so the uterus and reproductive tract are the sites named. Its nature is acrid and warm in Sun and acrid and balanced in Yang. Taken long, it is said to lighten the body (轻身), a classic term with no weight-loss meaning, and Yang adds that the facial complexion becomes harmonious, a claim about the skin of the face. The classic does not name channels or any action on jing, qi or shen. The entry flags that Sun's text is cut off in the long-taking clause, that the species is uncertain, and that no modern safety data were retrieved.
+
 ### Contraindications
 
 - **Identity.** The classic describes no plant, and the species is the translator's gloss. Do not substitute one *Selaginella* for another, or for a different herb.

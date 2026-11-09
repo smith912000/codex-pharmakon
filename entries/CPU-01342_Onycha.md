@@ -40,6 +40,10 @@ General facts only. Burnt shell yields calcium oxide (quicklime) with heat, whic
 
 **Practitioner's note.** Nothing here is a practice. The animal is of uncertain identity, the use is a fumigation, and the one honest takeaway is the method: ask where a material comes from, when it was gathered, and what it does on the coals. A cultivator who wants an aromatic has many better-defined ones elsewhere in the Codex.
 
+### Functional–Anatomical Correlate
+
+The covering of this shellfish, onux, is burnt on coals and its smoke is inhaled, a use the text gives for constriction of the uterus and for falling sickness, which is epilepsy. Taken as a drink it is said to trouble the bowels. The burnt shellfish itself is said to do what purpura and buccinum do, which the cross-referenced chapters describe as cleaning the teeth, repressing excrescent flesh (overgrowth of soft tissue), drawing and healing boils, and, for the more caustic buccinum, being rubbed on burns. The sites are therefore the uterus, the brain, the bowel, the teeth, the soft tissue and the skin. The text does not describe how the substance acts in the body and gives no quality in terms of warming or astringency. The smoke is the route it names for the uterus and the brain; the drink is the route for the bowels.
+
 ### Contraindications
 
 - **Inhaled smoke:** smoke from burning animal material is an irritant to the airways and is hazardous in enclosed spaces; the text's own warning is that the drink "troubles the bowels".

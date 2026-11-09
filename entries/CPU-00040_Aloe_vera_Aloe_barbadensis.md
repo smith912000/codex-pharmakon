@@ -117,6 +117,10 @@ Apply 100% aloe vera gel liberally to affected area 3–4x/day; keep moist; do n
 
 ---
 
+### Functional–Anatomical Correlate
+
+Aloe's entry maps its two fractions onto different body systems. The clear inner gel, with acemannan and glycoproteins, is said to act on skin and wound tissue by stimulating fibroblasts and macrophages, lowering inflammatory cytokines, and protecting skin from UV-related inflammation. The yellow latex, with aloin and aloe-emodin, is said to act on the enteric nervous system and intestinal motility to produce catharsis, and is mapped to the Large Intestine. The entry places the Liver as a site of hepatoprotective action for the gel, citing reduced liver enzymes and antioxidant upregulation in a model, and in Chinese terms the Liver (bitter and cold, clearing Liver Fire) and the Stomach (bitter digestive tonic). Ayurvedically it is Tridosha shamaka and Yakrittva (hepatic tonic), with Tvak-sara for skin. Gel effects on gut motility are described as distinct from the latex. Rasayana status and any Ojas action are recorded as unattested.
+
 ### Contraindications
 
 - **Anthraquinone fraction (aloin/whole leaf) — long-term use contraindicated** — chronic anthraquinone use causes melanosis coli (harmless but indicates long-term exposure); possible association with colorectal cancer risk (EFSA review); the EU food standard requires <10ppm aloin in food-grade products; do not use whole-leaf latex products for chronic constipation

@@ -38,6 +38,10 @@ General, well-established facts only. Insects are an edible protein source in ma
 
 **Practitioner's note.** A cultivator does nothing with this. It is a one-line folk remedy for the bladder recorded by a first-century physician, and the sensible use of the entry is as a record, together with the reminder to see a clinician for bladder symptoms.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one organ and one complaint. Dioscorides says grasshoppers, if eaten roasted, help disorders of the bladder, so the urinary bladder is the only body part named. The entry gives no quality, humour or energetic classification for the insect, and no species, source or season. The one preparation is roasting, with no number, quantity, duration or frequency. The next chapter, on locusts, is a separate substance and says that locusts smoked and inhaled help difficulty in urinating, especially in women, and that their flesh is useless. The entry notes that contrast without explaining it. Nothing in the chapter maps the insect onto any further system. The entry's Contraindications section adds that bladder symptoms need assessment, because infection or stones can worsen, and that wild insects can carry allergens or pesticide residue.
+
 ### Contraindications
 
 - **Bladder symptoms:** need assessment; infection or stones can worsen if untreated.

@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a wound and lung drug in the Tibetan texts, with no preparation and no dose, and the plant behind the Tibetan name differs between the two editions. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts place this drug's action in the wounds and the lungs. Clark's root-text layer, as his square brackets mark it, says Busuhang 'heal[s] wounds and cure[s] lung diseases', and Men-Tsee-Khang says it 'heals wounds and cures lung disorders'. Clark's bracketed commentary, which the entry treats as a later layer, adds that the drug 'cures fevers of the kidneys, lungs and heart', so the commentary extends the fever claim to the kidneys and heart as well as the lungs. The entry keeps 'lung diseases' and 'lung disorders' as the texts' own phrases and does not translate them into modern diagnoses. Neither edition gives a taste, power or post-digestive taste for the drug in the lines read, so the energetic classification is empty. The commentary's description of leaves, petioles, flowers and pods is not treated as action. The plant itself is uncertain between legume species, so the organ claims attach to the Tibetan name, not to a confirmed plant.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Wounds and lung disease need medical assessment; no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Because the identity is uncertain, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

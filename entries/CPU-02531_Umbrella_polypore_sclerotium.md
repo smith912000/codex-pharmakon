@@ -43,6 +43,10 @@ General, well-established facts only. The sclerotium is used in modern Chinese p
 
 **Practitioner's note.** The classic gives this sclerotium a long-use clause even though it sits in the middle grade, which its preface ties to weighing a drug's strength. A cultivator reading the entry has the wording and no dose, no preparation and no course length. Take it as a record of how the classic framed the drug.
 
+### Functional–Anatomical Correlate
+
+The paragraph's targets are the water passages (利水道, frees the water passages), intermittent fever (疟), poison and gu-zhu (解毒蛊注) and the inauspicious (不祥). The water passages are the tissues the text names most directly for this sclerotium, and in modern terms they correspond to the urinary system, though the entry does not name those organs. Taken long, it is said to lighten the body (轻身) and endure old age (耐老); the Codex records this as the classic's wording and gives it no body-system map. Intermittent fever is a classical category and not a modern diagnosis, and no organ is named for it. The Wu Pu layer gives sweet from Shennong and bitter, non-toxic from Leigong, and the text prints no organ or channel affinity. Fluid balance in oedema, thirst or fever needs medical assessment. The sclerotium is a fungal body and is a different drug from fu ling (I_194), which the Codex does not substitute for it.
+
 ### Contraindications
 
 - **Identity:** zhu ling is not fu ling (I_194); do not substitute on the similarity the Wu Pu draws.

@@ -42,6 +42,10 @@ General, well-established facts only. Animal fats serve as ointment bases becaus
 
 **Practitioner's note.** A cultivator does nothing with this. It is one fat among six in a hair pomade, with no quantity, and Bryan himself calls the group of such remedies "mighty bewildering" (line 4021). The only use the entry has is as a record of what Ebers lists.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that the fat of the serpent, one of six fats combined and rubbed on the head, is used against baldness. The body site the text names is the scalp and the hair that grows from it. Bryan's list of animal materia medica gives no organ, humour or quality for the serpent, and no Egyptian term for the person is attached to it in the lines read. The anti-serpent remedies, which set dried ant-fish, natron and a garlic ball against a snake creeping from its hole, act on the animal and not on any part of the person. The simile on swollen tumours that wind like snakes describes the disease and does not map the animal onto the body. The Codex records only that the fat is applied to the scalp, and that the text gives no further site.
+
 ### Contraindications
 
 - **Wild snakes:** do not handle or attempt to catch wild snakes; bites can be serious. Seek emergency care after any snakebite.

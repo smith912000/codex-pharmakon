@@ -55,6 +55,10 @@ General, well-established facts only. Tabasheer is a silica-rich deposit; it is 
 
 **Practitioner's note.** A cooling, sweet-tasting siliceous deposit named for lung disease, wound fever and bile disorders. Nothing here supports cultivation use. A cultivator reads it as a plain therapeutic substance of the resin section.
 
+### Functional–Anatomical Correlate
+
+The entry's text claims sites in the lungs, the wounds and the bile. The root text says it cures all lung diseases and removes wound fever, so the action is placed on the lungs and respiratory tract and on the fever that arises from a wound. The Men-Tsee-Khang edition adds hot disorders of the wounds. As a powder with camphor, sandalwood and saffron it is said to pacify bile disorders, and it is listed among standard fever remedies, so bile and fever are further claimed sites. The Explanatory Tantra places it in the sweet taste group, while the commentary calls the real concretion indeterminate or tasteless in taste; the two statements are not reconciled. Its power is named as blunt, by example, and no wind or phlegm action is printed. No organ beyond the lungs, the wounds and the bile is claimed, and no dosha or qi classification is applied from outside the text.
+
 ### Contraindications
 
 - **Identity.** Material sold as bamboo concretion may be a different siliceous or mineral preparation. Do not use on the strength of this entry.

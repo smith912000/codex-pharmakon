@@ -45,6 +45,10 @@ Plants in the spurge-olive and daphne groups are generally known to include irri
 
 **Practitioner's note.** The practice in these chapters is taste and observation: bitterness, bite and the irritated throat as the assay of a purgative. Nothing gives a cultivator a practice for the person. A purgative shrub has nothing here to recommend.
 
+### Functional–Anatomical Correlate
+
+The entry's Dioscorides chapters act mainly on the digestive tract, the liver, the skin and the throat. The leaves of chamelaea, taken as a pill with twice as much wormwood, purge phlegm and bile downward, and the text says they pass through undissolved. Pounded leaves taken with honey purge foul, crusted ulcers. The wine of the flowering shrub (5-79) is good for dropsy, liver disorders, weariness, and women who are constipated after childbirth. Traditional terms: the leaves are thick, bitter, biting to the taste and irritating to the throat. No warming, cooling or Galenic degree is printed. The purgative action is named only as phlegm and bile. The binomial Cneorum tricoccon is a translators' gloss and is unverified.
+
 ### Contraindications
 
 The plant is described as irritating and purgative, and the wine of 5-79 is a medicinal wine of the same shrub. Avoid in pregnancy and in any inflammatory disease of the bowel. Do not self-prescribe purgatives. None of the traditional uses above is advice.

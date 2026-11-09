@@ -149,6 +149,10 @@ The Galenic reading is internally consistent and externally false. Its coherence
 
 **Practitioner's note.** Nothing specific. The traditions read here use fumitory for a defined complaint, not for long-term practice; the entry's own alkaloid caution applies.
 
+### Functional–Anatomical Correlate
+
+The entry maps ramping fumitory onto the gut and the hepatobiliary tract, and sets the traditional skin and liver-bile doctrine aside. The tradition places it in the liver, gall, spleen, blood and skin as an outlet for adust black bile, and classes it as cold, dry and bitter in Galenic terms. The entry rejects the skin claim: the cutaneous elimination theory is false, and no study of this species against eczema, psoriasis, acne or scabies was retrieved. Its isoquinoline alkaloids, protopine, stylopine and coptisine, are the chemical candidates for biliary tone, but no F. capreolata liver study was retrieved. The best-supported claim is moderate and animal-only: in two mouse colitis models the alkaloid fraction reduced colonic IL-6, TNF-alpha and related mediators and normalised MUC-2 and ZO-1, mucin and tight-junction markers of the intestinal barrier. Cholinesterase inhibition appears only at high concentration and is recorded as assay artefact. Pregnancy, children and biliary obstruction are excluded.
+
 ### Contraindications
 
 - **This is an alkaloid plant. Treat it as one.** *F. capreolata* carries protoberberine, benzophenanthridine (including dihydrosanguinarine) and protopine-type isoquinoline alkaloids. These are not gentle constituents, and the plant's status as a common weed should not be mistaken for a safety profile. **Overdose caution is the primary warning of this entry.**

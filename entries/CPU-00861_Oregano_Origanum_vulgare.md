@@ -76,6 +76,10 @@ According to PubMed, the pharmacology of oregano is carried chiefly by carvacrol
 
 **Practitioner's note.** A cultivator uses oregano as a guardian and igniter, not a nourishing tonic — a warming, drying, dispersing herb taken to fortify the terrain before exposure and to clear cold-damp, then eased off. Every tradition that claims it reaches the same therapeutic verdict and none assigns it a cultivation grade. The honest reading is that oregano defends and stimulates rather than builds, and its heating dryness is a reason for short courses, not lifelong daily dosing.
 
+### Functional–Anatomical Correlate
+
+The entry maps oregano onto the digestive system, the chest and the skin. In Galenic and Unani terms it is hot and dry in the third degree, cutting thick phlegm, warming a cold stomach and acting as a carminative and emmenagogue, while in the Ayurvedic reading it kindles digestive fire and clears kapha from the chest. The TCM analogue enters the Lung and Spleen-Stomach, releasing the exterior, transforming damp and dispersing cold stagnation, and the Kenetica dantian mapping places it in the middle dantian. Topically it is used for bites, wounds and skin complaints, and Dioscorides also gave it as a diuretic. The modern correlate is the antimicrobial and antioxidant action of carvacrol and thymol, which the entry links to food-borne pathogens such as E. coli, Salmonella and Bacillus cereus. The entry notes that human clinical trials on carvacrol are still lacking, so the mapping stays at traditional and preclinical level. Concentrated oil irritates mucous membranes and skin, and chemotype varies widely.
+
 ### Contraindications
 - **Pregnancy:** traditional emmenagogue; concentrated preparations and oil to be avoided.
 - **Essential oil:** mucous-membrane and skin irritant; never taken neat; not for infants/young children by inhalation of concentrated oil.

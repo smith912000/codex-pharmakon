@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is an antidote-and-dysentery drug in the Tibetan texts, its Latin name is one of three and probably not this one, and there is no preparation and no dose. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts record that this drug neutralizes poisons and halts dysentery with fever. Clark's bracketed commentary adds that it heals wounds, kidney disorders and disorders of the seminal vesicle, and the Men-Tsee-Khang text says it is an antidote against poison and stops dysentery. In modern anatomy terms the claims reach the intestinal tract (dysentery), the kidneys and urinary tract (kidney disorders), the seminal vesicle, a male accessory gland, and the skin and soft tissues (wound healing). Poisoning is a whole-body condition, and the entry names no single organ for it. The commentary gives the drug bitter and sweet tastes but no power or post-digestive effect, and no channel. That taste is printed for Corallodiscus, which the entry notes is a flowering genus and not a fern, so the organ claims rest on one of three alternative identities.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The identity is uncertain among plants of different families, so no plant should be gathered or used on the strength of this entry. Poisoning and dysentery with fever need urgent medical care. No safety information for pregnancy was read. [USER: verify]

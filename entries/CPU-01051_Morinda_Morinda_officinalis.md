@@ -98,6 +98,10 @@ Bā Jǐ Tiān 15 g + Yin Yang Huo (Epimedium) 15 g + Rou Cong Rong (Cistanche) 1
 
 ---
 
+### Functional–Anatomical Correlate
+
+In the TCM frame, Morinda acts on the Kidney and Liver channels and on Kidney Yang, the Ming Men warmth said to govern reproduction, skeletal integrity and endurance. The entry places its action in the lower body: the lumbar region, the knees and the sinews, which the Bencao Gangmu says it strengthens, and bone, which the tradition links to Kidney Yang. Reproductive organs are named directly, including the cold uterus in infertility. In the modern mapping the entry offers, the reproductive effect runs through Leydig cells of the testis and spermatogenesis, the bone effect through RANKL/OPG balance, and the mood effect through hypothalamic and hippocampal monoamines. Cold extremities and reduced libido are its Yang-deficiency signs. The Ayurvedic cross-reading places it on Shukra Dhatu, reproductive tissue. The entry warns that Yang-warming is wrong for a Yin-deficient, heat-signed body, and names the prostate as a site of caution.
+
 ### Contraindications
 
 - **Yin deficiency with Heat (TCM):** Morinda's Yang-warming nature is contraindicated when there is insufficient Yin to balance Yang augmentation; presents as night sweats, afternoon fever, dry throat, red tongue with scanty coat — exacerbation of these signs indicates inappropriate use

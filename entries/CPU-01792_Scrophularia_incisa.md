@@ -53,6 +53,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a pox-fever drug in one short line of each edition, with no preparation and no dose, and its Latin name is the first of three that Clark prints. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names no organ, tissue or body system for this drug. Clark 1995 states only that it cures all types of pox-fever, and Men-Tsee-Khang 2011 states that it cures hot disorder associated with small pox. Both are disease terms, and the translators' words are kept as printed rather than merged. The bracketed commentary describes the petiole, flower and seed of the plant but does not name any of them as the part acting, and it gives no taste, power or post-digestive taste. Neither edition gives a channel, a site or a tissue. The Tibetan name is set against its Latin name by an editor's column count, and the botanical identity is open among three species, so nothing further can be placed on the body from this entry.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Pox and fever need medical care; the identity is open among at least three species, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. No conservation information and no safety information for pregnancy were read. [USER: verify]

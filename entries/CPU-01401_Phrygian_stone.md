@@ -60,6 +60,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+The claimed sites are the skin and the wound surface. Burnt stone, raw or burnt, mixed into a stiff ointment is said to bind, cleanse and form scabs on wounds, and to heal burns, so the action falls on the surface tissue where a wound is open or a burn is present. Avicenna's Unani entry, whose link to this stone rests on the name, gives the actions as drying, astringency, a stinging bite and dissolving, in humoral language, and names no organ, temperament degree or channel. The Dioscoridean text prints no warming, cooling, drying or moistening quality, and binding is a use rather than a stated quality. No internal organ, head, eye, chest or digestive site is claimed, and no doshic or qi classification is printed. The drying and astringent action is therefore the only energetic frame the sources give. The stone's identity is unsettled, so the tissue action is the claim of the texts, not the mechanism of a known material.
+
 ### Contraindications
 
 - **Unidentified material:** the identification is uncertain; an unknown stone should not be burnt, ground or applied to wounds or burns.

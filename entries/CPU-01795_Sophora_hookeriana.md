@@ -53,6 +53,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a fracture and poison-fever drug with no preparation and no dose, and its Latin name is, on the texts' own evidence, probably a printing slip. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The rGyud-bzhi gives this drug two actions on the body. Clark 1995 states, in the entry's root-text marks, that it heals skull fractures and fever with poisoning, and the Men-Tsee-Khang 2011 running text says it heals fractured skulls and cures hot disorder associated with poisoning. The skull is therefore the bodily site the texts name, with the fracture as the injury, and the fever and hot disorder as febrile conditions tied to poisoning. The commentary layer adds that the root is extremely bitter, which names no organ. The two editions agree in kind, though the translators' words, fever and hot disorder, are kept as printed rather than merged. The Tibetan name is read as one drug only by its position and sequence, and the Latin name may be a printing slip for Soroseris, so the bodily mapping is open to that reading. Head injuries, fractures and poisoning need emergency medical care, and the entry gives no protocol or dose.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Fractures, head injuries, fever and poisoning need medical care; the identity is open between two genera, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. It is a general fact that many *Sophora* species contain alkaloids that are toxic in excess, which is a further reason to leave the plant alone while its genus is unsettled. No conservation information and no safety information for pregnancy were read. [USER: verify]

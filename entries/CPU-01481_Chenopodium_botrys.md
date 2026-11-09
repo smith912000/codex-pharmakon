@@ -45,6 +45,10 @@ No study of the plant was opened. "Difficult breathing" is a symptom with many c
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant beyond the scent among cloths. Difficult breathing is not something to self-treat from a historical entry.
 
+### Functional–Anatomical Correlate
+
+The chapter maps its single internal use onto the breathing apparatus. A decoction of the plant made with wine, drunk as a drink, is said “to ease difficult breathing”, which in modern anatomy means the airways and lungs, though Dioscorides names neither. The sweet scent of the plant is the only other effect recorded, and the plant is laid among cloths, a household use with no internal target. It is described as yellowish, shrub-like and winged, with seed around all the branches and chicory-like leaves, and it grows near running water and brooks. Dioscorides gives no warming, cooling or drying quality, and no humoral, doshic or qi framework. The chapter names no system beyond the breath, and no tissue, skin or organ beyond this. The identity is split between a goosefoot and a germander, so the mapping rests on an unsettled plant. Difficult breathing has many causes, and the entry gives no dose and no protocol. The chapter’s claim is recorded here, not endorsed.
+
 ### Contraindications
 
 Difficult breathing can be a sign of a serious condition and needs medical assessment. The plant's identity is uncertain, so no wild plant should be gathered or drunk on this basis. None of the traditional uses above is advice. [USER: verify]

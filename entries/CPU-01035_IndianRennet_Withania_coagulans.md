@@ -129,6 +129,10 @@ Beating dexamethasone on safety in a rodent model is a meaningful preclinical re
 
 **Practitioner's note.** Nothing for a cultivator. This is a fruit used for milk-setting and, in folk practice, for sugar. Do not borrow Ashwagandha's rejuvenative standing for it.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Withania coagulans maps to the digestive and metabolic systems. Ayurveda classes the fruit as bitter-pungent and heating, digestive (dipana-pacana) and binding, used for prameha, the flux disorder the tradition relates to diabetes. Unani sources class it as hot and dry, a resolvent and digestive. The milk-clotting activity is an aspartic protease that clips kappa-casein, and the entry stresses this has no mechanistic link to sugar. The antidiabetic activity is attributed to withanolides acting on glucose handling, reported in rodents at high doses with no human trial retrieved. Coagulansin-A is described as the most promising lead, with rodent arthritis and asthma data in which airway inflammation improved and liver and kidney structure was preserved relative to dexamethasone. Cautions centre on additive hypoglycaemia with glucose-lowering drugs, and on pregnancy, lactation and surgery.
+
 ### Contraindications
 
 - **Hypoglycaemia with antidiabetic drugs — the principal risk.** The whole point of this plant's folk use is glucose-lowering, and rodent data show substantial FBG reductions. Anyone taking insulin, sulfonylureas, meglitinides, metformin or any glucose-lowering agent who also drinks paneer dodi water risks **additive hypoglycaemia**. This is not a theoretical interaction — it is the plant doing exactly what it is taken to do, twice. Blood glucose must be monitored; do not stack an unquantified folk preparation on a titrated drug.

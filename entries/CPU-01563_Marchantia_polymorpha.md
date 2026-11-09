@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity i
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this material. It is a short note on a moss from wet rocks with four external or honeyed uses, so the honest answer is that there is nothing here to take up.
 
+### Functional–Anatomical Correlate
+
+The entry's Dioscorides claims (DMM, chapter 4-53) act on four sites. Applied to the body, the moss is said to stop discharges of blood and to lessen inflammation, and the chapter names no organ for either. It is said to heal lichen, which the translators gloss as a papular skin disease, so the skin is the one tissue named. Applied with honey it is said to help jaundice, which the chapter does not tie to any organ; in modern anatomy terms jaundice concerns the liver and bile, which the chapter does not name. It is also said to help the fluids of the mouth and tongue, which the translators gloss as saliva, so the oral mucosa and salivary flow are the sites named. The chapter prints no humour, dosha, qi, temperament or taste for this plant. The identity is uncertain between a liverwort and several lichens, which are different organisms, so none of these mappings is tied to a verified species. Bleeding and jaundice need medical assessment.
+
 ### Contraindications
 
 Chapter 4-53 prints no warning. Bleeding that does not stop and jaundice need medical care and must not be left to a poultice of moss. The identification is only the translators' suggestion between a liverwort and several lichens, and a wild moss gathered from rocks can carry dirt and microbes, so no plant should be gathered or applied on the strength of this entry. The chapter gives no dose, and no safety information for pregnancy was read. [USER: verify]

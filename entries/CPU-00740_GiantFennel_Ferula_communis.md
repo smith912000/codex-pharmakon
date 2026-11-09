@@ -76,6 +76,10 @@ Warm-and-dry (Avicennian, upper degrees), resolvent and carminative in the ferul
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry's target is the blood-clotting system and the liver that makes its factors. Ferulenol and ferprenin, the prenylated coumarins of the poisonous chemotype, inhibit VKORC1, the enzyme warfarin targets, and reduce biosynthesis of vitamin-K-dependent factors (II, VII, IX, X), with factor X down about 40 percent and hepatocyte cytotoxicity noted. The described result is haemorrhagic ferulosis in livestock: spontaneous internal and mucosal bleeding. Traditional Greco-Arabic and Dioscoridean descriptions give the plant warm and dry, carminative, resolvent and purgative action, with a warning of head disturbance and violent effect; these are organ claims the entry does not confirm. The estrogenic daucane fraction (ferutinin) acts on estrogen receptors in the non-poisonous chemotype, and the entry lists pregnancy as contraindicated for that and for the coumarins. The fire-carrier reading is a symbolic structure, not a health claim.
+
 ### Contraindications
 
 **⚠️ ABSOLUTE — ANTICOAGULANT / HAEMORRHAGIC POISON. READ IN FULL.**

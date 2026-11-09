@@ -57,6 +57,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+In the medical use, cat fat maps to the scalp and hair: it is the fourth of six fats made into one and rubbed on the head of a bald man in the Ebers hair chapter. Its second use is not a remedy for a body: a smear of cat's fat on clothes is said to keep mice away, a household device, so no organ is claimed. The text does not say whether the fat or the presence of the cat was the point. No humour, temperament or qi is named for cat fat in any of the traditions read, and the Egyptian material offers no constitutional quality; spell and drug were one intervention (heka), but Bryan prints no recitation with either use. The mapping stops at scalp and hair. The entry notes that cats are companion animals and can carry organisms that infect people, so the fat on broken skin carries infection risk.
+
 ### Contraindications
 
 - **Hygiene and infection:** animal fat on the scalp or on broken skin carries infection risk; cats can carry bacteria and parasites that infect people.

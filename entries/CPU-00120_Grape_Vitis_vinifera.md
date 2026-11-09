@@ -137,6 +137,10 @@ Before anything else, a distinction this entry depends on: the **fresh fruit**, 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps the grape mainly onto the cardiovascular system and vessel wall. Resveratrol and oligomeric proanthocyanidins are said to act on the endothelium, and anthocyanins from red and black skin to inhibit platelet aggregation and raise nitric oxide. In Traditional Chinese terms the grape enters the Heart and Liver for Blood nourishment and moving, with the Kidney as uterine tonic and the Spleen-Stomach stimulated for digestion through tartaric and malic acids. In Ayurveda the dried raisin (Draksha) is a Tridoshic cardiac tonic that nourishes tissue (Bringhana) and stops bleeding with heat (Raktapitta-shamaka). OPCs are linked to collagen cross-links in tendon and ligament, and resveratrol to mitochondrial and metabolic pathways in muscle and liver. The Shennong classic names the muscles, bones and spirit (Shen) as benefited. Egyptian and Assyrian material records wine as a pharmaceutical vehicle, not as an organ-level action.
+
 ### Contraindications
 
 - **Resveratrol + anticoagulants / antiplatelet agents** — high-dose resveratrol (>500mg/day) and grape seed OPCs both inhibit platelet aggregation (OPCs also inhibit PAF receptor activation); additive with warfarin, heparin, aspirin, clopidogrel; do not combine high-dose grape polyphenol supplementation with anticoagulant medication without monitoring; the anthocyanin/OPC platelet effect in the Freedman trial (77% inhibition of platelet aggregation) indicates clinically meaningful anticoagulant-equivalent activity

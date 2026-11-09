@@ -80,6 +80,10 @@ The umbelliferone-class calcium-channel-modulating smooth-muscle mechanism is do
 
 ---
 
+### Functional–Anatomical Correlate
+
+Opopanax is mapped mainly to the cold-damp abdomen and to the channels that carry it. The entry's TCM reading gives the Spleen and Stomach as entry points, with the Lung reached for cold phlegm in old cough, and says it disperses cold stagnation in the lower abdomen. The classical resolvent role covers indurations and swellings, applied topically as a warm plaster, and cold, aching joints and sciatic pain are named as joint targets. Its smooth-muscle relaxant action, credited to umbelliferone-type hydroxycoumarins, is linked to cramp, colic and convulsive tension, which the entry gives as a secondary Shen (nervine) action. In the uterus the classical emmenagogue use is marked as an absolute contraindication in pregnancy. The hot, sharp quality can aggravate active gastritis or ulcer, and coumarin-type anticoagulant effects bear on the blood. Humorally it is hot and dry, and the entry records the Unani degree as unverified.
+
 ### Contraindications
 
 - **ABSOLUTE — Pregnancy:** classical emmenagogue and uterine-stimulant; contraindicated in pregnancy.

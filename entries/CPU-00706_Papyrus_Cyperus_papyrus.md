@@ -69,6 +69,10 @@ According to PubMed, the modern research literature on *Cyperus papyrus* is over
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps papyrus onto surface tissue and bleeding rather than onto any internal organ. In Avicenna's Canon the charred ash is sprinkled on fresh wounds to stop bleeding and close them, and the soaked and dried reed goes into fistulas and spreading ulcers; the ash is also applied to mouth ulcers, to spitting of blood and nosebleed, to haemorrhoids, and, in the separate paper entry, to ringworm. Dioscorides records the charred paper as a drying, astringent dressing for spreading sores of the mouth and skin. Avicenna grades the reed under the entry on bardi as cold and dry, and under the entry on qirtas as hot in the first degree and dry in the second; the entry reports both as written. The pith and rhizome act on the digestive system only as starchy food. Any antioxidant or other pharmacology is extrapolated from the wider Cyperus genus and is not established for this species.
+
 ### Contraindications
 
 - **General caution:** No established internal medicinal use and therefore no established safety profile for therapeutic doses. Do not ingest as a remedy.

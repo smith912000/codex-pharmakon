@@ -89,6 +89,10 @@ According to PubMed, the traditional hepatoprotective ("liver-cooling") use has 
 
 **Practitioner's note.** For a cultivator, indigo is a plant to **work with rather than to take**. Nothing in any tradition tagged here supports long-term internal use for the sake of the constitution, and the cold, short-course grading of the indigo-medicine class is itself the warning. The external and hair applications are the honest register, patch-tested first, and the internal preparations stay at Advanced phase under supervision. What indigo genuinely teaches is a **discipline of preparation** — the leaf is green, and the blue must be fermented and oxidised out of it — and a discipline of **identity**, since neither the Sanskrit *nīlī* nor the Chinese indigo material reliably denotes this species. Both are craft attentions of the highest order. Neither is a cultivation status, and this register keeps them apart.
 
+### Functional–Anatomical Correlate
+
+Per the entry, indigo acts on the liver, skin and hair, with a cooling, Heat-clearing and toxin-resolving action. In Ayurvedic and Siddha terms Nili acts on the liver and spleen (yakrit-pliha), on chronic skin disease (kushtha) and as a hair-benefiting keshya agent, reducing pitta and kapha. In Unani it is cold and dry, applied externally to hot skin, ulcers and inflammations, and used as a hair colourant. In TCM, qing-dai is cold and salty, cooling Blood, clearing Heat and resolving toxin for mouth sores, febrile eruptions and inflamed skin and gut, acting on the Liver, Lung and Stomach channels. An isolated fatty acid, TCA, and a fraction called indigtone gave hepatoprotective activity against carbon-tetrachloride and paracetamol liver injury in rats and mice, a preclinical claim with no human trial. Indirubin is cited as an anti-inflammatory companion pigment. The entry restricts internal use, noting Fabaceae toxicity and rare serious effects from high-dose indigo naturalis.
+
 ### Contraindications
 
 - **Pregnancy & lactation:** insufficient safety data; traditional cooling/emmenagogue associations in the Fabaceae warrant avoidance of medicinal internal doses `[USER: verify]`.

@@ -61,6 +61,10 @@ According to PubMed, the evidence for Karañja is chiefly **phytochemical and pr
 
 **Practitioner's note.** Nothing. The record is of a group-listed drug for skin and ulcer conditions.
 
+### Functional–Anatomical Correlate
+
+Karanja acts on the skin and its surface barrier, on wounds, on parasites of the skin and gut, and on the gums. Its Ayurvedic actions are kushthaghna (anti-dermatosis), kandughna (anti-pruritic), krimighna (anthelmintic), vranashodhana-ropana (wound cleansing and healing) and krimidanta (twig use for gums and teeth), as a member of the Aragvadhadi group. It pacifies Kapha and Vata. Classical use is external. The seed oil (karanja taila) is applied to scabies, eczema, ringworm and non-healing ulcers, and leaf poultices to wounds, swellings and itch. Siddha practice uses the oil for scabies and skin eruptions. The modern reviewed literature cites karanjin and pongamol, with reported antioxidant, antimicrobial, anti-inflammatory and antidiabetic activity, and low mammalian toxicity for several extracts. The entry grades this preclinical and says human evidence for the oil is thin. Internal seed use is bitter and can irritate or cause vomiting. Patch-test the oil, and avoid internal use in pregnancy and lactation.
+
 ### Contraindications
 
 Internal use of seed/oil requires supervision — the seed is bitter and can be an irritant/emetic in quantity. Patch-test the oil before wide topical use; discontinue on irritation. Pregnancy and lactation: internal use best avoided without qualified guidance. Not to be confused with edible oils.

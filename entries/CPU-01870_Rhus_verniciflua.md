@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** A cultivator does nothing with this drug on the strength of the texts. It is a drastic purgative of the physician's course, and the glossary's species, if it is the one meant, is one whose sap can burn the skin. Nothing here supports gathering or taking any lacquer-tree or sap-bearing plant on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts give shri khenda a purgative action and name no organ for it. Men-Tsee-Khang says it strongly purges all disorders, and Clark calls it, with castor oil seed, a drastic purgative, adding in brackets that it also heals abscesses. In modern anatomy, purging is an action on the digestive tract, which the texts do not name. The commentary gives astringent, slightly bitter tastes for the tree and a white sap melted to make a concentrate, with no method. The Shennong register in the entry is for a different drug, the lacquer, whose upper-grade claims concern wounds, sinews and bones, marrow and brain and the five organs; the entry says those do not describe this purgative. The glossary's species, whose sap is a skin hazard, is not settled, so the purgative claims belong to the Tibetan drug and not to one tree.
+
 ### Contraindications
 
 The sources read print no warning beyond the word "drastic". As a general fact the sap of *Rhus verniciflua* can cause severe skin reactions on contact. The identity is open, so no plant should be gathered, handled or taken on the strength of this entry. No conservation information and no safety information for pregnancy was read. [USER: verify]

@@ -64,6 +64,10 @@ Two lines of real evidence support the traditional profile. First, on **chemistr
 
 ---
 
+### Functional–Anatomical Correlate
+
+In Chinese terms the entry places shan wo ju as bitter and cold, clearing heat, cooling blood and resolving swellings, directed broadly at the Heart, Stomach and Liver in the cooling-detoxicant class, with an irritable stomach settled by it. Ayurveda reads the plant as tikta and kashaya, pacifying pitta and kapha, mildly sedative and digestive. The entry says the bitter latex stimulates digestive secretion, the classic bitter reflex. Its central action is linked to guaianolide sesquiterpene lactones such as lactucin and lactucopicrin. The entry cites mouse work on these bitters from related species, reporting reduced spontaneous locomotor activity and analgesia, so the mapped target is the central nervous system and locomotor drive. It also reports in-vitro inhibition of nitric-oxide production by an isolated compound. The entry lists contraindications with CNS depressants and cautions in pregnancy and lactation.
+
 ### Contraindications
 
 Sedative bitters may potentiate CNS depressants (alcohol, benzodiazepines, sedating antihistamines, opioids) — avoid concurrent use or use with caution. High doses of lactucarium can cause drowsiness, nausea and, historically, anticholinergic-type effects; keep to small amounts. Avoid before driving or operating machinery. Asteraceae-family allergy (ragweed, daisy, chamomile cross-reactivity) is a contraindication. Caution in pregnancy and lactation (insufficient safety data; emmenagogue reputation of bitter latex). Not a substitute for evaluation of chronic insomnia or pain.

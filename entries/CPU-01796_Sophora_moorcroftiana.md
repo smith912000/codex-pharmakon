@@ -57,6 +57,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is an emetic seed with no preparation and no dose. The abstentive answer is the honest one: nothing here supports gathering or taking it.
 
+### Functional–Anatomical Correlate
+
+The rGyud-bzhi places this drug's action on the seed and on the act of vomiting. Clark 1995 states outside the brackets that the seed is a bile emetic, and the chapter 21 class of emetics lists seed of Sophora moorcroftiana among nine substances. Men-Tsee-Khang 2011 says the fruit of the Kyiwa brings up tripa disorders, and its chapter 21 emetics group is read here by position only. The commentary layer, inside Clark's brackets, adds that the plant is fragrant with bitter taste and is anthelmintic, and that it treats diphtheria and quinsy, which would place action on worms and on the throat. Tripa and bile are translators' words for disorders that the Codex does not translate between. The entry gives the seed or fruit as the part used and the emetic as the action, and it names no organ beyond these. Vomiting is hazardous, and no dose or protocol is given.
+
 ### Contraindications
 
 The sources read print no warning for this drug. An emetic is a hazard in itself, and the seeds of many *Sophora* species contain alkaloids that are toxic in excess (a general fact about the genus, not about this plant). No preparation or dose is given, and no plant should be gathered or used on the strength of this entry. No conservation information and no safety information for pregnancy were read. [USER: verify]

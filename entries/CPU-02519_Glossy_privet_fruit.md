@@ -41,6 +41,10 @@ General, well-established facts only. *Ligustrum lucidum* is a widely planted ev
 
 **Practitioner's note.** The classic grades this as a long-use, life-nourishing fruit, and that grade is its whole cultivation status. A cultivator reading the entry has the grade and the wording to go on, and no dose, no preparation and no course length: the text gives none. Take it as a record of how the classic framed the drug, not as an instruction.
 
+### Functional–Anatomical Correlate
+
+The paragraph maps the drug onto the centre (补中), a term the entry leaves untranslated, and onto the five viscera (五脏), which it says it calms (安五脏). It also nourishes the essence-spirit (养精神), a pair of terms with no modern equivalent given. The indication removes the hundred illnesses (除百疾) and names no organ. Its long-use clause maps onto the whole body: taken long, the fruit makes one plump and sturdy (肥健), lightens the body and prevents ageing. Energetically the fruit is bitter and even (味苦，平). The classic places it in the upper grade, whose preface says upper drugs nourish life. The Codex records these as the classic's categories and does not translate 精神 or 中 into a modern organ. Sun Xingyan's commentary on the name is not part of the Shennong text, and the Mingyi layer adds only the place and season.
+
 ### Contraindications
 
 - **Identity:** common privet (*Ligustrum vulgare*, I_591) and other privets are not this drug; the berries of common privet are generally regarded as poisonous if eaten, so a privet must not be substituted on appearance.

@@ -113,6 +113,10 @@ Wǔ Wèi Zǐ (五味子, "Five Flavor Fruit") is unique in the entire materia me
 
 ---
 
+### Functional–Anatomical Correlate
+
+Schisandra's main organ target in the entry is the liver: schisandrin B is said to inhibit CYP2E1 and CYP3A4 reactive-intermediate formation while raising hepatic glutathione and Phase II enzymes. At the mitochondrial level the entry places schisandrin B in cardiac mitochondria, preserving membrane potential and Complex I and III function. In TCM terms the five flavours map to the five Zang, with the Lung as primary channel (astringing Qi and cough), the Kidney (securing essence and checking night sweats and seminal emission), the Heart (calming the shen) and the Liver and Spleen (hepatoprotection, diarrhoea). The entry also maps it onto the HPA axis, claiming hippocampal glucocorticoid receptor upregulation and lower basal cortisol, and onto limbic arousal and sleep architecture via calcium-channel modulation. Its sweat-constraining action (liǎn hàn) is applied to sweat output. Ayurvedically it is said to lower Vata, and Tibetan sources place it under rlung and bcud len essence conservation.
+
 ### Contraindications
 
 - **CYP3A4 drug interactions (significant):** Gomisin A and schisandrin B are moderate to potent CYP3A4 inhibitors; clinically significant interaction potential with cyclosporine (nephrotoxicity risk), tacrolimus, statins (simvastatin, atorvastatin — myopathy risk), benzodiazepines (elevated sedation), calcium channel blockers, protease inhibitors, and many chemotherapy agents; medical supervision required with CYP3A4-dependent medications

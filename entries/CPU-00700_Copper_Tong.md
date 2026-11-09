@@ -57,6 +57,10 @@ Copper compounds are astringent and antimicrobial, which is consistent with thei
 
 **Practitioner's note.** There is nothing here for a cultivator to take. Copper is, in these sources, an astringent and eye applications material, a toxin to be handled with care, a vessel, and in Egypt a substance spoken over. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Copper's claimed sites are the skin and ulcers, the eyes, the bowels, and the blood and urinary tract. Dioscorides' burnt brass is astringent and drying, relieves and forms a skin over ulcers, and induces vomiting. Its flowers are therapeutic for the bowels and extract thick fluids. Rust of brass is astringent, warming, and removes scars in the eyes. Verdigris is said to be made from brass held over vinegar. Sushruta gives copper a sweet and astringent taste, a liquefacient and corrosive action, and a laxative, cooling potency. The Trapvadi group, which includes copper, is named a vermifuge covering jaundice, chlorosis, urethral discharges, heart disease and thirst. Powdered copper, pasted with honey into sticks, is used as a collyrium on the eye. In modern anatomy terms the sites are the skin, the eyes, the gut, the urinary tract, the heart and the blood.
+
 ### Contraindications
 
 Copper salts, verdigris and "burnt" copper preparations are poisonous if swallowed (vomiting, gut and liver injury); the Dioscorides headings themselves warn ("RISK OF BLOOD POISONING", "TOXIC"). Traditional ash and *bhasma* preparations are unstandardised and may carry other toxic metals. Sale and use of such preparations is regulated in many places. Spoken and ritual uses are ritual, not therapy.

@@ -46,6 +46,10 @@ General, well-established facts only. Camel meat is a source of protein and iron
 
 **Practitioner's note.** Nothing here makes camel flesh a cultivation substance. Sushruta files it with the domestic meats, ranks that kind below the others, and gives the camel no line of its own. For a cultivator the honest use is ordinary diet where camel is an ordinary food, and nothing more. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the text gives one line for camel flesh, which is in the domestic Gramya group of Sushruta's chapter on food and drink. The group statement says the flesh is constructive, tonic and appetising, sweet in taste and digestion, that it destroys deranged Vayu, and that it produces Kapha and Pitta. No organ, tissue or disease is given for camel flesh itself, and the English prints no separate virya, vipaka or cultivation status for it. The other camel materials the text names are not camel flesh: she-camel milk alone as a regimen for abdominal dropsy, pounded camel bones in wine or hot water for gravel, camel dung in food for urinary disease, and burnt bone ash as alkaline water for the same disease. None of those is a use of the flesh.
+
 ### Contraindications
 
 - **Hygiene and infection:** raw, undercooked or unpasteurised camel products carry bacterial and parasitic risk, including brucellosis; dromedary camels are the animal reservoir of MERS-CoV, so contact with sick animals and raw products is a risk.

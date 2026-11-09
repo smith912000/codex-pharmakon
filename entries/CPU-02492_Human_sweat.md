@@ -42,6 +42,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing. The text treats a body excretion as a poultice for swellings; it is not a practice for cultivation and not one to repeat.
 
+### Functional–Anatomical Correlate
+
+Avicenna describes sweat as the wateriness of the blood mixed with a bilious sanies, riper than urine, arising from the surplus of softness and moisture after the final digestion. Its action is dissolving, and the text uses it locally. Wrestlers' sweat with henna oil dissolves swellings of the groin, and the dried sweat with henna oil is placed on swellings of the breast and dissolves them. With rose oil it is applied to the clotting of milk in the breast. The systems mapped are the skin and surface of the groin and breast, and the breast's milk, with the swelling named only as swelling. No internal organ, humour or vital faculty is named, and no temperament degree is given, only a dissolving power. The text says the substance differs by animal, but the entry gives no further mapping. Modern anatomy would name the groin and breast tissue and the milk ducts.
+
 ### Contraindications
 
 Hygiene: applying another person's sweat to the skin or to a swelling risks infection and is not advised. The text's use is historical record. Sweat from an unwell person can carry skin organisms.

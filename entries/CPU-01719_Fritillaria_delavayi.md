@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a drug for skull fracture and poisoning fever in the Tibetan texts, with no preparation and no dose, and its Latin name is one of four that Clark offers. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts name a.bi.sha or a.bi.ka, glossed non-poison, as a drug that heals skull fractures and fever caused by poisoning (Clark, line 1016). The Men-Tsee-Khang text says it joins fractured skulls and hot disorder associated with poisoning (line 3432). The organs and tissues the entry names are the skull and the bone that is fractured. Fever caused by poisoning is named as a systemic state. Clark's commentary gives the genus a sweet taste and cool power. The entry reports these words and does not take them as the drug's energetic profile, and no post-digestive taste is printed. No constituent is named in the sources. The botanical identity is open among four Latin names from four genera, and the commentary's description of a brown trunk and a six-sided pod fits none of them clearly. The name non-poison is a drug name and not a safety statement. No clinical study was retrieved, so the mapping is the texts' claim about a drug and not a finding about any plant.
+
 ### Contraindications
 
 The sources read print no warning for this drug; its name, "non-poison", is not a safety statement. Poisoning and skull fracture need emergency medical care, the identity is open between plants of different genera, and no preparation or dose is given, so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

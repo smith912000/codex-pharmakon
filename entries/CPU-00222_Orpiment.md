@@ -52,6 +52,10 @@ Arsenic compounds are corrosive to tissue, which is consistent with the Greek cl
 
 **Practitioner's note.** Nothing here for a cultivator to take. Orpiment is, in these sources, a poison with external uses, in the Chinese scheme a middle-grade drug "to weigh and ponder" before use, and in the Greek scheme a stone to be recognised by its look and handled with respect. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Divine Farmer's Classic (SBJ) places its action on the skin and its appendages: malign sores, scabs and baldness, which maps to the scalp and hair follicles, and the itching of the body that comes with lice and other skin parasites. It is also said to act on evil qi and all toxins, a general category with no named organ, and to make the body light, which names no organ either. Dioscorides (DMM) gives the same surface field in other terms: the drug is scab forming, represses abnormal growths and makes the hair fall out, so the hair follicles are named again. The Greek text calls it antiseptic and astringent, with a burning, biting strength. Ebers and Avicenna name no site for it, and the entry gives no humoral or doshic term. In modern anatomy the claimed sites are the epidermis and dermis, the hair follicles of the scalp, the body surface where lice live, and the whole body.
+
 ### Contraindications
 
 Orpiment and every arsenic compound are poisonous (gut, nerves, skin, liver, kidney) and carcinogenic with long exposure; roasting them releases toxic fume. Preparations sold as traditional remedies have caused arsenic poisoning. Use is banned or restricted in many places. Do not use. Ritual and demon-related claims in other entries are ritual, not therapy.

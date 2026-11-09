@@ -45,6 +45,10 @@ None given for this plant in AT, DMM or CM, since no locus was found. Chapter 4-
 
 **Practitioner's note.** There is nothing to cultivate here in the Codex's sense. The three-tradition tag line is not supported by any passage read, and the entry exists to record that gap so that the tags can be corrected.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that no tradition read attests a use of Fritillaria imperialis, and that no constituents, preparation, dose or clinical study was retrieved for it. It records that the tags Assyrian, Avicennan and Dioscoridean were inherited from an index row by name match, not from a text. The Dioscorides chapter attached to the row, 4-58 Chrysanthemon, describes a different plant, with flower-based uses said to dissolve steatomata and to colour the jaundiced, and the entry says none of that transfers. The genus is generally known to contain steroidal alkaloids in the bulb, but the entry says the species' own constituents were not read. No body system, organ or tissue is attributed to the plant in any tradition read, and the entry advises against eating ornamental Fritillaria bulbs as medicine.
+
 ### Contraindications
 
 No safety data were read. As a general caution, bulbs of ornamental *Fritillaria* species should not be eaten or used as medicine on the strength of this entry. Seek ordinary medical care for any complaint.

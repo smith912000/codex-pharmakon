@@ -51,6 +51,10 @@ General, well-established facts only. Jasmine flowers are used worldwide as perf
 
 **Practitioner's note.** A scented flower of uncertain species that Sushruta uses for ulcers, skin disease and Pittam, and cites as a measure of fineness. There is nothing here to take up as a cultivation practice; the entry keeps the name, its four contexts and the open identification on record.
 
+### Functional–Anatomical Correlate
+
+In the text Malati is a bitter-tasting flower that subdues Pittam through its sweet scent. It is also a member of the La'ksha'di group, which is astringent, bitter and sweet, acts as a vermifuge and an aseptic agent for bad, malignant or indolent ulcers, and is said to help Kapham, Pittam and cutaneous affections (Kushtham). A medicated ghee with Malati among other drugs is called healing in a passage on ulcers, but the part used is not stated. The text names no organ for any of these actions. In modern terms the ulcers and skin disease concern the skin and wound surfaces, which the text does not itself name. The girth of a Malati flower stem is used as a measure for surgical needles, which is not a drug action. Kapham, Pittam and Kushtham are the text's own terms and are not translated into modern diagnoses.
+
 ### Contraindications
 
 - **Identity unresolved.** If the Appendix pairing "Aganosma" is correct, the plant belongs to a family in which some members are poisonous; if it is a jasmine, it is generally a food-grade scent plant. Do not substitute either on the strength of this entry. [USER: verify]

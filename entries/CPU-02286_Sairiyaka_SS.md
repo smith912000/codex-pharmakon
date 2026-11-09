@@ -54,6 +54,10 @@ General, well-established facts only. The identity is open, so no pharmacology c
 
 **Practitioner's note.** An unidentified name in two group lists, with two kinds the text does not tell apart. Nothing supports cultivation use, and without an identification nothing can be gathered or used. A cultivator reads it as a name in a record.
 
+### Functional–Anatomical Correlate
+
+Sairiyaka is placed by two groups, each stating its virtue for the group as a whole. In the Varuna'di group it is said to reduce deranged Kapha and fat and to serve in headache, abdominal lumps (Gulma) and internal abscesses; the Codex maps these to the head, the abdomen and internal soft tissue, and to the body's Kapha and fat. In the Pancha-kantaka group, which the text describes as five thorny shrubs, it is grouped with Valli-Panchamulam in haemoptysis, the three kinds of swelling (Shopha), urethral discharges and seminal disorders. Modern anatomy for these is the lungs and airway, the body's swellings, the urethra and the reproductive tract. The text gives no description of the plant beyond the thorny group, no part used, no taste, potency, dose or recipe. The spelling Saireyaka appears in four places, three of them recipes, but the text does not say it is the same drug, and the Barleria suggestion has no support in the sources read. The plant is unidentified.
+
 ### Contraindications
 
 - **Identity.** The plant is unidentified, and it is not established that *Sairiyaka* and *Saireyaka* are one drug. Do not substitute any herb for it. Do not take the Barleria suggestion as an identification.

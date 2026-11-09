@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. As a general fact, pine resin
 
 **Practitioner's note.** Nothing. A cultivator has nothing sourced to do with this entry: the record is a list row. This is a historical record only and not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the list row gives the Nahuatl name ayauhquahuitl, the gloss Mexican white pine and the species Pinus ayacahuite, without flagging uncertainty. It names no folio, part of the tree, preparation, use, complaint, body system, energetic classification or cultivation status. The entry's general background, not drawn from the row, is that pines produce resin with pinene and an aromatic turpentine, that pine resin and turpentine can irritate skin and airways, and that turpentine is toxic if swallowed. The composition of the plant was not read, and no clinical study was retrieved. The Mexican hot and cold categories are left unresolved, and the Badianus text was not readable on disk. The entry notes that a relation to the names Ayauhtli and Quauh'yyauhtli is possible but not asserted.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, pine resin and turpentine are irritants and turpentine is poisonous if swallowed; a tree whose use is unrecorded here should not be taken internally. Pregnancy and breastfeeding are not covered by any source read. This is general caution and is not found in the row. [USER: verify]

@@ -67,6 +67,10 @@ Yasawardene et al. (2020), *Toxicon* — a mechanistic mini-review — attribute
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, star fruit acts mainly on the kidneys, the central nervous system and the urinary tract, and its hazard is what sets its ranking. Galenically it is a cold, moist refrigerant and thirst-quencher, held to quench bilious heat and to move water. TCM places it on the clearing of heat, the generation of fluids, the throat (sore throat) and urination. Ayurveda calls it heavy on the kidneys and aggravating in excess. The modern toxicology in the entry locates the damage in the renal tubules: soluble oxalate deposits and causes acute oxalate nephropathy and tubular necrosis, most severely in people with prior renal impairment. The neurotoxin caramboxin is described as shifting the CNS toward excitation by activating glutamate receptors and blocking GABA receptors, producing hiccups, confusion, seizures and status epilepticus. The entry also notes possible inhibition of CYP-mediated drug metabolism, a hepatic route. Its antioxidant and hypoglycaemic reputations are rated preclinical and do not offset the documented risk.
+
 ### Contraindications
 
 ⚠️ **HAZARD — HIGH PRIORITY.**

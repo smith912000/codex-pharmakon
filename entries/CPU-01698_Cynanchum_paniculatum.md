@@ -47,6 +47,10 @@ The entry carries no sentence on protracted taking, no mention of making the bod
 
 **Practitioner's note.** An inferior-class entry in the Chinese scheme, listed for demonic influx, spirits and gu toxins, with no preparation and no dose. The class warns against long use. Nothing here supports taking this plant as a cultivation practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Shennong entry names the drug's action as treating demonic influx, spiritual matters and evil and malign qi, and says it kills hundreds of spirits, gu toxins and old demonic influx. The signs it lists are running about, crying, sadness and abstraction, which the entry gives as manifestations of that influx. The sites the entry maps are therefore mental and emotional states, the spirit in the classic's frame, and the qi the text calls evil. No organ, tissue or channel is printed. Its taste is salty and balanced, and no meridian or organ system of later Chinese medicine is given. Yang's glosses that explain demonic influx as an acute infectious illness, and gu toxins as worms, are the translator's preface commentary and not the entry, so they are not mapped here. No modern anatomy is attached. The signs of persistent distress are for medical assessment.
+
 ### Contraindications
 
 The Shennong entry prints no warning, and its silence is not a statement of safety; the preface says of the inferior class that it is "usually toxic and cannot be taken for a long time". The identity rests on a translator's Latin name, so no plant should be gathered or used on the strength of this entry. Persistent distress, sudden abdominal pain or fever need medical care. No safety information for pregnancy was read. [USER: verify]

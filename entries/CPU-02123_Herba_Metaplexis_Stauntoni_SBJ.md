@@ -51,6 +51,10 @@ General, well-established facts only. *Metaplexis* are twining herbs of East Asi
 
 **Practitioner's note.** A lower-grade drug taken, on the classic's own terms, for a defined complaint and not for long. Nothing in the record supports any cultivation use, and the plant cannot be named with confidence. A cultivator should not use it.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry names no organ, tissue or body system. It states that the herb treats gu toxin (蛊毒), evil and malign qi (邪恶气), killing ghosts (杀鬼) and warm malaria (温疟), and that it wards off ill matters (辟不祥). The energetic terms are acrid and balanced (味辛，平). No channel or organ is assigned. The class is the lower classic, whose own preface calls its drugs mostly toxic and not to be taken long, and the paragraph does not mark this one as non-toxic. The only preparation stated is the harvest of the root, gathered in the eighth month and dried in the shade. Yang's footnote suggests the root may have been used in olden times, which is a commentator's note and not a body mapping.
+
 ### Contraindications
 
 - **Possible toxicity.** The class preface warns that lower drugs are mostly toxic, and milkweed-group plants can be poisonous. Do not ingest or gather. [USER: verify]

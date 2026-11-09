@@ -50,6 +50,10 @@ General, well-established facts only. *Senna occidentalis* is a weedy legume of 
 
 **Practitioner's note.** A bitter-sweet herb used, with its group, against *Kapham* disorders of the chest and a poor appetite. Nothing in the record supports a cultivation use, and the plant's seeds are generally regarded as poisonous. A cultivator does nothing with this entry.
 
+### Functional–Anatomical Correlate
+
+Kashamarda is identified by the entry as Senna occidentalis with medium confidence, though the translation gives no botanical name. The Sutra 46 passage gives the herb a bitter and sweet taste, says it subdues the Vayu and Kapham, is a digestant, cleanses the throat and specially subdues the Pittam. In modern anatomical terms that points to the digestive tract, the throat, and the chest and airways. The Surasadi group in which the name sits is said to act as a vermifuge and aseptic agent, to subdue Kapham, and to be beneficial in catarrh, non-relish for food, asthma and cough, which map to the intestines, the appetite, and the respiratory airways. The entry notes that Sushruta's humour terms are not translated into modern diagnoses. The seeds of the species are regarded as toxic in quantity, and the entry is a historical record only, not a recommendation.
+
 ### Contraindications
 
 - **Seeds and raw plant.** Generally regarded as toxic if eaten in quantity. Do not ingest any part of a plant gathered or bought under this name. [USER: verify]

@@ -36,6 +36,10 @@ General, well-established facts only. Urinary stones (calculi) are crystalline d
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The osprey is a two-sentence chapter naming a bird said to expel urinary stones; it gives no part, preparation or dose, and the animal is a protected raptor in many places. The Codex records it and does not recommend it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry's only stated action is that the bird, given little by little in drink, expels stones from the urine, a claim Dioscorides hedges with 'it is said'. The body system the text names is therefore the urinary tract, specifically urinary stones (calculi). No other organ, tissue or system is named. The chapter does not say which part of the bird is used, how it is prepared, or whether it has any quality such as warming, cooling or drying, and it assigns no humoral or energetic category. The identification with the osprey is the translators' rather than Dioscorides's, so the bird itself is uncertain. The Codex records the claim as history and does not endorse it. Ospreys are protected in many jurisdictions, and urinary stones causing pain, blood in the urine, fever or obstruction call for medical care rather than any bird preparation.
+
 ### Contraindications
 
 - **Urinary stones:** do not treat a suspected stone with any bird preparation; pain, fever, blood in urine or inability to urinate needs urgent medical care.

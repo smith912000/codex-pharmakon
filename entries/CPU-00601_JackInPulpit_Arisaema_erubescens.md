@@ -129,6 +129,10 @@ The two forms are the same plant and, energetically, opposite drugs. This is the
 
 **Practitioner's note.** Nothing here for cultivation practice. The raw tuber is a poison and is used only in its processed forms, for a defined complaint under a competent practitioner.
 
+### Functional–Anatomical Correlate
+
+In TCM the processed drug enters the Lung, Liver and Spleen channels. Zhi Nan Xing is said to dry damp, transform phlegm, dispel wind and stop spasm, for cough with thick sputum and for wind-stroke patterns: hemiplegia, speech loss, seizure, facial paralysis and tetany. Bile-fermented Dan Nan Xing is described as cool, clearing heat and calming fright, used for phlegm-heat cough and childhood febrile convulsion. The raw tuber acts on oral and pharyngeal mucosa, where raphides and irritant proteins cause burning and swelling that can obstruct the airway. The entry's modern data support only a bile-form antipyretic effect in a rat fever model, linked to TLR4/NF-kB inflammatory signalling. The stroke, seizure and facial-paralysis claims have no retrieved evidence, and the anti-spasmodic compound is unidentified.
+
 ### Contraindications
 
 ⚠️ **RAW TUBER — SEVERELY TOXIC. ORAL AND PHARYNGEAL INJURY RISK.**

@@ -87,6 +87,10 @@ According to PubMed, a review of black radish (*Raphanus sativus* L. var. *niger
 
 **Practitioner's note.** The radish is a mover, not a nourisher, and nothing in any tradition supports cultivation-through-tonification with it. What a cultivator actually does is use it to clear the food- and phlegm-stagnation that smothers the digestive fire — and the Chinese caution against pairing it with ginseng is the standing reminder to keep movers and holders apart.
 
+### Functional–Anatomical Correlate
+
+The radish is mainly a digestive and chest medicine, with a hepatobiliary and urinary reach. The Chinese seed (lái fú zǐ) enters the Lung, Spleen and Stomach channels, downbears qi, transforms phlegm and disperses food-stagnation and abdominal distension. Dioscorides and the Unani-Ayurvedic lines place its action in the stomach, for wind and eructation, and in the cough and chest congestion of phlegm. The European and black-radish tradition extends it to the liver and gallbladder, for sluggish liver, jaundice and gallstones, and to the urinary tract as a diuretic and for gravel and stones. In modern terms the isothiocyanates released from glucosinolates are the bioactive pungent principles, linked to cholagogue and lipid-lowering effects; the entry cites black-radish juice lowering cholesterol and dissolving gallstones in mice, and credits diastatic enzymes with the digestive action. The entry rates the gallstone evidence as preliminary and animal-based, and warns that a cholagogue effect is hazardous where a stone obstructs the biliary tract.
+
 ### Contraindications
 
 - **Concurrent qi-tonics:** classically held to counteract ginseng and other qi-tonifying herbs — avoid combining `[USER: verify]`.

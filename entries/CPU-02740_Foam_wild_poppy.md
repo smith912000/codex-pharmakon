@@ -42,6 +42,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** A purgative wild poppy in a three-line entry. The identity is open and nothing supports a cultivation use.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that this wild, foamy poppy purges in the way the spurges purge, and that its temperament is hot in the extreme. Those are the only actions named. Purging maps to the intestinal tract and bowel, which the Canon groups under the excretory organs, but the entry names no organ, tissue or system beyond that. No dryness is printed, and no degree beyond 'hot' is given. The passage has no preparation, no dose and no contraindication. The Canon's comparison with the spurges is the only other pointer, and the text gives no further detail about them. The species is not identified, so no modern pharmacology is attached to the plant. The entry is three lines long and runs directly into the next heading.
+
 ### Contraindications
 
 A drastic purgative by the text's own comparison to the spurges. Do not use an unidentified plant. No contraindication is printed. [USER: verify]

@@ -79,6 +79,10 @@ In the Ayurvedic (SS) stream the seed is read as **cooling and cleansing**, with
 
 **Practitioner's note.** The practical use is household water clarification only, and clarified water still needs disinfecting. Nothing here supports it as a vitality or long-term substance, and it must never be confused with the strychnine-bearing *nux-vomica*.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry names no organ or tissue target that it maps in modern terms. It states that in Ayurveda the seed (kataka) clarifies turbid water by flocculating silt and colloidal clay, and that it is traditionally used for the eyes (netya and anjana eye preparations), prameha (the diabetes-complex polyuria), diarrhoea and dysentery, and urinary complaints. Unani use is described only as a later composite tradition, with no secured Avicennan locus. Its energetic is cooling and cleansing, sweet-bitter-astringent, pacifying pitta and kapha, given as a traditional attribution. Modern findings are in vitro: antioxidant and alpha-amylase inhibition from an extract, and a single eight-herb formula in diabetic rats, which cannot be attributed to this seed. The entry states that the internal and eye uses are traditional and clinically unproven, and that coagulation clears turbidity but does not disinfect water.
+
 ### Contraindications
 
 - **Misidentification is the primary hazard.** Do not confuse or co-store with *Strychnos nux-vomica* (CPU-00266), whose seeds are strychnine/brucine-rich and potentially fatal. Source *potatorum* seed from a reliable supplier and verify identity.

@@ -55,6 +55,10 @@ The Shennong text gives no preparation and no dose. The Mingyi layer gives the h
 
 **Practitioner's note.** A middle-grade drug listed only for sudden, acute conditions. A cultivator has nothing to do with it except read the record.
 
+### Functional–Anatomical Correlate
+
+The classic's targets are mostly the whole person and the mind rather than one organ. Its wind stroke (中风), with sudden loss of recognition (忽忽不知人) and mania and confusion (狂惑), is a disorder of consciousness and mental state in modern terms. Body heat and full limbs (身热肢满), and cold and heat with aching, point to the limbs and the surface of the body. Warm malaria with shivering at set times (温疟洗洗，发作有时) points to a recurrent febrile cycle. The text names no viscus, channel or tissue, and gives no temperature class beyond bitter and balanced (味苦，平). Yang 1998 agrees, and his footnote on boosting yin qi, precipitating water qi and wind phlegm is later commentary, not classic text. The drug is a middle-class drug in the classic's frame and is listed only for sudden and acute states. The species is not fixed. The sources read give no modern anatomy for these conditions, and none is supplied here. Historical record only.
+
 ### Contraindications
 
 - **Species.** The classic does not fix the species. [USER: verify]

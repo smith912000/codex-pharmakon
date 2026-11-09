@@ -69,6 +69,10 @@ Codex policy: chemistry stated securely; named citations to be supplied and veri
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, the skin and joints are the main targets: bruised fresh leaf raises a counter-irritant blister over rheumatic or arthritic joints, drawing pain to the surface, and burns off warts and small skin lesions. The vesicant agent is protoanemonin, released when the fresh plant is crushed and lost on drying. Ingested, it causes burning in the mouth, vomiting and colic, so the mucous membranes and gut are named as risk sites. The eyes and broken skin are places to keep it away from. The Dioscoridean record places klematis among acrid, biting plants that raise blisters and clear the skin, and gives its Galenic degree as hot and dry. The CM tag is flagged in the entry as possibly belonging to European folk phytotherapy. The related Clematis chinensis (Wei Ling Xian) is a separate prepared species for wind-damp joint pain and is not to be transferred to this one.
+
 ### Contraindications
 
 - **Internal use — avoid.** Acrid, toxic protoanemonin; severe mucosal/GI irritation; not for ingestion.

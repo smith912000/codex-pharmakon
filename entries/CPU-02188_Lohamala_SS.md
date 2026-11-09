@@ -50,6 +50,10 @@ General, well-established facts only. Iron oxides are insoluble and are the basi
 
 **Practitioner's note.** A metallic name in a list of metals, with no description, no preparation and no dose, and with an open identification. There is nothing here for a cultivator to use, and swallowing metal residues on the strength of a bare list entry would be reckless. The honest cultivation answer is to leave it alone.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only what Sushruta attaches to the whole Trapvadi group, not to Lohamala itself. The group is said to be a vermifuge, which places its claimed action on intestinal worms, and to neutralise the effects of poison from incompatible combinations. Its listed indications are jaundice, a liver and skin complaint; chlorosis; Meha, urinary discharges; Hridroga, heart disease; thirst; and maladies arising from poison. No taste, potency or post-digestive effect is printed for Lohamala, and no dosha is assigned to the item. The only classification in the sources is the group's therapeutic range. The text names no part of the body for the item itself, and no preparation or route is given, so no mechanism can be mapped to Lohamala as a single substance. The sites above are what the group entry states.
+
 ### Contraindications
 
 - **TOXIC AS A CLASS.** The group contains lead, copper and other metals whose compounds are poisonous. Do not ingest any metal, rust or dross preparation on the basis of this entry.

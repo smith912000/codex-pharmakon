@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As a general f
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with coca leaf. The honest answer is to do nothing with it on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the row names coca leaf as a South American plant that Schultes noted as the most important narcotic plant of the continent, and it names no people, region, preparation or use. The entry states only general facts: the leaf is generally known to contain cocaine with other alkaloids, cocaine is a central nervous system stimulant and a local anaesthetic, it carries a high potential for dependence, and it is dangerous to the heart. No quality, humour or subtle-body classification is printed in the row, and no organ or tissue is named beyond these pharmacological statements. The cited Schultes work and the PMC paper are not on disk, and the entry does not verify the cocaine content of the species. The entry's cultivation register records no attested role for the leaf.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. Coca leaf is a source of cocaine, a controlled drug, and possession and use are lawful in some places and not in others. Legal status varies and is unchecked. [USER: verify] Cocaine is dangerous to the heart and may cause dependence. Do not use in pregnancy. This is general caution and is not found in the row.

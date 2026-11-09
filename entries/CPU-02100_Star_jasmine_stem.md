@@ -48,6 +48,10 @@ The Shennong text proper gives no preparation. The Wu Pu layer says "gathered at
 
 **Practitioner's note.** A cultivator has the text's own rank to go on and nothing more: an upper-grade drug whose entry promises a long-use lightening of the body. The text gives no dose, no preparation and no regimen, and the plant has to be identified correctly before any such claim could bear on it. Without a dose and a verified plant, the honest practice is to read the entry and leave the plant alone.
 
+### Functional–Anatomical Correlate
+
+The entry maps to the throat and tongue, the mouth, the skin and the eyes, in the classic's terms. The Shennong text lists wind-heat, dead flesh, welling abscesses and wounds, dry mouth, scorched tongue, abscesses and swellings that do not disperse, and swollen throat and tongue. The throat, tongue and mouth are the named regions, and dead flesh and wounds point to the skin and soft tissue. The long-use clause adds brightening the eyes and moistening and glossing the complexion, which relate to the eyes and skin. The Wu Pu layer gives the flavour as bitter and warm, while other authorities read it as sweet or slightly cold, and the classic assigns no organ or channel. Terms such as wind-heat and dead flesh are not translated into modern diagnoses. The sources read give no dose, preparation or regimen. Abscesses, wounds and throat swelling need medical assessment, and plants of the dogbane family can be poisonous, so identification matters.
+
 ### Contraindications
 
 The sources read print no warning; the upper grade is described as non-toxic in the preface, but that is a class statement and not a safety assurance for the plant. Members of the dogbane family can be poisonous, and several plants are sold under similar names, so identification matters. Wounds, abscesses and throat swelling need medical assessment. No safety information for pregnancy was read. [USER: verify]

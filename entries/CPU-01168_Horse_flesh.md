@@ -48,6 +48,10 @@ Ayurveda / Sushruta (SS), as printed in ch.46: the flesh of domestic animals is 
 
 **Practitioner's note.** A cultivator does nothing with this. The text treats horse flesh as ordinary meat, with a taste, an effect on the humours and a wine to follow it; it gives no cultivation status, and the horse in the *vajikarana* chapter is only a figure of speech. The honest reading is that this is a diet entry, and a diet entry about an animal that many people would not eat.
 
+### Functional–Anatomical Correlate
+
+Sushruta classes horse flesh as food of the Ekashapha (undivided-hoofed) and domestic groups, not as a medicine for any disease. In the entry's terms, domestic-animal flesh is sweet in taste and digestion, constructive, tonic and appetising, and it destroys the deranged Vayu and produces Kapha and Pitta. The Ekashapha flesh, the horse and the mule, has a slightly saline taste and properties like mutton, which is constructive, tonic and heavy and generates Pitta and Kapha. So the entry maps the flesh to digestion, to the building of the bodily tissues and to the three doshas, Vata, Pitta and Kapha. The chapter prescribes Triphala wine after this flesh, a digestive-tract measure. It gives no dose and no preparation. It also warns against dried, putrid, diseased and poisoned flesh.
+
 ### Contraindications
 
 - **Not a recommended therapeutic practice.** This is a historical record of how a classical text classed a meat.

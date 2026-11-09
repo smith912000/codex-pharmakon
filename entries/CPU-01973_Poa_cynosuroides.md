@@ -45,6 +45,10 @@ General, well-established facts only. *Desmostachya bipinnata* is a tough perenn
 
 **Practitioner's note.** A name on a list, printed twice. The Samhita text on disk gives no use and no grade for it, so there is nothing for a cultivator to take from this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the appendix prints the Latin name 'Poa cynosuroides' twice, with no use, part used, preparation or dose. The entry's identification as Desmostachya bipinnata is its own reading through a synonym, not checked against a source on disk, with low to medium confidence. It states that the plant is a coarse perennial grass of dry ground, and that the two printed lines may carry two Sanskrit names, which the e-text cannot confirm. A proposed pairing with Kusa is recorded in the extract and is not adopted by the entry. In the sources read, no rasa, virya, vipaka, rasayana, ojas or shodhana is attributed to it, and the entry states that no safe-use statement exists in the sources retrieved. Pregnancy, lactation and children are not addressed. No body system, organ or tissue is named for it.
+
 ### Contraindications
 
 - **No safe-use statement exists in the sources retrieved.** Do not take any plant on the strength of this entry.

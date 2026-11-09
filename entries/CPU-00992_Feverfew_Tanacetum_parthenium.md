@@ -148,6 +148,10 @@ Goodyear-Smith, *J Prim Health Care* 2010 ([PMID 21125077](https://pubmed.ncbi.n
 
 **Practitioner's note.** Nothing for a cultivator. Feverfew is used here as a long-course migraine prophylactic with a defined diary and review window, which is a therapeutic discipline and not a cultivation status in any tradition retrieved.
 
+### Functional–Anatomical Correlate
+
+Feverfew's entry places its one supported action in the head. Its parthenolide is reported to suppress NF-κB and the release of IL-6 and TNF-α from microglia, the resident immune cells of the central nervous system, in cell culture, and the entry links this to migraine prophylaxis, a modest and low-quality clinical effect. The traditional cephalic, 'dispersing in the head' reading is retained for that headache use. The febrifuge doctrine, from the name febrifugia, is marked unsupported by any antipyretic trial. The serotonin-release and platelet mechanism is recorded only as a historical hypothesis. The gynaecological emmenagogue action acts on the pelvis and uterus, and the entry makes it the basis of an absolute pregnancy contraindication. The mouth, skin and mucosa are the tissues of harm, where reactive lactones haptenise proteins to cause ulceration and Asteraceae contact dermatitis.
+
 ### Contraindications
 
 - **⚠️ PREGNANCY — ABSOLUTE.** Feverfew is a traditional **emmenagogue** with historical use as an **abortifacient**. This is the single most serious item in the plant's file. The traditional indication is itself the contraindication: an agent used to bring on delayed menses is an agent that acts on the gravid uterus. Do not use in pregnancy, in those attempting conception, or where pregnancy is possible and unexcluded. Lactation: no adequate data; avoid. This warning does not depend on the emmenagogue action being *proven* — it depends on it being *claimed and plausibly mechanistic*, which is a sufficient standard for a reproductive contraindication.

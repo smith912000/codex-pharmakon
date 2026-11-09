@@ -51,6 +51,10 @@ General, well-established facts only. Azurite and malachite are copper carbonate
 
 **Practitioner's note.** A middle-grade copper stone that the tradition's own commentator said nobody used or recognised. Nothing in the record supports any cultivation use. A cultivator should not use it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names no organ, channel or humour for Fu Qing. The sites it does state are these. The Shennong bencao jing says the stone governs gu poison (gu du), the poisons of snakes, of vegetables and of meats, and malign sores (chuang). The only body surface named is the skin and open sores, and the other conditions are poisonings, which the text does not locate in any organ. Sun Xingyan's 1799 edition gives a flavour of acrid and a nature of balanced (ping), with no yin-yang or five-phase assignment and no channel. Yang Shou-zhong's 1998 English renders the drug as azurite, possibly malachite, a copper carbonate, so the mineral link is his label only. The entry gives no dose, no preparation and no method of use, and nothing in the record maps the stone to the viscera, blood or qi. Its place in the classic's middle class is recorded as a fact about the text, not as a body site.
+
 ### Contraindications
 
 - **TOXIC (copper mineral).** Do not swallow it and do not apply it to wounds or broken skin.

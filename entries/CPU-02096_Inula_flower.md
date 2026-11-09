@@ -50,6 +50,10 @@ General, well-established facts only. *Inula* species are daisies, and members o
 
 **Practitioner's note.** A lower-class, salty, warm drug for bound qi, fullness and water. The tradition's own grading is a short-course warning, no part beyond the flower and no preparation, dose or course is given, and the two editions disagree on its class. A cultivator has no practice to take from this entry.
 
+### Functional–Anatomical Correlate
+
+The entry maps to the chest and rib-side, and to the five viscera and the centre, in the classic's own terms. The paragraph lists bound qi, fullness below the ribs, fright and palpitations, removing water, clearing cold and heat between the five viscera, and supplementing the centre while bringing qi down. The text assigns no organ or channel to the drug and does not say which of the five viscera is meant, so the mapping stays at the level of the classic's categories. The flavour is salty and warm, with no organ attached. Yang's middle-class heading would change the drug's grade but not the organs listed. Modern anatomy appears only as a general note: the downy flower-heads can irritate the throat when decocted, and members of the daisy family can cause allergic skin and airway reactions. The entry gives a harvest of the flower but no dose and no protocol. Palpitations, water retention and fullness need medical assessment.
+
 ### Contraindications
 
 - **Allergy.** Members of the daisy family can cause allergic reactions, and the downy flower-heads can irritate the throat. This is a general statement. [USER: verify]

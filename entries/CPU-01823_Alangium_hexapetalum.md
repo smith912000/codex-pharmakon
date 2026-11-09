@@ -59,6 +59,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Sushruta t
 
 **Practitioner's note.** Nothing here gives a cultivator a practice with this plant. In the Sushruta scheme the name is an ingredient in a physician's washes, emetics, antivenoms and alkalis. Nothing should be gathered or taken on the strength of a Latin name that the chapters do not give.
 
+### Functional–Anatomical Correlate
+
+The Sushruta text uses Ankota in a decoction for washing the contents of an ulcer or a secreting swelling, which it calls an aseptic action on the sore. An oil cooked with it purifies an incidental ulcer after a tumour is opened, in the chapter's hernia, hydrocele and genital complaints. An oil cooked with its fruits is applied as an ear oil. Its powdered root, pasted with honey, is a plaster for poisoned swelling of the lips, tongue and gums, and its expressed flower juice is an eye preparation against poisoned collyrium. In a rat-bite whose signs are headache, swelling, hiccough and vomiting, a decoction with Jalini and Madana fruit is given as an emetic, so the stomach and the head are the organs in view. It is one ingredient among many in antivenoms and in an alkali. The chapters print the Sanskrit name only, so the Latin Alangium hexapetalum is the translator's appendix pairing. No rasa, virya or vipaka is printed. The entry gives no dose and states no constituent.
+
 ### Contraindications
 
 The Sushruta passages read print no warning for the drug itself. Its oral uses are as an emetic (Kalpa 6), which is a physician's procedure and unsuitable for the weak, the pregnant and the very young without supervision, and in antivenoms, which describe emergencies that need medical care. The identity is open, so no plant should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

@@ -62,6 +62,10 @@ According to PubMed, the modern evidence base concerns *Marsdenia tenacissima* p
 
 **Practitioner's note.** Nothing. Its recorded uses are external and clinical.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Mūrvā's classical targets are the channels and metabolism. It is a bitter deobstruent for Kapha congestion and metabolic sluggishness, listed among prameha (urinary and diabetes-spectrum) remedies and jvara (fever) remedies. Its Yunnan and TCM uses add cough and asthma, and heat-clearing and detoxification. The Ayurvedic energetics are bitter and astringent, light, dry and heating; it lowers kapha and pitta and may aggravate vāta if overused. Karma includes scraping (lekhana), kindling (dīpana) and deobstruction. The modern chemistry concerns Marsdenia tenacissima pregnane glycosides (tenacissosides). The entry reports these in cell and animal models for glioblastoma, colorectal cancer alongside 5-fluorouracil, and NF-κB and p38 inflammatory signalling. It stresses that those endpoints are not the classical indications, and that the market drug may be a different plant. Evidence is LOW and preclinical. Vāta excess, pregnancy without supervision and self-treatment of cancer are excluded.
+
 ### Contraindications
 
 - Source-plant identity uncertain — do not dose without confirming the actual botanical supplied.

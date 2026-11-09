@@ -47,6 +47,10 @@ General, well-established facts only. *Flacourtia jangomas* and its relatives ar
 
 **Practitioner's note.** Nothing to cultivate here. A fruit in the food-quality list, with no cultivation status in the sources read. A cultivator has no sourced use for it beyond its place as a food in the Samhita's own scheme.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry gives no organ or tissue action for Prachinamalaka. The name stands in the Fruit Group of Sutra 46 among many fruits, and the entry says the chapter gives no separate virtue for it. The general statement for the group is that fruits are acid in taste, heavy of digestion, heat-making in their potencies, expectorant of Kapham, generating Pittam and subduing Vayu. The entry is explicit that this is a statement about the group and not a description of this fruit. The Appendix glosses the name as Flacourtia cataphracta, a pairing the entry says is positional and not yet checked against the page scan. The fruit is described as small, acid-sweet and eaten fresh or cooked, a general note from outside the sources. No dose, preparation, medicinal use or pregnancy statement is in the sources read.
+
 ### Contraindications
 
 - **Identity.** The pairing with the Latin is ours, and the species is now commonly treated as a synonym or form of *F. jangomas*. [USER: verify]

@@ -42,6 +42,10 @@ General, well-established facts only. The Asian black bear is a species of bear 
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The sourced use is a listed animal medicine for wounds and the eyes, and the tradition's own first precept is to refrain from taking life. The Codex does not recommend taking any part of a bear. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Tantra's bear material is a bile medicine, and the bile is the part the text maps to the body. By the text's own claims, bear bile constricts the mouths of the channels (rtsa, the tradition's conduit system, which the text does not map to named organs), halts necrosis, grows new flesh, and is beneficial in eye disorders. In modern anatomy that points to the healing skin and soft tissue of wounds and ulcers, and to the eye. The general bile line applies the same actions to all bile and adds that all kinds of bile stop bleeding, heal necrosis and muscle tissue, act against poisons, and help eye problems, in the Men-Tsee-Khang rendering. The bear is also a member of the carnivorous wild-animal group in the meat classification, and by that membership shares the group's flesh qualities: sweet in taste and post-digestive effect, and, in the Men-Tsee-Khang text, rough, light and sharp qualities that generate digestive heat and destroy tumors. Clark's parallel sentence gives those powers to birds of prey only. The text names no organ for the flesh and no part of the bear beyond the bile.
+
 ### Contraindications
 
 - **Conservation and law:** the Asian black bear is threatened and protected in most of its range; international trade in it and its parts is restricted. The Codex does not recommend any use.

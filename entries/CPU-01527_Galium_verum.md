@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The only transferable point is the habit of identifying a plant by leaf, flower, scent and habitat, and of reading the name as a record of what was observed. The text offers nothing more, and the abstentive answer is the right one.
 
+### Functional–Anatomical Correlate
+
+The chapter maps the flower to the skin and the blood, and the root to desire. The flower is smeared on for burns from fire and is said to stop flows of blood, while the flower mixed with waxy rose ointment and left in the sun until white is a medication for a condition the translators leave untranslated as acopon. The root is said to encourage sexual intercourse, which places it in sexual function. The Avicenna material, under three spellings, describes the flower as a poultice that stops an outburst of blood, the flower and leaf as help for burns, a rose-oil cerate for weariness and aching, and the root as stirring desire, and it calls the drug drying and curdling of milk. No degree of temperament is given there, and one entry says it is only thought to heal burns. Dioscorides prints no hot, cold, moist or dry quality and no taste, only that the flower smells good.
+
 ### Contraindications
 
 Chapter 4-96 prints no warning. The identification is only the translators' suggestion, so no plant should be gathered or used on the strength of this entry. Burns and bleeding need proper first aid and medical care, not a herbal smear. The root is recorded as an aphrodisiac, with no dose, and that is not advice. [USER: verify]

@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It offers a description and a list of cooling external applications, so it is history and not a practice. The abstentive answer is the honest one, and it does not license taking psyllium seed by mouth on the chapter's authority.
 
+### Functional–Anatomical Correlate
+
+The chapter maps onto the skin, the joints, the glands and the ears, with external application as its only route. Applied with rosaceum, vinegar or water, the seed is said to help the arthritic, inflammation of the parotid gland, tumours, oedema, dislocations and aches. Smeared on with vinegar it is used for hernias of children and of those whose navels protrude. Pounded and steeped in water, it is applied for cooling, and put into boiling water it suppresses heat, including erysipelas. Pounded with grease it is said to clean the foulness and malignancies of ulcers, and the juice with honey is used for running ears and ears with worms. Its one Dioscoridean quality is cooling. The Unani Canon entry, a separate tradition, gives a temperament of cold and moist in the second degree and assigns the seed to the chest and the bowel, in roasted form binding the bowel. The chapter itself maps no internal route.
+
 ### Contraindications
 
 The chapter prints no warning. Skin conditions such as erysipelas, ear complaints with worms, hernias and tumours need medical assessment, and a home remedy must not replace it. It is a general fact that psyllium can cause allergy in some people and must be taken with plenty of fluid when swallowed, and neither point comes from the chapter. The identification rests on a translators' suggestion, so no wild plant should be gathered or used on the strength of this entry. [USER: verify]

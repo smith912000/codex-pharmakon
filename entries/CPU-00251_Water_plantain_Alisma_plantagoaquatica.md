@@ -87,6 +87,10 @@ This is a `[GENERAL]` herb: gentle enough for routine cyclical use, but not a to
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry's energetic frame assigns Alisma to the Kidney and Bladder channels, the organs it names as governing fluid metabolism. Its primary TCM action is to promote urination and drain dampness and damp-heat from the lower burner, and it is said to clear Kidney deficiency-heat in the Liu Wei Di Huang Wan formula. A secondary action resolves phlegm-fluid (痰饮) accumulation and treats dizziness arising from fluid that fails to transform. The modern correlates the entry cites are alisol triterpene effects: lipid-lowering and hepatoprotective activity in animal models, choleretic action on the liver, and NF-κB-linked anti-inflammatory action in cell studies. A triterpene fraction is said to act on renal water handling. Minor sesquiterpenes show vasorelaxation in vitro, and polysaccharides show preliminary immunomodulation. The entry flags nephrotoxicity at very high doses in some animal studies, and it marks the diuresis and anti-inflammatory citations as still needing verification.
+
 ### Contraindications
 
 - **Yin deficiency without dampness:** Zé Xiè's cold, draining nature is contraindicated where there is dryness, true fluid depletion, or Yin-deficiency heat without an accompanying damp pattern — draining a dry patient worsens the depletion.

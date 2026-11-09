@@ -122,6 +122,10 @@ Kenetica flags *why* this null was predictable, because the reason is the entry'
 
 ---
 
+### Functional–Anatomical Correlate
+
+Bistort acts on surface tissue: the mucous membranes of the mouth, throat and gut, skin surfaces and superficial blood vessels. Its traditions describe a contracting, binding drug: Galenic cold and dry in the third degree, strongly binding and styptic; Chinese Quan Shen, bitter, acrid and slightly cold, entering Lung, Liver and Large Intestine, clearing heat, cooling blood and stopping bleeding. The European indications are dysentery and bloody flux, excessive menstrual bleeding, spitting of blood, ulcerated mouth and gums, relaxed uvula and throat, and wounds. Modern anatomy maps this to tannin protein precipitation on these surfaces, which reduces exudation and capillary bleeding. The entry reports topical anti-inflammatory and antimicrobial action in vitro, with modulation of IL-1 beta, TNF-alpha and IL-8 release from neutrophils, and uses a gargle, a skin wash and short internal bowel courses. Systemic metabolic effects were negative in vivo, and the snakebite indication is rejected. Its tannin load also reduces non-haem iron absorption, the entry's most likely real-world harm.
+
 ### Contraindications
 
 ⚠️ **TANNIN LOAD — the governing caution. Bistort is among the most tannin-dense drugs in the European materia medica, and the tannin is the drug.**

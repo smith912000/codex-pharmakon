@@ -189,6 +189,10 @@ The TCM listing of Hē Zǐ (*T. chebula*, not *T. bellirica*) acknowledges the T
 
 ---
 
+### Functional–Anatomical Correlate
+
+Acts mainly on the Kapha domain: the respiratory tract, mucus membranes, adipose tissue, lymphatic tissue and the colon, which the entry links to a damp, sluggish bowel. Its astringent, drying and light qualities (kaṣāya, rūkṣa, laghu) are said to scrape away accumulation (lekhanīya), clear phlegm (kaphahara, kāsahara) and resolve productive cough. In Tibetan medicine (ba ru ra) it is classed as the phlegm-clearing member of the three myrobalans, prescribed for lung disorders. Its tannins are said to act on hair and keratinised tissue, tightening the shaft. The entry places it in the Upper Dantian for the lungs and the middle Dantian for lipid and hepatic function. Liver support is described through rodent liver-injury models. The modern correlates are a randomised placebo-controlled seed-powder trial showing lipid reduction, and in vitro antimicrobial data; the entry also reports that ursolic acid reduced adipose accumulation in a mouse diet model. Cautions concern pregnancy, dry Vata constitutions and acute hot respiratory infection.
+
 ### Contraindications
 
 **Pregnancy:** The tannin-mediated uterotonic effect noted for harītakī applies to Bibhitaki at medicinal doses. Avoid medicinal preparations (>500mg) during pregnancy. Triphala at standard doses should be used with supervision during pregnancy.

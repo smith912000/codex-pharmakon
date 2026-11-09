@@ -96,6 +96,10 @@ Graded honestly. This is a preclinical literature. There are no human trials of 
 
 **Practitioner's note.** Nothing to cultivate in the sense of rejuvenation or vitality practice. It is a desert food and a drying, heating drug for cold, damp conditions, and the tradition's own caution is that it is not to be eaten raw.
 
+### Functional–Anatomical Correlate
+
+Kair is described as acting chiefly on the digestive tract, the joints and the chest. In Ayurvedic terms (katu, tikta, ushna virya; kapha-vata-hara) it disperses cold, damp stagnation in amavata (rheumatic conditions with ama), cough and congestion, worms, swellings and sluggish digestion. The Unani reading (har and yabis) places the root bark on joint pain, sciatica and flatulence. The modern anatomy the entry maps onto this is gut smooth muscle, the airways and the vascular bed. The most concrete correlate is rodent work: a Kair extract changed intestinal output in both directions, acting on cholinergic and calcium-antagonist pathways of gut smooth muscle, and lowered systolic pressure in rats at 500 mg/kg. The antidiabetic claim rests on in vitro alpha-glucosidase inhibition. No anti-inflammatory or antirheumatic study was retrieved, so the joint action remains doctrine. The pickled fruit acts on the diet rather than on a named organ.
+
 ### Contraindications
 
 - **Pregnancy — avoid medicinal doses.** No safety data located. Culinary pickle is traditional food; root-bark decoctions are not to be used in pregnancy without qualified supervision.

@@ -81,6 +81,10 @@ According to PubMed, the traditional respiratory and metabolic uses map onto rea
 **Practitioner's note.** A cultivator uses elecampane the way the traditions that actually attest it use it: for a defined course, against a defined complaint — the deep, wet, cold cough, or a sunk and sluggish digestion — and then stops. Nothing attested supports taking it long-term for the constitution's own sake, and the sesquiterpene-lactone sensitisation risk argues actively against it. The one genuinely ongoing practice attached to this root is the Dioscoridean one: know where it was grown, when it was lifted, and whether what you have is *I. helenium* at all rather than *I. racemosa* or an *Inula* flower.
 
 *[2 tradition paragraph(s) removed 2026-07-18 — tag withdrawn per approved attestation ruling; see spine notes.]*
+### Functional–Anatomical Correlate
+
+The entry places elecampane mainly on the respiratory and digestive systems. In Galenic and Unani terms it is warm and dry, opening the chest and expelling phlegm from the bronchi in chronic wet cough. Its sesquiterpene lactones, alantolactone and isoalantolactone, suppress IL-8, TNF-alpha and IL-1beta release from human neutrophils and airway epithelial cells, which the entry reads as support for the respiratory use. In TCM the root enters the Liver, Spleen and Stomach channels, moves Qi, relieves chest and abdominal pain and transforms Damp, so the stomach is a named digestive target. Ayurvedic and Unani texts use it as a digestive stimulant and carminative. Alantolactone is also reported to inhibit adipogenesis in 3T3-L1 preadipocytes, a preclinical metabolic line. Skin and parasite applications appear only as folk use. Modern terms: bronchial epithelium, neutrophils, gastric and intestinal tract, adipose tissue, skin.
+
 ### Contraindications
 
 - **Asteraceae allergy:** sesquiterpene lactones (alantolactone) are known contact and systemic sensitisers — avoid in those allergic to Compositae (ragweed, chamomile, etc.); can cause allergic contact dermatitis.

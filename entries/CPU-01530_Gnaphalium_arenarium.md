@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identifica
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable points are the habit of identifying a plant by form and habitat and the household use of keeping a dry herb among stored cloth. The text offers nothing more, and the abstentive answer is the right one.
 
+### Functional–Anatomical Correlate
+
+The chapter maps to several organs and fluids, each stated as a use. A decoction of the filaments drunk with wine helps painful urination, so the urinary tract is named, and the same decoction is said to help the bites of snakes, sciatica and hernia. A decoction drunk with must induces the menstrual flow and dissolves clots of blood in the bladder or bowels, which names the uterus, the bladder and the bowel. Thirty grains in white wine, given to one fasting, is said to stop dripping fluids, a discharge the text does not name. The chapter prints no temperament, humour, doshic or qi quality and no taste. Its qualities describe the plant's form: a white and green stem, and filaments shining like gold. The use as a clothes-store against moths is not a body action, and the crowning of statues is a recorded custom the text does not explain. Snake bite, sciatica and hernia need medical care rather than a decoction.
+
 ### Contraindications
 
 Chapter 4-57 prints no warning. The identification is only the translators' suggestion among several, so no plant should be gathered or used on the strength of this entry. A drink said to "induce the menstrual flow" must not be taken in pregnancy. Snake bite, sciatica and hernia call for medical care, not a herbal decoction. [USER: verify]

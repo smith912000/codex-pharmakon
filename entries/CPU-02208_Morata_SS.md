@@ -51,6 +51,10 @@ No general scientific statement can be made about an unidentified item. The clas
 
 **Practitioner's note.** A name without a plant behind it, in a group for Kapham and in a decoction for stone disease. There is nothing to source, take or cultivate. The honest outcome is to keep the name and its contexts on record and leave it.
 
+### Functional–Anatomical Correlate
+
+Morata is named in the Varuna'di group, which the text says reduces Kapham and fat and helps headache, abdominal lumps (Gulma) and internal abscesses. Those are group claims. In a decoction for stone disease (Ashmari) Morata is one of the Pitta-subduing drugs said to break down Pittaja calculi, so the urinary tract is the region the text treats. A related name, Kshira-morata, appears in the sweet taste group and in a potion for insect bites; the text does not say whether it is the same plant, so its actions are not carried over. The text gives Morata no taste, part of the plant or action of its own. The Codex does not equate Ashmari with modern urinary stone disease, and a herbal decoction cannot be assumed to dissolve stones.
+
 ### Contraindications
 
 - **Identity unresolved.** Do not substitute any product for it, and do not assume it is the same as Kshira-morata or Morata Vasuka.

@@ -40,6 +40,10 @@ General, well-established facts only. Diarrhoea can cause dehydration and loss o
 
 **Practitioner's note.** Nothing here supports cultivation use. The horn appears as part of one line in a list of horn medicines, with a single action, in a section of the materia medica that Clark says is little used today. A cultivator has nothing to take from this entry; the honest practice is abstention.
 
+### Functional–Anatomical Correlate
+
+The entry maps two sites. The unbracketed sentence says the horn halts diarrhoea, together with the Tibetan antelope horn, so the bowel is the site of that action. A bracketed commentary note says the horn 'dries pus (accumulations) in the abdomen', which places an action in the abdomen and on collections of pus there; the text does not say that this belongs to the horn rather than the animal, so it is recorded as the commentary's words. The Men-Tsee-Khang parallel names the gazelle with the antelope for diarrhoea, and gives no link by Tibetan name. The text gives the horn no taste, potency, post-digestive taste or humour. No essence-extraction site is named. Horn is keratin over a bony core, a general fact rather than a text claim. The entry's other organ, the abdomen, is named only in the bracketed note, and the gut is the system the diarrhoea claim places it in.
+
 ### Contraindications
 
 - **Diarrhoea:** needs fluid replacement and, if severe, bloody or prolonged, or in infants and the frail, medical care; do not delay it for an animal remedy.

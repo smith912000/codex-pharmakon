@@ -90,6 +90,10 @@ Within Kenetica's own frame the plant is classified functionally: **Dependent / 
 
 **Practitioner's note.** Nothing. Neither stream attests a cultivation role for this species.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that no securely attributed classical energetic or organ assignment exists for this species, and that the CM and DMM tags are unsubstantiated. The one body-level statement it makes is that the plant is a root hemiparasite, with haustoria on neighbouring roots, so its tissue composition depends on its hosts. Congener chemistry in the genus (iridoid and phenylethanoid glycosides, notably in the alpine P. kerneri) is labelled probable but not verified in P. sylvatica. Antioxidant, hepatoprotective, antimicrobial and anti-fatigue activity is reported only for other species and isolated compounds, and is not to be attributed here. The louse belief is recorded as a folk aetiology that the entry rejects as a mechanism. No internal, topical or clinical use is given, and no organ system is mapped.
+
 ### Contraindications
 
 - **Do not take internally.** There is no established safe dose, no toxicology and no clinical data for *P. sylvatica*.

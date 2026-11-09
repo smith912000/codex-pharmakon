@@ -70,6 +70,10 @@ The plant's distinctive thermogenic, scent-emitting spadix — the biological ba
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, the detoxified root acts as an attenuant and expectorant for cold, boggy, phlegmatic states. Dioscorides describes the cooked root as thinning thick humours and clearing the chest, and applied externally for skin complaints. Avicenna calls it a resolvent for cold thick swellings. Among modern sources, an ethanolic leaf extract is reported to have hepatoprotective effects in rat cirrhosis, normalising TNF-alpha and IL-6 and raising IL-10, which the entry ties to liver and inflammatory use of the prepared plant; the evidence is preclinical. Raw, the plant injures the lips, mouth, tongue, throat and gastrointestinal tract through raphides, airway swelling is a noted risk, and sap can irritate the skin and, in the eye, cause painful keratoconjunctivitis. The entry says the raw plant is poisonous in every part, and there is no safe raw dose.
+
 ### Contraindications
 
 ⚠️ **SEVERE TOXICITY WARNING — READ BEFORE ANY HANDLING.**

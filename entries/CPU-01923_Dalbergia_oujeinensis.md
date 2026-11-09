@@ -49,6 +49,10 @@ General, well-established facts only. *Ougeinia oojeinensis* (also written *Desm
 
 **Practitioner's note.** Nothing to cultivate here. A tree whose bark and wood serve in astringent, urinary and antivenom recipes, with no cultivation status in the sources read. A cultivator has no sourced use for it.
 
+### Functional–Anatomical Correlate
+
+The entry maps this tree's bark and wood to several body systems through the Sushruta text. As a member of the Salasaradi group, it is said to destroy the germ of Kushtha, to absorb deranged fat and Kapham, and to benefit urethral discharges (Meha), chlorosis or jaundice (Pandu). As a bark on its own it appears in an Asthapana enema decoction with honey for Parisrava, a bowel disease, and in a paste with milk and honey given as a potion to stop bloody diarrhoea. The wood and flowers appear in antivenom compounds. The Chikitsa calls the bark astringent in role, and the Sutra places the group in the pungent classification. The Appendix gives no qualities. No dose for the single bark is given, and the entry flags that the tree of these lines is not confirmed as the glossed species. Nothing is said on pregnancy, lactation or children.
+
 ### Contraindications
 
 - **Identity.** Several unrelated trees are called by names near Tinisa; the species here is the translator's gloss. [USER: verify]

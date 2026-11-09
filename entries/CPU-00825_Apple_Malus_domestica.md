@@ -76,6 +76,10 @@ Berni and colleagues (2019, *Medicines*) quantified antioxidants, total polyphen
 
 **Practitioner's note.** No tradition in the tag set assigns the apple a formal life-nourishing status; the honest reading across all six is therapeutic-or-dietetic at most, and absent at the edges (EP, AT). This is fitting. The apple's vast symbolic weight — Eden, Iðunn's apples of youth, Avalon the isle of apples — is *culture*, the record of what the fruit has meant, not a cultivation assignment any materia medica made. What a cultivator actually does with it is humble and abstentive: return to it, daily and undramatically, as the food of consolidation between interventions — not because a tradition grades it as a tonic, but because it is the ordinary fruit you come back to.
 
+### Functional–Anatomical Correlate
+
+Per the entry, the apple is a restorative, grounding food acting on the gut, heart, stomach, lungs and spirits. Galenic-Unani reads it cultivar by cultivar: sweet apples warm and moist and cardiotonic (mufarrih, gladdener of the heart), sour apples cold, dry and astringent, used to arrest diarrhoea. TCM places it in the Spleen, Stomach and Lung channels, generating fluids to moisten dryness and harmonising the stomach. Ayurvedic folk use treats it as cooling and tridosha-balancing, nourishing and gently binding in convalescence. Dioscoridean texts give sour apples as binding for fluxes. The entry's modern correlates are polyphenols, pectin (a soluble fibre affecting gut binding and lipids) and triterpenes and phytosterols in the peel. It grades the cardiometabolic association as moderate, observational and mechanistic, and specific disease-treatment claims as preclinical. Heirloom cultivars carry richer polyphenol and pectin content.
+
 ### Contraindications
 
 - **Seeds contain amygdalin** (cyanogenic); incidental swallowing of a few is harmless, but deliberately crushing and eating large quantities of seeds is unsafe.

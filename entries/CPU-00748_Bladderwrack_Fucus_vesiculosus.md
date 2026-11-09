@@ -65,6 +65,10 @@ According to PubMed, *Fucus vesiculosus* accumulates iodine from seawater follow
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places bladderwrack in the thyroid and the metabolic system, with a swelling-resolving role. In Galenic-Unani terms it is cool, moist, salty and dispersing, resolving hard swellings, and the entry links this to iodine, which is the substrate for thyroid hormone and so the regulator of metabolic rate. Iodine excess can drive hyperthyroidism, and in susceptible people the paradoxical hypothyroid goitre, so the thyroid is also the main organ at risk. Its fucoidan has anticoagulant and anti-inflammatory activity, bearing on blood clotting. Its alginates and laminarin act as soluble fibre in the gut with mild cholesterol and glucose effects, and its phlorotannins are antioxidant. In Ayurvedic analogy it is salty, pacifying kapha stagnation and induration. Arsenic and other bioaccumulated metals are a contaminant hazard, not a target. The entry grades the evidence as traditional with strong analytical support but a hazard-dominated profile, with no controlled trials of bladderwrack as a treatment.
+
 ### Contraindications
 
 **This is a high-caution entry — read before any use.**

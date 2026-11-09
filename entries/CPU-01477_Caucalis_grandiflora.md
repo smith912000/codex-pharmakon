@@ -41,6 +41,10 @@ A diuretic effect is a claim about increased urine flow, and no study of any *Ca
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. As a wild vegetable of the carrot family it asks for certain identification before any use, which is Dioscorides' own discipline of attention. If identification is not certain, the answer is to leave it.
 
+### Functional–Anatomical Correlate
+
+The chapter maps one action onto the body: the plant is said to be diuretic, which acts on the urinary system, the kidneys and the bladder in modern anatomy, though the chapter names no organ. As a vegetable it is eaten raw or boiled, so the stated route is the digestive tract, and the entry makes no claim beyond that. The chapter prints no warming, cooling, drying or humoral quality and no doshic or qi framework. The plant is described in terms of its parts: a stalk a foot long or more, divided rough leaves like marathrum, and a white fragrant tuft at the top. These are appearances, and the chapter does not present them as actions. No internal system other than the urinary tract and the gut is named, and no tissue or organ of the skin, blood or nerves is mentioned. The names given, including caucum and pes gallinaceum, are not functional claims. The identity is the translators’ and rests on three suggested species, so the mapping is only to what the chapter says. No dose is given.
+
 ### Contraindications
 
 Wild carrot-family plants are easily confused with poison hemlock and other deadly relatives, and the sap of wild umbellifers can irritate the skin. Do not forage from this entry. None of the traditional uses above is advice. A diuretic is not a safe thing to take unsupervised by anyone with kidney, heart or fluid-balance problems or who is pregnant. [USER: verify]

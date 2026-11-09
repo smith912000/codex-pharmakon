@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Sushruta t
 
 **Practitioner's note.** Nothing here gives a cultivator a practice with this plant. In the Sushruta scheme a name that may be a millet is food among safe foods, and the same name, in a different place, is an ingredient of a physician's ulcer powder. A millet eaten as a staple is a matter of diet, not of cultivation in the Codex's sense, and nothing should be taken as a drug on the strength of a Latin name the chapters do not give.
 
+### Functional–Anatomical Correlate
+
+The three passages name Kanguka at three sites. As a food in the safe-food list of Sutra 20, it has no organ site. In the ulcer powder of Sutra 36, with Triphala, Lodhra, Kasisam and bark powders, it is said to have a healing property for ulcers, so the ulcerated tissue is the site. In the oil passage of Chikitsa 31, the expressed oil of Kanguka with Shravana and Tuntuka is used to impart a yellow colour to a cicatrix, so the scar is the site. The chapters give no rasa, virya, vipaka or dosha for it, and say nothing of ojas, tejas or prana. The text does not say the three passages describe one drug, and the equation of Kanguka with the appendix's Kangu is the Codex's inference. Kasisam, in the ulcer powder, is a mineral substance, and the entry says it should not be taken internally.
+
 ### Contraindications
 
 The Sushruta passages read print no warning for the drug itself. The ulcer powder in Sutra 36 includes *kasisam*, a mineral substance and not a food; it should not be taken internally on the strength of this entry. The identity is open, so no plant should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

@@ -41,6 +41,10 @@ General, well-established facts only. Woodlice are crustaceans, not insects, and
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The creature is a lower-grade drug for urinary and menstrual complaints, and the Codex does not recommend taking animal bodies. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The entry's own claims fall into three groups. For the urinary system, the Shennong text names qi-blockage with inability to pass urine (qi long bu de xiao bian) and says the creature frees the water passages (li shui dao). For the reproductive system, it names blocked menses in women and blood lumps (xue zheng, as printed), which the Codex keeps as the classic's categories. For the nervous system and fever, it names convulsive seizures (xian zheng) and chills and fever (han re). The energetic frame is sour and warm (wei suan, wen), with lower-class placement. No organ or channel is named beyond these, and the text gives no modern anatomy for the lumps or seizures. The Codex maps these only to the classic's own categories and does not translate them into diagnoses. A urinary block is a medical emergency, and the entry does not present it as a home remedy.
+
 ### Contraindications
 
 - **Urinary retention:** an inability to pass urine is an emergency and needs medical care, not this drug.

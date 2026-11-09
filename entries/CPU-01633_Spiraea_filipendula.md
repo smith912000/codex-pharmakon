@@ -47,6 +47,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. What the chapter and its flag teach is that two things that look alike on the rock and by the water may not be the same plant, and that an obstetric drink is not a personal practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The entry maps Dioscorides’ claims onto three systems: the reproductive tract, the urinary tract and the liver. The seed, stalks and leaves, drunk with honeyed wine, are said to “discharge the afterbirth”, which the entry places in the uterus and its postpartum expulsion. The root, drunk with wine, is said to be good for “slow painful urination”, which points to the bladder and urethra, and for jaundice, which in modern anatomy is a liver and bile-pigment condition, though the text names no organ. The chapter uses no humoral, doshic or qi terms and prints no taste or temperature. The word “POISONOUS” above the text is the edition’s flag, not a claim about the body, and the entry keeps it separate from the uses. The identity is open between a rose-family herb and a water-side umbellifer, so the organ mapping is to the text’s reports and not to an established action. The entry notes that the afterbirth drink is an obstetric use, not one for self-treatment.
+
 ### Contraindications
 
 The edition flags this chapter "POISONOUS", and the translators' alternative identity, a water dropwort, is a genus with deadly members. Drinks that expel the afterbirth are obstetric treatments, and nothing here is for use in pregnancy or at childbirth. The identity of the plant is open between two very different plants, so no wild plant should be gathered or taken on the strength of this entry. Jaundice and difficult urination need medical assessment. None of the traditional uses above is advice. [USER: verify]

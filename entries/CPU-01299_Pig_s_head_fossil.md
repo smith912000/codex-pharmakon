@@ -40,6 +40,10 @@ General, well-established facts only. Fossil stones are mineral, largely calcium
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The record is a short entry in a list of stone medicines: a fossil of a certain shape and colour, used for bones and for fluid. It is not identified, and no preparation or dose is sourced. If a reader meets this substance, it is as a curiosity of the Tibetan list and not as a remedy to take. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states two actions, each on a named tissue or fluid. Clark's line for phag.mgo says the pig's-head fossil heals bone disorders and drains lymph, with a bracket noting that the Tibetan term behind lymph is not on disk; Men-Tsee-Khang renders the same statement as restores weak bone and drains out chhuser. So the mapped sites are the bone and a body fluid called lymph or chhuser. The stone's shape (pig's head) and colour (orange) are recorded as its look, not as a correspondence to any organ. No taste, potency or post-digestive taste is printed in chapter 20 for it, and no other tradition is tagged, so no humour, channel, wind or subtle-body site is mapped. The entry names no organ, system or tissue beyond bone and the lymph-like fluid, and no route of use or mode of working.
+
 ### Contraindications
 
 - **Bone disorders and fractures:** these need diagnosis, and often imaging and immobilisation; a stone powder does not substitute.

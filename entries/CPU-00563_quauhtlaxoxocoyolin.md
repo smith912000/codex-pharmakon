@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing. A cultivator has nothing sourced to do with this entry: the record is a list row and the species is contested. This is a historical record only and not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names quauhtlaxoxocoyolin, glossed begonia, and gives the species Begonia gracilis Kunth, which its row flags as id-uncertain because a second source gives Begonia balmisiana. The plant is attested by list row to the Badianus manuscript of 1552, with no folio, preparation, use or complaint. No organ, tissue or body system is named as acted on, and no source read says what the plant was used for. The Active Components section gives one general statement, that many Begonia species have sour-tasting tissues attributed to oxalates, and says whether this applies to the species here was not retrieved. No humoral or doshic classification is read, the hot and cold categories are left unresolved, and the cultivation register is absent. No clinical study was retrieved. Its only general caution, marked as not found in the row, concerns oxalate-rich plants and kidney-stone disease.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, a plant of contested identity should not be taken internally, and oxalate-rich plants are generally cautioned against in kidney-stone disease. Pregnancy and breastfeeding are not covered by any source read. This is general caution and is not found in the row. [USER: verify]

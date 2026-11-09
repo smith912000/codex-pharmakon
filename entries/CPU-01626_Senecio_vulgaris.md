@@ -45,6 +45,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. What the chapter gives is a description, a list of remedies without amounts and one warning, and the warning is the part to keep. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Dioscorides (DMM) gives one quality, cooling, of the leaves with the flowers. Its uses act on the urinary tract and the perineum: the leaves, smeared on with a little wine or alone, cure inflammations from stones, which the translators gloss as kidney or urinary. The same leaves, with manna thuris, heal other wounds and nerves, and the down in vinegar does the same. The whole stalk soaked in water and drunk with must cures pains of the stomach from cholera. The chapter's one warning is that the plant drunk while fresh causes strangling, and the text does not settle what 'they' refers to. The entry adds, as general knowledge and not as the chapter's claim, that groundsel and its relatives are generally regarded as potentially harmful to the liver. The tissues mapped are the urinary tract, perineum, wounds, nerves and stomach.
+
 ### Contraindications
 
 The chapter's own warning is that the plant "drunk while fresh" causes strangling. Groundsel and its relatives are generally regarded as potentially harmful to the liver, and this entry does not recommend taking it by mouth or applying it to wounds. Stomach pain with vomiting and diarrhoea, urinary stones and open wounds need medical assessment. The identification rests on a translators' suggestion, so no wild plant should be gathered or used on the strength of this entry. [USER: verify] None of the traditional uses above is advice.

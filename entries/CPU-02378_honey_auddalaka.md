@@ -43,6 +43,10 @@ General facts only. Honey is a sweet food made by bees from nectar; the Sushruta
 
 **Practitioner's note.** A hot, acid honey with a warning for *pitta*; it gives a cultivator nothing to act on.
 
+### Functional–Anatomical Correlate
+
+The Auddalakam honey is said to improve the voice and the relish for food, to be antitoxic, and to be curative in cutaneous affections (Sushruta ch.45, lines 1159-1163). It is heat-making in potency, acid and astringent in taste, pungent in digestion, and it generates Pittam. The entry maps this to the voice and throat, to appetite and digestion, and to the skin. The antitoxic claim names no organ or pathway, so no further mapping is supported. The Pittam it generates is recorded as a caution, not a promise. The modern glosses on the bees and on honey composition are the Codex's own rather than the source's. The group's rule against heating honey applies to this kind as to all of them, so the honey is mapped to voice, appetite, digestion and skin, with Pitta as the stated caution.
+
 ### Contraindications
 
 - **Heated honey.** The text forbids hot or boiled honey and says it can be fatal like poison (lines 1183-1200).

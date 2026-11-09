@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identifica
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The text offers nothing more than a texture, a craft use and a drink for dysentery.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter names the leaves as the part used and says they are given to drink with hard wine for dysentery, so the only organ it names is the bowel, through a flux. It gives no temperament, humour, doshic or qi quality, and no taste. The only quality it prints is that the leaves are white and soft, which is the reason they are used in place of wool flocks, a craft use with no body system attached. The chapter has no description of habitat, stalk, flower or root, and no preparation beyond the drink, so it does not say whether the leaves are fresh or dried. It names no other organ, tissue or system. The entry itself notes that dysentery needs rehydration and medical care, and that the identity of the plant is only the translators' suggestion.
+
 ### Contraindications
 
 The chapter prints no warning. Dysentery needs medical care and must not be left to a home preparation. The identification is only the translators' suggestion, and the chapter gives no description to check a plant against, so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. None of the traditional uses above is advice. [USER: verify]

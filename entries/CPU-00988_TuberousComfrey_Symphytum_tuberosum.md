@@ -85,6 +85,10 @@ Topical use is conventionally limited to short courses over small skin areas and
 
 ---
 
+### Functional–Anatomical Correlate
+
+Tuberous comfrey acts, in its entry's own account, on the skin and soft tissue at the surface of the body. The Dioscoridean and Yūnānī doctrine of a cold, moist, wound-gluing drug is mapped onto the epithelium: allantoin is said to drive fibroblast proliferation, collagen deposition and re-epithelialisation, and mucilage is said to form a protective, emollient film on dry, cracked or irritated skin. Bruises, sprains and strained soft tissue are the other targets, with the drug's drying poultice read as mechanical support for a limb. The traditional 'knitbone' claim concerns bone, but the entry states that the drug is used only externally as comfort and support and never as internal bone therapy. The liver is the organ at risk rather than a target: pyrrolizidine alkaloids are hepatotoxic when absorbed, and absorption is greater through broken skin. The entry grades the wound-healing mechanism as preclinical for allantoin and as unproven for this species.
+
 ### Contraindications
 
 - **⚠️ HEPATOTOXICITY — pyrrolizidine alkaloids:** **Never take internally.** PAs cause dose-dependent liver injury (including veno-occlusive disease) and are genotoxic/carcinogenic. This is the defining safety fact of the genus.

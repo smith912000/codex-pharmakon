@@ -72,6 +72,10 @@ Codex policy: mechanism stated securely; named citations to be supplied and veri
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places hemlock's action on the neuromuscular junction and the breathing muscles. Coniine acts on nicotinic acetylcholine receptors, producing an initial stimulation then a depolarising block that paralyses muscles from the feet upward, ending in diaphragm paralysis and respiratory failure, with consciousness preserved until hypoxia. The Galenic and Greek reading is a poison, and where graded it is cold in the highest, lethal degree, a cooling and deadening extreme. Dioscorides describes external use on hot swellings and hard indurations, including the breast, for its cooling and pain-deadening action, and as an anaphrodisiac to quell sexual excitement. The Kenetica mapping is Qi at the cooling-sedating pole, with a Shen ascription for direct action on the respiratory vital function. The entry lists internal use, pregnancy and skin absorption as contraindicated, and notes teratogenic effects in livestock. No antidote exists.
+
 ### Contraindications
 
 - **All internal use — absolute prohibition.** Lethal; small margin; no antidote.

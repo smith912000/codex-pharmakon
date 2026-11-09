@@ -42,6 +42,10 @@ No clinical studies were retrieved for this entry. [USER: verify] General fact: 
 
 **Practitioner's note.** A rare aromatic in the text, warming and gentle, for the old and for the head and heart. What a cultivator does with it today is mostly nothing: the supply is scarce, adulterated and legally awkward in places, and the text asks for no more than a small warming aromatic.
 
+### Functional–Anatomical Correlate
+
+Avicenna's ambergris entry maps the substance to the brain, the senses, the heart and old men. It benefits the brain and the senses, and benefits the heart greatly. It is said to benefit old men by the gentleness of its warming, which places a body-wide effect in age rather than in a single organ. Its temperament is hot in the second degree and dry in the first, said to be likely, so warming is the mechanism the text gives. Cosmetically, one kind dyes the hand and is used after henna. The text places the substance in a spring welling up in the sea, not a whale, so the modern whale link is not in the entry. No dosha, humour or vital faculty is attributed. Modern anatomy would name the brain, sense organs and heart, which is the same set the entry names, stated in its own terms as warming and benefit.
+
 ### Contraindications
 
 No contraindication is given in the text. Trade in natural ambergris is regulated or restricted in some countries because it comes from a protected animal; legal status varies by place. [USER: verify] Fragrance sensitisation is possible. Adulterated or synthetic material is common.

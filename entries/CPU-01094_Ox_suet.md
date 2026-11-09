@@ -51,6 +51,10 @@ General, well-established facts only. Beef tallow is a saturated animal fat; fat
 
 **Practitioner's note.** Nothing is sourced that makes suet a substance for cultivation. What the two texts offer a practitioner is a lesson in preparation: Dioscorides insists the fat be washed, boiled free of smell and judged by eye and nose before use, and the Ebers scribe uses it only as a plaster base. A cultivator who wants to eat beef fat eats it as food and takes no practice from this entry. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides prepares ox or cow suet from the fat near the kidneys: the skin is removed, the fat is washed in sea water and boiled until it loses its smell, then waxed and bleached in the sun. He calls cattle fat somewhat astringent and all fat warming, softening and purifying. The Ebers compounds use cattle fat as a plaster base for the eye, for wounds (to ripen or to dry them), for the mouth in a chewing remedy, for mattery swellings of the neck, and for the met, which Bryan reads as the nerves or blood-vessels. One ointment with saffron, coriander and myrrh is offered in place of a drink said to drive blood out through the mouth or rectum. The sources give no outcomes and no temperament or humour for the fat. The mapping is the eye, the wound, the mouth, the neck, the nerves or vessels and the blood-flow passages. No dose is given.
+
 ### Contraindications
 
 - **Hygiene and infection:** raw or poorly rendered animal fat on an open wound can introduce bacteria and spores, and the Ebers practice of ripening a wound with fat or flesh (line 2322) is not safe by any modern standard.

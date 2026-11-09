@@ -89,6 +89,10 @@ According to PubMed, the evidence supports a **genuine but mild** sedative-analg
 
 **Practitioner's note.** A cultivator uses lettuce as a mild evening wind-down — the gentlest tier of soporific — not as a tonic. The lactucarium sleep tradition is functional and therapeutic, and nothing across the traditions raises it to a cultivation practice: this is sleep hygiene, not cultivation of the vital constitution, and the Egyptian fertility symbolism, real as it is, does not change that.
 
+### Functional–Anatomical Correlate
+
+The entry maps lettuce chiefly to the central nervous system and the sleep-wake axis. The sesquiterpene lactones lactucin, lactucopicrin and 11b,13-dihydrolactucin are described as CNS-active: in mice they produced analgesia comparable to ibuprofen and, for lactucin and lactucopicrin, reduced spontaneous locomotor activity, with lactucopicrin most potent. Seed extracts showed anxiolytic and barbiturate-sleep-potentiating effects, with a proposed GABA route supported only by in-silico docking. Galenic-Unani terms make lettuce cold and moist in the second degree, a refrigerant soporific that calms heat. The entry explicitly denies opioid receptor action. It records the Unani anaphrodisiac claim and the Egyptian Min fertility signature as doctrine, not evidence. It notes a historical lactucarium cough indication, and Ayurvedic pitta-cooling. Latex contact dermatitis and sedative interactions are listed as risks.
+
 ### Contraindications
 
 - **Do not treat as an opioid or strong hypnotic.** Effects are mild; substituting lettuce/lactucarium for prescribed analgesia or sedation is unsafe and ineffective.

@@ -101,6 +101,10 @@ Trials generally ran 12 weeks and found the standardised extract **short-term sa
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps red clover onto the skin as a depurative, in the old alterative use for chronic eruptions such as eczema and psoriasis, and onto the airway, where a mucilage fraction soothes irritable cough. The modern account moves to the endocrine system. Its isoflavones, biochanin A, formononetin, genistein and daidzein, act as phytoestrogens with preferential affinity for oestrogen receptor-beta, relevant to menopausal vasomotor flushes. The entry reports that hot-flush frequency is mostly not reduced in the largest syntheses, though some analyses of the standardised 80 mg extract show a modest fall. A 2024 trial reported improved lipid profiles, lower LDL and triglycerides and higher HDL, which the entry places in the cardiovascular and metabolic systems. Coumarin-type compounds, which can become dicoumarol on spoilage, bear on clotting, so the blood-clotting system is named as a site of interaction. Oestrogen-sensitive breast and endometrial tissue are named as cautions.
+
 ### Contraindications
 
 **Oestrogen-sensitive conditions (primary concern).** Because the isoflavones are ER-active phytoestrogens, red clover extracts are **contraindicated or used only with specialist oversight** in women with a history of **oestrogen-receptor-positive breast cancer**, and cautioned in endometrial cancer and other hormone-sensitive conditions. The menopause trials generally **excluded** women with breast cancer, so safety in that group is essentially untested. Do not assume "natural" means safe here.

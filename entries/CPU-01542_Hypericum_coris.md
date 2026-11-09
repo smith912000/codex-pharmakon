@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity i
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is the use of taste, sharpness and smell, together with a stated height, as a check on identity. The text offers nothing more, and the abstentive answer is the right one.
 
+### Functional–Anatomical Correlate
+
+Dioscorides' chapter maps its uses onto the urinary passages and the womb. A seed decoction in wine is said to induce the passage of urine and the menstrual flow, so the urinary tract and the uterus are the organs named. A decoction taken with pepper is given for harvest-spider bites, sciatica, tetanus and chills, which map onto the nervous system (the sciatic nerve, the nerves in tetanus), the muscles and the febrile response. Oil made into an ointment is for severe spasms, a muscular target. The root boiled in wine is said to help those who faint often, which points to the circulation and the blood supply to the brain. The patient must be well covered because the drink makes the whole body sweat, so the skin and its sweat glands are the stated route, and the chapter adds that from this one recovers agility. The chapter prints no humour and no hot, cold, moist or dry quality for the plant, so no traditional energetic term is carried over from it.
+
 ### Contraindications
 
 Chapter 3-174 prints no warning. The text uses the seed to "induce" the menstrual flow, which is a warning in itself for pregnancy, and no safety information for pregnancy was read. The identification is only the translators' suggestion between two unrelated plants, so no plant should be gathered or used on the strength of this entry. Tetanus, sciatica and repeated fainting need medical care. The text gives no dose. [USER: verify]

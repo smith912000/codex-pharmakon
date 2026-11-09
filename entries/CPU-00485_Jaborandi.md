@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As a general f
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. The honest answer is to do nothing with it on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names no body system, organ or tissue. Its only locus is a list row calling Pilocarpus microphyllus the primary commercial pilocarpine source, which is a commercial fact and not a traditional use. The row names no people, plant part, preparation or use, and the entry records no energetic quality; cultivation status is marked absent. The entry states that the leaf's alkaloid content was not read and that no clinical studies were retrieved, so no tissue action is recorded here. It notes pilocarpine as a cholinergic alkaloid and pharmaceutical agent as a general fact, without linking it to any organ. It cross-refers to CPU-00484, which names this species as a congener, and records that the PMC 2017 citation was not opened. No safety data were read, and the entry advises against use in pregnancy and against preparing or using the leaf.
+
 ### Contraindications
 
 No safety data were read for this row. Pilocarpine is a potent drug, and a crude leaf is not a measured dose of it. Do not use in pregnancy. Take medical advice before any use. This is general caution and is not found in the row.

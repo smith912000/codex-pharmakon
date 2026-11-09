@@ -69,6 +69,10 @@ Assigned by signature as **cold, damp, and hidden** — reading the pallor, the 
 
 **Practitioner's note.** Nothing. This is a study specimen for how a signature produces a use; there is nothing to take, grow or prepare, and the plant should not be wild-harvested.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that no constituent of toothwort acts on teeth, mood or seizure, and that its tissue associations are signature-derived only. Traditional targets are the teeth and gums, because the white tooth-shaped rhizome scales look like teeth. By habit and pallor the plant was also associated with melancholy and, in places, epilepsy, which the entry describes as attributions of appearance, not tested effect. Its humoral classification as cold, damp and hidden is by signature and carries no validated physiological meaning. The only chemistry recorded is aucubin, an iridoid glycoside with no link to teeth, mood or epilepsy, plus sugars and mannitol consistent with a xylem-feeding parasite and generic phenolic acids. The entry says the plant cannot be cultivated in the ordinary sense and is not recommended for internal or topical use.
+
 ### Contraindications
 
 Because there is no established medicinal use, there is no safe-use profile: **not recommended for internal or topical use.** Toothache, mood disorders, and seizure conditions are serious and require proper medical or dental care — a signature-derived folk remedy must never displace them. The plant is uncommon and, in some regions, of conservation concern; it should not be harvested from the wild. **[USER: verify]** local protected-species status before any collection.

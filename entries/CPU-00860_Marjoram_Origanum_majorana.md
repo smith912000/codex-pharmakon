@@ -80,6 +80,10 @@ According to PubMed, marjoram has a broad preclinical pharmacology and a support
 
 **Practitioner's note.** No tradition in the tag set grades marjoram as a life-nourishing substance; the honest reading is therapeutic-or-adjacent at most, and absent at the edges (AT, SBJ). Its rich symbolic register — Aphrodite's touched-into-fragrance herb, the marriage wreath, the funerary aromatic — is *culture*, not a cultivation assignment. What a cultivator does with it is modest and daily: a gentle warming nervine taken to settle a knotted gut and ease the passage toward sleep, chosen for that specific job rather than for any formal tonic status.
 
+### Functional–Anatomical Correlate
+
+The entry maps sweet marjoram mainly onto the digestive tract and the smooth muscle of the gut, where it is said to relax cramp, wind and a knotted stomach, and to warm a cold or sluggish digestion. In the Galenic and Unani readings it is hot and dry (hārr yābis), a carminative, nervine and emmenagogue, so the womb and the nervous system are also named as targets, with the nerves and restless state said to be calmed by a warm infusion. The modern correlate offered is antispasmodic smooth-muscle activity, attributed to terpinen-4-ol and the wider terpenoid fraction, with some antimicrobial and antioxidant action. The entry also reports an animal study on ovarian tissue in a rat model of polycystic ovary syndrome, where extract lowered ovarian weight and oestradiol, improved insulin sensitivity and reduced IL-6, but it states that this is a rat model rather than a human trial. Human clinical evidence is described as sparse, so the mapping remains traditional and preclinical.
+
 ### Contraindications
 
 - **Pregnancy:** traditional emmenagogue; avoid therapeutic/medicinal doses in pregnancy (culinary amounts considered ordinary). `[USER: verify]`

@@ -45,6 +45,10 @@ General facts only. Colostrum from cows is a common modern food and feed product
 
 **Practitioner's note.** A neonatal cow's milk named by the translator as the first stage of the cow's lactation, recorded in one clause. A cultivator has nothing in this text to act on, and the modern product is a food supplement for which the Codex retrieved no evidence.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that Piyusha, the early milk of a cow up to the seventh day after calving, is sweet to the taste and restorative and aphrodisiac in its properties, a pair of properties given jointly with Moratha (Sushruta Samhita ch.45, lines 729-730). The text names no organ, tissue, dosha, virya or vipaka for it, and gives no effect on any body system. The translator's footnote adds only that the milk is not fit for use until it is perfectly purified. The modern fact that first milk is rich in immunoglobulins is a general note by the Codex and was not read in the source, so it is not mapped here. The text's restorative and aphrodisiac terms sit near the rasayana and vajikarana vocabulary, but the entry records that the text does not place this milk in either chapter and makes no ojas claim for it. Nothing further can be mapped to the body from this source.
+
 ### Contraindications
 
 - **Hygiene.** Raw milk of any animal can carry bacteria that cause infection; the translator's footnote itself says the early milk is not yet fit for use.

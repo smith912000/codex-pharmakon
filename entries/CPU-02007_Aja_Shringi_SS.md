@@ -44,6 +44,10 @@ General, well-established facts only. *Gymnema sylvestre* is a woody climber of 
 
 **Practitioner's note.** Nothing to do. A root in a group for Kapham and discharges, and in a plaster for erysipelas, is a treatment record. The tradition's own words give a reader no cultivation use.
 
+### Functional–Anatomical Correlate
+
+Aja-shringi sits in the Valli-Panchamulam, a group of five creeper roots that the Sushruta Samhita sets against Kapham, the phlegm humour, and names as acting on haemoptysis (coughing of blood, a respiratory and airway concern), the three kinds of anasarca or oedema (Shopha), and the urethral and seminal tracts, where the text says the group arrests urethral discharges and treats seminal disorders. In a separate recipe for the Kaphaja form of Visarpa, an erysipelas-type skin eruption, the root is one of six drugs pasted into a plaster, which places it on the skin. The text gives no rasa, virya or vipaka for the root. The body systems the entry maps are therefore the respiratory tract and blood-spitting, the fluid balance and oedema, the urinary and reproductive tracts, and the skin. These statements are made of the whole group, not of this root alone, and the Latin identity with Gymnema sylvestre is the translator's positional pairing, so the mapping holds only for the text's own claims.
+
 ### Contraindications
 
 - **Identity.** The Latin name is the translator's and the pairing is positional. Do not use a plant on the strength of this entry.

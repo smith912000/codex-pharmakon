@@ -41,6 +41,10 @@ Avicenna: hot and dry in the second degree; clearing and thinning in action.
 
 **Practitioner's note.** Nothing to practise. It is a scented flower used for the head, throat and stomach.
 
+### Functional–Anatomical Correlate
+
+The entry maps the flower and its oil onto several systems. Head: it kills worms in the ears, benefits ringing and buzzing (tunin, dawi) and toothache, and the wild kind is smeared on the forehead to quiet headache; all its kinds open blockages of the nostrils. Nerves and joints: it benefits cold of the nerve, as the text puts it, with no joint named. Chest: it benefits swellings of the throat and tonsils. Digestive organs: four drachms drunk quiets vomiting and hiccup, especially the wild kind. Energetically, Avicenna gives hot and dry in the second degree, with a clearing (munaqqin) and thinning (mulattif) action, its flower more so. Its oil is said to be near jasmine oil in power. The entry names no organ beyond those listed and gives no humoral or tissue framing. The species is not identified; the comparison with jasmine and narcissus gives scent, not identity. Persistent vomiting, ear discharge, throat swelling and toothache need medical care.
+
 ### Contraindications
 
 - Persistent vomiting, ear discharge, throat swelling and toothache need medical care.

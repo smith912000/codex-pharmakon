@@ -73,6 +73,10 @@ Onset is not immediate; some trials suggest benefit accrues over days to two wee
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry locates the action in the central nervous system, specifically the brain's principal inhibitory system, the GABA-A receptors. In the Galenic-Unani frame valerian is a warm, dry nervine that comforts the nerves and brain, dispels wind and settles the tremors and palpitations read as a cold, unsettled pneuma. Ayurvedic adjacency, through tagara (V. jatamansi), places the root as medhya, mind-supporting, and as vata- and kapha-pacifying for disordered mind and sleeplessness. The modern anatomy the entry names is the cortical and limbic circuitry that the valerenic acid and valerenol fraction is said to damp by enhancing GABA-A responses at beta2/beta3-containing receptors, a mechanism the entry grades as strongly supported in receptor and mouse work. Sleep onset and anxiety are the clinical targets, graded as moderate to weak. The all-heal claim maps to no specific organ. The entry also notes rare hepatotoxicity reports, usually with combination products.
+
 ### Contraindications
 
 - **Additive CNS depression.** Valerian's GABAergic action can potentiate alcohol, benzodiazepines, barbiturates, opioids, and other sedative-hypnotics — do not combine; caution with driving/machinery after dosing.

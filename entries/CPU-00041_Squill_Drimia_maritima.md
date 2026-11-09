@@ -70,6 +70,10 @@ Codex policy: mechanism stated securely; named citations to be supplied and veri
 
 ---
 
+### Functional–Anatomical Correlate
+
+Squill's entry maps its action onto the heart, the bronchial mucosa, the kidneys' fluid handling and the stomach. Its bufadienolide cardiac glycosides, proscillaridin and scilliroside, are said to inhibit the Na+/K+-ATPase of cardiac muscle, increasing the force of contraction, which the entry links to relief of dropsy (oedema of heart failure) through improved cardiac output. Mucilage and sapogenins are said to act on the bronchial mucosa as a stimulating expectorant for thick phlegm, and the entry also names diuretic action for fluid overload. Larger doses are described as violently emetic, acting on the stomach and vomiting reflex. In red squill the scilliroside-rich bulb is a poison, and rats cannot vomit it out. The entry gives Galenic Hot and Dry in high degree, an acrid, incising agent that cuts viscid humours, and maps the expectorant and diuretic actions to Qi and the cardiac action to Shen. Arrhythmia and renal impairment are named as contexts of glycoside accumulation, so the heart and kidneys are the organs of concern.
+
 ### Contraindications
 
 - **Cardiac glycoside toxicity — absolute caution.** Narrow margin; arrhythmogenic in excess; contraindicated alongside digitalis/other cardiac glycosides and where their toxicity is a risk (e.g. hypokalaemia, which potentiates glycoside toxicity).

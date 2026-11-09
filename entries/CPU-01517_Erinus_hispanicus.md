@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identifica
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is a modest one: the text asks the user to know the plant by its habitat and its parts, and to name the quality of the sulphur that goes with it. The text offers nothing more.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter states two external uses, both on the organs of the head. Its seed, two teaspoonfuls mixed with four of honey and smeared on, is said to stop discharges of the eyes. Its juice, dropped in the ears with sulphur and saltpetre, soothes earache. The eye and the ear are the only body parts named. The chapter prints no hot, cold, moist or dry quality and only one taste, that the seed is unpleasant, so no humoral, doshic or qi classification can be drawn. It names no tissue, channel or other organ, and gives no mechanism. The stalk and leaves are described as full of liquid, which is a description and not an action. The identification is the translators' suggestion, and the chapter gives no preparation beyond these two.
+
 ### Contraindications
 
 The chapter prints no warning. Eye discharge and earache need medical assessment, and ear drops of an untested preparation should not be used if the eardrum may be damaged. The identification is only the translators' suggestion, so no plant should be gathered or used on the strength of this entry. Sulphur and saltpetre are chemicals with their own hazards. No safety information for pregnancy was read. None of the traditional uses above is advice. [USER: verify]

@@ -47,6 +47,10 @@ Plants of the daisy family can cause contact dermatitis in sensitive people, and
 
 **Practitioner's note.** The practice in these chapters is of assay and provenance: the smell of the herb, the place the best ointment is made. Nothing in them gives a cultivator a practice for the person, and the identification is doubtful, so no use is recommended.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives one herb and three ointments, and the claims are these. Dioscorides' parthenion, taken dried as a drink with vinegar and honey (or with salt), is said to drive phlegm and cholera downward and out, and to help the asthmatic and the depressive. The herb without its flower is given in drink for urinary stones, and a decoction is fit for bathing a hardened and inflamed womb. Applied with its flowers, it treats skin inflammation and other inflammation. The ointments amaracinum, megaleion and hedychroon are described as warming, sleep-inducing, opening the blood vessels, softening, heating and diuretic, and are used on decaying flesh, fistulas, ulcers, difficult urination, haemorrhoids, menstrual flow, hardness of the vulva, and hurt tendons and muscles. Traditional qualities printed: bitter to taste, somewhat poisonous to smell. The identification as Anthemis cotula is a translators' gloss and is unverified.
+
 ### Contraindications
 
 Mayweed is generally known to irritate skin, and the text itself calls the smell "somewhat poisonous". The ointments contain several strong aromatics. Do not use in pregnancy, since the text names menstrual-flow and womb uses. None of the traditional uses above is advice.

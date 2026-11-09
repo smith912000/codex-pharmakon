@@ -40,6 +40,10 @@ General facts only. Rhino horn is keratin; no clinical evidence supports medicin
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. Rhino horn is a historical remedy, and in the present day using it harms an endangered animal. The honest use of the entry is to read the record and leave the material alone.
 
+### Functional–Anatomical Correlate
+
+The entry's own sources place rhinoceros horn in the stomach and the torso. Clark's Explanatory Tantra says it dries accumulations of pus, blood and lymph in the stomach, and is beneficial in poisoning. The Men-Tsee-Khang edition gives the same action as drying pus, blood and chhuser of the torso. The terms are used as printed: pus, blood and lymph in Clark, and chhuser in Men-Tsee-Khang. Rhino hide is given for smallpox, the only skin-related action in the lines read. As meat, the animal is a dry-land game animal, described as sweet tasting, with cool, light and coarse powers that eliminate wind and phlegm fevers. No organ, channel or humour beyond the stomach, the torso and the skin is named for the horn or hide, and the sources give no modern anatomical correlate, so the mapping stays at that level.
+
 ### Contraindications
 
 - **Conservation and law:** all rhinoceros species are threatened, and trade in horn and other parts is banned or tightly restricted internationally and in most countries. Possession can be a criminal offence. [USER: verify]

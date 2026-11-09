@@ -38,6 +38,10 @@ Kaolin-group clays are used industrially in ceramics, paper and fillers, and kao
 
 **Practitioner's note.** An upper-grade drug in the Chinese scheme: the Classic held it safe for long use. Whether it was a clay, a graphite or something else is open, and the Classic's claims have no established support, so nothing here supports taking it. For a cultivator the entry is a record of how the Han-period elixir tradition ranked five coloured earths, matched to the five viscera, among the "nourish life" drugs. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Yang prints one monograph for the five coloured stones, sweet and balanced and Superior-class. They are said to treat jaundice, diarrhoea and dysentery, intestinal afflux with pus and blood, genital erosion, precipitation of blood, vaginal discharge, evil qi, welling and flat abscesses, haemorrhoids, malign and head sores, and itching scabs. Mapped to the body, these are the liver and bile for jaundice, the bowel, the genital tract, the blood, the skin and the head. The text correlates the five colours with the five viscera: red with the heart, white with the lungs, green-blue with the liver, yellow with the spleen and black with the kidneys. Long taking is said to replenish the marrow. No humoral, doshic or temperament classification is given, and the entry keeps the five stones as one because the monograph does.
+
 ### Contraindications
 
 Clays sold as remedies vary widely in composition and may carry heavy metals or other contaminants. Swallowed clay can reduce the absorption of other medicines. If the black stone was graphite (footnote 45), that is a carbon and not a clay, and the same caution about unstandardised mineral products applies. The Classic's "prolonging life" is not a claim of fact. [USER: verify] the legal and conservation status of collecting these materials; the sources retrieved do not address it.

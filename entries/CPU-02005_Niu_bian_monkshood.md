@@ -49,6 +49,10 @@ Monkshood alkaloids act on the sodium channels of heart and nerve tissue; poison
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. A lower-grade drug taken as a short external course, or not at all, and in this case used chiefly on animals.
 
+### Functional–Anatomical Correlate
+
+The Shennong text assigns this drug, identified as an aconite, to the skin: it treats sores of the body's skin with heat qi, and it is made into a bath decoction for that purpose. It is also said to kill cattle lice and small insects and to treat cattle disease. Sun's text gives its flavour as sweet and slightly cold, while Yang's translation gives bitter and slightly cold, and the two differ on the lice. The lower-grade placement and the preface describe it as mostly toxic and not to be taken long. The entry maps the drug to skin and surface, to heat, and to external bath use. No internal organ, tissue or humour is named. The entry adds, as general context and not as a test of this variety, that monkshood alkaloids act on heart and nerve sodium channels.
+
 ### Contraindications
 
 - **Poison.** Monkshood is poisonous by mouth and can be absorbed through broken skin; do not take it internally, do not apply it to open wounds, and keep it away from children and animals.

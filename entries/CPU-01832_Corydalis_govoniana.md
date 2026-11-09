@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with this plant. It is a name in a recipe for evil-spirit and mental disorders, and the Latin name behind it is a translator's appendix pairing.
 
+### Functional–Anatomical Correlate
+
+Little to map: the only Sushruta passage that prints the name is Uttara ch.60, in a list of drugs for an oil and a ghrita said to cure all sorts of mental disorders and to exorcise evil spirits. The text gives the routes of use: taken internally, as snuff and as unguent, pills for sprinkling the body, powder for dusting, and a paste for plasters. It names no organ or tissue for the drug to act on. The translator's bracket naming the plant is unreadable, so the identity is open. The chapters print no rasa, virya or vipaka for it, and say nothing of ojas, tejas or prana. The rasayana and vajikarana chapters do not name it. The only condition mapped is mental disorder, in a ritual-medical context against evil spirits, which the entry notes needs medical care.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for this plant. The identity is open, and the one recipe it appears in contains animal and mineral materials, so no plant should be gathered or used on the strength of this entry. Mental disorders need medical care. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

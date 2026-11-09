@@ -45,6 +45,10 @@ General, well-established facts only. Wine flavoured with pine resin survives to
 
 **Practitioner's note.** A medicinal wine from a trade in resin, with its own warning printed in the chapter. A cultivator has nothing to take from it beyond the habit of noting where a material comes from and what it does to the head.
 
+### Functional–Anatomical Correlate
+
+The entry's only physiological material is a rosin wine from Dioscorides chapter 5-43. The tree behind the rosin is the translator's suggestion, so the mapping below concerns the wine. In the chapter's own terms the wine is 'digestive and urinary', so it is aimed at the digestive tract and the urinary tract. The named uses map to further systems: 'dripping mucus and coughs' (upper airways and respiratory tract), 'the abdominal cavity' and 'dysentery' (abdomen and large bowel), 'dropsy' (fluid held in the tissues), and 'women's menstrual flows' (the reproductive tract). As 'a syringe for deep ulcers' it is directed at deep tissue wounds. The chapter says the black wine is 'more binding' than the white, an astringent action, and that the wine causes headaches and vertigo, an effect the entry places on the head and balance. The chapter gives no humoral quality, doshic term or qi term for this wine, and the entry adds no modern mechanism. The organs above are the entry's listed uses, labelled here with modern anatomy, and the entry itself makes no pharmacological claim.
+
 ### Contraindications
 
 - **Alcohol.** The wine is an alcoholic drink; it is not suitable in pregnancy, for children, for people with liver disease, or before driving.

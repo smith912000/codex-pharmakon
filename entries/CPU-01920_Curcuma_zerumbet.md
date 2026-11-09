@@ -49,6 +49,10 @@ General, well-established facts only. *Curcuma* species are rhizomatous herbs of
 
 **Practitioner's note.** Nothing to cultivate here. The record is of a plant used as one ingredient in compounds for Vayu disorders and fever, with no cultivation status in the sources read. A cultivator has no sourced use for it, and the identification itself is open.
 
+### Functional–Anatomical Correlate
+
+The entry maps this plant to few organs. Sathi is named as one drug among many in compounds for the deranged Vayu, a doshic term from the Sushruta text. These include a ghee, an oil cooked in milk and oil, a pill taken every morning in all Vayu diseases, and a pasted compound. It is also one ingredient in a fever decoction with treacle. In none of these lines does the drug act alone. The vegetable chapter calls the Sathi potherb astringent in property, cooling in potency, easily digestible and not hostile to the humours. The Appendix gives no qualities. The entry flags the Latin identification as a column-count reconstruction, and says the modern species may not be the plant the Samhita meant. No single-drug dose is given, no cultivation status is attested for rasayana or vajikarana use, and nothing is said on pregnancy, lactation or children.
+
 ### Contraindications
 
 - **Identity.** The Sanskrit name and the Latin gloss are linked by our column count; the Latin species may not be the plant the Samhita meant. [USER: verify]

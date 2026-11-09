@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** The sources give a cultivator no practice with this root. It is a lung remedy with no stated preparation or amount, and its identity is uncertain, so the honest answer is that there is nothing here to take up.
 
+### Functional–Anatomical Correlate
+
+The root is the only part named, and it is said to act on the lungs. The root-text layer says it heals lung diseases and drains lung pus, and the Men-Tsee-Khang text repeats that the root heals lung disorders and drains pus from the lungs. In the commentary layer, which Clark brackets, the root is also said to disperse womb tumours, so the uterus is named as a second target. The same bracketed layer gives the root sweet and slightly bitter tastes, which are the only taste printed, and no cool or warm power is given in the lines read. The description of the plant gives leaves close to the ground, a blue flower with a tinge of red, and a seed shaped like an animal's heart, but none of these maps to an organ. The mapping is therefore the lungs, with lung pus as a purulent condition, and the womb, and nothing else in the entry.
+
 ### Contraindications
 
 The sources read print no warning. Lung disease with pus is a serious condition that needs medical care and must not be left to a home preparation. The botanical identity is uncertain (three species in Clark), so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read, and the commentary layer's "womb tumors" use should not be self-treated. [USER: verify]

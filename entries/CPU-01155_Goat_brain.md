@@ -38,6 +38,10 @@ General, well-established facts only. Ligaments and tendons are dense connective
 
 **Practitioner's note.** A cultivator does nothing with this. It is a single indication for torn ligaments in a list of animal medicines, rarely used according to the translator, and eating brain from a ruminant carries a recognised disease risk with no supported benefit. The honest use of the entry is as a record of what the Tantra says.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one function for one tissue. Clark's translation of the Explanatory Tantra says goat brain unites severed ligaments and tendons, and Men-Tsee-Khang's 2011 text says it heals torn ligaments and tendons. The tissues named are therefore the ligaments and tendons, and the entry gives no organ, humour or channel for them. The two translations differ in wording, unites severed or heals torn, and the Tibetan wording is not in the files, so the entry does not settle which is closer. Neither translation prints a taste, potency, post-digestive taste or humoral quality, or a preparation, route or dose. The line sits under the brain heading, beside sheep, game-animal and rabbit brains, and the entry records the tradition's pairing of each animal's brain with a complaint without giving a reason.
+
 ### Contraindications
 
 - **Prion disease:** brain and spinal tissue from sheep and goats can carry transmissible spongiform encephalopathies; many countries ban or restrict human consumption of such tissue.

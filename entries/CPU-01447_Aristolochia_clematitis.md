@@ -43,6 +43,10 @@ Aristolochic acid nephropathy and urothelial cancer after consumption of *Aristo
 
 **Practitioner's note.** The Greek text gives a cultivator a lesson in telling three similar plants apart and in not over-claiming for the weakest of them. It gives no practice to take up. The plant is a recognised kidney poison and carcinogen, and the abstentive answer is the right one: do not use it.
 
+### Functional–Anatomical Correlate
+
+Dioscorides lists many uses for the aristolochia group, and the entry notes that not all are tied to this kind, which he says has less strength than the round and long kinds. Some uses concern the reproductive system: a drink with pepper and myrrh and a pessary are said to put out wastes and the menstrual flow, and an abortifacient effect is named. Others name the lungs (asthma), the spleen, the abdominal wall (hernia), the nervous system (convulsions), bone (rickets, splinters), the skin and ulcers, the gums and teeth, and fever treated by inhaled smoke. The chapter gives no humoral, doshic or qi term for the plant, only 'aromatic smell' and 'thick bark' for the roots. Aristolochic acid, which damages the kidney, is a modern fact about the genus noted in the entry, not a claim of the text. The Codex does not recommend the plant.
+
 ### Contraindications
 
 *Aristolochia* plants (aristolochic acid) are nephrotoxic and carcinogenic. Sale or use is banned or restricted in many countries. Do not use in pregnancy: Dioscorides himself records an abortifacient use. None of the traditional uses above is advice, and no home preparation is safe. Anyone who has taken *Aristolochia* material and has kidney symptoms needs medical care.

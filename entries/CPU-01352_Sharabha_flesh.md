@@ -38,6 +38,10 @@ General facts only. Venison is a lean red meat and must be cooked through; game 
 
 **Practitioner's note.** Nothing here is a practice. In Sushruta this is a name in a list of venisons and in a list of fever-diet meats, and it cannot be identified with confidence. A person who eats game may read the group classification as the tradition's description of the food; a person who does not has nothing to adopt.
 
+### Functional–Anatomical Correlate
+
+The Sharabha is named only in a list of venisons in the Janghala (high-ground) group, and the list gives no individual property for it. The group statement is that the flesh is sweet and astringent in taste, light, keen, pleasant, laxative and diuretic, and that it subdues Vayu and Pittam. Mapped to the body, that points to the bowel (laxative), the kidneys and bladder (diuretic), and the wind and bile humours as the text names them. The Uttara chapter lists it among meats that may be prescribed to a fever patient used to animal food, with no organ named. The entry names no organ or channel for the Sharabha itself, and the animal is unidentified.
+
 ### Contraindications
 
 - **Identity:** the animal is unglossed in the chapter and described as fabulous in the glossary; do not substitute a species on this basis. [USER: verify]

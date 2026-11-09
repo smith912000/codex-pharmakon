@@ -75,6 +75,10 @@ According to PubMed, controlled human data support jasmine oil as an **activatin
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps common jasmine onto the nervous system and mood, acting through scent. Inhaled, the oil is described as activating rather than sedative: a placebo-controlled trial in 40 volunteers, using a congener, found raised breathing rate, blood oxygen saturation and blood pressure, with self-rated alertness, indicating increased autonomic arousal. In TCM, Su Xin Hua moves stagnant Liver qi, harmonises the Stomach and relieves constrained emotions and pain, so the Liver and Stomach channels and the digestive middle are its named targets. Unani classes the oil as warm and dry, a nervine massaged for cold nervous conditions and cold headaches, and an exhilarant that lifts the spirits. Ayurveda uses the flowers and leaves for oral ulcers, skin and eye conditions. Species evidence for J. officinale is sparse. Oil is for inhaled or diluted external use only, with cautions in pregnancy and for skin sensitisation. Modern terms: olfactory and autonomic nervous system, cardiovascular and respiratory rate, oral mucosa, skin, eyes.
+
 ### Contraindications
 
 - **Pregnancy:** Jasmine (flower and oil) is traditionally regarded as an emmenagogue/uterine aromatic and is used in some cultures around labour; **avoid therapeutic/high-dose use in pregnancy** unless supervised [USER: verify].

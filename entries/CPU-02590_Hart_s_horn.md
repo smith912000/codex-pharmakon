@@ -45,6 +45,10 @@ General, well-established facts only. Burnt bone and antler leave a calcium phos
 
 **Practitioner's note.** Nothing here supports a cultivation use. It is a burnt-bone preparation for specified complaints, and the only practical content is the care in firing it.
 
+### Functional–Anatomical Correlate
+
+Dioscorides names the blood and lungs, the bowel, the liver and bladder, and the female reproductive tract. Drunk with gum tragacanth or a suitable liquid, the burnt horn is good for spitting blood, dysentery, coeliac complaints (intestinal disorders), jaundice and bladder disorders, and for women's excessive menstrual discharge. Applied as washed ash, it treats discharges and ulcers of the eyes. Rubbed on the teeth it cleans them, and boiled in vinegar as a mouthwash it soothes inner tooth pain, which maps to the teeth and gums. The smoke of raw horn drives off snakes, a use with no organ. The chapter gives no quality or temperament for the burnt horn. In modern terms, spitting blood maps to the respiratory tract, jaundice to the liver and bile, and coeliac complaints to the intestines. The text gives one quantity, two spoonfuls with no stated size, and no duration. Bloodspitting, jaundice and dysentery need medical care.
+
 ### Contraindications
 
 - **Bleeding, jaundice, dysentery.** These are medical conditions; use proper care. The text's own cure for bloodspitting is not a replacement for it.

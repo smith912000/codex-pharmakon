@@ -74,6 +74,10 @@ Grade: **Traditional-only / preclinical-absent (for this species).** Better-stud
 
 **Practitioner's note.** Nothing: in the text it is an astringent remedy for particular complaints, with no long-term or rejuvenative use recorded.
 
+### Functional–Anatomical Correlate
+
+Priyaṅgu's entry targets the blood and the vessels, with the tissue of the skin and flesh as a second field. The entry places its action in raktavaha srotas (blood channels) and purīṣavaha srotas (faecal channels), acting on rakta and on māṃsa and tvak (flesh and skin). Its raktastambhaka (haemostatic) and saṃgrāhī (flow-checking) actions are aimed at bleeding in rakta-pitta, and at the diarrhoea and dysentery of atisāra in the bowel. Its dāha-praśamana (burning-relief) action addresses the heat of Pitta in the blood and tissues. Its saṃdhānīya (wound-uniting) and lepa use target ulcer margins, inflammatory swelling and wounds at the skin surface. Its varṇya (complexion) and fragrant actions are applied to the skin and the mind-gladdening saumanasya. Its gynaecological use in menstrual and post-partum bleeding is noted. The entry reports no species-specific primary study, so its tissue-level claims are traditional only. Its rūkṣa dryness may aggravate Vāta in constitutionally dry people.
+
 ### Contraindications
 
 - **Constitutional dryness / Vāta excess:** astringent-drying character can worsen constipation, dryness, and Vāta-type pain; balance with unctuous (snigdha) anupāna if used.

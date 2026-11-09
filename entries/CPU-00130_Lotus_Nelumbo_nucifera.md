@@ -128,6 +128,10 @@ Blue lotus flowers steeped in wine 24–72 hours; the nuciferine extraction into
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps the sacred lotus mainly onto the Heart and Kidney, with its Shen-calming action named as a nervous-system effect. In Traditional Chinese terms the embryo (lian xin) clears Heart Fire for hot-type insomnia with palpitations, while the seed is a Kidney-Heart tonic that seals Jing leakage in spermatorrhea, sweating and diarrhoea. The leaf is Qi-raising, and the Shennong upper-grade classic says the fruit and rhizome nourish the shen with long use. In Ayurveda the seed is a Jing and semen-promoting constituent of rasayana formulae, and the root is nutritive and astringent. The main active fraction is the aporphine alkaloid nuciferine, which the entry says acts on dopamine D2 and serotonin 5-HT1A receptors to produce calm without drowsiness. Bisbenzylisoquinolines in the embryo act on cardiac calcium and hERG channels. The leaf is said to inhibit pancreatic lipase, linked to fat absorption.
+
 ### Contraindications
 
 - **Cold-type constitution / deficiency cold** — the cooling Shita virya of lotus makes it inappropriate for cold-Yin deficiency patterns (cold extremities, pale tongue, weak pulse); the cooling action can worsen cold patterns

@@ -100,6 +100,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps field pepperwort onto the Lung, the Stomach and Spleen, and the skin and channels. In Qi terms it is an acrid, warming surface-mover: it is said to disperse cold phlegm from the Lung, warm and kindle a cold digestion, and redden and open the skin in the rubefacient sense, drawing cold-damp outward. The modern correlate the entry gives is the glucosinolate system, which on chewing or crushing releases benzyl isothiocyanate. This compound is said to act on the TRPA1 and TRPV1 irritant channels of sensory nerves, which the entry reads as the heat felt, and to cause local vasodilation and reddening. Its thiol-reactive antibacterial action is linked to the cleansing of foul sores. The Greek and Unani claims about moving humours in gout or sciatica are marked unsupported. The entry also records a goitrogen risk: glucosinolates can inhibit thyroid iodine uptake, so the thyroid is a tissue for caution. Pregnancy and the irritated or ulcerated gut are further cautions.
+
 ### Contraindications
 
 - **⚠️ Goitrogen / thyroid caution:** as a glucosinolate-bearing Brassica, heavy or sustained intake can inhibit thyroid iodine uptake. Avoid medicinal-scale use in hypothyroidism, goitre, or iodine deficiency; use caution with thyroid medication. (Small culinary amounts of the raw green are not a concern for euthyroid people.)

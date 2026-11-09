@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice. It supplies a plant description, a honey remedy for bleeding and a drink to bring on the menses. The abstentive answer is the correct one, particularly as the seed decoction is recorded as bringing on the menses.
 
+### Functional–Anatomical Correlate
+
+The chapter maps two actions onto the bleeding of the body and the womb. The dried root, pounded and licked in with honey boiled for several days, is said to stop excessive bloody discharges, which the chapter does not locate in any organ. The seed, taken as a decoction in wine, is said to draw out the menstrual flow, which maps to the uterus and the reproductive system. The root is described as bitter in taste, and the plant grows in shady, rocky places. Its leaves are like seris, its stalk three feet, its flowers round and purple, and its seed small like cnicus. No humoral, doshic or qi term is printed; the only quality is the bitter taste of the root, and no warming, cooling or drying is given. The Latin name is the translators' suggestion, and a second bellflower is offered in the notes, so the body mapping rests on a plant that is not securely identified.
+
 ### Contraindications
 
 No contraindication is printed in the chapter. As a general caution, a preparation said to "draw out the menstrual flow" must not be used in pregnancy, and "excessive bloody discharges" are a symptom that calls for medical assessment and not a home remedy. The identification is uncertain, so no plant should be taken on the basis of this chapter.

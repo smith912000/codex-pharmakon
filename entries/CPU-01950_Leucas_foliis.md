@@ -43,6 +43,10 @@ General, well-established facts only. No herbal drink is a recognised treatment 
 
 **Practitioner's note.** A cultivator does nothing with this. It is a three-sentence chapter on an unidentified herb used against venom, and the one thing to learn from it is the habit of noting how wild and cultivated kinds differ before relying on either.
 
+### Functional–Anatomical Correlate
+
+Little to map: The chapter names no organ and no tissue. The text gives one use: the seed of both the wild and the cultivated kind, smeared on and taken as a drink with wine, is good against the venom of poisonous creatures, especially those of the sea. The skin is implied only by smearing and the gut only by drinking. The text calls the wild kind's seed sharper, more bitter and worse-tasting, yet more effective than the cultivated, and states no warming or cooling quality and no taste for the whole plant. No dosha, humour or Chinese category is named. The entry gives no protocol and no dose. Venom is a medical emergency in modern terms, and the entry itself says nothing here should replace emergency care. The identity remains unsettled, so the body action cannot be attached to a known species.
+
 ### Contraindications
 
 - **Venomous bites and stings:** emergencies; seek medical care first. Do not rely on this line.

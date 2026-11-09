@@ -34,6 +34,10 @@ Ursodeoxycholic acid is an established bile acid drug used for certain gallstone
 
 **Practitioner's note.** Nothing here for a cultivator to take. The only transferable lesson in the entry is its attention to quality: season of collection, colour, and a simple test in water. A threatened wild animal and a living-animal harvest are reasons to leave it out. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+In the Tibetan entry (Explanatory Tantra ch.20, filed under resins) bear bile acts on the channels, constricting their mouths, halting necrosis and stimulating the growth of new flesh. The eye benefit is in the commentary's brackets, while the three wound and channel actions are the root text's. Good bile is judged by a hanging thread when dropped into water. The entry gives no humour, taste, potency or post-digestive taste. The general rule for all bile in the animal section extends the same actions to every bile: it stops bleeding, heals necrosis and muscle tissue, acts against poisons, and benefits the eyes, as the Men-Tsee-Khang text puts it. Mapped onto anatomy, the claims concern the blood vessels (channel mouths), the wound and the flesh beneath the skin, and the eye. Modern anatomy stores bile in the gallbladder, a structure the entry does not name. No cultivation status is attested in the lines read.
+
 ### Contraindications
 
 Raw bear bile is an unsterile animal secretion of unknown strength and purity. It should not be used on a wound or taken by mouth on the strength of these sources. Asian bears are threatened wild animals and trade in their parts is restricted by wildlife law in many countries; the exact present status has not been checked here. [USER: verify] Farming of bile from live bears is a well documented cruelty problem, and the Codex does not endorse it.

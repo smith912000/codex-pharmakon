@@ -158,6 +158,10 @@ The Shen Primary assignment reflects jatamansi's predominant pharmacological act
 
 ---
 
+### Functional–Anatomical Correlate
+
+In the entry's own account, jatamansi acts chiefly on the nervous system and the mind. Ayurveda classes it as Medhya, working on the manovaha srotas (mental channels) and nourishing majja dhatu (nervous tissue), with Vata-Kapha pacifying action. Tibetan medicine places it among the aromatic stabilisers for srog-rlung, the Wind that disturbs the nying (heart) and sems (mind). Arabic-Persian medicine calls it a strengthener of the heart (muqawwi al-qalb) and of the brain and nerves (muqawwi al-dimagh wa al-asab), with use against waswas, the complex of anxiety and palpitations. Modern correlates named are dopaminergic and serotonergic modulation, cholinergic signalling and the HPA and HPG axes. Cardiac and smooth-muscle effects are attributed to jatamansin, described as an L-type calcium channel blocker. The aromatic route is said to reach the amygdala and hippocampus through the olfactory-limbic pathway. Dioscorides' uterine and warming action is read as smooth-muscle activity, and the liver and jaundice appear in the Greek and Arabic lists.
+
 ### Contraindications & Safety
 
 - **Pregnancy: strongly contraindicated.** Classical Ayurvedic, Tibetan, and Greek (Dioscorides) sources all document uterotonic and abortifacient activity — specifically noted by Dioscorides for "displacement of the womb" (emmenagogue and uterine-stimulating action). The sesquiterpenoid fraction (particularly jatamansone) demonstrates smooth muscle stimulating activity at doses approaching the upper clinical range. *N. jatamansi* must not be used in pregnancy at any dose by any route.

@@ -43,6 +43,10 @@ Tibetan: the materia medica line prints actions only. The diet chapter supplies 
 
 **Practitioner's note.** Nothing is sourced beyond a word in a food list. A cultivator does not need peacock meat, and the text does not require it. The Codex records that Clark's translation lists it as beneficial "for rejuvenation" among other things, and it does not carry that into practice.
 
+### Functional–Anatomical Correlate
+
+The materia medica line gives peacock meat action on bile disorders and poisoning, with the bracketed 'spirits' commentary-derived; Men-Tsee-Khang reads tripa disorders and an antidote against poison. The diet chapter adds that peacock flesh is beneficial in eye diseases, hoarseness and 'for rejuvenation', the last a translator's word. The systems mapped are the bile, the eyes, the voice (hoarseness), and, through the rejuvenation term, the body as a whole with no named organ. Clark's meat rules place the peacock among dry-land birds whose flesh is sweet tasting with a sweet post-digestive taste and has cool, light and coarse powers that eliminate wind and phlegm fevers; the entry applies these to the flesh by classification, not as a stated property of the peacock. No preparation or dose is given. The Codex does not recommend eating peacock for any of these.
+
 ### Contraindications
 
 Peafowl are protected or culturally revered in some countries, and killing or trading them can be illegal; check the law of the jurisdiction. [USER: verify] Wild and farmed birds can carry food-borne bacteria (including *Salmonella* and *Campylobacter*), so any poultry meat needs thorough cooking. Do not rely on any food for poisoning; suspected poisoning is an emergency. This entry gives no medical advice.

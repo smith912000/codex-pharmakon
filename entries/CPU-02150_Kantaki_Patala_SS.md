@@ -45,6 +45,10 @@ General statement only: a drug that cannot be tied to a species cannot be linked
 
 **Practitioner's note.** Probably two drug names run together in the list of a group used against *Kapham*, poison, urinary discharges, skin disease and fever. Nothing in the record supports a cultivation use. A cultivator does nothing with this entry, and the row itself needs resolving before it is used.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives no single-drug effect. It reports only the Aragvadhadi group's metrical text, which says the group subdues deranged Kapham and the effects of poison, and proves beneficial in urethral discharges (Meha), Kushtha, fever, vomiting, itching of the body and ulcers, acting as an aseptic agent in ulcers. These are the translator's terms, and the text names no organ or tissue for them. The plant is not identified and the name may be two drugs, Kantaki and Patala, so no drug-specific body system can be drawn. The entry says the group's virtues are not to be turned into a protocol for one member, and that no dose, preparation or constituent is given in the sources read. It is a historical record only.
+
 ### Contraindications
 
 - **Identity.** The plant is not identified in the sources read. Do not use any plant sold under this name on the strength of this entry. [USER: verify]

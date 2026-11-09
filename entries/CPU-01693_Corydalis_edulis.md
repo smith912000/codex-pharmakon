@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a bitter blood and channel-fever drug in the Tibetan texts, its Latin name is not settled, and the Men-Tsee-Khang glossary appears to pair its name with another *Corydalis*. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Under the Quintessence Tantra's root-text layer, the drug re.skon is said to be hemostatic and to cure channel fever caused by brown phlegm. That places its stated action on the blood and on the channels, the Tibetan vessel and circulation system, and on the febrile heat within them. Clark's taste-group lists and the commentary's extremely bitter taste give it a bitter taste. The Men-Tsee-Khang text says the same drug dries up blood, cures baekan mukpo and hot disorder of the channels, and it files the name among medicines for blood disorders in chapter 21. Clark's commentary adds dysentery with fever inside square brackets, which the entry records as commentary and not root text. The entry names no organ by modern name, no tissue and no route. The mapping is to blood and channels as the texts name them. The Latin identity is unsettled between Corydalis edulis and the glossary's Corydalis nepalense, so no modern organ correlate is assigned.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The identity is uncertain and the genus is generally known to contain alkaloids, so no plant should be gathered or used on the strength of this entry. Bleeding and fever need medical care. No safety information for pregnancy was read. [USER: verify]

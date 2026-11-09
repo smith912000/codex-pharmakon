@@ -50,6 +50,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 **Practitioner's note.** Nothing to take from it for cultivation beyond the model of assay by eye, weight and tongue, and the habit of naming the kinds of a material. The earth is not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Greek (DMM) terms are used as the entry gives them. The chapter prints no humoral quality; its claims are actions. The preferred earth is very white and light, and holds fast to the tongue. Its claimed sites are these. The lungs and airways, where it stops the spitting up of blood. The uterus and menstrual flow in women, given with wild-pomegranate flowers. The urinary tract and kidneys, where smearing it with water soothes inflammation from stones. The breasts, where it soothes inflammation. The sweat glands, where a drink of water represses sweating. Finally, a systemic claim that it helps those bitten by venomous creatures and those who have taken a deadly medicine. The aster kind is crusty and thick, burnt and broken like Eretrian earth, with the same properties. No warming or cooling quality is printed.
+
 ### Contraindications
 
 - **Spitting blood, heavy menstrual flow, breast inflammation, kidney stones, bites, poisoning:** these need medical assessment or emergency care; do not rely on an earth.

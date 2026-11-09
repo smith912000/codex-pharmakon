@@ -36,6 +36,10 @@ Fluoride is a well-known ion in dental health at very low intake, and excess flu
 
 **Practitioner's note.** An upper-grade drug in the Chinese scheme: the Classic held it safe for long use. Fluorite is a fluoride mineral and the Classic's claims have no established support, so nothing here supports taking it. For a cultivator the entry is a record of how the Han-period elixir tradition ranked a purple stone among the "nourish life" drugs. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Classic's Zi Shi, sweet and balanced and Superior-class, is said to treat the heart and abdomen, cough with counterflow qi, and evil qi. It supplements insufficiency and is said to treat women with ten years of infertility due to cold wind in the child's palace, which the translator brackets as the uterus. Long taking is said to warm the centre, to lighten the body and to prolong life. In modern anatomy the claimed sites are the heart, the abdomen, the airway and lungs for cough, and the uterus. The text prints no humoral, temperament or doshic classification. Balanced is Yang's rendering for neither cold nor hot. No preparation is printed, so the sites above rest on the monograph alone.
+
 ### Contraindications
 
 Fluoride compounds are toxic in excess, and a powdered stone sold as a remedy may be a different mineral or may be contaminated. Mineral medicines are unstandardised and their sale is regulated in many places. Children are especially exposed to the effects of excess fluoride on developing teeth. The Classic's "prolong life" is not a claim of fact. [USER: verify] the legal and conservation status of collecting fluorite; the sources retrieved do not address it.

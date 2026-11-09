@@ -38,6 +38,10 @@ General facts only. Wild game can carry zoonotic infections and parasites, and t
 
 **Practitioner's note.** Nothing here is a practice. In Sushruta the Gokarna is a food with a few stated qualities and one indication, and nothing in the sources read tells a cultivator what to do with it. With the animal unidentified, the honest answer is nothing.
 
+### Functional–Anatomical Correlate
+
+The Gokarna's flesh is mapped by a single sentence in the food chapter. It is sweet in taste and digestion, demulcent, mild or soft, and curative in haemoptysis, the coughing up of blood, which maps to the airway and lungs and to bleeding from them. The sentence says it generates Kapham in the system. The shore-dwelling group it belongs to adds that its flesh is spermatopoietic, cooling, tonic, demulcent and diuretic, and that it destroys deranged Vayu and Kapham and increases Kapham. Those group qualities reach the Gokarna by membership, not by a sentence about it. In modern terms they bear on the digestive tract, the urinary tract, and the mucous lining of the throat and gut. The text gives no preparation, dose or potency, and the animal is not identified in the text.
+
 ### Contraindications
 
 - **Hygiene and infection:** wild game can carry bacteria and parasites; cook through.

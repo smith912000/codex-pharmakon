@@ -40,6 +40,10 @@ General, well-established facts only. Truffles are edible fungi prized in cookin
 
 **Practitioner's note.** Nothing to do. This is a vegetable chapter with a possible truffle in it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that the chapter describes a round, pale, underground body, dug in spring and eaten raw or boiled as a vegetable, and that the heading suggests a truffle or false truffle. The text gives no medicinal use, no property, no preparation as a drug and no dose. It names no organ, tissue, humour, quality or temperature. The translator's bracketed word in the chapter marks it as food. The Codex notes that several underground fungi are sold or collected under truffle-like names and that the species is not fixed, and it adds that a wild fungus must not be eaten on the strength of this entry. The identification rests on the translator's suggestion, so no body system can be mapped beyond the fact that it is food.
+
 ### Contraindications
 
 - **Identity.** Several underground fungi are sold or collected under truffle-like names, and the species here is not fixed. Never eat a wild fungus on the strength of this entry.

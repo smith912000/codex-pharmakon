@@ -86,6 +86,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry splits the carrot into two organ-facing fractions. The root, a Foundation nutritive, is carotenoid-rich: beta-carotene (provitamin A) is linked to the eyes and vision, with skin and antioxidant status also named, and its fibre to steady digestion. TCM places the cultivated root in the spleen and stomach, benefiting the eyes and moving stagnation, and Ayurveda says it kindles agni (digestive fire) and supports vision. The wild seed is the hot, penetrating fraction: traditionally emmenagogue, acting on menstruation and the uterus, diuretic for the urinary tract, and carminative for gripes and wind in the gut, with Dioscorides and Avicenna both recording the opening of obstructions. Ayurveda calls the seed heating and artava-promoting (menstrual). The falcarinol polyacetylenes are described as neuroactive and anti-inflammatory in laboratory models only. The entry notes the reputed anti-implantation effect is traditional and unproven in humans.
+
 ### Contraindications
 
 - **Pregnancy — wild-carrot seed is contraindicated.** Its traditional emmenagogue and anti-implantation reputation means the seed and its concentrated preparations must **not** be used in pregnancy or when pregnancy is possible/desired. This is the single most important caution in the entry.

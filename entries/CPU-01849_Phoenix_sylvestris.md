@@ -75,6 +75,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** Nothing beyond what the text calls food and remedy. The Sushruta text as retrieved gives a cultivator no practice with Kharjura; it is a sweet fruit, a wine and an ingredient. A date is food, and nothing here makes it more.
 
+### Functional–Anatomical Correlate
+
+The text places Kharjura among Madhura, or sweet, drugs, and calls its fruit sweet, heavy of digestion and cooling in potency. It says the fruit arrests bodily wastes and is curative in haemoptysis, so the lungs and the bleeding of the airways are named sites, and that the top-pith is spermatopoietic, a reproductive claim recorded in a food chapter. Its juice made into a wine is said to enrage Vayu and reduce fat and Kapham. Compounds with its kernel or fruit are given for urinary disorders with blood in the urine, for ulcers and sinuses, for cough of Pitta, Kshata and Kshaya kinds, for hiccough, and as a paste held in the mouth for a bad taste in fever. The text names no organ for the leaf, which appears only as a shape for an anal fistula incision.
+
 ### Contraindications
 
 The Sushruta text retrieved prints, for the wine, that it "tends to enrage the bodily Vayu" (Sutra 45). The identity is open between two forms, so no plant should be gathered or used on the strength of this entry. Alcohol carries its own hazards, and the text devotes a chapter (Uttara 47) to its sequels. Haemoptysis, persistent cough and hiccough need medical care. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a poison-and-pus drug in the Tibetan texts, known from the commentary layer in Clark, with no preparation and no dose. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Two actions are given for the Tibetan name 'Lugru serpo', both from the Tibetan texts. Men-Tsee-Khang 2011 says it 'dries up chhuser', a term the translators leave untranslated, so the entry does not render it. Clark 1995 gives, inside the commentary brackets, that the yellow type 'collects poisons and dries reservoirs of pus', while the root-text layer gives only the name. The texts thus tie the drug to poisoning and to pus-filled collections. The entry links neither action to any named organ, and no body system is specified. The commentary describes a plant of shady meadows with a yellow flower. The entry prints no taste, power, part used, preparation or dose for this drug. The species is the editors' identification among several Pedicularis candidates, so the entry does not attach a modern constituent or organ finding to it, and it records no clinical study.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Poisoning and pus-forming infections need medical care; no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

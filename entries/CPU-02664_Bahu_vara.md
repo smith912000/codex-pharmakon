@@ -41,6 +41,10 @@ General, well-established facts only. *Cordia myxa* is a tree of tropical Asia i
 
 **Practitioner's note.** A name in an index and nothing else. A cultivator has nothing in the sources to act on, and nothing should be done on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the only attestation is one line in Bhishagratna's Appendix No. 3, which pairs the Sanskrit name Bahu-vara with a damaged Latin name, read as Cordia myxa. No chapter passage names it. The entry states no taste, part used, preparation, disease, organ, tissue, humoral or energetic classification, and no contraindication. The only description of the plant is that its fruit is sticky and edible, which the entry gives as general background and not as a claim of the classic. Nothing in the text maps to any body system. The Codex gives no protocol and recommends nothing from this entry.
+
 ### Contraindications
 
 - **None stated in the sources retrieved.** [USER: verify]

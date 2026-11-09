@@ -140,6 +140,10 @@ Net: a fern whose name is a clinical claim, with a consistent multi-model precli
 
 **Practitioner's note.** Nothing. Neither tradition records a cultivation role for this rhizome.
 
+### Functional–Anatomical Correlate
+
+The entry places Gu Sui Bu in the skeleton, which Chinese medicine places under the kidney, and it enters the kidney and liver channels. Its traditional reach is the bone and its surround: fracture, bone trauma, contusion and sprain, chronic lumbar and knee soreness, and loose teeth, with teeth read as bone's surplus. Blood-invigorating action is claimed for sinew and bone injury. The modern correlates are osteoblast and osteoclast effects in animal models: a flavonoid fraction works through the oestrogen receptor, and naringin is linked to osteoblast proliferation and reduced osteoclast activity. A dog model showed periodontal regeneration, and a small randomised trial in 80 elderly women reported bone density gains, though its stated primary aim was lipid profile. The entry states that no human fracture-healing study was found, so the name's clinical claim is untested. Pregnancy, yin deficiency with heat and hormone-sensitive cancers are advised against.
+
 ### Contraindications
 
 - **⚠️ PREGNANCY — avoid.** Gu Sui Bu is a **blood-invigorating** (活血) drug, a class traditionally contraindicated in pregnancy, *and* it is demonstrably ER-active. No pregnancy safety data was retrieved. Avoid in pregnancy and lactation.

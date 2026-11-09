@@ -48,6 +48,10 @@ General, well-established facts only. *Ranunculus sceleratus* grows in wet place
 
 **Practitioner's note.** The classic gives this marsh buttercup a long-use promise of lightness and not ageing, and then the two editions disagree on its grade. That is a record of wording, not a practice. Buttercups are irritants, no dose or course is given, and nothing here supports taking the plant.
 
+### Functional–Anatomical Correlate
+
+The classic's claims for this marsh buttercup fall on the joints, the heart and abdomen, and the eyes. The Shennong paragraph says it treats wind, cold and damp impediment (风寒湿痹), evil qi in the heart and abdomen (心腹邪气), and stops vexation and fullness (烦满) while freeing the joints (利关节). Taken long, it is said to lighten the body (轻身), brighten the eyes (明目) and not age (不老). Yang's edition renders the same clause and places the drug among the superior herbs, while Sun places it in the middle classic; the Codex records this without resolving it. The entry names no channel or organ, and the harvest mentions a 'seed' and a 'skin' that it does not explain. No modern anatomy is asserted. The Codex's contraindication note records that the fresh plant irritates skin and mucosa, a modern caution and not a classic claim.
+
 ### Contraindications
 
 - **Irritant:** the fresh plant and its sap can blister skin and burn the mouth and gut; do not chew, eat or apply the fresh plant. The long-use clause is the classic's wording only.

@@ -42,6 +42,10 @@ General, well-established facts only. Keratin is a structural protein; feather m
 
 **Practitioner's note.** A cultivator does nothing with this. It is a one-line indication in a list of animal medicines that the translator says are little used now, the identity of the bird is uncertain between translations, and no practice is attached. The "dispel spirits" gloss is a commentary's addition and is recorded, not endorsed.
 
+### Functional–Anatomical Correlate
+
+Little to map: the rGyud-bzhi (FMT) entry states one indication for a feather of the bird named so.bya. Clark's translation says it relieves urinary retention, with the bracketed addition dispel spirits drawn from the commentary layer. The Men-Tsee-Khang translation says a cormorant's feather cures obstruction of urine, the same indication. This maps only to the urinary tract and bladder, in the words urinary retention or obstruction of urine. No taste, potency, post-digestive taste or humour is printed for the feather, and no preparation, route or dose is given. The bird is named as a heron, gull or cormorant depending on the translation, so the substance cannot be tied to one species. Modern anatomy would name the bladder and urethra, and the entry notes that feather material, being keratin, does not act on them.
+
 ### Contraindications
 
 - **Urinary retention:** needs prompt medical assessment; do not rely on this line.

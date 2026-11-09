@@ -48,6 +48,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** There is nothing to cultivate here in the Codex's sense. The Greek accounts are short and descriptive, they probably describe different plants from the spine's, and the Unani tag is unsupported.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives no body-system claim it can support. Its only Dioscoridean use is a decoction of the plant, drunk, for jaundice, which the entry records as Dioscorides' own report, not a Codex protocol; jaundice is a liver and bile complaint, but no organ mapping is given. For antirrinon, the entry records wearing the plant as a personal ornament, said to oppose poisons, and rubbing it with lily oil or cyprine for beauty, with the amuletic line marked as a report and not an endorsement. No hot, cold, moist or dry quality is printed in either chapter, and no Unani locus was found. The entry notes that Linaria species generally contain iridoid glycosides and flavonoids, but this plant's composition was not read. No clinical studies and no safety data were retrieved, and the jaundice use is not advice.
+
 ### Contraindications
 
 No safety data were read. Do not treat the jaundice use as advice, and do not use any unidentified wild plant as medicine on the strength of this entry. Seek ordinary medical care for jaundice, which is a sign of illness that needs examination.

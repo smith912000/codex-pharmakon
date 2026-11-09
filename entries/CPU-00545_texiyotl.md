@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing here for a cultivator. The tradition is represented by one list row, and no source read says what was done with the plant or why. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the plant is attested in the Badianus manuscript of 1552, according to a list row, under the name texiyotl, glossed as tree stonecrop, with the species Sedum dendroideum. The row does not flag the identification as uncertain, and nothing on disk confirms it. The entry says no constituents were read and makes no claim about them. It names no organ, tissue or body system, no tradition term for its action, and no preparation, dose, use or complaint. The Dioscorides stonecrops are other species and are not placed here. The Mexican hot and cold overlay is left unresolved, and no tonalli, teyolia or ihiyotl model is applied. The general caution, marked as not found in the row, says an unverified preparation should not be taken in pregnancy, while breastfeeding, by children or with prescription medicines.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, an unverified plant preparation should not be taken in pregnancy, while breastfeeding, by children, or alongside prescription medicines without medical advice. This is general caution and is not found in the row. [USER: verify]

@@ -40,6 +40,10 @@ General, well-established facts only. The faeces of wild and domestic canids can
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. Wolf stool is a one-line swelling remedy in a list of thirteen kinds of animal product, and the tradition's own first precept is against taking life. The Codex does not recommend it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one action, that wolf stool, with the droppings of the snow cock, reduces swellings. The text names no organ, tissue or system for the swelling, and it prints no temperament, taste or potency for the stool. The Tantra's classification of meats is about flesh and is not carried over to droppings. Clark's bracket all three groups the wolf with dog stool and snow-cock droppings as a commentary reading, and the Men-Tsee-Khang translation groups the same animals differently. The swelling is the only condition named, and the text does not place it in any body part. Modern anatomy adds that wild canid droppings can carry parasites and bacteria, which the source does not mention. The entry records the line, and the Codex does not recommend it.
+
 ### Contraindications
 
 - **Infection and hygiene:** the droppings of wild canids can carry parasite eggs and pathogens; do not collect, handle, ingest or apply them.

@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan an
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a stomach and cold drug in the Tibetan texts, its Latin name is not settled in them, and a Chinese entry on disk for the same binomial is outside this entry's tag line. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Clark's root-text clause for la.la.phud says it 'cures stomach disorders and cold diseases', which maps the drug to the stomach and to cold conditions in the Tibetan system. The Men-Tsee-Khang text agrees ('Lalapue cures stomach problems and cold disorders') and groups Lalaphue with medicines that cure cold disorders associated with baekan. In modern anatomy terms the organ the entry names is the stomach and its digestive function, and the cold is a condition the texts treat as a disorder rather than a tissue. The bracketed commentary, in Clark's text, describes three colour types with fennel-like seeds, says the strongest-smelling seed indicates the best quality, and notes an inferior type found in Tibet; it names no organ. Separately, the Shennong text on disk prints Cnidium monnieri fruit as a bitter and balanced drug for genital and female complaints, impediment qi and malign sores. The entry records that as a finding outside its tag line and does not link it to this Tibetan drug. No humoral, doshic or qi classification is printed.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The identity is uncertain, so no plant should be gathered or used on the strength of this entry. Stomach disorders that persist, and the genital complaints, madness or epilepsy that the Shennong entry names, need medical care. No safety information for pregnancy was read. [USER: verify]

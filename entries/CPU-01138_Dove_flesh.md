@@ -48,6 +48,10 @@ General, well-established facts only. Dove and pigeon meat is a source of protei
 
 **Practitioner's note.** Nothing here makes dove flesh a cultivation substance. Sushruta files it with the Pratuda birds, gives the wild dove a line of its own, and elsewhere names the pigeon as a food to avoid in two situations. For a cultivator the honest use is ordinary diet where dove is an ordinary food, and nothing more. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Sushruta places dove and pigeon in the Pratuda group of birds, whose flesh is sweet and astringent in taste and digestion, cooling in potency, generating Vayu, and reducing Pittam and Kapham. The group statement names its excretory effects: it suppresses the discharge of urine and reduces the quantity of stool, which map to the urinary and bowel functions. The wild dove (Kana Kapota) has its own line, heavy and saline and astringent in taste, and the text says it proves beneficial in haemoptysis, so the respiratory tract and bleeding from the lungs are the target named. Pratuda fat and marrow reduce Kapham. Pigeon flesh is to be refused for life by a person using Shilajatu and Makshika, a diabetes rule that is not a general restriction. No rasayana or vajikarana status, and no ojas, tejas or prana claim, is printed for dove flesh.
+
 ### Contraindications
 
 - **Hygiene and infection:** raw or undercooked game birds carry bacterial and parasitic risk; wild and feral pigeons can carry psittacosis, salmonella and cryptococcus, and handling their droppings is a risk.

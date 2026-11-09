@@ -63,6 +63,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 **Practitioner's note.** A drastic purgative handled only by a trained Tibetan physician in prepared form. There is no self-directed cultivation use and nothing here supports home preparation; the plant is toxic and caustic.
 
+### Functional–Anatomical Correlate
+
+In Chinese Medicine the entry places Lang Du as a drastic, caustic agent that disperses cold-phlegm, breaks hard nodules and accumulations, and kills parasites, with its Qi classification at the eliminating extreme. The organ focus it names is the gut, where parasites and accumulated matter are expelled, and the skin, where chronic lesions are treated externally. Its caustic latex and diterpene esters are described as blistering skin and severely irritating the eyes and mucous membranes, with violent gastroenteritis after ingestion. Tibetan medicine is cited only in the entry's note that Euphorbia and related plants purge hot and cold disorders; the species identification there is disputed and no rejuvenative or bcud len role is recorded. Jolkinolide-type diterpenoids show cytotoxic and antitumour activity in research, which the entry treats as laboratory evidence only. Pregnancy and debility are contraindicated.
+
 ### Contraindications
 
 - **Eyes/mucous membranes/broken skin — caustic.** Severe injury; keep away.

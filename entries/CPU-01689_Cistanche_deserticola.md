@@ -47,6 +47,10 @@ The entry itself adds one sentence that touches cultivation: "Protracted taking 
 
 **Practitioner's note.** A middle-class entry in the Chinese scheme, with a "may make the body light" sentence for protracted taking, no preparation and no dose. The class itself carries a caution about toxicity and about weighing the use, and the entry gives no number for "protracted". Nothing here supports taking this plant as a cultivation practice on the strength of the entry, and the abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Shennong text records this salty drug as treating the five taxations and seven damages, supplementing the centre, and relieving cold, heat and pain in the penis. It is said to nourish the five viscera, strengthen yin and boost the essence qi. In modern anatomy terms the named systems are the genitourinary and reproductive organs, the penis, the female reproductive system, and the five viscera as a group. The entry says it makes pregnancy possible in women and treats concretions and conglomerations, which are the text's own terms and do not map to a single organ. The Shennong text uses no meridian or later organ-system scheme. Yang's translator's note adds the lumbus and knees, but those words are not in the entry and are not mapped here. The entry gives no humoral, doshic or temperature classification, and its only qualifier is 'salty'. Protracted taking may make the body light, which the entry gives without a number or a mechanism.
+
 ### Contraindications
 
 The Shennong entry prints no warning, and its silence is not a statement of safety; the preface says of the middle class that it "may or may not be toxic" and that one "should weigh and ponder before putting them to their appropriate use". The identity rests on a translator's Latin name, so no plant should be gathered or used on the strength of this entry. The entry says the drug "makes pregnancy possible", which is an indication and not a safety statement for pregnancy; no safety information for pregnancy was read. [USER: verify]

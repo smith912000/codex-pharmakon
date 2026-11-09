@@ -43,6 +43,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a two-sentence record of an emetic bulb distinguished from an edible one, without amounts, so it is history and not a practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: The chapter names two actions for the root. The root eaten alone, and a decoction of it drunk, cures disorders of the bladder and encourages vomiting. The bladder is the only organ named, and the stomach is implied only by the vomiting action, which the text states as an effect and does not locate. The leaves are described by comparison only, as more flexible and far bigger than the edible bulb, and the root is said to have a black bark like the bulbus of the preceding chapter. These comparisons do not map any tissue. No taste, humoral or energetic quality is printed for this plant. The chapter does not say how the vomiting is produced beyond the root. The entry's identity is a translators' suggestion between a squill and a Star of Bethlehem, which belong to different genera, so no anatomy can be carried over from either. The Codex maps only the bladder and the emetic action here.
+
 ### Contraindications
 
 The chapter prints no warning, though the root is an emetic by the chapter's own account. Vomiting induced for a bladder complaint is not advice, and bladder disorders need medical assessment. The identification rests on a translators' suggestion between two plants, so no wild bulb should be gathered or eaten on the strength of this entry, and the bulb of the next chapter's squill is marked "VERY POISONOUS" in the same text. [USER: verify] None of the traditional uses above is advice.

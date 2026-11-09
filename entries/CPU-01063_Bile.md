@@ -54,6 +54,10 @@ Bile acids are the body's own fat-emulsifying agents, which is a general, well-e
 
 **Practitioner's note.** There is nothing to cultivate with bile. All three traditions treat it as a drug for a complaint, the Greek text mostly as a processed topical, the Tibetan text as a medicine for fevers, poisoning and the eyes, and the Egyptian text as an ingredient in compounds. It is not food, not a tonic and not safe to improvise. The one thing a cultivator can take from it is Dioscorides's habit of attention to how a substance is gathered, prepared and kept.
 
+### Functional–Anatomical Correlate
+
+The entry maps bile onto many sites, mostly through each tradition's own terms. Dioscorides uses gall for the eyes (liquids and darkness of the eyes, argema, coarse eyelids), the ears (purulent or cracked, with goats' or women's milk), the tonsils, spreading ulcers, the perineum, genital and scrotal pains, scalp and skin (leprosy, dandruff), and the falling sickness (epilepsy). The Tibetan texts say bile constricts the mouths of the channels, halts necrosis, stimulates flesh growth, neutralizes poison and suits eye disorders, and that gi.wam, the resin from bile, treats infectious fever, poisoning, liver fever and vessel organ fever. Unani (Canon) places bile on the eye, the head, the throat (quinsy) and the excretory organs, as an antidote for bites. Bryan's Ebers gives the anus, vulva, neck and face, and tapeworm in the gut. No humour, temperament or qi is assigned in the Greek or Egyptian texts, and the Tibetan lines print actions without taste or potency.
+
 ### Contraindications
 
 - **Infection and toxicity.** Raw gall from an animal can carry pathogens. In clinical toxicology, ingestion of raw gall bladders (reported with some fish and other animals) is a recognised cause of serious kidney and liver injury. [USER: verify specifics]

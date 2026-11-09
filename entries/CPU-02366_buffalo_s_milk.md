@@ -51,6 +51,10 @@ General, well-established facts only. Buffalo milk is a mammalian milk, consumed
 
 **Practitioner's note.** Nothing here makes buffalo milk a cultivation substance in its own right. The text puts it among the milks, calls it heavy and *Kapham*-raising, and prescribes it in one disorder of excess digestive fire. A cultivator uses it, if at all, as ordinary food, and takes the text's own cautions about heaviness and slow digestion.
 
+### Functional–Anatomical Correlate
+
+Sushruta's Sutrasthana ch.45 gives the buffalo's own line: the milk is sweet in taste, impairs digestion, increases the slimy secretion of the organs, and is heavy, soporific and cooling, with more fatty matter than cow's milk. Its curd is sweet in digestion, spermatopoietic and demulcent, pacifies Vayu and Pittam and augments Kapham. Its clarified butter is remedial in haemoptysis (coughing up blood), which maps to the lungs and airways. In ch.35 buffalo milk, curd and liquid butter form the diet for atyagni, a voracious appetite from an abnormally keen digestive fire, so the digestive tract is the organ named most often. Mucous secretion, the lungs and reproductive tissue are the other organs the text names. Its humoral terms Vayu, Pittam and Kapham have no direct modern counterpart. The milk-group description with ojas and rejuvenation is a group claim that the buffalo's own line does not clearly confirm, and the text prescribes boiling to free milk of its injurious traits.
+
 ### Contraindications
 
 - **Hygiene.** Raw or unpasteurised milk of any animal carries bacterial and parasitic risk (including brucellosis and tuberculosis in some regions). Boil or pasteurise.

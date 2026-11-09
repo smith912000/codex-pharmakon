@@ -48,6 +48,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 **Practitioner's note.** Nothing to take from it for cultivation. It is a salt the tantra lists, with black salt, for digestive heat and bloating; its identity relative to common salt is not settled. It is not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Clark's tantra text says that both black and white mineral salt increase digestive heat and treat distension of the abdomen, belching, flatulence and combined phlegm-wind disorders. In modern terms those sites are the stomach and intestines, where digestive heat and gas form, the abdominal cavity, where distension is felt, and the gut gases that cause flatulence and belching. Phlegm-wind combinations map to the tradition's bad kan and rlung, which the entry places in the digestive system and the wider body. Men-Tsee-Khang gives the same sense: it generates heat and reduces flatulence, eructation, abdominal distension, and combined baekan and loong disorders, and lists the salt among medicines for cold baekan disorders. The entry prints no organ beyond the abdomen and digestive tract, and no channel.
+
 ### Contraindications
 
 - **High sodium load:** harmful in excess, especially with high blood pressure, heart, kidney or liver disease, and for infants.

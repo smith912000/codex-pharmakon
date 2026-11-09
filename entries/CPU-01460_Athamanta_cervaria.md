@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in this chapter gives a cultivator a practice. It is a description for recognition, with its uses left to the chapters before it. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Chapter 3-62 records no organ or use of its own. It describes a seseli-type plant with a sweet-scented seed and says it has 'the same strength' as the kinds listed before it, which the entry leaves unspecified. The nearest preceding chapter, 3-60, is the one the entry compares, and it claims that the seed and root warm and act on the urinary passages, asthma (orthopnoea), epilepsy and the menstrual flow, that it is abortifacient, and that it helps old coughs and digestion and griping. The entry reports these as a pointer and not as printed qualities of 3-62, so they are not attributed to this plant. No temperament or humour is printed for 3-62. The identity with Athamanta cervaria is one of five names the translators list without deciding. The Codex records the neighbouring claims as the text's and gives no protocol, and the abortifacient claim calls for avoidance in pregnancy.
+
 ### Contraindications
 
 The chapter prints no warning. The neighbouring chapter 3-60 records the seed and root as an emmenagogue and abortifacient, so any such plant must be avoided in pregnancy on the text's own showing. Umbellifers include dangerous look-alikes (the text itself compares the leaf to hemlock), and the identification here is only the translators' suggestion, so no plant should be gathered or used on the strength of this entry.

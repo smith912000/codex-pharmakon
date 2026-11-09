@@ -65,6 +65,10 @@ Fruit: cool and dry — sour, binding, tone-restoring astringent. Flowers: gentl
 
 **Practitioner's note.** Nothing cultivation-specific is attested in either tradition. Sloe is a seasonal astringent food and gargle; the entry's own flower "blood-cleanser" reputation belongs to European folk practice.
 
+### Functional–Anatomical Correlate
+
+The entry works on two organs with two traditional actions. The fruit (sloe) is read as cool, dry, astringent and binding, acting on the bowel and on lax mucosa of the throat, with a gargle use for sore throat and mild diarrhoea. Its anthocyanin and tannin load shows antioxidant activity in vitro, and polyphenol-enriched fractions modulated human immune cells ex vivo (lower ROS and TNF, higher IL-10). The flowers are read as gently cooling and opening, a folk laxative and diuretic for the urinary passage, but the entry says the flower's cleansing action lacks supporting evidence. The Unani and Greek attributions are unverified and genus-level. The seeds, and to a lesser degree leaves and bark, contain cyanogenic glycosides that release hydrogen cyanide on crushing, so the kernel and stone are the hazard. The entry notes that children are at greater risk by body weight.
+
 ### Contraindications
 
 - **⚠️ Cyanogenic kernels — do NOT ingest seeds/kernels; avoid crushing sloe stones.** Amygdalin/prunasin release hydrogen cyanide on hydrolysis; this is the genus-wide *Prunus* hazard. Leaves and bark carry lower cyanogenic loads and should not be eaten.

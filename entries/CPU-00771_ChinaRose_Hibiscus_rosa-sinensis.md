@@ -76,6 +76,10 @@ Attribution: the following is based on articles retrieved from PubMed.
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, the flower and leaf of China rose act on two organs. On the hair and scalp, mucilage and anthocyanin conditioning gives the keshya, hair-promoting action of Ayurveda. On the womb, an affinity for rakta and artava, the blood and menstrual tissue, is linked by Ayurvedic, Siddha and Chinese texts to menstrual regulation. Ayurvedic terms include raktapradara-hara (checking menorrhagia) and rajahsthapana (menstrual regulating), and the Chinese fu sang is described as clearing heat and cooling the blood for menstrual disorders, leucorrhoea and skin sores. The modern correlates named are oestrogenic and anti-implantation activity in animals, where the flower extract increased pre-implantation loss in pregnant rats. The entry records a null in male rats for testis, epididymis and prostate. Hair-growth promotion is cited from animal and review data. The flower is described as cool, surface-moistening and downward-moving to the womb.
+
 ### Contraindications
 
 - **⚠️ Pregnancy — AVOID (primary caution).** Flower extract shows oestrogenic/anti-implantation activity and increased pre-implantation loss in animals, with explicit "avoid in pregnancy" conclusions (Afiune et al., 2017, [DOI](https://doi.org/10.1371/journal.pone.0179785)). Do not use internally in anyone pregnant, seeking pregnancy, or of uncertain pregnancy status.

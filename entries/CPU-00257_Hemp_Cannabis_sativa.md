@@ -116,6 +116,10 @@ Traditional Ayurvedic preparation using dried cannabis leaves (lowest THC conten
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry is explicit that it concerns the seed (ma zi ren), not the flowering tops. Its traditional channel map gives the Large Intestine as the seed's target, where it is said to lubricate and relieve constipation, with Heart (sleep and anxiety) and Liver (pain and inflammation) also named. The Shennong record for the seed is a moistening laxative food with Yin-nourishing use. The Ayurvedic and Tibetan cannabis frames are cited for leaf and flower preparations and are not transferred to the seed. The modern correlates the entry gives are for cannabinoid preparations: CBD acting on 5-HT1A and TRPV1 receptors, and beta-caryophyllene acting on peripheral CB2 receptors. For the seed itself it gives nutrition: a complete protein, an omega-3 to omega-6 ratio near 1:3, and zinc and magnesium. It states that properly hulled seed carries no meaningful THC or CBD. The entry's safety limits name CB1-linked psychosis risk through mesolimbic dopamine and CBD's CYP2C9 effect on warfarin.
+
 ### Contraindications
 
 - **Psychosis / schizophrenia spectrum / family history** — THC is a known precipitant of psychotic episodes in genetically susceptible individuals (CB1 receptor modulation of dopamine in mesolimbic pathways); absolute contraindication for THC-containing preparations in those with personal or family history of psychotic disorder

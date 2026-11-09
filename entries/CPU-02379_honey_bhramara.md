@@ -43,6 +43,10 @@ General facts only. Honey is a sweet food made by bees from nectar; the Sushruta
 
 **Practitioner's note.** There is nothing here for a cultivator beyond the name and the one property.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that Bhramaram honey is extremely heavy because of its extremely sweet taste and slimy character (Sushruta ch.45, lines 1111-1113). No organ, tissue, dosha, virya or vipaka is printed for it, and no disease or action is named. The honey group's general lines, which call honey cold and tonic and constructive when fresh, and the chapter's rules against heating honey or taking it with rain-water, apply to every kind and are not assigned to Bhramaram alone. The translator's footnote defines the kind by a bee of the Bhramara species, with no species given, so no bee-level mapping is supported. Heaviness and sliminess are physical qualities of the honey, and the entry does not translate them into effects on the stomach, the mucous membranes or any other part of the body.
+
 ### Contraindications
 
 - **Heated honey.** The text forbids hot or boiled honey and says it can be fatal like poison (lines 1183-1200).

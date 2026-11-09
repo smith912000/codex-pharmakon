@@ -48,6 +48,10 @@ General, well-established facts only. Honey is a concentrated sugar solution wit
 
 **Practitioner's note.** Nothing here is a practice. The text recommends this kind for dyspnoea and says nothing about longevity or vitality. A person with breathing trouble should see a physician, not a honey of uncertain identity.
 
+### Functional–Anatomical Correlate
+
+Makshikam honey is lighter, dryer and more efficacious than Kshaudram, and is said to be specially beneficial in dyspnoea, with an etc. left by the translator (Sushruta ch.45, lines 1115-1118). Dyspnoea maps in modern terms to the lungs, airways and breathing mechanism, and that is the one system the text names. No other organ is named, and no dosha effect beyond the group heading, nor any potency or vipaka for this kind alone, is printed. The lighter and dryer qualities are described relative to Kshaudram and are not assigned to a tissue. The entry's note that a person with breathing trouble should see a physician is the Codex's own caution and not the source's. The general honey rules, including the prohibition on heating, apply to every kind. The mapping the text supports is one respiratory complaint, with no further organ or mechanism given.
+
 ### Contraindications
 
 - **Heat.** Sushruta forbids honey that has been heated, boiled or used in hot weather or a hot body (lines 1183-1203). Treat that as the tradition's own warning.

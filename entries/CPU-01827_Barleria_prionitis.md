@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with a plant under this name. Nothing should be gathered or taken on the strength of a Latin name that the chapters do not give.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the chapters do not print the name Koranta, so it has no Sushruta statement about this plant, and it gives no preparation, dose, rasa, virya or vipaka. It records three nearby spellings that it does not tie to Barleria. Kurantika is a potherb whose leaves are sweet and cooling, and of one species the text says it is astringent. Kurantakam, in the flower passage, is said to subdue Kapha and Pitta. Kuruntaka is named in the Aragvadhadi group, which the text says destroys Kapha and the effects of poison, proves beneficial in Meha, Kushtha, fever, vomiting and itching of the body, and acts as an aseptic in an ulcer. It is also named in the Viratarvadi group, whose stated virtue is subduing the disorders of Vata and curing stones and urinary troubles. The entry says the appendix does not pair Kuruntaka with this Latin. It names no constituent, no clinical study and no cultivation status.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for this plant under this name. The identity is open, so no plant should be gathered or used on the strength of this entry. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** A superior-class entry in the Chinese scheme, with an entry text that survives only in its first line. The class is the classic's grade for substances taken long-term, but the Codex cannot read what the entry itself says, has no preparation and no dose, and holds no clinical record to set beside it. Nothing here supports taking this seed as a cultivation practice. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: The Shennong text, as legible in the sources on disk, gives only the opening words of the entry, which describe the drug as sweet and balanced and say that it mainly treats something. The rest of the entry is missing from the file, so no organ, tissue, channel or body system is named in what can be read. The qualities printed are sweet and balanced, and nothing else. The translator's note 246 gives the drug's current names as Bai Zi Ren or Bai Ren and breaks off before naming any use. The superior-class heading above the entry is a printed grade and not an organ claim. The translator's Latin name, Semen Biotae Orientalis, names a seed, which is the translator's term. The Codex does not supply the missing lines from memory, so this entry maps no anatomical site.
+
 ### Contraindications
 
 The legible lines print no warning, and the lines that would carry one are missing. The preface says of the superior class that it is nontoxic, but that is a statement about the class. The identity rests on a translator's Latin name and on a mostly illegible entry, so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

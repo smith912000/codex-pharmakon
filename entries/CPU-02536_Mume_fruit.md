@@ -46,6 +46,10 @@ Dried mume ("wumei") is a recognised drug in Chinese pharmacy today and the frui
 
 **Practitioner's note.** A cultivator may treat this as a food and a seasoning, which is what Sun's note shows the fruit being used as; the classic gives it no cultivation role beyond its grade. As a drug it is a course remedy for a defined complaint, with no dose in the text.
 
+### Functional–Anatomical Correlate
+
+The Shennong paragraph names downward qi (下气), heat (热), vexation (烦) and fullness (满) as its first targets, then the heart (安心, settling the heart), the limbs and body (肢体痛), one-sided withering and numbness (偏枯不仁), dead flesh (死肌), blue-black marks on the skin (青黑志) and malignant disease (恶疾). In modern anatomical terms the heart, limbs, nerves and skin are the tissues the text names, but the classic does not identify any of them as a mechanism, and the Codex does not say which one the fruit acts on. Wu Pu's layer adds that it brightens the eyes (明目) and benefits qi (益气), which gives the eyes as an extra target from a different layer. The text gives the flavour as sour and balanced (味酸，平). One-sided withering and numbness can describe a stroke, which needs urgent care, and malignant disease is not identified. The classic does not mention the kernel.
+
 ### Contraindications
 
 - **Kernel.** The kernel of *Prunus* fruits contains a cyanogenic glycoside; do not eat crushed kernels as a remedy. The classic says nothing about the kernel; the Wu Pu variant "kernel" (核) is a textual note, not a recommendation.

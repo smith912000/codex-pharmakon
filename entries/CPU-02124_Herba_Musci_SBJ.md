@@ -49,6 +49,10 @@ General, well-established facts only. Mosses are bryophytes, and many species gr
 
 **Practitioner's note.** A lower-grade drug in Sun's reconstruction and a middle-grade one in Yang's, for jaundice, heat and wounds. Nothing in the record supports a cultivation use, and the plant cannot be named. A cultivator has nothing to do with this entry beyond reading it.
 
+### Functional–Anatomical Correlate
+
+The two editions give different indications, and the entry records both. Yang's edition names heart vexation (心烦), which maps to the heart, and fulminant heat in the stomach and intestines (胃肠暴热), which maps to the stomach and intestines. Jaundice (黄疸), cough and counterflow, and blood and qi are named with no organ attached. Stopping incised wounds is a claim about wounds, with no tissue named. Long taking is said to supplement the center (补中), boost the qi, promote growth of the muscles and render the facial complexion good, so muscle and face are the tissues the long-use claim names. Sun's text, under 乌韭, names alternating cold and heat in the skin and the qi of the small intestine and bladder. The sources name no species, and the entry keeps the two editions separate.
+
 ### Contraindications
 
 - **Identity.** "Wall moss" covers many species, and the correspondence between Yang's and Sun's paragraphs is by alias. Do not gather or use moss on the strength of this entry. [USER: verify]

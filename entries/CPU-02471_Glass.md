@@ -37,6 +37,10 @@ Avicenna: hot in the first degree, dry in the second, with astringency and subtl
 
 **Practitioner's note.** There is no cultivation use here, and the one thing a practitioner can take from the entry is a caution: the medieval texts did list fine mineral and manufactured powders as drinks, and the Codex records them as history.
 
+### Functional–Anatomical Correlate
+
+In Avicenna's Canon, glass is hot in the first degree and dry in the second, with astringency and subtlety. Its sites are the teeth, the eye, and the bladder and kidneys. For the teeth, the entry says it polishes them, which maps to the tooth surface. For the eye, it polishes the eye and removes its whiteness, which maps to the eye's outer surface, and the burnt form is said to be stronger here. For the bladder and kidneys, powdered or burnt glass drunk with a drink is said to be beneficial for stones, which maps to the urinary bladder and kidneys. The entry also says glass purifies medicines when used to wash with, a use with no body site. Astringency maps to tissues that tighten and dry. The humoral frame is applied only through temperament; no humour is named as acted on, and no other organ is given.
+
 ### Contraindications
 
 - Powdered glass swallowed or applied to the eye is a physical hazard (cuts, abrasion); this is a plain warning, not a quotation of the text.

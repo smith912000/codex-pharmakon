@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing here for a cultivator. The tradition is represented by one list row that cannot say what the material is, and no text read says what was done with it or why. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names one Assyrian list row (ballukku), an aromatic whose botanical is unidentified, with the field reading possibly Ocimum basilicum (basil) or an unknown resin tree. The entry calls the identification highly uncertain. The row says the cited website refers to cuneiform, and that website was not opened. It names no tablet, period, preparation, use or complaint, and it does not say whether the material is an herb or a resin, so no body system, organ or tissue is attributed to it. The constituents cannot be stated. The attestation rests on a list row whose cited source is not on disk. Basil loci in other traditions are not evidence for this material. The entry makes no anatomical claim for it.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. Because the material is unidentified, no specific hazard can be named. As a general caution, an unidentified plant or resin preparation should not be taken in pregnancy, while breastfeeding, by children, or alongside prescription medicines without medical advice. This is general caution and is not found in the row. [USER: verify]

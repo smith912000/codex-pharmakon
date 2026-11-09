@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a kidney drug in the Tibetan texts, and the two Tibetan texts print different plants for it. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+In the Tibetan rGyud-bzhi tradition, the root-text clause places this drug on the kidneys: it 'cures kidney fever', and the Men-Tsee-Khang text describes it as curing hot disorders of the kidneys, set in a three-part series with the heart drug (snying.zho.sha) and the spleen drug (gla.gor.zho.sha). In modern anatomy terms this maps to the renal system, the kidneys and their fever-associated disorder. The commentary layer, which Clark marks in square brackets as coming from the Blue Aquamarine and Spreading Tree commentaries, adds that the seeds have sweet taste and oily power and that the white type is superior to the black and yellow types; it describes no organ beyond the kidneys. The entry maps no other system and gives no channel, humour or doshic assignment. The plant itself is uncertain between Canavalia gladiata, Mucuna prurita and Phaseolus vulgaris, so the renal claim is the texts' own and not a verified action on the kidneys.
+
 ### Contraindications
 
 The sources read print no warning. The identity is uncertain, and seeds of several legumes of this kind are harmful if eaten raw, so no plant or seed should be gathered or used on the strength of this entry. Kidney disease and fever need medical care. No safety information for pregnancy was read. [USER: verify]

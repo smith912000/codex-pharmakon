@@ -74,6 +74,10 @@ According to PubMed:
 
 ---
 
+### Functional–Anatomical Correlate
+
+Ramsons is classed as hot and dry in the third degree, a warming, penetrating, dispersing agent in the Galenic-Unani scheme. Avicenna's portrait gives resolvent and attenuant action that thins gross humours, opens obstructions and warms a cold stomach, with a heat that can inflame the blood and trouble choleric temperaments. In modern terms the entry places its action on the circulation and platelets: the lipophilic, alcohol-soluble fraction shows antiplatelet activity in vitro, with suggested vasodilatory and mildly blood-thinning effects, plus a low-grade antimicrobial action on gut flora. Practical targets are digestion (a warming nudge to sluggish digestion and appetite) and the spring cleanse of a phlegm-heavy state. The entry attributes the vasoactive effect to the organosulfur compounds that give the leaf its heat. Cautions are for reflux-prone people, for those on anticoagulants or antiplatelet drugs, and before surgery or dental extraction, since the antiplatelet effect could raise bleeding.
+
 ### Contraindications
 
 **⚠️ LOOKALIKE POISONING — THE PRIMARY HAZARD.** Before flowering, *Allium ursinum* leaves are readily confused with the highly toxic ***Colchicum autumnale* (autumn crocus / meadow saffron)** and with ***Convallaria majalis* (lily of the valley)**, both of which grow in overlapping woodland habitats. Colchicum contains colchicine, for which there is no antidote; ingestion has caused documented fatalities (Rousseau et al. 2022; Amrollahi-Sharifabadi et al. 2013). Convallaria contains cardiac glycosides. **The reliable field check is odour: crushed ramsons smells strongly of garlic; Colchicum and Convallaria do not — but odour transfers to the hands, so smell each leaf individually, not a handful.** When in any doubt, do not harvest. Never gather where identification is uncertain.

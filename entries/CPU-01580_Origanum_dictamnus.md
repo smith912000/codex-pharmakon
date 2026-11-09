@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identifica
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The useful lesson is the way Dioscorides fixes a plant by origin and smell and rates it against its neighbour, and the abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: The chapter names no organ, tissue or system. It gives a smell, most pleasant and between sisymbrium and sage, and a quality by comparison: the plant is somewhat less biting than the dictamnus above, which the text says is effective for all things. It is mixed with plasters and antidotal medicines. The chapter's only action statement is that it is effective for all things of the earlier chapter, without naming them. No temperament, taste, humour, doshic or qi term is printed for 3-39, and no warming, cooling, drying or moistening quality is given. Its leaves are like sisymbrium with bigger branches, and its flower is black and soft, like wild origanum. The plant is brought from Crete. The entry notes that the earlier chapter 3-37 lists effects the Codex does not carry over to this one. The identification is a translators' suggestion that mixes two genera, so none of these statements can be tied to a verified species.
+
 ### Contraindications
 
 The chapter prints no warning. Its sister chapter 3-37 describes the herb as able to expel dead embryos, and the Codex gives it no use. The identification rests on a translators' suggestion that includes a plant of another genus, so no plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

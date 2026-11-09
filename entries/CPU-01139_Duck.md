@@ -40,6 +40,10 @@ General, well-established facts only. Raw or undercooked duck carries bacterial 
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The duck is a word in a list. The honest use of the entry is as a record of how little the retrieved text says. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: The Ebers papyrus, as Bryan renders it, names the duck only in a list of animals “called upon to sacrifice themselves” for the Healing Art, printed as “Goose Duck Stag Gazelle Ram Goat”. The entry states no part of the duck used, no complaint, no organ, no quality, temperament or energetic classification, and no Egyptian word or binomial. The ingredient name “Duck’s Food” appears in a damaged column whose remedy is unclear, so it is not attributed to the duck’s body. Goose oil, eggs and blood occur elsewhere in the papyrus and are not carried over. Bryan’s general list of animal parts is for all animals together and does not say which came from the duck. No cultivation or heka framing is attested. Nothing further can be mapped to body systems from the sources read.
+
 ### Contraindications
 
 - **Hygiene and infection:** raw or undercooked duck carries bacterial risk; wild waterfowl can carry avian influenza and other infections, so avoid handling sick or dead birds.

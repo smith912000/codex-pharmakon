@@ -50,6 +50,10 @@ Poisoning by *Rhododendron* flowers, leaves and honey is documented in clinical 
 
 **Practitioner's note.** A cultivator does nothing with this plant. It is a lower-grade drug in the text's own scheme, named for the animals it staggers and kills, and the toxicity statement is in the tradition's own record. The honest practice is to read the entry as a record and keep away from the plant.
 
+### Functional–Anatomical Correlate
+
+Per the classic's paragraph, the drug acts on the skin and on the impediments. It is said to govern thief-wind within the skin (贼风在皮肤中) with creeping pain (淫淫痛), to treat warm malaria (温疟), and to treat malign poison (恶毒) and the various impediments (诸痹). Of these the skin is the only body surface the text names, and the impediments are not located further. The later Wu Pu layer adds thief-wind, malign poison and evil qi, and the Mingyi layer gives only the place of growth and the season of picking. Yang's edition calls the drug toxic, a word the classic's own paragraph does not print. The entry maps no organ or channel beyond the skin, and it does not translate these terms into modern diagnoses. As a separate general fact, not the classic's claim, the plant's grayanane diterpenoids act on voltage-gated sodium channels and slow the heart in poisoning. The classic names no preparation and no dose, and the entry records the drug as a historical record only, not a remedy to be used.
+
 ### Contraindications
 
 **Poisonous. Do not use.** Wu Pu records "toxic" (line 3385); the *Gujin zhu* quoted by Sun records that a sheep dies from eating the flower (line 3389). Flowers, leaves and honey from the flowers are all documented sources of poisoning. Poisoning is a medical emergency: contact emergency services at once. The plant must not be used in pregnancy or by children. Livestock and pets are at risk from the shrub itself.

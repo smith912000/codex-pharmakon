@@ -44,6 +44,10 @@ Only the Mingyi layer gives any handling: gather the fruit in the eighth and nin
 
 **Practitioner's note.** What a cultivator does with this is limited by the source: the classic says it may be taken for long, but it gives no dose, no preparation and no season of taking. Nothing in the text allows a regimen to be built. Because the identity of the fruit (see Sun's note and the Contraindications) is not secure, the honest practice is to treat this as a record of how the tradition graded the fruit, and not as an instruction.
 
+### Functional–Anatomical Correlate
+
+The paragraph assigns the fruit to the sinews and bones (筋骨), and names cold and heat with numbing-obstruction (痹) and cramping (拘挛) in them. Its sense-organ claims are the eyes (明目, brightening them) and the teeth (坚齿, firming them). It is said to free the nine orifices (九窍), the body's openings, and to remove white worms, whose host region the text does not name. Energetically it is bitter and slightly cold (味苦，微寒). The paragraph also carries a long-use clause: taken for long, it lightens the body and resists ageing. A smaller jing fruit is said to be equal in these respects, but the text does not describe it, so the mapping cannot extend to it. Because the fruit's identity is uncertain, the mapping is the classic's own and should not be transferred to other Vitex species.
+
 ### Contraindications
 
 - **Identification.** Sun treats *man jing* and *mu jing* as one plant. The common modern *Vitex* species differ, and the spine lists separate entries for *Vitex agnus-castus* (I_1219, Dioscorides) and *Vitex negundo* (I_1386, Sushruta, Avicenna); do not transfer any statement between them.

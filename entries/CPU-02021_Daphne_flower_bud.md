@@ -52,6 +52,10 @@ General, well-established facts only. Daphnes (family Thymelaeaceae) are irritan
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. This is a toxic lower-class drug that the classic's own preface says is not for long use, whose Wu Pu layer says long use purges, and whose other use was to poison fish. The honest use of the entry is as a record, and as a warning.
 
+### Functional–Anatomical Correlate
+
+The Shennong text files this drug as acrid and warm, and its claims cluster in the airways, the throat, the abdomen and the gut. It governs counterflow cough and rising qi, rattling in the throat, wheezing, swollen throat and short breath. It is also given for mounting and conglomeration (jia ka), abscesses and swellings, gu poison and ghost malaria, which are historical categories and are not translated into modern diagnoses, and it kills worms and fish. The Wu Pu layer calls the drug toxic and says that taken long it makes people purge, a bowel effect. The Codex's own note says a modern irritant reading fits the purging and poisoning claims, but no clinical study was retrieved. The abscess and swelling claims are not tied by the text to any organ. No dose, preparation or quantity is mapped from this entry, and the toxicity caution governs any reading of it.
+
 ### Contraindications
 
 - **Poisonous:** do not eat, drink or apply any form of the flower buds, root or sap. Poisoning (vomiting, severe diarrhoea, skin and mouth burns) needs medical care.

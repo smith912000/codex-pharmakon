@@ -47,6 +47,10 @@ General statement only: a drug that cannot be tied to a species cannot be linked
 
 **Practitioner's note.** A name in a group against *Pitta* disorders, ulcers and dysentery, and in two recipes. Nothing in the record supports a cultivation use, and with the plant unidentified there is nothing to do with it. A cultivator does nothing with this entry.
 
+### Functional–Anatomical Correlate
+
+The Amvashthadi group, in which Katvanga is listed, is said by its metrical text to prove beneficial in deranged Pitta, to favour the healing of ulcers, to bring about the adhesion of fractured bones, and to cure dysentery in which the stools hold lumps of thick, matured mucus. In modern anatomical terms those point to the skin and wound surfaces, the bones, and the large intestine. Katvanga also appears as one ingredient in a diarrhoea after-drink said to relieve griping in the intestines, and in an eye-wash, to which the entry attaches a caution against putting any preparation in the eye. The text gives Katvanga no organ, part or dose on its own. The Shyonaka equation (Oroxylum indicum) is only a lexical possibility the entry does not confirm, so the plant is unidentified. It is a historical record only.
+
 ### Contraindications
 
 - **Identity.** The plant is not identified in the sources read. Do not use any plant sold under this name on the strength of this entry. [USER: verify]

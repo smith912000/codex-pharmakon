@@ -169,6 +169,10 @@ So the ancients correctly identified a plant that evacuates the gut with great f
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, the Anticyra doctrine held that green hellebore purges black bile, a humour the entry states does not exist, so the purge was believed to act on the melancholic mind, with further indications for dropsy, obstructions, emmenagogue use and worms. The entry maps the observed effects onto real organs: vomiting and purgation of the gut, vesicant ulceration of skin and mucosa from protoanemonin, and fatal cardiotoxicity from bufadienolide inhibition of the myocardial Na+/K+-ATPase, the organ the ancients did not know they were acting on. Purgative hypokalaemia is said to potentiate that cardiac toxicity. The entry notes DNA double-strand breaks in cells and states that aerial parts as well as roots carry glycosides. Veterinary and folk use as a root seton drew a suppurating wound on the dewlap or skin. The madness indication is graded refuted, and the entry gives no safe dose and no permitted use.
+
 ### Contraindications
 
 # ☠️ ABSOLUTE — THIS PLANT IS NOT USED. THERE ARE NO RELATIVE CONTRAINDICATIONS BECAUSE THERE IS NO PERMITTED USE.

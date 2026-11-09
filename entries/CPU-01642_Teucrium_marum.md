@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The transferable point is the habit of naming where a good supply grew. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+On the entry's own account, Teucrium marum acts on the skin and the soft tissue under it, and only when applied from outside. Dioscorides gives the plant two qualities, 'somewhat astringent and gently heating', and says it is applied to stop gangrenous ulceration, a wound in which tissue is dying. Its second use places it among the hot ingredients of compound ointments, so its warming and astringent action is aimed at the surface of the body. The chapter names no internal organ, no fluid or humour and no channel of qi or dosha, and it names no route beyond external application. The entry does not map the plant to the bowels, blood, nerves or any other system. The qualities are Dioscorides' own assay, made by comparison with sisymbrium, and the identity of the plant is only the translators' suggestion, so every line of this correlate rests on one chapter.
+
 ### Contraindications
 
 Chapter 3-49 prints no warning. The identification is only the translators' suggestion, so no plant should be gathered or used on the strength of this entry. The chapter's own use, on ulceration that is gangrenous, is a condition that needs emergency care. Germanders as a group have been linked to liver harm when taken by mouth, and the chapter gives only external uses, but it also gives no dose and no safety information for pregnancy or children. [USER: verify]

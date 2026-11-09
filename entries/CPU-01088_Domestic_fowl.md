@@ -53,6 +53,10 @@ General facts only. Raw and undercooked poultry commonly carries *Campylobacter*
 
 **Practitioner's note.** Cooked chicken and its broth are food, and both traditions treat the bird as food with a medicinal side. The Greek text's craft rules (dress it plain, use an old cock for purging, use new unsalted fat) are the transferable part; the snake-bite and brain uses are not. Nothing sourced makes the fowl a cultivation substance in either tradition, and the Tibetan "increases semen" is a statement of action, not of a place in practice.
 
+### Functional–Anatomical Correlate
+
+Dioscorides applies warm cut hens to snakebite and gives brains in wine for venomous bites, which also stop bleeding from the meninx, the membranes of the brain and spinal cord. The dried inner lining of a cock's stomach, taken in wine, is said to be good for the stomach. Plain chicken broth restrains foul fluids and suits hot, burning stomachs, and old-cock broth purges; the text says it draws out thick, raw, sticky black fluids and helps long fevers, asthma, arthritis and gassy stomachs. Poultry fat is warming, softening and purifying, and new unsalted fat helps the womb while salted or sour fat is an enemy to it; goose and poultry fat also serve women's disorders, cracked lips, the face and ear sores. The Tibetan texts record chicken flesh as increasing semen and helping wounds, and rooster's comb blood as stimulating flesh growth and maintaining bone resin. Avicenna says young hen flesh increases the intellect and semen.
+
 ### Contraindications
 
 - **Infection.** Raw or undercooked poultry carries *Campylobacter* and *Salmonella*; handle and cook poultry safely, and do not use raw brain, blood or a freshly cut bird as a dressing. Do not rely on a cut hen for snakebite: a bite needs urgent medical care.

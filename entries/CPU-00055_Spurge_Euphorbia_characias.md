@@ -65,6 +65,10 @@ Codex policy: chemistry stated generally; species distinctions kept explicit; na
 
 **Practitioner's note.** Nothing to cultivate or take. The one transferable discipline is protective handling of a caustic latex: wind, eyes, skin.
 
+### Functional–Anatomical Correlate
+
+The entry maps spurge to the skin, the eyes and the bowel. Its latex is caustic: diterpene esters blister and burn the skin and destroy warts, corns and small growths, and splashed into the eye it causes keratoconjunctivitis, an ophthalmic emergency. Internally the latex was a violent hydragogue purge of water and phlegm used in dropsy, now obsolete. Dioscorides' account names purge and emetic use and external treatment of warts and ulcers, with guidance to protect the eyes and to stand out of the wind. The Unani Canon, under yatu', calls the milk blistering and deadly and lists removal of warts, moles and eye pterygium, a drop on a decayed tooth, purging of phlegm and watery matter, and removal of piles. The entry notes the esters act through protein kinase C and are tumour-promoting, so repeated or careless skin exposure is discouraged. The Galenic ranking places the plant at the most caustic degree of hot and dry.
+
 ### Contraindications
 
 - **Eyes and mucous membranes — absolute.** Latex contact causes severe, potentially sight-threatening injury; ophthalmic emergency.

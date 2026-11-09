@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing. A cultivator has nothing sourced to do with this entry: the attestation is a list cell, no text is on disk, and the identification is the spine's own. This is a historical record only and not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the Avicenna attestation rests on a list cell with no text on disk, and that no Canon passage, use, preparation or dose was read. It gives no organ or body system for the plant. Its only physiological statement is general, not sourced to this plant: plants of the borage family warrant caution because some contain liver-toxic alkaloids, and the entry advises caution with unconfirmed identity. The Unani frame of innate heat and radical moisture is noted, but not assigned to this plant. The Traditional Energetic classification for CM is not read, and no cultivation status is recorded. Pregnancy and breastfeeding are not covered by any source read, and no dose exists in the sources retrieved.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, a plant of unconfirmed identity should not be taken internally, and plants of the borage family warrant particular caution because some contain liver-toxic alkaloids. Pregnancy and breastfeeding are not covered by any source read. This is general caution and is not found in the row. [USER: verify]

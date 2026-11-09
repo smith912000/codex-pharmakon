@@ -45,6 +45,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a recognition note that points to another remedy, so it is history and not a practice.
 
+### Functional–Anatomical Correlate
+
+Little to map: Dioscorides’ chapter 4-93 gives a description and one taste, and refers its uses to another chapter. The plant has broad, fat, tongue-like leaves thick around the root, with an eye-like mark in the middle, and a thin stalk bearing flowers and seeds like those of hypericum. Its root is bigger than that of the first cotyledon, and its taste is astringent. The chapter prints no warming, cooling or drying quality. It says the plant is “good for the same uses as sempervivum” (chapter 4-89) and does not name which sempervivum is meant. The chapter assigns no body system, organ, tissue or use of its own. The identity is the translators’ suggestion, not verified, and the printed binomial is generally known as a southern African succulent, so no organ map is assigned here.
+
 ### Contraindications
 
 The chapter prints no warning and no use of its own. The remedies in the chapter it refers to include a pessary, a worm remedy and applications for ulceration, and these should not be self-treated. The identification is uncertain, so no plant should be gathered or used on the strength of this entry. None of the traditional uses above is advice. [USER: verify]

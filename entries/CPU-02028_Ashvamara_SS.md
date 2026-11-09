@@ -49,6 +49,10 @@ General, well-established facts only. The oleander is a widely grown shrub, and 
 
 **Practitioner's note.** A group drug for malignant ulcers and skin disease, and an alkali source, which is probably a poisonous plant. Nothing in the record supports any cultivation use. A cultivator should not use it.
 
+### Functional–Anatomical Correlate
+
+The Sushruta Samhita places Ashvamara in the Lakshadi group, whose taste is given as astringent, bitter and sweet. The group is said to act as a vermifuge and a purifying agent in bad, malignant or indolent ulcers, and to answer diseases from deranged Kapha and Pitta, including cutaneous affections (kushtha). The skin and the ulcerated surface are therefore the main organ-level targets. In the alkali-making list it is one of the woods burnt to ash, and in Chikitsa chapter 6 it is one ingredient of an oil used as an unguent said to lead to the falling off of a polypus. The entry does not name the part used for the group drug. Its identification as oleander (Nerium) is positional and medium-low, and the entry's caution is that if it holds, every part of the plant is a recognised poison. Nothing is mapped to the interior organs, and the text gives no data on pregnancy or children. Given the probable toxicity, no part of the plant should be ingested or burnt and inhaled as smoke.
+
 ### Contraindications
 
 - **TOXIC, probably.** Do not ingest it, and do not burn it and inhale the smoke.

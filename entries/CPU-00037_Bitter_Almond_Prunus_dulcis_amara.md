@@ -101,6 +101,10 @@ Throughout, the cultivation question concerns the **bitter** kernel (var. *amara
 
 ---
 
+### Functional–Anatomical Correlate
+
+Bitter almond's entry maps its toxic action onto the mitochondria of cells. Hydrogen cyanide, released from amygdalin when the kernel is crushed and moistened, binds cytochrome c oxidase in the electron transport chain, so cells cannot use oxygen even when it is present (histotoxic hypoxia). The historical Galenic reading, following Dioscorides, lists actions on the urine and menses, headache and pain, the liver and spleen, the cough and chest, and the skin when applied externally, and classes the bitter kernel as hot and dry. The entry places the kernel at the Qi tier for its chest-clearing, deobstruent and diuretic actions, and at the Shen tier for its reach into cellular respiration, which it describes as catastrophic rather than therapeutic at toxic dose. The cyanide-free sweet fixed oil is the only derivative the entry allows for general emollient use on the skin. The laetrile cancer claim is recorded as tested and refuted, with cyanide toxicity as its documented risk.
+
 ### Contraindications
 
 - **Cyanide poisoning (lethal):** Crushed/moistened bitter-almond kernels, bitter-almond water, and amygdalin/laetrile can release hydrogen cyanide and cause rapid histotoxic hypoxia — headache, dizziness, confusion, breathlessness with paradoxically well-oxygenated blood, seizures, cardiovascular collapse, and death. The classic almond odour may or may not be detectable. This is the governing contraindication for all non-oil preparations.

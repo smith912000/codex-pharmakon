@@ -56,6 +56,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry gives two claimed sites. Pounded and smeared on, the stone 'dries up' haemorrhoids, which maps to the veins of the anal canal and the perianal tissue. Burnt, it is used as a dentifrice for the teeth, which maps to the enamel and dentine of the teeth and to the gums around them. The one quality named is drying, given as the effect on haemorrhoids; the chapter prints no warming, cooling, astringent or moistening quality, and no temperament, humour, dosha or qi. The stone is compared with ivory in appearance, and the comparison names no tissue. The chapter names no organ beyond the anal veins and the teeth, and no system beyond these local sites. It is a Greek (DMM) therapeutic record with no subtle-body frame and no cultivation status, and the entry maps no further site from it.
+
 ### Contraindications
 
 - **Unidentified material:** the identification is uncertain; an unknown mineral powder should not be applied to the body or the mouth.

@@ -52,6 +52,10 @@ Animal fat is a common base in ointments and a source of dietary energy; this is
 
 ---
 
+### Functional–Anatomical Correlate
+
+The Assyrian (AT) attestation is a list row only, so no use is mapped from it. The Unani (CM) text on the fats of many animals, graded by heat, maps to several organs. Bear and goose fat act on hair loss (alopecia) of the scalp; goose fat on cracked face and lip; pig fat on swellings and stings; lion fat dissolves hard swellings; goose or fox fat soothes earache; camel fat helps spasm of the joints; fish fat helps cataract of the eye lens, sharpened with honey; goat fat treats ulcers of the gut; soft fats ease pains of the womb, old fat being worse. Duck and hen fat differ in heat, and the stallion's fat is hotter and drier than the gelding's. The claims are therapeutic only, with no innate heat, radical moisture or life-prolonging claim. Modern anatomy terms: scalp and hair follicles, skin, ear, joints, eye lens, gut and uterus. No doshic or qi classification is given.
+
 ### Contraindications
 
 - **Hygiene:** animal fat that is unrendered, old or contaminated can carry bacteria and should not be put on broken skin or the eye.

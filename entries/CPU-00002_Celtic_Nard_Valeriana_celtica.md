@@ -67,6 +67,10 @@ Until verified citations are supplied, this section should state that species-sp
 
 **Practitioner's note.** The honest practice is provenance and sensory assay: wild-gathered, cleaned, ground with wine and stored sealed, with the counterfeit rejected by the absence of a stalk and by its poor smell. Nothing here supports a cultivation or longevity regimen.
 
+### Functional–Anatomical Correlate
+
+The entry maps Celtic nard mainly to the stomach and the nerves, using Chinese terms. Its aromatic root is said to move stagnant Qi of the Middle Burner, the stomach and digestion, and to settle the Shen, with the image of a racing mind above an unsettled gut. Galenic and folk registers name it warm, bitter and stomachic, a carminative for cold, bloated digestion. The Dioscoridean list gives diuretic action and effects on the stomach, liver and spleen. Valerenic acid and related sesquiterpenoid acids are described as modulating GABA-A receptor signalling, which the entry links to the genus's sedative action, though it states that species-specific evidence for V. celtica is lacking. Valepotriates are noted for an antispasmodic tradition. The Alpine folk bath tradition is described as aiding general relaxation and soothing the skin. Pregnancy and lactation are flagged for insufficient safety data.
+
 ### Contraindications
 
 - **Pregnancy and lactation:** insufficient species-specific safety data; avoid internal use. [USER: verify]

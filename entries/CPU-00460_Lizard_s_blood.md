@@ -57,6 +57,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+Lizard's blood maps to the eyelid. It is one of three ingredients, with myrrh and bat's blood, applied to the lid after ingrowing eyelashes (trichiasis) have been pulled out, under Bryan's heading 'To drive out trichiasis'. The eyelid and lash follicles are the site, and the complaint is lashes growing inward against the eye. A second prescription, for hair that regrows into the eye after pulling, uses lizard's dung rather than its blood, with blood of cow, ass, pig, dog and stag. The text gives no humour, temperament, heat or qi for the blood, and no quantity beyond unexplained strokes. The Egyptian frame (heka) is not attached, since no recitation is printed with the trichiasis remedy. The entry adds infection risk from animal blood near the eye, and notes that some lizards are protected or venomous.
+
 ### Contraindications
 
 - **Eye safety:** animal blood near the eye risks infection; ingrowing lashes need medical care.

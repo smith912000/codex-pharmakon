@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a bile and wind drug with a taste and a power in the commentary, no preparation and no dose, and its Latin name is the first of three that Clark offers. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Clark's line for Se.wahi.me.tog reads that the wild rose cures bile disorders and alleviates wind imbalances. Bile and wind are the tradition's humoral terms, and the entry names no organ for them; no gallbladder, liver, nerve or other structure is mentioned for this drug. The bracketed commentary adds that the bush is thorny, has sweet and sour tastes and an oily power, and occurs in black and white types, but these describe the plant and are not organ claims. The Men-Tsee-Khang text says Sewai metok cures tripa disorders and suppresses loong, both kept as Tibetan terms. This entry reads those as the translators' words for bile and wind, which is its own inference, and it reads the two names as one drug by spelling alone. The Latin name is the first of three binomials Clark prints for this name, so the humoral action attaches to an identity the texts do not settle. Historical record only; no part, dose or protocol is given.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Wild roses are thorny, the identity is open, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. No conservation information and no safety information for pregnancy were read. [USER: verify]

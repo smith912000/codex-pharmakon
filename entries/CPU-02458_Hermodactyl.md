@@ -39,6 +39,10 @@ Colchicine, from *Colchicum* corms, is used in modern medicine for gout and fami
 
 **Practitioner's note.** Nothing is asked of a cultivator. If the identification is right, this is a potent-alkaloid corm, and the tradition's own record here is of a short, almost silent entry. Treat it as a record of a name and a shape, and not as a usable remedy.
 
+### Functional–Anatomical Correlate
+
+Little to map: the Canon gives three actions and little else. It says the drug dissolves very thick superfluities, that it benefits the nervous organs (ʿaṣabiyya) and their afflictions, and that for the head it benefits madness (junūn) especially. No condition is named for the joints, and the entry does not say the drug is for gout; that association comes from the modern reading of Colchicum, not from the text. The temperament is given as hot and dry in the second degree, approximately. The entry names no part used beyond the finger-shaped dried pieces, which are mottled yellow and white, hard and a little sweet, and gives no preparation or dose. It says nothing of the innate heat, the radical moisture or the ruh, so no organ or faculty beyond the nervous organs and the head can be mapped from it.
+
 ### Contraindications
 
 - **Toxicity.** If the drug is a *Colchicum* corm, it can poison. Poisoning with colchicine causes severe gastrointestinal illness and can be fatal. Do not take unidentified or home-prepared material. This is general knowledge and not from the Arabic text.

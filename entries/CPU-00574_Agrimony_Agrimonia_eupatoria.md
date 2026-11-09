@@ -63,6 +63,10 @@ According to PubMed, agrimony's traditional profile is supported by a growing ph
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps agrimony's astringent action onto mucous membranes and surface tissue: the throat and mouth (gargle for sore throat, hoarseness and oral inflammation), minor wounds and weeping skin (wash or compress), and the gut in mild loose bowel. The tannins, chiefly agrimoniin, are described as contracting and firming these surfaces with antimicrobial action, while flavonoids and phenolic acids underlie antioxidant and anti-inflammatory effects. The Galenic and Unani reading places it as a liver deobstruent and binder, esteemed for hepatic obstruction, weakness and jaundice. Ayurveda, by analogy, relates its astringency to pacifying kapha and controlling pitta-type oozing, and TCM reads the East Asian congener as restraining bleeding and stopping dysentery. The cited reviews describe hepatoprotective and metabolic signals from small clinical studies, and human evidence is described as limited. Cautions cover iron and drug absorption in the gut, constipation, biliary obstruction and pregnancy.
+
 ### Contraindications
 
 - Generally well tolerated in traditional food-herb amounts. Its high **tannin** content means strong or prolonged internal use may cause gastric irritation and can **reduce absorption of dietary iron and of some medicines** — separate dosing from iron supplements and oral drugs by ~2 hours.

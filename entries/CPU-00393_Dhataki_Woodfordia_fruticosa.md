@@ -95,6 +95,10 @@ The Kenetica energetic reading places Dhataki at the *lower* pole of the transfo
 
 **Practitioner's note.** Nothing here supports a cultivation practice. Dhataki's attested place is as an astringent gana member and a fermentation ingredient in medicinal drinks; use it as such, within the tradition's own therapeutic frame.
 
+### Functional–Anatomical Correlate
+
+The classical actions the entry gives for Dhataki are stambhana (arresting), grahi (checking flux) and vrana-ropana (wound healing), so the tissues are the bowel for diarrhoea and dysentery, the uterus for excessive menstrual bleeding (menorrhagia), and wounds and ulcers on the skin surface. The Unani entry adds the bowel and the anus, where the decoction is said to be very useful for pains of the anus and, with oil, to help haemorrhoids, and it says the drug binds the bowel and softens hardnesses. In that same Unani frame it is said to obstruct the head. Sushruta's use of the flowers in Guda Sidhu is described as an appetiser and digestant, which maps onto the stomach and digestion. The entry records the hepatoprotective claim from review literature as preclinical and overstated, and it names no organ-level human effect. Its evidence for the bowel, uterus and wound uses is traditional, with animal data on leaf and bark.
+
 ### Contraindications
 
 - **High tannin load.** Sustained or high-dose use of tannin-rich astringents can irritate the gastric mucosa and impair absorption of dietary iron and of protein-containing or alkaloidal co-administered drugs. Separate from iron supplementation and from other oral medicines.

@@ -182,6 +182,10 @@ Cinnamon's application in the Kenetica framework spans three phases, each exploi
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps cinnamon to several body systems, and the form decides the target. Rou Gui, the inner bark, acts on the Kidney, Spleen, Heart and Liver channels and on the Ming Men fire, warming constitutional yang, cold extremities and the lower back. Gui Zhi, the twig, acts on the Heart, Lung and Bladder channels, warming the channels and vessels and releasing exterior cold. Ayurveda classes tvak as acting on the digestive (annavaha), circulatory (raktavaha) and cardiac (hridaya) channels, and on blood and muscle tissue. Unani and Tibetan sources name the liver, stomach, uterus and digestive fire. The entry links cinnamaldehyde to insulin signalling and GLUT4 uptake in muscle and fat, to brown adipose thermogenesis via UCP1, to NF-kB in inflammation, and to tau aggregation in brain tissue in laboratory models. Cautions name the liver for cassia coumarin, anticoagulated blood, the first-trimester womb and the oral mucosa.
+
 ### Contraindications
 
 - **Anticoagulant medications (warfarin, clopidogrel, aspirin, apixaban, heparin):** Cinnamaldehyde has anti-platelet activity; coumarin (in cassia) has direct anticoagulant properties (precursor to dicoumarol, the natural coumarin anticoagulant that inspired development of warfarin). Additive bleeding risk. Monitor INR closely if combining; discontinue therapeutic doses 7+ days pre-surgery.

@@ -45,6 +45,10 @@ Yarrow-type *Achillea* plants are generally known as traditional wound and bleed
 
 **Practitioner's note.** The practice in these chapters is recognition: telling a plant by its leaf, tuft and smell. Nothing gives a cultivator a practice for the person. The identification is doubtful, so no use is recommended.
 
+### Functional–Anatomical Correlate
+
+Dioscorides' two chapters act on blood, wounds, the womb, the bowel and the urinary passage, in these terms. Achillea (4-36) is a wound herb whose pounded fibres congeal bloody wounds, reduce inflammation and stop bleeding. The same fibres in a pessary staunch bleeding of the womb, and a decoction used as a douche treats excessive menstrual flows of women. A drink of it is given for dysentery. Ageraton (4-59), a low shrub like origanum with a golden flower, is a decoction described as burning, and its smoke is inhaled to induce the flow of urine and to soften hardness around the womb. Traditional terms: the 4-36 herb has a medicinal smell, not unpleasant; the 4-59 decoction is burning. The text prints no warming, cooling or degree for either chapter. The identification with Achillea ageratum is a translators' gloss, and the two chapters are not stated to be the same plant.
+
 ### Contraindications
 
 The 4-36 uses include menstrual-flow and womb applications, so avoid in pregnancy. The 4-59 decoction is called "burning". Members of the daisy family can cause skin reactions in sensitive people. None of the traditional uses above is advice.

@@ -63,6 +63,10 @@ Identical to Medicinal Rhubarb (I_304): bitter, cold, sinking; Stomach/Large Int
 
 **Practitioner's note.** Nothing to cultivate here; the source frames no rhubarb as a practice substance, and this species is not named in it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that Rheum tanguticum is pharmacopoeially interchangeable with R. officinale (I_304), and that its medicinal identity, actions and cautions are those given there. As a Dà Huáng it is described as purging accumulation and heat downward, draining fire and resolving toxicity, and cooling and invigorating Blood. Its TCM channels are the Stomach, Large Intestine, Liver, Spleen and Pericardium, by reference to I_304. Its anthraquinone and tannin fractions are described as purgative and astringent, and its roots as the site of anthraquinone synthesis. Preclinical reports describe emodin from its roots as inhibiting herpes simplex virus in cell culture, and a non-toxic ethanolic extract of the plant as inhibiting H1N1 influenza strains. Tibetan medicine uses chu-rtsa as a purgative and heat-clearing agent for hot digestive disorders, though the entry notes it does not name this species. The entry gives no separate Kenetica indication.
+
 ### Contraindications
 
 Identical to I_304 in full: contraindicated in **pregnancy, lactation, menstruation**, in **deficiency/cold patterns** and the frail, and in **bowel obstruction**; not for **chronic/habitual use** (anthraquinone dependence, hypokalaemia, melanosis coli, hepato-/nephrotoxicity on high-dose long-term exposure); interacts with **digoxin, diuretics, and other laxatives** via hypokalaemia. See I_304 for the complete safety discussion.

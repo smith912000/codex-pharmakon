@@ -63,6 +63,10 @@ No clinical studies were retrieved for this entry. [USER: verify] General facts 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The Ebers papyrus (EP) uses yeast as a vehicle or ingredient in remedies for named sites, and gives no account of what yeast does to the body. The sites are the skin and wounds (burns, a wound poultice, scabs, itch, a growth in the neck), the anus (a suppository), the womb (a displaced womb, drunk after rubbing), the phallus (anointing), the back (a back-remedy), and, for roundworm, internal use. No organ, humour or constitutional element (ka, ba, akh, ib) is given for yeast, and no taste, temperature or temperament is printed. The Canon (CM) entry on lees (durdi), the sediment of fermentation, gives a therapeutic account: the lees of vinegar is cleansing and astringent, and unburnt lees, applied to swellings and pustules, quenches the heat of a breast engorged with blood (chest), checks the flow of matter to the stomach (digestive organs), and, laid on the womb from outside, prevents menstrual bleeding (excretory organs). Innate heat, radical moisture and life-prolonging action are not mentioned.
+
 ### Contraindications
 
 - **Infection and hygiene:** the papyrus uses yeast in dressings for wounds and burns together with excrement and other animal matter; applying fermenting or faecal material to broken skin risks serious infection.

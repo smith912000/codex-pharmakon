@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a meat-poisoning drug in the Tibetan texts, its Latin name is one of several, and there is no preparation and no dose. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Tibetan texts record that this drug cures meat poisoning. Clark's commentary layer adds indigestion, and the Men-Tsee-Khang sentence states the meat-poisoning claim without it. In modern anatomy terms the claim sits with the digestive tract and its handling of spoiled food, where food poisoning and indigestion occur. The entry says that in Clark's commentary one type tastes like radish, which describes a taste and gives no taste class, power or post-digestive effect. It names no channel, humour or subtle-body structure, and it prints no part of the plant that would be taken into the gut. The Latin identity is one of four binomials across two texts, so the mapping rests on the Tibetan name. The gastrointestinal claim is recorded as the texts' claim only, and is not extended to any organ the sources do not name.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The identity is uncertain among several plants, so no plant should be gathered or used on the strength of this entry. Poisoning and persistent indigestion need medical care. No safety information for pregnancy was read. [USER: verify]

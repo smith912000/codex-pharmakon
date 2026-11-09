@@ -40,6 +40,10 @@ General fact: cooked starch is a bland carbohydrate food and a classical demulce
 
 **Practitioner's note.** Starch is food and plaster, not a cultivation substance. A cultivator reading this entry learns how the Canon thickened a soothing gruel, and nothing more.
 
+### Functional–Anatomical Correlate
+
+The entry maps starch onto the skin, the wounds, the eye, the chest and the bowel. Its temperament is cold and dry in the first degree, and the text says it has in it a strengthening and a softening. For the skin, with saffron, it removes the facial blotch (kalaf). For wounds it heals and corrects ulcers. For the eye it prevents the flowing of matter to the eye. For the chest it softens the chest, and the gruel made from it prevents catarrhs from the chest. For the bowel, nashāstaj alone or with lentils binds the nature and prevents the passing of bile. The entry names one preparation, cooking the starch in three times its water, and gives no dose. No vital faculty or humour is named. The Canon does not say which grain the starch comes from, so the source plant is unknown, and the entry is recorded as historical.
+
 ### Contraindications
 
 Ordinary food starch is safe for most people. The text's own use for the bowel (binding) would be unwise in constipation. Gluten-containing starches (wheat) may matter to people with coeliac disease; the Canon does not say which grain was meant. Wound dressings with unsterile starch carry infection risk.

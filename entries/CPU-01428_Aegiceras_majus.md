@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It can be said
 
 **Practitioner's note.** Nothing here gives a cultivator a practice. The plant is not securely identified, and the chapter is a list of uses. The abstentive answer is the correct one.
 
+### Functional–Anatomical Correlate
+
+The chapter (1-113) gives uses and no description of the plant. Leaves applied with vinegar are said to help gouty pains, which the entry maps to the joints. A resin is mixed with softening medicines. A seed taken with vinegar is said to be good for epilepsy, a disorder of the nervous system. A hardened oozing, reported to become amber, is ground and taken as a drink to stop excessive discharges of the stomach and bowels, which maps it to the digestive tract. The only sensory note is a sweet smell when rubbed. No warming, cooling, drying or astringent quality, and no temperament or degree, is printed. The entry states that the plant is not securely identified, the translators' binomial is doubtful, and so these organ-level claims are Dioscorides' only, not a Codex protocol.
+
 ### Contraindications
 
 No safety information is printed in the chapter, and because the plant is not identified none can be inferred. Taking an unidentified resin, leaf or seed, especially for epilepsy (the use the text names), in place of medical treatment is dangerous. None of the uses above is advice.

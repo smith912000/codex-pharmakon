@@ -60,6 +60,10 @@ General, well-established facts only. Many marine invertebrates and fish produce
 
 **Practitioner's note.** A cultivator does nothing with this. The record is a cosmetic recipe with a warning, and the animal cannot be recognised from the text. The only transferable lesson is Dioscorides's own: note what a creature does to the skin before you rub it on.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the sea scolopendra, boiled in oil and rubbed on, removes hair, which the translator glosses as depilatory. The only body surface named is the skin, and the only effect named is hair removal. Its one reaction is itching when the animal is touched, and the text does not say which part of the body feels it. The chapter gives no organ, humour, temperament or quality of heat, cold, dryness or moisture. It names no preparation beyond boiling in oil, gives no dose, and does not say how the animal could be recognised. The chapter places the creature among the sea animals and says nothing else about its body. Those are the only points the entry supports, and the animal cannot be identified from the Greek alone.
+
 ### Contraindications
 
 - **Skin irritation.** The text records itching on touch. Do not handle unidentified marine animals, and do not rub preparations of them on skin.

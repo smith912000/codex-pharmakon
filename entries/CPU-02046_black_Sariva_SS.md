@@ -52,6 +52,10 @@ General, well-established facts only. The roots of the Sariva type are used in I
 
 **Practitioner's note.** A member of a Vayu-and-Pittam-soothing group, one of two Sariva kinds, and a plant the commentators identify by a chain of glosses. There is nothing here for a cultivator to take or do. A reader should not use any Sariva product on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Black Sariva maps to the lungs and the respiratory tract, the limbs, and the Vayu and Pitta humours, through the Vidari-gandhadi group. The group is said to subdue deranged Vayu and Pitta and to prove beneficial in phthisis, Gulma, aching of the limbs, Urdhva shvasa and cough. The entry gives no taste, potency or post-digestive taste for black Sariva alone, and none for the group in the lines read. Via the commentator Dallana it is read as Syama-lata, and the index pairs that with Ichnocarpus frutescens, while plain Sariva is taken as Hemidesmus indicus, so the plant is not settled. Gulma and Urdhva shvasa have no modern equivalent in the entry. No rasayana or vajikarana placement is stated. The Codex does not recommend any Sariva product.
+
 ### Contraindications
 
 - **Identity is open.** Two different plants are connected with Sariva in the sources read; do not substitute one for the other.

@@ -147,6 +147,10 @@ Graded honestly. This is a **toxicological** evidence base, not a therapeutic on
 
 **Practitioner's note.** Nothing. This is a plant to identify and avoid, not to take or cultivate. The only discipline it supports is accurate identification, because it is repeatedly mistaken for edible wetland umbellifers.
 
+### Functional–Anatomical Correlate
+
+Cicuta virosa is mapped by the entry almost entirely onto the nervous system and the muscles it drives. Its principal toxin, cicutoxin, is described as a non-competitive GABA-A antagonist that blocks the chloride channel quieting neurons, so the brain and brainstem lose their inhibitory brake and fire without restraint. The entry traces the resulting picture through the masseter (trismus and the sardonic grimace), the cortex and brainstem (convulsions, status epilepticus), skeletal muscle (rhabdomyolysis), the kidneys (renal failure) and the heart (dysrhythmia), with death by anoxia during seizure. The folk register calls it a convulsive rather than narcotic poison, hot in action despite cold in habitat. The Graeco-Roman register places its acrid juice on the skin only as a vesicant, a use the entry forbids. The entry assigns no organ a therapeutic role.
+
 ### Contraindications
 
 **☠️ ABSOLUTE — THERE IS NO CONDITIONAL LIST.**

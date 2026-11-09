@@ -51,6 +51,10 @@ General, well-established facts only. Pulses are the dry seeds of bean-family pl
 
 **Practitioner's note.** Nothing here gives a cultivator a practice with this plant. It is a Latin name in a translator's glossary, against a Sanskrit name the chapters do not use, and the nearest chapter material is a pulse eaten as food.
 
+### Functional–Anatomical Correlate
+
+Little to map: The name Sukla-mudga is not found in the chapters, so the only Sushruta text on the bean is for the Mudga pulse as a class. Sutra 46 says the pulses, Mudga among them, are generally cool and pungent of digestion, sweet and astringent; they generate Vayu, arrest the flow of urine and of stool, and subdue Pittam and Kapham. The text says the Mudga does not excessively generate Vayu but tends to purify and invigorate the organ of vision, and that the green kind is the best. In the rasayana chapter (Chikitsa 27) Mudga soup is a meal taken after the elixir, not the elixir itself. The entry gives no organ, tissue or channel for Sukla-mudga, no preparation, no dose and no energetic classification for the name. The Sanskrit identity is a positional pairing, and the pulse class cannot be carried over to a wild bean. The eye is the one organ named, and only for the Mudga pulse.
+
 ### Contraindications
 
 The Sushruta passages read print no warning for this name. The Mudga pulse as a class is said to arrest the flow of urine and stool. The identity rests on a translator's appendix and a positional pairing, and a wild bean is not a food to gather on this evidence; raw or undercooked beans can upset the gut. No pregnancy information was read. [USER: verify]

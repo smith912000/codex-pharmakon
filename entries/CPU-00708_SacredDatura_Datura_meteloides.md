@@ -61,6 +61,10 @@ According to PubMed: Aćimović (2025), *Planta Medica*, reviewed 114 reports an
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, Sacred Datura's tropane alkaloids (hyoscyamine, atropine, scopolamine) block muscarinic acetylcholine receptors, so the system acted on is the parasympathetic nervous system, the 'brake' the plant severs. Its listed signature is the anticholinergic syndrome: the pupils dilate (mydriasis, with blindness and photophobia), the skin runs dry and flushed, the heart becomes tachycardic and arrhythmic, the body overheats, the bladder retains urine, and the brain becomes deliriant, with seizures and coma at toxic levels. Ayurveda (Sushruta) classes it as an upavisha whose capacity to derange the mind is a named clinical syndrome, and records smoke use for respiratory spasm and external use for skin disease and pain. TCM describes a cold, sinking, mind-clouding toxin, and the Galenic frame is Cold and Dry in the fourth degree as a narcotic poison. The entry gives no safe internal target and treats the plant only as a study-only boundary marker.
+
 ### Contraindications
 
 **⚠️ SEVERELY TOXIC — POTENTIALLY DEADLY. NEVER SELF-ADMINISTER IN ANY FORM.**

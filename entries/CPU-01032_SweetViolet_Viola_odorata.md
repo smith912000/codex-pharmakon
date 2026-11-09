@@ -81,6 +81,10 @@ According to PubMed, the modern evidence is best for the **nervine/sleep** use o
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, sweet violet maps to the airways, the head and the bowel. In the Unani-Persian frame Banafsha is cold and moist in the first degree, used for hot, dry cough, sore throat, catarrh and fever, and for headache and sleep. Mucilage is said to coat the pharynx and gut, and saponins to thin bronchial secretions, which the entry links to the cough indication. Its mild laxative action is described as lubrication of the bowel. Salicylate-type phenolics are named as the anti-inflammatory and febrifuge rationale. The nervous system is mapped through sleep: intranasal oil is reported in small RCTs to improve insomnia scores, with a large placebo response, graded low to moderate. The entry places the cyclotides outside the demulcent mechanism, as non-absorbed defence peptides. The fading scent is attributed to receptor desensitisation to the odorant beta-ionone, a point the entry notes lacks a primary citation.
+
 ### Contraindications
 
 - Generally very well tolerated at demulcent/culinary doses; classed as a gentle remedy.

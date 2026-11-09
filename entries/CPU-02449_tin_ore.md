@@ -48,6 +48,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 **Practitioner's note.** Nothing to take from it for cultivation. It is a raw ore, listed for flesh growth, with no preparation given. It is not a recommended practice. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states one action. Clark's tantra text says the ore promotes flesh growth, and Men-Tsee-Khang says it facilitates healing of the muscle tissue. In modern terms that maps to the muscles and soft tissue, and to the repair of tissue at a site of injury. The bell-metal use and the resemblance to silver ore are metalworking and appearance details that map to no body site. No taste, potency, humour, wind, bile or phlegm site, and no organ, is printed for the ore in either text read.
+
 ### Contraindications
 
 - **Raw metal ore:** may carry arsenic, lead and other toxic metals; do not swallow, grind or inhale dust.

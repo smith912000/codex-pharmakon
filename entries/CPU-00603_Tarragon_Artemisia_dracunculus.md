@@ -136,6 +136,10 @@ Unlike Pasque Flower and Tian Nan Xing, tarragon's energetics require **no proce
 
 **Practitioner's note.** Nothing beyond the kitchen. Tarragon is a culinary digestive herb, and the one practical point the entry stresses is to use the vegetatively propagated French cultivar, not seed-grown Russian tarragon.
 
+### Functional–Anatomical Correlate
+
+Per the entry, tarragon's traditional digestive action is directed at the middle: stomach, appetite and wind, where the aromatic volatile oil is said to warm a cold, damp, torpid stomach. Its secondary traditional claims are emmenagogue (uterine) and mild sedative, both unvalidated. The toothache use acts locally on the oral tissues, where the eugenol-type volatile fraction is described as numbing the tooth and gum, a plausible but untested action. Estragole, the flagged constituent, is recorded as a rodent hepatocarcinogen acting through the liver, with absorption detectable in human plasma and urine after eating these herbs. The one human randomised trial, using the Russian cultivar, reported changes in insulin secretion, HbA1c and systolic blood pressure in 24 people, which the entry grades as a small signal. Skin sensitisation and respiratory toxicity are predicted in silico only.
+
 ### Contraindications
 
 ⚠️ **ESTRAGOLE — FLAGGED CONSTITUENT.**

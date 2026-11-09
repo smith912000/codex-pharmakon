@@ -54,6 +54,10 @@ General, well-established facts only. *Argyreia speciosa* is a perennial climber
 
 **Practitioner's note.** A purgative ingredient glossed in three recipes. The record does not support any cultivation use, and a cultivator has no business with it.
 
+### Functional–Anatomical Correlate
+
+In the Sushruta main text the name Vriddhadaraka appears as a gloss to Shyama, a purgative drug. The compounds it appears in are said to treat diseases of deranged Kapha, Sannipata (all three humours deranged together), haemoptysis (coughing of blood) and fever, and to suit persons of dry temperament. The purge acts on the bowel, and the named conditions reach the airways and the whole body. The text names no use for Vriddhadaraka apart from Shyama, and gives no flavour, potency or vipaka for it. The compounds are given in honey, in a confection, or in ghee, meat essence or water, and the text does not say which organ is the seat of the disease. Modern anatomy names the bowel and airways only to locate the sites the text names. The entry gives no dose, and the purgative use is a treatment procedure under a physician, not a practice to follow.
+
 ### Contraindications
 
 - **Purgation.** These are purgative compounds used under the direction of a physician in disease. Do not take a purgative on the strength of this entry.

@@ -71,6 +71,10 @@ Codex policy: chemistry stated generally; named citations to be supplied and ver
 
 ---
 
+### Functional–Anatomical Correlate
+
+Galbanum is mapped onto the chest and airways, cold swellings and the gut, and the entry also flags the womb. The DMM and Persian-Unani (barzad) reading is hot and dry, a resolvent and ripener (muhallil, munzij) that softens and disperses cold, hard swellings when applied as a warming plaster. Internally it is an expectorant for cold, phlegmy chest congestion and an antispasmodic for wind and colic, acting through the umbelliferone and sesquiterpene coumarin fraction on smooth muscle as the entry describes. The Kenetica tier is Qi, on the warming, dispersing and phlegm-and-stagnation-resolving axis. Dioscorides' emmenagogue reputation is recorded as an action on menstruation and the womb, flagged for verification. Contraindications in the entry name pregnancy, hot acute inflammatory states, gut irritation and allergy. Its ritual incense role has no body action assigned, and no tradition attests a cultivation status.
+
 ### Contraindications
 
 - **Pregnancy — caution/avoid medicinal doses.** Emmenagogue reputation; medicinal internal use traditionally avoided in pregnancy. [USER: verify.]

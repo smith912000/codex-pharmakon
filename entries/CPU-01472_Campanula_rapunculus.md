@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice. Whether the plant is a wild turnip relative or a bellflower cannot be settled from the chapter, so there is nothing to grow or to take. The abstentive answer is the correct one.
 
+### Functional–Anatomical Correlate
+
+Little to map: The entry states only that the black seeds, once the husks are opened, go into sebaceous treatments “for clearing the face and other parts of the body”. The surfaces named are the skin of the face and the rest of the body, which in modern terms are the skin and its oil-producing sebaceous glands, though the chapter does not use those words. No internal organ, system or tissue is named. The chapter has no humoral, doshic or qi framework, and it gives the seed no warming, cooling or drying quality. The seed is listed beside meals of lupin, wheat, lolium and ervum, which the chapter presents as the base of the same cleansing preparations rather than as separate targets. The root is described as finger-thick, but the chapter does not say that the root is used or what it acts on. The plant is not securely identified, since the translators offer a crucifer or a bellflower. No protocol, dose or internal action is recorded, and none is mapped here.
+
 ### Contraindications
 
 No contraindication is printed in the chapter. The use is external. As a general caution, a plant that the translators cannot place between a crucifer and a bellflower must not be gathered or used from this description.

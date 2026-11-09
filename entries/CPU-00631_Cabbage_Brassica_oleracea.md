@@ -80,6 +80,10 @@ According to PubMed, controlled work supports the cytoprotective and chemopreven
 
 **Practitioner's note.** A cultivator eats cabbage; there is nothing to grade, time, or take in course. Its honest cultivation content is dietary and conservational — a daily cool green that binds excess (its ancient temperance-against-wine reputation belongs to culture, not pharmacology) — plus the Dioscoridean discipline of choosing and handling it well. No tradition in this file grants it a longevity or subtle-body status, and none should be manufactured.
 
+### Functional–Anatomical Correlate
+
+Cabbage's entry maps its action onto the gut, its mucosal defences and the middle burner. The Chinese frame gives sweet-pungent, cool qualities that harmonise the spleen and stomach, moisten the intestines and clear heat. The Galenic and Unani frame gives cold and dry, binding and cleansing qualities, cautioned in a cold stomach. Dioscorides records leaves eaten for the belly and juice used for the ears and in poultices, and the Ayurvedic analogy gives cooling, vata-provoking, pitta-pacifying qualities best cooked with warming spice. The entry's modern correlate is cytoprotective induction: isothiocyanates from glucosinolates activate the Nrf2 antioxidant and detoxification response, which in a Drosophila model protected the intestine from oxidative gut injury and leaky-gut damage, with added effect from lacto-fermented kale. Sulforaphane is named as the best-studied compound. A bruised-leaf poultice is retained as folk-tier use for local inflammation, and thyroid and vitamin K cautions are listed.
+
 ### Contraindications
 
 - **Thyroid:** Large habitual raw intakes supply goitrogenic thiocyanate precursors; caution with iodine deficiency or existing hypothyroidism.

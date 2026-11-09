@@ -46,6 +46,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** There is nothing to cultivate with this plant on the evidence read; it is a weed that happens to share a genus with a food. Dioscorides' warnings, such as boils, thirst and dull sight from the wild garlics, are a reason for restraint.
 
+### Functional–Anatomical Correlate
+
+Dioscorides' chapter 2-182 gives the wild kinds, ophioscorodon and elaphoscorodon, a sharp, warming, biting quality, and says they expel flatulence, disturb the belly, dry the stomach, cause thirst and puffing up, breed boils on the outside of the body, and dull vision. These are gut, stomach, skin and eye effects in the chapter's own terms, with no humoral degree printed. The garlic material in the same chapter adds the bowels and urine (drawing out broadworms and urine), the lung vessels and old coughs, skin and scalp conditions treated with honey (vitiligo, lichens, freckles, running head ulcers, dandruff, psoriasis), and a leaf decoction hip bath for the menstrual flow and afterbirth. A poultice is given for viper and mad-dog bites. The entry states that the chapter does not say which of these belong to the wild kinds, and that crow garlic is not clearly identified in the texts, so it should not be foraged on the strength of the entry.
+
 ### Contraindications
 
 The Dioscorides chapter itself lists thirst, a disturbed belly, "boils on the outside of the body" and "dulls vision" as effects of the wild kinds. General cautions for alliums apply: heartburn in sensitive people, and care with bleeding disorders and blood-thinning medication. Do not use it for snakebite or rabid-animal bites. Seek emergency care. Because the species is not clearly identified in the texts, do not forage it on the strength of this entry.

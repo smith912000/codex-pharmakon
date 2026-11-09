@@ -106,6 +106,10 @@ The honest energetic observation is organoleptic: the cured pod is sweet-aromati
 
 **Practitioner's note.** Nothing. Vanilla is a food and aromatic here; the tradition's own record offers no practice to follow.
 
+### Functional–Anatomical Correlate
+
+The entry assigns vanilla no organ-level classification within the humoral systems: no Galenic, Aztec or Ayurvedic degree is attested, and the 'warming, aromatic, nervine' label of later European herbals is recorded as inferred and unreliable. Its stated tissue actions are few and mostly preclinical. Urinary tract: vanillin in ethylene-glycol hyperoxaluric rats reduced hyperoxaluria, hypercalciuria and renal crystal counts at 30 to 300 mg/kg, and the docking scores are treated as predictions only. Skin and wound: vanillin in an engineered nanomicellar 3D-printed dressing inhibited S. aureus and E. coli and healed infected rat wounds, a result the entry attributes to the formulation rather than to vanilla. Skin contact: vanilla is listed among plant flavouring allergens, though the one case report attributed the reaction to Balsam of Peru. Ethanol in extract is noted for those avoiding alcohol. The entry refuses aphrodisiac, nervine and antidepressant claims as unsupported, and records no contraindication to culinary use in any population.
+
 ### Contraindications
 
 **Vanilla is a food, and at culinary exposures it carries no meaningful toxicological concern.** The cautions below are correspondingly minor and are recorded for completeness rather than because vanilla is hazardous.

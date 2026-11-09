@@ -49,6 +49,10 @@ No botanical identification is made, so no modern scientific statement can be ma
 
 **Practitioner's note.** An unidentified plant that holds a seat in a group and in two stone recipes. There is nothing here for a cultivator to take or do. The entry is held open so that a reader who can identify the Sanskrit plant can attach it; until then it is a name with a use-list and no species.
 
+### Functional–Anatomical Correlate
+
+Bhalluka is mapped to the urinary tract and the humours through two groups. Sutra chapter 38 places it in the Viratarva'di group, whose stated action is to subdue deranged Vata and to cure Ashmari, Sharkara, Mutrakrichhra, Mutraghata and urinary troubles; the entry gives this action for the group, not for the plant alone. In Chikitsa chapter 7 it is one ingredient in a clarified-butter preparation for Vataja Asmari (urinary calculi), said to bring about the disintegration of the stone, and one ingredient in a decoction for Pittaja Asmari. No taste, potency or post-digestive taste is printed for it, and no tissue beyond the urinary tract is named. The plant is not identified and is kept apart from the marking nut, Bhallataka. No rasayana or vajikarana placement is stated, and the Codex gives no protocol.
+
 ### Contraindications
 
 - **Identity unknown.** Do not use any plant on the strength of this entry, and do not assume it is the marking nut, which is a strong irritant of skin; the text does not equate them.

@@ -108,6 +108,10 @@ Codonopsis 15 g + Poria cocos (Fu Ling) 9 g + Atractylodes macrocephala (Bai Zhu
 
 ---
 
+### Functional–Anatomical Correlate
+
+Codonopsis acts on the middle burner, the Spleen and Lung channels, and the Qi that the Spleen generates from food. In Chinese terms it supplements the middle, augments Qi, nourishes Blood and promotes the generation of body fluids. Modern correlates in the entry include the digestive tract, where its inulin and fructo-oligosaccharides feed gut bacteria and are said to ease bloating and support absorption. The immune system is addressed through polysaccharides described as activating macrophages via TLR4 and upregulating NK cells. Skeletal muscle glucose uptake is linked to AMPK activation. In the brain, an aqueous extract is said to protect cholinergic signalling in scopolamine-impaired mice. The Tibetan frame places it among supplement-roots that warm digestive fire and support the lung-breath complex, though the entry itself doubts that this identification is secure. The entry advises against supplementing during an acute external invasion and in excess heat.
+
 ### Contraindications
 
 - **Excess Heat patterns (TCM):** Codonopsis is a warming tonic; it is contraindicated in conditions of excess Heat, high fever, or Yin deficiency with vigorous Fire — use may exacerbate heat signs, irritability, or hypertension in these constitutions

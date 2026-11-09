@@ -67,6 +67,10 @@ According to PubMed, the best-evidenced pharmacology of *N. cataria* is arthropo
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps catnip onto the digestive tract, the nervous gut and the skin. Its carminative action is described as easing spasm and colic in the gut and settling the stomach, and the Avicennan frame calls it warm and dry, dispersing cold flatulence. Dioscorides and the Unani records say it provokes sweat, so its diaphoretic action reaches the skin and surface at the onset of a feverish chill. It is described as a low-intensity nervine, a parasympathetic down-shift that loosens the digestive-nervous axis where restlessness and nervous tension sit. Emmenagogue action, read as acting on the uterus and menses, underlies the pregnancy caution. The Chinese diaphoretic logic is attached to a different species, jing jie, not to catnip. The entry grades the calmative and infant-colic uses as traditional, not shown in human trials. Traditional energetics: warm and dry in the second degree.
+
 ### Contraindications
 
 - **Pregnancy — caution/avoid.** Catnip carries a documented emmenagogue and traditional uterine-stimulant reputation across the Dioscoridean and Unani traditions; it should be avoided in pregnancy as a precaution.

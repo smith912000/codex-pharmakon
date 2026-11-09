@@ -60,6 +60,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+The claimed sites are the eyes and the skin swellings. Dioscorides says the stone is 'good rubbed on for discharges and ulcers of the eyes', mapped to the eye surface, the conjunctiva and cornea where discharges and ulcers arise. In the Unani frame of the Canon's entry al-Ḥajar al-labanī, the stone helps the beginning of hot swellings and pustules, but does not carry them to cure, and as a collyrium with water it 'prevents the flow of superfluities to the eye' and the sores that arise there. The eye is the destination of a flux that the entry describes in humoral terms. No temperament or degree is printed. The Greek chapter gives the taste 'sweet' and no action quality for the stone; sweetness maps to taste, not to a tissue. The chapter names no other organ, system or subtle-body term, and carries no cultivation status in either frame. Melitites, the neighbouring chapter on a related milk-giving stone, is not carried into this mapping.
+
 ### Contraindications
 
 - **Unidentified material:** the identification is uncertain; an unknown mineral should not be put in or near the eye.

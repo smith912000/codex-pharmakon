@@ -50,6 +50,10 @@ Shell material is largely calcium salts and keratin and has no established medic
 
 ---
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that the project's Assyrian list names turtle shell powder, given as Testudo sp. shell calcined, with a source reference to a popular website and an id-uncertain flag. The list gives no Assyrian name, and no prescription naming the material was read in the Assyrian text. No use, body system, organ, humour, dosha or qi term is attached to it in the sources retrieved. The calcining is the list's own word, and no preparation, quantity or site of application is given. The attestation is a single row, so the entry maps no organ or function and states nothing about what the material does on the body.
+
 ### Contraindications
 
 - **Conservation and law:** most turtles and tortoises are protected, many species are threatened, and trade in shell is controlled by international and national law; the status for any species was not retrieved here. [USER: verify]

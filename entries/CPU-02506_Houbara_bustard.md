@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify] That a game bi
 
 **Practitioner's note.** Nothing to cultivate beyond ordinary food. The cultivation question here is restraint: the text records a meal, and the bird is now a conservation concern.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry gives a temperament and a digestive judgement only. Ibn Qayyim calls the flesh hot and dry, with no degree given, and hard to digest (ʿasir al-inhidam), which places its action on digestion and the stomach. He says it benefits people of exercise and fatigue (ahl al-riyada wa-l-taʿab), a general statement about bodily exertion that names no organ, tissue or channel. The Prophetic report cited in the entry says only that the Prophet ate the flesh with a companion, and attaches no body action to that meal. Blood, heart, joints and skin are not mentioned. The entry gives no preparation and no dose, and nothing is attributed to the flesh beyond these lines. No other organ or system is named, and no constituent is given for the flesh.
+
 ### Contraindications
 
 Historical record only. The text itself notes the flesh is hard to digest. The houbara is threatened (the IUCN lists the African and Asian houbaras as Vulnerable) and its hunting is regulated or banned in many countries; do not take this entry as a reason to hunt or eat it. [USER: verify the current IUCN category.] Do not treat any use here as medical advice.

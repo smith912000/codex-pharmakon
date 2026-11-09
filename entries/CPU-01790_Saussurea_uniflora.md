@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the line read gives a cultivator a practice with this plant. It is a fever and poison drug in a single short line, with no preparation and no dose, and the pairing of its Latin name with any Men-Tsee-Khang name is open. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the single line read gives only three actions. Clark's line for lug.rtsi says the drug cures infectious fever, poisoning and chronic fevers. The bracketed commentary, placed before the verb, says the flowers are dark and fragrant and that all three types share these actions. No organ, tissue or body system is named, and no taste, power, part of the plant or preparation is given. The verb is printed in the plural, and the entry does not repair the grammar. The Men-Tsee-Khang edition has no row for this drug, and its near name La tsi is not paired with it, so none of its claims are carried over. The one Latin name is set by Clark alone. Historical record only; fever, infection and poisoning need medical care, and no dose or protocol is given.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Fever, infection and poisoning need medical care; the identity rests on one Latin name in one edition, no preparation or dose is given, and no plant should be gathered or used on the strength of this entry. No conservation information and no safety information for pregnancy were read. [USER: verify]

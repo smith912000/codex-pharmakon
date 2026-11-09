@@ -81,6 +81,10 @@ The bulb's **isosteroidal alkaloids** are the documented basis of its actions. L
 
 ---
 
+### Functional–Anatomical Correlate
+
+Chuan Bei Mu, by the entry's account, acts on the Lung, which it moistens, on phlegm in the chest, which it transforms, and on heat in the Heart channel. Its TCM actions are to moisten the Lung and stop cough, to clear heat and transform phlegm, and to clear heat and dissipate nodules, for lumps, scrofula and lung abscess. In Tibetan (Sowa Rigpa, a bi sa) practice it is a cooling remedy for hot lung disorders and cough. The Dantian affiliation is Upper Dantian and the Lung, a moistening, cooling, descending agent of the chest and breath. Modern correlates are the isosteroidal alkaloids, verticine, verticinone, imperialine, delavine and peimisine, which underlie antitussive, expectorant, anti-asthmatic and anti-inflammatory actions, and polysaccharides and mucilage, which soothe the airway. The entry also cites preclinical Nrf2/HO-1 activity in macrophages against cigarette-smoke oxidative stress. Cautions are wind-cold coughs with copious watery phlegm, cold-damp phlegm, Spleen deficiency with damp, and co-use with aconite, which the entry lists as a classic incompatibility.
+
 ### Contraindications
 
 - **Wind-cold cough with copious watery/clear phlegm; cold-damp phlegm:** contraindicated — Chuān Bèi is for dry/heat/deficiency coughs; drying-warming coughs need warm herbs.

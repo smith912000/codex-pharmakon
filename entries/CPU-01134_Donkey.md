@@ -48,6 +48,10 @@ General, well-established facts only. No part of the donkey listed here is an es
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The papyrus uses the ass freely for complaints, and the Codex finds no cultivation status in it. For a cultivator the honest use of the entry is as a record. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Ebers papyrus, as C. P. Bryan renders it, applies the ass’s parts to several body regions. For the eyes, a tooth in water is put around the eyes for bleary eyes, jawbone tallow on the temples for “hotness in the eyes”, and blood with collyrium against hairs growing into the eye. Liver warmed with opium rubs on grey eyebrows, and an ear remedy with red-lead and oil is put in the ear. For the head and hair, roasted hoof goes into a scalp salve, a head-and-corn salve treats the uha-disease, and fat with poppy-berries treats a stubborn headache. Dung is the remedy for suppleness of the limbs. Fat in a poultice treats the met, which Bryan says renders as nerves or vessels. Milk in a douche treats vaginal pustules, and semen is given for the Great Debility. The papyrus gives no temperament, taste or energetic quality for any ass part, and no ka, ba, akh or ib action is recorded.
+
 ### Contraindications
 
 - **Infection and hygiene:** dung, blood, and unsterilised animal products should not be put on wounds, eyes or ears; tetanus and other serious infections are a risk.

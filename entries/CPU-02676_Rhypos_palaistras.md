@@ -54,6 +54,10 @@ General, well-established facts only. Dirt and body residues from communal place
 
 **Practitioner's note.** A cultivator does nothing with this. It is a one-sentence topical remedy, and its place in a book of cultivation is that of a curiosity: the place where bodies were trained also gave the physician a substance. Nothing in the record supports a cultivation use.
 
+### Functional–Anatomical Correlate
+
+Little to map: the only body part the chapter names is the joints. It is said to help the joints when applied as a warm compress, which places the claimed action on the joint capsule, the ligaments and the surrounding tissue reached by warmth applied to the skin. The chapter prints no quality, humour or energetic class, and it names no organ, channel or cultivation site. The neighbouring bath and gymnasium chapters name fluids, the perineum, abrasions and ulcers, but that is not carried across to this entry. The warm compress is the only mode of application the chapter gives. The entry notes that the text gives no vehicle, dose or length of use, and that the substance is described rather than identified. The mapped claim is the joints and the warmth applied to them.
+
 ### Contraindications
 
 - **Infection.** Material from communal places is unclean. Do not apply it to the skin, above all not to wounds.

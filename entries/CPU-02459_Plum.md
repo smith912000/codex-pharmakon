@@ -46,6 +46,10 @@ Prunes and plum juice have long been used as mild laxatives, and the laxative ef
 
 **Practitioner's note.** Eat the plum as a food, before the meal, as the *Canon* advises, and expect a loosening of the bowel; the large and fat kind purges more. The one lesson from the entry that bears on practice is its habit of recording a disagreement between authorities and choosing between them by what the fruit does.
 
+### Functional–Anatomical Correlate
+
+The entry maps the plum onto the stomach, the bowel and bile, in Avicenna's Unani terms. The sweet fruit is said to relax the stomach by moistening it and to cool it, though on the whole it does not suit the stomach. The sweet kind purges bile more strongly, and the fresh fruit purges more than the dry. The unripe fruit is described as binding, with little nourishment. The gum acts on wounds, the skin and the sight: it knits wounds, with vinegar it cuts ringworm, and it is used as a kohl said to strengthen the sight. The leaf, gargled, is said to prevent descents to the tonsils and uvula, which places it in the throat. The water of the fruit is said to move the menses, and the gum is said to break the stone of the bladder, which places them in the urinary and womb passages. The entry gives the fruit a temperament of cold and moist in the second degree. No innate heat or radical moisture is named.
+
 ### Contraindications
 
 - **Stone kernel.** Plum kernels contain cyanogenic compounds and should not be eaten in quantity. General knowledge.

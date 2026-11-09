@@ -85,6 +85,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with Ajamoda: it is a minor ingredient in many compounds, and it is never named alone. Nothing should be gathered or taken on the strength of a Latin name that the chapters do not give.
 
+### Functional–Anatomical Correlate
+
+The chapters print Ajamoda only inside compounds, and the text gives no taste, potency or action for it by itself. Its named sites are the digestive tract and bowel, in compounds for colic, gastralgia, griping pain in the intestines, dysentery (Pravahika), Gulma and Udara, the abdominal swellings, and for jaundice and enlarged spleen. It is named for urinary calculus (Sarkara) and for fistula in ano. It acts on the chest in catarrh, cough, asthma, hoarseness and phthisis, on the mouth and throat in gargles, and on the eye in ophthalmia of deranged Vayu. It is named in a heart-disease compound and in antidotes for poison and snake-bite. The Pippalyadi group it belongs to is called a good appetiser and an absorbent of intestinal mucus and unassimilated lymph chyle, which in modern terms places it on the gut and lymphatic vessels.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for Ajamoda. The identity is open, so no plant should be gathered or used on the strength of this entry. Several of the compounds are strong (an alkali, a fumigation, a poison antidote, enema oils) and the text meant them for a physician's use. Dropsy, jaundice, persistent diarrhoea and poisoning need medical care. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

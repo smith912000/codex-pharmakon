@@ -58,6 +58,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+The Egyptian entry has one prescription: a frog warmed in oil and rubbed on burn wounds, which maps to the burned skin and the tissue beneath it. The Unani (Avicenna) entry gives more. A frog's ash put on a bleeding place stops the blood, so the wound and its bleeding are mapped. Its broth poured on swellings helps swellings of the tendons, the tendons and joints. For toothache, river frogs whose boiled water is used to rinse the mouth are said to help, so the mouth and teeth. Eaten or taken whole, it is said to swell the body, lose colour and emit semen until death, a poison whose antidote is said to be salt and oil cooked with it, though that is given for leprosy and venomous creatures. The Canon makes no claim about innate heat, radical moisture or life-prolonging. Egyptian material attaches no vital-constitution claim, and the Unani actions carry no cultivation status.
+
 ### Contraindications
 
 - **Hygiene and infection:** an animal body on a burn risks infection; burns need medical care.

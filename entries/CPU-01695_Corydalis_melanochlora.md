@@ -45,6 +45,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is an epidemic-disease drug in the Men-Tsee-Khang text, and the glossary pairs its name with this binomial only by column order. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the Men-Tsee-Khang text says only that Dhewa cures epidemic disorders in its efficacy passage of chapter 20, and that it is among the medicines that cure contagious disorders in chapter 21. It names no organ, tissue, channel or humour, and no taste, power or part used is printed for it. Clark prints no line for the name or for the binomial. The glossary pairs the name with Corydalis melanochlora only by column position, so no modern anatomy can be brought in from the species. The Tibetan terms epidemic and contagious are not organ-level terms, and the entry does not translate them into a body system. Nothing further is stated. The entry's mapping therefore reduces to a whole-person category of epidemic or contagious illness, which the texts name without locating it in any part of the body.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The identity rests on a column position and the genus is generally known to contain alkaloids, so no plant should be gathered or used on the strength of this entry. A contagious illness needs medical assessment. No safety information for pregnancy was read. [USER: verify]

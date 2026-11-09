@@ -95,6 +95,10 @@ Cool and dry, with a light astringent-bitter edge. Read as a **resolvent and cla
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry places weld mainly in the dye-vat, so its body mapping is thin. Its medical record is external and secondary: a classical reseda poultice for swellings, with the species link left open, and a Northern European folk use as a mild diaphoretic and skin wash, read as drawing sweat to the surface and heat out of inflamed skin. Its doctrine is cool, dry and lightly astringent-bitter, a resolvent that clarifies rather than warms. The modern correlate is the flavone luteolin and its glycosides, which the entry notes give anti-inflammatory and antioxidant activity in isolated form and in preclinical macrophage models, reducing IL-1 beta, IL-6 and TNF. The entry says this does not transfer to whole weld, because luteolin's oral bioavailability is poor. Tissues named: the skin surface (reddened, irritated skin as a wash), sweat glands by folk claim only, and inflamed tissue by isolated-compound data. No internal organ is given a therapeutic role, and the entry assigns no cultivation status.
+
 ### Contraindications
 
 - **Do not confuse the dye-bath with a remedy.** Alum and other metallic mordants used to fix Weld on cloth are not for internal or broken-skin use.

@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. The useful lesson is Dioscorides' method of testing a bulb by taste and tongue, and his one warning that too much of it "hurts the sinews". The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Dioscorides' chapter 2-200 places a food-medicine on the stomach and bowels. The red bulb from Africa is said to be good for the stomach and bowels, and the bitter bulb like squill is said to be better for the stomach and for digestion. All the bulbs are called sharp and warming, harsh to the tongue and tonsils, very nourishing and flesh-replenishing, but wind-breeding, and too much of them hurts the sinews. Applied externally, they are said to help dislocations, bruises, sore joints, gout, gangrene, dropsical oedema, piles, ear injuries and skin conditions of the head and face. Boiled with vinegar they are said to help hernia. Modern anatomy would place these claims in the digestive tract, the musculoskeletal system, the skin and the fluid balance of the body, but the chapter names no organ for the aphrodisiac note, which is the translators' gloss. Its terms are the qualities sharp, warming and bitter, and it names no subtle body.
+
 ### Contraindications
 
 The chapter's own warning is that too much of the bulbs "hurt the sinews". It also says that they breed wind and are harsh to the tongue and tonsils. Gangrene, dropsy, hernia, gout and dog bites need medical assessment. The identification rests on a translators' suggestion, so no wild bulb should be eaten or applied on the strength of this entry; many wild bulbs are poisonous. None of the traditional uses above is advice. [USER: verify]

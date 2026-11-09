@@ -38,6 +38,10 @@ General, well-established facts only. There is no evidence that applying the bod
 
 **Practitioner's note.** A cultivator does nothing with this. It is a single remedy for a bite from the same animal, with no preparation beyond cutting the animal apart. What the entry usefully records is the form of the reasoning: the harm and its remedy are placed in the same creature. Treat the bite as a wound, and leave the shrew alone.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that the shrew, cut apart and applied, is a remedy for its own bites. The one body site the text maps is the skin and soft tissue at the bite wound, where the animal is laid. Dioscorides prints no quality, organ, humour or tradition term for the animal, and no system into which its tissue acts. Other chapters name the shrew bite as a hazard: wormwood is given with wine against it, a poultice of garlic, fig leaves and cumin is used for those bitten by the mygale, and in 4-56 the pounded root with vinegar helps the bites. Those are remedies for the bite, not actions of the shrew's body, and none adds an organ. The Codex can therefore record only that the bite is an injury at the skin and wound, and that the text places the animal's tissue there, nothing more.
+
 ### Contraindications
 
 - **Bite wounds:** wash, seek care, and ask about tetanus and rabies; do not apply animal tissue to a wound.

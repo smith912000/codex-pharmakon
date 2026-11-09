@@ -42,6 +42,10 @@ General, well-established facts only. Emery and corundum are abrasives; emery pa
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. Emery is a hard polishing stone that Dioscorides notes for the mouth. The Codex does not recommend putting any abrasive mineral powder on the teeth or gums. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter names only the gums and the teeth. Emery is said to be good for moist gums and for cleaning the teeth, which maps to the gingiva and the tooth surface. It is also said to be good for antiseptic and caustic medicines, but the text does not say what body part those medicines act on, so that claim maps to no site. The stone is used by jewellers to polish gems, a craft use rather than a bodily one. Dioscorides gives no taste, temperament, potency or humour for it, and no tissue beyond the mouth. The neighbouring whetstone of 5-168 is named with the spleen and with epilepsy, but those actions belong to that other stone and are not carried to emery. Modern anatomy therefore maps the entry to the gingiva, the teeth and the oral surface, and to no internal organ.
+
 ### Contraindications
 
 - **Teeth and gums:** abrasive powders wear enamel and cut the gums; do not apply emery, corundum or any stone dust to the teeth or gums.

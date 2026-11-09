@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The Tibetan te
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a cooked-leaf food that the Men-Tsee-Khang text says cures a hot tripa disorder and headache, with no preparation beyond "cooked" and no dose, and its Latin name rests on a glossary pairing. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The only organ-level claim here is in the Men-Tsee-Khang dietetics chapter, which says that cooked Ngoga cures hot disorders associated with tripa and headache. In modern anatomy terms the headache places the claim on the head and its nervous and vascular tissues. The tripa-linked hot disorders are a Tibetan category that the entry does not define, so no organ or system can be named for them from this entry. The entry prints no taste, power, post-digestive effect, channel or subtle-body place. The only preparation word is cooked, and the passage treats the cooked leaf as food, with no method or part beyond that. Clark prints no line for the name. The identity rests on a glossary pairing by order, so the head mapping is one text's claim about one plant of uncertain identity and is not a finding about the leaf's tissues.
+
 ### Contraindications
 
 The sources read print no warning for this drug. The identity rests on a glossary pairing, so no plant should be gathered, cooked or eaten on the strength of this entry. Headache that is sudden, severe or persistent needs medical care. No safety information for pregnancy was read. [USER: verify]

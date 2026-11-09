@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. The root-text layer refers it to a poisonous genus' use, and the identity is unsettled. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the root text names only the part used, the fruit, and says it has the same use as Datura, with no organ, tissue or system named. The sources read give no preparation other than the fruit, and no quantity, frequency or duration. The bracketed commentary adds that the fruit increases digestive heat, an energetic claim, not an anatomical one. The Men-Tsee-Khang line gives the fruit the same therapeutic effect as two other drugs and names no body part. The text does not say how much of Datura's use carries over, and the Codex does not decide it. No body system is named in any line read. The identity is uncertain between three binomials, so no plant can be tied to these correlates.
+
 ### Contraindications
 
 The sources read print no warning for this drug. Datura and henbane, to which the texts compare the fruit, are generally known to be poisonous plants. The botanical identity is uncertain (three binomials in Clark, a different one by position in the glossary), so no plant should be gathered or used on the strength of this entry. No safety information for pregnancy was read. [USER: verify]

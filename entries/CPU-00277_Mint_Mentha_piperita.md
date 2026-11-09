@@ -60,6 +60,10 @@ Attribution: findings from PubMed.
 
 **Practitioner's note.** Nothing. Peppermint is a gut-settling and cooling aromatic in current use; no tradition cited here makes it a substance for conserving or building vitality.
 
+### Functional–Anatomical Correlate
+
+Per the entry, peppermint acts mainly on the gut and on the head and airway. Menthol is a TRPM8 cold-receptor agonist and a smooth-muscle relaxant, and the entry links this to antispasmodic relief of intestinal pain in IBS, the main target of enteric-coated peppermint oil. The Greco-Arab (Avicennan) reading places mint as a carminative and stomachic that settles nausea and weak digestion. The TCM analogue, bo he (Mentha haplocalyx), is cool and acrid and enters the LUNG and LIVER channels, where it disperses wind-heat, clears the head, eyes and throat, and courses Liver qi. The entry's Dantian placement is middle (gut) and upper (head). Because menthol relaxes the lower oesophageal sphincter, reflux is the main adverse event the entry records, and enteric coating reduces but does not remove it. The entry also flags that high-menthol M. x piperita is a later hybrid, so the classical mint tradition is mint-lineage rather than species-identical.
+
 ### Contraindications
 
 - **GERD / reflux / hiatus hernia** — menthol relaxes the lower oesophageal sphincter; reflux is the most reported adverse event (Ingrosso 2022, Weerts 2019). Enteric coating mitigates but does not eliminate.

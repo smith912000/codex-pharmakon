@@ -53,6 +53,10 @@ General, well-established facts only. The jackfruit is a tropical tree of South 
 
 **Practitioner's note.** A sweet fruit that the text counts among the cooling, nourishing foods, and whose oil is named in a list for Vayu with Pitta. It is food in the text's own terms, and the record supports nothing more for a cultivator than the eating of the fruit in season.
 
+### Functional–Anatomical Correlate
+
+Little to map: the Sushruta Samhita states the properties of Panasa only in a food-group passage (Sutrasthana ch.46), where the fruit is sweet and astringent, demulcent, heavy of digestion, cooling in potency, and subdues Vayu and Pitta, and the translator calls the fruit group 'constructive tonics'. Its expressed oil is listed (Chikitsa ch.31) for diseases of deranged Vayu acting with deranged Pitta. No organ, tissue or channel is named for Panasa, and the text gives no organ-level account of the tree or fruit. The only bodily reference is digestion, and the fruit is cited as a simile for hard Kapha-type piles (Nidana ch.2), a shape comparison rather than an action. No organ is assigned on the text's own claims, and none is imported here.
+
 ### Contraindications
 
 - **Latex and allergy.** The tree's sticky latex and the fruit can irritate or sensitise some people; this is general knowledge, not the text. [USER: verify]

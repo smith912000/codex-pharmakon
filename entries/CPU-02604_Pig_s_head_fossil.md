@@ -47,6 +47,10 @@ General, well-established facts only. Fossils are inert mineral objects; they ar
 
 **Practitioner's note.** Nothing for a cultivator to do. It is a named stone for bone and lymph in a list of stone medicines. It is not a practice substance.
 
+### Functional–Anatomical Correlate
+
+Little to map: the line names two sites. It is said to heal bone disorders, which places its claimed action in the skeleton and in bone healing, and to drain lymph accumulations, which places it in the lymphatic system, the nodes and vessels that carry lymph. The Tibetan frame speaks of the three nyes pa and the four treatment branches, and the entry notes that the line prints no taste, potency or post-digestive taste for the stone, and no essence-extraction use. The commentary's colour and shape are not organ claims. The text gives no body part beyond bone and lymph, and no route of application. The lymph is not described further, so no lymph node, vessel or organ is named. Modern anatomy terms therefore cover the skeleton and the lymphatic system only.
+
 ### Contraindications
 
 - **Raw stone and fossil powder.** Not for eating; no preparation is given in the line read.

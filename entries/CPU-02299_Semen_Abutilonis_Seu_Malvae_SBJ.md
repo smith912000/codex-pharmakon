@@ -53,6 +53,10 @@ General, well-established facts only. Because the plant is unidentified, no phar
 
 **Practitioner's note.** An upper-grade entry on paper whose plant nobody can name, whose placement is Sun's reconstruction (Yang puts it in the lowest class), and whose name Tao Hongjing links to a poison. A cultivator should read the grade as a fact about a text and not act on it.
 
+### Functional–Anatomical Correlate
+
+Little to map: the classic names an action on great wind and evil qi, damp impediment (湿痹), and cold pain, and taken long it is said to lighten the body, increase the years and bear old age. None of these is tied to an organ, tissue or channel in the text. Damp impediment and cold pain are the classic's own terms, and the entry does not translate them into a modern joint or muscle diagnosis. The flavour is sweet and the nature warm, and Sun and Yang agree on both. Tao Hongjing's note says that no prescription uses the drug. The entry also flags a possible toxic namesake: Tao ties the name to ye ge, an alias of the poisonous gou wen, and the conclusion is not drawn. Because the plant is unidentified, no body system can be linked to a substance, and the entry gives no protocol or dose.
+
 ### Contraindications
 
 - **POSSIBLE TOXIC NAMESAKE.** Tao Hongjing's note ties the name to *Ye ge* (an alias of the poisonous *Gou wen*). Do not ingest anything sold under the name *gu huo* or *dong kui zi* on the strength of this entry.

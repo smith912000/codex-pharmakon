@@ -39,6 +39,10 @@ No claim is made for wound healing or kidney effects. No clinical studies were r
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. Its lesson is Dioscorides' habit of telling two similar plants apart before using either.
 
+### Functional–Anatomical Correlate
+
+Dioscorides, the only source named for this entry, ties the plant to the kidneys and bladder, the womb, wounds and the nervous system. A decoction of two teaspoonfuls taken as a drink is said to have considerable strength against frequent painful urination and inflamed kidneys. A pounded pessary given with rosaceum and milk is said to soften inflammations of the womb, the uterus in modern anatomy. The plant is also said to heal wounds, with no tissue named. For the chamepitys-like kind, a decoction drunk with vinegar and honey is said to heal epilepsy, which in modern terms is a condition of the brain and nervous system. The chapter gives no humoral, doshic or qi term; the only quality printed is 'somewhat salty to the taste' for the first kind. Whether either kind is the translators' A. vulneraria was not established, so these mappings describe the text's two unidentified plants. The Codex makes no correlation to any of these claims.
+
 ### Contraindications
 
 The identity of the two Greek kinds is uncertain, so no safety statement can be made for them. Kidney inflammation and epilepsy are conditions for a physician, and a vaginal pessary of an unidentified plant is not safe. None of the traditional uses above is advice. [USER: verify]

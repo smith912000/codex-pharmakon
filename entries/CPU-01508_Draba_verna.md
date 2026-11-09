@@ -41,6 +41,10 @@ No study of the plant was opened. No clinical studies were retrieved for this en
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a kitchen herb and a pepper substitute in one ancient text, and nothing more can be said from that text. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the only uses this chapter gives are culinary. Dioscorides says the herb is boiled with barley water, especially in Cappadocia, and that the dry seed is mixed with sauces in place of pepper. The chapter names no organ, system or tissue and states no action on the body. The running head that follows, 'herbs with a sharp quality', is the translation's label and not a claim of the chapter, and the entry does not assign a temperament or quality on that basis. The only physical description is botanical: a herb about a foot high, slender sprigs, leaves like lepidium but paler and more tender, and a tuft of white flowers like elder. No remedy, humour, dosha or qi is given. The translators' identification among several Draba species is uncertain, and no modern pharmacology was read, so nothing is mapped beyond the kitchen.
+
 ### Contraindications
 
 The chapter prints no warning. The identification is only the translators' suggestion among several species, so no plant should be gathered or eaten on the strength of this entry, and many small white-flowered herbs resemble one another. No safety information for pregnancy was read. None of the traditional uses above is advice. [USER: verify]

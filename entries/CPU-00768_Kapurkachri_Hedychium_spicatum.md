@@ -69,6 +69,10 @@ The consistent finding — a cineole- and sesquiterpene-rich rhizome oil with an
 
 ---
 
+### Functional–Anatomical Correlate
+
+Per the entry, Kapurkachri is a warm, dry aromatic whose essential oil works on the chest and respiratory tract, resolving cold viscid phlegm (muhallil) and acting as a carminative and pectoral. Ayurvedic sources class it as katu-tikta, ushna and kapha-vata reducing, used against kasa (cough), shvasa (dyspnoea) and hikka (hiccough), and it acts on digestion by warming a cold stomach and settling wind. Unani terms call it a mufarrih, an exhilarant whose fragrance lifts a heavy spirit, and the Tibetan use targets rlung (wind) and bad-kan (phlegm) disorders such as indigestion, cold cough and foul breath. The modern correlate named is the 1,8-cineole-rich volatile oil, described as a mucolytic and mild bronchodilator, with antioxidant and antimicrobial activity in vitro. The entry states that no controlled human evidence exists. Cineole-rich oil is irritant to skin and mucosa and can trigger laryngospasm in young children.
+
 ### Contraindications
 
 - **Heat / Pitta excess:** as a hot-dry aromatic, contraindicated or used cautiously in inflammatory, bilious, or Pitta-predominant conditions and in dry, depleted (Vata-deficient) states where its drying action aggravates.

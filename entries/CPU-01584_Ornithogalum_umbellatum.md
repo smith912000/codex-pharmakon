@@ -43,6 +43,10 @@ No clinical studies were retrieved for this entry. [USER: verify] It is a genera
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice with this plant. It is a vegetable, described so that it may be known. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: Dioscorides' chapter 2-174 names no organ and no medicinal use. It describes a plant of food: a thin, whitish stalk about two feet high, three or four tender slips at the top, flowers that seem herb-coloured outside and are similar to milk when opened, and a small head between them that is baked in bread. The root is bulbous and is said to be eaten both raw and boiled. The chapter prints no taste, and no warming, cooling, drying, moistening or astringent quality. It names no temperament, no body system and no preparation beyond these two foods. The chapters on either side are also vegetables, and their statements are not carried over. The identification as Ornithogalum umbellatum is the translators' suggestion only. Under the entry's own terms the chapter attributes no action to any organ, and any mapping to a system would belong to the reader, not the chapter.
+
 ### Contraindications
 
 The chapter prints no warning. The identification rests on a translators' suggestion, so no wild bulb should be eaten on the strength of this entry; many wild bulbs are poisonous. None of the traditional uses above is advice. [USER: verify]

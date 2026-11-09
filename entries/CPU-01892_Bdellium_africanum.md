@@ -49,6 +49,10 @@ General, well-established facts only. *Commiphora* gum-resins are aromatic, bitt
 
 **Practitioner's note.** A drug of the physician's chest in Dioscorides, to be known by taste, smell and look, and to be tested against the gum that is passed off for it. Nothing here supports taking it as a cultivation aid; his own listing of it as an abortifacient is the warning.
 
+### Functional–Anatomical Correlate
+
+Dioscorides gives this gum-resin a wide set of sites, in his own terms. He calls it warming and softening. Diluted with the spittle of a person fasting, it dissolves hardness and swelling of the throat and watery ruptures. Applied with its smoke inhaled, it opens the entrance to the vulva, and as a pessary it is an abortifacient that draws out moisture. Taken as a drink it breaks up stones and expels urine, which places the urinary passages in the account. It is effective for coughs, for bites of poisonous creatures, for hernia, for convulsions and side pain, and for accumulated wind in those who have run. As warm compresses it is good for hardness and knots in the nerves, so the nerves are named as a site. Its best kind is bitter, and its burnt smell is sweet. No humoral, doshic or subtle-body system is used, and no organ or channel is assigned beyond the sites he lists. The chapter names no constituent, dose or duration, and the abortifacient use is recorded as a historical fact, not a guide.
+
 ### Contraindications
 
 - **Pregnancy.** Dioscorides records it as an abortifacient (line 4161). Avoid in every sense. [USER: verify]

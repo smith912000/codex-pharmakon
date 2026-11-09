@@ -51,6 +51,10 @@ General facts only. Raw poultry, eggs and guts commonly carry *Salmonella* and *
 
 **Practitioner's note.** Nothing to do. In Egypt the goose is a fat for dressings and a few drinks, and the Tibetan texts read give it no role. A cultivator may eat goose as food in the ordinary way, and need not follow the Egyptian eye, ear or anus remedies.
 
+### Functional–Anatomical Correlate
+
+Ebers applies goose fat to the eyes, ears, mouth, gums and skin, and uses goose egg and guts on the anus. Goose-grease with red lead is smeared on fat-in-the-eyes (xanthelasma), and goose grease with honey is a cataract poultice; for a discharging ear, incense is ground in goose grease; for the tongue and teeth, a goose-grease chewing remedy follows milk gargles. A goose-grease and lead-vitriol draught and a honey and goose-fat drink are taken inside, a heart remedy includes goose grease, and for debility goose oil is cooked with rotten flesh and swallowed. Dioscorides, not tagged here, gives goose fat for womb disorders, cracked lips and ear sores, and goose blood as an antidote. The Tibetan texts read name the goose only in a glossary, with no medicinal or dietary line, so no Tibetan organ is mapped. The sources give no quality, temperament or vitality role. Lead compounds appear in the eye and purge recipes, and no dose is given.
+
 ### Contraindications
 
 - **Infection.** Raw goose fat, egg, guts and blood carry *Salmonella*, *Campylobacter* and other pathogens; never apply them to the eye, ear, anus or open lesions, and cook goose and eggs thoroughly.

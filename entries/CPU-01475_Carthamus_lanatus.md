@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the chapter gives a cultivator a practice. It is a short chapter on a plant defined by comparison, with a bleeding remedy and a diuretic seed. The abstentive answer is the correct one.
 
+### Functional–Anatomical Correlate
+
+The chapter maps three effects onto body systems. The warmed root drunk as a drink is said to drive out “quantities blood through the nostrils”, which places the action at the nasal passages and the blood vessels that supply them in modern anatomy, though the chapter names only the nostrils. The root is also given “to the splenetic”, which points to the spleen, the organ the word refers to, and the chapter gives no further account of the complaint. The seed, “round and double like a buckler”, is described as diuretic, acting on the urinary system and the kidneys. The only sensory quality recorded for the root is a sharp smell, like nasturtium. Dioscorides prints no warming, cooling or drying quality for the root, and the word “warmed” describes the preparation rather than the plant. He has no humoral, doshic or qi framework here. The chapter defines the plant mainly by comparison with black chamaeleon, and the identity is only a translators’ suggestion, so the mapping rests on an uncertain plant. No dose is given.
+
 ### Contraindications
 
 No contraindication is printed in the chapter. As a general caution, bleeding from the nose that is heavy or recurrent calls for medical assessment and not a home drink, and a diuretic is not advice for pregnancy. The identification is uncertain, so no plant should be gathered or used on the basis of this chapter.

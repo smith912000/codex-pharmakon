@@ -41,6 +41,10 @@ General fact only. No clinical studies were retrieved for this entry. [USER: ver
 
 **Practitioner's note.** Nothing to practise. It is a minor fungus used for washing and as a food.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry names no organ, tissue or body system. Its only bodily statements are humoral. The fungus is 'not bad in humour' as the truffles are, and in its nature it is a leavening (takhmir) or an alkalinity (qalawiyya). Its temperament is given only as lacking the coldness of the other truffles, with no degree. It is eaten in sour dishes (humudat) and is said to give a pleasure like the pleasure of cartilages and more; the text does not say which part of the person receives that pleasure. Its use to wash cloth is external and involves no body. The species is not identified; the cup shape on a small wrinkled stalk does not settle which fungus is meant, so no modern anatomical or pharmacological link can be drawn. No cultivation or innate-heat framing is given. Wild fungi can be deadly, and the entry does not make this one safe to eat.
+
 ### Contraindications
 
 - Wild fungi can be deadly; the species here is not identified.

@@ -36,6 +36,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The only gener
 
 **Practitioner's note.** Nothing here supports a cultivation use, and a cultivator has no reason to seek this material. It is a wound remedy in a materia medica that its own modern translator describes as largely out of use for animal products. The honest entry is a record.
 
+### Functional–Anatomical Correlate
+
+Little to map: the only stated action is that rat skin drains pus, in Clark's rendering all types of pus accumulations, and in Men-Tsee-Khang's rendering simply pus. The organ is the skin, with pus in a wound or abscess. No other system is named.
+
 ### Contraindications
 
 - **Hygiene and infection:** wild and commensal rats carry pathogens (among them the bacteria behind plague, leptospirosis and salmonellosis, and hantaviruses). Handling rodent skins, droppings or carcasses is a real infection risk; wounds are the worst place to apply an untreated animal material.

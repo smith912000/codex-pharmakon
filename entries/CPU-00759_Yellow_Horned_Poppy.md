@@ -46,6 +46,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** There is nothing to cultivate here in the Codex's sense. The one real account is a Greek therapeutic and descriptive one that itself warns of opium-like effects, and the Assyrian and Unani tags are unsupported.
 
+### Functional–Anatomical Correlate
+
+Dioscorides' uses for this horned poppy map onto several body systems. The boiled root, taken as a drink, is said to treat sciatica (the sciatic nerve and the hip and leg it supplies), liver disorders, and urinary difficulty in which the urine is thick or cobweb-like. A decoction of the seed is described as a gentle purge of the bowels, and a root decoction is given for dysentery. Applied externally, the leaves and flowers in oil are said to clear the crusts of skin ulcers, and when rubbed on they remove argema, a small white corneal ulcer, and clouds in the eyes of animals. The entry gives no quality (hot, cold, moist or dry) for this plant; the cooling quality belongs to the neighbouring 3-100 entry. Dioscorides also warns that eating or drinking it produces the same symptoms as opium. The entry notes that the alkaloid profile of this species was not read and that no clinical studies were retrieved.
+
 ### Contraindications
 
 Dioscorides warns that eating or drinking this plant produces the same symptoms as opium (4-66). Plants of the genus are generally regarded as toxic, and the plant should not be eaten, brewed or applied to the eye on the strength of this entry. The plant is a coastal wild flower, and wild plants should not be collected for the purpose. Seek ordinary medical care for sciatica, liver disease, dysentery or any eye complaint.

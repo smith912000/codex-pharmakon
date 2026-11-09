@@ -44,6 +44,10 @@ The identification is ours. Pigment and iridoid chemistry of the fruit is genera
 
 **Practitioner's note.** A cultivator has no practice here. The classic offers a bitter, cold fruit for heat and skin complaints in the middle class, with no long-use claim, no preparation and no dose.
 
+### Functional–Anatomical Correlate
+
+The classic names the stomach (胃中热气, hot qi in the stomach), the five interiors (五内邪气, evil qi in the five interiors), the face (面赤, red face), the nose (one character is lost in the printed text) and the skin and surface tissue (酒泡 wine-blisters, 白赖、赤癞 white lai and red lai, and 创疡 sores and ulcers). In modern anatomical terms these are the gastric tissue, the facial and nasal skin and the skin, but the entry makes no mechanism claim and does not say which organ acts. The text does not identify the five interiors with specific organs, and the Codex does not map them. The only energetic terms given are bitter and cold (味苦，寒). The iridoid and carotenoid remarks in the Active Components section are general chemistry, not the text's account of the body. Lai and wine-blisters are classical names with no modern equivalent given here, and sores and ulcers need medical assessment.
+
 ### Contraindications
 
 The classic does not warn. No safety information for pregnancy, children or other medicines was read, and none is asserted. The fruit is a dye plant, and material sold as a dye may differ from material sold as a drug. Sores, ulcers and skin conditions need medical assessment. No conservation information was read. [USER: verify]

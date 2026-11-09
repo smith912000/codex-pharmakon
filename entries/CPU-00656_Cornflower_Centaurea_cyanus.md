@@ -107,6 +107,10 @@ Its energetic weakness is not a defect to be talked around. It is the accurate c
 
 **Practitioner's note.** Nothing to cultivate in the inner sense. Grow it rather than wild-harvest, and treat the eye water as a sterility hazard, not a discipline.
 
+### Functional–Anatomical Correlate
+
+Cornflower is placed as a mild, cooling, gently astringent flower acting at the surface rather than in depth. Its traditional targets are the eye, as a wash or compress for tired, strained or inflamed eyes, and the digestion, as a mild bitter and appetite stimulant, with occasional diuretic use. The entry classifies it with chamomile and elderflower rather than as a true bitter. The eye doctrine rests on colour resemblance to the iris, and the entry states that no clinical evidence supports treatment of conjunctivitis, eye inflammation, eye strain or refraction. The modern correlates are the blue pigment protocyanin, which has no ophthalmic action, and in vitro phenolic antioxidant and pro-oxidant activity, with low antimicrobial and antioxidant activity in a comparative study. The entry's real eye hazard is to the cornea and conjunctiva: a non-sterile infusion on inflamed eyes can lead to keratitis, which can cost sight.
+
 ### Contraindications
 
 - **Asteraceae allergy.** The standing family contraindication. Sesquiterpene lactones are contact sensitisers; anyone reactive to ragweed, chamomile, feverfew, arnica, echinacea, marigold or chrysanthemum should avoid cornflower — including topically, and **especially** near the eye, where a contact-allergic reaction is considerably worse than the complaint being treated.

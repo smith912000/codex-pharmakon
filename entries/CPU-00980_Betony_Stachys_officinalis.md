@@ -84,6 +84,10 @@ According to PubMed, the modern literature on *Stachys officinalis* specifically
 
 ---
 
+### Functional–Anatomical Correlate
+
+The entry maps betony to several systems, but the evidence is thin. In Galenic and Unani terms it is warm and dry, a mufattih (deobstruent) said to open obstruction of the liver and spleen and to strengthen the head against cold-moist flux. Dioscorides' kestron is given for venom bites, liver and kidney complaints, ruptures, cramps and cough. The Kenetica action is a bitter, mildly astringent, settling infusion before sleep: on digestion through the bitter reflex, and on the nervous system only as a non-hypnotic ritual cup. The tannins give a real local astringency to a gargle or wash on inflamed mucosa and minor grazes. The phenylethanoid and iridoid constituents are antioxidant in vitro, with no human pharmacokinetic or clinical data. The entry records nervine, sedative and panacea claims, including snakebite, hepatic obstruction and nightmares, as unsupported or null. Pregnancy is avoided because the herb is traditionally regarded as a uterine stimulant.
+
 ### Contraindications
 
 - **Pregnancy:** traditionally regarded as a uterine stimulant and avoided. On precaution, **do not use in pregnancy.**

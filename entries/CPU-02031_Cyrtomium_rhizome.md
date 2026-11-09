@@ -48,6 +48,10 @@ General, well-established facts only. Rhizomes of male fern and related shield f
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. This is a lower-class anti-worm and "poison" drug that several authorities in the Wu Pu layer call toxic and that the classic's own preface says is not for long use. The honest use of the entry is as a record.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry's sources give the drug only abdominal and worm-related targets. The Shennong paragraph names abdominal evil heat and says the drug kills the three worms, a category the text does not define; it also governs the various poisons. The Wu Pu layer judges the rhizome bitter and toxic in some authorities and bitter but non-toxic in another. The paragraph names no organ beyond the abdomen and no tissue, meridian or qi channel. Its energetic frame is bitter and slightly cold, which the entry reads as flavour and nature, not as an organ attribution. The lower-classic preface, which says the lower drugs are mostly toxic and not to be taken long, frames the drug's use. The entry says the identity is unsettled: several ferns are sold under this name, and the Wu Pu description of flowers and fruit does not describe a fern as a botanist would. No modern anatomy is attached, and the entry gives no dose, duration, pregnancy information or safety data. Any reading of intestinal worms needs medical assessment.
+
 ### Contraindications
 
 - **Toxic:** the Wu Pu authorities and Yang's English call the drug toxic; fern rhizomes used against worms can poison the person who takes them. Do not take any form of this entry's drug.

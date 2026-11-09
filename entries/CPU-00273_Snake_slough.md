@@ -39,6 +39,10 @@ Shed snake skin is keratin and has no established medicinal effect. Reptile skin
 
 **Practitioner's note.** Nothing here for a cultivator. The two traditions are represented by list rows, and no text read says what was done with the skin or why. If a practice is to be drawn from it, it is the discipline of not building one on a list entry. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: no text read says what the Assyrian or Chinese physician did with snake slough. The attestations are two list rows, one Assyrian with no tablet locus and one Chinese with characters only, and the Assyrian text on disk could not be searched for it. The Classic monograph was unreadable, so no flavour, action or organ is stated. The only property the entry gives is that shed skin is keratin, which is a modern description and not a traditional claim. The Assyrian causal frame, in which illness is classed by agency such as a divine hand, a ghost or an oath, is described in general, but no classification of snake skin within it is attested. Nothing here names an organ, channel, humour or taste, and the entry makes no functional claim for the skin on the body.
+
 ### Contraindications
 
 Wild snake skin is not sterile and can carry Salmonella and other bacteria; it should not be taken by mouth or applied to broken skin on the strength of these sources. Collecting from wild snakes may be restricted by wildlife law; the status has not been checked here. [USER: verify] Moulting snakes can be defensive. The identification of the Shennong drug with any species of *Elaphe* is the spine's, not a text's.

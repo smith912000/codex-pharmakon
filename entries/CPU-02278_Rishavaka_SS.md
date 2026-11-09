@@ -49,6 +49,10 @@ General, well-established facts only. A plant named without a description in a t
 
 **Practitioner's note.** An unidentified drug in a Vayu-Pitta group and in several ghee and paste recipes. There is nothing in the record for a cultivator to do with it.
 
+### Functional–Anatomical Correlate
+
+The text gives Rishavaka no action of its own. As a member of the Vidarigandhadi group, it is listed under a group virtue: the group subdues deranged Vayu and Pitta and is said to benefit wasting (Shosha, phthisis), Gulma, aching of the limbs, difficult breathing (Urdha Shvasa) and cough. Modern anatomy for these sites is the chest and breathing, the abdomen, the limbs and the airway. These are group-level statements and are not assigned to Rishavaka alone. In recipes, it appears as one ingredient of a medicated ghee used as an errhine, which the classic applies to the nasal passage, and in compound lists in Chikitsa ch. 37, where the recipes' actions are not given for Rishavaka. The Codex reads the spelling Rishabhaka, in a paste with Kakoli and Jivaka, as probably the same name, which the text does not state. The plant is unidentified, and the text gives no description, part used or single dose. The entry does not translate the classic's terms into modern diagnoses.
+
 ### Contraindications
 
 - **Identity.** The plant cannot be identified from the text; do not guess a species. [USER: verify]

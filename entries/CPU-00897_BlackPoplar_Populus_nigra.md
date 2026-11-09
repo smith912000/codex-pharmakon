@@ -69,6 +69,10 @@ According to PubMed, poplar-bud chemistry and bioactivity are well characterised
 
 ---
 
+### Functional–Anatomical Correlate
+
+Black Poplar acts on the skin and surface tissues: bruises, haemorrhoids, chapped or inflamed skin, minor burns, aching joints, and the throat and mucosa in spray form. Galenic and Unani terms: warm and drying, resolvent (mohallil), mildly analgesic, ripening and dispersing inflammatory swellings. Dioscorides records a warming, pain-soothing topical for bruises and inflammation. Chinese use is by family analogy with willow, clearing heat and dispelling wind-damp for inflammatory pain and skin sores. Modern anatomy maps the anti-inflammatory action to salicylates and flavonoids in the bud resin; the entry cites reduced LPS-induced IL-6 with an oral spray and sub-MIC biofilm inhibition as mucosal-protective. Internal small-dose expectorant and febrifuge use is recognised but subordinate. The salicylate content brings aspirin-class cautions: reactions in salicylate-sensitive people, Reye's syndrome risk in children, anticoagulant bleeding risk, and skin cross-allergy with propolis or balsams. The entry assigns no cultivation status.
+
 ### Contraindications
 
 ⚠️ **SALICYLATE-CONTAINING RESIN — treat with aspirin-class caution.**

@@ -67,6 +67,10 @@ Net grade: the antioxidant/carotenoid biology is genuine; the population effect 
 
 **Practitioner's note.** Nothing. The tomato is a food, and no regimen role is attested.
 
+### Functional–Anatomical Correlate
+
+Per the entry, the tomato is a cooling, moistening, sweet-sour food with no classical medicinal organ target. Its Aztec record is culinary, and the entry denies any classical Chinese or Ayurvedic tradition. The bodily correlates it gives are chemical rather than organ-based: lycopene, a carotenoid antioxidant made more bioavailable by cooking in oil, and alpha-tomatine, a membrane-disrupting steroidal glycoalkaloid concentrated in leaves and green unripe fruit that declines as the fruit ripens. Cancer-epidemiology data show a modestly lower overall cancer risk with high lycopene levels (RR 0.89), while the prostate association is near null. A TMPRSS2:ERG-positive subtype signal comes from one cohort. Contraindications concern leaves, stems and green fruit, acid reflux and nightshade sensitivity.
+
 ### Contraindications
 
 - **Never ingest leaves, stems, or the green unripe fruit in quantity** — high steroidal glycoalkaloid (α-tomatine) content; the vindicated core of the old poison-fear. Green-fruit dishes should be cooked and eaten in modest amounts only.

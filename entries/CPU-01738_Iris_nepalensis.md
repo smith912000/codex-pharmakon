@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The one printe
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. The Tibetan name appears in a list whose heading cannot be read, and the pairing with this binomial is by column position. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+Little to map: the only running-text line for the Tibetan name 'Dre dru' is a group list in chapter 21 of Men-Tsee-Khang, at line 3638, that names a group of medicines said to cure a disorder printed as 'cm disorders'. The entry states no action of its own for the name, and no taste, power or part used. The disorder word is garbled in the print, so no organ or tissue can be read from it. Clark 1995 prints no Tibetan name of this form. The glossary pairs the name with Iris nepalensis by column position only, so the botanical match is not printed in one row. The entry states no body system, organ or tissue, and no modern anatomy can be joined to it.
+
 ### Contraindications
 
 The sources read print no warning for this drug. No preparation or dose is given, and no plant should be gathered or used on the strength of this entry. Because the name-to-plant pairing rests on column position, a plant could not be matched to the Tibetan name from this entry in any case. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

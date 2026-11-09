@@ -55,6 +55,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As a general f
 
 **Practitioner's note.** What a cultivator can take from the chapter is the habit of attention it models: know where a drug comes from, know how it is made, know how it is faked, and test it with the senses and with fire before relying on it. The chapter gives nothing else, and the preparation should not be copied from this entry, because the plant is not securely identified and the text gives no dose for it.
 
+### Functional–Anatomical Correlate
+
+Dioscorides, for the boiled juice of a thorny shrub called lycium, lists the organs it reaches. The eyes take most of it: the juice removes things that darken the pupils, heals scabs on the eyelids, and the froth skimmed off is kept for eye medicines. Other sites are the ears (pus-filled), tonsils, gums, lips, the perineum, the bowel (colic and dysentery), the coughing and blood-spitting airway, the skin (hangnails, whitlows, shingles, putrefying ulcers), the hair, and the menstrual flow, which it stops. The Indian kind is said to act on the spleen and the head and to expel women's flows, and half a wineglass of its seed purges watery matter. Energetically the chapter gives one quality: astringent, with a bitter taste, and bitter fruit. The Unani Canon (CM) entry for boxthorn (awsaj) gives only a leaf poultice for erysipelas and herpes and a folk claim about sorcery, with no temperament or organ. The identity is the translators' suggestion. The Codex gives no protocol for any use.
+
 ### Contraindications
 
 Chapter 1-132 prints no warning. It records a use for stopping the menstrual flow, a purge for the Indian kind, and a swallowed preparation for the bite of a mad dog or "mad beasts", and each of those is a medical matter. A bite from a possibly rabid animal needs urgent medical care, and the chapter's remedy is not a substitute. The identification is only the translators' suggestion between two species, so no plant should be gathered or used on the strength of this entry. The chapter gives no dose for the first drug. No safety information for pregnancy was read. [USER: verify]

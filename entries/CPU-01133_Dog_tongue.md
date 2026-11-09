@@ -44,6 +44,10 @@ General, well-established facts only. No animal tissue is an established wound t
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The dog's tongue is a short clause in a list of organs and meats, and its tradition describes animal products as largely replaced. The honest use of the entry is as a record. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The entry gives the dog’s tongue one attested action: it heals wounds. Clark’s English reads “heals all types of wounds”, while the Men-Tsee-Khang text reads “heals wounds”; the entry notes the difference and does not resolve it. The count of ten names is a commentary interpolation and is not an action. The organ is the tongue, a skeletal muscle covered by mucous membrane, and the wound action maps to wounds of the skin and soft tissue in general, with no site given. Neighbouring tongues in the same line act on the tongue itself (wolf’s tongue for tongue swelling) and on bone (pig’s tongue for bone warts or fragmented bone), but those belong to other animals and are not transferred. No Tibetan energetic term, taste, potency or post-digestive taste is printed for the dog’s tongue. No cultivation framing is attested.
+
 ### Contraindications
 
 - **Wounds:** do not apply animal tissue to a wound; seek ordinary wound care and, for bites or deep or dirty wounds, medical review.

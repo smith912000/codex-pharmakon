@@ -73,6 +73,10 @@ The plant's most-studied constituent, **bergenin**, is reviewed comprehensively 
 
 **Practitioner's note.** Nothing to cultivate; the stone-breaker reading in this entry belongs to the Himalayan Ayurvedic name, not to the Tibetan text read.
 
+### Functional–Anatomical Correlate
+
+Bergenia, by the entry's account, acts on the urinary tract and water pathways, the gut and the Lower Dantian, in heat-type and damp-flux conditions. Its Tibetan rGyud-bzhi frame is a cooling astringent for fevers, diarrhoea, cough and lung and lower-tract disorders, and for wounds and mucosal surfaces. The Himalayan Ayurvedic pashanbhed is classed as cooling, astringent and bitter, lithotriptic (ashmarighna) and diuretic (mutrala), pacifying Pitta and Kapha. The entry's modern correlates are bergenin, with antioxidant and anti-inflammatory activity and a wider preclinical spectrum; arbutin, the basis of the urinary-antiseptic reputation; and gallotannins, the basis of astringency for the gut, bleeding and wounds. The stone-breaking claim is described as a doctrine of signatures and preclinical, not clinically shown. Cautions are constipation and cold-dry bowel patterns, prolonged arbutin use, pregnancy, and obstructing urinary stones, which need urological evaluation.
+
 ### Contraindications
 
 - **Constipation / cold-dry patterns:** the strong astringency can aggravate constipation and dryness; not for cold-deficient bowel patterns.

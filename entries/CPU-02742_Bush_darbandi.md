@@ -42,6 +42,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** A hoof-derived remedy for hot swellings and hot gout. Nothing supports a cultivation use, and the substance is not identified.
 
+### Functional–Anatomical Correlate
+
+The Canon maps this substance onto hot swellings, hot pustules and the joints, specifically hot gout. The text says it is used on hot swellings and hot pustules, and that it is beneficial for hot gout in the joints. The passage gives no temperament, so the only qualities in it are the heat of the conditions treated. The substance is said to be brought from Armenia and to be found in sheep's hooves, and the word shāf that names it is unclear in the text and may be damaged. No internal organ, humour, faculty or subtle-body status is named. The darbandī element looks like a place name but is not explained. The Codex names no constituent and no analytical source, and it states that the substance is not identified. Only the external use on the skin and the joints is reported, with no dose, method or preparation beyond being used on the affected place.
+
 ### Contraindications
 
 Source-animal hygiene cautions apply (do not apply animal material to broken skin). The text states no contraindication. [USER: verify]

@@ -58,6 +58,10 @@ No clinical studies were retrieved for this entry. [USER: verify] General facts 
 
 ---
 
+### Functional–Anatomical Correlate
+
+The chapter names no organ or disease. Its actions are four: it represses, is a little corrosive, forms scabs and is ulcerating. Each acts on the surface of the body, chiefly the skin and the open ulcer or wound, since scab-formation and ulceration are skin and soft-tissue events. Repressing is the reduction of growth, so by the chapter's own wording it acts on growths at the same surface sites, though the chapter does not name them. The preparation names two other materials as a method: it is burned like chalcitis and washed like cadmia. Those chapters' actions are not carried to kyanos here, since the cross-reference gives method and not effect. The material is said to be formed from brass minerals and found in Cyprus. Nothing about internal organs, humours or hot and cold qualities is printed.
+
 ### Contraindications
 
 - **Toxicity:** copper salts are corrosive and poisonous if swallowed; the chapter's own words are "corrosive" and "ulcerating".

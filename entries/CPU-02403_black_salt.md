@@ -50,6 +50,10 @@ General, well-established facts only. Sodium chloride is the main compound of ta
 
 **Practitioner's note.** A heating salt for digestive and phlegm-wind complaints and nothing more in the record. A cultivator is not asked to take it; the text itself places the root of disease in the mind, not in a substance.
 
+### Functional–Anatomical Correlate
+
+The entry maps black salt to the digestive tract and abdomen, in both the Tibetan and English versions. In Clark's 1995 translation, black salt, read with white mineral salt in the root sentence, increases digestive heat and treats abdominal distention, belching, flatulence and phlegm-wind combinations, that is the Tibetan baekan and loong. The Men-Tsee-Khang 2011 text states that kharu tsha generates heat and reduces flatulence, eructation, abdominal distension and the combined disorders of baekan and loong. The stomach and gut are therefore the claimed organ site, with digestive fire as the function named, and the phlegm (baekan) and wind (loong) humours as the disorders. The entry also gives the salty-taste group's general statements by the text's own rule: the salty taste pacifies loong and baekan, aggravates tripa (bile) apart from two other salts, and has a sweet post-digestive taste. No taste or potency is printed for black salt itself, and no channel or organ beyond the digestive tract is named.
+
 ### Contraindications
 
 - **Salt load.** People with high blood pressure, kidney, heart or liver disease should not add salt on this basis. No statement in the sources retrieved. [USER: verify]

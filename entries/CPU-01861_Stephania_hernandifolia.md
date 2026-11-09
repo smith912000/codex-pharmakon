@@ -53,6 +53,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with this plant: it is the name of a group of astringent drugs, used by a physician for Pitta, ulcers and dysentery. Nothing should be gathered or taken on the strength of a Latin name that the chapters do not give.
 
+### Functional–Anatomical Correlate
+
+The Sushruta chapters name Ambashtha only as the first drug of the Ambashthadi group, and give no action for the single drug. Sutra 38 says the groups it heads are beneficial in deranged Pitta, favour the healing of ulcers, bring about the adhesion of fractured bones and cure dysentery with lumps of thick mucus (Pakvatisara), which maps to the skin and wounds, the bones and the bowel. Sutra 42 places the group among astringents. A paste of its drugs in a decoction of the Priyangvadi group, with honey and ghee, is used as a Vasti (enema) (Chikitsa 38), which maps to the lower bowel. In Uttara 40 the group, with the Pippalyadi group and honey, is given in a long-standing Atisara with blood and predominant Kapha, which maps to the intestine and the blood. The text gives no rasa, virya or vipaka for Ambashtha, and the group's claims are not extended to the plant singly. The Latin identification is positional and open.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for Ambashtha or its group. The identity is open, and the genus has alkaloid-bearing members, so no plant should be gathered or used on the strength of this entry. Dysentery and bleeding need medical assessment. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

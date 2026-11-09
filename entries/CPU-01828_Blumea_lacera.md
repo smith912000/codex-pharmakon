@@ -51,6 +51,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity r
 
 **Practitioner's note.** Nothing. The Sushruta text as retrieved gives a cultivator no practice with this plant. It appears as a minor ingredient in treatment lists, and the Latin name behind it is a translator's appendix pairing.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states that the appendix spelling Bhu-kadamba does not occur in the chapters, which print Bhumi-Kadamba, and that the tie between the two is the Codex's reading and not the translator's. It records two passages. In a wound oil cooked with many listed drugs, Bhumi-Kadamba is one ingredient, for a recent or traumatic wound and for a malignant sore or ulcer. In a ghrita cooked with a Kalka and a decoction, Kadamba-pushpi, glossed as Bhumi-Kadamba, is one drug for Pandu-roga, which the chapter heads jaundice. The text gives the drug no action of its own in either list, and prints no rasa, virya or vipaka for it. A separate Mahi-Kadamba appears in other lists, and the entry does not say it is the same drug. It names no constituent, no quantity, no dose, no clinical study and no cultivation status.
+
 ### Contraindications
 
 The Sushruta text retrieved prints no warning for this plant. The identity is open, so no plant should be gathered or used on the strength of this entry. Wound, jaundice and fever treatment need medical care. No conservation information was read. No safety information for pregnancy was read. [USER: verify]

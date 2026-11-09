@@ -102,6 +102,10 @@ Mastic's oleanolic/ursolic acid triterpenoid complex provides hepatoprotective a
 
 ---
 
+### Functional–Anatomical Correlate
+
+Mastic is mapped onto the stomach, the mouth and the liver. Its masticadienonic acid is said to act directly on Helicobacter pylori in the gastric mucosa, with ulcer healing in the Greek and Unani readings of a warm, dry stomach tonic. The TCM map gives Stomach (heat-toxin and Stomach-Fire ulceration), Large Intestine (antimicrobial) and Liver (hepatoprotective, via oleanolic and ursolic triterpenoids). In the mouth, chewing is said to reduce plaque and bacterial load and to inhibit Candida albicans in the oral mucosa, which matches Dioscorides' breath-freshening use. Its anti-inflammatory action is described as NF-κB-linked and as lowering CRP in one trial. Ayurvedic terms are Deepana, Krimighna and Pitta-Kapha shamaka; the entry's Ayurvedic rasayana label for gastric use is explicitly not carried as attested. The Egyptian, Assyrian and Greco-Roman sections record wound and dental use, but no cultivation status.
+
 ### Contraindications
 
 - **Mastic allergy** — contact allergy and occupational sensitization documented in workers handling raw mastic; IgE-mediated reaction; test sensitivity

@@ -50,6 +50,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 **Practitioner's note.** Nothing to take from it for cultivation beyond noting how the herbal grades a smelting by-product by sight. Lead slag is a poison, not a tonic, and nothing here supports using it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter names no organ, tissue or body system. It states two qualities only: the slag is astringent, and more astringent than burnt lead. It says the slag is good for the same things as burnt lead, but its own text does not list those ends. The washing and tableting it describes are preparation, not sites of action. The Greek (DMM) frame prints no warming, cooling, drying or moistening quality for the slag. Burnt lead (5-96) is the only route to any listed site, and the slag chapter does not restate its uses, so no site is mapped here. The sister chapters on silver slag and lead stone are separate entries and are not used for this one. Nothing further is stated in the chapter, and the entry adds no body claim beyond the astringent quality.
+
 ### Contraindications
 
 - **TOXIC.** Lead and its compounds are poisonous. Do not ingest, inhale or apply lead slag. Do not grind, wash or handle it dry.

@@ -50,6 +50,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. If the Sushruta identification holds, the pulse is an ordinary article of diet with a stated effect on the doshas, and the Chinese and Unani tags are unsupported inheritances from an index.
 
+### Functional–Anatomical Correlate
+
+Little to map: the only physiological statement the entry supports is Sushruta's account of Adhaki, which the entry only probably identifies with the pigeon pea, that it subdues the Pitta and Kapha doshas and does not excessively agitate Vata in the organism (ch.46). The entry notes that Adhaki is named among edible pulses and dried foods, with no organ, tissue or channel named, and no rasa, virya or vipaka printed for it in the lines read. The Chinese and Unani tags are described as unsupported, so no body system is attributed to the plant from those traditions. The entry gives no modern pharmacological or clinical data, and states only that pulse seed is generally understood to be rich in protein and starch, a composition it does not assert from the sources read. Its contraindication note concerns only legume allergy. Nothing further can be mapped from the entry.
+
 ### Contraindications
 
 No safety data were read. Pulses are ordinarily eaten cooked, and the Codex does not recommend any therapeutic use of this plant from the passages read. Anyone with a legume allergy should avoid it, and ordinary medical care should be sought for any illness.

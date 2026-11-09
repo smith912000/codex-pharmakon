@@ -80,6 +80,10 @@ According to PubMed, evidence for *Pterocarpus santalinus* is **preclinical and 
 
 **Practitioner's note.** Nothing from the Sushruta text. The ritual-pigment use in the entry is not drawn from it, and the species is CITES-listed, so sourcing, not cultivation practice, is the live question.
 
+### Functional–Anatomical Correlate
+
+In the entry's Ayurvedic frame, Kuchandana acts mainly on the rakta dhātu (blood tissue) through the raktavaha srotas (blood channels), with secondary action on the rasavaha srotas and on the skin (twak). It is used for Pitta and Rakta disorders: heat in the blood, bleeding, burning sensation (dāha), thirst (tṛṣṇā), fever (jvara), visarpa and inflammatory skin eruptions. Applied as a cooling paste (lepa) to the skin, it is credited with complexion support (varṇya) and wound healing (vraṇaropaṇa); taken as a decoction it is described as heat-clearing. Its cooling potency (śīta vīrya) is strong, and it also reduces Kapha. The entry warns that excess dryness can aggravate Vāta and that depleted, low-agni states may be further dampened. Modern anatomy is mapped by preclinical work on heartwood constituents such as santalins, lignans and pterostilbene, where anti-inflammatory and antioxidant directions are the best supported. No human trials are cited. The red heartwood also serves as a non-ingested ritual pigment on the brow, which the entry keeps separate from its therapeutic use.
+
 ### Contraindications
 
 - **Vāta-predominant / cold / dry states:** the strong cooling and dryness can aggravate Vāta and cold conditions.

@@ -66,6 +66,10 @@ There are **no credible modern human efficacy trials** supporting self-use; the 
 
 **Practitioner's note.** Nothing. This is a toxic, lower-grade drug of the tradition's own attacking category, and the grading itself is the caution.
 
+### Functional–Anatomical Correlate
+
+The entry places Kansui in the Lung, Kidney and Large Intestine channels as a drastic, poison-tier downward purgative. Its stated target is excess retained fluid: ascites, pleural fluid, severe oedema of the face and eyes, and phlegm-fluid congestion in chest and abdomen with constipation and fullness. The physiological account it gives is fluid and gastrointestinal: its ingenol and jatrophane diterpenoids are described as severe mucosal and gut irritants, producing violent vomiting, watery diarrhoea, dehydration and electrolyte disturbance, and potential skin and mucosal injury on contact. Because its mechanism is fluid loss, the entry says debilitated, elderly and dehydrated patients cannot tolerate it, and it names diuretics, cardiac glycosides and potassium-shifting drugs as dangerous combinations. Vinegar processing is said to reduce the toxic terpenoid content, which the cited analysis supports. Pregnancy is listed as absolutely contraindicated, and the entry gives no nourishing or self-use role.
+
 ### Contraindications
 
 **This is the load-bearing section for this substance.**

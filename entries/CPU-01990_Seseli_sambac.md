@@ -40,6 +40,10 @@ General, well-established facts only. *Seseli* is a genus of the carrot family, 
 
 **Practitioner's note.** Nothing to do. This is a name without a use in the text on disk.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that Vana-yamani is named in a Sushruta appendix list of drug names, against the Latin synonym Seseli Sambac, and that the pairing was made by counting down two damaged columns rather than printed beside the Latin. The name occurs in no drug group of Sutra chapter 38 and in no recipe read. No part used, no action, no quality, no rasa, virya or vipaka and no preparation are given. No body system, organ, tissue, humour, dosha or qi is linked to the plant by the text on disk. The entry notes only that the plant belongs to the carrot family, a general botanical fact and not a claim of the tradition. Nothing further is supported, and the Codex draws no organ or energetic mapping from the family or genus.
+
 ### Contraindications
 
 - **Identity.** The Latin name is unresolved and the Sanskrit pairing is positional. Do not gather or use a plant on the strength of this entry.

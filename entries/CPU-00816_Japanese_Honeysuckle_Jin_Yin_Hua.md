@@ -47,6 +47,10 @@ None given in CM, SBJ or FMT, since no locus was found.
 
 **Practitioner's note.** There is nothing to cultivate here in the Codex's sense. Nothing in the texts read supports the three tags, and the entry exists to record that gap so that the tags can be corrected or the plant's real locus supplied.
 
+### Functional–Anatomical Correlate
+
+Little to map: no locus was found for this plant in any text read, so the entry states nothing about its action. The Unani, Chinese and Tibetan tags are described as an unverified inheritance from an index row, with no chapter, line or list entry located. The entry notes that flowers of Lonicera japonica are generally known to contain flavonoids and phenolic acids such as chlorogenic acid, but says no source read gives its composition. No use is recorded in any tradition read, and no preparation, dose, clinical study or safety data appears. The Dioscorides honeysuckle, periklumenon, belongs to a different species, Lonicera periclymenum, treated in CPU-00817, and is not transferred here. The entry's only practical line is a referral to ordinary medical care for fever, infection or other illness.
+
 ### Contraindications
 
 No safety data were read. Do not treat any traditional use of honeysuckle flowers as advice on the strength of this entry. Seek ordinary medical care for fever, infection or any other illness.

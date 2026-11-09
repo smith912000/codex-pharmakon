@@ -54,6 +54,10 @@ No clinical studies were retrieved for this entry. [USER: verify] As general fac
 
 ---
 
+### Functional–Anatomical Correlate
+
+The one prescription maps to the eyelid and its lash follicles, the site from which eyelashes were pulled out. The stated aim is to stop the hair growing back into the eye. Dog's blood is one of five bloods (cow, ass, pig, dog and stag) crushed with incense, lizard's dung and collyrium, rubbed together and placed on the lid where the hair was removed. The entry gives no quantity and no proportion for the five bloods, so no organ beyond the lid margin and its follicles is mapped. It states no humoral, doshic or qi classification and no vital-constitution claim. The dog's other parts (dung, toes, hide and a bitch's vulva) appear in separate prescriptions and are not mapped to the blood. Modern anatomy terms: eyelid, lash bulb and the skin of the lid edge, where the entry locates its action.
+
 ### Contraindications
 
 - **Eye safety:** animal blood near the eye risks infection; ingrowing lashes need medical care.

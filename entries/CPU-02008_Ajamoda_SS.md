@@ -43,6 +43,10 @@ General, well-established facts only. Seed spices of the carrot family are commo
 
 **Practitioner's note.** Nothing to do. A common ingredient in compounds for digestion and poisoning, without a cultivation role in the text on disk.
 
+### Functional–Anatomical Correlate
+
+Ajamoda belongs to the Pippalyadi group, which the Sushruta Samhita describes as a good appetiser that absorbs intestinal mucous and unassimilated lymph chyle. The stated range of the group covers catarrh, deranged Kapham and Vatam, poor relish for food, abdominal glands, colic and gastralgia, so the body systems mapped here are the digestive tract and intestines, the abdominal glands, and the Kapha and Vata humours as the text names them in that setting. The drug also appears as an ingredient in compounds for poisoning, for gravel, for the rectum, and in a fumigation for a child's body, which map onto the antidotal, urinary, rectal and external uses of those recipes. The text prints no rasa, virya or vipaka for Ajamoda by itself. The synonym Agnika, which the translator glosses as Ajamoda in the body of the work, is recorded. The Latin name Pimpinella involucrata is only the translator's positional pairing and is not treated here as settled. No dose is given.
+
 ### Contraindications
 
 - **Identity.** The Latin name is the translator's and the pairing is positional; later sources may identify Ajamoda differently. Do not use a plant on the strength of this entry.

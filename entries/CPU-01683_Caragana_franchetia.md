@@ -49,6 +49,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. It is a root drug for fevers of the flesh and channels in the Tibetan texts, and the two texts pair the name with different *Caragana* species. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The rGyud-bzhi root-text clause assigns this drug's root to the flesh and the channels: it 'cures flesh- and channel-fevers' (Clark), and the Men-Tsee-Khang text says the root 'cures hot disorder of the muscle tissues and the channels'. In modern anatomy terms this points to skeletal muscle tissue and the body's channels, which the entry treats as the tissues where the fever lies, rather than to any single organ. The commentary layer, bracketed in Clark's text, describes a thorny bush with a dull yellow flower and white wood set apart from the bark, and gives the bitter taste and cool power; the entry attributes these to the commentary and not to the root text. The entry names no organ, gland or system beyond these tissues and channels, and it gives no humoral, doshic or qi mapping for the root. The identity of the plant is uncertain between several Caragana species, so the mapping is the texts' claim and not a verified action on the tissues.
+
 ### Contraindications
 
 The sources read print no warning. The identity is uncertain, so no plant should be gathered or used on the strength of this entry. Fevers need medical care. No safety information for pregnancy was read. [USER: verify]

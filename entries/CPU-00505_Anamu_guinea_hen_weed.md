@@ -41,6 +41,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this plant. The honest answer is to do nothing with it on the strength of this entry.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only that the list row names Petiveria alliacea (anamu, guinea hen weed) with Brazilian folk medicine and Amazonian use, and cites a 2017 source that is not on disk. No body system, organ, tissue, part of the plant, preparation, complaint or dose is named. No constituent was read and no clinical study was retrieved. The South American tradition carries no humoral or energetic classification. The entry states that folk medicine is not an indigenous-people attribution and that the SA tag may overstate its support. No cultivation status is attested. Its only safety content is a general caution that the row does not state: an unidentified herbal preparation should not be taken in pregnancy, while breastfeeding, by children, or alongside prescription medicines without medical advice. The Volume IX register holds a separate Caribbean-labelled row that the entry did not examine.
+
 ### Contraindications
 
 No safety data were read for the sources of this row. As a general caution, an unidentified herbal preparation should not be taken in pregnancy, while breastfeeding, by children, or alongside prescription medicines without medical advice. This is general caution and is not found in the row. [USER: verify]

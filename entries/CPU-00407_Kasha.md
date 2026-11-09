@@ -56,6 +56,10 @@ No clinical studies were retrieved for this entry. [USER: verify]
 
 **Practitioner's note.** Nothing in the sources read gives a cultivator a practice with this grass. In Sushruta it is a grass of a Pitta-quieting group and an ingredient of a physician's ghee. The abstentive answer is the correct one: any use is a matter for a qualified practitioner, and the text supplies no long-term regimen.
 
+### Functional–Anatomical Correlate
+
+Per the entry's own claims, Kasha acts mainly on the urinary tract, the abdomen and the bloodstream, with a Pitta focus. The Viratarvadi group is said to subdue all Vata disorders and to cure Ashmari, Sharkara, Mutrakrichhra, Mutraghata and urinary troubles, and the Pancha-Trina group is said to kill deranged Pitta and to benefit haemoptysis (coughing of blood) and renal defects. Its root is named as a purgative, so the bowel is the stated site there. A ghee cooked with a decoction of the grass group is given for Pittaja and Raktaja Gulma (abdominal swelling) and for Pittaja Mutrakrichchhra (painful urination), placing the action on the abdominal mass and the urinary passage. The chapter on fomentation names it only as one of the materials for a steam pipe and a mattress, which the entry does not tie to any organ. The text prints no rasa, virya or vipaka for it, and no rejuvenative or generative status is recorded. Its one flowering role, as an autumn marker, has no bodily action at all.
+
 ### Contraindications
 
 No safety data were read. The urinary-stone, painful-urination and purgative uses above are conditions needing medical care, and none of them is advice. A root purgative must not be tried at home, and anyone with pain on passing urine, blood in the urine or loin pain needs ordinary medical care. Tall wild grasses can harbour ticks and cut the skin, and wild harvesting may be restricted. Do not use in pregnancy.

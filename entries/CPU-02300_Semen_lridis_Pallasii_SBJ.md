@@ -53,6 +53,10 @@ General, well-established facts only. *Iris* is a large genus of flowering plant
 
 **Practitioner's note.** A middle-grade seed that carries one long-use promise of a lightened body, in a plant whose identity Yang himself calls questionable. The classic gives no dose and no duration. A cultivator cannot responsibly act on that; the lesson is the grade clause and the doubt about identity, not a recipe.
 
+### Functional–Anatomical Correlate
+
+In the middle-class classic, li shi acts on the skin, with cold and heat in the skin (皮肤寒热), on the stomach, with heat qi in the stomach (胃中热气), and on cold-damp impediment (寒湿痹). It is said to firm the sinews and bones (坚筋骨), which maps to the connective tissue, tendons and skeleton, and to make people fond of food, which maps to appetite and digestion. Its flowers and leaves are said to expel white worms, which the Yang translation reads as pinworms, a parasite of the bowel in modern anatomy. The seed is sweet and balanced in Sun and Yang, while the Wu Pu layer gives sweet, acrid and non-toxic. No channel or organ assignment is printed, and the classic's terms are not translated into modern diagnoses. Yang's footnote doubts the identity, the entry adds that Iris species are generally regarded as irritant, and no modern safety data were retrieved for this entry.
+
 ### Contraindications
 
 - **Identity.** Yang's footnote calls the identity questionable. Do not substitute one *Iris* for another, or any other seed for it. Several *Iris* species are generally regarded as irritant.

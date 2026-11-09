@@ -53,6 +53,10 @@ General, well-established facts only. Caustic or corrosive mineral salts injure 
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. It is a caustic, astringent stone recorded for ulcers, gout and swellings, whose identity is unknown. The Codex does not recommend it. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Dioscorides places this stone and its flower on the outer and wound-bearing tissues: the skin and old, hard-to-close ulcers, where it is said to clean, fill hollow sores and check proud flesh (excess granulation tissue) with honey or wax ointment. It is also said to dissolve small swellings. Gout is mapped to the feet, through a foot bath and plasters with bean meal, and the spleen is named with vinegar and quicklime. For the flower, licked in with honey, the text names the lungs (tuberculosis). Weight loss is claimed for very fleshy, thick bodies when smeared on in a bath, so general body mass is the claimed target. The only quality printed is astringent, the chapter's own word. In modern anatomy the claimed sites are skin, subcutaneous tissue, the feet and joints affected by gout, the spleen and the lungs. The chapter names no other organ system.
+
 ### Contraindications
 
 - **Caustic.** The text says it corrodes; do not apply it to skin, ulcers or mucous membranes, and do not put it in the mouth (the chapter's own test, applying it to the tongue, is not to be repeated).

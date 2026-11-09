@@ -69,6 +69,10 @@ Evidence grade: **preclinical.** The cooling anti-inflammatory / anti-arthritic 
 
 **Practitioner's note.** Nothing to cultivate; a bitter, cooling plateau root with no practice role in the source read.
 
+### Functional–Anatomical Correlate
+
+Per the entry, Qín Jiāo from Gentiana crassicaulis is a bitter, acrid, neutral-to-cool drug entering the Stomach, Liver and Gallbladder channels. Its core target is the hot, damp, inflamed joint, the red, swollen, painful bi of damp-heat, along with sinew stiffness that carries a heat sign. It is said to relax the sinews and unblock the channels, to clear deficiency heat in steaming-bone and afternoon-fever patterns, and to treat damp-heat jaundice, which the entry ties to the liver-associated use of gentian bitters. Within the Tibetan rGyud-bzhi sphere the entry treats it as a cold-natured bitter anti-inflammatory and febrifuge for hot conditions, but the rGyud-bzhi material it read names only congeners of this species. The entry links the joint action to secoiridoid glycosides such as gentiopicroside. Its anti-inflammatory and anti-arthritic activity is preclinical, and human efficacy for this species is not established.
+
 ### Contraindications
 
 - **Cold-type / deficiency-cold patterns (CM).** A cooling, bitter herb is inappropriate in cold-damp *bi* without heat, or in Spleen/Stomach deficiency-cold with loose stools; it can aggravate.

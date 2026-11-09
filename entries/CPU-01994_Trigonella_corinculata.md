@@ -42,6 +42,10 @@ General, well-established facts only. *Trigonella corniculata* is an annual legu
 
 **Practitioner's note.** Nothing to do. A group of aromatic drugs for skin and Kapham, of which this herb may be one, is not a cultivation practice, and the identification is not secure.
 
+### Functional–Anatomical Correlate
+
+If the Sprikka reading of the Appendix's Prikka holds, this herb sits in the Eladi group of twenty-nine aromatic drugs. The metrical text in Sutrasthana chapter 38 says the group subdues Vayu and Kapham, neutralises poison, acts as a cosmetic, arrests skin eruptions such as rash and urticaria, and checks itching. In modern terms that action is aimed at the skin and at the body as a whole, and in the tradition's terms at the Vata and Kapha humours. The entry says the action is stated for the group as a whole, not for this herb, and the identification is an inference from spelling. No part used, no separate action, no rasa, virya or vipaka and no preparation is given for the herb alone. No organ beyond the skin is named for it, and no system is claimed for it individually.
+
 ### Contraindications
 
 - **Identity.** The Sanskrit pairing and the link to the Eladi group are both inferred. Do not use a plant on the strength of this entry.

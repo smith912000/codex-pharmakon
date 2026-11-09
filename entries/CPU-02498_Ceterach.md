@@ -44,6 +44,10 @@ No clinical studies were retrieved for this entry. [USER: verify] Because the pl
 
 **Practitioner's note.** A cultivator does nothing with this entry. It is a drying, cleansing, blistering drug recorded for skin, joint and spleen complaints, its identity is uncertain, and it is not a drug to be taken for the sake of vitality.
 
+### Functional–Anatomical Correlate
+
+Avicenna's entry gives the drug a temperament of hot and dry to the end of the second degree, and an action of cleansing and blistering. The organs it is said to act on are the skin, the joints, the spleen and the bladder. On the skin, applied with vinegar, it removes scaling (taqashshur) and scab or mange (jarab). It is drunk for joint pain (ālāt al-mafāṣil), which the text says it benefits greatly. It is smeared on the spleen (aʿḍāʾ al-ghidhāʾ), where it is said to shrink it. For the bladder (aʿḍāʾ al-nafḍ), Avicenna passes on as hearsay that a hung root calms bladder pain when placed on the ear. The text assigns it no place in conserving innate heat or radical moisture. The modern fern identification is not supported by the description, which gives wood and bark pieces and cress-like leaves, so the label is not used to map the drug further. No dose is given.
+
 ### Contraindications
 
 Historical record only. The drug is described as hot and dry to the end of the second degree and as blistering (*muqarriḥ*), so applications to the skin may irritate or blister it. The identity of the plant is uncertain, so safety cannot be judged from the name; no traditional safety statement is given in the entry read. Do not treat any use here as medical advice.

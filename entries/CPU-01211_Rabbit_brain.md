@@ -38,6 +38,10 @@ General, well-established facts only. Colic (spasmodic abdominal pain) and dysen
 
 **Practitioner's note.** A cultivator does nothing with this. It is a single indication in a list of animal brains, the two translations disagree about what the indication is, and eating raw brain carries risk with no supported benefit. The honest use of the entry is as a record of what the Tantra says.
 
+### Functional–Anatomical Correlate
+
+Little to map: the only stated indication is that rabbit brain cures colic (Clark) or dysentery (Men-Tsee-Khang), both bowel complaints. The gut is the organ named. The translations disagree on which complaint, and no tissue beyond the brain is named.
+
 ### Contraindications
 
 - **Infection:** raw or undercooked game and offal can carry bacteria and parasites, including tularemia from wild rabbits and hares; do not handle sick wild animals.

@@ -48,6 +48,10 @@ General, well-established facts only. Seawater is a salt solution about 3.5 per 
 
 **Practitioner's note.** Nothing here supports a cultivation use. It is a record of an ancient adulteration-by-design, written down with its own warning. A cultivator can take from it that the author lists the harm ("bad for the stomach and cause wind") next to the use.
 
+### Functional–Anatomical Correlate
+
+The bodily claims in this entry fall on the bowels, the stomach, the head and the fever state. For the harder-tasting wines the text gives use against the signs of approaching acute fevers, if nothing better is at hand; for bringing down the intestines; for "rotten spitters", a phrase the translation keeps as printed and the entry does not explain; for hard bowels; and for anyone affected in the head by Aminaean wines. Against these, the text says the wine is bad for the stomach and causes wind. Dioscorides names no humour, dosha or qi channel and prints no warm, cool, moist or dry quality for the wine. The chapter does not say which of its three making methods gives the harder wine, so no organ is attached to any method. The Codex records these as historical indications only. Seawater adds a salt load, so anyone restricting salt or with heart, kidney or blood-pressure disease should avoid it, and acute fevers and head complaints need medical care.
+
 ### Contraindications
 
 - **Alcohol.** The usual cautions for alcohol apply (pregnancy, liver disease, medication, driving, dependency).

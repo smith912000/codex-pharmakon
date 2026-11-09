@@ -96,6 +96,10 @@ The carminative mechanism is shared with fennel and caraway. Dill's specific adv
 
 ---
 
+### Functional–Anatomical Correlate
+
+Dill's entry maps its action mainly onto the digestive tract and the nervous system. Digestive: carvone and limonene are said to relax gut smooth muscle, settling post-meal gas and easing colic, and Dioscorides is cited for stopping hiccups. Nervous system: the entry describes GABA-A modulation by carvone and limonene at higher concentrations, a sedative effect that the Ayurvedic text calls nidrajana (sleep-promoting) and the Canon notes explicitly. The entry presents this as its distinguishing sedative action among the carminative Apiaceae, relevant to sleep onset. Lactation: a galactagogue action is cited in Dioscorides, the Canon and Ayurveda. Urinary: the Canon lists diuretic action, and apiol is described as diuretic and uterotonic at high doses. TCM warms the Kidney and Spleen, with lower-abdominal cold noted. Energetically it is Qi, Galenically warm in the second degree and dry in the first.
+
 ### Contraindications
 
 - **Pregnancy (concentrated preparations)** — apiol content; uterotonic at high doses; culinary use safe, medicinal-dose tea and essential oil to avoid

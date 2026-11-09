@@ -115,6 +115,10 @@ Strong decoction of myrtle leaves (20g in 500mL water); cool and strain; use as 
 
 ---
 
+### Functional–Anatomical Correlate
+
+Myrtle's entry maps its action onto the respiratory tract, the gut, the sweat glands and the scalp. In the Chinese channel map it is set to the Lung (antimicrobial and expectorant action on the airways, bronchi and upper respiratory tract) and to the Large Intestine (astringent binding of loose stools), with the Kidney named for sealing the surface against excess sweating, the astringent tannins constricting sweat-gland ducts. Ibn Sina's Unani account, classing myrtle as cold and dry, adds the liver and spleen as sites of anti-inflammatory action and the urinary tract as a site where excessive flow is reduced. Ayurvedically it is classed as Kashaya-Tikta with Pitta-Kapha shamaka action, which the entry presents as a classificatory analogy rather than a placement of myrtle itself. On the scalp, the entry maps myrtucommulone's antifungal action and the tannin astringency onto the scalp surface and hair follicles. The Hebrew ritual use is recorded as communal festal ritual, not as an action on the individual body.
+
 ### Contraindications
 
 - **Pregnancy (essential oil/concentrated preparations)** — myrtle essential oil contains 1,8-cineole which at high doses is a uterine stimulant; avoid concentrated myrtle essential oil during pregnancy; tea preparations at culinary doses are safe

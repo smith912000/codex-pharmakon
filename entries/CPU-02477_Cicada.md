@@ -37,6 +37,10 @@ None is given.
 
 **Practitioner's note.** There is nothing to practise here. The entry is mainly a record of the animal's names in Greek, Syria, Ṭabaristān and Khurasan, which is the part a reader can use.
 
+### Functional–Anatomical Correlate
+
+Little to map: the only use the entry states is that the roasted cicada 'benefits pains of the bladder'. The bladder is the one body part named. The text gives no temperament, faculty, humour, dose or other organ. The rest of the entry names the creature in several languages and says it sings shrilly in olive trees, which describes the animal rather than the body.
+
 ### Contraindications
 
 - Hygiene: eating wild insects poses a risk of infection and allergy (shellfish-type allergy cross-reactivity is known for insects).

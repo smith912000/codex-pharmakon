@@ -38,6 +38,10 @@ Kaolin is an industrial and pharmaceutical-grade clay used in ceramics, paper an
 
 **Practitioner's note.** A lower-grade drug in the Chinese scheme: the Classic ranks it as something taken against a complaint and then stopped, and the tradition's own grading is the warning. Nothing here supports taking a white earth for cultivation, and the identity of the earth is itself uncertain. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The Divine Farmer's Classic (SBJ) places this earth in the female reproductive system. Its named sites are the menstrual process (menstrual block, which maps to amenorrhoea and the uterus and its outflow), the genitals (genital swelling and pain), the discharge path (leaking, meaning vaginal discharge) and fertility (infertility, the uterus and ovaries). It also treats cold and heat in women, and concretions, conglomerations, accumulations and gatherings, which map to the lower abdomen and pelvic cavity. The entry gives no humoral or doshic term, and its grade is bitter and warm. Yang's later-use note reaches the stomach, bowels and skin, but the Classic does not print those sites, so they are not mapped here. In modern anatomy the claimed sites are the uterus and endometrium, the ovaries and fallopian tubes, the vulva and vagina, and the pelvic cavity.
+
 ### Contraindications
 
 Eating clay or chalk can cause constipation and bowel obstruction, interferes with the absorption of other medicines and minerals, and may carry heavy-metal or microbial contamination. The Classic's own grade says the lower class is for short use. The material is unstandardised, and the Classic's uses for amenorrhoea and infertility are not claims of fact; a missed period or failure to conceive needs proper medical assessment, including for pregnancy. The identity of the drug (kaolin or chalk) is uncertain, so no safety statement for the one holds for the other. [USER: verify]

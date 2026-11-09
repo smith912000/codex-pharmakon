@@ -47,6 +47,10 @@ No clinical studies were retrieved for this entry. [USER: verify] The identity o
 
 **Practitioner's note.** Nothing in the lines read gives a cultivator a practice with this plant. The Tibetan name behind the binomial is a root of the "five roots" group and a cooked food in the Men-Tsee-Khang text, and the link to *Angelica glauca* rests on a column position. The abstentive answer is the honest one.
 
+### Functional–Anatomical Correlate
+
+The Men-Tsee-Khang text, under the name Chawa, says the drug cures disorders of the chhuser and cold disorders of the kidney and lower back, so the kidney and lower back are the organs it names. Cooked, it relieves baekan and loong disorders, in the text's own terms, and it belongs to the sweet-tasting group and to the five roots. Clark's lcha.wa entry gives, outside his brackets, cures for lymph disorders and cold disorders of the waist and kidneys. Inside the brackets, which the preface says come from commentary, the drug has hot, bitter and sweet tastes and is said to treat cold phlegm, stomach disorders, first stage oedema, wind diseases, and swellings and distention when applied as a fomentation. The Tibetan name is paired with this binomial only by column position in the glossary, and Clark prints three other Latin names against his drug, so the species correspondence is not established. No preparation, quantity or clinical study was read.
+
 ### Contraindications
 
 The sources read print no warning. The identity rests on a column position and the species is not certain, so no plant should be gathered or used on the strength of this entry. Plants of the carrot family that contain furanocoumarins can sensitise skin to sunlight, a general fact about the family and not a finding about this plant. Kidney and lower-back complaints need medical care. No safety information for pregnancy was read. [USER: verify]

@@ -40,6 +40,10 @@ General, well-established facts only. Rendered fat is an occlusive base for oint
 
 **Practitioner's note.** Nothing is sourced that makes suet a substance for cultivation. What the chapter offers a practitioner is a lesson in preparation, in judging by the nose, and in knowing when a salted fat will hurt. A cultivator who wants beef fat eats it as food and takes no practice from this entry. The lion's fat "antidote" is a report ("they say"), not a use to attempt. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+The chapter maps bull's suet onto the skin and its sores, and onto no internal organ in its own text. The fat is taken from the kidneys, the source the text names, and it is prepared by washing, boiling in sweet-smelling wine and repeated treatment until it discards all rank smell. Salt is used in one form and left out for certain sores where salt would hurt, so the salted fat is for sores that salt suits and the unsalted for those it does not. The general fat chapter, 2-94, says all fat is warming, softening and purifying, that of bulls, cows and calves is somewhat astringent, and the lion's is similar and is an antidote against those who plot treachery, as they say. The leopard's fat has no use of its own. The text gives no humour, potency, taste or post-digestive taste, and no subtle-body or cultivation role.
+
 ### Contraindications
 
 - **Hygiene and infection:** raw or poorly rendered animal fat on an open wound can introduce bacteria and spores.

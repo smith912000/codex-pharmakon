@@ -44,6 +44,10 @@ Greek / Dioscorides (DMM): no quality (warming, cooling, drying, astringent) is 
 
 **Practitioner's note.** A cultivator does nothing with this. The chapter offers no cultivation claim and a remedy for a condition that needs medical care. The one thing worth carrying away is the habit the hedge models: to say plainly when an identification is at second hand.
 
+### Functional–Anatomical Correlate
+
+Little to map: the chapter states one use, that pounded horse growth (a hardened substance at the knees and hooves) taken in a drink with vinegar cures epilepsy. In the entry's terms epilepsy concerns the brain and nervous system. The chapter describes the substance only according to description, so its identity is second-hand. No taste, quality, humour or dose is given, and the only preparation is pounding and drinking with vinegar. The entry states that the word chestnut does not appear in the chapter and that the tree is not the subject. Neighbouring chapters give epilepsy as a use for ass's hoof and ass's liver, which are separate substances.
+
 ### Contraindications
 
 - **Not a recommended practice.** This is a historical record. Nothing here is advice to use horse tissue.

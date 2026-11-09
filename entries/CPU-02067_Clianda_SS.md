@@ -53,6 +53,10 @@ General, well-established facts only. The identity is open, so no pharmacology c
 
 **Practitioner's note.** An unidentified, possibly misspelt name in a group list. Nothing supports cultivation use, and without an identification nothing can be gathered or used. A cultivator reads it as a name in a record.
 
+### Functional–Anatomical Correlate
+
+Little to map: the entry states only the group virtue of the Eladi group, which includes this name. That virtue is to subdue the action of Vayu and Kapha, to neutralise the effects of poison, and to act on the skin by arresting pimples and other eruptions such as rash and urticaria, and by checking the itching that goes with them. The drug is not named in any recipe in the text on disk, and nothing is said of its part, taste, form or potency. The spelling is uncertain, since the e-text may print an OCR or print variant, and the heading 'Elardi' is an OCR slip for Eladi. The entry states that the plant is not identified, that the Sushruta terms are not translated, and that no organ, channel or single-drug claim can be made for it. The Codex gives no protocol and recommends no plant for these uses.
+
 ### Contraindications
 
 - **Identity.** The plant is unidentified and the name may be misprinted; do not substitute any herb for it.

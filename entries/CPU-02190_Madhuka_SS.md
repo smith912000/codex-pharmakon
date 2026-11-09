@@ -55,6 +55,10 @@ General, well-established facts only. Liquorice root is a recognised sweetener a
 
 **Practitioner's note.** A sweet, astringent tree product of unsettled identity, used by Sushruta as a seed oil, a juice for cooling cordials, and a head-purging ingredient. A cultivator has nothing here to take up; the entry's use is to keep the name, and its four contexts, on record.
 
+### Functional–Anatomical Correlate
+
+Through its Nya'grodha'di group, Madhuka (Maula) is linked to ulcers, the uterus and vagina, fractured bone, bodily secretions and haemoptysis (blood from the airways), with astringent action and an effect on the body's burning sensation; the text gives these as group claims. The item itself is also named as a sweet drug in the sweet taste class. Its seed oil is sweet and astringent and pacifies Kapham and Pittam. Its expressed juice, with that of Draksha, is a cooling cordial for fainting (murchchha). As the essence (sara) of the tree it is named among errhines, drugs for head purging. The text gives no organ for the item alone. Kapham, Pittam and murchchha are the text's own terms, and the Codex does not render them as modern diagnoses.
+
 ### Contraindications
 
 - **Identity unresolved.** Do not substitute liquorice or mahua products for it, and do not assume it is plain Madhuka.

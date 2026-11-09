@@ -43,6 +43,10 @@ General facts only: galls are plant growths caused by insects or mites and are o
 
 **Practitioner's note.** A tannin-rich gall used as an astringent. No cultivation status is attested.
 
+### Functional–Anatomical Correlate
+
+The Canon places this gall in the humoral scheme by temperament alone: its heat is moderate or at the start of the first degree, and its drying is at the end of the first degree or above. Its stated action is astringent. According to some, the text says, it stops bleeding, but no vessel or organ is named for that action. For the head, it is gargled with vinegar for toothache, so the teeth are the organ the entry names. For the digestive system, a decoction in water and vinegar is said to be very useful for hardness of the spleen, the only organ the entry names by its anatomical site. The Canon does not describe the tamarisk tree's organs or sap, which have their own rows in the Codex. The identification of this material as a gall rather than the plant is our reading, of medium confidence. The tannin reading is a modern addition of ours, not the Canon's. Historical record only; not a practice.
+
 ### Contraindications
 
 - **Astringent.** The text does not state cautions; tannin-rich preparations can bind the bowels. [USER: verify]

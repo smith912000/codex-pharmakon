@@ -44,6 +44,10 @@ General, well-established facts only. Lanolin is a wax obtained from sheep's woo
 
 **Practitioner's note.** Nothing here is a practice for a cultivator beyond the habit the chapter teaches: know how a material is made, test it by taste, smell and look before using it, and suspect it of adulteration with hard fats and wax. The Codex does not recommend the abortifacient use. No dose is given in the sources retrieved. [USER: verify]
 
+### Functional–Anatomical Correlate
+
+Wool fat, oesypum or lanolin, is mapped by the chapter to the skin of the perineum, vulva, ears, genitals, the corners of the eyes and the eyelids, and to the womb. The text says it can warm, soften and fill ulcers, especially around the perineum and vulva; with goose grease it is for sores in the ears and genitals; and it is good around eyes that have been eaten into and scabbed, and for eyelids that have grown hard and shed their hair. Applied in wool with melilot and butter, it is recorded as an abortifacient that draws out the menstrual flow, so the womb is named as its site. Burnt oesypum gives a soot used in eye medicines, and no quality is given for that soot. The Greek text assays the right product as astringent on the tongue and fat, clean and white to the eye. The Codex does not recommend the abortifacient use or home eye preparations.
+
 ### Contraindications
 
 - **Pregnancy:** the text records oesypum as an abortifacient; the Codex does not recommend it, and any attempt to end or to affect a pregnancy needs medical care.

@@ -38,6 +38,10 @@ General facts only. Many jellyfish deliver painful, sometimes dangerous, stings 
 
 **Practitioner's note.** Nothing here is a practice for a cultivator. The sea lung is a one-line remedy for chilblains and gout and a counterfeit in a smelting product, and the animal cannot be identified. The honest use of the entry is to read it as a record.
 
+### Functional–Anatomical Correlate
+
+Little to map: the Dioscorides chapter states only that the fresh sea lung, pounded and applied, helps chilblains, ulcerated or not, and gout. That maps to the skin of the extremities (chilblains) and to the joints (gout). The text names no quality, humour, organ, channel or dose, and gives no description of the animal.
+
 ### Contraindications
 
 - **Identity:** the animal is not settled (a fish family and "jellyfish" in the same gloss); do not substitute a species on this basis. [USER: verify]
